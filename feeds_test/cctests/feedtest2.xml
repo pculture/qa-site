@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >
+
+<channel>
+<title>CC License metadata: feed test 2</title>
+<description>This is a PCF-governed RSS 2.0 feed to test CC License metadata.  All contents of this feed are for example only.</description>
+<link>http://participatoryculture.org/feeds_test/cctests/feedtest2</link>
+<pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
+<generator>Participatory Culture Foundation</generator>
+
+<item>
+<title>Video 1 - has license</title>
+<link>http://participatoryculture.org/feeds_test/py1.mov</link>
+<guid isPermaLink="false">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
+<description>This is the first test video, it is 842 KB and should download quickly.</description>
+<enclosure url="http://participatoryculture.org/feeds_test/py1.mov" type="video/quicktime"  length="842" />
+<pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license>
+</item>
+
+
+</channel>
+</rss>
+

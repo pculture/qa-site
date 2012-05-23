@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<rss version="2.0" 
+			xmlns:media="http://search.yahoo.com/mrss"
+			xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+			xmlns:dtvmedia="http://particpatoryculture.org/RSSModules/dtv/1.0">
+		<channel>
+		<title>Same URL test 1</title>
+		<description>
+		This is a PCF-governed RSS 2.0 feed to test feed 
+updating.
+		</description>
+		<link>http://participatoryculture.org/feeds_test/feed1</link>
+		<dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed1</dtvmedia:libraryLink>
+		<pubDate>Wed, 19 Apr 2006 12:53:29 -0500</pubDate>
+		<generator>Participatory Culture Foundation</generator>
+<item>
+			<title>Dummy Video</title>
+			<link>http://participatoryculture.org/feeds_test/momfight.mpg</link>
+			<description>This is a dummy video.  It's just here to prevent the real video from autodownloading.
+			</description>
+			<media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+			<enclosure
+			url="http://participatoryculture.org/feeds_test/momfight.mpg" type="video/x-msvideo" length="8"/>
+			<pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+		</item>
+<item>
+			<title>Video 1</title>
+			<link>http://participatoryculture.org/feeds_test/py1.mov</link>
+			<description>Video 1 and Video 2 both point to the same URL
+			</description>
+			<media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+			<enclosure
+			url="http://participatoryculture.org/feeds_test/py1.mov"
+			type="video/x-msvideo" length="848"/>
+			<pubDate>Wed, 18 Apr 2006 13:53:21 -0500</pubDate>
+</item>
+</channel></rss>

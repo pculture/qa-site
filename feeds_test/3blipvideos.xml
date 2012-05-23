@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" 
+   xmlns:html="http://www.w3.org/1999/html" 
+   xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+   <title>ThreeBlip Vids</title>
+   <description>RSS of 3-blip-videos</description>
+   <generator>item_to_rss.py 0.5 February 1st, 2010</generator>
+
+<item>
+   <title>The Joo Joo</title>
+   <description>&lt;br &#x2F;&gt;
+
+An imaginnary animal created by a pupil in Meldrum PS. This strange creature came into being as the result of the learner being involved in a games based learning project that involved the use of Samba De Amigo for the Wii. &lt;br &#x2F;&gt;&lt;br &#x2F;&gt;Here we see how technology can help encourage children to do their very best in writing so that when their creature &#x27;comes to life&#x27; with Crazy Talk then it is at its very best!</description>
+   <pubDate>Mon, 22 Feb 2010 12:04 GMT</pubDate>
+   <enclosure url="http://blip.tv/file/get/Consolarium-TheJooJoo216.flv" length="3425485" type="video/x-flv" />
+</item>
+
+<item>
+   <title>Accessing the lesson activities</title>
+   <description>&lt;br &#x2F;&gt;
+
+&lt;span&gt;Accessing the lesson activities&lt;&#x2F;span&gt;</description>
+   <pubDate>Mon, 22 Feb 2010 12:04 GMT</pubDate>
+   <enclosure url="http://blip.tv/file/get/Ellinz-AccessingTheLessonActivities437.mov" length="25265437" type="video/quicktime" />
+</item>
+
+<item>
+   <title>New York</title>
+   <description>Larger mp4 video from blip.tv to be sure the downloads will not finish while the test is running.</description>
+   <pubDate>Mon, 22 Feb 2010 12:04 GMT</pubDate>
+   <enclosure url="http://a46.video2.blip.tv/6590003411598/Modernika-NuevaYorkCambios03567.mp4?bri=40.7&brs=29635" length="271365437" type="video/x-flv" />
+</item>
+
+
+http://a46.video2.blip.tv/6590003411598/Modernika-NuevaYorkCambios03567.mp4?bri=40.7&brs=29635
+</channel>
+</rss>

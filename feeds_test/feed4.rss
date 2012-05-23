@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+  xmlns:media="http://search.yahoo.com/mrss" 
+  xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+  xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+<channel>
+  <title>Invalid Feed</title>
+  <description>This is a PCF-governed RSS 2.0 feed to test a non-validating feed. All contents of this feed are for example only.</description>
+  <link>http://participatoryculture.org/test_feeds/feed4.rss</link>
+  <dtvmedia:libraryLink>http://participatoryculture.org/test_feeds/feed4.rss</dtvmedia:libraryLink>
+  <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
+  <generator>Participatory Culture Foundation</generator>
+   <item>
+     <title>Video 1</title>
+     <link>http://participatoryculture.org/test_feeds/py1.mov</link>
+     <guid isPermaLink="false">W1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
+     <description>This is the first test video, it is 842 KB & should download quickly.</description>
+     <media:thumbnail url=">http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <enclosure 
+        url="http://participatoryculture.org/test_feeds/py1.mov" 
+        type="video/quicktime"  
+        length="842" />
+     <pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+  </item>
+</channel>
+</rss>
+
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" 
+   xmlns:html="http://www.w3.org/1999/html" 
+   xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+   <title>various-test-videos</title>
+   <description>RSS of various-test-videos</description>
+   <generator>item_to_rss.py 0.5 February 1st, 2010</generator>
+
+<item>
+   <title>Experiment #6... Goes Wrong</title>
+   <description>&lt;div&gt;&lt;img src=&quot;http:&#x2F;&#x2F;frame.revver.com&#x2F;frame&#x2F;120x90&#x2F;28106.jpg&quot; alt=&quot;&quot; &#x2F;&gt;Dropping a string of Mentos through a tube doesn&#x27;t go according to plan&lt;&#x2F;div&gt;</description>
+   <pubDate>Thu, 25 Feb 2010 17:03 GMT</pubDate>
+   <enclosure url="http://media.revver.com/qt/28106.mov" length="1572864" type="video/quicktime" />
+</item>
+
+<item>
+   <title>The Joo Joo</title>
+   <description>&lt;br &#x2F;&gt;
+
+An imaginnary animal created by a pupil in Meldrum PS. This strange creature came into being as the result of the learner being involved in a games based learning project that involved the use of Samba De Amigo for the Wii. &lt;br &#x2F;&gt;&lt;br &#x2F;&gt;Here we see how technology can help encourage children to do their very best in writing so that when their creature &#x27;comes to life&#x27; with Crazy Talk then it is at its very best!</description>
+   <pubDate>Thu, 25 Feb 2010 17:03 GMT</pubDate>
+   <enclosure url="http://blip.tv/file/get/Consolarium-TheJooJoo216.flv" length="3425485" type="video/x-flv" />
+</item>
+
+<item>
+   <title>YouTube - yesterday</title>
+   <description></description>
+   <pubDate>Thu, 25 Feb 2010 17:03 GMT</pubDate>
+   <enclosure url="http://www.youtube.com/watch?v=ONXp-vpE9eU" length="0" type="video/x-flv" />
+</item>
+
+<item>
+   <title>YouTube - Pitbull Feat. Lil Jon - Toma (MTV Version)</title>
+   <description></description>
+   <pubDate>Thu, 25 Feb 2010 17:03 GMT</pubDate>
+   <enclosure url="http://www.youtube.com/watch?v=ULgXo0ZPMLU" length="0" type="video/x-flv" />
+</item>

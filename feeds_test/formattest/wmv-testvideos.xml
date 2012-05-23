@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>wmv test videos</title>
+    <link>http://streams.videolan.org/streams-videolan/reference/asf-wmv/</link>
+    <description>vlc - wmv test videos</description>
+    <generator>Feeder 1.5.6(475) http://reinventedsoftware.com/feeder/</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Thu, 11 Sep 2008 06:43:00 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2008 06:43:00 -0400</lastBuildDate>
+    <itunes:author>Janet Dragojevic</itunes:author>
+    <itunes:keywords>playback, format, test, wmv</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Janet Dragojevic</itunes:name>
+      <itunes:email>jed@pculture.org</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>pinball wmv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/asf-wmv/pinball.wmv</link>
+      <pubDate>Thu, 11 Sep 2008 06:31:42 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/asf-wmv/pinball.wmv" length="817" type="video/wmv"/>
+      <guid isPermaLink="false">pinball-wmv</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>pinball-quality-vbr</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/asf-wmv/pinball-quality-vbr.wmv</link>
+      <pubDate>Thu, 11 Sep 2008 06:31:08 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/asf-wmv/pinball-quality-vbr.wmv" length="2000" type="video/wmv"/>
+      <guid isPermaLink="false">pinballqualityvbr</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>pinball-cbr.wmv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/asf-wmv/pinball-cbr.wmv</link>
+      <pubDate>Thu, 11 Sep 2008 06:30:09 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/asf-wmv/pinball-cbr.wmv" length="797" type="video/wmv"/>
+      <guid isPermaLink="false">pinballcbrwmv</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>niceday.asf</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/asf-wmv/niceday.asf</link>
+      <pubDate>Thu, 11 Sep 2008 06:29:33 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/asf-wmv/niceday.asf" length="1300" type="video/asf"/>
+      <guid isPermaLink="false">nicedayasf</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>WindowsMedia.wmv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/asf-wmv/WindowsMedia.wmv</link>
+      <pubDate>Thu, 11 Sep 2008 06:27:54 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/asf-wmv/WindowsMedia.wmv" length="4452" type="video/wmv"/>
+      <guid isPermaLink="false">windowsmediawmv</guid>
+      <itunes:author>vlc</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

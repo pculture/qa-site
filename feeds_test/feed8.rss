@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+<channel>
+  <title>国网与韩国明</title> 
+  <description>This is a chinese character test feed 国网与韩国明 </description> 
+  <link>http://participatoryculture.org/feeds_test/feed1</link> 
+  <dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed1</dtvmedia:libraryLink> 
+  <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate> 
+  <generator>Participatory Culture Foundation</generator> 
+  <item>
+  <title>国网与韩国明</title> 
+  <link>http://participatoryculture.org/feeds_test/py1.mov</link> 
+  <guid isPermaLink="false">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid> 
+  <description>国网与韩国明国网与韩国明国网与韩国明国网与韩国明</description> 
+  <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg" /> 
+  <enclosure url="http://participatoryculture.org/feeds_test/py1.mov" type="video/quicktime" length="842" /> 
+  <pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate> 
+  </item>
+</channel>
+</rss>

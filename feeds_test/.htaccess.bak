@@ -1,0 +1,18 @@
+Header set Cache-Control no-cache,no-store,private
+AddType application/xml .rss
+AddType application/x-bittorrent .torrent
+
+AuthType Basic 
+AuthName "Restricted Area" 
+AuthUserFile /data/pculture/feeds_test/.htpasswd
+
+<Files torrentpasswordrss.rss>
+Require valid-user
+</Files>
+<Files password.rss>
+Require valid-user
+</Files>
+<Files TogetherWeRide.mov>
+Require valid-user
+</Files>
+

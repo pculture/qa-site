@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<versions xmlns="http://vmserver.getdemocracy.com/versionfile/1.0" >
+<version platform="osx" updateurl="http://vmserver.getdemocracy.com/downloads/osx.php" serial="20070071055" version="0.8.5" >
+</version>
+<version platform="windows-xul" updateurl="http://vmserver.getdemocracy.com/downloads/windows.php" serial="20070071000" version="0.8.5" >
+</version>
+</versions>

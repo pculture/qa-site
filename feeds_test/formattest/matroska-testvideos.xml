@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>vlc - matroska test videos</title>
+    <link>http://streams.videolan.org/streams-videolan/reference/matroska/</link>
+    <description>matroska test videos from the vlc qa website</description>
+    <generator>Feeder 1.5.6(475) http://reinventedsoftware.com/feeder/</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Thu, 11 Sep 2008 09:37:43 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2008 09:37:43 -0400</lastBuildDate>
+    <item>
+      <title>theora.mkv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/matroska/theora.mkv</link>
+      <pubDate>Thu, 11 Sep 2008 09:37:43 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/matroska/theora.mkv" length="9" type="video/mkv"/>
+      <guid isPermaLink="false">theoramkv</guid>
+    </item>
+    <item>
+      <title>mewmew-vorbis-ssa</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/matroska/mewmew-vorbis-ssa.mkv</link>
+      <pubDate>Thu, 11 Sep 2008 09:36:55 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/matroska/mewmew-vorbis-ssa.mkv" length="9" type="video/mkv"/>
+      <guid isPermaLink="false">mewmewvorbisssa</guid>
+    </item>
+    <item>
+      <title>Matrix.Reloaded.Trailer</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/matroska/Matrix.Reloaded.Trailer-640x346-XviD-1.0beta1-HE_AAC_subtitled.mkv</link>
+      <pubDate>Thu, 11 Sep 2008 09:35:04 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/matroska/Matrix.Reloaded.Trailer-640x346-XviD-1.0beta1-HE_AAC_subtitled.mkv" length="21" type="video/mkv"/>
+      <guid isPermaLink="false">matrixreloadedtrailer</guid>
+    </item>
+  </channel>
+</rss>

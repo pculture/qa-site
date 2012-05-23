@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+  xmlns:media="http://search.yahoo.com/mrss" 
+  xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+  xmlns:dtvmedia="http://pculture.org/RSSModules/dtv/1.0">
+<channel>
+  <title>Unit Test Feed #1</title>
+  <description>We use this feed for unittests</description>
+  <link>http://pculture.org/feeds_test/feed-with-spaces.rss</link>
+  <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
+  <generator>Participatory Culture Foundation</generator>
+   <item>
+     <title>Video 1</title>
+     <link>http://pculture.org/feeds_test/short-video.ogv</link>
+     <enclosure 
+	url="http://pculture.org/feeds_test/short-video.ogv"
+	/>
+     <pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+  </item>
+</channel>
+</rss>

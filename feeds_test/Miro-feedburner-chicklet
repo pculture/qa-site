@@ -1,0 +1,15 @@
+<!DOCTYPE FeedFlareUnit SYSTEM "FeedFlareUnit-1.0.dtd">
+
+<FeedFlareUnit>
+<Catalog>
+   <Title>Add to Miro</Title>
+   <Description>1-click subscribe option for Miro</Description>
+</Catalog>
+<FeedFlare>
+   <Text>Subscribe with Miro</Text>
+   <Image src="http://subscribe.getmiro.com/img/buttons/patrace1.png" />
+   <Link href="http://subscribe.getmiro.com/?type=video&url1=${feedUrl}"/>
+</FeedFlare>
+</FeedFlareUnit>
+
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html
+	PUBLIC "-//IETF//DTD HTML//EN"
+	"">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head><title>User Login - WG-2100</title>
+<LINK REL="SHORTCUT ICON" HREF="http://131.229.65.198/favicon.ico">
+<LINK HREF=/bluesocket.css REL=STYLESHEET TYPE=text/css>
+
+</head><body marginheight="5" vlink="#1c3e7b" topmargin="2" leftmargin="5" marginwidth="5" bgcolor="#ffffff" alink="#70BC66" link="#1c3e7b">
+<form method="post" action="/login.pl?action=paint;r=XbuBH6U3403&source=131.229.244.217&destination=http://hatw.net/videos/momfight.mpg" enctype="application/x-www-form-urlencoded" name="bluesocket">
+
+<!-- standard hiddens -->
+<input type="hidden" name="action" value="paint" />
+
+<INPUT TYPE="HIDDEN" NAME="js_version" VALUE="">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var js_version = "1.0";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.1">
+<!--
+var js_version = "1.1";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.2">
+<!--
+var js_version = "1.2";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="/bluesocket.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript">
+<!--
+    WriteCookie("js_version", js_version);
+    document.bluesocket.js_version.value=js_version;
+
+//-->
+</SCRIPT>
+
+
+<SCRIPT>
+<!--
+
+function confirm_delete(url) {
+  if (confirm('Are you sure you want to delete this item?')) {
+    location = url;
+  }
+}
+
+    var is_restarted=1;
+
+//-->
+</SCRIPT><SCRIPT LANGUAGE="JavaScript" SRC="/js/menu.js"></SCRIPT>
+<!-- start of banner -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function pop_help(url) {
+ sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,width=750,height=550');
+ sealWin.focus();
+ self.name = "helpWin";
+}
+//-->
+</SCRIPT>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%"><tr valign=top>
+<td width="33%"><img src="/i/bluesocketLogoApp.gif" width=177 height=45 alt="bluesocket" border=0></td>
+<td align=center></td>
+<td width="33%" align=right valign=top>
+
+</td></tr>
+<tr><td colspan=3><img src="/i/spacer.gif" alt="" width=1 height=6></td></tr></table>
+<!-- end of banner -->
+<font face="Geneva,Verdana,Arial" size=2>
+<SCRIPT LANGUAGE="Javascript" SRC="bluesocket.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript">
+<!--
+if (ReadCookie("js_version")>=1.2) {
+    window.location.href="login.pl?destination=http://hatw.net/videos/momfight.mpg";
+}
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript">
+<!--
+if (js_version>=1.2) {
+    window.location.href="login.pl?destination=http://hatw.net/videos/momfight.mpg&js_version="+js_version;
+}
+//-->
+</SCRIPT>
+<P><b>Welcome to the secure wireless network.</b><p>
+Enter your user ID and password and click the "Log in" button.<p>
+
+<table border=0 cellpadding=0 cellspacing=0><tr valign=top align=left><td>
+
+<!-- form start -->
+
+<input type="hidden" name="_FORM_SUBMIT" value="1" />
+<input type="hidden" name="_DATA_FIELDS" value="bs_password,bs_name,which_form" />
+<input type="hidden" name="_STRIP" value="" />
+<input type="hidden" name="_NUMBER_FIELDS" value="" />
+<input type="hidden" name="_DATE_FIELDS" value="" />
+<input type="hidden" name="_STRIP_HIDDEN" value="" />
+<input type="hidden" name="destination" value="http://hatw.net/videos/momfight.mpg" />
+ 
+<table border=0 cellpadding=0 cellspacing=0 bgcolor="#d9dff0">
+ <tr bgcolor="#2176bc">
+ <td nowrap valign=top><img src="/i/spacer.gif" width=5 height=5 alt=""><br><img src="/i/spacer.gif" width=1 height=20 alt=""></td>
+<td colspan=2 nowrap> <font face="Geneva,Verdana,Arial" size=2 color="FFFFFF"><b>Registered user</b></font></td>
+<td align=right valign=top><img src="/i/spacer.gif" width=5 height=5 alt=""></td>
+</tr>
+<tr bgcolor="#9db3db">
+ <td colspan=4><img src="/i/spacer.gif" width=1 height=6 alt=""></td></tr>
+<tr bgcolor="#9db3db"><td>&nbsp;</td>
+ <td nowrap colspan=2 valign=top align=right><input type="submit" name="__save" value="Log In" onclick /></td><td>&nbsp;</td></tr>
+<tr bgcolor="#9db3db">
+ <td valign=bottom nowrap colspan=2><img src="/i/spacer.gif" width=5 height=5 alt=""></td>
+ <td nowrap valign=bottom align=right colspan=2><img src="/i/spacer.gif" width=5 height=5 alt=""></td></tr>
+<tr><td><img src="/i/spacer.gif" width=20 height=1 alt=""></td><td colspan=2>
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr><td colspan=1><img src="/i/spacer.gif" width=1 height=8 alt=""></td></tr>
+<tr><td colspan=1><img src="/i/spacer.gif" width=1 height=2 alt=""></td></tr>
+
+<tr><td><font face="Geneva,Verdana,Arial" size=2>Enter your ID</font></td></tr>
+
+<tr><td><font face="Geneva,Verdana,Arial" size=2><input type="text" name="bs_name"  size="25" /></font></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0>
+<tr><td colspan=1><img src="/i/spacer.gif" width=1 height=2 alt=""></td></tr>
+
+<tr><td><font face="Geneva,Verdana,Arial" size=2>Password</font></td></tr>
+
+<tr><td><font face="Geneva,Verdana,Arial" size=2><input type="password" name="bs_password"  size="25" /></font></td></tr>
+<tr><td colspan=1><img src="/i/spacer.gif" width=1 height=10 alt=""></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0>
+<tr><td colspan=1><img src="/i/spacer.gif" width=1 height=2 alt=""></td></tr>
+
+<tr><td><font face="Geneva,Verdana,Arial" size=2></font></td></tr>
+
+<tr><td><font face="Geneva,Verdana,Arial" size=2><input type="hidden" name="which_form" value="reg" /></font></td></tr>
+<tr><td colspan=1><img src="/i/spacer.gif" width=1 height=8 alt=""></td></tr></table> </td><td><img src="/i/spacer.gif" width=20 height=1 alt=""></td></tr>
+ <tr bgcolor="#9db3db">
+ <td colspan=4><img src="/i/spacer.gif" width=1 height=6 alt=""></td></tr>
+ <tr bgcolor="#9db3db"><td>&nbsp;</td>
+ <td nowrap colspan=2 valign=top align=right><input type="submit" name="__save" value="Log In" onclick /></td><td>&nbsp;</td></tr>
+ <tr bgcolor="#9db3db">
+ <td valign=bottom nowrap colspan=2><img src="/i/spacer.gif" width=5 height=5 alt=""></td>
+ <td nowrap valign=bottom align=right colspan=2><img src="/i/spacer.gif" width=5 height=5 alt=""></td></tr>
+ 
+</table>
+<!-- form end -->
+
+
+</td></tr></table>
+<font face="Geneva,Verdana,Arial" size=2>
+<!-- start sticky hiddens -->
+<input type="hidden" name="destination" value="http://hatw.net/videos/momfight.mpg" />
+<!-- stop sticky hiddens -->
+
+</form></body></html>
+<!-- end page footer -->

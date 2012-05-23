@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" 
+   xmlns:html="http://www.w3.org/1999/html" 
+   xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+   <title>TWO STUPID Vids</title>
+   <description>RSS of 2-stupid-videos</description>
+   <generator>item_to_rss.py 0.5 February 1st, 2010</generator>
+
+<item>
+   <title>Flip Face Kick</title>
+   <pubDate>Mon, 22 Feb 2010 08:31 GMT</pubDate>
+   <enclosure url="http://videos.stupidvideos.com/2/00/28/56/69/285669.flv" length="0" type="video/x-flv" />
+</item>
+
+<item>
+   <title>Dinosaur Walking In A House</title>
+   <description>Look at this monster. Scary!
+Maybe if you don&amp;#039;t move he won&amp;#039;t see you.</description>
+   <pubDate>Mon, 22 Feb 2010 08:31 GMT</pubDate>
+   <enclosure url="http://videos.stupidvideos.com/2/00/28/55/05/285505.flv" length="0" type="video/x-flv" />
+</item>
+
+</channel>
+</rss>

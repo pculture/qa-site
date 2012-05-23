@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dtv="http://www.getdemocracy.org/xml-namespaces/appcast">
+   
+ <channel>
+       <title>Democracy Updates</title>
+       <link>http://www.getdemocracy.com/news/</link>
+       <description>New releases of the Democracy Player with downloadable enclosures.</description>
+       <language>en</language>
+       <copyright>2007, Participatory Culture Foundation</copyright>
+       <item>
+           <title>Democracy Player 0.9.6.1</title>
+	   <enclosure url="http://www.getdemocracy.com/downloads/windows.php" sparkle:version="0.9.6.1" dtv:platform="windows-xul" dtv:serial="30000710000" type="application/octet-stream" />
+       
+           <sparkle:releaseNotesLink>
+            <![CDATA[
+             <!-- <a href="http://ftp.osuosl.org/pub/pculture.org/democracy/relnotes-0.9.6.1.html">ReleaseNotes</a> -->
+             <div style="font-family: arial;">
+              <BR>
+               <h3>Minor Update to Democracy Player </h3>
+               <p> Version 0.9.6.1 is a bug fix release recommended for all windows users. </p>
+               <ul>
+                <li>Fixes a security flaw in VLC on Windows. <li>
+                <li>Fixes the annoying volume slider behavior on Windows.</li>
+                <li>Improves playback on Windows Vista (turns off 'compatibility mode', which is no longer needed). </li>
+               </ul>
+             </div>
+              ]]>
+            </sparkle:releaseNotesLink>
+       </item>
+   </channel>
+</rss>

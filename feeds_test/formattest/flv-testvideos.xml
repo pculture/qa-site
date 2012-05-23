@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>flv - format test</title>
+    <link>http://streams.videolan.org/streams-videolan/reference/flv/</link>
+    <description>vlc - format test videos</description>
+    <generator>Feeder 1.5.6(475) http://reinventedsoftware.com/feeder/</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Thu, 11 Sep 2008 08:28:20 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2008 08:28:20 -0400</lastBuildDate>
+    <item>
+      <title>zeldaHQ flv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/flv/zeldaHQ.flv</link>
+      <pubDate>Thu, 11 Sep 2008 08:27:45 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/flv/zeldaHQ.flv" length="4783" type="video/flv"/>
+      <guid isPermaLink="false">zeldahq-flv</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>harrypotter-480x272-450-vp6</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/flv/harrypotter-480x272-450-vp6.flv</link>
+      <pubDate>Thu, 11 Sep 2008 08:26:32 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/flv/harrypotter-480x272-450-vp6.flv" length="0" type="video/flv"/>
+      <guid isPermaLink="false">harrypotter480x272450vp6</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <media:thumbnail url="http://lh5.ggpht.com/tricia.finn.cary/SI5v2OO-EvI/AAAAAAAADCI/pHuV5yDMxf0/s288/P7160177.JPG"/>
+    </item>
+    <item>
+      <title>flash5_004.flv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/flv/flash5_004.flv</link>
+      <pubDate>Thu, 11 Sep 2008 08:28:20 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/flv/flash5_004.flv" length="675" type="video/flv"/>
+      <guid isPermaLink="false">flash5004flv</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>flash-screen.flv</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/flv/flash-screen.flv</link>
+      <pubDate>Thu, 11 Sep 2008 08:24:21 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/flv/flash-screen.flv" length="1235" type="video/flv"/>
+      <guid isPermaLink="false">flashscreenflv</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <media:thumbnail url="http://lh6.ggpht.com/tricia.finn.cary/SI5v0CT32MI/AAAAAAAADB4/IBzQbKiLkvI/s288/P7160170.JPG"/>
+    </item>
+  </channel>
+</rss>

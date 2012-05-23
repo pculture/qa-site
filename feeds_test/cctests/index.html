@@ -1,0 +1,89 @@
+<html>
+<head>
+<style type="text/css">
+  H1 { border-bottom: 1px black solid; }
+  H2 { border-bottom: 1px black solid; }
+  p, ul, li { margin-left: 25px; }
+  pre { margin-left: 25px; background: #ddddff; border: 1px black solid; }
+</style>
+<body>
+<h1>CreativeCommons metadata tests</h1>
+
+<p>
+  These are feed tests for bugs:
+</p>
+<ul>
+  <li><a href="http://bugzilla.pculture.org/show_bug.cgi?id=9077">9077</a>
+  <li><a href="http://bugzilla.pculture.org/show_bug.cgi?id=9334">9334</a>
+</ul>
+
+<h2>feed test 1</h2>
+<p>
+  RSS 2.0 feed with one item.  Item has no Creative Commons license metadata.
+  The item in this feed will have:
+</p>
+<pre>
+   License: see permalink
+</pre>
+<p>
+  in the item details.
+</p>
+</p>
+<ul>
+  <li><a href="feedtest1.xml">feedtest1.xml</a>
+</ul>
+
+<h2>feed test 2</h2>
+<p>
+  RSS 2.0 feed with one item.  Item has Creative Commons license metadata.
+  The item in this feed will have:
+</p>
+<pre>
+   License: Attribution-Noncommercial-No Derivative Works 2.0 Generic
+</pre>
+<p>
+  in the item details.  And clicking on that link will open up a browser and
+  go to the page at http://creativecommons.org/licenses/by-nc-nd/2.0/ .
+</p>
+<ul>
+  <li><a href="feedtest2.xml">feedtest2.xml</a>
+</ul>
+
+<h2>feed test 3</h2>
+<p>
+  RSS 2.0 feed with one item.  Item has a blip license, but no Creative Commons 
+  license metadata.  The item in this feed will have:
+</p>
+<pre>
+   License: see permalink
+</pre>
+<p>
+  in the item details.  
+</p>
+<p>
+  Some future version of Miro should discriminate between the two different
+  license tags as they're in different namespaces.  So this particular situation
+  is a bug.
+</p>
+<ul>
+  <li><a href="feedtest3.xml">feedtest3.xml</a>
+</ul>
+
+
+<h2>Real world feeds with CC metadata</h2>
+<p>
+  The Dave and Tom feed has Creative Commons metadata for each item:
+</p>
+<ul>
+  <li><a href="http://daveandtom.blip.tv/rss">http://daveandtom.blip.tv/rss</a>
+</ul>
+
+<p>
+  Galacticast has Creative Commons metadata for the entire feed (this doesn't work in Miro yet):
+</p>
+<ul>
+  <li><a href="http://feeds.feedburner.com/galacticast">http://feeds.feedburner.com/galacticast</a>
+</ul>
+
+</body>
+</html>

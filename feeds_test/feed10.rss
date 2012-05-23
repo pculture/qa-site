@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<rss version="2.0" 
+			xmlns:media="http://search.yahoo.com/mrss"
+			xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+			xmlns:dtvmedia="http://particpatoryculture.org/RSSModules/dtv/1.0">
+		<channel>
+		<title>Feed error TEST</title>
+		<description>
+		This is a PCF-governed RSS 2.0 feed to test feed 
+updating.
+		</description>
+		<link>http://participatoryculture.org/feeds_test/feed10</link>
+		<dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed10</dtvmedia:libraryLink>
+		<pubDate>Wed, 19 Apr 2006 12:53:29 -0500</pubDate>
+		<generator>Participatory Culture Foundation</generator>
+		<item>
+			<title>DNS lookup failure</title>
+			<link>http://baddnsnamentheoantuhr.com/index.html</link>
+			<guid isPermaLink="false">3e897af9-efc2-4c61-a97e-4c52b4e9c637</guid>
+			<description>This should result in the "can't connect" message.
+			</description>
+			<enclosure url="http://baddnsnamentheoantuhr.com/index.html" type="video/quicktime" length="842"/>
+			<pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+		</item>
+		<item>
+			<title>File not Found</title>
+			<link>http://participatoryculture.org/feeds_test/notfound.php</link>
+			<guid isPermaLink="false">f37e0c87-a5eb-4ac0-9e36-48f3297f39c2</guid>
+			<description>This should result in the "Not Found" message.
+			</description>
+			<enclosure url="http://participatoryculture.org/feeds_test/notfound.php" type="video/quicktime" length="842"/>
+			<pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+		</item>
+		<item>
+			<title>Bad Request</title>
+			<link>http://participatoryculture.org/feeds_test/badhttprequest.php</link>
+			<guid isPermaLink="false">c19eeff5-1302-4f07-9a92-032d556b620f</guid>
+			<description>This should result in the generic "Error" message"
+			</description>
+			<enclosure url="http://participatoryculture.org/feeds_test/badhttprequest.php" type="video/quicktime" length="842"/>
+			<pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
+		</item>
+</channel></rss>

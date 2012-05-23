@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dtv="http://www.getdemocracy.org/xml-namespaces/appcast">
+   
+ <channel>
+       <title>Miro Updates</title>
+       <link>http://www.getmiro.com/blog/</link>
+       <description>New releases of Miro with downloadable enclosures.</description>
+       <language>en</language>
+       <copyright>2007, Participatory Culture Foundation</copyright>
+       <item>
+           <title>Announcing Miro Public Preview 1</title>
+           <enclosure url="http://www.getmiro.com/download/osx.php" sparkle:version="0.9.8" dtv:platform="osx" dtv:serial="20070719000" type="application/octet-stream" />
+           <description>
+    <![CDATA[
+<div style="font-family: helvetica, sans-serif; font-size: 14px; line-height: 20px; padding: 5px; background: url(http://www.getmiro.com/img/bkgd.jpg) top left repeat-x;">
+
+<div style="text-align: center;"><img src="http://www.getmiro.com/img/home-logo.png" alt="miro logo" /></div>
+
+<h2 style="font-size: 17px;">Announcing Miro!</h2>
+
+<p>
+Democracy Player is now called Miro.  We are very excited about this new version and recommend that all users upgrade to Miro Public Preview 1 (0.9.8).
+</p>
+
+<p style="padding-bottom: 12px;">And please come visit our brand-new website at <a style="color: #b11b25;" href="http://www.getmiro.com">GetMiro.com</a>!  The Miro icon was designed by John Hicks, creator of the Firefox icon.  We think this new name and logo will serve us well as we bring open video distribution to a broader audience.</p>
+
+
+<div style="background: url(http://www.getmiro.com/img/gradbox.png) top left no-repeat; padding: 3px 10px 10px 20px; font-size: 12px; color: #333;">
+
+<p><span style="font-size: 13px; font-weight: bold;">What's New in this Version</span></p>
+
+ <p>In addition to the name change and new logo, this version includes the following improvements:</p>
+
+  <ul>
+   <li>Complete keyboard shortcuts on all platforms.  This should allow remote controls to be configured to control Miro.</li>
+   <li>Improved system tray functionality on Windows, including a context menu.</li>
+   <li>Added a new 'report a bug' menu item.</li>
+   <li>New look for the Channel Guide, which is now called the Miro Guide.</li>
+   <li>Adds Veoh.com as a search engine.</li>
+  </ul>
+
+<p>And the following bug fixes:</p>
+
+  <ul>
+   <li>Fixed behavior when maximizing on Windows (won't cover up the taskbar).</li>
+   <li>Smarter importing and folder watching to avoid adding audio files.</li>
+   <li>Removed Yahoo as a search engine, since most results did not link to enclosures.</li>
+   <li>Fixed a memory leak.</li>
+   <li>Fixed several unicode errors.</li>
+   <li>Fixed miscounting of new and unwatched items in folders.</li>
+   <li>Minor UI fixes, including name changes to sidebar items and new Miro Guide logo.</li>
+  </ul>
+<p>Let us know what you think!</p>
+
+</div>
+</div>
+ ]]>
+           </description>
+   </item>
+
+   <item>
+           <title>Announcing Miro Public Preview 1</title>
+           <enclosure url="http://www.getmiro.com/download/windows.php" sparkle:version="0.9.8" dtv:platform="windows-xul" dtv:serial="20070819000" type="application/octet-stream" />
+           <sparkle:releaseNotesLink>
+            <![CDATA[
+             <!-- <a href="http://ftp.osuosl.org/pub/pculture.org/democracy/relnotes-0.9.8.html">ReleaseNotes</a> -->
+<div style="font-family: helvetica, sans-serif; font-size: 14px; line-height: 20px; padding: 5px; background: url(http://www.getmiro.com/img/bkgd.jpg) top left repeat-x;">
+
+
+<div style="text-align: center;"><img src="http://participatoryculture.org/miro-logo-smallish-with-letters.png" alt="miro logo" />
+
+<h2 style="font-size: 17px;">Announcing Miro!</h2>
+
+<p>
+Democracy Player is now called Miro.  We are very excited about this new version and recommend that all users upgrade to Miro Public Preview 1 (0.9.8).
+</p>
+
+<p style="padding-bottom: 12px;">And please come visit our brand-new website at <a style="color: #b11b25;" href="http://www.getmiro.com">GetMiro.com</a>!  The Miro icon was designed by John Hicks, creator of the Firefox icon.  We think this new name and logo will serve us well as we bring open video distribution to a broader audience.</p>
+
+
+<div style="background: url(http://www.getmiro.com/img/gradbox.png) top left no-repeat; padding: 3px 10px 10px 20px; font-size: 12px; color: #333;">
+
+<p><span style="font-size: 13px; font-weight: bold;">What's New in this Version</span></p>
+
+ <p>In addition to the name change and new logo, this version includes the following improvements:</p>
+
+  <ul>
+   <li>Complete keyboard shortcuts on all platforms.  This should allow remote controls to be configured to control Miro.</li>
+   <li>Improved system tray functionality on Windows, including a context menu.</li>
+   <li>Added a new 'report a bug' menu item.</li>
+   <li>New look for the Channel Guide, which is now called the Miro Guide.</li>
+   <li>Adds Veoh.com as a search engine.</li>
+  </ul>
+
+<p>And the following bug fixes:</p>
+
+  <ul>
+   <li>Fixed behavior when maximizing on Windows (won't cover up the taskbar).</li>
+   <li>Smarter importing and folder watching to avoid adding audio files.</li>
+   <li>Removed Yahoo as a search engine, since most results did not link to enclosures.</li>
+   <li>Fixed a memory leak.</li>
+   <li>Fixed several unicode errors.</li>
+   <li>Fixed miscounting of new and unwatched items in folders.</li>
+   <li>Minor UI fixes, including name changes to sidebar items and new Miro Guide logo.</li>
+  </ul>
+<p>Let us know what you think!</p>
+
+</div>
+</div>
+              ]]>
+            </sparkle:releaseNotesLink>
+       </item>
+   </channel>
+
+</rss>

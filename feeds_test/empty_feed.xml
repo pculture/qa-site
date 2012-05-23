@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+  xmlns:media="http://search.yahoo.com/mrss/" 
+  xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+  xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+<channel>
+  <title>Empty Feed test</title>
+  <description>This is a PCF-governed RSS 2.0 feed to test a huge invalid torrents</description>
+  <link>http://participatoryculture.org/feeds_test/hugebogustorrent.rss</link>
+  <pubDate>Fri, 18 May 2007 15:00:00 GMT </pubDate>
+
+  <generator>Participatory Culture Foundation</generator>
+
+
+  
+
+</channel>
+</rss>
+

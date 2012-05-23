@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>VLC - avi test files</title>
+    <link>http://streams.videolan.org/streams-videolan/reference/avi/</link>
+    <description>VLC test vidoes for avi format</description>
+    <generator>Feeder 1.5.6(475) http://reinventedsoftware.com/feeder/</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Thu, 11 Sep 2008 07:31:31 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2008 07:31:31 -0400</lastBuildDate>
+    <itunes:author>Janet Dragojevic</itunes:author>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="http://lh3.ggpht.com/tricia.finn.cary/SI5vQ8ihIZI/AAAAAAAAC9E/u_IamTjBITM/s640/P7121026.JPG"/>
+    <itunes:owner>
+      <itunes:name>Janet Dragojevic</itunes:name>
+      <itunes:email>jed@pculture.org</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Education"/>
+    <item>
+      <title>x264.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/x264.avi</link>
+      <pubDate>Thu, 11 Sep 2008 07:31:31 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/x264.avi" length="2786" type="video/avi"/>
+      <guid isPermaLink="false">x264avi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>vp31.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/vp31.avi</link>
+      <pubDate>Thu, 11 Sep 2008 07:30:57 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/vp31.avi" length="620" type="video/avi"/>
+      <guid isPermaLink="false">vp31avi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>vp30-logo.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/vp30-logo.avi</link>
+      <pubDate>Thu, 11 Sep 2008 07:30:32 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/vp30-logo.avi" length="417" type="video/avi"/>
+      <guid isPermaLink="false">vp30logoavi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>tscc_error.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/tscc_error.avi</link>
+      <pubDate>Thu, 11 Sep 2008 07:13:17 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/tscc_error.avi" length="10798" type="video/avi"/>
+      <guid isPermaLink="false">tsccerroravi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>shrekaraoke-DivX-AC3.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/shrekaraoke-DivX-AC3.avi</link>
+      <pubDate>Thu, 11 Sep 2008 07:12:48 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/shrekaraoke-DivX-AC3.avi" length="40006" type="video/avi"/>
+      <guid isPermaLink="false">shrekaraokedivxac3avi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Matrix_f900.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/Matrix_f900.avi</link>
+      <pubDate>Thu, 11 Sep 2008 07:12:04 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/Matrix_f900.avi" length="0" type="video/avi"/>
+      <guid isPermaLink="false">matrixf900avi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>LOTR-Div3.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/LOTR-Div3.avi</link>
+      <pubDate>Thu, 11 Sep 2008 06:54:44 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/LOTR-Div3.avi" length="8584" type="video/avi"/>
+      <guid isPermaLink="false">lotrdiv3avi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hero-Div3.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/Hero-Div3.avi</link>
+      <pubDate>Thu, 11 Sep 2008 06:54:11 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/Hero-Div3.avi" length="2027" type="video/avi"/>
+      <guid isPermaLink="false">herodiv3avi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>DomoDarko.avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/DomoDarko.avi</link>
+      <pubDate>Thu, 11 Sep 2008 06:53:39 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/DomoDarko.avi" length="8424" type="video/avi"/>
+      <guid isPermaLink="false">domodarkoavi</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Alien(3VID).avi</title>
+      <link>http://streams.videolan.org/streams-videolan/reference/avi/Alien(3VID).avi</link>
+      <pubDate>Thu, 11 Sep 2008 06:53:07 -0400</pubDate>
+      <enclosure url="http://streams.videolan.org/streams-videolan/reference/avi/Alien(3VID).avi" length="4062" type="video/avi"/>
+      <guid isPermaLink="false">alien3vidavi</guid>
+      <itunes:summary>Test video for avi from vlc</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

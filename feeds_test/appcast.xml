@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dtv="http://www.getdemocracy.org/xml-namespaces/appcast">
+    <channel>
+        <title>Democracy Updates</title>
+        <link>http://www.getdemocracy.com/news/</link>
+        <description>New releases of the Democracy Player with downloadable enclosures.</description>
+        <language>en</language>
+        <copyright>2007, Participatory Culture Foundation</copyright>
+        <item>
+            <title>Democracy Player 0.9.6</title>
+            <enclosure url="http://ftp.osuosl.org/pub/pculture.org/democracy/osx/Democracy.dmg" sparkle:version="3.1.4" dtv:platform="osx" dtv:serial="30000000000" type="application/octet-stream" />
+            <enclosure url="http://ftp.osuosl.org/pub/pculture.org/democracy/osx/Democracy.zip" sparkle:version="3.1.4" dtv:platform="windows-xul" dtv:serial="30000000000" type="application/octet-stream" />
+            <enclosure url="http://ftp.osuosl.org/pub/pculture.org/democracy/osx/Democracy.tar.gz" sparkle:version="3.1.4" dtv:platform="gtk-x11" dtv:serial="30000000000" type="application/octet-stream" />
+	    <sparkle:releaseNotesLink><![CDATA[
+<a href="http://ftp.osuosl.org/pub/pculture.org/democracy/relnotes-0.9.6.html">link</a>
+<i>itallic</i> <b>bold</b> <BR>
+I should be on a new line
+]]></sparkle:releaseNotesLink>
+        </item>
+    </channel>
+</rss>

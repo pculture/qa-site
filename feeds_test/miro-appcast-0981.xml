@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dtv="http://www.getdemocracy.org/xml-namespaces/appcast">
+   
+ <channel>
+       <title>Miro Updates</title>
+       <link>http://www.getmiro.com/blog/</link>
+       <description>New releases of Miro with downloadable enclosures.</description>
+       <language>en</language>
+       <copyright>2007, Participatory Culture Foundation</copyright>
+       <item>
+           <title>0.9.8.1 Update Available</title>
+           <enclosure url="http://participatoryculture.org/nightlies/Miro-0.9.8.1-rc0.exe" sparkle:version="0.9.8.1" dtv:platform="osx" dtv:serial="20070819000" type="application/octet-stream" />
+           <enclosure url="http://participatoryculture.org/nightlies/Miro-0.9.8.1-rc0.exe" sparkle:version="0.9.8.1" dtv:platform="windows-xul" dtv:serial="20070819000" type="application/octet-stream" />
+           <description>
+    <![CDATA[
+<div style="font-family: helvetica, sans-serif; font-size: 14px; line-height: 20px; padding: 5px; background: url(http://www.getmiro.com/img/bkgd.jpg) top left repeat-x;">
+
+<div style="text-align: center;"><img src="mirologo_small_letters-200px.png" alt="miro logo" /></div>
+
+ <h2 style="font-size: 17px;">Update Available</h2>
+
+ <p>  We have just released a small update to Miro.  This new version fixes several relatively minor or unusual bugs and is recommended for all users.
+</p>
+
+
+  <div style="background: url(http://www.getmiro.com/img/gradbox.png) top left no-repeat; padding: 3px 10px 10px 20px; font-size: 12px; color: #333;">
+
+  <p><span style="font-size: 13px; font-weight: bold;">Bug Fixes in Version 0.9.8.1</span></p>
+    <ul>
+         <li>Fixes the Options panel on non-English Windows installations.</li>
+         <li>Fixes migration problem on Mac that could disassociate videos from channels.</li>
+         <li>Fixes an application hang for Mac 10.3.9 users who have updated to QuickTime 7.2. </li>
+         <li>Miro now pauses video playback when minimizing on Windows.</li>
+         <li>Fixes issues with fullscreen mode on Windows Vista.</li>
+         <li>Fixes a problem with dual monitors on Windows.</li>
+    </ul>
+
+   <p>For help with any problems, please visit <a href="http://www.getmiro.com/help">GetMiro.com/help</a> and <a href="http://www.getmiro.com/forum/categories.php">GetMiro.com/forum</a>.</p>
+
+ </div>
+</div>
+ ]]>
+           </description>
+   </item>
+
+   <item>
+           <title>0.9.8.1 Update Available</title>
+           <enclosure url="http://www.getmiro.com/download/windows.php" sparkle:version="0.9.8.1" dtv:platform="windows-xul" dtv:serial="20070819000" type="application/octet-stream" />
+           <sparkle:releaseNotesLink>
+            <![CDATA[
+      <div style="font-family: helvetica, sans-serif; font-size: 14px; line-height: 20px; padding: 5px; background: url(http://www.getmiro.com/img/bkgd.jpg) top left repeat-x;">
+
+<div style="text-align: center;"><img src="mirologo_small_letters-200px.png" alt="miro logo" /></div>
+
+ <h2 style="font-size: 17px;">Update Available</h2>
+
+ <p>  We have just released a small update to Miro.  This new version fixes several relatively minor or unusual bugs and is recommended for all users.
+</p>
+
+
+  <div style="background: url(http://www.getmiro.com/img/gradbox.png) top left no-repeat; padding: 3px 10px 10px 20px; font-size: 12px; color: #333;">
+
+  <p><span style="font-size: 13px; font-weight: bold;">Bug Fixes in Version 0.9.8.1</span></p>
+    <ul>
+         <li>Fixes the Options panel on non-English Windows installations.</li>
+         <li>Fixes migration problem on Mac that could disassociate videos from channels.</li>
+         <li>Fixes an application hang for Mac 10.3.9 users who have updated to QuickTime 7.2. </li>
+         <li>Miro now pauses video playback when minimizing on Windows.</li>
+         <li>Fixes issues with fullscreen mode on Windows Vista.</li>
+         <li>Fixes a problem with dual monitors on Windows.</li>
+    </ul>
+
+   <p>For help with any problems, please visit <a href="http://www.getmiro.com/help">GetMiro.com/help</a> and <a href="http://www.getmiro.com/forum/categories.php">GetMiro.com/forum</a>.</p>
+
+ </div>
+</div>   
+
+              ]]>
+            </sparkle:releaseNotesLink>
+       </item>
+   </channel>
+
+</rss>
+
