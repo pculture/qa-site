@@ -4,7 +4,7 @@ AddType application/x-bittorrent .torrent
 
 AuthType Basic 
 AuthName "Restricted Area" 
-AuthUserFile /var/www/pculture/feeds_test/.htpasswd
+AuthUserFile /var/www/qa/feeds_test/.htpasswd
 
 <Files torrentpasswordrss.rss>
 Require valid-user
