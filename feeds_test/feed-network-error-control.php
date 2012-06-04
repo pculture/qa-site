@@ -15,11 +15,11 @@ if ($i < 1 or $i > 3) {
 	print <<<END
 	This script is meant to test feed updates in democracy player.
 	You can use the buttons below to change the URL on the item in  
-	<a href="http://pculture.org/feeds_test/feed-network-error.php">http://pculture.org/feeds_test/feed-network-error.php</a>
+	<a href="http://qa.pculture.org/feeds_test/feed-network-error.php">http://qa.pculture.org/feeds_test/feed-network-error.php</a>
 	<br />
 	<BLOCKQUOTE>
 	<FORM
-	action="http://pculture.org/feeds_test/feed-network-error-control.php" method="GET">
+	action="http://qa.pculture.org/feeds_test/feed-network-error-control.php" method="GET">
 	<input type="radio" name="i" value="1"> HTTP Error <br />
 	<input type="radio" name="i" value="2"> Wrong mime-type <br />
 	<input type="radio" name="i" value="3"> Working <br />
