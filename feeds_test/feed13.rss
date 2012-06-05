@@ -2,17 +2,17 @@
 <rss version="2.0" 
   xmlns:media="http://search.yahoo.com/mrss" 
   xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
-  xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+  xmlns:dtvmedia="http://qa.pculture.org/RSSModules/dtv/1.0">
 <channel>
   <title>Feed error test </title>
   <description>This is a feed where all the items should result in download errors.</description>
-  <link>http://participatoryculture.org/feeds_test/feed13</link>
+  <link>http://qa.pculture.org/feeds_test/feed13</link>
   <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
   <generator>Participatory Culture Foundation</generator>
    <item>
      <title>Host not found error</title>
      <description></description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
         url="http://tnhsoeunthosnoanstehusnoetahusnoeathu.com/booya.mov"
         type="video/quicktime"  
@@ -22,9 +22,9 @@
    <item>
      <title>HTTP error</title>
      <description></description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/badhttprequest.php"
+        url="http://qa.pculture.org/feeds_test/badhttprequest.php"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 14 Apr 2006 13:53:21 -0500</pubDate>
@@ -32,9 +32,9 @@
    <item>
      <title>Timeout error</title>
      <description></description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/slowfeed.php"
+        url="http://qa.pculture.org/feeds_test/slowfeed.php"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 13 Apr 2006 13:53:21 -0500</pubDate>
@@ -42,9 +42,9 @@
    <item>
      <title>Server closes connection</title>
      <description></description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/closeconnection.php"
+        url="http://qa.pculture.org/feeds_test/closeconnection.php"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 12 Apr 2006 13:53:21 -0500</pubDate>
@@ -52,9 +52,9 @@
    <item>
      <title>File not found</title>
      <description></description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/oaeutnoheuscrg.mov"
+        url="http://qa.pculture.org/feeds_test/oaeutnoheuscrg.mov"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 11 Apr 2006 13:53:21 -0500</pubDate>
@@ -62,9 +62,9 @@
   <item>
      <title>503 Error - should retry</title>
      <description></description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/503.php"
+        url="http://qa.pculture.org/feeds_test/503.php"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 14 Jul 2010 13:53:21 -0500</pubDate>

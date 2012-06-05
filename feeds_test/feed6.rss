@@ -2,55 +2,55 @@
 <rss version="2.0" 
   xmlns:media="http://search.yahoo.com/mrss" 
   xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
-  xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+  xmlns:dtvmedia="http://qa.pculture.org/RSSModules/dtv/1.0">
 <channel>
   <title>Valid RSS without enclosures</title>
   <description>This is a PCF-governed RSS 2.0 feed to test valid feeds without enclosures. All contents of this feed are for example only.</description>
-  <link>http://participatoryculture.org/feeds_test/feed6.rss</link>
-  <dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed6.rss</dtvmedia:libraryLink>
+  <link>http://qa.pculture.org/feeds_test/feed6.rss</link>
+  <dtvmedia:libraryLink>http://qa.pculture.org/feeds_test/feed6.rss</dtvmedia:libraryLink>
   <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
   <generator>Participatory Culture Foundation</generator>
    <item>
      <title>Video 1</title>
-     <link>http://participatoryculture.org/feeds_test/py1.mov</link>
+     <link>http://qa.pculture.org/feeds_test/py1.mov</link>
      <guid isPermaLink="false">1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description><![CDATA[ This is the second <a href="http://participatoryculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
-     <media:thumbnail url="http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <description><![CDATA[ This is the second <a href="http://qa.pculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
+     <media:thumbnail url="http://qa.pculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
   </item>
    <item>
      <title>Video 2</title>
-     <link>http://participatoryculture.org/feeds_test/py1.mov</link>
+     <link>http://qa.pculture.org/feeds_test/py1.mov</link>
      <guid isPermaLink="false">v1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description><![CDATA[ This is the second <a href="http://participatoryculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
-     <media:thumbnail url="http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <description><![CDATA[ This is the second <a href="http://qa.pculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
+     <media:thumbnail url="http://qa.pculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
   </item>
    <item>
      <title>Video 3</title>
-     <link>http://participatoryculture.org/feeds_test/py1.mov</link>
+     <link>http://qa.pculture.org/feeds_test/py1.mov</link>
      <guid isPermaLink="false">U1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description><![CDATA[ This is the second <a href="http://participatoryculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
-     <media:thumbnail url="http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <description><![CDATA[ This is the second <a href="http://qa.pculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
+     <media:thumbnail url="http://qa.pculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
   </item>
    <item>
      <title>Video 4</title>
-     <link>http://participatoryculture.org/feeds_test/py1.mov</link>
+     <link>http://qa.pculture.org/feeds_test/py1.mov</link>
      <guid isPermaLink="false">T1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description><![CDATA[ This is the second <a href="http://participatoryculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
-     <media:thumbnail url="http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <description><![CDATA[ This is the second <a href="http://qa.pculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
+     <media:thumbnail url="http://qa.pculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
   </item>
    <item>
      <title>Video 5</title>
-     <link>http://participatoryculture.org/feeds_test/py1.mov</link>
+     <link>http://qa.pculture.org/feeds_test/py1.mov</link>
      <guid isPermaLink="false">S1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description><![CDATA[ This is the second <a href="http://participatoryculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
-     <media:thumbnail url="http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <description><![CDATA[ This is the second <a href="http://qa.pculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
+     <media:thumbnail url="http://qa.pculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
   </item>
    <item>
      <title>Video 6</title>
-     <link>http://participatoryculture.org/feeds_test/py1.mov</link>
+     <link>http://qa.pculture.org/feeds_test/py1.mov</link>
      <guid isPermaLink="false">Rcd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description><![CDATA[ This is the second <a href="http://participatoryculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
-     <media:thumbnail url="http://participatoryculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
+     <description><![CDATA[ This is the second <a href="http://qa.pculture.org/feeds_test/py1.mov">test video</a>, it is 842 KB and should download quickly. ]]></description>
+     <media:thumbnail url="http://qa.pculture.org/test_feeds/mike_tv_drawing_cropped.jpg"/>
   </item>
 
 </channel>

@@ -4,16 +4,16 @@
 <channel>
 <title>CC License metadata: feed test 1</title>
 <description>This is a PCF-governed RSS 2.0 feed to test CC License metadata.  All contents of this feed are for example only.</description>
-<link>http://participatoryculture.org/feeds_test/cctests/feedtest1</link>
+<link>http://qa.pculture.org/feeds_test/cctests/feedtest1</link>
 <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
 <generator>Participatory Culture Foundation</generator>
 
 <item>
 <title>Video 1</title>
-<link>http://participatoryculture.org/feeds_test/py1.mov</link>
+<link>http://qa.pculture.org/feeds_test/py1.mov</link>
 <guid isPermaLink="false">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
 <description>This is the first test video, it is 842 KB and should download quickly.</description>
-<enclosure url="http://participatoryculture.org/feeds_test/py1.mov" type="video/quicktime"  length="842" />
+<enclosure url="http://qa.pculture.org/feeds_test/py1.mov" type="video/quicktime"  length="842" />
 <pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
 </item>
 

@@ -2,32 +2,32 @@
 <rss version="2.0" 
   xmlns:media="http://search.yahoo.com/mrss" 
   xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
-  xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+  xmlns:dtvmedia="http://qa.pculture.org/RSSModules/dtv/1.0">
 <channel>
   <title>Yahoo Media TEST</title>
   <description>This is a PCF-governed RSS 2.0 feed to test Yahoo media enclosures. All contents of this feed are for example only.</description>
-  <link>http://participatoryculture.org/feeds_test/feed12.rss</link>
-  <dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed12.rss</dtvmedia:libraryLink>
+  <link>http://qa.pculture.org/feeds_test/feed12.rss</link>
+  <dtvmedia:libraryLink>http://qa.pculture.org/feeds_test/feed12.rss</dtvmedia:libraryLink>
   <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
   <generator>Participatory Culture Foundation</generator>
    <item>
      <title>Video 1</title>
-     <link>http://participatoryculture.org/feeds_test/slowdownload.php</link>
+     <link>http://qa.pculture.org/feeds_test/slowdownload.php</link>
      <description>Halted download test file</description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/slowdownload.php"
+        url="http://qa.pculture.org/feeds_test/slowdownload.php"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
   </item>
    <item>
      <title>Video 2</title>
-     <link>http://participatoryculture.org/feeds_test/slowdownload2.php</link>
+     <link>http://qa.pculture.org/feeds_test/slowdownload2.php</link>
      <description>Halted download test file 2</description>
-     <media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
+     <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
-        url="http://participatoryculture.org/feeds_test/slowdownload2.php"
+        url="http://qa.pculture.org/feeds_test/slowdownload2.php"
         type="video/quicktime"  
         length="842" />
      <pubDate>Wed, 19 Apr 2006 11:53:21 -0500</pubDate>

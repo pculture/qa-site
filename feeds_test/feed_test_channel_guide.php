@@ -45,47 +45,47 @@ function dtvapiGoToChannel(url) {
 <p>These feeds never change and were made specifically for testing Democracy Player.</p>
 
 <p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed1.rss');">Subscribe to Feed 1</a> - <a href="javascript:dtvapiGoToChannel('http://participatoryculture.org/feeds_test/feed1.rss');">Go to Feed 1</a>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed1.rss');">Subscribe to Feed 1</a> - <a href="javascript:dtvapiGoToChannel('http://qa.pculture.org/feeds_test/feed1.rss');">Go to Feed 1</a>
 </p>
 
 <p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed2.rss');">Subscribe to Feed 2</a>
-</p>
-
-
-<p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed3.rss');">Subscribe to Feed 3</a>
-</p>
-
-<p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed4.rss');">Subscribe to Feed 4</a>
-</p>
-
-<p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed5.rss');">Subscribe to Feed 5</a>
-</p>
-
-<p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed6.rss');">Subscribe to Feed 6</a>
-</p>
-
-<p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed7.rss');">Subscribe to Feed 7</a>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed2.rss');">Subscribe to Feed 2</a>
 </p>
 
 
 <p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed8.rss');">Subscribe to Feed 8</a>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed3.rss');">Subscribe to Feed 3</a>
+</p>
+
+<p>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed4.rss');">Subscribe to Feed 4</a>
+</p>
+
+<p>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed5.rss');">Subscribe to Feed 5</a>
+</p>
+
+<p>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed6.rss');">Subscribe to Feed 6</a>
+</p>
+
+<p>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed7.rss');">Subscribe to Feed 7</a>
+</p>
+
+
+<p>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed8.rss');">Subscribe to Feed 8</a>
 </p>
 
 
 
 <p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/torrentpasswordrss.rss');">Subscribe to Torrent Password Feed</a>
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/torrentpasswordrss.rss');">Subscribe to Torrent Password Feed</a>
 </p>
 
  <p>
-<a href="javascript:dtvapiAddChannel('http://participatoryculture.org/feeds_test/feed20.rss');">Subscribe to Feed 20</a> Empty Directory Torrent Feed
+<a href="javascript:dtvapiAddChannel('http://qa.pculture.org/feeds_test/feed20.rss');">Subscribe to Feed 20</a> Empty Directory Torrent Feed
 </p>
 
 <p>

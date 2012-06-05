@@ -2,24 +2,24 @@
 <rss version="2.0" 
   xmlns:media="http://search.yahoo.com/mrss/" 
   xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
-  xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+  xmlns:dtvmedia="http://qa.pculture.org/RSSModules/dtv/1.0">
 <channel>
   <title>Empty Torrent Directory Test Feed</title>
   <description>This is a PCF-governed RSS 2.0 feed to test a torrent feed item that points to an empty directory </description>
-  <link>http://participatoryculture.org/feeds_test/feed20</link>
-  <dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed20</dtvmedia:libraryLink>
+  <link>http://qa.pculture.org/feeds_test/feed20</link>
+  <dtvmedia:libraryLink>http://qa.pculture.org/feeds_test/feed20</dtvmedia:libraryLink>
   <pubDate>Fri, 18 May 2007 15:00:00 GMT </pubDate>
 
   <generator>Participatory Culture Foundation</generator>
 <item><title>Empty Torrent Directory Test Feed</title>
 				<link>http://www.telemusicvision.com/videos/detail/2/bb8be095ce69d238178eedf7d9a1fe26dcbf584c</link>
 				<guid isPermaLink="false">bb8be095ce69d238178eedf7d9a1fe26dcbf584c</guid>
-<dtvmedia:paymentLink><![CDATA[Take a look at <a href="../nightlies">Testing Builds</a>, by <a href="http://www.participatoryculture.org">PCF</a>.]]></dtvmedia:paymentLink>
+<dtvmedia:paymentLink><![CDATA[Take a look at <a href="../nightlies">Testing Builds</a>, by <a href="http://www.qa.pculture.org">PCF</a>.]]></dtvmedia:paymentLink>
 <description>from &quot;PCF&quot;</description>
 
-<enclosure url="http://participatoryculture.org/feeds_test/torrentdirtest.torrent" type="application/x-bittorrent"  length="1" />
+<enclosure url="http://qa.pculture.org/feeds_test/torrentdirtest.torrent" type="application/x-bittorrent"  length="1" />
 		<pubDate>Fri, 18 May 2007 15:00:00 GMT</pubDate>
-<media:thumbnail url="http://participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg" />
+<media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg" />
 </item>
 
   
