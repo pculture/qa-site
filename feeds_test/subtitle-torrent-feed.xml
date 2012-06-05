@@ -6,7 +6,7 @@
    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 <channel>
    <title>Subtitle torrent test feed</title>
-   <link>http://qa.pculture.org/feeds_test/subtitle-torrent-feed.xml</link>
+   <link>http://qa.participatoryculture.org/feeds_test/subtitle-torrent-feed.xml</link>
    <description>contains items for testing videos with subtitles in directory or embedded (mkv)</description>
    <language>en</language>
    <ttl>60</ttl>
@@ -14,42 +14,42 @@
 
 <item>
    <title>Big Buck Bunny ogv with multi language subtitles</title>
-   <link>http://qa.pculture.org/feeds_test/bigbuckbunny.torrent</link>
+   <link>http://qa.participatoryculture.org/feeds_test/bigbuckbunny.torrent</link>
    <description><![CDATA[
 This is the Big Buck Bunny video (.ogv) with various subtitle (en, fr, de) files included in the directory.
 ]]></description>
    <pubDate>Thu, 14 Jan 2010 14:12 GMT</pubDate>
-   <enclosure url="http://qa.pculture.org/feeds_test/bigbuckbunny.torrent" />
+   <enclosure url="http://qa.participatoryculture.org/feeds_test/bigbuckbunny.torrent" />
 </item>
 
 <item>
    <title>subtitle_test01</title>
-   <link>http://qa.pculture.org/feeds_test/bigbuckbunny.torrent</link>
+   <link>http://qa.participatoryculture.org/feeds_test/bigbuckbunny.torrent</link>
    <description><![CDATA[
 This is a torrent dir that contains the same video file in various format.  There is 1 subtitle file that matches all the items.
 ]]></description>
    <pubDate>Thu, 14 Jan 2010 14:12 GMT</pubDate>
-   <enclosure url="http://qa.pculture.org/feeds_test/subtitle_test01.torrent" />
+   <enclosure url="http://qa.participatoryculture.org/feeds_test/subtitle_test01.torrent" />
 </item>
 
 <item>
    <title>subtitle_test02</title>
-   <link>http://qa.pculture.org/feeds_test/bigbuckbunny.torrent</link>
+   <link>http://qa.participatoryculture.org/feeds_test/bigbuckbunny.torrent</link>
    <description><![CDATA[
 This is a torrent dir that contains 1 video file and one .srt file.  The .srt file specifies some formatting that the subtitle should display.
 ]]></description>
    <pubDate>Thu, 14 Jan 2010 14:12 GMT</pubDate>
-   <enclosure url="http://qa.pculture.org/feeds_test/subtitle_test02.torrent" />
+   <enclosure url="http://qa.participatoryculture.org/feeds_test/subtitle_test02.torrent" />
 </item>
 
 <item>
    <title>Matrik mkv with subtitles (from videolan)</title>
-   <link>http://qa.pculture.org/feeds_test/Matrik_Subtitles.mkv.torrent</link>
+   <link>http://qa.participatoryculture.org/feeds_test/Matrik_Subtitles.mkv.torrent</link>
    <description><![CDATA[
 This is an .mkv file from videolan.org that contains embedded subtitles.
 ]]></description>
    <pubDate>Thu, 14 Jan 2010 14:12 GMT</pubDate>
-   <enclosure url="http://qa.pculture.org/feeds_test/Matrik_Subtitles.mkv.torrent" />
+   <enclosure url="http://qa.participatoryculture.org/feeds_test/Matrik_Subtitles.mkv.torrent" />
 </item>
 
 </channel>

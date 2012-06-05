@@ -6,14 +6,14 @@
 <channel>
   <title>Unit Test Feed #1</title>
   <description>We use this feed for unittests</description>
-  <link>http://qa.pculture.org/feeds_test/feed-with-spaces.rss</link>
+  <link>http://qa.participatoryculture.org/feeds_test/feed-with-spaces.rss</link>
   <pubDate>Wed, 19 Apr 2006 13:53:29 -0500</pubDate>
   <generator>Participatory Culture Foundation</generator>
    <item>
      <title>Video 1</title>
-     <link>http://qa.pculture.org/feeds_test/short-video.ogv</link>
+     <link>http://qa.participatoryculture.org/feeds_test/short-video.ogv</link>
      <enclosure 
-	url="http://qa.pculture.org/feeds_test/short-video.ogv"
+	url="http://qa.participatoryculture.org/feeds_test/short-video.ogv"
 	/>
      <pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
   </item>

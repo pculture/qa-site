@@ -15,10 +15,10 @@ if ($i < 1 or $i > 2) {
 	print <<<END
 	This script is meant to test feed updates and the newly available badge display in Miro.
 	You can use the buttons below to replace 
-	<a href="http://qa.pculture.org/feeds_test/feed9.rss">http://qa.pculture.org/feeds_test/feed9.rss</a>
+	<a href="http://qa.participatoryculture.org/feeds_test/feed9.rss">http://qa.participatoryculture.org/feeds_test/feed9.rss</a>
 	with a feed with either one item or ten:<br />
 	<BLOCKQUOTE>
-	<FORM action="http://qa.pculture.org/feeds_test/feed-add-items.php" method="GET">
+	<FORM action="http://qa.participatoryculture.org/feeds_test/feed-add-items.php" method="GET">
 	<input type="radio" name="i" value="1"> 1 Item
 	<br />
 	<input type="radio" name="i" value="2"> 10 Items <br />
@@ -44,32 +44,32 @@ END;
 		This is a PCF-governed RSS 2.0 feed to test feed 
 updating.
 		</description>
-		<link>http://qa.pculture.org/feeds_test/feed1</link>
-		<dtvmedia:libraryLink>http://qa.pculture.org/feeds_test/feed1</dtvmedia:libraryLink>
+		<link>http://qa.participatoryculture.org/feeds_test/feed1</link>
+		<dtvmedia:libraryLink>http://qa.participatoryculture.org/feeds_test/feed1</dtvmedia:libraryLink>
 		<pubDate>Thu, 20 Apr 2006 12:53:29 -0500</pubDate>
 		<generator>Participatory Culture Foundation</generator>
 		<item>
 			<title>Video 1</title>
-			<link>http://qa.pculture.org/feeds_test/py1.mov</link>
+			<link>http://qa.participatoryculture.org/feeds_test/py1.mov</link>
 			<guid 
 isPermaLink=\"false\">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50088</guid>
 			<description>
 				This is the first test video, it is 842 KB and should download quickly.
 			</description>
-			<media:thumbnail url=\"http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg\"/>
-			<enclosure url=\"http://qa.pculture.org/feeds_test/py1.mov\" type=\"video/quicktime\" length=\"842\"/>
+			<media:thumbnail url=\"http://qa.participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg\"/>
+			<enclosure url=\"http://qa.participatoryculture.org/feeds_test/py1.mov\" type=\"video/quicktime\" length=\"842\"/>
 			<pubDate>Wed, 19 Apr 2006 13:53:21 -0500</pubDate>
 		</item>");
 	if ($i == 2) {
 		fputs($f,"<item>
 			<title>Video 2</title>
-			<link>http://qa.pculture.org/feeds_test/machine_gun.avi</link>
+			<link>http://qa.participatoryculture.org/feeds_test/machine_gun.avi</link>
 			<guid isPermaLink=\"false\">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
 			<description>
 				This is the second test video, it is 842 KB and should download quickly.
 			</description>
-			<media:thumbnail url=\"http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg\"/>
-			<enclosure url=\"http://qa.pculture.org/feeds_test/machine_gun.avi\" type=\"video/quicktime\" length=\"842\"/>
+			<media:thumbnail url=\"http://qa.participatoryculture.org/feeds_test/mike_tv_drawing_cropped.jpg\"/>
+			<enclosure url=\"http://qa.participatoryculture.org/feeds_test/machine_gun.avi\" type=\"video/quicktime\" length=\"842\"/>
 			<pubDate>Thu, 20 Apr 2006 13:53:21 -0500</pubDate>
 		</item>
 
