@@ -8,12 +8,6 @@
 	<docs>http://www.opml.org/spec2</docs>
 </head>
 <body>
-	<outline text="novosti">
-		<outline type="rss" text="NBC Nightly News (video)" xmlUrl="http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-NN-NETCAST-M4V.xml" />
-		<outline type="rss" text="ezRSS - Latest torrent releases" xmlUrl="http://ezrss.it/feed/" miro:autoDownload="off"/>
-		<outline type="rss" text="Democracy Now! Video" xmlUrl="http://www.democracynow.org/podcast-video.xml" />
-		<outline type="rss" text="MSNBC Rachel Maddow (video)" xmlUrl="http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml" />
-	</outline>
 	<outline text="London 2012">
 		<outline type="rss" text="Olympics 2012" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio/olympics/rss.xml" />
 		<outline type="rss" text="Youtube London2012" xmlUrl="http://gdata.youtube.com/feeds/base/users/London2012/uploads" />
