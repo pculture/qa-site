@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" 
+   xmlns:html="http://www.w3.org/1999/html" 
+   xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+   <title>TED's EDU 210 Interview Podcast</title>
+   <description>Ted Wallace EDU 210 Podcast</description>
+   <generator>item_to_rss.py 0.5 July 28th, 2012</generator>
+
+<item>
+   <title>EDU 210 Interview Podcast</title>
+   <description>Ted discusses educational trends and protectsion in elmentary and secondary school settings.</description>
+   <pubDate>Saturday, 28 July 2012 21:38 GMT</pubDate>
+   <enclosure url="http://qa.pculture.org/audio_tests/EDU_210_Interview_Podcast.mp3" length="9462349" type="audio/mpeg" />
+</item>
+
+
+</channel>
+</rss>
