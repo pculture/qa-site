@@ -26,7 +26,7 @@
      <title>Video 2</title>
      <link>http://qa.pculture.org/feeds_test/video+with+spaces2.mov</link>
      <guid isPermaLink="false">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description>This is the first test video, it has spaces in its
+     <description>This is the second test video, it has spaces in its
 	     name that are quoted with '%20'.</description>
      <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
      <enclosure 
@@ -39,7 +39,7 @@
      <title>Video 3</title>
      <link>http://qa.pculture.org/feeds_test/video with spaces3.mov</link>
      <guid isPermaLink="false">A1cd241bf61bf9c4fb34aa48ecb252c1e40d50087</guid>
-     <description>This is the second test video, it has spaces in its
+     <description>This is the third test video, it has spaces in its
 	     name, and the name isn't quoted properly in the RSS feed.
      </description>
      <media:thumbnail url="http://qa.pculture.org/feeds_test/mike_tv_drawing_cropped.jpg"/>
