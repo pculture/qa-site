@@ -4,7 +4,7 @@
   xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
   xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
 <channel>
-  <title>No enclosures</title>
+  <title>NO ENCLOSURES</title>
   <description>This is a PCF-governed RSS 2.0 feed to test Yahoo media enclosures. All contents of this feed are for example only.</description>
   <link>http://participatoryculture.org/feeds_test/feed1</link>
   <dtvmedia:libraryLink>http://participatoryculture.org/feeds_test/feed1</dtvmedia:libraryLink>
