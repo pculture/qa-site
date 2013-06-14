@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="auto"
+                tts:origin="5% 5%" 
+                tts:textAlign="center"/>
+    </layout>
+
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:08.617" xml:id="sub-0" end="00:00:12.200" region="top">
+        <span tts:fontStyle="italic">[announcer] One, two. <br/>One, two, three, four.</span>
+      </p>
+      <p begin="00:00:12.278" xml:id="sub-1" end="00:00:13.520">&#9834; [music starting] &#9834;</p>
+      <p begin="00:00:13.582" xml:id="sub-2" end="00:00:15.691" region="top">
+        <span tts:fontStyle="italic">If you enjoy James Brown music,</span>
+      </p>
+      <p begin="00:00:15.691" xml:id="sub-3" end="00:00:17.585">
+        <span tts:fontStyle="italic">you're gonna have a good time tonight.</span>
+      </p>
+      <p begin="00:00:17.585" xml:id="sub-4" end="00:00:19.761">
+        <span tts:fontStyle="italic">We are tonight celebrating Black Velvet</span>
+      </p>
+      <p begin="00:00:19.761" xml:id="sub-5" end="00:00:23.850">
+        <span tts:fontStyle="italic">James Brown, Jr.'s 62nd birthday.</span>
+      </p>
+      <p begin="00:00:23.850" xml:id="sub-6" end="00:00:25.906">
+        <span tts:fontStyle="italic">Whoo, 62!</span>
+      </p>
+      <p begin="00:00:26.476" xml:id="sub-7" end="00:00:28.526">
+        <span tts:fontStyle="italic">So right about now, put your hands together,</span>
+      </p>
+      <p begin="00:00:28.526" xml:id="sub-8" end="00:00:29.758">
+        <span tts:fontStyle="italic">because we got a young man</span>
+      </p>
+      <p begin="00:00:29.758" xml:id="sub-9" end="00:00:31.545">
+        <span tts:fontStyle="italic">who's coming to the stage,</span>
+      </p>
+      <p begin="00:00:31.545" xml:id="sub-10" end="00:00:33.690">
+        <span tts:fontStyle="italic">who's been on the David Letterman Show,</span>
+      </p>
+      <p begin="00:00:33.690" xml:id="sub-11" end="00:00:35.777">put your hands together and meet and greet</p>
+      <p begin="00:00:35.777" xml:id="sub-12" end="00:00:39.963">Black Velvet, James Brown, Jr!</p>
+      <p begin="00:00:39.963" xml:id="sub-13" end="00:00:42.279">[audience applause]</p>
+      <p begin="00:00:42.279" xml:id="sub-14" end="00:00:43.952">&#9834; [It's a Man's Man's Man's World playing] &#9834;</p>
+      <p begin="00:00:43.952" xml:id="sub-15" end="00:00:49.249">&#9834; It's a man's world. &#9834;</p>
+      <p begin="00:00:49.249" xml:id="sub-16" end="00:00:55.556">&#9834; But I would be nothing, nothing ... &#9834;</p>
+      <p begin="00:00:55.556" xml:id="sub-17" end="00:00:56.715">- [Charles] I've been playing James Brown</p>
+      <p begin="00:00:56.715" xml:id="sub-18" end="00:01:03.956">since I was 14 years old.</p>
+      <p begin="00:01:03.956" xml:id="sub-19" end="00:01:06.475">&#9834; [song ending] &#9834;</p>
+      <p begin="00:01:06.475" xml:id="sub-20" end="00:01:07.935">[audience applauding]</p>
+      <p begin="00:01:07.935" xml:id="sub-21" end="00:01:11.271">[female audience shouting]</p>
+      <p begin="00:01:11.271" xml:id="sub-22" end="00:01:15.860">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:01:15.860" xml:id="sub-23" end="00:01:19.767">But now I wanna do Charles Bradley.</p>
+      <p begin="00:01:19.767" xml:id="sub-24" end="00:01:42.445">&#9834; [music playing] &#9834;</p>
+      <p begin="00:01:42.599" xml:id="sub-25" end="00:01:44.471">My first album original</p>
+      <p begin="00:01:44.471" xml:id="sub-26" end="00:01:48.132">is coming out January 25th.</p>
+      <p begin="00:01:48.132" xml:id="sub-27" end="00:01:51.271">I've been struggling for over 42 years</p>
+      <p begin="00:01:51.271" xml:id="sub-28" end="00:01:53.764">trying to make it in the industry</p>
+      <p begin="00:01:53.764" xml:id="sub-29" end="00:01:54.731">and at age the of 62,</p>
+      <p begin="00:01:54.731" xml:id="sub-30" end="00:01:56.775">I'm just beginning to find my way through.</p>
+      <p begin="00:01:59.086" xml:id="sub-31" end="00:02:01.071">I never made enough money</p>
+      <p begin="00:02:01.071" xml:id="sub-32" end="00:02:03.928">to support myself in music</p>
+      <p begin="00:02:03.928" xml:id="sub-33" end="00:02:05.993">but I'm hoping that this album will</p>
+      <p begin="00:02:05.993" xml:id="sub-34" end="00:02:07.442">make a turning point for me,</p>
+      <p begin="00:02:07.442" xml:id="sub-35" end="00:02:10.252">that I can support myself in music.</p>
+      <p begin="00:02:15.314" xml:id="sub-36" end="00:02:16.837">Hey, man.</p>
+      <p begin="00:02:16.837" xml:id="sub-37" end="00:02:18.808">I'm gonna give you water, okay?</p>
+      <p begin="00:02:18.808" xml:id="sub-38" end="00:02:20.155">
+        <span tts:fontStyle="italic">Hey, man.</span>
+      </p>
+      <p begin="00:02:20.155" xml:id="sub-39" end="00:02:21.584">
+        <span tts:fontStyle="italic">That's my bird.</span>
+      </p>
+      <p begin="00:02:21.584" xml:id="sub-40" end="00:02:22.554">
+        <span tts:fontStyle="italic">Make me mad.</span>
+      </p>
+      <p begin="00:02:22.647" xml:id="sub-41" end="00:02:23.782">I get mad, I get away from it.</p>
+      <p begin="00:02:23.782" xml:id="sub-42" end="00:02:25.520">I go in the back room, close the door,</p>
+      <p begin="00:02:25.520" xml:id="sub-43" end="00:02:27.328">and let him scream all he wanna.</p>
+      <p begin="00:02:28.020" xml:id="sub-44" end="00:02:29.057">And I have my little stable place,</p>
+      <p begin="00:02:29.057" xml:id="sub-45" end="00:02:30.590">it's not what I want,</p>
+      <p begin="00:02:30.590" xml:id="sub-46" end="00:02:33.199">but thank God I got a roof over my head.</p>
+      <p begin="00:02:34.221" xml:id="sub-47" end="00:02:35.529">
+        <span tts:fontStyle="italic">When I go in my little apartment</span>
+      </p>
+      <p begin="00:02:35.529" xml:id="sub-48" end="00:02:37.113">
+        <span tts:fontStyle="italic">and lock my door,</span>
+      </p>
+      <p begin="00:02:37.113" xml:id="sub-49" end="00:02:38.734">I'm in peace.</p>
+      <p begin="00:02:38.734" xml:id="sub-50" end="00:02:40.496">
+        <span tts:fontStyle="italic">But going into the projects,</span>
+      </p>
+      <p begin="00:02:40.496" xml:id="sub-51" end="00:02:43.225">
+        <span tts:fontStyle="italic">going into the elevator,</span>
+      </p>
+      <p begin="00:02:43.225" xml:id="sub-52" end="00:02:44.907">
+        <span tts:fontStyle="italic">getting in there,</span>
+      </p>
+      <p begin="00:02:44.907" xml:id="sub-53" end="00:02:46.295">
+        <span tts:fontStyle="italic">that's where the trouble start.</span>
+      </p>
+      <p begin="00:02:46.295" xml:id="sub-54" end="00:02:47.076">You never know</p>
+      <p begin="00:02:47.076" xml:id="sub-55" end="00:02:49.924">what gonna happen in those things.</p>
+      <p begin="00:02:49.924" xml:id="sub-56" end="00:02:50.663">The guy downstairs,</p>
+      <p begin="00:02:50.663" xml:id="sub-57" end="00:02:52.366">his name is Alfred,</p>
+      <p begin="00:02:52.366" xml:id="sub-58" end="00:02:53.956">very good guy, don't bother nobody.</p>
+      <p begin="00:02:53.956" xml:id="sub-59" end="00:02:54.783">Church guy.</p>
+      <p begin="00:02:54.783" xml:id="sub-60" end="00:02:56.731">
+        <span tts:fontStyle="italic">They shoot up his place.</span>
+      </p>
+      <p begin="00:02:56.731" xml:id="sub-61" end="00:02:57.753">
+        <span tts:fontStyle="italic">He showed me all the holes</span>
+      </p>
+      <p begin="00:02:57.753" xml:id="sub-62" end="00:02:59.228">
+        <span tts:fontStyle="italic">where they shoot up in the place.</span>
+      </p>
+      <p begin="00:02:59.228" xml:id="sub-63" end="00:03:00.011">
+        <span tts:fontStyle="italic">I said, "Wow, man."</span>
+      </p>
+      <p begin="00:03:00.011" xml:id="sub-64" end="00:03:00.741">
+        <span tts:fontStyle="italic">I said,</span>
+      </p>
+      <p begin="00:03:00.741" xml:id="sub-65" end="00:03:03.017">
+        <span tts:fontStyle="italic">"Uh, I couldn't live on the first floor."</span>
+      </p>
+      <p begin="00:03:03.017" xml:id="sub-66" end="00:03:04.586">[Charles] When it get too</p>
+      <p begin="00:03:04.586" xml:id="sub-67" end="00:03:06.289">crazy at the projects,</p>
+      <p begin="00:03:06.289" xml:id="sub-68" end="00:03:08.007">I go to my Mom's house</p>
+      <p begin="00:03:08.007" xml:id="sub-69" end="00:03:09.737">and I sleep in her basement.</p>
+      <p begin="00:03:22.075" xml:id="sub-70" end="00:03:23.691">So I come here</p>
+      <p begin="00:03:23.691" xml:id="sub-71" end="00:03:26.011">and this is where I crash.</p>
+      <p begin="00:03:26.011" xml:id="sub-72" end="00:03:27.269">Until the next day,</p>
+      <p begin="00:03:27.269" xml:id="sub-73" end="00:03:29.058">I go take care of their errands,</p>
+      <p begin="00:03:29.058" xml:id="sub-74" end="00:03:30.105">take care of everything</p>
+      <p begin="00:03:30.105" xml:id="sub-75" end="00:03:33.638">to keep the roof over both our heads.</p>
+      <p begin="00:03:33.931" xml:id="sub-76" end="00:03:37.370">I like to roll a little of this</p>
+      <p begin="00:03:37.370" xml:id="sub-77" end="00:03:38.964">in a little ball.</p>
+      <p begin="00:03:41.703" xml:id="sub-78" end="00:03:42.552">Just put these in.</p>
+      <p begin="00:03:45.722" xml:id="sub-79" end="00:03:46.898">
+        <span tts:fontStyle="italic">[Charles] Hey, how's that rice?</span>
+      </p>
+      <p begin="00:03:47.067" xml:id="sub-80" end="00:03:48.366">- Let me see?</p>
+      <p begin="00:03:50.135" xml:id="sub-81" end="00:03:52.056">Just a little bit more.</p>
+      <p begin="00:03:52.194" xml:id="sub-82" end="00:03:55.126">- I came from family of eight.</p>
+      <p begin="00:03:55.188" xml:id="sub-83" end="00:03:58.021">
+        <span tts:fontStyle="italic">Um, main goal is watching over,</span>
+      </p>
+      <p begin="00:03:58.021" xml:id="sub-84" end="00:04:01.799">
+        <span tts:fontStyle="italic">is my mom and do the best I can.</span>
+      </p>
+      <p begin="00:04:02.707" xml:id="sub-85" end="00:04:04.664">- It's my baby boy,</p>
+      <p begin="00:04:04.664" xml:id="sub-86" end="00:04:06.777">and I love him.</p>
+      <p begin="00:04:06.883" xml:id="sub-87" end="00:04:08.556">
+        <span tts:fontStyle="italic">[Mom] He wash my clothes.</span>
+      </p>
+      <p begin="00:04:08.726" xml:id="sub-88" end="00:04:10.216">
+        <span tts:fontStyle="italic">He clean this house.</span>
+      </p>
+      <p begin="00:04:10.216" xml:id="sub-89" end="00:04:10.945">
+        <span tts:fontStyle="italic">Valentine's Day,</span>
+      </p>
+      <p begin="00:04:10.945" xml:id="sub-90" end="00:04:13.555">
+        <span tts:fontStyle="italic">he bought me a box of candy.</span>
+      </p>
+      <p begin="00:04:13.555" xml:id="sub-91" end="00:04:14.911">As sweet as that candy is,</p>
+      <p begin="00:04:14.911" xml:id="sub-92" end="00:04:16.888">is how sweet my baby is.</p>
+      <p begin="00:04:16.888" xml:id="sub-93" end="00:04:17.835">- [Charles] I just making</p>
+      <p begin="00:04:17.835" xml:id="sub-94" end="00:04:19.292">her life peaceful</p>
+      <p begin="00:04:19.292" xml:id="sub-95" end="00:04:19.668">and</p>
+      <p begin="00:04:19.668" xml:id="sub-96" end="00:04:21.712">so, where she cannot worry about</p>
+      <p begin="00:04:21.712" xml:id="sub-97" end="00:04:23.312">the bills and everything.</p>
+      <p begin="00:04:23.312" xml:id="sub-98" end="00:04:25.228">I took that upon my shoulder</p>
+      <p begin="00:04:25.228" xml:id="sub-99" end="00:04:26.190">and I really,</p>
+      <p begin="00:04:26.190" xml:id="sub-100" end="00:04:27.831">I didn't know what I was myself getting into.</p>
+      <p begin="00:04:27.831" xml:id="sub-101" end="00:04:29.243">But now, I'm in it.</p>
+      <p begin="00:04:29.243" xml:id="sub-102" end="00:04:30.083">I won't change it.</p>
+      <p begin="00:04:30.083" xml:id="sub-103" end="00:04:31.971">So only thing I can do is try</p>
+      <p begin="00:04:32.002" xml:id="sub-104" end="00:04:32.968">make something to work</p>
+      <p begin="00:04:32.968" xml:id="sub-105" end="00:04:34.297">where I can make a decent income</p>
+      <p begin="00:04:34.297" xml:id="sub-106" end="00:04:37.211">where I can live and let live.</p>
+      <p begin="00:04:37.211" xml:id="sub-107" end="00:04:40.030">And that's all I, I can ask for life now.</p>
+      <p begin="00:04:40.138" xml:id="sub-108" end="00:04:46.875">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:04:46.875" xml:id="sub-109" end="00:04:50.615">&#9834; Round and round we go again.</p>
+      <p begin="00:04:50.615" xml:id="sub-110" end="00:04:55.222">&#9834; Where it stop, nobody knows.&#9834;</p>
+      <p begin="00:04:55.222" xml:id="sub-111" end="00:04:58.565">&#9834; It's a cold, cold world. &#9834;</p>
+      <p begin="00:04:58.965" xml:id="sub-112" end="00:05:02.469">&#9834; It's a cold, cold world. &#9834;</p>
+      <p begin="00:05:04.254" xml:id="sub-113" end="00:05:06.173">&#9834; How can we stop the changes &#9834;</p>
+      <p begin="00:05:06.173" xml:id="sub-114" end="00:05:11.219">&#9834; going on in America today?&#9834;</p>
+      <p begin="00:05:21.033" xml:id="sub-115" end="00:05:25.022">&#9834; Ohhh, ohhh, ohhh &#9834;</p>
+      <p begin="00:05:31.466" xml:id="sub-116" end="00:05:33.575">&#9834; Go back. &#9834;</p>
+      <p begin="00:05:33.575" xml:id="sub-117" end="00:05:37.287">&#9834; Go back to the Golden Rule. &#9834;</p>
+      <p begin="00:05:37.287" xml:id="sub-118" end="00:05:38.994">&#9834; Oh. Ah. Uh. &#9834;</p>
+      <p begin="00:05:39.455" xml:id="sub-119" end="00:05:40.963">&#9834; Go back. &#9834;</p>
+      <p begin="00:05:40.963" xml:id="sub-120" end="00:05:45.504">&#9834; Go back to the Golden Rule. &#9834;</p>
+      <p begin="00:05:45.504" xml:id="sub-121" end="00:05:48.215">&#9834; Bring it all down. &#9834;</p>
+      <p begin="00:05:48.215" xml:id="sub-122" end="00:06:02.594">&#9834; [Music] &#9834;</p>
+      <p begin="00:06:02.594" xml:id="sub-123" end="00:06:03.438">- That's a song</p>
+      <p begin="00:06:03.438" xml:id="sub-124" end="00:06:05.399">from the new record, <span tts:fontStyle="italic">No Time For Dreaming<span tts:fontStyle="italic">.</span></span></p>
+      <p begin="00:06:05.399" xml:id="sub-125" end="00:06:06.525">Charles Bradley</p>
+      <p begin="00:06:06.525" xml:id="sub-126" end="00:06:08.402">and the Menahan Street Band.</p>
+      <p begin="00:06:08.402" xml:id="sub-127" end="00:06:09.111">I can't believe</p>
+      <p begin="00:06:09.111" xml:id="sub-128" end="00:06:10.445">you just came outta nowhere</p>
+      <p begin="00:06:10.445" xml:id="sub-129" end="00:06:12.656">as a virtual unknown to us.</p>
+      <p begin="00:06:12.656" xml:id="sub-130" end="00:06:14.858">
+        <span tts:fontStyle="italic">[radio DJ] Have you recorded before?</span>
+      </p>
+      <p begin="00:06:14.981" xml:id="sub-131" end="00:06:16.277">- No.</p>
+      <p begin="00:06:16.277" xml:id="sub-132" end="00:06:18.820">And it's my first time really, coming out.</p>
+      <p begin="00:06:18.820" xml:id="sub-133" end="00:06:21.099">- I know you've been performing.</p>
+      <p begin="00:06:21.099" xml:id="sub-134" end="00:06:21.901">- Yes.</p>
+      <p begin="00:06:21.931" xml:id="sub-135" end="00:06:23.170">- As Black Velvet.</p>
+      <p begin="00:06:23.170" xml:id="sub-136" end="00:06:24.044">-<span tts:fontStyle="italic">[Charles] Yes.</span></p>
+      <p begin="00:06:24.044" xml:id="sub-137" end="00:06:25.335">- So now you're performing as-</p>
+      <p begin="00:06:25.335" xml:id="sub-138" end="00:06:27.064">as Charles Bradley?</p>
+      <p begin="00:06:27.064" xml:id="sub-139" end="00:06:28.076">- Yeah, yeah.</p>
+      <p begin="00:06:28.076" xml:id="sub-140" end="00:06:29.298">- <span tts:fontStyle="italic">[radio DJ] Well, you certainly have a-a great band </span></p>
+      <p begin="00:06:29.298" xml:id="sub-141" end="00:06:30.879">
+        <span tts:fontStyle="italic">backing you here.</span>
+      </p>
+      <p begin="00:06:30.879" xml:id="sub-142" end="00:06:31.667">
+        <span tts:fontStyle="italic">And of course,</span>
+      </p>
+      <p begin="00:06:31.667" xml:id="sub-143" end="00:06:33.302">with the folks over at Daptone,</p>
+      <p begin="00:06:33.302" xml:id="sub-144" end="00:06:34.463">you know,</p>
+      <p begin="00:06:34.463" xml:id="sub-145" end="00:06:36.037">what a great crew they are.</p>
+      <p begin="00:06:36.037" xml:id="sub-146" end="00:06:36.597">And you've seen</p>
+      <p begin="00:06:36.597" xml:id="sub-147" end="00:06:39.276">what's happened with Sharon Jones, who,<br/>- [Charles] Yes, yes.</p>
+      <p begin="00:06:39.276" xml:id="sub-148" end="00:06:41.340">you know, just like you,</p>
+      <p begin="00:06:41.340" xml:id="sub-149" end="00:06:42.882">went from complete obscurity to</p>
+      <p begin="00:06:42.897" xml:id="sub-150" end="00:06:45.464">who knows what kinda heights you could scale.</p>
+      <p begin="00:06:45.464" xml:id="sub-151" end="00:06:46.872">
+        <span tts:fontStyle="italic">[radio DJ] So that's,</span>
+      </p>
+      <p begin="00:06:46.872" xml:id="sub-152" end="00:06:49.067">that's got to be an exciting moment for you?</p>
+      <p begin="00:06:49.067" xml:id="sub-153" end="00:06:51.820">- I think God just answered my prayer,</p>
+      <p begin="00:06:51.820" xml:id="sub-154" end="00:06:53.864">you know, it just like really,</p>
+      <p begin="00:06:53.864" xml:id="sub-155" end="00:06:56.033">I asked myself why it took so long,</p>
+      <p begin="00:06:56.033" xml:id="sub-156" end="00:06:57.451">but you can't question God</p>
+      <p begin="00:06:57.451" xml:id="sub-157" end="00:06:59.411">when he wanna do things.</p>
+      <p begin="00:06:59.411" xml:id="sub-158" end="00:07:02.975">So at my late age, it just started coming.</p>
+      <p begin="00:07:03.098" xml:id="sub-159" end="00:07:03.916">- [radio DJ] What's next?</p>
+      <p begin="00:07:03.916" xml:id="sub-160" end="00:07:05.375">I mean, are you thinking big?</p>
+      <p begin="00:07:05.375" xml:id="sub-161" end="00:07:07.144">- I'm thinking the sky's the limit.</p>
+      <p begin="00:07:07.144" xml:id="sub-162" end="00:07:09.421">- Congratulations to you on this great record.</p>
+      <p begin="00:07:09.421" xml:id="sub-163" end="00:07:10.737">No matter what happens with it,</p>
+      <p begin="00:07:10.737" xml:id="sub-164" end="00:07:12.632">it's a fine piece of work.</p>
+      <p begin="00:07:12.632" xml:id="sub-165" end="00:07:14.943">
+        <span tts:fontStyle="italic">[radio DJ] Charles Bradley on WFUV.</span>
+      </p>
+      <p begin="00:07:15.113" xml:id="sub-166" end="00:07:18.346">&#9834; [Music] &#9834;</p>
+      <p begin="00:07:18.346" xml:id="sub-167" end="00:07:23.685">&#9834; This world going up in flames. &#9834;</p>
+      <p begin="00:07:23.685" xml:id="sub-168" end="00:07:29.107">&#9834; And nobody wanna take the blame. &#9834;</p>
+      <p begin="00:07:29.107" xml:id="sub-169" end="00:07:34.286">&#9834; Don't tell me how to live my life. &#9834;</p>
+      <p begin="00:07:34.286" xml:id="sub-170" end="00:07:39.746">&#9834; When you never felt the pain. &#9834;</p>
+      <p begin="00:07:39.746" xml:id="sub-171" end="00:07:45.790">&#9834; Ohhh. Ahhh. Ohhh &#9834;</p>
+      <p begin="00:07:45.790" xml:id="sub-172" end="00:07:48.335">&#9834;Ohhh.&#9834;</p>
+      <p begin="00:07:48.335" xml:id="sub-173" end="00:07:51.051">&#9834; Don't they see me cry? &#9834;</p>
+      <p begin="00:07:51.051" xml:id="sub-174" end="00:07:52.883">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:07:52.883" xml:id="sub-175" end="00:07:54.800">&#9834; [music fading] &#9834;</p>
+      <p begin="00:07:54.800" xml:id="sub-176" end="00:07:56.051">- I don't know how many artists</p>
+      <p begin="00:07:56.051" xml:id="sub-177" end="00:07:57.718">have ever been 62 years old</p>
+      <p begin="00:07:57.718" xml:id="sub-178" end="00:07:59.445">and released their debut record.</p>
+      <p begin="00:08:00.213" xml:id="sub-179" end="00:08:01.950">He may be the first.</p>
+      <p begin="00:08:02.777" xml:id="sub-180" end="00:08:04.936">- The guy is just getting it,</p>
+      <p begin="00:08:04.936" xml:id="sub-181" end="00:08:06.937">getting it going, as far as I'm concerned.</p>
+      <p begin="00:08:06.937" xml:id="sub-182" end="00:08:09.215">-He's worked very hard for a long time.</p>
+      <p begin="00:08:09.338" xml:id="sub-183" end="00:08:10.858">And I'd hope that-</p>
+      <p begin="00:08:10.858" xml:id="sub-184" end="00:08:12.484">that enough people can hear him sing,</p>
+      <p begin="00:08:12.484" xml:id="sub-185" end="00:08:13.151">so that-</p>
+      <p begin="00:08:13.151" xml:id="sub-186" end="00:08:14.361">that he can make the kind of life for himself</p>
+      <p begin="00:08:14.361" xml:id="sub-187" end="00:08:16.889">that he wants and take care of his family.</p>
+      <p begin="00:08:16.889" xml:id="sub-188" end="00:08:17.626">&#9834; [music starting] &#9834;</p>
+      <p begin="00:08:17.626" xml:id="sub-189" end="00:08:20.701">&#9834; Uh. Yeah. &#9834;</p>
+      <p begin="00:08:20.701" xml:id="sub-190" end="00:08:23.120">&#9834; I'm talking to you girl. &#9834;</p>
+      <p begin="00:08:23.120" xml:id="sub-191" end="00:08:24.538">&#9834; Yeah. &#9834;</p>
+      <p begin="00:08:24.538" xml:id="sub-192" end="00:08:27.392">&#9834; Only you ... &#9834;</p>
+      <p begin="00:08:27.392" xml:id="sub-193" end="00:08:28.333">
+        <span tts:fontStyle="italic">[Charles] I went to Gabe</span>
+      </p>
+      <p begin="00:08:28.333" xml:id="sub-194" end="00:08:30.502">
+        <span tts:fontStyle="italic">'cause I thought that he knew what he was doing.</span>
+      </p>
+      <p begin="00:08:30.502" xml:id="sub-195" end="00:08:32.129">And I felt that he can give me a helping hand</p>
+      <p begin="00:08:32.129" xml:id="sub-196" end="00:08:34.673">
+        <span tts:fontStyle="italic">where I can get out to the music industry. </span>
+      </p>
+      <p begin="00:08:34.673" xml:id="sub-197" end="00:08:38.569">
+        <span tts:fontStyle="italic">All I knew how to do is get on stage and<br/> to perform.</span>
+      </p>
+      <p begin="00:08:38.692" xml:id="sub-198" end="00:08:42.118">- If you're into funk and soul music or <br/>Afrobeat and you live in New York,</p>
+      <p begin="00:08:42.226" xml:id="sub-199" end="00:08:45.036">
+        <span tts:fontStyle="italic">Gabe Roth is the guy that you want behind the <br/>board.</span>
+      </p>
+      <p begin="00:08:45.174" xml:id="sub-200" end="00:08:47.708">
+        <span tts:fontStyle="italic">This is the guy that you want pushing you in<br/> the direction,</span>
+      </p>
+      <p begin="00:08:47.708" xml:id="sub-201" end="00:08:49.778">
+        <span tts:fontStyle="italic">because their records were phenomenal.</span>
+      </p>
+      <p begin="00:08:50.994" xml:id="sub-202" end="00:08:53.773">- I just started making the kind of records<br/>that I like listening to.</p>
+      <p begin="00:08:53.849" xml:id="sub-203" end="00:08:55.318">
+        <span tts:fontStyle="italic">I think a lot of those soul records have a</span>
+      </p>
+      <p begin="00:08:55.318" xml:id="sub-204" end="00:09:00.384">
+        <span tts:fontStyle="italic">certain sincerity to 'em that I always liked.</span>
+      </p>
+      <p begin="00:09:01.137" xml:id="sub-205" end="00:09:02.724">One morning, and I think it was pretty <br/>early,</p>
+      <p begin="00:09:02.832" xml:id="sub-206" end="00:09:04.266">it was like nine or ten in the morning,</p>
+      <p begin="00:09:04.297" xml:id="sub-207" end="00:09:06.394">I get a knock on my door and it was <br/>Charles.</p>
+      <p begin="00:09:06.532" xml:id="sub-208" end="00:09:08.932">[Gabe] And he said, I heard you were <br/>looking for singers.</p>
+      <p begin="00:09:09.040" xml:id="sub-209" end="00:09:10.668">Well, I heard you were looking for me.</p>
+      <p begin="00:09:11.268" xml:id="sub-210" end="00:09:13.092">I had no idea what he was talking <br/>about.</p>
+      <p begin="00:09:13.092" xml:id="sub-211" end="00:09:15.506">
+        <span tts:fontStyle="italic">So, he shows me this video tape of <br/>him singing these James Brown songs.</span>
+      </p>
+      <p begin="00:09:15.506" xml:id="sub-212" end="00:09:16.784">
+        <span tts:fontStyle="italic">And he sounds great, you know?</span>
+      </p>
+      <p begin="00:09:17.538" xml:id="sub-213" end="00:09:20.920">- Gabe Roth from Daptone Records <br/>brought him down to a rehearsal</p>
+      <p begin="00:09:20.920" xml:id="sub-214" end="00:09:22.412">
+        <span tts:fontStyle="italic">in Staten Island that we were having.</span>
+      </p>
+      <p begin="00:09:22.412" xml:id="sub-215" end="00:09:24.470">
+        <span tts:fontStyle="italic">And Gabe wanted us to record <br/>with a singer.</span>
+      </p>
+      <p begin="00:09:24.500" xml:id="sub-216" end="00:09:26.613">
+        <span tts:fontStyle="italic">So Charles was a singer that they <br/>had yet to find a band</span>
+      </p>
+      <p begin="00:09:26.613" xml:id="sub-217" end="00:09:28.004">with on Daptone</p>
+      <p begin="00:09:28.004" xml:id="sub-218" end="00:09:30.048">
+        <span tts:fontStyle="italic">but they had -- Charles<br/>had captured their attention.</span>
+      </p>
+      <p begin="00:09:30.140" xml:id="sub-219" end="00:09:33.803">- I just figured, you know, see how <br/>Charles works with them, you know?</p>
+      <p begin="00:09:33.926" xml:id="sub-220" end="00:09:37.401">&#9834; Stop. &#9834;</p>
+      <p begin="00:09:37.401" xml:id="sub-221" end="00:09:41.782">&#9834; Stop it, baby. &#9834;</p>
+      <p begin="00:09:41.782" xml:id="sub-222" end="00:09:45.952">&#9834; Ohhh. &#9834;</p>
+      <p begin="00:09:45.952" xml:id="sub-223" end="00:09:49.665">&#9834; I'm feeling awful, baby. &#9834;</p>
+      <p begin="00:09:49.665" xml:id="sub-224" end="00:09:51.958">&#9834; And I'm locked up in cage ..." &#9834;</p>
+      <p begin="00:09:51.958" xml:id="sub-225" end="00:09:56.661">- I played with Tommy's, ah, band that <br/>he had over-over at Staten Island.</p>
+      <p begin="00:09:57.110" xml:id="sub-226" end="00:09:59.636">
+        <span tts:fontStyle="italic">I just went over there one day <br/>and they was rehearsing.</span>
+      </p>
+      <p begin="00:09:59.636" xml:id="sub-227" end="00:10:01.635">
+        <span tts:fontStyle="italic">They was jamming and they were sitting, <br/>telling me,</span>
+      </p>
+      <p begin="00:10:01.635" xml:id="sub-228" end="00:10:04.930">"Hey man, sing on this, sing on this,<br/>sing on this."</p>
+      <p begin="00:10:04.930" xml:id="sub-229" end="00:10:08.684">And I mean, I'm liking the music, <br/>I never -- the lyrics were just</p>
+      <p begin="00:10:08.684" xml:id="sub-230" end="00:10:10.269">popping in my head.</p>
+      <p begin="00:10:10.269" xml:id="sub-231" end="00:10:14.188">- So, that all worked out well. <br/>And we recorded those songs</p>
+      <p begin="00:10:14.188" xml:id="sub-232" end="00:10:17.442">with Bradley at Daptone and, uh, <br/>they were good songs</p>
+      <p begin="00:10:17.442" xml:id="sub-233" end="00:10:19.236">but they just didn't take off.</p>
+      <p begin="00:10:19.236" xml:id="sub-234" end="00:10:21.333">
+        <span tts:fontStyle="italic">And then we kinda went in <br/>different directions.</span>
+      </p>
+      <p begin="00:10:22.040" xml:id="sub-235" end="00:10:28.347">- Two years went by and I was, um,<br/>doing James Brown in small clubs.</p>
+      <p begin="00:10:28.501" xml:id="sub-236" end="00:10:33.381">And then I got a call to come round, <br/>do a show with Sharon Jones.</p>
+      <p begin="00:10:33.566" xml:id="sub-237" end="00:10:36.121">- So we rehearsed, we played the <br/>show, great.</p>
+      <p begin="00:10:36.244" xml:id="sub-238" end="00:10:38.250">Me and Charles see each other <br/>for the first time in a couple years,</p>
+      <p begin="00:10:38.358" xml:id="sub-239" end="00:10:43.291">and, uh, you know, we catch up a little<br/>bit and I say, "Hey Charles, you know,</p>
+      <p begin="00:10:43.291" xml:id="sub-240" end="00:10:45.762">I'm working on some music, so <br/>how about you come over one night</p>
+      <p begin="00:10:45.762" xml:id="sub-241" end="00:10:47.139">and we give it a shot."</p>
+      <p begin="00:10:47.139" xml:id="sub-242" end="00:10:49.124">
+        <span tts:fontStyle="italic">And he said, "Yeah Tommy, of course, <br/>you know."</span>
+      </p>
+      <p begin="00:10:49.124" xml:id="sub-243" end="00:10:51.709">We magically recorded two songs <br/>in one night.</p>
+      <p begin="00:10:51.709" xml:id="sub-244" end="00:10:54.066">One which was, <br/><span tts:fontStyle="italic">The World's Going Up in Flames,</span></p>
+      <p begin="00:10:54.174" xml:id="sub-245" end="00:10:56.257">and one which was, <span tts:fontStyle="italic">In You, I Found a Love.</span></p>
+      <p begin="00:10:56.257" xml:id="sub-246" end="00:11:00.094">And Charles was right here and <br/>I was right here, pressing record,</p>
+      <p begin="00:11:00.217" xml:id="sub-247" end="00:11:03.612">and we, you know, we wrote it <br/>together, and, uh, and that was it.</p>
+      <p begin="00:11:03.720" xml:id="sub-248" end="00:11:06.538">I mean the music was laid down <br/>but he was just coming out</p>
+      <p begin="00:11:06.538" xml:id="sub-249" end="00:11:09.947">with lyrics off the cuff, and I was just, <br/>uh, putting it in the right place.</p>
+      <p begin="00:11:10.101" xml:id="sub-250" end="00:11:26.833">&#9834; [music starting] &#9834;</p>
+      <p begin="00:11:30.495" xml:id="sub-251" end="00:11:32.596">Okay, we haven't played so many <br/>shows with Charles up to this point.</p>
+      <p begin="00:11:32.596" xml:id="sub-252" end="00:11:38.180">We played a couple live performances,<br/>I think for -- for Charles is, you know,</p>
+      <p begin="00:11:38.195" xml:id="sub-253" end="00:11:41.943">he's -- he just wants -- <br/>he wants to get across, and he wants to,</p>
+      <p begin="00:11:41.943" xml:id="sub-254" end="00:11:45.426">uh, you know, he wants to reach <br/>every single person in the audience.</p>
+      <p begin="00:11:45.580" xml:id="sub-255" end="00:11:49.835">So, what you -- what we rehearse <br/>and what goes down on stage</p>
+      <p begin="00:11:49.835" xml:id="sub-256" end="00:11:50.917">is two different things.</p>
+      <p begin="00:11:50.917" xml:id="sub-257" end="00:11:53.957">I mean, the band's gonna be tight,<br/>and the only thing we try to rehearse</p>
+      <p begin="00:11:54.065" xml:id="sub-258" end="00:11:56.658">with Charles is to let Charles lead <br/>the band.</p>
+      <p begin="00:11:57.427" xml:id="sub-259" end="00:12:00.356">&#9834; [band rehearsing] &#9834;</p>
+      <p begin="00:12:00.494" xml:id="sub-260" end="00:12:03.048">- Bam, bam, bam, bam.</p>
+      <p begin="00:12:04.771" xml:id="sub-261" end="00:12:06.723">- Three, four.</p>
+      <p begin="00:12:06.904" xml:id="sub-262" end="00:12:25.570">&#9834; [Band practicing] &#9834;</p>
+      <p begin="00:12:25.570" xml:id="sub-263" end="00:12:31.034">&#9834; In you, I found love. &#9834;</p>
+      <p begin="00:12:31.034" xml:id="sub-264" end="00:12:35.455">&#9834; That makes me feel so real. &#9834;</p>
+      <p begin="00:12:35.455" xml:id="sub-265" end="00:12:38.041">&#9834; Oh, baby. &#9834;</p>
+      <p begin="00:12:38.041" xml:id="sub-266" end="00:12:45.461">&#9834; Sometimes, when I'm sleeping at night, &#9834;</p>
+      <p begin="00:12:45.461" xml:id="sub-267" end="00:12:52.973">&#9834; I wake up <br/>and you're nowhere to be found. &#9834;</p>
+      <p begin="00:12:52.973" xml:id="sub-268" end="00:13:00.773">&#9834; You said you loved me <br/>and you'll always be around. &#9834;</p>
+      <p begin="00:13:00.773" xml:id="sub-269" end="00:13:04.985">&#9834; In you, I thought I ... &#9834;</p>
+      <p begin="00:13:04.985" xml:id="sub-270" end="00:13:08.032">- The new music, for once, is me.</p>
+      <p begin="00:13:08.032" xml:id="sub-271" end="00:13:11.492">It's things that I have experienced <br/>and I have went through, heartaches</p>
+      <p begin="00:13:11.492" xml:id="sub-272" end="00:13:14.036">and pains.</p>
+      <p begin="00:13:14.036" xml:id="sub-273" end="00:13:17.956">&#9834; I don't want to be a fool no more. &#9834;</p>
+      <p begin="00:13:17.956" xml:id="sub-274" end="00:13:24.087">&#9834; [music stopping] &#9834;</p>
+      <p begin="00:13:24.087" xml:id="sub-275" end="00:13:27.970">- Yeah, Bradley. You waited twice for the horns.<br/>- You told me that...</p>
+      <p begin="00:13:28.703" xml:id="sub-276" end="00:13:29.426">- Yes, that's perfect.</p>
+      <p begin="00:13:29.426" xml:id="sub-277" end="00:13:33.104">[band applauding]</p>
+      <p begin="00:13:33.219" xml:id="sub-278" end="00:13:33.981">- I'd like to say goodnight.</p>
+      <p begin="00:13:33.981" xml:id="sub-279" end="00:13:36.321">We can always do this sometime.</p>
+      <p begin="00:13:36.429" xml:id="sub-280" end="00:13:39.025">It was - it was a real party, Tommy</p>
+      <p begin="00:13:39.178" xml:id="sub-281" end="00:13:40.726">- All right, man and--</p>
+      <p begin="00:13:40.834" xml:id="sub-282" end="00:13:42.033">- that was excellent.</p>
+      <p begin="00:13:42.141" xml:id="sub-283" end="00:13:43.354">- Tommy again, thank you.</p>
+      <p begin="00:13:43.477" xml:id="sub-284" end="00:13:44.353">You know I love you.</p>
+      <p begin="00:13:44.460" xml:id="sub-285" end="00:13:45.595">Thank you bro.</p>
+      <p begin="00:13:45.749" xml:id="sub-286" end="00:13:47.570">Bye.</p>
+      <p begin="00:13:48.108" xml:id="sub-287" end="00:13:51.942">I ain't closed the door.</p>
+      <p begin="00:13:57.342" xml:id="sub-288" end="00:14:03.295">[Car passing by]</p>
+      <p begin="00:14:03.295" xml:id="sub-289" end="00:14:04.525">[Mom] Nine and a half.</p>
+      <p begin="00:14:04.525" xml:id="sub-290" end="00:14:05.793">[Charles] Mother, come on now.</p>
+      <p begin="00:14:05.793" xml:id="sub-291" end="00:14:08.889">You, you said nine, you said eight, <br/>eight and a half.</p>
+      <p begin="00:14:08.950" xml:id="sub-292" end="00:14:09.813">I get eight.</p>
+      <p begin="00:14:09.813" xml:id="sub-293" end="00:14:11.862">Now you want nine, <br/>you want nine and a half.</p>
+      <p begin="00:14:11.862" xml:id="sub-294" end="00:14:14.168">What's wrong with this shoes, <br/>right there?</p>
+      <p begin="00:14:16.889" xml:id="sub-295" end="00:14:18.459">Mother, you're gonna drive me crazy.</p>
+      <p begin="00:14:20.185" xml:id="sub-296" end="00:14:22.030">[shuffling sounds]</p>
+      <p begin="00:14:23.461" xml:id="sub-297" end="00:14:25.513">[Charles] Oh, Jesus.</p>
+      <p begin="00:14:25.559" xml:id="sub-298" end="00:14:28.197">It's hard sometime.</p>
+      <p begin="00:14:28.197" xml:id="sub-299" end="00:14:31.446">It's very hard, 'cause I can, like, <br/>everything now is really</p>
+      <p begin="00:14:31.446" xml:id="sub-300" end="00:14:33.490">depending on me.</p>
+      <p begin="00:14:33.490" xml:id="sub-301" end="00:14:35.965">
+        <span tts:fontStyle="italic">But if I put her in a home, <br/>she would die.</span>
+      </p>
+      <p begin="00:14:35.965" xml:id="sub-302" end="00:14:37.096">
+        <span tts:fontStyle="italic">And I know that.</span>
+      </p>
+      <p begin="00:14:37.818" xml:id="sub-303" end="00:14:39.808">[Mom] I had a stroke one time.</p>
+      <p begin="00:14:40.422" xml:id="sub-304" end="00:14:42.874">And I had many heart attacks.</p>
+      <p begin="00:14:42.936" xml:id="sub-305" end="00:14:44.246">[Sales Clerk] Enjoy the rest of your day.</p>
+      <p begin="00:14:44.246" xml:id="sub-306" end="00:14:47.836">[Mom] But that heart attack come <br/>when my-my step-daddy died</p>
+      <p begin="00:14:47.836" xml:id="sub-307" end="00:14:56.382">and my grandmother died,<br/>and, uh, when, when my husband</p>
+      <p begin="00:14:56.382" xml:id="sub-308" end="00:14:57.767">died.</p>
+      <p begin="00:15:00.044" xml:id="sub-309" end="00:15:04.153">[Charles] She said, "Son, let me spend <br/>my last days in the house."</p>
+      <p begin="00:15:04.492" xml:id="sub-310" end="00:15:06.924">I said, "Okay, mom, I'll do that."</p>
+      <p begin="00:15:07.140" xml:id="sub-311" end="00:15:10.809">But she don't know I have no life.</p>
+      <p begin="00:15:11.409" xml:id="sub-312" end="00:15:13.186">My life is her.</p>
+      <p begin="00:15:13.570" xml:id="sub-313" end="00:15:19.102">For me to be with someone, <br/>I don't even know how to do it.</p>
+      <p begin="00:15:19.348" xml:id="sub-314" end="00:16:03.946">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:16:03.946" xml:id="sub-315" end="00:16:08.454">- When Charles' mother first <br/>left Florida to go to New York,</p>
+      <p begin="00:16:08.562" xml:id="sub-316" end="00:16:13.926">Charles was only eight months of age,<br/>eight months old.</p>
+      <p begin="00:16:15.295" xml:id="sub-317" end="00:16:20.925">And she stayed away so long that<br/>when she came back for the first time</p>
+      <p begin="00:16:20.925" xml:id="sub-318" end="00:16:23.262">he didn't recognize her, <br/>he didn't know she was his mother.</p>
+      <p begin="00:16:24.122" xml:id="sub-319" end="00:16:27.105">
+        <span tts:fontStyle="italic">He thought that his grandmother, <br/>really was his mother.</span>
+      </p>
+      <p begin="00:16:28.843" xml:id="sub-320" end="00:16:31.408">- I came to New York to better myself <br/>for all of us.</p>
+      <p begin="00:16:32.654" xml:id="sub-321" end="00:16:36.609">Me and my husband were separated,<br/>and I wanted to better myself, and I did.</p>
+      <p begin="00:16:36.609" xml:id="sub-322" end="00:16:40.246">I bought the home, <br/>843 Willoughby Avenue.</p>
+      <p begin="00:16:40.338" xml:id="sub-323" end="00:16:42.195">Uh-huh.</p>
+      <p begin="00:16:42.410" xml:id="sub-324" end="00:16:52.065">- She abandoned, actually in a way,<br/>her children to follow a man</p>
+      <p begin="00:16:53.279" xml:id="sub-325" end="00:16:56.688">who had a wife <br/>that she was very crazy about.</p>
+      <p begin="00:16:58.379" xml:id="sub-326" end="00:17:00.802">Otherwise, she probably never <br/>would have gone to New York.</p>
+      <p begin="00:17:00.940" xml:id="sub-327" end="00:17:05.445">
+        <span tts:fontStyle="italic">[Charles] Oh, I was about the age of <br/>seven to eight years old when I was <span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline">.</span></span></span></span>
+      </p>
+      <p begin="00:17:05.445" xml:id="sub-328" end="00:17:08.140">
+        <span tts:fontStyle="italic">Our mother, when she came out, <br/>she-she told my grandmother,</span>
+      </p>
+      <p begin="00:17:08.217" xml:id="sub-329" end="00:17:10.106">
+        <span tts:fontStyle="italic">"I want him to to come back <br/>and live with me."</span>
+      </p>
+      <p begin="00:17:10.106" xml:id="sub-330" end="00:17:13.104">
+        <span tts:fontStyle="italic">My grandmother said, "No, let them <br/>stay here 'cause they are better off.</span>
+      </p>
+      <p begin="00:17:13.196" xml:id="sub-331" end="00:17:16.138">They'll get a better education if <br/>they stay down here with me."</p>
+      <p begin="00:17:16.368" xml:id="sub-332" end="00:17:18.062">So my mother says, "No."</p>
+      <p begin="00:17:18.200" xml:id="sub-333" end="00:17:20.392">So my grandmother said, <br/>"No, you're not taking them."</p>
+      <p begin="00:17:20.485" xml:id="sub-334" end="00:17:22.168">So, my mother stole us.</p>
+      <p begin="00:17:22.276" xml:id="sub-335" end="00:17:24.196">- They were mine.</p>
+      <p begin="00:17:24.196" xml:id="sub-336" end="00:17:26.881">So I figured, I got 'em. <br/>I mean, I created 'em.</p>
+      <p begin="00:17:27.034" xml:id="sub-337" end="00:17:31.626">So, then I'm gonna bring all my creations <br/>back to New York with me.</p>
+      <p begin="00:17:31.733" xml:id="sub-338" end="00:17:32.729">Mm-hm.</p>
+      <p begin="00:17:34.252" xml:id="sub-339" end="00:17:35.801">That's what I did.</p>
+      <p begin="00:17:37.340" xml:id="sub-340" end="00:17:41.545">- I really hate to say this, but I think, <br/>at that time it was hard to find jobs,</p>
+      <p begin="00:17:41.698" xml:id="sub-341" end="00:17:46.906">so there was only one way is you <br/>have some kind of dependents</p>
+      <p begin="00:17:47.690" xml:id="sub-342" end="00:17:50.561">that you can get some welfare.</p>
+      <p begin="00:17:50.946" xml:id="sub-343" end="00:17:56.534">And I feel like that's what she was doing<br/>to get the welfare by having those kid there.</p>
+      <p begin="00:17:57.179" xml:id="sub-344" end="00:18:01.732">- During his infancy, <br/>now he was the, the favorite child.</p>
+      <p begin="00:18:01.855" xml:id="sub-345" end="00:18:06.663">He received all the, the-the loving and <br/>caring from his older brothers and sisters</p>
+      <p begin="00:18:06.785" xml:id="sub-346" end="00:18:09.357">and his grandmother and his <br/>uncles and all of us,</p>
+      <p begin="00:18:09.357" xml:id="sub-347" end="00:18:11.371">because he was the baby.</p>
+      <p begin="00:18:11.371" xml:id="sub-348" end="00:18:15.880">- Uh, when Charles went to New York, <br/>I think that's when he lost all of that.</p>
+      <p begin="00:18:21.834" xml:id="sub-349" end="00:18:22.928">- I was living with my Mom,</p>
+      <p begin="00:18:22.928" xml:id="sub-350" end="00:18:26.312">and I was afraid that she was gonna hurt me,<br/>so I left.</p>
+      <p begin="00:18:26.312" xml:id="sub-351" end="00:18:28.457">
+        <span tts:fontStyle="italic">We couldn't see eye to eye.</span>
+      </p>
+      <p begin="00:18:28.457" xml:id="sub-352" end="00:18:29.997">
+        <span tts:fontStyle="italic">See, I was getting blamed for everything.</span>
+      </p>
+      <p begin="00:18:29.997" xml:id="sub-353" end="00:18:31.508">
+        <span tts:fontStyle="italic">So I was very bitter.</span>
+      </p>
+      <p begin="00:18:32.170" xml:id="sub-354" end="00:18:35.432">
+        <span tts:fontStyle="italic">And it seemed like everything <br/>was rationed to us,</span>
+      </p>
+      <p begin="00:18:35.555" xml:id="sub-355" end="00:18:38.251">
+        <span tts:fontStyle="italic">and I was in a basement <br/>worser than this one.</span>
+      </p>
+      <p begin="00:18:38.251" xml:id="sub-356" end="00:18:42.166">You know, it was just sand basement, <br/>it was no concrete basement.</p>
+      <p begin="00:18:42.490" xml:id="sub-357" end="00:18:44.088">Fifteen watt bulb light.</p>
+      <p begin="00:18:44.195" xml:id="sub-358" end="00:18:45.982">And I said "No, I can't take this."</p>
+      <p begin="00:18:46.012" xml:id="sub-359" end="00:18:47.752">
+        <span tts:fontStyle="italic">I said, "I don't want it, I'm going."</span>
+      </p>
+      <p begin="00:18:47.922" xml:id="sub-360" end="00:18:49.008">
+        <span tts:fontStyle="italic">So I left.</span>
+      </p>
+      <p begin="00:18:49.746" xml:id="sub-361" end="00:18:54.900">[Sound of a subway train passing]</p>
+      <p begin="00:18:54.900" xml:id="sub-362" end="00:18:57.056">
+        <span tts:fontStyle="italic">I was fourteen years old.</span>
+      </p>
+      <p begin="00:18:58.226" xml:id="sub-363" end="00:18:59.892">
+        <span tts:fontStyle="italic">My home was the subway train.</span>
+      </p>
+      <p begin="00:18:59.984" xml:id="sub-364" end="00:19:02.574">
+        <span tts:fontStyle="italic">That's where I'd go to keep warm.</span>
+      </p>
+      <p begin="00:19:03.866" xml:id="sub-365" end="00:19:07.866">
+        <span tts:fontStyle="italic">I'd get on the subway train <br/>some nights, or winter nights, cold.</span>
+      </p>
+      <p begin="00:19:08.236" xml:id="sub-366" end="00:19:10.330">
+        <span tts:fontStyle="italic">Riding the A train back up and down.</span>
+      </p>
+      <p begin="00:19:10.468" xml:id="sub-367" end="00:19:12.670">The police, pop, pop, pop, <br/>hit the darn thing real hard</p>
+      <p begin="00:19:12.808" xml:id="sub-368" end="00:19:14.387">
+        <span tts:fontStyle="italic">and say, "Kids, you need to get off."</span>
+      </p>
+      <p begin="00:19:14.925" xml:id="sub-369" end="00:19:21.271">
+        <span tts:fontStyle="italic">I'd go across the, the platform, get<br/>another train going back. I sleep.</span>
+      </p>
+      <p begin="00:19:21.471" xml:id="sub-370" end="00:19:25.284">
+        <span tts:fontStyle="italic">Get me a little corner and get a<br/>stick and knock the thing real hard.</span>
+      </p>
+      <p begin="00:19:25.422" xml:id="sub-371" end="00:19:26.546">
+        <span tts:fontStyle="italic">It penetrate through my head.</span>
+      </p>
+      <p begin="00:19:26.746" xml:id="sub-372" end="00:19:29.910">
+        <span tts:fontStyle="italic">He said, "Kids, get up. Kids, get up."</span>
+      </p>
+      <p begin="00:19:30.079" xml:id="sub-373" end="00:19:37.370">
+        <span tts:fontStyle="italic">So, I just keep going different routes to<br/>get a night's sleep before daylight come.</span>
+      </p>
+      <p begin="00:19:39.300" xml:id="sub-374" end="00:19:43.458">
+        <span tts:fontStyle="italic">And I see for myself, what's going down, <br/>because everybody back in those days</span>
+      </p>
+      <p begin="00:19:43.581" xml:id="sub-375" end="00:19:46.817">
+        <span tts:fontStyle="italic">was getting high, <br/>using the hard drugs.</span>
+      </p>
+      <p begin="00:19:46.925" xml:id="sub-376" end="00:19:49.766">
+        <span tts:fontStyle="italic">I'd watch them holding up<br/>while they're shooting up</span>
+      </p>
+      <p begin="00:19:49.766" xml:id="sub-377" end="00:19:51.183">
+        <span tts:fontStyle="italic">and they try to give it to me,</span>
+      </p>
+      <p begin="00:19:51.183" xml:id="sub-378" end="00:19:53.544">
+        <span tts:fontStyle="italic">I got scared and <br/>I was afraid of needles.</span>
+      </p>
+      <p begin="00:19:53.544" xml:id="sub-379" end="00:19:55.021">
+        <span tts:fontStyle="italic">I said, "No, no, no, no."</span>
+      </p>
+      <p begin="00:19:55.190" xml:id="sub-380" end="00:19:57.022">So that's when I headed to <br/>Jobs Corps.</p>
+      <p begin="00:19:57.145" xml:id="sub-381" end="00:20:00.515">And I tried to get my mother to <br/>sign me to go to Job Corps.</p>
+      <p begin="00:20:00.622" xml:id="sub-382" end="00:20:02.854">
+        <span tts:fontStyle="italic">And she was mad with me, <br/>she wouldn't sign.</span>
+      </p>
+      <p begin="00:20:02.977" xml:id="sub-383" end="00:20:05.088">
+        <span tts:fontStyle="italic">So I got my sister to forge her name.</span>
+      </p>
+      <p begin="00:20:05.550" xml:id="sub-384" end="00:20:07.032">
+        <span tts:fontStyle="italic">And, um, I learned to cook.</span>
+      </p>
+      <p begin="00:20:07.140" xml:id="sub-385" end="00:20:09.089">
+        <span tts:fontStyle="italic">I cooked for two years.</span>
+      </p>
+      <p begin="00:20:09.212" xml:id="sub-386" end="00:20:11.961">
+        <span tts:fontStyle="italic">I was a cook trainee up in <br/>Bar Harbor, Maine.</span>
+      </p>
+      <p begin="00:20:11.961" xml:id="sub-387" end="00:20:14.645">
+        <span tts:fontStyle="italic">And that's when I really started doing <br/>James Brown on the Job Corps.</span>
+      </p>
+      <p begin="00:20:14.829" xml:id="sub-388" end="00:20:17.790">But they said, "Man, <br/>you see that new guy that came in?</p>
+      <p begin="00:20:17.928" xml:id="sub-389" end="00:20:21.156">He looks just like that guy they call, <br/>James Brown."</p>
+      <p begin="00:20:24.451" xml:id="sub-390" end="00:20:26.840">And they got me fired up one day, <br/>they gave me some gin.</p>
+      <p begin="00:20:26.840" xml:id="sub-391" end="00:20:29.036">In the Job Corp, you were sneaky, <br/>you were supposed to sneak it in there.</p>
+      <p begin="00:20:29.736" xml:id="sub-392" end="00:20:32.175">They gave me some gin, got me really high,</p>
+      <p begin="00:20:32.299" xml:id="sub-393" end="00:20:34.505">and they gave me the microphone <br/>and they say, "Sing."</p>
+      <p begin="00:20:34.643" xml:id="sub-394" end="00:20:35.821">
+        <span tts:fontStyle="italic">And I went crazy.</span>
+      </p>
+      <p begin="00:20:35.960" xml:id="sub-395" end="00:20:39.231">
+        <span tts:fontStyle="italic">So then they told me to go -- <br/>they took me to a girls' Job Corps</span>
+      </p>
+      <p begin="00:20:39.231" xml:id="sub-396" end="00:20:41.358">
+        <span tts:fontStyle="italic">center to perform.</span>
+      </p>
+      <p begin="00:20:41.358" xml:id="sub-397" end="00:20:43.110">
+        <span tts:fontStyle="italic">I said, "How many peoples it's gonna be?"</span>
+      </p>
+      <p begin="00:20:43.217" xml:id="sub-398" end="00:20:44.678">
+        <span tts:fontStyle="italic">They said twenty or thirty peoples.</span>
+      </p>
+      <p begin="00:20:44.770" xml:id="sub-399" end="00:20:46.225">
+        <span tts:fontStyle="italic">I said, "Okay."</span>
+      </p>
+      <p begin="00:20:46.548" xml:id="sub-400" end="00:20:49.096">
+        <span tts:fontStyle="italic">And they called me on stage.</span>
+      </p>
+      <p begin="00:20:49.403" xml:id="sub-401" end="00:20:51.168">
+        <span tts:fontStyle="italic">And I look out that stage.</span>
+      </p>
+      <p begin="00:20:51.276" xml:id="sub-402" end="00:20:53.380">
+        <span tts:fontStyle="italic">And I saw all those peoples, and I froze<span tts:fontStyle="italic">.</span></span>
+      </p>
+      <p begin="00:20:53.487" xml:id="sub-403" end="00:20:54.121">
+        <span tts:fontStyle="italic">I said,</span>
+      </p>
+      <p begin="00:20:54.121" xml:id="sub-404" end="00:20:58.125">"Uh-uh, I ain't going out there. <br/>Not me, not me"</p>
+      <p begin="00:20:58.125" xml:id="sub-405" end="00:21:03.205">So, this guy named Moody <br/>came behind me and gave me a push.</p>
+      <p begin="00:21:03.298" xml:id="sub-406" end="00:21:04.760">
+        <span tts:fontStyle="italic">I see all the peoples was happy.</span>
+      </p>
+      <p begin="00:21:04.883" xml:id="sub-407" end="00:21:05.938">
+        <span tts:fontStyle="italic">They love me.</span>
+      </p>
+      <p begin="00:21:06.030" xml:id="sub-408" end="00:21:07.898">
+        <span tts:fontStyle="italic">They love me giving them my heart.</span>
+      </p>
+      <p begin="00:21:08.329" xml:id="sub-409" end="00:21:12.091">
+        <span tts:fontStyle="italic">And I said, <br/>"Wow, this where I want to be at."</span>
+      </p>
+      <p begin="00:21:12.214" xml:id="sub-410" end="00:21:13.843">
+        <span tts:fontStyle="italic">And I never stopped<span tts:fontStyle="italic">.</span></span>
+      </p>
+      <p begin="00:21:16.981" xml:id="sub-411" end="00:21:19.903">
+        <span tts:fontStyle="italic">Our plans was when we got out of Job Corps,</span>
+      </p>
+      <p begin="00:21:19.903" xml:id="sub-412" end="00:21:21.954">
+        <span tts:fontStyle="italic">we was gonna get together <br/>and continue the music.</span>
+      </p>
+      <p begin="00:21:21.954" xml:id="sub-413" end="00:21:25.205">
+        <span tts:fontStyle="italic">My band got drafted <br/>into the Vietnam War.</span>
+      </p>
+      <p begin="00:21:25.205" xml:id="sub-414" end="00:21:31.083">And, um, they went on to war and I went,<br/>completed my training at Job Corps.</p>
+      <p begin="00:21:37.414" xml:id="sub-415" end="00:21:39.499">[keys jingling]</p>
+      <p begin="00:21:39.499" xml:id="sub-416" end="00:21:42.827">[female voice humming]</p>
+      <p begin="00:21:42.827" xml:id="sub-417" end="00:21:47.120">- I wanna taste it when you open, <br/>uh, the beer that is a pumpkin.</p>
+      <p begin="00:21:47.448" xml:id="sub-418" end="00:21:48.097">- [Tommy] Oh, yeah.</p>
+      <p begin="00:21:48.097" xml:id="sub-419" end="00:21:49.297">- I gotta taste that.</p>
+      <p begin="00:21:49.297" xml:id="sub-420" end="00:21:50.821">- We can open it now.</p>
+      <p begin="00:21:50.821" xml:id="sub-421" end="00:21:52.555">- A pumpkin beer. <br/>I never heard of pumpkin beer.</p>
+      <p begin="00:21:52.555" xml:id="sub-422" end="00:21:54.091">- [Tommy] Oh, yeah. <br/>We can drink some of that.</p>
+      <p begin="00:21:54.291" xml:id="sub-423" end="00:21:55.286">- I sure wanna taste that.</p>
+      <p begin="00:21:56.132" xml:id="sub-424" end="00:21:57.265">
+        <span tts:fontStyle="italic">[Charles] Okay.</span>
+      </p>
+      <p begin="00:21:58.373" xml:id="sub-425" end="00:22:00.943">-Oh my God, this is delicious.</p>
+      <p begin="00:22:01.189" xml:id="sub-426" end="00:22:02.040">-<span tts:fontStyle="italic">[Charles] That's, uh, pumpkin?</span></p>
+      <p begin="00:22:02.132" xml:id="sub-427" end="00:22:04.322">- Seriously, this is unbelievable.</p>
+      <p begin="00:22:04.322" xml:id="sub-428" end="00:22:05.156">-<span tts:fontStyle="italic">[Charles] That's a pumpkin?</span></p>
+      <p begin="00:22:05.156" xml:id="sub-429" end="00:22:05.775">-<span tts:fontStyle="italic">[Tommy] Yo! </span></p>
+      <p begin="00:22:05.775" xml:id="sub-430" end="00:22:06.318">-That's the pumpkin?</p>
+      <p begin="00:22:06.318" xml:id="sub-431" end="00:22:10.223">-[Tommy] It is like <span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline"/> effect <br/>in some people</span></span></p>
+      <p begin="00:22:10.223" xml:id="sub-432" end="00:22:11.616">You like it, now?</p>
+      <p begin="00:22:11.616" xml:id="sub-433" end="00:22:12.999">-[Charles] No.<br/>-[Tommy] You don't like it?</p>
+      <p begin="00:22:12.999" xml:id="sub-434" end="00:22:13.575">-I just don't like it.</p>
+      <p begin="00:22:13.575" xml:id="sub-435" end="00:22:14.764">- I think it's delicious.</p>
+      <p begin="00:22:14.764" xml:id="sub-436" end="00:22:17.111">- I'm gonna taste the pumpkin in there.</p>
+      <p begin="00:22:17.296" xml:id="sub-437" end="00:22:19.471">-Working with Charles Bradley, <br/>as opposed to working with</p>
+      <p begin="00:22:19.471" xml:id="sub-438" end="00:22:21.083">Sharon or Lee or somebody,</p>
+      <p begin="00:22:21.083" xml:id="sub-439" end="00:22:24.239">the other singers from New York<br/>that I've so often worked with,</p>
+      <p begin="00:22:24.239" xml:id="sub-440" end="00:22:27.143">
+        <span tts:fontStyle="italic">you know, <br/>Charles has got the craziest stories.</span>
+      </p>
+      <p begin="00:22:27.339" xml:id="sub-441" end="00:22:28.983">
+        <span tts:fontStyle="italic">Craziest stories.</span>
+      </p>
+      <p begin="00:22:28.983" xml:id="sub-442" end="00:22:32.967">
+        <span tts:fontStyle="italic">So, you know as a songwriter, <br/>I just sit around with him,</span>
+      </p>
+      <p begin="00:22:33.075" xml:id="sub-443" end="00:22:35.738">and, and I hear Charles tell these <br/>stories and you're just like,</p>
+      <p begin="00:22:35.845" xml:id="sub-444" end="00:22:38.796">you know, <br/>we gotta write a song about that, man.</p>
+      <p begin="00:22:38.796" xml:id="sub-445" end="00:22:41.394">
+        <span tts:fontStyle="italic">So usually before we do <br/>the vocals on the track,</span>
+      </p>
+      <p begin="00:22:41.394" xml:id="sub-446" end="00:22:45.150">[Tommy] I'll play Charles' song and <br/>just ask him if he likes it, first of all.</p>
+      <p begin="00:22:45.288" xml:id="sub-447" end="00:22:48.550">Then, I'll sing him my ideas, you know, <br/>to tell him how I think it should go.</p>
+      <p begin="00:22:48.719" xml:id="sub-448" end="00:22:52.367">And not that he disregards my ideas,<br/>but he's just got his own ideas</p>
+      <p begin="00:22:52.367" xml:id="sub-449" end="00:22:55.407">
+        <span tts:fontStyle="italic">and he just instantly <br/>starts expressing them.</span>
+      </p>
+      <p begin="00:22:55.561" xml:id="sub-450" end="00:22:58.053">
+        <span tts:fontStyle="italic">He'll just start singing, <br/>and then we'll kind of stop</span>
+      </p>
+      <p begin="00:22:58.161" xml:id="sub-451" end="00:23:00.680">and just get away from it <br/>for a second and just talk.</p>
+      <p begin="00:23:00.680" xml:id="sub-452" end="00:23:01.289">And you just start--</p>
+      <p begin="00:23:01.289" xml:id="sub-453" end="00:23:05.336">you talk with Charles long enough <br/>and a story comes out about something.</p>
+      <p begin="00:23:05.336" xml:id="sub-454" end="00:23:09.592">[Tommy]That without me asking him, <br/>he'll start singing about what we just-</p>
+      <p begin="00:23:09.592" xml:id="sub-455" end="00:23:10.549">what we just spoke about.</p>
+      <p begin="00:23:10.549" xml:id="sub-456" end="00:23:14.133">
+        <span tts:fontStyle="italic">And then I'll grab a pencil and paper,<br/>and let him kind of freestyle</span>
+      </p>
+      <p begin="00:23:14.133" xml:id="sub-457" end="00:23:15.887">over the track, over and over again.</p>
+      <p begin="00:23:15.887" xml:id="sub-458" end="00:23:19.070">And then we'll go back and that will <br/>become a song slowly, you know,</p>
+      <p begin="00:23:19.070" xml:id="sub-459" end="00:23:20.708">over the course of a couple of hours.</p>
+      <p begin="00:23:20.815" xml:id="sub-460" end="00:23:24.330">But, um, it's his stories that I'm always <br/>trying to translate into song, you know.</p>
+      <p begin="00:23:24.453" xml:id="sub-461" end="00:23:29.721">&#9834; [music] &#9834;</p>
+      <p begin="00:23:29.875" xml:id="sub-462" end="00:23:35.113">-<span tts:fontStyle="italic">[Charles] I went to California in 1977, <br/>searching for my dreams, music.</span></p>
+      <p begin="00:23:36.251" xml:id="sub-463" end="00:23:38.326">I was bouncing into different bands,</p>
+      <p begin="00:23:38.326" xml:id="sub-464" end="00:23:42.196">like, they'll say, "Man, we'll pay you $400 <br/>to do this tonight, the show tonight.</p>
+      <p begin="00:23:42.303" xml:id="sub-465" end="00:23:45.370">And this guy paid this,<br/>paid me to do this tonight.</p>
+      <p begin="00:23:45.492" xml:id="sub-466" end="00:23:47.149">That's how I was doing out there.</p>
+      <p begin="00:23:47.488" xml:id="sub-467" end="00:23:51.896">And at that time, I don't know why, <br/>I got sick.</p>
+      <p begin="00:23:52.035" xml:id="sub-468" end="00:23:56.613">I called my Mom, and she says,<br/>"Son, come on back home."</p>
+      <p begin="00:23:59.290" xml:id="sub-469" end="00:24:02.653">Mom is getting old and then, <br/>she been through a lot.</p>
+      <p begin="00:24:02.745" xml:id="sub-470" end="00:24:06.686">And I, it's not for me to crucify her <br/>for what she did in her life.</p>
+      <p begin="00:24:07.686" xml:id="sub-471" end="00:24:11.707">
+        <span tts:fontStyle="italic">So I came back to New York in '94.</span>
+      </p>
+      <p begin="00:24:12.846" xml:id="sub-472" end="00:24:16.149">
+        <span tts:fontStyle="italic">I was sick as a dog, I was close to death.</span>
+      </p>
+      <p begin="00:24:16.826" xml:id="sub-473" end="00:24:19.243">
+        <span tts:fontStyle="italic">They took me to Woodhull Hospital.</span>
+      </p>
+      <p begin="00:24:19.643" xml:id="sub-474" end="00:24:23.428">[Charles] I'm allergic to penicillin <br/>and they was feeding me penicillin.</p>
+      <p begin="00:24:23.705" xml:id="sub-475" end="00:24:26.235">
+        <span tts:fontStyle="italic">And my body had shut down.</span>
+      </p>
+      <p begin="00:24:27.358" xml:id="sub-476" end="00:24:30.104">
+        <span tts:fontStyle="italic">I had gave up totally.</span>
+      </p>
+      <p begin="00:24:31.919" xml:id="sub-477" end="00:24:39.562">Then my brother Joseph, he came, <br/>um, he came to the hospital to see me.</p>
+      <p begin="00:24:40.070" xml:id="sub-478" end="00:24:42.881">And he reached over and he kissed me.</p>
+      <p begin="00:24:42.881" xml:id="sub-479" end="00:24:44.978">He said, "Charles, no, no."</p>
+      <p begin="00:24:45.163" xml:id="sub-480" end="00:24:46.783">He whispered in my ear.</p>
+      <p begin="00:24:46.968" xml:id="sub-481" end="00:24:52.406">He said, "Bro, if you don't want to live<br/>for yourself, please live for me."</p>
+      <p begin="00:24:52.499" xml:id="sub-482" end="00:24:53.729">He said, "Charles, I love you."</p>
+      <p begin="00:24:54.175" xml:id="sub-483" end="00:24:55.559">"You're my heart."</p>
+      <p begin="00:24:55.820" xml:id="sub-484" end="00:24:59.538">I said, I said, "Joe, I'll fight. I'll fight."</p>
+      <p begin="00:24:59.661" xml:id="sub-485" end="00:25:05.579">&#9834; [piano music playing] &#9834;</p>
+      <p begin="00:25:05.579" xml:id="sub-486" end="00:25:09.675">My brother just told me, he said, "Charles, <br/>now do something that you wanna do."</p>
+      <p begin="00:25:10.870" xml:id="sub-487" end="00:25:11.254">"Follow your dreams."</p>
+      <p begin="00:25:11.254" xml:id="sub-488" end="00:25:12.730">"You love music, do it."</p>
+      <p begin="00:25:12.730" xml:id="sub-489" end="00:25:14.529">And I said, <br/>"Joe, I'd like to be something like you."</p>
+      <p begin="00:25:14.559" xml:id="sub-490" end="00:25:16.299">He said, "No brother, you can't be me."</p>
+      <p begin="00:25:16.422" xml:id="sub-491" end="00:25:17.839">"Don't ever want to be me. Be you."</p>
+      <p begin="00:25:17.977" xml:id="sub-492" end="00:25:21.578">- [Mom] Oh, <span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline">, that was his buddy.</span></span></span></span></p>
+      <p begin="00:25:22.055" xml:id="sub-493" end="00:25:24.077">He Joe. He was crazy about Charles.</p>
+      <p begin="00:25:24.200" xml:id="sub-494" end="00:25:27.948">He told Charles, "Whatever you do, <br/>do it good brother, and stick with it."</p>
+      <p begin="00:25:28.056" xml:id="sub-495" end="00:25:29.662">"Don't let nobody talk you out of it."</p>
+      <p begin="00:25:29.969" xml:id="sub-496" end="00:25:32.668">He told that before he died.</p>
+      <p begin="00:25:32.713" xml:id="sub-497" end="00:25:36.356">He said, "Don't nobody talk you out of it."</p>
+      <p begin="00:25:36.402" xml:id="sub-498" end="00:25:52.360">&#9834; [piano music continues to play] &#9834;</p>
+      <p begin="00:25:52.530" xml:id="sub-499" end="00:25:54.640">-[Charles] He said, "'Cause I can't do it,<br/>like you do it."</p>
+      <p begin="00:25:54.716" xml:id="sub-500" end="00:25:56.824">'Cause I remember when I was <br/>a kid when I was in Florida.</p>
+      <p begin="00:25:57.009" xml:id="sub-501" end="00:26:00.779">Joseph was going to piano school<br/>and how I learned these little things,</p>
+      <p begin="00:26:00.932" xml:id="sub-502" end="00:26:03.016">I'm playing the piano, by watching him.</p>
+      <p begin="00:26:03.724" xml:id="sub-503" end="00:26:06.478">He never learned about his -- <br/>tuned it myself.</p>
+      <p begin="00:26:07.216" xml:id="sub-504" end="00:26:09.815">He said, "Follow your <br/>dreams and your music."</p>
+      <p begin="00:26:09.815" xml:id="sub-505" end="00:26:13.997">And he said, "Take one of these <br/>rooms in this house and fix it up</p>
+      <p begin="00:26:14.135" xml:id="sub-506" end="00:26:17.244">as your room and have people <br/>come out here for rehearsal."</p>
+      <p begin="00:26:17.367" xml:id="sub-507" end="00:26:18.664">And that's what I did.</p>
+      <p begin="00:26:19.171" xml:id="sub-508" end="00:26:21.328">Joe was like a father and a brother.</p>
+      <p begin="00:26:21.421" xml:id="sub-509" end="00:26:23.748">He was a beautiful brother.</p>
+      <p begin="00:26:23.867" xml:id="sub-510" end="00:26:29.326">[slicing/chopping sound]</p>
+      <p begin="00:26:29.326" xml:id="sub-511" end="00:26:30.813">- [Mom] So, where the fruits at?</p>
+      <p begin="00:26:34.336" xml:id="sub-512" end="00:26:39.033">[cooking/frying sound]</p>
+      <p begin="00:26:39.033" xml:id="sub-513" end="00:26:39.966">-[Charles] Is that enough?</p>
+      <p begin="00:26:39.966" xml:id="sub-514" end="00:26:41.130">-[female voice] A Little bit more.</p>
+      <p begin="00:26:41.269" xml:id="sub-515" end="00:26:42.598">- [Tutor] Yeah, sit down, Charles and eat.</p>
+      <p begin="00:26:42.598" xml:id="sub-516" end="00:26:44.603">- [Charles] I can make us some breakfast.</p>
+      <p begin="00:26:44.603" xml:id="sub-517" end="00:26:45.804">- I'm not hungry, but you eat.</p>
+      <p begin="00:26:45.942" xml:id="sub-518" end="00:26:49.512">And then we'll start<br/>slowly talking about what you did.</p>
+      <p begin="00:26:49.620" xml:id="sub-519" end="00:26:51.374">- Okay I'm gonna leave <br/>this right here for you.</p>
+      <p begin="00:26:51.466" xml:id="sub-520" end="00:26:52.192">- That's fine.</p>
+      <p begin="00:26:52.300" xml:id="sub-521" end="00:26:53.548">I'm tutoring Charles.</p>
+      <p begin="00:26:53.671" xml:id="sub-522" end="00:26:57.320">I would say he's probably at <br/>like a kindergarten or first grade</p>
+      <p begin="00:26:57.458" xml:id="sub-523" end="00:26:59.933">reading level and reading <br/>comprehension level.</p>
+      <p begin="00:27:00.179" xml:id="sub-524" end="00:27:05.653">- Other writers interested in my story.</p>
+      <p begin="00:27:05.653" xml:id="sub-525" end="00:27:07.142">- Okay, so you sounded it out.</p>
+      <p begin="00:27:07.142" xml:id="sub-526" end="00:27:09.132">Did you understand everything <br/>that you read?</p>
+      <p begin="00:27:11.228" xml:id="sub-527" end="00:27:14.710">- Um, yes and no.</p>
+      <p begin="00:27:14.710" xml:id="sub-528" end="00:27:16.994">-Yes and no.</p>
+      <p begin="00:27:17.070" xml:id="sub-529" end="00:27:17.843">- Charles?</p>
+      <p begin="00:27:17.843" xml:id="sub-530" end="00:27:18.407">- Hm?</p>
+      <p begin="00:27:18.407" xml:id="sub-531" end="00:27:19.819">- The lunch was delicious.</p>
+      <p begin="00:27:19.927" xml:id="sub-532" end="00:27:21.307">- Thank you, Momma.</p>
+      <p begin="00:27:21.953" xml:id="sub-533" end="00:27:27.271">- I think his number one goal is <br/>for him to be able to write his lyrics</p>
+      <p begin="00:27:27.271" xml:id="sub-534" end="00:27:30.080">down fast when they're <br/>coming into his head,</p>
+      <p begin="00:27:30.080" xml:id="sub-535" end="00:27:33.296">because he's got a lot of words <br/>up there that he wants to get on paper,</p>
+      <p begin="00:27:33.404" xml:id="sub-536" end="00:27:35.309">but he doesn't really know how to do it.</p>
+      <p begin="00:27:35.355" xml:id="sub-537" end="00:27:36.815">- You didn't spell, <span tts:fontStyle="italic">An</span> it right.<br/>-Okay.</p>
+      <p begin="00:27:37.122" xml:id="sub-538" end="00:27:37.841">- Oh, two <span tts:fontStyle="italic">N<span tts:fontStyle="italic">'s?</span></span></p>
+      <p begin="00:27:38.381" xml:id="sub-539" end="00:27:40.125">- Just one <span tts:fontStyle="italic">N<span tts:fontStyle="italic">. No, <span tts:fontStyle="italic">D<span tts:fontStyle="italic">.</span></span></span></span></p>
+      <p begin="00:27:40.248" xml:id="sub-540" end="00:27:41.239">- Oh, <span tts:fontStyle="italic">N<span tts:fontStyle="italic">.</span></span></p>
+      <p begin="00:27:41.239" xml:id="sub-541" end="00:27:43.855">- 'Cause <span tts:fontStyle="italic">AND</span> is like when you put <br/>two things together like...</p>
+      <p begin="00:27:44.455" xml:id="sub-542" end="00:27:45.225">- Right, okay.</p>
+      <p begin="00:27:45.332" xml:id="sub-543" end="00:27:46.661">- Fish <span tts:fontStyle="italic">AND</span> chips.</p>
+      <p begin="00:27:46.907" xml:id="sub-544" end="00:27:48.399">- Okay. I'll miss you.</p>
+      <p begin="00:27:48.569" xml:id="sub-545" end="00:27:50.934">- Bye Charles. I'll see you next week.</p>
+      <p begin="00:27:51.103" xml:id="sub-546" end="00:27:52.172">Thank you.</p>
+      <p begin="00:27:52.203" xml:id="sub-547" end="00:28:20.811">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:28:21.011" xml:id="sub-548" end="00:28:21.661">-[Barber] Come on in.</p>
+      <p begin="00:28:22.498" xml:id="sub-549" end="00:28:26.180">- [young boss] You got it? <br/>Yo! You could read it later. Wrap it up.</p>
+      <p begin="00:28:26.365" xml:id="sub-550" end="00:28:28.008">- No. Get the fuck outta here<br/>-<span tts:fontStyle="italic">Get started.</span></p>
+      <p begin="00:28:29.547" xml:id="sub-551" end="00:28:31.505">
+        <span tts:fontStyle="italic">[young boss] You know I own you. <br/>You know I'm the boss.</span>
+      </p>
+      <p begin="00:28:32.398" xml:id="sub-552" end="00:28:34.711">- [Laughing] I bet you wish you was.</p>
+      <p begin="00:28:34.726" xml:id="sub-553" end="00:28:36.157">- Thank you, Mr. Brown.</p>
+      <p begin="00:28:37.265" xml:id="sub-554" end="00:28:42.004">- Charles used to wear his James Brown <br/>wig all the time, right?</p>
+      <p begin="00:28:42.096" xml:id="sub-555" end="00:28:43.733">All the time.</p>
+      <p begin="00:28:43.825" xml:id="sub-556" end="00:28:46.263">
+        <span tts:fontStyle="italic">And as the record close to a near, <br/>it's like, "Charles you know,</span>
+      </p>
+      <p begin="00:28:46.325" xml:id="sub-557" end="00:28:48.766">
+        <span tts:fontStyle="italic">you got to present yourself <br/>as Charles Bradley."</span>
+      </p>
+      <p begin="00:28:48.766" xml:id="sub-558" end="00:28:50.342">
+        <span tts:fontStyle="italic">And he had a hard time.</span>
+      </p>
+      <p begin="00:28:50.342" xml:id="sub-559" end="00:28:52.904">
+        <span tts:fontStyle="italic">I mean, he wanted to come out with <br/>the cape and the James Brown thing.</span>
+      </p>
+      <p begin="00:28:52.904" xml:id="sub-560" end="00:28:53.786">And just be that.</p>
+      <p begin="00:28:53.786" xml:id="sub-561" end="00:28:55.815">'Cause that's what he's used to <br/>getting up on stage and doing.</p>
+      <p begin="00:28:55.860" xml:id="sub-562" end="00:28:57.919">And we did not want that, you know.</p>
+      <p begin="00:28:57.919" xml:id="sub-563" end="00:28:59.910">And we just wanted Charles to be Charles.</p>
+      <p begin="00:29:00.002" xml:id="sub-564" end="00:29:02.183">And it took a lot of convincing <br/>for Charles to do that.</p>
+      <p begin="00:29:02.183" xml:id="sub-565" end="00:29:10.122">[small motorized tools working]<br/>[sounds of traffic]</p>
+      <p begin="00:29:10.122" xml:id="sub-566" end="00:29:13.090">- <span tts:fontStyle="italic">Charles has a record coming out <br/>January 25th.</span></p>
+      <p begin="00:29:13.213" xml:id="sub-567" end="00:29:16.082">
+        <span tts:fontStyle="italic">So, now starts the promotion <br/>leading up to the record coming out.</span>
+      </p>
+      <p begin="00:29:16.190" xml:id="sub-568" end="00:29:20.087">- <span tts:fontStyle="italic">[Charles] I'm going on tour with <br/>Sharon Jones to open up for her.</span></p>
+      <p begin="00:29:21.170" xml:id="sub-569" end="00:29:26.461">Sharon Jones is giving me a chance<br/>to expose some of my music,</p>
+      <p begin="00:29:26.630" xml:id="sub-570" end="00:29:29.064">to let the world know who <br/>Charles Bradley is.</p>
+      <p begin="00:29:29.926" xml:id="sub-571" end="00:29:33.627">- It's real exciting for us as a label <br/>to be able to present these kind of</p>
+      <p begin="00:29:33.735" xml:id="sub-572" end="00:29:38.459">package deal, packages <br/>and Charles is the perfect guy to add</p>
+      <p begin="00:29:38.566" xml:id="sub-573" end="00:29:41.951">to any of the shows and get his name out<br/>on the heels of so many other bands that</p>
+      <p begin="00:29:41.951" xml:id="sub-574" end="00:29:43.779">have had success up to now.</p>
+      <p begin="00:29:43.995" xml:id="sub-575" end="00:29:46.188">- If we go some place and we are able<br/>to have a thousand people come down</p>
+      <p begin="00:29:46.280" xml:id="sub-576" end="00:29:49.559">to see Sharon, to be able to put him <br/>in front of that audience is...</p>
+      <p begin="00:29:49.682" xml:id="sub-577" end="00:29:52.230">is a huge head start.</p>
+      <p begin="00:29:52.938" xml:id="sub-578" end="00:29:55.211">
+        <span tts:fontStyle="italic">So far you know, the Sharon Jones<br/>and Dap-Kings has been</span>
+      </p>
+      <p begin="00:29:55.319" xml:id="sub-579" end="00:29:58.880">our most prolific artists, <br/>and our most successful artists.</p>
+      <p begin="00:29:59.003" xml:id="sub-580" end="00:30:02.122">Artists, been around the longest,<br/>toured the most, and by far sold,</p>
+      <p begin="00:30:02.230" xml:id="sub-581" end="00:30:03.853">you know, ten times as many records.</p>
+      <p begin="00:30:04.088" xml:id="sub-582" end="00:30:13.039">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:30:13.039" xml:id="sub-583" end="00:30:16.088">- <span tts:fontStyle="italic">Didn't put out a proper show in <br/>about a year or so, you know,</span></p>
+      <p begin="00:30:16.211" xml:id="sub-584" end="00:30:18.227">
+        <span tts:fontStyle="italic">to also put that in context,</span>
+      </p>
+      <p begin="00:30:18.227" xml:id="sub-585" end="00:30:30.614">he hasn't played a lot of gigs <br/>as Charles Bradley.</p>
+      <p begin="00:30:30.614" xml:id="sub-586" end="00:30:33.035">- Working with Bradley live <br/>is a little stressful,</p>
+      <p begin="00:30:33.112" xml:id="sub-587" end="00:30:36.203">
+        <span tts:fontStyle="italic">because he can kind of go off <br/>in a song anytime.</span>
+      </p>
+      <p begin="00:30:42.756" xml:id="sub-588" end="00:30:48.282">- [Charles] America. We gotta make <br/>this room, a better place.</p>
+      <p begin="00:30:48.605" xml:id="sub-589" end="00:30:51.159">Come on, bring it all in.</p>
+      <p begin="00:30:51.886" xml:id="sub-590" end="00:30:54.218">&#9834; No time for dreaming &#9834;</p>
+      <p begin="00:30:54.218" xml:id="sub-591" end="00:30:56.146">&#9834; [back-up singers] Dreaming, dreaming.&#9834;</p>
+      <p begin="00:30:56.146" xml:id="sub-592" end="00:30:57.158">&#9834; Gotta get on up.&#9834;</p>
+      <p begin="00:30:57.158" xml:id="sub-593" end="00:30:58.089">&#9834; [back-up singers] Get up &#9834;</p>
+      <p begin="00:30:58.089" xml:id="sub-594" end="00:31:00.747">&#9834; Gotta do your thing, oooooh... &#9834;</p>
+      <p begin="00:31:00.931" xml:id="sub-595" end="00:31:03.135">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:31:03.135" xml:id="sub-596" end="00:31:05.151">&#9834; [back-up singers] Dreaming, dreaming.&#9834;</p>
+      <p begin="00:31:05.151" xml:id="sub-597" end="00:31:06.066">&#9834; Gotta get on up, &#9834;</p>
+      <p begin="00:31:06.066" xml:id="sub-598" end="00:31:06.817">[back-up singers] Get up. &#9834;</p>
+      <p begin="00:31:06.817" xml:id="sub-599" end="00:31:08.235">&#9834; Gotta do your thing. &#9834;</p>
+      <p begin="00:31:08.235" xml:id="sub-600" end="00:31:09.611">&#9834;[back-up singers] Do your thing. &#9834;</p>
+      <p begin="00:31:09.611" xml:id="sub-601" end="00:31:12.030">&#9834; Sleep while your sleeping. &#9834;</p>
+      <p begin="00:31:12.030" xml:id="sub-602" end="00:31:14.074">&#9834; Tired of slowly creeping. &#9834;</p>
+      <p begin="00:31:14.074" xml:id="sub-603" end="00:31:15.325">&#9834; Wake up!&#9834;</p>
+      <p begin="00:31:15.325" xml:id="sub-604" end="00:31:18.412">&#9834; Before it's too late. &#9834;</p>
+      <p begin="00:31:18.412" xml:id="sub-605" end="00:31:20.956">&#9834; Try a little harder! &#9834;</p>
+      <p begin="00:31:20.956" xml:id="sub-606" end="00:31:22.958">&#9834; Stop wasting over yonder. &#9834;</p>
+      <p begin="00:31:22.958" xml:id="sub-607" end="00:31:24.376">&#9834; Wake up! &#9834;</p>
+      <p begin="00:31:24.376" xml:id="sub-608" end="00:31:25.669">&#9834; You'll get your break. &#9834;</p>
+      <p begin="00:31:25.669" xml:id="sub-609" end="00:31:27.295">&#9834; Huh! &#9834;</p>
+      <p begin="00:31:27.295" xml:id="sub-610" end="00:31:29.548">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:31:29.548" xml:id="sub-611" end="00:31:31.383">&#9834; [back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:31:31.383" xml:id="sub-612" end="00:31:32.538">&#9834; Gotta get on up. &#9834;</p>
+      <p begin="00:31:32.538" xml:id="sub-613" end="00:31:33.362">&#9834; [back-up singers] Get up! &#9834;</p>
+      <p begin="00:31:33.362" xml:id="sub-614" end="00:31:34.803">&#9834; Gotta do your thing. &#9834;</p>
+      <p begin="00:31:34.803" xml:id="sub-615" end="00:31:36.517">&#9834; [back-up singers] Ohhh...&#9834;</p>
+      <p begin="00:31:36.517" xml:id="sub-616" end="00:31:38.379">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:31:38.379" xml:id="sub-617" end="00:31:40.296">&#9834;[back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:31:40.296" xml:id="sub-618" end="00:31:41.561">&#9834; Gotta get on up. &#9834;</p>
+      <p begin="00:31:41.561" xml:id="sub-619" end="00:31:42.176">&#9834; [back-up singers] Get up. &#9834;</p>
+      <p begin="00:31:42.176" xml:id="sub-620" end="00:31:43.562">&#9834; Gotta do your thing &#9834;</p>
+      <p begin="00:31:43.562" xml:id="sub-621" end="00:31:44.185">&#9834; [back-up singers] And do your thing. &#9834;</p>
+      <p begin="00:31:44.185" xml:id="sub-622" end="00:31:45.188">&#9834; Hey...&#9834;</p>
+      <p begin="00:31:45.188" xml:id="sub-623" end="00:31:52.572">&#9834; [instrumental music playing] &#9834;</p>
+      <p begin="00:31:52.572" xml:id="sub-624" end="00:31:53.710">&#9834; Hey...&#9834;</p>
+      <p begin="00:31:53.710" xml:id="sub-625" end="00:31:55.449">&#9834; [instrumental music playing] &#9834;</p>
+      <p begin="00:31:55.449" xml:id="sub-626" end="00:31:56.992">&#9834; Gotta &#9834;</p>
+      <p begin="00:31:56.992" xml:id="sub-627" end="00:32:00.329">&#9834; give &#9834;</p>
+      <p begin="00:32:00.329" xml:id="sub-628" end="00:32:03.081">&#9834; Yeah &#9834;</p>
+      <p begin="00:32:03.081" xml:id="sub-629" end="00:32:04.751">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:32:04.751" xml:id="sub-630" end="00:32:06.835">&#9834; [back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:32:06.835" xml:id="sub-631" end="00:32:08.003">&#9834; Gotta get on up. &#9834;</p>
+      <p begin="00:32:08.003" xml:id="sub-632" end="00:32:08.696">&#9834; [back-up singers] Get up. &#9834;</p>
+      <p begin="00:32:08.696" xml:id="sub-633" end="00:32:10.214">&#9834; Gotta do your thing &#9834;</p>
+      <p begin="00:32:10.214" xml:id="sub-634" end="00:32:11.002">&#9834; [back-up singers] Ohhh...&#9834;</p>
+      <p begin="00:32:11.002" xml:id="sub-635" end="00:32:13.800">&#9834; Huh! No time for dreaming. &#9834;</p>
+      <p begin="00:32:13.800" xml:id="sub-636" end="00:32:15.510">&#9834; [back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:32:15.510" xml:id="sub-637" end="00:32:17.012">&#9834; Gotta get on up &#9834;</p>
+      <p begin="00:32:17.012" xml:id="sub-638" end="00:32:17.729">&#9834; [back-up singers] Get up. &#9834;</p>
+      <p begin="00:32:17.729" xml:id="sub-639" end="00:32:18.889">&#9834; Gotta do your thing &#9834;</p>
+      <p begin="00:32:18.889" xml:id="sub-640" end="00:32:21.372">&#9834; [back-up singers] Do your thing. &#9834;</p>
+      <p begin="00:32:21.557" xml:id="sub-641" end="00:32:26.314">&#9834; No time for dreaming.&#9834;</p>
+      <p begin="00:32:26.314" xml:id="sub-642" end="00:32:29.748">&#9834; You got to get on up &#9834;</p>
+      <p begin="00:32:29.748" xml:id="sub-643" end="00:32:33.445">&#9834; And do your thing. &#9834;</p>
+      <p begin="00:32:33.445" xml:id="sub-644" end="00:32:35.194">&#9834; [music fading] &#9834;</p>
+      <p begin="00:32:35.194" xml:id="sub-645" end="00:32:35.781">[audience applauding]</p>
+      <p begin="00:32:35.781" xml:id="sub-646" end="00:32:37.916">- [audience member] I love you.</p>
+      <p begin="00:32:37.916" xml:id="sub-647" end="00:32:41.705">- I love you, too. I love you, too.</p>
+      <p begin="00:32:41.705" xml:id="sub-648" end="00:32:42.914">-[audience member] love you, Charles.</p>
+      <p begin="00:32:42.914" xml:id="sub-649" end="00:32:44.456">
+        <span tts:fontStyle="italic">-[Charles] I love you, too</span>
+      </p>
+      <p begin="00:32:44.456" xml:id="sub-650" end="00:32:46.875">[audience cheering/applauding]</p>
+      <p begin="00:32:46.875" xml:id="sub-651" end="00:32:51.157">
+        <span tts:fontStyle="italic">- put your hands together <br/>and give it for Charles Bradley.</span>
+      </p>
+      <p begin="00:32:52.448" xml:id="sub-652" end="00:32:56.598">
+        <span tts:fontStyle="italic">Show some love <br/>for Mr. Charles Bradley.</span>
+      </p>
+      <p begin="00:32:57.690" xml:id="sub-653" end="00:33:00.431">- Okay. Your smarter. Your smarter.</p>
+      <p begin="00:33:00.538" xml:id="sub-654" end="00:33:01.528">- It was better than last night, wasn't it?</p>
+      <p begin="00:33:01.621" xml:id="sub-655" end="00:33:02.460">- Yes, it was.</p>
+      <p begin="00:33:02.460" xml:id="sub-656" end="00:33:03.576">-[Tommy] It was better.<br/>-[Charles] Killed it</p>
+      <p begin="00:33:03.637" xml:id="sub-657" end="00:33:04.542">- So we won.</p>
+      <p begin="00:33:04.635" xml:id="sub-658" end="00:33:05.480">- It was.</p>
+      <p begin="00:33:05.603" xml:id="sub-659" end="00:33:05.603">- Just how long?</p>
+      <p begin="00:33:05.603" xml:id="sub-660" end="00:33:08.478">- I know I made a few mistakes tonight.</p>
+      <p begin="00:33:08.616" xml:id="sub-661" end="00:33:10.818">But I'm getting better and I feel it.</p>
+      <p begin="00:33:10.941" xml:id="sub-662" end="00:33:12.948">The audience didn't see it, <br/>but I know it.</p>
+      <p begin="00:33:13.071" xml:id="sub-663" end="00:33:14.848">And Tom, he know about it.</p>
+      <p begin="00:33:15.156" xml:id="sub-664" end="00:33:18.084">So, the last one I was good on.</p>
+      <p begin="00:33:18.484" xml:id="sub-665" end="00:33:21.641">And there's something I'm wondering<br/>when I made a mistake on,</p>
+      <p begin="00:33:21.748" xml:id="sub-666" end="00:33:24.127">but I'm get better on it.<br/>And I promise you that.</p>
+      <p begin="00:33:24.389" xml:id="sub-667" end="00:33:27.651">- We can't believe that they <br/>didn't put you on more.</p>
+      <p begin="00:33:27.651" xml:id="sub-668" end="00:33:28.949">We wanted more of you.</p>
+      <p begin="00:33:28.949" xml:id="sub-669" end="00:33:31.928">Why didn't you come back on in the end?</p>
+      <p begin="00:33:32.543" xml:id="sub-670" end="00:33:33.547">Tell her.</p>
+      <p begin="00:33:33.547" xml:id="sub-671" end="00:33:34.506">[Charles mumbling]</p>
+      <p begin="00:33:34.506" xml:id="sub-672" end="00:33:36.574">- I don't care, we want more.</p>
+      <p begin="00:33:36.666" xml:id="sub-673" end="00:33:38.404">More of Chuckie.</p>
+      <p begin="00:33:38.912" xml:id="sub-674" end="00:33:40.313">- Thank you, my man.</p>
+      <p begin="00:33:40.390" xml:id="sub-675" end="00:33:41.315">Thank you for that.</p>
+      <p begin="00:33:41.392" xml:id="sub-676" end="00:33:42.707">You, you got the juices flowing for all of us.</p>
+      <p begin="00:33:42.815" xml:id="sub-677" end="00:33:43.577">Thank you.</p>
+      <p begin="00:33:43.669" xml:id="sub-678" end="00:33:45.631">- You just blew the roof off the place.</p>
+      <p begin="00:33:45.816" xml:id="sub-679" end="00:33:48.677">- Unbelievable. You're gonna be <br/>like huge, man.</p>
+      <p begin="00:33:48.877" xml:id="sub-680" end="00:33:51.061">- I don't understand what people mean <br/>about, "divas," you know,</p>
+      <p begin="00:33:51.184" xml:id="sub-681" end="00:33:53.732">'cause that, "diva" word can be -- <br/>sometimes can be wrong.</p>
+      <p begin="00:33:53.793" xml:id="sub-682" end="00:33:54.862">- No, but it's right for you.</p>
+      <p begin="00:33:54.862" xml:id="sub-683" end="00:33:57.674">- Diva means, you know, you just...<br/>-It all depends.</p>
+      <p begin="00:33:57.798" xml:id="sub-684" end="00:33:58.955">- Yeah.</p>
+      <p begin="00:33:59.232" xml:id="sub-685" end="00:34:01.366">- But it's coming from love, you gotta <br/>consider the source.</p>
+      <p begin="00:34:01.366" xml:id="sub-686" end="00:34:02.465">-This one is yours.</p>
+      <p begin="00:34:02.465" xml:id="sub-687" end="00:34:03.367">- "Consider the source."</p>
+      <p begin="00:34:03.367" xml:id="sub-688" end="00:34:04.453">-You have a good week.</p>
+      <p begin="00:34:04.453" xml:id="sub-689" end="00:34:07.521">- You didn't say, "To Charles." <br/>You didn't say, "To Charles."</p>
+      <p begin="00:34:07.521" xml:id="sub-690" end="00:34:10.460">-"Charles," how do you spell "Bradley?"</p>
+      <p begin="00:34:10.460" xml:id="sub-691" end="00:34:11.965">- Bradley, B-R-A-D-L-E-Y.</p>
+      <p begin="00:34:11.965" xml:id="sub-692" end="00:34:14.123">- ...L- E-Y.</p>
+      <p begin="00:34:14.230" xml:id="sub-693" end="00:34:14.970">- Cool. Now I got it.</p>
+      <p begin="00:34:15.078" xml:id="sub-694" end="00:34:16.148">- You got the sparks.</p>
+      <p begin="00:34:19.593" xml:id="sub-695" end="00:34:20.561">- I love you, Sharon.</p>
+      <p begin="00:34:20.669" xml:id="sub-696" end="00:34:21.699">- I love you, too.</p>
+      <p begin="00:34:21.776" xml:id="sub-697" end="00:34:25.165">- You, you have found a real friend <br/>in me and I wish the best for you.</p>
+      <p begin="00:34:25.165" xml:id="sub-698" end="00:34:27.539">- I wish the best for you, best for us.</p>
+      <p begin="00:34:27.631" xml:id="sub-699" end="00:34:31.974">- If I don't, if I don't see you at <br/>the top, I will see you in heaven.</p>
+      <p begin="00:34:32.158" xml:id="sub-700" end="00:34:33.982">- Oh, you're gonna see me, <br/>you'll see me on the top</p>
+      <p begin="00:34:33.982" xml:id="sub-701" end="00:34:35.401">and you're gonna see me in heaven.</p>
+      <p begin="00:34:35.401" xml:id="sub-702" end="00:34:37.575">You'll see me while I'll be down here too.</p>
+      <p begin="00:34:37.683" xml:id="sub-703" end="00:34:38.422">- I love you, Sharon.</p>
+      <p begin="00:34:38.530" xml:id="sub-704" end="00:34:39.757">- Love you too, Charles.</p>
+      <p begin="00:34:40.030" xml:id="sub-705" end="00:34:59.633">[Instrumental music playing]</p>
+      <p begin="00:34:59.633" xml:id="sub-706" end="00:35:01.844">-Poughkeepsie</p>
+      <p begin="00:35:03.059" xml:id="sub-707" end="00:35:07.141">- I'm gonna stop by and visit some <br/>old friends I haven't seen in many years.</p>
+      <p begin="00:35:07.141" xml:id="sub-708" end="00:35:09.559">[doorbell chime]</p>
+      <p begin="00:35:09.559" xml:id="sub-709" end="00:35:15.315">[door opening]<br/>[people greeting each other with laughter]</p>
+      <p begin="00:35:15.315" xml:id="sub-710" end="00:35:17.506">-[Charles] I said, "God, I hope they're still here."</p>
+      <p begin="00:35:17.506" xml:id="sub-711" end="00:35:19.235">
+        <span tts:fontStyle="italic">- Yeah, we're still here, Bro.</span>
+      </p>
+      <p begin="00:35:19.235" xml:id="sub-712" end="00:35:22.649">- [Charles] Wow, this house smells good!</p>
+      <p begin="00:35:22.649" xml:id="sub-713" end="00:35:25.143">-What's going on, buddy? <br/>How are you feeling?</p>
+      <p begin="00:35:25.143" xml:id="sub-714" end="00:35:26.623">- It's been years. Look at you.</p>
+      <p begin="00:35:26.623" xml:id="sub-715" end="00:35:28.277">- Oh, yeah. You look well, man.</p>
+      <p begin="00:35:28.277" xml:id="sub-716" end="00:35:29.789">- God, you look good too.</p>
+      <p begin="00:35:29.789" xml:id="sub-717" end="00:35:32.040">Is that Jackie coming down?</p>
+      <p begin="00:35:32.040" xml:id="sub-718" end="00:35:34.251">Ah! Look at Jackie!</p>
+      <p begin="00:35:34.251" xml:id="sub-719" end="00:35:36.675">How you doing?</p>
+      <p begin="00:35:38.397" xml:id="sub-720" end="00:35:39.383">I know this guy --</p>
+      <p begin="00:35:39.383" xml:id="sub-721" end="00:35:43.616">I know Ernie Washington since 1968.</p>
+      <p begin="00:35:43.616" xml:id="sub-722" end="00:35:45.095">
+        <span tts:fontStyle="italic">- You know what, she was looking for now?</span>
+      </p>
+      <p begin="00:35:45.095" xml:id="sub-723" end="00:35:45.660">
+        <span tts:fontStyle="italic">-[Charles] Um?</span>
+      </p>
+      <p begin="00:35:45.660" xml:id="sub-724" end="00:35:46.825">
+        <span tts:fontStyle="italic">-You remember when you <br/>used to wear a cape?</span>
+      </p>
+      <p begin="00:35:46.825" xml:id="sub-725" end="00:35:49.182">
+        <span tts:fontStyle="italic">- [Ernie] You were singing one of <br/>James Brown's songs,</span>
+      </p>
+      <p begin="00:35:49.182" xml:id="sub-726" end="00:35:51.268">and you'd throw that cape off.<br/>-[Charles] Oh, my God.</p>
+      <p begin="00:35:51.268" xml:id="sub-727" end="00:35:54.841">And I don't know if one of us <br/>went and picked the cape up</p>
+      <p begin="00:35:54.841" xml:id="sub-728" end="00:35:57.112">and lay it back on your shoulder or what.</p>
+      <p begin="00:35:57.235" xml:id="sub-729" end="00:35:58.138">- Yes, I remember that.</p>
+      <p begin="00:35:58.138" xml:id="sub-730" end="00:35:59.109">- Yeah.</p>
+      <p begin="00:35:59.109" xml:id="sub-731" end="00:36:00.030">- Yes, I remember that.</p>
+      <p begin="00:36:00.030" xml:id="sub-732" end="00:36:01.383">- That's right.</p>
+      <p begin="00:36:01.460" xml:id="sub-733" end="00:36:03.392">You never would know, <br/>you went that far, huh?</p>
+      <p begin="00:36:03.515" xml:id="sub-734" end="00:36:06.567">- God. You know, I thank God I didn't, <br/>I didn't give up.</p>
+      <p begin="00:36:06.675" xml:id="sub-735" end="00:36:07.568">- Thank God.</p>
+      <p begin="00:36:07.676" xml:id="sub-736" end="00:36:08.704">- Let me speak to Tom.</p>
+      <p begin="00:36:08.781" xml:id="sub-737" end="00:36:14.243">Tell Tom that to put Mr. and Mrs. <br/>Washington on the guest list.</p>
+      <p begin="00:36:14.720" xml:id="sub-738" end="00:36:15.831">I found my friends.</p>
+      <p begin="00:36:16.047" xml:id="sub-739" end="00:36:17.523">They are totally my family.</p>
+      <p begin="00:36:17.692" xml:id="sub-740" end="00:36:21.754">We keep in touch, I mean, we go<br/>away for so far long but eventually,</p>
+      <p begin="00:36:21.862" xml:id="sub-741" end="00:36:22.790">I'm gonna find them back.</p>
+      <p begin="00:36:22.790" xml:id="sub-742" end="00:36:23.363">- That's right.</p>
+      <p begin="00:36:23.363" xml:id="sub-743" end="00:36:24.197">- You know that, Jackie.</p>
+      <p begin="00:36:24.197" xml:id="sub-744" end="00:36:25.631">- Yeah, we've been friends <br/>for a long, long time.</p>
+      <p begin="00:36:25.631" xml:id="sub-745" end="00:36:27.020">- Yes, yes, God yes.</p>
+      <p begin="00:36:27.958" xml:id="sub-746" end="00:36:30.386">I get goosebumps even thinking about that.</p>
+      <p begin="00:36:30.510" xml:id="sub-747" end="00:36:32.545">I'll see you guys, I'll see you tonight.</p>
+      <p begin="00:36:32.545" xml:id="sub-748" end="00:36:34.309">
+        <span tts:fontStyle="italic">- [Ernie] Take care, and I'll see you tonight.</span>
+      </p>
+      <p begin="00:36:34.309" xml:id="sub-749" end="00:36:35.688">- All right, bye.</p>
+      <p begin="00:36:37.196" xml:id="sub-750" end="00:36:41.122">Oh my God, that's memory lane.</p>
+      <p begin="00:36:44.459" xml:id="sub-751" end="00:36:45.824">On South Road,</p>
+      <p begin="00:36:45.824" xml:id="sub-752" end="00:36:51.724">I was standing in a house over there <br/>and we had a heavy snowstorm.</p>
+      <p begin="00:36:51.724" xml:id="sub-753" end="00:36:52.788">I called in sick.</p>
+      <p begin="00:36:52.788" xml:id="sub-754" end="00:36:56.045">I didn't wanna go in because <br/>I wasn't able to go through all that snow.</p>
+      <p begin="00:36:56.045" xml:id="sub-755" end="00:36:58.960">So he said, "Well, you call in sick again, <br/>you don't come in,</p>
+      <p begin="00:36:58.960" xml:id="sub-756" end="00:37:00.920">
+        <span tts:fontStyle="italic">don't bother coming in no more."</span>
+      </p>
+      <p begin="00:37:00.920" xml:id="sub-757" end="00:37:05.699">
+        <span tts:fontStyle="italic">And I said, well I don't wanna lose my job, <br/>I got my apartment, got bills, gotta pay rent.</span>
+      </p>
+      <p begin="00:37:05.776" xml:id="sub-758" end="00:37:09.022">
+        <span tts:fontStyle="italic">So I got out and I got on the road <br/>and started hitchhiking.</span>
+      </p>
+      <p begin="00:37:09.036" xml:id="sub-759" end="00:37:11.131">
+        <span tts:fontStyle="italic">Hitchhiking, hitchhiking.</span>
+      </p>
+      <p begin="00:37:11.162" xml:id="sub-760" end="00:37:13.322">
+        <span tts:fontStyle="italic">Then all of a sudden, I saw this guy stop.</span>
+      </p>
+      <p begin="00:37:13.430" xml:id="sub-761" end="00:37:14.853">
+        <span tts:fontStyle="italic">Picked me up, got in the car.</span>
+      </p>
+      <p begin="00:37:14.945" xml:id="sub-762" end="00:37:19.243">
+        <span tts:fontStyle="italic">After he drove about a mile or two miles <br/>and there was a StateTrooper</span>
+      </p>
+      <p begin="00:37:19.243" xml:id="sub-763" end="00:37:21.885">on the side behind him. And put the siren on, <br/>and pulled him aside.</p>
+      <p begin="00:37:21.885" xml:id="sub-764" end="00:37:27.043">
+        <span tts:fontStyle="italic">One of them came up to me and said, <br/>"Can I see your identification?"</span>
+      </p>
+      <p begin="00:37:28.012" xml:id="sub-765" end="00:37:29.613">
+        <span tts:fontStyle="italic">Well, who's the guy next to you?</span>
+      </p>
+      <p begin="00:37:29.613" xml:id="sub-766" end="00:37:31.410">
+        <span tts:fontStyle="italic">I said, "Now that's not my information <br/>to give you,</span>
+      </p>
+      <p begin="00:37:31.410" xml:id="sub-767" end="00:37:32.577">
+        <span tts:fontStyle="italic">you have to get that information from him."</span>
+      </p>
+      <p begin="00:37:32.577" xml:id="sub-768" end="00:37:35.780">
+        <span tts:fontStyle="italic">And so he grabbed me, <br/>called me a, "Wise Nigger."</span>
+      </p>
+      <p begin="00:37:35.964" xml:id="sub-769" end="00:37:37.708">
+        <span tts:fontStyle="italic">And he grabbed me and throwed me <br/>against the car, </span>
+      </p>
+      <p begin="00:37:37.708" xml:id="sub-770" end="00:37:39.293">
+        <span tts:fontStyle="italic">put the handcuffs on me.</span>
+      </p>
+      <p begin="00:37:39.293" xml:id="sub-771" end="00:37:41.473">
+        <span tts:fontStyle="italic">He said, "I'd take you to the <br/>woods and bust your brains out.</span>
+      </p>
+      <p begin="00:37:41.627" xml:id="sub-772" end="00:37:43.760">
+        <span tts:fontStyle="italic">When I ask you a question, <br/>don't act wise with me."</span>
+      </p>
+      <p begin="00:37:43.898" xml:id="sub-773" end="00:37:47.488">And I stayed there and then <br/>his partner came over and said, "Hey man."</p>
+      <p begin="00:37:47.611" xml:id="sub-774" end="00:37:49.940">Took him to the side, said something to him.</p>
+      <p begin="00:37:50.760" xml:id="sub-775" end="00:37:53.379">And then his partner, <br/>he kind of apologized to me.</p>
+      <p begin="00:37:53.610" xml:id="sub-776" end="00:37:56.659">Took the handcuffs off me and told <br/>me get in the car and go ahead.</p>
+      <p begin="00:37:56.797" xml:id="sub-777" end="00:37:57.833">And I left.</p>
+      <p begin="00:37:59.372" xml:id="sub-778" end="00:38:00.856">
+        <span tts:fontStyle="italic">And I went into this little pizza shop.</span>
+      </p>
+      <p begin="00:38:00.856" xml:id="sub-779" end="00:38:02.774">
+        <span tts:fontStyle="italic">Tiny pizza shop.</span>
+      </p>
+      <p begin="00:38:02.774" xml:id="sub-780" end="00:38:04.298">I was sitting down, I said, <br/>"God, I can't take this much."</p>
+      <p begin="00:38:04.298" xml:id="sub-781" end="00:38:05.844">"I'm at the end of my rope."</p>
+      <p begin="00:38:06.782" xml:id="sub-782" end="00:38:12.317">
+        <span tts:fontStyle="italic">I was trying to think of a way to get out<br/>this body without--if I can do it fast</span>
+      </p>
+      <p begin="00:38:12.486" xml:id="sub-783" end="00:38:16.737">
+        <span tts:fontStyle="italic">without hurting and make sure<br/>I don't make a mistake and,</span>
+      </p>
+      <p begin="00:38:16.921" xml:id="sub-784" end="00:38:18.892">
+        <span tts:fontStyle="italic">and live only to be suffering.</span>
+      </p>
+      <p begin="00:38:19.076" xml:id="sub-785" end="00:38:23.760">
+        <span tts:fontStyle="italic">I said, I know a bus--if a truck hit me <br/>I know I'm gone, a car hit me I may live.</span>
+      </p>
+      <p begin="00:38:23.883" xml:id="sub-786" end="00:38:26.175">
+        <span tts:fontStyle="italic">And I was trying to get, to <br/>build the nerve to do it.</span>
+      </p>
+      <p begin="00:38:27.110" xml:id="sub-787" end="00:38:30.769">
+        <span tts:fontStyle="italic">And then all a sudden, this guy came in <br/>and he put some money in the jukebox</span>
+      </p>
+      <p begin="00:38:30.954" xml:id="sub-788" end="00:38:35.044">
+        <span tts:fontStyle="italic">and he played this one song, <br/>Take It to the Limit One More Time.</span>
+      </p>
+      <p begin="00:38:36.028" xml:id="sub-789" end="00:38:38.439">
+        <span tts:fontStyle="italic">Seemed to me that was God <br/>talking to me,</span>
+      </p>
+      <p begin="00:38:38.546" xml:id="sub-790" end="00:38:43.912">
+        <span tts:fontStyle="italic">I was at the end of my rope.<br/>When I heard that song, I started crying.</span>
+      </p>
+      <p begin="00:38:44.128" xml:id="sub-791" end="00:38:46.943">
+        <span tts:fontStyle="italic">And even the guy in the pizza shop said,</span>
+      </p>
+      <p begin="00:38:46.943" xml:id="sub-792" end="00:38:49.238">
+        <span tts:fontStyle="italic">"It's all right, young man. <br/>It's all right."</span>
+      </p>
+      <p begin="00:38:49.238" xml:id="sub-793" end="00:38:51.984">
+        <span tts:fontStyle="italic">And I got up and walked out <br/>and I went on the road.</span>
+      </p>
+      <p begin="00:38:54.618" xml:id="sub-794" end="00:39:13.889">&#9834; [music starting to play] &#9834;</p>
+      <p begin="00:39:13.889" xml:id="sub-795" end="00:39:18.242">&#9834; Ai-ai...&#9834;</p>
+      <p begin="00:39:18.242" xml:id="sub-796" end="00:39:22.354">&#9834; Loving you baby &#9834;</p>
+      <p begin="00:39:22.354" xml:id="sub-797" end="00:39:28.988">&#9834; Oh, I can't get enough of you baby &#9834;</p>
+      <p begin="00:39:28.988" xml:id="sub-798" end="00:39:33.532">&#9834; Can't get enough of you &#9834;</p>
+      <p begin="00:39:33.532" xml:id="sub-799" end="00:39:39.432">&#9834; I was crying when I felt your love &#9834;</p>
+      <p begin="00:39:42.017" xml:id="sub-800" end="00:39:45.955">&#9834; This time I know it's for real, baby. &#9834;</p>
+      <p begin="00:39:46.140" xml:id="sub-801" end="00:39:52.571">&#9834; I... &#9834;</p>
+      <p begin="00:39:52.571" xml:id="sub-802" end="00:39:59.002">&#9834; [instrumental music playing] &#9834;</p>
+      <p begin="00:40:00.356" xml:id="sub-803" end="00:40:01.603">&#9834; Bring it down, fellas. &#9834;</p>
+      <p begin="00:40:02.772" xml:id="sub-804" end="00:40:07.555">Ladies and gentlemen, <br/>may ever who you are.</p>
+      <p begin="00:40:10.185" xml:id="sub-805" end="00:40:18.861">I live here about, I came here about--<br/>Poughkeepsie, about 1968.</p>
+      <p begin="00:40:20.075" xml:id="sub-806" end="00:40:23.834">And I lived here for 9 years.</p>
+      <p begin="00:40:25.464" xml:id="sub-807" end="00:40:28.697">You know, this is like home to me.</p>
+      <p begin="00:40:28.928" xml:id="sub-808" end="00:40:30.745">So, I'm giving you my love.</p>
+      <p begin="00:40:31.929" xml:id="sub-809" end="00:40:35.271">You know, bring it down <br/>a little somethin' fellas.</p>
+      <p begin="00:40:36.548" xml:id="sub-810" end="00:40:40.179">And I work in a little town<br/>they call <span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline">.</span></span></span></p>
+      <p begin="00:40:41.148" xml:id="sub-811" end="00:40:46.689">I worked in a little center, <br/>I was cook for 3500 peoples a day.</p>
+      <p begin="00:40:47.780" xml:id="sub-812" end="00:40:50.239">There's a friend in here, <br/>two friends that I know that,</p>
+      <p begin="00:40:50.332" xml:id="sub-813" end="00:40:52.964">that when I came here <br/>they was with me.</p>
+      <p begin="00:40:53.701" xml:id="sub-814" end="00:40:57.639">And his name is <br/>Mr. and Mrs. Ernest Washington.</p>
+      <p begin="00:40:57.778" xml:id="sub-815" end="00:41:00.524">Ernest Washington, I can't see <br/>you now, where you at?</p>
+      <p begin="00:41:00.709" xml:id="sub-816" end="00:41:04.055">But, thank you brother for the ride.</p>
+      <p begin="00:41:04.854" xml:id="sub-817" end="00:41:06.971">Thank you, Jackie.</p>
+      <p begin="00:41:08.141" xml:id="sub-818" end="00:41:11.134">Thank you for being my <br/>friend through the years.</p>
+      <p begin="00:41:11.273" xml:id="sub-819" end="00:41:13.033">And all of you out there.</p>
+      <p begin="00:41:13.248" xml:id="sub-820" end="00:41:16.501">&#9834; I love you.&#9834;</p>
+      <p begin="00:41:16.655" xml:id="sub-821" end="00:41:21.556">&#9834; Yeah... &#9834;</p>
+      <p begin="00:41:21.556" xml:id="sub-822" end="00:41:25.644">&#9834; I love you.&#9834;</p>
+      <p begin="00:41:25.644" xml:id="sub-823" end="00:41:27.564">&#9834; Would you see it? &#9834;</p>
+      <p begin="00:41:27.564" xml:id="sub-824" end="00:41:29.523">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:41:29.523" xml:id="sub-825" end="00:41:32.986">&#9834; Ooo....&#9834;</p>
+      <p begin="00:41:32.986" xml:id="sub-826" end="00:41:55.395">Thank you, Ladies and Gentlemen, I love you.</p>
+      <p begin="00:41:55.395" xml:id="sub-827" end="00:41:55.455">- I saw you on YouTube, too.</p>
+      <p begin="00:41:56.809" xml:id="sub-828" end="00:41:59.877">That's how I knew the <br/>greatness of Charles Bradley.</p>
+      <p begin="00:42:00.877" xml:id="sub-829" end="00:42:02.070">- Thank you so much.</p>
+      <p begin="00:42:02.208" xml:id="sub-830" end="00:42:03.507">It was a great night.</p>
+      <p begin="00:42:04.769" xml:id="sub-831" end="00:42:06.039">- It really was.</p>
+      <p begin="00:42:06.239" xml:id="sub-832" end="00:42:07.975">- And you made it <br/>extra special.</p>
+      <p begin="00:42:08.074" xml:id="sub-833" end="00:42:09.605">- It's special, very special.</p>
+      <p begin="00:42:09.712" xml:id="sub-834" end="00:42:10.944">Thank you so much.</p>
+      <p begin="00:42:11.037" xml:id="sub-835" end="00:42:11.684">- God bless you.</p>
+      <p begin="00:42:11.776" xml:id="sub-836" end="00:42:12.688">- Thank you.</p>
+      <p begin="00:42:13.093" xml:id="sub-837" end="00:42:14.620">- That is our nephew, Cain.</p>
+      <p begin="00:42:14.758" xml:id="sub-838" end="00:42:16.162">- Thank you for coming for <br/>coming to Poughkeepsie.</p>
+      <p begin="00:42:16.270" xml:id="sub-839" end="00:42:18.182">You really blessed <br/>Poughkeepsie tonight.</p>
+      <p begin="00:42:18.321" xml:id="sub-840" end="00:42:19.187">- Thank you.</p>
+      <p begin="00:42:19.310" xml:id="sub-841" end="00:42:20.862">- Take care.</p>
+      <p begin="00:42:21.001" xml:id="sub-842" end="00:42:23.234">- Thanks for coming back<br/>for one night.</p>
+      <p begin="00:42:24.219" xml:id="sub-843" end="00:42:26.383">- I got a touchy moment, <br/>one moment.</p>
+      <p begin="00:42:26.521" xml:id="sub-844" end="00:42:28.733">When I got down and started <br/>talking to some peoples.</p>
+      <p begin="00:42:29.010" xml:id="sub-845" end="00:42:30.137">Got touching.</p>
+      <p begin="00:42:30.353" xml:id="sub-846" end="00:42:32.431">So I said, Leave it alone, Charles.<br/>It's getting too deep now."</p>
+      <p begin="00:42:32.570" xml:id="sub-847" end="00:42:33.495">"Get off it."</p>
+      <p begin="00:42:33.648" xml:id="sub-848" end="00:42:36.115">I got back up 'cause <br/>it started getting touchy.</p>
+      <p begin="00:42:36.300" xml:id="sub-849" end="00:42:40.862">But that was the beautiful thing about <br/>you see, Ernest Washington and Jackie.</p>
+      <p begin="00:42:41.016" xml:id="sub-850" end="00:42:42.109">Oh, man.</p>
+      <p begin="00:42:42.325" xml:id="sub-851" end="00:42:46.160">Wow, this the first time they <br/>really saw me in many years.</p>
+      <p begin="00:42:50.687" xml:id="sub-852" end="00:42:58.141">[police siren wailing]</p>
+      <p begin="00:42:58.141" xml:id="sub-853" end="00:43:00.986">
+        <span tts:fontStyle="italic">- [Charles] This is the house <br/>my brother was killed in.</span>
+      </p>
+      <p begin="00:43:03.401" xml:id="sub-854" end="00:43:06.454">That's why I don't like to<br/>come on this block no more.</p>
+      <p begin="00:43:06.454" xml:id="sub-855" end="00:43:11.742">- He came downstairs <br/>and, uh, he saw me crying.</p>
+      <p begin="00:43:11.742" xml:id="sub-856" end="00:43:12.997">He said, "Mom what's wrong?"</p>
+      <p begin="00:43:12.997" xml:id="sub-857" end="00:43:14.892">I said, "Just go next door."</p>
+      <p begin="00:43:14.892" xml:id="sub-858" end="00:43:17.153">"Charles, your brother is dead."</p>
+      <p begin="00:43:19.369" xml:id="sub-859" end="00:43:21.290">He said, "No, Mama, can't be."</p>
+      <p begin="00:43:21.290" xml:id="sub-860" end="00:43:22.733">I said, "Yes, he is."</p>
+      <p begin="00:43:22.733" xml:id="sub-861" end="00:43:28.160">So there was probably a whole block was <br/>filled with policemans with rifles and guns.</p>
+      <p begin="00:43:28.268" xml:id="sub-862" end="00:43:30.601">I look out the window, <br/>and I see all this polices,</p>
+      <p begin="00:43:30.693" xml:id="sub-863" end="00:43:32.926">and the firetrucks, <br/>ambulance outside.</p>
+      <p begin="00:43:33.019" xml:id="sub-864" end="00:43:37.037">So I came outside and I said, <br/>I just gotta go to see this myself.</p>
+      <p begin="00:43:37.160" xml:id="sub-865" end="00:43:42.394">
+        <span tts:fontStyle="italic">'Cause I saw this thing says Morgue,<br/>and when it says Morgue, what I did,</span>
+      </p>
+      <p begin="00:43:43.378" xml:id="sub-866" end="00:43:46.952">
+        <span tts:fontStyle="italic">I just, um, came out <br/>to go to my brother's house </span>
+      </p>
+      <p begin="00:43:46.952" xml:id="sub-867" end="00:43:48.870">
+        <span tts:fontStyle="italic">and the detective wouldn't let me in there.</span>
+      </p>
+      <p begin="00:43:48.870" xml:id="sub-868" end="00:43:51.010">
+        <span tts:fontStyle="italic">I told him that's my brother <br/>and you cannot stop me.</span>
+      </p>
+      <p begin="00:43:51.179" xml:id="sub-869" end="00:43:52.580">So I pushed my way in.</p>
+      <p begin="00:43:52.873" xml:id="sub-870" end="00:43:56.023">But I wish to God that I <br/>would've never would've did it.</p>
+      <p begin="00:43:56.731" xml:id="sub-871" end="00:43:59.496">- And they had the boy <br/>in the back of the car.</p>
+      <p begin="00:43:59.619" xml:id="sub-872" end="00:44:02.635">I said,<br/>"Give me your gun, Mr. Policeman."</p>
+      <p begin="00:44:02.789" xml:id="sub-873" end="00:44:05.465">I, I said, "I'll blow his damn <br/>brains out right through."</p>
+      <p begin="00:44:05.465" xml:id="sub-874" end="00:44:06.939">He said "I can't do that."</p>
+      <p begin="00:44:06.939" xml:id="sub-875" end="00:44:11.810">I said, "Good thing you can't because <br/>I'll put every damn bullet in his head."</p>
+      <p begin="00:44:11.866" xml:id="sub-876" end="00:44:15.804">He robbed my son <br/>and got his money.</p>
+      <p begin="00:44:15.850" xml:id="sub-877" end="00:44:18.412">I said, "I'll kill his ass."</p>
+      <p begin="00:44:18.412" xml:id="sub-878" end="00:44:21.945">And I meant it, too. Yes, sir.</p>
+      <p begin="00:44:23.390" xml:id="sub-879" end="00:44:24.874">I love my baby.</p>
+      <p begin="00:44:24.874" xml:id="sub-880" end="00:44:26.158">Mm-hm.</p>
+      <p begin="00:44:26.158" xml:id="sub-881" end="00:44:28.289">I love my baby.</p>
+      <p begin="00:44:28.289" xml:id="sub-882" end="00:44:28.845">Sleep on, son. Take your rest.</p>
+      <p begin="00:44:29.985" xml:id="sub-883" end="00:44:31.310">God love you, but Momma.</p>
+      <p begin="00:44:31.448" xml:id="sub-884" end="00:44:36.140">I mean, Momma love you, but God<br/>loves you best and give you eternal rest.</p>
+      <p begin="00:44:36.810" xml:id="sub-885" end="00:44:39.187">One day I will meet you on the throne.</p>
+      <p begin="00:44:39.480" xml:id="sub-886" end="00:44:41.422">Yes. Yes I will, son.</p>
+      <p begin="00:44:42.668" xml:id="sub-887" end="00:44:47.963">- I think, uh, Charles depended on Joseph <br/>just like, eh, mother depended on him.</p>
+      <p begin="00:44:50.117" xml:id="sub-888" end="00:44:53.672">
+        <span tts:fontStyle="italic">Charles, uh, nearly went out of his <br/>mind when Joseph got killed.</span>
+      </p>
+      <p begin="00:44:55.610" xml:id="sub-889" end="00:45:00.572">
+        <span tts:fontStyle="italic">I mean, for awhile they say <br/>he was gonna go crazy about it.</span>
+      </p>
+      <p begin="00:45:03.079" xml:id="sub-890" end="00:45:05.850">- [Charles] And I really like to find <br/>the truth of why he got killed.</p>
+      <p begin="00:45:05.958" xml:id="sub-891" end="00:45:07.556">He was too young.</p>
+      <p begin="00:45:08.709" xml:id="sub-892" end="00:45:11.417">He was 48 years old.</p>
+      <p begin="00:45:12.878" xml:id="sub-893" end="00:45:19.159">&#9834; [music playing] &#9834;</p>
+      <p begin="00:45:19.359" xml:id="sub-894" end="00:45:20.732">
+        <span tts:fontStyle="italic">-[Tommy] There's a mic for you right here.</span>
+      </p>
+      <p begin="00:45:22.378" xml:id="sub-895" end="00:45:25.760">
+        <span tts:fontStyle="italic">Do you just wanna try that one or <br/>do you wanna play something else?</span>
+      </p>
+      <p begin="00:45:25.760" xml:id="sub-896" end="00:45:28.579">-Yeah, we can come back...</p>
+      <p begin="00:45:28.579" xml:id="sub-897" end="00:45:31.188">You always, you go like that.</p>
+      <p begin="00:45:31.341" xml:id="sub-898" end="00:45:34.193">
+        <span tts:fontStyle="italic">- [Tommy] You wanna do <br/>Heartaches and Pain?</span>
+      </p>
+      <p begin="00:45:38.772" xml:id="sub-899" end="00:45:52.999">&#9834; [Band starts playing] &#9834;</p>
+      <p begin="00:45:53.030" xml:id="sub-900" end="00:45:56.981">- Heartaches and Pain is by far the deepest <br/>song on the Charles Bradley record.</p>
+      <p begin="00:45:57.134" xml:id="sub-901" end="00:46:02.159">and, uh, it was probably, uh, the third <br/>song that we had written together.</p>
+      <p begin="00:46:02.282" xml:id="sub-902" end="00:46:06.425">
+        <span tts:fontStyle="italic">Charles tells me the story about his<br/>brother, and Charles says to me,</span>
+      </p>
+      <p begin="00:46:06.563" xml:id="sub-903" end="00:46:10.207">
+        <span tts:fontStyle="italic">"I want to write a song <br/>about my brother Joseph."</span>
+      </p>
+      <p begin="00:46:10.346" xml:id="sub-904" end="00:46:13.662">I said, "Okay, I will help you <br/>do it." You know, as a friend.</p>
+      <p begin="00:46:14.245" xml:id="sub-905" end="00:46:16.758">And, ah, I said, "You know that song <br/>you've been playing on the piano your whole life?</p>
+      <p begin="00:46:18.367" xml:id="sub-906" end="00:46:20.106">
+        <span tts:fontStyle="italic">That's gonna be the music to the song.</span>
+      </p>
+      <p begin="00:46:20.306" xml:id="sub-907" end="00:46:23.230">
+        <span tts:fontStyle="italic">Brought Charles in and added <br/>a couple things to his piano thing,</span>
+      </p>
+      <p begin="00:46:23.230" xml:id="sub-908" end="00:46:24.488">
+        <span tts:fontStyle="italic">a couple chord progressions, <br/>whatever.</span>
+      </p>
+      <p begin="00:46:24.488" xml:id="sub-909" end="00:46:26.488">
+        <span tts:fontStyle="italic">And, "Hey, Charles, this <br/>is the song for your brother."</span>
+      </p>
+      <p begin="00:46:26.827" xml:id="sub-910" end="00:46:29.765">
+        <span tts:fontStyle="italic">And you know, he did his thing and he<br/>started screaming, running around,</span>
+      </p>
+      <p begin="00:46:29.842" xml:id="sub-911" end="00:46:32.420">
+        <span tts:fontStyle="italic">"This is beautiful, this is beautiful. <br/>Oh, my God, oh my God."</span>
+      </p>
+      <p begin="00:46:32.697" xml:id="sub-912" end="00:46:38.531">And then we started working on it and <br/>it was hard, man. It was really hard.</p>
+      <p begin="00:46:38.685" xml:id="sub-913" end="00:46:46.936">That is a very personal, deep, deep, dark,<br/>haunting story about Charles' brother,</p>
+      <p begin="00:46:47.059" xml:id="sub-914" end="00:46:49.069">an older brother that, <br/>that he admired and loved,</p>
+      <p begin="00:46:49.208" xml:id="sub-915" end="00:46:51.147">that needed to tell.</p>
+      <p begin="00:46:51.301" xml:id="sub-916" end="00:47:15.261">&#9834; [Charles Bradley singing] &#9834;</p>
+      <p begin="00:47:18.337" xml:id="sub-917" end="00:47:24.298">- So the mortgage is hard on me,<br/>and I don't think it's fair to me.</p>
+      <p begin="00:47:24.467" xml:id="sub-918" end="00:47:27.172">Never missed a payment, 'cause they <br/>told me if I miss a payment,</p>
+      <p begin="00:47:27.295" xml:id="sub-919" end="00:47:29.660">they gonna up to 18% <br/>on my interest rate.</p>
+      <p begin="00:47:29.798" xml:id="sub-920" end="00:47:32.071">I've been trying to get <br/>it remortaged, remortgaged.</p>
+      <p begin="00:47:32.210" xml:id="sub-921" end="00:47:34.098">They tell me I don't make <br/>enough money.</p>
+      <p begin="00:47:34.344" xml:id="sub-922" end="00:47:38.846">I said, "Well, how I don't make <br/>enough money</p>
+      <p begin="00:47:38.939" xml:id="sub-923" end="00:47:41.318">and I'm paying all this mortgage, high<br/>mortgage I'm going out?"</p>
+      <p begin="00:47:41.487" xml:id="sub-924" end="00:47:45.521">'Cause I going out to earn pennies, every <br/>little penny, and keep this going.</p>
+      <p begin="00:47:46.090" xml:id="sub-925" end="00:47:47.943">- When Joseph got killed</p>
+      <p begin="00:47:47.943" xml:id="sub-926" end="00:47:54.964">and Charles went on, took on full the<br/>duty of taking care of what mother needs,</p>
+      <p begin="00:47:54.964" xml:id="sub-927" end="00:47:55.734">
+        <span tts:fontStyle="italic">'cause none of 'em wanted to do it,</span>
+      </p>
+      <p begin="00:47:56.442" xml:id="sub-928" end="00:47:59.914">
+        <span tts:fontStyle="italic">Charles is giving a lot of his <br/>personal money,</span>
+      </p>
+      <p begin="00:47:59.996" xml:id="sub-929" end="00:48:03.118">
+        <span tts:fontStyle="italic">he puts it into the house <br/>to help her to stay there.</span>
+      </p>
+      <p begin="00:48:03.426" xml:id="sub-930" end="00:48:09.502">
+        <span tts:fontStyle="italic">- He's in the process, I would say, almost<br/>buying this darn house for his mother.</span>
+      </p>
+      <p begin="00:48:10.425" xml:id="sub-931" end="00:48:15.461">
+        <span tts:fontStyle="italic">And-and his older sibling that <br/>lives there in the house.</span>
+      </p>
+      <p begin="00:48:15.800" xml:id="sub-932" end="00:48:17.510">Don't want him there.</p>
+      <p begin="00:48:17.618" xml:id="sub-933" end="00:48:29.116">And so he is largely responsible for<br/>taking care of all of my sisters affairs.</p>
+      <p begin="00:48:33.286" xml:id="sub-934" end="00:48:37.237">&#9834; [Cell phone ringtone] &#9834;</p>
+      <p begin="00:48:38.303" xml:id="sub-935" end="00:48:39.552">- Hello.</p>
+      <p begin="00:48:40.398" xml:id="sub-936" end="00:48:41.680">- Yes?</p>
+      <p begin="00:48:43.357" xml:id="sub-937" end="00:48:45.131">- Oh, how, how you doing, Paul?</p>
+      <p begin="00:48:46.546" xml:id="sub-938" end="00:48:51.861">She's, if I, if she don't be able to do, <br/>be able to do the learn, the remodel,</p>
+      <p begin="00:48:51.999" xml:id="sub-939" end="00:48:54.951">refinance the house,<br/>then she will have to wait</p>
+      <p begin="00:48:55.120" xml:id="sub-940" end="00:48:58.111">for two months <br/>til income tax come.</p>
+      <p begin="00:48:58.434" xml:id="sub-941" end="00:49:01.670">Income tax coming, she would <br/>like me to give up my apartment,</p>
+      <p begin="00:49:01.670" xml:id="sub-942" end="00:49:03.463">but I don't want to give up <br/>my apartment, you know.</p>
+      <p begin="00:49:03.463" xml:id="sub-943" end="00:49:06.238">And then I'd have to move over <br/>to my mama's house.</p>
+      <p begin="00:49:07.540" xml:id="sub-944" end="00:49:10.740">Yeah, cause like this apartment <br/>that I was talking about,</p>
+      <p begin="00:49:10.863" xml:id="sub-945" end="00:49:12.571">is the only place I have to run <br/>to whenever I get depressed</p>
+      <p begin="00:49:12.571" xml:id="sub-946" end="00:49:17.281">and there's only pieces of me in here.</p>
+      <p begin="00:49:17.281" xml:id="sub-947" end="00:49:20.127">But whatever you decide is 'cause <br/>I know you're trying to help me.</p>
+      <p begin="00:49:20.220" xml:id="sub-948" end="00:49:21.411">and I appreciate that.</p>
+      <p begin="00:49:21.996" xml:id="sub-949" end="00:49:22.788">All right, Paul.</p>
+      <p begin="00:49:22.865" xml:id="sub-950" end="00:49:23.464">Thank you, Paul.</p>
+      <p begin="00:49:23.541" xml:id="sub-951" end="00:49:24.218">Okay.</p>
+      <p begin="00:49:26.418" xml:id="sub-952" end="00:49:27.786">What's left for me to do?</p>
+      <p begin="00:49:27.878" xml:id="sub-953" end="00:49:29.092">It's my life.</p>
+      <p begin="00:49:29.323" xml:id="sub-954" end="00:49:30.261">Take my life away.</p>
+      <p begin="00:49:30.384" xml:id="sub-955" end="00:49:33.015">Sometimes I do ask God <br/>just call me home.</p>
+      <p begin="00:49:33.122" xml:id="sub-956" end="00:49:37.703">Because everyday I get out and I<br/>fight and fight to keep the honesty,</p>
+      <p begin="00:49:37.857" xml:id="sub-957" end="00:49:41.311">the decency of a human being <br/>walking the planet and loving</p>
+      <p begin="00:49:41.434" xml:id="sub-958" end="00:49:45.135">everybody as God asks you <br/>to love everybody.</p>
+      <p begin="00:49:45.858" xml:id="sub-959" end="00:49:49.353">But today, they look it as a weakness, I think.</p>
+      <p begin="00:49:49.923" xml:id="sub-960" end="00:49:55.079">How much more can one give <br/>before they find love on the planet?</p>
+      <p begin="00:49:55.202" xml:id="sub-961" end="00:49:57.281">How much more can you give?</p>
+      <p begin="00:49:57.574" xml:id="sub-962" end="00:50:02.191">I say, "Father, whatever the time <br/>or the hour you want me,</p>
+      <p begin="00:50:02.376" xml:id="sub-963" end="00:50:04.094">I'm ready to go."</p>
+      <p begin="00:50:04.707" xml:id="sub-964" end="00:50:07.243">That's the way I feel about life.</p>
+      <p begin="00:50:12.797" xml:id="sub-965" end="00:50:16.103">And before I leave this world<br/>I said I let the world know</p>
+      <p begin="00:50:16.580" xml:id="sub-966" end="00:50:18.450">they can't change me.</p>
+      <p begin="00:50:18.589" xml:id="sub-967" end="00:50:20.905">I don't give a dog about <br/>what you give me,</p>
+      <p begin="00:50:21.013" xml:id="sub-968" end="00:50:26.131">ain't no money on this earth can take <br/>love that I have for God in my heart.</p>
+      <p begin="00:50:26.670" xml:id="sub-969" end="00:50:28.397">I love everybody.</p>
+      <p begin="00:50:28.535" xml:id="sub-970" end="00:50:31.098">I never do nobody no harm.</p>
+      <p begin="00:50:32.251" xml:id="sub-971" end="00:50:35.831">All I try to do is walk <br/>my straight life.</p>
+      <p begin="00:50:35.877" xml:id="sub-972" end="00:50:39.023">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:50:39.561" xml:id="sub-973" end="00:50:44.802">&#9834; Why is it so hard? &#9834;</p>
+      <p begin="00:50:45.125" xml:id="sub-974" end="00:50:54.856">&#9834; To make it in America.&#9834;</p>
+      <p begin="00:50:54.856" xml:id="sub-975" end="00:50:56.822">&#9834; So I said to myself, &#9834;</p>
+      <p begin="00:50:56.822" xml:id="sub-976" end="00:51:00.639">&#9834; I, I gotta move away from here.&#9834;</p>
+      <p begin="00:51:01.099" xml:id="sub-977" end="00:51:05.761">
+        <span tts:fontStyle="italic">- Me and Homer were traveling in Europe<br/>with Sharon Jones and the Dap-Kings.</span>
+      </p>
+      <p begin="00:51:05.780" xml:id="sub-978" end="00:51:08.591">And we had hung out one night <br/>and met some girls in Paris.</p>
+      <p begin="00:51:08.591" xml:id="sub-979" end="00:51:09.668">
+        <span tts:fontStyle="italic">So these girls were just like,</span>
+      </p>
+      <p begin="00:51:09.668" xml:id="sub-980" end="00:51:15.025">
+        <span tts:fontStyle="italic">"Hey, you know, is Sharon Jones <br/>as big in America as she is in, in France?"</span>
+      </p>
+      <p begin="00:51:15.163" xml:id="sub-981" end="00:51:17.289">And you know, we're just like, no, no.</p>
+      <p begin="00:51:17.381" xml:id="sub-982" end="00:51:18.545">Nobody knows about Sharon Jones.</p>
+      <p begin="00:51:18.652" xml:id="sub-983" end="00:51:21.016">This is years ago, no one knows <br/>about Sharon Jones in America.</p>
+      <p begin="00:51:21.062" xml:id="sub-984" end="00:51:23.845">It's like we play around <br/>Brooklyn, and we play in small clubs,</p>
+      <p begin="00:51:23.845" xml:id="sub-985" end="00:51:27.120">but at the time, we were playing like <br/>theaters in Paris and such and</p>
+      <p begin="00:51:27.120" xml:id="sub-986" end="00:51:30.040">it was just a bigger thing in Europe.</p>
+      <p begin="00:51:30.040" xml:id="sub-987" end="00:51:33.705">
+        <span tts:fontStyle="italic">So that led to us just kind of writing <br/>this little tune that night called:</span>
+      </p>
+      <p begin="00:51:33.705" xml:id="sub-988" end="00:51:37.618">
+        <span tts:fontStyle="italic">Why Is It So Hard <br/>To Make It In America?</span>
+      </p>
+      <p begin="00:51:37.772" xml:id="sub-989" end="00:51:42.676">The second that Charles sang, <br/>Why Is It So Hard To Make It In America?</p>
+      <p begin="00:51:42.800" xml:id="sub-990" end="00:51:46.926">the song's meaning <br/>completely changed.</p>
+      <p begin="00:51:47.079" xml:id="sub-991" end="00:51:49.193">&#9834; [music continues to play] &#9834;</p>
+      <p begin="00:51:49.193" xml:id="sub-992" end="00:52:01.071">&#9834; Why is so hard to make it in America?&#9834;</p>
+      <p begin="00:52:01.071" xml:id="sub-993" end="00:52:04.158">&#9834; I try &#9834;</p>
+      <p begin="00:52:04.158" xml:id="sub-994" end="00:52:19.798">&#9834; So hard, now, to make it in America. &#9834;</p>
+      <p begin="00:52:19.798" xml:id="sub-995" end="00:52:23.969">&#9834; Why?&#9834;</p>
+      <p begin="00:52:23.969" xml:id="sub-996" end="00:52:26.430">&#9834; Tell me. &#9834;</p>
+      <p begin="00:52:26.430" xml:id="sub-997" end="00:52:33.562">&#9834; We gotta make a change in America. &#9834;</p>
+      <p begin="00:52:33.562" xml:id="sub-998" end="00:52:37.232">&#9834;Help me somebody.&#9834;</p>
+      <p begin="00:52:37.232" xml:id="sub-999" end="00:52:42.696">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:52:42.696" xml:id="sub-1000" end="00:52:51.059">&#9834;[music ends]&#9834;</p>
+      <p begin="00:52:51.059" xml:id="sub-1001" end="00:52:51.997">- Come here.</p>
+      <p begin="00:52:51.997" xml:id="sub-1002" end="00:52:52.917">-Come here.</p>
+      <p begin="00:52:52.917" xml:id="sub-1003" end="00:52:53.505">Come on.</p>
+      <p begin="00:52:53.843" xml:id="sub-1004" end="00:52:55.239">Come here, Nicky.</p>
+      <p begin="00:52:55.439" xml:id="sub-1005" end="00:52:56.633">You don't want to come now, okay.</p>
+      <p begin="00:52:56.756" xml:id="sub-1006" end="00:52:58.315">You don't want to. <br/>I'll respect you're wishes.</p>
+      <p begin="00:52:58.476" xml:id="sub-1007" end="00:52:59.945">Okay, I'll leave you alone.</p>
+      <p begin="00:52:59.945" xml:id="sub-1008" end="00:53:03.754">You know, I had him ever since, <br/>since I was living in San Francisco.</p>
+      <p begin="00:53:03.862" xml:id="sub-1009" end="00:53:05.740">I went to, um, a bird show.</p>
+      <p begin="00:53:05.955" xml:id="sub-1010" end="00:53:09.821">I wasn't looking to buy a bird,<br/>'cause when I was a kid</p>
+      <p begin="00:53:09.959" xml:id="sub-1011" end="00:53:14.446">I had me a pet chicken <br/>and that was my pet.</p>
+      <p begin="00:53:14.676" xml:id="sub-1012" end="00:53:18.218">And I raised it from a little billy, <br/>from a little biddy it was yellow</p>
+      <p begin="00:53:18.480" xml:id="sub-1013" end="00:53:20.636">and he turned to be a beautiful hen.</p>
+      <p begin="00:53:20.775" xml:id="sub-1014" end="00:53:23.409">And he used to sleep with me <br/>and he was a beautiful hen.</p>
+      <p begin="00:53:24.040" xml:id="sub-1015" end="00:53:28.895">Then one day, I had him <br/>about at least two years.</p>
+      <p begin="00:53:29.095" xml:id="sub-1016" end="00:53:33.774">And my aunt came over one day,<br/>I came out my chicken would always be,</p>
+      <p begin="00:53:33.881" xml:id="sub-1017" end="00:53:38.099">at the front of the driveway looking<br/>for me, for me to grab him.</p>
+      <p begin="00:53:38.418" xml:id="sub-1018" end="00:53:40.436">And he wasn't there that day.</p>
+      <p begin="00:53:40.590" xml:id="sub-1019" end="00:53:43.023">And I said, "Where's my chicken?"</p>
+      <p begin="00:53:43.038" xml:id="sub-1020" end="00:53:45.090">Nobody know my chicken at.</p>
+      <p begin="00:53:45.228" xml:id="sub-1021" end="00:53:47.154">Aunt Lily, "Where my chicken?"</p>
+      <p begin="00:53:47.154" xml:id="sub-1022" end="00:53:50.320">She said, "Boy these chickens <br/>are so tame."</p>
+      <p begin="00:53:50.413" xml:id="sub-1023" end="00:53:52.116">I said, "Where my chicken?"</p>
+      <p begin="00:53:52.269" xml:id="sub-1024" end="00:53:55.219">She said, "Well, I'm roasting <br/>this chicken in the oven."</p>
+      <p begin="00:53:55.435" xml:id="sub-1025" end="00:53:57.677">And I look in the oven, <br/>that was my chicken.</p>
+      <p begin="00:53:57.846" xml:id="sub-1026" end="00:53:59.955">And I took that chicken out.</p>
+      <p begin="00:54:00.109" xml:id="sub-1027" end="00:54:03.756">I dug a hole and buried him in <br/>the hole and put a cross on it.</p>
+      <p begin="00:54:03.894" xml:id="sub-1028" end="00:54:06.166">And I started crying.</p>
+      <p begin="00:54:06.351" xml:id="sub-1029" end="00:54:08.768">My grandmother came,and she said,</p>
+      <p begin="00:54:08.768" xml:id="sub-1030" end="00:54:10.544">"Lily, that's that boy's chicken."</p>
+      <p begin="00:54:10.544" xml:id="sub-1031" end="00:54:12.153">She say, "You shouldn't have killed him."</p>
+      <p begin="00:54:12.153" xml:id="sub-1032" end="00:54:13.625">She said, "I didn't know."</p>
+      <p begin="00:54:13.794" xml:id="sub-1033" end="00:54:17.359">So they give me six bidies <br/>and I say, "I don't want no six bidies,</p>
+      <p begin="00:54:17.451" xml:id="sub-1034" end="00:54:19.114">I want my chicken back."</p>
+      <p begin="00:54:19.222" xml:id="sub-1035" end="00:54:23.839">So what got me so hooked onto <br/>this bird, I say, "One of these days,</p>
+      <p begin="00:54:23.993" xml:id="sub-1036" end="00:54:25.873">I'm gonna get me one of those birds."</p>
+      <p begin="00:54:26.949" xml:id="sub-1037" end="00:54:30.573">&#9834; [Cell phone ringtone] &#9834;</p>
+      <p begin="00:54:30.711" xml:id="sub-1038" end="00:54:32.008">Oh, sorry.</p>
+      <p begin="00:54:33.008" xml:id="sub-1039" end="00:54:33.866">- Okay.</p>
+      <p begin="00:54:33.974" xml:id="sub-1040" end="00:54:35.879">I definitely, I definitely gonna get it.</p>
+      <p begin="00:54:36.448" xml:id="sub-1041" end="00:54:38.146">All right, Tommy.</p>
+      <p begin="00:54:39.469" xml:id="sub-1042" end="00:54:40.952">Page 6?</p>
+      <p begin="00:54:41.382" xml:id="sub-1043" end="00:54:42.700">Oh, okay, Tommy.</p>
+      <p begin="00:54:44.638" xml:id="sub-1044" end="00:54:45.850">Okay, Tommy.</p>
+      <p begin="00:54:46.527" xml:id="sub-1045" end="00:54:48.386">And see, I owe so much.</p>
+      <p begin="00:54:48.493" xml:id="sub-1046" end="00:54:51.461">You guys are -- oh, Tommy.</p>
+      <p begin="00:54:51.615" xml:id="sub-1047" end="00:54:52.475">I'll see you.</p>
+      <p begin="00:54:52.690" xml:id="sub-1048" end="00:54:54.212">You and your bad self.</p>
+      <p begin="00:54:55.580" xml:id="sub-1049" end="00:54:56.891">All right, Tommy.</p>
+      <p begin="00:54:57.030" xml:id="sub-1050" end="00:55:02.093">Tommy said they got me in <br/><span tts:fontStyle="italic">The Post</span> on page six.</p>
+      <p begin="00:55:02.724" xml:id="sub-1051" end="00:55:07.279">Oh Lord, have mercy.</p>
+      <p begin="00:55:08.002" xml:id="sub-1052" end="00:55:09.650">What can I say?</p>
+      <p begin="00:55:10.635" xml:id="sub-1053" end="00:55:25.965">&#9834;[music starts playing]&#9834;</p>
+      <p begin="00:55:25.965" xml:id="sub-1054" end="00:55:27.791">You got The,<span tts:fontStyle="italic">The Post<span tts:fontStyle="italic">?</span></span></p>
+      <p begin="00:55:28.007" xml:id="sub-1055" end="00:55:29.220">You got <span tts:fontStyle="italic">The Post<span tts:fontStyle="italic">?</span></span></p>
+      <p begin="00:55:30.250" xml:id="sub-1056" end="00:55:33.648">Oh. They don't have <span tts:fontStyle="italic">The Post<span tts:fontStyle="italic">.</span></span></p>
+      <p begin="00:55:33.909" xml:id="sub-1057" end="00:55:59.846">[Speaking/greeting neighbors]</p>
+      <p begin="00:56:00.062" xml:id="sub-1058" end="00:56:01.224">Ah! Shoot.</p>
+      <p begin="00:56:03.916" xml:id="sub-1059" end="00:56:05.637">Oh! My God.</p>
+      <p begin="00:56:06.149" xml:id="sub-1060" end="00:56:09.258">[Charles Bradley laughing]</p>
+      <p begin="00:56:09.258" xml:id="sub-1061" end="00:56:13.665">Yes! Oh! My God.</p>
+      <p begin="00:56:13.788" xml:id="sub-1062" end="00:56:15.137">Look at this.</p>
+      <p begin="00:56:15.260" xml:id="sub-1063" end="00:56:18.287">Shoot. They got me in the paper.</p>
+      <p begin="00:56:19.086" xml:id="sub-1064" end="00:56:20.036">- Oh my goodness.</p>
+      <p begin="00:56:20.098" xml:id="sub-1065" end="00:56:21.816">- Oh, man what are you doing?</p>
+      <p begin="00:56:21.923" xml:id="sub-1066" end="00:56:23.903">- [Charles] That's me right there.</p>
+      <p begin="00:56:25.965" xml:id="sub-1067" end="00:56:32.064">I thank God for this. Oh! My God!</p>
+      <p begin="00:56:32.448" xml:id="sub-1068" end="00:56:36.582">- This guy has been, he's been doing <br/>a lot of struggling within itself,</p>
+      <p begin="00:56:36.706" xml:id="sub-1069" end="00:56:39.686">but he's gonna be okay today, <br/>he's gonna be okay.</p>
+      <p begin="00:56:39.809" xml:id="sub-1070" end="00:56:42.087">We, we've been talking for years.</p>
+      <p begin="00:56:42.410" xml:id="sub-1071" end="00:56:44.522">And I look at him and I say to myself,</p>
+      <p begin="00:56:45.215" xml:id="sub-1072" end="00:56:47.265">"He's gonna be there after he prays."</p>
+      <p begin="00:56:47.388" xml:id="sub-1073" end="00:56:48.015">- He in the paper?</p>
+      <p begin="00:56:48.123" xml:id="sub-1074" end="00:56:48.633">- Yeah.</p>
+      <p begin="00:56:48.756" xml:id="sub-1075" end="00:56:49.597">- He's in the paper?</p>
+      <p begin="00:56:49.689" xml:id="sub-1076" end="00:56:50.577">- Yeah.</p>
+      <p begin="00:56:51.177" xml:id="sub-1077" end="00:56:53.536">- I'm sitting here talking <br/>and you in the paper?</p>
+      <p begin="00:56:53.613" xml:id="sub-1078" end="00:56:54.589">- Yeah, right there.</p>
+      <p begin="00:56:54.712" xml:id="sub-1079" end="00:56:56.156">- My lord.</p>
+      <p begin="00:56:57.218" xml:id="sub-1080" end="00:56:59.423">I'm about to hurt you, you coulda <br/>knocked on my door and told me that.</p>
+      <p begin="00:56:59.516" xml:id="sub-1081" end="00:57:02.013">- I just found out not too long ago myself.</p>
+      <p begin="00:57:02.136" xml:id="sub-1082" end="00:57:05.091">- I told you, I told you, baby.</p>
+      <p begin="00:57:07.030" xml:id="sub-1083" end="00:57:08.538">You know I love you.</p>
+      <p begin="00:57:09.184" xml:id="sub-1084" end="00:57:10.211">- You told me.</p>
+      <p begin="00:57:10.334" xml:id="sub-1085" end="00:57:11.163">- I told you.</p>
+      <p begin="00:57:11.270" xml:id="sub-1086" end="00:57:12.463">- It's happening.</p>
+      <p begin="00:57:13.380" xml:id="sub-1087" end="00:57:18.475">- I told you, keep the faith and never <br/>stop believing that you're already there.</p>
+      <p begin="00:57:18.921" xml:id="sub-1088" end="00:57:19.955">What are you worry about?</p>
+      <p begin="00:57:20.262" xml:id="sub-1089" end="00:57:22.079">You've been there and <br/>it's already done.</p>
+      <p begin="00:57:22.079" xml:id="sub-1090" end="00:57:23.167">- Congratulations.</p>
+      <p begin="00:57:23.244" xml:id="sub-1091" end="00:57:24.226">
+        <span tts:fontStyle="italic">-[neighbor] God has been good.</span>
+      </p>
+      <p begin="00:57:24.241" xml:id="sub-1092" end="00:57:27.430">And if you cry, it's a good cry<br/>when you do hold you head up.</p>
+      <p begin="00:57:27.553" xml:id="sub-1093" end="00:57:28.883">
+        <span tts:fontStyle="italic">because he has you still.</span>
+      </p>
+      <p begin="00:57:30.467" xml:id="sub-1094" end="00:57:32.444">- I love you brother and I won't forget.</p>
+      <p begin="00:57:32.623" xml:id="sub-1095" end="00:57:39.863">&#9834; [music starts palying] &#9834;</p>
+      <p begin="00:57:40.201" xml:id="sub-1096" end="00:57:44.349">Tonight is my first night, me only <br/>on stage, Charles Bradley.</p>
+      <p begin="00:57:47.427" xml:id="sub-1097" end="00:57:51.627">My chance has finally come <br/>and I'm hoping everybody out there</p>
+      <p begin="00:57:51.734" xml:id="sub-1098" end="00:57:55.339">will come out to show me their support.</p>
+      <p begin="00:57:59.697" xml:id="sub-1099" end="00:58:01.522">This is one of my best friends.</p>
+      <p begin="00:58:01.814" xml:id="sub-1100" end="00:58:03.208">- You all right?</p>
+      <p begin="00:58:03.485" xml:id="sub-1101" end="00:58:05.127">- You're coming tonight.</p>
+      <p begin="00:58:05.250" xml:id="sub-1102" end="00:58:08.030">You know you, you always tell me <br/>you are gonna come in our show.</p>
+      <p begin="00:58:09.153" xml:id="sub-1103" end="00:58:12.663">This is the place where <br/>before they fixed it up,</p>
+      <p begin="00:58:12.817" xml:id="sub-1104" end="00:58:16.810">I lived in here for about, God,<br/>about two and a half years.</p>
+      <p begin="00:58:16.995" xml:id="sub-1105" end="00:58:19.867">It was abandoned <br/>and it now it's a church.</p>
+      <p begin="00:58:20.237" xml:id="sub-1106" end="00:58:22.602">The guy that owned it <br/>sold it, and they fixed it up.</p>
+      <p begin="00:58:23.279" xml:id="sub-1107" end="00:58:25.792">Well that's, that's, that, <br/>this was home one time,</p>
+      <p begin="00:58:25.930" xml:id="sub-1108" end="00:58:30.740">and this guy Jose, he is <br/>the one that really gave me</p>
+      <p begin="00:58:30.864" xml:id="sub-1109" end="00:58:34.119">electricity from his place, <br/>kept me going.</p>
+      <p begin="00:58:34.380" xml:id="sub-1110" end="00:58:36.515">That's why we're <br/>so close friends today.</p>
+      <p begin="00:58:36.715" xml:id="sub-1111" end="00:58:41.858">&#9834; [music playing] &#9834;</p>
+      <p begin="00:58:41.966" xml:id="sub-1112" end="00:58:46.542">Tonight is the night that I truly find, <br/>do I keep going?</p>
+      <p begin="00:58:46.726" xml:id="sub-1113" end="00:58:48.250">Do I have it?</p>
+      <p begin="00:58:49.387" xml:id="sub-1114" end="00:58:50.950">That's what I'm looking for.</p>
+      <p begin="00:58:54.135" xml:id="sub-1115" end="00:58:55.288">You like rhythm and blues?</p>
+      <p begin="00:58:55.288" xml:id="sub-1116" end="00:58:56.150">- Do I?</p>
+      <p begin="00:58:56.150" xml:id="sub-1117" end="00:58:57.322">- Please come and join tonight.<br/>- [female passer-by] Alright.</p>
+      <p begin="00:58:57.322" xml:id="sub-1118" end="00:58:58.848">-[Charles] I'm gonna <br/>be doing some good music for you.</p>
+      <p begin="00:58:59.122" xml:id="sub-1119" end="00:59:01.184">- And I hope I can make <br/>you feel some good memories.</p>
+      <p begin="00:59:01.292" xml:id="sub-1120" end="00:59:02.862">- Okay. Thank you so much.</p>
+      <p begin="00:59:02.954" xml:id="sub-1121" end="00:59:03.989">- What's your name?</p>
+      <p begin="00:59:04.112" xml:id="sub-1122" end="00:59:04.898">- Andrea.</p>
+      <p begin="00:59:05.006" xml:id="sub-1123" end="00:59:05.846">- My sister name Andrea Laura.</p>
+      <p begin="00:59:05.954" xml:id="sub-1124" end="00:59:06.886">- Look at that.</p>
+      <p begin="00:59:06.932" xml:id="sub-1125" end="00:59:07.793">- Oh.</p>
+      <p begin="00:59:07.932" xml:id="sub-1126" end="00:59:08.977">- What, what's her middle name?</p>
+      <p begin="00:59:09.085" xml:id="sub-1127" end="00:59:10.702">- it is Andrea Laura Bradley.</p>
+      <p begin="00:59:10.702" xml:id="sub-1128" end="00:59:13.197">- I'm Andrea Lauren. Shut up.</p>
+      <p begin="00:59:13.597" xml:id="sub-1129" end="00:59:15.128">- See there. We're meant to meet.</p>
+      <p begin="00:59:15.266" xml:id="sub-1130" end="00:59:16.590">- Yeah. And I love purple.</p>
+      <p begin="00:59:16.697" xml:id="sub-1131" end="00:59:17.274">- Oh! My God.</p>
+      <p begin="00:59:17.350" xml:id="sub-1132" end="00:59:17.930">- This is a good day.</p>
+      <p begin="00:59:18.007" xml:id="sub-1133" end="00:59:19.125">- God bless you, sweetheart.</p>
+      <p begin="00:59:20.447" xml:id="sub-1134" end="00:59:25.890">I've been struggling for my music <br/>over 47 years and hoping</p>
+      <p begin="00:59:26.044" xml:id="sub-1135" end="00:59:28.528">that this will be the thing for me.</p>
+      <p begin="00:59:28.774" xml:id="sub-1136" end="00:59:33.182">I hope this is my chance to present this<br/>to the world and hope the world likes it.</p>
+      <p begin="00:59:34.750" xml:id="sub-1137" end="00:59:38.172">- Most people could have just given up<br/>and you know, not done anything.</p>
+      <p begin="00:59:38.310" xml:id="sub-1138" end="00:59:39.403">Just settle into a job.</p>
+      <p begin="00:59:39.526" xml:id="sub-1139" end="00:59:41.608">And, you know, he's just been <br/>plugging away doing music.</p>
+      <p begin="00:59:42.285" xml:id="sub-1140" end="00:59:45.696">- It's hard enough for people in <br/>their 30s to launch a career.</p>
+      <p begin="00:59:45.911" xml:id="sub-1141" end="00:59:48.695">Someone in their 60s, it's almost insane.</p>
+      <p begin="00:59:49.142" xml:id="sub-1142" end="00:59:50.095">- Excellent. Sounds good.</p>
+      <p begin="00:59:50.187" xml:id="sub-1143" end="00:59:51.664">- You guys like rhythm and blues?</p>
+      <p begin="00:59:51.756" xml:id="sub-1144" end="00:59:53.484">- We already got our tickets.<br/>- We're going.</p>
+      <p begin="00:59:53.484" xml:id="sub-1145" end="00:59:54.857">-Ah, c'mon.</p>
+      <p begin="00:59:54.887" xml:id="sub-1146" end="00:59:55.880">[clapping sound]</p>
+      <p begin="00:59:55.880" xml:id="sub-1147" end="01:00:01.995">&#9834; [music continues to play]&#9834;</p>
+      <p begin="01:00:01.995" xml:id="sub-1148" end="01:00:07.041">[Charles] I'm gonna see if I can find<br/>something to, um, add to my jumpsuit,</p>
+      <p begin="01:00:07.041" xml:id="sub-1149" end="01:00:10.105">and spice it up a little bit <br/>for my album release.</p>
+      <p begin="01:00:12.319" xml:id="sub-1150" end="01:00:16.197">That is beautiful, that is <br/>beautiful too, that's really...</p>
+      <p begin="01:00:16.367" xml:id="sub-1151" end="01:00:17.069">- Thank you, boss.</p>
+      <p begin="01:00:17.100" xml:id="sub-1152" end="01:00:18.093">- Okay, boss.</p>
+      <p begin="01:00:18.293" xml:id="sub-1153" end="01:00:19.348">
+        <span tts:fontStyle="italic">- Have a good day.</span>
+      </p>
+      <p begin="01:00:19.456" xml:id="sub-1154" end="01:00:20.357">- Thank you.</p>
+      <p begin="01:00:24.234" xml:id="sub-1155" end="01:00:26.749">- What I do when I see something that<br/>I like</p>
+      <p begin="01:00:26.749" xml:id="sub-1156" end="01:00:29.746">and it costs a lot of money <br/>and I can't afford it</p>
+      <p begin="01:00:29.746" xml:id="sub-1157" end="01:00:34.501">and I see something in a <br/>second-hand thrift store that I like,</p>
+      <p begin="01:00:34.501" xml:id="sub-1158" end="01:00:36.271">I say, "That material is nice."</p>
+      <p begin="01:00:36.271" xml:id="sub-1159" end="01:00:39.798">So I get that, and then I find two and <br/>two together, put it together.</p>
+      <p begin="01:00:39.798" xml:id="sub-1160" end="01:00:44.559">And maybe it's not look like but it's gonna <br/>give me the same quality I'm looking for.</p>
+      <p begin="01:00:44.559" xml:id="sub-1161" end="01:00:47.990">That piece on the back of it, <br/>is a piece of <span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline"><span tts:textDecoration="underline">.</span></span></span></span></p>
+      <p begin="01:00:51.589" xml:id="sub-1162" end="01:00:57.186">This piece right here, this is the <br/>piece that I just bought me a t-shirt,</p>
+      <p begin="01:00:57.263" xml:id="sub-1163" end="01:01:02.330">cut it out, put it back there <br/>just to make it look different.</p>
+      <p begin="01:01:04.022" xml:id="sub-1164" end="01:01:05.710">I'm sewing on a collar.</p>
+      <p begin="01:01:05.880" xml:id="sub-1165" end="01:01:09.680">It's like a hand, hand collar <br/>to give it a little pizazz</p>
+      <p begin="01:01:09.803" xml:id="sub-1166" end="01:01:12.512">And Ill get time to put it <br/>on the, on the legs.</p>
+      <p begin="01:01:17.512" xml:id="sub-1167" end="01:01:20.522">
+        <span tts:fontStyle="italic">- [Tommy] I just hope it's a decent night,<br/>some people turn out,</span>
+      </p>
+      <p begin="01:01:20.629" xml:id="sub-1168" end="01:01:23.313">
+        <span tts:fontStyle="italic">and you know he's got a room to perform<br/>to and feels good about the record</span>
+      </p>
+      <p begin="01:01:23.313" xml:id="sub-1169" end="01:01:25.177">
+        <span tts:fontStyle="italic">'cause we feel good about it.</span>
+      </p>
+      <p begin="01:01:25.177" xml:id="sub-1170" end="01:01:29.514">[subway train running]</p>
+      <p begin="01:01:29.514" xml:id="sub-1171" end="01:01:34.606">[honking/traffic sound]</p>
+      <p begin="01:01:34.606" xml:id="sub-1172" end="01:01:39.788">- Wow, wow, sold out.</p>
+      <p begin="01:01:42.403" xml:id="sub-1173" end="01:01:43.363">My God...</p>
+      <p begin="01:01:43.363" xml:id="sub-1174" end="01:01:44.833">
+        <span tts:fontStyle="italic">- [announcer] That's right <br/>I am talking about.</span>
+      </p>
+      <p begin="01:01:44.833" xml:id="sub-1175" end="01:01:46.615">
+        <span tts:fontStyle="italic">No time for dreaming, please welcome</span>
+      </p>
+      <p begin="01:01:46.615" xml:id="sub-1176" end="01:01:52.954">for the goodness' sake, <br/>Mr. Charles Bradley.</p>
+      <p begin="01:01:52.954" xml:id="sub-1177" end="01:01:55.824">
+        <span tts:fontStyle="italic">- Put it this way, I was in the guest <br/>list and working for the label.</span>
+      </p>
+      <p begin="01:01:55.824" xml:id="sub-1178" end="01:01:59.354">
+        <span tts:fontStyle="italic">And friends that play in the band <br/> and I had to wait outside like,</span>
+      </p>
+      <p begin="01:01:59.354" xml:id="sub-1179" end="01:02:01.945">I don't know, 25 minutes before<br/>I could even get in the door.</p>
+      <p begin="01:02:02.068" xml:id="sub-1180" end="01:02:03.544">
+        <span tts:fontStyle="italic">It was sold out.</span>
+      </p>
+      <p begin="01:02:03.651" xml:id="sub-1181" end="01:02:07.844">&#9834; [band playing] &#9834;</p>
+      <p begin="01:02:07.844" xml:id="sub-1182" end="01:02:27.460">[audience cheering]</p>
+      <p begin="01:02:27.460" xml:id="sub-1183" end="01:02:30.515">Ladies and gentlemans, I've got <br/>a special lady in the house.</p>
+      <p begin="01:02:30.515" xml:id="sub-1184" end="01:02:31.857">I think it's Momma.</p>
+      <p begin="01:02:31.934" xml:id="sub-1185" end="01:02:34.243">My Momma's in the house someplace.</p>
+      <p begin="01:02:34.496" xml:id="sub-1186" end="01:02:37.089">[audience cheering]</p>
+      <p begin="01:02:37.089" xml:id="sub-1187" end="01:02:38.475">Momma.</p>
+      <p begin="01:02:39.244" xml:id="sub-1188" end="01:02:40.749">Momma.</p>
+      <p begin="01:02:41.996" xml:id="sub-1189" end="01:02:44.215">Look around in the, in the, <br/>in the rear over there.</p>
+      <p begin="01:02:44.215" xml:id="sub-1190" end="01:02:46.051">I think that's my Momma over there.</p>
+      <p begin="01:02:46.189" xml:id="sub-1191" end="01:02:50.059">But ladies and gentlemans, <br/>she gave me the start.</p>
+      <p begin="01:02:50.273" xml:id="sub-1192" end="01:02:59.022">&#9834; [band start playing] &#9834;</p>
+      <p begin="01:02:59.022" xml:id="sub-1193" end="01:03:09.532">&#9834; Ohhh...&#9834;</p>
+      <p begin="01:03:09.532" xml:id="sub-1194" end="01:03:11.241">&#9834; Go back &#9834;</p>
+      <p begin="01:03:11.241" xml:id="sub-1195" end="01:03:14.872">&#9834; Go back to the golden rule &#9834;</p>
+      <p begin="01:03:14.872" xml:id="sub-1196" end="01:03:17.581">&#9834;[back-up singers] Golden rule...&#9834;</p>
+      <p begin="01:03:17.581" xml:id="sub-1197" end="01:03:19.373">&#9834; Go back &#9834;</p>
+      <p begin="01:03:19.373" xml:id="sub-1198" end="01:03:22.783">&#9834; Go back to the golden rule &#9834;</p>
+      <p begin="01:03:22.783" xml:id="sub-1199" end="01:03:26.674">&#9834;[back-up singers] Golden rule...&#9834;</p>
+      <p begin="01:03:26.674" xml:id="sub-1200" end="01:03:32.160">You know, let me say <br/>a few words right now.</p>
+      <p begin="01:03:32.899" xml:id="sub-1201" end="01:03:39.624">You. You, you made me <br/>to be the person I am.</p>
+      <p begin="01:03:40.300" xml:id="sub-1202" end="01:03:42.827">Thank you. Thank you.</p>
+      <p begin="01:03:44.150" xml:id="sub-1203" end="01:03:51.611">I thank you and I hope to God that I can<br/>keep giving you love, decency and honesty.</p>
+      <p begin="01:03:51.826" xml:id="sub-1204" end="01:04:05.962">&#9834; [music playing] &#9834;</p>
+      <p begin="01:04:05.962" xml:id="sub-1205" end="01:04:11.677">&#9834;Owww...&#9834;</p>
+      <p begin="01:04:11.677" xml:id="sub-1206" end="01:04:15.348">&#9834; What I'm gonna do?&#9834;</p>
+      <p begin="01:04:15.348" xml:id="sub-1207" end="01:04:19.018">&#9834; What I'm gonna say?&#9834;</p>
+      <p begin="01:04:19.018" xml:id="sub-1208" end="01:04:24.650">&#9834; Owww...&#9834;</p>
+      <p begin="01:04:24.650" xml:id="sub-1209" end="01:04:38.162">[audience applauding]</p>
+      <p begin="01:04:38.162" xml:id="sub-1210" end="01:04:41.473">What love can I ask for <br/>around me right now?</p>
+      <p begin="01:04:41.857" xml:id="sub-1211" end="01:04:43.228">Tell me God ain't real.</p>
+      <p begin="01:04:43.228" xml:id="sub-1212" end="01:04:46.872">With this love that I feel around me,</p>
+      <p begin="01:04:46.964" xml:id="sub-1213" end="01:04:48.506">will make me reach in my heart</p>
+      <p begin="01:04:48.506" xml:id="sub-1214" end="01:04:50.048">and give everybody a little piece <br/>that say, "I love you."</p>
+      <p begin="01:04:50.725" xml:id="sub-1215" end="01:04:52.192">- It's one of my <br/>special shows of the year.</p>
+      <p begin="01:04:53.053" xml:id="sub-1216" end="01:04:56.708">It changed my life. Changed my life.</p>
+      <p begin="01:04:56.815" xml:id="sub-1217" end="01:04:58.173">- It's infectious.</p>
+      <p begin="01:04:58.866" xml:id="sub-1218" end="01:05:01.133">You know, he's just in love <br/>with what he's doing.</p>
+      <p begin="01:05:01.210" xml:id="sub-1219" end="01:05:02.754">He's in love with his audience.</p>
+      <p begin="01:05:02.877" xml:id="sub-1220" end="01:05:04.101">How can you not enjoy it?</p>
+      <p begin="01:05:04.424" xml:id="sub-1221" end="01:05:07.419">- When he says I love you guys, <br/>you feel it.</p>
+      <p begin="01:05:07.635" xml:id="sub-1222" end="01:05:08.629">- Amazing.</p>
+      <p begin="01:05:08.737" xml:id="sub-1223" end="01:05:12.537">I brought my friend from Italy <br/>and he, what do you think?</p>
+      <p begin="01:05:12.706" xml:id="sub-1224" end="01:05:13.838">- Amazing.</p>
+      <p begin="01:05:14.577" xml:id="sub-1225" end="01:05:17.780">- [Charles] I think it was too small a place <br/>for the people that came there.</p>
+      <p begin="01:05:18.149" xml:id="sub-1226" end="01:05:22.722">'Cause a lot of people was turned down <br/>and it hurted me to see that.</p>
+      <p begin="01:05:22.906" xml:id="sub-1227" end="01:05:26.485">But for the joy, the love that <br/>peoples gave me, that was them.</p>
+      <p begin="01:05:26.792" xml:id="sub-1228" end="01:05:27.990">Oh! My God!</p>
+      <p begin="01:05:28.190" xml:id="sub-1229" end="01:05:29.683">They wanted more from me.</p>
+      <p begin="01:05:29.822" xml:id="sub-1230" end="01:05:32.397">And I felt that I look in <br/>the traces of their faces,</p>
+      <p begin="01:05:32.520" xml:id="sub-1231" end="01:05:35.311">Oh my, oh my God, <br/>it was a tear-dropper...</p>
+      <p begin="01:05:35.545" xml:id="sub-1232" end="01:06:01.202">&#9834; [<span tts:fontStyle="italic">The World (Is Going Up In Flames)</span> playing] &#9834;</p>
+      <p begin="01:06:01.418" xml:id="sub-1233" end="01:06:03.028">Lord! have mercy.</p>
+      <p begin="01:06:09.252" xml:id="sub-1234" end="01:06:13.636">Wah!</p>
+      <p begin="01:06:13.636" xml:id="sub-1235" end="01:06:16.885">- I knew the record was gonna do<br/>real well, but I didn't know how quickly.</p>
+      <p begin="01:06:17.700" xml:id="sub-1236" end="01:06:19.346">People don't really know him that well</p>
+      <p begin="01:06:19.346" xml:id="sub-1237" end="01:06:21.890">and it's sales for a guy that's just putting<br/>out his first LP,</p>
+      <p begin="01:06:21.890" xml:id="sub-1238" end="01:06:23.100">that not too many people <br/>know about.</p>
+      <p begin="01:06:23.100" xml:id="sub-1239" end="01:06:25.602">I mean, it's unbelievable.</p>
+      <p begin="01:06:25.602" xml:id="sub-1240" end="01:06:32.009">&#9834; [music continues to play] &#9834;</p>
+      <p begin="01:06:32.147" xml:id="sub-1241" end="01:06:35.153">- We're like, really against the odds <br/>to be able to think that,</p>
+      <p begin="01:06:35.153" xml:id="sub-1242" end="01:06:38.824">yes, a 62 year old black man from <br/>Woodstock, Brooklyn,</p>
+      <p begin="01:06:38.824" xml:id="sub-1243" end="01:06:41.035">is gonna have his first record</p>
+      <p begin="01:06:41.035" xml:id="sub-1244" end="01:06:45.665">and within the first couple of weeks, <br/>sell more than most records</p>
+      <p begin="01:06:45.665" xml:id="sub-1245" end="01:06:48.834">are selling in a year, at this point.</p>
+      <p begin="01:06:48.834" xml:id="sub-1246" end="01:06:53.764">&#9834; [music continues to play] &#9834;</p>
+      <p begin="01:06:53.918" xml:id="sub-1247" end="01:06:55.362">- I don't think it's a done deal.</p>
+      <p begin="01:06:55.470" xml:id="sub-1248" end="01:06:56.638">I don't think it's easy.</p>
+      <p begin="01:06:56.776" xml:id="sub-1249" end="01:06:58.560">I think a lot more people <br/>are gonna buy his record.</p>
+      <p begin="01:06:58.667" xml:id="sub-1250" end="01:07:00.631">He's gonna sing a lot more shows.</p>
+      <p begin="01:07:00.739" xml:id="sub-1251" end="01:07:02.079">He's gonna make <br/>a lot more records.</p>
+      <p begin="01:07:02.187" xml:id="sub-1252" end="01:07:04.820">You know, it's a long, it's <br/>a long path, you know.</p>
+      <p begin="01:07:04.973" xml:id="sub-1253" end="01:07:06.474">And he's a late starter.</p>
+      <p begin="01:07:10.310" xml:id="sub-1254" end="01:07:13.854">- It's above any of our expectations<br/>already, I think the record's got wheels.</p>
+      <p begin="01:07:13.993" xml:id="sub-1255" end="01:07:15.215">I don't think it's stopping now.</p>
+      <p begin="01:07:15.338" xml:id="sub-1256" end="01:07:17.368">I don't think we have seen<br/>the biggest sales yet.</p>
+      <p begin="01:07:21.535" xml:id="sub-1257" end="01:07:25.155">Ahhh!</p>
+      <p begin="01:07:25.155" xml:id="sub-1258" end="01:07:27.221">- Lord have mercy.</p>
+      <p begin="01:07:27.328" xml:id="sub-1259" end="01:07:28.287">- Yeah.</p>
+      <p begin="01:07:28.410" xml:id="sub-1260" end="01:07:29.713">- Oh, God!</p>
+      <p begin="01:07:32.605" xml:id="sub-1261" end="01:07:36.952">- We're leaving to go to Europe to do <br/>some touring over there and I hope that</p>
+      <p begin="01:07:37.106" xml:id="sub-1262" end="01:07:40.577">the real Europe will love what <br/>I'm doing, what I'm giving to them.</p>
+      <p begin="01:07:41.546" xml:id="sub-1263" end="01:07:46.220">Now, it's clean as a baby's tail.</p>
+      <p begin="01:07:47.235" xml:id="sub-1264" end="01:07:48.757">- So, how long you be gone, baby?</p>
+      <p begin="01:07:49.126" xml:id="sub-1265" end="01:07:50.093">- Three weeks, Momma.</p>
+      <p begin="01:07:50.093" xml:id="sub-1266" end="01:07:50.775">- Three weeks, baby?</p>
+      <p begin="01:07:50.775" xml:id="sub-1267" end="01:07:51.549">- Yeah.</p>
+      <p begin="01:07:51.549" xml:id="sub-1268" end="01:07:52.912">- Oh, I'm gonna miss you, son.</p>
+      <p begin="01:07:52.912" xml:id="sub-1269" end="01:07:54.906">- Uh-uh. You live right here.</p>
+      <p begin="01:07:55.029" xml:id="sub-1270" end="01:07:56.786">Every three days, I'm gonna call you.</p>
+      <p begin="01:07:56.924" xml:id="sub-1271" end="01:07:57.880">- Okay, darling.</p>
+      <p begin="01:08:03.310" xml:id="sub-1272" end="01:08:05.430">- I'm a bad boy.</p>
+      <p begin="01:08:05.569" xml:id="sub-1273" end="01:08:07.070">You ain't got no <br/>water to throw on me now.</p>
+      <p begin="01:08:07.486" xml:id="sub-1274" end="01:08:09.296">You ain't got no water <br/>to throw on me now.</p>
+      <p begin="01:08:13.195" xml:id="sub-1275" end="01:08:15.144">You ain't got no water. <br/>I can tickle you.</p>
+      <p begin="01:08:17.457" xml:id="sub-1276" end="01:08:18.865">I can tickle you now.</p>
+      <p begin="01:08:18.865" xml:id="sub-1277" end="01:08:29.527">&#9834; [music starts palying] &#9834;</p>
+      <p begin="01:08:29.711" xml:id="sub-1278" end="01:08:31.817">
+        <span tts:fontStyle="italic">And like, my mom said today,</span>
+      </p>
+      <p begin="01:08:32.140" xml:id="sub-1279" end="01:08:35.254">
+        <span tts:fontStyle="italic">she never believed that I <br/>would, I would get this level.</span>
+      </p>
+      <p begin="01:08:51.818" xml:id="sub-1280" end="01:08:56.830">I wanna see how far can<br/>I make myself go in life.</p>
+      <p begin="01:08:57.937" xml:id="sub-1281" end="01:09:03.170">See can I go further than any of my <br/>family members ever been.</p>
+      <p begin="01:09:03.585" xml:id="sub-1282" end="01:09:06.133">And say, I took me there.</p>
+      <p begin="01:09:07.441" xml:id="sub-1283" end="01:09:09.466">You all peoples out there, watch out.</p>
+      <p begin="01:09:09.589" xml:id="sub-1284" end="01:09:12.876">An old man's coming up before <br/>you, and I'd do your job better.</p>
+      <p begin="01:09:13.060" xml:id="sub-1285" end="01:09:14.835">If you don't, I'm gonna do it for you.</p>
+      <p begin="01:10:11.791" xml:id="sub-1286" end="01:10:14.010">
+        <span tts:fontStyle="italic">- Do you want to work on <br/>that song from last week?</span>
+      </p>
+      <p begin="01:10:14.148" xml:id="sub-1287" end="01:10:15.229">
+        <span tts:fontStyle="italic">- Which one?</span>
+      </p>
+      <p begin="01:10:15.367" xml:id="sub-1288" end="01:10:16.862">
+        <span tts:fontStyle="italic">- I Thank You.</span>
+      </p>
+      <p begin="01:10:16.986" xml:id="sub-1289" end="01:10:42.255">&#9834; [<span tts:fontStyle="italic">I Thank You</span> playing] &#9834;</p>
+      <p begin="01:10:42.394" xml:id="sub-1290" end="01:10:44.959">- He really gettin' <br/>the really nitty gritty.</p>
+      <p begin="01:10:45.082" xml:id="sub-1291" end="01:10:54.246">&#9834; [<span tts:fontStyle="italic">I Thank You</span> continues playing] &#9834;</p>
+      <p begin="01:10:54.246" xml:id="sub-1292" end="01:10:57.062">Ahh!</p>
+      <p begin="01:10:57.062" xml:id="sub-1293" end="01:10:58.836">So, that's the way I am.</p>
+      <p begin="01:11:11.449" xml:id="sub-1294" end="01:11:14.273">Woo.</p>
+      <p begin="01:11:14.725" xml:id="sub-1295" end="01:11:48.065">&#9834; [<span tts:fontStyle="italic">I Thank You</span> continues playing] &#9834;</p>
+      <p begin="01:11:48.065" xml:id="sub-1296" end="01:11:50.084">- 'Cause when I leave this world, <br/>this world owe me nothing.</p>
+      <p begin="01:11:50.223" xml:id="sub-1297" end="01:11:51.745">- Well, gimme back my dollar now.</p>
+      <p begin="01:11:54.392" xml:id="sub-1298" end="01:11:55.962">- Get off me.</p>
+      <p begin="01:11:56.089" xml:id="sub-1299" end="01:11:57.791">- Man, gimme back my dollar.</p>
+      <p begin="01:11:58.810" xml:id="sub-1300" end="01:12:07.605">&#9834; [<span tts:fontStyle="italic">I Thank You</span> continues playing] &#9834;</p>
+      <p begin="01:12:07.605" xml:id="sub-1301" end="01:12:08.666">- Oh, my passport, wait a minute.</p>
+      <p begin="01:12:08.804" xml:id="sub-1302" end="01:12:29.516">&#9834; [<span tts:fontStyle="italic">I Thank You</span> continues playing] &#9834;</p>
+      <p begin="01:12:29.655" xml:id="sub-1303" end="01:12:31.596">- Save your lobster every now.</p>
+      <p begin="01:12:33.227" xml:id="sub-1304" end="01:12:36.111">- Jimmy, you don't eat lobster, <br/>you always give it to me.</p>
+      <p begin="01:12:36.280" xml:id="sub-1305" end="01:12:37.576">- I'll start eating tonight.</p>
+      <p begin="01:12:37.791" xml:id="sub-1306" end="01:12:59.549">&#9834; [<span tts:fontStyle="italic">I Thank You</span> continues playing] &#9834;</p>
+      <p begin="01:12:59.796" xml:id="sub-1307" end="01:13:03.704">- You sure said fast, <br/>that's my quarter. I saw it.</p>
+      <p begin="01:13:03.811" xml:id="sub-1308" end="01:13:04.871">- I picked it up.</p>
+      <p begin="01:13:05.025" xml:id="sub-1309" end="01:13:57.858">&#9834; [<span tts:fontStyle="italic">I Thank You</span> continues playing] &#9834;</p>
+    </div>
+  </body>
+</tt>
