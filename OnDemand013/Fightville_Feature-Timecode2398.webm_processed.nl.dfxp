@@ -108,15 +108,15 @@
       <p begin="00:05:14.399" end="00:05:18.588">[trein toetert]</p>
       <p begin="00:05:18.588" end="00:05:27.245">[plof, plof, plof]</p>
       <p begin="00:05:31.024" end="00:05:44.891">&#9834; [muziek] &#9834;</p>
-      <p begin="00:05:44.968" end="00:05:46.266">- [Tim] *Verdedig! Verdedig!*</p>
-      <p begin="00:05:46.266" end="00:05:46.848">&#9834; [muziek] &#9834;</p>
-      <p begin="00:05:46.848" end="00:05:47.432">- *Ik zit vast.*</p>
-      <p begin="00:05:47.432" end="00:05:50.836">- *Dat weet ik, kom langs de andere kant! <br/>Kom naar deze kant, kom naar mij!*</p>
+      <p begin="00:05:44.968" end="00:05:46.053">- [Tim] *Verdedig! Verdedig!*</p>
+      <p begin="00:05:46.053" end="00:05:46.848">&#9834; [muziek] &#9834;</p>
+      <p begin="00:05:46.848" end="00:05:47.831">- *Ik zit vast.*</p>
+      <p begin="00:05:47.831" end="00:05:50.836">- *Dat weet ik, kom langs de andere kant! <br/>Kom naar deze kant, kom naar mij!*</p>
       <p begin="00:05:50.836" end="00:05:52.889">*Verdedig! Laat je niet hier <br/>knock-out geslagen worden.*</p>
       <p begin="00:05:52.889" end="00:05:55.288">*Daar ga je...*</p>
       <p begin="00:05:55.288" end="00:05:57.379">*Voeten op de muur, duw weg.*</p>
       <p begin="00:05:57.379" end="00:05:59.044">*Draai! Draai! Draai!*</p>
-      <p begin="00:05:59.044" end="00:06:04.072">&#9834;[muziek]&#9834;</p>
+      <p begin="00:05:59.044" end="00:06:04.072">&#9834; [muziek] &#9834;</p>
       <p begin="00:06:21.520" end="00:06:23.518">*[alarm rinkelt]*</p>
       <p begin="00:06:23.518" end="00:06:28.518">- *Stop. Het is niet je vaardigheid, <br/>het is niet van jou.*</p>
       <p begin="00:06:28.518" end="00:06:33.065">- *Er speelt muziek, dit is Tim.*</p>
@@ -211,9 +211,9 @@
       <p begin="00:10:39.922" end="00:10:43.469">Het is niet gewoon, <br/>je weet wel, een bar gevecht.</p>
       <p begin="00:10:43.515" end="00:10:44.506">Als de kerels de hele tijd bellen</p>
       <p begin="00:10:44.506" end="00:10:45.666">"Ik wil vechten", "Ik wil vechten", <br/>"Ik wil vechten"</p>
-      <p begin="00:10:45.666" end="00:10:47.707">Wel, als je niet getraind bent. Weet je<br/>dat we je daar niet in kunnen steken.</p>
-      <p begin="00:10:47.707" end="00:10:48.317">Het is niet veilig.</p>
-      <p begin="00:10:48.317" end="00:10:51.927">- *[Gil] Ja dit is een rodeo piste maar<br/>je kan nog niet in mijn show vechten.*</p>
+      <p begin="00:10:45.666" end="00:10:47.507">Wel, als je niet getraind bent. Weet je<br/>dat we je daar niet in kunnen steken.</p>
+      <p begin="00:10:47.507" end="00:10:48.450">Het is niet veilig.</p>
+      <p begin="00:10:48.450" end="00:10:51.927">- *[Gil] Ja dit is een rodeo piste maar<br/>je kan nog niet in mijn show vechten.*</p>
       <p begin="00:10:51.927" end="00:10:55.030">Veel van deze kinderen<br/>die me opbellen</p>
       <p begin="00:10:55.030" end="00:10:57.274">Die willen vechten, denken <br/>dat ze de vaardigheid hebben.</p>
       <p begin="00:10:57.274" end="00:11:01.282">Dan denken ze dat het gewoon,<br/>makkelijk is. Laten we het doen.</p>
@@ -509,9 +509,9 @@
       <p begin="00:27:56.232" end="00:28:00.523">*Ik kan mezelf niet alleen trainen. <br/>De zakken slaan niet terug.*</p>
       <p begin="00:28:09.591" end="00:28:11.682">[hijgen]</p>
       <p begin="00:28:13.130" end="00:28:13.883">[mannelijke stem] fuck!</p>
-      <p begin="00:28:13.883" end="00:28:16.736">- [Corey Judice] Tim zal je zeker laten <br/>weten, wanneer je niet opdaagt,</p>
-      <p begin="00:28:16.736" end="00:28:17.178">Hoe hij zich daarover voelt.</p>
-      <p begin="00:28:17.178" end="00:28:20.793">[ponsen]</p>
+      <p begin="00:28:13.883" end="00:28:16.436">- [Corey Judice] Tim zal je zeker laten <br/>weten, wanneer je niet opdaagt,</p>
+      <p begin="00:28:16.436" end="00:28:17.800">Hoe hij zich daarover voelt.</p>
+      <p begin="00:28:17.800" end="00:28:20.793">[ponsen]</p>
       <p begin="00:28:27.024" end="00:28:33.256">[mannelijke stem] beweeg, <br/>beweeg, beweeg, stap er uit.</p>
       <p begin="00:28:33.256" end="00:28:35.390" region="top"> Laat het je beter voelen hu?</p>
       <p begin="00:28:35.390" end="00:28:37.150" region="top"> Komaan...</p>
@@ -807,8 +807,8 @@
       <p begin="00:45:14.460" end="00:45:17.035">-* [Gil] Krijg hem Dustin. Mooi zo.*</p>
       <p begin="00:45:17.035" end="00:45:21.001">[bons] Uhmp! Uhmp!</p>
       <p begin="00:45:21.001" end="00:45:30.376">* [menigte schreeuwt] *</p>
-      <p begin="00:45:30.544" end="00:45:35.429">[man's stem] Ellebogen houd ze, <br/>elleboog ontspannen.</p>
-      <p begin="00:45:35.568" end="00:45:35.569">[vloer bonzen]</p>
+      <p begin="00:45:30.544" end="00:45:35.130">[man's stem] Ellebogen houd ze, <br/>elleboog ontspannen.</p>
+      <p begin="00:45:35.130" end="00:45:36.069">[vloer bonzen]</p>
       <p begin="00:45:38.549" end="00:45:41.530">[menigte juicht]</p>
       <p begin="00:45:41.772" end="00:45:46.190">[menigte schreeuwt]</p>
       <p begin="00:45:46.348" end="00:45:49.604">[man schreeuwt] Sta terug op!</p>
@@ -1052,8 +1052,8 @@
       <p begin="01:01:37.060" end="01:01:38.717">-Oh je hebt, je hebt een paar minuten.</p>
       <p begin="01:01:38.717" end="01:01:41.634">-Ik moet mijn vrouw wakker maken<br/>, de kinderen naar school brengen.</p>
       <p begin="01:01:41.634" end="01:01:44.246">-We zullen het apect <br/>bespreken--- Hey!</p>
-      <p begin="01:01:44.246" end="01:01:44.769">-* [vrouw] Hallo! *</p>
-      <p begin="01:01:44.769" end="01:01:47.310">-Ok, gewoon om er zeker over <br/>te zijn, ik ga bijna op camera--</p>
+      <p begin="01:01:44.246" end="01:01:45.169">-* [vrouw] Hallo! *</p>
+      <p begin="01:01:45.169" end="01:01:47.310">-Ok, gewoon om er zeker over <br/>te zijn, ik ga bijna op camera--</p>
       <p begin="01:01:47.310" end="01:01:50.179">-Vertel ons hoe goed we lijken, <br/>vertel ons als we er goed uitzien.</p>
       <p begin="01:01:50.179" end="01:01:54.414">- Bob zei om hem te vertellen <br/>als hij ziet er goed uitziet. Tot ziens!</p>
       <p begin="01:01:54.414" end="01:01:56.746">Ok, tot ziens!</p>
@@ -1248,9 +1248,9 @@
       <p begin="01:15:00.734" end="01:15:02.512">[hoorn blaast]</p>
       <p begin="01:15:03.096" end="01:15:05.487">- Zwijg, laat me niet snappen. <br/>Je gaat daar en vecht!</p>
       <p begin="01:15:05.487" end="01:15:07.587">Zet je kin en ga aan deze jongen werken.</p>
-      <p begin="01:15:07.587" end="01:15:10.657">Deze jongen wil niet <br/>met je in de ring zijn.</p>
-      <p begin="01:15:10.657" end="01:15:11.131">Hoor je wat ik zeg. <br/>Ga werken!</p>
-      <p begin="01:15:11.131" end="01:15:12.871">-[Tim] Hij neemt je neer voor een reden.</p>
+      <p begin="01:15:07.587" end="01:15:10.485">Deze jongen wil niet <br/>met je in de ring zijn.</p>
+      <p begin="01:15:10.485" end="01:15:11.431">Hoor je wat ik zeg. <br/>Ga werken!</p>
+      <p begin="01:15:11.431" end="01:15:12.871">-[Tim] Hij neemt je neer voor een reden.</p>
       <p begin="01:15:12.871" end="01:15:16.157">Zet het in uw gedachten dat je deze <br/>motherfucker knock-out slaat.</p>
       <p begin="01:15:16.157" end="01:15:17.828">Je zet je kin, brengt je handen naar <br/>omhoog. Je begint <span tts:fontStyle="italic">shots</span> te gooien!</p>
       <p begin="01:15:17.828" end="01:15:21.013">Laat hem dat ding straffen!</p>
