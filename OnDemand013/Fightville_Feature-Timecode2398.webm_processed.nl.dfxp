@@ -2,7 +2,7 @@
 <tt xmlns="http://www.w3.org/ns/ttml" 
     xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
     xmlns:tts="http://www.w3.org/ns/ttml#styling" 
-    xml:lang="nl">
+    xml:lang="">
 
   <head>
     <styling>
@@ -23,24 +23,18 @@
 <body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
     <div>
       <p begin="00:00:03.377" end="00:00:06.070">&#9834; [muziek] &#9834;</p>
-      <p begin="00:00:10.558" end="00:00:12.246">*[drukke menigte]*</p>
+      <p begin="00:00:10.557" end="00:00:12.246">*[drukke menigte]*</p>
       <p begin="00:00:31.199" end="00:00:39.594">&#9834; [muziek] &#9834;</p>
       <p begin="00:00:40.901" end="00:00:45.899">*[Gil Guillory] Vechtsport is zo oud <br/>als de mensheid ooit is geweest.*</p>
       <p begin="00:00:47.391" end="00:00:50.161">*Er is iets aan een andere man,*</p>
       <p begin="00:00:50.161" end="00:00:51.722">*tot onderwerping verslaan.*</p>
-    </div>
-    <div>
       <p begin="00:00:51.722" end="00:00:56.057">*Dat de wereld tot aangetrokken is.*</p>
       <p begin="00:00:56.057" end="00:00:58.327">*Wat is het?*</p>
       <p begin="00:00:58.327" end="00:01:02.959">De mens is de enige soort op aarde,</p>
-      <p begin="00:01:02.959" end="00:01:05.031">buiten zijn natuurlijke omgeving.</p>
-    </div>
-    <div>
-      <p begin="00:01:05.031" end="00:01:06.713">En wat de samenleving veroorzaakt heeft,</p>
+      <p begin="00:01:02.959" end="00:01:05.030">buiten zijn natuurlijke omgeving.</p>
+      <p begin="00:01:05.030" end="00:01:06.713">En wat de samenleving veroorzaakt heeft,</p>
       <p begin="00:01:06.713" end="00:01:08.253">is om een paar dingen weg te nemen</p>
       <p begin="00:01:08.253" end="00:01:10.669">uit de vergelijking. De eerste is.</p>
-    </div>
-    <div>
       <p begin="00:01:10.669" end="00:01:11.569">De regels van de mens.</p>
       <p begin="00:01:11.569" end="00:01:14.813">De regels van de mens geven aan <br/>dat de mens een krijger is.</p>
       <p begin="00:01:14.813" end="00:01:20.093">*Van natuur is hij een krijger dus <br/>wanneer je zegt "Vecht"!*</p>
@@ -63,8 +57,6 @@
       <p begin="00:02:38.702" end="00:02:43.474">*Elke vechtpartij heeft een verhaal die <br/>nog moet worden uitgespeeld.*</p>
       <p begin="00:02:44.073" end="00:02:48.637">*Als een wedstrijd maker, moet ik me <br/>dat verhaal inbeelden.*</p>
       <p begin="00:02:48.652" end="00:02:52.142">*Ik moet het script van <br/>dat verhaal schrijven.*</p>
-    </div>
-    <div>
       <p begin="00:02:52.142" end="00:02:53.915">*Wat zou er gebeuren?*</p>
       <p begin="00:02:53.915" end="00:02:55.433">*Als je in je stam was <br/>en ik was in mijn stam*</p>
       <p begin="00:02:55.433" end="00:02:58.649">*En we botsten tegen elkaar op.<br/>Wat zou er gebeuren?*</p>
@@ -92,8 +84,6 @@
       <p begin="00:04:12.380" end="00:04:19.980">[ponsen]</p>
       <p begin="00:04:23.147" end="00:04:24.690">Wat we doen op dit lokaal niveau is,</p>
       <p begin="00:04:24.690" end="00:04:26.859">we nemen deze jonge kerels, <br/>we ontwikkelen ze.</p>
-    </div>
-    <div>
       <p begin="00:04:26.859" end="00:04:29.713">Zodat ze gelijdelijk aan <br/>kunnen evolueren,</p>
       <p begin="00:04:29.713" end="00:04:31.121">naar de grote competities.</p>
       <p begin="00:04:31.121" end="00:04:34.039">Dus, we zijn in wezen,</p>
@@ -171,8 +161,6 @@
       <p begin="00:08:13.788" end="00:08:17.123">Maar als je bloedt of iets zoiets, wees er<br/>dan zeker van dat je je stof schoonmaakt.</p>
       <p begin="00:08:17.123" end="00:08:20.774">Laat niet overal bloed achter, <br/>het laat ons belachelijk lijken.</p>
       <p begin="00:08:20.774" end="00:08:25.270">Wij moeten een vechtsport<br/>school voorstellen.</p>
-    </div>
-    <div>
       <p begin="00:08:25.270" end="00:08:28.554">Help mij, help jou</p>
       <p begin="00:08:28.554" end="00:08:39.691">&#9834; [muziek] &#9834;</p>
       <p begin="00:08:39.967" end="00:08:44.383">- *[Gil] Weet je ik groeide op, kijkend<br/>naar mannen die hard werkten.*</p>
@@ -189,8 +177,6 @@
       <p begin="00:09:08.526" end="00:09:11.063">Ik heb het al zoveel keer gehoord <br/>en het is ergelijk waarom?</p>
       <p begin="00:09:11.063" end="00:09:13.730">*John McCain* zei dat zo'n 10-15 jaar <br/>geleden 'menselijk haan vechten'.</p>
       <p begin="00:09:13.730" end="00:09:15.552">*En dat was het toen <br/>waarschijnlijk ook.*</p>
-    </div>
-    <div>
       <p begin="00:09:15.767" end="00:09:17.437">*Weet je je kon in eender welke<br/>klasse zitten.*</p>
       <p begin="00:09:17.468" end="00:09:19.315">*Er waren helemaal geen regels.*</p>
       <p begin="00:09:19.315" end="00:09:21.576">Maar de manier waarop... de sport<br/>ontwikkeld is sinds toen.</p>
@@ -242,8 +228,6 @@
       <p begin="00:11:26.196" end="00:11:27.255">-*[Tim] Denk niet van uit te voeren.*</p>
       <p begin="00:11:27.286" end="00:11:31.114">*Denk aan de uitwisseling. Je hecht <br/>jezelf aan niet gewond te geraken.*</p>
       <p begin="00:11:31.122" end="00:11:34.190">- *[Albert Stainback] Eigenlijk ben ik <br/>bang om geraakt te worden in de gym.*</p>
-    </div>
-    <div>
       <p begin="00:11:34.190" end="00:11:35.968">*Het zuigt! Je voelt dat.*</p>
       <p begin="00:11:35.968" end="00:11:40.862">*Maar wanneer ik aan het vechten ben, wil<br/>ik ze gewoon raken en het gebeurt.*</p>
       <p begin="00:11:40.862" end="00:11:45.406">*En ik raak ze. En ze vallen <br/>bewusteloos en ik voel me goed.*</p>
@@ -272,8 +256,6 @@
       <p begin="00:12:41.270" end="00:12:44.636">Is dat ze vergeten dat er <br/>leven is naast vechten.</p>
       <p begin="00:12:44.636" end="00:12:45.881">Hun MMA droom nastreven,</p>
       <p begin="00:12:45.881" end="00:12:47.507">Weet je ik kan niemand <br/>daarvoor beschuldigen.</p>
-    </div>
-    <div>
       <p begin="00:12:47.507" end="00:12:51.347">Want ik streefde mijn eigen droom na.<br/>Maar ik werkte tegelijkertijd.</p>
       <p begin="00:12:51.347" end="00:12:53.359">Ik ging tegelijkertijd naar college.</p>
       <p begin="00:12:53.359" end="00:12:55.007">Je begrijpt de pure dynamiek er niet van.</p>
@@ -334,8 +316,6 @@
       <p begin="00:15:35.205" end="00:15:38.853">We weten allemaal dat wanneer<br/>we hier komen dat iedereen,</p>
       <p begin="00:15:38.853" end="00:15:41.903">Iedereen. Iedereen kan serieus<br/>gewond raken in deze sport.</p>
       <p begin="00:15:41.903" end="00:15:45.370">Het gebeurde al. Ik ben er zeker van<br/>dat het nog zal gebeuren.</p>
-    </div>
-    <div>
       <p begin="00:15:45.370" end="00:15:47.100">Je neemt dat risico wanneer je <br/>die ring binnengaat.</p>
       <p begin="00:15:47.100" end="00:15:50.397">&#9834; [muziek] &#9834;</p>
       <p begin="00:15:50.397" end="00:15:54.515">- *[Gil] Bij ons gaat het niet om gevecht <br/>te verkopen, maar om vermaak te verkopen.*</p>
@@ -344,12 +324,8 @@
       <p begin="00:16:29.270" end="00:16:32.476">- [Albert] Ik wil dat mensen<br/>me herinneren.</p>
       <p begin="00:16:32.476" end="00:16:34.306">Ik geloof toevallig dat we<br/>van apen afstammen,</p>
       <p begin="00:16:34.306" end="00:16:37.229">dus mijn kleine tribuut aan ons, in <br/>contact komen met onze inner-aap</p>
-    </div>
-    <div>
       <p begin="00:16:37.229" end="00:16:40.482">is om daar buiten te gaan en ik<br/>ga mijn borst twee keer slaan.</p>
       <p begin="00:16:40.482" end="00:16:42.442">Je kan me dat altijd zien doen<br/>voor een gevecht.</p>
-    </div>
-    <div>
       <p begin="00:16:42.442" end="00:16:45.412">Voor mij is het net dat oerstrijd<br/>of vluchtding.</p>
       <p begin="00:16:45.412" end="00:16:55.263">*[menigte juicht en fluit]*</p>
       <p begin="00:16:55.263" end="00:16:58.255">In zekere zin voel ik me net een aap<br/>wanneer ik aan het vechten ben.</p>
@@ -358,11 +334,9 @@
       <p begin="00:17:01.600" end="00:17:06.836">Het gaat er om van "Wie past het<br/>best om te overleven."</p>
       <p begin="00:17:06.836" end="00:17:10.468">[Scheidsrechter] Vecht!</p>
       <p begin="00:17:14.943" end="00:17:16.364">[val]</p>
-    </div>
-    <div>
-      <p begin="00:17:17.610" end="00:17:20.647">[Albert Stainback] *Er is geen <br/>medelijden voor je tegenstander.*</p>
-      <p begin="00:17:20.647" end="00:17:22.853">Want weet je, het is doen of sterven.</p>
-      <p begin="00:17:22.853" end="00:17:24.829">Of jij verliest of hij verliest.</p>
+      <p begin="00:17:17.609" end="00:17:20.647">[Albert Stainback] *Er is geen <br/>medelijden voor je tegenstander.*</p>
+      <p begin="00:17:20.647" end="00:17:22.852">Want weet je, het is doen of sterven.</p>
+      <p begin="00:17:22.852" end="00:17:24.829">Of jij verliest of hij verliest.</p>
       <p begin="00:17:24.829" end="00:17:26.944">En het kan me niet schelen <br/>wat je verhaal is, man.</p>
       <p begin="00:17:26.944" end="00:17:29.894">Ik moet uitkijken voor <br/>mezelf en de mijne.</p>
       <p begin="00:17:31.965" end="00:17:39.050">[plof, plof, val]</p>
@@ -376,7 +350,7 @@
       <p begin="00:18:20.936" end="00:18:23.544">- [Dustin] Voor een gevecht, bid ik<br/>eigenlijk dat niemand gewond raakt.</p>
       <p begin="00:18:23.544" end="00:18:26.056">Ik wil hem niet kwetsen. Of<br/>ik wil niet gekwetst worden.</p>
       <p begin="00:18:26.178" end="00:18:29.297">Maar ik ben niet bang om te verlizen of <br/>bang om gekwetst te worden in een gevecht.</p>
-      <p begin="00:18:29.297" end="00:18:31.829">*Ik verwacht om geraakt te worden weet je.*</p>
+      <p begin="00:18:29.297" end="00:18:31.829">*Ik verwacht om geraakt <br/>te worden weet je.*</p>
       <p begin="00:18:31.829" end="00:18:33.607">*Ik weet dat ik daar niet ga binnengaan<br/>zonder geraakt worden. 't Is een gevecht,*</p>
       <p begin="00:18:33.607" end="00:18:35.877">Net zoals gaan werken in een kantoor.</p>
       <p begin="00:18:35.877" end="00:18:37.345">En geen papier aanraken of zo weet je.</p>
@@ -407,11 +381,7 @@
       <p begin="00:20:20.919" end="00:20:23.525">- [Gil] Zal hij het UFC maken?<br/>Zal hij wereldkampioen worden?</p>
       <p begin="00:20:23.525" end="00:20:27.669">Ja...potentieel. Maar potentieel<br/>heeft een tijdsbestek.</p>
       <p begin="00:20:27.669" end="00:20:30.101">*Potentieel heeft een tijd limiet.*</p>
-    </div>
-    <div>
       <p begin="00:20:30.101" end="00:20:31.596">*Een twinig-jarige jongen<br/>kan potentieel tonen.*</p>
-    </div>
-    <div>
       <p begin="00:20:31.596" end="00:20:33.707">*Maar als je 38 bent en iemand zegt*</p>
       <p begin="00:20:33.707" end="00:20:35.837">*"Je hebt nog altijd potentieel,"*</p>
       <p begin="00:20:35.837" end="00:20:40.165">dan is het tijd om verder <br/>te gaan, weet je?</p>
@@ -419,8 +389,6 @@
       <p begin="00:20:44.000" end="00:20:48.209">Want die jongens kunnen vechten<br/>Ze kunnen vechten,</p>
       <p begin="00:20:48.209" end="00:20:50.398">*Maar dat betekent niets. <br/>Op nationale schaal.*</p>
       <p begin="00:20:50.398" end="00:21:09.646">&#9834; [muziek] &#9834;</p>
-    </div>
-    <div>
       <p begin="00:21:09.646" end="00:21:14.190">*- [Jere Folley Chaisson] Ik heb m'n <br/>jongens de vrijheid gegeven om *</p>
       <p begin="00:21:14.190" end="00:21:18.979">*Zichzelf uit te drukken en om te voelen <br/>wat ze voelen en om te doen wat ze doen.*</p>
       <p begin="00:21:18.979" end="00:21:21.526">Hij hield van vechten.</p>
@@ -473,8 +441,6 @@
       <p begin="00:23:53.140" end="00:23:55.271">Alles wordt in dat omvat.</p>
       <p begin="00:23:55.271" end="00:23:57.408">Maar een individuele <br/>expressie van die kunst,</p>
       <p begin="00:23:57.408" end="00:23:59.982">is gewoon dat het individualistisch is.</p>
-    </div>
-    <div>
       <p begin="00:23:59.982" end="00:24:04.022">Hoe ik mijn Jiu-Jitsu uit is anders<br/>dan hoe Erin de zijne uit.</p>
       <p begin="00:24:04.022" end="00:24:06.947">Of hoe Heath de zijne uit.</p>
       <p begin="00:24:06.947" end="00:24:08.868">En soms heeft een beetje van dat</p>
@@ -624,8 +590,6 @@
       <p begin="00:32:19.445" end="00:32:21.437">En geweld is een deel van die balans.</p>
       <p begin="00:32:21.437" end="00:32:27.159">[vogels tjirpen]</p>
       <p begin="00:32:27.159" end="00:32:28.822">- [Dustin] Wanneer iemand me vraagt,<br/>wat verdient u uw boterham mee?</p>
-    </div>
-    <div>
       <p begin="00:32:28.822" end="00:32:30.624">Zeg ik niet, *Ik ben een <br/>professionele vechter.*</p>
       <p begin="00:32:30.624" end="00:32:33.585">Ik zeg, "Ik werk in Cane and Co. Ik<br/>rijdt een vrachtwagen."</p>
       <p begin="00:32:33.585" end="00:32:36.718">Ik kan niet tegen iemand liegen en zeggen<br/>"Ik ben een professionele vechter."</p>
@@ -663,21 +627,21 @@
       <p begin="00:34:01.178" end="00:34:03.496">Omdat zij eerlijk geloven dat ze<br/>de moeite waard zijn.</p>
       <p begin="00:34:03.496" end="00:34:06.644">Omdat iedereen hen vertelt <br/>dat ze de tweede komst zijn.</p>
       <p begin="00:34:06.644" end="00:34:09.989">En weinig weten ze. <br/>Je bent niet de tweede komst.</p>
-      <p begin="00:34:09.989" end="00:34:12.085">Je bent precies wat ik je gemaakt heb.</p>
-      <p begin="00:34:12.085" end="00:34:15.857">Ik heb je op deze manier bevorderd. <br/>Ik heb je op deze manier gemaakt.</p>
-      <p begin="00:34:15.857" end="00:34:19.024">Ik kan Gary Coleman nemen en <br/>draai en Gary Coleman nemen.</p>
-      <p begin="00:34:19.024" end="00:34:20.531">En hem goed bevorderen.</p>
+      <p begin="00:34:09.989" end="00:34:12.084">Je bent precies wat ik je gemaakt heb.</p>
+      <p begin="00:34:12.084" end="00:34:15.857">Ik heb je op deze manier bevorderd. <br/>Ik heb je op deze manier gemaakt.</p>
+      <p begin="00:34:15.857" end="00:34:19.023">Ik kan Gary Coleman nemen en <br/>draai en Gary Coleman nemen.</p>
+      <p begin="00:34:19.023" end="00:34:20.531">En hem goed bevorderen.</p>
       <p begin="00:34:20.531" end="00:34:23.534">En iedereen zal komen om <br/>Gary Coleman te zien vechten.</p>
-      <p begin="00:34:23.534" end="00:34:25.708">Dus bent je niet meer special dan hij is. <br/>-* En weet je wat ik zou een moord doen. *</p>
-      <p begin="00:34:25.708" end="00:34:28.801">*[man aan de telefoon] Want hij<br/>is - ziet er fenomenaal uit.*</p>
-      <p begin="00:34:28.801" end="00:34:31.264">-[Albert] Ik ben het hoofd evenement?<br/>-* [Gil] Nee, je bent semi.*</p>
-      <p begin="00:34:31.264" end="00:34:34.721">- [Albert] Oh semi, dat is cool, open het <br/>hoog voor Dustin, ik hou er altijd van.</p>
-      <p begin="00:34:34.721" end="00:34:36.561">-* [Gil] Moet... Ja... <br/>Moet verstrekken... *</p>
-      <p begin="00:34:36.561" end="00:34:38.108">-* [mannelijke stem] Semi is wat je bent.*</p>
-      <p begin="00:34:38.108" end="00:34:38.764">-Semi pro.</p>
-      <p begin="00:34:38.764" end="00:34:40.530">-[mannelijke stem] Yup.<br/>-[Gil] Hep. B en C resultaten.</p>
-      <p begin="00:34:40.530" end="00:34:42.778">-[mannelijke stem] &#9834; Love me sexy &#9834;</p>
-      <p begin="00:34:42.778" end="00:34:51.734">- [Gil] En HIV resultaat niet <br/>meer dan 6 maanden oud.</p>
+      <p begin="00:34:23.534" end="00:34:25.707">Dus bent je niet meer special dan hij is. <br/>-* En weet je wat ik zou een moord doen. *</p>
+      <p begin="00:34:25.707" end="00:34:28.800">*[man aan de telefoon] Want hij<br/>is - ziet er fenomenaal uit.*</p>
+      <p begin="00:34:28.800" end="00:34:31.264">-[Albert] Ik ben het hoofd evenement?<br/>-* [Gil] Nee, je bent semi.*</p>
+      <p begin="00:34:31.264" end="00:34:34.720">- [Albert] Oh semi, dat is cool, open het <br/>hoog voor Dustin, ik hou er altijd van.</p>
+      <p begin="00:34:34.720" end="00:34:36.560">-* [Gil] Moet... Ja... <br/>Moet verstrekken... *</p>
+      <p begin="00:34:36.560" end="00:34:38.107">-* [mannelijke stem] Semi is wat je bent.*</p>
+      <p begin="00:34:38.107" end="00:34:38.763">-Semi pro.</p>
+      <p begin="00:34:38.763" end="00:34:40.529">-[mannelijke stem] Yup.<br/>-[Gil] Hep. B en C resultaten.</p>
+      <p begin="00:34:40.529" end="00:34:42.777">-[mannelijke stem] &#9834; Love me sexy &#9834;</p>
+      <p begin="00:34:42.777" end="00:34:51.734">- [Gil] En HIV resultaat niet <br/>meer dan 6 maanden oud.</p>
       <p begin="00:34:51.734" end="00:34:54.033">-[Albert] Ik wou u daar net over vragen.</p>
       <p begin="00:34:54.033" end="00:34:59.620">Ik heb enkele resultaten voor de 13e, <br/>ze zullen officieel 3 dagen te laat zijn.</p>
       <p begin="00:34:59.620" end="00:35:02.347">Wil je dat ik verder ga en...?<br/>-[Gil] Nee, je moet.</p>
@@ -758,7 +722,7 @@
       <p begin="00:39:40.458" end="00:39:42.704">Laat de arts bepalen of je naar<br/>het ziekenhuis gaat of niet.</p>
       <p begin="00:39:42.704" end="00:39:43.675">Ok?</p>
       <p begin="00:39:44.029" end="00:39:47.371">Je bespreekt het met de dokter. Als je je <br/>slecht voelt, als je een ernstige</p>
-      <p begin="00:39:47.371" end="00:39:49.575">verwonding hebt. Je voelt je alsof er iets <br/>serieus mis met je is.</p>
+      <p begin="00:39:47.371" end="00:39:49.575">verwonding hebt. Je voelt <br/>je alsof er iets serieus mis met je is.</p>
       <p begin="00:39:49.575" end="00:39:53.835">Laat de arts dat bespreken met <br/>de EMT en de ambulance mensen.</p>
       <p begin="00:39:53.835" end="00:39:55.739">En co&#246;rdineer.</p>
       <p begin="00:39:55.739" end="00:39:58.568">Ga niet alleen in een ambulance <br/>en zeg: "Breng me naar het ziekenhuis."</p>
@@ -857,7 +821,7 @@
       <p begin="00:46:29.859" end="00:46:32.916">* We gaan naar de offici&#235;le scorekaart.*</p>
       <p begin="00:46:37.730" end="00:46:42.129">*Je bent winnaar na 354 seconden van de <br/>eerste ronde door middel van onttrekken, *</p>
       <p begin="00:46:42.129" end="00:46:46.527">* In de rode hoek Dustin Poirier! *</p>
-      <p begin="00:46:46.527" end="00:46:50.211">* [man praat] Jongens, Jiu-jitsu was goed.*</p>
+      <p begin="00:46:46.527" end="00:46:50.211">* [man praat] Jongens, <br/>Jiu-jitsu was goed.*</p>
       <p begin="00:46:50.211" end="00:46:54.071">-[Dustin] Oh ja, het was. Ik was aan het <br/>schaatsen door die hak haken.</p>
       <p begin="00:46:54.502" end="00:46:56.457">Hij had het voor een seconde die<br/>hiel haak maar ik draaide het over</p>
       <p begin="00:46:56.457" end="00:46:58.576">en hij ging in een knie-bar.</p>
@@ -1027,12 +991,12 @@
       <p begin="00:58:07.287" end="00:58:10.744">&#9834; [muziek] &#9834;</p>
       <p begin="00:58:12.532" end="00:58:15.774">*Weet je vechten is een <br/>microkosmos voor leven.*</p>
       <p begin="00:58:15.774" end="00:58:19.369">*Het krediet behoort tot de<br/>persoon die daar buiten is.*</p>
-      <p begin="00:58:19.369" end="00:58:22.071">*En de persoon die zichzelf op de lijn zet *</p>
+      <p begin="00:58:19.369" end="00:58:22.071">*En de persoon <br/>die zichzelf op de lijn zet *</p>
       <p begin="00:58:22.071" end="00:58:25.627">*om iets te doen, iets te zijn. *</p>
       <p begin="00:58:25.627" end="00:58:28.155">* Om hun niveau te duwen en te <br/>duwen op wie ze als een persoon zijn *</p>
       <p begin="00:58:28.155" end="00:58:30.924">*naar steeds grotere hoogten.*</p>
       <p begin="00:58:31.378" end="00:58:35.251">[tik, tik, tik]</p>
-      <p begin="00:58:40.903" end="00:58:43.457">-* [Tim] Voor Dustin Poirier te verliezen, *</p>
+      <p begin="00:58:40.903" end="00:58:43.457">-* [Tim] Voor Dustin Poirier <br/>te verliezen, *</p>
       <p begin="00:58:43.457" end="00:58:51.409">*Iemand zal hem moeten verslaan, maar <br/>Dustin plant niet zichzelf te verslaan.*</p>
       <p begin="00:58:53.991" end="00:58:55.633">[stomp]</p>
       <p begin="00:58:55.759" end="00:58:56.454">[plof, plof, plof]</p>
@@ -1155,8 +1119,6 @@
       <p begin="01:05:01.889" end="01:05:03.802">&#201;&#233;n eenenzestig op het geld.</p>
       <p begin="01:05:09.704" end="01:05:11.426">Nog 3 kg.</p>
       <p begin="01:05:11.426" end="01:05:13.116">*Al zes kg.*</p>
-    </div>
-    <div>
       <p begin="01:05:13.327" end="01:05:18.425">Vandaag donderdag, vier dagen, 6 kg. <br/>Weet je ik eet nu drie keer per dag.</p>
       <p begin="01:05:18.425" end="01:05:21.721">Terwijl ik gewicht verlies, slechts een <br/>170 tot 230 gram stukje vis.</p>
       <p begin="01:05:21.721" end="01:05:26.519">Maar toch weet je, zet de kleine beetjes<br/>maar dat is nog altijd beter, weet je,</p>
@@ -1206,8 +1168,8 @@
       <p begin="01:08:33.315" end="01:08:37.243">We gaan misschien terugkeren <br/>naar de rodeo arena.</p>
       <p begin="01:08:37.243" end="01:08:40.264">De winstmarge op de <br/>rodeo-arena, is zo hoog dat--</p>
       <p begin="01:08:40.264" end="01:08:42.680">dat is wat rechtvaardigt er in <br/>de eerste plaats te gaan.</p>
-      <p begin="01:08:42.680" end="01:08:45.466">Dus, als we 5.000 mensen<br/>morgenavond krijgen</p>
-      <p begin="01:08:45.466" end="01:08:48.701">Komen we terug. Het hangt er<br/>gewoon van af man, ik ben bang.</p>
+      <p begin="01:08:42.680" end="01:08:45.465">Dus, als we 5.000 mensen<br/>morgenavond krijgen</p>
+      <p begin="01:08:45.465" end="01:08:48.701">Komen we terug. Het hangt er<br/>gewoon van af man, ik ben bang.</p>
       <p begin="01:08:48.701" end="01:08:49.800">Doodsbang.</p>
       <p begin="01:08:49.800" end="01:08:51.589">Het is een grote stap weet je wel.</p>
       <p begin="01:08:51.589" end="01:09:01.257">-* [omroeper] Een vijfenvijftig is de <br/>gewichtsklasse.Derrick Krantz gaat eerst.*</p>
@@ -1217,11 +1179,11 @@
       <p begin="01:09:21.302" end="01:09:25.352">* Een, twee, drie, vier. <br/>Een, twee, drie, vier.*</p>
       <p begin="01:09:25.536" end="01:09:28.804">* Een, twee, een, twee, een, two.*</p>
       <p begin="01:09:29.152" end="01:09:31.186">* Laten we - we gaan waarschijnlijk<br/>wat kleine veranderingen moeten maken.*</p>
-      <p begin="01:09:31.186" end="01:09:34.176">-* [mann] Wanneer was de<br/>laatste keer dat je flauwviel? *</p>
-      <p begin="01:09:34.176" end="01:09:36.335">Wanneer was de laatste keer <br/>dat je gevochten hebt?</p>
+      <p begin="01:09:31.186" end="01:09:34.175">-* [mann] Wanneer was de<br/>laatste keer dat je flauwviel? *</p>
+      <p begin="01:09:34.175" end="01:09:36.334">Wanneer was de laatste keer <br/>dat je gevochten hebt?</p>
       <p begin="01:09:36.602" end="01:09:39.449">-Dit is uw eerste gevecht? Nog <br/>nooit ergens in Texas gevochten?</p>
-      <p begin="01:09:39.449" end="01:09:40.679">-* [Gil] Dit is mijn man.*</p>
-      <p begin="01:09:40.679" end="01:09:45.486">* Derrick * D-Rock * Krantz, hier <br/>voor de USA-MMA 70 kg titel.*</p>
+      <p begin="01:09:39.449" end="01:09:40.678">-* [Gil] Dit is mijn man.*</p>
+      <p begin="01:09:40.678" end="01:09:45.486">* Derrick * D-Rock * Krantz, hier <br/>voor de USA-MMA 70 kg titel.*</p>
       <p begin="01:09:45.486" end="01:09:49.404">Mr. Krantz, wat is uw projectie voor<br/>het hoofdevenement vanavond?</p>
       <p begin="01:09:49.404" end="01:09:52.420">-Ik neem een eerste ronde<br/>knock out elke dag.</p>
       <p begin="01:09:52.420" end="01:09:55.453">- En de USA-MMA 70 kg<br/>kampioen worden</p>
