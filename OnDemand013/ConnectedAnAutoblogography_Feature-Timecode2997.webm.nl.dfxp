@@ -1,0 +1,521 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="nl">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:13.667" end="00:00:34.233">[geklik]</p>
+      <p begin="00:00:35.133" end="00:00:36.541">&#65279;[landend vliegtuig]</p>
+      <p begin="00:00:37.333" end="00:00:39.833">*-Ik zat in het vliegtuig op weg naar New York <br/>om een vriend te bezoeken,*</p>
+      <p begin="00:00:40.067" end="00:00:42.641">en toen het vliegtuig begon te landen, <br/>kreeg ik zo&#180;n nerveus gevoel</p>
+      <p begin="00:00:42.641" end="00:00:45.926">dat ik mijn mobiele telefoon moest checken<br/>en ik dacht,</p>
+      <p begin="00:00:45.926" end="00:00:48.035">het is nog niet eens zo lang geleden dat<br/>toen een vliegtuig landde,</p>
+      <p begin="00:00:48.035" end="00:00:49.861">we naar onze sigaretten verlangden.</p>
+      <p begin="00:00:50.034" end="00:00:52.600">Nou ja, eigenlijk rookten we <br/>allemaal in het vliegtuig.</p>
+      <p begin="00:00:52.967" end="00:00:54.672">[Gelach]</p>
+      <p begin="00:00:54.672" end="00:00:56.808">Maar tegenwoordig velangen we <br/>allemaal naar onze mobieltjes</p>
+      <p begin="00:00:56.808" end="00:00:59.204">die zelfde soort van verslavende koorts</p>
+      <p begin="00:00:59.204" end="00:01:02.296">alsof we het niet verdragen om nog een <br/>seconde zonder verbinding te zijn.</p>
+      <p begin="00:01:03.519" end="00:01:06.447">Op straat in Manhattan maakt<br/>niemand oogcontact.</p>
+      <p begin="00:01:06.447" end="00:01:09.159">Iedereen kijkt naar beneden. <br/>Ze zijn aan het SMS'en, aan het tweeten.</p>
+      <p begin="00:01:09.159" end="00:01:10.998">Ik verwachtte bijna dat ik <br/>het Vrijheidsbeeld zou zien,</p>
+      <p begin="00:01:10.998" end="00:01:14.283">*fakkel in de ene hand, SMS'end met de andere.*</p>
+      <p begin="00:01:14.283" end="00:01:16.734">Dus ik ben eindelijk aan het lunchen<br/>met die goede vriend,</p>
+      <p begin="00:01:16.734" end="00:01:18.909">en we hebben een geweldige tijd <br/>-- Ik heb haar jaren niet gezien --</p>
+      <p begin="00:01:18.909" end="00:01:20.874">lachen, drinken, praten,</p>
+      <p begin="00:01:20.874" end="00:01:23.996">maar voel nog steeds die drang<br/>om mijn e-mail te checken.</p>
+      <p begin="00:01:23.996" end="00:01:26.442">Ik dacht van, Tiffany, concentreer je,<br/>je bent van de andere kant van</p>
+      <p begin="00:01:26.442" end="00:01:28.821">de Verenigde Staten gekomen om<br/>haar te zien. Concentreer je.</p>
+      <p begin="00:01:28.821" end="00:01:31.578">Maar uiteindelijk was het alsof het <br/>controle over me kreeg.</p>
+      <p begin="00:01:31.578" end="00:01:34.183">En toen deed ik alsof ik <br/>naar de WC moest.</p>
+      <p begin="00:01:34.183" end="00:01:39.413">Dus ik excuseerde me, pakte mijn telefoon, <br/>ging het WC hokje in,</p>
+      <p begin="00:01:39.413" end="00:01:44.152">stiekem, SMS'end, e-mailend,<br/>ik dacht, "wat is er van me terecht gekomen?"</p>
+      <p begin="00:01:44.152" end="00:02:29.698">&#9834; [levendige muziek] &#9834;</p>
+      <p begin="00:02:29.698" end="00:02:33.874">*- Technologie verandert ons en de manier<br/>waarop we met onze vrienden,*</p>
+      <p begin="00:02:33.874" end="00:02:38.403">*onze familie en de wereld in contact zijn. <br/>Dus ik ging erop uit*</p>
+      <p begin="00:02:38.403" end="00:02:42.387">*om een film te maken over wat het<br/>betekent om verbonden te zijn in de 21ste eeuw.*</p>
+      <p begin="00:02:42.387" end="00:02:45.435">*200.000 jaar lang zijn we verbonden <br/>geweest door netwerken*</p>
+      <p begin="00:02:45.435" end="00:02:49.257">*zowel natuurlijk als technologisch.*</p>
+      <p begin="00:02:49.257" end="00:02:51.283">*Vandaag de dag zijn onze netwerken <br/>zo ver uitgebreid*</p>
+      <p begin="00:02:51.283" end="00:02:55.777">*dat ze de wereld een centraal<br/>zenuwsysteem gegeven hebben.*</p>
+      <p begin="00:02:55.777" end="00:02:59.180">*Ergens gebeurt iets en we kunnen het<br/>zien en voelen*</p>
+      <p begin="00:02:59.180" end="00:03:02.732">*en er iets aan doen, *</p>
+      <p begin="00:03:02.732" end="00:03:05.917">*dat geeft enorme mogelijkheden.*</p>
+      <p begin="00:03:05.917" end="00:03:07.128">[spetter]</p>
+      <p begin="00:03:07.128" end="00:03:10.991">*Maar technologie heeft ook grote <br/>problemen veroorzaakt.*</p>
+      <p begin="00:03:10.991" end="00:03:13.191">[ratelende naaimachines]</p>
+      <p begin="00:03:13.191" end="00:03:16.615">[schietend machinegeweer]</p>
+      <p begin="00:03:16.615" end="00:03:20.184">[botsen]</p>
+      <p begin="00:03:20.184" end="00:03:26.040">*Het versnelt onze verbondenheid op manieren<br/>die we niet kunnen voorspellen.*</p>
+      <p begin="00:03:26.040" end="00:03:29.161">*Kijk naar de bijen,*</p>
+      <p begin="00:03:29.161" end="00:03:31.161">*hun recente verdwijning is het<br/>perfecte voorbeeld.*</p>
+      <p begin="00:03:31.161" end="00:03:34.844">*van de manier waarop alles<br/>verbonden is.*</p>
+      <p begin="00:03:34.844" end="00:03:38.345">*Albert Einstein voorspelde dat, <br/>als de bijen zouden verdwijnen,*</p>
+      <p begin="00:03:38.345" end="00:03:42.638">*de mensheid binnen vier jaar <br/>verdwenen zou zijn.*</p>
+      <p begin="00:03:42.638" end="00:03:47.098">*Geen bijen, <br/>geen bestuiving van vruchten,*</p>
+      <p begin="00:03:47.098" end="00:03:51.292">*geen mensen meer.*</p>
+      <p begin="00:03:51.292" end="00:03:53.789">*Dus als &#233;&#233;n verandering in<br/>onze over-verbonden wereld*</p>
+      <p begin="00:03:53.789" end="00:03:56.676">*zulke vergaande consequenties kan hebben, *</p>
+      <p begin="00:03:56.676" end="00:03:59.038">*hoe gebruiken we dan de kracht<br/>van al die verbindingen*</p>
+      <p begin="00:03:59.038" end="00:04:03.518">*om dingen te veranderen?*</p>
+      <p begin="00:04:03.518" end="00:04:07.436">*Dat was de vraag die ik<br/>onderzocht in deze film.*</p>
+      <p begin="00:04:07.436" end="00:04:10.345">*En toen beleefde ik een jaar dat<br/>mijn leven veranderde.*</p>
+      <p begin="00:04:10.345" end="00:04:13.931">[loeiende sirene]</p>
+      <p begin="00:04:13.931" end="00:04:16.415">*Dat me dwong om <br/>alles wat ik dacht te begrijpen*</p>
+      <p begin="00:04:16.415" end="00:04:17.821">*over de manier waarop we verbonden zijn, <br/>te heroverwegen.*</p>
+      <p begin="00:04:17.821" end="00:04:21.815">[loeiende sirene]</p>
+      <p begin="00:04:26.353" end="00:04:30.531">*Toen ik klein was, had ik<br/>mijn eigen versie van Einstein.*</p>
+      <p begin="00:04:30.531" end="00:04:33.764">*Ik noemde hem papa.*</p>
+      <p begin="00:04:33.764" end="00:04:39.059">*Hij was degene die me leerde om <br/>naar verbindingen te zoeken. *</p>
+      <p begin="00:04:39.059" end="00:04:42.727">*Hij was een chirurg met speciale<br/>interesse in het brein. *</p>
+      <p begin="00:04:42.727" end="00:04:49.879">*En hij had altijd leuke manieren om<br/>ons over zijn werk te leren.*</p>
+      <p begin="00:04:49.879" end="00:04:52.488">*Toen ik in de derde klas zat, <br/>kwam hij mijn klaslokaal in*</p>
+      <p begin="00:04:52.488" end="00:04:54.510">*met een enorme bak ijs.*</p>
+      <p begin="00:04:54.510" end="00:04:55.810">* Hij zette hem op het bureau <br/>van de meester*</p>
+      <p begin="00:04:55.810" end="00:04:58.995">*en hij begon over het menselijk brein<br/>te praten.*</p>
+      <p begin="00:04:58.995" end="00:05:01.729">*Hij zei dat de werking van het brein<br/>heel ingewikkeld is.*</p>
+      <p begin="00:05:01.729" end="00:05:05.942">*Maar een makkelijke uitleg is,<br/>dat er twee hersenhelften zijn.*</p>
+      <p begin="00:05:05.942" end="00:05:08.199">*De linkerhelft verduidelijkt <br/>en cre&#235;ert orde,*</p>
+      <p begin="00:05:08.199" end="00:05:11.926">*en de rechterhelft herkent patronen<br/>en cre&#235;ert emoties.*</p>
+      <p begin="00:05:11.926" end="00:05:13.667">*En hij vertelde hoe die twee<br/>hersenhelften*</p>
+      <p begin="00:05:13.667" end="00:05:16.445">*samen moeten werken.*</p>
+      <p begin="00:05:16.445" end="00:05:19.513">*En aan het eind van de les<br/>maakte hij de bak ijs open*</p>
+      <p begin="00:05:19.513" end="00:05:22.869">*en er zaten echte hersens<br/>op sterk water in.*</p>
+      <p begin="00:05:22.869" end="00:05:26.071">*Iedereen werd gek.*</p>
+      <p begin="00:05:26.071" end="00:05:30.454">*En toen nam hij ons mee<br/>en trakteerde ons op ijs.*</p>
+      <p begin="00:05:30.454" end="00:05:33.719">*Behalve dat hij een chirurg was, <br/>schreef mijn vader ook bestsellers*</p>
+      <p begin="00:05:33.719" end="00:05:37.205">*waarin hij verbindingen maakt <br/>tussen verschillende gebieden.*</p>
+      <p begin="00:05:37.205" end="00:05:39.551">*Hij zocht patronen in de geschiedenis<br/>om inzicht te geven*</p>
+      <p begin="00:05:39.551" end="00:05:42.301">*in waarom we doen wat we doen.*</p>
+      <p begin="00:05:42.301" end="00:05:45.706">*in zijn eerste boek trok bij een vergelijking<br/>tussen doorbraken in de kunst,*</p>
+      <p begin="00:05:45.706" end="00:05:48.384">*en doorbraken in de wetenschap.*</p>
+      <p begin="00:05:48.384" end="00:05:52.691">- De kunstenaar laat de realiteit zien</p>
+      <p begin="00:05:52.691" end="00:05:54.733">door middel van afbeeldingen en metaforen.</p>
+      <p begin="00:05:54.733" end="00:05:58.354">En de wetenschapper onderzoekt de realiteit</p>
+      <p begin="00:05:58.354" end="00:06:01.193">en laat die zien door middel van<br/>cijfers en berekeningen.</p>
+      <p begin="00:06:01.193" end="00:06:04.083">Het is hetzelfde, <br/>maar het zijn verschillende talen.</p>
+      <p begin="00:06:04.083" end="00:06:07.854">*Zoals het kubisme de perceptie van<br/>tijd en ruimte op de proef stelde.*</p>
+      <p begin="00:06:07.854" end="00:06:12.231">*net voordat Einstein zijn theorie over <br/>tijd en ruimte publiceerde.*</p>
+      <p begin="00:06:14.133" end="00:06:18.608">*Of hoe de kunstenaar Zoroaster schilderde<br/>met minuscule puntjes*</p>
+      <p begin="00:06:18.608" end="00:06:22.619">*rond dezelfde tijd dat de wetenschap<br/>de molecuul ontdekte.*</p>
+      <p begin="00:06:22.619" end="00:06:27.131">*Hij vond dit soort voorbeelden<br/>in de hele geschiedenis.*</p>
+      <p begin="00:06:27.131" end="00:06:35.575">*Zijn boeken be&#239;nvloedden een hoop mensen.*</p>
+      <p begin="00:06:35.575" end="00:06:37.457">*Soms kreeg hij kritiek, omdat hij geen*</p>
+      <p begin="00:06:37.457" end="00:06:39.825">*expert was over de gebieden <br/>waarover hij schreef.*</p>
+      <p begin="00:06:39.825" end="00:06:41.705">*Maar ik denk dat het zijn <br/>vogelvluchtperspectief was*</p>
+      <p begin="00:06:41.705" end="00:06:47.396">*dat ervoor zorgde dat hij<br/>de grotere verbindingen kon zien.*</p>
+      <p begin="00:06:47.396" end="00:06:50.915">*Mijn vader kon over<br/>ieder onderwerp praten.*</p>
+      <p begin="00:06:50.915" end="00:06:55.053">*We noemden hem altijd "Leonipedia".*</p>
+      <p begin="00:06:55.053" end="00:06:58.592">*Hij en ik praatten al jaren over<br/>het maken van een film.*</p>
+      <p begin="00:06:58.592" end="00:07:01.230">*Dus toen ik al die verbindingen<br/>begon te onderzoeken*</p>
+      <p begin="00:07:01.230" end="00:07:04.256">*en hoe we ze konden gebruiken om<br/>onze problemen op te lossen,*</p>
+      <p begin="00:07:04.256" end="00:07:08.138">*was het een natuurlijke stap om<br/>hem als co-schrijver te vragen,*</p>
+      <p begin="00:07:08.138" end="00:07:13.430">*vooral omdat hij en mijn moeder<br/>mijn brein hebben geschreven.*</p>
+      <p begin="00:07:13.430" end="00:07:18.179">*En ik had echt hulp nodig <br/>-- kijk naar mijn eerste notities.*</p>
+      <p begin="00:07:18.179" end="00:07:26.935">*Ik heb weken naar een foto gestaard,<br/>niet wetende hoe te beginnen.*</p>
+      <p begin="00:07:26.935" end="00:07:29.504">*Alles is zo verwikkeld met elkaar*</p>
+      <p begin="00:07:29.504" end="00:07:33.230">*en ik dacht dat dat misschien <br/>een deel van het probleem was --*</p>
+      <p begin="00:07:33.230" end="00:07:38.828">* dat we probeerden om alle issues<br/>afzonderlijk op te lossen.*</p>
+      <p begin="00:07:38.828" end="00:07:41.622">*Waarom zijn we daar ooit mee begonnen?*</p>
+      <p begin="00:07:41.622" end="00:07:45.019">*Dus ik vroeg mijn vader <br/>naar zijn perspectief.*</p>
+      <p begin="00:07:45.019" end="00:07:48.699">*Hij zei, kijk naar de geschiedenis en<br/>zoek naar patronen.*</p>
+      <p begin="00:07:48.699" end="00:07:53.344">*Doe alsof je een alien bent, die <br/>naar de mens kijkt.*</p>
+      <p begin="00:07:53.344" end="00:07:56.347">&#9834;[neurien] &#9834;</p>
+      <p begin="00:07:56.347" end="00:07:57.205">*Dus dat deed ik.*</p>
+      <p begin="00:07:58.229" end="00:08:00.606">*Ik nam een verteller aan om <br/>daar een missie-gevoel aan te geven.*</p>
+      <p begin="00:08:00.606" end="00:08:03.251">*en ik ging heel ver terug.*</p>
+      <p begin="00:08:03.251" end="00:08:05.752">- *[Verteller] [schraapt keel]*</p>
+      <p begin="00:08:05.752" end="00:08:09.679">*Op een dag explodeerde er een puntje*</p>
+      <p begin="00:08:09.679" end="00:08:11.196">[explosie]</p>
+      <p begin="00:08:11.196" end="00:08:13.541">*het heelal in.*</p>
+      <p begin="00:08:17.573" end="00:08:22.256">*Wat de kettingreactie veroorzaakte,<br/>die tot het leven leidde.*</p>
+      <p begin="00:08:22.256" end="00:08:24.007">[rommelende donder]</p>
+      <p begin="00:08:24.007" end="00:08:27.610">*Een tijd lang waren er<br/>dinosaurussen.*</p>
+      <p begin="00:08:27.610" end="00:08:28.982">[huilende dinosaurus]</p>
+      <p begin="00:08:28.982" end="00:08:29.766">*Toen niet meer.*</p>
+      <p begin="00:08:29.766" end="00:08:31.936">[spetter]</p>
+      <p begin="00:08:31.936" end="00:08:35.492">*Een van de theorie&#235;n over hun uitsterven is, <br/>dat ze zich niet konden aanpassen*</p>
+      <p begin="00:08:35.492" end="00:08:41.713">*aan de nieuwe bloeiende planten, <br/>die afhankelijk waren van bijen.*</p>
+      <p begin="00:08:41.713" end="00:08:45.947">*Slecht nieuws voor de dinosaurussen, <br/>goed nieuws voor de bijen.*</p>
+      <p begin="00:08:45.947" end="00:08:48.395">[zoemende bijen]</p>
+      <p begin="00:08:48.395" end="00:08:53.471">*Toen ontstond er een groep van<br/>hele aanpasbare zoogdieren.*</p>
+      <p begin="00:08:53.471" end="00:08:59.557">*Het waren sociale, liefhebbende wezens, <br/>die met elkaar verbonden waren.*</p>
+      <p begin="00:08:59.557" end="00:09:02.551">*Eerst waren er maar een paar.*</p>
+      <p begin="00:09:02.551" end="00:09:06.924">*Maar ze hadden voordelige eigenschappen,<br/>hun opponeerbare duim*</p>
+      <p begin="00:09:06.924" end="00:09:09.762">*waarmee ze heel goed konden grijpen.*</p>
+      <p begin="00:09:14.067" end="00:09:20.692">*en hun uitzonderlijk grote brein, <br/>dat goed was in het begrijpen van idee&#235;n.*</p>
+      <p begin="00:09:22.918" end="00:09:26.286">*Het menselijk brein groeide snel<br/>in de vroege evolutie.*</p>
+      <p begin="00:09:26.286" end="00:09:30.023">*Niet zo dat ze gereedschappen konden gebruiken, <br/>of hun denkvermogen konden vergroten,</p>
+      <p begin="00:09:30.023" end="00:09:33.244">*maar vanwege hun behoefte aan verbinding.*</p>
+      <p begin="00:09:33.244" end="00:09:36.330">*Omdat menselijke baby's niet <br/>volledig ontwikkeld zijn, *</p>
+      <p begin="00:09:36.330" end="00:09:39.929">*zijn ze langer afhankelijk van hun ouders<br/>dan andere soorten.*</p>
+      <p begin="00:09:39.929" end="00:09:46.811">*Dus het menselijk brein is ontwikkeld<br/>om menselijk contact te zoeken ter overleving.*</p>
+      <p begin="00:09:46.811" end="00:09:49.342">*Dit brein is wat mensen onderscheidt*</p>
+      <p begin="00:09:49.342" end="00:09:53.171">*van de andere twee miljoen soorten op aarde.*</p>
+      <p begin="00:09:53.171" end="00:09:55.358">*Maar miljoenen jaren lang <br/>konden ze niet met elkaar *</p>
+      <p begin="00:09:55.358" end="00:09:58.223">*communiceren over wat ze wisten over<br/>de wereld,*</p>
+      <p begin="00:09:58.223" end="00:10:00.078">*omdat ze geen geschreven taal hadden.*</p>
+      <p begin="00:10:02.803" end="00:10:06.639">*Toen vonden ze eindelijk een<br/>radicale nieuwe technologie uit*</p>
+      <p begin="00:10:08.467" end="00:10:10.137">*die hun levens voor goed zou veranderen.*</p>
+      <p begin="00:10:19.392" end="00:10:23.959">*Het alfabet maakte het makkelijker om <br/>te registreren*</p>
+      <p begin="00:10:23.959" end="00:10:25.739">*voor toekomstige generaties*</p>
+      <p begin="00:10:25.739" end="00:10:31.466">* wat er gebeurd was en<br/>wat ze hadden geleerd.*</p>
+      <p begin="00:10:31.466" end="00:10:33.357">*Door kennis op te stapelen,*</p>
+      <p begin="00:10:33.357" end="00:10:43.266">*konden mensen zich ontwikkelen<br/>en vermenigvuldigen.*</p>
+      <p begin="00:10:43.266" end="00:10:48.792">*Maar geletterdheid leidde ook tot<br/>iets onverwachts.*</p>
+      <p begin="00:10:48.792" end="00:10:51.034">*In het "Alphabet Versus the Goddess"*</p>
+      <p begin="00:10:51.034" end="00:10:53.457">*laat Leonard Shlain zien hoe geletterdheid<br/>de manier waarop mensen denken, *</p>
+      <p begin="00:10:53.457" end="00:10:56.778">*veranderd heeft.*</p>
+      <p begin="00:10:56.778" end="00:11:01.016">*Toen het alfabet in de maatschappij <br/>werd ge&#239;ntroduceerd,*</p>
+      <p begin="00:11:01.016" end="00:11:04.410">*werd de analytische linker hersenhelft<br/>overgestimuleerd.*</p>
+      <p begin="00:11:04.410" end="00:11:07.094">*Hij gaat uit van de theorie<br/>dat de linker hersenhelft,*</p>
+      <p begin="00:11:07.094" end="00:11:13.019">*die gebruikt wordt voor lezen en schrijven,<br/>samenhangt met masculiene eigenschappen,*</p>
+      <p begin="00:11:13.019" end="00:11:16.440">*en dat de rechter hersenhelft, <br/>gebruikt om afbeeldingen en patronen te zien*</p>
+      <p begin="00:11:19.716" end="00:11:22.358">*vrouwelijker is.*</p>
+      <p begin="00:11:22.358" end="00:11:27.052">*Dus Schlain suggereert dat de komst van de <br/>geletterdheid de balans van de macht*</p>
+      <p begin="00:11:27.052" end="00:11:30.923">*tussen mannen en vrouwen verschoven heeft.*</p>
+      <p begin="00:11:30.923" end="00:11:35.051">*In de meeste antieke culturen aanbidden<br/>mannen de godinnen.*</p>
+      <p begin="00:11:35.051" end="00:11:38.136">*Op het moment dat geletterdheid <br/>ge&#239;ntroduceerd werd in een samenleving,*</p>
+      <p begin="00:11:38.136" end="00:11:43.520">*ontstond er een meer patriarchale instelling.*</p>
+      <p begin="00:11:43.520" end="00:11:46.394">*Hij volgde dit patroon gedurende de geschiedenis,*</p>
+      <p begin="00:11:46.394" end="00:11:49.114">*vond connecties tussen het begin van de geletterdheid*</p>
+      <p begin="00:11:49.114" end="00:11:56.085">*en onderdrukking van vrouwen wereldwijd.*</p>
+      <p begin="00:11:56.085" end="00:11:58.511">* - Misschien kan ik voortborduren op de<br/>idee&#235;n over*</p>
+      <p begin="00:11:58.511" end="00:12:00.922">*geletterdheid en het patriarchaat<br/>van mijn vader.*</p>
+      <p begin="00:12:00.922" end="00:12:02.800">*Als hij zegt dat de uitvinding <br/>van het schrijven*</p>
+      <p begin="00:12:02.800" end="00:12:06.274">*ons naar een meer analytische<br/>denkwijze heeft doen verschuiven,*</p>
+      <p begin="00:12:06.274" end="00:12:11.728">*heeft dit misschien ook geleid tot<br/>het ge&#239;soleerd denken over wereldproblemen.*</p>
+      <p begin="00:12:11.728" end="00:12:14.629">*Ik kon niet wachten om mijn vader te bellen<br/>om te vragen wat hij van dat idee vond.*</p>
+      <p begin="00:12:14.629" end="00:12:25.952">[rinkelende telefoon]</p>
+      <p begin="00:12:25.952" end="00:12:30.611">*Maar er nam niemand op.*</p>
+      <p begin="00:12:30.611" end="00:12:33.050">[loeiende sirene]</p>
+      <p begin="00:12:38.396" end="00:12:40.149">[piepen]</p>
+      <p begin="00:12:43.212" end="00:12:44.895">[piepen]</p>
+      <p begin="00:13:46.151" end="00:13:49.216">*Ik voelde me weer als een kind.*</p>
+      <p begin="00:13:51.960" end="00:13:53.517">*Ik weet nog dat ik vier jaar oud was,*</p>
+      <p begin="00:13:53.517" end="00:13:57.287">*we waren aan het ski&#235;n en we zaten<br/>in een hele lange stoeltjeslift.*</p>
+      <p begin="00:13:58.892" end="00:14:02.199">*Ik zat er pas net in en ik viel eruit*</p>
+      <p begin="00:14:02.199" end="00:14:05.152">*en mijn vader greep de capuchon van mijn jas*</p>
+      <p begin="00:14:05.152" end="00:14:07.468">*en ik bungelde aan de stoeltjeslift<br/>en hij held me vast*</p>
+      <p begin="00:14:07.468" end="00:14:10.143">*met al zijn vermogen.*</p>
+      <p begin="00:14:10.143" end="00:14:12.181">*We waren twaalf meter hoog en er<br/>was sneeuw onder ons*</p>
+      <p begin="00:14:12.181" end="00:14:15.619">*maar we zagen rotsen voor ons.*</p>
+      <p begin="00:14:15.619" end="00:14:18.664">*En hij keek naar me en zei,<br/>"Ik kan je niet de hele weg vasthouden."*</p>
+      <p begin="00:14:18.664" end="00:14:21.088">*"Het is veiliger om je boven de sneeuw los te laten."*</p>
+      <p begin="00:14:21.873" end="00:14:25.843">*En ik bleef roepen,<br/>"Papa, papa, laat me niet los!"*</p>
+      <p begin="00:14:25.843" end="00:14:30.455">*En hij keek in mijn ogen en hij zei,<br/>"Het komt goed."*</p>
+      <p begin="00:14:30.455" end="00:14:32.028">*En toen liet hij me vallen.*</p>
+      <p begin="00:14:38.119" end="00:14:39.993">*Hij moest wel.*</p>
+      <p begin="00:14:46.523" end="00:14:50.405">*En nu had ik plotseling hetzelfde gevoel,*</p>
+      <p begin="00:14:50.405" end="00:14:54.462">*van,"Papa laat me niet los".*</p>
+      <p begin="00:14:54.462" end="00:14:58.726">*Ik kon me mijn wereld niet <br/>zonder hem voorstellen.*</p>
+      <p begin="00:15:02.748" end="00:15:04.599">*Die eerste paar dagen, <br/>terwijl hij in het ziekenhuis lag*</p>
+      <p begin="00:15:04.599" end="00:15:10.149">*herstellende van een hersenoperatie, <br/>had iedereen adviezen."*</p>
+      <p begin="00:15:10.149" end="00:15:13.565">*Ik sprak een goede vriend, <br/>die zijn vader verloren had,*</p>
+      <p begin="00:15:13.565" end="00:15:18.579">*hij zei dat het belangrijkste advies was, <br/>mijn vader te filmen.*</p>
+      <p begin="00:15:18.579" end="00:15:21.179">*Hij had grote spijt dat hij zijn vader niet had gefilmd*</p>
+      <p begin="00:15:21.179" end="00:15:25.150">*voordat het te laat was.*</p>
+      <p begin="00:15:25.150" end="00:15:29.164">*Ik wist dat ik zo snel mogelijk <br/>moest beginnen.*</p>
+      <p begin="00:15:30.318" end="00:15:32.160">*Maar ook al had ik al<br/>een hoop films gemaakt,*</p>
+      <p begin="00:15:32.160" end="00:15:36.784">*ik wist niet hoe ik de essentie van mijn vader<br/>op film kon vastleggen.+</p>
+      <p begin="00:15:42.461" end="00:15:44.382">*Mijn vader zei altijd dat we de enige soort zijn*</p>
+      <p begin="00:15:44.382" end="00:15:46.352">*die weet dat ze gaan sterven,*</p>
+      <p begin="00:15:46.352" end="00:15:50.569">*en dat veel dingen die we doen, <br/>gedreven worden door die wetenschap.*</p>
+      <p begin="00:15:53.763" end="00:15:55.405">*Mijn moeder zou zeggen dat<br/>emotionele verbinding*</p>
+      <p begin="00:15:55.405" end="00:15:59.061">*ons drijft.*</p>
+      <p begin="00:16:00.308" end="00:16:02.223">*ik dacht dat ik begreep wat ze bedoelden.*</p>
+      <p begin="00:16:05.714" end="00:16:09.299">*De dood is heel abstract, totdat iemand waarvan<br/>je houdt voor je ogen sterft.*</p>
+      <p begin="00:16:21.730" end="00:16:25.252">*Een paar dagen nadat mijn vader <br/>ongeveer negen maanden te leven kreeg,*</p>
+      <p begin="00:16:25.252" end="00:16:27.350">*hoorden mijn man Ken en ik<br/>dat ik zwanger was.*</p>
+      <p begin="00:16:29.366" end="00:16:33.616">*Maar we hadden al vijf miskramen gehad.*</p>
+      <p begin="00:16:41.819" end="00:16:43.727">*De geboorte van ons eerste kind was heel makkelijk*</p>
+      <p begin="00:16:43.727" end="00:16:48.558">- [Meisje] &#9834; Twinkle twinkle little star <br/>How I wonder what you are. &#9834;</p>
+      <p begin="00:16:50.628" end="00:16:54.806">*Maar een tweede kind krijgen<br/>bleek veel moeilijker te zijn.*</p>
+      <p begin="00:16:56.206" end="00:17:00.084">*Ik had nergens meer controle over,*</p>
+      <p begin="00:17:02.132" end="00:17:05.649">*behalve als ik aan de film aan het werken was.*</p>
+      <p begin="00:17:05.649" end="00:17:14.665">&#9834; [muziek] &#9834;</p>
+      <p begin="00:17:14.665" end="00:17:18.342">*Alles waarover we na hadden gedacht<br/>werd opeens urgent.*</p>
+      <p begin="00:17:22.505" end="00:17:25.254">*Wat voor wereld geven we door <br/>aan de volgende generatie?*</p>
+      <p begin="00:17:25.296" end="00:17:26.375">explosie</p>
+      <p begin="00:17:26.375" end="00:17:27.761">schreeuwende mensen</p>
+      <p begin="00:17:29.322" end="00:17:32.921">*Wij mensen hebben zo veel<br/>kennis verzameld.*</p>
+      <p begin="00:17:32.921" end="00:17:35.963">*Waarom vinden we het zo moeilijk <br/>om het grotere geheel te zien?*</p>
+      <p begin="00:17:35.963" end="00:17:38.051">applaus</p>
+      <p begin="00:17:38.051" end="00:17:47.883">&#9834; [muziek] &#9834;</p>
+      <p begin="00:17:47.883" end="00:17:51.519">- *Toen mensen zich ontwikkelden<br/>in de westelijke beschaving,*</p>
+      <p begin="00:17:51.519" end="00:17:58.007">*domineerde de mannen <br/>en het denken met de linker hersenhelft.*</p>
+      <p begin="00:17:58.007" end="00:18:01.770">*Op het moment dat er een probleem was, <br/>was hun strategie*</p>
+      <p begin="00:18:01.770" end="00:18:07.583">*om het in stukjes te delen <br/>om het op te kunnen lossen.*</p>
+      <p begin="00:18:07.583" end="00:18:14.366">*Ze verdeelden en onderverdeelden, <br/>isoleerden en analyseerden.*</p>
+      <p begin="00:18:14.366" end="00:18:17.186">*Ze formuleerden theorie&#235;n <br/>over hun ontdekkingen*</p>
+      <p begin="00:18:17.186" end="00:18:21.144">*en ontwikkelden een methode <br/>om die theorie&#235;n te testen.*</p>
+      <p begin="00:18:21.144" end="00:18:26.740">*Ze noemden het <span tts:fontStyle="italic">scientia</span>, <br/>naar het Griekse woord voor verdelen.</p>
+      <p begin="00:18:28.404" end="00:18:32.473">*Deze strategie werkte zo goed dat ze<br/>alles wat ze ontdekten</p>
+      <p begin="00:18:32.473" end="00:18:35.856">*begonnen te verdelen en opsplitsen.*</p>
+      <p begin="00:18:35.856" end="00:18:38.992">*Het classificeren en verdelen <br/>van alles om hen heen.*</p>
+      <p begin="00:18:38.992" end="00:18:42.869">*werd een hele nieuwe wereldvisie.*</p>
+      <p begin="00:18:42.869" end="00:18:48.956">*Ze verdeelden dieren bijvoorbeeld<br/>in honderden subcategorieen.*</p>
+      <p begin="00:18:48.956" end="00:18:52.277">*Een visie van divisies.*</p>
+      <p begin="00:18:52.277" end="00:18:57.137">*Ze classificeerden zelfs hun eigen soort,<br/>die ze de naam *homo sapiens* gaven,*</p>
+      <p begin="00:18:57.137" end="00:19:02.635">*wat "wijs wezen" betekende, <br/>omdat ze zulke wijze mannen waren.*</p>
+      <p begin="00:19:02.635" end="00:19:05.700">*Hun scherpzinnigheid deed hen<br/>geloven dat ze anders waren*</p>
+      <p begin="00:19:05.700" end="00:19:07.834">*dan andere wezens.*</p>
+      <p begin="00:19:07.834" end="00:19:14.845">*Zo veel, dat ze zichzelf gingen zien<br/>als onafhankelijk van de natuur.*</p>
+      <p begin="00:19:14.845" end="00:19:17.968">
+        <span tts:fontStyle="italic">Compleet.</span>
+      </p>
+      <p begin="00:19:17.968" end="00:19:20.272">*Heel linker hersenhelft.*</p>
+      <p begin="00:19:28.066" end="00:19:32.717">*- Mijn vaders tumor zat in de linker hersenhelft, <br/>in het spraakcentrum.*</p>
+      <p begin="00:19:32.717" end="00:19:36.674">*Vlak na de operatie kon hij<br/>helemaal niet praten.*</p>
+      <p begin="00:19:36.674" end="00:19:41.386">*De artsen wisten niet of zijn spraak<br/>ooit terug zou komen.*</p>
+      <p begin="00:19:41.386" end="00:19:43.546">*Ik was bang dat ik zijn stem<br/>nooit meer zou horen,*</p>
+      <p begin="00:19:45.894" end="00:19:51.081">*en dat mijn kans om hem te filmen<br/>al verloren was.*</p>
+      <p begin="00:19:58.268" end="00:20:00.186">[antwoordapparaat] *Hoi, dit is Leonard Schlain,*</p>
+      <p begin="00:20:00.186" end="00:20:04.629">*spreek je naam een telefoonnummer<br/>heel langzaam in.*</p>
+      <p begin="00:20:04.629" end="00:20:06.925">*Heel erg bedankt, dag.*</p>
+      <p begin="00:20:06.925" end="00:20:09.354">[beltoon]</p>
+      <p begin="00:20:09.354" end="00:20:11.307">* - Ik was er zo aan gewend<br/>hem elke ochtend te bellen*</p>
+      <p begin="00:20:11.307" end="00:20:13.754">*om alles te bespreken<br/>wat er gaande was*</p>
+      <p begin="00:20:13.754" end="00:20:16.525">*en het was heel moeilijk<br/>om dat niet meer te doen.*</p>
+      <p begin="00:20:18.033" end="00:20:21.247">*Er ging zo veel in mijn hoofd om.*</p>
+      <p begin="00:20:21.247" end="00:20:26.354">*Wat voor wereld hebben we gecre&#235;erd,<br/>waarin er een epidemie van kanker is.*</p>
+      <p begin="00:20:26.354" end="00:20:30.202">*Waardoor wordt dat veroorzaakt?*</p>
+      <p begin="00:20:30.202" end="00:20:34.220">*We sturen allerlei straling direct<br/>onze hoofden in.*</p>
+      <p begin="00:20:34.220" end="00:20:37.666">*Wat gaan studies over tien jaar uitwijzen<br/>over mobiele telefoons en kanker?*</p>
+      <p begin="00:20:39.914" end="00:20:42.592">*Of over gifstoffen, pesticiden en stress?*</p>
+      <p begin="00:20:45.274" end="00:20:48.680">*We hebben het over hetzelfde, <br/>als het gaat om de verdwenen bijen.*</p>
+      <p begin="00:20:50.654" end="00:20:51.999">*Wat vertellen de bijen ons?*</p>
+      <p begin="00:20:55.108" end="00:20:58.638">*Misschien werken we allemaal te hard.*</p>
+      <p begin="00:20:58.638" end="00:21:02.144">*En mijn vader heeft zijn brein<br/>heel hard laten werken.*</p>
+      <p begin="00:21:02.144" end="00:21:06.395">*Ik vroeg me af of hij zijn geest <br/>te veel uitgerekt had.*</p>
+      <p begin="00:21:07.434" end="00:21:10.944">*Ik weet dat het irrationeel is,<br/>maar ik denk daar nog steeds over na.*</p>
+      <p begin="00:21:10.944" end="00:21:13.682">*En dat ik toen niet met hem kon praten,<br/>maakte het extra moeilijk,*</p>
+      <p begin="00:21:13.682" end="00:21:17.971">*omdat Ken en ik altijd bij hem terecht<br/>konden voor advies.*</p>
+      <p begin="00:21:17.971" end="00:21:22.158">*En hier was ik, aan het begin van <br/>een risicovolle zwangerschap.*</p>
+      <p begin="00:21:22.158" end="00:21:23.117">*We ondergingen allerlei testen*</p>
+      <p begin="00:21:23.117" end="00:21:27.097">*en we wisten niet of het nog drie<br/>maanden goed zou gaan.*</p>
+      <p begin="00:21:28.166" end="00:21:32.345">*En natuurlijk waren we heel nerveus<br/>vanwege mijn verleden,*</p>
+      <p begin="00:21:32.345" end="00:21:34.529">nog zwijgende over het feit dat er <br/>driehonderd chemicali&#235;n*</p>
+      <p begin="00:21:34.529" end="00:21:38.101">* in het bloed van de navelstreng zijn gevonden.*</p>
+      <p begin="00:21:38.101" end="00:21:41.838">*en de helft daarvan veroorzaakt kanker,*</p>
+      <p begin="00:21:41.944" end="00:21:43.705">*zoals kwik.*</p>
+      <p begin="00:21:53.532" end="00:21:56.800">*Na al die miskramen probeerde ik<br/>eindelijk kunstmatige bevruchting*</p>
+      <p begin="00:21:56.800" end="00:22:00.664">*en dit was onze derde en laatste poging.*</p>
+      <p begin="00:22:02.646" end="00:22:04.521">* We hadden onze eerste echo een paar weken*</p>
+      <p begin="00:22:04.521" end="00:22:08.374">*nadat mijn vader uit het ziekenhuis was ontslagen.*</p>
+      <p begin="00:22:08.374" end="00:22:10.772">*Hij kon nog steeds net duidelijk praten,<br/>maar het was een belangrijk moment,*</p>
+      <p begin="00:22:10.772" end="00:22:14.515">*en hij en mijn stiefmoeder wilden heel graag komen.*</p>
+      <p begin="00:22:14.515" end="00:22:19.683">*De dokter deed de monitor aan,<br/>ik was zwanger van een tweeling.*</p>
+      <p begin="00:22:21.716" end="00:22:24.427">*Het was zo'n opluchting, <br/>na alles wat we hadden doorgemaakt.*</p>
+      <p begin="00:22:27.096" end="00:22:33.656">*Alle ziekenhuisbezoeken, de testen,<br/>de injecties, de onzekerheid...*</p>
+      <p begin="00:22:33.656" end="00:22:38.390">*Mijn ervaring was zo anders dan <br/>de generatie van mijn moeder.*</p>
+      <p begin="00:22:38.390" end="00:22:39.280">*Ze zei altijd,*</p>
+      <p begin="00:22:39.280" end="00:22:44.990">*"Ik werd misselijk, kwam aan,<br/>en negen maanden later had ik een baby."*</p>
+      <p begin="00:22:44.990" end="00:22:48.674">*Maar voor haar was het ook niet makkelijk.*</p>
+      <p begin="00:22:48.674" end="00:22:51.292">*Mijn moeder wilde een carri&#232;re, <br/>maar had het gevoel dat ze moest kiezen*</p>
+      <p begin="00:22:51.292" end="00:22:54.129">*tussen kinderen en werk.*</p>
+      <p begin="00:22:59.130" end="00:23:03.237">*Pas nadat ze ons had opgevoed<br/>en mijn ouders waren gescheiden,*</p>
+      <p begin="00:23:03.237" end="00:23:07.173">*haalde ze haar doctoraal psychologie.*</p>
+      <p begin="00:23:07.173" end="00:23:09.324">*Ik wilde echter eerst een carri&#232;re,*</p>
+      <p begin="00:23:09.324" end="00:23:12.348">*voordat ik aan kinderen begon.*</p>
+      <p begin="00:23:13.799" end="00:23:17.847">*Vroeger wilde mijn vader dat we <br/>allemaal dokters werden.*</p>
+      <p begin="00:23:17.847" end="00:23:19.398">*Hij kocht zelfs het boek*<br/>"Het ontstaan van de vrouwelijke chirurg"</p>
+      <p begin="00:23:19.398" end="00:23:24.879">*voor mijn zus en mij, vier keer.*</p>
+      <p begin="00:23:24.879" end="00:23:27.740">*Maar ik wilde geen dokter worden.*</p>
+      <p begin="00:23:27.740" end="00:23:30.875">*Ik was gefascineerd door films en<br/>hoe films en technologie*</p>
+      <p begin="00:23:30.875" end="00:23:34.309">*mensen wereldwijd verbinden.*</p>
+      <p begin="00:23:34.309" end="00:23:39.130">*In 1984 gaf mijn vader me een Macintosh.*</p>
+      <p begin="00:23:39.130" end="00:23:41.417">*Dat was vlak nadat mijn ouders gescheiden waren.*</p>
+      <p begin="00:23:43.921" end="00:23:46.638">*En tijdens de scheiding van mijn ouders,*</p>
+      <p begin="00:23:46.638" end="00:23:50.816">*was die computer mijn <br/>connectie met de buitenwereld.*</p>
+      <p begin="00:23:51.907" end="00:23:54.002">*Ik had een modem en ik kon <br/>verbinding maken met de bibliotheek,*</p>
+      <p begin="00:23:54.002" end="00:23:57.901">*wat toen heel spannend was.*</p>
+      <p begin="00:23:58.951" end="00:24:02.736">* Toentertijd, eind jaren '80, een tijdje voordat <br/>het internet werd ontwikkeld,*</p>
+      <p begin="00:24:02.736" end="00:24:05.280">*schreven mijn schoolvriendin en ik een voorstel*</p>
+      <p begin="00:24:05.280" end="00:24:07.002">*over hoe scholieren uit vijandige landen*</p>
+      <p begin="00:24:07.002" end="00:24:10.294">*konden communiceren met hun computers.*</p>
+      <p begin="00:24:10.294" end="00:24:11.857">*We noemden het* UNITAS.</p>
+      <p begin="00:24:14.088" end="00:24:19.205">*Ik mocht dat idee als studentenambassadeur presenteren in de Sovjet Unie.*</p>
+      <p begin="00:24:19.205" end="00:24:23.560">*Maar daar aangekomen, <br/>spatte mijn droom uit elkaar.*</p>
+      <p begin="00:24:23.560" end="00:24:25.916">*Ik was zo na&#239;ef om te denken dat <br/>mensen computers zouden hebben*</p>
+      <p begin="00:24:25.916" end="00:24:31.753">*terwijl er nauwelijks genoeg eten was.<br/>Dat heeft me wakker geschud.*</p>
+      <p begin="00:24:31.753" end="00:24:33.979">*In 1994 zei iemand tegen me,*</p>
+      <p begin="00:24:33.979" end="00:24:36.899">"Moet je zien, er is iets nieuws: het Web."</p>
+      <p begin="00:24:36.899" end="00:24:39.324">*Het was liefde op het eerste gezicht.*</p>
+      <p begin="00:24:40.395" end="00:24:44.765">*Eindelijk was er een kader voor<br/>een wereldwijde conversatie,*</p>
+      <p begin="00:24:44.765" end="00:24:47.342">*Ik was er ondersteboven van.*</p>
+      <p begin="00:24:49.178" end="00:24:52.198">*Ik richtte de Webby Awards op en richtte me<br/>de volgende tien jaar op het web*</p>
+      <p begin="00:24:52.198" end="00:24:53.720">*en waar het ons zou brengen.*</p>
+      <p begin="00:24:53.720" end="00:24:57.725">We weten allemaal dat de ware internationale<br/>taal HTML is.</p>
+      <p begin="00:24:57.725" end="00:25:00.756">- We hebben het internet allemaal uitgevonden.</p>
+      <p begin="00:25:03.509" end="00:25:06.486">- Oscars, Emmy's, Grammy's, Tony's,<br/>de grote award-shows</p>
+      <p begin="00:25:06.486" end="00:25:08.413">hebben allemaal &#233;&#233;n ding gemeen --</p>
+      <p begin="00:25:08.413" end="00:25:10.318">eindeloze bedankredes.</p>
+      <p begin="00:25:10.318" end="00:25:11.233">Dus we kunnen blij zijn dat de mensen</p>
+      <p begin="00:25:11.233" end="00:25:14.747">die de Webbys -de awards voor websites- runnen<br/>een manier gevonden hebben</p>
+      <p begin="00:25:14.747" end="00:25:16.632">om die redes kort te houden.</p>
+      <p begin="00:25:16.632" end="00:25:20.424">* -Alle bedankreden moeten vijf woorden<br/>of minder zijn.*</p>
+      <p begin="00:25:24.481" end="00:25:28.331">-*Toen ontmoette ik Ken tijdens een van <br/>de speeches van mijn vader.*</p>
+      <p begin="00:25:28.331" end="00:25:32.757">*Ken was een professor, die een <br/>kunstinstallatie gemaakt had die *</p>
+      <p begin="00:25:32.757" end="00:25:37.250">*robots verbond aan internet, aan tuinen,<br/>om commentaar te geven op de maatschappij.*</p>
+      <p begin="00:25:37.250" end="00:25:40.005">*Het was liefde op het eerste gezicht.*</p>
+      <p begin="00:25:40.005" end="00:25:46.001">- Professor Ken Goldberg wil naar voren komen en <br/>- [publiek schreeuwt]</p>
+      <p begin="00:25:49.054" end="00:25:54.391">- Dank je Albert. Mazzeltof voor deze<br/>belangrijke gelegenheid.</p>
+      <p begin="00:25:54.391" end="00:25:56.741">En vandaag heb je een van de <br/>belangrijkste vragen</p>
+      <p begin="00:25:56.741" end="00:26:02.439">van je leven beantwoord,<br/>door "Ik wil" te zeggen.</p>
+      <p begin="00:26:02.439" end="00:26:05.234">*[Ken] Dus nu wil ik je iets anders vragen.*</p>
+      <p begin="00:26:05.234" end="00:26:06.751">[publiek] Oh oh.</p>
+      <p begin="00:26:06.751" end="00:26:10.843">*[Ken] Ik vraag om de hand van je dochter Tiffany.*</p>
+      <p begin="00:26:10.843" end="00:26:19.748">[gejuich en applaus]</p>
+      <p begin="00:26:19.748" end="00:26:22.576">*- Je hebt een hoop geld bespaard, de rabbi is er nog.</p>
+      <p begin="00:26:22.576" end="00:26:27.564">[gelach en applaus]</p>
+      <p begin="00:26:27.564" end="00:26:28.252">- [Tiffany] *Mijn vader zei altijd,*</p>
+      <p begin="00:26:28.252" end="00:26:32.538">*"Ik heb in de natuurkunde gepubliceerd,<br/>zodat jij en Ken elkaar konden ontmoeten."</p>
+      <p begin="00:26:32.538" end="00:26:35.822">*Ken en ik kregen ons eerste kind,<br/>Odessa, toen ik 33 was.*</p>
+      <p begin="00:26:39.158" end="00:26:41.071">*Als werkende moeder zag ik internet<br/>als h&#232;t middel*</p>
+      <p begin="00:26:41.071" end="00:26:43.554">*dat de feministische beweging altijd al<br/>nodig had gehad*</p>
+      <p begin="00:26:43.554" end="00:26:46.981">*omdat ik zo veel flexibiliteit had in <br/>hoe en waar ik kon werken.*</p>
+      <p begin="00:26:46.981" end="00:26:50.508">[kind] Mama!<br/>*[mannenstem] Ah dat is geweldig.*</p>
+      <p begin="00:26:50.508" end="00:26:55.626">*Maar na je 35e zijn de kansen op een <br/>succesvolle zwangerschap gehalveerd.*</p>
+      <p begin="00:26:55.626" end="00:26:57.961">*We hebben te lang gewacht met<br/>het nemen van een tweede kind.*</p>
+      <p begin="00:26:57.961" end="00:27:00.938">[tikkende klok]</p>
+      <p begin="00:27:00.938" end="00:27:04.791">*Ik had er op vertrouwd dat de wetenschap <br/>mijn vruchtbaarheid zou verlengen.*</p>
+      <p begin="00:27:04.791" end="00:27:06.265">*En nu probeerde ik<br/>hormoonbehandelingen*</p>
+      <p begin="00:27:06.265" end="00:27:11.311">*waarvan ik de consequenties niet eens kende.*</p>
+      <p begin="00:27:11.311" end="00:27:14.420">*Ik weet nog dat ik op een dag <br/>op straat liep met mijn filmcrew.*</p>
+      <p begin="00:27:14.420" end="00:27:17.292">*En ze vertelde dat ik nog een <br/>IVF-poging ging doen.*</p>
+      <p begin="00:27:17.292" end="00:27:18.871">*Ik zou gaan beginnen met<br/>oestrogeen-injecties,*</p>
+      <p begin="00:27:18.871" end="00:27:22.753">*dus mijn stemming zou wat <br/>instabiel kunnen zijn.*</p>
+      <p begin="00:27:22.753" end="00:27:24.246">*En toen zei Sawyer, die aan het veranderen was*</p>
+      <p begin="00:27:24.246" end="00:27:27.806">*van vrouw naar man,<br/>"Dat is grappig,"*</p>
+      <p begin="00:27:27.806" end="00:27:29.582">*"ik wilde je juist vertellen dat ik"*</p>
+      <p begin="00:27:29.582" end="00:27:32.332">*"ga beginnen met testosteron-injecties."*</p>
+      <p begin="00:27:32.332" end="00:27:35.092">*"Dus mijn stemming gaat ook<br/>instabiel zijn."*</p>
+      <p begin="00:27:35.092" end="00:27:36.290">*En Carlton, die tussen ons in liep*</p>
+      <p begin="00:27:36.290" end="00:27:39.175">*zei, "Wacht, voor de duidelijkheid,"*</p>
+      <p begin="00:27:39.175" end="00:27:43.393">*"Jij gaat aan de oestrogeen <br/>en jij aan de testosteron."*</p>
+      <p begin="00:27:43.393" end="00:27:44.393">*"Ik ga op vakantie."*</p>
+      <p begin="00:27:47.457" end="00:27:50.198">*Dus dingen zijn duidelijk aan het veranderen,*</p>
+      <p begin="00:27:50.198" end="00:27:52.860">*Er is zo veel meer om over na te denken.*</p>
+      <p begin="00:27:52.860" end="00:27:57.141">*En dat stukje verandering is zo opbeurend.*</p>
+      <p begin="00:27:57.141" end="00:28:00.347">*Hoe veel sneller kan ik gaan,<br/>totdat we het niet meer bij kunnen houden?*</p>
+      <p begin="00:28:00.347" end="00:28:03.186">*En hoe beginnen dingen &#252;berhaupt zo<br/>snel te veranderen?*</p>
+      <p begin="00:28:10.482" end="00:28:13.219">*[verteller] Dankzij de analytische<br/>denkwijze van de mens,*</p>
+      <p begin="00:28:13.219" end="00:28:17.084">*versnelde de ontwikkeling naar een <br/>betere levenskwaliteit.*</p>
+      <p begin="00:28:17.084" end="00:28:20.544">*Terwijl ze zich ontwikkelden, <br/>vermeerderden ze zich.*</p>
+      <p begin="00:28:20.544" end="00:28:23.753">*En omdat er meer en meer<br/>mensen op aarde zijn,*</p>
+      <p begin="00:28:23.753" end="00:28:27.205">*communiceren er meer idee&#235;n met elkaar.*</p>
+      <p begin="00:28:29.061" end="00:28:34.652">*Nieuwe uitvindingen en nieuwe ontdekkingen<br/>volgen elkaar sneller op.*</p>
+      <p begin="00:28:34.652" end="00:28:39.215">*De oude Grieken hadden een god van de snelheid,<br/>hij heette Mercurius.*</p>
+      <p begin="00:28:39.215" end="00:28:46.606">*Mercurius is ook de naam van een<br/>element, een auto en een popster.*</p>
+      <p begin="00:28:46.606" end="00:28:50.984">*De mens kwam in een tijdperk<br/>van ongekende ontdekkingen*</p>
+      <p begin="00:28:52.231" end="00:28:56.038">*en er was nog zo veel<br/>meer te ontdekken.*</p>
+      <p begin="00:28:56.038" end="00:28:59.936">*Dus ze verdeelden de wereld<br/>in een enorm raster*</p>
+      <p begin="00:28:59.936" end="00:29:04.061">*om nieuwe gebieden te kunnen ontdekken.*</p>
+      <p begin="00:29:04.061" end="00:29:12.272">*Het idee was simpel. <br/>Verdeel en heers, tegen beter weten in.*</p>
+      <p begin="00:29:14.595" end="00:29:16.657">*Maar er gebeurde iets interessants.*</p>
+      <p begin="00:29:18.235" end="00:29:22.497">*Terwijl ze de wereld in<br/>afzonderlijke gebieden verdeelden*</p>
+      <p begin="00:29:22.497" end="00:29:27.941">*werd de wereld meer verbonden <br/>dan ooit tevoren.*</p>
+      <p begin="00:29:27.941" end="00:29:31.725">*Al was het ecosysteem altijd al <br/>afhankelijk,*</p>
+      <p begin="00:29:31.725" end="00:29:35.278">*nu integreerde de mens er<br/>handel, transport*</p>
+      <p begin="00:29:35.278" end="00:29:37.904">* en netwerken van idee&#235;n in.*</p>
+      <p begin="00:29:39.797" end="00:29:43.742">*Ze handelden in alles, inclusief diersoorten.*</p>
+      <p begin="00:29:43.742" end="00:29:48.370">*De Europeanen brachten hun bijen<br/>bijvoorbeeld naar Amerika*</p>
+      <p begin="00:29:48.370" end="00:29:50.863">*om op het land te helpen.*</p>
+      <p begin="00:29:50.863" end="00:29:54.334">*De westelijke gewoonte van verdelen <br/>en specialiseren breidde zich uit*</p>
+      <p begin="00:29:54.334" end="00:29:57.947">*over de hele wereld via de nieuwe kanalen.*</p>
+      <p begin="00:29:57.947" end="00:30:02.157">*Gedeeltelijk dankzij een specifieke <br/>uitvinding, die idee&#235;n*</p>
+      <p begin="00:30:02.157" end="00:30:06.138">*kon weergeven en verspreiden <br/>als nooit tevoren.*</p>
+      <p begin="00:30:07.692" end="00:30:13.551">*Krachtige, controversi&#235;le idee&#235;n<br/>zoals democratie,*</p>
+      <p begin="00:30:13.551" end="00:30:17.522">*De theorie van Darwin dat<br/>al het leven verbonden is.*</p>
+      <p begin="00:30:17.522" end="00:30:24.030">*En het idee van politiek wetenschapper Concordet<br/>over de kracht van het collectieve denken.*</p>
+      <p begin="00:30:24.030" end="00:30:27.505">*Die bewees dat een groep van geesten,<br/>het vaker bij het rechte eind had*</p>
+      <p begin="00:30:27.505" end="00:30:34.944">dan een geest die onafhankelijk denkt,<br/>en vormde het jurysysteem.*</p>
+      <p begin="00:30:36.821" end="00:30:39.003">*Idee&#235;n verspreidden zich zo snel*</p>
+      <p begin="00:30:39.003" end="00:30:44.581">*dat de wijze wezens het <br/>*"Het jaar van de verlichting"* noemden.*</p>
+      <p begin="00:30:44.581" end="00:30:49.428">*Economie&#235;n groeiden en <br/>netwerken breidden zich uit.*</p>
+      <p begin="00:30:49.428" end="00:30:52.571">*Al gauw ontdekten de slimme mensen <br/>dat ze hun methode van verdeel en heers*</p>
+      <p begin="00:30:52.571" end="00:30:58.628">*konden toepassen om tegemoet te komen <br/>aan nieuwe consumenteneisen .*</p>
+      <p begin="00:30:59.444" end="00:31:02.746">*Deze geweldige nieuwe manier <br/>van produceren breidde zich uit*</p>
+      <p begin="00:31:02.746" end="00:31:04.882">*van Engeland tot<br/>over de hele wereld.*</p>
+      <p begin="00:31:04.882" end="00:31:11.595">*En ze kwamen opeens in een<br/>tijdperk van massaproductie en overvloed.*</p>
+      <p begin="00:31:11.595" end="00:31:14.550">*Deze nieuwe effici&#235;ntie gaf hen <br/>veel meer vrije tijd,*</p>
+      <p begin="00:31:17.570" end="00:31:20.202">*en de mogelijkheid tot een<br/>officieel weekend.*</p>
+      <p begin="00:31:23.707" end="00:31:28.295">*Tijdens de industri&#235;le revolutie, <br/>werd voorspeld dat men in de 20e eeuw</p>
+      <p begin="00:31:28.295" end="00:31:33.342">*zo efficient zou zijn, dat men nog maar 4 uur <br/>per dag hoefde te werken.</p>
+      <p begin="00:31:35.819" end="00:31:37.171">
+        <span tts:fontStyle="italic">hmmmmmm.....</span>
+      </p>
+      <p begin="00:31:41.656" end="00:31:48.668">*Maar &#233;&#233;n ontdekking beloofde<br/>de wereld radicaal te gaan veranderen.*</p>
+      <p begin="00:31:48.668" end="00:31:51.575">*Een wetenschapper met de naam<br/>Marie Curie ontdekte*</p>
+      <p begin="00:31:51.575" end="00:31:55.081">*dat een element met de naam uranium<br/>energie uitstraalde*</p>
+      <p begin="00:31:55.081" end="00:31:58.331">*op het moment dat zijn <br/>kleinste deeltjes kapot gaan.*</p>
+      <p begin="00:32:00.224" end="00:32:05.161">*Men hoopte dat deze radioactieve energie<br/>een wonderlijke en grenzeloze*</p>
+      <p begin="00:32:05.161" end="00:32:08.374">bron van energie zou vormen*</p>
+      <p begin="00:32:08.374" end="00:32:14.281">*die gebruikt kon worden in de<br/>naam van de ontwikkeling.*</p>
+      <p begin="00:32:17.182" end="00:32:20.324">*- [Tiffany] Maar er gebeurde iets onverwachts.*</p>
+      <p begin="00:32:20.324" end="00:32:26.323">* Marie Curie ontdekte ook &#233;&#233;n van<br/>de eerste behandelingen tegen kanker.*</p>
+      <p begin="00:32:29.943" end="00:32:33.574">*De bestraling van mijn vader werkte<br/>en hij ging vooruit.*</p>
+      <p begin="00:32:35.881" end="00:32:37.717">*Zijn spraak begon terug te komen*</p>
+      <p begin="00:32:37.717" end="00:32:42.015">*maar hij kon niet goed articuleren.*</p>
+      <p begin="00:32:42.015" end="00:32:43.279">*Ik wist niet hoeveel tijd<br/>we zouden hebben*</p>
+      <p begin="00:32:43.279" end="00:32:47.351">*En ik begon mijn camera overal<br/>mee naartoe te nemen.*</p>
+      <p begin="00:32:59.296" end="00:33:03.773">*- Maar het was heel frustrerend voor hem,<br/>want zijn woorden kwamen er steeds verkeerd uit.*</p>
+      <p begin="00:33:04.546" end="00:33:07.529">*Als chirurg die over het brein schreef<br/>en hersenoperaties had gedaan,*</p>
+      <p begin="00:33:07.529" end="00:33:11.824">*wist hij precies wat er gebeurde.*</p>
+      <p begin="00:33:11.824" end="00:33:13.845">*Net voordat de hersentumor <br/>werd geconstateerd,*</p>
+      <p begin="00:33:13.845" end="00:33:15.939">*schreef mijn vader het laatste<br/>hoofdstuk van zijn boek*</p>
+      <p begin="00:33:15.939" end="00:33:18.836">*waaraan hij vijf jaar gewerkt had.*</p>
+      <p begin="00:33:18.836" end="00:33:21.214">*Het heette *Leonardo's Brein* <br/>en het bekeek hoe*</p>
+      <p begin="00:33:21.214" end="00:33:26.662">*Leonardo Da Vinci kunst <br/>&#232;n wetenschap beheerste.*</p>
+      <p begin="00:33:26.662" end="00:33:31.802">*Hij was vastberaden om het boek af te maken<br/>en al had hij moeite met praten,*</p>
+      <p begin="00:33:31.802" end="00:33:38.195">*hij kon nog steeds schrijven.<br/>Het duurde alleen langer.*</p>
+      <p begin="00:33:38.195" end="00:33:42.242">*Hij zei dat hij plotseling patronen zag<br/>als nooit tevoren.*</p>
+      <p begin="00:33:44.744" end="00:33:47.578">*Hij vond het fijn om uit het raam te kijken.*</p>
+      <p begin="00:33:57.381" end="00:34:01.775">*Hij schreef zelfs over wat hij zag.*</p>
+      <p begin="00:34:05.427" end="00:34:10.169">*Het ironische was, dat terwijl wij 24 uur per dag<br/>bezig waren met Leonards brein,*</p>
+      <p begin="00:34:10.169" end="00:34:14.242">*hij schreef over "Leonardo's Brein".*</p>
+      <p begin="00:34:18.012" end="00:34:22.179">*Als we tijd hadden <br/>probeerde ik hem te filmen.*</p>
+      <p begin="00:34:22.179" end="00:34:25.334">*Hij wilde graag interviews doen<br/>en ook al waren er veel pauzes*</p>
+      <p begin="00:34:25.334" end="00:34:28.939">*in zijn verhaal, hij werd steeds beter.*</p>
+      <p begin="00:34:28.939" end="00:34:30.080">*Hij maakte grapjes tegen de familie,*</p>
+      <p begin="00:34:30.080" end="00:34:34.796">*"Ik wilde altijd al dat jullie <br/>aan mijn lippen hingen."*</p>
+      <p begin="00:34:34.796" end="00:34:38.594">*Natuurlijk kwam ieder denkbaar<br/>technisch probleem voor.*</p>
+      <p begin="00:34:38.594" end="00:34:42.960">*Dan was het het geluid, dan het licht*</p>
+      <p begin="00:34:42.960" end="00:34:47.164">*en soms was ik ineens een<br/>emotioneel wrak.*</p>
+      <p begin="00:34:47.164" end="00:34:53.831">*OK, wat heb je geleerd dat misschien...*</p>
+      <p begin="00:34:53.831" end="00:34:58.246">*Wat als ik opnieuw je kind word?*</p>
+      <p begin="00:34:58.246" end="00:35:01.682">*Andere keren hield ik het droog,<br/>maar was hij te zwak.*</p>
+      <p begin="00:35:01.682" end="00:35:04.491">*Wat denk je dat de zin van het leven is?*</p>
+      <p begin="00:35:04.491" end="00:35:07.900">- De zin van het leven....</p>
+      <p begin="00:35:07.900" end="00:35:12.247">* Dit was niet het beeld dat ik vast wilde leggen,<br/>hij was mijn superheld.*</p>
+      <p begin="00:35:13.845" end="00:35:17.337">*Ik weet nog dat ik 16 was en <br/>net mijn rijbewijs had gehaald.*</p>
+      <p begin="00:35:17.337" end="00:35:21.952">*Dat gevoel van onafhankelijkheid en<br/>de mogelijkheid om zelf ergens heen te rijden,*</p>
+      <p begin="00:35:21.952" end="00:35:24.757">*en ik reed op de Golden Gate Bridge en<br/>de muziek op maximaal volume,*</p>
+      <p begin="00:35:24.757" end="00:35:27.589">*en misschien lette ik niet <br/>zo goed op als ik zou moeten.*</p>
+      <p begin="00:35:27.589" end="00:35:30.066">*En toen trapte de persoon voor<br/>me op de rem,*</p>
+      <p begin="00:35:30.066" end="00:35:31.912">*en ik had niet genoeg tijd om te stoppen,*</p>
+      <p begin="00:35:31.912" end="00:35:34.034">*en ik botste op de auto voor me,*</p>
+      <p begin="00:35:34.034" end="00:35:37.811">*en had een ongeluk <br/>op de Golden Gate Bridge*</p>
+      <p begin="00:35:37.811" end="00:35:40.699">*met een vers rijbewijs.*</p>
+      <p begin="00:35:40.699" end="00:35:42.577">*Ik trilde, <br/>wist niet wat ik moest doen,*</p>
+      <p begin="00:35:42.577" end="00:35:47.151">*ik stapte uit en veroorzaakte<br/>een enorme file.*</p>
+      <p begin="00:35:47.151" end="00:35:50.863">*Toen mijn vader uit het niets verscheen,<br/>was het bijna alsof hij een cape droeg.*</p>
+      <p begin="00:35:50.863" end="00:35:51.590">*En hij kwam aan en zei,*</p>
+      <p begin="00:35:51.590" end="00:35:54.856">*"Schat, stap in, ik regel het wel."*</p>
+      <p begin="00:35:54.856" end="00:35:57.408">*Ik wist het niet, maar hij had de hele tijd <br/>achter me gereden*</p>
+      <p begin="00:35:57.408" end="00:36:00.503">*en keek naar me terwijl ik reed.*</p>
+      <p begin="00:36:00.503" end="00:36:02.683">*Er zijn veel momenten</p>
+    </div>
+  </body>
+</tt>

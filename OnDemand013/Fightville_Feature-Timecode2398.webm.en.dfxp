@@ -1,0 +1,1387 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:03.381" end="00:00:06.077">&#9834; [music] &#9834;</p>
+      <p begin="00:00:10.569" end="00:00:12.259">[crowd cheering] </p>
+      <p begin="00:00:31.231" end="00:00:39.634">&#9834; [music] &#9834;</p>
+      <p begin="00:00:40.942" end="00:00:45.945">*[Gil Guillory] Fighting is as old as, <br/>as human kind has ever been.*</p>
+      <p begin="00:00:47.439" end="00:00:50.212">*Something about beating another man,*</p>
+      <p begin="00:00:50.212" end="00:00:51.774">*into submission,*</p>
+    </div>
+    <div>
+      <p begin="00:00:51.774" end="00:00:56.114">*that the world is attracted to.* </p>
+      <p begin="00:00:56.114" end="00:00:58.386">*What is it?*</p>
+      <p begin="00:00:58.386" end="00:01:03.023">Man is the only species on earth,</p>
+      <p begin="00:01:03.023" end="00:01:05.097">outside of its natural environment.</p>
+    </div>
+    <div>
+      <p begin="00:01:05.097" end="00:01:06.780">And what society has caused to do</p>
+      <p begin="00:01:06.780" end="00:01:08.322">is take out a couple of different things </p>
+      <p begin="00:01:08.322" end="00:01:10.740">out of the equation. The first is.</p>
+    </div>
+    <div>
+      <p begin="00:01:10.740" end="00:01:11.641">The rules of man. </p>
+      <p begin="00:01:11.641" end="00:01:14.888">The rules of man suggest <br/>that man is a warrior.</p>
+      <p begin="00:01:14.888" end="00:01:20.174">*By nature he's a warrior <br/>so when you say, "Fight"!*</p>
+      <p begin="00:01:20.174" end="00:01:23.353">*Everyone's gonna turn and look.<br/>Everyone.*</p>
+      <p begin="00:01:25.592" end="00:01:27.577">*"Fighting is truth"*</p>
+      <p begin="00:01:27.745" end="00:01:33.977">[clapping and drumming] <br/></p>
+      <p begin="00:01:37.337" end="00:01:43.135">&#9834; [music] &#9834; </p>
+      <p begin="00:01:53.409" end="00:01:59.171">[crowd cheering] </p>
+      <p begin="00:02:00.463" end="00:02:04.788">*[Gil] Very few men <br/>will actually walk the aisles.*</p>
+      <p begin="00:02:05.017" end="00:02:08.049">*And get into that combat arena*</p>
+      <p begin="00:02:08.101" end="00:02:12.410">*And very few men<br/>will do it 20 to 30 times.*</p>
+      <p begin="00:02:12.471" end="00:02:14.998">*Most of these guys<br/>have fight they'll never fight again.*</p>
+      <p begin="00:02:15.093" end="00:02:18.172">*They've think they can do it, <br/>they want to do it.*</p>
+      <p begin="00:02:18.356" end="00:02:20.951">*They want everybody to know<br/>that they're cage fighters.*</p>
+      <p begin="00:02:21.057" end="00:02:24.102">*But when that door close in, <br/>you'd hear that lock "click"!*</p>
+      <p begin="00:02:26.407" end="00:02:28.242">*And when it's time to go*</p>
+      <p begin="00:02:28.242" end="00:02:30.400">*And that guy looks at you<br/>across the cage.*</p>
+      <p begin="00:02:30.400" end="00:02:34.918">*And you can't give him <br/>the same look that he gave you.*...</p>
+      <p begin="00:02:35.026" end="00:02:37.268">*Now you know you're in trouble.*</p>
+      <p begin="00:02:38.861" end="00:02:43.638">*Every fight has a story <br/>thats yet to be played out.*</p>
+      <p begin="00:02:44.238" end="00:02:48.806">*As a match maker, <br/>I have to imagine that story.*</p>
+      <p begin="00:02:48.821" end="00:02:52.315">*I have to write the script of that story.*</p>
+    </div>
+    <div>
+      <p begin="00:02:52.315" end="00:02:54.090">*What would happen?*</p>
+      <p begin="00:02:54.090" end="00:02:55.609">*If you were in your tribe, I was in my tribe *</p>
+      <p begin="00:02:55.609" end="00:02:58.828">*And we came across each other.<br/>What would happen?*</p>
+      <p begin="00:02:58.828" end="00:03:00.935">*Beside bashing each other<br/>in the head with a rock.*</p>
+      <p begin="00:03:00.935" end="00:03:02.604">*Let's throw it outta there*</p>
+      <p begin="00:03:02.604" end="00:03:03.934">*This is what "Combat" is*</p>
+      <p begin="00:03:03.934" end="00:03:06.034">*It's not two men standing up. *</p>
+      <p begin="00:03:06.034" end="00:03:08.559">*And just punching each other<br/>in the head and stomach.*</p>
+      <p begin="00:03:08.559" end="00:03:11.218">*Combat encompasses everything.*</p>
+      <p begin="00:03:11.218" end="00:03:13.098">*Do what you can to win a fight.*</p>
+      <p begin="00:03:14.863" end="00:03:16.628">[crowd yelling] <br/></p>
+      <p begin="00:03:16.958" end="00:03:18.457">[thud, thud, thud] </p>
+      <p begin="00:03:18.796" end="00:03:19.794"> [horn blowing]</p>
+      <p begin="00:03:22.087" end="00:03:24.037">[crowd cheering and clapping]</p>
+      <p begin="00:03:24.466" end="00:03:28.671">*We're bringing back<br/>the pure essence of combat.*</p>
+      <p begin="00:03:30.625" end="00:03:32.755">&#9834; [music] &#9834; <br/></p>
+      <p begin="00:03:45.957" end="00:03:49.141">[crowd cheering and clapping]</p>
+      <p begin="00:03:53.138" end="00:03:57.448">*I can take any man.<br/>And I'll make him a star.*</p>
+      <p begin="00:03:59.233" end="00:04:01.373">- [*DUSTIN POIRIER*]<br/>*My dream is to be...* </p>
+      <p begin="00:04:01.373" end="00:04:03.968">*The best fighter.*<br/>*At a 155 lbs in the world*</p>
+      <p begin="00:04:03.968" end="00:04:06.957">Fighting is what I do.</p>
+      <p begin="00:04:06.957" end="00:04:08.934">My father was a fighter.</p>
+      <p begin="00:04:08.934" end="00:04:11.163">My grandfather was a fighter.</p>
+      <p begin="00:04:11.163" end="00:04:12.633">It's just in my blood.</p>
+      <p begin="00:04:12.633" end="00:04:20.241">[punching]</p>
+      <p begin="00:04:23.411" end="00:04:24.955"> What we're doing on this local level is,</p>
+      <p begin="00:04:24.955" end="00:04:27.127">We take these young guys,<br/>We're developing them.</p>
+    </div>
+    <div>
+      <p begin="00:04:27.127" end="00:04:29.983">So that they can gradually progress,</p>
+      <p begin="00:04:29.983" end="00:04:31.393">To the big leagues.</p>
+      <p begin="00:04:31.393" end="00:04:34.314">So, we are. In essence,</p>
+      <p begin="00:04:34.314" end="00:04:37.678">a minor league mixed martial arts.</p>
+      <p begin="00:04:37.678" end="00:04:42.062">We're a feeder to UFC, Strike force, DREAM.</p>
+      <p begin="00:04:42.708" end="00:04:46.134">But they won't get to the big time.</p>
+      <p begin="00:04:46.134" end="00:04:47.220">If we don't have these shows.</p>
+      <p begin="00:04:47.220" end="00:04:48.301">We have to have these shows.</p>
+      <p begin="00:04:48.301" end="00:04:49.730">Fans have to support us. </p>
+      <p begin="00:04:49.730" end="00:04:52.168">In order to get our local guys<br/>to the next level.</p>
+      <p begin="00:04:52.168" end="00:04:53.640">Those with talent.</p>
+      <p begin="00:04:53.640" end="00:04:55.046"><br/>- When I first started fighting,</p>
+      <p begin="00:04:55.046" end="00:04:56.547">The sport of fighting.</p>
+      <p begin="00:04:57.009" end="00:05:01.186">I didn't even expect to, <br/>I had no, not one thought of money.</p>
+      <p begin="00:05:01.186" end="00:05:03.308">Or fame or anything like that <br/>on my mind.</p>
+      <p begin="00:05:03.308" end="00:05:06.116">And I just wanted to fight, that's it, <br/>Simple and plain.</p>
+      <p begin="00:05:06.116" end="00:05:08.124">I called the place. <br/>And I ask them.</p>
+      <p begin="00:05:08.124" end="00:05:10.562">So I said, If come over here and train, <br/>Will I be able to fight?</p>
+      <p begin="00:05:10.562" end="00:05:12.197">Really, against other opponents?</p>
+      <p begin="00:05:12.197" end="00:05:13.786">And they said "Yeah, you will"</p>
+      <p begin="00:05:13.786" end="00:05:14.714">I was there the next day.</p>
+      <p begin="00:05:14.714" end="00:05:18.907">[train honking]</p>
+      <p begin="00:05:18.907" end="00:05:27.573">[thud,thud,thud] <br/></p>
+      <p begin="00:05:31.356" end="00:05:45.237">&#9834; [music] &#9834;</p>
+      <p begin="00:05:45.314" end="00:05:46.613">- [Tim] *Defend! Defend! *</p>
+      <p begin="00:05:46.613" end="00:05:47.196">&#9834; [music] &#9834;</p>
+      <p begin="00:05:47.196" end="00:05:47.780">- * I'm stuck.*</p>
+      <p begin="00:05:47.780" end="00:05:51.188">* I know, come the other way! <br/>Come this way, come to me!*</p>
+      <p begin="00:05:51.188" end="00:05:53.243"><span tts:fontStyle="italic">Defend!</span><br/>*Don't get knocked out right here.*</p>
+      <p begin="00:05:53.243" end="00:05:55.644">*There you go...*</p>
+      <p begin="00:05:55.644" end="00:05:57.737">* Feet on the wall, push away.*</p>
+      <p begin="00:05:57.737" end="00:05:59.404">*Flip! Flip! Flip!*</p>
+      <p begin="00:05:59.404" end="00:06:04.437">&#9834; [music] &#9834; </p>
+      <p begin="00:06:21.902" end="00:06:23.902">*[alarm ringing]*</p>
+      <p begin="00:06:23.902" end="00:06:28.907">- *Stop. It's not your skill, its not yours.*</p>
+      <p begin="00:06:28.907" end="00:06:33.459">- *There's a music playing, this is Tim*</p>
+      <p begin="00:06:36.196" end="00:06:38.314">-["Crazy" Tim Credeur] What <br/>we're doing today with MMA, </p>
+      <p begin="00:06:38.314" end="00:06:40.609">and with mixed martial arts.</p>
+      <p begin="00:06:40.609" end="00:06:44.414">Is what martial arts was always<br/>suppose to be.</p>
+      <p begin="00:06:44.429" end="00:06:49.040">And the revitalization of martial arts <br/>in America is starting to happen. </p>
+      <p begin="00:06:49.040" end="00:06:51.582">The reality of martial arts through MMA</p>
+      <p begin="00:06:51.582" end="00:06:55.531">Has been boiled down to, whats true<br/>and whats just crazy.</p>
+      <p begin="00:06:55.531" end="00:06:57.309">What's crazy movie stuff.</p>
+      <p begin="00:06:57.309" end="00:06:59.867">*There's no 7 year old <br/>black belts over here. That's not real.*</p>
+      <p begin="00:06:59.867" end="00:07:03.569">*We don't have 5 year olds doing <br/>flying jump kicks, through the walls.*</p>
+      <p begin="00:07:03.569" end="00:07:05.620">That's just not the reality of it.</p>
+      <p begin="00:07:05.620" end="00:07:07.851">[swoosh, swoosh] </p>
+      <p begin="00:07:08.543" end="00:07:10.743">These guys who've done <br/>these traditional martial arts,</p>
+      <p begin="00:07:10.743" end="00:07:12.303">In these traditional martial arts school</p>
+      <p begin="00:07:12.303" end="00:07:14.985">They can't win a fight in an MMA match.</p>
+      <p begin="00:07:14.985" end="00:07:16.620">How can that be possible?</p>
+      <p begin="00:07:16.620" end="00:07:19.394">If you spent 20 years<br/>in a martial arts academy.</p>
+      <p begin="00:07:19.394" end="00:07:21.771">*You've been doing kata's<br/>and breaking fake boards.*</p>
+      <p begin="00:07:21.771" end="00:07:23.488">*And wearing funny belts.*</p>
+      <p begin="00:07:23.488" end="00:07:26.001">*You haven't been training <br/>to be a fighter.*</p>
+      <p begin="00:07:26.001" end="00:07:28.209">*You've been training<br/>to go be in bar and belly circus.*</p>
+      <p begin="00:07:28.209" end="00:07:30.550">That's not martial arts, </p>
+      <p begin="00:07:30.550" end="00:07:32.808">That's crazy talk, that's ridiculous.</p>
+      <p begin="00:07:32.808" end="00:07:34.575">When martial arts was developed<br/>for samurais and for the warriors</p>
+      <p begin="00:07:34.575" end="00:07:37.108">of the warrior caste in Asia,</p>
+      <p begin="00:07:37.108" end="00:07:38.857">you know, people fell off.</p>
+      <p begin="00:07:38.857" end="00:07:41.394">And those people<br/>that did not get to become samurais.</p>
+      <p begin="00:07:41.394" end="00:07:44.681">They did not get to become warriors.</p>
+      <p begin="00:07:44.681" end="00:07:47.147">Those people got to become farmers.</p>
+      <p begin="00:07:47.147" end="00:07:49.296">To make it for everyone, <br/>like I've said before,</p>
+      <p begin="00:07:49.296" end="00:07:51.944">is to make it not what it really is. </p>
+      <p begin="00:07:51.944" end="00:07:58.175">[thud, thud, thud]</p>
+      <p begin="00:07:58.437" end="00:08:00.492">- *[male voice] Don't leave any blood <br/>splattered on that sink.*</p>
+      <p begin="00:08:00.492" end="00:08:03.001">*Or on the tank. Go wash yourself off.* </p>
+      <p begin="00:08:03.001" end="00:08:04.586">*And then wash your area off too, okay?*</p>
+      <p begin="00:08:04.586" end="00:08:08.426">Okay? That's like a health violation, ok</p>
+      <p begin="00:08:08.426" end="00:08:10.852">- *[Tim] Okay guys, look too, that's a good point.*</p>
+      <p begin="00:08:10.852" end="00:08:12.391">Health inspector came <br/>and there was some blood, </p>
+      <p begin="00:08:12.391" end="00:08:14.283">and he was pissed you know, <br/>he didn't say much..</p>
+      <p begin="00:08:14.283" end="00:08:17.621">But if you bleed or somethin' like that,<br/>make sure you clean your stuff up.</p>
+      <p begin="00:08:17.621" end="00:08:21.276">Don't leave blood all over the place, <br/>it just make us look ridiculous. </p>
+      <p begin="00:08:21.276" end="00:08:25.776"> We're suppose to be a martial arts school.</p>
+    </div>
+    <div>
+      <p begin="00:08:25.776" end="00:08:29.064">Help me, Help you</p>
+      <p begin="00:08:29.064" end="00:08:40.212">&#9834; [music] &#9834;</p>
+      <p begin="00:08:40.488" end="00:08:44.908">- *[Gil] You know I grew up, <br/>watching men who work hard.*</p>
+      <p begin="00:08:44.908" end="00:08:48.041">*Who party hard and on <br/>a Friday or Saturday night.*</p>
+      <p begin="00:08:48.041" end="00:08:49.527">They weren't scared to fight hard.</p>
+      <p begin="00:08:49.804" end="00:08:54.388">*What we're trying to do at USA-MMA <br/>is to bring back the feel,*</p>
+      <p begin="00:08:54.388" end="00:08:56.474">*and the excitement of a live event.*</p>
+      <p begin="00:08:56.474" end="00:08:59.041">*And we do them in rodeo arenas <br/>and civic centers,*</p>
+      <p begin="00:08:59.041" end="00:09:00.162">*across South Louisiana.*</p>
+      <p begin="00:09:00.162" end="00:09:02.254">*And it's just me, my wife and the kids.*</p>
+      <p begin="00:09:02.254" end="00:09:04.813">- *[Gil's Wife] There's a definitely <br/>a misperception about the sport*</p>
+      <p begin="00:09:04.813" end="00:09:06.918">*They laugh at the sport. <br/>They can't wait to say,*</p>
+      <p begin="00:09:06.918" end="00:09:09.076">"Oh, really?<br/>Well, that's human cock fighting."<br/></p>
+      <p begin="00:09:09.076" end="00:09:11.615">I've heard that so many times <br/>and it's aggravating because what? </p>
+      <p begin="00:09:11.615" end="00:09:14.285">*John McCain* said that 10-15 years ago, <br/>'human cock fighting"</p>
+      <p begin="00:09:14.285" end="00:09:16.109">*And actually it probably was back then.*</p>
+    </div>
+    <div>
+      <p begin="00:09:16.324" end="00:09:17.995">*You know you can be in any weight class.*</p>
+      <p begin="00:09:18.027" end="00:09:19.875">*There was no rules at all*</p>
+      <p begin="00:09:19.875" end="00:09:22.139">But the way that the sports <br/>developed since then.</p>
+      <p begin="00:09:22.139" end="00:09:24.829">You know it's very... <br/>one of the safest sports around.</p>
+      <p begin="00:09:24.829" end="00:09:28.423">*Rodeo's, people die you know. <br/>all the time, in rodeos*</p>
+      <p begin="00:09:28.423" end="00:09:30.447">*They die in NASCAR. All the time*</p>
+      <p begin="00:09:30.447" end="00:09:33.024">*But because this is a new sport<br/>people don't know what it is*</p>
+      <p begin="00:09:33.024" end="00:09:34.719">*And they see so much blood, <br/>they don't understand.*</p>
+      <p begin="00:09:34.719" end="00:09:37.895">Blood is superficial. <br/>These guys has four ounce gloves on.</p>
+      <p begin="00:09:37.895" end="00:09:38.804">*They don't have 16 ounce gloves on.* <br/>[Thud!]</p>
+      <p begin="00:09:38.804" end="00:09:40.374">*So there's no brain damage.*</p>
+      <p begin="00:09:40.374" end="00:09:42.136">*They're getting punched <br/>with a 4 ounce glove.*</p>
+      <p begin="00:09:42.136" end="00:09:45.772">*If a guy in the ring is hurt, <br/>the referee will stop the fight.*</p>
+      <p begin="00:09:45.772" end="00:09:47.311">*That won't happen in boxing.*</p>
+      <p begin="00:09:47.311" end="00:09:50.002">*His heirarchy has to be on the ground <br/>he can even be hurt.* <br/></p>
+      <p begin="00:09:50.002" end="00:09:52.284">*So as long as he can stand himself up*<br/>*He could continue to fight.*</p>
+      <p begin="00:09:52.284" end="00:09:54.017">*And that doesn't happen in MMA either.*</p>
+      <p begin="00:09:55.969" end="00:09:59.619">*I knew when I started dating him <br/>that he was a former boxer.*</p>
+      <p begin="00:09:59.619" end="00:10:03.608">*That he wrestled also, Pro, <br/>which I thought was insane.*</p>
+      <p begin="00:10:03.853" end="00:10:08.876">[audience chanting] Let's go Gil! Uh! Uh!</p>
+      <p begin="00:10:14.474" end="00:10:16.211">[slamming]</p>
+      <p begin="00:10:16.353" end="00:10:17.499">Uh! Uh!</p>
+      <p begin="00:10:18.237" end="00:10:20.708">- [Gil's Wife] <br/>It's in his blood. I mean my son's 5. </p>
+      <p begin="00:10:20.708" end="00:10:23.609">*And you know he's gonna fight one day.*</p>
+      <p begin="00:10:23.609" end="00:10:26.891">*You know, as safe as it is,<br/>you still don't wanna see your son *<br/></p>
+      <p begin="00:10:26.891" end="00:10:28.583">*even fall off his bike. You know. *</p>
+      <p begin="00:10:28.583" end="00:10:30.684">And he's gonna fight one day. <br/>I will not be able to stop him.</p>
+      <p begin="00:10:30.684" end="00:10:32.428">It's in his blood.</p>
+      <p begin="00:10:32.428" end="00:10:34.738">My husband, when we argue <br/>he goes to the gym and spars.</p>
+      <p begin="00:10:34.738" end="00:10:38.238">*And comes back <br/>much better, much better.*</p>
+      <p begin="00:10:38.238" end="00:10:40.563">There's a lot of skill involved.</p>
+      <p begin="00:10:40.563" end="00:10:44.114">It's not just some, you know, bar fight.</p>
+      <p begin="00:10:44.160" end="00:10:45.152">If the guys calls all the time</p>
+      <p begin="00:10:45.152" end="00:10:46.313">"I wanna fight" , "I wanna fight"<br/>"I wanna fight"</p>
+      <p begin="00:10:46.313" end="00:10:48.356">Well, if you're not trained. <br/>You know we can't put you in there.</p>
+      <p begin="00:10:48.356" end="00:10:48.966">It's not safe.</p>
+      <p begin="00:10:48.966" end="00:10:52.580">- *[Gil] Yeah this is a rodeo arena <br/>But you still not gonna fight on my show.*</p>
+      <p begin="00:10:52.580" end="00:10:55.686">A lot of these kids that call me up.</p>
+      <p begin="00:10:55.686" end="00:10:57.932">Wanting to fight, <br/>think they first have the ability.</p>
+      <p begin="00:10:57.932" end="00:11:01.944">Then they think it's just, it's easy. <br/>Let's go and do it</p>
+      <p begin="00:11:01.944" end="00:11:04.760">So, I as a 38,39 year old man </p>
+      <p begin="00:11:04.760" end="00:11:07.054">The first thing I do<br/>is go to the gym and I'll spar 'em.</p>
+      <p begin="00:11:07.054" end="00:11:14.360">[swoosh] [ thud, thud]</p>
+      <p begin="00:11:14.407" end="00:11:16.109">Five guys walking off the street, <br/>I'm looking for one thing,</p>
+      <p begin="00:11:16.109" end="00:11:18.176">all of them wanna be <br/>world champion.</p>
+      <p begin="00:11:18.176" end="00:11:22.093">But the most important thing is, <br/><span tts:fontStyle="italic">Dedication</span></p>
+      <p begin="00:11:22.093" end="00:11:23.871">[thud, thud, thud] </p>
+      <p begin="00:11:24.086" end="00:11:25.730">[timer ringing]</p>
+      <p begin="00:11:26.883" end="00:11:27.943">-*[Tim] Don't commit to run.*</p>
+      <p begin="00:11:27.974" end="00:11:31.806">*Commit to the exchange.<br/>You're committing to not getting hurt.*</p>
+      <p begin="00:11:31.814" end="00:11:34.885">- *[Albert Stainback] Actually, quite <br/>afraid of being hit when I'm in the gym.*</p>
+    </div>
+    <div>
+      <p begin="00:11:34.885" end="00:11:36.665">*It sucks! You know you feel it.*</p>
+      <p begin="00:11:36.665" end="00:11:41.564">*But when I'm fighting, I just wanna <br/>hit 'em and it just happens.*</p>
+      <p begin="00:11:41.564" end="00:11:46.113">*And I hit them. And they fall <br/>unconscious and I feel good.*</p>
+      <p begin="00:11:46.251" end="00:11:50.635">*The energy in the cage makes<br/>the whole thing feel spiritual for me.*</p>
+      <p begin="00:11:50.635" end="00:11:52.565">Like another world</p>
+      <p begin="00:11:52.565" end="00:11:54.934">It's almost like the universe <br/>is this big machine.</p>
+      <p begin="00:11:54.934" end="00:11:57.548">And I am, you know, I'm operating it.</p>
+      <p begin="00:11:57.548" end="00:11:58.850">I don't believe in God.</p>
+      <p begin="00:11:58.850" end="00:11:59.928"> I don't believe in destiny.</p>
+      <p begin="00:11:59.928" end="00:12:03.222">I don't believe in predetermination <br/>or whatever anything like that.</p>
+      <p begin="00:12:03.222" end="00:12:09.058">But I will say I am dazzled <br/>by the way I look at my life,</p>
+      <p begin="00:12:09.058" end="00:12:12.387">the way it's turned out and the way it's <br/>just like interconnected with fighting</p>
+      <p begin="00:12:12.387" end="00:12:16.429">the way I feel it is. </p>
+      <p begin="00:12:18.844" end="00:12:19.650">It's the only thing that I really think <br/>I'm good at, if anything.</p>
+      <p begin="00:12:19.650" end="00:12:20.456">You know if you could say <br/>I'm good at anything, it would be that.</p>
+      <p begin="00:12:20.456" end="00:12:22.262">- *[Gil] Guy's got a lot of talent.*</p>
+      <p begin="00:12:22.262" end="00:12:24.292">*He's not a bad looking kid. *</p>
+      <p begin="00:12:24.292" end="00:12:26.848">*But I see potential in him <br/>outside of fighting.*</p>
+      <p begin="00:12:26.848" end="00:12:29.102">*I think that if he really <br/>put himself to anything.*</p>
+      <p begin="00:12:29.102" end="00:12:31.050">*He can do anything, he wanted to do.*</p>
+      <p begin="00:12:31.050" end="00:12:32.740">- [Albert] I kinda wanted to be my <br/>only option. </p>
+      <p begin="00:12:32.740" end="00:12:33.889">Cause I love it that much.</p>
+      <p begin="00:12:33.889" end="00:12:36.603">Maybe that's a little fool hearted, <br/>but I don't care.</p>
+      <p begin="00:12:36.603" end="00:12:39.310">- [Gil] Many mistakes <br/>that a young fighter are making.</p>
+      <p begin="00:12:39.310" end="00:12:42.017">I guess, the most important one.</p>
+      <p begin="00:12:42.033" end="00:12:45.402">Is that they're forgetting. <br/>That there's life after fighting.</p>
+      <p begin="00:12:45.402" end="00:12:46.648">Pursuing that MMA dream.</p>
+      <p begin="00:12:46.648" end="00:12:48.276">You know I can't fault anybody for that.</p>
+    </div>
+    <div>
+      <p begin="00:12:48.276" end="00:12:52.120">Because I pursued my own dream. <br/>But I did work at the same time.</p>
+      <p begin="00:12:52.120" end="00:12:54.134">I went to college at the same time.</p>
+      <p begin="00:12:54.134" end="00:12:55.783">You don't understood <br/>the sheer dynamics of it.</p>
+      <p begin="00:12:55.783" end="00:13:00.345">Most fighters 99% of fighters <br/>end up broken and destitute.</p>
+      <p begin="00:13:00.345" end="00:13:03.529">That's just the truth of it.</p>
+      <p begin="00:13:03.529" end="00:13:05.650">They might make a little bit of money <br/>here and there.</p>
+      <p begin="00:13:05.650" end="00:13:08.281">But most fighters, most people <br/>climbing into the ring or the cage</p>
+      <p begin="00:13:08.281" end="00:13:09.568">don't make a penny.</p>
+      <p begin="00:13:09.568" end="00:13:10.965">*- [Tim] You try to help them <br/>the best you can* <br/></p>
+      <p begin="00:13:10.965" end="00:13:14.666">But they're not my children. <br/>So what can I do?</p>
+      <p begin="00:13:14.666" end="00:13:16.860">- [Gil] Give them advice, that's about it.</p>
+      <p begin="00:13:16.860" end="00:13:20.552">Keep going with USA - MMA and [laughs]</p>
+      <p begin="00:13:20.552" end="00:13:24.109">Be the best company, <br/>nobody's ever heard of.</p>
+      <p begin="00:13:24.109" end="00:13:31.468">[cheering and clapping] </p>
+      <p begin="00:13:31.468" end="00:13:32.753">*- [Gil] Hello and welcome to this <br/>weeks edition* </p>
+      <p begin="00:13:32.753" end="00:13:37.079">*of the Combat Sports Report. <br/>My name is Gil "The Thrill" Guillorey.*</p>
+      <p begin="00:13:37.079" end="00:13:41.446">What we have tonight is <br/>"Natural Disaster III."</p>
+      <p begin="00:13:41.477" end="00:13:44.253">August 1st, Tonight. SugArena.</p>
+      <p begin="00:13:44.253" end="00:13:46.523">*It's gonna happen tonight guys. <br/>We have 14 bouts.*</p>
+      <p begin="00:13:46.523" end="00:13:48.395">*A little too many fights*</p>
+      <p begin="00:13:48.395" end="00:13:50.648">*Our main event tonight is <br/>"Joe Torres versus Dustin Poirier*</p>
+      <p begin="00:13:50.648" end="00:13:53.446">*Please, come out! Support these guys.*</p>
+      <p begin="00:13:53.446" end="00:13:55.215">*Support your local fighter.*</p>
+      <p begin="00:13:55.215" end="00:13:58.279">*We have, Mike Jackson <br/>against Albert Stainback.*</p>
+      <p begin="00:13:58.279" end="00:14:00.175">*He's from Gladiator, Lafayette.*</p>
+      <p begin="00:14:06.576" end="00:14:09.990">- [Albert Stainback] I think a stare down. <br/>Is something very important for a fight.</p>
+      <p begin="00:14:09.990" end="00:14:11.987">And yes I do practice in the mirror</p>
+      <p begin="00:14:11.987" end="00:14:14.929">I'll sit in the mirror in the bathroom <br/>and just be like. [deep breathing]</p>
+      <p begin="00:14:16.285" end="00:14:17.641"> If you're staring them down</p>
+      <p begin="00:14:17.641" end="00:14:19.435">And you see that certain look</p>
+      <p begin="00:14:19.435" end="00:14:22.640">I believed that you know, <br/>you're already in their head.</p>
+      <p begin="00:14:22.687" end="00:14:25.487">And that, and that helps.<br/>You know.</p>
+      <p begin="00:14:25.487" end="00:14:27.800">But then you get those people, <br/>and this is when you know</p>
+      <p begin="00:14:27.800" end="00:14:29.026">It's gonna be a fight.</p>
+      <p begin="00:14:29.026" end="00:14:31.959">When they just look <br/>right back at you dude...</p>
+      <p begin="00:14:31.959" end="00:14:34.611">And it's a..<br/>I like those even better actually. </p>
+      <p begin="00:14:34.611" end="00:14:36.164">I like it when they grind, you know, right back.<br/></p>
+      <p begin="00:14:36.164" end="00:14:38.295"> When they are not scared.</p>
+      <p begin="00:14:38.295" end="00:14:41.549">When they do not back down. I love it!</p>
+      <p begin="00:14:41.549" end="00:14:44.091">- [Dustin Poirier] People feel the same<br/>way when they get in the cage.</p>
+      <p begin="00:14:44.091" end="00:14:46.516">But other people in the outside<br/>don't really notice it how,</p>
+      <p begin="00:14:46.516" end="00:14:49.085"> you know, unless they do it,<br/>how peaceful it really is inside there.</p>
+      <p begin="00:14:49.085" end="00:14:52.567">It's crazy, so pure.</p>
+      <p begin="00:14:52.567" end="00:14:55.434">- [Albert] When Dustin's in there<br/>he looks like a serial killer.</p>
+      <p begin="00:14:55.434" end="00:14:57.733">You know and I feel like the same,<br/>about myself.</p>
+      <p begin="00:14:58.719" end="00:15:00.029">Are we done yet?</p>
+      <p begin="00:15:01.399" end="00:15:05.339">*[announcer] Judges in the back park*</p>
+      <p begin="00:15:05.339" end="00:15:07.471">*will be meeting at 7 o'clock. <br/>All fighters...*</p>
+      <p begin="00:15:07.994" end="00:15:10.416">- [Alvin Tapmam] *I wanna go over a few <br/>things with you first, again,*</p>
+      <p begin="00:15:10.538" end="00:15:12.154">*I met most of you earlier, *</p>
+      <p begin="00:15:12.154" end="00:15:12.975">*my name is Alvin Tapmam,*<br/></p>
+      <p begin="00:15:12.975" end="00:15:16.592">*I'm the commissioner, <br/>For Athletics in State of Louisiana.*</p>
+      <p begin="00:15:16.592" end="00:15:21.666">The reason we're here primarily, the rules are followed</p>
+      <p begin="00:15:21.666" end="00:15:25.152">and safety, safety,safety is followed.</p>
+      <p begin="00:15:25.152" end="00:15:27.906">There's a lot of amateur fights <br/>on this card tonight.</p>
+      <p begin="00:15:27.906" end="00:15:32.346">We'll stop the fight <br/>before it gets to trouble</p>
+      <p begin="00:15:32.346" end="00:15:36.142">I'm just telling you right up, fellas. <br/>I don't want anybody getting hurt.</p>
+      <p begin="00:15:36.142" end="00:15:39.793">We all know that when we come in<br/>here that anybody.</p>
+      <p begin="00:15:39.793" end="00:15:42.846">Anybody. Anybody can get <br/>severely injured in this sport.</p>
+      <p begin="00:15:42.846" end="00:15:46.317">It's happened before.<br/>I'm sure it's gonna happen again.</p>
+    </div>
+    <div>
+      <p begin="00:15:46.317" end="00:15:48.049">You take that chance <br/>when you go in that ring.</p>
+      <p begin="00:15:48.049" end="00:15:51.349">[&#9834; music &#9834;] </p>
+      <p begin="00:15:51.349" end="00:15:55.471">- *[Gil] We're not about sellin' fight, <br/>We're selling entertainment.*</p>
+      <p begin="00:15:55.471" end="00:15:58.420">*And in that regard,<br/>that is our bread circuit.*</p>
+      <p begin="00:15:58.481" end="00:16:02.038">[&#9834; music &#9834;] </p>
+      <p begin="00:16:30.261" end="00:16:33.470">- [Albert] I want people<br/>to remember me.</p>
+      <p begin="00:16:33.470" end="00:16:35.302">I happen to think <br/>that we came from monkeys,</p>
+      <p begin="00:16:35.302" end="00:16:38.228">so my little tribute to us,<br/>getting in touch with our inner monkey</p>
+    </div>
+    <div>
+      <p begin="00:16:38.228" end="00:16:41.484">is I'll get out there <br/>and I'll beat my chest twice.</p>
+      <p begin="00:16:41.484" end="00:16:43.446">You'll always see me do that <br/>before a fight.</p>
+    </div>
+    <div>
+      <p begin="00:16:43.446" end="00:16:46.419">To me it's like that primal fight or flight thing.</p>
+      <p begin="00:16:46.419" end="00:16:56.280">*[crowd cheering and whistling]*</p>
+      <p begin="00:16:56.280" end="00:16:59.275">In a sense I do feel like a monkey<br/>when I'm fighting.</p>
+      <p begin="00:16:59.275" end="00:17:01.394">It doesn't matter what his story is.</p>
+      <p begin="00:17:01.394" end="00:17:02.623">It doesn't matter what my story is.</p>
+      <p begin="00:17:02.623" end="00:17:07.864">It's a matter of <br/>"Who's best fit to survive."</p>
+      <p begin="00:17:07.864" end="00:17:11.500">[Referee] Fight! </p>
+      <p begin="00:17:15.979" end="00:17:17.402">[crash]</p>
+    </div>
+    <div>
+      <p begin="00:17:18.649" end="00:17:21.689">[Albert Stainback] There is no feeling sorry<br/>for your opponent.*</p>
+      <p begin="00:17:21.689" end="00:17:23.897">Because you know, it's do or die. </p>
+      <p begin="00:17:23.897" end="00:17:25.875">It's either you lose or he loses. <br/></p>
+      <p begin="00:17:25.875" end="00:17:27.992">And I don't care what your story is,<br/>man.</p>
+      <p begin="00:17:27.992" end="00:17:30.945">I gotta look out for me and mine.</p>
+      <p begin="00:17:33.019" end="00:17:40.111">[thud, thud,crash]</p>
+      <p begin="00:17:41.993" end="00:17:52.833">[crowd cheering] </p>
+      <p begin="00:17:57.305" end="00:18:01.953">With victory comes this elation <br/>and that, you know, feels beautiful.</p>
+      <p begin="00:18:01.953" end="00:18:05.007">Like something I have<br/>that no one can take from me.</p>
+      <p begin="00:18:05.007" end="00:18:09.339">You can earn, you can have a house,<br/>you can have money.</p>
+      <p begin="00:18:09.339" end="00:18:11.287">You can have that <br/>but you will lose that eventually.</p>
+      <p begin="00:18:11.287" end="00:18:14.991">And even if you don't,<br/>what does it really mean?</p>
+      <p begin="00:18:14.991" end="00:18:22.039">*[crowd cheering]*</p>
+      <p begin="00:18:22.039" end="00:18:24.649">- [Dustin] Before a fight, I actually pray <br/>that nobody gets hurt you know.</p>
+      <p begin="00:18:24.649" end="00:18:27.164">I don't wanna hurt him. <br/>Or I don't wanna get hurt.</p>
+      <p begin="00:18:27.286" end="00:18:30.408">But I'm not scared to lose<br/>or scared to get hurt in a fight.</p>
+      <p begin="00:18:30.408" end="00:18:32.942">*I expect to get hit you know.*</p>
+      <p begin="00:18:32.942" end="00:18:34.722">*I know, I'm not gonna go in there <br/>and not get hit. It's a fight*</p>
+      <p begin="00:18:34.722" end="00:18:36.994">Just like a, just like <br/>Going to work in an office </p>
+      <p begin="00:18:36.994" end="00:18:38.464">And not touchin' paper <br/>or somethin' you know. </p>
+      <p begin="00:18:38.464" end="00:18:40.246">You gonna get hit it's part of the job.</p>
+      <p begin="00:18:40.246" end="00:18:58.245">- *[announcer] In the red pew.<br/>Dustin Poirier!*</p>
+      <p begin="00:18:58.368" end="00:19:05.131">[crowd cheering] </p>
+      <p begin="00:19:05.131" end="00:19:07.435">- [Tim] Dustin is similar to me.</p>
+      <p begin="00:19:07.435" end="00:19:08.631">*He's a finisher.*</p>
+      <p begin="00:19:08.631" end="00:19:13.285">*Finishers are people <br/>who don't fight to win rounds.*</p>
+      <p begin="00:19:13.285" end="00:19:19.400">*Or fight to win points, <br/>without finishing the opponent.*</p>
+      <p begin="00:19:19.400" end="00:19:20.960">*No matter what the case. *</p>
+      <p begin="00:19:20.960" end="00:19:23.375">*Finish them, finish them, <br/>finish them!*</p>
+      <p begin="00:19:23.375" end="00:19:25.942">*Finish the opponent. <br/>Be fierce and be dominant.*</p>
+      <p begin="00:19:25.942" end="00:19:29.314">- [male voice screaming] Round 2!</p>
+      <p begin="00:19:31.914" end="00:19:34.900">*[crowd cheering]*</p>
+      <p begin="00:19:42.850" end="00:19:50.825">- *[announcer] Gladiators dominate, Dustin Porier!*</p>
+      <p begin="00:19:50.825" end="00:19:52.533">- *[Tim] A lot of times, you have guys <br/>that work really really hard.*</p>
+      <p begin="00:19:52.533" end="00:19:54.062">*And make all the sacrifices.*</p>
+      <p begin="00:19:54.062" end="00:19:55.851">And then you have guys <br/>that have really great talents.</p>
+      <p begin="00:19:55.851" end="00:19:59.172">Guys that do both. Become, you know,<br/></p>
+      <p begin="00:19:59.172" end="00:20:02.033">some of the greatest fighters.<br/>The world has ever seen.</p>
+      <p begin="00:20:02.033" end="00:20:05.234">And, you know, <br/>it's exciting seeing a kid like Dustin,</p>
+      <p begin="00:20:05.234" end="00:20:06.754">*who may be one of those guys.*</p>
+      <p begin="00:20:06.754" end="00:20:09.988">*You know, as a coach, <br/>as a trainer, as a fighter,*</p>
+      <p begin="00:20:10.096" end="00:20:14.330">*you may run into one or two <br/>of those in your life.*</p>
+      <p begin="00:20:14.330" end="00:20:17.126">The biggest challenge now, <br/>when it comes to a kid like Dustin,</p>
+      <p begin="00:20:17.170" end="00:20:22.142">is, you know finding somebody's<br/>not gonna kill in a couple of minutes.</p>
+      <p begin="00:20:22.142" end="00:20:24.750">- [Gil] Will he make it to the UFC? <br/>Will he be world champion?</p>
+      <p begin="00:20:24.750" end="00:20:28.898">Yeah... Potential.<br/>But potential has a time frame.</p>
+      <p begin="00:20:28.898" end="00:20:31.333">*Potential has a time limit on it.*</p>
+    </div>
+    <div>
+      <p begin="00:20:31.333" end="00:20:32.829">*Twenty year old kid can have potential.*</p>
+    </div>
+    <div>
+      <p begin="00:20:32.829" end="00:20:34.942"> *But if you still, if you're 38 <br/>and somebody says*<br/></p>
+      <p begin="00:20:34.942" end="00:20:37.075">*"You still have potential,"*</p>
+      <p begin="00:20:37.075" end="00:20:41.407">it's time to move on, you know?</p>
+      <p begin="00:20:41.407" end="00:20:45.246">So, I give Tim's gym. Probably, <br/>the nod as far as overall talent.</p>
+      <p begin="00:20:45.246" end="00:20:49.459">Cause the kids there can fight. <br/>They can fight</p>
+      <p begin="00:20:49.459" end="00:20:51.650">*But that doesn't mean anything.<br/>On the national scale*</p>
+      <p begin="00:20:51.650" end="00:21:10.917">&#9834; [music] &#9834;</p>
+    </div>
+    <div>
+      <p begin="00:21:10.917" end="00:21:15.466">*- [Jere Folley Chaisson] I have given my<br/>boys, freedom to express themselves.*</p>
+      <p begin="00:21:15.466" end="00:21:20.260">*And to feel what they feel <br/>and to do what they do.*</p>
+      <p begin="00:21:20.260" end="00:21:22.809">He loved to fight.</p>
+      <p begin="00:21:22.809" end="00:21:27.014">Not necessarily with, with<br/>someone that he wasn't get along with.</p>
+      <p begin="00:21:27.014" end="00:21:29.915">He just wanted to have a fight <br/>with somebody.</p>
+      <p begin="00:21:29.915" end="00:21:33.738">One day. When he must<br/>have been just like 10 years old,</p>
+      <p begin="00:21:33.738" end="00:21:35.948">He got into trouble at school.<br/>He had a note.</p>
+      <p begin="00:21:35.948" end="00:21:39.035">He came. He got off the school bus.<br/>And he ran in the house.</p>
+      <p begin="00:21:39.035" end="00:21:42.355">He said "Here's the note.<br/>I did something at school." </p>
+      <p begin="00:21:42.355" end="00:21:45.104">"Give me a whipping, if you're gonna<br/>give me a whipping."</p>
+      <p begin="00:21:45.104" end="00:21:47.541">"Because I think. Somebody's<br/>ready to fight me down the road."</p>
+      <p begin="00:21:47.541" end="00:21:51.090">They'd get these boxing matches <br/>going on in the neighborhood.</p>
+      <p begin="00:21:51.090" end="00:21:54.641">And Dustin did that, you know?<br/>And he, you know he was the best</p>
+      <p begin="00:21:54.641" end="00:21:57.223">out of all the little kids, the little guys that boxed.</p>
+      <p begin="00:21:57.223" end="00:22:00.769">Then there was this one guy that came<br/>to meet him at his gradma's</p>
+      <p begin="00:22:00.769" end="00:22:03.165">and said, "Well you haven't boxed<br/>me yet." </p>
+      <p begin="00:22:03.165" end="00:22:06.953">And Dustin, like, knocked out his teeth<br/>and broke his jaw.</p>
+      <p begin="00:22:06.953" end="00:22:08.702">And he was like 5 years \older than Dustin.</p>
+      <p begin="00:22:08.702" end="00:22:13.900">And we have to go to court for that. <br/>Yup!</p>
+      <p begin="00:22:13.900" end="00:22:20.397">He had a respect for the law but he didn't mind </p>
+      <p begin="00:22:20.397" end="00:22:22.545">having a run in with the law.</p>
+      <p begin="00:22:22.545" end="00:22:24.381">*That's when he started <br/>skipping school.*</p>
+      <p begin="00:22:24.381" end="00:22:29.451">*And ended up in juvenile courts <br/>and boot camp.*</p>
+      <p begin="00:22:29.451" end="00:22:32.593">*And juvenile jail and all of that stuff.*</p>
+      <p begin="00:22:32.593" end="00:22:35.754">[clicking]</p>
+      <p begin="00:22:35.754" end="00:22:41.661">-[Dustin] I definitely think fighting has <br/>open the path to redemption for me.</p>
+      <p begin="00:22:41.661" end="00:22:44.005">I mean I've tried--I've been in boot camp.</p>
+      <p begin="00:22:44.005" end="00:22:48.566">And juvenile detention,<br/>and programs and all these stuff.</p>
+      <p begin="00:22:48.566" end="00:22:49.667">They're suppose to help you.</p>
+      <p begin="00:22:49.667" end="00:22:51.125">And I mean, that didn't help, you know.</p>
+      <p begin="00:22:51.125" end="00:22:53.075">But when I found something<br/>that I wanted.</p>
+      <p begin="00:22:53.075" end="00:22:56.771">And I really was gonna chase no matter<br/>what road block was I front of me, </p>
+      <p begin="00:22:56.771" end="00:22:58.676">I would break it down and go get it.</p>
+      <p begin="00:22:58.676" end="00:23:00.681">This is a picture of me, <br/>right when I started training.</p>
+      <p begin="00:23:00.681" end="00:23:03.284">I was probably about 200 pounds<br/>in that picture.</p>
+      <p begin="00:23:03.284" end="00:23:07.676">Big transformation. <br/>Look way different man.</p>
+      <p begin="00:23:07.676" end="00:23:09.469">People I did, haven't seen me <br/>since I look like that.</p>
+      <p begin="00:23:09.469" end="00:23:11.315">The're like, don't even notice me<br/>sometimes.</p>
+      <p begin="00:23:11.315" end="00:23:16.817">- He's finally found, what he's been <br/>looking for all of this time.</p>
+      <p begin="00:23:17.023" end="00:23:19.534">*I know that he has been waiting<br/>his whole life.*</p>
+      <p begin="00:23:19.534" end="00:23:23.742">*To climb up somethin' <br/>and put his hands in the air.*</p>
+      <p begin="00:23:23.742" end="00:23:26.044">*Because he did it the best.*</p>
+      <p begin="00:23:27.582" end="00:23:31.947">- [Tim] As a kid in America.<br/>We don't learn about honor.</p>
+      <p begin="00:23:31.947" end="00:23:37.945">And integrity and dignity <br/>and compassion. </p>
+      <p begin="00:23:37.945" end="00:23:40.302">These lessons weren't taught<br/>to me. I learned math.</p>
+      <p begin="00:23:40.302" end="00:23:43.797">*You know I learned science. <br/>How to diagram a predicate* </p>
+      <p begin="00:23:43.797" end="00:23:45.668">*But I didn't know what honor was.*</p>
+      <p begin="00:23:45.668" end="00:23:51.118">*Martial arts is to develop the person.*</p>
+      <p begin="00:23:51.118" end="00:23:54.575">Your body, your mind and your spirit.</p>
+      <p begin="00:23:54.575" end="00:23:56.708">Everything is encompassed in that.</p>
+      <p begin="00:23:56.708" end="00:23:58.847">But an individual expression of that art,</p>
+      <p begin="00:23:58.847" end="00:24:01.424">is just that it's individualistic.</p>
+    </div>
+    <div>
+      <p begin="00:24:01.424" end="00:24:05.468">How I express my Jiu-Jitsu is different <br/>from how Erin expresses his.</p>
+      <p begin="00:24:05.468" end="00:24:08.396">Or Heath expresses his.<br/></p>
+      <p begin="00:24:08.396" end="00:24:10.319">And sometimes, some of that<br/>is gonna have to do, </p>
+      <p begin="00:24:10.319" end="00:24:11.686">with your background a little bit.</p>
+      <p begin="00:24:11.686" end="00:24:14.341">You know, how athletic you are.<br/>How athletic you're not.</p>
+      <p begin="00:24:14.341" end="00:24:18.065">Stop using muscles.<br/>Don't have any muscles really to use.</p>
+      <p begin="00:24:18.065" end="00:24:21.624">Now, don't use any pressure <br/>or any muscle. </p>
+      <p begin="00:24:21.624" end="00:24:23.031">I don't want you to do anything. </p>
+      <p begin="00:24:23.031" end="00:24:24.202">I just want you to grab his knee.</p>
+      <p begin="00:24:24.202" end="00:24:28.232">Now, unlock your hips, unlock. <br/>There we go.. Good!</p>
+      <p begin="00:24:28.232" end="00:24:32.186">Now, this elbow needs to come <br/>all the way down to the floor.</p>
+      <p begin="00:24:32.186" end="00:24:33.401">When you get tired.</p>
+      <p begin="00:24:33.401" end="00:24:35.928">Does strength work? <br/>- *Don't have anymore*</p>
+      <p begin="00:24:35.928" end="00:24:36.824">Does technique work?</p>
+      <p begin="00:24:37.931" end="00:24:41.482">Only way that can happen is if you <br/>technically beat the person.</p>
+      <p begin="00:24:41.482" end="00:24:43.162">Just like chess, same thing.</p>
+      <p begin="00:24:43.162" end="00:24:49.375">You know, all painters, you know,<br/>they use, you know, the same paints</p>
+      <p begin="00:24:49.375" end="00:24:52.095">and the same canvasses, <br/>and the same type of brushes.</p>
+      <p begin="00:24:52.095" end="00:24:57.153">But the paintings themselves. <br/>Are all just so different.</p>
+      <p begin="00:24:57.153" end="00:25:00.669">They're so beautiful <br/>and so glorious to watch.</p>
+      <p begin="00:25:00.669" end="00:25:05.375">When we fight that's where we make. <br/>our masterpieces.</p>
+      <p begin="00:25:05.375" end="00:25:13.018">[&#9834;music&#9834;]</p>
+      <p begin="00:25:13.018" end="00:25:14.083">[metal banging]</p>
+      <p begin="00:25:14.083" end="00:25:16.291">- *[Gil] Friday the 13th <br/>At the Lake Charles Civic Center*</p>
+      <p begin="00:25:16.291" end="00:25:20.070">*Where doing Boudoir number two. We're <br/>bringing in a lot of the Lafayette Gladiator Guys.*</p>
+      <p begin="00:25:20.070" end="00:25:24.167">*We're also havin' Dustin Poirier. In our <br/>main event and his fighting a guy*</p>
+      <p begin="00:25:24.167" end="00:25:25.597">*by the name of Ronnie Lis.*</p>
+      <p begin="00:25:25.597" end="00:25:27.645">*He's a brazilian Jiu-Jitsu black belt.* </p>
+      <p begin="00:25:27.677" end="00:25:30.326">*And he's gonna be <br/>a serious threat to Dustin.*</p>
+      <p begin="00:25:30.326" end="00:25:31.975">*And we've got Paul Swallow.* </p>
+      <p begin="00:25:31.975" end="00:25:34.943">*Taken on Albert Stainback <br/>in his pro debut.*</p>
+      <p begin="00:25:36.959" end="00:25:39.142">[plates clanging]</p>
+      <p begin="00:25:39.142" end="00:25:41.087">[Dustin] Right now.<br/>I'm just bussing tables and training.</p>
+      <p begin="00:25:41.087" end="00:25:45.117">And I like to train more, <br/>I'd like to fight more.</p>
+      <p begin="00:25:45.117" end="00:25:47.581">I wanna step up my career path.</p>
+      <p begin="00:25:47.581" end="00:25:52.661">Again not only as a fighter <br/>But to feel like I'm doing something.</p>
+      <p begin="00:25:52.661" end="00:25:58.028">Like becoming an adult I guess. <br/>Fighting for my job</p>
+      <p begin="00:25:58.028" end="00:26:01.061">[men talking]</p>
+      <p begin="00:26:01.061" end="00:26:02.808">- [Albert] This first pro fight. <br/>It's actually gonna pay my rent.</p>
+      <p begin="00:26:02.808" end="00:26:05.321">We're actually so behind on rent. <br/>It's not even funny.</p>
+      <p begin="00:26:05.321" end="00:26:07.398">And I really hope I'll win this fight.</p>
+      <p begin="00:26:07.398" end="00:26:09.468">We used to not be behind on rent. </p>
+      <p begin="00:26:09.468" end="00:26:11.426">My girlfriend is used to be a stripper. </p>
+      <p begin="00:26:11.426" end="00:26:14.084">And then like, like, you know, <br/>we'd eat sushi everyday. </p>
+      <p begin="00:26:14.084" end="00:26:18.172">And we'd freaking you know,<br/>go out of town and have fun. </p>
+      <p begin="00:26:18.172" end="00:26:21.972">You know, I kinda feel half of it is my fault-- </p>
+      <p begin="00:26:21.972" end="00:26:24.467">[train blowing it's horn]</p>
+      <p begin="00:26:25.950" end="00:26:28.283">- *[Tim] I have all kinds of guys<br/>come in here.*</p>
+      <p begin="00:26:28.283" end="00:26:30.375">Under the impression they're<br/>gonna be fighters.</p>
+      <p begin="00:26:30.375" end="00:26:35.966">And I think most guys do not realize,<br/>that this is a 40 hour week job.</p>
+      <p begin="00:26:35.966" end="00:26:37.684">This is a grind, you know? <br/></p>
+      <p begin="00:26:37.684" end="00:26:40.037">What makes great fighters<br/>and what makes great champions</p>
+      <p begin="00:26:40.037" end="00:26:42.391">Is the endurance to deal with the grind. </p>
+      <p begin="00:26:42.391" end="00:26:45.696">*You know its 5, 6 days a week of grinding. *</p>
+      <p begin="00:26:45.696" end="00:26:51.174">*2 or 3 hard practices per day out.*</p>
+      <p begin="00:26:52.175" end="00:27:35.008">&#9834; [music] &#9834;</p>
+      <p begin="00:27:35.008" end="00:27:36.982">- [Albert] Training with Tim has just--</p>
+      <p begin="00:27:36.982" end="00:27:38.241">it's helped my confidence<br/>a lot actually,</p>
+      <p begin="00:27:38.241" end="00:27:41.247">because he's the only guy <br/>I know who'll talk to me </p>
+      <p begin="00:27:41.247" end="00:27:43.222">like I talk to myself in my head. </p>
+      <p begin="00:27:43.307" end="00:27:45.577">And I know he's really just trying to push </p>
+      <p begin="00:27:45.577" end="00:27:47.121">and see the best "me" I can be.</p>
+      <p begin="00:27:47.121" end="00:27:51.925">&#9834; [music] &#9834;</p>
+      <p begin="00:27:51.925" end="00:27:55.488">*- [Tim] At the end of the day. <br/>MMA is an individual sport.*</p>
+      <p begin="00:27:55.488" end="00:27:57.910">*But it is also a team sport.*<br/></p>
+      <p begin="00:27:57.910" end="00:28:02.206">* I can't train myself alone.* <br/>*The bags do not hit back.*</p>
+      <p begin="00:28:11.283" end="00:28:13.376">[grunting]</p>
+      <p begin="00:28:14.825" end="00:28:15.579">[male voice] fuck!</p>
+      <p begin="00:28:15.579" end="00:28:18.435">- [Corey Judice] Tim will definitely let you know. <br/>If you're not showing up.</p>
+      <p begin="00:28:18.435" end="00:28:18.877">- *[Albert] * How he feels about it.</p>
+      <p begin="00:28:18.877" end="00:28:22.496">[punching] </p>
+      <p begin="00:28:28.733" end="00:28:34.971">[male voice] move, move, move.<br/>step out of there.</p>
+      <p begin="00:28:34.971" end="00:28:37.108">$$ Makes you feel better huh?</p>
+      <p begin="00:28:37.108" end="00:28:38.869">$$ come on..</p>
+      <p begin="00:28:38.869" end="00:28:41.571"> [man yelling] Hah!</p>
+      <p begin="00:28:41.571" end="00:28:42.902">[timer ringing]</p>
+      <p begin="00:28:42.902" end="00:28:44.233">- *[Tim] The expectations of our gym<br/>are not you have to win every fight.*</p>
+      <p begin="00:28:44.233" end="00:28:46.908">*You don't have to win every fight*</p>
+      <p begin="00:28:46.908" end="00:28:48.998">*But you do have to train for every fight.*</p>
+      <p begin="00:28:48.998" end="00:28:50.554">- [Tim] Pier, if you say something<br/>like that again.</p>
+      <p begin="00:28:50.554" end="00:28:53.851">You're out of the gym forever. <br/>Do you understand?</p>
+      <p begin="00:28:53.851" end="00:28:55.912">If you think I'm fucking here. <br/>To waste my fucking time on you. </p>
+      <p begin="00:28:55.912" end="00:28:58.347">You've lost your mind.</p>
+      <p begin="00:28:58.347" end="00:29:00.783">You don't do shit for me<br/>when I spar with you.</p>
+      <p begin="00:29:00.783" end="00:29:04.257">You ever say that to me again.<br/>You're out of the gym forever.</p>
+      <p begin="00:29:04.257" end="00:29:05.863">*You hear me?*<br/>- *[Pierre] Yes boss!*</p>
+      <p begin="00:29:05.863" end="00:29:08.151">*[Tim] You need to have some respect.*</p>
+      <p begin="00:29:08.151" end="00:29:11.578">*You need to understand, that while<br/>you have been doing.*</p>
+      <p begin="00:29:11.578" end="00:29:14.230">*Whatever it was you needed<br/>to be doing in your time.*</p>
+      <p begin="00:29:14.230" end="00:29:16.830">*We've been here working.*</p>
+      <p begin="00:29:17.107" end="00:29:21.184">*So don't be mad at me, <br/>or frustrated with me.*</p>
+      <p begin="00:29:21.184" end="00:29:23.788">*Because you're getting destroyed.*</p>
+      <p begin="00:29:23.788" end="00:29:27.062">*You'll found other things to do with <br/>your time than come to practice.*</p>
+      <p begin="00:29:28.107" end="00:29:32.615">You know Corey's fight in Baton Rouge, <br/>he took a horrendous beating.</p>
+      <p begin="00:29:32.615" end="00:29:35.189">You know he got beat on<br/>bad, you know.</p>
+      <p begin="00:29:35.189" end="00:29:40.295">- *[announcer] Making his way <br/>Into the red corner. Corey Judice*</p>
+      <p begin="00:29:40.295" end="00:29:44.592">- [Tim] When we go out there <br/>and the music's over.</p>
+      <p begin="00:29:44.822" end="00:29:47.769">*And you get in there <br/>and the door closes.*</p>
+      <p begin="00:29:47.800" end="00:29:49.359"> I'm not goin' in there with you.</p>
+      <p begin="00:29:50.204" end="00:29:54.580">*I can't save you. <br/>You have to save yourself.*</p>
+      <p begin="00:29:54.888" end="00:29:57.658">*Because the chances of you <br/>getting hurt in a fight*</p>
+      <p begin="00:29:57.658" end="00:30:02.733">before the fight ends are 100% in your career. </p>
+      <p begin="00:30:04.658" end="00:30:10.741">It is not acceptable to try to survive. <br/>You must be fighting to win.</p>
+      <p begin="00:30:10.741" end="00:30:15.414">You must be fighting to finish. <br/>'Cause once you give up, </p>
+      <p begin="00:30:15.414" end="00:30:18.966">the next 5 or 6 punches <br/>are gonna put you in the hospital.</p>
+      <p begin="00:30:18.966" end="00:30:21.837">You can never give up. </p>
+      <p begin="00:30:21.837" end="00:30:24.340">You must fight until you can't <br/>physically fight anymore.</p>
+      <p begin="00:30:24.340" end="00:30:26.709">Or until you win.</p>
+      <p begin="00:30:27.849" end="00:30:30.886">-*[announcer] In the red corner..<br/>Corey Judice*</p>
+      <p begin="00:30:30.886" end="00:30:32.564">[Crowd cheering]</p>
+      <p begin="00:30:36.815" end="00:30:38.438">[Tim] I'm glad he won the fight. <br/>And you know of course...</p>
+      <p begin="00:30:38.438" end="00:30:41.284">But I'm more proud that <br/>he made it through there.</p>
+      <p begin="00:30:41.284" end="00:30:43.838">You know... And he got beat<br/>up a little bit.</p>
+      <p begin="00:30:43.838" end="00:30:44.998">And he got black eye and stuff.</p>
+      <p begin="00:30:44.998" end="00:30:48.097">But you know, he was in some <br/>dangerous position a couple times.</p>
+      <p begin="00:30:48.097" end="00:30:52.934">And because of the fact that we live <br/>in dangerous position at the gym. </p>
+      <p begin="00:30:52.934" end="00:30:55.038">You know he was able<br/>to defend himself.</p>
+      <p begin="00:30:55.038" end="00:30:56.813">And he was able to get out.</p>
+      <p begin="00:30:56.813" end="00:30:59.742">And he was able to not sustain <br/>the type of damage.</p>
+      <p begin="00:30:59.742" end="00:31:02.584">That could have render him <br/>hurt really bad. </p>
+      <p begin="00:31:02.584" end="00:31:05.410">You know, and it's my responsibility<br/></p>
+      <p begin="00:31:05.410" end="00:31:07.453">to know they're ready to deal <br/>with what happen.</p>
+      <p begin="00:31:07.453" end="00:31:09.082">So, I just take it seriously and-- </p>
+      <p begin="00:31:09.082" end="00:31:11.678">but, I ain't sparred with the guy in 2 weeks. <br/>He's got fight this week.</p>
+      <p begin="00:31:11.678" end="00:31:14.669">You know sometimes.<br/>I'm too rough maybe...</p>
+      <p begin="00:31:14.669" end="00:31:17.057">And sometimes I go,<br/></p>
+      <p begin="00:31:17.057" end="00:31:18.372">you know, maybe over the line.</p>
+      <p begin="00:31:18.372" end="00:31:19.980">But you know what. <br/>They don't get hurt.</p>
+      <p begin="00:31:19.980" end="00:31:23.012">And they beat the crap <br/>out of people.</p>
+      <p begin="00:31:23.012" end="00:31:26.265">[gong clanging]</p>
+      <p begin="00:31:26.265" end="00:31:28.386">- [Albert ] My dad used to beat <br/>my mom. Senseless.</p>
+      <p begin="00:31:28.386" end="00:31:32.547">And and I always put that in my head <br/>whenever I think about certain things. </p>
+      <p begin="00:31:32.547" end="00:31:34.398">You know, when I go to my <br/>angry place. I guess. </p>
+      <p begin="00:31:34.398" end="00:31:38.771">He had my mom by the throat. <br/>He picked her up. </p>
+      <p begin="00:31:38.771" end="00:31:42.478">And blood was running down<br/>his arm out of her mouth. </p>
+      <p begin="00:31:42.478" end="00:31:44.655">'Cause he was like digging<br/>into her mouth with his thumbs. </p>
+      <p begin="00:31:44.655" end="00:31:46.297">And shit like that. </p>
+      <p begin="00:31:46.297" end="00:31:52.198">And then, [clears throat] ,<br/>my dad shot himself when I was 9. </p>
+      <p begin="00:31:52.198" end="00:31:55.991">And my mom went off <br/>on a big alcoholic binge. </p>
+      <p begin="00:31:55.991" end="00:31:59.136">So there was a lot of stuff that happened, </p>
+      <p begin="00:31:59.136" end="00:32:01.131">I guess, you could say that <br/>made me kinda wanna fight. </p>
+      <p begin="00:32:01.131" end="00:32:05.015">I honestly attribute me wanting to fight,</p>
+      <p begin="00:32:05.015" end="00:32:07.602">if I have to give some kind of<br/>Freudian guess at it,</p>
+      <p begin="00:32:07.602" end="00:32:10.328">It is to--I wanted to be a defender.</p>
+      <p begin="00:32:10.328" end="00:32:18.803">&#9834; [music] &#9834;</p>
+      <p begin="00:32:18.803" end="00:32:21.387"> I believe life is all about balance. </p>
+      <p begin="00:32:21.387" end="00:32:23.381">And violence is part of that balance.</p>
+      <p begin="00:32:23.381" end="00:32:29.109">[birds chirping]</p>
+      <p begin="00:32:29.109" end="00:32:30.773">- [Dustin] When somebody ask me.<br/>What you do for a living?</p>
+    </div>
+    <div>
+      <p begin="00:32:30.773" end="00:32:32.577">I don't say, *I'm a professional fighter.*</p>
+      <p begin="00:32:32.577" end="00:32:35.541">I say,"I work in Cane and Co.<br/>I drive a delivery truck."</p>
+      <p begin="00:32:35.541" end="00:32:38.677">You know, I can't lie to somebody <br/>and say "I'm a professional fighter."</p>
+      <p begin="00:32:38.677" end="00:32:41.585">I might make money doing it <br/>but is that my profession?</p>
+      <p begin="00:32:41.585" end="00:32:44.081">Is that what I do <br/>to provide for me and my wife?</p>
+      <p begin="00:32:44.081" end="00:32:45.815">I'm trying to make it that.</p>
+      <p begin="00:32:46.184" end="00:32:47.142">- [Jere Folley Chaisou] </p>
+      <p begin="00:32:47.142" end="00:32:50.430">Back then if you wrote left, <br/>they try to make you right with it.</p>
+      <p begin="00:32:50.430" end="00:32:51.447">- [Dustin Forrier] Do I always right left?<br/>- [Jere Folley Chaisou] Yeah.</p>
+      <p begin="00:32:51.447" end="00:32:52.303">- [Dustin Forrier] Really?<br/></p>
+      <p begin="00:32:52.303" end="00:32:53.069">Yup.</p>
+      <p begin="00:32:53.241" end="00:32:54.214">[Dustin Forrier] No way<br/></p>
+      <p begin="00:32:54.214" end="00:32:55.237">I'm telling you</p>
+      <p begin="00:32:55.237" end="00:32:56.948">He's accomplished so much. </p>
+      <p begin="00:32:57.671" end="00:33:04.991">He went from this alcoholic kid to, <br/>you know, professional fighter.</p>
+      <p begin="00:33:05.452" end="00:33:10.238">He owns his own home, he <br/>works just minimally,</p>
+      <p begin="00:33:10.238" end="00:33:13.061">Just a few hours. <br/>Just to keep his benefits.</p>
+      <p begin="00:33:13.061" end="00:33:17.796">He's my hero and he's gonna do it.<br/>I know that he is.. </p>
+      <p begin="00:33:18.118" end="00:33:19.735">He's gonna be amazing. <br/>He's gonna be a household name.</p>
+      <p begin="00:33:19.735" end="00:33:25.963">&#9834; [music] &#9834;</p>
+      <p begin="00:33:25.963" end="00:33:28.707">- [Gil] If you can't sell tickets<br/>I can't use you.</p>
+      <p begin="00:33:28.707" end="00:33:31.113">*[man on phone] Go down baby, <br/>go down.*</p>
+      <p begin="00:33:31.113" end="00:33:33.016">Because I can't make money. </p>
+      <p begin="00:33:33.016" end="00:33:36.938">If I gotta pay a fighter $15000, <br/>a $1000 to show up. </p>
+      <p begin="00:33:36.938" end="00:33:41.092">Another $1000 to win. But he can't <br/>sell worth $4000 worth of tickets.</p>
+      <p begin="00:33:41.092" end="00:33:44.327">*[man on phone] You should have <br/>- Will you pay somebody that hard. *<br/></p>
+      <p begin="00:33:44.327" end="00:33:46.459">Most of the time if they're really good. <br/>They won't show.</p>
+      <p begin="00:33:46.459" end="00:33:49.243">You know they just. They didn't know<br/>how to bring the crawl.</p>
+      <p begin="00:33:49.243" end="00:33:50.813">[man on phone] I - I know</p>
+      <p begin="00:33:50.813" end="00:33:53.188">The bite of my own ass<br/>part of it. Is that.<br/></p>
+      <p begin="00:33:53.188" end="00:33:55.915">I have to hyped that fighter<br/>up so much. </p>
+      <p begin="00:33:55.915" end="00:33:58.719">That they're friends and families <br/>start to make them believe it.</p>
+      <p begin="00:33:58.719" end="00:34:00.474">They start believing it. </p>
+      <p begin="00:34:00.474" end="00:34:03.222">They come to me,<br/>demanding more money. </p>
+      <p begin="00:34:03.222" end="00:34:05.542">Because they honestly believe<br/>that their worth it. </p>
+      <p begin="00:34:05.542" end="00:34:08.693">Because everyone else tells them <br/>that they're the 2nd coming. </p>
+      <p begin="00:34:08.693" end="00:34:12.042">And little do they know. <br/>You're not the 2nd coming.</p>
+      <p begin="00:34:12.042" end="00:34:14.140">You're exactly what I made you to be.</p>
+      <p begin="00:34:14.140" end="00:34:17.915">I've promoted you this way. <br/>I've made you this way.</p>
+      <p begin="00:34:17.915" end="00:34:21.086">I can take Gary Coleman and turn <br/>and take Gary Coleman. </p>
+      <p begin="00:34:21.086" end="00:34:22.594">And promote him properly.</p>
+      <p begin="00:34:22.594" end="00:34:25.600">And everybody will come to see<br/>Gary Coleman fight. </p>
+      <p begin="00:34:25.600" end="00:34:27.776">So you're no more special than he is. <br/>- *And you know what I'd make a killing*</p>
+      <p begin="00:34:27.776" end="00:34:30.872">*[man on phone] Cause he is - <br/>Looks phenomenal.*</p>
+      <p begin="00:34:30.872" end="00:34:33.338">- [Albert ] I'm the main event? <br/>- *[Gil] Not, you're semi.*</p>
+      <p begin="00:34:33.338" end="00:34:36.798">- [Albert] Oh semi, that's cool, <br/>open it up for Dustin always love it.<br/></p>
+      <p begin="00:34:36.798" end="00:34:38.640">- *[Gil] Need to... yeah... <br/>Need to provide...*</p>
+      <p begin="00:34:38.640" end="00:34:40.189">- *[male voice] Semi is what you are.*</p>
+      <p begin="00:34:40.189" end="00:34:40.845">- Semi pro.</p>
+      <p begin="00:34:40.845" end="00:34:42.613">- [male voice] Yup.<br/>- [Gil] Hep. B and C results.</p>
+      <p begin="00:34:42.613" end="00:34:44.863">- [male voice] &#9834; Love me sexy &#9834;</p>
+      <p begin="00:34:44.863" end="00:34:53.828">- [Gil] And HIV result no more than 6 month old.</p>
+      <p begin="00:34:53.828" end="00:34:56.130">- [Albert] I'd just ask you bout that. </p>
+      <p begin="00:34:56.130" end="00:35:01.722">I got some results but the 13th, <br/>they will be officially 3 days overdue.</p>
+      <p begin="00:35:01.722" end="00:35:04.452">Do you want me to go ahead and...?<br/>- [Gil] No, you have to.</p>
+      <p begin="00:35:04.452" end="00:35:07.053">Yeah, they're over 6 months.</p>
+      <p begin="00:35:10.020" end="00:35:11.979">- [Albert] I got you homes. <br/>You put "back" on there didn't you? </p>
+      <p begin="00:35:12.781" end="00:35:14.934">- [Gil] "Stain-back." <br/>- [Albert] There we go.<br/></p>
+      <p begin="00:35:14.934" end="00:35:17.127">- [Gil] And we'll make a copy of this <br/>if there's a machine in here.</p>
+      <p begin="00:35:17.127" end="00:35:19.165">But I don't think there is<br/></p>
+      <p begin="00:35:19.165" end="00:35:20.427">- [Albert] I'm sure if I'm gonna weigh in, <br/></p>
+      <p begin="00:35:20.427" end="00:35:24.772">I weigh in at 155 pounds. <br/>Got you, no problem.</p>
+      <p begin="00:35:24.772" end="00:35:27.564">[paper flipping] [pen screeching]</p>
+      <p begin="00:35:27.564" end="00:35:30.155">&#9834; [music] &#9834;</p>
+      <p begin="00:35:30.155" end="00:35:31.639">- [Dustin] I'm ready to do it.</p>
+      <p begin="00:35:31.639" end="00:35:34.505">I'm ready to fight. <br/>I'll fight tonight if I could.</p>
+      <p begin="00:35:34.505" end="00:35:37.326">If I have to fight tonight, <br/>I'd be ready to go.</p>
+      <p begin="00:35:37.326" end="00:35:40.667">Of course, after I drink a little bit <br/>and not be so dizzy.</p>
+      <p begin="00:35:40.667" end="00:35:43.836">I'm mentally ready to fight. <br/>Physically, hurting.</p>
+      <p begin="00:35:46.005" end="00:35:47.692">But this is part of it.</p>
+      <p begin="00:35:47.692" end="00:35:50.765"> The fight already started for me. <br/>This is the fight right now. </p>
+      <p begin="00:35:50.765" end="00:35:52.389">It's part of the fight</p>
+      <p begin="00:35:52.789" end="00:36:00.907">Tomorrow about 1 o'clock,12 o'clock. <br/>I'll be done. I'll be about 155.</p>
+      <p begin="00:36:00.907" end="00:36:04.176">Just gotta keep sweating.</p>
+      <p begin="00:36:04.176" end="00:36:17.438">&#9834; [music] &#9834; </p>
+      <p begin="00:36:18.392" end="00:36:22.567">[mans voice] stop! stop!</p>
+      <p begin="00:36:25.601" end="00:36:30.842">&#9834; [music] &#9834;</p>
+      <p begin="00:36:39.166" end="00:36:44.852">[people talking]</p>
+      <p begin="00:36:44.852" end="00:36:48.306">-* [Gil's wife] Let's see,<br/>say's the woman on the telephone *</p>
+      <p begin="00:36:48.306" end="00:36:50.076">wanted to know exactly what this,<br/>Louisiana versus Florida event was all about.</p>
+      <p begin="00:36:50.076" end="00:36:53.124">Telling her it was mixed martial arts <br/>Didn't seem to answer that question.</p>
+      <p begin="00:36:53.124" end="00:36:54.698">It's cage fighting,</p>
+      <p begin="00:36:54.698" end="00:36:57.703">Gillory said it wasn't to say the least <br/>what she wanted to hear. </p>
+      <p begin="00:36:57.703" end="00:37:00.640">She said, "That's disgusting.<br/>I wanna do everything in my power</p>
+      <p begin="00:37:00.640" end="00:37:04.393">"To make sure this never <br/>comes back here."</p>
+      <p begin="00:37:04.393" end="00:37:06.867">I don't know if that's good<br/>or bad but it starts off with that. </p>
+      <p begin="00:37:06.867" end="00:37:10.646">- *[Gil] It's good, all press is good.*</p>
+      <p begin="00:37:10.646" end="00:37:17.242">*All right, Dustin Poirier, main event <br/>155 pounds Gladiator Academy.*</p>
+      <p begin="00:37:17.242" end="00:37:21.688">- *[male voice] Hey, Gil. Grey wants to<br/>know where to get his ticket from?*<br/></p>
+      <p begin="00:37:21.748" end="00:37:23.994">* [Gil] One fifty-four point oh.*<br/><span tts:fontStyle="italic">Who?</span></p>
+      <p begin="00:37:23.994" end="00:37:24.886">- *[male voice] Grey.*<br/></p>
+      <p begin="00:37:24.886" end="00:37:26.415">- [Gil] Who's Grey? </p>
+      <p begin="00:37:26.415" end="00:37:27.744">No,no. Civic center.</p>
+      <p begin="00:37:27.744" end="00:37:29.670">*Ronnie, are you ready, bro?*<br/></p>
+      <p begin="00:37:32.113" end="00:37:37.208">- [Gil] One fifty three. Main event. <br/>Guys we got a fight.</p>
+      <p begin="00:37:37.208" end="00:37:39.217">- * [male voice] Yeah.*</p>
+      <p begin="00:37:39.217" end="00:37:42.676">-* [Gil] Semi main event, 155 pounds*<br/></p>
+      <p begin="00:37:42.676" end="00:37:44.887">- [Albert ] We're the semi! <br/>We're like the opening band.</p>
+      <p begin="00:37:44.887" end="00:37:45.983">-*[male voice] Yeah* </p>
+      <p begin="00:37:45.999" end="00:37:46.959">[phone ringing]</p>
+      <p begin="00:37:46.959" end="00:37:47.878">- *[Gil] . Who's that?*</p>
+      <p begin="00:37:47.878" end="00:37:50.760">- *[male voice] You're old man.*<br/>- *[Gil] Answer it.*</p>
+      <p begin="00:37:52.083" end="00:37:54.974">[men talking]</p>
+      <p begin="00:37:56.762" end="00:38:01.582">- [Gil] One fifty four point two.<br/>Okay, yeah, tell them thanks.</p>
+      <p begin="00:38:02.766" end="00:38:05.624">- *One fifty-two point eight.*</p>
+      <p begin="00:38:05.624" end="00:38:08.024">Good job boys.</p>
+      <p begin="00:38:10.022" end="00:38:12.266">[chewing]</p>
+      <p begin="00:38:12.619" end="00:38:15.871">- That's not monkey.</p>
+      <p begin="00:38:19.050" end="00:38:20.191">[slurping]</p>
+      <p begin="00:38:21.332" end="00:38:23.476">Oh God.</p>
+      <p begin="00:38:23.476" end="00:38:27.925">&#9834; [music] &#9834; <br/></p>
+      <p begin="00:38:27.925" end="00:38:32.032">- [foreign language]<br/>I'm a victor in 1 minute. <br/></p>
+      <p begin="00:38:32.032" end="00:38:33.663">Be careful my opponent</p>
+      <p begin="00:38:40.541" end="00:38:43.018">Dustin is gonna be in <br/>for a tough fight. </p>
+      <p begin="00:38:43.018" end="00:38:47.409">They wanted a tough opponent, <br/>I got them a tough opponents</p>
+      <p begin="00:38:47.409" end="00:38:49.870">So we're gonna see exactly <br/>what happens with them tomorrow.</p>
+      <p begin="00:38:55.079" end="00:38:59.429">- [Albert] For my first pro fight. I'll be <br/>making you know 500 show and five to win.</p>
+      <p begin="00:38:59.429" end="00:39:05.720">This is real now. This isn't <br/>some amateur fight. You know... </p>
+      <p begin="00:39:05.720" end="00:39:09.844">From every move I make from now on. <br/>Will determine if I can eat. </p>
+      <p begin="00:39:09.844" end="00:39:14.787">I know I have. You know, <br/>moments of worry. But...</p>
+      <p begin="00:39:16.479" end="00:39:19.151">When you step into that cage, <br/>you prove it to yourself.</p>
+      <p begin="00:39:19.151" end="00:39:21.150">And I've proven it to myself 17 times. </p>
+      <p begin="00:39:21.688" end="00:39:26.488">That I've got what it takes to do this. <br/>And I'm gonna do it.</p>
+      <p begin="00:39:28.425" end="00:39:30.521">- This is a mixed crowd. <br/>We're gonna have kids</p>
+      <p begin="00:39:30.521" end="00:39:31.755">We're gonna have ladies</p>
+      <p begin="00:39:31.755" end="00:39:34.391">We're gonna have <br/>lots of people here. </p>
+      <p begin="00:39:34.391" end="00:39:36.334">It's not gonna be in a bar room situation.</p>
+      <p begin="00:39:36.334" end="00:39:40.846">So keep you language down. I don't <br/>wanna hear any 4 letter words. Okay?</p>
+      <p begin="00:39:40.846" end="00:39:42.841">In an event you have to go<br/>to the hospital. <br/></p>
+      <p begin="00:39:42.841" end="00:39:45.090">Let the doctor determine if you're <br/>gonna go to the hospital or not. </p>
+      <p begin="00:39:45.090" end="00:39:46.062">Okay?</p>
+      <p begin="00:39:46.416" end="00:39:49.761">You discuss it with the doctor.If you <br/>feel bad, if you got a major injury. </p>
+      <p begin="00:39:49.761" end="00:39:51.967">You feel like you got something<br/>seriously wrong with you.</p>
+      <p begin="00:39:51.967" end="00:39:56.232">Let the doctor discuss that with the <br/>EMT's and the ambulance people.</p>
+      <p begin="00:39:56.232" end="00:39:58.138">And coordinate. </p>
+      <p begin="00:39:58.138" end="00:40:00.969">Don't just in an ambulance and <br/>say, "Take me to the hospital."</p>
+      <p begin="00:40:00.969" end="00:40:07.944">[beep, beep, beep]</p>
+      <p begin="00:40:16.233" end="00:40:20.047">- [Tim] There's an arrogance in Brazil,<br/>in a lot of levels. And--</p>
+      <p begin="00:40:20.047" end="00:40:24.909">When it comes to Jiu-Jitsu. I've been<br/>there a few times to train. And--</p>
+      <p begin="00:40:24.909" end="00:40:27.635">You know sometimes those guys<br/>since you know, Jiu-Jitsu kinda-- </p>
+      <p begin="00:40:28.235" end="00:40:31.682">really kinda started it all on a lot of levels.</p>
+      <p begin="00:40:31.729" end="00:40:34.580">They believe when they come over here,</p>
+      <p begin="00:40:34.580" end="00:40:37.231">we're just not necessarily ready for them.</p>
+      <p begin="00:40:37.231" end="00:40:42.528">And, you know, they're just gonna <br/>really show us what a real fighter is about. </p>
+      <p begin="00:40:42.528" end="00:40:47.174">And, you know that might have been the case <br/>many years ago,</p>
+      <p begin="00:40:47.174" end="00:40:50.515">but it's not the case anymore, you know... </p>
+      <p begin="00:40:50.515" end="00:40:52.595">Dustin's a young kid in <br/>South Louisiana.</p>
+      <p begin="00:40:52.595" end="00:40:55.048">But he's got 2 black belts <br/>at his disposal. </p>
+      <p begin="00:40:55.048" end="00:40:57.701">That he trains in regularly and coming to America </p>
+      <p begin="00:40:57.701" end="00:40:59.776">and fighting a guy who's never seen Jiu-Jitsu, <br/></p>
+      <p begin="00:40:59.776" end="00:41:03.146">It's not a real, not real scenario anymore.</p>
+      <p begin="00:41:03.146" end="00:41:07.358">And the fact the guys thinks that, <br/>indicates to me that,</p>
+      <p begin="00:41:07.358" end="00:41:10.812">Maybe he's not necessarily<br/>been around fighting for that-- </p>
+      <p begin="00:41:10.812" end="00:41:13.282">that long around here. </p>
+      <p begin="00:41:13.546" end="00:41:20.079">And I think that Dustin's opponent may<br/>need to learn that the hard way tonight.</p>
+      <p begin="00:41:20.940" end="00:41:23.272">- [Dustin] I just want to crack him on his chin.</p>
+      <p begin="00:41:24.131" end="00:41:26.082">[crowd cheering]</p>
+      <p begin="00:41:26.082" end="00:41:29.117">- [Gil] Jesus Christ! <br/>What have we got ourselves into?</p>
+      <p begin="00:41:29.117" end="00:41:32.540">[male voice] I know, I gotta have music go.</p>
+      <p begin="00:41:32.915" end="00:41:34.805">[crowd cheering] </p>
+      <p begin="00:41:34.805" end="00:41:36.633">[yelling]</p>
+      <p begin="00:41:37.451" end="00:41:41.857">&#9834; [music] &#9834; </p>
+      <p begin="00:41:58.730" end="00:42:04.068">[crowd clapping]</p>
+      <p begin="00:42:11.301" end="00:42:13.689">- What's on my mind? <br/>What's on my mind is I'm here to win. </p>
+      <p begin="00:42:13.689" end="00:42:16.306">You're in the way of my destiny. <br/>Get out of my way. <br/></p>
+      <p begin="00:42:16.306" end="00:42:19.190">I'm the better fighter. I'm here to win</p>
+      <p begin="00:42:20.297" end="00:42:22.060">[Gil] Use them hands, Albert</p>
+      <p begin="00:42:22.060" end="00:42:26.811">- [Tim] When Albert was kid I sure he <br/>never saw the lines in his color book. </p>
+      <p begin="00:42:26.811" end="00:42:32.354">His fighting is not neat, it's not pretty <br/>but he defintely colors the whole page. </p>
+      <p begin="00:42:32.354" end="00:42:37.473">Just like that kid you know. <br/>He fights hard, he never quits. </p>
+      <p begin="00:42:38.530" end="00:42:41.637">He fights to finish you. <br/>No matter what he fights to finish.</p>
+      <p begin="00:42:43.711" end="00:42:44.830">[crowd cheering]</p>
+      <p begin="00:42:44.830" end="00:42:46.753">- [Albert] When the fears of losing <br/></p>
+      <p begin="00:42:46.753" end="00:42:49.127">or the fears of not being able to <br/>pursue my career </p>
+      <p begin="00:42:49.127" end="00:42:52.269">or getting hurt start going to my head, </p>
+      <p begin="00:42:52.269" end="00:42:54.226">there's a voice in my head that says, <br/>you know, "What are you doing? </p>
+      <p begin="00:42:54.226" end="00:42:57.473">You could get hurt for life, <br/>you could fail."</p>
+      <p begin="00:42:57.796" end="00:43:01.051">You know, when that fear and doubt <br/>comes up, even that voice comes out. </p>
+      <p begin="00:43:01.051" end="00:43:03.653">It's almost like a person. <br/>I beat the fuck out of it.</p>
+      <p begin="00:43:03.653" end="00:43:07.150">You know, I'd kick it down the stairs. <br/>You know, I chain it to the basement.</p>
+      <p begin="00:43:07.150" end="00:43:09.113">Kick it a few more times for <br/>good measure. <br/></p>
+      <p begin="00:43:09.113" end="00:43:11.542">Then I head back upstairs<br/>and I lock that door.</p>
+      <p begin="00:43:11.542" end="00:43:17.112">Because I will not have that fear<br/>stop me from doing what I wanna do.</p>
+      <p begin="00:43:17.112" end="00:43:20.611">[crowd cheering]<br/></p>
+      <p begin="00:43:33.956" end="00:43:37.716">*[announcer] Stop picking accidents 350. <br/>One of the first three rounds*</p>
+      <p begin="00:43:37.716" end="00:43:41.428">*In the blue corner, <br/>representing Gladiators academy,*</p>
+      <p begin="00:43:41.428" end="00:43:43.790">*Albert Stainback!*</p>
+      <p begin="00:43:43.790" end="00:43:49.152">[crowd mixed cheering and booing]<br/></p>
+      <p begin="00:43:49.152" end="00:43:53.927">- Yeah, I'd love a rematch. <br/>I mean, I spent 4 and half minutes </p>
+      <p begin="00:43:53.927" end="00:43:57.126">on top of the guy. Pounded him out,<br/>trying to choke him. </p>
+      <p begin="00:43:57.126" end="00:44:01.502">Next time I'd make sure I'd do that <br/>for 15 minutes not just four and half. </p>
+      <p begin="00:44:01.502" end="00:44:06.984">You know, but what you gonna do? <br/>You don't complain about it. </p>
+      <p begin="00:44:06.984" end="00:44:09.257">You go back to the gym <br/>and start training.</p>
+      <p begin="00:44:09.257" end="00:44:11.116">- [announcer] Alright, ladies and <br/>gentlemen.</p>
+      <p begin="00:44:11.116" end="00:44:17.274">This your tenth and final bout--<br/>is the main event!</p>
+      <p begin="00:44:17.274" end="00:44:20.092">- [Dustin] It's just kinda crazy.<br/>I'm really nervous before. </p>
+      <p begin="00:44:20.092" end="00:44:21.473">Cause I've played the <br/>fight over my head.</p>
+      <p begin="00:44:21.473" end="00:44:22.380">Like this guy I'm about to fight.</p>
+      <p begin="00:44:22.380" end="00:44:25.519">Men, I've fought him a million times<br/>already In my head.</p>
+      <p begin="00:44:25.519" end="00:44:27.709">Just in this last month. You know? </p>
+      <p begin="00:44:27.709" end="00:44:30.367">I've beat him a million times. <br/>Already in my head.</p>
+      <p begin="00:44:31.305" end="00:44:33.515">[thud, thud, thud]</p>
+      <p begin="00:44:33.515" end="00:44:34.714">When it's time to walk out there <br/>to the cage. </p>
+      <p begin="00:44:34.714" end="00:44:37.714">It's just the time to actually do it.</p>
+      <p begin="00:44:37.714" end="00:44:39.313">I kinda feel full of joy.</p>
+      <p begin="00:44:39.313" end="00:44:43.860">Man, when I'm walking to the cage.<br/>I'm happy.</p>
+      <p begin="00:44:43.860" end="00:44:44.837">[Dustin] HAH!</p>
+      <p begin="00:44:46.328" end="00:44:52.180">- [announcer] Dustin Poirier. <br/>Three five minute rounds. </p>
+      <p begin="00:44:52.989" end="00:44:56.437">One fifty five pound weight division</p>
+      <p begin="00:44:57.677" end="00:44:59.672">&#9834; [music] &#9834;</p>
+      <p begin="00:45:01.979" end="00:45:05.124">[referee] Don't wanna fight.</p>
+      <p begin="00:45:07.929" end="00:45:10.144"> [crowd cheering]</p>
+      <p begin="00:45:10.667" end="00:45:13.303">-*[male voice] Aint got no stand up. *</p>
+      <p begin="00:45:15.677" end="00:45:17.131">[thud, thud, thud]</p>
+      <p begin="00:45:17.178" end="00:45:19.755">-*[Gil] Get him Dustin. Beautiful.*</p>
+      <p begin="00:45:19.755" end="00:45:23.725">[slam] <br/>Uhmp! Uhmp!</p>
+      <p begin="00:45:23.725" end="00:45:33.110">*[crowd screaming]*</p>
+      <p begin="00:45:33.278" end="00:45:38.168">[mans voice] Elbows hold them, <br/>elbow relax.</p>
+      <p begin="00:45:38.307" end="00:45:38.308"> [floor banging]</p>
+      <p begin="00:45:41.291" end="00:45:44.275">[crowd cheering]</p>
+      <p begin="00:45:44.517" end="00:45:48.939">[crowd yelling]</p>
+      <p begin="00:45:49.098" end="00:45:52.357">[man yelling] Get back up!</p>
+      <p begin="00:45:52.418" end="00:45:56.784">[crowd yelling] </p>
+      <p begin="00:45:56.861" end="00:45:59.499">[slam, slam, slam]</p>
+      <p begin="00:46:16.149" end="00:46:19.339">[Tim] Be more respectful next time<br/></p>
+      <p begin="00:46:24.013" end="00:46:26.908">- [Dustin] Hey K. Your hand pop. <br/>And pop, pop, pop!<br/></p>
+      <p begin="00:46:27.058" end="00:46:28.388">-* [referee] You're on the wrong side.*</p>
+      <p begin="00:46:28.990" end="00:46:32.205">- *[announcer] <br/>Fighters to the center of the ring. *</p>
+      <p begin="00:46:32.652" end="00:46:35.712">*We go to the official score card.* <br/></p>
+      <p begin="00:46:40.531" end="00:46:44.934">*You're winner after 354 seconds <br/>of the first round by way of tap out,*</p>
+      <p begin="00:46:44.934" end="00:46:49.337">*In the red corner Dustin Poirier!*<br/><br/></p>
+      <p begin="00:46:49.337" end="00:46:53.025">*[man talking] Dude, Jiu-jitsu <br/>was good.*</p>
+      <p begin="00:46:53.025" end="00:46:56.888">- [Dustin] Oh yeah, it was. I was <br/>ice skating through them heel hooks.<br/></p>
+      <p begin="00:46:57.320" end="00:46:59.277">He had it for a second <br/>a heel hook but I turned it over<br/></p>
+      <p begin="00:46:59.277" end="00:47:01.398">and he went into a knee bar.</p>
+      <p begin="00:47:01.398" end="00:47:02.120">- *[Tim] So how long did that take, <br/>Dustin?*</p>
+      <p begin="00:47:02.120" end="00:47:04.863">-Fifty seven seconds. What he said is, <br/>he's gonna beat me in a minute. </p>
+      <p begin="00:47:04.863" end="00:47:06.890">So you gotta watch out <br/>what you say sometimes. </p>
+      <p begin="00:47:06.890" end="00:47:08.917">You gotta eat your words you know.</p>
+      <p begin="00:47:08.917" end="00:47:15.578">- At his own game baby. <br/>Oh my God! Hey!</p>
+      <p begin="00:47:15.578" end="00:47:17.340">[Crowd laughing]</p>
+      <p begin="00:47:17.340" end="00:47:20.473">- History is written by the <br/>victor, ultimately--</p>
+      <p begin="00:47:20.568" end="00:47:22.936">I mean, because the losers dead.</p>
+      <p begin="00:47:22.936" end="00:47:25.442">He wants a rematch. <br/>So he wants me at my best. <br/></p>
+      <p begin="00:47:25.596" end="00:47:27.973">So I'll give him "Me" at my best.</p>
+      <p begin="00:47:28.067" end="00:47:29.600">I've noticed that when I'm not training. </p>
+      <p begin="00:47:29.600" end="00:47:32.517">And I'm not on the path <br/>to being a great fighter,<br/></p>
+      <p begin="00:47:32.517" end="00:47:34.594">like I want to be, <br/>like I tell everybody I want to be,</p>
+      <p begin="00:47:34.594" end="00:47:36.317">like I tell myself I want to be,</p>
+      <p begin="00:47:36.317" end="00:47:38.591">it seems that's when <br/>the bad shit in my life happens. </p>
+      <p begin="00:47:38.591" end="00:47:40.759">That seems like that's when all-- <br/>everything starts going to shit. </p>
+      <p begin="00:47:40.759" end="00:47:43.030">And when I'm doing what<br/>I'm suppose to be doing</p>
+      <p begin="00:47:43.030" end="00:47:46.794">to be a great fighter.<br/>Nothing can go wrong in my life.</p>
+      <p begin="00:47:46.794" end="00:47:52.667">&#9834; [drum beats] &#9834;</p>
+      <p begin="00:48:04.917" end="00:48:06.985">- [Gil] Hey guys! How ya all doin?</p>
+      <p begin="00:48:06.985" end="00:48:08.915">- Hey, we're doing a show at <br/>the Cajundome </p>
+      <p begin="00:48:08.915" end="00:48:10.843">for caged fighting on March 6. </p>
+      <p begin="00:48:10.843" end="00:48:14.739">I don't know if you're all into it but <br/>if you all are, please come by </p>
+      <p begin="00:48:14.739" end="00:48:16.728">and come by, check it out, okay?</p>
+      <p begin="00:48:16.728" end="00:48:17.901">All right you all.<br/></p>
+      <p begin="00:48:21.670" end="00:48:24.265">Remember how the circus would <br/>come to town when you're a kid?</p>
+      <p begin="00:48:24.481" end="00:48:27.742">They'd unload the animals at the train <br/>station and parade them through town. </p>
+      <p begin="00:48:27.742" end="00:48:29.516">They'd use the elephants as <br/>billboards. </p>
+      <p begin="00:48:29.516" end="00:48:32.672">They'd have the clowns and midgets<br/>walking behind creating excitement. </p>
+      <p begin="00:48:32.804" end="00:48:36.045">Well, I do the same thing, <br/>only my car is my elephant </p>
+      <p begin="00:48:36.045" end="00:48:38.001">and postcards are my midgets.</p>
+      <p begin="00:48:43.462" end="00:48:45.971">[crowd screaming] <br/>Throw me something!</p>
+      <p begin="00:48:55.325" end="00:48:57.859"> [whistle blowing] </p>
+      <p begin="00:49:02.135" end="00:49:10.433">&#9834; [band music] &#9834; </p>
+      <p begin="00:49:12.130" end="00:49:17.773">[thump, thump, thump]</p>
+      <p begin="00:49:19.432" end="00:49:35.506"> &#9834; [band music] &#9834; </p>
+      <p begin="00:49:43.633" end="00:49:52.600">[thud, thud, thud]</p>
+      <p begin="00:50:08.517" end="00:50:10.803">[muttering]</p>
+      <p begin="00:50:11.997" end="00:50:13.906">I'm fighting Derrick Krantz..</p>
+      <p begin="00:50:21.463" end="00:50:22.676">He's a pretty young, a year or two older than me. </p>
+      <p begin="00:50:22.676" end="00:50:23.889">I think he might be 22 years old<br/>He's got a lot of fights.</p>
+      <p begin="00:50:23.889" end="00:50:26.316">That doesn't intimidate me, you know?<br/>I know what my hands can do too.</p>
+      <p begin="00:50:26.316" end="00:50:28.340">I'm gonna meet him in the middle <br/>of the cage and we're gonna fight.</p>
+      <p begin="00:50:28.340" end="00:50:31.489">When you have two guys like that meet <br/>up in the cage in front of audience. </p>
+      <p begin="00:50:31.489" end="00:50:33.894">Man, you have no choice<br/>but to have a great fight.</p>
+      <p begin="00:50:33.894" end="00:50:38.818">And you know two guys who <br/>go at each other like that</p>
+      <p begin="00:50:38.818" end="00:50:41.009">neither of us is gonna back down.</p>
+      <p begin="00:50:41.009" end="00:50:43.200">And that's for sure you're gonna see <br/>fireworks you know. </p>
+      <p begin="00:50:43.200" end="00:50:46.052">It's gonna be great fight to watch.</p>
+      <p begin="00:50:48.628" end="00:50:51.552">- [Albert] As of late, you know <br/>I've been showing up at the gym </p>
+      <p begin="00:50:51.552" end="00:50:57.028">maybe three times a week and hitting two <br/>or three classes or one, you know.</p>
+      <p begin="00:50:57.166" end="00:51:01.044">So it's not been very well, like, I said,<br/>a lot of people go to the gym </p>
+      <p begin="00:51:01.044" end="00:51:02.487">and they train to get rid of stress.</p>
+      <p begin="00:51:03.102" end="00:51:05.061">And, I don't know. I'm just different.</p>
+      <p begin="00:51:05.061" end="00:51:08.332">You know when something is on my <br/>mind it's hard for me to train. </p>
+      <p begin="00:51:08.332" end="00:51:13.106">So that's been my problem lately. Just <br/>you know, lot of personal problems. </p>
+      <p begin="00:51:13.106" end="00:51:17.188">Relationship wise. You know, <br/>things aren't working out.</p>
+      <p begin="00:51:17.188" end="00:51:20.726">And like I said that's weight on me <br/>that I've been carrying into the gym. </p>
+      <p begin="00:51:20.726" end="00:51:26.069">I think the big problem was that <br/>I felt out of control with my last, </p>
+      <p begin="00:51:26.457" end="00:51:29.961">you know, the situation with Chelsea,<br/>with my ex-girlfriend and everything. </p>
+      <p begin="00:51:29.961" end="00:51:33.776">I felt very out of control and it just-- <br/>it bothered me. It threw me off. </p>
+      <p begin="00:51:34.022" end="00:51:37.638">But now, I'm in one of those situations <br/>where everything's up to me,</p>
+      <p begin="00:51:37.638" end="00:51:39.996">you know, if I don't have a place to live, <br/>that's on me.</p>
+      <p begin="00:51:39.996" end="00:51:44.530">If I don't win fights or I don't, you know <br/>I don't perform well, that's all on me.</p>
+      <p begin="00:51:44.530" end="00:51:48.703">You know, I don't have anything in my way<br/>that anyone else doesn't. </p>
+      <p begin="00:51:48.703" end="00:51:51.876">You know what I'm saying?</p>
+      <p begin="00:51:51.876" end="00:51:53.879"><br/>So let's see what happens.</p>
+      <p begin="00:51:53.879" end="00:51:55.002">[Door closing] </p>
+      <p begin="00:51:57.188" end="00:52:01.407">&#9834; [music] &#9834;</p>
+      <p begin="00:52:01.635" end="00:52:04.912">- *[Dustin] When you devout yourself <br/>to something like I do fighting,*</p>
+      <p begin="00:52:04.912" end="00:52:08.249">it just changes. It drowns out <br/>all the other stuff going on.</p>
+      <p begin="00:52:08.249" end="00:52:11.566">It kinda helps me focus on one thing, <br/>it's almost like natural now </p>
+      <p begin="00:52:11.566" end="00:52:13.473">to do the right things.</p>
+      <p begin="00:52:16.506" end="00:52:19.629">I'm really in touch with my body.<br/>I think my body knows when its time </p>
+      <p begin="00:52:19.629" end="00:52:21.175">to prepare for a fight.</p>
+      <p begin="00:52:21.302" end="00:52:24.624">And get it sharp and get it crisp <br/>and get it read to go to the battle.</p>
+      <p begin="00:52:24.962" end="00:52:27.568">When it's time to fight my weapons<br/>are ready.</p>
+      <p begin="00:52:28.829" end="00:52:31.834">- *[Tim] Albert and I missing his practice <br/>is all so crazy. *</p>
+      <p begin="00:52:31.834" end="00:52:35.719">He maybe came one time in three weeks <br/>and so, he call me today </p>
+      <p begin="00:52:35.719" end="00:52:38.527">and says he's not ready to fight, <br/>which he's not but I told him </p>
+      <p begin="00:52:38.527" end="00:52:45.074">he doesn't have the ability to pull out <br/>right now because it's up to Gil. </p>
+      <p begin="00:52:45.074" end="00:52:46.781">You already gave you word,<br/>it's two weeks outs. </p>
+      <p begin="00:52:46.781" end="00:52:49.108">You have another professional <br/>training to fight you.<br/></p>
+      <p begin="00:52:49.108" end="00:52:51.018">This isn't an amateur fight, you know?</p>
+      <p begin="00:52:51.018" end="00:52:53.657">There's another guy who's got<br/>money on the line </p>
+      <p begin="00:52:53.657" end="00:52:54.929">and bills on the line,</p>
+      <p begin="00:52:54.929" end="00:52:58.885">you just can't pull out on that guy <br/>because you had too much drama.</p>
+      <p begin="00:52:58.885" end="00:53:02.254">[train honking]</p>
+      <p begin="00:53:02.254" end="00:53:04.092">- Okay so he told you <br/>he still doesn't know </p>
+      <p begin="00:53:04.092" end="00:53:05.394">if he wants to fight or not?</p>
+      <p begin="00:53:05.394" end="00:53:05.834">- He doesn't want to or does he?<br/></p>
+      <p begin="00:53:05.834" end="00:53:07.775">- Here's the thing, <br/>just don't even talk to him no more.</p>
+      <p begin="00:53:07.775" end="00:53:08.718">- He talked to me, yeah.</p>
+      <p begin="00:53:08.718" end="00:53:12.404">- If you can find him, <br/>find Swallow an opponent,</p>
+      <p begin="00:53:12.404" end="00:53:13.212">- I can.</p>
+      <p begin="00:53:13.212" end="00:53:15.411">- then that guy needs<br/>to fight Paul.</p>
+      <p begin="00:53:15.411" end="00:53:16.535">- Okay that's none on--<br/></p>
+      <p begin="00:53:16.535" end="00:53:17.918">- If you can't fight Paul Swallow<br/>an opponent, </p>
+      <p begin="00:53:17.918" end="00:53:19.278">I'll make Albert fight, cause its--</p>
+      <p begin="00:53:19.278" end="00:53:22.351">I'm not gonna let Paul Swallow <br/>lose the fight.</p>
+      <p begin="00:53:22.351" end="00:53:23.030">- Right.<br/></p>
+      <p begin="00:53:23.030" end="00:53:26.855">- You know that, that has to be, <br/>you know, rewarded or penalized </p>
+      <p begin="00:53:26.855" end="00:53:29.043">on some level from a team <br/>perspective, you know?</p>
+      <p begin="00:53:29.043" end="00:53:32.536">[train honking]</p>
+      <p begin="00:53:35.059" end="00:53:37.061">- *[Gil] We all need to be on the <br/>same page, okay?*<br/></p>
+      <p begin="00:53:37.061" end="00:53:37.733">- Okay.</p>
+      <p begin="00:53:37.733" end="00:53:40.731">- Tim says that you're not fighting. </p>
+      <p begin="00:53:40.731" end="00:53:43.598">You're saying, you don't know <br/>if you're fighting.</p>
+      <p begin="00:53:43.598" end="00:53:46.235">I'm saying you better off not fighting, </p>
+      <p begin="00:53:46.235" end="00:53:49.621">I'm also saying that if you're <br/>gonna fight.</p>
+      <p begin="00:53:50.499" end="00:53:53.656">I understand, however, <br/>I don't recommend it</p>
+      <p begin="00:53:53.656" end="00:53:56.153">unless absolutely need <br/>the money, okay?</p>
+      <p begin="00:53:56.153" end="00:53:59.480">Tim asked me not to talk to you<br/>about it just, you know...</p>
+      <p begin="00:53:59.480" end="00:54:02.978">But I just wanted you and I to look at <br/>each other and be on the same page now.</p>
+      <p begin="00:54:02.978" end="00:54:05.511">I don't really think that you're mind is into it. </p>
+      <p begin="00:54:05.511" end="00:54:07.644">I don't know if you feel <br/>like you're letting me down <br/></p>
+      <p begin="00:54:07.644" end="00:54:10.517">because you're really not. <br/>So I need you to hear you say it,</p>
+      <p begin="00:54:10.517" end="00:54:13.211">"I'm not fighting."<br/>- That's really hard.</p>
+      <p begin="00:54:13.211" end="00:54:17.827">- But you gotta say it because<br/>I don't want there be any--just tell me </p>
+      <p begin="00:54:17.827" end="00:54:23.512">you're not fighting and then we'll get over it. <br/>See what I'm saying?</p>
+      <p begin="00:54:23.881" end="00:54:28.718">- Uh-huh. Give me--give me a day. <br/>Can I have a day? <br/></p>
+      <p begin="00:54:28.718" end="00:54:30.781">Or can I have this evening,<br/>the rest of this evening?</p>
+      <p begin="00:54:30.781" end="00:54:32.167">- Yeah, you can have the rest<br/>of this evening.</p>
+      <p begin="00:54:32.167" end="00:54:34.968">And there's no sweat off on<br/>nobody's back. Start fresh.</p>
+      <p begin="00:54:38.277" end="00:54:41.559">- *[Tim] We're gonna do little gloves<br/>today and Wednesday, okay?*</p>
+      <p begin="00:54:41.559" end="00:54:44.772">Just so we kinda take some <br/>of the heat off you guys</p>
+      <p begin="00:54:44.772" end="00:54:48.478">not beating each other up so bad, you know?</p>
+      <p begin="00:54:50.062" end="00:54:52.801">[timer rings]</p>
+      <p begin="00:54:54.831" end="00:54:56.356">[thud, thud, thud]</p>
+      <p begin="00:54:56.356" end="00:55:00.564">-*[male voice] Just grab one, June.<br/>Just grab one of his legs. Suck it up.**</p>
+      <p begin="00:55:03.210" end="00:55:05.191">Little lighter Fakroe. <br/>You gotta fight in two weeks.</p>
+      <p begin="00:55:05.191" end="00:55:06.775">Lighter. Slow down. <br/></p>
+      <p begin="00:55:10.508" end="00:55:15.869">Oh, Fakroe! Slow down! <br/>Go!</p>
+      <p begin="00:55:16.191" end="00:55:19.719">Shit! Control yourself. <br/>Fucking think this is? </p>
+      <p begin="00:55:19.719" end="00:55:22.435">[thud, thud, thud] <br/></p>
+      <p begin="00:55:26.496" end="00:55:27.853">[alarm beeps]</p>
+      <p begin="00:55:27.853" end="00:55:32.150">Great job! good work. We're there!</p>
+      <p begin="00:55:32.150" end="00:55:34.918">Just stick around.</p>
+      <p begin="00:55:34.918" end="00:55:39.781">Alby go with D. Let's go repair, <br/>you got 30 seconds.</p>
+      <p begin="00:55:41.088" end="00:55:49.455">[thud, thud, thud]</p>
+      <p begin="00:56:05.590" end="00:56:08.101">Get down! </p>
+      <p begin="00:56:14.910" end="00:56:17.201">-*[Tim] Bring him down.*</p>
+      <p begin="00:56:18.311" end="00:56:21.496">[heavy breathing]</p>
+      <p begin="00:56:23.079" end="00:56:24.971">[thud]</p>
+      <p begin="00:56:25.955" end="00:56:30.031"> -*[male] You gotta have to pay for it <br/>one way or another, might as well do it now.*</p>
+      <p begin="00:56:30.031" end="00:56:32.148">-*[male] Take it like a man, come on!*</p>
+      <p begin="00:56:32.148" end="00:56:34.579">-*[male] Keep your hands up, Albert.<br/>Come back to your face. *</p>
+      <p begin="00:56:35.532" end="00:56:39.797">[heavy breathing]</p>
+      <p begin="00:56:48.526" end="00:56:50.763">[beep]</p>
+      <p begin="00:56:50.763" end="00:57:10.982">&#9834; [music] &#9834;</p>
+      <p begin="00:57:11.953" end="00:57:16.887">- I'm thankful you know, <br/>for the ass beating I just received. </p>
+      <p begin="00:57:16.887" end="00:57:18.952">You know these guys are just trying<br/>to keep real with me. </p>
+      <p begin="00:57:18.952" end="00:57:21.154">They're just trying to show like, <br/>"*Hey, you need to be in the gym."* </p>
+      <p begin="00:57:21.154" end="00:57:24.543">You know after two rounds of sitting<br/>there and dying when--</p>
+      <p begin="00:57:24.543" end="00:57:26.558">You know, like Tim said, two months ago</p>
+      <p begin="00:57:26.558" end="00:57:29.995">I was killing almost everybody, <br/>you know. </p>
+      <p begin="00:57:29.995" end="00:57:35.182">So, this isn't the last opportunity I'll have. </p>
+      <p begin="00:57:35.535" end="00:57:39.900">And I--I really need to be thankful for that.</p>
+      <p begin="00:57:39.900" end="00:57:47.850">It's just, it sucks knowing <br/>that I let something like this go by.</p>
+      <p begin="00:57:47.850" end="00:57:51.930"> You know, it might be small, might be big,<br/>but it was there.</p>
+      <p begin="00:57:52.683" end="00:58:01.868">And I'm not one to--to like it <br/>when I screw up. </p>
+      <p begin="00:58:03.377" end="00:58:09.047">- *[Tim] In fighting, most of the time, <br/>you're, you're own worst enemy.*</p>
+      <p begin="00:58:09.047" end="00:58:10.778">*You know unfortunately, <br/>Albert beat himself.*</p>
+      <p begin="00:58:10.778" end="00:58:14.239"> &#9834; [music] &#9834;</p>
+      <p begin="00:58:16.029" end="00:58:19.274">*You know fighting is a microcosm for life.*</p>
+      <p begin="00:58:19.274" end="00:58:22.872">*The credit belongs to the person that's<br/>out there.*</p>
+      <p begin="00:58:22.872" end="00:58:25.577">*And the person that's putting <br/>themselves on the line*</p>
+      <p begin="00:58:25.577" end="00:58:29.137">*to do something, to be something. *</p>
+      <p begin="00:58:29.137" end="00:58:31.667">*To push their level and push who <br/>they are as a person*</p>
+      <p begin="00:58:31.667" end="00:58:34.439">* to greater and greater heights.*</p>
+      <p begin="00:58:34.893" end="00:58:38.770">[tap, tap, tap]</p>
+      <p begin="00:58:44.428" end="00:58:46.984">- *[Tim] For Dustin Poirier to lose,*</p>
+      <p begin="00:58:46.984" end="00:58:54.944">*It's gonna take someone to beat him <br/>but Dustin is not gonna beat himself.*</p>
+      <p begin="00:58:57.529" end="00:58:59.173">[thump]</p>
+      <p begin="00:58:59.299" end="00:58:59.994">[thud, thud, thud]</p>
+      <p begin="00:58:59.994" end="00:59:01.140">-*[male] Come on reach it*</p>
+      <p begin="00:59:05.939" end="00:59:08.396">- *[male voice] As you jab, <br/>that's a measuring stick.*</p>
+      <p begin="00:59:08.396" end="00:59:09.451">-*[Dustin] Reach you literally across--*<br/></p>
+      <p begin="00:59:09.451" end="00:59:12.430">-*[male voice] Well, yeah, but your jab <br/>is like a measuring stick.*</p>
+      <p begin="00:59:12.430" end="00:59:17.093">*That's what put you in position. <br/>That's where I'm gonna be, right there.*</p>
+      <p begin="00:59:17.093" end="00:59:21.496">-*[male voice] Everyone can walk, <br/>but then to be a run way model,*</p>
+      <p begin="00:59:21.496" end="00:59:23.743">*you have to learn how to walk.*</p>
+      <p begin="00:59:23.743" end="00:59:25.820">*He knows how to fight. *</p>
+      <p begin="00:59:25.820" end="00:59:28.543">*But he just possess an unbelievable <br/>amount of heart and determination.*</p>
+      <p begin="00:59:28.543" end="00:59:30.850">*And if you can give a fighter a <br/>heart and determination, *</p>
+      <p begin="00:59:30.850" end="00:59:32.946">*the sky's absolutely the limit. *</p>
+      <p begin="00:59:32.946" end="00:59:34.601">*'Cause this ultimately--* </p>
+      <p begin="00:59:34.601" end="00:59:37.606">*the MMA and the boxing's gonna end <br/>one day and they didn't learn anything*</p>
+      <p begin="00:59:37.606" end="00:59:42.395">* while they were boxing, <br/>then this was all done in vain.*</p>
+      <p begin="00:59:42.395" end="00:59:48.603">[thud, thud, thud]</p>
+      <p begin="00:59:55.843" end="00:59:57.398">-What make you hit those <br/>angles, you know?</p>
+      <p begin="00:59:57.398" end="00:59:59.496">- *[Gil] You're looking at that hook <br/>before you throw it.*</p>
+      <p begin="00:59:59.496" end="01:00:02.117">*I saw you doing it. You were doing <br/>this, *bam, bam*. *</p>
+      <p begin="01:00:02.117" end="01:00:03.909">*And you look at that hook before<br/>you threw it.*</p>
+      <p begin="01:00:03.909" end="01:00:05.798">- 'Cause I'm trying to keep<br/>my hook like-- </p>
+      <p begin="01:00:05.798" end="01:00:08.573">even with my head I'm trying not to <br/>arm it like I used to.</p>
+      <p begin="01:00:08.573" end="01:00:10.241">I used to throw hooks from here.<br/></p>
+      <p begin="01:00:10.241" end="01:00:11.536">-That's good. That's your hook.</p>
+      <p begin="01:00:11.536" end="01:00:13.370">- I'm thinking about it a little bit<br/>too much.</p>
+      <p begin="01:00:13.370" end="01:00:15.534">- You look good, you look good.</p>
+      <p begin="01:00:15.534" end="01:00:18.654">It's a good thing. A good thing that <br/>happen would be for the promotion</p>
+      <p begin="01:00:18.654" end="01:00:21.264">would be, if you'd lost. </p>
+      <p begin="01:00:21.264" end="01:00:24.588">-*[Gil] 'Cause if you lost then I could sell <br/>a rematch. *</p>
+      <p begin="01:00:24.588" end="01:00:31.502">If you win I can't sell a rematch. <br/>You know? </p>
+      <p begin="01:00:31.502" end="01:00:35.784">So, you want to make some real money. <br/>You'd get ready to lose. </p>
+      <p begin="01:00:35.784" end="01:00:38.534">- Shit! <br/>Everybody got their dreams.</p>
+      <p begin="01:00:38.534" end="01:00:40.173">No rematching buddy. <br/></p>
+      <p begin="01:00:44.498" end="01:00:47.473">&#9834; [music] &#9834;</p>
+      <p begin="01:00:47.846" end="01:00:51.238">- *[Gil] The family element is essential <br/>to us because USA-MMA is my family.*</p>
+      <p begin="01:00:51.238" end="01:00:55.148">*Me, my wife, my children <br/>and we all promote this event.*</p>
+      <p begin="01:00:55.148" end="01:00:59.317">*But when we're all together out there <br/>trying to enjoy a good day together.*</p>
+      <p begin="01:00:59.317" end="01:01:01.172">*And we're promoting the event *</p>
+      <p begin="01:01:01.172" end="01:01:03.023">*at the same time and people <br/>see me and and my wife,*</p>
+      <p begin="01:01:03.023" end="01:01:07.331">*my son, my daughter who is <br/>3 years old passing, off flyers,*</p>
+      <p begin="01:01:07.331" end="01:01:09.979">*it's not a gimmick, but it helps. *</p>
+      <p begin="01:01:09.979" end="01:01:16.169">*It helps people see that, *"Man! <br/>this is alright,"* you know?*</p>
+      <p begin="01:01:16.169" end="01:01:20.229">*"It could be okay. <br/>Lets go, lets give it a shot."*</p>
+      <p begin="01:01:20.229" end="01:01:21.995">[drum beating]<br/></p>
+      <p begin="01:01:21.995" end="01:01:23.811">- That's a big face.</p>
+      <p begin="01:01:23.811" end="01:01:27.549">-You see the face over there? <br/>Say, "Throw me something, mister"</p>
+      <p begin="01:01:27.549" end="01:01:31.319">-*[girl] Throw me something, mister.*<br/></p>
+      <p begin="01:01:31.319" end="01:01:36.690">That's a good stuff, the coins. Look. <br/>You got coins? Look, grab your coins.</p>
+      <p begin="01:01:37.106" end="01:01:38.180">Come on ya'all </p>
+      <p begin="01:01:38.949" end="01:01:40.761">-* [Gil] How long before we have to--*</p>
+      <p begin="01:01:40.761" end="01:01:42.420">- Oh you got, you got a couple<br/>of minutes.<br/></p>
+      <p begin="01:01:42.420" end="01:01:45.340">- I gotta wake my wife up, <br/>take the kids to school.</p>
+      <p begin="01:01:45.340" end="01:01:47.954">- We'll talk the aspect--<br/>- Hey!</p>
+      <p begin="01:01:47.954" end="01:01:48.478">-*[wife] Hi!*<br/></p>
+      <p begin="01:01:48.478" end="01:01:51.022">- Okay, just making sure, <br/>I'm about to go on camera-- <br/></p>
+      <p begin="01:01:51.022" end="01:01:53.893">- Tell us how good we look, <br/>tell us if we look good.</p>
+      <p begin="01:01:53.893" end="01:01:58.133">- Bob said to tell him if he looks good.<br/>Bye!</p>
+      <p begin="01:01:58.133" end="01:02:00.467">Alright bye!</p>
+      <p begin="01:02:00.467" end="01:02:02.173">- Alright, that was a look <br/>at Fitness first,</p>
+      <p begin="01:02:02.173" end="01:02:04.236"> 23 minutes after 6 o'clock, <br/>Wednesday morning</p>
+      <p begin="01:02:04.236" end="01:02:08.221">on Fox 2. <br/>Gill Guillory with USA-MMA. <br/></p>
+      <p begin="01:02:08.221" end="01:02:11.339">We are taking it up a notch this <br/>coming Saturday at the Cajundome.</p>
+      <p begin="01:02:11.339" end="01:02:13.256">- That's right<br/>- Who are we gonna see in action?</p>
+      <p begin="01:02:13.256" end="01:02:14.551">- Well, we're gonna see in the main event,</p>
+      <p begin="01:02:14.551" end="01:02:19.071">Derrick Krantz from Texas versus<br/>Dustin Poirier out of St. Martinville.</p>
+      <p begin="01:02:19.071" end="01:02:21.621">That's for our USA-MMA championship.</p>
+      <p begin="01:02:21.621" end="01:02:25.018">Paul Swallow from Lake Charles<br/>will be in, he'll be fighting also.</p>
+      <p begin="01:02:25.018" end="01:02:28.242">We have a ton of Gladiator <br/>guys that'll be fighting in the show.</p>
+      <p begin="01:02:28.242" end="01:02:29.814">Cajun karate guys fighting <br/>on the show. </p>
+      <p begin="01:02:29.814" end="01:02:32.070">We have people from <br/>Oklahoma,Dallas.</p>
+      <p begin="01:02:32.070" end="01:02:33.972">-* [Bob] All right, also, I'm gonna be the <br/>ring announcer.*</p>
+      <p begin="01:02:33.972" end="01:02:37.219">So mark that done, you know what date. </p>
+      <p begin="01:02:37.219" end="01:02:38.773">And of course, the all important, <br/>there's gonna be ring girls.</p>
+      <p begin="01:02:38.773" end="01:02:41.566">- We got ring girls but we have a <br/>special announcement today.</p>
+      <p begin="01:02:41.566" end="01:02:44.801">Our special guest ring girl will <br/>be Ms. Julie Darcy.</p>
+      <p begin="01:02:44.801" end="01:02:46.358">- [Bob] No. You don't wanna do that.</p>
+      <p begin="01:02:46.358" end="01:02:48.115">- *[Gil] I'm still nervous, <br/>I mean, you know,*</p>
+      <p begin="01:02:48.115" end="01:02:52.907">A show that cost you a $55,000, <br/>if I lose $55,000 I gotta go to work,</p>
+      <p begin="01:02:52.907" end="01:02:54.335">you know, I mean... </p>
+      <p begin="01:02:54.335" end="01:02:58.019">I'm not rich. I mean I work but<br/>I work for myself.</p>
+      <p begin="01:02:58.019" end="01:02:59.176">- *[Bob] Fifty-five thousand!*</p>
+      <p begin="01:02:59.176" end="01:03:02.022">- That's what it cost to put <br/>on a show, you know.</p>
+      <p begin="01:03:02.022" end="01:03:05.430">- [Bob] People have come to realize now<br/>that there's so much...</p>
+      <p begin="01:03:05.430" end="01:03:10.484">- [Gil] Right<br/>- You get what you paid for.</p>
+      <p begin="01:03:10.484" end="01:03:13.730">-[Tim] It's tough to make a living<br/>fighting. It's really tough.</p>
+      <p begin="01:03:15.760" end="01:03:19.422">Your entire career is controlled with <br/>your hands.</p>
+      <p begin="01:03:19.422" end="01:03:21.340">*You build your own destiny,*</p>
+      <p begin="01:03:21.340" end="01:03:25.411">*brick by brick, with you own <br/>hands. Fight by fight.*</p>
+      <p begin="01:03:27.425" end="01:03:34.698">I don't see martial arts <br/>as a career path. I see it as a lifestyle.</p>
+      <p begin="01:03:34.698" end="01:03:40.052">*I enjoy the fear, I enjoy the <br/>nervousness, I enjoy that.*</p>
+      <p begin="01:03:40.052" end="01:03:41.862">That's why I do this</p>
+      <p begin="01:03:41.862" end="01:03:47.580">The point of the entire thing <br/>is to build yourself into a better person.</p>
+      <p begin="01:03:47.580" end="01:03:50.996">Not to make yourself a richer person.</p>
+      <p begin="01:03:50.996" end="01:03:53.152">- [Dustin] I mean, I feel a lot of pressure <br/>with this fight. </p>
+      <p begin="01:03:53.152" end="01:03:56.065">Because I just signed that contract <br/>with Dinero Sports Marketing. </p>
+      <p begin="01:03:56.065" end="01:03:57.902">What is he gonna think if I'd <br/>lose this fight? </p>
+      <p begin="01:03:57.917" end="01:04:01.032">That's putting pressure on me thinking<br/>about that. That's why, if I lose this fight,</p>
+      <p begin="01:04:01.032" end="01:04:02.243">is my manager gonna say,</p>
+      <p begin="01:04:02.243" end="01:04:05.378">"Well, I think he's even ready to fight<br/>even tougher guys now."</p>
+      <p begin="01:04:05.378" end="01:04:07.498">When it come down to it. <br/>All I can do is fight</p>
+      <p begin="01:04:08.836" end="01:04:11.296">[thud, thud, thud]</p>
+      <p begin="01:04:11.496" end="01:04:16.487">- [male] Give me some more, <br/>Give me some more</p>
+      <p begin="01:04:16.944" end="01:04:20.470">- [Dustin] It's not hard to harm <br/>another person.</p>
+      <p begin="01:04:20.470" end="01:04:21.990">To knock another person out.</p>
+      <p begin="01:04:21.990" end="01:04:24.917">I mean this is a simple task that has<br/>to be done in the cage.</p>
+      <p begin="01:04:24.917" end="01:04:28.165">And just as simple as I can do it to you,<br/>you can do it to me.</p>
+      <p begin="01:04:28.165" end="01:04:32.670">- This guys coming to,<br/>basically, in Dustin's living room </p>
+      <p begin="01:04:32.670" end="01:04:35.595">at his home and trying to defeat him. </p>
+      <p begin="01:04:35.595" end="01:04:39.267">This is Dustin's house! <br/>This is Lafayette, Louisiana.</p>
+      <p begin="01:04:39.267" end="01:04:41.435">And it's his home where <br/>he was born and raised. </p>
+      <p begin="01:04:41.435" end="01:04:45.620">This guy can't come to Lafayette <br/>and win this fight. It's impossible!</p>
+      <p begin="01:04:45.774" end="01:04:47.562">-[Dustin] Anything can happen <br/>in fighting. </p>
+      <p begin="01:04:47.562" end="01:04:49.352">All it takes is one mistake, one punch. </p>
+      <p begin="01:04:49.352" end="01:04:53.059">Me knowing that. Makes me a little <br/>bit prepared for a good fight I think.</p>
+      <p begin="01:04:53.167" end="01:04:58.304">[birds chirping] </p>
+      <p begin="01:04:58.872" end="01:05:01.421">*I want this fight more than anything <br/>and I think about it 24 hours a day*</p>
+      <p begin="01:05:01.421" end="01:05:05.795">Derrick's fighting the best Dustin Poirier <br/>anybody has ever fought</p>
+      <p begin="01:05:05.795" end="01:05:07.710"> One sixty one on the money.</p>
+      <p begin="01:05:13.618" end="01:05:15.342">Six more pounds.<br/></p>
+      <p begin="01:05:15.342" end="01:05:17.034">*Fourteen pounds already*</p>
+    </div>
+    <div>
+      <p begin="01:05:17.245" end="01:05:22.348">Today's Thursday, four days, 14 pounds. <br/>You know I'm eating three times a day now.</p>
+      <p begin="01:05:22.348" end="01:05:25.647">While I'm cutting weight,<br/>only six to eight ounce piece of fish. </p>
+      <p begin="01:05:25.647" end="01:05:30.450">But still you know, put the little bit of sides<br/>but still that's way better, you know,</p>
+      <p begin="01:05:30.450" end="01:05:33.056">keep my body from breaking itself down.</p>
+      <p begin="01:05:40.476" end="01:05:46.310">Oh, man! Raw organic coconut butter. <br/>It's so horrible</p>
+      <p begin="01:05:46.310" end="01:05:50.564">I'm suppose to be takin these because<br/>I'm not eating any carbohydrates really.</p>
+      <p begin="01:05:50.564" end="01:05:53.780">Beside the Quiona, but that's not too many.</p>
+      <p begin="01:05:53.780" end="01:05:56.869">And your body needs energy <br/>so it doesn't break down the muscles.</p>
+      <p begin="01:05:56.869" end="01:05:57.752">[crackling]</p>
+      <p begin="01:06:06.643" end="01:06:09.879"> When I cut weight, <br/>I'd like to watch the food network.</p>
+      <p begin="01:06:09.879" end="01:06:15.788">Pretending I'm swimming in a pool<br/>of icing like that.</p>
+      <p begin="01:06:15.819" end="01:06:18.658">-*[mans voice] What else sounds good?*</p>
+      <p begin="01:06:18.658" end="01:06:23.016">How much time you got? </p>
+      <p begin="01:06:23.016" end="01:06:31.622"> I love ice cream. Like the cookies. <br/>Like ice cream sandwiches. What!</p>
+      <p begin="01:06:32.022" end="01:06:36.611">The make peanut butter one inside <br/>Wal-mart, between two chocolate things</p>
+      <p begin="01:06:36.611" end="01:06:40.958">The peanu-- <br/>the ice cream is peanut butter flavored.</p>
+      <p begin="01:06:41.050" end="01:06:44.801">I'd eat a whole box of 'em after I fight.</p>
+      <p begin="01:06:47.709" end="01:06:50.841">[men chattering]</p>
+      <p begin="01:07:03.184" end="01:07:06.926">- Hello, this is Gil. <br/>We have a ton of tickets, man. <br/></p>
+      <p begin="01:07:06.926" end="01:07:09.185">Grab about 50 of your friends<br/>and come on down</p>
+      <p begin="01:07:09.185" end="01:07:11.891">If we don't sell tickets. <br/>This house's is on the line.</p>
+      <p begin="01:07:11.891" end="01:07:14.470">*For us to be profitable, <br/>we have to do everything.*</p>
+      <p begin="01:07:14.578" end="01:07:16.848">*We have to do the lighting, <br/>ticket taking, ticket selling.*</p>
+      <p begin="01:07:16.848" end="01:07:20.560">*We have to do everything <br/>or we loose everything.*</p>
+      <p begin="01:07:20.560" end="01:07:25.642">- Whatever I'm wearing to fight. <br/>I have to put it inside a target bag.</p>
+      <p begin="01:07:25.642" end="01:07:26.837">Has to be target bag.<br/></p>
+      <p begin="01:07:26.837" end="01:07:33.944">I have to buy juicy fruity bubble gum <br/>and chew it the whole day before I fight.</p>
+      <p begin="01:07:33.944" end="01:07:37.646">I'd be fighting Derrick Krantz, my breath<br/>would be smelling like bubble gum</p>
+      <p begin="01:07:37.646" end="01:07:39.646">Mango flavored Walgreen's Pedialyte<br/>every time.</p>
+      <p begin="01:07:39.646" end="01:07:44.323">Not Pedialyte brand, Walgreen's brand. <br/>It taste like victory.</p>
+      <p begin="01:07:44.323" end="01:07:46.101">For the weigh-ins, I always have <br/>to buy new boxers</p>
+      <p begin="01:07:46.752" end="01:07:49.865">I think I'm on a roll with weighing in<br/>with a gray one's on.</p>
+      <p begin="01:07:49.865" end="01:07:53.262">So I think I'd probably wear these <br/>cause these are kinda cool</p>
+      <p begin="01:07:53.262" end="01:07:56.548">They have a black top and they're gray, <br/>so it's pretty cool.</p>
+      <p begin="01:07:56.548" end="01:07:58.897">I think I'll weigh-in with these on most likely.</p>
+      <p begin="01:07:59.066" end="01:08:03.509">Unless somethin' changes in my mind, <br/>I'd have to wear these.</p>
+      <p begin="01:08:03.509" end="01:08:07.550">We'll see. Otherwise I'm normal.</p>
+      <p begin="01:08:07.550" end="01:08:11.499">[tv playing]</p>
+      <p begin="01:08:11.499" end="01:08:14.633">- [Jere Folley Chaissou] It's a hard week<br/>for all of us, <br/></p>
+      <p begin="01:08:14.633" end="01:08:18.390">It's like, a year ago, <br/>yesterday, my mom died.</p>
+      <p begin="01:08:18.390" end="01:08:21.701">And I know that, that's been heavy on him <br/>very heavy. Very heavy.</p>
+      <p begin="01:08:21.701" end="01:08:26.143">Because she and I raised him <br/>by the skin of our teeth.</p>
+      <p begin="01:08:26.143" end="01:08:29.678">When he points up to heaven after he <br/>wins, he's pointing up to his grandma. </p>
+      <p begin="01:08:29.678" end="01:08:32.428">She's got the best seat in the house</p>
+      <p begin="01:08:32.651" end="01:08:35.698">&#9834; [music] &#9834;</p>
+      <p begin="01:08:35.698" end="01:08:37.433">- [Gil] Come a long way since the rodea<br/>arena's but, </p>
+      <p begin="01:08:37.433" end="01:08:41.365">we may go back to the rodeo arena.</p>
+      <p begin="01:08:41.365" end="01:08:44.389">The profit margin is so high <br/>on the rodeo arena, that--</p>
+      <p begin="01:08:44.389" end="01:08:46.807">that's what justifies going there<br/>in the first place.</p>
+      <p begin="01:08:46.807" end="01:08:49.596">So, if we get 5,000 people tomorrow night, <br/><br/></p>
+      <p begin="01:08:49.596" end="01:08:52.834">We'll be back. It just depends man, <br/>I'm scared.</p>
+      <p begin="01:08:52.834" end="01:08:53.934">Scared to death.</p>
+      <p begin="01:08:53.934" end="01:08:55.725">It's a big step you know.</p>
+      <p begin="01:08:55.725" end="01:09:05.403">-*[announcer] One fifty-five is the weight class.<br/>Derrick Krantz willl be up first.*</p>
+      <p begin="01:09:05.403" end="01:09:12.367"><br/>*One fifty-five point four.*</p>
+      <p begin="01:09:12.367" end="01:09:17.421">*Dustin Poirier, one fifty-five point four.*<br/></p>
+      <p begin="01:09:17.421" end="01:09:20.874">[audience clapping]</p>
+      <p begin="01:09:25.468" end="01:09:29.522">*One, two, three, four. <br/>One, two, three, four.* <br/></p>
+      <p begin="01:09:29.706" end="01:09:32.977">*One, two, one, two, one, two.* </p>
+      <p begin="01:09:33.326" end="01:09:35.362">*Let's - we may have to make some <br/>minor adjustments once again.*</p>
+      <p begin="01:09:35.362" end="01:09:38.355">-*[male] When was the last time <br/>you passed out?*</p>
+      <p begin="01:09:38.355" end="01:09:40.516">When was the last time you fought?</p>
+      <p begin="01:09:40.783" end="01:09:43.633">- This is your first fight? <br/>Never fought anywhere in Texas at all?<br/></p>
+      <p begin="01:09:43.633" end="01:09:44.864">-* [Gil] This is my man.*</p>
+      <p begin="01:09:44.864" end="01:09:49.676">*Derrick <span tts:fontStyle="italic">D-Rock</span> Krantz, here for the <br/>USA-MMA 155 pound title.*</p>
+      <p begin="01:09:49.676" end="01:09:53.598">Mr. Krantz, What is your projection<br/>for the main event this evening?</p>
+      <p begin="01:09:53.598" end="01:09:56.617">- I'll take a first round knock out any day.</p>
+      <p begin="01:09:56.617" end="01:09:59.653">- And become the USA-MMA <br/>155 pound champion</p>
+      <p begin="01:09:59.653" end="01:10:03.285">and hopefully move on to bigger <br/>and better things</p>
+      <p begin="01:10:03.285" end="01:10:04.377">Here and the near future.</p>
+      <p begin="01:10:04.377" end="01:10:07.758"> Derrick D. Krantz and Gil "The Thrill"<br/>Guillory checking out.</p>
+      <p begin="01:10:09.264" end="01:10:14.300">- We want everyone here <br/>from Lafayette Louisiana. </p>
+      <p begin="01:10:14.300" end="01:10:17.800">It's the USA-MMA champion on the line. <br/></p>
+      <p begin="01:10:17.800" end="01:10:27.709">Derrick Krantz will be going up against <br/>Dustin Poirier, Poirier</p>
+      <p begin="01:10:27.709" end="01:10:30.033">&#9834; [music] &#9834; </p>
+      <p begin="01:10:30.033" end="01:10:33.525">- We welcome you here to <br/>Cajun country.</p>
+      <p begin="01:10:33.602" end="01:10:36.672">[foreign language]</p>
+      <p begin="01:10:36.672" end="01:10:38.239">[crowd cheering]</p>
+      <p begin="01:11:02.994" end="01:11:07.613">- I'm proud of you, <br/>good work. Thank you, man.<br/></p>
+      <p begin="01:11:07.613" end="01:11:11.362">- Thank you, thank you very much. <br/>I can't breathe but it's all good.</p>
+      <p begin="01:11:11.362" end="01:11:16.180">Hey Bau. Hey Bau, are you okay?</p>
+      <p begin="01:11:16.180" end="01:11:20.073">- *[Bau] What? Just a broken nose.*</p>
+      <p begin="01:11:20.073" end="01:11:23.047">- [Gil] Bau's got a broken nose and <br/>swellling.</p>
+      <p begin="01:11:23.047" end="01:11:27.603">He got into war with a 260 pound<br/>guy and -- I mean...</p>
+      <p begin="01:11:27.603" end="01:11:30.114">He says his head hurt and they're <br/>trying to take him away in</p>
+      <p begin="01:11:30.114" end="01:11:32.336">an ambulance for a broken nose. </p>
+      <p begin="01:11:32.336" end="01:11:34.051">I'm like, "Dude, you're not going away<br/>in an ambulance.</p>
+      <p begin="01:11:34.051" end="01:11:35.965">Have your momma drive you to the<br/>hospital," you know. </p>
+      <p begin="01:11:35.965" end="01:11:38.756">It's like crazy. He'll be fine, <br/>it's just they'r scared you know. </p>
+      <p begin="01:11:38.756" end="01:11:40.525">They don't understand. They're scared.</p>
+      <p begin="01:11:40.525" end="01:11:43.305">He's never been beat like that. <br/>He's a fighter though.</p>
+      <p begin="01:11:43.305" end="01:11:45.669">He's fuckin' as tough as nails <br/>and he did what he could. </p>
+      <p begin="01:11:45.669" end="01:11:48.944">Baby girl, love of my life. </p>
+      <p begin="01:11:48.944" end="01:11:53.280">Come with daddy. <br/>wanna come with daddy. I love you,</p>
+      <p begin="01:11:53.280" end="01:11:55.654">wanna come work with me? <br/>Let's go work</p>
+      <p begin="01:11:55.654" end="01:12:01.951">[hard breathing] </p>
+      <p begin="01:12:01.951" end="01:12:04.402">- Dustin Poirier will hit Derrick<br/>Krantz so hard,</p>
+      <p begin="01:12:04.402" end="01:12:09.757">the alarm in the nearby bank<br/>will go off.</p>
+      <p begin="01:12:09.757" end="01:12:11.758">- *[Dustin] What you think?, It's perfect.*<br/>- [Tim] You're gonna need it.</p>
+      <p begin="01:12:11.758" end="01:12:16.502">[announcer calling]</p>
+      <p begin="01:12:16.502" end="01:12:23.827">- [Dustin] It's about to go down.<br/>- [Tim] I know.</p>
+      <p begin="01:12:23.827" end="01:12:30.298">- *[Gil] Many fans and family and friends<br/>do not understand the reality of fighting.* </p>
+      <p begin="01:12:30.298" end="01:12:33.434">- [announcer] Derrick D-rock. </p>
+      <p begin="01:12:33.434" end="01:12:37.002">*They immediately pawn off <br/>Dustin's opponent.*</p>
+      <p begin="01:12:37.002" end="01:12:40.123">*As if he's some person <br/>on a prison release program,*</p>
+      <p begin="01:12:40.123" end="01:12:41.803">*just coming here to get beat up.*</p>
+      <p begin="01:12:41.803" end="01:12:44.068">*And get some cigarettes <br/>or something. *</p>
+      <p begin="01:12:44.068" end="01:12:48.707">*This is another dangerous <br/>trained professional fighter,*</p>
+      <p begin="01:12:48.707" end="01:12:51.858">*who has finished a lot of individuals. *</p>
+      <p begin="01:12:51.858" end="01:12:56.763">*And he's coming here <br/>to destroy Dustin.*</p>
+      <p begin="01:12:58.885" end="01:13:13.735">&#9834; [music] &#9834; <br/></p>
+      <p begin="01:13:30.539" end="01:13:49.535">[crowd yelling and cheering]</p>
+      <p begin="01:13:49.535" end="01:13:53.036">- *[male] Let's work baby, hand's up <br/>chin down.*</p>
+      <p begin="01:13:55.304" end="01:13:57.643">[slamming on the floor]<br/></p>
+      <p begin="01:13:58.276" end="01:14:00.400">[crowd cheering]<br/></p>
+      <p begin="01:14:00.788" end="01:14:04.928">*[male] Use a clock face, <br/>use a clock face.*</p>
+      <p begin="01:14:06.711" end="01:14:10.452">*[man] Keep working it, keep working it*</p>
+      <p begin="01:14:11.191" end="01:14:21.497">-* [male] Lock it up, lock it up, grab <br/>your shit, keep the triangle.* </p>
+      <p begin="01:14:21.497" end="01:14:29.307">- *[male] Lock your right foot down. <br/>Lock your triangle and pull his hand.*</p>
+      <p begin="01:14:29.307" end="01:14:31.947">*[male] Grab the wrist. One more.*</p>
+      <p begin="01:14:31.947" end="01:14:35.095">- *[male] You your shit Dustin!*</p>
+      <p begin="01:14:35.095" end="01:14:42.228">- *[male] Close your guard, tighten it up.*<br/>- $$[Derrick] You are doing good.</p>
+      <p begin="01:14:42.228" end="01:14:45.803">- $$*[Dustin] Thank you.* <br/></p>
+      <p begin="01:14:45.803" end="01:14:47.715">-* [male] Keep working, control the wrist.* <br/></p>
+      <p begin="01:14:47.715" end="01:14:48.402">*Control the wrist,control the wrist*</p>
+      <p begin="01:14:48.402" end="01:14:51.782">- *[male] Off the bottom Dustin push your hips.*<br/></p>
+      <p begin="01:15:05.240" end="01:15:07.020"> [horn blowing]</p>
+      <p begin="01:15:07.604" end="01:15:09.997">- Stuck up, don't make <br/>me snap. You get out there and fight!</p>
+      <p begin="01:15:09.997" end="01:15:12.100">Put your chin on and go to work <br/>on this boy.</p>
+      <p begin="01:15:12.100" end="01:15:15.173">This boy does not want <br/>to be in the ring with you. </p>
+      <p begin="01:15:15.173" end="01:15:15.647">You hear what I'm telling you. <br/>You go to work! </p>
+      <p begin="01:15:15.647" end="01:15:17.389">- [Tim] He's taking you down <br/>for a reason. </p>
+      <p begin="01:15:17.389" end="01:15:20.678">You put it in your mind you gonna <br/>knock this mother fucker out. </p>
+      <p begin="01:15:20.678" end="01:15:22.351">You put your chin on, you put your<br/>hands up. You start throwing <span tts:fontStyle="italic">shots!</span></p>
+      <p begin="01:15:22.351" end="01:15:25.539">Make him punish this thing!</p>
+      <p begin="01:15:25.539" end="01:15:31.520">- *[male] Hand's up, chin down, bite down, <br/>bite them mouth piece, go to work.*</p>
+      <p begin="01:15:31.796" end="01:15:34.042">-*[male] Alright take him down.*</p>
+      <p begin="01:15:34.319" end="01:15:35.546">- [Tim] It just sometimes it feels like </p>
+      <p begin="01:15:35.546" end="01:15:38.486">my hearts gonna come out of my chest <br/>you know. </p>
+      <p begin="01:15:39.963" end="01:15:43.488">&#9834; [music] &#9834;<br/></p>
+      <p begin="01:15:43.488" end="01:15:46.169">[crowd cheering]<br/></p>
+      <p begin="01:15:46.169" end="01:15:49.635">[Tim] Work it now, work it, work it.</p>
+      <p begin="01:16:01.477" end="01:16:08.877">&#9834; [music] &#9834;<br/></p>
+      <p begin="01:16:20.063" end="01:16:24.095">- [Tim] Proud of you. <br/>You beat that thing.</p>
+      <p begin="01:16:24.095" end="01:16:25.414">You deserve it.</p>
+      <p begin="01:16:25.414" end="01:16:28.210">- [Tim] I know I don't say it, <br/>but I love these guys.</p>
+      <p begin="01:16:28.210" end="01:16:31.352">*[announcer] How about a round <br/>of applause for both fighters.*</p>
+      <p begin="01:16:31.352" end="01:16:32.451">
+        <span tts:fontStyle="italic">Wow!</span>
+      </p>
+      <p begin="01:16:32.451" end="01:16:34.237">[crowd cheering]</p>
+      <p begin="01:16:34.330" end="01:16:40.549">*Fighters to the center of the ring. *<br/></p>
+      <p begin="01:16:40.549" end="01:16:46.533">*Dustin Poirier!*</p>
+      <p begin="01:16:47.136" end="01:16:49.911">[crowd cheering]</p>
+      <p begin="01:16:51.260" end="01:17:09.554">&#9834; [music] &#9834; </p>
+      <p begin="01:17:09.554" end="01:17:12.255">- [Dustin] People will say <br/>this is a crazy dream </p>
+      <p begin="01:17:12.255" end="01:17:15.919">or like a fantasy dream <br/>that I'm chasing. </p>
+      <p begin="01:17:15.919" end="01:17:18.365">And I won't be able to do it, <br/>you know, what's their dream?</p>
+      <p begin="01:17:18.365" end="01:17:21.681">What are they gonna do <br/>with their life?</p>
+      <p begin="01:17:23.281" end="01:17:24.983">- *[Gil] I wish that when I was his age*.</p>
+      <p begin="01:17:24.983" end="01:17:28.451">* I had the ability to separate those things* <br/></p>
+      <p begin="01:17:28.451" end="01:17:30.520">*and get those bad things out of my life. *</p>
+      <p begin="01:17:30.520" end="01:17:35.235">*I didn't care man. I did--I partied and <br/>tried to burn the candle at both ends. *</p>
+      <p begin="01:17:35.235" end="01:17:36.827">He's not doing that. </p>
+      <p begin="01:17:36.827" end="01:17:38.366">When I look at Dustin, I look at </p>
+      <p begin="01:17:38.366" end="01:17:41.860">- and of course dangerous <br/>word again "<span tts:fontStyle="italic">potential</span>". </p>
+      <p begin="01:17:41.860" end="01:17:46.876">Potential to actually be something <br/>in this sport.</p>
+      <p begin="01:17:46.876" end="01:17:50.916">Twenty one with his mind on the game.</p>
+      <p begin="01:17:53.592" end="01:17:57.155">- *[Dustin] "Fortune favors are bold,"<br/>you know, Virgil said that.*</p>
+      <p begin="01:17:57.155" end="01:18:01.445">- So a kid that's 21 years old with <br/>15 fights and one loss.</p>
+      <p begin="01:18:01.445" end="01:18:05.519">Would for sure need to step out a little bit</p>
+      <p begin="01:18:05.519" end="01:18:08.223">and go fight <br/>in the major league organization</p>
+      <p begin="01:18:08.223" end="01:18:10.650">[crowd roaring]</p>
+      <p begin="01:18:10.650" end="01:18:22.599">- [male] Three combo, hus, hus, hus!<br/>Good. One combo.<br/></p>
+      <p begin="01:18:22.599" end="01:18:23.475">- [Dustin] Hus, hus, hus. hus!</p>
+      <p begin="01:18:23.475" end="01:18:26.045">&#9834; [music] &#9834; [</p>
+      <p begin="01:18:40.467" end="01:18:50.235">- [Dustin] It's for me and my wife<br/>and family.<br/></p>
+      <p begin="01:18:50.235" end="01:18:53.853">- [Gil] Somebody's dreams <br/>gonna get crushed tonight. </p>
+      <p begin="01:18:53.853" end="01:18:58.433">And we're fairly certain <br/>it's gonna be Derek Gauthier's dream. </p>
+      <p begin="01:18:58.433" end="01:19:03.060">*We're not here to crush Derrick <br/>or hurt Derrick*</p>
+      <p begin="01:19:03.060" end="01:19:07.232">*but we are here to put a yield sign<br/>in his dreams.*</p>
+      <p begin="01:19:07.232" end="01:19:09.374">-*[Tim] Just like we always say*. </p>
+      <p begin="01:19:09.374" end="01:19:11.929">*You could walk to the ring <br/>with a 100 chicks*</p>
+      <p begin="01:19:11.929" end="01:19:13.488">and have any nickname you want </p>
+      <p begin="01:19:13.488" end="01:19:15.479">*But once the door closes down. <br/>Ain't nobody coming to save you.* </p>
+      <p begin="01:19:15.479" end="01:19:18.814">*Nobody saves you. *</p>
+      <p begin="01:19:18.814" end="01:19:29.108">You got stitches, stitches? <br/>you get stitches? No? Let me see.</p>
+      <p begin="01:19:29.108" end="01:19:34.465">-* [Gil] It's important for a fighter <br/>mentally and spiritually ,*</p>
+      <p begin="01:19:34.465" end="01:19:36.701">to be able to walk into an <br/>enemy territory</p>
+      <p begin="01:19:36.701" end="01:19:40.540">and walk into a place where the cards<br/>are stacked against you.</p>
+      <p begin="01:19:40.540" end="01:19:44.978">And the crowd is cheering <br/>for the other opponent</p>
+      <p begin="01:19:44.978" end="01:19:47.964">and you were brought in to be beaten.</p>
+      <p begin="01:19:47.964" end="01:19:49.579">You were brought in <br/>to be championed against. </p>
+      <p begin="01:19:49.579" end="01:19:55.223">I've done this walk a couple of times <br/>and it changed me as a fighter.</p>
+      <p begin="01:19:55.223" end="01:20:02.935"> [crowd cheering]</p>
+      <p begin="01:20:02.935" end="01:20:06.007">- This is your destiny. <br/>Fuck this mother fucker's world up.</p>
+      <p begin="01:20:12.113" end="01:20:16.638">Let's go Dustin, <br/>let's get to business.</p>
+      <p begin="01:20:17.629" end="01:20:20.529">[crowd howling and whistling]</p>
+      <p begin="01:20:20.806" end="01:20:25.072">[referee]Watch the take down. <br/>hands up, chin down. Flurries. Fight!</p>
+      <p begin="01:20:25.072" end="01:20:29.324">[horn honking]</p>
+      <p begin="01:20:29.324" end="01:20:33.753">- *[Tim] Watch the kicks, <br/>watch out lets go! *</p>
+      <p begin="01:20:38.107" end="01:20:51.968">*Watch the horn shot coming out. <br/>Keep your jab hand up, buddy.*</p>
+      <p begin="01:20:51.968" end="01:20:55.703">*Good work! Good work! *</p>
+      <p begin="01:20:55.703" end="01:21:00.710">*Perfect, perfect. Protect with that<br/>glove. Show him the power*</p>
+      <p begin="01:21:00.710" end="01:21:09.535">*Watch - he's ahead of you. <br/>Heads up when you're throwing.*</p>
+      <p begin="01:21:09.535" end="01:21:14.970">*Touch him on the chin*</p>
+      <p begin="01:21:14.970" end="01:21:21.163">[punching] *Go for the throat!*</p>
+      <p begin="01:21:21.163" end="01:21:24.641">[crash on the floor] [crowd cheering] </p>
+      <p begin="01:21:24.641" end="01:21:33.277">- [Tim] Wazzup my baby, <br/>wazzup my baby, wazzup my baby</p>
+      <p begin="01:21:33.277" end="01:21:37.122">- [Albert] I love it.</p>
+      <p begin="01:21:37.122" end="01:21:49.585">&#9834; [music] &#9834;</p>
+      <p begin="01:21:49.585" end="01:21:57.444">[announcer] *The winner by knock out. <br/>Dustin Poirier!*</p>
+      <p begin="01:21:57.444" end="01:22:00.862">- [Albert] Beautiful!</p>
+      <p begin="01:22:00.862" end="01:22:03.978">- [Tim] Our main goal is not to <br/>win titles,</p>
+      <p begin="01:22:03.978" end="01:22:08.467">win championships <br/>and be the greatest. </p>
+      <p begin="01:22:10.560" end="01:22:12.926">We build better men</p>
+      <p begin="01:22:16.924" end="01:22:20.322">- *Four, three, two one.*</p>
+      <p begin="01:22:23.491" end="01:22:31.096">- [Coach] Albert Jordan, Alan Marg...<br/>Say it well so I can hear you. </p>
+      <p begin="01:22:31.096" end="01:22:34.690">*Albert Stainback.? *<br/>-I shot him. <br/><br/></p>
+      <p begin="01:22:34.690" end="01:22:49.773">[gong clanging]</p>
+      <p begin="01:22:49.773" end="01:22:52.303">[crowd clapping]</p>
+      <p begin="01:22:58.506" end="01:23:01.658">&#9834; [music] &#9834; </p>
+      <p begin="01:23:13.622" end="01:23:17.304">- *[announcer] Fighters to the middle <br/>of the ring.*</p>
+      <p begin="01:23:24.253" end="01:23:25.961">- All right let's hear some noise for our fighters.</p>
+      <p begin="01:23:25.961" end="01:23:28.437">Lets Make some noise.</p>
+      <p begin="01:23:28.437" end="01:23:37.917">In the red corner.. Dustin Poirrier, <br/>Albert Stainback, "Crazy" Tim Creuder,</p>
+      <p begin="01:23:39.305" end="01:23:49.280">Gil "The Thrill" Guillory, <br/>"Bad" Chad Brousou, Corey Judice.</p>
+      <p begin="01:23:49.280" end="01:23:57.085">And in the blue corner. Paul Swallow,<br/>Mike "The Truth" Jackson, </p>
+      <p begin="01:23:57.085" end="01:24:01.925">Joe Torres, Ronnie Lis,</p>
+      <p begin="01:24:01.925" end="01:24:09.227">Derrick "D-Rock" Krantz and <br/>Dereck "The Sex Machine" Gauthier. <br/></p>
+      <p begin="01:24:09.227" end="01:24:12.106">[foreign language]</p>
+      <p begin="01:24:15.630" end="01:24:23.467">&#9834; [music] &#9834;</p>
+      <p begin="01:25:10.956" end="01:25:14.626">And I'm your ring announcer,<br/>Bob Moore</p>
+    </div>
+  </body>
+</tt>

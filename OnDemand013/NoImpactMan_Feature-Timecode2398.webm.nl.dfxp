@@ -1,0 +1,1660 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="nl">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:23.974" end="00:00:27.978">- [Colin Beavan] We proberen in een stad <br/>te leven zonder het milieu te schaden</p>
+      <p begin="00:00:27.978" end="00:00:30.536">en ik schrijf erover in <span tts:fontStyle="italic">NoImpactMan.com.</span></p>
+      <p begin="00:00:37.028" end="00:00:41.658">We zagen simpelweg te veel bomen om. Om de<br/>aarde te redden hebben we bomen nodig.</p>
+      <p begin="00:00:43.160" end="00:00:45.191">En ijsberen.</p>
+      <p begin="00:00:46.580" end="00:00:50.496">Ik tracht mijn leven overeenkomstig<br/>mijn waarden te leven.</p>
+      <p begin="00:00:52.377" end="00:00:54.129">[Zucht] Oh shit!</p>
+      <p begin="00:00:54.129" end="00:01:07.934">&#9834; [muziek] &#9834;</p>
+      <p begin="00:01:07.934" end="00:01:10.604">*- [TV Presentator] Men is vastbesloten om<br/>de Amerikaanse levenswijze</p>
+      <p begin="00:01:10.604" end="00:01:13.273">te vervangen met windenergie en <br/>boomschors hamburgers.</p>
+      <p begin="00:01:13.273" end="00:01:14.441">[Lachend publiek]</p>
+      <p begin="00:01:14.441" end="00:01:17.402">Neem deze familie uit New York, de <br/>Beavans, die op dit moment vijf maanden</p>
+      <p begin="00:01:17.402" end="00:01:20.655">onderweg zijn in een missie om een jaar<br/>te leven zonder het milieu te schaden.</p>
+      <p begin="00:01:20.655" end="00:01:24.326">*De regels: geen WC papier, <br/>geen gloeilampen*</p>
+      <p begin="00:01:24.326" end="00:01:27.579">*of wegwerp scheermesjes, of <br/>tijdschriften, of kranten,*</p>
+      <p begin="00:01:27.579" end="00:01:31.541">*televisie, vliegtuigen, treinen, auto's,<br/>liften, plastic tassen*</p>
+      <p begin="00:01:31.541" end="00:01:34.377">*of voor nieuwe spullen winkelen.*</p>
+      <p begin="00:01:34.377" end="00:01:37.088">Ze vergiftigen het kapitalisme,<br/>en hier, om zichzelf te verdedigen</p>
+      <p begin="00:01:37.088" end="00:01:40.634">is de patriarch van deze eco-Mansons,<br/>Colin Beavan.</p>
+      <p begin="00:01:40.634" end="00:01:42.014">Mr. Beavan, dank voor uw komst vandaag.</p>
+      <p begin="00:01:42.014" end="00:01:44.346">[Publiek Juicht en Klapt]</p>
+      <p begin="00:01:44.346" end="00:01:49.267">- En hier is schrijver en zelfverklaarde<br/>No Impact Man, Colin Beavan.</p>
+      <p begin="00:01:49.267" end="00:01:53.319">- We beginnen vanavond met een man,<br/>zijn familie en een radicaal experiment</p>
+      <p begin="00:01:53.319" end="00:01:54.773">om de planeet te helpen.</p>
+      <p begin="00:01:54.773" end="00:01:56.359">*met meer dan 40% van de mensheid*</p>
+      <p begin="00:01:56.359" end="00:01:59.681">*er nu van overtuigd dat mensen een<br/>rol spelen in het broeikaseffect*</p>
+      <p begin="00:01:59.681" end="00:02:01.610">*- [Colin] Ik dacht: wat als ik nou<br/>gewoon probeer*</p>
+      <p begin="00:02:01.610" end="00:02:03.725">*om geen schade aan het<br/>milieu aan te richten,*</p>
+      <p begin="00:02:03.725" end="00:02:06.117">*Hoe zou dat voelen?*</p>
+      <p begin="00:02:06.117" end="00:02:08.700">*Is het mogelijk? Is het praktisch?*</p>
+      <p begin="00:02:08.700" end="00:02:12.535">[vliegtuig stijgt op]</p>
+      <p begin="00:02:16.044" end="00:02:32.143">[drukke straatgeluiden]</p>
+      <p begin="00:02:32.143" end="00:02:35.355">- Een van de dingen die ik, als <br/>schrijver, altijd al wilde</p>
+      <p begin="00:02:35.355" end="00:02:37.274">omdat mijn laatste twee boeken<br/>geschiedenisboeken waren,</p>
+      <p begin="00:02:37.274" end="00:02:40.443">om dit een soort actie van<br/>de schrijver te laten worden.</p>
+      <p begin="00:02:40.443" end="00:02:42.988">Op een bescheiden manier, wil <br/>ik het gevoel hebben</p>
+      <p begin="00:02:42.988" end="00:02:46.867">dat mijn schrijven de wereld helpt.</p>
+      <p begin="00:02:46.867" end="00:02:49.035">*In het komende jaar zullen mijn vrouw,<br/>mijn dochter en ik,*</p>
+      <p begin="00:02:49.035" end="00:02:50.494">*terwijl we midden in <br/>New York City wonen,*</p>
+      <p begin="00:02:50.494" end="00:02:52.064">*proberen om te leven*</p>
+      <p begin="00:02:52.064" end="00:02:54.510">*zonder enige netto schade<br/>aan het milieu te doen.*</p>
+      <p begin="00:02:54.510" end="00:02:58.503">Dit betekent dat we geen afval zullen<br/>veroorzaken of eten zullen weggooien,</p>
+      <p begin="00:02:58.503" end="00:03:01.506">geen kooldioxide uitstoten, dus geen<br/>auto's en niet vliegen;</p>
+      <p begin="00:03:01.506" end="00:03:04.259">geen giftige stoffen in het water zullen<br/>lozen, dus geen wasmiddel;</p>
+      <p begin="00:03:04.259" end="00:03:08.973">geen producten uit verre landen zullen<br/>consumeren: geen fruit uit Nieuw Zeeland.</p>
+      <p begin="00:03:08.973" end="00:03:12.017">En dan hebben we nog niet eens over:<br/>geen liften, geen metro,</p>
+      <p begin="00:03:12.017" end="00:03:15.145">geen verpakte producten, geen plastic,<br/>geen airconditioning, geen TV, geen krant.</p>
+      <p begin="00:03:15.145" end="00:03:16.605">Bla bla bla bla.</p>
+      <p begin="00:03:16.605" end="00:03:20.901">Nou ja, dat is min of meer een<br/>samenvatting van ons project.</p>
+      <p begin="00:03:20.901" end="00:03:23.194">&#9834; [muziek] &#9834;</p>
+      <p begin="00:03:23.194" end="00:03:34.549">[drukke straatgeluiden</p>
+      <p begin="00:03:36.086" end="00:03:39.294">*- [Michelle Conlin] Colin vertelde<br/>me over het project*</p>
+      <p begin="00:03:39.294" end="00:03:44.341">*en mijn eerlijke reactie? Ik was heel<br/>blij met het feit dat hij een idee had*</p>
+      <p begin="00:03:44.341" end="00:03:46.802">*waar hij zelf zo enthousiast over was.*</p>
+      <p begin="00:03:46.802" end="00:03:50.138">*Dat was het allerbelangrijkste.*</p>
+      <p begin="00:03:50.138" end="00:03:51.464">En ik dacht, als we al deze<br/>dingen gaan doen,</p>
+      <p begin="00:03:51.464" end="00:03:53.366">waarom voegen we daar dan niet<br/>mijn twee huidige verslavingen aan toe,</p>
+      <p begin="00:03:53.366" end="00:03:56.982">namelijk winkelen en reality TV?</p>
+      <p begin="00:03:57.938" end="00:04:02.067">Ik ben een reality TV-fan,<br/>verslaafd en expert.</p>
+      <p begin="00:04:02.067" end="00:04:03.693">- *Kijk eens naar haar gezicht.*</p>
+      <p begin="00:04:03.693" end="00:04:04.861">[Lachen]</p>
+      <p begin="00:04:04.861" end="00:04:09.157">*Ze kijkt van: alsof jij niet verslaafd<br/>zou raken.*</p>
+      <p begin="00:04:09.157" end="00:04:11.117">- Het is goed.</p>
+      <p begin="00:04:11.117" end="00:04:14.746">Ik heb een intense relatie met winkels.</p>
+      <p begin="00:04:14.746" end="00:04:16.957">Catherine Malandrino sample sale.</p>
+      <p begin="00:04:16.957" end="00:04:20.168">Jean Paul Gaultier is geweldig, ik zie jou<br/>wel rond middernacht,</p>
+      <p begin="00:04:20.168" end="00:04:22.337">en dan dineren we 2 uur 's ochtends.</p>
+      <p begin="00:04:22.337" end="00:04:23.880">En Marc Jacobs zegt:</p>
+      <p begin="00:04:23.880" end="00:04:28.598">"Ik ben getrouwd, ik ben een moeder, maar<br/>ik probeer het nog steeds,"</p>
+      <p begin="00:04:28.613" end="00:04:31.599">Ik ben het vruchtenbrood, verslaafd<br/>aan ma&#239;s siroop verslaafde,</p>
+      <p begin="00:04:31.599" end="00:04:36.810">je weet wel, TV verslaafd,<br/>vleesetend meisje.</p>
+      <p begin="00:04:36.810" end="00:04:39.773">Ik was bepaald geen milieu-activiste.</p>
+      <p begin="00:04:39.773" end="00:04:42.732">Ik zou zeggen dat ik een typische,<br/>consumerende -</p>
+      <p begin="00:04:42.732" end="00:04:44.985">Ik consumeer.</p>
+      <p begin="00:04:44.985" end="00:04:47.713">Ik ben een take-out junkie.</p>
+      <p begin="00:04:49.236" end="00:04:51.008">- Je was er bang voor om niet te kunnen -<br/>of, niet te hebben.</p>
+      <p begin="00:04:51.008" end="00:04:52.343">- een jaar lang niet te consumeren.</p>
+      <p begin="00:04:52.343" end="00:04:54.058">*- Ja, ik had zoiets van: ja hoor!*</p>
+      <p begin="00:04:54.074" end="00:04:55.662">- Dus jij had zoiets van, jij probeert<br/>een jaar consumeren in een week te doen.</p>
+      <p begin="00:04:55.662" end="00:04:58.331">*- Ik besteedde mijn salaris.*</p>
+      <p begin="00:04:58.331" end="00:05:00.291">Laarzen van Chloe waren duur.</p>
+      <p begin="00:05:00.291" end="00:05:01.334">*- Hoe duur?*</p>
+      <p begin="00:05:01.334" end="00:05:03.128">- Tot op zekere hoogte heb<br/>ik een hekel aan mijzelf.</p>
+      <p begin="00:05:03.128" end="00:05:04.504">*- Maar kun je mij vertellen hoe duur?*</p>
+      <p begin="00:05:04.504" end="00:05:07.674">- Het is misselijkmakend.<br/>Het is, het is gewoon...</p>
+      <p begin="00:05:07.674" end="00:05:09.968">Ik kan het niet. Ik schaam me ervoor.</p>
+      <p begin="00:05:09.968" end="00:05:13.221">[Colin lacht]</p>
+      <p begin="00:05:13.221" end="00:05:14.973">Dit was, je weet wel, <br/>op het laatste nippertje.</p>
+      <p begin="00:05:14.973" end="00:05:16.224">- Ja, je liet je gaan. Ik snap het.</p>
+      <p begin="00:05:16.224" end="00:05:17.684">- Ja! En dat was de rekening.</p>
+      <p begin="00:05:17.684" end="00:05:20.495">- Ik snap het. Ik moest lachen omdat<br/>het zo belangrijk was voor je.</p>
+      <p begin="00:05:20.538" end="00:05:22.368">*- als consument moest dat gewoon.*</p>
+      <p begin="00:05:22.647" end="00:05:23.481">- OK.</p>
+      <p begin="00:05:23.481" end="00:05:28.445">- Al mijn geld ging naar onnozele dingen.</p>
+      <p begin="00:05:28.445" end="00:05:29.946">*- Het maakt mij niet uit <br/>hoeveel je uitgeeft.*</p>
+      <p begin="00:05:29.946" end="00:05:32.741">Maar deze uitgaven <br/>hadden te maken met...</p>
+      <p begin="00:05:32.741" end="00:05:33.533">- Je project.</p>
+      <p begin="00:05:33.533" end="00:05:36.369">- No Impact. Ik dacht dat<br/>het ons project was.</p>
+      <p begin="00:05:36.369" end="00:05:37.120">- Oh ja.</p>
+      <p begin="00:05:37.120" end="00:05:38.663">Het is "No Impact Man."</p>
+      <p begin="00:05:38.663" end="00:05:41.708">Het is zijn boek en zijn project<br/>en hij is "No Impact Man"</p>
+      <p begin="00:05:41.708" end="00:05:46.379">maar in feite, het is ons hele gezin<br/>dat het project doet.</p>
+      <p begin="00:05:46.379" end="00:05:58.099">[trein gaat voorbij]</p>
+      <p begin="00:05:58.099" end="00:05:59.955">- Twee weken geleden, op<br/>de eerste dag van het project,</p>
+      <p begin="00:05:59.955" end="00:06:03.618">besloten we geen kooldioxide<br/>uitstotend vervoer meer te nemen,</p>
+      <p begin="00:06:05.231" end="00:06:11.246">*wat dus betekent: geen vliegtuigen,<br/>geen metro, geen taxis, geen lift.*</p>
+      <p begin="00:06:12.200" end="00:06:14.032">*Mensen zeggen: "moet dat <br/>echt zo extreem?"</p>
+      <p begin="00:06:14.032" end="00:06:16.117">*want niet iedereen zal<br/>zulke extreme maatregelen nemen*</p>
+      <p begin="00:06:16.117" end="00:06:19.485">maar het gaat erom om het volledige<br/>spectrum te ervaren</p>
+      <p begin="00:06:19.485" end="00:06:23.094">en zo te ontdekken wat mensen<br/>bereid zijn op te geven.</p>
+      <p begin="00:06:23.094" end="00:06:26.419">Zodat we kunnen ontdekken wat we<br/>kunnen behouden.</p>
+      <p begin="00:06:26.419" end="00:06:28.379">Wat we niet zijn, wat te moeilijk<br/>was, wat niet te moeilijk was.</p>
+      <p begin="00:06:33.510" end="00:06:37.305">*Het paradigme is verminderen,<br/>hergebruiken, recyclen.*</p>
+      <p begin="00:06:37.305" end="00:06:39.474">*En eerst komst dus verminderen.*</p>
+      <p begin="00:06:39.474" end="00:06:41.570">*Het verminderen van onze<br/>consumptie, toch?*</p>
+      <p begin="00:06:41.893" end="00:06:43.978">*En ik denk dan, weet je,*</p>
+      <p begin="00:06:43.978" end="00:06:48.608">*"Ik kan natuurlijk niet zonder dit<br/>of dat doen."*</p>
+      <p begin="00:06:48.608" end="00:06:52.796">*Maar het idee is dan van,<br/>ok, ik ga het gewoon zonder doen.*</p>
+      <p begin="00:06:52.796" end="00:06:53.384">[hond blaft]</p>
+      <p begin="00:06:53.384" end="00:06:54.447">- Kom eens naar de TV kijken.<br/>Hoe groot de TV is.</p>
+      <p begin="00:06:54.447" end="00:06:55.657">- Ja, kom binnen.</p>
+      <p begin="00:06:55.657" end="00:06:57.617">- Wat gebeurde?</p>
+      <p begin="00:06:57.617" end="00:06:59.151">- Ze gaan de TV weghalen.</p>
+      <p begin="00:06:59.151" end="00:07:00.621">*-Frame uit.*</p>
+      <p begin="00:07:00.621" end="00:07:01.703">[kind jammert]</p>
+      <p begin="00:07:01.703" end="00:07:02.829">*-en we gaan gewoon geen TV hebben.*</p>
+      <p begin="00:07:02.829" end="00:07:05.404">We zullen gewoon TV-loze mensen zijn</p>
+      <p begin="00:07:05.404" end="00:07:06.152">- Ja.</p>
+      <p begin="00:07:06.152" end="00:07:08.791">- Mama is een beetje verslaafd aan de TV.</p>
+      <p begin="00:07:08.791" end="00:07:10.289">[hond blaft]</p>
+      <p begin="00:07:12.902" end="00:07:15.218">*- Deze zomer word ik 40 en ik <br/>had het gewoon zo druk,</p>
+      <p begin="00:07:15.218" end="00:07:18.346">door de manier waarop <br/>ik mijn leven leefde,</p>
+      <p begin="00:07:18.346" end="00:07:21.766">en vooral met Isabelle,<br/>wilde ik verandering.</p>
+      <p begin="00:07:21.766" end="00:07:23.560">Ik liet mijn bloedtesten,<br/>een grondige test,</p>
+      <p begin="00:07:23.560" end="00:07:27.063">en de test toonde dat als ik<br/>mijn eetpatroon niet veranderde,</p>
+      <p begin="00:07:27.063" end="00:07:32.963">dat ik diabetes zou krijgen, met<br/>een lage schildklierfunctie.</p>
+      <p begin="00:07:32.963" end="00:07:36.739">En dat kwam net rond mijn<br/>40e verjaardag.</p>
+      <p begin="00:07:36.739" end="00:07:41.035">En dan krijg je een <br/>moment waarop je denkt,</p>
+      <p begin="00:07:41.035" end="00:07:45.371">"Wat wil ik nu eigenlijk met<br/>de tweede helft van mijn leven?"</p>
+      <p begin="00:07:45.371" end="00:07:47.374">Want de eerste helft is voorbij.</p>
+      <p begin="00:07:47.374" end="00:07:48.960">Tik tok.</p>
+      <p begin="00:07:49.837" end="00:07:52.297">*- [Colin] Dit project kent<br/>verschillende fases.*</p>
+      <p begin="00:07:52.297" end="00:07:55.425">*Ik ben geen milieudeskundige,<br/>dus ik leer gaandeweg.*</p>
+      <p begin="00:07:55.425" end="00:07:58.678">*Op dit moment proberen we<br/>vooral ons afval te verminderen.*</p>
+      <p begin="00:07:58.678" end="00:08:03.433">*De gemiddelde Amerikaan cre&#235;ert <br/>jaarlijks 725 kg afval.*</p>
+      <p begin="00:08:03.433" end="00:08:06.227">*Wij proberen dat terug<br/>te brengen tot nul.*</p>
+      <p begin="00:08:06.227" end="00:08:15.361">&#9834; [muziek] &#9834;</p>
+      <p begin="00:08:15.361" end="00:08:18.282">Zie je de Hawthorne Valley Farm,<br/>gecertificeerd organisch, bio-dynamisch?</p>
+      <p begin="00:08:18.282" end="00:08:19.077">- Ja.</p>
+      <p begin="00:08:19.077" end="00:08:20.575">- *Als een familie ga ik proberen of we*</p>
+      <p begin="00:08:20.575" end="00:08:24.454">* een paar dagen op de boerderij kunnen<br/>blijven en vrijwilligerswerk kunnen doen.*</p>
+      <p begin="00:08:24.454" end="00:08:25.955">*Is dat goed?*</p>
+      <p begin="00:08:25.955" end="00:08:27.958">- Ja schat. Klinkt als<br/>een goed idee.</p>
+      <p begin="00:08:27.958" end="00:08:30.043">[Lachen allebei]</p>
+      <p begin="00:08:30.043" end="00:08:33.922">- De meerderheid van ons afval is<br/>etensverpakking en etensafval.</p>
+      <p begin="00:08:33.922" end="00:08:35.924">Het mooie van de boerenmarkt is</p>
+      <p begin="00:08:35.924" end="00:08:38.259">dat het meeste voedsel onverpakt<br/>wordt verkocht</p>
+      <p begin="00:08:38.259" end="00:08:41.054">wat het makkelijk maakt om te <br/>winkelen zonder afval te veroorzaken.</p>
+      <p begin="00:08:41.054" end="00:08:42.805">- Geen schade aan het milieu?</p>
+      <p begin="00:08:42.805" end="00:08:44.557">- Ja, zonder milieuvervuiling.</p>
+      <p begin="00:08:44.557" end="00:08:45.266">- Echt?</p>
+      <p begin="00:08:45.266" end="00:08:46.184">- Ja.</p>
+      <p begin="00:08:46.184" end="00:08:47.560">- Dan mag jij deze tas niet hebben.</p>
+      <p begin="00:08:47.560" end="00:08:48.895">- Dank je!</p>
+      <p begin="00:08:48.895" end="00:08:51.272">Hoe zeg ik dit zonder<br/>als een eikel te klinken?</p>
+      <p begin="00:08:51.272" end="00:08:54.501">*Ik word kwaad als ik zie hoe<br/>ze deze dingen individueel verpakken.*</p>
+      <p begin="00:08:54.501" end="00:08:56.515">Oh, weet je wat, zijn de<br/>mensen met de wormen hier?</p>
+      <p begin="00:08:56.527" end="00:08:58.473">- Waar heb je wormen voor nodig?<br/>Ik weet niet of ik...</p>
+      <p begin="00:08:58.488" end="00:09:00.531">- Zal ik je dat later vertellen?</p>
+      <p begin="00:09:00.531" end="00:09:03.026">De wormen helpen voor het<br/>compost-proces.</p>
+      <p begin="00:09:03.779" end="00:09:06.454">*- Schat, alsjeblieft, <br/>dat is echt niet mijn ding.*</p>
+      <p begin="00:09:06.454" end="00:09:09.131">- Ok, daar hebben we het nog wel over.</p>
+      <p begin="00:09:09.761" end="00:09:11.209">Michelle!</p>
+      <p begin="00:09:11.209" end="00:09:11.793">*- Ja?*</p>
+      <p begin="00:09:11.793" end="00:09:13.211">- Kom eens naar deze wormen kijken?</p>
+      <p begin="00:09:14.879" end="00:09:16.446">[Isabella giechelt]</p>
+      <p begin="00:09:19.046" end="00:09:21.344">Zie je hoe ze rondkruipen, mam?</p>
+      <p begin="00:09:21.344" end="00:09:23.371">- Ja. En hoe zorg je ervoor<br/>dat ze niet ontsnappen?</p>
+      <p begin="00:09:23.371" end="00:09:24.397">- Ze kunnen niet ontsnappen.</p>
+      <p begin="00:09:24.397" end="00:09:25.014">[kinderpraat]</p>
+      <p begin="00:09:25.014" end="00:09:26.436">- Wacht. Is er geen deksel?</p>
+      <p begin="00:09:26.436" end="00:09:28.885">- Natuurlijk is er wel een deksel...</p>
+      <p begin="00:09:28.885" end="00:09:29.592">- Laten we ze dan bedekken.</p>
+      <p begin="00:09:29.592" end="00:09:31.046">- Maar Isabella is nog aan het kijken.</p>
+      <p begin="00:09:31.046" end="00:09:33.315">*- Ok. Natuur.*</p>
+      <p begin="00:09:33.315" end="00:09:34.951">[Colin lacht]</p>
+      <p begin="00:09:34.951" end="00:09:39.463">Mama houdt niet van de natuur,<br/>papa wel.</p>
+      <p begin="00:09:39.463" end="00:09:41.032">[Colin lacht]</p>
+      <p begin="00:09:42.324" end="00:09:44.701">- Dus, luier.</p>
+      <p begin="00:09:44.701" end="00:09:51.374">Een luierbedekking, gemaakt van wol,<br/>wol van goedbehandelde lammetjes.</p>
+      <p begin="00:09:51.374" end="00:09:53.788">Dit heb ik allemaal opgezocht.</p>
+      <p begin="00:09:55.712" end="00:09:57.088">Er zijn vijf verschillende technieken</p>
+      <p begin="00:09:57.088" end="00:10:03.261">en dat is er de bikinivouw,<br/>en de hoekvouw, enzovoort,</p>
+      <p begin="00:10:03.261" end="00:10:05.972">wij gaan de hoekvouw proberen.</p>
+      <p begin="00:10:05.972" end="00:10:09.642">Er is een discussie gaande of doeken <br/>luiers of wegwerp luiers</p>
+      <p begin="00:10:09.642" end="00:10:11.477">beter voor het milieu zijn.</p>
+      <p begin="00:10:11.477" end="00:10:16.190">En door de industrie betaalde studies<br/>tonen geen verschil.</p>
+      <p begin="00:10:16.190" end="00:10:17.317">*Maar het is een feit dat we*</p>
+      <p begin="00:10:17.317" end="00:10:21.821">dagelijks 49 miljoen plastic luiers<br/>aan de afvalberg toevoegen.*</p>
+      <p begin="00:10:21.821" end="00:10:24.949">Het is de derde grootste veroorzaken<br/>van afval op afvalbergen.</p>
+      <p begin="00:10:24.949" end="00:10:26.034">[Isabella praat]</p>
+      <p begin="00:10:26.034" end="00:10:27.494">- Voelt het anders, schat?</p>
+      <p begin="00:10:27.494" end="00:10:29.037">- Het is zo leuk!</p>
+      <p begin="00:10:29.037" end="00:10:30.955">- Het is zo leuk.</p>
+      <p begin="00:10:30.955" end="00:10:33.374">- Laat mij eens kijken.</p>
+      <p begin="00:10:33.374" end="00:10:34.459">- He-hee!</p>
+      <p begin="00:10:34.459" end="00:10:35.377">
+        <span tts:fontStyle="italic">-Ohhh!</span>
+      </p>
+      <p begin="00:10:35.377" end="00:10:37.837">-He-hee!</p>
+      <p begin="00:10:37.837" end="00:10:40.423">Kijk jou eens!</p>
+      <p begin="00:10:40.423" end="00:10:41.924">- De Groene Generatie Schat.</p>
+      <p begin="00:10:41.924" end="00:10:43.051">- Jahaha.</p>
+      <p begin="00:10:43.051" end="00:10:44.344">[Michelle lacht]</p>
+      <p begin="00:10:44.344" end="00:10:45.803">[klappen]</p>
+      <p begin="00:10:46.496" end="00:10:50.224">*- We komen hier iedere zondag voor<br/>ontbijt, en we vinden het geweldig.*</p>
+      <p begin="00:10:50.224" end="00:10:55.813">Maar als onderdeel van onze column,<br/>ons "No Impact" project,</p>
+      <p begin="00:10:55.813" end="00:11:00.860">faseren we gaandeweg alles uit,<br/>ook restaurants.</p>
+      <p begin="00:11:00.860" end="00:11:03.905">Dus dit is onze laatste<br/>maaltijd bij <span tts:fontStyle="italic">Pasti's</span></p>
+      <p begin="00:11:03.905" end="00:11:07.700">en onze laatste maaltijd in<br/>een restaurant als gezin, toch?</p>
+      <p begin="00:11:07.700" end="00:11:10.745">- Je weet dat we alleen nog maar eten <br/>van binnen een 400km radius gaan eten,</p>
+      <p begin="00:11:10.745" end="00:11:14.999">dus het is niet zozeer dat <span tts:fontStyle="italic">Pasti's</span> een<br/>probleem is maar, bijvoorbeeld</p>
+      <p begin="00:11:14.999" end="00:11:20.880">het graan en brood komen van <br/>Great Plains, ver weg.</p>
+      <p begin="00:11:20.880" end="00:11:25.968">Dus dat is het,<br/>dat is het probleem.</p>
+      <p begin="00:11:25.968" end="00:11:28.679">Dat, zegmaar, het eten eigenlijk<br/>overal vandaan komt</p>
+      <p begin="00:11:28.679" end="00:11:31.516">terwijl wij lokaal voedsel<br/>proberen te eten.</p>
+      <p begin="00:11:31.516" end="00:11:34.436">We kunnen alles eten wat<br/>we hebben, behalve kruiden,</p>
+      <p begin="00:11:34.436" end="00:11:37.605">omdat de kruiden een heel<br/>jaar meegaan.</p>
+      <p begin="00:11:37.605" end="00:11:38.856">Uien zijn geen probleem.</p>
+      <p begin="00:11:38.856" end="00:11:39.982">Knoflook is geen probleem.</p>
+      <p begin="00:11:39.982" end="00:11:42.818">Squash is geen probleem.</p>
+      <p begin="00:11:42.818" end="00:11:44.821">Aardappelen zijn geen probleem.</p>
+      <p begin="00:11:44.821" end="00:11:48.574">We hadden vorige week drie dagen<br/>lang aardappelen met spek.</p>
+      <p begin="00:11:48.574" end="00:11:51.869">- Ik eet geen vlees maar, maar <br/>nog wel vis,</p>
+      <p begin="00:11:51.869" end="00:11:56.332">dus gisteravond was geen vlees,<br/>geen vis, niets.</p>
+      <p begin="00:11:56.332" end="00:11:59.169">Dus van alles - de trappen,</p>
+      <p begin="00:11:59.169" end="00:12:01.254">de brommer, en het<br/>voorkomen van afval,</p>
+      <p begin="00:12:01.254" end="00:12:03.673">heb ik het eten nog<br/>het moeilijkst gevonden.</p>
+      <p begin="00:12:03.673" end="00:12:07.760">Ook nu is het nog moeilijk, soms<br/>wil ik gewoon iets gebakken.</p>
+      <p begin="00:12:07.760" end="00:12:09.762">- Waarom denk je dat voedsel<br/>het moeilijkst is voor je?</p>
+      <p begin="00:12:11.931" end="00:12:14.642">- Omdat ik alles wat lekker is<br/>niet meer kan eten.</p>
+      <p begin="00:12:14.642" end="00:12:17.353">[Lachen allebei]</p>
+      <p begin="00:12:19.313" end="00:12:22.650">*- Nu zitten we met sla<br/>en wortels*</p>
+      <p begin="00:12:22.650" end="00:12:25.945">*tot de winter voorbij is<br/>en de lente aanbreekt.*</p>
+      <p begin="00:12:25.945" end="00:12:27.321">*Hoi Ryan!*</p>
+      <p begin="00:12:27.321" end="00:12:29.657">Ik kom zometeen terug om wat melk<br/>op te halen.</p>
+      <p begin="00:12:29.657" end="00:12:31.784">Ik heb al te veel om<br/>te dragen.</p>
+      <p begin="00:12:31.784" end="00:12:34.579">- Tot zo!</p>
+      <p begin="00:12:34.579" end="00:12:38.291">De jongen die normaal eieren <br/>brengt is er niet.</p>
+      <p begin="00:12:38.291" end="00:12:40.918">Het vervoer van eten cre&#235;ert veel<br/>karton-afval.</p>
+      <p begin="00:12:40.918" end="00:12:43.859">Hier in de Verenigde Staten, heeft<br/>het gemiddelde voedingsmiddel</p>
+      <p begin="00:12:43.859" end="00:12:47.720">bijna 2.500 km gereisd van<br/>de boerderij naar het vliegtuig.</p>
+      <p begin="00:12:47.720" end="00:12:49.677">Ze verkopen geweldige <br/>appels hier.</p>
+      <p begin="00:12:49.677" end="00:12:51.804">Ik vraag me af wat jouw favoriet is?</p>
+      <p begin="00:12:51.804" end="00:12:54.140">- [Mannelijke klant] De Winesap, dus ik<br/>ga even met hem praten.</p>
+      <p begin="00:12:54.140" end="00:12:54.182">[...00:12:52:07] sokken uit.</p>
+      <p begin="00:12:54.182" end="00:12:56.114">*- Maar er zijn ook veel andere<br/>redenen om lokaal te eten*</p>
+      <p begin="00:12:56.114" end="00:12:59.818">*zoals het behoud van ons<br/>platteland.*</p>
+      <p begin="00:12:59.818" end="00:13:03.524">En we eten vegetarisch omdat<br/>wereldwijd het eten van vlees</p>
+      <p begin="00:13:03.524" end="00:13:08.520">voor meer uitlaatgassen zorgt dan<br/>bijvoorbeeld vervoer.</p>
+      <p begin="00:13:11.365" end="00:13:14.494">- Er is geen lokale koffie, dus<br/>kan ik geen koffie drinken.</p>
+      <p begin="00:13:14.494" end="00:13:17.580">Dus vandaag probeer ik het nog<br/>een keer met Ice Colada Espressos.</p>
+      <p begin="00:13:17.580" end="00:13:20.750">Ik maak me zorgen dat ik een fout maak,<br/>dat ik he niet kan,</p>
+      <p begin="00:13:20.750" end="00:13:25.296">en dan maak ik me zorgen<br/>om Colin's reactie.</p>
+      <p begin="00:13:25.296" end="00:13:27.314">Want hij vindt het heel vervelend<br/>als ik fouten maak</p>
+      <p begin="00:13:27.314" end="00:13:31.260">omdat hij dan denkt dat<br/>het hele project verknald is.</p>
+      <p begin="00:13:31.260" end="00:13:34.597">Eigenlijk is dit heel makkelijk voor Colin<br/>en heel moeilijk voor mij.</p>
+      <p begin="00:13:34.597" end="00:13:36.641">Het eten, en de caffe&#239;ne.</p>
+      <p begin="00:13:36.641" end="00:13:40.353">Dat is mama's derde en laatste<br/>Iced Colada Espresso.</p>
+      <p begin="00:13:40.353" end="00:13:41.894">Maak je klaar voor vertrek!</p>
+      <p begin="00:13:44.774" end="00:13:47.068">Ik voel me goed!</p>
+      <p begin="00:13:47.068" end="00:13:49.070">On mijn God! Zoveel beter.</p>
+      <p begin="00:13:49.070" end="00:13:55.593">&#9834; [muziek] &#9834;</p>
+      <p begin="00:14:03.251" end="00:14:07.088">*- [Colin] Onderdeel van het lokaal<br/>eten is dat je de boeren leert kennen*</p>
+      <p begin="00:14:07.088" end="00:14:09.048">*die je je eten bezorgen.*</p>
+      <p begin="00:14:09.048" end="00:14:12.494">We gaan nu naar Ronnie op<br/>*Ronnie Brook Farm*</p>
+      <p begin="00:14:12.494" end="00:14:15.989">en al zijn kleine koeien.</p>
+      <p begin="00:14:15.989" end="00:14:18.933">*Dit is mijn eerste keer*</p>
+      <p begin="00:14:18.933" end="00:14:28.484">op enige vorm van niet-zelfrijdend<br/>vervoer in een maand.</p>
+      <p begin="00:14:28.484" end="00:14:29.986">Dat is dus wel lijk.</p>
+      <p begin="00:14:29.986" end="00:14:30.945">Toet toet!</p>
+      <p begin="00:14:30.945" end="00:14:32.196">[Lacht]</p>
+      <p begin="00:14:32.196" end="00:14:39.662">&#9834; [muziek[ &#9834;</p>
+      <p begin="00:14:39.662" end="00:14:40.997">*- [Boer] Iedere koe heeft een naam.*</p>
+      <p begin="00:14:40.997" end="00:14:42.414">Dit is Thelma.</p>
+      <p begin="00:14:42.414" end="00:14:45.418">*- [Colin] Hee meid.*</p>
+      <p begin="00:14:46.079" end="00:14:49.797">Is de relatie met de dieren reden<br/>dat je dit doet?</p>
+      <p begin="00:14:49.797" end="00:14:52.050">- Dat is de reden dat<br/>we ermee begonnen.</p>
+      <p begin="00:14:52.050" end="00:14:55.678">Mijn vrouw zegt dat toen mijn zoon<br/>werd geboren, ik de koeien moest melken.</p>
+      <p begin="00:14:55.678" end="00:14:57.930">Ik kon niet naar -- haar<br/>naar het ziekenhuis brengen.</p>
+      <p begin="00:14:57.930" end="00:14:58.718">[Colin lacht]</p>
+      <p begin="00:14:58.718" end="00:15:00.349">Dat wist ik niet, dat<br/>herinnerde ik me niet.</p>
+      <p begin="00:15:00.349" end="00:15:03.394">[Colin lacht]</p>
+      <p begin="00:15:03.394" end="00:15:05.396">- Laten we het over <br/>organisch eten hebben.</p>
+      <p begin="00:15:05.396" end="00:15:07.397">Je hebt geen organisch label.</p>
+      <p begin="00:15:07.397" end="00:15:12.111">Waarom niet, en wat vind je van<br/>de organische sticker, en...</p>
+      <p begin="00:15:12.111" end="00:15:15.364">- Nou ja, ik denk dat<br/>organisch goed is.</p>
+      <p begin="00:15:15.364" end="00:15:18.409">Het enige wat ik tegen organisch heb, is</p>
+      <p begin="00:15:18.409" end="00:15:20.870">dat je je koeien niet kunt behandelen.<br/>- Oh ja.</p>
+      <p begin="00:15:20.870" end="00:15:22.079">[schraapt keel]</p>
+      <p begin="00:15:22.079" end="00:15:25.166">- Dat is het enige waar<br/>ik me niet toe kan verbinden.</p>
+      <p begin="00:15:25.166" end="00:15:27.627">- Wat precies? Leg dat eens uit.</p>
+      <p begin="00:15:27.627" end="00:15:31.797">- Nou ja, als je koe ziek wordt,<br/>kun je geen antibiotica gebruiken.</p>
+      <p begin="00:15:31.797" end="00:15:35.051">Dat is het probleem, dat je<br/>je koeien gewoon moet laten doodgaan.</p>
+      <p begin="00:15:35.051" end="00:15:38.721">Het zijn al generatielang<br/>dezelfde koeien.</p>
+      <p begin="00:15:38.721" end="00:15:42.016">- Wow!</p>
+      <p begin="00:15:42.016" end="00:15:45.019">Hoi schat!</p>
+      <p begin="00:15:45.019" end="00:15:46.437">Dus laat me je dit eens vragen.</p>
+      <p begin="00:15:46.437" end="00:15:49.106">Alles wat je nu zegt, laten<br/>we het eens anders benaderen.</p>
+      <p begin="00:15:49.106" end="00:15:53.110">Veel mensen zijn voorstanders<br/>van organische producten.</p>
+      <p begin="00:15:53.110" end="00:15:55.821">- Het belangrijkste, lokaal<br/>vaak het belangrijkste,</p>
+      <p begin="00:15:55.821" end="00:15:58.741">is om voedsel begrijpbaar<br/>te maken.</p>
+      <p begin="00:15:58.741" end="00:16:00.576">Als ik een druif van jou koop,</p>
+      <p begin="00:16:00.576" end="00:16:01.843">*Ik wil precies zien wat je doet.*</p>
+      <p begin="00:16:01.843" end="00:16:03.859">*Misschien ben je wel helemaal<br/>niet gecertificeerd organisch,*</p>
+      <p begin="00:16:03.859" end="00:16:07.067">*maar alles wat je doet is<br/>organisch, of beter.*</p>
+      <p begin="00:16:07.067" end="00:16:11.150">Met melk hoeft het alleen<br/>maar, het moet lokaal zijn</p>
+      <p begin="00:16:12.401" end="00:16:15.791">zodat je kunt zien hoe <br/>de dieren worden behandeld.</p>
+      <p begin="00:16:15.791" end="00:16:17.343">Je wilt het met eigen<br/>ogen zien!</p>
+      <p begin="00:16:17.343" end="00:16:21.059">[mensen praten]</p>
+      <p begin="00:16:21.059" end="00:16:26.341">[auto's gaan voorbij]</p>
+      <p begin="00:16:27.603" end="00:16:30.648">- [Colin] Dit is een volledige lokale<br/>vruchten fritata.</p>
+      <p begin="00:16:30.648" end="00:16:34.277">De groenten komen van een boerderij<br/>elders in de staat.</p>
+      <p begin="00:16:34.277" end="00:16:36.987">De rode kool komt uit New York.</p>
+      <p begin="00:16:36.987" end="00:16:42.743">De eieren en kaas komen ook<br/>uit New York!</p>
+      <p begin="00:16:42.743" end="00:16:44.036">*- [Michelle] Hoorde jij de telefoon?*</p>
+      <p begin="00:16:44.036" end="00:16:44.787">*- Ja.*</p>
+      <p begin="00:16:44.787" end="00:16:45.788">- Dat was Robin.</p>
+      <p begin="00:16:45.788" end="00:16:46.330">*- Oh ja?*</p>
+      <p begin="00:16:46.330" end="00:16:49.326">En hij zei dat ze nu</p>
+      <p begin="00:16:49.326" end="00:16:51.539">dit verhaal voorpagina nieuws<br/>willen maken.</p>
+      <p begin="00:16:51.539" end="00:16:52.670">*- Ja.*</p>
+      <p begin="00:16:52.670" end="00:16:54.797">Maar maandagmorgen, <br/>rond 7 uur 's ochtends.</p>
+      <p begin="00:16:54.797" end="00:16:57.466">Robin heeft een nieuw<br/>ontwerp nodig.</p>
+      <p begin="00:16:57.466" end="00:17:04.640">Ik voel me volledig afgemat<br/>zonder caffe&#239;ne,</p>
+      <p begin="00:17:04.640" end="00:17:06.767">ik maak me zorgen dat het een<br/>effect zal hebben op mijn werk.</p>
+      <p begin="00:17:06.767" end="00:17:07.435">*- Oh ja?*</p>
+      <p begin="00:17:07.435" end="00:17:09.644">- Ik heb het gevoel dat<br/>dit een belangrijk verhaal is.</p>
+      <p begin="00:17:09.644" end="00:17:12.475">- Waar wilde je het mij<br/>dan eerst vertellen,</p>
+      <p begin="00:17:12.475" end="00:17:14.358">wanneer begin je eraan te werken?</p>
+      <p begin="00:17:14.358" end="00:17:15.526">- Na ons etentje.</p>
+      <p begin="00:17:15.526" end="00:17:18.320">*- Waarom wacht je dat dan<br/>niet af en dan kun je beslssen.*</p>
+      <p begin="00:17:18.320" end="00:17:20.003">[hond blaft]</p>
+      <p begin="00:17:20.995" end="00:17:23.325">- Dat meen je niet?</p>
+      <p begin="00:17:23.325" end="00:17:27.037">Ik heb het gevoel alsof mijn<br/>hoofd op ontploffen staat.</p>
+      <p begin="00:17:27.037" end="00:17:27.830">[lepel valt]</p>
+      <p begin="00:17:27.830" end="00:17:30.958">Het helpt mij bij het proces en<br/>ik verwacht veel stress,</p>
+      <p begin="00:17:30.958" end="00:17:33.252">dus waarom zou ik dat niet doen?</p>
+      <p begin="00:17:33.252" end="00:17:34.962">*- Wacht even*</p>
+      <p begin="00:17:37.173" end="00:17:40.176">*Dus je zegt eigenlijk dus<br/>dat je nu koffie wilt.*</p>
+      <p begin="00:17:40.176" end="00:17:40.989">Dat heeft er niets mee te...<br/>- Ik ga de hond uitlaten.</p>
+      <p begin="00:17:41.802" end="00:17:42.887">Jij SNIK!</p>
+      <p begin="00:17:42.887" end="00:17:45.139">*-Oh, dus dat is wat je eigenlijk,<br/>dat is dus wat je...*</p>
+      <p begin="00:17:45.139" end="00:17:47.808">- Ja, ik wil dat. Ik wil<br/>gaan hardlopen.</p>
+      <p begin="00:17:48.851" end="00:17:50.352">- Nou, je doet maar.</p>
+      <p begin="00:17:50.352" end="00:17:53.439">*- Maar het maakt je wel uit.*</p>
+      <p begin="00:17:53.439" end="00:17:54.774">- Nou ja, je weet wel.</p>
+      <p begin="00:17:54.774" end="00:17:57.610">- Ik eet alleen lokaal voedsel.<br/>Ik cre&#235;er geef afval.</p>
+      <p begin="00:17:57.610" end="00:17:58.944">Ik eet niets dat...<br/>*-Wacht. Wacht. Wacht. Wacht. Wacht.*</p>
+      <p begin="00:17:59.063" end="00:17:59.898">*- Vooruitgang!*</p>
+      <p begin="00:17:59.898" end="00:18:03.616">- Je eet alleen lokaal eten, maar de<br/>mensen die dat bereiden staan vroeg op</p>
+      <p begin="00:18:03.616" end="00:18:04.867">om jouw dagelijks ontbijt te maken.</p>
+      <p begin="00:18:04.867" end="00:18:05.534">*- Jij!*</p>
+      <p begin="00:18:05.534" end="00:18:06.243">- Je lunch te maken.</p>
+      <p begin="00:18:06.243" end="00:18:06.695">*- Jij!*</p>
+      <p begin="00:18:06.695" end="00:18:07.391">- Je avondeten te maken.</p>
+      <p begin="00:18:07.391" end="00:18:08.826">*- Daar gaat het niet om!*</p>
+      <p begin="00:18:08.826" end="00:18:11.248">- En wie doet dan de vaat,<br/>als dat allemaal gedaan is?</p>
+      <p begin="00:18:11.248" end="00:18:13.125">*- Ik doe de vaat!*</p>
+      <p begin="00:18:13.125" end="00:18:15.211">- Wat eigenlijk gebeurde is dat Robin<br/>jou opbelde,</p>
+      <p begin="00:18:15.211" end="00:18:17.713">en jij dacht: "Ah, een excuus."</p>
+      <p begin="00:18:17.713" end="00:18:19.757">[Isabella jammert]</p>
+      <p begin="00:18:19.757" end="00:18:22.009">- Dus jij gaat nu -- je bent kwaad op mij</p>
+      <p begin="00:18:22.009" end="00:18:24.512">en ik zeg dat ik voor mezelf<br/>ga zorgen.</p>
+      <p begin="00:18:24.512" end="00:18:25.299">- Je legt me woorden in de mond.</p>
+      <p begin="00:18:25.299" end="00:18:25.880">- Ok. Ok!</p>
+      <p begin="00:18:25.880" end="00:18:26.931">- Dat heb ik nooit gezegd.</p>
+      <p begin="00:18:26.931" end="00:18:29.642">- Ik zorg van nu af aan<br/>voor mezelf</p>
+      <p begin="00:18:29.642" end="00:18:33.729">en ga nu een vierdubbelen espresso<br/>halen, misschien wel twee.</p>
+      <p begin="00:18:33.729" end="00:18:37.780">*Ik wil je niet teleurstellen. Ik wil<br/>mezelf niet teleurstellen.*</p>
+      <p begin="00:18:37.780" end="00:18:39.280">[Giechelt]</p>
+      <p begin="00:18:42.464" end="00:18:46.116">- Ik gebruikte deze pittige olijfolie, <br/>overgebleden van onze olijfolie,</p>
+      <p begin="00:18:46.116" end="00:18:48.327">want binnenkort kunnen we<br/>geen olijfolie meer gebruiken.</p>
+      <p begin="00:18:48.327" end="00:18:50.287">- [Mannelijke bezoeker: En dus ook<br/>zonder electriciteit?</p>
+      <p begin="00:18:50.287" end="00:18:50.829">*- Uiteindelijk wel.*</p>
+      <p begin="00:18:50.829" end="00:18:51.372">*- Ja!*</p>
+      <p begin="00:18:51.372" end="00:18:54.125">- En de electriciteit als je ergens<br/>anders bent?</p>
+      <p begin="00:18:54.125" end="00:18:56.418">*- [Colin] Als iemand ons uitnodigt<br/>om bij hen thuis TV te kijken</p>
+      <p begin="00:18:56.418" end="00:18:58.963">zouden wij ja zeggen, omdat<br/>we dan socialiseren.</p>
+      <p begin="00:18:58.963" end="00:19:00.047">*Ik zal niet smeken,<br/>maar het scheelt niet veel.*</p>
+      <p begin="00:19:00.047" end="00:19:00.359">[Lachen]</p>
+      <p begin="00:19:03.391" end="00:19:03.900">- [Vrouwelijke bezoeker] <br/>Tweedehands kleding?</p>
+      <p begin="00:19:03.900" end="00:19:05.970">- Tweedehands kleding<br/>is toegestaan.</p>
+      <p begin="00:19:05.970" end="00:19:07.097">- Oh ok!</p>
+      <p begin="00:19:07.097" end="00:19:11.141">- Geen nieuwe materialen maar<br/>ik denk dat Michelle extreem wil gaan.</p>
+      <p begin="00:19:11.141" end="00:19:13.602">- Voor het hele jaar wil<br/>ik geen nieuwe kleding kopen.</p>
+      <p begin="00:19:13.957" end="00:19:15.563">Het is geweldig om alles<br/>los te laten,</p>
+      <p begin="00:19:15.563" end="00:19:17.439">want ik heb opnieuw<br/>over alles na kunnen denken.</p>
+      <p begin="00:19:17.439" end="00:19:18.440">Wat gebruik ik?</p>
+      <p begin="00:19:18.440" end="00:19:19.859">Wat gebruik ik niet?</p>
+      <p begin="00:19:19.859" end="00:19:23.445">- [Vrouwelijke bezoeken] Er<br/>is toch een standaard stijl.</p>
+      <p begin="00:19:23.445" end="00:19:25.614">[Lachen]</p>
+      <p begin="00:19:25.614" end="00:19:26.824">Met een paar speciale vrienden.</p>
+      <p begin="00:19:26.824" end="00:19:28.993">[Lachen]</p>
+      <p begin="00:19:28.993" end="00:19:34.081">[muziek]</p>
+      <p begin="00:19:34.081" end="00:19:34.999">- [Vrouwelijke bezoeker]<br/>Goed gedaan!</p>
+      <p begin="00:19:34.999" end="00:19:39.746">*- [Colin] In het begin waren we nog<br/>gewend TV te kijken, we misten het.</p>
+      <p begin="00:19:39.746" end="00:19:42.264">Maar nu zijn we gewend van<br/>momenten te genieten</p>
+      <p begin="00:19:42.264" end="00:19:43.691">met vrienden en met elkaar.</p>
+      <p begin="00:19:43.691" end="00:19:54.480">&#9834; [muziek] &#9834;</p>
+      <p begin="00:20:00.065" end="00:20:03.444">- Ik maak nu ma&#239;spap, dat <br/>eten we vaak.</p>
+      <p begin="00:20:03.444" end="00:20:05.321">Je zult zien dat ik maar een klein<br/>portie maakt, want</p>
+      <p begin="00:20:05.321" end="00:20:08.240">we kunnen lokaal<br/>niet zoveel verkrijgen.</p>
+      <p begin="00:20:08.240" end="00:20:14.163">Dus eten we ma&#239;spap.</p>
+      <p begin="00:20:14.163" end="00:20:16.081">- [Isabella] Mijn appel!</p>
+      <p begin="00:20:25.424" end="00:20:26.717">Ok. Geef mama<br/>eens een kus.</p>
+      <p begin="00:20:26.717" end="00:20:28.302">- Ik houd van jou!</p>
+      <p begin="00:20:28.302" end="00:20:29.803">Ik zie je later, ok schat?</p>
+      <p begin="00:20:29.803" end="00:20:31.388">Ik moet naar werk gaan.</p>
+      <p begin="00:20:31.388" end="00:20:46.153">&#9834; [muziek] &#9834;</p>
+      <p begin="00:20:46.153" end="00:20:49.990">- Ik heb een bericht op mijn blog<br/>geplaatst: *"Hoe wij afval voorkomen."*</p>
+      <p begin="00:20:49.990" end="00:20:53.202">Geen Indisch eten en geen <br/>junk food.</p>
+      <p begin="00:20:53.202" end="00:20:55.788">Geen Chinees eten en<br/>wegwerpdozen.</p>
+      <p begin="00:20:55.788" end="00:20:58.374">Geen italiaans en <br/>wegwerpverpakkingen.</p>
+      <p begin="00:20:58.374" end="00:21:01.502">Geen blikjes fris. Geen<br/>waterflessen.</p>
+      <p begin="00:21:01.502" end="00:21:03.963">We hebben onze tijdschrift- en<br/>krantenabonnementen opgezegd.</p>
+      <p begin="00:21:03.963" end="00:21:07.925">En daarmee ons vernielen<br/>van bomen stopgezet.</p>
+      <p begin="00:21:07.925" end="00:21:14.974">Ik bel bedrijven met het verzoek<br/>ons geen post te sturen.</p>
+      <p begin="00:21:14.974" end="00:21:19.728">Ik stuur eier- en bessendoosjes<br/>terug naar de verkopers, voor hergebruik.</p>
+      <p begin="00:21:19.728" end="00:21:23.065">Ik koop melk in <br/>herbruikbare flessen.</p>
+      <p begin="00:21:23.065" end="00:21:26.735">Ik gebruik mijn supercoole<br/>herbruikbare mok en waterfles,</p>
+      <p begin="00:21:26.735" end="00:21:30.447">eigen gewoon een glazen fles<br/>die ik heb bewaard.</p>
+      <p begin="00:21:30.447" end="00:21:36.037">Ik gebruik zuiveringszout voor het <br/>tanden poetsen.</p>
+      <p begin="00:21:36.037" end="00:21:38.872">Ik gebruik nu echte,<br/>katoenen luiers.</p>
+      <p begin="00:21:38.872" end="00:21:42.501">Ik koop mijn eten alleen in grote<br/>hoeveelheden van de plaatselijke markt,</p>
+      <p begin="00:21:42.501" end="00:21:44.586">onverpakt en vers.</p>
+      <p begin="00:21:44.586" end="00:21:47.423">Als ik alleen maar de inhoud van de<br/>verpakking wil, waarom dan de verpakking?</p>
+      <p begin="00:21:47.423" end="00:21:49.925">En in de doos zit<br/>vaak nog een zak.</p>
+      <p begin="00:21:49.925" end="00:21:53.595">Geen wegwerpscheermesjes<br/>of verpakkingen.</p>
+      <p begin="00:21:53.595" end="00:21:57.641">We gebruiken nu doeken om<br/>te poetsen in plaats van papier.</p>
+      <p begin="00:21:57.641" end="00:22:01.228">En we hebben een aparte container<br/>voor voedselcompost en andere resten,</p>
+      <p begin="00:22:01.228" end="00:22:06.817">die zo terug in de aarde belanden in<br/>plaats van op afvalbergen</p>
+      <p begin="00:22:06.817" end="00:22:08.902">Daar gaan ze.</p>
+      <p begin="00:22:08.902" end="00:22:10.714">- [Man] Ze gaan eten, dat heb je<br/>volgens mij al verteld,</p>
+      <p begin="00:22:10.714" end="00:22:13.121">anderhalve kilo voedselafval -</p>
+      <p begin="00:22:13.121" end="00:22:14.825">- een week, ja.</p>
+      <p begin="00:22:14.825" end="00:22:18.871">Voor de producten, het duurde vier dagen<br/>om het afval op te zamelen,</p>
+      <p begin="00:22:18.871" end="00:22:20.205">en er was 90 liter.</p>
+      <p begin="00:22:20.205" end="00:22:23.375">In vier dagen, wat nogal<br/>walgelijk is.</p>
+      <p begin="00:22:23.375" end="00:22:26.378">*Dat is ons gecombineerde<br/>afval, voor een week.*</p>
+      <p begin="00:22:30.501" end="00:22:35.095">- Isabella neemt<br/>de telefoon op.</p>
+      <p begin="00:22:35.095" end="00:22:37.765">Ok, dus, we hebben de<br/>afvalfase doorlopen. <span tts:fontStyle="italic">-Ja.</span></p>
+      <p begin="00:22:37.765" end="00:22:39.892">- en we hebben de fase met<br/>lokaal voedsel doorlopen.</p>
+      <p begin="00:22:39.892" end="00:22:40.851">*- Ja.*</p>
+      <p begin="00:22:40.851" end="00:22:44.063">- en nu gaan we naar de fase met<br/>duurzame consumptie.</p>
+      <p begin="00:22:44.063" end="00:22:47.649">- En hoe zit het met het vervoer en<br/>alle andere zaken?</p>
+      <p begin="00:22:47.649" end="00:22:51.863">- Ja, maar dat is geen onderdeel<br/>van de fases.</p>
+      <p begin="00:22:51.863" end="00:22:54.823">[Lachen]</p>
+      <p begin="00:22:54.823" end="00:22:56.492">Dus, we gaan nu naar --</p>
+      <p begin="00:22:56.492" end="00:22:57.201">- Ok.</p>
+      <p begin="00:22:57.201" end="00:22:58.520">- Zeg maar om ervoor te zorgen<br/>dat we geen</p>
+      <p begin="00:22:58.520" end="00:23:01.997">schade aan het milieu doen<br/>met onze dagelijkse aankopen.</p>
+      <p begin="00:23:01.997" end="00:23:06.168">Dus de eerste regel:<br/>we kopen geen nieuwe producten.</p>
+      <p begin="00:23:06.168" end="00:23:09.963">Maar we lenen, huren of<br/>kopen tweedehands.</p>
+      <p begin="00:23:09.963" end="00:23:11.548">- Moet je naar de WC? - Ja!</p>
+      <p begin="00:23:11.548" end="00:23:12.716">- Moet je naar de WC?</p>
+      <p begin="00:23:12.716" end="00:23:13.801">- Nee!</p>
+      <p begin="00:23:13.801" end="00:23:16.595">- Wil je wat WC papier?</p>
+      <p begin="00:23:16.595" end="00:23:18.472">We hebben geen WC papier.</p>
+      <p begin="00:23:18.472" end="00:23:20.057">Hee, hebben we WC papier?</p>
+      <p begin="00:23:20.057" end="00:23:22.184">*- [Colin] Nee.*</p>
+      <p begin="00:23:22.184" end="00:23:25.271">Wat heel moeilijk is voor consumenten<br/>om te begrijpen</p>
+      <p begin="00:23:25.271" end="00:23:27.691">*wat kunnen we wel en<br/>niet kopen*</p>
+      <p begin="00:23:27.691" end="00:23:30.651">en wat kunnen we weggooien en<br/>wat kunnen we niet weggooien, toch?</p>
+      <p begin="00:23:30.651" end="00:23:31.901">- Ja!</p>
+      <p begin="00:23:31.901" end="00:23:36.054">- Er is heel weinig onderzoek naar, en<br/>bijna niemand doet het.</p>
+      <p begin="00:23:36.054" end="00:23:36.885">- Ja!</p>
+      <p begin="00:23:36.885" end="00:23:41.385">- Maar zelfs als je je van de dingen<br/>ontdoet die je niet echt nodig hebt,</p>
+      <p begin="00:23:41.385" end="00:23:42.103">- Ja,</p>
+      <p begin="00:23:42.103" end="00:23:43.343">- kom je al een heel eind!</p>
+      <p begin="00:23:43.343" end="00:23:43.839">- Ja!</p>
+      <p begin="00:23:43.839" end="00:23:45.625">- Je hebt al die studies niet nodig.</p>
+      <p begin="00:23:45.625" end="00:23:46.339">- Dat klopt.</p>
+      <p begin="00:23:46.339" end="00:23:49.142">- Dus als je ontdekt dat je eigenlijk<br/>geen WC papier nodig hebt</p>
+      <p begin="00:23:49.142" end="00:23:51.321">kun je doeken hergebruiken.</p>
+      <p begin="00:23:51.321" end="00:23:51.934">- Ja.</p>
+      <p begin="00:23:51.934" end="00:23:54.022">- Ja. Je hoeft geen WC<br/>papier te kopen</p>
+      <p begin="00:23:54.081" end="00:23:56.654">en je hoeft geen onderzoek naar<br/>WC papier te doen.</p>
+      <p begin="00:23:56.654" end="00:23:57.501">- Nee!</p>
+      <p begin="00:23:57.501" end="00:23:58.475">- Snap je?</p>
+      <p begin="00:23:58.475" end="00:23:59.326">- Ja!</p>
+      <p begin="00:23:59.326" end="00:24:00.532">- Ja!</p>
+      <p begin="00:24:00.532" end="00:24:01.913">- Wil je echt zo grafisch<br/>zijn, want...</p>
+      <p begin="00:24:01.913" end="00:24:04.125">[Isabella lacht]</p>
+      <p begin="00:24:04.125" end="00:24:06.431">- Het is nu eenmaal dat je<br/>het niet weet tot je het probeert.</p>
+      <p begin="00:24:06.431" end="00:24:07.877">- Ik ben bang dat ik mijn<br/>baan ga verliezen.</p>
+      <p begin="00:24:07.877" end="00:24:09.672">- WC papier, WC papier..</p>
+      <p begin="00:24:09.672" end="00:24:12.182">[Michelle lacht]</p>
+      <p begin="00:24:12.182" end="00:24:15.470">- En algemene gezondheidsgrappen<br/>over ons, het kan...</p>
+      <p begin="00:24:15.470" end="00:24:17.141">*-[Colin] Het is een <br/>jaarlang experiment.*</p>
+      <p begin="00:24:17.141" end="00:24:17.902">- Ja, OK.</p>
+      <p begin="00:24:17.902" end="00:24:20.464">Denk je niet dat, met *No Impact Man*<br/>zo bizar, zo raar,</p>
+      <p begin="00:24:20.464" end="00:24:24.521">dat mensen je misschien <br/>gewoon als een rare idioot zien?</p>
+      <p begin="00:24:24.521" end="00:24:26.001">Het is rhetorische vraag.</p>
+      <p begin="00:24:26.001" end="00:24:29.165">- Maar ik heb het geprobeerd<br/>en heb ontdekt dat het werkt</p>
+      <p begin="00:24:29.165" end="00:24:32.519">en dat het milieuvriendelijker<br/>is en geen probleem is</p>
+      <p begin="00:24:32.519" end="00:24:37.153">en dat het net zo hygi&#235;nisch is,</p>
+      <p begin="00:24:37.153" end="00:24:38.217">en ik zie daarom niet waarom<br/>het iets negatiefs zou zijn.</p>
+      <p begin="00:24:38.217" end="00:24:39.282">Maar, als je het niet probeert...</p>
+      <p begin="00:24:39.282" end="00:24:40.189">- OK.</p>
+      <p begin="00:24:40.189" end="00:24:41.411">- Ik weet ook niet alles.</p>
+      <p begin="00:24:41.411" end="00:24:42.552">- Hmhm.</p>
+      <p begin="00:24:42.552" end="00:24:43.538">- Snap je?</p>
+      <p begin="00:24:43.538" end="00:24:45.158">[Isabella praat]</p>
+      <p begin="00:24:45.158" end="00:24:46.714">- Hmhm.</p>
+      <p begin="00:24:46.714" end="00:24:49.432">Wat is er zo slecht aan<br/>WC papier?</p>
+      <p begin="00:24:49.878" end="00:24:53.264">*- We hebben onze bomen nodig om<br/>kooldioxide op te nemen, maar</p>
+      <p begin="00:24:53.264" end="00:24:56.981">*zagen ze in plaats daarvan<br/>om voor WC papier.*</p>
+      <p begin="00:24:56.981" end="00:24:59.231">Dus onderdeel van het experiment<br/>is om te vragen</p>
+      <p begin="00:24:59.231" end="00:25:03.478">"Moeten we echt een wegwerpcultuur<br/>hebben?" Toch?</p>
+      <p begin="00:25:03.478" end="00:25:05.993">And de WC, nou ja --<br/>en het is extreem</p>
+      <p begin="00:25:05.993" end="00:25:10.345">maar we benaderen die<br/>wegwerpbaarheid vanuit elke hoek</p>
+      <p begin="00:25:10.345" end="00:25:13.692">omdat de wegwerpcultuur echt<br/>een groot probleem is</p>
+      <p begin="00:25:13.692" end="00:25:15.358">en als we nou gewoon,<br/>zegmaar,</p>
+      <p begin="00:25:15.358" end="00:25:16.797">misschien alles konden <br/>veranderen</p>
+      <p begin="00:25:16.797" end="00:25:20.538">en stoppen met dingen<br/>altijd maar weggooien.</p>
+      <p begin="00:25:20.538" end="00:25:24.113">- Vanavond had ik zoiets van, OK,<br/>als je dit van me vraagt,</p>
+      <p begin="00:25:24.113" end="00:25:27.396">dan zou ik een prijs moeten krijgen,<br/>een coupon of voucher</p>
+      <p begin="00:25:27.396" end="00:25:29.289">om iets tegoed te krijgen.</p>
+      <p begin="00:25:29.289" end="00:25:33.646">maar ik wil eigenlijk niets, en<br/>toen dacht ik</p>
+      <p begin="00:25:33.646" end="00:25:37.613">ik was teleurgesteld omdat<br/>dat deel van met dat dat wilde</p>
+      <p begin="00:25:37.613" end="00:25:42.333">een beetje doodging, en in plaats<br/>daarvan was er een leegte.</p>
+      <p begin="00:25:42.333" end="00:25:45.697">- Dus wat is over?</p>
+      <p begin="00:25:50.280" end="00:25:51.450">- Hoe bedoel je?</p>
+      <p begin="00:25:51.450" end="00:25:57.750">- Alles wat je weg ging geven<br/>na het uitruimen van je kasten.</p>
+      <p begin="00:25:57.750" end="00:26:00.263">- OK, ben je er klaar voor?</p>
+      <p begin="00:26:04.925" end="00:26:08.942">- Dat noemen we <br/>voorraadvermindering.</p>
+      <p begin="00:26:12.403" end="00:26:15.306">[Michelle schrikt]</p>
+      <p begin="00:26:15.306" end="00:26:18.628">Ik ben nog nooit ergens geweest<br/>waar ze een Marc Jacob's winkel plaatsen.</p>
+      <p begin="00:26:18.628" end="00:26:21.959">- Jij hebt die exacte tas al.<br/>- Nee, die heb ik niet schat.</p>
+      <p begin="00:26:21.959" end="00:26:24.802">Schat, ik heb de witte Sophia.</p>
+      <p begin="00:26:24.802" end="00:26:25.939">- En wat is dat?</p>
+      <p begin="00:26:25.939" end="00:26:30.178">- Dat is niet wit? Het is taupe, maar<br/>een hele andere tas.</p>
+      <p begin="00:26:30.178" end="00:26:32.831">[auto toetert]</p>
+      <p begin="00:26:44.897" end="00:26:47.221">Misschien was de onze iets groter. <br/>Ik weet het niet, hoe dan ook,</p>
+      <p begin="00:26:47.221" end="00:26:49.438">het herinnert me aan onze TV.</p>
+      <p begin="00:26:49.438" end="00:26:51.444">[lacht zachtjes]</p>
+      <p begin="00:26:55.925" end="00:26:59.108">- [Radio presentator] Je luister naar New<br/>York Radio WNYC FM en AM New York</p>
+      <p begin="00:26:59.108" end="00:27:01.261">en WNYC punt org.</p>
+      <p begin="00:27:01.261" end="00:27:04.742">Vooral zonnige luchten in Central<br/>Park rond 10 uur.</p>
+      <p begin="00:27:04.742" end="00:27:08.537">Mijn eerste gast vandaag <br/>is *No Impact Man*</p>
+      <p begin="00:27:08.537" end="00:27:13.318">Colin Beavan is met mij zojuist 24 <br/>verdiepingen via de trap gelopen</p>
+      <p begin="00:27:13.318" end="00:27:18.686">die daarmee het gebruik van electriciteit<br/>in de lift heeft voorkomen..</p>
+      <p begin="00:27:18.686" end="00:27:20.856">Voor de luisteraars die de *New<br/>York Times* binnen handbereik hebben,</p>
+      <p begin="00:27:20.856" end="00:27:23.553">kijk eens naar sectie F,<br/>het Huis en Wonen deel.</p>
+      <p begin="00:27:23.553" end="00:27:27.210">Daar zul je een grote, groen getinte<br/>foto van Colin Beavan's huis zien</p>
+      <p begin="00:27:27.210" end="00:27:28.822">met zijn vrouw, dochter en alles.</p>
+      <p begin="00:27:28.822" end="00:27:29.901">[muziek speelt]</p>
+      <p begin="00:27:29.901" end="00:27:31.961">Een van de grootste foto's die ik<br/>ooit in de *New York Times* heb gezien.</p>
+      <p begin="00:27:31.961" end="00:27:32.700">[lacht]</p>
+      <p begin="00:27:32.700" end="00:27:35.573">Een van de kleinste flats die ik ooit in<br/>de *New York Times* heb gezien.</p>
+      <p begin="00:27:36.127" end="00:27:36.682">[lacht]</p>
+      <p begin="00:27:36.682" end="00:27:38.510">Na Bryan's show reed ik<br/>naar huis en ik dacht</p>
+      <p begin="00:27:38.510" end="00:27:41.479">zouden mijn vrienden het verhaal<br/>in de *New York Times* hebben gezien</p>
+      <p begin="00:27:41.479" end="00:27:47.433">en felicitaties hebben gemaild, zodat ik<br/>150 e-mails heb?</p>
+      <p begin="00:27:47.433" end="00:27:51.986">De onderwerplijn zou misschien zijn<br/>"Groeten van de <span tts:fontStyle="italic">Today</span> show.</p>
+      <p begin="00:27:51.986" end="00:27:55.463">*Hallo. Dit is Mary Noel. Ik ben<br/>een producent voor Bill Mark.*</p>
+      <p begin="00:27:55.463" end="00:27:59.485">Eerst vond ik het geweldig, maar toen<br/>ik zag hoeveel verzoeken er waren</p>
+      <p begin="00:27:59.485" end="00:28:05.381">en niet wist wat er mee te doen,<br/>werd ik heel snel ontzettend bang.</p>
+      <p begin="00:28:05.381" end="00:28:07.414">*Hoi Colin. Mijn naam is Julie,*</p>
+      <p begin="00:28:07.414" end="00:28:09.448">*Ik werk voor Discovery Channel.*</p>
+      <p begin="00:28:09.448" end="00:28:13.075">*"Hallo Mr. Beavan, mijn naam is Abe<br/>Hagras en ik bel van Al Jazeera English*</p>
+      <p begin="00:28:13.075" end="00:28:15.234">*in Washington D.C.*</p>
+      <p begin="00:28:15.234" end="00:28:18.664">Mensen namen contact op vanuit <br/>Australi&#235;, Colombi&#235;, Duitsland, Itali&#235;.</p>
+      <p begin="00:28:18.664" end="00:28:23.582">- Hij schrijft een verhaal over families<br/>die in New York wonen</p>
+      <p begin="00:28:23.582" end="00:28:26.579">eco-effectieve en <br/>milieuvriendelijke families</p>
+      <p begin="00:28:26.579" end="00:28:29.747">- [Vrouwelijke interviewer] Kun je iets<br/>meer naar mij toedraaien?</p>
+      <p begin="00:28:30.456" end="00:28:31.900">- Zie je?</p>
+      <p begin="00:28:31.900" end="00:28:37.086">En dan is er Italiaanse televisie,<br/>Japanse televisie.</p>
+      <p begin="00:28:37.086" end="00:28:39.741">Een interview aanvraag van<br/>een Franse krant.</p>
+      <p begin="00:28:39.741" end="00:28:44.854">- [Verslaggever] [in Franse taal]</p>
+      <p begin="00:28:44.854" end="00:28:47.089">- Voordat we aan dit project begonnen, <br/>hadden Michelle en ik</p>
+      <p begin="00:28:47.089" end="00:28:49.539">- [Radio presentator] Sorry, je had het<br/>over de filosofie, wat achter --</p>
+      <p begin="00:28:49.539" end="00:28:49.950">- OK.</p>
+      <p begin="00:28:49.950" end="00:28:50.582">- *No Impact Man.*</p>
+      <p begin="00:28:50.582" end="00:28:53.820">- Ik denk eigenlijk altijd na over<br/>collectieve actie.</p>
+      <p begin="00:28:53.820" end="00:28:58.076">Wat we als maatschappij kunnen doen.<br/>De wetten die moeten veranderen.</p>
+      <p begin="00:28:58.076" end="00:29:00.695">Maar een zwak punt voor mij,<br/>als Liberaal,</p>
+      <p begin="00:29:00.695" end="00:29:01.632">is individuele actie, zoals</p>
+      <p begin="00:29:01.632" end="00:29:03.816">"Waarom zou ik op het Parlement<br/>moeten wachten om iets te doen?"</p>
+      <p begin="00:29:03.816" end="00:29:06.311">"Waarom moet ik op een groot bedrijf<br/>te wachten om iets te doen?"</p>
+      <p begin="00:29:06.311" end="00:29:07.576">"Waarom doe ik niet iets?"</p>
+      <p begin="00:29:07.576" end="00:29:10.871">- In de <span tts:fontStyle="italic">Times</span> klinkt evenwel enerzijds<br/>als het veranderen van de wereld,</p>
+      <p begin="00:29:10.871" end="00:29:13.700">maar ook een truc voor je nieuwe<br/>boek. Ben je het daarmee eens?</p>
+      <p begin="00:29:13.700" end="00:29:15.625">- Ja, absoluut.</p>
+      <p begin="00:29:15.625" end="00:29:17.926">Je weet wie ik ben.<br/>Dit is wat ik doe.</p>
+      <p begin="00:29:17.926" end="00:29:23.070">Maar als ik de energie die ik als<br/>persoon draag kan nemen en</p>
+      <p begin="00:29:23.070" end="00:29:25.644">ergens op kan richten dat, en ik<br/>zeg dit in alle bescheidenheid,</p>
+      <p begin="00:29:25.644" end="00:29:29.156">maar ergens kan op richten waarmee<br/>ik de wereld kan helpen,</p>
+      <p begin="00:29:29.156" end="00:29:31.731">dan is dat beter dan dat ik<br/>het ergens anders op richt.</p>
+      <p begin="00:29:31.731" end="00:29:36.213">Dit is wat de *New York Times*<br/>journalist zegt over het project.</p>
+      <p begin="00:29:36.213" end="00:29:40.176">"Op z'n best lijkt het op een scene<br/>uit een ouderwetse comedie,"</p>
+      <p begin="00:29:40.176" end="00:29:44.651">"en op zijn slechts <br/>tenenkrommende zelf-promotie."</p>
+      <p begin="00:29:44.651" end="00:29:48.220">Dus eigenlijk zegt dat <br/>het ergens tussen</p>
+      <p begin="00:29:48.220" end="00:29:51.873">slecht en heel erg slecht ligt.</p>
+      <p begin="00:29:51.873" end="00:29:53.116">*Voor de lezer was dat heel grappig.*</p>
+      <p begin="00:29:53.116" end="00:29:58.281">Voor mij, het tast de mogelijkheid aan<br/>voor mensen om een eigen mening te vormen.</p>
+      <p begin="00:29:58.281" end="00:30:00.404">&#9834; [muziek] &#9834;</p>
+      <p begin="00:30:00.404" end="00:30:04.651">Maar als we hernoemen tot "Ik ben <br/>in een jaar 10 kilo kwijt zonder sporten"</p>
+      <p begin="00:30:04.651" end="00:30:10.278">of "Een jaar zonder TV en hoe we<br/>veel betere ouders werden."</p>
+      <p begin="00:30:10.278" end="00:30:13.760">Of als we het hernoemen tot "Het jaar<br/>dat we lokaal seizoenseten aten,</p>
+      <p begin="00:30:13.760" end="00:30:17.457">en hoe mijn vrouw aldus over haar<br/>diabetes heen kwam."</p>
+      <p begin="00:30:17.457" end="00:30:22.248">Er zijn hele echte voordelen verbonden<br/>aan een milieuvriendelijk leven.</p>
+      <p begin="00:30:23.833" end="00:30:27.789">Dus het is de mening<br/>van de lezer, toch?</p>
+      <p begin="00:30:27.789" end="00:30:32.498">379 opmerkingen. Dat schijnt een<br/>heel groot aantal opmerkingen te zijn.</p>
+      <p begin="00:30:32.498" end="00:30:34.841">"Of je nu of later opoffert, ik doe<br/>al heel erg veel,</p>
+      <p begin="00:30:34.841" end="00:30:37.022">en ben van plan nog veel meer te doen."</p>
+      <p begin="00:30:37.022" end="00:30:40.970">En dan: "Ik kan niet wachten tot ik<br/>mijn reet kan afvegen aan dit boek."</p>
+      <p begin="00:30:40.970" end="00:30:43.339">En deze: "D.D.E. Michelle"</p>
+      <p begin="00:30:43.339" end="00:30:49.500">wat ik denk betekent "Dump Die Eikel"</p>
+      <p begin="00:30:49.500" end="00:30:55.397">Alle gekkigheid opzij, het zijn dit soort<br/>parodi&#235;n die de media halen.</p>
+      <p begin="00:30:55.397" end="00:30:58.043">"Colin huilt zachtjes op het toilet,</p>
+      <p begin="00:30:58.043" end="00:31:00.752">te nat om te verplaatsen, en te<br/>trots om af te vegen."</p>
+      <p begin="00:31:00.752" end="00:31:02.191">[Lacht]</p>
+      <p begin="00:31:02.191" end="00:31:04.782">Dat was grappig, maar met al<br/>die opmerkingen</p>
+      <p begin="00:31:04.782" end="00:31:06.985">was mijn eerste reactie om achter<br/>deze mensen aan te gaan</p>
+      <p begin="00:31:06.985" end="00:31:11.098">met wildvuur, en naar ze schreeuwen:<br/>"Is dat genoeg impact voor je?":</p>
+      <p begin="00:31:11.098" end="00:31:13.352">Ik begon ook even aan<br/>mijzelf te twijfelen.</p>
+      <p begin="00:31:13.352" end="00:31:16.366">Ik dacht van: "Ik dacht dat ik iets<br/>betekenisvol deed, maar misschien niet."</p>
+      <p begin="00:31:16.366" end="00:31:18.323">Misschien is dit wel verkeerd,<br/>filosofisch.</p>
+      <p begin="00:31:18.323" end="00:31:22.316">Ik heb ook e-mails gekregen van<br/>milieu-activitisten die zeggen,</p>
+      <p begin="00:31:22.316" end="00:31:24.927">*"Het zijn gekken als jou die het<br/>moeilijk maken voor de rest."*</p>
+      <p begin="00:31:24.927" end="00:31:31.508">Misschien neem ik wel helemaal<br/>de verkeerde beslissingen?</p>
+      <p begin="00:31:31.508" end="00:31:36.996">Ja maar je moet --- ik probeer<br/>het gewoon, weet je,</p>
+      <p begin="00:31:36.996" end="00:31:41.395">Ik probeer vragen aan mijn<br/>geweten te stellen</p>
+      <p begin="00:31:41.395" end="00:31:44.747">en ik probeer te volgen wat<br/>geweten mij zegt.</p>
+      <p begin="00:31:44.747" end="00:31:49.526">[geluid van lopend water]</p>
+      <p begin="00:31:49.526" end="00:31:53.038">- Ik weet dat ik nu niet meer terug<br/>kan en dat zal ik ook niet doen.</p>
+      <p begin="00:31:53.038" end="00:31:55.100">maar dit zorgt er wel voor<br/>dat ik het wil.</p>
+      <p begin="00:31:55.100" end="00:31:58.595">- Dat is geweldig, weet je,<br/>als we</p>
+      <p begin="00:31:58.595" end="00:32:00.199">jouw weblog hebben <br/>gelezen enzo.</p>
+      <p begin="00:32:00.199" end="00:32:03.748">- Iemand op werk die ik graag mag<br/>sprak me aan. Een vriendin</p>
+      <p begin="00:32:03.748" end="00:32:07.016">maar waar ze ook gaat, iedereen<br/>heeft het erover.</p>
+      <p begin="00:32:07.016" end="00:32:10.436">Hoe we bourgeois en <br/>gestoord zijn</p>
+      <p begin="00:32:10.436" end="00:32:14.097">en ze moet me altijd<br/>verdedigen.</p>
+      <p begin="00:32:14.097" end="00:32:15.546">een jongen, hij zei,</p>
+      <p begin="00:32:15.546" end="00:32:21.068">"Mijn wijf heeft me instructie gegeven<br/>nooit meer handen te schudden met jou."</p>
+      <p begin="00:32:21.068" end="00:32:26.791">en ze klaagde de hele nacht lang<br/>over hygi&#235;ne en...</p>
+      <p begin="00:32:26.791" end="00:32:31.077">Ik snap waarom mensen kritiek hebben.<br/>Maar niet waarom ze ons haten.</p>
+      <p begin="00:32:31.077" end="00:32:32.224">- Schat, dat is -- ik denk<br/>niet dat ze ons haten.</p>
+      <p begin="00:32:32.224" end="00:32:33.737">- Kijk daar eens naar!</p>
+      <p begin="00:32:37.373" end="00:32:40.846">- Helemaal toevallig, Colin en ik<br/>zijn voor een brunch uitgenodigd</p>
+      <p begin="00:32:40.846" end="00:32:45.833">door een vrouw, Carrie, omdat<br/>zij over voedsel schrijft.</p>
+      <p begin="00:32:45.833" end="00:32:52.923">en aan het eind van de brunch<br/>vertelt ze de waarheid</p>
+      <p begin="00:32:52.923" end="00:32:56.791">en zegt ze dat ze eigenlijk al iets<br/>negatiefs over ons heeft geschreven</p>
+      <p begin="00:32:56.791" end="00:32:59.651">en online een van onze haters is.</p>
+      <p begin="00:32:59.651" end="00:33:01.744">Ze zegt dat ze nu door ons ons<br/>van mening is veranderd.</p>
+      <p begin="00:33:01.744" end="00:33:02.801">Ik weet het niet.</p>
+      <p begin="00:33:02.801" end="00:33:04.356">- [Kerry Trueman] Ok. Even kijken<br/>of ik dit kan vinden.</p>
+      <p begin="00:33:04.356" end="00:33:05.918">"Ik heb hier heel<br/>lang tegenop gezien.</p>
+      <p begin="00:33:05.918" end="00:33:07.194">En ik maakte me zorgen dat je<br/>ernaar zou vragen."</p>
+      <p begin="00:33:07.194" end="00:33:08.431">[Michelle lacht]</p>
+      <p begin="00:33:08.431" end="00:33:09.633">- Jouw sport.</p>
+      <p begin="00:33:09.633" end="00:33:10.527">- Oh God!</p>
+      <p begin="00:33:10.527" end="00:33:13.222">"*No Impact Man* heeft<br/>wel degelijk een impact</p>
+      <p begin="00:33:13.222" end="00:33:15.232">maar niet de impact waar<br/>jij op hoopte.</p>
+      <p begin="00:33:15.232" end="00:33:17.360">Ooit, lange geleden, was deugd<br/>zijn eigen beloning.</p>
+      <p begin="00:33:17.360" end="00:33:21.729">Nu, een belofte om simpel te leven<br/>is een zakelijke onderneming.</p>
+      <p begin="00:33:21.729" end="00:33:24.794">Het feit dat *No Impact Man* alles<br/>organisch omarmt</p>
+      <p begin="00:33:24.809" end="00:33:28.462">is niet, nou ja, organische mode is<br/>wat me irriteert.</p>
+      <p begin="00:33:28.462" end="00:33:32.089">Terwijl *No Impact Man* rondrent voor<br/>het nageslacht,</p>
+      <p begin="00:33:32.089" end="00:33:35.446">leven flamboyante lui een leven<br/>vol stille inspiratie."</p>
+      <p begin="00:33:36.707" end="00:33:38.409">[zucht diep]</p>
+      <p begin="00:33:38.409" end="00:33:40.234">Ik zette vraagtekens bij zijn eerlijkheid<br/>en zijn motieven.</p>
+      <p begin="00:33:40.234" end="00:33:40.599">- Ja.</p>
+      <p begin="00:33:40.599" end="00:33:46.438">- En de stijl van zijn berichten was<br/>'G Willickers', dat irriteerde me ook.</p>
+      <p begin="00:33:46.438" end="00:33:54.212">- Jouw kritiek in de context van de <br/>kritiek is heel, heel mild</p>
+      <p begin="00:33:54.212" end="00:33:57.846">Ik snapte niet echt waarom mensen ons<br/>haatte of waarom het zo'n...</p>
+      <p begin="00:33:57.846" end="00:33:58.683">- Ik heb een theorie.</p>
+      <p begin="00:33:58.683" end="00:33:59.601">- Ik snapte het gewoon niet.</p>
+      <p begin="00:33:59.601" end="00:34:03.824">- Op basis van mijn ervaring met dit<br/>soort zaken wordt teveel gezegd</p>
+      <p begin="00:34:03.824" end="00:34:07.749">maar ik denk dat veel hiervan<br/>mensen wel degelijk raakt.</p>
+      <p begin="00:34:07.749" end="00:34:10.384">Naast het feit dat je mensen een<br/>schuldcomplex geeft,</p>
+      <p begin="00:34:10.384" end="00:34:15.025">en ze daardoor defensief worden over<br/>consumptie-levensstijl,</p>
+      <p begin="00:34:15.025" end="00:34:18.533">raken mensen erg getraumatiseerd<br/>wanneer je suggereert</p>
+      <p begin="00:34:18.533" end="00:34:21.484">dat ze het zonders iets zouden<br/>moeten kunnen doen.</p>
+      <p begin="00:34:21.484" end="00:34:24.365">Als ze het besef hebben van...</p>
+      <p begin="00:34:24.365" end="00:34:25.875">- Het idee van "Ik heb het nodig!"</p>
+      <p begin="00:34:25.875" end="00:34:28.099">- Om het dan zonder dat te doen, ja! Ik <br/>heb het nodig.. - Maar ik heb het nodig.</p>
+      <p begin="00:34:28.099" end="00:34:31.313">- of "Ik heb het niet nodig maar ik <br/>wil het en waarom dus ook niet."</p>
+      <p begin="00:34:31.313" end="00:34:34.536">Dat betekent gewoon dat je<br/>een goede Amerikaan bent.</p>
+      <p begin="00:34:34.536" end="00:34:57.848">&#9834; [muziek] &#9834;</p>
+      <p begin="00:34:57.848" end="00:35:01.450">*- [Colin] Een aspect van het lokaal eten<br/>is om in contact te komen met eten.*</p>
+      <p begin="00:35:01.450" end="00:35:04.672">*Dus ik sprak met de lokale gemeenschap<br/>en de wachtlijst*</p>
+      <p begin="00:35:04.672" end="00:35:07.435">*om je eigen land te hebben is land,<br/>jarenlang.*</p>
+      <p begin="00:35:07.435" end="00:35:10.490">*Maar het blijkt dat er maar een<br/>persoon is in zo'n gemeenschapstuin*</p>
+      <p begin="00:35:10.490" end="00:35:11.724">*die zijn eigen groenten groeit.*</p>
+      <p begin="00:35:11.724" end="00:35:13.124">*Alle anderen groeien bloemen.*</p>
+      <p begin="00:35:13.124" end="00:35:17.521">En hij was bereid om mij het<br/>een en ander te leren.</p>
+      <p begin="00:35:17.521" end="00:35:19.117">- [Meyer] Ga je ons in de <br/>tuin helpen?</p>
+      <p begin="00:35:19.117" end="00:35:20.585">- Ja!</p>
+      <p begin="00:35:20.585" end="00:35:22.047">- Wil je dingen groeien?</p>
+      <p begin="00:35:22.047" end="00:35:23.958">- Dat is mijn vriend, Meyer.</p>
+      <p begin="00:35:23.958" end="00:35:27.061">Voorzichtig. Dat is een rozenstruik.<br/>De struik heeft doornen.</p>
+      <p begin="00:35:27.061" end="00:35:28.649">- [Meyer] Zie je, dat prikt echt. <br/>- [Colin] Scherpe dingen.</p>
+      <p begin="00:35:30.573" end="00:35:33.752">- Laten we het hebben over wat<br/>je vandaag hoopt te doen.</p>
+      <p begin="00:35:33.752" end="00:35:34.813">*- Ja.*</p>
+      <p begin="00:35:34.813" end="00:35:37.778">- Op dit stukje land gaat<br/>peterselie groeien.</p>
+      <p begin="00:35:37.778" end="00:35:42.056">Strooi het maar over deze<br/>rechthoek heen</p>
+      <p begin="00:35:42.056" end="00:35:46.644">en bedek het tot de aangegeven diepte<br/>en elders ook.</p>
+      <p begin="00:35:46.644" end="00:35:50.350">&#9834; [muziek] &#9834;</p>
+      <p begin="00:35:50.350" end="00:35:52.647">- Zal ik je uitleggen wat ik<br/>aan het doen ben, schat?</p>
+      <p begin="00:35:52.647" end="00:35:55.741">We gaan hier wat planten groeien en<br/>moeten deze aarde breken</p>
+      <p begin="00:35:55.741" end="00:35:57.537">zodat de planten kunnen groeien.</p>
+      <p begin="00:35:57.537" end="00:35:59.953">*Ik dacht dat tuinieren<br/>hard werk was, Meyer?*</p>
+      <p begin="00:35:59.953" end="00:36:03.293">- Dat is het ook! Heel veel ervan is<br/>arbeidsintensief...</p>
+      <p begin="00:36:03.640" end="00:36:05.045">*- Als je de mest verspreid?*</p>
+      <p begin="00:36:05.045" end="00:36:05.611">- Ja!</p>
+      <p begin="00:36:05.611" end="00:36:06.348">*- OK.*</p>
+      <p begin="00:36:06.348" end="00:36:09.385">- Toen ik vorige herfst deze hele<br/>rotplek op moest graven.</p>
+      <p begin="00:36:09.385" end="00:36:14.271">- Ik neem deze zaden, ja? En stop ze hier <br/>in de grond.</p>
+      <p begin="00:36:14.271" end="00:36:18.857">Meyer, we gaan vier dagen doorbrengen<br/>op de Hawthorne Valley Farm.</p>
+      <p begin="00:36:18.857" end="00:36:21.781">- Dat hele ding is, iedereen op<br/>de boerderij is gerecycled.</p>
+      <p begin="00:36:21.781" end="00:36:22.629">*- Ja!*</p>
+      <p begin="00:36:22.629" end="00:36:23.907">- Het is allemaal duurzaam.</p>
+      <p begin="00:36:23.907" end="00:36:24.588">- Ja!</p>
+      <p begin="00:36:24.588" end="00:36:25.263">*- Heel goed.*</p>
+      <p begin="00:36:25.263" end="00:36:28.349">- Ik heb ze opgebeld en het hele gezien -<br/>ik, Isabella en Michelle,</p>
+    </div>
+    <div>
+      <p begin="00:36:28.349" end="00:36:29.978">het wordt een soort<br/>van vakantie.</p>
+      <p begin="00:36:29.978" end="00:36:31.081">*- Dat is leuk!*</p>
+      <p begin="00:36:31.081" end="00:36:32.415">- Ja.</p>
+      <p begin="00:36:32.415" end="00:36:43.336">&#9834; [muziek] &#9834;</p>
+      <p begin="00:36:43.336" end="00:36:46.711">*- [Michelle] Ik denk dat we moeten<br/>praten over of we nog een kind willen.*</p>
+      <p begin="00:36:46.711" end="00:36:48.850">*- [Colin] Hmhm.*</p>
+      <p begin="00:36:50.543" end="00:36:53.612">- Maar ik weet dat je niet<br/>nog een kind wilt</p>
+      <p begin="00:36:53.612" end="00:36:59.646">dus ik denk dat dat betekent dat we<br/>niet nog een kind zullen hebben.</p>
+      <p begin="00:37:01.417" end="00:37:03.580">- Uhm,</p>
+      <p begin="00:37:04.845" end="00:37:08.081">*Toen we Isabella kregen, dacht ik echt<br/>dat je nog een baby wilde*</p>
+      <p begin="00:37:08.081" end="00:37:10.748">en wat ik wilde met mijn leven telde<br/>ook, weet je.</p>
+      <p begin="00:37:10.748" end="00:37:13.226">En dat wilde ik je gewoon niet<br/>onthouden,</p>
+      <p begin="00:37:13.226" end="00:37:15.723">*en ik was bereid om samen met<br/>jou die sprong te nemen*</p>
+      <p begin="00:37:15.723" end="00:37:18.878">want het voelde alsof, het is grappig<br/>omdat we deze geschiedenis hebben</p>
+      <p begin="00:37:18.898" end="00:37:20.548">ik was eigenlijk<br/>ook bang om te trouwen,</p>
+      <p begin="00:37:20.548" end="00:37:23.009">en ik zou zeggen, "Doen we<br/>het wel goed?"</p>
+      <p begin="00:37:23.009" end="00:37:25.516">en jij zou zeggen "Ja", en ik<br/>vertrouw op jouw leiderschap --</p>
+      <p begin="00:37:25.516" end="00:37:29.081">Ik vertrouwde je, en voor mij<br/>klopt het allemaal zo.</p>
+      <p begin="00:37:29.127" end="00:37:31.588">Maar als ik denk over het hebben<br/>van een tweede kind,</p>
+      <p begin="00:37:31.588" end="00:37:32.563">*- Hmhm.*</p>
+      <p begin="00:37:32.563" end="00:37:38.231">Wie geeft zijn carri&#232;re daarvoor op,<br/>wiens werk komt op de tweede plek?</p>
+      <p begin="00:37:38.231" end="00:37:40.536">*Want jij hebt het heel erg druk<br/>met je werk.</p>
+      <p begin="00:37:40.536" end="00:37:43.959">Als we een tweede kind hebben, ben<br/>jij bereid je werk op te geven?</p>
+      <p begin="00:37:43.959" end="00:37:47.820">- Dat hoef ik niet, dat is zo -- ik hoef<br/>helemaal niets op te geven</p>
+      <p begin="00:37:47.820" end="00:37:50.358">voor een tweede kind.</p>
+      <p begin="00:37:50.728" end="00:37:53.137">Ik weet niet waarom je erover -- ik denk<br/>niet dat mijn werk</p>
+      <p begin="00:37:53.137" end="00:37:56.370">hier ook maar iets mee<br/>te maken heeft.</p>
+      <p begin="00:37:56.370" end="00:37:59.947">- Maar dat is wel zo,<br/>want wat ik wil zeggen is dat</p>
+      <p begin="00:37:59.947" end="00:38:02.920">ik wil weten of we een tweede<br/>kind kunnen hebben, ok?</p>
+      <p begin="00:38:02.920" end="00:38:06.845">Ik wil niet per se een twee --<br/>ik wil geen tweede kind, OK?</p>
+      <p begin="00:38:06.845" end="00:38:10.307">Maar voordat we het ook maar<br/>beginnen te overwegen</p>
+      <p begin="00:38:10.307" end="00:38:12.733">we zijn allebei niet erg flexibel<br/>met onze schema's, OK?</p>
+      <p begin="00:38:12.733" end="00:38:17.293">Dus wat ik eigenlijk wil vragen, waar<br/>halen we die flexibiliteit vandaan?</p>
+      <p begin="00:38:17.293" end="00:38:20.054">- Dat zal van mij vandaan komen!</p>
+      <p begin="00:38:28.285" end="00:38:29.962">[deur sluit]</p>
+      <p begin="00:38:32.718" end="00:38:33.824">- OK.</p>
+      <p begin="00:38:33.824" end="00:38:36.488">Ik zal alle schoonmaakspullen die we<br/>in huis hebben verzamelen.</p>
+      <p begin="00:38:36.704" end="00:38:39.541">Standaard schoonmaakproducten zitten<br/>vol met chemicalen</p>
+      <p begin="00:38:39.541" end="00:38:40.888">die niet goed voor ons zijn.</p>
+      <p begin="00:38:40.888" end="00:38:42.378">En ze zijn ook niet goed voor het milieu</p>
+      <p begin="00:38:42.378" end="00:38:47.306">en worden uiteindelijk doorgespoeld en<br/>komen weer in het water terecht.</p>
+      <p begin="00:38:47.306" end="00:38:52.703">We kijken hier dus naar een hoop dingen<br/>die worden verkocht als</p>
+      <p begin="00:38:52.703" end="00:38:58.035">natuurlijk en milieuvriendelijk</p>
+      <p begin="00:38:58.035" end="00:39:01.455">omdat we nu al een tijdje met het project<br/>bezig zijn.</p>
+      <p begin="00:39:01.455" end="00:39:04.283">Ze staan je niet toe je flessen<br/>te hervullen</p>
+      <p begin="00:39:04.283" end="00:39:08.229">en voor dit project gebruiken we<br/>geen wegwerpproducten</p>
+      <p begin="00:39:08.229" end="00:39:10.508">en mensen zeggen, "Maar<br/>hoe zit het met recyclen?"</p>
+      <p begin="00:39:10.508" end="00:39:15.562">Maar in feite is plastic recyclen niet<br/>zo goed als</p>
+      <p begin="00:39:15.562" end="00:39:16.769">men zegt.</p>
+      <p begin="00:39:16.769" end="00:39:19.875">Het is beter dan niets, maar<br/>het is verre van perfect.</p>
+      <p begin="00:39:19.875" end="00:39:22.994">Dus, mensen noemen het "down cycling"<br/>in plaats van recyclen</p>
+      <p begin="00:39:22.994" end="00:39:27.221">want de kwaliteit wordt minder en<br/>uiteindelijk giftig.</p>
+      <p begin="00:39:27.221" end="00:39:31.249">Omdat veel van onze spullen opraken<br/>hebben we lege flessen bewaard</p>
+      <p begin="00:39:31.249" end="00:39:36.477">zodat we onze thuisgemaakte<br/>schoonmaakproducten daarin doen.</p>
+      <p begin="00:39:37.375" end="00:39:39.287">Al onze schoonmaakprodcuten kunnen<br/>van deze dingen worden gemaakt.</p>
+      <p begin="00:39:39.287" end="00:39:47.217">Witte azijn, zuiveringszout,<br/>Castile zeep en Borax.</p>
+      <p begin="00:39:47.217" end="00:39:51.871">[water stroomt]</p>
+      <p begin="00:39:51.871" end="00:39:53.377">Ik weet het niet. Hoe weet je<br/>of het echt schoon is?</p>
+      <p begin="00:39:53.377" end="00:39:56.484">Het voelt alsof, weet je, het voelt <br/>hetzelfde als wanneer we</p>
+      <p begin="00:39:56.484" end="00:39:58.999">gewone schoonmaakspullen<br/>gebruiken.</p>
+      <p begin="00:40:05.945" end="00:40:07.336">Hey shit, je weet wat ik nu aan<br/>het doen ben, ja?</p>
+      <p begin="00:40:07.336" end="00:40:09.733">Ik ben alle opmaakspullen<br/>aan het weggooien.</p>
+      <p begin="00:40:09.733" end="00:40:10.995">- Mijn opmaakspullen?</p>
+      <p begin="00:40:10.995" end="00:40:12.456">Ja, horen we dat niet te doen?</p>
+      <p begin="00:40:12.456" end="00:40:14.484">- Oh, je bedoelt mijn make up enzo?</p>
+      <p begin="00:40:14.484" end="00:40:18.165">- Ja, dat dacht ik, maar ik weet het niet.<br/>Wat ga je met je make up doen?</p>
+      <p begin="00:40:18.165" end="00:40:20.555">- Wat doe je? Ga je dat gewoon<br/>allemaal weggooien?</p>
+      <p begin="00:40:20.555" end="00:40:21.506">- Nouja, nee. Ik ging het niet<br/>weggooien.</p>
+      <p begin="00:40:21.506" end="00:40:24.617">Ik zou het in deze doos doen<br/>tot het jaar voorbij is.</p>
+      <p begin="00:40:25.478" end="00:40:28.267">- OK. Laat me maar weten.</p>
+      <p begin="00:40:28.756" end="00:40:30.755">[Colin lacht]</p>
+      <p begin="00:40:30.815" end="00:40:36.095">- Ik kan dit niet zomaar allemaal in<br/>een doos dus. Kun je helpen?</p>
+      <p begin="00:40:40.834" end="00:40:42.811">[gerinkel van flessen]</p>
+      <p begin="00:40:47.396" end="00:40:48.877">- Schat!</p>
+      <p begin="00:40:48.877" end="00:40:49.484">- Ja?</p>
+      <p begin="00:40:49.484" end="00:40:53.030">- Laat die fles waar "Vers" opstaat maar.<br/>Ik kijk daar wel naar.</p>
+      <p begin="00:40:53.030" end="00:40:55.610">- Die liet ik ook al voor je staan.</p>
+      <p begin="00:40:57.657" end="00:41:00.373">- Hier, leeg.</p>
+      <p begin="00:41:00.373" end="00:41:01.752">- Ik weet het, ik heb het nodig.</p>
+      <p begin="00:41:01.752" end="00:41:02.298">[Isabella praat]</p>
+      <p begin="00:41:02.298" end="00:41:03.782">- Want weet je wat ik ga doen?<br/>Ik ga shampoo maken</p>
+      <p begin="00:41:03.782" end="00:41:05.904">en in de fles stoppen.</p>
+      <p begin="00:41:09.258" end="00:41:11.451">Een paar dagen geleden schreef ik<br/>een weblog over het feit</p>
+      <p begin="00:41:11.451" end="00:41:13.359">dat we geen electriciteit<br/>meer gaan gebruiken</p>
+      <p begin="00:41:13.359" end="00:41:15.566">Ik vroeg voor suggesties en gaf een<br/>list voor alle dingen</p>
+      <p begin="00:41:15.566" end="00:41:20.219">waar ik hulp mee nodig heb, en<br/>een daarvan was de was.</p>
+      <p begin="00:41:20.219" end="00:41:23.749">Iemand stuurde me een e-mail en zei<br/>dat ze hun bad gebruiken voor de was</p>
+      <p begin="00:41:23.749" end="00:41:26.944">en er dan gewoon overheen lopen en<br/>dat klinkt mij wel goed in de oren.</p>
+      <p begin="00:41:26.959" end="00:41:28.190">[geluid van water]</p>
+      <p begin="00:41:28.190" end="00:41:29.779">[Isabella praat]</p>
+      <p begin="00:41:29.779" end="00:41:31.427">Wil jij het ook doen?</p>
+      <p begin="00:41:31.427" end="00:41:35.146">[geluid van water]</p>
+      <p begin="00:41:35.146" end="00:41:37.019">Nu gaan we achteruit.</p>
+      <p begin="00:41:37.019" end="00:41:38.197">[Lachen]</p>
+      <p begin="00:41:38.197" end="00:41:39.723">Mam!</p>
+      <p begin="00:41:39.723" end="00:41:40.735">[Isabella praat]</p>
+      <p begin="00:41:40.735" end="00:41:41.864">We gaan de was doen.</p>
+      <p begin="00:41:41.864" end="00:41:43.908">- Ik wil het zelf doen.</p>
+      <p begin="00:41:43.908" end="00:41:49.191">Wil je het zelf doen? Maar ik ben<br/>bang dat je valt. Niet vallen.</p>
+      <p begin="00:41:49.191" end="00:41:51.668">- Is het, wat, wat gebruik je<br/>om kleding te wassen?</p>
+      <p begin="00:41:51.668" end="00:41:55.360">- Weet je, Cast --- Oh! Ik<br/>zei je toch niet te vallen.</p>
+      <p begin="00:41:55.360" end="00:41:56.776">[Lacht]</p>
+      <p begin="00:41:56.776" end="00:41:57.670">Ik zei toch dat je niet moest vallen.</p>
+      <p begin="00:41:57.670" end="00:41:58.954">- Lieverd, wat zit<br/>daarin?</p>
+      <p begin="00:41:58.954" end="00:42:00.471">- Zeep en Borax.</p>
+      <p begin="00:42:00.471" end="00:42:01.949">- Wat is Borax?</p>
+      <p begin="00:42:01.949" end="00:42:05.510">- Het is natuurlijk. Natuurlijk wasmiddel.<br/>Wil je erin?</p>
+      <p begin="00:42:05.510" end="00:42:07.665">- Ja.</p>
+      <p begin="00:42:07.665" end="00:42:09.656">[Lacht]</p>
+      <p begin="00:42:09.656" end="00:42:10.676">*- [Isabella] Ik doe de was.*</p>
+      <p begin="00:42:10.676" end="00:42:12.571">- Jij doet de was.</p>
+      <p begin="00:42:13.249" end="00:42:15.415">In school, heeft ze<br/>zoiets van...</p>
+      <p begin="00:42:15.415" end="00:42:16.790">[Michelle lacht]</p>
+      <p begin="00:42:16.790" end="00:42:18.832">- [Schrikt] Oh, je hebt het water<br/>zo koud gemaakt!</p>
+      <p begin="00:42:18.832" end="00:42:20.509">- Nou ja, de kleding heeft er<br/>drie uur ingelegen.</p>
+      <p begin="00:42:20.509" end="00:42:22.854">- Nou, is dit nou niet leuk?</p>
+      <p begin="00:42:22.854" end="00:42:25.565">- Kom op! Het is net het persen<br/>van druiven.</p>
+      <p begin="00:42:25.565" end="00:42:27.456">Kom op, maak het schoon kinderen.</p>
+      <p begin="00:42:27.456" end="00:42:29.461">Uh-oh, ik denk dat<br/>ze een probleem heeft.</p>
+      <p begin="00:42:29.461" end="00:42:30.921">- Probleem? Hoezo?</p>
+      <p begin="00:42:30.921" end="00:42:33.444">Ze is alleen maar op zoek<br/>naar problemen.</p>
+      <p begin="00:42:33.444" end="00:42:34.550">*-[Isabella] Wassen!*</p>
+      <p begin="00:42:34.550" end="00:42:38.133">- [Samen] We gaan allemaal<br/>de was doen!</p>
+      <p begin="00:42:38.133" end="00:42:44.427">&#9834; [muziek] &#9834;</p>
+      <p begin="00:42:44.427" end="00:42:46.998">- [TV presentator] Sommige vrienden<br/>van je denken dat je gek bent.</p>
+      <p begin="00:42:46.998" end="00:42:48.424">[Colin lacht]</p>
+      <p begin="00:42:48.424" end="00:42:51.129">- En ik probeer me voor te stellen dat<br/>ze op visite komen voor diner</p>
+      <p begin="00:42:51.129" end="00:42:55.645">bij jou thuis, voor pastinaak of<br/>wat het ook is dat je eet.</p>
+      <p begin="00:42:55.900" end="00:43:00.461">Wat zeggen je vrienden daarvan? Met<br/>geen tissues, geen WC papier,</p>
+      <p begin="00:43:00.461" end="00:43:02.364">kun je dat?</p>
+      <p begin="00:43:02.364" end="00:43:04.349">[publiek lacht]</p>
+      <p begin="00:43:04.349" end="00:43:06.839">- Niemand hoeft te doen wat ik doe. Dat<br/>is niet wat belangrijk is.</p>
+      <p begin="00:43:06.839" end="00:43:09.530">Wat ik doe, brengt het probleem<br/>onder de aandacht, maar iedereen</p>
+      <p begin="00:43:09.530" end="00:43:11.165">moet gewoon doen wat hij of<br/>zij kan doen.</p>
+      <p begin="00:43:11.165" end="00:43:12.468">- Je bent nu, wat, vijf en een halve<br/>maand bezig,</p>
+      <p begin="00:43:12.468" end="00:43:15.195">de volgende stop is om zonder<br/>electriciteit te leven</p>
+      <p begin="00:43:15.195" end="00:43:18.160">en om het met daglicht te doen,<br/>in New York City?</p>
+      <p begin="00:43:18.160" end="00:43:20.128">- Zaterdag, er is een knop<br/>in mijn apartement</p>
+      <p begin="00:43:20.128" end="00:43:21.987">en dat is de schakelaar<br/>voor de hele flat.</p>
+      <p begin="00:43:21.987" end="00:43:25.931">We houden een klein feestje met<br/>onze vrienden en zetten het dan uit.</p>
+      <p begin="00:43:25.931" end="00:43:26.735">Dus ja.</p>
+      <p begin="00:43:26.735" end="00:43:27.983">- Nouja, we moeten het iedereen<br/>laten weten.</p>
+      <p begin="00:43:27.983" end="00:43:31.594">We zullen Colin gedurende dit<br/>lange jaar volgen.</p>
+      <p begin="00:43:31.594" end="00:43:35.861">&#9834; [muziek] &#9834;</p>
+      <p begin="00:43:35.861" end="00:43:39.457">*- [Colin] Ik ging wat spinazie halen,<br/>maar nu de electriciteit uitstaat,*</p>
+      <p begin="00:43:39.457" end="00:43:41.453">realizeer ik me dat ik niet <br/>veel kan kopen,</p>
+      <p begin="00:43:41.453" end="00:43:44.147">ik moet gewoon wat kopen<br/>voor de komende dagen</p>
+      <p begin="00:43:44.147" end="00:43:46.428">want anders zal het <br/>alleen maar bederven.</p>
+      <p begin="00:43:46.428" end="00:43:59.083">&#9834; [muziek] &#9834;</p>
+      <p begin="00:43:59.083" end="00:44:00.770">- Vanavond zullen we dan<br/>echt de electriciteit uitzetten</p>
+      <p begin="00:44:00.770" end="00:44:03.409">en ik heb er niet echt over nagedacht</p>
+      <p begin="00:44:03.409" end="00:44:09.365">maar ik heb nu echt het gevoel<br/>dat we de zesde maand ingaan</p>
+      <p begin="00:44:09.365" end="00:44:11.615">en ik heb het gevoel dat ik<br/>nu echt profiteer</p>
+      <p begin="00:44:11.615" end="00:44:14.918">en ik merk nu echt de voordelen, dus<br/>dat is echt gaaf.</p>
+      <p begin="00:44:14.918" end="00:44:17.696">maar ik weet zeker dat, weet je wel,<br/>vraag het me morgen</p>
+      <p begin="00:44:17.696" end="00:44:19.357">en ik ben het misschien alweer zat.</p>
+      <p begin="00:44:19.357" end="00:44:21.380">Laten we het er even over hebben,<br/>over hoe het zal zijn.</p>
+      <p begin="00:44:21.380" end="00:44:23.510">- Nou, er is een overgangsperiode.</p>
+      <p begin="00:44:23.510" end="00:44:25.638">Dat is moeilijk, net als<br/>alle andere dingen.</p>
+      <p begin="00:44:25.638" end="00:44:37.109">&#9834; [muziek] &#9834;</p>
+      <p begin="00:44:37.109" end="00:44:38.126">- Hoi.</p>
+      <p begin="00:44:38.126" end="00:44:39.683">- Hoi Gracie!</p>
+      <p begin="00:44:39.683" end="00:44:41.328">- Hoe gaat het?</p>
+      <p begin="00:44:41.328" end="00:44:41.329">- Hoi.</p>
+      <p begin="00:44:41.329" end="00:44:42.800">- Hoe gaat het?<br/>- Goed.</p>
+      <p begin="00:44:42.800" end="00:44:44.438">- Hoi! Hoe gaat het?</p>
+      <p begin="00:44:44.438" end="00:44:48.200">- [Mannelijke bezoeker] Het consumeren<br/>van gerecycled materiaal helpt het milieu.</p>
+      <p begin="00:44:48.200" end="00:44:49.490">Is dat al genoeg?</p>
+      <p begin="00:44:49.490" end="00:44:51.542">[Gelach]</p>
+      <p begin="00:44:52.227" end="00:44:54.395">[mensen praten]</p>
+      <p begin="00:44:54.395" end="00:44:55.503">- [Vrouwelijke gast] De wegwerpcup.</p>
+      <p begin="00:44:55.503" end="00:44:56.171">- [Mannelijke gast] Ja.</p>
+      <p begin="00:44:56.171" end="00:45:01.827">- Een bekertje dat niet gerecycled<br/>kan worden, en eigenlijk twee bekers,</p>
+      <p begin="00:45:01.827" end="00:45:02.974">daar lijkt het wel op.</p>
+      <p begin="00:45:02.974" end="00:45:04.256">Je hebt elke regel gebroken.</p>
+      <p begin="00:45:04.256" end="00:45:05.192">- OK.</p>
+      <p begin="00:45:07.050" end="00:45:09.485">*- [Michelle] Hebben jullie<br/>onze nieuwe koelkast gezien?*</p>
+      <p begin="00:45:09.485" end="00:45:10.599">*Jij wilt er ook een, of niet?*</p>
+      <p begin="00:45:10.599" end="00:45:11.253">*- [Vrouwelijke gast] Ja.*</p>
+      <p begin="00:45:11.253" end="00:45:13.322">- Wat is het verhaal?</p>
+      <p begin="00:45:13.322" end="00:45:14.395">Hoe heet het?</p>
+      <p begin="00:45:14.395" end="00:45:15.635">- [Colin] Het heet een<br/>"Pot in een Pot"</p>
+      <p begin="00:45:15.635" end="00:45:22.208">Het is in Nigeria ontwerpen en het<br/>idee is dat het water verdampt</p>
+      <p begin="00:45:22.208" end="00:45:26.355">uit het -- het zand tussen de twee <br/>potten is nat, en het water verdampt.</p>
+      <p begin="00:45:26.355" end="00:45:27.028">*- [Vrouwelijke gast] OK.*</p>
+      <p begin="00:45:27.028" end="00:45:29.956">- en de energie van de verdamping<br/>komt uit de binnenste pot</p>
+      <p begin="00:45:29.956" end="00:45:35.343">die koelt weer af en, bijvoorbeeld,<br/>een tomaat</p>
+      <p begin="00:45:35.343" end="00:45:39.076">die in Nigeria maar twee dagen na het<br/>plukken houdbaar is</p>
+      <p begin="00:45:39.076" end="00:45:40.850">*in dit ding is het drie<br/>weken goed.*</p>
+      <p begin="00:45:40.885" end="00:45:41.762">*- [Michelle] Ja.*</p>
+      <p begin="00:45:41.762" end="00:45:43.325">*- [Colin] En op dit moment zit er<br/>een glas water in*</p>
+      <p begin="00:45:43.325" end="00:45:45.212">dus we gaan kijken of het glas<br/>en het water...</p>
+      <p begin="00:45:45.212" end="00:45:47.706">*- [Vrouwelijke gast] Ik dacht dat dat<br/>onderdeel van de koelkast was.*</p>
+      <p begin="00:45:47.706" end="00:45:49.437">- Het glas water zit er in omdat we<br/>willen zien</p>
+      <p begin="00:45:49.437" end="00:45:51.680">of het water in het glas aan het einde<br/>van de avond koud is.</p>
+      <p begin="00:45:51.680" end="00:45:53.881">- [Mannelijke gast] Oh, ik dacht het<br/>nuclaire kool was</p>
+      <p begin="00:45:53.881" end="00:45:56.537">[Vrouw lacht]</p>
+      <p begin="00:45:57.106" end="00:46:00.158">dat dat hele ding door nuclaire<br/>energie werd gedreven.</p>
+      <p begin="00:46:00.158" end="00:46:02.347">*- [Vrouwelijke gast] Dat is<br/>niet zo, OK."</p>
+      <p begin="00:46:02.347" end="00:46:05.158">[mensen praten]</p>
+      <p begin="00:46:05.158" end="00:46:05.944">- [Colin] Ja.</p>
+      <p begin="00:46:05.944" end="00:46:07.481">- en deze komen allemaal <br/>van de boerenmarkt?</p>
+      <p begin="00:46:07.481" end="00:46:08.572">- Ja!</p>
+      <p begin="00:46:08.572" end="00:46:11.116">OK, hier gaan we dan!</p>
+      <p begin="00:46:13.239" end="00:46:16.115">[schakelaar klikt]</p>
+      <p begin="00:46:16.115" end="00:47:10.575">&#9834; [muziek] &#9834;</p>
+      <p begin="00:47:10.575" end="00:47:19.486">[glasgerinkel]</p>
+      <p begin="00:47:32.720" end="00:47:36.049">- Het is afgekoeld maar<br/>niet echt koud.</p>
+      <p begin="00:47:37.573" end="00:47:42.938">Hier kun je dan denk ik zien of je<br/>het wat kouder kunt maken.</p>
+      <p begin="00:47:56.883" end="00:47:58.210">- Dit is zegmaar mijn Vier<br/>Seizoenen</p>
+      <p begin="00:47:58.210" end="00:48:01.484">Ik heb mijn licht, ik heb - <br/>zegmaar, iemand die komt</p>
+      <p begin="00:48:01.484" end="00:48:05.734">en mijn afval weghaalt en er is,</p>
+      <p begin="00:48:07.196" end="00:48:10.536">zegmaar, genoeg verwarming en<br/>electriciteit en air conditioning</p>
+      <p begin="00:48:10.536" end="00:48:15.782">Dus mijn echte beloning<br/>is nu zegmaar</p>
+      <p begin="00:48:15.782" end="00:48:17.615">het ijs, ik zal het je laten zien.</p>
+      <p begin="00:48:17.615" end="00:48:19.076">Technisch gesproken is ijs<br/>ook niet toegestaan</p>
+      <p begin="00:48:19.076" end="00:48:25.134">maar ik sta mezelf ijs toe.</p>
+      <p begin="00:48:25.134" end="00:48:30.042">[kraken van ijs]</p>
+      <p begin="00:48:30.042" end="00:48:31.904">Het is heel goed. Het is kraanwater -<br/>New York City kraanwater</p>
+      <p begin="00:48:31.904" end="00:48:34.282">dus het is net zo goed als<br/>gekookt water.</p>
+      <p begin="00:48:34.282" end="00:48:37.219">Waarschijnlijk schoner en beter dan<br/>veel van het verpakte water.</p>
+      <p begin="00:48:39.604" end="00:48:44.367">Het is goed om het ijs heel koud te<br/>krijgen, je moet even wachten.</p>
+      <p begin="00:48:44.367" end="00:48:46.588">Hee jongens, ik wil jullie<br/>een verhaal vertellen.</p>
+      <p begin="00:48:46.588" end="00:48:51.803">Vandaag kreeg ik dus zegmaar echt<br/>hele goede informatie.</p>
+      <p begin="00:48:51.803" end="00:48:55.986">Het is een verhaal over wat misging.<br/>Het ging over zwakke plekken.</p>
+      <p begin="00:48:55.986" end="00:48:59.079">Ze negeerden hun sterke punten en<br/>investeerden er niet in.</p>
+      <p begin="00:48:59.079" end="00:49:02.712">En nu moet ik dus, zegmaar, het<br/>hele ding opgeven, toch?</p>
+      <p begin="00:49:02.712" end="00:49:07.240">En dan zien we wel wat er<br/>maandagmiddag gebeurt.</p>
+      <p begin="00:49:07.240" end="00:49:08.474">- [Man] Dit is een heel erg <br/>lang verhaal.</p>
+      <p begin="00:49:08.474" end="00:49:09.185">- Ik denk precies hetzelfde.</p>
+      <p begin="00:49:09.185" end="00:49:11.780">Het is het eerste verhaal waarbij<br/>ik niet eens nadacht over het feit</p>
+      <p begin="00:49:11.780" end="00:49:13.439">dat ik het zonder caffe&#239;ne moet doen.</p>
+      <p begin="00:49:13.439" end="00:49:17.840">Ik boek wat vooruitgang. Ik boek<br/>wat vooruitgang.</p>
+      <p begin="00:49:17.840" end="00:49:24.977">[auto's gaan voorbij]</p>
+      <p begin="00:49:24.977" end="00:49:27.509">Schat?</p>
+      <p begin="00:49:27.531" end="00:49:30.290">Herinner jij je waar je de<br/>lucifers hebt gelegd?</p>
+      <p begin="00:49:32.647" end="00:49:34.720">Wacht even, wacht even. <br/>Daar zijn ze.</p>
+      <p begin="00:49:34.720" end="00:49:36.430">[Colin lacht]</p>
+      <p begin="00:49:36.430" end="00:49:37.272">Ik heb ze.</p>
+      <p begin="00:49:37.272" end="00:49:38.289">[geluid van lucifer]</p>
+      <p begin="00:49:38.289" end="00:49:41.690">&#9834; [muziek] &#9834;</p>
+      <p begin="00:49:41.690" end="00:49:43.739">Het is eigenlijk onze eerste nacht<br/>zonder electriciteit</p>
+      <p begin="00:49:43.739" end="00:49:46.243">want gisteren hadden we mensen op<br/>bezoek en hadden we de electriciteit</p>
+      <p begin="00:49:46.243" end="00:49:48.162">het grootste deel van de avond.</p>
+      <p begin="00:49:48.162" end="00:49:57.348">&#9834; [muziek] &#9834;</p>
+      <p begin="00:49:57.348" end="00:50:01.307">Ben je verdrietig?</p>
+      <p begin="00:50:01.307" end="00:50:02.351">Ben je kwaad op me?</p>
+      <p begin="00:50:02.351" end="00:50:03.958">- [Colin] Nee.</p>
+      <p begin="00:50:07.082" end="00:50:09.413">- Wat is er dan schat?</p>
+      <p begin="00:50:13.475" end="00:50:15.898">- Het is stom.</p>
+      <p begin="00:50:15.898" end="00:50:17.495">- Wat? Het project is stom?</p>
+      <p begin="00:50:17.495" end="00:50:18.797">- Nee, dat we geen<br/>electriciteit hebben</p>
+      <p begin="00:50:18.797" end="00:50:21.387">wie leeft er nu eigenlijk<br/>zonder electritieit?</p>
+      <p begin="00:50:21.387" end="00:50:23.276">Dat is gewoon dom.</p>
+      <p begin="00:50:25.781" end="00:50:28.650">- Is dat echt wat je dwarszit of <br/>ben je bang dat...?</p>
+      <p begin="00:50:28.650" end="00:50:32.198">- Ik denk het niet, maar ik denk dat<br/>dit gewoon heel vervelend wordt.</p>
+      <p begin="00:50:32.198" end="00:50:34.560">[Michelle lacht]</p>
+      <p begin="00:50:34.560" end="00:50:36.670">- Dat kan ik niet ontkennen.</p>
+      <p begin="00:50:36.670" end="00:50:39.405">- Ik weet het niet. Ik heb gewoon het<br/>gevoel dat dit hele project</p>
+      <p begin="00:50:39.405" end="00:50:45.110">Ik bedoel, ik was nieuwsgierig<br/>maar niet...</p>
+      <p begin="00:50:46.941" end="00:50:50.422">Iedereen is dit alweer vergeten tegen<br/>de tijd dat het boek uitkomt.</p>
+      <p begin="00:50:50.422" end="00:50:54.808">En dan is het gewoon een andere<br/>onbelangrijk boek.</p>
+      <p begin="00:50:55.208" end="00:50:59.014">- Zullen we het eens zijn dat het<br/>gewoon heel stom is?</p>
+      <p begin="00:50:59.014" end="00:51:04.298">OK, dat denk ik niet. Maar, zegmaar,<br/>in het ergste geval.</p>
+      <p begin="00:51:04.298" end="00:51:09.632">Maar tot nu toe is het geweldig. We hebben<br/>heel veel lol gehad tot nu toe.</p>
+      <p begin="00:51:09.632" end="00:51:13.369">Ik bedoel, het is moeilijk geweest,<br/>maar ook leuk, toch?</p>
+      <p begin="00:51:14.908" end="00:51:16.550">- Ja, het is leuk geweest.</p>
+      <p begin="00:51:16.550" end="00:51:37.384">&#9834; [muziek] &#9834;</p>
+      <p begin="00:51:41.085" end="00:51:44.124">*- [Radio presentator} New York Public<br/>Radio WNYC FM en AM New York*</p>
+      <p begin="00:51:44.124" end="00:51:46.188">*en WNYC punt org*</p>
+      <p begin="00:51:46.188" end="00:51:50.389">&#9834; [muziek] &#9834;</p>
+      <p begin="00:51:50.389" end="00:51:54.295">*en de hitte-index is meer<br/>dan een waarschuwing.*</p>
+      <p begin="00:51:54.295" end="00:51:59.213">*Ik bedoel, hier is het al 29 graden<br/>en het is pas 10 na 12.*</p>
+      <p begin="00:51:59.213" end="00:52:01.161">[iemand slaat met papier]</p>
+      <p begin="00:52:01.356" end="00:52:02.849">- Het is smerig.</p>
+      <p begin="00:52:07.167" end="00:52:12.110">- Ik kwam gisteren thuis en het hele<br/>huis zat vol met vliegen.</p>
+      <p begin="00:52:13.110" end="00:52:18.853">[geluid van vliegen]</p>
+      <p begin="00:52:18.853" end="00:52:22.576">De vliegen waren zich aan het reproduceren<br/>in mijn wormendoos</p>
+      <p begin="00:52:22.576" end="00:52:28.075">en elke keer dat ik de wormendoos opende<br/>kwamen er meer babyvliegen uit</p>
+      <p begin="00:52:31.214" end="00:52:34.296">[geluid van vliegen]</p>
+      <p begin="00:52:35.557" end="00:52:38.269">Oh mijn God! Kijk dan!</p>
+      <p begin="00:52:38.269" end="00:52:39.082">Oh mijn God!</p>
+      <p begin="00:52:39.082" end="00:52:51.943">&#9834;[muziek]&#9834;</p>
+      <p begin="00:52:51.943" end="00:52:57.385">Trouwens, kijk eens. Het is<br/>allemaal aarde. Zie je?</p>
+      <p begin="00:52:59.509" end="00:53:11.843">[tsjilpende vogels]</p>
+      <p begin="00:53:14.443" end="00:53:18.466">- Ik dacht niet dat het zou werken.<br/>Het werkt gewoon niet. OK.</p>
+      <p begin="00:53:18.466" end="00:53:22.783">Er is een reden dat mensen <br/>koelkasten hebben.</p>
+      <p begin="00:53:28.108" end="00:53:32.531">De waarheid is dat ik kwaad ben, ik<br/>ben er gewoon kapot van dat</p>
+      <p begin="00:53:32.531" end="00:53:37.180">er zo weinig informatie is<br/>over zwanger worden.</p>
+      <p begin="00:53:37.180" end="00:53:40.553">Kijk, de statistieken zijn laag en ik<br/>word bijna 40.</p>
+      <p begin="00:53:40.553" end="00:53:43.809">En zie je de <br/>grijze haren?</p>
+      <p begin="00:53:43.809" end="00:53:46.791">Ik ben er gewoon kapot van.</p>
+      <p begin="00:53:46.791" end="00:53:51.291">En ik denk dat iemand zoals ik<br/>misschien een kans van 5% heeft</p>
+      <p begin="00:53:51.291" end="00:53:52.891">in ook maar enige...</p>
+      <p begin="00:53:52.891" end="00:53:58.697">Het is waarschijnlijk - jij krijgt<br/>gewoon je zin, want de kans is zo klein.</p>
+      <p begin="00:54:00.251" end="00:54:03.102">- Ik bedoel, ik begrijp echt<br/>helemaal dat je verdrietig bent</p>
+      <p begin="00:54:03.102" end="00:54:06.928">en ik snap het echt, maar het is net<br/>realiteitstelevisie voor mij</p>
+      <p begin="00:54:06.928" end="00:54:08.765">om dit voor de camera's te bespreken.</p>
+      <p begin="00:54:08.765" end="00:54:12.626">- Ik dacht dat je wilde weten wat ik<br/>dacht over Pot in een Pot.</p>
+      <p begin="00:54:12.626" end="00:54:16.081">- Oh ja, dat is - natuurlijk wil ik weten<br/>wat je denkt over Pot in een Pot.</p>
+      <p begin="00:54:16.081" end="00:54:18.775">- Dit is wat ik erover denk.</p>
+      <p begin="00:54:18.775" end="00:54:21.708">Weet je, ons ding was altijd dat<br/>we altijd de ander zouden</p>
+      <p begin="00:54:21.708" end="00:54:25.613">helpen bij wat hij of zij wilde, toch?</p>
+      <p begin="00:54:25.613" end="00:54:30.277">We zouden elkaar altijd helpen<br/>onze dromen te bereiken.</p>
+      <p begin="00:54:30.277" end="00:54:35.971">Weet je, het is belangrijk voor jou dat<br/>we geen koelkast hebben, toch?</p>
+      <p begin="00:54:35.971" end="00:54:37.462">Daar ben ik het mee eens.</p>
+      <p begin="00:54:37.462" end="00:54:38.707">En dan word ik een <br/>beetje verdrietig</p>
+      <p begin="00:54:38.707" end="00:54:43.457">omdat we al onze energie in deze <br/>droom stoppen.</p>
+      <p begin="00:54:43.457" end="00:54:48.231">En dan, weet je, dan<br/>denk ik...</p>
+      <p begin="00:54:48.231" end="00:54:49.930">- Ik bedoel, ik ben echt bereid<br/>om met je mee te denken</p>
+      <p begin="00:54:49.930" end="00:54:52.656">en met je te praten over de mogelijkheid<br/>dat we nog een kind hebben</p>
+      <p begin="00:54:52.656" end="00:54:56.304">en, zegmaar, waar we uitkomen<br/>als we erover praten</p>
+      <p begin="00:54:56.304" end="00:54:58.586">maar als je het aan het<br/>project verbindt...</p>
+      <p begin="00:54:58.586" end="00:55:00.426">Ik -- weet je...</p>
+      <p begin="00:55:00.426" end="00:55:03.356">- Maar, dit hangt voor mij samen, er<br/>is voor mij een connectie.</p>
+      <p begin="00:55:03.356" end="00:55:05.388">Dus als ze voor jou niet<br/>verbonden zijn, dan...</p>
+      <p begin="00:55:05.388" end="00:55:10.403">- Als ik het dus begreep, voel jij je<br/>alsof je mij support, maar ik jou niet.</p>
+      <p begin="00:55:10.403" end="00:55:11.984">Alsof ik je niet help met je dromen.</p>
+      <p begin="00:55:11.984" end="00:55:16.787">- Ik heb het gevoel dat dit mijn grootste,<br/>meest belangrijkste ding is.</p>
+      <p begin="00:55:16.787" end="00:55:17.300">- OK.</p>
+      <p begin="00:55:17.300" end="00:55:21.955">- En ik heb het gevoel dat, ja, <br/>dat je het niet wilt doen.</p>
+      <p begin="00:55:21.955" end="00:55:28.979">Dus voor mij is het van nee. Het<br/>antwoord is nee.</p>
+      <p begin="00:55:28.979" end="00:55:30.528">- Oh, maar ik wil willen wat<br/>jij wilt.</p>
+      <p begin="00:55:32.882" end="00:55:36.236">Maar ik denk niet dat het<br/>goed zou zijn voor onze familie</p>
+      <p begin="00:55:36.236" end="00:55:39.042">als ik zou zeggen, "OK, jij wilt dit<br/>dus we doen het,"</p>
+      <p begin="00:55:39.042" end="00:55:42.934">terwijl ik er persoonlijk zo<br/>tegen ben.</p>
+      <p begin="00:55:46.028" end="00:55:49.410">- Wil je dit naar<br/>buiten brengen dan?</p>
+      <p begin="00:55:56.802" end="00:55:59.040">- Het geeft niet schat, we laten het<br/>gewoon even zo, voor nu, OK?</p>
+      <p begin="00:55:59.040" end="00:56:01.761">- OK.</p>
+      <p begin="00:56:01.761" end="00:56:07.814">De Pot in een Pot is verhuisd en dit<br/>is onze laatste koelkast.</p>
+      <p begin="00:56:07.814" end="00:56:11.960">Om het koud te houden krijg<br/>ik ijs van buurvrouw, Hillary.</p>
+      <p begin="00:56:11.960" end="00:56:16.887">[schraapt ijs]</p>
+      <p begin="00:56:16.887" end="00:56:20.067">- Moet je dat iedere dag komen halen<br/>of hoe wil je...?</p>
+      <p begin="00:56:20.067" end="00:56:22.889">- Ik denk dat dit wel een tijdje<br/>goedblijft in de koeler.</p>
+      <p begin="00:56:22.889" end="00:56:26.353">- Ah ok, ik hoop het.<br/>Ik denk het.</p>
+      <p begin="00:56:26.353" end="00:56:28.081">- Kan ik de tas dragen?</p>
+      <p begin="00:56:28.081" end="00:56:29.447">- Ja, ja, ja. Jij kunt<br/>de tas wel dragen.</p>
+      <p begin="00:56:29.447" end="00:56:33.411">Laten we het in de vriezer leggen...<br/>Heel erg bedankt.</p>
+      <p begin="00:56:33.411" end="00:56:36.024">- Graag gedaan.</p>
+      <p begin="00:56:36.024" end="00:56:37.700">- Zeg eens dankjewel tegen<br/>Hillary, lieverd?</p>
+      <p begin="00:56:37.700" end="00:56:39.592">- Doei. Graag gedaan.</p>
+      <p begin="00:56:39.592" end="00:56:41.008">Dag, Lieverd.</p>
+      <p begin="00:56:47.015" end="00:56:49.906">- OK. Perfect.</p>
+      <p begin="00:56:49.906" end="00:56:52.275">*We nemen dat pak ijs en leggen<br/>het er bovenop*</p>
+      <p begin="00:56:52.275" end="00:56:54.688">*zodat je melk mooi koud blijft.*</p>
+      <p begin="00:56:54.688" end="00:56:58.223">En wil je de blokjes dan<br/>hier neerleggen?</p>
+      <p begin="00:56:58.223" end="00:57:01.699">Doe maar, een voor een.</p>
+      <p begin="00:57:01.699" end="00:57:03.556">- Een voor een.</p>
+      <p begin="00:57:07.513" end="00:57:08.710">Wow!</p>
+      <p begin="00:57:13.714" end="00:57:16.053">- De koelkast is voor mij<br/>de grens.</p>
+      <p begin="00:57:16.053" end="00:57:17.327">De pot in een pot, en nu...</p>
+      <p begin="00:57:17.327" end="00:57:23.084">Ik weet niet waar ik een grotere hekel<br/>in heb, de pot in een pot of dit.</p>
+      <p begin="00:57:24.558" end="00:57:29.089">Energie uit ijsblokjes halen, ik<br/>snap het gewoon niet.</p>
+      <p begin="00:57:29.089" end="00:57:31.061">Dus ik heb zoiets van...</p>
+      <p begin="00:57:33.061" end="00:57:35.441">Zeg eens, "Doei gekke koelkast."</p>
+      <p begin="00:57:35.441" end="00:57:37.389">- Doei. Gekke koelkast.</p>
+      <p begin="00:57:46.420" end="00:57:49.224">- Wie sjoemelt er meer,<br/>jij of Collin?</p>
+      <p begin="00:57:49.224" end="00:57:53.414">- Ik weet zeker dat ik meer sjoemel,<br/>zoals in dit geval.</p>
+      <p begin="00:57:53.414" end="00:57:56.264">*Ik heb het groentedieet thuis<br/>geprobeerd en het was een ramp.*</p>
+      <p begin="00:57:56.264" end="00:57:56.940">- OK.</p>
+      <p begin="00:57:56.940" end="00:57:57.926">*- Hij sjoemelt niet echt.*</p>
+      <p begin="00:57:57.926" end="00:58:00.390">*Hij rekt de regels soms een beetje.<br/>Maar dat is niet echt sjoemelen.*</p>
+      <p begin="00:58:00.390" end="00:58:04.150">Kijk, er zijn geen tripjes dit jaar omdat<br/>we nergens heen kunnen.</p>
+      <p begin="00:58:04.150" end="00:58:06.495">Dus, hij besluit dat we een<br/>uitzondering gaan maken</p>
+      <p begin="00:58:06.495" end="00:58:10.563">en naar de boerderij gaan waar<br/>ze ons eten groeien.</p>
+      <p begin="00:58:10.563" end="00:58:13.179">We liepen naar het station<br/>met onze koffers,</p>
+      <p begin="00:58:13.179" end="00:58:15.796">en dat is waar hij de<br/>regels een beetje rekte.</p>
+      <p begin="00:58:15.796" end="00:58:17.325">Ik ging naar Dunkin' Donuts,<br/>er was een hele lange rij</p>
+      <p begin="00:58:17.325" end="00:58:19.134">ik geef de vrouw een<br/>grote fooi,</p>
+      <p begin="00:58:19.134" end="00:58:21.302">en vraag, "Kun je dit glas<br/>twee keer bijvullen?"</p>
+      <p begin="00:58:21.302" end="00:58:24.334">*Ik haal twee grote decafs en ga<br/>niet meer terug naar Dunkin' Donuts.*</p>
+      <p begin="00:58:24.334" end="00:58:25.408">- Ze helpt je dus.</p>
+      <p begin="00:58:25.408" end="00:58:26.831">*- En er staan tien mensen<br/>achter me in de rij*</p>
+      <p begin="00:58:26.831" end="00:58:28.867">*maar ik gaf haar zo'n grote fooi<br/>dat zij zoiets had van,*</p>
+      <p begin="00:58:28.867" end="00:58:30.625">*dit meisje eerst.*</p>
+      <p begin="00:58:30.625" end="00:58:36.142">Maar ik het zoiets van, ik wil niet<br/>al mijn energie voor een pot in een pot.</p>
+      <p begin="00:58:36.142" end="00:58:37.706">Ik wil nog een tweede kind.</p>
+      <p begin="00:58:37.706" end="00:58:40.308">Ik wil mijn vakantie niet<br/>op een boerderij doorbrengen.</p>
+      <p begin="00:58:40.308" end="00:58:48.598">&#9834;[muziek]&#9834;</p>
+      <p begin="00:58:48.598" end="00:58:49.575">Toen we trouwden,</p>
+      <p begin="00:58:49.575" end="00:58:52.159">had ik zoiets van, kijk Colin, ik trouw<br/>met je, maar</p>
+      <p begin="00:58:52.159" end="00:58:55.542">ik houd niet van kamperen. Ik zal<br/>nooit met je gaan kamperen.</p>
+      <p begin="00:58:55.542" end="00:58:58.964">Maar nu is ons hele huis eigenlijk<br/>een soort camping.</p>
+      <p begin="00:58:58.964" end="00:59:01.478">En ik houd ook niet<br/>echt van de natuur.</p>
+      <p begin="00:59:01.478" end="00:59:04.213">En nu, voor onze vakantie,<br/>gaan we de natuur in.</p>
+      <p begin="00:59:04.213" end="00:59:05.685">[Lacht]</p>
+      <p begin="00:59:08.016" end="00:59:10.499">We zullen al het voedsel dat we eten<br/>zien, en gaan er mee werken.</p>
+      <p begin="00:59:10.499" end="00:59:13.059">Voor de boerenmarkt, dat is de<br/>boerderij waar het vandaan komt.</p>
+      <p begin="00:59:13.059" end="00:59:20.095">&#9834;[muziek]&#9834;</p>
+      <p begin="00:59:20.095" end="00:59:23.134">- Hoi, koe.</p>
+      <p begin="00:59:23.134" end="00:59:25.535">- Je kunt hem wel aanraken<br/>met je hand.</p>
+      <p begin="00:59:25.535" end="00:59:27.246">- Hoi, koe.</p>
+      <p begin="00:59:27.246" end="00:59:29.210">- Heel erg bedankt dat<br/>we hier mogen verblijven.</p>
+      <p begin="00:59:29.210" end="00:59:29.921">Dank je.</p>
+      <p begin="00:59:29.921" end="00:59:30.746">- [Rachel Schneider] Welkom!</p>
+      <p begin="00:59:30.746" end="00:59:32.243">Ik heb nu al de beste sessie ooit,</p>
+      <p begin="00:59:32.243" end="00:59:33.181">We zijn hier pas net een uur.</p>
+      <p begin="00:59:33.181" end="00:59:34.310">- Ja.</p>
+      <p begin="00:59:40.250" end="00:59:43.918">*- [Rachel] Als je hier<br/>het land bewerkt,*</p>
+      <p begin="00:59:43.918" end="00:59:52.434">ben je bezig met iets vitaals<br/>en dynamisch bouwen.</p>
+      <p begin="00:59:52.434" end="00:59:54.787">*Het is een gesloten cirkel.*</p>
+      <p begin="00:59:54.787" end="00:59:57.290">De koeien eten het gras.</p>
+      <p begin="00:59:57.290" end="01:00:02.673">Ze geven je melk, maar geven<br/>je ook de mest.</p>
+      <p begin="01:00:02.673" end="01:00:05.973">De mest wordt dan compost. Het<br/>wordt dan vruchtbaar.</p>
+      <p begin="01:00:05.973" end="01:00:11.223">*Jaarlijks maken we ongeveer<br/>400 ton compost.*</p>
+      <p begin="01:00:11.223" end="01:00:13.367">En ruik eens.</p>
+      <p begin="01:00:13.367" end="01:00:14.544">- Ja, het ruikt naar aarde.</p>
+      <p begin="01:00:14.544" end="01:00:16.546">Het ruikt net als mijn<br/>wormendoos eigenlijk.</p>
+      <p begin="01:00:18.784" end="01:00:23.558">- Je zegt heel vaak dat dit dus de<br/>verwezenlijking van zijn waarden is?</p>
+      <p begin="01:00:23.558" end="01:00:24.913">*- Ja.*</p>
+      <p begin="01:00:24.913" end="01:00:28.782">- Denk je - wat denk je nu dat je zes<br/>maanden verder bent, denk je nog...?</p>
+      <p begin="01:00:28.782" end="01:00:30.658">- Ik heb het gevoel dat we<br/>niet meer terug kunnen nu.</p>
+      <p begin="01:00:30.658" end="01:00:32.342">- We kunnen niet meer terug, toch?</p>
+      <p begin="01:00:32.342" end="01:00:33.939">Klopt.</p>
+      <p begin="01:00:33.939" end="01:00:35.660">- Dit is voor ons gezin.</p>
+      <p begin="01:00:35.660" end="01:00:37.605">Het gaat niet alleen<br/>om het project.</p>
+      <p begin="01:00:40.894" end="01:00:41.908">- [Man] Waar komen<br/>jullie vandaan?</p>
+      <p begin="01:00:41.908" end="01:00:45.084">- [Colin] Ik woon in de stad, ik hoop<br/>dat ik meer hulp dan last bezorg.</p>
+      <p begin="01:00:45.084" end="01:00:47.904">[Lachen]</p>
+      <p begin="01:00:47.904" end="01:00:49.061">*- [Mannelijke boer] Aan de slag.*</p>
+      <p begin="01:00:49.061" end="01:00:52.780">[bellen rinkelen]</p>
+      <p begin="01:00:52.780" end="01:00:54.546">- [Man] Dat is Henry. Hij<br/>is de stier.</p>
+      <p begin="01:00:54.546" end="01:00:56.914">Kom op Henry, laten<br/>we gaan.</p>
+      <p begin="01:00:56.914" end="01:00:59.230">Laten we Henry naar<br/>de stal brengen.</p>
+      <p begin="01:00:59.230" end="01:01:00.218">[Koeien loeien]</p>
+      <p begin="01:01:00.218" end="01:01:01.529">*- [Michelle] De avond voordat<br/>we vertrokken,*</p>
+      <p begin="01:01:01.529" end="01:01:04.134">*hadden de boer en Colin een gesprek.*</p>
+      <p begin="01:01:04.134" end="01:01:07.509">*Ze hadden het over hoe de vallei<br/>ooit vol met schapen was.*</p>
+      <p begin="01:01:07.509" end="01:01:10.159">*Ze hadden het ook over hoe<br/>de mensen kunnen veranderen.*</p>
+      <p begin="01:01:10.159" end="01:01:13.930">*en dieren kunnen worden.*</p>
+      <p begin="01:01:13.930" end="01:01:18.429">*Ik vond dat zo'n bijzonder gesprek.*</p>
+      <p begin="01:01:26.676" end="01:01:29.319">*En toen ging ik slapen, met die<br/>geweldige boerderijlucht*</p>
+      <p begin="01:01:29.319" end="01:01:32.838">*in een prachtig boerderijhuis met<br/>allemaal mooie mensen*</p>
+      <p begin="01:01:32.838" end="01:01:35.514">die ons allemaal behandelden als familie</p>
+      <p begin="01:01:35.514" end="01:01:38.936">en ik droomde dat ik<br/>een van de schapen was.</p>
+      <p begin="01:01:38.936" end="01:01:41.252">*Het is vreemd, want mijn<br/>ouders waren boeren*</p>
+      <p begin="01:01:41.252" end="01:01:44.946">ze zorgden voor het huis en ik kreeg<br/>het gevoel dat --</p>
+      <p begin="01:01:44.946" end="01:01:49.148">ik heb het gevoel dat mijn familie<br/>daar iets achter heeft gelaten.</p>
+      <p begin="01:01:49.148" end="01:01:53.606">En ik had zoiets van, ik ga<br/>het gewoon terughalen.</p>
+      <p begin="01:01:54.560" end="01:01:57.443">*Toen ik naar de boer luisteren en<br/>hoe hij over zijn kudde had*</p>
+      <p begin="01:01:57.443" end="01:01:59.437">en hoe soms iets gebeurt <br/>met de dieren</p>
+      <p begin="01:01:59.437" end="01:02:02.169">maar dat de kudde gewoon<br/>doorgaat</p>
+      <p begin="01:02:02.169" end="01:02:04.820">*Ik had het gevoel<br/>dat ik wakker werd.*</p>
+      <p begin="01:02:04.820" end="01:02:09.088">*Ik voelde me weer opnieuw<br/>ergens mee verbonden.*</p>
+      <p begin="01:02:13.827" end="01:02:17.610">[hoorn klinkt]</p>
+      <p begin="01:02:24.221" end="01:02:31.915">&#9834;[muziek]&#9834;</p>
+      <p begin="01:02:31.915" end="01:02:35.708">Een bedrijf leende me dit<br/>zonnepaneel voor het project.</p>
+      <p begin="01:02:35.708" end="01:02:40.294">Zo kan ik de wijze dat ik thuis<br/>electriciteit krijg veranderen.</p>
+      <p begin="01:02:40.294" end="01:02:41.742">- Ik snap het.<br/>- Ja.</p>
+      <p begin="01:02:42.665" end="01:02:45.200">Het zonnepaneel zal net genoeg <br/>electriciteit bezorgen.</p>
+      <p begin="01:02:45.200" end="01:02:48.582">*zodat ik mijn computer kan<br/>gebruiken en weblog kan schrijven.*</p>
+      <p begin="01:02:51.137" end="01:02:53.987">Maar, wat echt interessant is<br/>in deze fase is dat</p>
+      <p begin="01:02:53.987" end="01:02:56.873">*het de eerste keer is dat ik besef dat<br/>het niet gaat om zo min mogelijk*</p>
+      <p begin="01:02:56.873" end="01:02:59.105">*te gebruiken*</p>
+      <p begin="01:02:59.105" end="01:03:04.611">maar om een duurzame manier te<br/>vinden voor wat ik nodig heb.</p>
+      <p begin="01:03:05.381" end="01:03:07.768">En dat is wat je moet doen met,<br/>zegmaar, mijn electriciteit,</p>
+      <p begin="01:03:07.768" end="01:03:09.339">en met het zonnepaneel.</p>
+      <p begin="01:03:09.339" end="01:03:11.643">Maar, dat is ook wat we met onze <br/>systemen moeten doen.</p>
+      <p begin="01:03:11.643" end="01:03:14.452">*We moeten uitvinden hoe we mensen<br/>kunnen bezorgen wat ze nodig hebben*</p>
+      <p begin="01:03:14.452" end="01:03:17.292">op een wijze die geen<br/>schade doet aan de planeet.</p>
+      <p begin="01:03:17.292" end="01:03:20.419">[typt]</p>
+      <p begin="01:03:29.282" end="01:03:32.474">Vraag die kerel eens om van<br/>het fietspad te gaan.</p>
+      <p begin="01:03:33.853" end="01:03:38.053">Weet je wat ik haar heb gegeven<br/>voor haar 40e verjaardag?</p>
+      <p begin="01:03:38.763" end="01:03:39.871">Geen pil meer.</p>
+      <p begin="01:03:39.871" end="01:03:42.687">Snap je wat ik bedoel?</p>
+      <p begin="01:03:42.687" end="01:03:46.029">We noemen het Russische Roulette.</p>
+      <p begin="01:03:46.029" end="01:03:49.037">- Dus nu is de vraag, is het<br/>klik-klik of bang-bang?</p>
+      <p begin="01:03:49.037" end="01:03:53.059">- Als het bang-bang is, sterf ik,<br/>en leeft zij.</p>
+      <p begin="01:03:57.289" end="01:04:00.253">Kijk toch eens rechts van je<br/>wat een idioot.</p>
+      <p begin="01:04:01.455" end="01:04:06.366">Mijn weblog post vandaag ging<br/>over de mogelijkheden in een crisis.</p>
+      <p begin="01:04:06.366" end="01:04:09.190">Stel je voor als we de stad een<br/>fijnere plek maakten.</p>
+      <p begin="01:04:09.190" end="01:04:12.943">Dus, de twee opmerkingen op de post<br/>tot nu toe zijn</p>
+      <p begin="01:04:12.943" end="01:04:15.084">laten we realistisch zijn.</p>
+      <p begin="01:04:15.084" end="01:04:19.069">Als in, je kunt een stad niet fijn<br/>maken, dus vergeet het maar.</p>
+      <p begin="01:04:19.069" end="01:04:23.001">Er is zo weinig idealisme, maar ik denk<br/>dat realisme ons hier heeft gebracht,</p>
+      <p begin="01:04:23.001" end="01:04:24.305">snap je wat ik bedoel?</p>
+      <p begin="01:04:24.305" end="01:04:26.171">[auto toetert]</p>
+      <p begin="01:04:26.171" end="01:04:27.013">- Dat helpt.</p>
+      <p begin="01:04:31.239" end="01:04:32.717">Gaat het Michelle?</p>
+      <p begin="01:04:36.462" end="01:04:37.306">- Kijk uit lieverd.</p>
+      <p begin="01:04:37.306" end="01:04:39.055">- Ik weet het, ik weet het.</p>
+      <p begin="01:04:42.199" end="01:04:43.285">- Het is zo stil.</p>
+      <p begin="01:04:43.285" end="01:04:44.850">- Ik weet het.</p>
+      <p begin="01:04:49.348" end="01:04:50.832">- Oh, zie je die Fort Tilden<br/>daar?</p>
+      <p begin="01:04:50.832" end="01:04:52.264">- Ja.</p>
+      <p begin="01:04:55.165" end="01:04:57.329">- Oh mijn God! Dit is<br/>net de Hamptons.</p>
+      <p begin="01:04:57.329" end="01:04:58.786">- Het is beter dan<br/>de Hamptons.</p>
+      <p begin="01:04:58.786" end="01:05:00.541">- Want hier is <br/>helemaal niemand.</p>
+      <p begin="01:05:01.617" end="01:05:03.340">[Colin lacht]</p>
+      <p begin="01:05:04.048" end="01:05:08.876">- Oh mijn God. Hoe radicaal<br/>is dit?</p>
+      <p begin="01:05:08.876" end="01:05:12.632">En dit is nog steeds New York City.<br/>We zijn in New York City.</p>
+      <p begin="01:05:12.632" end="01:05:14.361">- Oh, jee.</p>
+      <p begin="01:05:14.928" end="01:05:18.128">- Wil je met me gaan<br/>zwemmen?</p>
+      <p begin="01:05:19.308" end="01:05:21.317">- Nou, um...</p>
+      <p begin="01:05:21.496" end="01:05:24.749">[geluid van golven]</p>
+      <p begin="01:05:24.749" end="01:05:26.542">- Ik vind het ongelooflijk hoeveel<br/>weerstand de natuur toont</p>
+      <p begin="01:05:26.542" end="01:05:28.250">met bijvoorbeeld zoveel<br/>strandlopers op dit strand</p>
+      <p begin="01:05:28.250" end="01:05:30.253">en iedereen probeert<br/>gewoon te overleven.</p>
+      <p begin="01:05:30.253" end="01:05:34.040">En dan heb je mierenkrabben en<br/>die zijn in New York City.</p>
+      <p begin="01:05:34.040" end="01:05:36.118">Zie je die twee?</p>
+      <p begin="01:05:36.118" end="01:05:36.666">- Ja, ik zie ze.</p>
+      <p begin="01:05:36.666" end="01:05:37.808">- Wacht, wacht, wacht.</p>
+      <p begin="01:05:37.808" end="01:05:38.381">- Ah, ja, ik zie ze.</p>
+      <p begin="01:05:38.381" end="01:05:41.132">[geluid van golven]</p>
+      <p begin="01:05:42.075" end="01:05:43.564">- Mensen kunnen er<br/>eindeloos over praten,</p>
+      <p begin="01:05:43.564" end="01:05:47.998">wat is het zwaarst? Wat onthoud<br/>je jezelf echt?</p>
+      <p begin="01:05:47.998" end="01:05:50.793">Hoewel natuurlijk alle aspecten<br/>van dit project zwaar zijn.</p>
+      <p begin="01:05:50.793" end="01:05:52.738">Maar, het gaat niet om<br/>onthouding.</p>
+      <p begin="01:05:52.738" end="01:05:55.193">Het gaat over voor jezelf zorgen.</p>
+      <p begin="01:05:55.193" end="01:05:56.328">Het is het tegenovergestelde.</p>
+      <p begin="01:05:56.328" end="01:05:57.827">Het gaat over kijken of,</p>
+      <p begin="01:05:57.827" end="01:06:03.231">het mogelijk is een goed leven<br/>te leven zonder zoveel afval?</p>
+      <p begin="01:06:03.231" end="01:06:09.606">&#9834;[muziek]&#9834;</p>
+      <p begin="01:06:09.606" end="01:06:10.990">- Colin heeft een <br/>geweldige vrouw ontmoet</p>
+      <p begin="01:06:10.990" end="01:06:14.391">op de boerenmarkt, en die leende<br/>ons haar tricycle.</p>
+      <p begin="01:06:14.391" end="01:06:17.899">We kunnen rijden. Het heeft<br/>ons leven compleet veranderd.</p>
+      <p begin="01:06:21.851" end="01:06:25.851">We hebben geen TV, geen licht,<br/>geen electriciteit, geen airconditioning.</p>
+      <p begin="01:06:25.851" end="01:06:29.164">Dit waren alle dingen die <br/>ons binnen hielden.</p>
+      <p begin="01:06:29.164" end="01:06:31.867">Nu moeten we eigenlijk bijna<br/>altijd buiten de flat zijn.</p>
+      <p begin="01:06:31.867" end="01:06:34.490">[water spettert]</p>
+      <p begin="01:06:34.490" end="01:06:38.103">De dagen lijken nu<br/>veel langer te duren.</p>
+      <p begin="01:06:41.253" end="01:06:43.010">- Wat zijn dat?</p>
+      <p begin="01:06:43.010" end="01:06:45.449">- Dat zijn vuurvliegjes.</p>
+      <p begin="01:06:45.449" end="01:06:47.447">*- [Isabella] Er is een licht.*</p>
+      <p begin="01:06:48.839" end="01:06:51.562">[Isabella gilt]</p>
+      <p begin="01:06:51.562" end="01:06:52.796">-Oh, oh, oh, oh!</p>
+      <p begin="01:06:54.235" end="01:06:56.496">[Colin lacht]</p>
+      <p begin="01:06:58.081" end="01:07:00.338">- Speel je Gin Rummy?</p>
+      <p begin="01:07:00.338" end="01:07:02.074">-Hmhm, we spelen Gin Rummy.</p>
+      <p begin="01:07:02.074" end="01:07:03.938">- Ik wil je iets laten<br/>zien, OK?</p>
+      <p begin="01:07:03.938" end="01:07:10.109">Dit is wat je noemt,<br/>papa verslaan, OK?</p>
+      <p begin="01:07:12.448" end="01:07:15.229">- [Meyer] We komen van hele<br/>andere achtergronden.</p>
+      <p begin="01:07:15.229" end="01:07:23.821">Niemand zal ooit zo na&#239;ef, hoopvol<br/>na&#239;ef en na&#239;ef optimisch zijn</p>
+      <p begin="01:07:23.821" end="01:07:27.177">als wij waren aan het<br/>einde van de jaren 60.</p>
+      <p begin="01:07:27.177" end="01:07:29.981">- Maar, ik denk dat er misschien<br/>iets soortgelijks</p>
+      <p begin="01:07:29.981" end="01:07:34.037">gebeurt nu. Veel stiller. Op een<br/>hele andere manier</p>
+      <p begin="01:07:34.037" end="01:07:41.574">maar ik heb het gevoel dat er stilaan<br/>een soort rebel-beweging ontstaat.</p>
+      <p begin="01:07:41.574" end="01:07:46.488">&#9834; [muziek] &#9834;</p>
+      <p begin="01:07:46.488" end="01:07:48.876">- [Meyer] En waar je ook op moet wijzen<br/>is dat op de ...</p>
+      <p begin="01:07:51.963" end="01:07:55.913">Dit ding dat Scape heet.<br/>S-C-A-P-E.</p>
+      <p begin="01:07:55.913" end="01:08:00.006">Ik stel voor dat je er een of<br/>twee mee naar huis neemt.</p>
+      <p begin="01:08:00.006" end="01:08:00.901">- OK.</p>
+      <p begin="01:08:00.901" end="01:08:02.711">- Dat zijn de bonen.</p>
+      <p begin="01:08:02.711" end="01:08:06.039">Zie je hoe zich aan de paal <br/>vasthouden?</p>
+      <p begin="01:08:06.039" end="01:08:07.281">En zie je dit?</p>
+      <p begin="01:08:07.281" end="01:08:07.827">- Ja.</p>
+      <p begin="01:08:07.827" end="01:08:10.740">- Deze begint net<br/>tomaten te groeien.</p>
+      <p begin="01:08:17.013" end="01:08:20.629">- Ben je over het algemeen optimistisch<br/>of skeptisch over de mensheid?</p>
+      <p begin="01:08:20.629" end="01:08:24.273">- Ik geloof dat het<br/>meestal 50/50 is.</p>
+      <p begin="01:08:24.273" end="01:08:25.775">- OK.</p>
+      <p begin="01:08:25.775" end="01:08:29.571">- Dat in feite, weet je, sommige<br/>dingen worden beter,</p>
+      <p begin="01:08:29.571" end="01:08:31.925">sommige dingen worden slechter.</p>
+      <p begin="01:08:33.448" end="01:08:35.777">- Ja.</p>
+      <p begin="01:08:35.777" end="01:08:37.025">- Weet je, al deze...</p>
+      <p begin="01:08:37.025" end="01:08:38.685">iedere keer dat je iets<br/>op de juiste manier probeert te doen</p>
+      <p begin="01:08:38.685" end="01:08:45.475">wat voor niveau je ook op zit,<br/>er zijn altijd onvoorspelbare resultaten.</p>
+      <p begin="01:08:46.675" end="01:08:51.940">Mijn twijfel over jouw werk is dat mensen<br/>zichzelf kunnen wijsmaken</p>
+      <p begin="01:08:51.940" end="01:08:55.346">dat ze alleen maar een lamp <br/>hoeven te vervangen</p>
+      <p begin="01:08:55.346" end="01:08:58.948">en hun plastic tas<br/>hoeven te hergebruiken.</p>
+      <p begin="01:08:58.948" end="01:09:04.265">Zolang als zij dat zo ervaren,<br/>zal geen enkele politicus meedoen.</p>
+      <p begin="01:09:04.265" end="01:09:10.124">- En dat is volgens mij ook zo, dat het<br/>-- het allebei is.</p>
+      <p begin="01:09:10.124" end="01:09:12.317">Ik bedoel, je hebt...</p>
+      <p begin="01:09:12.317" end="01:09:14.168">ik denk -- ik denk dat het ...</p>
+      <p begin="01:09:14.168" end="01:09:17.005">als je een politiek standpunt inneemt,<br/>dan is dat enorm integer</p>
+      <p begin="01:09:17.005" end="01:09:19.837">om op een manier te leven die jouw<br/>politiek standpunt toont.</p>
+      <p begin="01:09:20.875" end="01:09:22.651">- Met het risico het te<br/>persoonlijk te maken,</p>
+      <p begin="01:09:22.651" end="01:09:23.647">*- Ja.*</p>
+      <p begin="01:09:23.647" end="01:09:27.370">- maar, weet je, het is<br/>niet, het zijn gewoon de feiten.</p>
+      <p begin="01:09:27.370" end="01:09:29.046">Michelle schrijft voor<br/>Businessweek.</p>
+      <p begin="01:09:29.046" end="01:09:30.018">*- Ja.*</p>
+      <p begin="01:09:30.018" end="01:09:33.304">- Miljoenen bomen worden <br/>constant omgezaagd</p>
+      <p begin="01:09:33.304" end="01:09:37.635">om een hele foute propaganda<br/>te ondersteunen</p>
+      <p begin="01:09:37.635" end="01:09:44.524">dat het Amerikaans Zakelijk<br/>Kapitalisme goed is voor mensen.</p>
+      <p begin="01:09:44.524" end="01:09:46.699">Goed voor jou en mij, weet je.</p>
+      <p begin="01:09:46.699" end="01:09:52.511">Nu, als dat jouw standpunt is,<br/>dat zij dat goedmaakt</p>
+      <p begin="01:09:52.511" end="01:09:57.533">omdat ze niet de lift neemt<br/>in jouw 5th Avenue kantoor</p>
+      <p begin="01:09:57.533" end="01:10:01.661">dan moet ik zeggen dat dat<br/>oneerlijk of waanzin is.</p>
+      <p begin="01:10:06.056" end="01:10:12.161">- Ik bedoel, het is beslist ironisch als<br/>het over een paradijs ging, maar...</p>
+      <p begin="01:10:12.161" end="01:10:15.659">- Ik bedoel, wie? Waar komt al<br/>deze onzin vandaan?</p>
+      <p begin="01:10:15.659" end="01:10:20.062">Amerikaans Zakelijk Kapitalisme heeft<br/>dat gedaan, weet je.</p>
+      <p begin="01:10:20.062" end="01:10:24.861">Als iemand hier echt dat dat je daar<br/>een verschil zou gaan maken,</p>
+      <p begin="01:10:24.861" end="01:10:29.713">dan zou je niet de aandacht<br/>krijgen die je nu krijgt.</p>
+      <p begin="01:10:29.713" end="01:10:32.580">&#9834; [muziek] &#9834;</p>
+      <p begin="01:10:32.580" end="01:10:34.925">[mensen juichen en klappen]</p>
+      <p begin="01:10:34.925" end="01:10:38.615">- [TV Presentator] En hier is onze<br/>No Impact Man, Colin Beavan</p>
+      <p begin="01:10:38.615" end="01:10:41.352">in zijn no impact SUV.</p>
+      <p begin="01:10:42.663" end="01:10:46.074">- Je bent dan weliswaar op mijn show,<br/>maar ik ben hier niet voor evangelisme</p>
+      <p begin="01:10:46.074" end="01:10:48.458">want ik denk dat wat jij doet echt<br/>enorm gevaarlijk is, OK?</p>
+      <p begin="01:10:48.458" end="01:10:50.507">[Colin lacht]</p>
+      <p begin="01:10:50.774" end="01:10:54.383">[camera klikt]</p>
+      <p begin="01:10:56.245" end="01:10:57.531">- Oeps, daar gaat het. Dat is goed.</p>
+      <p begin="01:10:57.531" end="01:10:59.353">OK, nu heb ik je.. het hangt<br/>van jou af, snap je.</p>
+      <p begin="01:10:59.353" end="01:11:01.923">- [Myriam Weil] kan een beetje zien.</p>
+      <p begin="01:11:01.923" end="01:11:02.545">- Een klein beetje.</p>
+      <p begin="01:11:02.545" end="01:11:03.851">*- [Myriam] Een kleine beetje.*</p>
+      <p begin="01:11:03.851" end="01:11:06.156">-OK, ik ga dit hier houden zodat<br/>jij meer kunt zien.</p>
+      <p begin="01:11:06.156" end="01:11:07.477">*- [Myriam] Het is smerig.*</p>
+      <p begin="01:11:07.477" end="01:11:09.107">- Nee, dat is het niet.</p>
+      <p begin="01:11:09.107" end="01:11:10.894">*- [Myriam] Het is iets<br/>poep...*</p>
+      <p begin="01:11:10.894" end="01:11:14.488">- Ja, het is poep. Wormenpoep.</p>
+      <p begin="01:11:23.062" end="01:11:26.692">[water druipt]</p>
+      <p begin="01:11:28.895" end="01:11:34.890">- Ik denk dat mijn enige connectie<br/>met voedsel het eten was, hiervoor.</p>
+      <p begin="01:11:34.890" end="01:11:40.135">Ik at al mijn voedsel in restaurants<br/>of uit fastfood containers.</p>
+      <p begin="01:11:40.135" end="01:11:44.545">Ik heb nooit gekookt. Het nooit <br/>klaargemaakt. Er nooit over nagedacht.</p>
+      <p begin="01:11:44.545" end="01:11:48.032">Ik heb nooit compost gemaakt. Ik <br/>dacht nooit na over het afval.</p>
+      <p begin="01:11:48.032" end="01:11:51.631">Nu, nu dat we naar de boerenmarkt gaan,<br/>ken ik alle mensen die ons voedsel groeien</p>
+      <p begin="01:11:51.631" end="01:11:57.567">en heb nu een wens om het nog verder<br/>te nemen.</p>
+      <p begin="01:11:57.567" end="01:11:59.419">- Ik zie vandaag als een soort<br/>eerste sessie.</p>
+      <p begin="01:11:59.419" end="01:12:01.833">- [Vrouwelijke Chef] Basis, OK. Dus..<br/>- Als een soort eerste les.</p>
+      <p begin="01:12:01.833" end="01:12:04.279">- Dus, we gaan gewoon<br/>wat maken--</p>
+      <p begin="01:12:04.279" end="01:12:06.301">ok, dus ik heb nagedacht over<br/>een paar dingen die we kunnen maken.</p>
+      <p begin="01:12:06.301" end="01:12:09.550">Ok, we beginnen gewoon met<br/>de groene bonen</p>
+      <p begin="01:12:09.550" end="01:12:10.739">knip ze maar af aan<br/>het einde.</p>
+      <p begin="01:12:10.739" end="01:12:13.441">- OK, je kunt de lelijke kant<br/>afknippen. Deze kant.</p>
+      <p begin="01:12:13.441" end="01:12:14.263">- Precies.</p>
+      <p begin="01:12:14.263" end="01:12:17.741">Kijk, hier zijn de paardebloemvelden,<br/>ik ga de einde gewoon afknippen.</p>
+      <p begin="01:12:17.741" end="01:12:19.702">Dus, ik probeer het uiteinde te knippen.<br/>- OK.</p>
+      <p begin="01:12:21.823" end="01:12:22.931">- Goed zo.</p>
+      <p begin="01:12:22.931" end="01:12:23.878">*- [Colin] Goed zo.*</p>
+      <p begin="01:12:23.878" end="01:12:25.253">[Colin lacht]</p>
+      <p begin="01:12:28.606" end="01:12:30.369">- Dan warm je de oven voor op 190 graden.<br/>- Ja.</p>
+      <p begin="01:12:30.543" end="01:12:33.239">- [Vrouwelijke chef] Ik bedoel, ik <br/>zal het tegen het einde hoger zetten.</p>
+      <p begin="01:12:34.023" end="01:12:36.824">- Ik ga koffie maken, maar ik weet dat<br/>jij niet wil, toch?</p>
+      <p begin="01:12:36.824" end="01:12:37.921">- [Michelle] Oh, ja, ik wil<br/>een klein beetje.</p>
+      <p begin="01:12:37.921" end="01:12:38.846">- Weet je het zeker?</p>
+      <p begin="01:12:38.846" end="01:12:40.263">- Ja. Ik kan een klein<br/>beetje nemen.</p>
+      <p begin="01:12:40.496" end="01:12:42.464">Er is een reden waarom ik maar<br/>een klein beetje mag.</p>
+      <p begin="01:12:42.464" end="01:12:44.823">Kunnen jullie de<br/>reden raden?</p>
+      <p begin="01:12:44.823" end="01:12:46.720">Ik wil alleen maar een<br/>klein beetje koffie.</p>
+      <p begin="01:12:46.720" end="01:12:48.223">- Ben je zwanger?</p>
+      <p begin="01:12:48.223" end="01:12:49.814">- Oh mijn God. Ben je dat?</p>
+      <p begin="01:12:49.814" end="01:12:51.249">- Ja!</p>
+      <p begin="01:12:51.249" end="01:13:01.061">[gegil]</p>
+      <p begin="01:13:01.061" end="01:13:02.724">*- [Isabella] Mag ik naar<br/>buiten?*</p>
+      <p begin="01:13:02.724" end="01:13:05.787">- Papa neemt je mee<br/>naar buiten lieverd.</p>
+      <p begin="01:13:05.787" end="01:13:07.523">Papa neemt je mee<br/>naar buiten.</p>
+      <p begin="01:13:07.523" end="01:13:10.404">Ik ga nu de tomaten<br/>opzetten.</p>
+      <p begin="01:13:11.601" end="01:13:17.432">Ik maak vanavond diner en ik heb<br/>nog nooit diner voor ons gemaakt.</p>
+      <p begin="01:13:17.432" end="01:13:19.013">- Wil je dat ik le laat zien hoe<br/>je die oven</p>
+      <p begin="01:13:19.013" end="01:13:22.305">van 175 naar 190 graden krijgt?<br/>Het is een beetje lastig.</p>
+      <p begin="01:13:22.305" end="01:13:25.173">- Waarom zet je de oven niet <br/>gewoon 175, 190.</p>
+      <p begin="01:13:25.173" end="01:13:26.116">- OK.</p>
+      <p begin="01:13:26.116" end="01:13:29.214">- Ja. Ja. Ok. Dat is <br/>een goede truc.</p>
+      <p begin="01:13:29.214" end="01:13:33.129">- OK. En dan wil je er zeker van <br/>zijn dat er een thermometer zit.</p>
+      <p begin="01:13:33.129" end="01:13:33.950">- Oh, dat is mooi.</p>
+      <p begin="01:13:33.950" end="01:13:35.595">- Dat laat je zien wat de<br/>oventemperatuur is.</p>
+      <p begin="01:13:35.595" end="01:13:37.418">- We zijn echt gek op<br/>onze aubergine.</p>
+      <p begin="01:13:37.418" end="01:13:40.478">- We houden echt<br/>van onze aubergine.</p>
+      <p begin="01:13:40.478" end="01:13:45.102">- Het lukt misschien niet maar<br/>we leren en groeien.</p>
+      <p begin="01:13:45.102" end="01:13:47.809">Vanavond probeer ik gewoon te<br/>leren hoe ik groenten gril.</p>
+      <p begin="01:13:47.809" end="01:13:50.871">- Dag.</p>
+      <p begin="01:13:50.871" end="01:13:54.919">- Ik ben een beetje<br/>nerveus nu.</p>
+      <p begin="01:13:54.919" end="01:13:56.863">- Ik weet niet of ik dit af moet<br/>snijden of...</p>
+      <p begin="01:13:56.863" end="01:14:00.130">Ik ben nu echt misselijk.</p>
+      <p begin="01:14:01.453" end="01:14:04.460">[water spettert]</p>
+      <p begin="01:14:04.460" end="01:14:05.468">[hond blaft]</p>
+      <p begin="01:14:05.468" end="01:14:07.102">Shhh.</p>
+      <p begin="01:14:07.102" end="01:14:09.530">[hond blaft]</p>
+      <p begin="01:14:09.530" end="01:14:12.187">Weet je, mijn hele leven ben ik al<br/>op zoek naar gurus</p>
+      <p begin="01:14:12.187" end="01:14:15.172">of een programma of iets<br/>of ...</p>
+      <p begin="01:14:15.172" end="01:14:17.228">Weet je, ik ben altijd naar<br/>iets op zoek geweest</p>
+      <p begin="01:14:17.228" end="01:14:21.023">en ik denk dat wij samen naar<br/>dat iets op zoek zijn</p>
+      <p begin="01:14:21.023" end="01:14:24.500">en dat we er nu iets<br/>van aan het vinden zijn.</p>
+      <p begin="01:14:24.500" end="01:14:29.470">Ik moet toegeven dat er momenten<br/>zijn waar ik gewoon een eikel ben.</p>
+      <p begin="01:14:29.470" end="01:14:31.576">Ik heb heel veel<br/>momenten gehad.</p>
+      <p begin="01:14:31.576" end="01:14:35.355">Nu denk ik dat wat we doen<br/>gaaf is.</p>
+      <p begin="01:14:35.355" end="01:14:36.747">Ik krijg er echt<br/>een kik uit.</p>
+      <p begin="01:14:36.747" end="01:14:40.176">Ik denk gewoon<br/>dat hij zegmaar...</p>
+      <p begin="01:14:46.252" end="01:14:50.042">hmm, nog niet<br/>helemaal klaar.</p>
+      <p begin="01:14:50.042" end="01:14:51.941">Wow.</p>
+      <p begin="01:14:51.941" end="01:15:01.783">Ah, Madam and Monsieur <br/>[buitenlandse taal]</p>
+      <p begin="01:15:03.783" end="01:15:06.436">[kinderpraat]</p>
+      <p begin="01:15:11.553" end="01:15:18.721">[auto's gaan voorbij]</p>
+      <p begin="01:15:20.444" end="01:15:23.788">- Heb jij het idee dat je iets anders<br/>dan auto's kunt parkeren?</p>
+      <p begin="01:15:23.788" end="01:15:28.538">- Het idee is, waarom is dit land op<br/>auto's in plaats van mensen gericht?</p>
+      <p begin="01:15:28.538" end="01:15:30.207">Stel je eens voor,<br/>als dit</p>
+      <p begin="01:15:30.207" end="01:15:33.783">helemaal door zou gaan<br/>tot 7th Avenue?</p>
+      <p begin="01:15:33.783" end="01:15:37.344">*We begonnen met een positief effect<br/>fase van het project.*</p>
+      <p begin="01:15:37.344" end="01:15:40.278">*Het idee was geen netto<br/>schade aan het milieu*</p>
+      <p begin="01:15:40.278" end="01:15:44.884">*dus onze negatieve invloed verminderen<br/>en positieve invloed vermeerderen.*</p>
+      <p begin="01:15:44.884" end="01:15:46.641">*En het is helemaal niet<br/>wetenschappelijk bedoeld.*</p>
+      <p begin="01:15:46.641" end="01:15:49.316">Het is meer<br/>filosofisch.</p>
+      <p begin="01:15:49.316" end="01:15:55.359">Kan ik op deze planeet leven<br/>en meer goed dan kwaad doen?</p>
+      <p begin="01:15:55.359" end="01:15:58.578">*Ik heb met een onderzoek geholpen voor<br/>het terugplaatsen van oesters*</p>
+      <p begin="01:15:58.578" end="01:16:01.599">in de Hudson Rivier, waardoor<br/>het water wordt gefilterd.</p>
+      <p begin="01:16:03.549" end="01:16:06.765">I ben drie boomperken in<br/>de Bronx gaan schoonmaken.</p>
+      <p begin="01:16:06.765" end="01:16:11.992">Ik dacht van, wat een shit. No, <br/>impact man, dit is een project.</p>
+      <p begin="01:16:11.992" end="01:16:16.993">Er is een heel netwerk aan mensen<br/>die dit altijd al hebben gedaan.</p>
+      <p begin="01:16:16.993" end="01:16:20.049">- [Majora Carter] Als je je daar<br/>eenmaal van bewust bent</p>
+      <p begin="01:16:20.049" end="01:16:22.898">als je iets weggooit dan gaat<br/>het ook echt weg,</p>
+      <p begin="01:16:22.898" end="01:16:25.958">weet je, het is moeilijk want ja, <br/>jouw afval</p>
+      <p begin="01:16:25.958" end="01:16:29.278">komt in een gemeenschap als deze<br/>waar het verder wordt verwerkt.</p>
+      <p begin="01:16:32.271" end="01:16:35.360">*Veel mensen, terwijl ze consumeren,<br/>begrijpen niet*</p>
+      <p begin="01:16:35.360" end="01:16:38.529">*wat de echte prijs van<br/>die goederen is.*</p>
+      <p begin="01:16:38.529" end="01:16:40.902">*De vervuiling die ontstond<br/>om het product te maken.*</p>
+      <p begin="01:16:40.902" end="01:16:43.837">*De gezondheidseffecten die <br/>daarmee gepaard gaan.*</p>
+      <p begin="01:16:43.837" end="01:16:47.158">We zijn de oorzaak voor alle<br/>broeikasgassen die iedereen</p>
+      <p begin="01:16:47.158" end="01:16:50.355">nu weer probeert terug<br/>te dringen.</p>
+      <p begin="01:16:50.355" end="01:16:52.364">*Ik denk dat we meer tijd moeten<br/>doorbrengen*</p>
+      <p begin="01:16:52.364" end="01:16:56.354">*om te erkennen dat levens iedere<br/>dag worden opgeofferd*</p>
+      <p begin="01:16:56.354" end="01:17:00.215">*en dat dat al decennia lang<br/>zo is.*</p>
+      <p begin="01:17:00.215" end="01:17:06.076">[vrachtwagen gaat voorbij]</p>
+      <p begin="01:17:06.076" end="01:17:09.185">- Twaalfduizend vrachtwagens per dag<br/>rijden door die buurt.</p>
+      <p begin="01:17:10.109" end="01:17:13.720">*De diesel komt in de lucht terecht en<br/>veroorzaakt astma bij kinderen,*</p>
+      <p begin="01:17:13.720" end="01:17:15.877">*wat weer hersenletsel<br/>veroorzaakt bij kinderen.*</p>
+      <p begin="01:17:15.877" end="01:17:19.082">Weet je, toen ik aan dit project begin, ik<br/>dacht dat ik gewoon</p>
+      <p begin="01:17:19.082" end="01:17:23.942">minder afval zou veroorzaken, minder zou<br/>reizen en geen held zou zijn ofzo.</p>
+      <p begin="01:17:23.942" end="01:17:28.631">Weet je, ik besefte niet hoeveel<br/>problemen dit zou laten zien.</p>
+      <p begin="01:17:28.631" end="01:17:30.256">Ik heb het niet over de ijsberen.</p>
+      <p begin="01:17:30.256" end="01:17:32.580">Ik heb het niet over mensen ver<br/>weg op een eiland,</p>
+      <p begin="01:17:32.580" end="01:17:36.015">gemeenschappen die het zwaar krijgen als<br/>de zeelevels stijgen.</p>
+      <p begin="01:17:36.015" end="01:17:38.650">Ik heb het over de mensen die nu al<br/>met de effecten leven</p>
+      <p begin="01:17:38.650" end="01:17:42.836">van onze overconsumptie.</p>
+      <p begin="01:17:42.836" end="01:17:49.276">&#9834;[muziek]&#9834;</p>
+      <p begin="01:17:49.276" end="01:17:50.777">- Als je me zou vragen,<br/>bijvoorbeeld,</p>
+      <p begin="01:17:50.777" end="01:17:53.446">negen maanden geleden, zou ik<br/>mijn baby op mijn fiets nemen?</p>
+      <p begin="01:17:53.446" end="01:17:54.697">Ik zou nee hebben gezegd.</p>
+      <p begin="01:17:54.697" end="01:17:56.800">Absoluut niet, dat<br/>is belachelijk.</p>
+      <p begin="01:17:56.800" end="01:17:59.108">En ik herinner me dat ik altijd<br/>over fietskoeriers zou klagen</p>
+      <p begin="01:17:59.108" end="01:18:02.101">"Die idiote fietskoeriers<br/>zijn belachelijk."</p>
+      <p begin="01:18:02.101" end="01:18:04.882">En iedereen die in New York op een<br/>fiets rijdt is gek.</p>
+      <p begin="01:18:04.882" end="01:18:09.239">En ze maken het zo gevaarlijk, de<br/>fietsers, voor wagenbezitters,</p>
+      <p begin="01:18:09.239" end="01:18:11.438">zoals SUV huurders.</p>
+      <p begin="01:18:11.438" end="01:18:14.129">Ze maken het zo ongelooflijk<br/>gevaarlijk voor ons.</p>
+      <p begin="01:18:14.129" end="01:18:15.505">En dat is hoe<br/>ik de wereld zie.</p>
+      <p begin="01:18:15.505" end="01:18:16.960">[auto toetert]</p>
+      <p begin="01:18:16.960" end="01:18:20.568">En nu is mijn blik op de wereld volledig<br/>veranderd.</p>
+      <p begin="01:18:20.568" end="01:18:24.613">De straten zijn volledig overgenomen,<br/>en zijn niet meer voor mensen.</p>
+      <p begin="01:18:24.613" end="01:18:28.965">*En dan het idiote consumeren,<br/>alleen maar om te consumeren.*</p>
+      <p begin="01:18:30.532" end="01:18:33.460">*En het coma dat daardoor<br/>wordt veroorzaakt.*</p>
+      <p begin="01:18:38.429" end="01:18:43.054">Ik ben alles opnieuw aan het overwegen,<br/>wat belangrijk is en wat niet.</p>
+      <p begin="01:18:43.054" end="01:18:47.221">- Heb je het idee dat,<br/>vanaf nu,</p>
+      <p begin="01:18:47.221" end="01:18:53.054">dat je je beslissingen op een<br/>andere manier gaat nemen?</p>
+      <p begin="01:18:53.054" end="01:18:58.798">- Ja. Ik bedoel, weet je...</p>
+      <p begin="01:18:58.798" end="01:19:01.846">Wat ga ik doen, zeggen dat<br/>het me allemaal niet uitmaakt?</p>
+      <p begin="01:19:13.396" end="01:19:34.882">&#9834; [muziek] &#9834;</p>
+      <p begin="01:19:34.882" end="01:19:39.104">- Ik maak het weer goed, zodat<br/>we zo</p>
+      <p begin="01:19:39.904" end="01:19:41.745">veel mogelijk zon krijgen.</p>
+      <p begin="01:19:43.659" end="01:19:47.090">Een grote vraag, centraal in het<br/>*No Impact* experiment, was of</p>
+      <p begin="01:19:47.090" end="01:19:52.055">een persoon een verschil kan maken.</p>
+      <p begin="01:19:52.055" end="01:19:54.839">Een van de dingen waar ik me echt<br/>zorgen over maak</p>
+      <p begin="01:19:54.839" end="01:19:58.858">als mensen het over het feit hebben<br/>dat de acties van een niet uitmaken</p>
+      <p begin="01:19:58.858" end="01:20:04.378">is dat de acties van een persoon<br/>helpen om mensen betrokken te krijgen.</p>
+      <p begin="01:20:04.378" end="01:20:07.379">Onze maatschappij is niet ontworpen<br/>voor duurzaamheid.</p>
+      <p begin="01:20:07.379" end="01:20:10.355">We hebben massavervoer nodig,<br/>effici&#235;nte voertuigen,</p>
+      <p begin="01:20:10.355" end="01:20:13.528">geen meer koolverbrandende<br/>energiecentrales.</p>
+      <p begin="01:20:13.528" end="01:20:16.680">Dat zijn moeilijke veranderingen.</p>
+      <p begin="01:20:16.680" end="01:20:18.790">Het internationale panel voor<br/>klimaatverandering</p>
+      <p begin="01:20:18.790" end="01:20:24.442">zegt dat we in 2015 80% van onze<br/>kooldioxide uitstoot moeten verminderen.</p>
+      <p begin="01:20:24.442" end="01:20:27.977">Dat is enorm.</p>
+      <p begin="01:20:27.977" end="01:20:30.447">Als onderdeel daarvan is het eerste<br/>wat ik wil doen</p>
+      <p begin="01:20:30.447" end="01:20:32.746">jou bedanken voor het sponsoren<br/>van de energierekening.</p>
+      <p begin="01:20:32.746" end="01:20:33.847">- Graag gedaan.</p>
+      <p begin="01:20:33.847" end="01:20:35.409">- Want dat geeft ons een goed...</p>
+      <p begin="01:20:35.409" end="01:20:37.182">- Geeft ons heel veel.</p>
+      <p begin="01:20:37.182" end="01:20:40.439">- Minder gebruiken is een begin,<br/>maar het is niet genoeg.</p>
+      <p begin="01:20:40.439" end="01:20:45.750">We moeten eisen dat onze<br/>systemen duurzaam worden.</p>
+      <p begin="01:20:48.801" end="01:20:51.892">- Je kunt het. Ik help je, OK?</p>
+      <p begin="01:20:51.892" end="01:20:54.570">OK, wil je helpen door naar<br/>Frankie te kijken?</p>
+      <p begin="01:20:54.570" end="01:20:58.479">- We hebben tegen Isabella gezegd, we<br/>dachten dat Michelle een baby had</p>
+      <p begin="01:20:58.479" end="01:21:00.718">maar we hadden het mis.</p>
+      <p begin="01:21:00.718" end="01:21:02.930">Dat had ze eigenlijk niet.</p>
+      <p begin="01:21:02.930" end="01:21:04.042">- De tweede--</p>
+      <p begin="01:21:04.042" end="01:21:06.202">Ik denk dat het de tweede keer<br/>was dat ik naar de dokter ging.</p>
+      <p begin="01:21:06.202" end="01:21:08.470">De eerste keer dat we naar de<br/>dokter gingen was het goed.</p>
+      <p begin="01:21:08.470" end="01:21:11.916">En de tweede keer dat we naar de <br/>dokter gingen</p>
+      <p begin="01:21:11.916" end="01:21:13.624">was er geen hartslag meer.</p>
+      <p begin="01:21:14.793" end="01:21:16.062">- Ja.</p>
+      <p begin="01:21:16.062" end="01:21:18.847">Het was er gewoon niet. Er<br/>was geen hartslag.</p>
+      <p begin="01:21:22.323" end="01:21:25.801">- Waar gaat dit heen?</p>
+      <p begin="01:21:32.582" end="01:21:34.303">Voor het verhaal,</p>
+      <p begin="01:21:34.303" end="01:21:36.154">het zou een perfect einde zijn<br/>geweest voor het verhaal.</p>
+      <p begin="01:21:36.154" end="01:21:40.690">Als in, ik ben nu eindelijk</p>
+      <p begin="01:21:40.690" end="01:21:43.086">*No Impact* en ga er<br/>echt voor</p>
+      <p begin="01:21:43.086" end="01:21:44.941">en dat is wat Colin echt wilde</p>
+      <p begin="01:21:44.941" end="01:21:48.241">en toen werd ik zwanger, en dat is<br/>wat ik echt wilde</p>
+      <p begin="01:21:48.241" end="01:21:49.857">en dan eindigt het project.</p>
+      <p begin="01:21:49.857" end="01:21:52.283">Het is een soort grote<br/>ovatie.</p>
+      <p begin="01:21:52.283" end="01:21:58.342">Maar dat is het niet,<br/>het is nu een groot open einde.</p>
+      <p begin="01:21:58.342" end="01:22:01.544">Dus, een open einde.</p>
+      <p begin="01:22:01.544" end="01:22:07.152">Het is een open einde voor het<br/>verhaal en ook spiritueel.</p>
+      <p begin="01:22:07.152" end="01:22:14.081">Een open einde. Er zijn veel open<br/>einden in het leven.</p>
+      <p begin="01:22:14.081" end="01:22:16.664">- Ik denk dat we het waarschijnlijk <br/>weer zullen proberen.</p>
+      <p begin="01:22:18.862" end="01:22:21.203">- Het zijn net regenbogen.</p>
+      <p begin="01:22:21.203" end="01:22:23.266">- Is dat een regenboog<br/>op je voet?</p>
+      <p begin="01:22:23.266" end="01:22:25.412">- [Isabella] Regenboogvoeten.</p>
+      <p begin="01:22:30.271" end="01:22:32.366">- [Meyer] Het echte zwanenlied in<br/>de tuin is wanneer</p>
+      <p begin="01:22:32.366" end="01:22:35.125">je de aarde in de <br/>herfst omdraait.</p>
+      <p begin="01:22:35.125" end="01:22:39.816">Dat is echt het einde<br/>van het seizoen.</p>
+      <p begin="01:22:43.111" end="01:22:44.166">- Het is best interessant</p>
+      <p begin="01:22:44.166" end="01:22:46.059">want we komen zo weer terug<br/>bij het voedsel dat we aten</p>
+      <p begin="01:22:46.059" end="01:22:47.426">toen we aan het<br/>project begonnen,</p>
+      <p begin="01:22:47.426" end="01:22:51.833">zoals pompoen, wortelgroenten,<br/>en dergelijke.</p>
+      <p begin="01:22:51.833" end="01:22:55.259">En op dezelfde wijze<br/>wordt de tuin omgedraaid.</p>
+      <p begin="01:22:55.259" end="01:22:58.522">Dus, eigenlijk, doe je <br/>een soort van</p>
+      <p begin="01:22:58.522" end="01:23:02.767">het is niet alsof je een kalenderblad<br/>omslaat en dat dan het jaar voorbij is.</p>
+      <p begin="01:23:02.767" end="01:23:06.691">Je voelt dat het jaar voorbij is<br/>omdat je erkent</p>
+      <p begin="01:23:06.691" end="01:23:11.516">dat de aarde is veranderd.</p>
+      <p begin="01:23:11.516" end="01:23:13.212">We zijn helemaal niet verbonden,<br/>denk ik, in de stad</p>
+      <p begin="01:23:13.212" end="01:23:15.588">met de natuurlijke ritmes.</p>
+      <p begin="01:23:15.588" end="01:23:16.790">Ik bedoel, ik wist dit<br/>allemaal niet hiervoor</p>
+      <p begin="01:23:16.790" end="01:23:19.045">maar het is eigenlijk heel fijn<br/>zo verbonden te zijn.</p>
+      <p begin="01:23:19.045" end="01:23:41.023">&#9834;[muziek]&#9834;</p>
+      <p begin="01:23:41.023" end="01:23:43.331">- Het is hier echt heel koud.</p>
+      <p begin="01:23:45.783" end="01:23:51.051">Het is 7 november, we zijn<br/>bijna klaar, en ik heb het houd.</p>
+      <p begin="01:23:51.051" end="01:23:52.651">Dus, wat ik dan vaak doe, ik --</p>
+      <p begin="01:23:52.651" end="01:23:55.434">stel je voor ik kom thuis van werk,<br/>ik draag een pak</p>
+      <p begin="01:23:55.434" end="01:24:00.931">ik kom hier, en pak de dekens.</p>
+      <p begin="01:24:00.931" end="01:24:05.413">Ik breng veel tijd onder de<br/>dekens door als het koud is.</p>
+      <p begin="01:24:05.413" end="01:24:06.789">We praten niet over het einde.</p>
+      <p begin="01:24:06.789" end="01:24:07.651">En dat is best grappig,<br/>want</p>
+      <p begin="01:24:07.651" end="01:24:09.115">we gaan uit elkaar<br/>aan het einde hiervan.</p>
+      <p begin="01:24:09.115" end="01:24:10.897">Want aan het einde,<br/>voor mij,</p>
+      <p begin="01:24:10.897" end="01:24:12.569">stap ik op het vliegtuig<br/>om mijn ouders te zien,</p>
+      <p begin="01:24:12.569" end="01:24:15.242">die ik nu al een jaar<br/>niet heb gezien.</p>
+      <p begin="01:24:15.242" end="01:24:18.276">En Colin blijft hier en<br/>ik neem Isabella mee.</p>
+      <p begin="01:24:18.276" end="01:24:26.095">Dus, we -- het is grappig<br/>dat we het er niet over hebben.</p>
+      <p begin="01:24:26.095" end="01:24:28.838">Maar, verder vraagt iedereen<br/>er wel naar.</p>
+      <p begin="01:24:28.838" end="01:24:30.554">*- Mom?*</p>
+      <p begin="01:24:30.554" end="01:24:32.826">*- Ja lieverd?*</p>
+      <p begin="01:24:32.826" end="01:24:36.951">- Er is hier geen licht,<br/>ik kan niks zien.</p>
+      <p begin="01:24:36.951" end="01:24:40.123">- Ik zie er naar uit om 's avonds<br/>in bed met Isabella te lezen</p>
+      <p begin="01:24:40.123" end="01:24:45.872">met voldoende licht,<br/>voldoende licht.</p>
+      <p begin="01:24:51.182" end="01:24:52.487">Je bent toch niet moe,<br/>of wel?</p>
+      <p begin="01:24:52.487" end="01:24:54.089">- Nee.</p>
+      <p begin="01:24:54.089" end="01:24:57.991">- Weet je, volgende week is er<br/>een schoolevenement bij NYU.</p>
+      <p begin="01:24:57.991" end="01:25:02.408">Circa 200 NYU studenten gaan proberen<br/>een week *No Impact* te leven.</p>
+      <p begin="01:25:02.408" end="01:25:03.542">- Dat is zo gaaf.</p>
+      <p begin="01:25:03.542" end="01:25:04.220">- Ja.</p>
+      <p begin="01:25:04.220" end="01:25:08.887">Dus, zondag ga ik en geven<br/>we een workshop over hoe dat te doen.</p>
+      <p begin="01:25:08.887" end="01:25:14.012">En dan de volgende maandag geef ik<br/>een grote speech.</p>
+      <p begin="01:25:14.012" end="01:25:21.216">&#9834;[muziek]&#9834;</p>
+      <p begin="01:25:21.216" end="01:25:22.977">Kamer 206.</p>
+      <p begin="01:25:25.321" end="01:25:29.577">En deze week, tijdens je experiment, kom<br/>je er achter dat het niet zo erg is.</p>
+      <p begin="01:25:29.577" end="01:25:31.702">Mijn experiment duurt nog<br/>maar twee weken.</p>
+      <p begin="01:25:31.702" end="01:25:33.497">En als ik de extremen verlaat,</p>
+      <p begin="01:25:33.497" end="01:25:35.259">nemen we sommige van <br/>de dingen die we opgaven</p>
+      <p begin="01:25:35.259" end="01:25:37.291">weer terug, maar de balans</p>
+      <p begin="01:25:37.291" end="01:25:39.624">zal zijn dat we echt veel</p>
+      <p begin="01:25:39.624" end="01:25:42.850">minder schade aan het<br/>milieu gaan doen</p>
+      <p begin="01:25:42.850" end="01:25:47.267">zonder dat dit een negatief effect<br/>op ons geluk zal hebben.</p>
+      <p begin="01:25:47.267" end="01:25:50.253">Maar als alleen ik verander</p>
+      <p begin="01:25:50.253" end="01:25:51.965">maakt dat niet echt een verschil.</p>
+      <p begin="01:25:51.965" end="01:25:56.052">Maar we hopen dat als iedereen<br/>als individu verandert,</p>
+      <p begin="01:25:56.052" end="01:25:59.149">dat dat dan anderen inspireert<br/>om ook te veranderen.</p>
+      <p begin="01:25:59.149" end="01:26:03.819">Dus ik geloof dat de meest radicale,<br/>politieke actie is om optimist te zijn.</p>
+      <p begin="01:26:03.819" end="01:26:06.732">De meest radicale, politieke actie,<br/>is om te geloven dat als ik verander,</p>
+      <p begin="01:26:06.732" end="01:26:08.262">andere mensen dat ook zullen doen.</p>
+      <p begin="01:26:08.262" end="01:26:13.146">De reden dat ik hier ben is dat ik een<br/>eerstejaars heb, met de naam Olive,</p>
+      <p begin="01:26:13.146" end="01:26:16.950">die op mijn weblog schreef en mij<br/>vroeg hier te komen.</p>
+      <p begin="01:26:16.950" end="01:26:20.625">Mensen vragen me, als ik een ding<br/>kan doen, wat zou het zijn?</p>
+      <p begin="01:26:20.625" end="01:26:24.140">Geen plastic tassen gebruiken, of<br/>geen plastic bekers,</p>
+      <p begin="01:26:24.940" end="01:26:27.985">ik zou zeggen: als er maar een<br/>ding is dat ik kan doen</p>
+      <p begin="01:26:27.985" end="01:26:31.034">zou ik vrijwilligerswerk bij een<br/>milieu-organisatie doen.</p>
+      <p begin="01:26:31.034" end="01:26:33.949">En dat is gedeeltelijk omdat er<br/>daar een gemeenschap is.</p>
+      <p begin="01:26:33.949" end="01:26:38.565">Ik geloof heel sterk dat veel van de<br/>milieuproblemen op onze planeet</p>
+      <p begin="01:26:38.565" end="01:26:41.074">komen doordat de gemeenschap<br/>uit elkaar valt.</p>
+      <p begin="01:26:41.074" end="01:26:42.160">Want zonder een gemeenschap,</p>
+      <p begin="01:26:42.160" end="01:26:44.824">voelt niemand zich verantwoordelijk<br/>voor de acties van een ander.</p>
+      <p begin="01:26:44.824" end="01:26:46.526">En we zijn allemaal verbonden</p>
+      <p begin="01:26:46.526" end="01:26:47.498">op zoveel niveaus.</p>
+      <p begin="01:26:47.498" end="01:26:49.466">Weet je, als je <br/>religieus bent</p>
+      <p begin="01:26:49.466" end="01:26:51.641">dan snap je dat op een<br/>religieus niveau.</p>
+      <p begin="01:26:51.641" end="01:26:55.457">Maar ook als je gewoon<br/>praktisch bent, snap je</p>
+      <p begin="01:26:55.457" end="01:26:57.084">dat we allemaal verbonden zijn,<br/>snap je.</p>
+      <p begin="01:26:57.084" end="01:27:00.039">Als, bijvoorbeeld, ik in een plas stamp<br/>en jij staat ernaast,</p>
+      <p begin="01:27:00.039" end="01:27:01.115">dan word jij nat.</p>
+      <p begin="01:27:01.115" end="01:27:05.423">Als ik dus vervuiling cre&#235;er, dan<br/>moet jij het nog steeds inademen.</p>
+      <p begin="01:27:05.423" end="01:27:06.593">Mijn hersenen<br/>vertellen mij</p>
+      <p begin="01:27:06.593" end="01:27:09.720">dat alleen ik belangrijk ben,<br/>snap je,</p>
+      <p begin="01:27:09.720" end="01:27:13.323">dus ik moet mezelf keer op keer<br/>vertellen dat dat niet waar is.</p>
+      <p begin="01:27:15.167" end="01:27:18.036">*- [Vrouwelijke gast] En als je het<br/>licht aanzet, gaan alle lampen aan?</p>
+      <p begin="01:27:18.036" end="01:27:19.300">- De meeste. Ik probeer ...</p>
+      <p begin="01:27:19.300" end="01:27:22.563">*- OK, dus zodra je dat doen gaan<br/>ze allemaal in een keer aan.*</p>
+      <p begin="01:27:22.563" end="01:27:24.925">- Nee, nee, nee. Ik moet meerdere<br/>knoppen omschakelen.</p>
+      <p begin="01:27:24.925" end="01:27:26.580">Want er is meer dan<br/>een schakelaar.</p>
+      <p begin="01:27:26.580" end="01:27:29.648">- OK, dus je moet misschien drie<br/>schakelaars omzetten</p>
+      <p begin="01:27:29.648" end="01:27:30.892">en dan zullen ze allemaal aanstaan.</p>
+      <p begin="01:27:30.892" end="01:27:31.585">- Ja.</p>
+      <p begin="01:27:31.585" end="01:27:33.987">- Dus, we moeten het<br/>licht ... OK.</p>
+      <p begin="01:27:33.987" end="01:27:36.349">- OK.</p>
+      <p begin="01:27:36.349" end="01:27:39.668">- Het is -- nou ja, het is niet<br/>echt een heel jaar geweest</p>
+      <p begin="01:27:39.668" end="01:27:43.349">omdat de fase zonder electriciteit<br/>pas in de zesde maand begon.</p>
+      <p begin="01:27:43.349" end="01:27:45.631">Dus het is bijna zes maanden<br/>zonder electriciteit.</p>
+      <p begin="01:27:45.631" end="01:27:50.622">Dus we waarderen<br/>de kleine dingen.</p>
+      <p begin="01:27:50.622" end="01:27:52.262">- Ohhh.</p>
+      <p begin="01:27:52.262" end="01:27:54.989">- Jeej!</p>
+      <p begin="01:27:54.989" end="01:27:57.311">[kinderpraat]</p>
+      <p begin="01:28:01.927" end="01:28:04.253">[blazend geluid]</p>
+      <p begin="01:28:05.956" end="01:28:07.677">- Daar gaan we dan.</p>
+      <p begin="01:28:07.677" end="01:28:16.949">&#9834;[muziek]&#9834;</p>
+      <p begin="01:28:16.949" end="01:28:20.755">- Ik moet zeggen dat ik in het begin<br/>skeptisch was over veel dingen</p>
+      <p begin="01:28:20.755" end="01:28:21.956">en dat ik dacht dat het<br/>belachelijk was</p>
+      <p begin="01:28:21.956" end="01:28:27.305">*en heel erg storm, en ik haatte<br/>je, voor hen.*</p>
+      <p begin="01:28:27.305" end="01:28:30.765">Maar, eigenlijk, eigelijk wil<br/>ik blijven fietsen.</p>
+      <p begin="01:28:30.765" end="01:28:34.502">Ik weel dat we ons zoveel mogelijk<br/>aan de geen afval regel houden.</p>
+      <p begin="01:28:34.502" end="01:28:38.401">En ik wil ook eigenlijk echt<br/>graag de boerenmarkt houden.</p>
+      <p begin="01:28:38.401" end="01:28:42.678">&#9834;[muziek]&#9834;</p>
+      <p begin="01:28:42.678" end="01:28:46.953">Ik wil vegetarisch zijn, maar soms toch<br/>nog een hotdog hebben.</p>
+      <p begin="01:28:46.953" end="01:28:48.246">[Colin lacht]</p>
+      <p begin="01:28:48.246" end="01:28:53.335">Ik zou een vege-dog zijn<br/>of een vege-hot.</p>
+      <p begin="01:28:53.335" end="01:28:57.779">&#9834;[muziek]&#9834;</p>
+      <p begin="01:28:57.779" end="01:29:02.201">Ik wil niet echt een TV in huis hebben<br/>maar kijk uit naar de bioscoop</p>
+      <p begin="01:29:02.201" end="01:29:04.306">en als we op vakantie zijn,<br/>staat dat ding aan.</p>
+      <p begin="01:29:06.163" end="01:29:08.160">Met sommige dingen <br/>heb ik echt een probleem.</p>
+      <p begin="01:29:08.160" end="01:29:08.877">- Ja.</p>
+      <p begin="01:29:08.877" end="01:29:10.640">- Waarom kunnen we die<br/>wormen niet terugnemen?</p>
+      <p begin="01:29:10.640" end="01:29:14.578">Omdat ze enorm veel<br/>vliegen aantrekken in de keuken.</p>
+      <p begin="01:29:14.578" end="01:29:18.325">En er zijn ook andere dingen<br/>die we echt niet kunnen doen</p>
+      <p begin="01:29:18.325" end="01:29:21.928">en dat is er een van.</p>
+      <p begin="01:29:21.928" end="01:29:24.039">*Want soms maak ik hier<br/>de beslissingen.</p>
+      <p begin="01:29:24.039" end="01:29:28.039">&#9834;[muziek]&#9834;</p>
+    </div>
+  </body>
+</tt>
