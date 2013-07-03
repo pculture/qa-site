@@ -1,0 +1,1667 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:23,974" end="00:00:27,978">- Vi pr&#248;ver at leve i byen uden at p&#229;virke milij&#248;et</p>
+      <p begin="00:00:27,978" end="00:00:30,536">og jeg skriver om NoImpactMan.com</p>
+      <p begin="00:00:37,028" end="00:00:41,658">Vi f&#230;lder for mange tr&#230;er. Vi beh&#248;ver<br xmlns="http://www.w3.org/1999/xhtml"/>tr&#230;erne for at redde planeten.</p>
+      <p begin="00:00:43,160" end="00:00:45,191">Og isbj&#248;rnene.</p>
+      <p begin="00:00:46,580" end="00:00:50,496">Jeg pr&#248;ver at leve efter mine overbevisninger.</p>
+      <p begin="00:00:52,377" end="00:00:54,129">&#197;h fuck!</p>
+      <p begin="00:00:54,129" end="00:01:07,934"/>
+      <p begin="00:01:07,934" end="00:01:10,604">- Folk er opsatte p&#229; at <br xmlns="http://www.w3.org/1999/xhtml"/>udskifte den amerikanske livsstil</p>
+      <p begin="00:01:10,604" end="00:01:13,273">med vindkraft og tr&#230; bark burgere.</p>
+      <p begin="00:01:13,273" end="00:01:14,441"/>
+      <p begin="00:01:14,441" end="00:01:17,402">Som denne familie i New York,<br xmlns="http://www.w3.org/1999/xhtml"/>Beavans, som er fem m&#229;neder</p>
+      <p begin="00:01:17,402" end="00:01:20,655">inde i en et &#229;r lang mission med<br xmlns="http://www.w3.org/1999/xhtml"/>at leve uden at p&#229;virke milj&#248;et.</p>
+      <p begin="00:01:20,655" end="00:01:24,326"/>
+      <p begin="00:01:24,326" end="00:01:27,579">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">eller engangsbarberblade eller magasiner,eller aviser,</span>
+      </p>
+      <p begin="00:01:27,579" end="00:01:31,541">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">fjernsyn, flyrejser, tog, biler,elevatorer, plastikposer</span>
+      </p>
+      <p begin="00:01:31,541" end="00:01:34,377">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">eller indk&#248;b af noget nyt.</span>
+      </p>
+      <p begin="00:01:34,377" end="00:01:37,088">De er som gift for vores kapitalistiske samfund,<br xmlns="http://www.w3.org/1999/xhtml"/>og for at forsvare sig selv kommer nu</p>
+      <p begin="00:01:37,088" end="00:01:40,634">husfaderen fra denne &#248;ko-husholdning,<br xmlns="http://www.w3.org/1999/xhtml"/>Colin Beavan.</p>
+      <p begin="00:01:40,634" end="00:01:42,014">Mr. Beavan, tak fordi du kunne komme.</p>
+      <p begin="00:01:42,014" end="00:01:44,346"/>
+      <p begin="00:01:44,346" end="00:01:49,267">- Her kommer forfatteren og<br xmlns="http://www.w3.org/1999/xhtml"/>selv-udn&#230;vnt No Impact Man, Colin Beavan.</p>
+      <p begin="00:01:49,267" end="00:01:53,319">- Vi begynder i aften med en mand,<br xmlns="http://www.w3.org/1999/xhtml"/>hans familie og et radikalt eksperiment</p>
+      <p begin="00:01:53,319" end="00:01:54,773">for at hj&#230;lpe planeten.</p>
+      <p begin="00:01:54,773" end="00:01:56,359">med mere en 40% af befolkningen</p>
+      <p begin="00:01:56,359" end="00:01:59,681">nu er overbevist om at mennesket<br xmlns="http://www.w3.org/1999/xhtml"/>er en del af den globale opvarmning.</p>
+      <p begin="00:01:59,681" end="00:02:01,610">- Jeg t&#230;nkte bare, hvad nu hvis<br xmlns="http://www.w3.org/1999/xhtml"/>jeg faktisk pr&#248;vede</p>
+      <p begin="00:02:01,610" end="00:02:03,725">ikke at skade milj&#248;et,</p>
+      <p begin="00:02:03,725" end="00:02:06,117">Hvordan ville det f&#248;les?</p>
+      <p begin="00:02:06,117" end="00:02:08,700">Er det muligt? Er det praktisk?</p>
+      <p begin="00:02:08,700" end="00:02:12,535"/>
+      <p begin="00:02:16,044" end="00:02:32,143"/>
+      <p begin="00:02:32,143" end="00:02:35,355">- En af de ting som jeg,<br xmlns="http://www.w3.org/1999/xhtml"/>som forfatter har &#248;nsket</p>
+      <p begin="00:02:35,355" end="00:02:37,274">fordi mine sidste to b&#248;ger<br xmlns="http://www.w3.org/1999/xhtml"/>var historiske b&#248;ger</p>
+      <p begin="00:02:37,274" end="00:02:40,443">var at blive mere som<br xmlns="http://www.w3.org/1999/xhtml"/>en aktivist forfatter.</p>
+      <p begin="00:02:40,443" end="00:02:42,988">P&#229; en underdanig m&#229;de,<br xmlns="http://www.w3.org/1999/xhtml"/>vil jeg have lidt en f&#248;lelse af at</p>
+      <p begin="00:02:42,988" end="00:02:46,867">mine skriverier hj&#230;lper verden.</p>
+      <p begin="00:02:46,867" end="00:02:49,035">*I det n&#230;ste &#229;r vil min kone,<br xmlns="http://www.w3.org/1999/xhtml"/>min lille datter og jeg,</p>
+      <p begin="00:02:49,035" end="00:02:50,494">mens vi bor i midten<br xmlns="http://www.w3.org/1999/xhtml"/>af New York City</p>
+      <p begin="00:02:50,494" end="00:02:52,064">fors&#248;ge at leve uden at</p>
+      <p begin="00:02:52,064" end="00:02:54,510">lave en netto p&#229;virkning af milj&#248;et</p>
+      <p begin="00:02:54,510" end="00:02:58,503">Ultimativt betyder det at vi ikke vil skabe<br xmlns="http://www.w3.org/1999/xhtml"/>affald og ikke k&#248;be take-out mad,</p>
+      <p begin="00:02:58,503" end="00:03:01,506">ikke udlede CO2,<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; ingen k&#248;rsel eller flyvning;</p>
+      <p begin="00:03:01,506" end="00:03:04,259">ikke h&#230;lde gifte i vandet,<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; intet vaskepulver;</p>
+      <p begin="00:03:04,259" end="00:03:08,973">ikke k&#248;be produkter fra fjerne lande,<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; ingen frugt fra New Zealand.</p>
+      <p begin="00:03:08,973" end="00:03:12,017">For ikke at n&#230;vne, ingen elevatorer, <br xmlns="http://www.w3.org/1999/xhtml"/>ingen undergrundsbane,</p>
+      <p begin="00:03:12,017" end="00:03:15,145">ingen produkter i indpakning, ingen plastik,<br xmlns="http://www.w3.org/1999/xhtml"/>ingen aircondition, ingen TV, ingen aviser,</p>
+      <p begin="00:03:15,145" end="00:03:16,605">Blah-blah-blah-blah.</p>
+      <p begin="00:03:16,605" end="00:03:20,901">N&#229;, men det er alts&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>hovedtr&#230;kkene i projektet.</p>
+      <p begin="00:03:20,901" end="00:03:23,194"/>
+      <p begin="00:03:23,194" end="00:03:34,549"/>
+      <p begin="00:03:36,086" end="00:03:39,294">- Colin fortalte mig hvad<br xmlns="http://www.w3.org/1999/xhtml"/>projektet ville v&#230;re</p>
+      <p begin="00:03:39,294" end="00:03:44,341">og min &#230;rlige reaktion? Jeg var virkelig<br xmlns="http://www.w3.org/1999/xhtml"/>begejstret over at han havde en ide</p>
+      <p begin="00:03:44,341" end="00:03:46,802">som han var begejstret over.</p>
+      <p begin="00:03:46,802" end="00:03:50,138">Det var overordnet<br xmlns="http://www.w3.org/1999/xhtml"/>det vigtigste.</p>
+      <p begin="00:03:50,138" end="00:03:51,464">Jeg t&#230;nkte at nu vi var<br xmlns="http://www.w3.org/1999/xhtml"/>igang med alle disse ting</p>
+      <p begin="00:03:51,464" end="00:03:53,366">hvorfor tilf&#248;jer vi ikke <br xmlns="http://www.w3.org/1999/xhtml"/>ogs&#229; mine to laster</p>
+      <p begin="00:03:53,366" end="00:03:56,982">som er shopping og reality TV?</p>
+      <p begin="00:03:57,938" end="00:04:02,067">Jeg er en reality TV kender,<br xmlns="http://www.w3.org/1999/xhtml"/>afh&#230;nging og ekspert.</p>
+      <p begin="00:04:02,067" end="00:04:03,693">- Se p&#229; hendes ansigt nu.</p>
+      <p begin="00:04:03,693" end="00:04:04,861"/>
+      <p begin="00:04:04,861" end="00:04:09,157">Hun ser ud som om hun<br xmlns="http://www.w3.org/1999/xhtml"/>bliver suget ind i det.</p>
+      <p begin="00:04:09,157" end="00:04:11,117">- Det er godt.</p>
+      <p begin="00:04:11,117" end="00:04:14,746">Jeg har haft en virkeligt intenst forhold<br xmlns="http://www.w3.org/1999/xhtml"/>til indk&#248;b.</p>
+      <p begin="00:04:14,746" end="00:04:16,957">Catherine Malandrino varepr&#248;ve udsalg.</p>
+      <p begin="00:04:16,957" end="00:04:20,168">Jean Paul Gaultier er s&#229; sjovt<br xmlns="http://www.w3.org/1999/xhtml"/>og vi ses til midnat</p>
+      <p begin="00:04:20,168" end="00:04:22,337">og s&#229; vil vi spise middag klokken 2.</p>
+      <p begin="00:04:22,337" end="00:04:23,880">Marc Jacobs er som</p>
+      <p begin="00:04:23,880" end="00:04:28,598">"Jeg er gift, jeg er en mor,<br xmlns="http://www.w3.org/1999/xhtml"/>men jeg pr&#248;ver stadig at arbejde en smule."</p>
+      <p begin="00:04:28,613" end="00:04:31,599">Jeg er n&#230;rmest afh&#230;ngig af h&#248;jt<br xmlns="http://www.w3.org/1999/xhtml"/>fruktoseindhold og majssirup,</p>
+      <p begin="00:04:31,599" end="00:04:36,810">Du ved, en film afh&#230;ngig<br xmlns="http://www.w3.org/1999/xhtml"/>k&#248;d-&#230;dende pige.</p>
+      <p begin="00:04:36,810" end="00:04:39,773">Jeg ville sige at jeg ikke var<br xmlns="http://www.w3.org/1999/xhtml"/>en milj&#248;aktivist.</p>
+      <p begin="00:04:39,773" end="00:04:42,732">Jeg ville sige at jeg var den typiske,<br xmlns="http://www.w3.org/1999/xhtml"/>ligesom forbrugende -</p>
+      <p begin="00:04:42,732" end="00:04:44,985">Jeg er en forbruger.</p>
+      <p begin="00:04:44,985" end="00:04:47,713">Jeg er en take-out junkie.</p>
+      <p begin="00:04:49,236" end="00:04:51,008">- Du var skr&#230;mt over ikke at kunne<br xmlns="http://www.w3.org/1999/xhtml"/>- OK, ikke at have.</p>
+      <p begin="00:04:51,008" end="00:04:52,343">- mulighed for at forbruge i et &#229;r.</p>
+      <p begin="00:04:52,343" end="00:04:54,058">- Ja, det var jeg. Du har ret!</p>
+      <p begin="00:04:54,074" end="00:04:55,662">- S&#229; du har pr&#248;vet at lave dit forbrug<br xmlns="http://www.w3.org/1999/xhtml"/>for hele &#229;ret p&#229; en enkelt uge.</p>
+      <p begin="00:04:55,662" end="00:04:58,331">- S&#229; jeg afleverede l&#248;nsedlen.</p>
+      <p begin="00:04:58,331" end="00:05:00,291">Chloe's st&#248;vler kostede meget.</p>
+      <p begin="00:05:00,291" end="00:05:01,334">- Hvor meget?</p>
+      <p begin="00:05:01,334" end="00:05:03,128">- P&#229; en m&#229;de, er jeg forf&#230;rdet over mig selv.</p>
+      <p begin="00:05:03,128" end="00:05:04,504">- Men, kan du sige hvor meget?</p>
+      <p begin="00:05:04,504" end="00:05:07,674">- Det er rystende. Det er ligesom,<br xmlns="http://www.w3.org/1999/xhtml"/>det er bare ...</p>
+      <p begin="00:05:07,674" end="00:05:09,968">Jeg kan ikke. Jeg er flov.</p>
+      <p begin="00:05:09,968" end="00:05:13,221"/>
+      <p begin="00:05:13,221" end="00:05:14,973">Dette var, du ved,<br xmlns="http://www.w3.org/1999/xhtml"/>det sidste sus.</p>
+      <p begin="00:05:14,973" end="00:05:16,224">- Ja, det var indk&#248;bsflippet. Jeg fik dig.</p>
+      <p begin="00:05:16,224" end="00:05:17,684">- Jah! Dette er regningen for indk&#248;bsflippet.</p>
+      <p begin="00:05:17,684" end="00:05:20,495">- Jeg fik, jeg grinte fordi jeg<br xmlns="http://www.w3.org/1999/xhtml"/>ledte efter n&#248;dvendigheder.</p>
+      <p begin="00:05:20,538" end="00:05:22,368">- Det var som det sidste store slag.</p>
+      <p begin="00:05:22,647" end="00:05:23,481">- OK.</p>
+      <p begin="00:05:23,481" end="00:05:28,445">- Bruger alle mine penge p&#229; fjollede ting.</p>
+      <p begin="00:05:28,445" end="00:05:29,946">- Jeg er ligeglad med hvor meget du bruger.</p>
+      <p begin="00:05:29,946" end="00:05:32,741">Lige dette forbrug h&#230;nger sammen med...</p>
+      <p begin="00:05:32,741" end="00:05:33,533">- Dit projekt.</p>
+      <p begin="00:05:33,533" end="00:05:36,369">- No Impact. Jeg troede det var vores projekt.</p>
+      <p begin="00:05:36,369" end="00:05:37,120">- &#197;h ja.</p>
+      <p begin="00:05:37,120" end="00:05:38,663">Det er "No Impact Man."</p>
+      <p begin="00:05:38,663" end="00:05:41,708">Det er hans bog og det er hans projekt<br xmlns="http://www.w3.org/1999/xhtml"/>og han er "No Impact Man"</p>
+      <p begin="00:05:41,708" end="00:05:46,379">men i orden - men projektet er<br xmlns="http://www.w3.org/1999/xhtml"/>noget vores familie g&#248;r.</p>
+      <p begin="00:05:46,379" end="00:05:58,099"/>
+      <p begin="00:05:58,099" end="00:05:59,955">- For to uger siden,<br xmlns="http://www.w3.org/1999/xhtml"/>P&#229; dag et i projektet,</p>
+      <p begin="00:05:59,955" end="00:06:03,618">stoppede vi med at bruge<br xmlns="http://www.w3.org/1999/xhtml"/>CO2 udledende transport,</p>
+      <p begin="00:06:05,231" end="00:06:11,246">som betyder ingen fly, ingen undergrundsbaner,<br xmlns="http://www.w3.org/1999/xhtml"/>ingen taxier og ingen elevatorer.</p>
+      <p begin="00:06:12,200" end="00:06:14,032">Folk siger, "Alts&#229;, hvorfor g&#229; til ekstremer?"</p>
+      <p begin="00:06:14,032" end="00:06:16,117">for det er ikke alle<br xmlns="http://www.w3.org/1999/xhtml"/>der bliver s&#229; ekstreme</p>
+      <p begin="00:06:16,117" end="00:06:19,485">og alle den slags ting er at opleve<br xmlns="http://www.w3.org/1999/xhtml"/>ligesom hele viften af ting</p>
+      <p begin="00:06:19,485" end="00:06:23,094">at se hvad vi egentligt<br xmlns="http://www.w3.org/1999/xhtml"/>er villige til at opgive, du ved.</p>
+      <p begin="00:06:23,094" end="00:06:26,419">Til slut, kommer vi ud af det og<br xmlns="http://www.w3.org/1999/xhtml"/>ser hvad vi er villige til at beholde.</p>
+      <p begin="00:06:26,419" end="00:06:28,379">Hvad er vi ikke, hvad var for h&#229;rdt,<br xmlns="http://www.w3.org/1999/xhtml"/>hvad er ikke for h&#229;rdt.</p>
+      <p begin="00:06:33,510" end="00:06:37,305">Paradigmet er at reducere, genbruge, genvinde.</p>
+      <p begin="00:06:37,305" end="00:06:39,474">S&#229; det f&#248;rste er at reducere.</p>
+      <p begin="00:06:39,474" end="00:06:41,570">Reducere vores forbrug, ikke?</p>
+      <p begin="00:06:41,893" end="00:06:43,978">Alts&#229;, jeg t&#230;nker for mig selv, du ved,</p>
+      <p begin="00:06:43,978" end="00:06:48,608">"Selvf&#248;lgelig kan jeg ikke undv&#230;re dit.<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg kan ikke undv&#230;re dat."</p>
+      <p begin="00:06:48,608" end="00:06:52,796">S&#229; ideen er, Ok,<br xmlns="http://www.w3.org/1999/xhtml"/>lad os undv&#230;re det hele.</p>
+      <p begin="00:06:52,796" end="00:06:53,384"/>
+      <p begin="00:06:53,384" end="00:06:54,447">. Kommer for at se TV'et.<br xmlns="http://www.w3.org/1999/xhtml"/>Hvor stor er TV'et</p>
+      <p begin="00:06:54,447" end="00:06:55,657">- Ja, kom inden for.</p>
+      <p begin="00:06:55,657" end="00:06:57,617">-Skete?</p>
+      <p begin="00:06:57,617" end="00:06:59,151">- De er kommet for at tage TV'et.</p>
+      <p begin="00:06:59,151" end="00:07:00,621">- Ramme ud.</p>
+      <p begin="00:07:00,621" end="00:07:01,703"/>
+      <p begin="00:07:01,703" end="00:07:02,829">- s&#229; vi skal bare ikke have et TV.</p>
+      <p begin="00:07:02,829" end="00:07:05,404">Vi bliver TV-l&#248;se folk.</p>
+      <p begin="00:07:05,404" end="00:07:06,152">- Jah.</p>
+      <p begin="00:07:06,152" end="00:07:08,791">- Mor er en smule afh&#230;ngig af TV.</p>
+      <p begin="00:07:08,791" end="00:07:10,289"/>
+      <p begin="00:07:12,902" end="00:07:15,218">- Jeg bliver 40 denne sommer<br xmlns="http://www.w3.org/1999/xhtml"/>og der var bare s&#229; mange ting</p>
+      <p begin="00:07:15,218" end="00:07:18,346">omkring den m&#229;de jeg levede mit liv p&#229;,</p>
+      <p begin="00:07:18,346" end="00:07:21,766">is&#230;r med Isabelle<br xmlns="http://www.w3.org/1999/xhtml"/>som jeg &#248;nskede at &#230;ndre.</p>
+      <p begin="00:07:21,766" end="00:07:23,560">Jeg fik mit blod testet,<br xmlns="http://www.w3.org/1999/xhtml"/>rigtigt grundigt</p>
+      <p begin="00:07:23,560" end="00:07:27,063">og det viste at hvis jeg ikke &#230;ndrede<br xmlns="http://www.w3.org/1999/xhtml"/>den m&#229;de jeg spiste p&#229;,</p>
+      <p begin="00:07:27,063" end="00:07:32,963">var jeg n&#230;rmest p&#229; vej til at f&#229; diabetes,<br xmlns="http://www.w3.org/1999/xhtml"/>og havde lave v&#230;rdier for skjoldbugskirtelen.</p>
+      <p begin="00:07:32,963" end="00:07:36,739">Og det faldt lidt sammen<br xmlns="http://www.w3.org/1999/xhtml"/>med min 40 &#229;rs f&#248;dselsdag.</p>
+      <p begin="00:07:36,739" end="00:07:41,035">Det var ligesom p&#229; det tidspunkt<br xmlns="http://www.w3.org/1999/xhtml"/>i livet at jeg t&#230;nkte,</p>
+      <p begin="00:07:41,035" end="00:07:45,371">"Alts&#229;, hvordan vil jeg have at den <br xmlns="http://www.w3.org/1999/xhtml"/>anden halvdel af mit liv skal se ud?"</p>
+      <p begin="00:07:45,371" end="00:07:47,374">Da den f&#248;rste halvdel er ovre.</p>
+      <p begin="00:07:47,374" end="00:07:48,960">Tik-tak.</p>
+      <p begin="00:07:49,837" end="00:07:52,297">- Projektet arbejder i faser.</p>
+      <p begin="00:07:52,297" end="00:07:55,425">Jeg er ikke uddannet milj&#248;fork&#230;mper<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; jeg l&#230;rer undervejs.</p>
+      <p begin="00:07:55,425" end="00:07:58,678">Lige nu, arbejder vi virkeligt<br xmlns="http://www.w3.org/1999/xhtml"/>p&#229; vores affald.</p>
+      <p begin="00:07:58,678" end="00:08:03,433">Den gennemsnitlige amerikaner skaber<br xmlns="http://www.w3.org/1999/xhtml"/>800 kg affald hvert &#229;r.</p>
+      <p begin="00:08:03,433" end="00:08:06,227">Vi pr&#248;ver at reducere det til nul.</p>
+      <p begin="00:08:06,227" end="00:08:15,361"/>
+      <p begin="00:08:15,361" end="00:08:18,282">Se det Hawthorne Valley Farm,<br xmlns="http://www.w3.org/1999/xhtml"/>certificeret &#248;kologisk bio-dynamisk.</p>
+      <p begin="00:08:18,282" end="00:08:19,077">- Jah.</p>
+      <p begin="00:08:19,077" end="00:08:20,575">- Jeg vil pr&#248;ve at se om vi kan, som en familie</p>
+      <p begin="00:08:20,575" end="00:08:24,454">kan bo p&#229; den g&#229;rd i m&#229;ske nogle f&#229; dage <br xmlns="http://www.w3.org/1999/xhtml"/>og lave frivilligt arbejde og den slags.</p>
+      <p begin="00:08:24,454" end="00:08:25,955">Er det OK?</p>
+      <p begin="00:08:25,955" end="00:08:27,958">- Ja, skat. Det lyder som<br xmlns="http://www.w3.org/1999/xhtml"/>en god ide.</p>
+      <p begin="00:08:27,958" end="00:08:30,043"/>
+      <p begin="00:08:30,043" end="00:08:33,922">- Den st&#248;rste del af vores affald er<br xmlns="http://www.w3.org/1999/xhtml"/>indpakning fra mad og madaffald.</p>
+      <p begin="00:08:33,922" end="00:08:35,924">Det gode ved <br xmlns="http://www.w3.org/1999/xhtml"/>torvesalget</p>
+      <p begin="00:08:35,924" end="00:08:38,259">er at det meste af maden<br xmlns="http://www.w3.org/1999/xhtml"/>bliver solgt uden indpakning</p>
+      <p begin="00:08:38,259" end="00:08:41,054">s&#229; det er nemt at handle der<br xmlns="http://www.w3.org/1999/xhtml"/>og ikke skabe affald.</p>
+      <p begin="00:08:41,054" end="00:08:42,805">- Ingen milj&#248; p&#229;virkning?</p>
+      <p begin="00:08:42,805" end="00:08:44,557">- Jah, skaber ingen<br xmlns="http://www.w3.org/1999/xhtml"/>milj&#248; p&#229;virkning.</p>
+      <p begin="00:08:44,557" end="00:08:45,266">- Virkelig?</p>
+      <p begin="00:08:45,266" end="00:08:46,184">- Ja.</p>
+      <p begin="00:08:46,184" end="00:08:47,560">- S&#229; kan du ikke f&#229; denne pose.</p>
+      <p begin="00:08:47,560" end="00:08:48,895">- Mange tak!</p>
+      <p begin="00:08:48,895" end="00:08:51,272">Hvordan kan jeg sige dette uden<br xmlns="http://www.w3.org/1999/xhtml"/>at lyde som et pikhoved?</p>
+      <p begin="00:08:51,272" end="00:08:54,501">Jeg bliver opr&#248;rt over at se ting<br xmlns="http://www.w3.org/1999/xhtml"/>indpakket enkeltvis i plastik.</p>
+      <p begin="00:08:54,501" end="00:08:56,515">&#197;h, ved du hvad,<br xmlns="http://www.w3.org/1999/xhtml"/>er orme folket her?</p>
+      <p begin="00:08:56,527" end="00:08:58,473">- Hvad skal du bruge ormene til?<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg ved ikke om jeg...</p>
+      <p begin="00:08:58,488" end="00:09:00,531">- Alts&#229; , kan jeg fort&#230;lle dig om det bagefter?</p>
+      <p begin="00:09:00,531" end="00:09:03,026">Grundl&#230;ggende, ormene<br xmlns="http://www.w3.org/1999/xhtml"/>omdanner komposten hurtigere.</p>
+      <p begin="00:09:03,779" end="00:09:06,454">- Skat, jeg er ikke til den slags over hovedet.</p>
+      <p begin="00:09:06,454" end="00:09:09,131">- OK, vi kan tale om det.</p>
+      <p begin="00:09:09,761" end="00:09:11,209">Michelle!</p>
+      <p begin="00:09:11,209" end="00:09:11,793">- Ja?</p>
+      <p begin="00:09:11,793" end="00:09:13,211">- Vil du komme og se ormene?</p>
+      <p begin="00:09:14,879" end="00:09:16,446"/>
+      <p begin="00:09:19,046" end="00:09:21,344">Se dem vride sig derinde, mor?</p>
+      <p begin="00:09:21,344" end="00:09:23,371">- Ja. Og s&#229;, hvordan s&#248;rger du<br xmlns="http://www.w3.org/1999/xhtml"/>for at de ikke slipper ud?</p>
+      <p begin="00:09:23,371" end="00:09:24,397">- Det kan ikke komme ud.</p>
+      <p begin="00:09:24,397" end="00:09:25,014"/>
+      <p begin="00:09:25,014" end="00:09:26,436">- Vent. Er det intet l&#229;g?</p>
+      <p begin="00:09:26,436" end="00:09:28,885">- Selvf&#248;lgelig, der er et l&#229;g...</p>
+      <p begin="00:09:28,885" end="00:09:29,592">- Lad os d&#230;kke det til.</p>
+      <p begin="00:09:29,592" end="00:09:31,046">- Ved du hvad, Isabelle ser p&#229; dem.</p>
+      <p begin="00:09:31,046" end="00:09:33,315">- OK. Natur.</p>
+      <p begin="00:09:33,315" end="00:09:34,951"/>
+      <p begin="00:09:34,951" end="00:09:39,463">Mor kan ikke rigtigt lide natur<br xmlns="http://www.w3.org/1999/xhtml"/>men far kan lide natur.</p>
+      <p begin="00:09:39,463" end="00:09:41,032"/>
+      <p begin="00:09:42,324" end="00:09:44,701">- S&#229; ble.</p>
+      <p begin="00:09:44,701" end="00:09:51,374">Ble overtr&#230;kket er lavet af uld,<br xmlns="http://www.w3.org/1999/xhtml"/>&#248;kologisk uld fra lam, der er blevet godt behandlet.</p>
+      <p begin="00:09:51,374" end="00:09:53,788">Jeg har unders&#248;gt alt dette.</p>
+      <p begin="00:09:55,712" end="00:09:57,088">Det er fem forskellige teknikker</p>
+      <p begin="00:09:57,088" end="00:10:03,261">og der er bikini foldningen<br xmlns="http://www.w3.org/1999/xhtml"/>og der er engle foldningen og s&#229; videre,</p>
+      <p begin="00:10:03,261" end="00:10:05,972">vi vil pr&#248;ve engle foldningen.</p>
+      <p begin="00:10:05,972" end="00:10:09,642">Der er forvirring omkring om<br xmlns="http://www.w3.org/1999/xhtml"/>stofbleer eller engangsbleer</p>
+      <p begin="00:10:09,642" end="00:10:11,477">er bedst for milj&#248;et.</p>
+      <p begin="00:10:11,477" end="00:10:16,190">Og unders&#248;gelser st&#248;ttet af industrien<br xmlns="http://www.w3.org/1999/xhtml"/>viser at det er det samme.</p>
+      <p begin="00:10:16,190" end="00:10:17,317">Men fakta i sagen er</p>
+      <p begin="00:10:17,317" end="00:10:21,821">vi kommer 49 milioner bleer<br xmlns="http://www.w3.org/1999/xhtml"/>p&#229; lossepladserne hver dag.</p>
+      <p begin="00:10:21,821" end="00:10:24,949">Det er den 3. st&#248;rste kilde<br xmlns="http://www.w3.org/1999/xhtml"/>til affald p&#229; lossepladserne.</p>
+      <p begin="00:10:24,949" end="00:10:26,034"/>
+      <p begin="00:10:26,034" end="00:10:27,494">- F&#248;les det anderledes, skat?</p>
+      <p begin="00:10:27,494" end="00:10:29,037">- Det er for sjovt!</p>
+      <p begin="00:10:29,037" end="00:10:30,955">- Det er for sjovt.</p>
+      <p begin="00:10:30,955" end="00:10:33,374">Lad os se.</p>
+      <p begin="00:10:33,374" end="00:10:34,459">Hej-hej!</p>
+      <p begin="00:10:34,459" end="00:10:35,377">- &#197;hh!</p>
+      <p begin="00:10:35,377" end="00:10:37,837">- Hej-hej!</p>
+      <p begin="00:10:37,837" end="00:10:40,423">Se p&#229; dig!</p>
+      <p begin="00:10:40,423" end="00:10:41,924">- Det gr&#248;nne &#229;rhundres Skat.</p>
+      <p begin="00:10:41,924" end="00:10:43,051">- Ja ha ha.</p>
+      <p begin="00:10:43,051" end="00:10:44,344"/>
+      <p begin="00:10:44,344" end="00:10:45,803"/>
+      <p begin="00:10:46,496" end="00:10:50,224">- Vi kommer her hver s&#248;ndag<br xmlns="http://www.w3.org/1999/xhtml"/>til morgenmad og vi elsker det.</p>
+      <p begin="00:10:50,224" end="00:10:55,813">Men som en del af vores klumme,<br xmlns="http://www.w3.org/1999/xhtml"/>vores "No Impact" projekt,</p>
+      <p begin="00:10:55,813" end="00:11:00,860">stopper vi med alting<br xmlns="http://www.w3.org/1999/xhtml"/>inklusive restauranter.</p>
+      <p begin="00:11:00,860" end="00:11:03,905">S&#229; dette er vores sidste m&#229;ltid p&#229; Pasti's</p>
+      <p begin="00:11:03,905" end="00:11:07,700">og vores sidste m&#229;ltid i en restaurant<br xmlns="http://www.w3.org/1999/xhtml"/>sammen som en familie, ikke?</p>
+      <p begin="00:11:07,700" end="00:11:10,745">- Du ved vi vil ikke spise mad der <br xmlns="http://www.w3.org/1999/xhtml"/>kommer l&#230;ngere v&#230;k fra end 400 km</p>
+      <p begin="00:11:10,745" end="00:11:14,999">s&#229; det er ikke som s&#229;dan at Pasti's er et<br xmlns="http://www.w3.org/1999/xhtml"/>et problem men for eksempel,</p>
+      <p begin="00:11:14,999" end="00:11:20,880">hveden og br&#248;det kommer sikkert <br xmlns="http://www.w3.org/1999/xhtml"/>fra Great Plains, langt langt borte.</p>
+      <p begin="00:11:20,880" end="00:11:25,968">S&#229; det er - det er hvad problemet vil v&#230;re.</p>
+      <p begin="00:11:25,968" end="00:11:28,679">Det, du ved, at maden kommer alle <br xmlns="http://www.w3.org/1999/xhtml"/>mulige steder fra</p>
+      <p begin="00:11:28,679" end="00:11:31,516">og vi pr&#248;ver at spise lokalt.</p>
+      <p begin="00:11:31,516" end="00:11:34,436">Vi kan spise hvad vi har undtagen<br xmlns="http://www.w3.org/1999/xhtml"/>krydderierne fordi, du ved,</p>
+      <p begin="00:11:34,436" end="00:11:37,605">krydderierne ville kunne holde hele &#229;ret.</p>
+      <p begin="00:11:37,605" end="00:11:38,856">L&#248;g er ikke noget problem.</p>
+      <p begin="00:11:38,856" end="00:11:39,982">Hvidl&#248;g er ikke et problem.</p>
+      <p begin="00:11:39,982" end="00:11:42,818">Squash er ikke et problem.</p>
+      <p begin="00:11:42,818" end="00:11:44,821">Kartofler er ikke et problem.</p>
+      <p begin="00:11:44,821" end="00:11:48,574">Vi spiste bacon kartofler<br xmlns="http://www.w3.org/1999/xhtml"/>tilberedt sidste uge, i tre dage.</p>
+      <p begin="00:11:48,574" end="00:11:51,869">- Jeg har sluttet, sluttet med k&#248;d,<br xmlns="http://www.w3.org/1999/xhtml"/>men jeg spiser stadig fisk</p>
+      <p begin="00:11:51,869" end="00:11:56,332">s&#229; i aftes startede det med ingen k&#248;d,<br xmlns="http://www.w3.org/1999/xhtml"/>ingen fisk, slet ingen ting.</p>
+      <p begin="00:11:56,332" end="00:11:59,169">S&#229;, jeg mener, ud af det hele -<br xmlns="http://www.w3.org/1999/xhtml"/>af trapperne,</p>
+      <p begin="00:11:59,169" end="00:12:01,254">scooteren og ingen affald,</p>
+      <p begin="00:12:01,254" end="00:12:03,673">Det med maden har absolut <br xmlns="http://www.w3.org/1999/xhtml"/>v&#230;ret det sv&#230;reste for mig.</p>
+      <p begin="00:12:03,673" end="00:12:07,760">Det er stadig h&#229;rdt lige nu,<br xmlns="http://www.w3.org/1999/xhtml"/>jeg har lyst til at g&#229; ud og f&#229; lidt bagv&#230;rk.</p>
+      <p begin="00:12:07,760" end="00:12:09,762">- Hvorfor tror du maden<br xmlns="http://www.w3.org/1999/xhtml"/>er det sv&#230;reste for dig?</p>
+      <p begin="00:12:11,931" end="00:12:14,642">- Fordi jeg ikke kan spise noget<br xmlns="http://www.w3.org/1999/xhtml"/>der smager godt.</p>
+      <p begin="00:12:14,642" end="00:12:17,353"/>
+      <p begin="00:12:19,313" end="00:12:22,650">- Lige nu m&#229; vi n&#248;jes med k&#229;l og<br xmlns="http://www.w3.org/1999/xhtml"/>rodfrugter</p>
+      <p begin="00:12:22,650" end="00:12:25,945">indtil vinteren er ovre og for&#229;ret kommer.</p>
+      <p begin="00:12:25,945" end="00:12:27,321">Hej Ryan!</p>
+      <p begin="00:12:27,321" end="00:12:29,657">Jeg kommer tilbage lidt senere<br xmlns="http://www.w3.org/1999/xhtml"/>for at f&#229; lidt m&#230;lk.</p>
+      <p begin="00:12:29,657" end="00:12:31,784">Jeg har for meget at b&#230;re nu.</p>
+      <p begin="00:12:31,784" end="00:12:34,579">- Vi ses!</p>
+      <p begin="00:12:34,579" end="00:12:38,291">Fyren jeg normalt giver mine &#230;ggebakker<br xmlns="http://www.w3.org/1999/xhtml"/>til er her ikke.</p>
+      <p begin="00:12:38,291" end="00:12:40,918">Transporten af mad<br xmlns="http://www.w3.org/1999/xhtml"/>skaber meget CO2 udledning.</p>
+      <p begin="00:12:40,918" end="00:12:43,859">Her i USA, <br xmlns="http://www.w3.org/1999/xhtml"/>har hvert stykke mad</p>
+      <p begin="00:12:43,859" end="00:12:47,720">i gennemsnit rejst 2400 km<br xmlns="http://www.w3.org/1999/xhtml"/>fra g&#229;rden til flyet.</p>
+      <p begin="00:12:47,720" end="00:12:49,677">Disse fyre har fantastiske &#230;bler.</p>
+      <p begin="00:12:49,677" end="00:12:51,804">Jeg spekulerer p&#229; hvad din favorit er?</p>
+      <p begin="00:12:51,804" end="00:12:54,140">- Winesap<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; nu vil jeg tale med ham.</p>
+      <p begin="00:12:54,140" end="00:12:54,182">sokker af.</p>
+      <p begin="00:12:54,182" end="00:12:56,114">- Men der er ogs&#229; mange andre grunde<br xmlns="http://www.w3.org/1999/xhtml"/>til at spise lokalt</p>
+      <p begin="00:12:56,114" end="00:12:59,818">som at bevare vores landbrugsjorde.</p>
+      <p begin="00:12:59,818" end="00:13:03,524">Og grunden til vi er vegetarer er<br xmlns="http://www.w3.org/1999/xhtml"/>p&#229; verdensplan - er k&#248;dspisning ansvarlig</p>
+      <p begin="00:13:03,524" end="00:13:08,520">for flere drivhusgasser end<br xmlns="http://www.w3.org/1999/xhtml"/>noget andet inklusiv transport.</p>
+      <p begin="00:13:11,365" end="00:13:14,494">- Der er ikke noget lokalt dyrket<br xmlns="http://www.w3.org/1999/xhtml"/>kaffe s&#229; det m&#229; jeg undv&#230;re.</p>
+      <p begin="00:13:14,494" end="00:13:17,580">S&#229; i dag er mit sidste fors&#248;g med<br xmlns="http://www.w3.org/1999/xhtml"/>Iced Colada Espressos.</p>
+      <p begin="00:13:17,580" end="00:13:20,750">Jeg er bekymret for at det skal smutte,<br xmlns="http://www.w3.org/1999/xhtml"/>at jeg ikke kan g&#248;re det</p>
+      <p begin="00:13:20,750" end="00:13:25,296">og s&#229; er jeg bekymret om<br xmlns="http://www.w3.org/1999/xhtml"/>Colins vrede.</p>
+      <p begin="00:13:25,296" end="00:13:27,314">For det generer ham virkeligt<br xmlns="http://www.w3.org/1999/xhtml"/>n&#229;r det smutter for mig</p>
+      <p begin="00:13:27,314" end="00:13:31,260">for det f&#229;r ham til at f&#248;le at<br xmlns="http://www.w3.org/1999/xhtml"/>projektet falder sammen.</p>
+      <p begin="00:13:31,260" end="00:13:34,597">Det er egentligt nemt for Colin<br xmlns="http://www.w3.org/1999/xhtml"/>og det er bare d&#248;dsv&#230;rt for mig</p>
+      <p begin="00:13:34,597" end="00:13:36,641">Maden og koffeinen.</p>
+      <p begin="00:13:36,641" end="00:13:40,353">Det er mors tredje og sidste<br xmlns="http://www.w3.org/1999/xhtml"/>Iced Colada Espresso.</p>
+      <p begin="00:13:40,353" end="00:13:41,894">Klar til at lette!</p>
+      <p begin="00:13:44,774" end="00:13:47,068">F&#248;les godt!</p>
+      <p begin="00:13:47,068" end="00:13:49,070">&#197;h min gud! Meget bedre.</p>
+      <p begin="00:13:49,070" end="00:13:55,593"/>
+      <p begin="00:14:03,251" end="00:14:07,088">- En del af det at spise lokalt handler om<br xmlns="http://www.w3.org/1999/xhtml"/>at komme til at kende landm&#230;ndene</p>
+      <p begin="00:14:07,088" end="00:14:09,048">som du f&#229;r din mad fra.</p>
+      <p begin="00:14:09,048" end="00:14:12,494">S&#229; vi skal bes&#248;ge Ronnie p&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>Ronnie Brook Farm</p>
+      <p begin="00:14:12,494" end="00:14:15,989">og alle hans sm&#229; k&#248;er.</p>
+      <p begin="00:14:15,989" end="00:14:18,933">Det er f&#248;rste gang jeg har v&#230;ret</p>
+      <p begin="00:14:18,933" end="00:14:28,484">p&#229; ikke fod-drevet <br xmlns="http://www.w3.org/1999/xhtml"/>transport i mere end en m&#229;ned.</p>
+      <p begin="00:14:28,484" end="00:14:29,986">S&#229; det er lidt sjovt.</p>
+      <p begin="00:14:29,986" end="00:14:30,945">Fut-fut!</p>
+      <p begin="00:14:30,945" end="00:14:32,196"/>
+      <p begin="00:14:32,196" end="00:14:39,662"/>
+      <p begin="00:14:39,662" end="00:14:40,997">- Hver ko har et navn.</p>
+      <p begin="00:14:40,997" end="00:14:42,414">Dette er Thelma.</p>
+      <p begin="00:14:42,414" end="00:14:45,418">- Hej t&#248;s.</p>
+      <p begin="00:14:46,079" end="00:14:49,797">Er forholdet til dyrene en af<br xmlns="http://www.w3.org/1999/xhtml"/>grundene til at du g&#248;r det?</p>
+      <p begin="00:14:49,797" end="00:14:52,050">- Det er grunden til at vi startede med dem.</p>
+      <p begin="00:14:52,050" end="00:14:55,678">Min kone fort&#230;ller mig at da min<br xmlns="http://www.w3.org/1999/xhtml"/>s&#248;n blev f&#248;dt, skulle jeg malke k&#248;erne.</p>
+      <p begin="00:14:55,678" end="00:14:57,930">Jeg kunne ikke tage til --<br xmlns="http://www.w3.org/1999/xhtml"/>k&#248;re hende til hospitalet.</p>
+      <p begin="00:14:57,930" end="00:14:58,718"/>
+      <p begin="00:14:58,718" end="00:15:00,349">Jeg vidste det ikke, det kunne jeg ikke huske.</p>
+      <p begin="00:15:00,349" end="00:15:03,394"/>
+      <p begin="00:15:03,394" end="00:15:05,396">- Lad os tale om &#248;kologi.</p>
+      <p begin="00:15:05,396" end="00:15:07,397">Du har ikke &#216;-m&#230;rket.</p>
+      <p begin="00:15:07,397" end="00:15:12,111">Hvorfor har du ikke det og hvad syntes<br xmlns="http://www.w3.org/1999/xhtml"/>du om &#216;-m&#230;rket og...</p>
+      <p begin="00:15:12,111" end="00:15:15,364">- Alts&#229;, jeg mener at &#248;kologi er en god ting.</p>
+      <p begin="00:15:15,364" end="00:15:18,409">Det eneste jeg har imod at v&#230;re<br xmlns="http://www.w3.org/1999/xhtml"/>&#248;kologisk landmand</p>
+      <p begin="00:15:18,409" end="00:15:20,870">er at jeg ikke kan behandle mine k&#248;er.<br xmlns="http://www.w3.org/1999/xhtml"/>- Ja.</p>
+      <p begin="00:15:20,870" end="00:15:22,079"/>
+      <p begin="00:15:22,079" end="00:15:25,166">- Det er den eneste ting jeg ikke<br xmlns="http://www.w3.org/1999/xhtml"/>kunne v&#230;re med til.</p>
+      <p begin="00:15:25,166" end="00:15:27,627">- Hvilken er hvad? Forklar det for mig.</p>
+      <p begin="00:15:27,627" end="00:15:31,797">Alts&#229;, hvis koen bliver syg,<br xmlns="http://www.w3.org/1999/xhtml"/>m&#229; du ikke behandle den med antibiotika.</p>
+      <p begin="00:15:31,797" end="00:15:35,051">Det er problemet jeg har,<br xmlns="http://www.w3.org/1999/xhtml"/>at lade k&#248;er d&#248;.</p>
+      <p begin="00:15:35,051" end="00:15:38,721">Det har v&#230;ret de samme <br xmlns="http://www.w3.org/1999/xhtml"/>k&#248;er i generationer.</p>
+      <p begin="00:15:38,721" end="00:15:42,016">- Wow!</p>
+      <p begin="00:15:42,016" end="00:15:45,019">Hej skat!</p>
+      <p begin="00:15:45,019" end="00:15:46,437">S&#229; lad mig sp&#248;rge om en ting.</p>
+      <p begin="00:15:46,437" end="00:15:49,106">S&#229; alt hvad du siger,<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; lad os g&#229; til den anden ende.</p>
+      <p begin="00:15:49,106" end="00:15:53,110">Folk hopper med p&#229; vognen<br xmlns="http://www.w3.org/1999/xhtml"/>med &#248;kologisk markedsf&#248;ring.</p>
+      <p begin="00:15:53,110" end="00:15:55,821">- Den vigtigste ting,<br xmlns="http://www.w3.org/1999/xhtml"/>grunden til at lokalt er vigtigt</p>
+      <p begin="00:15:55,821" end="00:15:58,741">er at jeg vil g&#248;re f&#248;devarens vej synlig.</p>
+      <p begin="00:15:58,741" end="00:16:00,576">hvis jeg skal k&#248;be en grapefrugt fra dig</p>
+      <p begin="00:16:00,576" end="00:16:01,843">vil jeg se hvad du laver.</p>
+      <p begin="00:16:01,843" end="00:16:03,859">Du har m&#229;ske ikke et &#216;-m&#230;rke</p>
+      <p begin="00:16:03,859" end="00:16:07,067">men alt hvad du g&#248;r er &#248;kologisk eller bedre.</p>
+      <p begin="00:16:07,067" end="00:16:11,150">Indenfor m&#230;lk, skal det bare v&#230;re,<br xmlns="http://www.w3.org/1999/xhtml"/>det skal bare v&#230;re lokalt</p>
+      <p begin="00:16:12,401" end="00:16:15,791">og hvis du er n&#248;dt til at se p&#229; behandlingen<br xmlns="http://www.w3.org/1999/xhtml"/>at disse dyr.</p>
+      <p begin="00:16:15,791" end="00:16:17,343">Du skal tage ud og se det!</p>
+      <p begin="00:16:17,343" end="00:16:21,059"/>
+      <p begin="00:16:21,059" end="00:16:26,341"/>
+      <p begin="00:16:27,603" end="00:16:30,648">- Dette er en helt<br xmlns="http://www.w3.org/1999/xhtml"/>lokal mad fritata.</p>
+      <p begin="00:16:30,648" end="00:16:34,277">Rodfrugterne kommer fra en g&#229;rd<br xmlns="http://www.w3.org/1999/xhtml"/>i taten New York.</p>
+      <p begin="00:16:34,277" end="00:16:36,987">R&#248;dk&#229;l kommer ogs&#229; fra det nordlige<br xmlns="http://www.w3.org/1999/xhtml"/>af staten New York.</p>
+      <p begin="00:16:36,987" end="00:16:42,743">&#198;g og ost kommer ogs&#229; fra<br xmlns="http://www.w3.org/1999/xhtml"/>det nordlige af staten New York!</p>
+      <p begin="00:16:42,743" end="00:16:44,036">- H&#248;rte du telefonen ringe?</p>
+      <p begin="00:16:44,036" end="00:16:44,787">- Det gjorde jeg.</p>
+      <p begin="00:16:44,787" end="00:16:45,788">- Det var Robin.</p>
+      <p begin="00:16:45,788" end="00:16:46,330">- Ja?</p>
+      <p begin="00:16:46,330" end="00:16:49,326">Og grundl&#230;ggende er aftalen at</p>
+      <p begin="00:16:49,326" end="00:16:51,539">de vil pr&#248;ve at lave <br xmlns="http://www.w3.org/1999/xhtml"/>dette til forside historien.</p>
+      <p begin="00:16:51,539" end="00:16:52,670">- Ja.</p>
+      <p begin="00:16:52,670" end="00:16:54,797">Men tidligt mandag morgen,<br xmlns="http://www.w3.org/1999/xhtml"/>omkring klokken syv,</p>
+      <p begin="00:16:54,797" end="00:16:57,466">skal Robin have det<br xmlns="http://www.w3.org/1999/xhtml"/>nye udkast i sine h&#230;nder.</p>
+      <p begin="00:16:57,466" end="00:17:04,640">S&#229; jeg f&#248;ler mig s&#229; sv&#230;kket af<br xmlns="http://www.w3.org/1999/xhtml"/>min afholdenhed fra koffein</p>
+      <p begin="00:17:04,640" end="00:17:06,767">at jeg f&#248;ler det vil p&#229;virke mit arbejde.</p>
+      <p begin="00:17:06,767" end="00:17:07,435">- Aha?</p>
+      <p begin="00:17:07,435" end="00:17:09,644">- Jeg syntes dette er en virkelig vigtig historie.</p>
+      <p begin="00:17:09,644" end="00:17:12,475">- S&#229; det er hvad jeg syntes, hvorfor ventede <br xmlns="http://www.w3.org/1999/xhtml"/>du med at fort&#230;lle mig</p>
+      <p begin="00:17:12,475" end="00:17:14,358">hvorn&#229;r begynder du at<br xmlns="http://www.w3.org/1999/xhtml"/>lave arbejdet?</p>
+      <p begin="00:17:14,358" end="00:17:15,526">- Efter vores middagsselskab.</p>
+      <p begin="00:17:15,526" end="00:17:18,320">- Hvorfor venter du ikke indtil det,<br xmlns="http://www.w3.org/1999/xhtml"/>og s&#229; kan du bestemme dig.</p>
+      <p begin="00:17:18,320" end="00:17:20,003"/>
+      <p begin="00:17:20,995" end="00:17:23,325">- Laver du grin med mig?</p>
+      <p begin="00:17:23,325" end="00:17:27,037">Jeg f&#248;ler det som om mit hoved<br xmlns="http://www.w3.org/1999/xhtml"/>et ved at falde af min krop.</p>
+      <p begin="00:17:27,037" end="00:17:27,830"/>
+      <p begin="00:17:27,830" end="00:17:30,958">Det vil hj&#230;lpe mig gennem processen<br xmlns="http://www.w3.org/1999/xhtml"/>og jeg kan m&#230;rke at det bliver stresset</p>
+      <p begin="00:17:30,958" end="00:17:33,252">s&#229; hvorfor ikke benytte mig af den hj&#230;lp?</p>
+      <p begin="00:17:33,252" end="00:17:34,962">- Lige en &#248;jeblik</p>
+      <p begin="00:17:37,173" end="00:17:40,176">Hvad du virkelig mener, er at du vil <br xmlns="http://www.w3.org/1999/xhtml"/>have noget kaffe lige nu.</p>
+      <p begin="00:17:40,176" end="00:17:40,989">Det har ikke noget...<br xmlns="http://www.w3.org/1999/xhtml"/>- Jeg g&#229;r ud med hunden.</p>
+      <p begin="00:17:41,802" end="00:17:42,887">Din skid!</p>
+      <p begin="00:17:42,887" end="00:17:45,139">- &#197;h, det er hvad du virkelig, <br xmlns="http://www.w3.org/1999/xhtml"/>det er hvad du virkelig...</p>
+      <p begin="00:17:45,139" end="00:17:47,808">- Ja, jeg vil bruge.<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg vil ud og l&#248;be.</p>
+      <p begin="00:17:48,851" end="00:17:50,352">- Jamen, jeg er ligeglad.</p>
+      <p begin="00:17:50,352" end="00:17:53,439">- Du er ikke ligeglad.</p>
+      <p begin="00:17:53,439" end="00:17:54,774">- Alts&#229;, du ved.</p>
+      <p begin="00:17:54,774" end="00:17:57,610">- Jeg spiser kun lokal mad.<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg skaber ikke noget affald.</p>
+      <p begin="00:17:57,610" end="00:17:58,944">Jeg spiser ingenting...<br xmlns="http://www.w3.org/1999/xhtml"/>- Vent. Vent. Vent. Vent. Vent.</p>
+      <p begin="00:17:59,063" end="00:17:59,898">- Forts&#230;t!</p>
+      <p begin="00:17:59,898" end="00:18:03,616">- Du spiser kun lokal mad, men hvem s&#230;tter det p&#229; <br xmlns="http://www.w3.org/1999/xhtml"/>bordet, st&#229;r op om morgenen</p>
+      <p begin="00:18:03,616" end="00:18:04,867">og laver din morgenmad hver dag.</p>
+      <p begin="00:18:04,867" end="00:18:05,534">- Du!</p>
+      <p begin="00:18:05,534" end="00:18:06,243">- Laver din frokost.</p>
+      <p begin="00:18:06,243" end="00:18:06,695">- Du!</p>
+      <p begin="00:18:06,695" end="00:18:07,391">- Laver din aftensmad.</p>
+      <p begin="00:18:07,391" end="00:18:08,826">- Det er ikke det der er pointen!</p>
+      <p begin="00:18:08,826" end="00:18:11,248">- Og s&#229; som regel vasker op,<br xmlns="http://www.w3.org/1999/xhtml"/>n&#229;r det hele er lavet?</p>
+      <p begin="00:18:11,248" end="00:18:13,125">- Jeg vasker op!</p>
+      <p begin="00:18:13,125" end="00:18:15,211">- Hvad der virkeligt skete er<br xmlns="http://www.w3.org/1999/xhtml"/>at Robin ringede til dig</p>
+      <p begin="00:18:15,211" end="00:18:17,713">og du t&#230;nkte "&#197;h, dette er en undskyldning."</p>
+      <p begin="00:18:17,713" end="00:18:19,757"/>
+      <p begin="00:18:19,757" end="00:18:22,009">- S&#229; du vil have --<br xmlns="http://www.w3.org/1999/xhtml"/>du er vred p&#229; mig</p>
+      <p begin="00:18:22,009" end="00:18:24,512">og jeg siger til dig at<br xmlns="http://www.w3.org/1999/xhtml"/>jeg nok skal passe p&#229; mig selv.</p>
+      <p begin="00:18:24,512" end="00:18:25,299">- Du kommer ordene i min mund.</p>
+      <p begin="00:18:25,299" end="00:18:25,880">- OK. Godt s&#229;!</p>
+      <p begin="00:18:25,880" end="00:18:26,931">- Jeg sagde ikke at jeg var det.</p>
+      <p begin="00:18:26,931" end="00:18:29,642">- Nu vil jeg s&#248;rge for mig selv</p>
+      <p begin="00:18:29,642" end="00:18:33,729">og f&#229; en is-k&#248;let firedobbelt espresso<br xmlns="http://www.w3.org/1999/xhtml"/>eller m&#229;ske to, jeg ved det ikke.</p>
+      <p begin="00:18:33,729" end="00:18:37,780">Jeg vil ikke skuffe alle.<br xmlns="http://www.w3.org/1999/xhtml"/>jeg vil ikke skuffe mig selv.</p>
+      <p begin="00:18:37,780" end="00:18:39,280"/>
+      <p begin="00:18:42,464" end="00:18:46,116">- Jeg brugte denne krydrede olivenolie og det er<br xmlns="http://www.w3.org/1999/xhtml"/>resterne af vores olivenolie</p>
+      <p begin="00:18:46,116" end="00:18:48,327">for ret snart,<br xmlns="http://www.w3.org/1999/xhtml"/>kan vi ikke bruge olivenolie.</p>
+      <p begin="00:18:48,327" end="00:18:50,287">- Og I vil klare jer uden str&#248;m her?</p>
+      <p begin="00:18:50,287" end="00:18:50,829">- Med tiden.</p>
+      <p begin="00:18:50,829" end="00:18:51,372">- Ja!</p>
+      <p begin="00:18:51,372" end="00:18:54,125">- Hvad med str&#248;m i andres<br xmlns="http://www.w3.org/1999/xhtml"/>lejligheder?</p>
+      <p begin="00:18:54,125" end="00:18:56,418">- Hvis nogen skulle invitere os til at<br xmlns="http://www.w3.org/1999/xhtml"/>se TV i deres hus,</p>
+      <p begin="00:18:56,418" end="00:18:58,963">ville vi sige ja fordi det var en<br xmlns="http://www.w3.org/1999/xhtml"/>social sammenkomst.</p>
+      <p begin="00:18:58,963" end="00:19:00,047">Jeg tigger ikke, men det er t&#230;t p&#229;.</p>
+      <p begin="00:19:00,047" end="00:19:00,359"/>
+      <p begin="00:19:03,391" end="00:19:03,900">- Brugt t&#248;j?</p>
+      <p begin="00:19:03,900" end="00:19:05,970">- Brugt t&#248;j er tilladt.</p>
+      <p begin="00:19:05,970" end="00:19:07,097">- Aha!</p>
+      <p begin="00:19:07,097" end="00:19:11,141">- Ingen nye stoffer men Michelle,<br xmlns="http://www.w3.org/1999/xhtml"/>jeg tror jeg vil tage en kold tyrker.</p>
+      <p begin="00:19:11,141" end="00:19:13,602">- I hele &#229;ret, vil jeg ikke k&#248;be<br xmlns="http://www.w3.org/1999/xhtml"/>noget som helst hele &#229;ret.</p>
+      <p begin="00:19:13,957" end="00:19:15,563">Det have v&#230;ret virkeligt fantastisk<br xmlns="http://www.w3.org/1999/xhtml"/>at slippe det</p>
+      <p begin="00:19:15,563" end="00:19:17,439">for det har givet mig mulighed<br xmlns="http://www.w3.org/1999/xhtml"/>for at omvurdere alting.</p>
+      <p begin="00:19:17,439" end="00:19:18,440">Hvad bruger jeg?</p>
+      <p begin="00:19:18,440" end="00:19:19,859">Hvad bruger jeg ikke?</p>
+      <p begin="00:19:19,859" end="00:19:23,445">- Der er en f&#230;lles stil, alligevel.</p>
+      <p begin="00:19:23,445" end="00:19:25,614"/>
+      <p begin="00:19:25,614" end="00:19:26,824">Med nogle enkelte specielle venner.</p>
+      <p begin="00:19:26,824" end="00:19:28,993"/>
+      <p begin="00:19:28,993" end="00:19:34,081"/>
+      <p begin="00:19:34,081" end="00:19:34,999">- Ja, godt g&#229;et!</p>
+      <p begin="00:19:34,999" end="00:19:39,746">- I starten, fordi det var vores vane at se TV, s&#229; vi savnede det.</p>
+      <p begin="00:19:39,746" end="00:19:42,264">Og nu er det hul fyldt med at leve i nuet</p>
+      <p begin="00:19:42,264" end="00:19:43,691">med venner og hinanden.</p>
+      <p begin="00:19:43,691" end="00:19:54,480"/>
+      <p begin="00:20:00,065" end="00:20:03,444">- Jeg laver majsmel gr&#248;d,<br xmlns="http://www.w3.org/1999/xhtml"/>som vi spiser tit.</p>
+      <p begin="00:20:03,444" end="00:20:05,321">Du vil bem&#230;rke at jeg ikke laver det<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; meget fordi, du ved,</p>
+      <p begin="00:20:05,321" end="00:20:08,240">der er ikke s&#229; meget vi kan f&#229; lokalt.</p>
+      <p begin="00:20:08,240" end="00:20:14,163">S&#229; majsmel gr&#248;d er hvad det er.</p>
+      <p begin="00:20:14,163" end="00:20:16,081">- Mit &#230;ble!</p>
+      <p begin="00:20:25,424" end="00:20:26,717">OK. Kys mor farvel.</p>
+      <p begin="00:20:26,717" end="00:20:28,302">- Jeg elsker dig!</p>
+      <p begin="00:20:28,302" end="00:20:29,803">Vi ses senere, OK skat.</p>
+      <p begin="00:20:29,803" end="00:20:31,388">Jeg tager p&#229; arbejde.</p>
+      <p begin="00:20:31,388" end="00:20:46,153"/>
+      <p begin="00:20:46,153" end="00:20:49,990">- Jeg s&#230;tter et indl&#230;g p&#229; bloggen med titlen<br xmlns="http://www.w3.org/1999/xhtml"/>"S&#229;dan undg&#229;r vi at skabe affald."</p>
+      <p begin="00:20:49,990" end="00:20:53,202">Ingen indisk mad og smid-v&#230;k<br xmlns="http://www.w3.org/1999/xhtml"/>take-out bakker.</p>
+      <p begin="00:20:53,202" end="00:20:55,788">Ingen kinesisk mad og plastik<br xmlns="http://www.w3.org/1999/xhtml"/>smid-v&#230;k bakker.</p>
+      <p begin="00:20:55,788" end="00:20:58,374">Ingen italiensk mad og plastik<br xmlns="http://www.w3.org/1999/xhtml"/>smid-v&#230;k bakker.</p>
+      <p begin="00:20:58,374" end="00:21:01,502">Ingen sodavandsd&#229;ser. Ingen vand i plastflasker.</p>
+      <p begin="00:21:01,502" end="00:21:03,963">Annullerer vores magasin og<br xmlns="http://www.w3.org/1999/xhtml"/>avis abonnementer.</p>
+      <p begin="00:21:03,963" end="00:21:07,925">S&#230;tte en stopper for<br xmlns="http://www.w3.org/1999/xhtml"/>reklamernes tr&#230; drab.</p>
+      <p begin="00:21:07,925" end="00:21:14,974">Jeg ringer til firmaerne for at bede <br xmlns="http://www.w3.org/1999/xhtml"/>dem om ikke at sende dem til os mere.</p>
+      <p begin="00:21:14,974" end="00:21:19,728">Returnere &#230;gge- og frugt-bakker til<br xmlns="http://www.w3.org/1999/xhtml"/>producenterne p&#229; torvet til genbrug.</p>
+      <p begin="00:21:19,728" end="00:21:23,065">K&#248;be m&#230;lk i genanvendelige <br xmlns="http://www.w3.org/1999/xhtml"/>flasker, der kan returneres.</p>
+      <p begin="00:21:23,065" end="00:21:26,735">G&#229;r rundt med min ultra seje genanvendelige<br xmlns="http://www.w3.org/1999/xhtml"/>kop og vandflaske</p>
+      <p begin="00:21:26,735" end="00:21:30,447">som er en glaskrukke jeg har<br xmlns="http://www.w3.org/1999/xhtml"/>f&#229;et fra lossepladsen.</p>
+      <p begin="00:21:30,447" end="00:21:36,037">Bruger bagepulver fra en genanvendelig<br xmlns="http://www.w3.org/1999/xhtml"/>beholder til at b&#248;rste mine t&#230;nder.</p>
+      <p begin="00:21:36,037" end="00:21:38,872">Skifte til rigtige, alts&#229; stofbleer.</p>
+      <p begin="00:21:38,872" end="00:21:42,501">K&#248;ber mad, kun i l&#248;s v&#230;gt og<br xmlns="http://www.w3.org/1999/xhtml"/>fra det lokale torv</p>
+      <p begin="00:21:42,501" end="00:21:44,586">hvor det er frisk og ikke pakket ind.</p>
+      <p begin="00:21:44,586" end="00:21:47,423">Hvis jeg vil have det der er inden i kassen,<br xmlns="http://www.w3.org/1999/xhtml"/>hvad skal jeg s&#229; med kassen?</p>
+      <p begin="00:21:47,423" end="00:21:49,925">Og inde i kassen er der en pose.</p>
+      <p begin="00:21:49,925" end="00:21:53,595">Ingen smid-v&#230;k plastik barberskrabere<br xmlns="http://www.w3.org/1999/xhtml"/>og barberblade.</p>
+      <p begin="00:21:53,595" end="00:21:57,641">Bruge gammelt t&#248;j til klude rundt om i <br xmlns="http://www.w3.org/1999/xhtml"/>lejligheden i stedet for papir h&#229;ndkl&#230;der.</p>
+      <p begin="00:21:57,641" end="00:22:01,228">Holde orm i en t&#248;nde til at kompostere<br xmlns="http://www.w3.org/1999/xhtml"/>vores madrester og give n&#230;ring,</p>
+      <p begin="00:22:01,228" end="00:22:06,817">det kan gives tilbage til jorden i stedet<br xmlns="http://www.w3.org/1999/xhtml"/>for gifte der siver ud fra lossepladserne.</p>
+      <p begin="00:22:06,817" end="00:22:08,902">Her kommer de.</p>
+      <p begin="00:22:08,902" end="00:22:10,714">- De vil spise,<br xmlns="http://www.w3.org/1999/xhtml"/>tror jeg du fortalte mig,</p>
+      <p begin="00:22:10,714" end="00:22:13,121">1,5 kg materiale --</p>
+      <p begin="00:22:13,121" end="00:22:14,825">- hver uge, ja.</p>
+      <p begin="00:22:14,825" end="00:22:18,871">For produkterne, tog vi i fire dage<br xmlns="http://www.w3.org/1999/xhtml"/>hvor vi gemte alt vores affald</p>
+      <p begin="00:22:18,871" end="00:22:20,205">og der var 340 liter.</p>
+      <p begin="00:22:20,205" end="00:22:23,375">Fire dage, det er lidt ul&#230;kkert.</p>
+      <p begin="00:22:23,375" end="00:22:26,378">Dette er vores samlede affald for en uge.</p>
+      <p begin="00:22:30,501" end="00:22:35,095">- Isabella taler i telefon.</p>
+      <p begin="00:22:35,095" end="00:22:37,765">OK, s&#229; vi er gennem affalds fasen.<br xmlns="http://www.w3.org/1999/xhtml"/>- Ja.</p>
+      <p begin="00:22:37,765" end="00:22:39,892">- og vi er gennem fasen med at spise lokalt.</p>
+      <p begin="00:22:39,892" end="00:22:40,851">- Ja.</p>
+      <p begin="00:22:40,851" end="00:22:44,063">- og nu skal vi i gang med fasen<br xmlns="http://www.w3.org/1999/xhtml"/>med b&#230;redygtigt forbrug.</p>
+      <p begin="00:22:44,063" end="00:22:47,649">- Hvad med transport og<br xmlns="http://www.w3.org/1999/xhtml"/>alle de andre ting vi har lavet?</p>
+      <p begin="00:22:47,649" end="00:22:51,863">- Ja, men de er ikke en del af faserne.</p>
+      <p begin="00:22:51,863" end="00:22:54,823"/>
+      <p begin="00:22:54,823" end="00:22:56,492">S&#229;, nu bev&#230;ger vi os ind i --</p>
+      <p begin="00:22:56,492" end="00:22:57,201">- OK.</p>
+      <p begin="00:22:57,201" end="00:22:58,520">- Du ved, v&#230;re sikker p&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>at vi ikke har</p>
+      <p begin="00:22:58,520" end="00:23:01,997">nogen p&#229;virkning p&#229; milj&#248;et<br xmlns="http://www.w3.org/1999/xhtml"/>gennem vores indk&#248;b.</p>
+      <p begin="00:23:01,997" end="00:23:06,168">S&#229; den f&#248;rste regel er<br xmlns="http://www.w3.org/1999/xhtml"/>ikke at k&#248;be nye produkter, OK.</p>
+      <p begin="00:23:06,168" end="00:23:09,963">Men vi kan l&#229;ne, leje eller k&#248;be brugt.</p>
+      <p begin="00:23:09,963" end="00:23:11,548">- Skal du p&#229; potten?<br xmlns="http://www.w3.org/1999/xhtml"/>- Ja!</p>
+      <p begin="00:23:11,548" end="00:23:12,716">- Skal du p&#229; potten?</p>
+      <p begin="00:23:12,716" end="00:23:13,801">- Nej!</p>
+      <p begin="00:23:13,801" end="00:23:16,595">- Vil du have noget toiletpapir?</p>
+      <p begin="00:23:16,595" end="00:23:18,472">Faktisk, s&#229; har vi ikke mere toiletpapir.</p>
+      <p begin="00:23:18,472" end="00:23:20,057">Hej, har vi noget toiletpapir?</p>
+      <p begin="00:23:20,057" end="00:23:22,184">- Nej.</p>
+      <p begin="00:23:22,184" end="00:23:25,271">En ting der er rigtigt, rigtigt sv&#230;rt <br xmlns="http://www.w3.org/1999/xhtml"/>for en forbruger er at regne ud</p>
+      <p begin="00:23:25,271" end="00:23:27,691">hvad der er OK at k&#248;be og hvad der ikke er OK at k&#248;be</p>
+      <p begin="00:23:27,691" end="00:23:30,651">og hvad der skal v&#230;re engangs<br xmlns="http://www.w3.org/1999/xhtml"/>og hvad der ikke er engangs, ikke?</p>
+      <p begin="00:23:30,651" end="00:23:31,901">- Ja!</p>
+      <p begin="00:23:31,901" end="00:23:36,054">- S&#229; det er rigtigt, rigtigt sv&#230;rt at<br xmlns="http://www.w3.org/1999/xhtml"/>unders&#248;ge og ingen kan g&#248;re det hele.</p>
+      <p begin="00:23:36,054" end="00:23:36,885">- Ja!</p>
+      <p begin="00:23:36,885" end="00:23:41,385">- Men, hvis du bare holder op med at forbruge<br xmlns="http://www.w3.org/1999/xhtml"/>de ting du egentligt ikke har brug for.</p>
+      <p begin="00:23:41,385" end="00:23:42,103">- Ja.</p>
+      <p begin="00:23:42,103" end="00:23:43,343">- s&#229; har du allerede gjort det!</p>
+      <p begin="00:23:43,343" end="00:23:43,839">- Ja!</p>
+      <p begin="00:23:43,839" end="00:23:45,625">- Du beh&#248;ver ikke at unders&#248;ge det.</p>
+      <p begin="00:23:45,625" end="00:23:46,339">- Det g&#248;r du ikke.</p>
+      <p begin="00:23:46,339" end="00:23:49,142">- S&#229; hvis du finder ud af at egentligt,<br xmlns="http://www.w3.org/1999/xhtml"/>beh&#248;ver du ikke toiletpapir</p>
+      <p begin="00:23:49,142" end="00:23:51,321">du kan bare genbruge klude.</p>
+      <p begin="00:23:51,321" end="00:23:51,934">- Ja.</p>
+      <p begin="00:23:51,934" end="00:23:54,022">- Ja. Du beh&#248;ver ikke k&#248;be toiletpapir</p>
+      <p begin="00:23:54,081" end="00:23:56,654">og du beh&#248;ver ikke lave unders&#248;gelser<br xmlns="http://www.w3.org/1999/xhtml"/>omkring toiletpapir.</p>
+      <p begin="00:23:56,654" end="00:23:57,501">- Nej!</p>
+      <p begin="00:23:57,501" end="00:23:58,475">- Kan du se det?</p>
+      <p begin="00:23:58,475" end="00:23:59,326">- Ja!</p>
+      <p begin="00:23:59,326" end="00:24:00,532">- Ja!</p>
+      <p begin="00:24:00,532" end="00:24:01,913">- Vil du virkelig v&#230;re s&#229; billedlig<br xmlns="http://www.w3.org/1999/xhtml"/>fordi ...</p>
+      <p begin="00:24:01,913" end="00:24:04,125"/>
+      <p begin="00:24:04,125" end="00:24:06,431">- Der er det ved det at du<br xmlns="http://www.w3.org/1999/xhtml"/>ikke ved det f&#248;r du har pr&#248;vet det.</p>
+      <p begin="00:24:06,431" end="00:24:07,877">- Jeg f&#248;ler at jeg ender med at miste mit job.</p>
+      <p begin="00:24:07,877" end="00:24:09,672">Toiletpapir, toiletpapir..</p>
+      <p begin="00:24:09,672" end="00:24:12,182"/>
+      <p begin="00:24:12,182" end="00:24:15,470">- Og den offentlige latterligg&#248;relse af os,<br xmlns="http://www.w3.org/1999/xhtml"/>det bliver bare s&#229;...</p>
+      <p begin="00:24:15,470" end="00:24:17,141">- Det er et eksperiment p&#229; et &#229;r.</p>
+      <p begin="00:24:17,141" end="00:24:17,902">- Godt.</p>
+      <p begin="00:24:17,902" end="00:24:20,464">G&#248;r det ikke dig, No Impact Man<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; ekstrem og tosset</p>
+      <p begin="00:24:20,464" end="00:24:24,521">at du bare bliver ladt ude<br xmlns="http://www.w3.org/1999/xhtml"/>som en ekstrem tosse?</p>
+      <p begin="00:24:24,521" end="00:24:26,001">Jeg stiller bare et retorisk sp&#248;rgsm&#229;l.</p>
+      <p begin="00:24:26,001" end="00:24:29,165">- Men hvis jeg pr&#248;vede det og jeg <br xmlns="http://www.w3.org/1999/xhtml"/>fandt ud af at det virker</p>
+      <p begin="00:24:29,165" end="00:24:32,519">og det er bedre for milj&#248;et<br xmlns="http://www.w3.org/1999/xhtml"/>og det ikke er et problem</p>
+      <p begin="00:24:32,519" end="00:24:37,153">og det kan g&#248;res lige s&#229; hygiejnisk,</p>
+      <p begin="00:24:37,153" end="00:24:38,217">s&#229; ville jeg vide og ikke se hvorfor<br xmlns="http://www.w3.org/1999/xhtml"/>det ville g&#248;re det billigere.</p>
+      <p begin="00:24:38,217" end="00:24:39,282">Men, men hvis jeg ikke pr&#248;ver det...</p>
+      <p begin="00:24:39,282" end="00:24:40,189">- OK.</p>
+      <p begin="00:24:40,189" end="00:24:41,411">- Jeg ved ikke det hele.</p>
+      <p begin="00:24:41,411" end="00:24:42,552">- Aha.</p>
+      <p begin="00:24:42,552" end="00:24:43,538">- Der ser du.</p>
+      <p begin="00:24:43,538" end="00:24:45,158"/>
+      <p begin="00:24:45,158" end="00:24:46,714">- Aha.</p>
+      <p begin="00:24:46,714" end="00:24:49,432">Hvad er det slemme ved toiletpapir?</p>
+      <p begin="00:24:49,878" end="00:24:53,264">- Vi har bruge for vores tr&#230;er<br xmlns="http://www.w3.org/1999/xhtml"/>til at opsuge CO2 men i stedet,</p>
+      <p begin="00:24:53,264" end="00:24:56,981">f&#230;lder vi dem for at lave toiletpapir.</p>
+      <p begin="00:24:56,981" end="00:24:59,231">S&#229; en del af vores eksperiment<br xmlns="http://www.w3.org/1999/xhtml"/>er bare at sp&#248;rge</p>
+      <p begin="00:24:59,231" end="00:25:03,478">"Skal vi v&#230;re en brug og smid v&#230;k<br xmlns="http://www.w3.org/1999/xhtml"/>kultur?" Ikke?</p>
+      <p begin="00:25:03,478" end="00:25:05,993">Og toilet, men du ved --<br xmlns="http://www.w3.org/1999/xhtml"/>og det er et ekstrem</p>
+      <p begin="00:25:05,993" end="00:25:10,345">fordi vi se p&#229; sagen fra alle sider<br xmlns="http://www.w3.org/1999/xhtml"/>om det at smide v&#230;k</p>
+      <p begin="00:25:10,345" end="00:25:13,692">fordi smid-v&#230;k kulturen<br xmlns="http://www.w3.org/1999/xhtml"/>i sig selv er et virkeligt stort problem.</p>
+      <p begin="00:25:13,692" end="00:25:15,358">og faktisk hvis vi var, du ved</p>
+      <p begin="00:25:15,358" end="00:25:16,797">m&#229;ske kan vi komme v&#230;k <br xmlns="http://www.w3.org/1999/xhtml"/>fra alt</p>
+      <p begin="00:25:16,797" end="00:25:20,538">som vi smider v&#230;k.</p>
+      <p begin="00:25:20,538" end="00:25:24,113">- I aften t&#230;nkte jeg, OK alts&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>hvis du beder mig g&#248;re dette,</p>
+      <p begin="00:25:24,113" end="00:25:27,396">s&#229; burde jeg f&#229; en pr&#230;mie,<br xmlns="http://www.w3.org/1999/xhtml"/>en rabatkupon eller v&#230;rdibevis</p>
+      <p begin="00:25:27,396" end="00:25:29,289">der kan indl&#248;ses til noget.</p>
+      <p begin="00:25:29,289" end="00:25:33,646">men jeg vil ikke rigtigt have noget<br xmlns="http://www.w3.org/1999/xhtml"/>og s&#229; var min n&#230;ste tanke</p>
+      <p begin="00:25:33,646" end="00:25:37,613">jeg f&#248;lte sorg over den side af mig,<br xmlns="http://www.w3.org/1999/xhtml"/>der &#248;nsker ting</p>
+      <p begin="00:25:37,613" end="00:25:42,333">d&#248;de en lille smule og jeg f&#248;lte at<br xmlns="http://www.w3.org/1999/xhtml"/>der bare var et hul der.</p>
+      <p begin="00:25:42,333" end="00:25:45,697">- S&#229; hvad er der tilbage?</p>
+      <p begin="00:25:50,280" end="00:25:51,450">- Hvad er det?</p>
+      <p begin="00:25:51,450" end="00:25:57,750">- Det er alle de ting vi skal give bort <br xmlns="http://www.w3.org/1999/xhtml"/>efter at have ryddet op i skabene.</p>
+      <p begin="00:25:57,750" end="00:26:00,263">- OK, er du klar?</p>
+      <p begin="00:26:04,925" end="00:26:08,942">- Dette kaldes lager reducering.</p>
+      <p begin="00:26:12,403" end="00:26:15,306"/>
+      <p begin="00:26:15,306" end="00:26:18,628">Jeg har aldrig nogensinde v&#230;ret her f&#248;r<br xmlns="http://www.w3.org/1999/xhtml"/>hvor de &#229;bnede en Marc Jacobs' btik.</p>
+      <p begin="00:26:18,628" end="00:26:21,959">- Du har pr&#230;cis den samme taske.<br xmlns="http://www.w3.org/1999/xhtml"/>- Nej, det har jeg ikke, skat.</p>
+      <p begin="00:26:21,959" end="00:26:24,802">Skat, jeg har den hvide Sophia.</p>
+      <p begin="00:26:24,802" end="00:26:25,939">- Og hvad er det?</p>
+      <p begin="00:26:25,939" end="00:26:30,178">- Det er ikke hvidt. Det er n&#230;rmest en slags<br xmlns="http://www.w3.org/1999/xhtml"/>duegr&#229;t, men det er en helt anden taske.</p>
+      <p begin="00:26:30,178" end="00:26:32,831"/>
+      <p begin="00:26:44,897" end="00:26:47,221">M&#229;ske er vores lidt st&#248;rre.<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg ved det ikke men alligevel,</p>
+      <p begin="00:26:47,221" end="00:26:49,438">minder det mig om vores TV.</p>
+      <p begin="00:26:49,438" end="00:26:51,444"/>
+      <p begin="00:26:55,925" end="00:26:59,108">- Du h&#248;rer New York offentlige radio <br xmlns="http://www.w3.org/1999/xhtml"/>WNYC FM og AM New York</p>
+      <p begin="00:26:59,108" end="00:27:01,261">og WNYC punktum org.</p>
+      <p begin="00:27:01,261" end="00:27:04,742">Mest solskin i<br xmlns="http://www.w3.org/1999/xhtml"/>Central Park og klokken er ti.</p>
+      <p begin="00:27:04,742" end="00:27:08,537">Min f&#248;rste g&#230;st i dag er No Impact Man</p>
+      <p begin="00:27:08,537" end="00:27:13,318">Colin Beavan har lige g&#229;et op af trapperne til 24. etage,<br xmlns="http://www.w3.org/1999/xhtml"/>sammen med din v&#230;rt</p>
+      <p begin="00:27:13,318" end="00:27:18,686">som ikke er stolt eller tr&#230;t for at undg&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>at bruge str&#248;m i en elevator...</p>
+      <p begin="00:27:18,686" end="00:27:20,856">For dem af jer som tilf&#230;ldigvis<br xmlns="http://www.w3.org/1999/xhtml"/>har avisen New York Times liggende,</p>
+      <p begin="00:27:20,856" end="00:27:23,553">tag sektion F frem,<br xmlns="http://www.w3.org/1999/xhtml"/>sektionen for Hus og Hjem.</p>
+      <p begin="00:27:23,553" end="00:27:27,210">Der er et stort gr&#248;nt, tonet billede<br xmlns="http://www.w3.org/1999/xhtml"/>af Colin Beavans lejlighed</p>
+      <p begin="00:27:27,210" end="00:27:28,822">med sin kone, hans datter og alting.</p>
+      <p begin="00:27:28,822" end="00:27:29,901"/>
+      <p begin="00:27:29,901" end="00:27:31,961">En af de st&#248;rste billeder, jeg nogensinde har set<br xmlns="http://www.w3.org/1999/xhtml"/>i New York Times.</p>
+      <p begin="00:27:31,961" end="00:27:32,700"/>
+      <p begin="00:27:32,700" end="00:27:35,573">En af de mindste lejligheder<br xmlns="http://www.w3.org/1999/xhtml"/>jeg nogensinde har set i New York Times.</p>
+      <p begin="00:27:36,127" end="00:27:36,682"/>
+      <p begin="00:27:36,682" end="00:27:38,510">Jeg k&#248;rte hjem fra Bryan show<br xmlns="http://www.w3.org/1999/xhtml"/>og jeg troede</p>
+      <p begin="00:27:38,510" end="00:27:41,479">Jeg t&#230;nker p&#229; om nogle af mine venner<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; historien i New York Times</p>
+      <p begin="00:27:41,479" end="00:27:47,433">og mailede til mig for at sige tillykke<br xmlns="http://www.w3.org/1999/xhtml"/>og der er omkring 150 mails.</p>
+      <p begin="00:27:47,433" end="00:27:51,986">Emnerne er noget som<br xmlns="http://www.w3.org/1999/xhtml"/>"Hilsner fra the Today's show."</p>
+      <p begin="00:27:51,986" end="00:27:55,463">Hej. Dette er Mary Noel. Jeg er producer<br xmlns="http://www.w3.org/1999/xhtml"/>for Bill Mark.</p>
+      <p begin="00:27:55,463" end="00:27:59,485">I starten var jeg begejstret, men da jeg<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; hvor mange foresp&#248;rgseler der var</p>
+      <p begin="00:27:59,485" end="00:28:05,381">og jeg ikke vidste hvad jeg skulle g&#248;re,<br xmlns="http://www.w3.org/1999/xhtml"/>gik jeg fra begejstret til skr&#230;mt fra vid og sans.</p>
+      <p begin="00:28:05,381" end="00:28:07,414">Hi Colin. Mit navn er Julie,</p>
+      <p begin="00:28:07,414" end="00:28:09,448">jeg arbejder med Discovery Channel.</p>
+      <p begin="00:28:09,448" end="00:28:13,075">"Hej Mr. Beavan, mit navn er Abe Hagras, og jeg<br xmlns="http://www.w3.org/1999/xhtml"/>ringer fra Al Jazeera English</p>
+      <p begin="00:28:13,075" end="00:28:15,234">beliggende i Washington D.C."</p>
+      <p begin="00:28:15,234" end="00:28:18,664">Folk fra Australien, Colombia,<br xmlns="http://www.w3.org/1999/xhtml"/>Tyskland, Italien kontakter mig.</p>
+      <p begin="00:28:18,664" end="00:28:23,582">- Han laver en historie om familier<br xmlns="http://www.w3.org/1999/xhtml"/>som lever i New York</p>
+      <p begin="00:28:23,582" end="00:28:26,579">n&#230;rmest &#248;ko-effektive og<br xmlns="http://www.w3.org/1999/xhtml"/>milj&#248;m&#230;ssigt gr&#248;nne familier.</p>
+      <p begin="00:28:26,579" end="00:28:29,747">- Kan du dreje dig lidt<br xmlns="http://www.w3.org/1999/xhtml"/>mere over mod mig?</p>
+      <p begin="00:28:30,456" end="00:28:31,900">- Ser du?</p>
+      <p begin="00:28:31,900" end="00:28:37,086">For ikke at n&#230;vne italiensk TV,<br xmlns="http://www.w3.org/1999/xhtml"/>japansk TV.</p>
+      <p begin="00:28:37,086" end="00:28:39,741">Anmodning om interview fra<br xmlns="http://www.w3.org/1999/xhtml"/>en avis i Frankrig.</p>
+      <p begin="00:28:39,741" end="00:28:44,854"/>
+      <p begin="00:28:44,854" end="00:28:47,089">- F&#248;r vi startede dette projekt,<br xmlns="http://www.w3.org/1999/xhtml"/>Michelle og jeg</p>
+      <p begin="00:28:47,089" end="00:28:49,539">- Undskyld du talte om <br xmlns="http://www.w3.org/1999/xhtml"/>filosofien, hvad ligger bag --</p>
+      <p begin="00:28:49,539" end="00:28:49,950">- OK.</p>
+      <p begin="00:28:49,950" end="00:28:50,582">- No Impact Man.</p>
+      <p begin="00:28:50,582" end="00:28:53,820">- Jeg t&#230;nker n&#230;rmest hele tiden p&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>f&#230;lles handlinger.</p>
+      <p begin="00:28:53,820" end="00:28:58,076">Hvad vi som samfund b&#248;r g&#248;re.<br xmlns="http://www.w3.org/1999/xhtml"/>Du ved, lovene der burde &#230;ndres.</p>
+      <p begin="00:28:58,076" end="00:29:00,695">Men en af de ting, jeg altid har<br xmlns="http://www.w3.org/1999/xhtml"/>v&#230;ret svag til som en Liberal</p>
+      <p begin="00:29:00,695" end="00:29:01,632">er den enkeltes handling som,</p>
+      <p begin="00:29:01,632" end="00:29:03,816">"Hvorfor skal jeg vente p&#229; at Kongressen<br xmlns="http://www.w3.org/1999/xhtml"/>g&#248;r noget?"</p>
+      <p begin="00:29:03,816" end="00:29:06,311">"Hvorfor skal jeg vente p&#229; at de<br xmlns="http://www.w3.org/1999/xhtml"/>store virksomheder g&#248;r noget?"</p>
+      <p begin="00:29:06,311" end="00:29:07,576">"Hvorfor g&#248;r jeg ikke noget?"</p>
+      <p begin="00:29:07,576" end="00:29:10,871">- "The Times" f&#229;r det dog til at lyde som<br xmlns="http://www.w3.org/1999/xhtml"/>delvis en forandring af verden,</p>
+      <p begin="00:29:10,871" end="00:29:13,700">delvis et reklame nummer for din n&#230;ste bog.<br xmlns="http://www.w3.org/1999/xhtml"/>Er du enig i det?</p>
+      <p begin="00:29:13,700" end="00:29:15,625">- Ja, det er jeg helt enig i.</p>
+      <p begin="00:29:15,625" end="00:29:17,926">Du ved, jeg er den jeg er. Dette er hvad jeg g&#248;r.</p>
+      <p begin="00:29:17,926" end="00:29:23,070">Men hvis jeg kan tage energien i den jeg er<br xmlns="http://www.w3.org/1999/xhtml"/>som person og pege den energi</p>
+      <p begin="00:29:23,070" end="00:29:25,644">i en retning som, du ved,<br xmlns="http://www.w3.org/1999/xhtml"/>jeg siger dette meget ydmygt</p>
+      <p begin="00:29:25,644" end="00:29:29,156">men og pege den energi i en retning<br xmlns="http://www.w3.org/1999/xhtml"/>som kan hj&#230;lpe verden,</p>
+      <p begin="00:29:29,156" end="00:29:31,731">s&#229; er det bedre end at pege den<br xmlns="http://www.w3.org/1999/xhtml"/>i en anden retning.</p>
+      <p begin="00:29:31,731" end="00:29:36,213">Dette er hvad <span tts:fontStyle="italic">New York Times'</span> reporter<br xmlns="http://www.w3.org/1999/xhtml"/>siger om det aktuelle projekt.</p>
+      <p begin="00:29:36,213" end="00:29:40,176">"Det ligner i bedste fald en scene fra en<br xmlns="http://www.w3.org/1999/xhtml"/>gammeldags farce,"</p>
+      <p begin="00:29:40,176" end="00:29:44,651">"og i v&#230;rste fald, en etisk skummel<br xmlns="http://www.w3.org/1999/xhtml"/>&#248;velse i selvpromovering."</p>
+      <p begin="00:29:44,651" end="00:29:48,220">S&#229; hun skrev egentligt at<br xmlns="http://www.w3.org/1999/xhtml"/>mulighederne er</p>
+      <p begin="00:29:48,220" end="00:29:51,873">at enten er det d&#229;rligt eller ogs&#229;<br xmlns="http://www.w3.org/1999/xhtml"/>er det virkeligt d&#229;rligt.</p>
+      <p begin="00:29:51,873" end="00:29:53,116">For l&#230;seren var det virkeligt sjovt.</p>
+      <p begin="00:29:53,116" end="00:29:58,281">Fra mit synspunkt, underminerer det<br xmlns="http://www.w3.org/1999/xhtml"/>muligheden for at tvinge folk til at t&#230;nke.</p>
+      <p begin="00:29:58,281" end="00:30:00,404"/>
+      <p begin="00:30:00,404" end="00:30:04,651">Men hvis vi kaldte det "&#197;ret, hvor jeg tabte<br xmlns="http://www.w3.org/1999/xhtml"/>1o kg uden at g&#229; i tr&#230;ningscenteret en eneste gang"</p>
+      <p begin="00:30:04,651" end="00:30:10,278">eller "&#197;ret, hvor vi ikke s&#229; TV og vi<br xmlns="http://www.w3.org/1999/xhtml"/>derfor blev meget bedre for&#230;ldre."</p>
+      <p begin="00:30:10,278" end="00:30:13,760">Eller hvis vi kaldte det "&#197;ret hvor vi spiste<br xmlns="http://www.w3.org/1999/xhtml"/>lokalt og efter &#229;rstiden,</p>
+      <p begin="00:30:13,760" end="00:30:17,457">og det endte med at f&#229; min kone ud <br xmlns="http://www.w3.org/1999/xhtml"/>af sit forstadie til diabetes."</p>
+      <p begin="00:30:17,457" end="00:30:22,248">Der er faktiske fordele<br xmlns="http://www.w3.org/1999/xhtml"/>ved at leve milj&#248;rigitgt.</p>
+      <p begin="00:30:23,833" end="00:30:27,789">S&#229; dette er l&#230;sernes meninger, ikke?</p>
+      <p begin="00:30:27,789" end="00:30:32,498">379 kommentarer. &#197;benbart<br xmlns="http://www.w3.org/1999/xhtml"/>er det et stort antal kommentarer.</p>
+      <p begin="00:30:32,498" end="00:30:34,841">"Ofre nu eller ofre senere.<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg g&#248;r allerede meget</p>
+      <p begin="00:30:34,841" end="00:30:37,022">men planl&#230;gger at g&#248;re meget mere."</p>
+      <p begin="00:30:37,022" end="00:30:40,970">Og der er denne "Jeg gl&#230;der mig <br xmlns="http://www.w3.org/1999/xhtml"/>til at t&#248;rre min r&#248;v med denne bog."</p>
+      <p begin="00:30:40,970" end="00:30:43,339">Denne skriver "D. T. M. F. A Michelle"</p>
+      <p begin="00:30:43,339" end="00:30:49,500">som jeg tror st&#229;r for<br xmlns="http://www.w3.org/1999/xhtml"/>"Dump The Mother Fucking Asshole."</p>
+      <p begin="00:30:49,500" end="00:30:55,397">Bortset fra gavtyve der n&#230;rmest parodier<br xmlns="http://www.w3.org/1999/xhtml"/>og sender ting der er aktuelle i medierne.</p>
+      <p begin="00:30:55,397" end="00:30:58,043">"Colin gr&#230;der stille p&#229; toilettet,</p>
+      <p begin="00:30:58,043" end="00:31:00,752">for fugtig til at flytte sig og<br xmlns="http://www.w3.org/1999/xhtml"/>for stolt til at t&#248;rre sig."</p>
+      <p begin="00:31:00,752" end="00:31:02,191"/>
+      <p begin="00:31:02,191" end="00:31:04,782">Det var godt men kommentarerne,</p>
+      <p begin="00:31:04,782" end="00:31:06,985">min f&#248;rste indskydelse var<br xmlns="http://www.w3.org/1999/xhtml"/>at rive disse mennesker</p>
+      <p begin="00:31:06,985" end="00:31:11,098">med fugtig ild, mens jeg skriger<br xmlns="http://www.w3.org/1999/xhtml"/>"Er det nok indflydelse for dig?"</p>
+      <p begin="00:31:11,098" end="00:31:13,352">Jeg begyndte at tvivle p&#229; mig selv<br xmlns="http://www.w3.org/1999/xhtml"/>en lille overgang</p>
+      <p begin="00:31:13,352" end="00:31:16,366">Jeg syntes, "I tror jeg er noget v&#230;rd,<br xmlns="http://www.w3.org/1999/xhtml"/>men det er jeg m&#229;ske ikke.</p>
+      <p begin="00:31:16,366" end="00:31:18,323">M&#229;ske en, det er filosofisk forkert.</p>
+      <p begin="00:31:18,323" end="00:31:22,316">Jeg har ogs&#229; f&#229;et mails fra nogle<br xmlns="http://www.w3.org/1999/xhtml"/>milj&#248;fork&#230;mpere som skriver</p>
+      <p begin="00:31:22,316" end="00:31:24,927">du ved, "Tosser som dig, giver resten<br xmlns="http://www.w3.org/1999/xhtml"/>af os et d&#229;rligt omd&#248;mme."</p>
+      <p begin="00:31:24,927" end="00:31:31,508">Kunne jeg muligvis tr&#230;ffe nogle<br xmlns="http://www.w3.org/1999/xhtml"/>totalt forkerte beslutninger?</p>
+      <p begin="00:31:31,508" end="00:31:36,996">Ja, men du er n&#248;dt til --<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg pr&#248;ver bare, du ved,</p>
+      <p begin="00:31:36,996" end="00:31:41,395">Jeg vil bare pr&#248;ve at sp&#248;rge mig selv, du ved,<br xmlns="http://www.w3.org/1999/xhtml"/>at g&#248;re hvad min samvittighed,</p>
+      <p begin="00:31:41,395" end="00:31:44,747">du ved, jeg pr&#248;ver at f&#248;lge<br xmlns="http://www.w3.org/1999/xhtml"/>hvad min samvittighed byder mig.</p>
+      <p begin="00:31:44,747" end="00:31:49,526"/>
+      <p begin="00:31:49,526" end="00:31:53,038">- Jeg ved at jeg ikke kan springe fra nu<br xmlns="http://www.w3.org/1999/xhtml"/>og jeg vil ikke svigte dig.</p>
+      <p begin="00:31:53,038" end="00:31:55,100">men det giver mig lyst til ikke at g&#248;re det.</p>
+      <p begin="00:31:55,100" end="00:31:58,595">- Jeg syntes at det er fint, du ved,<br xmlns="http://www.w3.org/1999/xhtml"/>hvis vi har l&#230;st</p>
+      <p begin="00:31:58,595" end="00:32:00,199">bloggen og den slags.</p>
+      <p begin="00:32:00,199" end="00:32:03,748">- Der er dukket en person op p&#229; arbejde<br xmlns="http://www.w3.org/1999/xhtml"/>som jeg virkelig godt kan lide. Hun er en af mine venner</p>
+      <p begin="00:32:03,748" end="00:32:07,016">men jeg tror, alle vegne hun kommer<br xmlns="http://www.w3.org/1999/xhtml"/>taler folk om det.</p>
+      <p begin="00:32:07,016" end="00:32:10,436">Grundl&#230;ggende hvordan vi er<br xmlns="http://www.w3.org/1999/xhtml"/>bourgeois faux og sk&#248;re</p>
+      <p begin="00:32:10,436" end="00:32:14,097">og hun bruger al sin tid p&#229; at forsvare mig.</p>
+      <p begin="00:32:14,097" end="00:32:15,546">men en fyr, han sagde,</p>
+      <p begin="00:32:15,546" end="00:32:21,068">"Min kone har givet mig besked p&#229; aldrig at <br xmlns="http://www.w3.org/1999/xhtml"/>give h&#229;nd til dig."</p>
+      <p begin="00:32:21,068" end="00:32:26,791">og hun talte hele natten om<br xmlns="http://www.w3.org/1999/xhtml"/>hygiejnen og...</p>
+      <p begin="00:32:26,791" end="00:32:31,077">Jeg kan forst&#229; at folk vil kritisere.<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg kan bare ikke forst&#229; hvorfor de hader os.</p>
+      <p begin="00:32:31,077" end="00:32:32,224">- Skat, det er -- Jeg tror ikke de hader os.</p>
+      <p begin="00:32:32,224" end="00:32:33,737">- Se p&#229; det!</p>
+      <p begin="00:32:37,373" end="00:32:40,846">- Helt tilf&#230;ldigt,<br xmlns="http://www.w3.org/1999/xhtml"/>Colin og jeg blev inviteret til brunch</p>
+      <p begin="00:32:40,846" end="00:32:45,833">af denne kvinde, Carrie fordi<br xmlns="http://www.w3.org/1999/xhtml"/>hun skriver om mad.</p>
+      <p begin="00:32:45,833" end="00:32:52,923">og det viser sig i slutningen af brunchen<br xmlns="http://www.w3.org/1999/xhtml"/>at jeg opdager at hun er &#230;rlig</p>
+      <p begin="00:32:52,923" end="00:32:56,791">om det faktum at hun har<br xmlns="http://www.w3.org/1999/xhtml"/>skrevet negativt om os</p>
+      <p begin="00:32:56,791" end="00:32:59,651">og har v&#230;ret en af dem<br xmlns="http://www.w3.org/1999/xhtml"/>p&#229; nettet, der hader os.</p>
+      <p begin="00:32:59,651" end="00:33:01,744">Hun p&#229;st&#229;r at hun har &#230;ndret<br xmlns="http://www.w3.org/1999/xhtml"/>sin holdning til os.</p>
+      <p begin="00:33:01,744" end="00:33:02,801">Jeg ved det ikke.</p>
+      <p begin="00:33:02,801" end="00:33:04,356">- OK. Lad mig se om jeg kan tr&#230;kke dette op.</p>
+      <p begin="00:33:04,356" end="00:33:05,918">"Jeg har frygtet dette &#248;jeblik.</p>
+      <p begin="00:33:05,918" end="00:33:07,194">Jeg var bange for at du ville sp&#248;rge."</p>
+      <p begin="00:33:07,194" end="00:33:08,431"/>
+      <p begin="00:33:08,431" end="00:33:09,633">- Du er frisk.</p>
+      <p begin="00:33:09,633" end="00:33:10,527">- &#197;h gud!</p>
+      <p begin="00:33:10,527" end="00:33:13,222">"No Impact Man har faktisk en indflydelse</p>
+      <p begin="00:33:13,222" end="00:33:15,232">men sikkert ikke den han s&#248;gte.</p>
+      <p begin="00:33:15,232" end="00:33:17,360">Der var engang, hvor arbejdet bar l&#248;nnen i sig selv.</p>
+      <p begin="00:33:17,360" end="00:33:21,729">Nu er et l&#248;fte om frivillig forsimpling<br xmlns="http://www.w3.org/1999/xhtml"/>bare en anden iv&#230;rks&#230;tter virksomhed.</p>
+      <p begin="00:33:21,729" end="00:33:24,794">Det faktum at No Impact Man's<br xmlns="http://www.w3.org/1999/xhtml"/>demonstrative omfavnelse af alt ok&#248;logisk</p>
+      <p begin="00:33:24,809" end="00:33:28,462">ikke opstod p&#229; en, alts&#229;, &#248;kologisk<br xmlns="http://www.w3.org/1999/xhtml"/>m&#229;de, er det der generer mig.</p>
+      <p begin="00:33:28,462" end="00:33:32,089">Mens No Impact Man reder rundt<br xmlns="http://www.w3.org/1999/xhtml"/>og f&#248;nt&#248;rrer sin r&#248;v for kommende generationer,</p>
+      <p begin="00:33:32,089" end="00:33:35,446">f&#248;rer mindre prangende folk et <br xmlns="http://www.w3.org/1999/xhtml"/>liv i stille inspiration."</p>
+      <p begin="00:33:36,707" end="00:33:38,409"/>
+      <p begin="00:33:38,409" end="00:33:40,234">Jeg satte sp&#248;rgsm&#229;lstegn ved hans oprigtighed <br xmlns="http://www.w3.org/1999/xhtml"/>og hans motiver.</p>
+      <p begin="00:33:40,234" end="00:33:40,599">- Ja.</p>
+      <p begin="00:33:40,599" end="00:33:46,438">- Og der var en <span tts:fontStyle="italic">G Willickers</span> kvalitet<br xmlns="http://www.w3.org/1999/xhtml"/>over kommentaren der gnubbede mig den forkerte vej.</p>
+      <p begin="00:33:46,438" end="00:33:54,212">- Din kritik set i lyset af kritikken<br xmlns="http://www.w3.org/1999/xhtml"/>er meget, meget, meget, meget mild</p>
+      <p begin="00:33:54,212" end="00:33:57,846">Jeg forstod ikke rigtigt hvorfor folk hadede os<br xmlns="http://www.w3.org/1999/xhtml"/>eller hvorfor det var s&#229;dan en...</p>
+      <p begin="00:33:57,846" end="00:33:58,683">- Jeg har en teori.</p>
+      <p begin="00:33:58,683" end="00:33:59,601">- Jeg forstod det ikke rigtigt.</p>
+      <p begin="00:33:59,601" end="00:34:03,824">- Ud fra min egen erfaring med<br xmlns="http://www.w3.org/1999/xhtml"/>den slags ting, for meget sagt</p>
+      <p begin="00:34:03,824" end="00:34:07,749">men jeg tror at meget af dette<br xmlns="http://www.w3.org/1999/xhtml"/>virkeligt ramme et &#248;mt punkt hos folk.</p>
+      <p begin="00:34:07,749" end="00:34:10,384">Ud over at det giver folk d&#229;rlig samvittighed</p>
+      <p begin="00:34:10,384" end="00:34:15,025">og f&#229;r dem til at forsvare<br xmlns="http://www.w3.org/1999/xhtml"/>deres indk&#248;bsvaner.</p>
+      <p begin="00:34:15,025" end="00:34:18,533">Folk bliver meget traumatiesrede <br xmlns="http://www.w3.org/1999/xhtml"/>hvis du foresl&#229;r</p>
+      <p begin="00:34:18,533" end="00:34:21,484">at de skulle undv&#230;re noget.</p>
+      <p begin="00:34:21,484" end="00:34:24,365">Hvis de har en f&#248;lelse af...</p>
+      <p begin="00:34:24,365" end="00:34:25,875">- F&#248;lelsen af "Jeg beh&#248;ver det!"</p>
+      <p begin="00:34:25,875" end="00:34:28,099">- Undv&#230;re det, ja! Jeg beh&#248;ver dette...<br xmlns="http://www.w3.org/1999/xhtml"/>- Men jeg beh&#248;ver det.</p>
+      <p begin="00:34:28,099" end="00:34:31,313">- eller jeg "ikke beh&#248;ver det men jeg vil have det og<br xmlns="http://www.w3.org/1999/xhtml"/>hvorfor skulle jeg undv&#230;re det."</p>
+      <p begin="00:34:31,313" end="00:34:34,536">S&#229;dan er man en god Amerikaner.</p>
+      <p begin="00:34:34,536" end="00:34:57,848"/>
+      <p begin="00:34:57,848" end="00:35:01,450">- En del af lokal mad er at f&#229; forbindelse<br xmlns="http://www.w3.org/1999/xhtml"/>med den m&#229;de maden dyrkes p&#229;.</p>
+      <p begin="00:35:01,450" end="00:35:04,672">S&#229; ,jeg talte med den lokale f&#230;lles have og<br xmlns="http://www.w3.org/1999/xhtml"/>ventelisten</p>
+      <p begin="00:35:04,672" end="00:35:07,435">til at f&#229; dit eget stykke jord er lang,<br xmlns="http://www.w3.org/1999/xhtml"/>&#229;r efter &#229;r.</p>
+      <p begin="00:35:07,435" end="00:35:10,490">Men det viser sig at der kun er en person i<br xmlns="http://www.w3.org/1999/xhtml"/>den f&#230;lles have</p>
+      <p begin="00:35:10,490" end="00:35:11,724">som dyrker gr&#248;ntsager</p>
+      <p begin="00:35:11,724" end="00:35:13,124">Alle andre dyrker blomster.</p>
+      <p begin="00:35:13,124" end="00:35:17,521">Og han var faktisk villig til at tage mig med<br xmlns="http://www.w3.org/1999/xhtml"/>og tage mig i l&#230;re.</p>
+      <p begin="00:35:17,521" end="00:35:19,117">- Du vil hj&#230;lpe os i haven?</p>
+      <p begin="00:35:19,117" end="00:35:20,585">- Ja!</p>
+      <p begin="00:35:20,585" end="00:35:22,047">- Du vil dyrke ting?</p>
+      <p begin="00:35:22,047" end="00:35:23,958">- Det er min ven, Meyer.</p>
+      <p begin="00:35:23,958" end="00:35:27,061">Pas p&#229;. Det er en rosen busk.<br xmlns="http://www.w3.org/1999/xhtml"/>Den har torne.</p>
+      <p begin="00:35:27,061" end="00:35:28,649">- Se, det er rigtigt spidst.<br xmlns="http://www.w3.org/1999/xhtml"/>- Skarpe ting.</p>
+      <p begin="00:35:30,573" end="00:35:33,752">- Lad os tale om, hvad vi<br xmlns="http://www.w3.org/1999/xhtml"/>h&#229;ber at f&#229; lavet i dag.</p>
+      <p begin="00:35:33,752" end="00:35:34,813">- Ja.</p>
+      <p begin="00:35:34,813" end="00:35:37,778">- Dette lille stykke bliver til persille.</p>
+      <p begin="00:35:37,778" end="00:35:42,056">Bare spred det ud over<br xmlns="http://www.w3.org/1999/xhtml"/>denne firkant.</p>
+      <p begin="00:35:42,056" end="00:35:46,644">og d&#230;k det til den dybde som det siger<br xmlns="http://www.w3.org/1999/xhtml"/>og hvor ellers.</p>
+      <p begin="00:35:46,644" end="00:35:50,350"/>
+      <p begin="00:35:50,350" end="00:35:52,647">- Lad mig fort&#230;lle hvad jeg laver, smukke?</p>
+      <p begin="00:35:52,647" end="00:35:55,741">Vi skal have nogle planter her i<br xmlns="http://www.w3.org/1999/xhtml"/>s&#229; vi bryder jorden op</p>
+      <p begin="00:35:55,741" end="00:35:57,537">s&#229; planterne kan gro.</p>
+      <p begin="00:35:57,537" end="00:35:59,953">Jeg troede det var h&#229;rdt arbejde<br xmlns="http://www.w3.org/1999/xhtml"/>at have en have, Meyer?</p>
+      <p begin="00:35:59,953" end="00:36:03,293">- Det er det! Jeg gjorde meget af det mest<br xmlns="http://www.w3.org/1999/xhtml"/>arbejdskr&#230;vende...</p>
+      <p begin="00:36:03,640" end="00:36:05,045">- Hvorn&#229;r spredte du g&#248;dningen?</p>
+      <p begin="00:36:05,045" end="00:36:05,611">- Ja!</p>
+      <p begin="00:36:05,611" end="00:36:06,348">- Nemlig.</p>
+      <p begin="00:36:06,348" end="00:36:09,385">- Da jeg gravede hele lortet op <br xmlns="http://www.w3.org/1999/xhtml"/>sidste efter&#229;r.</p>
+      <p begin="00:36:09,385" end="00:36:14,271">- Jeg tager disse fr&#248;, ikke,<br xmlns="http://www.w3.org/1999/xhtml"/>og jeg kommer dem ned i jorden.</p>
+      <p begin="00:36:14,271" end="00:36:18,857">Meyer, vi vil tilbringe<br xmlns="http://www.w3.org/1999/xhtml"/>fire dage oppe p&#229; Hawthorne Valley Farm.</p>
+      <p begin="00:36:18,857" end="00:36:21,781">- Det hele er, er at alt <br xmlns="http://www.w3.org/1999/xhtml"/>p&#229; g&#229;rden bliver genbrugt.</p>
+      <p begin="00:36:21,781" end="00:36:22,629">- Ja!</p>
+      <p begin="00:36:22,629" end="00:36:23,907">- Det hele k&#248;rer i et lukket kredsl&#248;b.</p>
+      <p begin="00:36:23,907" end="00:36:24,588">- Ja!</p>
+      <p begin="00:36:24,588" end="00:36:25,263">- Meget godt.</p>
+      <p begin="00:36:25,263" end="00:36:28,349">- Jeg ringede til dem og hele familien -<br xmlns="http://www.w3.org/1999/xhtml"/>mig og Isabella og Michelle,</p>
+    </div>
+    <div>
+      <p begin="00:36:28,349" end="00:36:29,978">det bliver n&#230;rmest vores ferie.</p>
+      <p begin="00:36:29,978" end="00:36:31,081">- Det er dejligt!</p>
+      <p begin="00:36:31,081" end="00:36:32,415">- Ja.</p>
+      <p begin="00:36:32,415" end="00:36:43,336"/>
+      <p begin="00:36:43,336" end="00:36:46,711">- Jeg f&#248;ler at vi skal tale om at f&#229; et barn mere.</p>
+      <p begin="00:36:46,711" end="00:36:48,850">- Aha.</p>
+      <p begin="00:36:50,543" end="00:36:53,612">- Men jeg ved at du ikke &#248;nsker flere b&#248;rn</p>
+      <p begin="00:36:53,612" end="00:36:59,646">s&#229; jeg f&#248;ler at det nok betyder at vi<br xmlns="http://www.w3.org/1999/xhtml"/>sandsynligvis ikke f&#229;r flere b&#248;rn.</p>
+      <p begin="00:37:01,417" end="00:37:03,580">- &#216;h,</p>
+      <p begin="00:37:04,845" end="00:37:08,081">Da vi fik Isabelle, f&#248;lte jeg at <br xmlns="http://www.w3.org/1999/xhtml"/>du virkelig &#248;nskede en baby</p>
+      <p begin="00:37:08,081" end="00:37:10,748">og hvad jeg &#248;nskede af mit liv<br xmlns="http://www.w3.org/1999/xhtml"/>ogs&#229; talte, du ved.</p>
+      <p begin="00:37:10,748" end="00:37:13,226">Som jeg kunne ikke holde det fra dig,</p>
+      <p begin="00:37:13,226" end="00:37:15,723">og jeg var villig til at tage springet med dig<br xmlns="http://www.w3.org/1999/xhtml"/>fra det</p>
+      <p begin="00:37:15,723" end="00:37:18,878">fordi jeg f&#248;lte, jeg t&#230;nkte det er sjovt<br xmlns="http://www.w3.org/1999/xhtml"/>fordi vi har denne historie</p>
+      <p begin="00:37:18,898" end="00:37:20,548">som da jeg var bange for at blive gift, ogs&#229;</p>
+      <p begin="00:37:20,548" end="00:37:23,009">og jeg ville sige til dig,<br xmlns="http://www.w3.org/1999/xhtml"/>"G&#248;r vi den rette ting?"</p>
+      <p begin="00:37:23,009" end="00:37:25,516">og du sagde "Ja, "<br xmlns="http://www.w3.org/1999/xhtml"/>og jeg stoler p&#229; vejledningen --</p>
+      <p begin="00:37:25,516" end="00:37:29,081">Jeg stolede p&#229; dig og for mig<br xmlns="http://www.w3.org/1999/xhtml"/>er det den helt rigtige ting.</p>
+      <p begin="00:37:29,127" end="00:37:31,588">Men n&#229;r jeg t&#230;nker p&#229; <br xmlns="http://www.w3.org/1999/xhtml"/>at f&#229; et barn mere,</p>
+      <p begin="00:37:31,588" end="00:37:32,563">- Aha.</p>
+      <p begin="00:37:32,563" end="00:37:38,231">Alts&#229; hvis karriere er det som skal,<br xmlns="http://www.w3.org/1999/xhtml"/>hvis arbejde bliver k&#248;rt ud p&#229; et sidespor?</p>
+      <p begin="00:37:38,231" end="00:37:40,536">For du er ligesom helt <br xmlns="http://www.w3.org/1999/xhtml"/>vild p&#229; arbejde nu.</p>
+      <p begin="00:37:40,536" end="00:37:43,959">Hvis vi f&#229;r et barn mere,<br xmlns="http://www.w3.org/1999/xhtml"/>er du s&#229; villig til at opgive det arbejde?</p>
+      <p begin="00:37:43,959" end="00:37:47,820">- Det beh&#248;ver jeg ikke, det er s&#229; --<br xmlns="http://www.w3.org/1999/xhtml"/>det er lige som jeg beh&#248;ver opgive</p>
+      <p begin="00:37:47,820" end="00:37:50,358">mit arbejde for at f&#229; et barn mere.</p>
+      <p begin="00:37:50,728" end="00:37:53,137">Jeg ved ikke hvorfor du tager --<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg f&#248;ler ikke rigtigt at mit arbejde</p>
+      <p begin="00:37:53,137" end="00:37:56,370">har noget med det at g&#248;re, faktisk.</p>
+      <p begin="00:37:56,370" end="00:37:59,947">- Det har det, fordi pointen er ligesom</p>
+      <p begin="00:37:59,947" end="00:38:02,920">Jeg vil vide om vi skal have et <br xmlns="http://www.w3.org/1999/xhtml"/>barn mere, ikke?</p>
+      <p begin="00:38:02,920" end="00:38:06,845">Jeg vil ikke n&#248;dvendig vis have et --<br xmlns="http://www.w3.org/1999/xhtml"/>Jeg vil ikke have et barn mere, OK?</p>
+      <p begin="00:38:06,845" end="00:38:10,307">Men f&#248;r vi over hovedet <br xmlns="http://www.w3.org/1999/xhtml"/>begynder at overveje det-</p>
+      <p begin="00:38:10,307" end="00:38:12,733">der er ikke s&#229; meget fleksibilitet<br xmlns="http://www.w3.org/1999/xhtml"/>i vore dagligdag, vel?</p>
+      <p begin="00:38:12,733" end="00:38:17,293">S&#229; det jeg sp&#248;rger dig om, er hvor<br xmlns="http://www.w3.org/1999/xhtml"/>skal den fleksibilitet kommer fra?</p>
+      <p begin="00:38:17,293" end="00:38:20,054">- Den vil komme fra mig!</p>
+      <p begin="00:38:28,285" end="00:38:29,962"/>
+      <p begin="00:38:32,718" end="00:38:33,824">- OK.</p>
+      <p begin="00:38:33,824" end="00:38:36,488">Jeg vil samle alle de reng&#248;ringsmidler<br xmlns="http://www.w3.org/1999/xhtml"/>vi har i huset allerede.</p>
+      <p begin="00:38:36,704" end="00:38:39,541">Almindelige reng&#248;ringsprodukter<br xmlns="http://www.w3.org/1999/xhtml"/>indeholde alle mulige slags kemikalier</p>
+      <p begin="00:38:39,541" end="00:38:40,888">som ikke er gode for os.</p>
+      <p begin="00:38:40,888" end="00:38:42,378">og de er heller ikke gode for milj&#248;et</p>
+      <p begin="00:38:42,378" end="00:38:47,306">og de ender med at blive skyllet ud<br xmlns="http://www.w3.org/1999/xhtml"/>eller i afl&#248;bet og ind i vandforsyningen.</p>
+      <p begin="00:38:47,306" end="00:38:52,703">Det vi ser p&#229; her er mange<br xmlns="http://www.w3.org/1999/xhtml"/>ting der markdesf&#248;res</p>
+      <p begin="00:38:52,703" end="00:38:58,035">som naturlige og ikke skadelige<br xmlns="http://www.w3.org/1999/xhtml"/>for milj&#248;et allerede</p>
+      <p begin="00:38:58,035" end="00:39:01,455">fordi vi har v&#230;ret i gang med <br xmlns="http://www.w3.org/1999/xhtml"/>dette projekt i et stykke tid nu.</p>
+      <p begin="00:39:01,455" end="00:39:04,283">De tillader dig ikke<br xmlns="http://www.w3.org/1999/xhtml"/>at genfylde flaskerne</p>
+      <p begin="00:39:04,283" end="00:39:08,229">og med henblik p&#229; dette produkt,<br xmlns="http://www.w3.org/1999/xhtml"/>bruger vi ikke engangsprodukter</p>
+      <p begin="00:39:08,229" end="00:39:10,508">og folk siger,<br xmlns="http://www.w3.org/1999/xhtml"/>"Jamen, hvad med genbrug?"</p>
+      <p begin="00:39:10,508" end="00:39:15,562">Men sagen fakta er at<br xmlns="http://www.w3.org/1999/xhtml"/>genbrug af plastik er ikke lige s&#229; godt som</p>
+      <p begin="00:39:15,562" end="00:39:16,769">det siges at v&#230;re.</p>
+      <p begin="00:39:16,769" end="00:39:19,875">Det er bedre end ingenting<br xmlns="http://www.w3.org/1999/xhtml"/>men det er stadig ikke perfekt.</p>
+      <p begin="00:39:19,875" end="00:39:22,994">S&#229;, folkene kalder det "down cycling"<br xmlns="http://www.w3.org/1999/xhtml"/>i stedet for genbrug</p>
+      <p begin="00:39:22,994" end="00:39:27,221">fordi det g&#229;r ned i kvalitet<br xmlns="http://www.w3.org/1999/xhtml"/>hver gang og s&#229; bliver giftigt.</p>
+      <p begin="00:39:27,221" end="00:39:31,249">Efterh&#229;nden som tingene er sluppet op,<br xmlns="http://www.w3.org/1999/xhtml"/>har jeg - har vi gemt de tomme flaske</p>
+      <p begin="00:39:31,249" end="00:39:36,477">s&#229; vi kan komme vores hjemmelavede<br xmlns="http://www.w3.org/1999/xhtml"/>reng&#248;ringsprodukter i de tomme flasker.</p>
+      <p begin="00:39:37,375" end="00:39:39,287">Alle vores reng&#248;ringsprodukter<br xmlns="http://www.w3.org/1999/xhtml"/>kan laves af disse ting.</p>
+      <p begin="00:39:39,287" end="00:39:47,217">Hvid eddike, bagepulver,<br xmlns="http://www.w3.org/1999/xhtml"/>naturlig s&#230;be og boraks.</p>
+      <p begin="00:39:47,217" end="00:39:51,871"/>
+      <p begin="00:39:51,871" end="00:39:53,377">Jeg ved det ikke. Hvordan kan du se om<br xmlns="http://www.w3.org/1999/xhtml"/>det er rigtigt rent?</p>
+      <p begin="00:39:53,377" end="00:39:56,484">Det f&#248;les som, du ved, det f&#248;les<br xmlns="http://www.w3.org/1999/xhtml"/>p&#229; samme m&#229;de som n&#229;r du bruger</p>
+      <p begin="00:39:56,484" end="00:39:58,999">et almindeligt reng&#248;ringsmiddel.</p>
+      <p begin="00:40:05,945" end="00:40:07,336">Hej Poop, du ved hvad<br xmlns="http://www.w3.org/1999/xhtml"/>jeg laver lige nu, ikke?</p>
+      <p begin="00:40:07,336" end="00:40:09,733">Jeg fjerner al kosmetikken.</p>
+      <p begin="00:40:09,733" end="00:40:10,995">- Min kosmetik?</p>
+      <p begin="00:40:10,995" end="00:40:12,456">Jamen, er det ikke meningen at vi skal g&#248;re det?</p>
+      <p begin="00:40:12,456" end="00:40:14,484">- &#197;h, du mener min make-up og den slags?</p>
+      <p begin="00:40:14,484" end="00:40:18,165">- Jamen, det troede jeg, men jeg ved det ikke.<br xmlns="http://www.w3.org/1999/xhtml"/>Hvad g&#248;r du med al din make-up?</p>
+      <p begin="00:40:18,165" end="00:40:20,555">- Hvad laver du, vil du bare<br xmlns="http://www.w3.org/1999/xhtml"/>smide alle de sager ud?</p>
+      <p begin="00:40:20,555" end="00:40:21,506">- Jamen, det vil jeg ikke. Jeg ville ikke smide det ud.</p>
+      <p begin="00:40:21,506" end="00:40:24,617">Jeg ville bare l&#230;gge det i denne kasse,<br xmlns="http://www.w3.org/1999/xhtml"/>indtil &#229;ret er g&#229;et.</p>
+      <p begin="00:40:25,478" end="00:40:28,267">- OK. Giv mig bare besked.</p>
+      <p begin="00:40:28,756" end="00:40:30,755"/>
+      <p begin="00:40:30,815" end="00:40:36,095">- Jeg kan ikke bare komme alt dette i denne kasse.<br xmlns="http://www.w3.org/1999/xhtml"/>Kan du hj&#230;lpe mig?</p>
+      <p begin="00:40:40,834" end="00:40:42,811"/>
+      <p begin="00:40:47,396" end="00:40:48,877">- Skat!</p>
+      <p begin="00:40:48,877" end="00:40:49,484">- Ja?</p>
+      <p begin="00:40:49,484" end="00:40:53,030">- Gem den flaske hvor der st&#229;r "Fresh".<br xmlns="http://www.w3.org/1999/xhtml"/>Den skal jeg nok tage mig af.</p>
+      <p begin="00:40:53,030" end="00:40:55,610">- Jeg har ladet den st&#229; til dig.</p>
+      <p begin="00:40:57,657" end="00:41:00,373">- Her tom.</p>
+      <p begin="00:41:00,373" end="00:41:01,752">- Jeg ved, jeg beh&#248;ver det.</p>
+      <p begin="00:41:01,752" end="00:41:02,298"/>
+      <p begin="00:41:02,298" end="00:41:03,782">- Fordi ved du hvad jeg vil g&#248;re?<br xmlns="http://www.w3.org/1999/xhtml"/>Jg vil lave shampoo</p>
+      <p begin="00:41:03,782" end="00:41:05,904">og komme i den.</p>
+      <p begin="00:41:09,258" end="00:41:11,451"/>
+      <p begin="00:41:11,451" end="00:41:13,359"/>
+      <p begin="00:41:13,359" end="00:41:15,566"/>
+      <p begin="00:41:15,566" end="00:41:20,219"/>
+      <p begin="00:41:20,219" end="00:41:23,749"/>
+      <p begin="00:41:23,749" end="00:41:26,944"/>
+      <p begin="00:41:26,959" end="00:41:28,190"/>
+      <p begin="00:41:28,190" end="00:41:29,779"/>
+      <p begin="00:41:29,779" end="00:41:31,427"/>
+      <p begin="00:41:31,427" end="00:41:35,146"/>
+      <p begin="00:41:35,146" end="00:41:37,019"/>
+      <p begin="00:41:37,019" end="00:41:38,197"/>
+      <p begin="00:41:38,197" end="00:41:39,723"/>
+      <p begin="00:41:39,723" end="00:41:40,735"/>
+      <p begin="00:41:40,735" end="00:41:41,864"/>
+      <p begin="00:41:41,864" end="00:41:43,908"/>
+      <p begin="00:41:43,908" end="00:41:49,191"/>
+      <p begin="00:41:49,191" end="00:41:51,668"/>
+      <p begin="00:41:51,668" end="00:41:55,360"/>
+      <p begin="00:41:55,360" end="00:41:56,776"/>
+      <p begin="00:41:56,776" end="00:41:57,670"/>
+      <p begin="00:41:57,670" end="00:41:58,954"/>
+      <p begin="00:41:58,954" end="00:42:00,471"/>
+      <p begin="00:42:00,471" end="00:42:01,949"/>
+      <p begin="00:42:01,949" end="00:42:05,510"/>
+      <p begin="00:42:05,510" end="00:42:07,665"/>
+      <p begin="00:42:07,665" end="00:42:09,656"/>
+      <p begin="00:42:09,656" end="00:42:10,676"/>
+      <p begin="00:42:10,676" end="00:42:12,571"/>
+      <p begin="00:42:13,249" end="00:42:15,415"/>
+      <p begin="00:42:15,415" end="00:42:16,790"/>
+      <p begin="00:42:16,790" end="00:42:18,832"/>
+      <p begin="00:42:18,832" end="00:42:20,509"/>
+      <p begin="00:42:20,509" end="00:42:22,854"/>
+      <p begin="00:42:22,854" end="00:42:25,565"/>
+      <p begin="00:42:25,565" end="00:42:27,456"/>
+      <p begin="00:42:27,456" end="00:42:29,461"/>
+      <p begin="00:42:29,461" end="00:42:30,921"/>
+      <p begin="00:42:30,921" end="00:42:33,444"/>
+      <p begin="00:42:33,444" end="00:42:34,550"/>
+      <p begin="00:42:34,550" end="00:42:38,133"/>
+      <p begin="00:42:38,133" end="00:42:44,427"/>
+      <p begin="00:42:44,427" end="00:42:46,998"/>
+      <p begin="00:42:46,998" end="00:42:48,424"/>
+      <p begin="00:42:48,424" end="00:42:51,129"/>
+      <p begin="00:42:51,129" end="00:42:55,645"/>
+      <p begin="00:42:55,900" end="00:43:00,461"/>
+      <p begin="00:43:00,461" end="00:43:02,364"/>
+      <p begin="00:43:02,364" end="00:43:04,349"/>
+      <p begin="00:43:04,349" end="00:43:06,839"/>
+      <p begin="00:43:06,839" end="00:43:09,530"/>
+      <p begin="00:43:09,530" end="00:43:11,165"/>
+      <p begin="00:43:11,165" end="00:43:12,468"/>
+      <p begin="00:43:12,468" end="00:43:15,195"/>
+      <p begin="00:43:15,195" end="00:43:18,160"/>
+      <p begin="00:43:18,160" end="00:43:20,128"/>
+      <p begin="00:43:20,128" end="00:43:21,987"/>
+      <p begin="00:43:21,987" end="00:43:25,931"/>
+      <p begin="00:43:25,931" end="00:43:26,735"/>
+      <p begin="00:43:26,735" end="00:43:27,983"/>
+      <p begin="00:43:27,983" end="00:43:31,594"/>
+      <p begin="00:43:31,594" end="00:43:35,861"/>
+      <p begin="00:43:35,861" end="00:43:39,457"/>
+      <p begin="00:43:39,457" end="00:43:41,453"/>
+      <p begin="00:43:41,453" end="00:43:44,147"/>
+      <p begin="00:43:44,147" end="00:43:46,428"/>
+      <p begin="00:43:46,428" end="00:43:59,083"/>
+      <p begin="00:43:59,083" end="00:44:00,770"/>
+      <p begin="00:44:00,770" end="00:44:03,409"/>
+      <p begin="00:44:03,409" end="00:44:09,365"/>
+      <p begin="00:44:09,365" end="00:44:11,615"/>
+      <p begin="00:44:11,615" end="00:44:14,918"/>
+      <p begin="00:44:14,918" end="00:44:17,696"/>
+      <p begin="00:44:17,696" end="00:44:19,357"/>
+      <p begin="00:44:19,357" end="00:44:21,380"/>
+      <p begin="00:44:21,380" end="00:44:23,510"/>
+      <p begin="00:44:23,510" end="00:44:25,638"/>
+      <p begin="00:44:25,638" end="00:44:37,109"/>
+      <p begin="00:44:37,109" end="00:44:38,126"/>
+      <p begin="00:44:38,126" end="00:44:39,683"/>
+      <p begin="00:44:39,683" end="00:44:41,328"/>
+      <p begin="00:44:41,328" end="00:44:41,329"/>
+      <p begin="00:44:41,329" end="00:44:42,800"/>
+      <p begin="00:44:42,800" end="00:44:44,438"/>
+      <p begin="00:44:44,438" end="00:44:48,200"/>
+      <p begin="00:44:48,200" end="00:44:49,490"/>
+      <p begin="00:44:49,490" end="00:44:51,542"/>
+      <p begin="00:44:52,227" end="00:44:54,395"/>
+      <p begin="00:44:54,395" end="00:44:55,503"/>
+      <p begin="00:44:55,503" end="00:44:56,171"/>
+      <p begin="00:44:56,171" end="00:45:01,827"/>
+      <p begin="00:45:01,827" end="00:45:02,974"/>
+      <p begin="00:45:02,974" end="00:45:04,256"/>
+      <p begin="00:45:04,256" end="00:45:05,192"/>
+      <p begin="00:45:07,050" end="00:45:09,485"/>
+      <p begin="00:45:09,485" end="00:45:10,599"/>
+      <p begin="00:45:10,599" end="00:45:11,253"/>
+      <p begin="00:45:11,253" end="00:45:13,322"/>
+      <p begin="00:45:13,322" end="00:45:14,395"/>
+      <p begin="00:45:14,395" end="00:45:15,635"/>
+      <p begin="00:45:15,635" end="00:45:22,208"/>
+      <p begin="00:45:22,208" end="00:45:26,355"/>
+      <p begin="00:45:26,355" end="00:45:27,028"/>
+      <p begin="00:45:27,028" end="00:45:29,956"/>
+      <p begin="00:45:29,956" end="00:45:35,343"/>
+      <p begin="00:45:35,343" end="00:45:39,076"/>
+      <p begin="00:45:39,076" end="00:45:40,850"/>
+      <p begin="00:45:40,885" end="00:45:41,762"/>
+      <p begin="00:45:41,762" end="00:45:43,325"/>
+      <p begin="00:45:43,325" end="00:45:45,212"/>
+      <p begin="00:45:45,212" end="00:45:47,706"/>
+      <p begin="00:45:47,706" end="00:45:49,437"/>
+      <p begin="00:45:49,437" end="00:45:51,680"/>
+      <p begin="00:45:51,680" end="00:45:53,881"/>
+      <p begin="00:45:53,881" end="00:45:56,537"/>
+      <p begin="00:45:57,106" end="00:46:00,158"/>
+      <p begin="00:46:00,158" end="00:46:02,347"/>
+      <p begin="00:46:02,347" end="00:46:05,158"/>
+      <p begin="00:46:05,158" end="00:46:05,944"/>
+      <p begin="00:46:05,944" end="00:46:07,481"/>
+      <p begin="00:46:07,481" end="00:46:08,572"/>
+      <p begin="00:46:08,572" end="00:46:11,116"/>
+      <p begin="00:46:13,239" end="00:46:16,115"/>
+      <p begin="00:46:16,115" end="00:47:10,575"/>
+      <p begin="00:47:10,575" end="00:47:19,486"/>
+      <p begin="00:47:32,720" end="00:47:36,049"/>
+      <p begin="00:47:37,573" end="00:47:42,938"/>
+      <p begin="00:47:56,883" end="00:47:58,210"/>
+      <p begin="00:47:58,210" end="00:48:01,484"/>
+      <p begin="00:48:01,484" end="00:48:05,734"/>
+      <p begin="00:48:07,196" end="00:48:10,536"/>
+      <p begin="00:48:10,536" end="00:48:15,782"/>
+      <p begin="00:48:15,782" end="00:48:17,615"/>
+      <p begin="00:48:17,615" end="00:48:19,076"/>
+      <p begin="00:48:19,076" end="00:48:25,134"/>
+      <p begin="00:48:25,134" end="00:48:30,042"/>
+      <p begin="00:48:30,042" end="00:48:31,904"/>
+      <p begin="00:48:31,904" end="00:48:34,282"/>
+      <p begin="00:48:34,282" end="00:48:37,219"/>
+      <p begin="00:48:39,604" end="00:48:44,367"/>
+      <p begin="00:48:44,367" end="00:48:46,588"/>
+      <p begin="00:48:46,588" end="00:48:51,803"/>
+      <p begin="00:48:51,803" end="00:48:55,986"/>
+      <p begin="00:48:55,986" end="00:48:59,079"/>
+      <p begin="00:48:59,079" end="00:49:02,712"/>
+      <p begin="00:49:02,712" end="00:49:07,240"/>
+      <p begin="00:49:07,240" end="00:49:08,474"/>
+      <p begin="00:49:08,474" end="00:49:09,185"/>
+      <p begin="00:49:09,185" end="00:49:11,780"/>
+      <p begin="00:49:11,780" end="00:49:13,439"/>
+      <p begin="00:49:13,439" end="00:49:17,840"/>
+      <p begin="00:49:17,840" end="00:49:24,977"/>
+      <p begin="00:49:24,977" end="00:49:27,509"/>
+      <p begin="00:49:27,531" end="00:49:30,290"/>
+      <p begin="00:49:32,647" end="00:49:34,720"/>
+      <p begin="00:49:34,720" end="00:49:36,430"/>
+      <p begin="00:49:36,430" end="00:49:37,272"/>
+      <p begin="00:49:37,272" end="00:49:38,289"/>
+      <p begin="00:49:38,289" end="00:49:41,690"/>
+      <p begin="00:49:41,690" end="00:49:43,739"/>
+      <p begin="00:49:43,739" end="00:49:46,243"/>
+      <p begin="00:49:46,243" end="00:49:48,162"/>
+      <p begin="00:49:48,162" end="00:49:57,348"/>
+      <p begin="00:49:57,348" end="00:50:01,307"/>
+      <p begin="00:50:01,307" end="00:50:02,351"/>
+      <p begin="00:50:02,351" end="00:50:03,958"/>
+      <p begin="00:50:07,082" end="00:50:09,413"/>
+      <p begin="00:50:13,475" end="00:50:15,898"/>
+      <p begin="00:50:15,898" end="00:50:17,495"/>
+      <p begin="00:50:17,495" end="00:50:18,797"/>
+      <p begin="00:50:18,797" end="00:50:21,387"/>
+      <p begin="00:50:21,387" end="00:50:23,276"/>
+      <p begin="00:50:25,781" end="00:50:28,650"/>
+      <p begin="00:50:28,650" end="00:50:32,198"/>
+      <p begin="00:50:32,198" end="00:50:34,560"/>
+      <p begin="00:50:34,560" end="00:50:36,670"/>
+      <p begin="00:50:36,670" end="00:50:39,405"/>
+      <p begin="00:50:39,405" end="00:50:45,110"/>
+      <p begin="00:50:46,941" end="00:50:50,422"/>
+      <p begin="00:50:50,422" end="00:50:54,808"/>
+      <p begin="00:50:55,208" end="00:50:59,014"/>
+      <p begin="00:50:59,014" end="00:51:04,298"/>
+      <p begin="00:51:04,298" end="00:51:09,632"/>
+      <p begin="00:51:09,632" end="00:51:13,369"/>
+      <p begin="00:51:14,908" end="00:51:16,550"/>
+      <p begin="00:51:16,550" end="00:51:37,384"/>
+      <p begin="00:51:41,085" end="00:51:44,124"/>
+      <p begin="00:51:44,124" end="00:51:46,188"/>
+      <p begin="00:51:46,188" end="00:51:50,389"/>
+      <p begin="00:51:50,389" end="00:51:54,295"/>
+      <p begin="00:51:54,295" end="00:51:59,213"/>
+      <p begin="00:51:59,213" end="00:52:01,161"/>
+      <p begin="00:52:01,356" end="00:52:02,849"/>
+      <p begin="00:52:07,167" end="00:52:12,110"/>
+      <p begin="00:52:13,110" end="00:52:18,853"/>
+      <p begin="00:52:18,853" end="00:52:22,576"/>
+      <p begin="00:52:22,576" end="00:52:28,075"/>
+      <p begin="00:52:31,214" end="00:52:34,296"/>
+      <p begin="00:52:35,557" end="00:52:38,269"/>
+      <p begin="00:52:38,269" end="00:52:39,082"/>
+      <p begin="00:52:39,082" end="00:52:51,943"/>
+      <p begin="00:52:51,943" end="00:52:57,385"/>
+      <p begin="00:52:59,509" end="00:53:11,843"/>
+      <p begin="00:53:14,443" end="00:53:18,466"/>
+      <p begin="00:53:18,466" end="00:53:22,783"/>
+      <p begin="00:53:28,108" end="00:53:32,531"/>
+      <p begin="00:53:32,531" end="00:53:37,180"/>
+      <p begin="00:53:37,180" end="00:53:40,553"/>
+      <p begin="00:53:40,553" end="00:53:43,809"/>
+      <p begin="00:53:43,809" end="00:53:46,791"/>
+      <p begin="00:53:46,791" end="00:53:51,291"/>
+      <p begin="00:53:51,291" end="00:53:52,891"/>
+      <p begin="00:53:52,891" end="00:53:58,697"/>
+      <p begin="00:54:00,251" end="00:54:03,102"/>
+      <p begin="00:54:03,102" end="00:54:06,928"/>
+      <p begin="00:54:06,928" end="00:54:08,765"/>
+      <p begin="00:54:08,765" end="00:54:12,626"/>
+      <p begin="00:54:12,626" end="00:54:16,081"/>
+      <p begin="00:54:16,081" end="00:54:18,775"/>
+      <p begin="00:54:18,775" end="00:54:21,708"/>
+      <p begin="00:54:21,708" end="00:54:25,613"/>
+      <p begin="00:54:25,613" end="00:54:30,277"/>
+      <p begin="00:54:30,277" end="00:54:35,971"/>
+      <p begin="00:54:35,971" end="00:54:37,462"/>
+      <p begin="00:54:37,462" end="00:54:38,707"/>
+      <p begin="00:54:38,707" end="00:54:43,457"/>
+      <p begin="00:54:43,457" end="00:54:48,231"/>
+      <p begin="00:54:48,231" end="00:54:49,930"/>
+      <p begin="00:54:49,930" end="00:54:52,656"/>
+      <p begin="00:54:52,656" end="00:54:56,304"/>
+      <p begin="00:54:56,304" end="00:54:58,586"/>
+      <p begin="00:54:58,586" end="00:55:00,426"/>
+      <p begin="00:55:00,426" end="00:55:03,356"/>
+      <p begin="00:55:03,356" end="00:55:05,388"/>
+      <p begin="00:55:05,388" end="00:55:10,403"/>
+      <p begin="00:55:10,403" end="00:55:11,984"/>
+      <p begin="00:55:11,984" end="00:55:16,787"/>
+      <p begin="00:55:16,787" end="00:55:17,300"/>
+      <p begin="00:55:17,300" end="00:55:21,955"/>
+      <p begin="00:55:21,955" end="00:55:28,979"/>
+      <p begin="00:55:28,979" end="00:55:30,528"/>
+      <p begin="00:55:32,882" end="00:55:36,236"/>
+      <p begin="00:55:36,236" end="00:55:39,042"/>
+      <p begin="00:55:39,042" end="00:55:42,934"/>
+      <p begin="00:55:46,028" end="00:55:49,410"/>
+      <p begin="00:55:56,802" end="00:55:59,040"/>
+      <p begin="00:55:59,040" end="00:56:01,761"/>
+      <p begin="00:56:01,761" end="00:56:07,814"/>
+      <p begin="00:56:07,814" end="00:56:11,960"/>
+      <p begin="00:56:11,960" end="00:56:16,887"/>
+      <p begin="00:56:16,887" end="00:56:20,067"/>
+      <p begin="00:56:20,067" end="00:56:22,889"/>
+      <p begin="00:56:22,889" end="00:56:26,353"/>
+      <p begin="00:56:26,353" end="00:56:28,081"/>
+      <p begin="00:56:28,081" end="00:56:29,447"/>
+      <p begin="00:56:29,447" end="00:56:33,411"/>
+      <p begin="00:56:33,411" end="00:56:36,024"/>
+      <p begin="00:56:36,024" end="00:56:37,700"/>
+      <p begin="00:56:37,700" end="00:56:39,592"/>
+      <p begin="00:56:39,592" end="00:56:41,008"/>
+      <p begin="00:56:47,015" end="00:56:49,906"/>
+      <p begin="00:56:49,906" end="00:56:52,275"/>
+      <p begin="00:56:52,275" end="00:56:54,688"/>
+      <p begin="00:56:54,688" end="00:56:58,223"/>
+      <p begin="00:56:58,223" end="00:57:01,699"/>
+      <p begin="00:57:01,699" end="00:57:03,556"/>
+      <p begin="00:57:07,513" end="00:57:08,710"/>
+      <p begin="00:57:13,714" end="00:57:16,053"/>
+      <p begin="00:57:16,053" end="00:57:17,327"/>
+      <p begin="00:57:17,327" end="00:57:23,084"/>
+      <p begin="00:57:24,558" end="00:57:29,089"/>
+      <p begin="00:57:29,089" end="00:57:31,061"/>
+      <p begin="00:57:33,061" end="00:57:35,441"/>
+      <p begin="00:57:35,441" end="00:57:37,389"/>
+      <p begin="00:57:46,420" end="00:57:49,224"/>
+      <p begin="00:57:49,224" end="00:57:53,414"/>
+      <p begin="00:57:53,414" end="00:57:56,264"/>
+      <p begin="00:57:56,264" end="00:57:56,940"/>
+      <p begin="00:57:56,940" end="00:57:57,926"/>
+      <p begin="00:57:57,926" end="00:58:00,390"/>
+      <p begin="00:58:00,390" end="00:58:04,150"/>
+      <p begin="00:58:04,150" end="00:58:06,495"/>
+      <p begin="00:58:06,495" end="00:58:10,563"/>
+      <p begin="00:58:10,563" end="00:58:13,179"/>
+      <p begin="00:58:13,179" end="00:58:15,796"/>
+      <p begin="00:58:15,796" end="00:58:17,325"/>
+      <p begin="00:58:17,325" end="00:58:19,134"/>
+      <p begin="00:58:19,134" end="00:58:21,302"/>
+      <p begin="00:58:21,302" end="00:58:24,334"/>
+      <p begin="00:58:24,334" end="00:58:25,408"/>
+      <p begin="00:58:25,408" end="00:58:26,831"/>
+      <p begin="00:58:26,831" end="00:58:28,867"/>
+      <p begin="00:58:28,867" end="00:58:30,625"/>
+      <p begin="00:58:30,625" end="00:58:36,142"/>
+      <p begin="00:58:36,142" end="00:58:37,706"/>
+      <p begin="00:58:37,706" end="00:58:40,308"/>
+      <p begin="00:58:40,308" end="00:58:48,598"/>
+      <p begin="00:58:48,598" end="00:58:49,575"/>
+      <p begin="00:58:49,575" end="00:58:52,159"/>
+      <p begin="00:58:52,159" end="00:58:55,542"/>
+      <p begin="00:58:55,542" end="00:58:58,964"/>
+      <p begin="00:58:58,964" end="00:59:01,478"/>
+      <p begin="00:59:01,478" end="00:59:04,213"/>
+      <p begin="00:59:04,213" end="00:59:05,685"/>
+      <p begin="00:59:08,016" end="00:59:10,499"/>
+      <p begin="00:59:10,499" end="00:59:13,059"/>
+      <p begin="00:59:13,059" end="00:59:20,095"/>
+      <p begin="00:59:20,095" end="00:59:23,134"/>
+      <p begin="00:59:23,134" end="00:59:25,535"/>
+      <p begin="00:59:25,535" end="00:59:27,246"/>
+      <p begin="00:59:27,246" end="00:59:29,210"/>
+      <p begin="00:59:29,210" end="00:59:29,921"/>
+      <p begin="00:59:29,921" end="00:59:30,746"/>
+      <p begin="00:59:30,746" end="00:59:32,243"/>
+      <p begin="00:59:32,243" end="00:59:33,181"/>
+      <p begin="00:59:33,181" end="00:59:34,310"/>
+      <p begin="00:59:40,250" end="00:59:43,918"/>
+      <p begin="00:59:43,918" end="00:59:52,434"/>
+      <p begin="00:59:52,434" end="00:59:54,787"/>
+      <p begin="00:59:54,787" end="00:59:57,290"/>
+      <p begin="00:59:57,290" end="01:00:02,673"/>
+      <p begin="01:00:02,673" end="01:00:05,973"/>
+      <p begin="01:00:05,973" end="01:00:11,223"/>
+      <p begin="01:00:11,223" end="01:00:13,367"/>
+      <p begin="01:00:13,367" end="01:00:14,544"/>
+      <p begin="01:00:14,544" end="01:00:16,546"/>
+      <p begin="01:00:18,784" end="01:00:23,558"/>
+      <p begin="01:00:23,558" end="01:00:24,913"/>
+      <p begin="01:00:24,913" end="01:00:28,782"/>
+      <p begin="01:00:28,782" end="01:00:30,658"/>
+      <p begin="01:00:30,658" end="01:00:32,342"/>
+      <p begin="01:00:32,342" end="01:00:33,939"/>
+      <p begin="01:00:33,939" end="01:00:35,660"/>
+      <p begin="01:00:35,660" end="01:00:37,605"/>
+      <p begin="01:00:40,894" end="01:00:41,908"/>
+      <p begin="01:00:41,908" end="01:00:45,084"/>
+      <p begin="01:00:45,084" end="01:00:47,904"/>
+      <p begin="01:00:47,904" end="01:00:49,061"/>
+      <p begin="01:00:49,061" end="01:00:52,780"/>
+      <p begin="01:00:52,780" end="01:00:54,546"/>
+      <p begin="01:00:54,546" end="01:00:56,914"/>
+      <p begin="01:00:56,914" end="01:00:59,230"/>
+      <p begin="01:00:59,230" end="01:01:00,218"/>
+      <p begin="01:01:00,218" end="01:01:01,529"/>
+      <p begin="01:01:01,529" end="01:01:04,134"/>
+      <p begin="01:01:04,134" end="01:01:07,509"/>
+      <p begin="01:01:07,509" end="01:01:10,159"/>
+      <p begin="01:01:10,159" end="01:01:13,930"/>
+      <p begin="01:01:13,930" end="01:01:18,429"/>
+      <p begin="01:01:26,676" end="01:01:29,319"/>
+      <p begin="01:01:29,319" end="01:01:32,838"/>
+      <p begin="01:01:32,838" end="01:01:35,514"/>
+      <p begin="01:01:35,514" end="01:01:38,936"/>
+      <p begin="01:01:38,936" end="01:01:41,252"/>
+      <p begin="01:01:41,252" end="01:01:44,946"/>
+      <p begin="01:01:44,946" end="01:01:49,148"/>
+      <p begin="01:01:49,148" end="01:01:53,606"/>
+      <p begin="01:01:54,560" end="01:01:57,443"/>
+      <p begin="01:01:57,443" end="01:01:59,437"/>
+      <p begin="01:01:59,437" end="01:02:02,169"/>
+      <p begin="01:02:02,169" end="01:02:04,820"/>
+      <p begin="01:02:04,820" end="01:02:09,088"/>
+      <p begin="01:02:13,827" end="01:02:17,610"/>
+      <p begin="01:02:24,221" end="01:02:31,915"/>
+      <p begin="01:02:31,915" end="01:02:35,708"/>
+      <p begin="01:02:35,708" end="01:02:40,294"/>
+      <p begin="01:02:40,294" end="01:02:41,742"/>
+      <p begin="01:02:42,665" end="01:02:45,200"/>
+      <p begin="01:02:45,200" end="01:02:48,582"/>
+      <p begin="01:02:51,137" end="01:02:53,987"/>
+      <p begin="01:02:53,987" end="01:02:56,873"/>
+      <p begin="01:02:56,873" end="01:02:59,105"/>
+      <p begin="01:02:59,105" end="01:03:04,611"/>
+      <p begin="01:03:05,381" end="01:03:07,768"/>
+      <p begin="01:03:07,768" end="01:03:09,339"/>
+      <p begin="01:03:09,339" end="01:03:11,643"/>
+      <p begin="01:03:11,643" end="01:03:14,452"/>
+      <p begin="01:03:14,452" end="01:03:17,292"/>
+      <p begin="01:03:17,292" end="01:03:20,419"/>
+      <p begin="01:03:29,282" end="01:03:32,474"/>
+      <p begin="01:03:33,853" end="01:03:38,053"/>
+      <p begin="01:03:38,763" end="01:03:39,871"/>
+      <p begin="01:03:39,871" end="01:03:42,687"/>
+      <p begin="01:03:42,687" end="01:03:46,029"/>
+      <p begin="01:03:46,029" end="01:03:49,037"/>
+      <p begin="01:03:49,037" end="01:03:53,059"/>
+      <p begin="01:03:57,289" end="01:04:00,253"/>
+      <p begin="01:04:01,455" end="01:04:06,366"/>
+      <p begin="01:04:06,366" end="01:04:09,190"/>
+      <p begin="01:04:09,190" end="01:04:12,943"/>
+      <p begin="01:04:12,943" end="01:04:15,084"/>
+      <p begin="01:04:15,084" end="01:04:19,069"/>
+      <p begin="01:04:19,069" end="01:04:23,001"/>
+      <p begin="01:04:23,001" end="01:04:24,305"/>
+      <p begin="01:04:24,305" end="01:04:26,171"/>
+      <p begin="01:04:26,171" end="01:04:27,013"/>
+      <p begin="01:04:31,239" end="01:04:32,717"/>
+      <p begin="01:04:36,462" end="01:04:37,306"/>
+      <p begin="01:04:37,306" end="01:04:39,055"/>
+      <p begin="01:04:42,199" end="01:04:43,285"/>
+      <p begin="01:04:43,285" end="01:04:44,850"/>
+      <p begin="01:04:49,348" end="01:04:50,832"/>
+      <p begin="01:04:50,832" end="01:04:52,264"/>
+      <p begin="01:04:55,165" end="01:04:57,329"/>
+      <p begin="01:04:57,329" end="01:04:58,786"/>
+      <p begin="01:04:58,786" end="01:05:00,541"/>
+      <p begin="01:05:01,617" end="01:05:03,340"/>
+      <p begin="01:05:04,048" end="01:05:08,876"/>
+      <p begin="01:05:08,876" end="01:05:12,632"/>
+      <p begin="01:05:12,632" end="01:05:14,361"/>
+      <p begin="01:05:14,928" end="01:05:18,128"/>
+      <p begin="01:05:19,308" end="01:05:21,317"/>
+      <p begin="01:05:21,496" end="01:05:24,749"/>
+      <p begin="01:05:24,749" end="01:05:26,542"/>
+      <p begin="01:05:26,542" end="01:05:28,250"/>
+      <p begin="01:05:28,250" end="01:05:30,253"/>
+      <p begin="01:05:30,253" end="01:05:34,040"/>
+      <p begin="01:05:34,040" end="01:05:36,118"/>
+      <p begin="01:05:36,118" end="01:05:36,666"/>
+      <p begin="01:05:36,666" end="01:05:37,808"/>
+      <p begin="01:05:37,808" end="01:05:38,381"/>
+      <p begin="01:05:38,381" end="01:05:41,132"/>
+      <p begin="01:05:42,075" end="01:05:43,564"/>
+      <p begin="01:05:43,564" end="01:05:47,998"/>
+      <p begin="01:05:47,998" end="01:05:50,793"/>
+      <p begin="01:05:50,793" end="01:05:52,738"/>
+      <p begin="01:05:52,738" end="01:05:55,193"/>
+      <p begin="01:05:55,193" end="01:05:56,328"/>
+      <p begin="01:05:56,328" end="01:05:57,827"/>
+      <p begin="01:05:57,827" end="01:06:03,231"/>
+      <p begin="01:06:03,231" end="01:06:09,606"/>
+      <p begin="01:06:09,606" end="01:06:10,990"/>
+      <p begin="01:06:10,990" end="01:06:14,391"/>
+      <p begin="01:06:14,391" end="01:06:17,899"/>
+      <p begin="01:06:21,851" end="01:06:25,851"/>
+      <p begin="01:06:25,851" end="01:06:29,164"/>
+      <p begin="01:06:29,164" end="01:06:31,867"/>
+      <p begin="01:06:31,867" end="01:06:34,490"/>
+      <p begin="01:06:34,490" end="01:06:38,103"/>
+      <p begin="01:06:41,253" end="01:06:43,010"/>
+      <p begin="01:06:43,010" end="01:06:45,449"/>
+      <p begin="01:06:45,449" end="01:06:47,447"/>
+      <p begin="01:06:48,839" end="01:06:51,562"/>
+      <p begin="01:06:51,562" end="01:06:52,796"/>
+      <p begin="01:06:54,235" end="01:06:56,496"/>
+      <p begin="01:06:58,081" end="01:07:00,338"/>
+      <p begin="01:07:00,338" end="01:07:02,074"/>
+      <p begin="01:07:02,074" end="01:07:03,938"/>
+      <p begin="01:07:03,938" end="01:07:10,109"/>
+      <p begin="01:07:12,448" end="01:07:15,229"/>
+      <p begin="01:07:15,229" end="01:07:23,821"/>
+      <p begin="01:07:23,821" end="01:07:27,177"/>
+      <p begin="01:07:27,177" end="01:07:29,981"/>
+      <p begin="01:07:29,981" end="01:07:34,037"/>
+      <p begin="01:07:34,037" end="01:07:41,574"/>
+      <p begin="01:07:41,574" end="01:07:46,488"/>
+      <p begin="01:07:46,488" end="01:07:48,876"/>
+      <p begin="01:07:51,963" end="01:07:55,913"/>
+      <p begin="01:07:55,913" end="01:08:00,006"/>
+      <p begin="01:08:00,006" end="01:08:00,901"/>
+      <p begin="01:08:00,901" end="01:08:02,711"/>
+      <p begin="01:08:02,711" end="01:08:06,039"/>
+      <p begin="01:08:06,039" end="01:08:07,281"/>
+      <p begin="01:08:07,281" end="01:08:07,827"/>
+      <p begin="01:08:07,827" end="01:08:10,740"/>
+      <p begin="01:08:17,013" end="01:08:20,629"/>
+      <p begin="01:08:20,629" end="01:08:24,273"/>
+      <p begin="01:08:24,273" end="01:08:25,775"/>
+      <p begin="01:08:25,775" end="01:08:29,571"/>
+      <p begin="01:08:29,571" end="01:08:31,925"/>
+      <p begin="01:08:33,448" end="01:08:35,777"/>
+      <p begin="01:08:35,777" end="01:08:37,025"/>
+      <p begin="01:08:37,025" end="01:08:38,685"/>
+      <p begin="01:08:38,685" end="01:08:45,475"/>
+      <p begin="01:08:46,675" end="01:08:51,940"/>
+      <p begin="01:08:51,940" end="01:08:55,346"/>
+      <p begin="01:08:55,346" end="01:08:58,948"/>
+      <p begin="01:08:58,948" end="01:09:04,265"/>
+      <p begin="01:09:04,265" end="01:09:10,124"/>
+      <p begin="01:09:10,124" end="01:09:12,317"/>
+      <p begin="01:09:12,317" end="01:09:14,168"/>
+      <p begin="01:09:14,168" end="01:09:17,005"/>
+      <p begin="01:09:17,005" end="01:09:19,837"/>
+      <p begin="01:09:20,875" end="01:09:22,651"/>
+      <p begin="01:09:22,651" end="01:09:23,647"/>
+      <p begin="01:09:23,647" end="01:09:27,370"/>
+      <p begin="01:09:27,370" end="01:09:29,046"/>
+      <p begin="01:09:29,046" end="01:09:30,018"/>
+      <p begin="01:09:30,018" end="01:09:33,304"/>
+      <p begin="01:09:33,304" end="01:09:37,635"/>
+      <p begin="01:09:37,635" end="01:09:44,524"/>
+      <p begin="01:09:44,524" end="01:09:46,699"/>
+      <p begin="01:09:46,699" end="01:09:52,511"/>
+      <p begin="01:09:52,511" end="01:09:57,533"/>
+      <p begin="01:09:57,533" end="01:10:01,661"/>
+      <p begin="01:10:06,056" end="01:10:12,161"/>
+      <p begin="01:10:12,161" end="01:10:15,659"/>
+      <p begin="01:10:15,659" end="01:10:20,062"/>
+      <p begin="01:10:20,062" end="01:10:24,861"/>
+      <p begin="01:10:24,861" end="01:10:29,713"/>
+      <p begin="01:10:29,713" end="01:10:32,580"/>
+      <p begin="01:10:32,580" end="01:10:34,925"/>
+      <p begin="01:10:34,925" end="01:10:38,615"/>
+      <p begin="01:10:38,615" end="01:10:41,352"/>
+      <p begin="01:10:42,663" end="01:10:46,074"/>
+      <p begin="01:10:46,074" end="01:10:48,458"/>
+      <p begin="01:10:48,458" end="01:10:50,507"/>
+      <p begin="01:10:50,774" end="01:10:54,383"/>
+      <p begin="01:10:56,245" end="01:10:57,531"/>
+      <p begin="01:10:57,531" end="01:10:59,353"/>
+      <p begin="01:10:59,353" end="01:11:01,923"/>
+      <p begin="01:11:01,923" end="01:11:02,545"/>
+      <p begin="01:11:02,545" end="01:11:03,851"/>
+      <p begin="01:11:03,851" end="01:11:06,156"/>
+      <p begin="01:11:06,156" end="01:11:07,477"/>
+      <p begin="01:11:07,477" end="01:11:09,107"/>
+      <p begin="01:11:09,107" end="01:11:10,894"/>
+      <p begin="01:11:10,894" end="01:11:14,488"/>
+      <p begin="01:11:23,062" end="01:11:26,692"/>
+      <p begin="01:11:28,895" end="01:11:34,890"/>
+      <p begin="01:11:34,890" end="01:11:40,135"/>
+      <p begin="01:11:40,135" end="01:11:44,545"/>
+      <p begin="01:11:44,545" end="01:11:48,032"/>
+      <p begin="01:11:48,032" end="01:11:51,631"/>
+      <p begin="01:11:51,631" end="01:11:57,567"/>
+      <p begin="01:11:57,567" end="01:11:59,419"/>
+      <p begin="01:11:59,419" end="01:12:01,833"/>
+      <p begin="01:12:01,833" end="01:12:04,279"/>
+      <p begin="01:12:04,279" end="01:12:06,301"/>
+      <p begin="01:12:06,301" end="01:12:09,550"/>
+      <p begin="01:12:09,550" end="01:12:10,739"/>
+      <p begin="01:12:10,739" end="01:12:13,441"/>
+      <p begin="01:12:13,441" end="01:12:14,263"/>
+      <p begin="01:12:14,263" end="01:12:17,741"/>
+      <p begin="01:12:17,741" end="01:12:19,702"/>
+      <p begin="01:12:21,823" end="01:12:22,931"/>
+      <p begin="01:12:22,931" end="01:12:23,878"/>
+      <p begin="01:12:23,878" end="01:12:25,253"/>
+      <p begin="01:12:28,606" end="01:12:30,369"/>
+      <p begin="01:12:30,543" end="01:12:33,239"/>
+      <p begin="01:12:34,023" end="01:12:36,824"/>
+      <p begin="01:12:36,824" end="01:12:37,921"/>
+      <p begin="01:12:37,921" end="01:12:38,846"/>
+      <p begin="01:12:38,846" end="01:12:40,263"/>
+      <p begin="01:12:40,496" end="01:12:42,464"/>
+      <p begin="01:12:42,464" end="01:12:44,823"/>
+      <p begin="01:12:44,823" end="01:12:46,720"/>
+      <p begin="01:12:46,720" end="01:12:48,223"/>
+      <p begin="01:12:48,223" end="01:12:49,814"/>
+      <p begin="01:12:49,814" end="01:12:51,249"/>
+      <p begin="01:12:51,249" end="01:13:01,061"/>
+      <p begin="01:13:01,061" end="01:13:02,724"/>
+      <p begin="01:13:02,724" end="01:13:05,787"/>
+      <p begin="01:13:05,787" end="01:13:07,523"/>
+      <p begin="01:13:07,523" end="01:13:10,404"/>
+      <p begin="01:13:11,601" end="01:13:17,432"/>
+      <p begin="01:13:17,432" end="01:13:19,013"/>
+      <p begin="01:13:19,013" end="01:13:22,305"/>
+      <p begin="01:13:22,305" end="01:13:25,173"/>
+      <p begin="01:13:25,173" end="01:13:26,116"/>
+      <p begin="01:13:26,116" end="01:13:29,214"/>
+      <p begin="01:13:29,214" end="01:13:33,129"/>
+      <p begin="01:13:33,129" end="01:13:33,950"/>
+      <p begin="01:13:33,950" end="01:13:35,595"/>
+      <p begin="01:13:35,595" end="01:13:37,418"/>
+      <p begin="01:13:37,418" end="01:13:40,478"/>
+      <p begin="01:13:40,478" end="01:13:45,102"/>
+      <p begin="01:13:45,102" end="01:13:47,809"/>
+      <p begin="01:13:47,809" end="01:13:50,871"/>
+      <p begin="01:13:50,871" end="01:13:54,919"/>
+      <p begin="01:13:54,919" end="01:13:56,863"/>
+      <p begin="01:13:56,863" end="01:14:00,130"/>
+      <p begin="01:14:01,453" end="01:14:04,460"/>
+      <p begin="01:14:04,460" end="01:14:05,468"/>
+      <p begin="01:14:05,468" end="01:14:07,102"/>
+      <p begin="01:14:07,102" end="01:14:09,530"/>
+      <p begin="01:14:09,530" end="01:14:12,187"/>
+      <p begin="01:14:12,187" end="01:14:15,172"/>
+      <p begin="01:14:15,172" end="01:14:17,228"/>
+      <p begin="01:14:17,228" end="01:14:21,023"/>
+      <p begin="01:14:21,023" end="01:14:24,500"/>
+      <p begin="01:14:24,500" end="01:14:29,470"/>
+      <p begin="01:14:29,470" end="01:14:31,576"/>
+      <p begin="01:14:31,576" end="01:14:35,355"/>
+      <p begin="01:14:35,355" end="01:14:36,747"/>
+      <p begin="01:14:36,747" end="01:14:40,176"/>
+      <p begin="01:14:46,252" end="01:14:50,042"/>
+      <p begin="01:14:50,042" end="01:14:51,941"/>
+      <p begin="01:14:51,941" end="01:15:01,783"/>
+      <p begin="01:15:03,783" end="01:15:06,436"/>
+      <p begin="01:15:11,553" end="01:15:18,721"/>
+      <p begin="01:15:20,444" end="01:15:23,788"/>
+      <p begin="01:15:23,788" end="01:15:28,538"/>
+      <p begin="01:15:28,538" end="01:15:30,207"/>
+      <p begin="01:15:30,207" end="01:15:33,783"/>
+      <p begin="01:15:33,783" end="01:15:37,344"/>
+      <p begin="01:15:37,344" end="01:15:40,278"/>
+      <p begin="01:15:40,278" end="01:15:44,884"/>
+      <p begin="01:15:44,884" end="01:15:46,641"/>
+      <p begin="01:15:46,641" end="01:15:49,316"/>
+      <p begin="01:15:49,316" end="01:15:55,359"/>
+      <p begin="01:15:55,359" end="01:15:58,578"/>
+      <p begin="01:15:58,578" end="01:16:01,599"/>
+      <p begin="01:16:03,549" end="01:16:06,765"/>
+      <p begin="01:16:06,765" end="01:16:11,992"/>
+      <p begin="01:16:11,992" end="01:16:16,993"/>
+      <p begin="01:16:16,993" end="01:16:20,049"/>
+      <p begin="01:16:20,049" end="01:16:22,898"/>
+      <p begin="01:16:22,898" end="01:16:25,958"/>
+      <p begin="01:16:25,958" end="01:16:29,278"/>
+      <p begin="01:16:32,271" end="01:16:35,360"/>
+      <p begin="01:16:35,360" end="01:16:38,529"/>
+      <p begin="01:16:38,529" end="01:16:40,902"/>
+      <p begin="01:16:40,902" end="01:16:43,837"/>
+      <p begin="01:16:43,837" end="01:16:47,158"/>
+      <p begin="01:16:47,158" end="01:16:50,355"/>
+      <p begin="01:16:50,355" end="01:16:52,364"/>
+      <p begin="01:16:52,364" end="01:16:56,354"/>
+      <p begin="01:16:56,354" end="01:17:00,215"/>
+      <p begin="01:17:00,215" end="01:17:06,076"/>
+      <p begin="01:17:06,076" end="01:17:09,185"/>
+      <p begin="01:17:10,109" end="01:17:13,720"/>
+      <p begin="01:17:13,720" end="01:17:15,877"/>
+      <p begin="01:17:15,877" end="01:17:19,082"/>
+      <p begin="01:17:19,082" end="01:17:23,942"/>
+      <p begin="01:17:23,942" end="01:17:28,631"/>
+      <p begin="01:17:28,631" end="01:17:30,256"/>
+      <p begin="01:17:30,256" end="01:17:32,580"/>
+      <p begin="01:17:32,580" end="01:17:36,015"/>
+      <p begin="01:17:36,015" end="01:17:38,650"/>
+      <p begin="01:17:38,650" end="01:17:42,836"/>
+      <p begin="01:17:42,836" end="01:17:49,276"/>
+      <p begin="01:17:49,276" end="01:17:50,777"/>
+      <p begin="01:17:50,777" end="01:17:53,446"/>
+      <p begin="01:17:53,446" end="01:17:54,697"/>
+      <p begin="01:17:54,697" end="01:17:56,800"/>
+      <p begin="01:17:56,800" end="01:17:59,108"/>
+      <p begin="01:17:59,108" end="01:18:02,101"/>
+      <p begin="01:18:02,101" end="01:18:04,882"/>
+      <p begin="01:18:04,882" end="01:18:09,239"/>
+      <p begin="01:18:09,239" end="01:18:11,438"/>
+      <p begin="01:18:11,438" end="01:18:14,129"/>
+      <p begin="01:18:14,129" end="01:18:15,505"/>
+      <p begin="01:18:15,505" end="01:18:16,960"/>
+      <p begin="01:18:16,960" end="01:18:20,568"/>
+      <p begin="01:18:20,568" end="01:18:24,613"/>
+      <p begin="01:18:24,613" end="01:18:28,965"/>
+      <p begin="01:18:30,532" end="01:18:33,460"/>
+      <p begin="01:18:38,429" end="01:18:43,054"/>
+      <p begin="01:18:43,054" end="01:18:47,221"/>
+      <p begin="01:18:47,221" end="01:18:53,054"/>
+      <p begin="01:18:53,054" end="01:18:58,798"/>
+      <p begin="01:18:58,798" end="01:19:01,846"/>
+      <p begin="01:19:13,396" end="01:19:34,882"/>
+      <p begin="01:19:34,882" end="01:19:39,104"/>
+      <p begin="01:19:39,904" end="01:19:41,745"/>
+      <p begin="01:19:43,659" end="01:19:47,090"/>
+      <p begin="01:19:47,090" end="01:19:52,055"/>
+      <p begin="01:19:52,055" end="01:19:54,839"/>
+      <p begin="01:19:54,839" end="01:19:58,858"/>
+      <p begin="01:19:58,858" end="01:20:04,378"/>
+      <p begin="01:20:04,378" end="01:20:07,379"/>
+      <p begin="01:20:07,379" end="01:20:10,355"/>
+      <p begin="01:20:10,355" end="01:20:13,528"/>
+      <p begin="01:20:13,528" end="01:20:16,680"/>
+      <p begin="01:20:16,680" end="01:20:18,790"/>
+      <p begin="01:20:18,790" end="01:20:24,442"/>
+      <p begin="01:20:24,442" end="01:20:27,977"/>
+      <p begin="01:20:27,977" end="01:20:30,447"/>
+      <p begin="01:20:30,447" end="01:20:32,746"/>
+      <p begin="01:20:32,746" end="01:20:33,847"/>
+      <p begin="01:20:33,847" end="01:20:35,409"/>
+      <p begin="01:20:35,409" end="01:20:37,182"/>
+      <p begin="01:20:37,182" end="01:20:40,439"/>
+      <p begin="01:20:40,439" end="01:20:45,750"/>
+      <p begin="01:20:48,801" end="01:20:51,892"/>
+      <p begin="01:20:51,892" end="01:20:54,570"/>
+      <p begin="01:20:54,570" end="01:20:58,479"/>
+      <p begin="01:20:58,479" end="01:21:00,718"/>
+      <p begin="01:21:00,718" end="01:21:02,930"/>
+      <p begin="01:21:02,930" end="01:21:04,042"/>
+      <p begin="01:21:04,042" end="01:21:06,202"/>
+      <p begin="01:21:06,202" end="01:21:08,470"/>
+      <p begin="01:21:08,470" end="01:21:11,916"/>
+      <p begin="01:21:11,916" end="01:21:13,624"/>
+      <p begin="01:21:14,793" end="01:21:16,062"/>
+      <p begin="01:21:16,062" end="01:21:18,847"/>
+      <p begin="01:21:22,323" end="01:21:25,801"/>
+      <p begin="01:21:32,582" end="01:21:34,303"/>
+      <p begin="01:21:34,303" end="01:21:36,154"/>
+      <p begin="01:21:36,154" end="01:21:40,690"/>
+      <p begin="01:21:40,690" end="01:21:43,086"/>
+      <p begin="01:21:43,086" end="01:21:44,941"/>
+      <p begin="01:21:44,941" end="01:21:48,241"/>
+      <p begin="01:21:48,241" end="01:21:49,857"/>
+      <p begin="01:21:49,857" end="01:21:52,283"/>
+      <p begin="01:21:52,283" end="01:21:58,342"/>
+      <p begin="01:21:58,342" end="01:22:01,544"/>
+      <p begin="01:22:01,544" end="01:22:07,152"/>
+      <p begin="01:22:07,152" end="01:22:14,081"/>
+      <p begin="01:22:14,081" end="01:22:16,664"/>
+      <p begin="01:22:18,862" end="01:22:21,203"/>
+      <p begin="01:22:21,203" end="01:22:23,266"/>
+      <p begin="01:22:23,266" end="01:22:25,412"/>
+      <p begin="01:22:30,271" end="01:22:32,366"/>
+      <p begin="01:22:32,366" end="01:22:35,125"/>
+      <p begin="01:22:35,125" end="01:22:39,816"/>
+      <p begin="01:22:43,111" end="01:22:44,166"/>
+      <p begin="01:22:44,166" end="01:22:46,059"/>
+      <p begin="01:22:46,059" end="01:22:47,426"/>
+      <p begin="01:22:47,426" end="01:22:51,833"/>
+      <p begin="01:22:51,833" end="01:22:55,259"/>
+      <p begin="01:22:55,259" end="01:22:58,522"/>
+      <p begin="01:22:58,522" end="01:23:02,767"/>
+      <p begin="01:23:02,767" end="01:23:06,691"/>
+      <p begin="01:23:06,691" end="01:23:11,516"/>
+      <p begin="01:23:11,516" end="01:23:13,212"/>
+      <p begin="01:23:13,212" end="01:23:15,588"/>
+      <p begin="01:23:15,588" end="01:23:16,790"/>
+      <p begin="01:23:16,790" end="01:23:19,045"/>
+      <p begin="01:23:19,045" end="01:23:41,023"/>
+      <p begin="01:23:41,023" end="01:23:43,331"/>
+      <p begin="01:23:45,783" end="01:23:51,051"/>
+      <p begin="01:23:51,051" end="01:23:52,651"/>
+      <p begin="01:23:52,651" end="01:23:55,434"/>
+      <p begin="01:23:55,434" end="01:24:00,931"/>
+      <p begin="01:24:00,931" end="01:24:05,413"/>
+      <p begin="01:24:05,413" end="01:24:06,789"/>
+      <p begin="01:24:06,789" end="01:24:07,651"/>
+      <p begin="01:24:07,651" end="01:24:09,115"/>
+      <p begin="01:24:09,115" end="01:24:10,897"/>
+      <p begin="01:24:10,897" end="01:24:12,569"/>
+      <p begin="01:24:12,569" end="01:24:15,242"/>
+      <p begin="01:24:15,242" end="01:24:18,276"/>
+      <p begin="01:24:18,276" end="01:24:26,095"/>
+      <p begin="01:24:26,095" end="01:24:28,838"/>
+      <p begin="01:24:28,838" end="01:24:30,554"/>
+      <p begin="01:24:30,554" end="01:24:32,826"/>
+      <p begin="01:24:32,826" end="01:24:36,951"/>
+      <p begin="01:24:36,951" end="01:24:40,123"/>
+      <p begin="01:24:40,123" end="01:24:45,872"/>
+      <p begin="01:24:51,182" end="01:24:52,487"/>
+      <p begin="01:24:52,487" end="01:24:54,089"/>
+      <p begin="01:24:54,089" end="01:24:57,991"/>
+      <p begin="01:24:57,991" end="01:25:02,408"/>
+      <p begin="01:25:02,408" end="01:25:03,542"/>
+      <p begin="01:25:03,542" end="01:25:04,220"/>
+      <p begin="01:25:04,220" end="01:25:08,887"/>
+      <p begin="01:25:08,887" end="01:25:14,012"/>
+      <p begin="01:25:14,012" end="01:25:21,216"/>
+      <p begin="01:25:21,216" end="01:25:22,977"/>
+      <p begin="01:25:25,321" end="01:25:29,577"/>
+      <p begin="01:25:29,577" end="01:25:31,702"/>
+      <p begin="01:25:31,702" end="01:25:33,497"/>
+      <p begin="01:25:33,497" end="01:25:35,259"/>
+      <p begin="01:25:35,259" end="01:25:37,291"/>
+      <p begin="01:25:37,291" end="01:25:39,624"/>
+      <p begin="01:25:39,624" end="01:25:42,850"/>
+      <p begin="01:25:42,850" end="01:25:47,267"/>
+      <p begin="01:25:47,267" end="01:25:50,253"/>
+      <p begin="01:25:50,253" end="01:25:51,965"/>
+      <p begin="01:25:51,965" end="01:25:56,052"/>
+      <p begin="01:25:56,052" end="01:25:59,149"/>
+      <p begin="01:25:59,149" end="01:26:03,819"/>
+      <p begin="01:26:03,819" end="01:26:06,732"/>
+      <p begin="01:26:06,732" end="01:26:08,262"/>
+      <p begin="01:26:08,262" end="01:26:13,146"/>
+      <p begin="01:26:13,146" end="01:26:16,950"/>
+      <p begin="01:26:16,950" end="01:26:20,625"/>
+      <p begin="01:26:20,625" end="01:26:24,140"/>
+      <p begin="01:26:24,940" end="01:26:27,985"/>
+      <p begin="01:26:27,985" end="01:26:31,034"/>
+      <p begin="01:26:31,034" end="01:26:33,949"/>
+      <p begin="01:26:33,949" end="01:26:38,565"/>
+      <p begin="01:26:38,565" end="01:26:41,074"/>
+      <p begin="01:26:41,074" end="01:26:42,160"/>
+      <p begin="01:26:42,160" end="01:26:44,824"/>
+      <p begin="01:26:44,824" end="01:26:46,526"/>
+      <p begin="01:26:46,526" end="01:26:47,498"/>
+      <p begin="01:26:47,498" end="01:26:49,466"/>
+      <p begin="01:26:49,466" end="01:26:51,641"/>
+      <p begin="01:26:51,641" end="01:26:55,457"/>
+      <p begin="01:26:55,457" end="01:26:57,084"/>
+      <p begin="01:26:57,084" end="01:27:00,039"/>
+      <p begin="01:27:00,039" end="01:27:01,115"/>
+      <p begin="01:27:01,115" end="01:27:05,423"/>
+      <p begin="01:27:05,423" end="01:27:06,593"/>
+      <p begin="01:27:06,593" end="01:27:09,720"/>
+      <p begin="01:27:09,720" end="01:27:13,323"/>
+      <p begin="01:27:15,167" end="01:27:18,036"/>
+      <p begin="01:27:18,036" end="01:27:19,300"/>
+      <p begin="01:27:19,300" end="01:27:22,563"/>
+      <p begin="01:27:22,563" end="01:27:24,925"/>
+      <p begin="01:27:24,925" end="01:27:26,580"/>
+      <p begin="01:27:26,580" end="01:27:29,648"/>
+      <p begin="01:27:29,648" end="01:27:30,892"/>
+      <p begin="01:27:30,892" end="01:27:31,585"/>
+      <p begin="01:27:31,585" end="01:27:33,987"/>
+      <p begin="01:27:33,987" end="01:27:36,349"/>
+      <p begin="01:27:36,349" end="01:27:39,668"/>
+      <p begin="01:27:39,668" end="01:27:43,349"/>
+      <p begin="01:27:43,349" end="01:27:45,631"/>
+      <p begin="01:27:45,631" end="01:27:50,622"/>
+      <p begin="01:27:50,622" end="01:27:52,262"/>
+      <p begin="01:27:52,262" end="01:27:54,989"/>
+      <p begin="01:27:54,989" end="01:27:57,311"/>
+      <p begin="01:28:01,927" end="01:28:04,253"/>
+      <p begin="01:28:05,956" end="01:28:07,677"/>
+      <p begin="01:28:07,677" end="01:28:16,949"/>
+      <p begin="01:28:16,949" end="01:28:20,755"/>
+      <p begin="01:28:20,755" end="01:28:21,956"/>
+      <p begin="01:28:21,956" end="01:28:27,305"/>
+      <p begin="01:28:27,305" end="01:28:30,765"/>
+      <p begin="01:28:30,765" end="01:28:34,502"/>
+      <p begin="01:28:34,502" end="01:28:38,401"/>
+      <p begin="01:28:38,401" end="01:28:42,678"/>
+      <p begin="01:28:42,678" end="01:28:46,953"/>
+      <p begin="01:28:46,953" end="01:28:48,246"/>
+      <p begin="01:28:48,246" end="01:28:53,335"/>
+      <p begin="01:28:53,335" end="01:28:57,779"/>
+      <p begin="01:28:57,779" end="01:29:02,201"/>
+      <p begin="01:29:02,201" end="01:29:04,306"/>
+      <p begin="01:29:06,163" end="01:29:08,160"/>
+      <p begin="01:29:08,160" end="01:29:08,877"/>
+      <p begin="01:29:08,877" end="01:29:10,640"/>
+      <p begin="01:29:10,640" end="01:29:14,578"/>
+      <p begin="01:29:14,578" end="01:29:18,325"/>
+      <p begin="01:29:18,325" end="01:29:21,928"/>
+      <p begin="01:29:21,928" end="01:29:24,039"/>
+      <p begin="01:29:24,039" end="01:29:28,039"/>
+    </div>
+  </body>
+</tt>

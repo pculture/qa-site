@@ -172,9 +172,9 @@
       <p begin="00:05:14.714" end="00:05:18.907">[train honking]</p>
       <p begin="00:05:18.907" end="00:05:27.573">[thud,thud,thud]</p>
       <p begin="00:05:31.356" end="00:05:45.237">&#9834; [music] &#9834;</p>
-      <p begin="00:05:45.314" end="00:05:46.613">- [Tim] <span tts:fontStyle="italic">Defend! Defend! </span></p>
-      <p begin="00:05:46.613" end="00:05:47.196">&#9834; [music] &#9834;</p>
-      <p begin="00:05:47.196" end="00:05:48.780">- I'm stuck.</p>
+      <p begin="00:05:45.314" end="00:05:46.600">- [Tim] <span tts:fontStyle="italic">Defend! Defend! </span></p>
+      <p begin="00:05:46.600" end="00:05:47.350">&#9834; [music] &#9834;</p>
+      <p begin="00:05:47.350" end="00:05:48.780">- I'm stuck.</p>
       <p begin="00:05:48.780" end="00:05:51.188">I know, come the other way! <br/>Come this way, come to me!</p>
       <p begin="00:05:51.188" end="00:05:53.243">
         <span tts:fontStyle="italic">Defend!</span>
@@ -949,8 +949,8 @@
       <p begin="00:34:33.338" end="00:34:36.797">- [Albert] Oh semi, that's cool, <br/>open it up for Dustin always love it.</p>
       <p begin="00:34:36.797" end="00:34:38.639">- <span tts:fontStyle="italic">[Gil] Need to... yeah... <br/>Need to provide...</span></p>
       <p begin="00:34:38.639" end="00:34:40.188">- <span tts:fontStyle="italic">[male voice] Semi is what you are.</span></p>
-      <p begin="00:34:40.188" end="00:34:40.844">- Semi pro.</p>
-      <p begin="00:34:40.844" end="00:34:42.612">- [male voice] Yup.<br/>- [Gil] Hep. B and C results.</p>
+      <p begin="00:34:40.188" end="00:34:40.984">- Semi pro.</p>
+      <p begin="00:34:40.984" end="00:34:42.612">- [male voice] Yup.<br/>- [Gil] Hep. B and C results.</p>
       <p begin="00:34:42.612" end="00:34:44.862">- [male voice] &#9834; Love me sexy &#9834;</p>
       <p begin="00:34:44.862" end="00:34:53.828">- [Gil] And HIV result no more<br/>than 6 month old.</p>
       <p begin="00:34:53.828" end="00:34:56.130">- [Albert] I'd just ask you bout that.</p>
@@ -1256,13 +1256,13 @@
       <p begin="00:53:16.535" end="00:53:17.918">- If you can't fight Paul Swallow<br/>an opponent,</p>
       <p begin="00:53:17.918" end="00:53:19.278">I'll make Albert fight, cause its--</p>
       <p begin="00:53:19.278" end="00:53:22.351">I'm not gonna let Paul Swallow <br/>lose the fight.</p>
-      <p begin="00:53:22.351" end="00:53:23.030">- Right.</p>
-      <p begin="00:53:23.030" end="00:53:26.855">- You know that, that has to be, <br/>you know, rewarded or penalized</p>
+      <p begin="00:53:22.351" end="00:53:23.230">- Right.</p>
+      <p begin="00:53:23.230" end="00:53:26.855">- You know that, that has to be, <br/>you know, rewarded or penalized</p>
       <p begin="00:53:26.855" end="00:53:29.043">on some level from a team <br/>perspective, you know?</p>
       <p begin="00:53:29.043" end="00:53:32.536">[train honking]</p>
       <p begin="00:53:35.059" end="00:53:37.061">- <span tts:fontStyle="italic">[Gil] We all need to be on the <br/>same page, okay?</span></p>
-      <p begin="00:53:37.061" end="00:53:37.733">- Okay.</p>
-      <p begin="00:53:37.733" end="00:53:40.731">- Tim says that you're not fighting.</p>
+      <p begin="00:53:37.061" end="00:53:37.933">- Okay.</p>
+      <p begin="00:53:37.933" end="00:53:40.731">- Tim says that you're not fighting.</p>
       <p begin="00:53:40.731" end="00:53:43.598">You're saying, you don't know <br/>if you're fighting.</p>
       <p begin="00:53:43.598" end="00:53:46.235">I'm saying you better off not fighting,</p>
       <p begin="00:53:46.235" end="00:53:49.621">I'm also saying that if you're <br/>gonna fight.</p>
@@ -1343,8 +1343,8 @@
       <p begin="00:58:46.984" end="00:58:54.944">
         <span tts:fontStyle="italic">It's gonna take someone to beat him <br/>but Dustin is not gonna beat himself.</span>
       </p>
-      <p begin="00:58:57.529" end="00:58:59.173">[thump]</p>
-      <p begin="00:58:59.299" end="00:58:59.994">[thud, thud, thud]</p>
+      <p begin="00:58:57.529" end="00:58:59.103">[thump]</p>
+      <p begin="00:58:59.173" end="00:58:59.994">[thud, thud, thud]</p>
       <p begin="00:58:59.994" end="00:59:01.140">-<span tts:fontStyle="italic">[male] Come on reach it</span></p>
       <p begin="00:59:05.939" end="00:59:08.396">- <span tts:fontStyle="italic">[male voice] As you jab, <br/>that's a measuring stick.</span></p>
       <p begin="00:59:08.396" end="00:59:09.451">-<span tts:fontStyle="italic">[Dustin] Reach you literally across--</span></p>
