@@ -23,13 +23,25 @@
 <body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
     <div>
       <p begin="00:00:03.377" end="00:00:06.070">&#9834; [muziek] &#9834;</p>
-      <p begin="00:00:10.557" end="00:00:12.246">*[drukke menigte]*</p>
+      <p begin="00:00:10.557" end="00:00:12.246">
+        <span tts:fontStyle="italic">[drukke menigte]</span>
+      </p>
       <p begin="00:00:31.199" end="00:00:39.594">&#9834; [muziek] &#9834;</p>
-      <p begin="00:00:40.901" end="00:00:45.899">*[Gil Guillory] Vechtsport is zo oud <br/>als de mensheid ooit is geweest.*</p>
-      <p begin="00:00:47.391" end="00:00:50.161">*Er is iets aan een andere man,*</p>
-      <p begin="00:00:50.161" end="00:00:51.722">*tot onderwerping verslaan.*</p>
-      <p begin="00:00:51.722" end="00:00:56.057">*Dat de wereld tot aangetrokken is.*</p>
-      <p begin="00:00:56.057" end="00:00:58.327">*Wat is het?*</p>
+      <p begin="00:00:40.901" end="00:00:45.899">
+        <span tts:fontStyle="italic">[Gil Guillory] Vechtsport is zo oud <br/>als de mensheid ooit is geweest.</span>
+      </p>
+      <p begin="00:00:47.391" end="00:00:50.161">
+        <span tts:fontStyle="italic">Er is iets aan een andere man,</span>
+      </p>
+      <p begin="00:00:50.161" end="00:00:51.722">
+        <span tts:fontStyle="italic">tot onderwerping verslaan.</span>
+      </p>
+      <p begin="00:00:51.722" end="00:00:56.057">
+        <span tts:fontStyle="italic">Dat de wereld tot aangetrokken is.</span>
+      </p>
+      <p begin="00:00:56.057" end="00:00:58.327">
+        <span tts:fontStyle="italic">Wat is het?</span>
+      </p>
       <p begin="00:00:58.327" end="00:01:02.959">De mens is de enige soort op aarde,</p>
       <p begin="00:01:02.959" end="00:01:05.030">buiten zijn natuurlijke omgeving.</p>
       <p begin="00:01:05.030" end="00:01:06.713">En wat de samenleving veroorzaakt heeft,</p>
@@ -37,46 +49,104 @@
       <p begin="00:01:08.253" end="00:01:10.669">uit de vergelijking. De eerste is.</p>
       <p begin="00:01:10.669" end="00:01:11.569">De regels van de mens.</p>
       <p begin="00:01:11.569" end="00:01:14.813">De regels van de mens geven aan <br/>dat de mens een krijger is.</p>
-      <p begin="00:01:14.813" end="00:01:20.093">*Van natuur is hij een krijger dus <br/>wanneer je zegt "Vecht"!*</p>
-      <p begin="00:01:20.093" end="00:01:23.269">*Iedereen gaat zich omdraaien en kijken.<br/>Iedereen.*</p>
-      <p begin="00:01:25.506" end="00:01:27.489">*"Vechten is waarheid"*</p>
+      <p begin="00:01:14.813" end="00:01:20.093">
+        <span tts:fontStyle="italic">Van natuur is hij een krijger dus <br/>wanneer je zegt "Vecht"!</span>
+      </p>
+      <p begin="00:01:20.093" end="00:01:23.269">
+        <span tts:fontStyle="italic">Iedereen gaat zich omdraaien en kijken.<br/>Iedereen.</span>
+      </p>
+      <p begin="00:01:25.506" end="00:01:27.489">
+        <span tts:fontStyle="italic">"Vechten is waarheid"</span>
+      </p>
       <p begin="00:01:27.657" end="00:01:33.883">[klappen en drummen]</p>
       <p begin="00:01:37.239" end="00:01:43.031">&#9834; [muziek] &#9834;</p>
       <p begin="00:01:53.295" end="00:01:59.051">[menigte juicht]</p>
-      <p begin="00:02:00.342" end="00:02:04.663">*[Gil] Zeer weinig mannen zullen wel <br/>dergelijk de gangpaden belopen.*</p>
-      <p begin="00:02:04.891" end="00:02:07.920">*En dat strijdgebied binnengaan*</p>
-      <p begin="00:02:07.972" end="00:02:12.277">*En zeer weinig mannen zullen dat <br/>20 tot 30 keer doen.*</p>
-      <p begin="00:02:12.338" end="00:02:14.863">*De meeste van deze mannen die gevochten <br/>hebben zullen nooit meer vechten.*</p>
-      <p begin="00:02:14.957" end="00:02:18.033">*Ze denken dat ze het kunnen <br/>doen, ze willen het doen."*</p>
-      <p begin="00:02:18.217" end="00:02:20.810">*Ze willen dat iedereen weet dat ze <br/>kooivechters zijn.*</p>
-      <p begin="00:02:20.915" end="00:02:23.957">*Maar wanneer die deur sluit, <br/>hoor je dat slot "klik"!*</p>
-      <p begin="00:02:26.260" end="00:02:28.093">*En wanneer het tijd is om te beginnen*</p>
-      <p begin="00:02:28.093" end="00:02:30.249">*En die andere man kijkt naar jou<br/>van de andere kant van de kooi.*</p>
-      <p begin="00:02:30.249" end="00:02:34.763">*En je kan hem niet dezelfde <br/>blik werpen die hij jou wierp.*..</p>
-      <p begin="00:02:34.870" end="00:02:37.110">*Weet je nu dat je in de problemen zit.*</p>
-      <p begin="00:02:38.702" end="00:02:43.474">*Elke vechtpartij heeft een verhaal die <br/>nog moet worden uitgespeeld.*</p>
-      <p begin="00:02:44.073" end="00:02:48.637">*Als een wedstrijd maker, moet ik me <br/>dat verhaal inbeelden.*</p>
-      <p begin="00:02:48.652" end="00:02:52.142">*Ik moet het script van <br/>dat verhaal schrijven.*</p>
-      <p begin="00:02:52.142" end="00:02:53.915">*Wat zou er gebeuren?*</p>
-      <p begin="00:02:53.915" end="00:02:55.433">*Als je in je stam was <br/>en ik was in mijn stam*</p>
-      <p begin="00:02:55.433" end="00:02:58.649">*En we botsten tegen elkaar op.<br/>Wat zou er gebeuren?*</p>
-      <p begin="00:02:58.649" end="00:03:00.754">*Naast elkaar met een steen<br/>op het hoofd slaan.*</p>
-      <p begin="00:03:00.754" end="00:03:02.421">*Laten we het er uit gooien*</p>
-      <p begin="00:03:02.421" end="00:03:03.750">*Dat is wat "Strijd" is*</p>
-      <p begin="00:03:03.750" end="00:03:05.847">*Het is niet twee mannen die opstaan*</p>
-      <p begin="00:03:05.847" end="00:03:08.370">*En gewoon elkaar op het hoofd <br/>en in de buik slaan.*</p>
-      <p begin="00:03:08.370" end="00:03:11.026">*Strijd omvat alles.*</p>
-      <p begin="00:03:11.026" end="00:03:12.904">*Doe wat je kan om een gevecht te winnen.*</p>
+      <p begin="00:02:00.342" end="00:02:04.663">
+        <span tts:fontStyle="italic">[Gil] Zeer weinig mannen zullen wel <br/>dergelijk de gangpaden belopen.</span>
+      </p>
+      <p begin="00:02:04.891" end="00:02:07.920">
+        <span tts:fontStyle="italic">En dat strijdgebied binnengaan</span>
+      </p>
+      <p begin="00:02:07.972" end="00:02:12.277">
+        <span tts:fontStyle="italic">En zeer weinig mannen zullen dat <br/>20 tot 30 keer doen.</span>
+      </p>
+      <p begin="00:02:12.338" end="00:02:14.863">
+        <span tts:fontStyle="italic">De meeste van deze mannen die gevochten <br/>hebben zullen nooit meer vechten.</span>
+      </p>
+      <p begin="00:02:14.957" end="00:02:18.033">
+        <span tts:fontStyle="italic">Ze denken dat ze het kunnen <br/>doen, ze willen het doen."</span>
+      </p>
+      <p begin="00:02:18.217" end="00:02:20.810">
+        <span tts:fontStyle="italic">Ze willen dat iedereen weet dat ze <br/>kooivechters zijn.</span>
+      </p>
+      <p begin="00:02:20.915" end="00:02:23.957">
+        <span tts:fontStyle="italic">Maar wanneer die deur sluit, <br/>hoor je dat slot "klik"!</span>
+      </p>
+      <p begin="00:02:26.260" end="00:02:28.093">
+        <span tts:fontStyle="italic">En wanneer het tijd is om te beginnen</span>
+      </p>
+      <p begin="00:02:28.093" end="00:02:30.249">
+        <span tts:fontStyle="italic">En die andere man kijkt naar jou<br/>van de andere kant van de kooi.</span>
+      </p>
+      <p begin="00:02:30.249" end="00:02:34.763"><span tts:fontStyle="italic">En je kan hem niet dezelfde <br/>blik werpen die hij jou wierp.</span>..</p>
+      <p begin="00:02:34.870" end="00:02:37.110">
+        <span tts:fontStyle="italic">Weet je nu dat je in de problemen zit.</span>
+      </p>
+      <p begin="00:02:38.702" end="00:02:43.474">
+        <span tts:fontStyle="italic">Elke vechtpartij heeft een verhaal die <br/>nog moet worden uitgespeeld.</span>
+      </p>
+      <p begin="00:02:44.073" end="00:02:48.637">
+        <span tts:fontStyle="italic">Als een wedstrijd maker, moet ik me <br/>dat verhaal inbeelden.</span>
+      </p>
+      <p begin="00:02:48.652" end="00:02:52.142">
+        <span tts:fontStyle="italic">Ik moet het script van <br/>dat verhaal schrijven.</span>
+      </p>
+      <p begin="00:02:52.142" end="00:02:53.915">
+        <span tts:fontStyle="italic">Wat zou er gebeuren?</span>
+      </p>
+      <p begin="00:02:53.915" end="00:02:55.433">
+        <span tts:fontStyle="italic">Als je in je stam was <br/>en ik was in mijn stam</span>
+      </p>
+      <p begin="00:02:55.433" end="00:02:58.649">
+        <span tts:fontStyle="italic">En we botsten tegen elkaar op.<br/>Wat zou er gebeuren?</span>
+      </p>
+      <p begin="00:02:58.649" end="00:03:00.754">
+        <span tts:fontStyle="italic">Naast elkaar met een steen<br/>op het hoofd slaan.</span>
+      </p>
+      <p begin="00:03:00.754" end="00:03:02.421">
+        <span tts:fontStyle="italic">Laten we het er uit gooien</span>
+      </p>
+      <p begin="00:03:02.421" end="00:03:03.750">
+        <span tts:fontStyle="italic">Dat is wat "Strijd" is</span>
+      </p>
+      <p begin="00:03:03.750" end="00:03:05.847">
+        <span tts:fontStyle="italic">Het is niet twee mannen die opstaan</span>
+      </p>
+      <p begin="00:03:05.847" end="00:03:08.370">
+        <span tts:fontStyle="italic">En gewoon elkaar op het hoofd <br/>en in de buik slaan.</span>
+      </p>
+      <p begin="00:03:08.370" end="00:03:11.026">
+        <span tts:fontStyle="italic">Strijd omvat alles.</span>
+      </p>
+      <p begin="00:03:11.026" end="00:03:12.904">
+        <span tts:fontStyle="italic">Doe wat je kan om een gevecht te winnen.</span>
+      </p>
       <p begin="00:03:14.668" end="00:03:16.431">[menigte roept]</p>
       <p begin="00:03:16.761" end="00:03:18.258">[plof, plof, plof]</p>
       <p begin="00:03:18.597" end="00:03:19.594">[hoorn blaast]</p>
       <p begin="00:03:21.884" end="00:03:23.832">[menigte juicht en klapt]</p>
-      <p begin="00:03:24.261" end="00:03:28.462">*Wij brengen de pure <br/>essentie van strijd terug.*</p>
+      <p begin="00:03:24.261" end="00:03:28.462">
+        <span tts:fontStyle="italic">Wij brengen de pure <br/>essentie van strijd terug.</span>
+      </p>
       <p begin="00:03:30.414" end="00:03:32.542">&#9834; [muziek] &#9834;</p>
       <p begin="00:03:45.731" end="00:03:48.911">[menigte juicht en klapt]</p>
-      <p begin="00:03:52.904" end="00:03:57.210">*Ik kan eender welke man nemen<br/>en ik maak hem een ster.*</p>
-      <p begin="00:03:58.993" end="00:04:01.131">- [*DUSTIN POIRIER<span tts:fontStyle="italic">]</span> Mijn droom is<br/>om...*</p>
-      <p begin="00:04:01.131" end="00:04:03.724">*de beste vechter te zijn<br/>van 70 kg in de wereld.*</p>
+      <p begin="00:03:52.904" end="00:03:57.210">
+        <span tts:fontStyle="italic">Ik kan eender welke man nemen<br/>en ik maak hem een ster.</span>
+      </p>
+      <p begin="00:03:58.993" end="00:04:01.131">- [<span tts:fontStyle="italic">DUSTIN POIRIER</span>]<span tts:fontStyle="italic"> Mijn droom is<br/>om...</span></p>
+      <p begin="00:04:01.131" end="00:04:03.724">
+        <span tts:fontStyle="italic">de beste vechter te zijn<br/>van 70 kg in de wereld.</span>
+      </p>
       <p begin="00:04:03.724" end="00:04:06.710">Vechten is wat ik doe.</p>
       <p begin="00:04:06.710" end="00:04:08.685">Mijn vader was een vechter.</p>
       <p begin="00:04:08.685" end="00:04:10.911">Mijn grootvader was een vechter.</p>
@@ -108,27 +178,43 @@
       <p begin="00:05:14.399" end="00:05:18.588">[trein toetert]</p>
       <p begin="00:05:18.588" end="00:05:27.245">[plof, plof, plof]</p>
       <p begin="00:05:31.024" end="00:05:44.891">&#9834; [muziek] &#9834;</p>
-      <p begin="00:05:44.968" end="00:05:46.053">- [Tim] *Verdedig! Verdedig!*</p>
+      <p begin="00:05:44.968" end="00:05:46.053">- [Tim] <span tts:fontStyle="italic">Verdedig! Verdedig!</span></p>
       <p begin="00:05:46.053" end="00:05:46.848">&#9834; [muziek] &#9834;</p>
-      <p begin="00:05:46.848" end="00:05:47.831">- *Ik zit vast.*</p>
-      <p begin="00:05:47.831" end="00:05:50.836">- *Dat weet ik, kom langs de andere kant! <br/>Kom naar deze kant, kom naar mij!*</p>
-      <p begin="00:05:50.836" end="00:05:52.889">*Verdedig! Laat je niet hier <br/>knock-out geslagen worden.*</p>
-      <p begin="00:05:52.889" end="00:05:55.288">*Daar ga je...*</p>
-      <p begin="00:05:55.288" end="00:05:57.379">*Voeten op de muur, duw weg.*</p>
-      <p begin="00:05:57.379" end="00:05:59.044">*Draai! Draai! Draai!*</p>
+      <p begin="00:05:46.848" end="00:05:47.831">- <span tts:fontStyle="italic">Ik zit vast.</span></p>
+      <p begin="00:05:47.831" end="00:05:50.836">- <span tts:fontStyle="italic">Dat weet ik, kom langs de andere kant! <br/>Kom naar deze kant, kom naar mij!</span></p>
+      <p begin="00:05:50.836" end="00:05:52.889">
+        <span tts:fontStyle="italic">Verdedig! Laat je niet hier <br/>knock-out geslagen worden.</span>
+      </p>
+      <p begin="00:05:52.889" end="00:05:55.288">
+        <span tts:fontStyle="italic">Daar ga je...</span>
+      </p>
+      <p begin="00:05:55.288" end="00:05:57.379">
+        <span tts:fontStyle="italic">Voeten op de muur, duw weg.</span>
+      </p>
+      <p begin="00:05:57.379" end="00:05:59.044">
+        <span tts:fontStyle="italic">Draai! Draai! Draai!</span>
+      </p>
       <p begin="00:05:59.044" end="00:06:04.072">&#9834; [muziek] &#9834;</p>
-      <p begin="00:06:21.520" end="00:06:23.518">*[alarm rinkelt]*</p>
-      <p begin="00:06:23.518" end="00:06:28.518">- *Stop. Het is niet je vaardigheid, <br/>het is niet van jou.*</p>
-      <p begin="00:06:28.518" end="00:06:33.065">- *Er speelt muziek, dit is Tim.*</p>
+      <p begin="00:06:21.520" end="00:06:23.518">
+        <span tts:fontStyle="italic">[alarm rinkelt]</span>
+      </p>
+      <p begin="00:06:23.518" end="00:06:28.518">- <span tts:fontStyle="italic">Stop. Het is niet je vaardigheid, <br/>het is niet van jou.</span></p>
+      <p begin="00:06:28.518" end="00:06:33.065">- <span tts:fontStyle="italic">Er speelt muziek, dit is Tim.</span></p>
       <p begin="00:06:35.799" end="00:06:37.915">- ["Crazy" Tim Credeur] Wat we <br/>vandaag doen met MMA,</p>
       <p begin="00:06:37.915" end="00:06:40.208">en met de gemixte vechtsport</p>
-      <p begin="00:06:40.208" end="00:06:44.009">*Is wat de vechtsport <br/>altijd al moest zijn,*</p>
+      <p begin="00:06:40.208" end="00:06:44.009">
+        <span tts:fontStyle="italic">Is wat de vechtsport <br/>altijd al moest zijn,</span>
+      </p>
       <p begin="00:06:44.024" end="00:06:48.630">En de revitalisering van de <br/>vechtsport in Amerika begint.</p>
       <p begin="00:06:48.630" end="00:06:51.170">De realiteit van de <br/>vechtsport door MMA</p>
       <p begin="00:06:51.170" end="00:06:55.115">Werd ingekookt tot, wat is waar <br/>en wat is gewoon gek.</p>
       <p begin="00:06:55.115" end="00:06:56.891">Wat is gekke filmstof.</p>
-      <p begin="00:06:56.891" end="00:06:59.447">*Er zijn hier geen 7-jarige zwarte <br/>gordels. Dat is niet echt.*</p>
-      <p begin="00:06:59.447" end="00:07:03.145">*Wij hebben geen 5-jarigen die vliegende<br/>sprongschoppen door de muren doen.*</p>
+      <p begin="00:06:56.891" end="00:06:59.447">
+        <span tts:fontStyle="italic">Er zijn hier geen 7-jarige zwarte <br/>gordels. Dat is niet echt.</span>
+      </p>
+      <p begin="00:06:59.447" end="00:07:03.145">
+        <span tts:fontStyle="italic">Wij hebben geen 5-jarigen die vliegende<br/>sprongschoppen door de muren doen.</span>
+      </p>
       <p begin="00:07:03.145" end="00:07:05.194">Dat is gewoon niet de realiteit ervan.</p>
       <p begin="00:07:05.194" end="00:07:07.423">[zwiep, zwiep]</p>
       <p begin="00:07:08.114" end="00:07:10.312">Deze kerels die deze traditionele <br/>vechtsporten gedaan hebben,</p>
@@ -136,10 +222,18 @@
       <p begin="00:07:11.870" end="00:07:14.550">kunnen geen gevecht in <br/>een MMA wedstrijd winnen.</p>
       <p begin="00:07:14.550" end="00:07:16.183">Hoe is dat mogelijk?</p>
       <p begin="00:07:16.183" end="00:07:18.954">Als je 20 jaar in een vechtsport<br/>academie besteed hebt</p>
-      <p begin="00:07:18.954" end="00:07:21.329">*Deed je kata's en het <br/>breken van valse borden.*</p>
-      <p begin="00:07:21.329" end="00:07:23.044">*En droeg je grappige gordels.*</p>
-      <p begin="00:07:23.044" end="00:07:25.554">*Je trainde niet om een <br/>vechter te worden.*</p>
-      <p begin="00:07:25.554" end="00:07:27.760">*Je trainde om in een bar <br/>en Bailey circus te gaan.*</p>
+      <p begin="00:07:18.954" end="00:07:21.329">
+        <span tts:fontStyle="italic">Deed je kata's en het <br/>breken van valse borden.</span>
+      </p>
+      <p begin="00:07:21.329" end="00:07:23.044">
+        <span tts:fontStyle="italic">En droeg je grappige gordels.</span>
+      </p>
+      <p begin="00:07:23.044" end="00:07:25.554">
+        <span tts:fontStyle="italic">Je trainde niet om een <br/>vechter te worden.</span>
+      </p>
+      <p begin="00:07:25.554" end="00:07:27.760">
+        <span tts:fontStyle="italic">Je trainde om in een bar <br/>en Bailey circus te gaan.</span>
+      </p>
       <p begin="00:07:27.760" end="00:07:30.099">Dat is geen vechtsport,</p>
       <p begin="00:07:30.099" end="00:07:32.355">dat is gekke praat, <br/>dat is belachelijk.</p>
       <p begin="00:07:32.355" end="00:07:34.120">Toen vechtsport werd ontwikkeld <br/>voor samoerais en voor de krijgers,</p>
@@ -151,11 +245,15 @@
       <p begin="00:07:46.679" end="00:07:48.826">Om het voor iedereen te maken, <br/>zoals ik al zei,</p>
       <p begin="00:07:48.826" end="00:07:51.472">Is om het te maken wat het <br/>niet echt is.</p>
       <p begin="00:07:51.472" end="00:07:57.696">[plof, plof, plof]</p>
-      <p begin="00:07:57.958" end="00:08:00.011">- *[mannelijke stem] Laat geen bloed <br/>spetters na op de wastafel,*</p>
-      <p begin="00:08:00.011" end="00:08:02.517">*Of op de tank. Ga je wassen,*</p>
-      <p begin="00:08:02.517" end="00:08:04.101">*En dan was je gebied ook, ok?*</p>
+      <p begin="00:07:57.958" end="00:08:00.011">- <span tts:fontStyle="italic">[mannelijke stem] Laat geen bloed <br/>spetters na op de wastafel,</span></p>
+      <p begin="00:08:00.011" end="00:08:02.517">
+        <span tts:fontStyle="italic">Of op de tank. Ga je wassen,</span>
+      </p>
+      <p begin="00:08:02.517" end="00:08:04.101">
+        <span tts:fontStyle="italic">En dan was je gebied ook, ok?</span>
+      </p>
       <p begin="00:08:04.101" end="00:08:07.937">Ok? Dat is net een <br/>gezondheidsovertreding, ok.</p>
-      <p begin="00:08:07.937" end="00:08:10.361">- *[Tim] Ok jongens, kijk ook,<br/>dat is een goed punt.*</p>
+      <p begin="00:08:07.937" end="00:08:10.361">- <span tts:fontStyle="italic">[Tim] Ok jongens, kijk ook,<br/>dat is een goed punt.</span></p>
       <p begin="00:08:10.361" end="00:08:11.898">De gezondheid inspecteur kwam <br/>en er was wat bloed</p>
       <p begin="00:08:11.898" end="00:08:13.788">en hij was kwaad weet je, <br/>hij zei niet veel...</p>
       <p begin="00:08:13.788" end="00:08:17.123">Maar als je bloedt of iets zoiets, wees er<br/>dan zeker van dat je je stof schoonmaakt.</p>
@@ -163,57 +261,109 @@
       <p begin="00:08:20.774" end="00:08:25.270">Wij moeten een vechtsport<br/>school voorstellen.</p>
       <p begin="00:08:25.270" end="00:08:28.554">Help mij, help jou</p>
       <p begin="00:08:28.554" end="00:08:39.691">&#9834; [muziek] &#9834;</p>
-      <p begin="00:08:39.967" end="00:08:44.383">- *[Gil] Weet je ik groeide op, kijkend<br/>naar mannen die hard werkten.*</p>
-      <p begin="00:08:44.383" end="00:08:47.512">*Die hard feesten en op een<br/>vrijdag- of zaterdagavond,*</p>
+      <p begin="00:08:39.967" end="00:08:44.383">- <span tts:fontStyle="italic">[Gil] Weet je ik groeide op, kijkend<br/>naar mannen die hard werkten.</span></p>
+      <p begin="00:08:44.383" end="00:08:47.512">
+        <span tts:fontStyle="italic">Die hard feesten en op een<br/>vrijdag- of zaterdagavond,</span>
+      </p>
       <p begin="00:08:47.512" end="00:08:48.997">Waren ze niet bang om hard te vechten.</p>
-      <p begin="00:08:49.274" end="00:08:53.853">*Wat we proberen te doen bij <br/>USA-MMA is om het gevoel *</p>
-      <p begin="00:08:53.853" end="00:08:55.937">*en de opwinding van een live evenement<br/>terug te brengen.*</p>
-      <p begin="00:08:55.937" end="00:08:58.501">*En we doen die in rodeo pistes<br/>en stadscentrums,*</p>
-      <p begin="00:08:58.501" end="00:08:59.621">*dwars door Zuid-Louisiana.*</p>
-      <p begin="00:08:59.621" end="00:09:01.711">*En het is alleen ik, mijn vrouw <br/>en de kinderen.*</p>
-      <p begin="00:09:01.711" end="00:09:04.268">- *[Gil's Vrouw] Er is zeker en vast een<br/>misvatting over de sport.*</p>
-      <p begin="00:09:04.268" end="00:09:06.371">*Ze lachen met de sport. Ze kunnen niet<br/>wachten om te zeggen*...</p>
+      <p begin="00:08:49.274" end="00:08:53.853">
+        <span tts:fontStyle="italic">Wat we proberen te doen bij <br/>USA-MMA is om het gevoel </span>
+      </p>
+      <p begin="00:08:53.853" end="00:08:55.937">
+        <span tts:fontStyle="italic">en de opwinding van een live evenement<br/>terug te brengen.</span>
+      </p>
+      <p begin="00:08:55.937" end="00:08:58.501">
+        <span tts:fontStyle="italic">En we doen die in rodeo pistes<br/>en stadscentrums,</span>
+      </p>
+      <p begin="00:08:58.501" end="00:08:59.621">
+        <span tts:fontStyle="italic">dwars door Zuid-Louisiana.</span>
+      </p>
+      <p begin="00:08:59.621" end="00:09:01.711">
+        <span tts:fontStyle="italic">En het is alleen ik, mijn vrouw <br/>en de kinderen.</span>
+      </p>
+      <p begin="00:09:01.711" end="00:09:04.268">- <span tts:fontStyle="italic">[Gil's Vrouw] Er is zeker en vast een<br/>misvatting over de sport.</span></p>
+      <p begin="00:09:04.268" end="00:09:06.371"><span tts:fontStyle="italic">Ze lachen met de sport. Ze kunnen niet<br/>wachten om te zeggen</span>...</p>
       <p begin="00:09:06.371" end="00:09:08.526">"Oh echt? Wel, dat is menselijk<br/>haan vechten."</p>
       <p begin="00:09:08.526" end="00:09:11.063">Ik heb het al zoveel keer gehoord <br/>en het is ergelijk waarom?</p>
-      <p begin="00:09:11.063" end="00:09:13.730">*John McCain* zei dat zo'n 10-15 jaar <br/>geleden 'menselijk haan vechten'.</p>
-      <p begin="00:09:13.730" end="00:09:15.552">*En dat was het toen <br/>waarschijnlijk ook.*</p>
-      <p begin="00:09:15.767" end="00:09:17.437">*Weet je je kon in eender welke<br/>klasse zitten.*</p>
-      <p begin="00:09:17.468" end="00:09:19.315">*Er waren helemaal geen regels.*</p>
+      <p begin="00:09:11.063" end="00:09:13.730"><span tts:fontStyle="italic">John McCain</span> zei dat zo'n 10-15 jaar <br/>geleden 'menselijk haan vechten'.</p>
+      <p begin="00:09:13.730" end="00:09:15.552">
+        <span tts:fontStyle="italic">En dat was het toen <br/>waarschijnlijk ook.</span>
+      </p>
+      <p begin="00:09:15.767" end="00:09:17.437">
+        <span tts:fontStyle="italic">Weet je je kon in eender welke<br/>klasse zitten.</span>
+      </p>
+      <p begin="00:09:17.468" end="00:09:19.315">
+        <span tts:fontStyle="italic">Er waren helemaal geen regels.</span>
+      </p>
       <p begin="00:09:19.315" end="00:09:21.576">Maar de manier waarop... de sport<br/>ontwikkeld is sinds toen.</p>
       <p begin="00:09:21.576" end="00:09:24.264">Weet je het is echt... een van<br/>de veiligste sporten die er bestaan.</p>
-      <p begin="00:09:24.264" end="00:09:27.854">*Rodeo's, weet je mensen sterven <br/>de hele tijd, in rodeo's.*</p>
-      <p begin="00:09:27.854" end="00:09:29.876">*Ze sterven in NASCAR.<br/>De hele tijd.*</p>
-      <p begin="00:09:29.876" end="00:09:32.450">*Maar omdat dit een nieuwe sport is<br/>mensen weten niet wat het is*</p>
-      <p begin="00:09:32.450" end="00:09:34.144">*En ze zien zoveel bloed,<br/>ze begrijpen niet dat*</p>
+      <p begin="00:09:24.264" end="00:09:27.854">
+        <span tts:fontStyle="italic">Rodeo's, weet je mensen sterven <br/>de hele tijd, in rodeo's.</span>
+      </p>
+      <p begin="00:09:27.854" end="00:09:29.876">
+        <span tts:fontStyle="italic">Ze sterven in NASCAR.<br/>De hele tijd.</span>
+      </p>
+      <p begin="00:09:29.876" end="00:09:32.450">
+        <span tts:fontStyle="italic">Maar omdat dit een nieuwe sport is<br/>mensen weten niet wat het is</span>
+      </p>
+      <p begin="00:09:32.450" end="00:09:34.144">
+        <span tts:fontStyle="italic">En ze zien zoveel bloed,<br/>ze begrijpen niet dat</span>
+      </p>
       <p begin="00:09:34.144" end="00:09:37.317">Bloed oppervlakkig is. Deze kerels dragen <br/>110 gram handschoenen.</p>
-      <p begin="00:09:37.317" end="00:09:38.225">*Ze dragen geen 450 gram <br/>handschoenen.* [Plof!]</p>
-      <p begin="00:09:38.225" end="00:09:39.793">*Dus er is geen hersenbeschadiging.*</p>
-      <p begin="00:09:39.793" end="00:09:41.553">*Ze worden geponst met een<br/>110 gram handschoen.*</p>
-      <p begin="00:09:41.553" end="00:09:45.186">*Als een kerel in de ring gewond is, zal <br/>de scheidsrechter het gevecht stoppen.*</p>
-      <p begin="00:09:45.186" end="00:09:46.723">*Dat gebeurt niet met boksen.*</p>
-      <p begin="00:09:46.723" end="00:09:49.411">*Zijn hi&#235;rarchie moet op de grond<br/>liggen, hij kan zelfs gewond zijn.*</p>
-      <p begin="00:09:49.411" end="00:09:51.691">*Zolang hij zelf kan opstaan,<br/>kan hij verder vechten.*</p>
-      <p begin="00:09:51.691" end="00:09:53.422">*En dat gebeurt ook niet in MMA.*</p>
-      <p begin="00:09:55.373" end="00:09:59.019">*Ik wist toen ik met hem begon uit te gaan<br/>dat hij een voormalige bokser was.*</p>
-      <p begin="00:09:59.019" end="00:10:03.004">*En dat hij ook worstelde, Pro, waarvan<br/>ik dacht dat dat echt gek was.*</p>
+      <p begin="00:09:37.317" end="00:09:38.225"><span tts:fontStyle="italic">Ze dragen geen 450 gram <br/>handschoenen.</span> [Plof!]</p>
+      <p begin="00:09:38.225" end="00:09:39.793">
+        <span tts:fontStyle="italic">Dus er is geen hersenbeschadiging.</span>
+      </p>
+      <p begin="00:09:39.793" end="00:09:41.553">
+        <span tts:fontStyle="italic">Ze worden geponst met een<br/>110 gram handschoen.</span>
+      </p>
+      <p begin="00:09:41.553" end="00:09:45.186">
+        <span tts:fontStyle="italic">Als een kerel in de ring gewond is, zal <br/>de scheidsrechter het gevecht stoppen.</span>
+      </p>
+      <p begin="00:09:45.186" end="00:09:46.723">
+        <span tts:fontStyle="italic">Dat gebeurt niet met boksen.</span>
+      </p>
+      <p begin="00:09:46.723" end="00:09:49.411">
+        <span tts:fontStyle="italic">Zijn hi&#235;rarchie moet op de grond<br/>liggen, hij kan zelfs gewond zijn.</span>
+      </p>
+      <p begin="00:09:49.411" end="00:09:51.691">
+        <span tts:fontStyle="italic">Zolang hij zelf kan opstaan,<br/>kan hij verder vechten.</span>
+      </p>
+      <p begin="00:09:51.691" end="00:09:53.422">
+        <span tts:fontStyle="italic">En dat gebeurt ook niet in MMA.</span>
+      </p>
+      <p begin="00:09:55.373" end="00:09:59.019">
+        <span tts:fontStyle="italic">Ik wist toen ik met hem begon uit te gaan<br/>dat hij een voormalige bokser was.</span>
+      </p>
+      <p begin="00:09:59.019" end="00:10:03.004">
+        <span tts:fontStyle="italic">En dat hij ook worstelde, Pro, waarvan<br/>ik dacht dat dat echt gek was.</span>
+      </p>
       <p begin="00:10:03.249" end="00:10:08.267">[toeschouwers zingen] <br/>Let's go Gil! Oh! Oh!</p>
       <p begin="00:10:13.859" end="00:10:15.594">[slaan]</p>
       <p begin="00:10:15.736" end="00:10:16.881">Oh! Oh!</p>
       <p begin="00:10:17.618" end="00:10:20.087">- [Gil's Vrouw] Het zit in zijn bloed.<br/>Ik bedoel mijn zoon is nu 5.</p>
-      <p begin="00:10:20.087" end="00:10:22.985">*En je weet dat hij op <br/>een dag gaat vechten.*</p>
-      <p begin="00:10:22.985" end="00:10:26.264">*Weet je, zelfs al is het zo veilig,<br/>je wil toch nog altijd niet*</p>
-      <p begin="00:10:26.264" end="00:10:27.954">*je zoon zelfs van zijn fiets <br/>zien vallen. Weet je wel.*</p>
+      <p begin="00:10:20.087" end="00:10:22.985">
+        <span tts:fontStyle="italic">En je weet dat hij op <br/>een dag gaat vechten.</span>
+      </p>
+      <p begin="00:10:22.985" end="00:10:26.264">
+        <span tts:fontStyle="italic">Weet je, zelfs al is het zo veilig,<br/>je wil toch nog altijd niet</span>
+      </p>
+      <p begin="00:10:26.264" end="00:10:27.954">
+        <span tts:fontStyle="italic">je zoon zelfs van zijn fiets <br/>zien vallen. Weet je wel.</span>
+      </p>
       <p begin="00:10:27.954" end="00:10:30.053">En op een zal hij vechten. Ik zal<br/>niet in staat zijn om hem te stoppen.</p>
       <p begin="00:10:30.053" end="00:10:31.795">Het zit in zijn bloed.</p>
       <p begin="00:10:31.795" end="00:10:34.103">Mijn man, wanneer we ruzie hebben <br/>gaat hij naar de gym en spart.</p>
-      <p begin="00:10:34.103" end="00:10:37.599">*En hij komt veel, veel beter terug.*</p>
+      <p begin="00:10:34.103" end="00:10:37.599">
+        <span tts:fontStyle="italic">En hij komt veel, veel beter terug.</span>
+      </p>
       <p begin="00:10:37.599" end="00:10:39.922">Er is veel vaardigheid in betrokken.</p>
       <p begin="00:10:39.922" end="00:10:43.469">Het is niet gewoon, <br/>je weet wel, een bar gevecht.</p>
       <p begin="00:10:43.515" end="00:10:44.506">Als de kerels de hele tijd bellen</p>
       <p begin="00:10:44.506" end="00:10:45.666">"Ik wil vechten", "Ik wil vechten", <br/>"Ik wil vechten"</p>
       <p begin="00:10:45.666" end="00:10:47.507">Wel, als je niet getraind bent. Weet je<br/>dat we je daar niet in kunnen steken.</p>
       <p begin="00:10:47.507" end="00:10:48.450">Het is niet veilig.</p>
-      <p begin="00:10:48.450" end="00:10:51.927">- *[Gil] Ja dit is een rodeo piste maar<br/>je kan nog niet in mijn show vechten.*</p>
+      <p begin="00:10:48.450" end="00:10:51.927">- <span tts:fontStyle="italic">[Gil] Ja dit is een rodeo piste maar<br/>je kan nog niet in mijn show vechten.</span></p>
       <p begin="00:10:51.927" end="00:10:55.030">Veel van deze kinderen<br/>die me opbellen</p>
       <p begin="00:10:55.030" end="00:10:57.274">Die willen vechten, denken <br/>dat ze de vaardigheid hebben.</p>
       <p begin="00:10:57.274" end="00:11:01.282">Dan denken ze dat het gewoon,<br/>makkelijk is. Laten we het doen.</p>
@@ -225,13 +375,23 @@
       <p begin="00:11:17.497" end="00:11:21.410">Maar het meest belangrijke<br/>is, <span tts:fontStyle="italic">Toewijding</span></p>
       <p begin="00:11:21.410" end="00:11:23.187">[plof, plof, plof]</p>
       <p begin="00:11:23.401" end="00:11:25.044">[timer rinkelt]</p>
-      <p begin="00:11:26.196" end="00:11:27.255">-*[Tim] Denk niet van uit te voeren.*</p>
-      <p begin="00:11:27.286" end="00:11:31.114">*Denk aan de uitwisseling. Je hecht <br/>jezelf aan niet gewond te geraken.*</p>
-      <p begin="00:11:31.122" end="00:11:34.190">- *[Albert Stainback] Eigenlijk ben ik <br/>bang om geraakt te worden in de gym.*</p>
-      <p begin="00:11:34.190" end="00:11:35.968">*Het zuigt! Je voelt dat.*</p>
-      <p begin="00:11:35.968" end="00:11:40.862">*Maar wanneer ik aan het vechten ben, wil<br/>ik ze gewoon raken en het gebeurt.*</p>
-      <p begin="00:11:40.862" end="00:11:45.406">*En ik raak ze. En ze vallen <br/>bewusteloos en ik voel me goed.*</p>
-      <p begin="00:11:45.544" end="00:11:49.924">*De energie in de kooi maakt het hele <br/>ding geestelijk voor me voelen.*</p>
+      <p begin="00:11:26.196" end="00:11:27.255">-<span tts:fontStyle="italic">[Tim] Denk niet van uit te voeren.</span></p>
+      <p begin="00:11:27.286" end="00:11:31.114">
+        <span tts:fontStyle="italic">Denk aan de uitwisseling. Je hecht <br/>jezelf aan niet gewond te geraken.</span>
+      </p>
+      <p begin="00:11:31.122" end="00:11:34.190">- <span tts:fontStyle="italic">[Albert Stainback] Eigenlijk ben ik <br/>bang om geraakt te worden in de gym.</span></p>
+      <p begin="00:11:34.190" end="00:11:35.968">
+        <span tts:fontStyle="italic">Het zuigt! Je voelt dat.</span>
+      </p>
+      <p begin="00:11:35.968" end="00:11:40.862">
+        <span tts:fontStyle="italic">Maar wanneer ik aan het vechten ben, wil<br/>ik ze gewoon raken en het gebeurt.</span>
+      </p>
+      <p begin="00:11:40.862" end="00:11:45.406">
+        <span tts:fontStyle="italic">En ik raak ze. En ze vallen <br/>bewusteloos en ik voel me goed.</span>
+      </p>
+      <p begin="00:11:45.544" end="00:11:49.924">
+        <span tts:fontStyle="italic">De energie in de kooi maakt het hele <br/>ding geestelijk voor me voelen.</span>
+      </p>
       <p begin="00:11:49.924" end="00:11:51.852">Net een andere wereld.</p>
       <p begin="00:11:51.852" end="00:11:54.219">Het is bijna alsof het heelal<br/>een grote machine is.</p>
       <p begin="00:11:54.219" end="00:11:56.830">And ik, weet je wel, <br/>ik bedien die.</p>
@@ -243,11 +403,19 @@
       <p begin="00:12:11.654" end="00:12:15.692">met vechten, de manier <br/>waarop ik het voel.</p>
       <p begin="00:12:18.105" end="00:12:18.910">Het is het enige waarvan <br/>ik denk dat ik goed in ben.</p>
       <p begin="00:12:18.910" end="00:12:19.715">Weet je als je kon zeggen dat ik <br/>ergens goed in ben, dat zou het zijn.</p>
-      <p begin="00:12:19.715" end="00:12:21.519">- *[Gil] Deze kerel heeft veel talent.*</p>
-      <p begin="00:12:21.519" end="00:12:23.547">*Hij is geen slecht uitziende jongen.*</p>
-      <p begin="00:12:23.547" end="00:12:26.101">*Maar zie ik in hem <br/>potentieel buiten vechten.*</p>
-      <p begin="00:12:26.101" end="00:12:28.352">*Ik denk dat als hij zich<br/>echt in iets inzet,*</p>
-      <p begin="00:12:28.352" end="00:12:30.298">*Hij alles kan doen wat hij <br/>ook maar wilde doen.*</p>
+      <p begin="00:12:19.715" end="00:12:21.519">- <span tts:fontStyle="italic">[Gil] Deze kerel heeft veel talent.</span></p>
+      <p begin="00:12:21.519" end="00:12:23.547">
+        <span tts:fontStyle="italic">Hij is geen slecht uitziende jongen.</span>
+      </p>
+      <p begin="00:12:23.547" end="00:12:26.101">
+        <span tts:fontStyle="italic">Maar zie ik in hem <br/>potentieel buiten vechten.</span>
+      </p>
+      <p begin="00:12:26.101" end="00:12:28.352">
+        <span tts:fontStyle="italic">Ik denk dat als hij zich<br/>echt in iets inzet,</span>
+      </p>
+      <p begin="00:12:28.352" end="00:12:30.298">
+        <span tts:fontStyle="italic">Hij alles kan doen wat hij <br/>ook maar wilde doen.</span>
+      </p>
       <p begin="00:12:30.298" end="00:12:31.987">- [Albert] Ik wilde dat het eigenlijk<br/>mijn enige optie was.</p>
       <p begin="00:12:31.987" end="00:12:33.135">Omdat ik het zo graag doe.</p>
       <p begin="00:12:33.135" end="00:12:35.846">Misschien is het een beetje te bedot,<br/>maar dat kan me niet schelen.</p>
@@ -264,23 +432,43 @@
       <p begin="00:13:02.745" end="00:13:04.864">Misschien krijgen ze <br/>hier en daar wat geld.</p>
       <p begin="00:13:04.864" end="00:13:07.492">Maar de meeste vechters, de meeste <br/>mensendie in de kooi of ring klimmen</p>
       <p begin="00:13:07.492" end="00:13:08.778">verdienen geen cent.</p>
-      <p begin="00:13:08.778" end="00:13:10.174">*- [Tim] Je probeert ze zo <br/>goed mogelijk te helpen*</p>
+      <p begin="00:13:08.778" end="00:13:10.174">
+        <span tts:fontStyle="italic">- [Tim] Je probeert ze zo <br/>goed mogelijk te helpen</span>
+      </p>
       <p begin="00:13:10.174" end="00:13:13.871">Maar ze zijn mijn kinderen niet.<br/>Dus wat kan ik doen?</p>
       <p begin="00:13:13.871" end="00:13:16.063">- [Gil] Geef ze advies, dat is alles.</p>
       <p begin="00:13:16.063" end="00:13:19.751">Ga door met USA - MMA en [lacht]</p>
       <p begin="00:13:19.751" end="00:13:23.304">Wees het beste bedrijf, niemand<br/>ooit van over heeft gehoord.</p>
       <p begin="00:13:23.304" end="00:13:30.656">[juichen en klappen]</p>
-      <p begin="00:13:30.656" end="00:13:31.940">*- [Gil] Welkom bij deze week's editie,*</p>
-      <p begin="00:13:31.940" end="00:13:36.261">*Van de strijd sport support. <br/>Mijn naam is Gil "The Thrill" Gillorey.*</p>
+      <p begin="00:13:30.656" end="00:13:31.940">
+        <span tts:fontStyle="italic">- [Gil] Welkom bij deze week's editie,</span>
+      </p>
+      <p begin="00:13:31.940" end="00:13:36.261">
+        <span tts:fontStyle="italic">Van de strijd sport support. <br/>Mijn naam is Gil "The Thrill" Gillorey.</span>
+      </p>
       <p begin="00:13:36.261" end="00:13:40.624">Wat we vanavond hebben <br/>is "Natural Disaster III."</p>
       <p begin="00:13:40.655" end="00:13:43.428">1 Augustus, vanavond. Sugarena,</p>
-      <p begin="00:13:43.428" end="00:13:45.696">*Het zal vanavond gebeuren mensen.<br/>We hebben 14 wedstrijden.*</p>
-      <p begin="00:13:45.696" end="00:13:47.566">*Een beetje te veel vechten.*</p>
-      <p begin="00:13:47.566" end="00:13:49.817">*Ons belangrijkste evenement vanavond is<br/>"Joe Torres versus Dustin Poirier*</p>
-      <p begin="00:13:49.817" end="00:13:52.612">*Gelieve te komen! <br/>Supporter voor deze kerels.*</p>
-      <p begin="00:13:52.612" end="00:13:54.379">*Steun uw lokale vechter.*</p>
-      <p begin="00:13:54.379" end="00:13:57.440">*We hebben, Mike Jackson tegen <br/>Albert Stainback.*</p>
-      <p begin="00:13:57.440" end="00:13:59.334">*Hij is van Gladiator, Lafayette.*</p>
+      <p begin="00:13:43.428" end="00:13:45.696">
+        <span tts:fontStyle="italic">Het zal vanavond gebeuren mensen.<br/>We hebben 14 wedstrijden.</span>
+      </p>
+      <p begin="00:13:45.696" end="00:13:47.566">
+        <span tts:fontStyle="italic">Een beetje te veel vechten.</span>
+      </p>
+      <p begin="00:13:47.566" end="00:13:49.817">
+        <span tts:fontStyle="italic">Ons belangrijkste evenement vanavond is<br/>"Joe Torres versus Dustin Poirier</span>
+      </p>
+      <p begin="00:13:49.817" end="00:13:52.612">
+        <span tts:fontStyle="italic">Gelieve te komen! <br/>Supporter voor deze kerels.</span>
+      </p>
+      <p begin="00:13:52.612" end="00:13:54.379">
+        <span tts:fontStyle="italic">Steun uw lokale vechter.</span>
+      </p>
+      <p begin="00:13:54.379" end="00:13:57.440">
+        <span tts:fontStyle="italic">We hebben, Mike Jackson tegen <br/>Albert Stainback.</span>
+      </p>
+      <p begin="00:13:57.440" end="00:13:59.334">
+        <span tts:fontStyle="italic">Hij is van Gladiator, Lafayette.</span>
+      </p>
       <p begin="00:14:05.729" end="00:14:09.140">- [Albert Stainback] Ik denk dat <br/>neerstaren belangrijk is in een gevecht.</p>
       <p begin="00:14:09.140" end="00:14:11.135">En ja ik oefen dat voor de spiegel.</p>
       <p begin="00:14:11.135" end="00:14:14.074">Ik zit dan voor de spiegel in de badkamer <br/>en ik ben gewoon zo van [diepe ademhaling]</p>
@@ -302,12 +490,22 @@
       <p begin="00:14:51.674" end="00:14:54.538">- [Albert] Wanneer Dustin daar binnen is<br/>ziet hij er uit als een seriemoordenaar.</p>
       <p begin="00:14:54.538" end="00:14:56.835">En ik voel net hetzelfde, over mezelf.</p>
       <p begin="00:14:57.820" end="00:14:59.128">Zijn we bijna klaar?</p>
-      <p begin="00:15:00.497" end="00:15:04.433">*[omroeper] Jury's in het achter park*</p>
-      <p begin="00:15:04.433" end="00:15:06.563">*zullen om 7 uur <br/>ontmoeten. Alle vechters...*</p>
-      <p begin="00:15:07.086" end="00:15:09.505">- [Alvin Tapmam] *Ik wil eerst weer <br/>met je over een paar dingen gaan,*</p>
-      <p begin="00:15:09.627" end="00:15:11.241">*Ik onmoette de meeste onder jullie al,*</p>
-      <p begin="00:15:11.241" end="00:15:12.062">*mijn naam is Alvin Tapmam,*</p>
-      <p begin="00:15:12.062" end="00:15:15.675">*Ik ben de commissaris, voor <br/>Athletisme in de Staat Louisiana.*</p>
+      <p begin="00:15:00.497" end="00:15:04.433">
+        <span tts:fontStyle="italic">[omroeper] Jury's in het achter park</span>
+      </p>
+      <p begin="00:15:04.433" end="00:15:06.563">
+        <span tts:fontStyle="italic">zullen om 7 uur <br/>ontmoeten. Alle vechters...</span>
+      </p>
+      <p begin="00:15:07.086" end="00:15:09.505">- [Alvin Tapmam] <span tts:fontStyle="italic">Ik wil eerst weer <br/>met je over een paar dingen gaan,</span></p>
+      <p begin="00:15:09.627" end="00:15:11.241">
+        <span tts:fontStyle="italic">Ik onmoette de meeste onder jullie al,</span>
+      </p>
+      <p begin="00:15:11.241" end="00:15:12.062">
+        <span tts:fontStyle="italic">mijn naam is Alvin Tapmam,</span>
+      </p>
+      <p begin="00:15:12.062" end="00:15:15.675">
+        <span tts:fontStyle="italic">Ik ben de commissaris, voor <br/>Athletisme in de Staat Louisiana.</span>
+      </p>
       <p begin="00:15:15.675" end="00:15:20.744">De reden dat we hier allereerst voor zijn,<br/>is dat de regels worden gevolgd</p>
       <p begin="00:15:20.744" end="00:15:24.226">en veiligheid, veiligheid, <br/>veiligheid wordt gevolgd.</p>
       <p begin="00:15:24.226" end="00:15:26.978">Er zijn veel amateur gevechten<br/>op deze kaart vanavond.</p>
@@ -318,8 +516,10 @@
       <p begin="00:15:41.903" end="00:15:45.370">Het gebeurde al. Ik ben er zeker van<br/>dat het nog zal gebeuren.</p>
       <p begin="00:15:45.370" end="00:15:47.100">Je neemt dat risico wanneer je <br/>die ring binnengaat.</p>
       <p begin="00:15:47.100" end="00:15:50.397">&#9834; [muziek] &#9834;</p>
-      <p begin="00:15:50.397" end="00:15:54.515">- *[Gil] Bij ons gaat het niet om gevecht <br/>te verkopen, maar om vermaak te verkopen.*</p>
-      <p begin="00:15:54.515" end="00:15:57.461">*En in dat opzicht, dat is <br/>ons brood circuit.*</p>
+      <p begin="00:15:50.397" end="00:15:54.515">- <span tts:fontStyle="italic">[Gil] Bij ons gaat het niet om gevecht <br/>te verkopen, maar om vermaak te verkopen.</span></p>
+      <p begin="00:15:54.515" end="00:15:57.461">
+        <span tts:fontStyle="italic">En in dat opzicht, dat is <br/>ons brood circuit.</span>
+      </p>
       <p begin="00:15:57.522" end="00:16:01.075">&#9834; [muziek] &#9834;</p>
       <p begin="00:16:29.270" end="00:16:32.476">- [Albert] Ik wil dat mensen<br/>me herinneren.</p>
       <p begin="00:16:32.476" end="00:16:34.306">Ik geloof toevallig dat we<br/>van apen afstammen,</p>
@@ -327,14 +527,16 @@
       <p begin="00:16:37.229" end="00:16:40.482">is om daar buiten te gaan en ik<br/>ga mijn borst twee keer slaan.</p>
       <p begin="00:16:40.482" end="00:16:42.442">Je kan me dat altijd zien doen<br/>voor een gevecht.</p>
       <p begin="00:16:42.442" end="00:16:45.412">Voor mij is het net dat oerstrijd<br/>of vluchtding.</p>
-      <p begin="00:16:45.412" end="00:16:55.263">*[menigte juicht en fluit]*</p>
+      <p begin="00:16:45.412" end="00:16:55.263">
+        <span tts:fontStyle="italic">[menigte juicht en fluit]</span>
+      </p>
       <p begin="00:16:55.263" end="00:16:58.255">In zekere zin voel ik me net een aap<br/>wanneer ik aan het vechten ben.</p>
       <p begin="00:16:58.255" end="00:17:00.372">Het doet er niet toe wat zijn verhaal is.</p>
       <p begin="00:17:00.372" end="00:17:01.600">Het doet er niet toe wat mijn verhaal is.</p>
       <p begin="00:17:01.600" end="00:17:06.836">Het gaat er om van "Wie past het<br/>best om te overleven."</p>
       <p begin="00:17:06.836" end="00:17:10.468">[Scheidsrechter] Vecht!</p>
       <p begin="00:17:14.943" end="00:17:16.364">[val]</p>
-      <p begin="00:17:17.609" end="00:17:20.647">[Albert Stainback] *Er is geen <br/>medelijden voor je tegenstander.*</p>
+      <p begin="00:17:17.609" end="00:17:20.647">[Albert Stainback] <span tts:fontStyle="italic">Er is geen <br/>medelijden voor je tegenstander.</span></p>
       <p begin="00:17:20.647" end="00:17:22.852">Want weet je, het is doen of sterven.</p>
       <p begin="00:17:22.852" end="00:17:24.829">Of jij verliest of hij verliest.</p>
       <p begin="00:17:24.829" end="00:17:26.944">En het kan me niet schelen <br/>wat je verhaal is, man.</p>
@@ -346,51 +548,93 @@
       <p begin="00:18:03.921" end="00:18:08.249">Je kan verdienen, een huis <br/>hebben, je kan geld hebben.</p>
       <p begin="00:18:08.249" end="00:18:10.195">Je kan dat wel hebben maar<br/>uiteindelijk zal je dat verliezen.</p>
       <p begin="00:18:10.195" end="00:18:13.896">En zelfs al verlies je het niet,<br/>wat betekent dat eigenlijk?</p>
-      <p begin="00:18:13.896" end="00:18:20.936">*[menigte juicht]*</p>
+      <p begin="00:18:13.896" end="00:18:20.936">
+        <span tts:fontStyle="italic">[menigte juicht]</span>
+      </p>
       <p begin="00:18:20.936" end="00:18:23.544">- [Dustin] Voor een gevecht, bid ik<br/>eigenlijk dat niemand gewond raakt.</p>
       <p begin="00:18:23.544" end="00:18:26.056">Ik wil hem niet kwetsen. Of<br/>ik wil niet gekwetst worden.</p>
       <p begin="00:18:26.178" end="00:18:29.297">Maar ik ben niet bang om te verlizen of <br/>bang om gekwetst te worden in een gevecht.</p>
-      <p begin="00:18:29.297" end="00:18:31.829">*Ik verwacht om geraakt <br/>te worden weet je.*</p>
-      <p begin="00:18:31.829" end="00:18:33.607">*Ik weet dat ik daar niet ga binnengaan<br/>zonder geraakt worden. 't Is een gevecht,*</p>
+      <p begin="00:18:29.297" end="00:18:31.829">
+        <span tts:fontStyle="italic">Ik verwacht om geraakt <br/>te worden weet je.</span>
+      </p>
+      <p begin="00:18:31.829" end="00:18:33.607">
+        <span tts:fontStyle="italic">Ik weet dat ik daar niet ga binnengaan<br/>zonder geraakt worden. 't Is een gevecht,</span>
+      </p>
       <p begin="00:18:33.607" end="00:18:35.877">Net zoals gaan werken in een kantoor.</p>
       <p begin="00:18:35.877" end="00:18:37.345">En geen papier aanraken of zo weet je.</p>
       <p begin="00:18:37.345" end="00:18:39.125">Je zult geraakt worden, dat<br/>is een deel van de job.</p>
-      <p begin="00:18:39.125" end="00:18:57.106">- *[omroeper] In de rode <br/>stoel. Dustin Poirier!*</p>
+      <p begin="00:18:39.125" end="00:18:57.106">- <span tts:fontStyle="italic">[omroeper] In de rode <br/>stoel. Dustin Poirier!</span></p>
       <p begin="00:18:57.229" end="00:19:03.985">[menigte juicht]</p>
       <p begin="00:19:03.985" end="00:19:06.287">- [Tim] Dustin is gelijk aan mij.</p>
-      <p begin="00:19:06.287" end="00:19:07.482">*Hij is een afwerker.*</p>
-      <p begin="00:19:07.482" end="00:19:12.131">*Afwerkers zijn mensen die niet<br/>vechten om ronden te winnen,*</p>
-      <p begin="00:19:12.131" end="00:19:18.240">*Of vechten om punten te winnen,<br/>zonder de tegenstander te eindigen.*</p>
-      <p begin="00:19:18.240" end="00:19:19.799">*Maakt niet uit wat het geval is.*</p>
-      <p begin="00:19:19.799" end="00:19:22.211">*Eindig ze, eindig ze, eindig ze!*</p>
-      <p begin="00:19:22.211" end="00:19:24.776">*Eindig de tegenstander, <br/>wees fel en dominant.*</p>
+      <p begin="00:19:06.287" end="00:19:07.482">
+        <span tts:fontStyle="italic">Hij is een afwerker.</span>
+      </p>
+      <p begin="00:19:07.482" end="00:19:12.131">
+        <span tts:fontStyle="italic">Afwerkers zijn mensen die niet<br/>vechten om ronden te winnen,</span>
+      </p>
+      <p begin="00:19:12.131" end="00:19:18.240">
+        <span tts:fontStyle="italic">Of vechten om punten te winnen,<br/>zonder de tegenstander te eindigen.</span>
+      </p>
+      <p begin="00:19:18.240" end="00:19:19.799">
+        <span tts:fontStyle="italic">Maakt niet uit wat het geval is.</span>
+      </p>
+      <p begin="00:19:19.799" end="00:19:22.211">
+        <span tts:fontStyle="italic">Eindig ze, eindig ze, eindig ze!</span>
+      </p>
+      <p begin="00:19:22.211" end="00:19:24.776">
+        <span tts:fontStyle="italic">Eindig de tegenstander, <br/>wees fel en dominant.</span>
+      </p>
       <p begin="00:19:24.776" end="00:19:28.144">- [mannelijke stem roept] 2e Ronde!</p>
-      <p begin="00:19:30.742" end="00:19:33.725">*[menigte juicht]*</p>
-      <p begin="00:19:41.667" end="00:19:49.634">- *[omroeper] Gladiatoren <br/>domineren, Dustin Poirier!*</p>
-      <p begin="00:19:49.634" end="00:19:51.340">- *[Tim] Vele keren heb je kerels<br/>die echt heel hard werken.*</p>
-      <p begin="00:19:51.340" end="00:19:52.867">*En die alles opofferen.*</p>
+      <p begin="00:19:30.742" end="00:19:33.725">
+        <span tts:fontStyle="italic">[menigte juicht]</span>
+      </p>
+      <p begin="00:19:41.667" end="00:19:49.634">- <span tts:fontStyle="italic">[omroeper] Gladiatoren <br/>domineren, Dustin Poirier!</span></p>
+      <p begin="00:19:49.634" end="00:19:51.340">- <span tts:fontStyle="italic">[Tim] Vele keren heb je kerels<br/>die echt heel hard werken.</span></p>
+      <p begin="00:19:51.340" end="00:19:52.867">
+        <span tts:fontStyle="italic">En die alles opofferen.</span>
+      </p>
       <p begin="00:19:52.867" end="00:19:54.655">En dan heb je de kerels die<br/>echt goede talenten hebben.</p>
       <p begin="00:19:54.655" end="00:19:57.972">Kerels die beide doen. Die, weet je,</p>
       <p begin="00:19:57.972" end="00:20:00.830">enkele van de beste vechters worden<br/>die de wereld ooit heeft gezien.</p>
       <p begin="00:20:00.830" end="00:20:04.028">En, weet je, het is opwindend<br/>om een jongen zoals Dustin te zien,</p>
-      <p begin="00:20:04.028" end="00:20:05.547">*die misschien een van <br/>die kerels zal zijn.*</p>
-      <p begin="00:20:05.547" end="00:20:08.778">*Weet je, als een coach, als een<br/>trainer, als een vechter,*</p>
-      <p begin="00:20:08.885" end="00:20:13.115">*loop je misschien een of twee <br/>zulke tegen het lijf in je leven.*</p>
+      <p begin="00:20:04.028" end="00:20:05.547">
+        <span tts:fontStyle="italic">die misschien een van <br/>die kerels zal zijn.</span>
+      </p>
+      <p begin="00:20:05.547" end="00:20:08.778">
+        <span tts:fontStyle="italic">Weet je, als een coach, als een<br/>trainer, als een vechter,</span>
+      </p>
+      <p begin="00:20:08.885" end="00:20:13.115">
+        <span tts:fontStyle="italic">loop je misschien een of twee <br/>zulke tegen het lijf in je leven.</span>
+      </p>
       <p begin="00:20:13.115" end="00:20:15.908">De grootste uitdaging nu, wanneer het<br/>op een jongen zoals Dustin neerkomt,</p>
       <p begin="00:20:15.952" end="00:20:20.919">is, om iemand te vinden die hij niet gaat<br/>afslachten binnen een paar minuten.</p>
       <p begin="00:20:20.919" end="00:20:23.525">- [Gil] Zal hij het UFC maken?<br/>Zal hij wereldkampioen worden?</p>
       <p begin="00:20:23.525" end="00:20:27.669">Ja...potentieel. Maar potentieel<br/>heeft een tijdsbestek.</p>
-      <p begin="00:20:27.669" end="00:20:30.101">*Potentieel heeft een tijd limiet.*</p>
-      <p begin="00:20:30.101" end="00:20:31.596">*Een twinig-jarige jongen<br/>kan potentieel tonen.*</p>
-      <p begin="00:20:31.596" end="00:20:33.707">*Maar als je 38 bent en iemand zegt*</p>
-      <p begin="00:20:33.707" end="00:20:35.837">*"Je hebt nog altijd potentieel,"*</p>
+      <p begin="00:20:27.669" end="00:20:30.101">
+        <span tts:fontStyle="italic">Potentieel heeft een tijd limiet.</span>
+      </p>
+      <p begin="00:20:30.101" end="00:20:31.596">
+        <span tts:fontStyle="italic">Een twinig-jarige jongen<br/>kan potentieel tonen.</span>
+      </p>
+      <p begin="00:20:31.596" end="00:20:33.707">
+        <span tts:fontStyle="italic">Maar als je 38 bent en iemand zegt</span>
+      </p>
+      <p begin="00:20:33.707" end="00:20:35.837">
+        <span tts:fontStyle="italic">"Je hebt nog altijd potentieel,"</span>
+      </p>
       <p begin="00:20:35.837" end="00:20:40.165">dan is het tijd om verder <br/>te gaan, weet je?</p>
       <p begin="00:20:40.165" end="00:20:44.000">Dus, ik geef Tim's gym waarschijnlijk<br/>de knik voor zover het totale talent.</p>
       <p begin="00:20:44.000" end="00:20:48.209">Want die jongens kunnen vechten<br/>Ze kunnen vechten,</p>
-      <p begin="00:20:48.209" end="00:20:50.398">*Maar dat betekent niets. <br/>Op nationale schaal.*</p>
+      <p begin="00:20:48.209" end="00:20:50.398">
+        <span tts:fontStyle="italic">Maar dat betekent niets. <br/>Op nationale schaal.</span>
+      </p>
       <p begin="00:20:50.398" end="00:21:09.646">&#9834; [muziek] &#9834;</p>
-      <p begin="00:21:09.646" end="00:21:14.190">*- [Jere Folley Chaisson] Ik heb m'n <br/>jongens de vrijheid gegeven om *</p>
-      <p begin="00:21:14.190" end="00:21:18.979">*Zichzelf uit te drukken en om te voelen <br/>wat ze voelen en om te doen wat ze doen.*</p>
+      <p begin="00:21:09.646" end="00:21:14.190">
+        <span tts:fontStyle="italic">- [Jere Folley Chaisson] Ik heb m'n <br/>jongens de vrijheid gegeven om </span>
+      </p>
+      <p begin="00:21:14.190" end="00:21:18.979">
+        <span tts:fontStyle="italic">Zichzelf uit te drukken en om te voelen <br/>wat ze voelen en om te doen wat ze doen.</span>
+      </p>
       <p begin="00:21:18.979" end="00:21:21.526">Hij hield van vechten.</p>
       <p begin="00:21:21.526" end="00:21:25.726">Niet noodzakelijk met iemand <br/>waar hij niet mee opschiette.</p>
       <p begin="00:21:25.726" end="00:21:28.625">Hij wou gewoon een gevecht<br/>met iemand hebben.</p>
@@ -410,9 +654,15 @@
       <p begin="00:22:07.373" end="00:22:12.566">En we moesten daarvoor <br/>naar de rechtbank gaan. Yup!</p>
       <p begin="00:22:12.566" end="00:22:19.056">Hij respecteerde de wet maar<br/>hij vond het niet erg om</p>
       <p begin="00:22:19.056" end="00:22:21.202">een aanloop met de wet te hebben.</p>
-      <p begin="00:22:21.202" end="00:22:23.036">*Dat was toen hij begon te spijbelen.*</p>
-      <p begin="00:22:23.036" end="00:22:28.101">*En kwam terecht in<br/>jeugdrechtbanken en legerkamp*</p>
-      <p begin="00:22:28.101" end="00:22:31.240">*En jeugdgevangenis en zo van die dingen,*</p>
+      <p begin="00:22:21.202" end="00:22:23.036">
+        <span tts:fontStyle="italic">Dat was toen hij begon te spijbelen.</span>
+      </p>
+      <p begin="00:22:23.036" end="00:22:28.101">
+        <span tts:fontStyle="italic">En kwam terecht in<br/>jeugdrechtbanken en legerkamp</span>
+      </p>
+      <p begin="00:22:28.101" end="00:22:31.240">
+        <span tts:fontStyle="italic">En jeugdgevangenis en zo van die dingen,</span>
+      </p>
       <p begin="00:22:31.240" end="00:22:34.398">[klikken]</p>
       <p begin="00:22:34.398" end="00:22:40.299">-[Dustin] Ik denk echt dat vechten het <br/>pad naar aflossing voor mij geopend heeft.</p>
       <p begin="00:22:40.299" end="00:22:42.640">Ik bedoel ik probeerde--Ik <br/>ging naar legerkamp</p>
@@ -428,15 +678,27 @@
       <p begin="00:23:06.288" end="00:23:08.079">Mensen die me niet zagen sinds<br/>toen ik er zo uit zag.</p>
       <p begin="00:23:08.079" end="00:23:09.923">Ze zijn zo van, ze merken<br/>me soms niet eens.</p>
       <p begin="00:23:09.923" end="00:23:15.420">- Hij vond eindelijk, wat hij <br/>al die tijd aan het zoeken was.</p>
-      <p begin="00:23:15.625" end="00:23:18.134">*Ik weet dat hij zijn hele leven <br/>aan het wachten was,*</p>
-      <p begin="00:23:18.134" end="00:23:22.338">*Om op iets te klimmen en<br/>zijn handen in de lucht te steken.*</p>
-      <p begin="00:23:22.338" end="00:23:24.637">*Want hij deed het als de beste.*</p>
+      <p begin="00:23:15.625" end="00:23:18.134">
+        <span tts:fontStyle="italic">Ik weet dat hij zijn hele leven <br/>aan het wachten was,</span>
+      </p>
+      <p begin="00:23:18.134" end="00:23:22.338">
+        <span tts:fontStyle="italic">Om op iets te klimmen en<br/>zijn handen in de lucht te steken.</span>
+      </p>
+      <p begin="00:23:22.338" end="00:23:24.637">
+        <span tts:fontStyle="italic">Want hij deed het als de beste.</span>
+      </p>
       <p begin="00:23:26.174" end="00:23:30.535">- [Tim] Als een kind in Amerika, <br/>leren we niet over eer</p>
       <p begin="00:23:30.535" end="00:23:36.527">En integriteit en <br/>waardigheid en compassie.</p>
       <p begin="00:23:36.527" end="00:23:38.881">Deze lessen waren niet aan mij<br/>aangeleerd. Ik leerde wiskunde.</p>
-      <p begin="00:23:38.881" end="00:23:42.373">*Weet je ik leerde wetenschap. Hoe<br/>een schema predikaat te maken.*</p>
-      <p begin="00:23:42.373" end="00:23:44.242">*Maar ik wist niet was eer was.*</p>
-      <p begin="00:23:44.242" end="00:23:49.686">*Vechtsport is om de<br/>persoon te ontwikkelen.*</p>
+      <p begin="00:23:38.881" end="00:23:42.373">
+        <span tts:fontStyle="italic">Weet je ik leerde wetenschap. Hoe<br/>een schema predikaat te maken.</span>
+      </p>
+      <p begin="00:23:42.373" end="00:23:44.242">
+        <span tts:fontStyle="italic">Maar ik wist niet was eer was.</span>
+      </p>
+      <p begin="00:23:44.242" end="00:23:49.686">
+        <span tts:fontStyle="italic">Vechtsport is om de<br/>persoon te ontwikkelen.</span>
+      </p>
       <p begin="00:23:49.686" end="00:23:53.140">Uw lichaam, uw geest en uw ziel.</p>
       <p begin="00:23:53.140" end="00:23:55.271">Alles wordt in dat omvat.</p>
       <p begin="00:23:55.271" end="00:23:57.408">Maar een individuele <br/>expressie van die kunst,</p>
@@ -453,7 +715,7 @@
       <p begin="00:24:22.737" end="00:24:26.763">Nu, ontsluit je heupen, ontsluit.<br/>Daar gaan we...goed!</p>
       <p begin="00:24:26.763" end="00:24:30.713">Nu, deze elleboog moet helemaal<br/>naar beneden op de vloer gaan.</p>
       <p begin="00:24:30.713" end="00:24:31.927">Wanner je moe wordt,</p>
-      <p begin="00:24:31.927" end="00:24:34.452">Werkt kracht? - *Ik heb geen meer.*</p>
+      <p begin="00:24:31.927" end="00:24:34.452">Werkt kracht? - <span tts:fontStyle="italic">Ik heb geen meer.</span></p>
       <p begin="00:24:34.452" end="00:24:35.347">Werkt techniek?</p>
       <p begin="00:24:36.453" end="00:24:40.000">De enige manier waarop dat kan gebeuren<br/>is als de persoon technisch verslaat.</p>
       <p begin="00:24:40.000" end="00:24:41.678">Net zoals schaak, net hetzelfde.</p>
@@ -464,14 +726,28 @@
       <p begin="00:24:59.168" end="00:25:03.869">Wanneer we vechten dat is waar<br/>we onze meesterwerken maken.</p>
       <p begin="00:25:03.869" end="00:25:11.504">&#9834;[muziek]&#9834;</p>
       <p begin="00:25:11.504" end="00:25:12.568">[metaal bonst]</p>
-      <p begin="00:25:12.568" end="00:25:14.774">- *[Gil] Vrijdag de 13e in de Lake<br/>Charles Stadscentrum,*</p>
-      <p begin="00:25:14.774" end="00:25:18.549">*Doen we Boudoir nummer twee. We brengen <br/>veel Lafayette Gladiator jongens in.*</p>
-      <p begin="00:25:18.549" end="00:25:22.642">*We zullen ook Dustin Poirier in ons<br/>hoofd evenement hebben en hij vecht*</p>
-      <p begin="00:25:22.642" end="00:25:24.071">*een kerel genaamd Ronnie Lis.*</p>
-      <p begin="00:25:24.071" end="00:25:26.117">*Hij is een Braziliaanse <br/>Jiu-Jitsu zwarte riem.*</p>
-      <p begin="00:25:26.149" end="00:25:28.795">*En hij zal een serieuze <br/>bedreing voor Dustin zijn.*</p>
-      <p begin="00:25:28.795" end="00:25:30.443">*En we hebben Paul Swallow*</p>
-      <p begin="00:25:30.443" end="00:25:33.408">*Die Albert Stainback in his <br/>pro debuut opneemt.*</p>
+      <p begin="00:25:12.568" end="00:25:14.774">- <span tts:fontStyle="italic">[Gil] Vrijdag de 13e in de Lake<br/>Charles Stadscentrum,</span></p>
+      <p begin="00:25:14.774" end="00:25:18.549">
+        <span tts:fontStyle="italic">Doen we Boudoir nummer twee. We brengen <br/>veel Lafayette Gladiator jongens in.</span>
+      </p>
+      <p begin="00:25:18.549" end="00:25:22.642">
+        <span tts:fontStyle="italic">We zullen ook Dustin Poirier in ons<br/>hoofd evenement hebben en hij vecht</span>
+      </p>
+      <p begin="00:25:22.642" end="00:25:24.071">
+        <span tts:fontStyle="italic">een kerel genaamd Ronnie Lis.</span>
+      </p>
+      <p begin="00:25:24.071" end="00:25:26.117">
+        <span tts:fontStyle="italic">Hij is een Braziliaanse <br/>Jiu-Jitsu zwarte riem.</span>
+      </p>
+      <p begin="00:25:26.149" end="00:25:28.795">
+        <span tts:fontStyle="italic">En hij zal een serieuze <br/>bedreing voor Dustin zijn.</span>
+      </p>
+      <p begin="00:25:28.795" end="00:25:30.443">
+        <span tts:fontStyle="italic">En we hebben Paul Swallow</span>
+      </p>
+      <p begin="00:25:30.443" end="00:25:33.408">
+        <span tts:fontStyle="italic">Die Albert Stainback in his <br/>pro debuut opneemt.</span>
+      </p>
       <p begin="00:25:35.422" end="00:25:37.602">[borden kletteren]</p>
       <p begin="00:25:37.602" end="00:25:39.545">[Dustin] Op het moment ruim ik<br/>gewoon tafels af en train.</p>
       <p begin="00:25:39.545" end="00:25:43.571">En ik zou graag meer trainen,<br/>ik zou graag meer vechten.</p>
@@ -488,14 +764,18 @@
       <p begin="00:26:12.509" end="00:26:16.593">En we zouden dan, weet je,<br/>uit de stad gaan, plezier maken.</p>
       <p begin="00:26:16.593" end="00:26:20.390">Weet je, ik voel dat helft <br/>ervan mijn fout is--</p>
       <p begin="00:26:20.390" end="00:26:22.882">[trein toetert de hoorn]</p>
-      <p begin="00:26:24.364" end="00:26:26.694">- *[Tim] Ik heb vele soorten jongens<br/>die hier binnenkomen,*</p>
+      <p begin="00:26:24.364" end="00:26:26.694">- <span tts:fontStyle="italic">[Tim] Ik heb vele soorten jongens<br/>die hier binnenkomen,</span></p>
       <p begin="00:26:26.694" end="00:26:28.784">Die onder de indruk zijn<br/>dat ze vechters zullen worden.</p>
       <p begin="00:26:28.784" end="00:26:34.370">En ik denk dat de meeste kerels niet<br/>beseffen, dit een 40 u per week job is.</p>
       <p begin="00:26:34.370" end="00:26:36.086">Dit is een karwei, weet je?</p>
       <p begin="00:26:36.086" end="00:26:38.436">Wat goede vechters maakt en wat<br/>goede kampioenen maakt</p>
       <p begin="00:26:38.436" end="00:26:40.788">Is het uithoudingsvermogen om<br/>de karwei te kunnen handelen.</p>
-      <p begin="00:26:40.788" end="00:26:44.090">*Weet je het is 5, 6 dagen <br/>per week zware arbeid.*</p>
-      <p begin="00:26:44.090" end="00:26:49.562">*2 of 3 harde praktijken per dag uit.*</p>
+      <p begin="00:26:40.788" end="00:26:44.090">
+        <span tts:fontStyle="italic">Weet je het is 5, 6 dagen <br/>per week zware arbeid.</span>
+      </p>
+      <p begin="00:26:44.090" end="00:26:49.562">
+        <span tts:fontStyle="italic">2 of 3 harde praktijken per dag uit.</span>
+      </p>
       <p begin="00:26:50.562" end="00:27:33.352">&#9834; [muziek] &#9834;</p>
       <p begin="00:27:33.352" end="00:27:35.325">- [Albert] Trainen met <br/>Tim heeft gewoon--</p>
       <p begin="00:27:35.325" end="00:27:36.582">Het heeft eigenlijk mijn <br/>zelfvertrouwen geholpen,</p>
@@ -504,9 +784,15 @@
       <p begin="00:27:41.643" end="00:27:43.911">En ik weet dat hij gewoon <br/>druk probeert uit te oefenen</p>
       <p begin="00:27:43.911" end="00:27:45.453">en om de beste "ik" te kunnen zien.</p>
       <p begin="00:27:45.453" end="00:27:50.253">&#9834; [muziek] &#9834;</p>
-      <p begin="00:27:50.253" end="00:27:53.812">*- [Tim] Op het einde van de dag, <br/>MMA is een individuele sport.*</p>
-      <p begin="00:27:53.812" end="00:27:56.232">*Maar het is ook een team sport.*</p>
-      <p begin="00:27:56.232" end="00:28:00.523">*Ik kan mezelf niet alleen trainen. <br/>De zakken slaan niet terug.*</p>
+      <p begin="00:27:50.253" end="00:27:53.812">
+        <span tts:fontStyle="italic">- [Tim] Op het einde van de dag, <br/>MMA is een individuele sport.</span>
+      </p>
+      <p begin="00:27:53.812" end="00:27:56.232">
+        <span tts:fontStyle="italic">Maar het is ook een team sport.</span>
+      </p>
+      <p begin="00:27:56.232" end="00:28:00.523">
+        <span tts:fontStyle="italic">Ik kan mezelf niet alleen trainen. <br/>De zakken slaan niet terug.</span>
+      </p>
       <p begin="00:28:09.591" end="00:28:11.682">[hijgen]</p>
       <p begin="00:28:13.130" end="00:28:13.883">[mannelijke stem] fuck!</p>
       <p begin="00:28:13.883" end="00:28:16.436">- [Corey Judice] Tim zal je zeker laten <br/>weten, wanneer je niet opdaagt,</p>
@@ -517,31 +803,57 @@
       <p begin="00:28:35.390" end="00:28:37.150" region="top"> Komaan...</p>
       <p begin="00:28:37.150" end="00:28:39.849">[man roept] Hah!</p>
       <p begin="00:28:39.849" end="00:28:41.179">[timer rinkelt]</p>
-      <p begin="00:28:41.179" end="00:28:42.508">- *[Tim] De verwachtingen van onze gym <br/>zijn niet dat je elk gevecht moet winnen.*</p>
-      <p begin="00:28:42.508" end="00:28:45.181">*Je moet niet elk gevecht winnen.*</p>
-      <p begin="00:28:45.181" end="00:28:47.269">*Maar je moet voor elke <br/>vechtpartij trainen.*</p>
+      <p begin="00:28:41.179" end="00:28:42.508">- <span tts:fontStyle="italic">[Tim] De verwachtingen van onze gym <br/>zijn niet dat je elk gevecht moet winnen.</span></p>
+      <p begin="00:28:42.508" end="00:28:45.181">
+        <span tts:fontStyle="italic">Je moet niet elk gevecht winnen.</span>
+      </p>
+      <p begin="00:28:45.181" end="00:28:47.269">
+        <span tts:fontStyle="italic">Maar je moet voor elke <br/>vechtpartij trainen.</span>
+      </p>
       <p begin="00:28:47.269" end="00:28:48.823">- [Tim] Pier, als je ooit <br/>zoiets nog eens zegt,</p>
       <p begin="00:28:48.823" end="00:28:52.117">Ben je voor altijd uit de gym.<br/>Goed begrepen?</p>
       <p begin="00:28:52.117" end="00:28:54.176">Als je denkt dat ik verdomme hier ben<br/>om mijn tijd aan jou te verdoen,</p>
       <p begin="00:28:54.176" end="00:28:56.608">Ben je gek geworden.</p>
       <p begin="00:28:56.608" end="00:28:59.042">Je doet niets voor me <br/>wanneer ik met je spar.</p>
       <p begin="00:28:59.042" end="00:29:02.512">Als je dat ooit nog eens tegen me <br/>zegt, ben je voor altijd uit de gym.</p>
-      <p begin="00:29:02.512" end="00:29:04.117">*Hoor je mij? -[Pierre] Ja baas!*</p>
-      <p begin="00:29:04.117" end="00:29:06.402">*[Tim] Je moet wat respect hebben.*</p>
-      <p begin="00:29:06.402" end="00:29:09.826">*Je moet begrijpen dat wanneer je<br/>wat dan ook aan het doen was,*</p>
-      <p begin="00:29:09.826" end="00:29:12.475">*Wat dan ook je moest <br/>doen in jouw tijd.*</p>
-      <p begin="00:29:12.475" end="00:29:15.073">*Wij waren hier aan het werken.*</p>
-      <p begin="00:29:15.349" end="00:29:19.422">*Dus weest niet kwaad op mij, <br/>of gefrustreerd met mij,*</p>
-      <p begin="00:29:19.422" end="00:29:22.024">*Omdat je vernietigd wordt.*</p>
-      <p begin="00:29:22.024" end="00:29:25.294">*Jij bent degene die andere dingen vond <br/>om te doen in plaats van te komen.*</p>
+      <p begin="00:29:02.512" end="00:29:04.117">
+        <span tts:fontStyle="italic">Hoor je mij? -[Pierre] Ja baas!</span>
+      </p>
+      <p begin="00:29:04.117" end="00:29:06.402">
+        <span tts:fontStyle="italic">[Tim] Je moet wat respect hebben.</span>
+      </p>
+      <p begin="00:29:06.402" end="00:29:09.826">
+        <span tts:fontStyle="italic">Je moet begrijpen dat wanneer je<br/>wat dan ook aan het doen was,</span>
+      </p>
+      <p begin="00:29:09.826" end="00:29:12.475">
+        <span tts:fontStyle="italic">Wat dan ook je moest <br/>doen in jouw tijd.</span>
+      </p>
+      <p begin="00:29:12.475" end="00:29:15.073">
+        <span tts:fontStyle="italic">Wij waren hier aan het werken.</span>
+      </p>
+      <p begin="00:29:15.349" end="00:29:19.422">
+        <span tts:fontStyle="italic">Dus weest niet kwaad op mij, <br/>of gefrustreerd met mij,</span>
+      </p>
+      <p begin="00:29:19.422" end="00:29:22.024">
+        <span tts:fontStyle="italic">Omdat je vernietigd wordt.</span>
+      </p>
+      <p begin="00:29:22.024" end="00:29:25.294">
+        <span tts:fontStyle="italic">Jij bent degene die andere dingen vond <br/>om te doen in plaats van te komen.</span>
+      </p>
       <p begin="00:29:26.338" end="00:29:30.842">Weet je Corey's gevecht in Baton Rouge,<br/>hij nam een verschrikkelijke pak slaag.</p>
       <p begin="00:29:30.842" end="00:29:33.413">Hij werd serious geslagen.</p>
-      <p begin="00:29:33.413" end="00:29:38.514">-*[omroeper] Maakt zijn weg naar <br/>de rode hoek. Corey Judice.*</p>
+      <p begin="00:29:33.413" end="00:29:38.514">-<span tts:fontStyle="italic">[omroeper] Maakt zijn weg naar <br/>de rode hoek. Corey Judice.</span></p>
       <p begin="00:29:38.514" end="00:29:42.807">- [Tim] Wanneer we daar buiten g<br/>aan en de muziek is gedaan.</p>
-      <p begin="00:29:43.037" end="00:29:45.981">*En je gaat daar naar binnen<br/>en de deur sluit.*</p>
+      <p begin="00:29:43.037" end="00:29:45.981">
+        <span tts:fontStyle="italic">En je gaat daar naar binnen<br/>en de deur sluit.</span>
+      </p>
       <p begin="00:29:46.012" end="00:29:47.569">Ik ga daar niet met je binne.</p>
-      <p begin="00:29:48.413" end="00:29:52.785">*Ik kan je niet redden.<br/>Je moet jezelf redden.*</p>
-      <p begin="00:29:53.093" end="00:29:55.860">*Want de kansen dat je <br/>gewond raakt in een vechtpartij*</p>
+      <p begin="00:29:48.413" end="00:29:52.785">
+        <span tts:fontStyle="italic">Ik kan je niet redden.<br/>Je moet jezelf redden.</span>
+      </p>
+      <p begin="00:29:53.093" end="00:29:55.860">
+        <span tts:fontStyle="italic">Want de kansen dat je <br/>gewond raakt in een vechtpartij</span>
+      </p>
       <p begin="00:29:55.860" end="00:30:00.930">voordat het gevecht eindigt <br/>zijn 100% in je carri&#232;re.</p>
       <p begin="00:30:02.853" end="00:30:08.930">Het is niet aanvardbaar om te proberen<br/>overleven. Je moet vechten om te winnen.</p>
       <p begin="00:30:08.930" end="00:30:13.598">Je moet vechten om te eindigen.<br/>Want eens je opgeeft,</p>
@@ -549,7 +861,7 @@
       <p begin="00:30:17.147" end="00:30:20.015">Je kan nooit opgeven.</p>
       <p begin="00:30:20.015" end="00:30:22.515">Je moet vechten totdat je fysiek<br/>niet meer kan vechten.</p>
       <p begin="00:30:22.515" end="00:30:24.882">Of totdat je wint.</p>
-      <p begin="00:30:26.021" end="00:30:29.055">-*[omroeper] In de rode <br/>hoek...Corey Judice.*</p>
+      <p begin="00:30:26.021" end="00:30:29.055">-<span tts:fontStyle="italic">[omroeper] In de rode <br/>hoek...Corey Judice.</span></p>
       <p begin="00:30:29.055" end="00:30:30.731">[Menigte juicht]</p>
       <p begin="00:30:34.978" end="00:30:36.599">[Tim] Ik ben blij dat hij de vechtpartij<br/>won. En dat weet je natuurlijk wel...</p>
       <p begin="00:30:36.599" end="00:30:39.442">Maar ik ben vooral fier dat hij <br/>het daar doorheen maakte.</p>
@@ -590,7 +902,7 @@
       <p begin="00:32:19.445" end="00:32:21.437">En geweld is een deel van die balans.</p>
       <p begin="00:32:21.437" end="00:32:27.159">[vogels tjirpen]</p>
       <p begin="00:32:27.159" end="00:32:28.822">- [Dustin] Wanneer iemand me vraagt,<br/>wat verdient u uw boterham mee?</p>
-      <p begin="00:32:28.822" end="00:32:30.624">Zeg ik niet, *Ik ben een <br/>professionele vechter.*</p>
+      <p begin="00:32:28.822" end="00:32:30.624">Zeg ik niet, <span tts:fontStyle="italic">Ik ben een <br/>professionele vechter.</span></p>
       <p begin="00:32:30.624" end="00:32:33.585">Ik zeg, "Ik werk in Cane and Co. Ik<br/>rijdt een vrachtwagen."</p>
       <p begin="00:32:33.585" end="00:32:36.718">Ik kan niet tegen iemand liegen en zeggen<br/>"Ik ben een professionele vechter."</p>
       <p begin="00:32:36.718" end="00:32:39.623">Ik verdien wel geld door dat te doen<br/>maar is het wel mijn beroep?</p>
@@ -611,11 +923,15 @@
       <p begin="00:33:16.119" end="00:33:17.735">Dat hij geweldig zal zijn. <br/>Hij zal een huishouding naam zijn.</p>
       <p begin="00:33:17.735" end="00:33:23.957">&#9834; [muziek] &#9834;</p>
       <p begin="00:33:23.957" end="00:33:26.698">- [Gil] Als je geen tickets kunt <br/>verkopen kan ik je niet gebruiken.</p>
-      <p begin="00:33:26.698" end="00:33:29.101">*[man aan de telefoon] Daal baby, daal.*</p>
+      <p begin="00:33:26.698" end="00:33:29.101">
+        <span tts:fontStyle="italic">[man aan de telefoon] Daal baby, daal.</span>
+      </p>
       <p begin="00:33:29.101" end="00:33:31.002">Want ik kan geen geld verdienen.</p>
       <p begin="00:33:31.002" end="00:33:34.921">Als ik een vechter $1500, een $1000 <br/>moet betalen om te komen,</p>
       <p begin="00:33:34.921" end="00:33:39.070">Nog eens $1000 om te winnen. Maar hij <br/>kan geen $4000 in waarde tickets verkopen.</p>
-      <p begin="00:33:39.070" end="00:33:42.302">*[Man aan de telefoon] Je zou moeten - <br/>Betaal je iemand dat moeilijk,*</p>
+      <p begin="00:33:39.070" end="00:33:42.302">
+        <span tts:fontStyle="italic">[Man aan de telefoon] Je zou moeten - <br/>Betaal je iemand dat moeilijk,</span>
+      </p>
       <p begin="00:33:42.302" end="00:33:44.432">Meestal als ze zeer goed zijn,<br/>zullen ze niet opdagen.</p>
       <p begin="00:33:44.432" end="00:33:47.213">Weet je ze weten gewoon niet <br/>hoe de kruip te brengen.</p>
       <p begin="00:33:47.213" end="00:33:48.782">[man aan de telefoon] Ik weet het.</p>
@@ -632,12 +948,14 @@
       <p begin="00:34:15.857" end="00:34:19.023">Ik kan Gary Coleman nemen en <br/>draai en Gary Coleman nemen.</p>
       <p begin="00:34:19.023" end="00:34:20.531">En hem goed bevorderen.</p>
       <p begin="00:34:20.531" end="00:34:23.534">En iedereen zal komen om <br/>Gary Coleman te zien vechten.</p>
-      <p begin="00:34:23.534" end="00:34:25.707">Dus bent je niet meer special dan hij is. <br/>-* En weet je wat ik zou een moord doen. *</p>
-      <p begin="00:34:25.707" end="00:34:28.800">*[man aan de telefoon] Want hij<br/>is - ziet er fenomenaal uit.*</p>
-      <p begin="00:34:28.800" end="00:34:31.264">-[Albert] Ik ben het hoofd evenement?<br/>-* [Gil] Nee, je bent semi.*</p>
+      <p begin="00:34:23.534" end="00:34:25.707">Dus bent je niet meer special dan hij is. <br/>-<span tts:fontStyle="italic"> En weet je wat ik zou een moord doen. </span></p>
+      <p begin="00:34:25.707" end="00:34:28.800">
+        <span tts:fontStyle="italic">[man aan de telefoon] Want hij<br/>is - ziet er fenomenaal uit.</span>
+      </p>
+      <p begin="00:34:28.800" end="00:34:31.264">-[Albert] Ik ben het hoofd evenement?<br/>-<span tts:fontStyle="italic"> [Gil] Nee, je bent semi.</span></p>
       <p begin="00:34:31.264" end="00:34:34.720">- [Albert] Oh semi, dat is cool, open het <br/>hoog voor Dustin, ik hou er altijd van.</p>
-      <p begin="00:34:34.720" end="00:34:36.560">-* [Gil] Moet... Ja... <br/>Moet verstrekken... *</p>
-      <p begin="00:34:36.560" end="00:34:38.107">-* [mannelijke stem] Semi is wat je bent.*</p>
+      <p begin="00:34:34.720" end="00:34:36.560">-<span tts:fontStyle="italic"> [Gil] Moet... Ja... <br/>Moet verstrekken... </span></p>
+      <p begin="00:34:36.560" end="00:34:38.107">-<span tts:fontStyle="italic"> [mannelijke stem] Semi is wat je bent.</span></p>
       <p begin="00:34:38.107" end="00:34:38.763">-Semi pro.</p>
       <p begin="00:34:38.763" end="00:34:40.529">-[mannelijke stem] Yup.<br/>-[Gil] Hep. B en C resultaten.</p>
       <p begin="00:34:40.529" end="00:34:42.777">-[mannelijke stem] &#9834; Love me sexy &#9834;</p>
@@ -668,7 +986,7 @@
       <p begin="00:36:16.213" end="00:36:20.384">[man's stem] Stop! Stop!</p>
       <p begin="00:36:23.415" end="00:36:28.651">&#9834; [muziek] &#9834;</p>
       <p begin="00:36:36.966" end="00:36:42.647">[mensen praten]</p>
-      <p begin="00:36:42.647" end="00:36:46.097">-* [Gil's vrouw] Laten we eens kijken, <br/>zegt de vrouw aan de telefoon *</p>
+      <p begin="00:36:42.647" end="00:36:46.097">-<span tts:fontStyle="italic"> [Gil's vrouw] Laten we eens kijken, <br/>zegt de vrouw aan de telefoon </span></p>
       <p begin="00:36:46.097" end="00:36:47.865">wilde weten wat dit, Louisiana <br/>versus Florida evenement was.</p>
       <p begin="00:36:47.865" end="00:36:50.910">Zei haar dat 't gemixte vechtsport is.<br/>Dat bleek die vraag niet te beantwoorden.</p>
       <p begin="00:36:50.910" end="00:36:52.483">Het is kooi vechten,</p>
@@ -676,25 +994,33 @@
       <p begin="00:36:55.485" end="00:36:58.419">Ze zei: "Dat is walgelijk.<br/>Ik wil alles binnen mijn macht doen</p>
       <p begin="00:36:58.419" end="00:37:02.168">Om er zeker van te zijn dat<br/>dit nooit meer naar hier komt."</p>
       <p begin="00:37:02.168" end="00:37:04.640">Ik weet niet of dat goed of slecht is, <br/>maar het begint zo.</p>
-      <p begin="00:37:04.640" end="00:37:08.415">-* [Gil] Het is goed, alle pers is goed.*</p>
-      <p begin="00:37:08.415" end="00:37:15.004">*Oke, Dustin Poirier, hoofd evenement<br/>70 kg Gladiator Academie.*</p>
-      <p begin="00:37:15.004" end="00:37:19.446">-* [mannelijke stem] Hey, Gil. Grey wil<br/>weten waar hij zijn ticket kan halen? *</p>
-      <p begin="00:37:19.506" end="00:37:21.750">*[Gil] Een vierenvijftig punt nul.* <br/>* Wie? *</p>
-      <p begin="00:37:21.750" end="00:37:22.641">-* [mannelijke stem] Grey.*</p>
+      <p begin="00:37:04.640" end="00:37:08.415">-<span tts:fontStyle="italic"> [Gil] Het is goed, alle pers is goed.</span></p>
+      <p begin="00:37:08.415" end="00:37:15.004">
+        <span tts:fontStyle="italic">Oke, Dustin Poirier, hoofd evenement<br/>70 kg Gladiator Academie.</span>
+      </p>
+      <p begin="00:37:15.004" end="00:37:19.446">-<span tts:fontStyle="italic"> [mannelijke stem] Hey, Gil. Grey wil<br/>weten waar hij zijn ticket kan halen? </span></p>
+      <p begin="00:37:19.506" end="00:37:21.750">
+        <span tts:fontStyle="italic">[Gil] Een vierenvijftig punt nul.</span>
+        <br/>
+        <span tts:fontStyle="italic"> Wie? </span>
+      </p>
+      <p begin="00:37:21.750" end="00:37:22.641">-<span tts:fontStyle="italic"> [mannelijke stem] Grey.</span></p>
       <p begin="00:37:22.641" end="00:37:24.168">-[Gil] Wij is Grey?</p>
       <p begin="00:37:24.168" end="00:37:25.496">Nee, nee. Stadscentrum.</p>
-      <p begin="00:37:25.496" end="00:37:27.420">* Ronnie, bent je klaar, bro? *</p>
+      <p begin="00:37:25.496" end="00:37:27.420">
+        <span tts:fontStyle="italic"> Ronnie, bent je klaar, bro? </span>
+      </p>
       <p begin="00:37:29.860" end="00:37:34.950">-[Gil] Een vijftig drie. Hoofdevenement. <br/>Jongens we hebben een gevecht.</p>
-      <p begin="00:37:34.950" end="00:37:36.957">-* [mannelijke stem] Ja.*</p>
-      <p begin="00:37:36.957" end="00:37:40.413">-* [Gil] Semi hooefdevenement, 70 kg.*</p>
+      <p begin="00:37:34.950" end="00:37:36.957">-<span tts:fontStyle="italic"> [mannelijke stem] Ja.</span></p>
+      <p begin="00:37:36.957" end="00:37:40.413">-<span tts:fontStyle="italic"> [Gil] Semi hooefdevenement, 70 kg.</span></p>
       <p begin="00:37:40.413" end="00:37:42.622">-[Albert] We zijn de semi! <br/>We zijn net de opening band.</p>
-      <p begin="00:37:42.622" end="00:37:43.717">-* [mannelijke stem] Ja *</p>
+      <p begin="00:37:42.622" end="00:37:43.717">-<span tts:fontStyle="italic"> [mannelijke stem] Ja </span></p>
       <p begin="00:37:43.733" end="00:37:44.692">[telefoon rinkelt]</p>
-      <p begin="00:37:44.692" end="00:37:45.610">-* [Gil] Wie is dat? *</p>
-      <p begin="00:37:45.610" end="00:37:48.489">-* [mannelijke stem] Je oude man.*<br/>-* [Gil] Antwoord het.*</p>
+      <p begin="00:37:44.692" end="00:37:45.610">-<span tts:fontStyle="italic"> [Gil] Wie is dat? </span></p>
+      <p begin="00:37:45.610" end="00:37:48.489">-<span tts:fontStyle="italic"> [mannelijke stem] Je oude man.</span><br/>-<span tts:fontStyle="italic"> [Gil] Antwoord het.</span></p>
       <p begin="00:37:49.810" end="00:37:52.699">[mannen praten]</p>
       <p begin="00:37:54.485" end="00:37:59.300">-[Gil] Een vijftig vier punt twee.<br/>Oke, ja, zeg ze bedankt.</p>
-      <p begin="00:38:00.483" end="00:38:03.338">-* &#201;&#233;n twee&#235;nvijftig punt acht.*</p>
+      <p begin="00:38:00.483" end="00:38:03.338">-<span tts:fontStyle="italic"> &#201;&#233;n twee&#235;nvijftig punt acht.</span></p>
       <p begin="00:38:03.338" end="00:38:05.735">Goed werk jongens.</p>
       <p begin="00:38:07.731" end="00:38:09.973">[kauwen]</p>
       <p begin="00:38:10.326" end="00:38:13.575">-Dat is niet aap.</p>
@@ -774,9 +1100,15 @@
       <p begin="00:43:06.523" end="00:43:08.950">Dan ga ik terug naar boven <br/>en ik sluit die deur.</p>
       <p begin="00:43:08.950" end="00:43:14.514">Want ik wil niet dat die angst <br/>me stopt van wat ik wil doen.</p>
       <p begin="00:43:14.514" end="00:43:18.010">[menigte juicht]</p>
-      <p begin="00:43:31.342" end="00:43:35.098">*[omroeper] Stop met ongevallen 350<br/>pikken. Een van de eerste drie rondes *</p>
-      <p begin="00:43:35.098" end="00:43:38.806">* In de blauwe hoek, vertegenwoordigt <br/>Gladiatoren Academie, *</p>
-      <p begin="00:43:38.806" end="00:43:41.166">* Albert Stainback! *</p>
+      <p begin="00:43:31.342" end="00:43:35.098">
+        <span tts:fontStyle="italic">[omroeper] Stop met ongevallen 350<br/>pikken. Een van de eerste drie rondes </span>
+      </p>
+      <p begin="00:43:35.098" end="00:43:38.806">
+        <span tts:fontStyle="italic"> In de blauwe hoek, vertegenwoordigt <br/>Gladiatoren Academie, </span>
+      </p>
+      <p begin="00:43:38.806" end="00:43:41.166">
+        <span tts:fontStyle="italic"> Albert Stainback! </span>
+      </p>
       <p begin="00:43:41.166" end="00:43:46.522">[menigte gemengd gejuich en gejoel]</p>
       <p begin="00:43:46.522" end="00:43:51.293">-Ja, ik zou graag een rematch doen. <br/>Ik bedoel, ik heb 4 en een half minuten</p>
       <p begin="00:43:51.293" end="00:43:54.488">op die kerel gezeten.<br/>Sloeg hem, hem proberen te stikken.</p>
@@ -802,11 +1134,13 @@
       <p begin="00:44:54.979" end="00:44:56.972">&#9834; [muziek] &#9834;</p>
       <p begin="00:44:59.277" end="00:45:02.418">[scheidsrechter] Wil niet vechten.</p>
       <p begin="00:45:05.221" end="00:45:07.433">[menigte juicht]</p>
-      <p begin="00:45:07.956" end="00:45:10.589">-* [mannelijke stem] Heeft geen opstaan. *</p>
+      <p begin="00:45:07.956" end="00:45:10.589">-<span tts:fontStyle="italic"> [mannelijke stem] Heeft geen opstaan. </span></p>
       <p begin="00:45:12.961" end="00:45:14.413">[plof, plof, plof]</p>
-      <p begin="00:45:14.460" end="00:45:17.035">-* [Gil] Krijg hem Dustin. Mooi zo.*</p>
+      <p begin="00:45:14.460" end="00:45:17.035">-<span tts:fontStyle="italic"> [Gil] Krijg hem Dustin. Mooi zo.</span></p>
       <p begin="00:45:17.035" end="00:45:21.001">[bons] Uhmp! Uhmp!</p>
-      <p begin="00:45:21.001" end="00:45:30.376">* [menigte schreeuwt] *</p>
+      <p begin="00:45:21.001" end="00:45:30.376">
+        <span tts:fontStyle="italic"> [menigte schreeuwt] </span>
+      </p>
       <p begin="00:45:30.544" end="00:45:35.130">[man's stem] Ellebogen houd ze, <br/>elleboog ontspannen.</p>
       <p begin="00:45:35.130" end="00:45:36.069">[vloer bonzen]</p>
       <p begin="00:45:38.549" end="00:45:41.530">[menigte juicht]</p>
@@ -816,16 +1150,24 @@
       <p begin="00:45:54.104" end="00:45:56.739">[bons, bons ,bons]</p>
       <p begin="00:46:13.372" end="00:46:16.559">[Tim] Volgende keer wees meer respectvol.</p>
       <p begin="00:46:21.228" end="00:46:24.121">-[Dustin] Hey K. Uw hand pop. <br/>En pop, pop, pop!</p>
-      <p begin="00:46:24.270" end="00:46:25.599">-* [scheidsrechter] Je bent aan<br/>de verkeerde kant.*</p>
-      <p begin="00:46:26.201" end="00:46:29.412">-* [omroeper] Vechters naar <br/>het midden van de ring. *</p>
-      <p begin="00:46:29.859" end="00:46:32.916">* We gaan naar de offici&#235;le scorekaart.*</p>
-      <p begin="00:46:37.730" end="00:46:42.129">*Je bent winnaar na 354 seconden van de <br/>eerste ronde door middel van onttrekken, *</p>
-      <p begin="00:46:42.129" end="00:46:46.527">* In de rode hoek Dustin Poirier! *</p>
-      <p begin="00:46:46.527" end="00:46:50.211">* [man praat] Jongens, <br/>Jiu-jitsu was goed.*</p>
+      <p begin="00:46:24.270" end="00:46:25.599">-<span tts:fontStyle="italic"> [scheidsrechter] Je bent aan<br/>de verkeerde kant.</span></p>
+      <p begin="00:46:26.201" end="00:46:29.412">-<span tts:fontStyle="italic"> [omroeper] Vechters naar <br/>het midden van de ring. </span></p>
+      <p begin="00:46:29.859" end="00:46:32.916">
+        <span tts:fontStyle="italic"> We gaan naar de offici&#235;le scorekaart.</span>
+      </p>
+      <p begin="00:46:37.730" end="00:46:42.129">
+        <span tts:fontStyle="italic">Je bent winnaar na 354 seconden van de <br/>eerste ronde door middel van onttrekken, </span>
+      </p>
+      <p begin="00:46:42.129" end="00:46:46.527">
+        <span tts:fontStyle="italic"> In de rode hoek Dustin Poirier! </span>
+      </p>
+      <p begin="00:46:46.527" end="00:46:50.211">
+        <span tts:fontStyle="italic"> [man praat] Jongens, <br/>Jiu-jitsu was goed.</span>
+      </p>
       <p begin="00:46:50.211" end="00:46:54.071">-[Dustin] Oh ja, het was. Ik was aan het <br/>schaatsen door die hak haken.</p>
       <p begin="00:46:54.502" end="00:46:56.457">Hij had het voor een seconde die<br/>hiel haak maar ik draaide het over</p>
       <p begin="00:46:56.457" end="00:46:58.576">en hij ging in een knie-bar.</p>
-      <p begin="00:46:58.576" end="00:46:59.297">-* [Tim] Hoe lang duurde dat, Dustin? *</p>
+      <p begin="00:46:58.576" end="00:46:59.297">-<span tts:fontStyle="italic"> [Tim] Hoe lang duurde dat, Dustin? </span></p>
       <p begin="00:46:59.297" end="00:47:02.038">-Zevenenvijftig seconden. Wat hij zei is, <br/>dat hij me in een minuut ging verslaan.</p>
       <p begin="00:47:02.038" end="00:47:04.063">Dus moet je soms oppassen wat je zegt.</p>
       <p begin="00:47:04.063" end="00:47:06.088">U moet uw woorden eten, weet je.</p>
@@ -894,7 +1236,7 @@
       <p begin="00:51:48.764" end="00:51:50.765">Dus laten we zien wat er gebeurt.</p>
       <p begin="00:51:50.765" end="00:51:51.886">[Deur gaat dicht]</p>
       <p begin="00:51:54.070" end="00:51:58.285">&#9834; [muziek] &#9834;</p>
-      <p begin="00:51:58.513" end="00:52:01.787">-* [Dustin] Wanneer je jezelf aan <br/>iets wijdt, zoals ik met vechten, *</p>
+      <p begin="00:51:58.513" end="00:52:01.787">-<span tts:fontStyle="italic"> [Dustin] Wanneer je jezelf aan <br/>iets wijdt, zoals ik met vechten, </span></p>
       <p begin="00:52:01.787" end="00:52:05.120">verandert het. Het verdrinkt alle<br/>andere dingen die omgaan.</p>
       <p begin="00:52:05.120" end="00:52:08.434">Het helpt me om op een ding te <br/>focussen, het is bijna natuurlijk</p>
       <p begin="00:52:08.434" end="00:52:10.339">om de juiste dingen te doen.</p>
@@ -902,7 +1244,7 @@
       <p begin="00:52:16.489" end="00:52:18.033">het tijd is om voor een <br/>vechtpartij voor te bereiden.</p>
       <p begin="00:52:18.160" end="00:52:21.479">En krijg het scherp en krijg het knapperig<br/>en krijg het kaalr voor de strijd.</p>
       <p begin="00:52:21.817" end="00:52:24.420">Mijn wapens zijn klaar wanneer <br/>het tijd is om te vechten.</p>
-      <p begin="00:52:25.680" end="00:52:28.682">-* [Tim] Albert en ik die zijn<br/>oefening missen is zo gek.*</p>
+      <p begin="00:52:25.680" end="00:52:28.682">-<span tts:fontStyle="italic"> [Tim] Albert en ik die zijn<br/>oefening missen is zo gek.</span></p>
       <p begin="00:52:28.682" end="00:52:32.563">Misschien kwam hij &#233;&#233;n keer in drie <br/>weken en zo, hij belde me vandaag</p>
       <p begin="00:52:32.563" end="00:52:35.368">en zegt dat hij niet klaar is te vechten, <br/>en dat is hij niet, maar ik vertelde hem</p>
       <p begin="00:52:35.368" end="00:52:41.908">Hij beschikt niet over de mogelijkheid om <br/>nu terug te trekken omdat dat aan Gil is.</p>
@@ -929,7 +1271,7 @@
       <p begin="00:53:19.826" end="00:53:23.648">- Je weet dat, dat moet worden, <br/>weet je, beloond of bestraft</p>
       <p begin="00:53:23.648" end="00:53:25.833">op een bepaald niveau vanuit het <br/>perspectief van een team weet je?</p>
       <p begin="00:53:25.833" end="00:53:29.323">[train toetert]</p>
-      <p begin="00:53:31.843" end="00:53:33.843">-* [Gil] We moeten allemaal <br/>op dezelfde pagina zijn,ok?*</p>
+      <p begin="00:53:31.843" end="00:53:33.843">-<span tts:fontStyle="italic"> [Gil] We moeten allemaal <br/>op dezelfde pagina zijn,ok?</span></p>
       <p begin="00:53:33.843" end="00:53:34.515">-Ok.</p>
       <p begin="00:53:34.515" end="00:53:37.510">-Tim zegt dat je niet vecht.</p>
       <p begin="00:53:37.510" end="00:53:40.374">Je zegt, je weet niet of je gaat vechten.</p>
@@ -949,12 +1291,12 @@
       <p begin="00:54:25.449" end="00:54:27.510">Of kan ik deze avond, de rest<br/>van deze avond hebben?</p>
       <p begin="00:54:27.510" end="00:54:28.894">-Ja, je hebt de rest van deze avond.</p>
       <p begin="00:54:28.894" end="00:54:31.693">En er is geen zweet op niemand's rug. <br/>Frisse start.</p>
-      <p begin="00:54:34.998" end="00:54:38.277">-* [Tim] We gaan kleine handschoenen<br/>vandaag en woensdag doen, ok? *</p>
+      <p begin="00:54:34.998" end="00:54:38.277">-<span tts:fontStyle="italic"> [Tim] We gaan kleine handschoenen<br/>vandaag en woensdag doen, ok? </span></p>
       <p begin="00:54:38.277" end="00:54:41.487">Gewoon zodat we een beetje van<br/>de heette van jullie afnemen</p>
       <p begin="00:54:41.487" end="00:54:45.189">elkaar niet zo slecht te slaan, weet je?</p>
       <p begin="00:54:46.771" end="00:54:49.508">[timer rinkelt]</p>
       <p begin="00:54:51.536" end="00:54:53.059">[plof, plof, plof]</p>
-      <p begin="00:54:53.059" end="00:54:57.263">-* [mannelijke stem] Neem er een,June.<br/>Pak een van zijn benen. Suck it up.*</p>
+      <p begin="00:54:53.059" end="00:54:57.263">-<span tts:fontStyle="italic"> [mannelijke stem] Neem er een,June.<br/>Pak een van zijn benen. Suck it up.</span></p>
       <p begin="00:54:59.906" end="00:55:01.885">Kleine lichtere Fakroe. <br/>Je moet binnen twee weken vechten.</p>
       <p begin="00:55:01.885" end="00:55:03.468">Lichter. Rustig aan.</p>
       <p begin="00:55:07.197" end="00:55:12.553">Oh, Fakroe! Rustig aan! Go!</p>
@@ -966,18 +1308,18 @@
       <p begin="00:55:31.583" end="00:55:36.441">Alby ga met D. Laten we gaan<br/>herstellen, je hebt 30 seconden.</p>
       <p begin="00:55:37.746" end="00:55:46.105">[plof, plof, plof]</p>
       <p begin="00:56:02.224" end="00:56:04.732">Ga neer!</p>
-      <p begin="00:56:11.535" end="00:56:13.823">-* [Tim] Breng hem neer.*</p>
+      <p begin="00:56:11.535" end="00:56:13.823">-<span tts:fontStyle="italic"> [Tim] Breng hem neer.</span></p>
       <p begin="00:56:14.932" end="00:56:18.114">[zware ademhaling]</p>
       <p begin="00:56:19.695" end="00:56:21.586">[plof]</p>
-      <p begin="00:56:22.569" end="00:56:26.640">- * [man] Je zult er moeten voor betalen <br/>op &#233;&#233;n of andere manier, kan evengoed nu.*</p>
-      <p begin="00:56:26.640" end="00:56:28.755">-* [man] Neem het als een man, komaan! *</p>
-      <p begin="00:56:28.755" end="00:56:31.184">-* [man] Houd je handen omhoog,<br/>Albert. Kom terug naar je gezicht. *</p>
+      <p begin="00:56:22.569" end="00:56:26.640">- <span tts:fontStyle="italic"> [man] Je zult er moeten voor betalen <br/>op &#233;&#233;n of andere manier, kan evengoed nu.</span></p>
+      <p begin="00:56:26.640" end="00:56:28.755">-<span tts:fontStyle="italic"> [man] Neem het als een man, komaan! </span></p>
+      <p begin="00:56:28.755" end="00:56:31.184">-<span tts:fontStyle="italic"> [man] Houd je handen omhoog,<br/>Albert. Kom terug naar je gezicht. </span></p>
       <p begin="00:56:32.136" end="00:56:36.397">[zware ademhaling]</p>
       <p begin="00:56:45.117" end="00:56:47.352">[biep]</p>
       <p begin="00:56:47.352" end="00:57:07.551">&#9834; [muziek] &#9834;</p>
       <p begin="00:57:08.521" end="00:57:13.450">-Ik ben dankbaar weet je, voor de pak<br/>slaag die ik net ontvangen heb.</p>
       <p begin="00:57:13.450" end="00:57:15.513">Weet je deze jongens proberen zich <br/>gewoon echt met mij te houden.</p>
-      <p begin="00:57:15.513" end="00:57:17.712">Ze proberen gewoon te laten zien <br/>zoals, "* Hey, jij moet in de gym zijn."*</p>
+      <p begin="00:57:15.513" end="00:57:17.712">Ze proberen gewoon te laten zien <br/>zoals, "<span tts:fontStyle="italic"> Hey, jij moet in de gym zijn."</span></p>
       <p begin="00:57:17.712" end="00:57:21.098">Je weet na twee rondes van <br/>hier te zitten sterven dat--</p>
       <p begin="00:57:21.098" end="00:57:23.111">Weet je, zoals Tim al zei,<br/>twee maanden geleden</p>
       <p begin="00:57:23.111" end="00:57:26.545">Ik wasbijna iedereen <br/>aan het verslaan, weet je.</p>
@@ -986,39 +1328,75 @@
       <p begin="00:57:36.440" end="00:57:44.382">Het is gewoon, het is klote te weten <br/>dat ik zoiets als dit voorbij liet gaan.</p>
       <p begin="00:57:44.382" end="00:57:48.458">Misschien wel klein, misschien<br/>wel groot, maar het was er.</p>
       <p begin="00:57:49.210" end="00:57:58.386">En ik ben niet iemand om--om het<br/>leuk te vinden wanneer ik het verziek.</p>
-      <p begin="00:57:59.893" end="00:58:05.557">-* [Tim] In vechten, de meestal,<br/>ben je, je eigen ergste enemy.*</p>
-      <p begin="00:58:05.557" end="00:58:07.287">*Weet je jammer genoeg,<br/>Albert versloeg zichzelf.*</p>
+      <p begin="00:57:59.893" end="00:58:05.557">-<span tts:fontStyle="italic"> [Tim] In vechten, de meestal,<br/>ben je, je eigen ergste enemy.</span></p>
+      <p begin="00:58:05.557" end="00:58:07.287">
+        <span tts:fontStyle="italic">Weet je jammer genoeg,<br/>Albert versloeg zichzelf.</span>
+      </p>
       <p begin="00:58:07.287" end="00:58:10.744">&#9834; [muziek] &#9834;</p>
-      <p begin="00:58:12.532" end="00:58:15.774">*Weet je vechten is een <br/>microkosmos voor leven.*</p>
-      <p begin="00:58:15.774" end="00:58:19.369">*Het krediet behoort tot de<br/>persoon die daar buiten is.*</p>
-      <p begin="00:58:19.369" end="00:58:22.071">*En de persoon <br/>die zichzelf op de lijn zet *</p>
-      <p begin="00:58:22.071" end="00:58:25.627">*om iets te doen, iets te zijn. *</p>
-      <p begin="00:58:25.627" end="00:58:28.155">* Om hun niveau te duwen en te <br/>duwen op wie ze als een persoon zijn *</p>
-      <p begin="00:58:28.155" end="00:58:30.924">*naar steeds grotere hoogten.*</p>
+      <p begin="00:58:12.532" end="00:58:15.774">
+        <span tts:fontStyle="italic">Weet je vechten is een <br/>microkosmos voor leven.</span>
+      </p>
+      <p begin="00:58:15.774" end="00:58:19.369">
+        <span tts:fontStyle="italic">Het krediet behoort tot de<br/>persoon die daar buiten is.</span>
+      </p>
+      <p begin="00:58:19.369" end="00:58:22.071">
+        <span tts:fontStyle="italic">En de persoon <br/>die zichzelf op de lijn zet </span>
+      </p>
+      <p begin="00:58:22.071" end="00:58:25.627">
+        <span tts:fontStyle="italic">om iets te doen, iets te zijn. </span>
+      </p>
+      <p begin="00:58:25.627" end="00:58:28.155">
+        <span tts:fontStyle="italic"> Om hun niveau te duwen en te <br/>duwen op wie ze als een persoon zijn </span>
+      </p>
+      <p begin="00:58:28.155" end="00:58:30.924">
+        <span tts:fontStyle="italic">naar steeds grotere hoogten.</span>
+      </p>
       <p begin="00:58:31.378" end="00:58:35.251">[tik, tik, tik]</p>
-      <p begin="00:58:40.903" end="00:58:43.457">-* [Tim] Voor Dustin Poirier <br/>te verliezen, *</p>
-      <p begin="00:58:43.457" end="00:58:51.409">*Iemand zal hem moeten verslaan, maar <br/>Dustin plant niet zichzelf te verslaan.*</p>
+      <p begin="00:58:40.903" end="00:58:43.457">-<span tts:fontStyle="italic"> [Tim] Voor Dustin Poirier <br/>te verliezen, </span></p>
+      <p begin="00:58:43.457" end="00:58:51.409">
+        <span tts:fontStyle="italic">Iemand zal hem moeten verslaan, maar <br/>Dustin plant niet zichzelf te verslaan.</span>
+      </p>
       <p begin="00:58:53.991" end="00:58:55.633">[stomp]</p>
       <p begin="00:58:55.759" end="00:58:56.454">[plof, plof, plof]</p>
-      <p begin="00:58:56.454" end="00:58:57.598">-* [man] Kom op bereik het*</p>
-      <p begin="00:59:02.393" end="00:59:04.847">-* [mannelijke stem] Als je steekt,<br/>dat is een meetstok.*</p>
-      <p begin="00:59:04.847" end="00:59:05.901">-* [Dustin] Bereik je letterlijk over--*</p>
-      <p begin="00:59:05.901" end="00:59:08.877">-* [mannelijke stem] Nou, ja, <br/>maar je steek is als een meetstok.*</p>
-      <p begin="00:59:08.877" end="00:59:13.535">* Dat is wat u in positie zet. <br/>Dat is waar ik ga zijn, juist daar.*</p>
-      <p begin="00:59:13.535" end="00:59:17.934">-* [mannelijke stem] Iedereen kan lopen, <br/>maar om dan een baanmodel te worden, *</p>
-      <p begin="00:59:17.934" end="00:59:20.179">*moet je leren om te wandelen.*</p>
-      <p begin="00:59:20.179" end="00:59:22.254">*Hij weet hoe te te vechten. *</p>
-      <p begin="00:59:22.254" end="00:59:24.974">*Maar hij bezit slechts een ongelooflijke <br/>hoeveelheid hart en vastberadenheid.*</p>
-      <p begin="00:59:24.974" end="00:59:27.279">*En als je een vechter een hart <br/>en vastberadenheid kunt geven, *</p>
-      <p begin="00:59:27.279" end="00:59:29.373">*the hemel is absoluut de limiet. *</p>
-      <p begin="00:59:29.373" end="00:59:31.026">* Want dit uiteindelijk--*</p>
-      <p begin="00:59:31.026" end="00:59:34.028">*de MMA en het boksen gaat op een <br/>dag eindigen en ze leerden niets *</p>
-      <p begin="00:59:34.028" end="00:59:38.812">*terwijl ze aan het boksen waren,dan <br/>was dit allemaal voor niets gedaan.*</p>
+      <p begin="00:58:56.454" end="00:58:57.598">-<span tts:fontStyle="italic"> [man] Kom op bereik het</span></p>
+      <p begin="00:59:02.393" end="00:59:04.847">-<span tts:fontStyle="italic"> [mannelijke stem] Als je steekt,<br/>dat is een meetstok.</span></p>
+      <p begin="00:59:04.847" end="00:59:05.901">-<span tts:fontStyle="italic"> [Dustin] Bereik je letterlijk over--</span></p>
+      <p begin="00:59:05.901" end="00:59:08.877">-<span tts:fontStyle="italic"> [mannelijke stem] Nou, ja, <br/>maar je steek is als een meetstok.</span></p>
+      <p begin="00:59:08.877" end="00:59:13.535">
+        <span tts:fontStyle="italic"> Dat is wat u in positie zet. <br/>Dat is waar ik ga zijn, juist daar.</span>
+      </p>
+      <p begin="00:59:13.535" end="00:59:17.934">-<span tts:fontStyle="italic"> [mannelijke stem] Iedereen kan lopen, <br/>maar om dan een baanmodel te worden, </span></p>
+      <p begin="00:59:17.934" end="00:59:20.179">
+        <span tts:fontStyle="italic">moet je leren om te wandelen.</span>
+      </p>
+      <p begin="00:59:20.179" end="00:59:22.254">
+        <span tts:fontStyle="italic">Hij weet hoe te te vechten. </span>
+      </p>
+      <p begin="00:59:22.254" end="00:59:24.974">
+        <span tts:fontStyle="italic">Maar hij bezit slechts een ongelooflijke <br/>hoeveelheid hart en vastberadenheid.</span>
+      </p>
+      <p begin="00:59:24.974" end="00:59:27.279">
+        <span tts:fontStyle="italic">En als je een vechter een hart <br/>en vastberadenheid kunt geven, </span>
+      </p>
+      <p begin="00:59:27.279" end="00:59:29.373">
+        <span tts:fontStyle="italic">the hemel is absoluut de limiet. </span>
+      </p>
+      <p begin="00:59:29.373" end="00:59:31.026">
+        <span tts:fontStyle="italic"> Want dit uiteindelijk--</span>
+      </p>
+      <p begin="00:59:31.026" end="00:59:34.028">
+        <span tts:fontStyle="italic">de MMA en het boksen gaat op een <br/>dag eindigen en ze leerden niets </span>
+      </p>
+      <p begin="00:59:34.028" end="00:59:38.812">
+        <span tts:fontStyle="italic">terwijl ze aan het boksen waren,dan <br/>was dit allemaal voor niets gedaan.</span>
+      </p>
       <p begin="00:59:38.812" end="00:59:45.014">[plof, plof, plof]</p>
       <p begin="00:59:52.247" end="00:59:53.800">- Wat maakt je die hoeken raken, weet je?</p>
-      <p begin="00:59:53.800" end="00:59:55.896">-* [Gil] Je kijkt naar die haak <br/>voordat je die gooit.*</p>
-      <p begin="00:59:55.896" end="00:59:58.514">*Ik zag het je doen. Je <br/>deed dit, *bam bam*. *</p>
-      <p begin="00:59:58.514" end="01:00:00.305">*En je kijkt naar die haak <br/>voordat je die wierp.*</p>
+      <p begin="00:59:53.800" end="00:59:55.896">-<span tts:fontStyle="italic"> [Gil] Je kijkt naar die haak <br/>voordat je die gooit.</span></p>
+      <p begin="00:59:55.896" end="00:59:58.514"><span tts:fontStyle="italic">Ik zag het je doen. Je <br/>deed dit, </span>bam bam<span tts:fontStyle="italic">. </span></p>
+      <p begin="00:59:58.514" end="01:00:00.305">
+        <span tts:fontStyle="italic">En je kijkt naar die haak <br/>voordat je die wierp.</span>
+      </p>
       <p begin="01:00:00.305" end="01:00:02.192">-Want ik probeer mijn <br/>haak te houden zoals--</p>
       <p begin="01:00:02.192" end="01:00:04.964">zelfs met mijn hoofd probeer ik niet om <br/>het te bewapenen zoals ik gewend ben.</p>
       <p begin="01:00:04.964" end="01:00:06.630">Vroeger gooide ik haken van hier.</p>
@@ -1027,32 +1405,46 @@
       <p begin="01:00:09.756" end="01:00:11.918">- Het zit goed, het zit goed.</p>
       <p begin="01:00:11.918" end="01:00:15.035">Het is iets goed. Iets goeds dat <br/>gebeurt is voor de promotie,</p>
       <p begin="01:00:15.035" end="01:00:17.642">indien je verloor.</p>
-      <p begin="01:00:17.642" end="01:00:20.963">-*[Gil] 'Want als je verloor dan<br/>kon ik een rematch verkopen.*</p>
+      <p begin="01:00:17.642" end="01:00:20.963">-<span tts:fontStyle="italic">[Gil] 'Want als je verloor dan<br/>kon ik een rematch verkopen.</span></p>
       <p begin="01:00:20.963" end="01:00:27.870">Als je wint kan ik geen<br/>rematch verkopen, weet je?</p>
       <p begin="01:00:27.870" end="01:00:32.148">Dus, als je wat echt geld wilt verdienen,<br/>maak je jezelf klaar om te verliezen.</p>
       <p begin="01:00:32.148" end="01:00:34.895">- Shit! Iedereen heeft zijn dromen.</p>
       <p begin="01:00:34.895" end="01:00:36.532">Geen rematching maatje.</p>
       <p begin="01:00:40.853" end="01:00:43.825">&#9834; [muziek] &#9834;</p>
-      <p begin="01:00:44.198" end="01:00:47.586">- * [Gil] Het familie element is vitaal<br/>voor ons omdat USA-MMA mijn familie is.*</p>
-      <p begin="01:00:47.586" end="01:00:51.492">*Ik, mijn vrouw, mijn kinderen en<br/>we bevorden dit evenement allemaal.*</p>
-      <p begin="01:00:51.492" end="01:00:55.657">*Maar wanneer we allemaal samen zijn en <br/>samen van een goede dag proberen</p>
-      <p begin="01:00:55.657" end="01:00:57.510">*Te genieten en we <br/>bevorderen dit evenement*</p>
-      <p begin="01:00:57.510" end="01:00:59.359">*op hetzelfde moment en mensen<br/>zien mij en mijn vrouw,*</p>
-      <p begin="01:00:59.359" end="01:01:03.663">*mijn zoon, mijn dochter die 3<br/>jaar oud is, delen flyers uit,*</p>
-      <p begin="01:01:03.663" end="01:01:06.309">*het is geen trucje, maar het helpt wel.*</p>
-      <p begin="01:01:06.309" end="01:01:12.492">*Het helpt mensen zien dat, *<br/>'Man! Dit is ok,' * weet je? *</p>
-      <p begin="01:01:12.492" end="01:01:16.548">*"Het kan wel goed zijn. Laten we<br/>gaan, laten we het eens proberen."*</p>
+      <p begin="01:00:44.198" end="01:00:47.586">- <span tts:fontStyle="italic"> [Gil] Het familie element is vitaal<br/>voor ons omdat USA-MMA mijn familie is.</span></p>
+      <p begin="01:00:47.586" end="01:00:51.492">
+        <span tts:fontStyle="italic">Ik, mijn vrouw, mijn kinderen en<br/>we bevorden dit evenement allemaal.</span>
+      </p>
+      <p begin="01:00:51.492" end="01:00:55.657">
+        <span tts:fontStyle="italic">Maar wanneer we allemaal samen zijn en <br/>samen van een goede dag proberen</span>
+      </p>
+      <p begin="01:00:55.657" end="01:00:57.510">
+        <span tts:fontStyle="italic">Te genieten en we <br/>bevorderen dit evenement</span>
+      </p>
+      <p begin="01:00:57.510" end="01:00:59.359">
+        <span tts:fontStyle="italic">op hetzelfde moment en mensen<br/>zien mij en mijn vrouw,</span>
+      </p>
+      <p begin="01:00:59.359" end="01:01:03.663">
+        <span tts:fontStyle="italic">mijn zoon, mijn dochter die 3<br/>jaar oud is, delen flyers uit,</span>
+      </p>
+      <p begin="01:01:03.663" end="01:01:06.309">
+        <span tts:fontStyle="italic">het is geen trucje, maar het helpt wel.</span>
+      </p>
+      <p begin="01:01:06.309" end="01:01:12.492"><span tts:fontStyle="italic">Het helpt mensen zien dat, </span><br/>'Man! Dit is ok,' <span tts:fontStyle="italic"> weet je? </span></p>
+      <p begin="01:01:12.492" end="01:01:16.548">
+        <span tts:fontStyle="italic">"Het kan wel goed zijn. Laten we<br/>gaan, laten we het eens proberen."</span>
+      </p>
       <p begin="01:01:16.548" end="01:01:18.313">[drum slaat]</p>
       <p begin="01:01:18.313" end="01:01:20.127">- Dat is een groot gezicht.</p>
       <p begin="01:01:20.127" end="01:01:23.861">- Zie je dat gezicht daar? Zeg,<br/>"Gooi me iets, meneer."</p>
-      <p begin="01:01:23.861" end="01:01:27.627">-* [girl] Gooien me iets, meneer.*</p>
+      <p begin="01:01:23.861" end="01:01:27.627">-<span tts:fontStyle="italic"> [girl] Gooien me iets, meneer.</span></p>
       <p begin="01:01:27.627" end="01:01:32.993">Dat is een goed spul, de munten. Kijk. <br/>Heb je munten? Kijk, pak uw munten.</p>
       <p begin="01:01:33.408" end="01:01:34.481">Kom op iedereen</p>
-      <p begin="01:01:35.250" end="01:01:37.060">-* [Gil] Hoe lang voordat we moeten--*</p>
+      <p begin="01:01:35.250" end="01:01:37.060">-<span tts:fontStyle="italic"> [Gil] Hoe lang voordat we moeten--</span></p>
       <p begin="01:01:37.060" end="01:01:38.717">-Oh je hebt, je hebt een paar minuten.</p>
       <p begin="01:01:38.717" end="01:01:41.634">-Ik moet mijn vrouw wakker maken<br/>, de kinderen naar school brengen.</p>
       <p begin="01:01:41.634" end="01:01:44.246">-We zullen het apect <br/>bespreken--- Hey!</p>
-      <p begin="01:01:44.246" end="01:01:45.169">-* [vrouw] Hallo! *</p>
+      <p begin="01:01:44.246" end="01:01:45.169">-<span tts:fontStyle="italic"> [vrouw] Hallo! </span></p>
       <p begin="01:01:45.169" end="01:01:47.310">-Ok, gewoon om er zeker over <br/>te zijn, ik ga bijna op camera--</p>
       <p begin="01:01:47.310" end="01:01:50.179">-Vertel ons hoe goed we lijken, <br/>vertel ons als we er goed uitzien.</p>
       <p begin="01:01:50.179" end="01:01:54.414">- Bob zei om hem te vertellen <br/>als hij ziet er goed uitziet. Tot ziens!</p>
@@ -1069,26 +1461,32 @@
       <p begin="01:02:21.272" end="01:02:24.493">We hebben een ton van Gladiator<br/>jongens die in de show zullen vechten.</p>
       <p begin="01:02:24.493" end="01:02:26.064">Cajun karate jongens <br/>vechten op de show.</p>
       <p begin="01:02:26.064" end="01:02:28.317">We hebben mensen <br/>van Oklahoma, Dallas.</p>
-      <p begin="01:02:28.317" end="01:02:30.218">-* [Bob] Ok, ook, ik ga de<br/>ring omroeper zijn.*</p>
+      <p begin="01:02:28.317" end="01:02:30.218">-<span tts:fontStyle="italic"> [Bob] Ok, ook, ik ga de<br/>ring omroeper zijn.</span></p>
       <p begin="01:02:30.218" end="01:02:33.461">Dus merk dat gedaan, <br/>je weet welke datum.</p>
       <p begin="01:02:33.461" end="01:02:35.014">En natuurlijk het aller belangrijkste, <br/>er zullen ringmeisjes zijn.</p>
       <p begin="01:02:35.014" end="01:02:37.804">- We hebben ring meisjes, maar we hebben <br/>een speciale aankondiging vandaag.</p>
       <p begin="01:02:37.804" end="01:02:41.036">Ons special guest ring meisje<br/>zal Miss Julie Darcy zijn.</p>
       <p begin="01:02:41.036" end="01:02:42.591">-[Bob] Nee. Je wilt dat niet doen.</p>
-      <p begin="01:02:42.591" end="01:02:44.346">-* [Gil]Iik ben nog steeds nerveus,<br/>ik bedoel, je weet wel, *</p>
+      <p begin="01:02:42.591" end="01:02:44.346">-<span tts:fontStyle="italic"> [Gil]Iik ben nog steeds nerveus,<br/>ik bedoel, je weet wel, </span></p>
       <p begin="01:02:44.346" end="01:02:49.134">Een show die je $55.000 kost als ik<br/>$55.000 verlies moet ik gaan werken,</p>
       <p begin="01:02:49.134" end="01:02:50.560">weet je, ik bedoel</p>
       <p begin="01:02:50.560" end="01:02:54.240">Ik ben niet rijk. Ik bedoel ik werk <br/>maar ik werk voor mezelf.</p>
-      <p begin="01:02:54.240" end="01:02:55.396">-* [Bob] Vijfenvijftig duizend! *</p>
+      <p begin="01:02:54.240" end="01:02:55.396">-<span tts:fontStyle="italic"> [Bob] Vijfenvijftig duizend! </span></p>
       <p begin="01:02:55.396" end="01:02:58.239">-Dat is wat het kost om een <br/>show op te zetten, weet je.</p>
       <p begin="01:02:58.239" end="01:03:01.644">-[Bob] Mensen beseffen <br/>nu dat er zoveel...</p>
       <p begin="01:03:01.644" end="01:03:06.693">- [Gil] Juist - Je krijgt <br/>wat je voor betaald.</p>
       <p begin="01:03:06.693" end="01:03:09.936">- [Tim] Het is lastig om je boterham al<br/>vechtend te verdienen. Het is echt lastig.</p>
       <p begin="01:03:11.964" end="01:03:15.622">Je hele carri&#232;re wordt <br/>gecontroleerd met je handen.</p>
-      <p begin="01:03:15.622" end="01:03:17.538">*Je bouwt je eigen lot, *</p>
-      <p begin="01:03:17.538" end="01:03:21.605">*steen voor steen, met je eigen handen. <br/>Vechtpartij na vechtpartij.*</p>
+      <p begin="01:03:15.622" end="01:03:17.538">
+        <span tts:fontStyle="italic">Je bouwt je eigen lot, </span>
+      </p>
+      <p begin="01:03:17.538" end="01:03:21.605">
+        <span tts:fontStyle="italic">steen voor steen, met je eigen handen. <br/>Vechtpartij na vechtpartij.</span>
+      </p>
       <p begin="01:03:23.617" end="01:03:30.883">Vechtsport zie ik niet als een carri&#232;re. <br/>Ik zie het als een levensstijl.</p>
-      <p begin="01:03:30.883" end="01:03:36.231">* Ik geniet van de angst, ik geniet van <br/>de nervositeit, ik geniet daarvan.*</p>
+      <p begin="01:03:30.883" end="01:03:36.231">
+        <span tts:fontStyle="italic"> Ik geniet van de angst, ik geniet van <br/>de nervositeit, ik geniet daarvan.</span>
+      </p>
       <p begin="01:03:36.231" end="01:03:38.040">Dat is waarom ik dit doe.</p>
       <p begin="01:03:38.040" end="01:03:43.752">Het punt van het hele ding is om jezelf <br/>tot een betere persoon om te bouwen.</p>
       <p begin="01:03:43.752" end="01:03:47.165">Niet om jezelf een rijker <br/>persoon te maken.</p>
@@ -1114,11 +1512,15 @@
       <p begin="01:04:43.674" end="01:04:45.462">Alles wat er nodig is, is<br/>een fout, een pons.</p>
       <p begin="01:04:45.462" end="01:04:49.165">Dat wetende. Maakt me een beetje <br/>voorbereid voor een goed gevecht denk ik.</p>
       <p begin="01:04:49.273" end="01:04:54.405">[vogels tjilpen]</p>
-      <p begin="01:04:54.973" end="01:04:57.519">*Ik wil dit gevecht meer dan om het even <br/>wat, ik denk er 24 uur per dag over na.*</p>
+      <p begin="01:04:54.973" end="01:04:57.519">
+        <span tts:fontStyle="italic">Ik wil dit gevecht meer dan om het even <br/>wat, ik denk er 24 uur per dag over na.</span>
+      </p>
       <p begin="01:04:57.519" end="01:05:01.889">Derrick zal de beste Dustin Poirier<br/>vechten die iemand ooit heeft gevochten.</p>
       <p begin="01:05:01.889" end="01:05:03.802">&#201;&#233;n eenenzestig op het geld.</p>
       <p begin="01:05:09.704" end="01:05:11.426">Nog 3 kg.</p>
-      <p begin="01:05:11.426" end="01:05:13.116">*Al zes kg.*</p>
+      <p begin="01:05:11.426" end="01:05:13.116">
+        <span tts:fontStyle="italic">Al zes kg.</span>
+      </p>
       <p begin="01:05:13.327" end="01:05:18.425">Vandaag donderdag, vier dagen, 6 kg. <br/>Weet je ik eet nu drie keer per dag.</p>
       <p begin="01:05:18.425" end="01:05:21.721">Terwijl ik gewicht verlies, slechts een <br/>170 tot 230 gram stukje vis.</p>
       <p begin="01:05:21.721" end="01:05:26.519">Maar toch weet je, zet de kleine beetjes<br/>maar dat is nog altijd beter, weet je,</p>
@@ -1130,7 +1532,7 @@
       <p begin="01:05:52.912" end="01:05:53.794">[kraken]</p>
       <p begin="01:06:02.676" end="01:06:05.909">Wanneer ik gewicht verlies,<br/>kijk ik graag naar the food network.</p>
       <p begin="01:06:05.909" end="01:06:11.812">Doen alsof ik aan het zwemmen<br/>ben in een zwembad met glazuur of zo.</p>
-      <p begin="01:06:11.843" end="01:06:14.679">-* [man's stem] Wat anders klinkt goed? *</p>
+      <p begin="01:06:11.843" end="01:06:14.679">-<span tts:fontStyle="italic"> [man's stem] Wat anders klinkt goed? </span></p>
       <p begin="01:06:14.679" end="01:06:19.032">Hoeveel tijd heb je?</p>
       <p begin="01:06:19.032" end="01:06:27.630">Ik hou van ijs. Hou van koekjes. <br/>Hou van ijs broodjes. Wat!</p>
       <p begin="01:06:28.029" end="01:06:32.614">Ze maken er zo van die pindakaas in <br/>Wal-Mart, tussen twee chocolade dingetjes</p>
@@ -1140,9 +1542,15 @@
       <p begin="01:06:59.160" end="01:07:02.899">- Hallo, dit is Gil. <br/>We hebben een ton van tickets, man.</p>
       <p begin="01:07:02.899" end="01:07:05.155">Pak ongeveer 50 van <br/>je vrienden en kom af.</p>
       <p begin="01:07:05.155" end="01:07:07.859">Als we geen tickets verkopen.<br/>Dit huis staat op de lijn.</p>
-      <p begin="01:07:07.859" end="01:07:10.435">* Voor ons winstgevend te zijn, <br/>moeten we alles doen.*</p>
-      <p begin="01:07:10.543" end="01:07:12.811">* We moeten de verlichting doen, <br/>nemen van ticket, ticket verkoop.*</p>
-      <p begin="01:07:12.811" end="01:07:16.519">*We moeten alles doen of <br/>we verliezen alles.*</p>
+      <p begin="01:07:07.859" end="01:07:10.435">
+        <span tts:fontStyle="italic"> Voor ons winstgevend te zijn, <br/>moeten we alles doen.</span>
+      </p>
+      <p begin="01:07:10.543" end="01:07:12.811">
+        <span tts:fontStyle="italic"> We moeten de verlichting doen, <br/>nemen van ticket, ticket verkoop.</span>
+      </p>
+      <p begin="01:07:12.811" end="01:07:16.519">
+        <span tts:fontStyle="italic">We moeten alles doen of <br/>we verliezen alles.</span>
+      </p>
       <p begin="01:07:16.519" end="01:07:21.596">-Wat ik draag om te vechten,<br/>moet ik in een doelzak doen.</p>
       <p begin="01:07:21.596" end="01:07:22.790">Het moet een doelzak zijn.</p>
       <p begin="01:07:22.790" end="01:07:29.890">Ikmoet sappige fruitige kauwgomkopen om<br/>de hele dag te kauwen voordat ik vecht.</p>
@@ -1172,18 +1580,28 @@
       <p begin="01:08:45.465" end="01:08:48.701">Komen we terug. Het hangt er<br/>gewoon van af man, ik ben bang.</p>
       <p begin="01:08:48.701" end="01:08:49.800">Doodsbang.</p>
       <p begin="01:08:49.800" end="01:08:51.589">Het is een grote stap weet je wel.</p>
-      <p begin="01:08:51.589" end="01:09:01.257">-* [omroeper] Een vijfenvijftig is de <br/>gewichtsklasse.Derrick Krantz gaat eerst.*</p>
-      <p begin="01:09:01.257" end="01:09:08.214">*Een vijfenvijftig punt vier.*</p>
-      <p begin="01:09:08.214" end="01:09:13.263">*Dustin Poirier, &#233;&#233;n <br/>vijfenvijftig punt vier.*</p>
+      <p begin="01:08:51.589" end="01:09:01.257">-<span tts:fontStyle="italic"> [omroeper] Een vijfenvijftig is de <br/>gewichtsklasse.Derrick Krantz gaat eerst.</span></p>
+      <p begin="01:09:01.257" end="01:09:08.214">
+        <span tts:fontStyle="italic">Een vijfenvijftig punt vier.</span>
+      </p>
+      <p begin="01:09:08.214" end="01:09:13.263">
+        <span tts:fontStyle="italic">Dustin Poirier, &#233;&#233;n <br/>vijfenvijftig punt vier.</span>
+      </p>
       <p begin="01:09:13.263" end="01:09:16.713">[publiek klapt]</p>
-      <p begin="01:09:21.302" end="01:09:25.352">* Een, twee, drie, vier. <br/>Een, twee, drie, vier.*</p>
-      <p begin="01:09:25.536" end="01:09:28.804">* Een, twee, een, twee, een, two.*</p>
-      <p begin="01:09:29.152" end="01:09:31.186">* Laten we - we gaan waarschijnlijk<br/>wat kleine veranderingen moeten maken.*</p>
-      <p begin="01:09:31.186" end="01:09:34.175">-* [mann] Wanneer was de<br/>laatste keer dat je flauwviel? *</p>
+      <p begin="01:09:21.302" end="01:09:25.352">
+        <span tts:fontStyle="italic"> Een, twee, drie, vier. <br/>Een, twee, drie, vier.</span>
+      </p>
+      <p begin="01:09:25.536" end="01:09:28.804">
+        <span tts:fontStyle="italic"> Een, twee, een, twee, een, two.</span>
+      </p>
+      <p begin="01:09:29.152" end="01:09:31.186">
+        <span tts:fontStyle="italic"> Laten we - we gaan waarschijnlijk<br/>wat kleine veranderingen moeten maken.</span>
+      </p>
+      <p begin="01:09:31.186" end="01:09:34.175">-<span tts:fontStyle="italic"> [mann] Wanneer was de<br/>laatste keer dat je flauwviel? </span></p>
       <p begin="01:09:34.175" end="01:09:36.334">Wanneer was de laatste keer <br/>dat je gevochten hebt?</p>
       <p begin="01:09:36.602" end="01:09:39.449">-Dit is uw eerste gevecht? Nog <br/>nooit ergens in Texas gevochten?</p>
-      <p begin="01:09:39.449" end="01:09:40.678">-* [Gil] Dit is mijn man.*</p>
-      <p begin="01:09:40.678" end="01:09:45.486">* Derrick * D-Rock * Krantz, hier <br/>voor de USA-MMA 70 kg titel.*</p>
+      <p begin="01:09:39.449" end="01:09:40.678">-<span tts:fontStyle="italic"> [Gil] Dit is mijn man.</span></p>
+      <p begin="01:09:40.678" end="01:09:45.486"><span tts:fontStyle="italic"> Derrick </span> D-Rock <span tts:fontStyle="italic"> Krantz, hier <br/>voor de USA-MMA 70 kg titel.</span></p>
       <p begin="01:09:45.486" end="01:09:49.404">Mr. Krantz, wat is uw projectie voor<br/>het hoofdevenement vanavond?</p>
       <p begin="01:09:49.404" end="01:09:52.420">-Ik neem een eerste ronde<br/>knock out elke dag.</p>
       <p begin="01:09:52.420" end="01:09:55.453">- En de USA-MMA 70 kg<br/>kampioen worden</p>
@@ -1200,7 +1618,7 @@
       <p begin="01:10:58.731" end="01:11:03.345">-Ik ben trots op je, <br/>goed werk. Dank u, man.</p>
       <p begin="01:11:03.345" end="01:11:07.090">-Dank u, hartelijk dank. Ik kan niet <br/>ademen, maar het is allemaal goed.</p>
       <p begin="01:11:07.090" end="01:11:11.903">Hey Bau. Hey Bau, ben je ok?</p>
-      <p begin="01:11:11.903" end="01:11:15.792">-* [Bau] Wat? Gewoon een <br/>gebroken neus.*</p>
+      <p begin="01:11:11.903" end="01:11:15.792">-<span tts:fontStyle="italic"> [Bau] Wat? Gewoon een <br/>gebroken neus.</span></p>
       <p begin="01:11:15.792" end="01:11:18.763">-[Gil] Bau heeft een gebroken <br/>neus en zwelling..</p>
       <p begin="01:11:18.763" end="01:11:23.315">Hijwas in een oorlog met een 118 kg <br/>wegende kerel en -- ik bedoel...</p>
       <p begin="01:11:23.315" end="01:11:25.823">Hij zegt dat zijn hoofd pijn en ze <br/>proberen hem mee te nemen in</p>
@@ -1217,34 +1635,56 @@
       <p begin="01:11:51.338" end="01:11:57.629">[harde ademhaling]</p>
       <p begin="01:11:57.629" end="01:12:00.077">- Dustin Poirier zal Derrick <br/>Krantz zo hard raken</p>
       <p begin="01:12:00.077" end="01:12:05.427">het alarm in de nabijgelegen <br/>bank zal afgaan.</p>
-      <p begin="01:12:05.427" end="01:12:07.426">-* [Dustin] Wat denk je? Het is perfect.<br/>*- [Tim] Je zult het nodig hebben.</p>
+      <p begin="01:12:05.427" end="01:12:07.426">-<span tts:fontStyle="italic"> [Dustin] Wat denk je? Het is perfect.<br/></span>- [Tim] Je zult het nodig hebben.</p>
       <p begin="01:12:07.426" end="01:12:12.165">[omroeper roept]</p>
       <p begin="01:12:12.165" end="01:12:19.483">-[Dustin] Het gaat bijna<br/>neer. -[Tim] Ik weet het.</p>
-      <p begin="01:12:19.483" end="01:12:25.947">-* [Gil] veel fans en familie en vrienden<br/>begrijpen de realiteit van vechten niet.*</p>
+      <p begin="01:12:19.483" end="01:12:25.947">-<span tts:fontStyle="italic"> [Gil] veel fans en familie en vrienden<br/>begrijpen de realiteit van vechten niet.</span></p>
       <p begin="01:12:25.947" end="01:12:29.080">-[omroeper] Derrick D-rock.</p>
-      <p begin="01:12:29.080" end="01:12:32.644">* Ze pionnen onmiddellijk <br/>Dustin's tegenstander uit.*</p>
-      <p begin="01:12:32.644" end="01:12:35.762">*Alsof hij een persoon op <br/>een gevangenis-programma is,*</p>
-      <p begin="01:12:35.762" end="01:12:37.441">*gewoon naar hier gekomen <br/>hier om geslagen te worden.*</p>
-      <p begin="01:12:37.441" end="01:12:39.703">*En sommige sigaretten <br/>of iets te krijgen.*</p>
-      <p begin="01:12:39.703" end="01:12:44.338">* Dit is een andere gevaarlijke<br/>opgeleide professionele vechter, *</p>
-      <p begin="01:12:44.338" end="01:12:47.486">* die klaar is met een <br/>heleboel individuen. *</p>
-      <p begin="01:12:47.486" end="01:12:52.386">*En hij komt hier om<br/>Dustin te vernietigen.*</p>
+      <p begin="01:12:29.080" end="01:12:32.644">
+        <span tts:fontStyle="italic"> Ze pionnen onmiddellijk <br/>Dustin's tegenstander uit.</span>
+      </p>
+      <p begin="01:12:32.644" end="01:12:35.762">
+        <span tts:fontStyle="italic">Alsof hij een persoon op <br/>een gevangenis-programma is,</span>
+      </p>
+      <p begin="01:12:35.762" end="01:12:37.441">
+        <span tts:fontStyle="italic">gewoon naar hier gekomen <br/>hier om geslagen te worden.</span>
+      </p>
+      <p begin="01:12:37.441" end="01:12:39.703">
+        <span tts:fontStyle="italic">En sommige sigaretten <br/>of iets te krijgen.</span>
+      </p>
+      <p begin="01:12:39.703" end="01:12:44.338">
+        <span tts:fontStyle="italic"> Dit is een andere gevaarlijke<br/>opgeleide professionele vechter, </span>
+      </p>
+      <p begin="01:12:44.338" end="01:12:47.486">
+        <span tts:fontStyle="italic"> die klaar is met een <br/>heleboel individuen. </span>
+      </p>
+      <p begin="01:12:47.486" end="01:12:52.386">
+        <span tts:fontStyle="italic">En hij komt hier om<br/>Dustin te vernietigen.</span>
+      </p>
       <p begin="01:12:54.506" end="01:13:09.341">&#9834; [muziek] &#9834;</p>
       <p begin="01:13:26.128" end="01:13:45.105">[menigte schreeuwt en juicht]</p>
-      <p begin="01:13:45.105" end="01:13:48.602">-[Gil] Laten we werken baby, <br/>handen op kin naar beneden.*</p>
+      <p begin="01:13:45.105" end="01:13:48.602">- <span tts:fontStyle="italic">[Gil] Laten we werken baby, <br/>handen op kin naar beneden.</span></p>
       <p begin="01:13:50.868" end="01:13:53.205">[slaan op de vloer]</p>
       <p begin="01:13:53.837" end="01:13:55.959">[menigte juicht]</p>
-      <p begin="01:13:56.347" end="01:14:00.483">* [man] Gebruik een wijzerplaat,<br/>gebruik een wijzerplaat.*</p>
-      <p begin="01:14:02.264" end="01:14:06.001">* [man] Blijf het bewerken,<br/>blijf het bewerken.*</p>
-      <p begin="01:14:06.739" end="01:14:17.035">-* [man] Sluit het op, sluit het op,<br/>grijp je shit, houd de driehoek.*</p>
-      <p begin="01:14:17.035" end="01:14:24.837">-*[man] Vergrendel je rechtervoet. <br/>Vergrendel je driehoek en trek zijn hand.*</p>
-      <p begin="01:14:24.837" end="01:14:27.475">*[man] Grijp de pols. Nog een.*</p>
-      <p begin="01:14:27.475" end="01:14:30.619">- *[man] Gebruik je shit Dustin!*</p>
-      <p begin="01:14:30.619" end="01:14:37.745">- *[man] Sluit uw hoede, scherp het aan.*<br/>-[Derrick] Je doet goed.</p>
-      <p begin="01:14:37.745" end="01:14:41.317">- [Dustin] Dank je.*</p>
-      <p begin="01:14:41.317" end="01:14:43.227">-*[man's stem] Blijf werken,<br/>controleer de pols.*</p>
-      <p begin="01:14:43.227" end="01:14:43.913">*Controleer de pols, controleer de pols.*</p>
-      <p begin="01:14:43.913" end="01:14:47.290">- *[man] Van beneden <br/>Dustin duw je heupen.</p>
+      <p begin="01:13:56.347" end="01:14:00.483">
+        <span tts:fontStyle="italic"> [man] Gebruik een wijzerplaat,<br/>gebruik een wijzerplaat.</span>
+      </p>
+      <p begin="01:14:02.264" end="01:14:06.001">
+        <span tts:fontStyle="italic"> [man] Blijf het bewerken,<br/>blijf het bewerken.</span>
+      </p>
+      <p begin="01:14:06.739" end="01:14:17.035">-<span tts:fontStyle="italic"> [man] Sluit het op, sluit het op,<br/>grijp je shit, houd de driehoek.</span></p>
+      <p begin="01:14:17.035" end="01:14:24.837">-<span tts:fontStyle="italic">[man] Vergrendel je rechtervoet. <br/>Vergrendel je driehoek en trek zijn hand.</span></p>
+      <p begin="01:14:24.837" end="01:14:27.475">
+        <span tts:fontStyle="italic">[man] Grijp de pols. Nog een.</span>
+      </p>
+      <p begin="01:14:27.475" end="01:14:30.619">- <span tts:fontStyle="italic">[man] Gebruik je shit Dustin!</span></p>
+      <p begin="01:14:30.619" end="01:14:37.745">- <span tts:fontStyle="italic">[man] Sluit uw hoede, scherp het aan.</span><br/>-[Derrick] Je doet goed.</p>
+      <p begin="01:14:37.745" end="01:14:41.317">- <span tts:fontStyle="italic">[Dustin] Dank je.</span></p>
+      <p begin="01:14:41.317" end="01:14:43.227">-<span tts:fontStyle="italic">[man's stem] Blijf werken,<br/>controleer de pols.</span></p>
+      <p begin="01:14:43.227" end="01:14:43.913">
+        <span tts:fontStyle="italic">Controleer de pols, controleer de pols.</span>
+      </p>
+      <p begin="01:14:43.913" end="01:14:47.290">- <span tts:fontStyle="italic">[man] Van beneden <br/>Dustin duw je heupen.</span></p>
       <p begin="01:15:00.734" end="01:15:02.512">[hoorn blaast]</p>
       <p begin="01:15:03.096" end="01:15:05.487">- Zwijg, laat me niet snappen. <br/>Je gaat daar en vecht!</p>
       <p begin="01:15:05.487" end="01:15:07.587">Zet je kin en ga aan deze jongen werken.</p>
@@ -1254,8 +1694,8 @@
       <p begin="01:15:12.871" end="01:15:16.157">Zet het in uw gedachten dat je deze <br/>motherfucker knock-out slaat.</p>
       <p begin="01:15:16.157" end="01:15:17.828">Je zet je kin, brengt je handen naar <br/>omhoog. Je begint <span tts:fontStyle="italic">shots</span> te gooien!</p>
       <p begin="01:15:17.828" end="01:15:21.013">Laat hem dat ding straffen!</p>
-      <p begin="01:15:21.013" end="01:15:26.988">- *Handen omhoog, kin naar beneden, neer<br/>bijten, bijt je mondstuk, ga werken.*</p>
-      <p begin="01:15:27.264" end="01:15:29.507">-*[man] Ok neem hem neer.*</p>
+      <p begin="01:15:21.013" end="01:15:26.988">- <span tts:fontStyle="italic">Handen omhoog, kin naar beneden, neer<br/>bijten, bijt je mondstuk, ga werken.</span></p>
+      <p begin="01:15:27.264" end="01:15:29.507">-<span tts:fontStyle="italic">[man] Ok neem hem neer.</span></p>
       <p begin="01:15:29.784" end="01:15:31.010">-[Tim] Het is gewoon<br/>soms voelt het alsof</p>
       <p begin="01:15:31.010" end="01:15:33.947">mijn hart uit mijnborst <br/>zal vallen weet je.</p>
       <p begin="01:15:35.423" end="01:15:38.944">&#9834; [muziek] &#9834;</p>
@@ -1265,29 +1705,41 @@
       <p begin="01:16:15.482" end="01:16:19.510">-[Tim] Trots op je.<br/>Je versloeg dat ding.</p>
       <p begin="01:16:19.510" end="01:16:20.828">-[Dustin] Je verdient het.</p>
       <p begin="01:16:20.828" end="01:16:23.621">-[Tim]Iik weet dat ik het niet zeg <br/>maar ik hou van deze kerels.</p>
-      <p begin="01:16:23.621" end="01:16:26.760">*[omroeper] Laten we een ronde <br/>van applaus voor beide vechters.</p>
+      <p begin="01:16:23.621" end="01:16:26.760">
+        <span tts:fontStyle="italic">[omroeper] Laten we een ronde <br/>van applaus voor beide vechters.</span>
+      </p>
       <p begin="01:16:26.760" end="01:16:27.858">
         <span tts:fontStyle="italic">Wauw!</span>
       </p>
       <p begin="01:16:27.858" end="01:16:29.642">[menigte juicht]</p>
-      <p begin="01:16:29.735" end="01:16:35.948">*Vechters naar het midden van de ring.*</p>
-      <p begin="01:16:35.948" end="01:16:41.926">* Dustin Poirier! *</p>
+      <p begin="01:16:29.735" end="01:16:35.948">
+        <span tts:fontStyle="italic">Vechters naar het midden van de ring.</span>
+      </p>
+      <p begin="01:16:35.948" end="01:16:41.926">
+        <span tts:fontStyle="italic"> Dustin Poirier! </span>
+      </p>
       <p begin="01:16:42.528" end="01:16:45.301">[menigte juicht]</p>
       <p begin="01:16:46.648" end="01:17:04.924">&#9834; [muziek] &#9834;</p>
       <p begin="01:17:04.924" end="01:17:07.622">-[Dustin] Mensen zullen zeggen<br/>dat dit een gekke droom is</p>
       <p begin="01:17:07.622" end="01:17:11.283">of als een fantasie droom <br/>waar ik achter ga.</p>
       <p begin="01:17:11.283" end="01:17:13.726">en ik niet zal kunnen om het te doen. <br/>Weet je, wat is hun droom?</p>
       <p begin="01:17:13.726" end="01:17:17.039">Wat zijn ze gaan doen met hun leven?</p>
-      <p begin="01:17:18.637" end="01:17:20.338">-* [Gil] Ik wil dat toen ik <br/>zijn leeftijd was*.</p>
-      <p begin="01:17:20.338" end="01:17:23.802">*Ik had de mogelijkheid om die <br/>dingen van elkaar te verwijderen*</p>
-      <p begin="01:17:23.802" end="01:17:25.869">*en krijg die slechte <br/>dingen uit mijn leven.*</p>
-      <p begin="01:17:25.869" end="01:17:30.579">*Het kon me niet schelen. Ik feestte en <br/>trachtte de kaars aan beide kanten*</p>
-      <p begin="01:17:30.579" end="01:17:32.170">*te branden.*<br/>Hij gaat dat niet doen.</p>
+      <p begin="01:17:18.637" end="01:17:20.338">-<span tts:fontStyle="italic"> [Gil] Ik wil dat toen ik <br/>zijn leeftijd was</span>.</p>
+      <p begin="01:17:20.338" end="01:17:23.802">
+        <span tts:fontStyle="italic">Ik had de mogelijkheid om die <br/>dingen van elkaar te verwijderen</span>
+      </p>
+      <p begin="01:17:23.802" end="01:17:25.869">
+        <span tts:fontStyle="italic">en krijg die slechte <br/>dingen uit mijn leven.</span>
+      </p>
+      <p begin="01:17:25.869" end="01:17:30.579">
+        <span tts:fontStyle="italic">Het kon me niet schelen. Ik feestte en <br/>trachtte de kaars aan beide kanten</span>
+      </p>
+      <p begin="01:17:30.579" end="01:17:32.170"><span tts:fontStyle="italic">te branden.</span><br/>Hij gaat dat niet doen.</p>
       <p begin="01:17:32.170" end="01:17:33.707">Als ik kijk naar Dustin, kijk ik naar</p>
-      <p begin="01:17:33.707" end="01:17:37.198">- en uiteraard gevaarlijke <br/>wordt opnieuw "* potentieel *".</p>
+      <p begin="01:17:33.707" end="01:17:37.198">- en uiteraard gevaarlijke <br/>wordt opnieuw "<span tts:fontStyle="italic"> potentieel </span>".</p>
       <p begin="01:17:37.198" end="01:17:42.209">Potentieel om daadwerkelijk <br/>iets in deze sport te zijn</p>
       <p begin="01:17:42.209" end="01:17:46.245">Eenentwintig met zijn geest op het spel.</p>
-      <p begin="01:17:48.918" end="01:17:52.477">- *[Dustin] "Fortuin gunsten, worden<br/>vet," weet je, dat Virgil zei dat</p>
+      <p begin="01:17:48.918" end="01:17:52.477">- <span tts:fontStyle="italic">[Dustin] "Fortuin gunsten, worden<br/>vet," weet je, dat Virgil zei dat</span></p>
       <p begin="01:17:52.477" end="01:17:56.763">-[Tim] Dus een kind dat 21 jaar <br/>oud is met 15 gevechten en 1 verlies.</p>
       <p begin="01:17:56.763" end="01:18:00.833">Zou zek een klein beetje<br/>moeten uitstappen</p>
       <p begin="01:18:00.833" end="01:18:03.534">en ga vechten in de <br/>major league-organisatie.</p>
@@ -1298,15 +1750,25 @@
       <p begin="01:18:35.746" end="01:18:45.504">-[Dustin] het is voor mij <br/>en mijn vrouw en familie</p>
       <p begin="01:18:45.504" end="01:18:49.119">-[Gil] iemands dromen gaan<br/>vanavond verpletterd worden.</p>
       <p begin="01:18:49.119" end="01:18:53.694">En we zijn vrij zeker dat het<br/>Derek Gauthier's droom zal zijn.</p>
-      <p begin="01:18:53.694" end="01:18:58.316">* Wij zijn hier niet om Derrick te <br/>verpletteren of Derrick te kwetsen*</p>
-      <p begin="01:18:58.316" end="01:19:02.484">* maar we zijn hier om een teken<br/>van de opbrengst in zijn dromen *</p>
-      <p begin="01:19:02.484" end="01:19:04.624">-* [Tim] Net als wij altijd zeggen *.</p>
-      <p begin="01:19:04.624" end="01:19:07.177">* Je zou kunnen lopen naar <br/>de ring met een 100 kuikens *</p>
+      <p begin="01:18:53.694" end="01:18:58.316">
+        <span tts:fontStyle="italic"> Wij zijn hier niet om Derrick te <br/>verpletteren of Derrick te kwetsen</span>
+      </p>
+      <p begin="01:18:58.316" end="01:19:02.484">
+        <span tts:fontStyle="italic"> maar we zijn hier om een teken<br/>van de opbrengst in zijn dromen </span>
+      </p>
+      <p begin="01:19:02.484" end="01:19:04.624">-<span tts:fontStyle="italic"> [Tim] Net als wij altijd zeggen </span>.</p>
+      <p begin="01:19:04.624" end="01:19:07.177">
+        <span tts:fontStyle="italic"> Je zou kunnen lopen naar <br/>de ring met een 100 kuikens </span>
+      </p>
       <p begin="01:19:07.177" end="01:19:08.734">en elk bijnaam die u wilt hebben</p>
-      <p begin="01:19:08.734" end="01:19:10.723">*Maar zodra de deur gesloten is,<br/>komt niemand om je te redden.*</p>
-      <p begin="01:19:10.723" end="01:19:14.055">* Niemand bespaart je. *</p>
+      <p begin="01:19:08.734" end="01:19:10.723">
+        <span tts:fontStyle="italic">Maar zodra de deur gesloten is,<br/>komt niemand om je te redden.</span>
+      </p>
+      <p begin="01:19:10.723" end="01:19:14.055">
+        <span tts:fontStyle="italic"> Niemand bespaart je. </span>
+      </p>
       <p begin="01:19:14.055" end="01:19:24.338">Heb je stikken, stikken? <br/>Kreeg je stikken? Nee? Even kijken.</p>
-      <p begin="01:19:24.338" end="01:19:29.690">-* [Gil] Het is belangrijk voor een <br/>vechter, mentaal en spiritueel *</p>
+      <p begin="01:19:24.338" end="01:19:29.690">-<span tts:fontStyle="italic"> [Gil] Het is belangrijk voor een <br/>vechter, mentaal en spiritueel </span></p>
       <p begin="01:19:29.690" end="01:19:31.924">Om te kunnen lopen <br/>in een vijandelijk gebied</p>
       <p begin="01:19:31.924" end="01:19:35.759">en lopen in een plaats waar de<br/>kaarten zijn gestapeld tegen u.</p>
       <p begin="01:19:35.759" end="01:19:40.193">En de menigte juicht voor <br/>de andere tegenstander</p>
@@ -1319,29 +1781,37 @@
       <p begin="01:20:12.811" end="01:20:15.708">[menigte brult en fluit]</p>
       <p begin="01:20:15.985" end="01:20:20.246">[scheidsrechter] Kijk voor de take down. <br/>Handen op, kin beneden. Vlagen. Vecht!</p>
       <p begin="01:20:20.246" end="01:20:24.494">[hoorn toetert]</p>
-      <p begin="01:20:24.494" end="01:20:28.919">-[Tim] Kijk naar de <br/>schoppen,kijk uit, ga nu!*</p>
-      <p begin="01:20:33.268" end="01:20:47.116">*Kijk de hoorn schot eruit koment.<br/>Hou je steekhand op, maatje.*</p>
+      <p begin="01:20:24.494" end="01:20:28.919">- <span tts:fontStyle="italic">[Tim] Kijk naar de <br/>schoppen,kijk uit, ga nu!</span></p>
+      <p begin="01:20:33.268" end="01:20:47.116">
+        <span tts:fontStyle="italic">Kijk de hoorn schot eruit koment.<br/>Hou je steekhand op, maatje.</span>
+      </p>
       <p begin="01:20:47.116" end="01:20:50.847">Goed werk! Goed werk!</p>
-      <p begin="01:20:50.847" end="01:20:55.849">* Perfect, perfect. Die curve beschermen<br/>met die handschoen. Toon hem de kracht *</p>
-      <p begin="01:20:55.849" end="01:21:04.665">* Kijk - hij is voor je. <br/>Hoofd op wanneer je gooit.*</p>
-      <p begin="01:21:04.665" end="01:21:10.095">*Raak je kin met je handschoen aan.*</p>
-      <p begin="01:21:10.095" end="01:21:16.281">[ponsen] *Ga voor de keel!*</p>
+      <p begin="01:20:50.847" end="01:20:55.849">
+        <span tts:fontStyle="italic"> Perfect, perfect. Die curve beschermen<br/>met die handschoen. Toon hem de kracht </span>
+      </p>
+      <p begin="01:20:55.849" end="01:21:04.665">
+        <span tts:fontStyle="italic"> Kijk - hij is voor je. <br/>Hoofd op wanneer je gooit.</span>
+      </p>
+      <p begin="01:21:04.665" end="01:21:10.095">
+        <span tts:fontStyle="italic">Raak je kin met je handschoen aan.</span>
+      </p>
+      <p begin="01:21:10.095" end="01:21:16.281">[ponsen] <span tts:fontStyle="italic">Ga voor de keel!</span></p>
       <p begin="01:21:16.281" end="01:21:19.756">[stort neer op de vloer] [menigte juicht]</p>
       <p begin="01:21:19.756" end="01:21:28.383">- [Tim] Wazzup my baby, wazzup <br/>my baby, wazzup my baby</p>
       <p begin="01:21:28.383" end="01:21:32.224">- [Albert] Ik hou ervan.</p>
       <p begin="01:21:32.224" end="01:21:44.675">&#9834; [muziek] &#9834;</p>
-      <p begin="01:21:44.675" end="01:21:52.526">[omroeper] *Gewonnen door<br/>knock-out, Dustin Poirier!"</p>
+      <p begin="01:21:44.675" end="01:21:52.526">[omroeper] <span tts:fontStyle="italic">Gewonnen door<br/>knock-out, Dustin Poirier!"</span></p>
       <p begin="01:21:52.526" end="01:21:55.941">- [Albert] Mooi zo!</p>
       <p begin="01:21:55.941" end="01:21:59.054">- [Tim] Onze belangrijkste doel is <br/>niet om titels te winnen,</p>
       <p begin="01:21:59.054" end="01:22:03.538">om kampioenschappen te winnen<br/>en de beste te zijn,</p>
       <p begin="01:22:05.629" end="01:22:07.993">Wij bouwen betere mannen.</p>
-      <p begin="01:22:11.987" end="01:22:15.381">-*Vier, drie, twee, een.*</p>
+      <p begin="01:22:11.987" end="01:22:15.381">-<span tts:fontStyle="italic">Vier, drie, twee, een.</span></p>
       <p begin="01:22:18.547" end="01:22:26.144">- [Coach] Albert Jordan, Alan Marg... <br/>Zeg het goed zodat ik je kan horen.</p>
-      <p begin="01:22:26.144" end="01:22:29.735">*Albert Stainback.?* <br/>-Ik schoot hem.</p>
+      <p begin="01:22:26.144" end="01:22:29.735"><span tts:fontStyle="italic">Albert Stainback.?</span><br/>-Ik schoot hem.</p>
       <p begin="01:22:29.735" end="01:22:44.803">[gong klettert]</p>
       <p begin="01:22:44.803" end="01:22:47.330">[menigte klapt]</p>
       <p begin="01:22:53.527" end="01:22:56.676">&#9834; [muziek] &#9834;</p>
-      <p begin="01:23:08.628" end="01:23:12.306">- * [omroeper] Vechters naar<br/>het midden van de ring *.</p>
+      <p begin="01:23:08.628" end="01:23:12.306">- <span tts:fontStyle="italic"> [omroeper] Vechters naar<br/>het midden van de ring </span>.</p>
       <p begin="01:23:19.248" end="01:23:20.955">- Ok laten we wat lawaai <br/>voor onze strijders horen.</p>
       <p begin="01:23:20.955" end="01:23:23.428">Laten we wat lawaai maken.</p>
       <p begin="01:23:23.428" end="01:23:32.899">In de rode hoek...Dustin Poirier,<br/>Albert Stainback, "Crazy" Tim Crader</p>
@@ -1349,7 +1819,9 @@
       <p begin="01:23:44.250" end="01:23:52.047">En in de blauwe hoek, Paul Swallow,<br/>Mike "The Truth" Jackson,</p>
       <p begin="01:23:52.047" end="01:23:56.883">Joe Torres, Ronnie List</p>
       <p begin="01:23:56.883" end="01:24:04.177">Derrick "D-Rock" Krantz en Dereck <br/>"The Sex Machine" Gauthier.</p>
-      <p begin="01:24:04.177" end="01:24:07.053">*Laat de goede tijden rollen.*</p>
+      <p begin="01:24:04.177" end="01:24:07.053">
+        <span tts:fontStyle="italic">Laat de goede tijden rollen.</span>
+      </p>
       <p begin="01:24:10.574" end="01:24:18.403">&#9834; [muziek] &#9834;</p>
       <p begin="01:25:05.845" end="01:25:09.511">En ik ben uw ring <br/>omroeper Bob Moore.</p>
     </div>
