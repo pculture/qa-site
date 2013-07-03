@@ -968,7 +968,7 @@
       <p begin="00:25:37.250" end="00:25:40.005">
         <span tts:fontStyle="italic">He was my true love at first sight.</span>
       </p>
-      <p begin="00:25:40.005" end="00:25:46.001">- Professor Ken Goldberg wants to come up and - <br/>[audience shouts]</p>
+      <p begin="00:25:40.005" end="00:25:46.001">- Professor Ken Goldberg wants <br/>to come up and - [audience shouts]</p>
       <p begin="00:25:46.001" end="00:25:49.054">
         <span tts:fontStyle="italic">...and end our hosting portion, Ken.</span>
       </p>
@@ -986,9 +986,9 @@
       <p begin="00:26:19.748" end="00:26:22.576">
         <span tts:fontStyle="italic">- You just saved a lot of money, <br/>the rabbi's still here ---</span>
       </p>
-      <p begin="00:26:22.576" end="00:26:27.564">[laughter and applause]</p>
-      <p begin="00:26:27.564" end="00:26:28.252">- [Tiffany] <span tts:fontStyle="italic">My Dad always said,</span></p>
-      <p begin="00:26:28.252" end="00:26:32.538">
+      <p begin="00:26:22.576" end="00:26:27.524">[laughter and applause]</p>
+      <p begin="00:26:27.524" end="00:26:28.452">- [Tiffany] <span tts:fontStyle="italic">My Dad always said,</span></p>
+      <p begin="00:26:28.452" end="00:26:32.538">
         <span tts:fontStyle="italic">"I wrote out in physics <br/>so you and Ken would meet."</span>
       </p>
       <p begin="00:26:32.538" end="00:26:35.822">
@@ -2673,9 +2673,6 @@
       <p begin="01:08:04.377" end="01:08:08.670">
         <span tts:fontStyle="italic">a global thinking structure <br/>with infinite possiblities.</span>
       </p>
-      <p begin="01:08:09.573" end="01:08:09.574">
-        <span tts:fontStyle="italic">firing out to everyone <br/>you're connected to.</span>
-      </p>
       <p begin="01:08:09.574" end="01:08:12.453">
         <span tts:fontStyle="italic">Rich text, hyperlink or tweet <br/>is like a neural synapse</span>
         <br/>
@@ -2815,8 +2812,8 @@
       <p begin="01:11:54.479" end="01:11:56.815">And I'll never forget it, <br/>it was this beautiful day,</p>
       <p begin="01:11:56.815" end="01:11:58.701">all the windows were open.</p>
       <p begin="01:11:58.701" end="01:12:03.707">And we're all gathered around him, <br/>and my father leaned forward and said,</p>
-      <p begin="01:12:03.707" end="01:12:03.708">"I had a realization."</p>
-      <p begin="01:12:03.708" end="01:12:03.708">And we all leaned and so ready<br/>to hear what he had to say,</p>
+      <p begin="01:12:03.707" end="01:12:05.128">"I had a realization."</p>
+      <p begin="01:12:05.128" end="01:12:09.774">And we all leaned and so ready<br/>to hear what he had to say,</p>
       <p begin="01:12:09.774" end="01:12:12.731">and it was that exact moment <br/>that he lost his ability</p>
       <p begin="01:12:12.731" end="01:12:15.441">to speak for good.</p>
       <p begin="01:12:15.441" end="01:12:20.798">And as he lay there unable to speak, <br/>we each got time alone with him.</p>
