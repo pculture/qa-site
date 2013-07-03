@@ -1,0 +1,2336 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="nl">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:13,667" end="00:00:34,233">[geklik]</p>
+      <p begin="00:00:35,133" end="00:00:36,541">&#65279;[landend vliegtuig]</p>
+      <p begin="00:00:37,333" end="00:00:39,833">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">-Ik zat in het vliegtuig op weg naar New York om een vriend te bezoeken,</span>
+      </p>
+      <p begin="00:00:40,067" end="00:00:42,641">en toen het vliegtuig begon te landen, <br xmlns="http://www.w3.org/1999/xhtml"/>kreeg ik zo&#180;n nerveus gevoel</p>
+      <p begin="00:00:42,641" end="00:00:45,926">dat ik mijn mobiele telefoon moest checken<br xmlns="http://www.w3.org/1999/xhtml"/>en ik dacht,</p>
+      <p begin="00:00:45,926" end="00:00:48,035">het is nog niet eens zo lang geleden dat<br xmlns="http://www.w3.org/1999/xhtml"/>toen een vliegtuig landde,</p>
+      <p begin="00:00:48,035" end="00:00:49,861">we naar onze sigaretten verlangden.</p>
+      <p begin="00:00:50,034" end="00:00:52,600">Nou ja, eigenlijk rookten we <br xmlns="http://www.w3.org/1999/xhtml"/>allemaal in het vliegtuig.</p>
+      <p begin="00:00:52,967" end="00:00:54,672">[Gelach]</p>
+      <p begin="00:00:54,672" end="00:00:56,808">Maar tegenwoordig velangen we <br xmlns="http://www.w3.org/1999/xhtml"/>allemaal naar onze mobieltjes</p>
+      <p begin="00:00:56,808" end="00:00:59,204">die zelfde soort van verslavende koorts</p>
+      <p begin="00:00:59,204" end="00:01:02,296">alsof we het niet verdragen om nog een <br xmlns="http://www.w3.org/1999/xhtml"/>seconde zonder verbinding te zijn.</p>
+      <p begin="00:01:03,519" end="00:01:06,447">Op straat in Manhattan maakt<br xmlns="http://www.w3.org/1999/xhtml"/>niemand oogcontact.</p>
+      <p begin="00:01:06,447" end="00:01:09,159">Iedereen kijkt naar beneden. <br xmlns="http://www.w3.org/1999/xhtml"/>Ze zijn aan het SMS'en, aan het tweeten.</p>
+      <p begin="00:01:09,159" end="00:01:10,998">Ik verwachtte bijna dat ik <br xmlns="http://www.w3.org/1999/xhtml"/>het Vrijheidsbeeld zou zien,</p>
+      <p begin="00:01:10,998" end="00:01:14,283">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">fakkel in de ene hand, SMS'end met de andere.</span>
+      </p>
+      <p begin="00:01:14,283" end="00:01:16,734">Dus ik ben eindelijk aan het lunchen<br xmlns="http://www.w3.org/1999/xhtml"/>met die goede vriend,</p>
+      <p begin="00:01:16,734" end="00:01:18,909">en we hebben een geweldige tijd <br xmlns="http://www.w3.org/1999/xhtml"/>-- Ik heb haar jaren niet gezien --</p>
+      <p begin="00:01:18,909" end="00:01:20,874">lachen, drinken, praten,</p>
+      <p begin="00:01:20,874" end="00:01:23,996">maar voel nog steeds die drang<br xmlns="http://www.w3.org/1999/xhtml"/>om mijn e-mail te checken.</p>
+      <p begin="00:01:23,996" end="00:01:26,442">Ik dacht van, Tiffany, concentreer je,<br xmlns="http://www.w3.org/1999/xhtml"/>je bent van de andere kant van</p>
+      <p begin="00:01:26,442" end="00:01:28,821">de Verenigde Staten gekomen om<br xmlns="http://www.w3.org/1999/xhtml"/>haar te zien. Concentreer je.</p>
+      <p begin="00:01:28,821" end="00:01:31,578">Maar uiteindelijk was het alsof het <br xmlns="http://www.w3.org/1999/xhtml"/>controle over me kreeg.</p>
+      <p begin="00:01:31,578" end="00:01:34,183">En toen deed ik alsof ik <br xmlns="http://www.w3.org/1999/xhtml"/>naar de WC moest.</p>
+      <p begin="00:01:34,183" end="00:01:39,413">Dus ik excuseerde me, pakte mijn telefoon, <br xmlns="http://www.w3.org/1999/xhtml"/>ging het WC hokje in,</p>
+      <p begin="00:01:39,413" end="00:01:44,152">stiekem, SMS'end, e-mailend,<br xmlns="http://www.w3.org/1999/xhtml"/>ik dacht, "wat is er van me terecht gekomen?"</p>
+      <p begin="00:01:44,152" end="00:02:29,698">&#9834; [levendige muziek] &#9834;</p>
+      <p begin="00:02:29,698" end="00:02:33,874">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">- Technologie verandert ons en de manierwaarop we met onze vrienden,</span>
+      </p>
+      <p begin="00:02:33,874" end="00:02:38,403">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">onze familie en de wereld in contact zijn. Dus ik ging erop uit</span>
+      </p>
+      <p begin="00:02:38,403" end="00:02:42,387">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">om een film te maken over wat hetbetekent om verbonden te zijn in de 21ste eeuw.</span>
+      </p>
+      <p begin="00:02:42,387" end="00:02:45,435">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">200.000 jaar lang zijn we verbonden geweest door netwerken</span>
+      </p>
+      <p begin="00:02:45,435" end="00:02:49,257">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">zowel natuurlijk als technologisch.</span>
+      </p>
+      <p begin="00:02:49,257" end="00:02:51,283">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Vandaag de dag zijn onze netwerken zo ver uitgebreid</span>
+      </p>
+      <p begin="00:02:51,283" end="00:02:55,777">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dat ze de wereld een centraalzenuwsysteem gegeven hebben.</span>
+      </p>
+      <p begin="00:02:55,777" end="00:02:59,180">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ergens gebeurt iets en we kunnen hetzien en voelen</span>
+      </p>
+      <p begin="00:02:59,180" end="00:03:02,732">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en er iets aan doen, </span>
+      </p>
+      <p begin="00:03:02,732" end="00:03:05,917">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dat geeft enorme mogelijkheden.</span>
+      </p>
+      <p begin="00:03:05,917" end="00:03:07,128">[spetter]</p>
+      <p begin="00:03:07,128" end="00:03:10,991">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar technologie heeft ook grote problemen veroorzaakt.</span>
+      </p>
+      <p begin="00:03:10,991" end="00:03:13,191">[ratelende naaimachines]</p>
+      <p begin="00:03:13,191" end="00:03:16,615">[schietend machinegeweer]</p>
+      <p begin="00:03:16,615" end="00:03:20,184">[botsen]</p>
+      <p begin="00:03:20,184" end="00:03:26,040">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het versnelt onze verbondenheid op manierendie we niet kunnen voorspellen.</span>
+      </p>
+      <p begin="00:03:26,040" end="00:03:29,161">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Kijk naar de bijen,</span>
+      </p>
+      <p begin="00:03:29,161" end="00:03:31,161">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hun recente verdwijning is hetperfecte voorbeeld.</span>
+      </p>
+      <p begin="00:03:31,161" end="00:03:34,844">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">van de manier waarop allesverbonden is.</span>
+      </p>
+      <p begin="00:03:34,844" end="00:03:38,345">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Albert Einstein voorspelde dat, als de bijen zouden verdwijnen,</span>
+      </p>
+      <p begin="00:03:38,345" end="00:03:42,638">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">de mensheid binnen vier jaar verdwenen zou zijn.</span>
+      </p>
+      <p begin="00:03:42,638" end="00:03:47,098">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Geen bijen, geen bestuiving van vruchten,</span>
+      </p>
+      <p begin="00:03:47,098" end="00:03:51,292">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">geen mensen meer.</span>
+      </p>
+      <p begin="00:03:51,292" end="00:03:53,789">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus als &#233;&#233;n verandering inonze over-verbonden wereld</span>
+      </p>
+      <p begin="00:03:53,789" end="00:03:56,676">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">zulke vergaande consequenties kan hebben, </span>
+      </p>
+      <p begin="00:03:56,676" end="00:03:59,038">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hoe gebruiken we dan de krachtvan al die verbindingen</span>
+      </p>
+      <p begin="00:03:59,038" end="00:04:03,518">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">om dingen te veranderen?</span>
+      </p>
+      <p begin="00:04:03,518" end="00:04:07,436">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dat was de vraag die ikonderzocht in deze film.</span>
+      </p>
+      <p begin="00:04:07,436" end="00:04:10,345">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En toen beleefde ik een jaar datmijn leven veranderde.</span>
+      </p>
+      <p begin="00:04:10,345" end="00:04:13,931">[loeiende sirene]</p>
+      <p begin="00:04:13,931" end="00:04:16,415">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dat me dwong om alles wat ik dacht te begrijpen</span>
+      </p>
+      <p begin="00:04:16,415" end="00:04:17,821">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">over de manier waarop we verbonden zijn, te heroverwegen.</span>
+      </p>
+      <p begin="00:04:17,821" end="00:04:21,815">[loeiende sirene]</p>
+      <p begin="00:04:26,353" end="00:04:30,531">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen ik klein was, had ikmijn eigen versie van Einstein.</span>
+      </p>
+      <p begin="00:04:30,531" end="00:04:33,764">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik noemde hem papa.</span>
+      </p>
+      <p begin="00:04:33,764" end="00:04:39,059">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij was degene die me leerde om naar verbindingen te zoeken. </span>
+      </p>
+      <p begin="00:04:39,059" end="00:04:42,727">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij was een chirurg met specialeinteresse in het brein. </span>
+      </p>
+      <p begin="00:04:42,727" end="00:04:49,879">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hij had altijd leuke manieren omons over zijn werk te leren.</span>
+      </p>
+      <p begin="00:04:49,879" end="00:04:52,488">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen ik in de derde klas zat, kwam hij mijn klaslokaal in</span>
+      </p>
+      <p begin="00:04:52,488" end="00:04:54,510">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">met een enorme bak ijs.</span>
+      </p>
+      <p begin="00:04:54,510" end="00:04:55,810">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> Hij zette hem op het bureau van de meester</span>
+      </p>
+      <p begin="00:04:55,810" end="00:04:58,995">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en hij begon over het menselijk breinte praten.</span>
+      </p>
+      <p begin="00:04:58,995" end="00:05:01,729">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij zei dat de werking van het breinheel ingewikkeld is.</span>
+      </p>
+      <p begin="00:05:01,729" end="00:05:05,942">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar een makkelijke uitleg is,dat er twee hersenhelften zijn.</span>
+      </p>
+      <p begin="00:05:05,942" end="00:05:08,199">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De linkerhelft verduidelijkt en cre&#235;ert orde,</span>
+      </p>
+      <p begin="00:05:08,199" end="00:05:11,926">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en de rechterhelft herkent patronenen cre&#235;ert emoties.</span>
+      </p>
+      <p begin="00:05:11,926" end="00:05:13,667">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hij vertelde hoe die tweehersenhelften</span>
+      </p>
+      <p begin="00:05:13,667" end="00:05:16,445">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">samen moeten werken.</span>
+      </p>
+      <p begin="00:05:16,445" end="00:05:19,513">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En aan het eind van de lesmaakte hij de bak ijs open</span>
+      </p>
+      <p begin="00:05:19,513" end="00:05:22,869">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en er zaten echte hersensop sterk water in.</span>
+      </p>
+      <p begin="00:05:22,869" end="00:05:26,071">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Iedereen werd gek.</span>
+      </p>
+      <p begin="00:05:26,071" end="00:05:30,454">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En toen nam hij ons meeen trakteerde ons op ijs.</span>
+      </p>
+      <p begin="00:05:30,454" end="00:05:33,719">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Behalve dat hij een chirurg was, schreef mijn vader ook bestsellers</span>
+      </p>
+      <p begin="00:05:33,719" end="00:05:37,205">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">waarin hij verbindingen maakt tussen verschillende gebieden.</span>
+      </p>
+      <p begin="00:05:37,205" end="00:05:39,551">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij zocht patronen in de geschiedenisom inzicht te geven</span>
+      </p>
+      <p begin="00:05:39,551" end="00:05:42,301">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">in waarom we doen wat we doen.</span>
+      </p>
+      <p begin="00:05:42,301" end="00:05:45,706">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">in zijn eerste boek trok bij een vergelijkingtussen doorbraken in de kunst,</span>
+      </p>
+      <p begin="00:05:45,706" end="00:05:48,384">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en doorbraken in de wetenschap.</span>
+      </p>
+      <p begin="00:05:48,384" end="00:05:52,691">- De kunstenaar laat de realiteit zien</p>
+      <p begin="00:05:52,691" end="00:05:54,733">door middel van afbeeldingen en metaforen.</p>
+      <p begin="00:05:54,733" end="00:05:58,354">En de wetenschapper onderzoekt de realiteit</p>
+      <p begin="00:05:58,354" end="00:06:01,193">en laat die zien door middel van<br xmlns="http://www.w3.org/1999/xhtml"/>cijfers en berekeningen.</p>
+      <p begin="00:06:01,193" end="00:06:04,083">Het is hetzelfde, <br xmlns="http://www.w3.org/1999/xhtml"/>maar het zijn verschillende talen.</p>
+      <p begin="00:06:04,083" end="00:06:07,854">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Zoals het kubisme de perceptie vantijd en ruimte op de proef stelde.</span>
+      </p>
+      <p begin="00:06:07,854" end="00:06:12,231">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">net voordat Einstein zijn theorie over tijd en ruimte publiceerde.</span>
+      </p>
+      <p begin="00:06:14,133" end="00:06:18,608">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Of hoe de kunstenaar Zoroaster schilderdemet minuscule puntjes</span>
+      </p>
+      <p begin="00:06:18,608" end="00:06:22,619">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">rond dezelfde tijd dat de wetenschapde molecuul ontdekte.</span>
+      </p>
+      <p begin="00:06:22,619" end="00:06:27,131">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij vond dit soort voorbeeldenin de hele geschiedenis.</span>
+      </p>
+      <p begin="00:06:27,131" end="00:06:35,575">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Zijn boeken be&#239;nvloedden een hoop mensen.</span>
+      </p>
+      <p begin="00:06:35,575" end="00:06:37,457">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Soms kreeg hij kritiek, omdat hij geen</span>
+      </p>
+      <p begin="00:06:37,457" end="00:06:39,825">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">expert was over de gebieden waarover hij schreef.</span>
+      </p>
+      <p begin="00:06:39,825" end="00:06:41,705">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar ik denk dat het zijn vogelvluchtperspectief was</span>
+      </p>
+      <p begin="00:06:41,705" end="00:06:47,396">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dat ervoor zorgde dat hijde grotere verbindingen kon zien.</span>
+      </p>
+      <p begin="00:06:47,396" end="00:06:50,915">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Mijn vader kon overieder onderwerp praten.</span>
+      </p>
+      <p begin="00:06:50,915" end="00:06:55,053">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">We noemden hem altijd "Leonipedia".</span>
+      </p>
+      <p begin="00:06:55,053" end="00:06:58,592">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij en ik praatten al jaren overhet maken van een film.</span>
+      </p>
+      <p begin="00:06:58,592" end="00:07:01,230">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus toen ik al die verbindingenbegon te onderzoeken</span>
+      </p>
+      <p begin="00:07:01,230" end="00:07:04,256">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en hoe we ze konden gebruiken omonze problemen op te lossen,</span>
+      </p>
+      <p begin="00:07:04,256" end="00:07:08,138">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">was het een natuurlijke stap omhem als co-schrijver te vragen,</span>
+      </p>
+      <p begin="00:07:08,138" end="00:07:13,430">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">vooral omdat hij en mijn moedermijn brein hebben geschreven.</span>
+      </p>
+      <p begin="00:07:13,430" end="00:07:18,179">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En ik had echt hulp nodig -- kijk naar mijn eerste notities.</span>
+      </p>
+      <p begin="00:07:18,179" end="00:07:26,935">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik heb weken naar een foto gestaard,niet wetende hoe te beginnen.</span>
+      </p>
+      <p begin="00:07:26,935" end="00:07:29,504">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Alles is zo verwikkeld met elkaar</span>
+      </p>
+      <p begin="00:07:29,504" end="00:07:33,230">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ik dacht dat dat misschien een deel van het probleem was --</span>
+      </p>
+      <p begin="00:07:33,230" end="00:07:38,828">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> dat we probeerden om alle issuesafzonderlijk op te lossen.</span>
+      </p>
+      <p begin="00:07:38,828" end="00:07:41,622">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Waarom zijn we daar ooit mee begonnen?</span>
+      </p>
+      <p begin="00:07:41,622" end="00:07:45,019">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus ik vroeg mijn vader naar zijn perspectief.</span>
+      </p>
+      <p begin="00:07:45,019" end="00:07:48,699">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij zei, kijk naar de geschiedenis enzoek naar patronen.</span>
+      </p>
+      <p begin="00:07:48,699" end="00:07:53,344">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Doe alsof je een alien bent, die naar de mens kijkt.</span>
+      </p>
+      <p begin="00:07:53,344" end="00:07:56,347">&#9834;[neurien] &#9834;</p>
+      <p begin="00:07:56,347" end="00:07:57,205">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus dat deed ik.</span>
+      </p>
+      <p begin="00:07:58,229" end="00:08:00,606">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik nam een verteller aan om daar een missie-gevoel aan te geven.</span>
+      </p>
+      <p begin="00:08:00,606" end="00:08:03,251">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ik ging heel ver terug.</span>
+      </p>
+      <p begin="00:08:03,251" end="00:08:05,752">- <span tts:fontStyle="italic">[Verteller] [schraapt keel]</span></p>
+      <p begin="00:08:05,752" end="00:08:09,679">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Op een dag explodeerde er een puntje</span>
+      </p>
+      <p begin="00:08:09,679" end="00:08:11,196">[explosie]</p>
+      <p begin="00:08:11,196" end="00:08:13,541">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">het heelal in.</span>
+      </p>
+      <p begin="00:08:17,573" end="00:08:22,256">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat de kettingreactie veroorzaakte,die tot het leven leidde.</span>
+      </p>
+      <p begin="00:08:22,256" end="00:08:24,007">[rommelende donder]</p>
+      <p begin="00:08:24,007" end="00:08:27,610">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Een tijd lang waren erdinosaurussen.</span>
+      </p>
+      <p begin="00:08:27,610" end="00:08:28,982">[huilende dinosaurus]</p>
+      <p begin="00:08:28,982" end="00:08:29,766">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen niet meer.</span>
+      </p>
+      <p begin="00:08:29,766" end="00:08:31,936">[spetter]</p>
+      <p begin="00:08:31,936" end="00:08:35,492">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Een van de theorie&#235;n over hun uitsterven is, dat ze zich niet konden aanpassen</span>
+      </p>
+      <p begin="00:08:35,492" end="00:08:41,713">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">aan de nieuwe bloeiende planten, die afhankelijk waren van bijen.</span>
+      </p>
+      <p begin="00:08:41,713" end="00:08:45,947">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Slecht nieuws voor de dinosaurussen, goed nieuws voor de bijen.</span>
+      </p>
+      <p begin="00:08:45,947" end="00:08:48,395">[zoemende bijen]</p>
+      <p begin="00:08:48,395" end="00:08:53,471">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen ontstond er een groep vanhele aanpasbare zoogdieren.</span>
+      </p>
+      <p begin="00:08:53,471" end="00:08:59,557">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het waren sociale, liefhebbende wezens, die met elkaar verbonden waren.</span>
+      </p>
+      <p begin="00:08:59,557" end="00:09:02,551">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Eerst waren er maar een paar.</span>
+      </p>
+      <p begin="00:09:02,551" end="00:09:06,924">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar ze hadden voordelige eigenschappen,hun opponeerbare duim</span>
+      </p>
+      <p begin="00:09:06,924" end="00:09:09,762">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">waarmee ze heel goed konden grijpen.</span>
+      </p>
+      <p begin="00:09:14,067" end="00:09:20,692">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en hun uitzonderlijk grote brein, dat goed was in het begrijpen van idee&#235;n.</span>
+      </p>
+      <p begin="00:09:22,918" end="00:09:26,286">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het menselijk brein groeide snelin de vroege evolutie.</span>
+      </p>
+      <p begin="00:09:26,286" end="00:09:30,023">*Niet zo dat ze gereedschappen konden gebruiken, <br xmlns="http://www.w3.org/1999/xhtml"/>of hun denkvermogen konden vergroten,</p>
+      <p begin="00:09:30,023" end="00:09:33,244">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">maar vanwege hun behoefte aan verbinding.</span>
+      </p>
+      <p begin="00:09:33,244" end="00:09:36,330">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Omdat menselijke baby's niet volledig ontwikkeld zijn, </span>
+      </p>
+      <p begin="00:09:36,330" end="00:09:39,929">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">zijn ze langer afhankelijk van hun oudersdan andere soorten.</span>
+      </p>
+      <p begin="00:09:39,929" end="00:09:46,811">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus het menselijk brein is ontwikkeldom menselijk contact te zoeken ter overleving.</span>
+      </p>
+      <p begin="00:09:46,811" end="00:09:49,342">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dit brein is wat mensen onderscheidt</span>
+      </p>
+      <p begin="00:09:49,342" end="00:09:53,171">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">van de andere twee miljoen soorten op aarde.</span>
+      </p>
+      <p begin="00:09:53,171" end="00:09:55,358">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar miljoenen jaren lang konden ze niet met elkaar </span>
+      </p>
+      <p begin="00:09:55,358" end="00:09:58,223">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">communiceren over wat ze wisten overde wereld,</span>
+      </p>
+      <p begin="00:09:58,223" end="00:10:00,078">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">omdat ze geen geschreven taal hadden.</span>
+      </p>
+      <p begin="00:10:02,803" end="00:10:06,639">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen vonden ze eindelijk eenradicale nieuwe technologie uit</span>
+      </p>
+      <p begin="00:10:08,467" end="00:10:10,137">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">die hun levens voor goed zou veranderen.</span>
+      </p>
+      <p begin="00:10:19,392" end="00:10:23,959">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het alfabet maakte het makkelijker om te registreren</span>
+      </p>
+      <p begin="00:10:23,959" end="00:10:25,739">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">voor toekomstige generaties</span>
+      </p>
+      <p begin="00:10:25,739" end="00:10:31,466">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> wat er gebeurd was enwat ze hadden geleerd.</span>
+      </p>
+      <p begin="00:10:31,466" end="00:10:33,357">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Door kennis op te stapelen,</span>
+      </p>
+      <p begin="00:10:33,357" end="00:10:43,266">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">konden mensen zich ontwikkelenen vermenigvuldigen.</span>
+      </p>
+      <p begin="00:10:43,266" end="00:10:48,792">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar geletterdheid leidde ook totiets onverwachts.</span>
+      </p>
+      <p begin="00:10:48,792" end="00:10:51,034">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">In het "Alphabet Versus the Goddess"</span>
+      </p>
+      <p begin="00:10:51,034" end="00:10:53,457">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">laat Leonard Shlain zien hoe geletterdheidde manier waarop mensen denken, </span>
+      </p>
+      <p begin="00:10:53,457" end="00:10:56,778">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">veranderd heeft.</span>
+      </p>
+      <p begin="00:10:56,778" end="00:11:01,016">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen het alfabet in de maatschappij werd ge&#239;ntroduceerd,</span>
+      </p>
+      <p begin="00:11:01,016" end="00:11:04,410">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">werd de analytische linker hersenhelftovergestimuleerd.</span>
+      </p>
+      <p begin="00:11:04,410" end="00:11:07,094">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij gaat uit van de theoriedat de linker hersenhelft,</span>
+      </p>
+      <p begin="00:11:07,094" end="00:11:13,019">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">die gebruikt wordt voor lezen en schrijven,samenhangt met masculiene eigenschappen,</span>
+      </p>
+      <p begin="00:11:13,019" end="00:11:16,440">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en dat de rechter hersenhelft, gebruikt om afbeeldingen en patronen te zien</span>
+      </p>
+      <p begin="00:11:19,716" end="00:11:22,358">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">vrouwelijker is.</span>
+      </p>
+      <p begin="00:11:22,358" end="00:11:27,052">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus Schlain suggereert dat de komst van de geletterdheid de balans van de macht</span>
+      </p>
+      <p begin="00:11:27,052" end="00:11:30,923">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">tussen mannen en vrouwen verschoven heeft.</span>
+      </p>
+      <p begin="00:11:30,923" end="00:11:35,051">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">In de meeste antieke culturen aanbiddenmannen de godinnen.</span>
+      </p>
+      <p begin="00:11:35,051" end="00:11:38,136">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Op het moment dat geletterdheid ge&#239;ntroduceerd werd in een samenleving,</span>
+      </p>
+      <p begin="00:11:38,136" end="00:11:43,520">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">ontstond er een meer patriarchale instelling.</span>
+      </p>
+      <p begin="00:11:43,520" end="00:11:46,394">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij volgde dit patroon gedurende de geschiedenis,</span>
+      </p>
+      <p begin="00:11:46,394" end="00:11:49,114">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">vond connecties tussen het begin van de geletterdheid</span>
+      </p>
+      <p begin="00:11:49,114" end="00:11:56,085">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en onderdrukking van vrouwen wereldwijd.</span>
+      </p>
+      <p begin="00:11:56,085" end="00:11:58,511">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> - Misschien kan ik voortborduren op deidee&#235;n over</span>
+      </p>
+      <p begin="00:11:58,511" end="00:12:00,922">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">geletterdheid en het patriarchaatvan mijn vader.</span>
+      </p>
+      <p begin="00:12:00,922" end="00:12:02,800">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Als hij zegt dat de uitvinding van het schrijven</span>
+      </p>
+      <p begin="00:12:02,800" end="00:12:06,274">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">ons naar een meer analytischedenkwijze heeft doen verschuiven,</span>
+      </p>
+      <p begin="00:12:06,274" end="00:12:11,728">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">heeft dit misschien ook geleid tothet ge&#239;soleerd denken over wereldproblemen.</span>
+      </p>
+      <p begin="00:12:11,728" end="00:12:14,629">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik kon niet wachten om mijn vader te bellenom te vragen wat hij van dat idee vond.</span>
+      </p>
+      <p begin="00:12:14,629" end="00:12:25,952">[rinkelende telefoon]</p>
+      <p begin="00:12:25,952" end="00:12:30,611">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar er nam niemand op.</span>
+      </p>
+      <p begin="00:12:30,611" end="00:12:33,050">[loeiende sirene]</p>
+      <p begin="00:12:38,396" end="00:12:40,149">[piepen]</p>
+      <p begin="00:12:43,212" end="00:12:44,895">[piepen]</p>
+      <p begin="00:13:46,151" end="00:13:49,216">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik voelde me weer als een kind.</span>
+      </p>
+      <p begin="00:13:51,960" end="00:13:53,517">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik weet nog dat ik vier jaar oud was,</span>
+      </p>
+      <p begin="00:13:53,517" end="00:13:57,287">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">we waren aan het ski&#235;n en we zatenin een hele lange stoeltjeslift.</span>
+      </p>
+      <p begin="00:13:58,892" end="00:14:02,199">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik zat er pas net in en ik viel eruit</span>
+      </p>
+      <p begin="00:14:02,199" end="00:14:05,152">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en mijn vader greep de capuchon van mijn jas</span>
+      </p>
+      <p begin="00:14:05,152" end="00:14:07,468">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ik bungelde aan de stoeltjesliften hij held me vast</span>
+      </p>
+      <p begin="00:14:07,468" end="00:14:10,143">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">met al zijn vermogen.</span>
+      </p>
+      <p begin="00:14:10,143" end="00:14:12,181">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">We waren twaalf meter hoog en erwas sneeuw onder ons</span>
+      </p>
+      <p begin="00:14:12,181" end="00:14:15,619">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">maar we zagen rotsen voor ons.</span>
+      </p>
+      <p begin="00:14:15,619" end="00:14:18,664">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hij keek naar me en zei,"Ik kan je niet de hele weg vasthouden."</span>
+      </p>
+      <p begin="00:14:18,664" end="00:14:21,088">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Het is veiliger om je boven de sneeuw los te laten."</span>
+      </p>
+      <p begin="00:14:21,873" end="00:14:25,843">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En ik bleef roepen,"Papa, papa, laat me niet los!"</span>
+      </p>
+      <p begin="00:14:25,843" end="00:14:30,455">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hij keek in mijn ogen en hij zei,"Het komt goed."</span>
+      </p>
+      <p begin="00:14:30,455" end="00:14:32,028">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En toen liet hij me vallen.</span>
+      </p>
+      <p begin="00:14:38,119" end="00:14:39,993">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij moest wel.</span>
+      </p>
+      <p begin="00:14:46,523" end="00:14:50,405">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En nu had ik plotseling hetzelfde gevoel,</span>
+      </p>
+      <p begin="00:14:50,405" end="00:14:54,462">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">van,"Papa laat me niet los".</span>
+      </p>
+      <p begin="00:14:54,462" end="00:14:58,726">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik kon me mijn wereld niet zonder hem voorstellen.</span>
+      </p>
+      <p begin="00:15:02,748" end="00:15:04,599">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Die eerste paar dagen, terwijl hij in het ziekenhuis lag</span>
+      </p>
+      <p begin="00:15:04,599" end="00:15:10,149">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">herstellende van een hersenoperatie, had iedereen adviezen."</span>
+      </p>
+      <p begin="00:15:10,149" end="00:15:13,565">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik sprak een goede vriend, die zijn vader verloren had,</span>
+      </p>
+      <p begin="00:15:13,565" end="00:15:18,579">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hij zei dat het belangrijkste advies was, mijn vader te filmen.</span>
+      </p>
+      <p begin="00:15:18,579" end="00:15:21,179">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij had grote spijt dat hij zijn vader niet had gefilmd</span>
+      </p>
+      <p begin="00:15:21,179" end="00:15:25,150">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">voordat het te laat was.</span>
+      </p>
+      <p begin="00:15:25,150" end="00:15:29,164">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik wist dat ik zo snel mogelijk moest beginnen.</span>
+      </p>
+      <p begin="00:15:30,318" end="00:15:32,160">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar ook al had ik aleen hoop films gemaakt,</span>
+      </p>
+      <p begin="00:15:32,160" end="00:15:36,784">*ik wist niet hoe ik de essentie van mijn vader<br xmlns="http://www.w3.org/1999/xhtml"/>op film kon vastleggen.+</p>
+      <p begin="00:15:42,461" end="00:15:44,382">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Mijn vader zei altijd dat we de enige soort zijn</span>
+      </p>
+      <p begin="00:15:44,382" end="00:15:46,352">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">die weet dat ze gaan sterven,</span>
+      </p>
+      <p begin="00:15:46,352" end="00:15:50,569">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en dat veel dingen die we doen, gedreven worden door die wetenschap.</span>
+      </p>
+      <p begin="00:15:53,763" end="00:15:55,405">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Mijn moeder zou zeggen datemotionele verbinding</span>
+      </p>
+      <p begin="00:15:55,405" end="00:15:59,061">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">ons drijft.</span>
+      </p>
+      <p begin="00:16:00,308" end="00:16:02,223">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">ik dacht dat ik begreep wat ze bedoelden.</span>
+      </p>
+      <p begin="00:16:05,714" end="00:16:09,299">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De dood is heel abstract, totdat iemand waarvanje houdt voor je ogen sterft.</span>
+      </p>
+      <p begin="00:16:21,730" end="00:16:25,252">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Een paar dagen nadat mijn vader ongeveer negen maanden te leven kreeg,</span>
+      </p>
+      <p begin="00:16:25,252" end="00:16:27,350">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hoorden mijn man Ken en ikdat ik zwanger was.</span>
+      </p>
+      <p begin="00:16:29,366" end="00:16:33,616">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar we hadden al vijf miskramen gehad.</span>
+      </p>
+      <p begin="00:16:41,819" end="00:16:43,727">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De geboorte van ons eerste kind was heel makkelijk</span>
+      </p>
+      <p begin="00:16:43,727" end="00:16:48,558">- [Meisje] &#9834; Twinkle twinkle little star <br xmlns="http://www.w3.org/1999/xhtml"/>How I wonder what you are. &#9834;</p>
+      <p begin="00:16:50,628" end="00:16:54,806">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar een tweede kind krijgenbleek veel moeilijker te zijn.</span>
+      </p>
+      <p begin="00:16:56,206" end="00:17:00,084">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik had nergens meer controle over,</span>
+      </p>
+      <p begin="00:17:02,132" end="00:17:05,649">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">behalve als ik aan de film aan het werken was.</span>
+      </p>
+      <p begin="00:17:05,649" end="00:17:14,665">&#9834; [muziek] &#9834;</p>
+      <p begin="00:17:14,665" end="00:17:18,342">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Alles waarover we na hadden gedachtwerd opeens urgent.</span>
+      </p>
+      <p begin="00:17:22,505" end="00:17:25,254">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat voor wereld geven we door aan de volgende generatie?</span>
+      </p>
+      <p begin="00:17:25,296" end="00:17:26,375">explosie</p>
+      <p begin="00:17:26,375" end="00:17:27,761">schreeuwende mensen</p>
+      <p begin="00:17:29,322" end="00:17:32,921">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wij mensen hebben zo veelkennis verzameld.</span>
+      </p>
+      <p begin="00:17:32,921" end="00:17:35,963">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Waarom vinden we het zo moeilijk om het grotere geheel te zien?</span>
+      </p>
+      <p begin="00:17:35,963" end="00:17:38,051">applaus</p>
+      <p begin="00:17:38,051" end="00:17:47,883">&#9834; [muziek] &#9834;</p>
+      <p begin="00:17:47,883" end="00:17:51,519">- <span tts:fontStyle="italic">Toen mensen zich ontwikkeldenin de westelijke beschaving,</span></p>
+      <p begin="00:17:51,519" end="00:17:58,007">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">domineerde de mannen en het denken met de linker hersenhelft.</span>
+      </p>
+      <p begin="00:17:58,007" end="00:18:01,770">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Op het moment dat er een probleem was, was hun strategie</span>
+      </p>
+      <p begin="00:18:01,770" end="00:18:07,583">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">om het in stukjes te delen om het op te kunnen lossen.</span>
+      </p>
+      <p begin="00:18:07,583" end="00:18:14,366">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ze verdeelden en onderverdeelden, isoleerden en analyseerden.</span>
+      </p>
+      <p begin="00:18:14,366" end="00:18:17,186">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ze formuleerden theorie&#235;n over hun ontdekkingen</span>
+      </p>
+      <p begin="00:18:17,186" end="00:18:21,144">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ontwikkelden een methode om die theorie&#235;n te testen.</span>
+      </p>
+      <p begin="00:18:21,144" end="00:18:26,740"><span tts:fontStyle="italic">Ze noemden het </span>scientia*, <br xmlns="http://www.w3.org/1999/xhtml"/>naar het Griekse woord voor verdelen.</p>
+      <p begin="00:18:28,404" end="00:18:32,473">*Deze strategie werkte zo goed dat ze<br xmlns="http://www.w3.org/1999/xhtml"/>alles wat ze ontdekten</p>
+      <p begin="00:18:32,473" end="00:18:35,856">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">begonnen te verdelen en opsplitsen.</span>
+      </p>
+      <p begin="00:18:35,856" end="00:18:38,992">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het classificeren en verdelen van alles om hen heen.</span>
+      </p>
+      <p begin="00:18:38,992" end="00:18:42,869">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">werd een hele nieuwe wereldvisie.</span>
+      </p>
+      <p begin="00:18:42,869" end="00:18:48,956">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ze verdeelden dieren bijvoorbeeldin honderden subcategorieen.</span>
+      </p>
+      <p begin="00:18:48,956" end="00:18:52,277">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Een visie van divisies.</span>
+      </p>
+      <p begin="00:18:52,277" end="00:18:57,137"><span tts:fontStyle="italic">Ze classificeerden zelfs hun eigen soort,die ze de naam </span>homo sapiens<span tts:fontStyle="italic"> gaven,</span></p>
+      <p begin="00:18:57,137" end="00:19:02,635">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">wat "wijs wezen" betekende, omdat ze zulke wijze mannen waren.</span>
+      </p>
+      <p begin="00:19:02,635" end="00:19:05,700">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hun scherpzinnigheid deed hengeloven dat ze anders waren</span>
+      </p>
+      <p begin="00:19:05,700" end="00:19:07,834">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dan andere wezens.</span>
+      </p>
+      <p begin="00:19:07,834" end="00:19:14,845">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Zo veel, dat ze zichzelf gingen zienals onafhankelijk van de natuur.</span>
+      </p>
+      <p begin="00:19:14,845" end="00:19:17,968">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Compleet.</span>
+      </p>
+      <p begin="00:19:17,968" end="00:19:20,272">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Heel linker hersenhelft.</span>
+      </p>
+      <p begin="00:19:28,066" end="00:19:32,717">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">- Mijn vaders tumor zat in de linker hersenhelft, in het spraakcentrum.</span>
+      </p>
+      <p begin="00:19:32,717" end="00:19:36,674">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Vlak na de operatie kon hijhelemaal niet praten.</span>
+      </p>
+      <p begin="00:19:36,674" end="00:19:41,386">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De artsen wisten niet of zijn spraakooit terug zou komen.</span>
+      </p>
+      <p begin="00:19:41,386" end="00:19:43,546">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik was bang dat ik zijn stemnooit meer zou horen,</span>
+      </p>
+      <p begin="00:19:45,894" end="00:19:51,081">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en dat mijn kans om hem te filmenal verloren was.</span>
+      </p>
+      <p begin="00:19:58,268" end="00:20:00,186">[antwoordapparaat] <span tts:fontStyle="italic">Hoi, dit is Leonard Schlain,</span></p>
+      <p begin="00:20:00,186" end="00:20:04,629">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">spreek je naam een telefoonnummerheel langzaam in.</span>
+      </p>
+      <p begin="00:20:04,629" end="00:20:06,925">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Heel erg bedankt, dag.</span>
+      </p>
+      <p begin="00:20:06,925" end="00:20:09,354">[beltoon]</p>
+      <p begin="00:20:09,354" end="00:20:11,307">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> - Ik was er zo aan gewendhem elke ochtend te bellen</span>
+      </p>
+      <p begin="00:20:11,307" end="00:20:13,754">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">om alles te besprekenwat er gaande was</span>
+      </p>
+      <p begin="00:20:13,754" end="00:20:16,525">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en het was heel moeilijkom dat niet meer te doen.</span>
+      </p>
+      <p begin="00:20:18,033" end="00:20:21,247">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Er ging zo veel in mijn hoofd om.</span>
+      </p>
+      <p begin="00:20:21,247" end="00:20:26,354">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat voor wereld hebben we gecre&#235;erd,waarin er een epidemie van kanker is.</span>
+      </p>
+      <p begin="00:20:26,354" end="00:20:30,202">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Waardoor wordt dat veroorzaakt?</span>
+      </p>
+      <p begin="00:20:30,202" end="00:20:34,220">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">We sturen allerlei straling directonze hoofden in.</span>
+      </p>
+      <p begin="00:20:34,220" end="00:20:37,666">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat gaan studies over tien jaar uitwijzenover mobiele telefoons en kanker?</span>
+      </p>
+      <p begin="00:20:39,914" end="00:20:42,592">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Of over gifstoffen, pesticiden en stress?</span>
+      </p>
+      <p begin="00:20:45,274" end="00:20:48,680">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">We hebben het over hetzelfde, als het gaat om de verdwenen bijen.</span>
+      </p>
+      <p begin="00:20:50,654" end="00:20:51,999">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat vertellen de bijen ons?</span>
+      </p>
+      <p begin="00:20:55,108" end="00:20:58,638">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Misschien werken we allemaal te hard.</span>
+      </p>
+      <p begin="00:20:58,638" end="00:21:02,144">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En mijn vader heeft zijn breinheel hard laten werken.</span>
+      </p>
+      <p begin="00:21:02,144" end="00:21:06,395">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik vroeg me af of hij zijn geest te veel uitgerekt had.</span>
+      </p>
+      <p begin="00:21:07,434" end="00:21:10,944">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik weet dat het irrationeel is,maar ik denk daar nog steeds over na.</span>
+      </p>
+      <p begin="00:21:10,944" end="00:21:13,682">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En dat ik toen niet met hem kon praten,maakte het extra moeilijk,</span>
+      </p>
+      <p begin="00:21:13,682" end="00:21:17,971">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">omdat Ken en ik altijd bij hem terechtkonden voor advies.</span>
+      </p>
+      <p begin="00:21:17,971" end="00:21:22,158">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hier was ik, aan het begin van een risicovolle zwangerschap.</span>
+      </p>
+      <p begin="00:21:22,158" end="00:21:23,117">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">We ondergingen allerlei testen</span>
+      </p>
+      <p begin="00:21:23,117" end="00:21:27,097">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en we wisten niet of het nog driemaanden goed zou gaan.</span>
+      </p>
+      <p begin="00:21:28,166" end="00:21:32,345">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En natuurlijk waren we heel nerveusvanwege mijn verleden,</span>
+      </p>
+      <p begin="00:21:32,345" end="00:21:34,529">nog zwijgende over het feit dat er <br xmlns="http://www.w3.org/1999/xhtml"/>driehonderd chemicali&#235;n*</p>
+      <p begin="00:21:34,529" end="00:21:38,101">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> in het bloed van de navelstreng zijn gevonden.</span>
+      </p>
+      <p begin="00:21:38,101" end="00:21:41,838">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en de helft daarvan veroorzaakt kanker,</span>
+      </p>
+      <p begin="00:21:41,944" end="00:21:43,705">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">zoals kwik.</span>
+      </p>
+      <p begin="00:21:53,532" end="00:21:56,800">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Na al die miskramen probeerde ikeindelijk kunstmatige bevruchting</span>
+      </p>
+      <p begin="00:21:56,800" end="00:22:00,664">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en dit was onze derde en laatste poging.</span>
+      </p>
+      <p begin="00:22:02,646" end="00:22:04,521">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> We hadden onze eerste echo een paar weken</span>
+      </p>
+      <p begin="00:22:04,521" end="00:22:08,374">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">nadat mijn vader uit het ziekenhuis was ontslagen.</span>
+      </p>
+      <p begin="00:22:08,374" end="00:22:10,772">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij kon nog steeds net duidelijk praten,maar het was een belangrijk moment,</span>
+      </p>
+      <p begin="00:22:10,772" end="00:22:14,515">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en hij en mijn stiefmoeder wilden heel graag komen.</span>
+      </p>
+      <p begin="00:22:14,515" end="00:22:19,683">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De dokter deed de monitor aan,ik was zwanger van een tweeling.</span>
+      </p>
+      <p begin="00:22:21,716" end="00:22:24,427">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het was zo'n opluchting, na alles wat we hadden doorgemaakt.</span>
+      </p>
+      <p begin="00:22:27,096" end="00:22:33,656">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Alle ziekenhuisbezoeken, de testen,de injecties, de onzekerheid...</span>
+      </p>
+      <p begin="00:22:33,656" end="00:22:38,390">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Mijn ervaring was zo anders dan de generatie van mijn moeder.</span>
+      </p>
+      <p begin="00:22:38,390" end="00:22:39,280">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ze zei altijd,</span>
+      </p>
+      <p begin="00:22:39,280" end="00:22:44,990">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Ik werd misselijk, kwam aan,en negen maanden later had ik een baby."</span>
+      </p>
+      <p begin="00:22:44,990" end="00:22:48,674">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar voor haar was het ook niet makkelijk.</span>
+      </p>
+      <p begin="00:22:48,674" end="00:22:51,292">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Mijn moeder wilde een carri&#232;re, maar had het gevoel dat ze moest kiezen</span>
+      </p>
+      <p begin="00:22:51,292" end="00:22:54,129">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">tussen kinderen en werk.</span>
+      </p>
+      <p begin="00:22:59,130" end="00:23:03,237">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Pas nadat ze ons had opgevoeden mijn ouders waren gescheiden,</span>
+      </p>
+      <p begin="00:23:03,237" end="00:23:07,173">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">haalde ze haar doctoraal psychologie.</span>
+      </p>
+      <p begin="00:23:07,173" end="00:23:09,324">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik wilde echter eerst een carri&#232;re,</span>
+      </p>
+      <p begin="00:23:09,324" end="00:23:12,348">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">voordat ik aan kinderen begon.</span>
+      </p>
+      <p begin="00:23:13,799" end="00:23:17,847">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Vroeger wilde mijn vader dat we allemaal dokters werden.</span>
+      </p>
+      <p begin="00:23:17,847" end="00:23:19,398"><span tts:fontStyle="italic">Hij kocht zelfs het boek</span><br xmlns="http://www.w3.org/1999/xhtml"/>"Het ontstaan van de vrouwelijke chirurg"</p>
+      <p begin="00:23:19,398" end="00:23:24,879">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">voor mijn zus en mij, vier keer.</span>
+      </p>
+      <p begin="00:23:24,879" end="00:23:27,740">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar ik wilde geen dokter worden.</span>
+      </p>
+      <p begin="00:23:27,740" end="00:23:30,875">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik was gefascineerd door films enhoe films en technologie</span>
+      </p>
+      <p begin="00:23:30,875" end="00:23:34,309">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">mensen wereldwijd verbinden.</span>
+      </p>
+      <p begin="00:23:34,309" end="00:23:39,130">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">In 1984 gaf mijn vader me een Macintosh.</span>
+      </p>
+      <p begin="00:23:39,130" end="00:23:41,417">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dat was vlak nadat mijn ouders gescheiden waren.</span>
+      </p>
+      <p begin="00:23:43,921" end="00:23:46,638">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En tijdens de scheiding van mijn ouders,</span>
+      </p>
+      <p begin="00:23:46,638" end="00:23:50,816">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">was die computer mijn connectie met de buitenwereld.</span>
+      </p>
+      <p begin="00:23:51,907" end="00:23:54,002">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik had een modem en ik kon verbinding maken met de bibliotheek,</span>
+      </p>
+      <p begin="00:23:54,002" end="00:23:57,901">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">wat toen heel spannend was.</span>
+      </p>
+      <p begin="00:23:58,951" end="00:24:02,736">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> Toentertijd, eind jaren '80, een tijdje voordat het internet werd ontwikkeld,</span>
+      </p>
+      <p begin="00:24:02,736" end="00:24:05,280">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">schreven mijn schoolvriendin en ik een voorstel</span>
+      </p>
+      <p begin="00:24:05,280" end="00:24:07,002">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">over hoe scholieren uit vijandige landen</span>
+      </p>
+      <p begin="00:24:07,002" end="00:24:10,294">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">konden communiceren met hun computers.</span>
+      </p>
+      <p begin="00:24:10,294" end="00:24:11,857"><span tts:fontStyle="italic">We noemden het</span> UNITAS.</p>
+      <p begin="00:24:14,088" end="00:24:19,205">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik mocht dat idee als studentenambassadeur presenteren in de Sovjet Unie.</span>
+      </p>
+      <p begin="00:24:19,205" end="00:24:23,560">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar daar aangekomen, spatte mijn droom uit elkaar.</span>
+      </p>
+      <p begin="00:24:23,560" end="00:24:25,916">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik was zo na&#239;ef om te denken dat mensen computers zouden hebben</span>
+      </p>
+      <p begin="00:24:25,916" end="00:24:31,753">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">terwijl er nauwelijks genoeg eten was.Dat heeft me wakker geschud.</span>
+      </p>
+      <p begin="00:24:31,753" end="00:24:33,979">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">In 1994 zei iemand tegen me,</span>
+      </p>
+      <p begin="00:24:33,979" end="00:24:36,899">"Moet je zien, er is iets nieuws: het Web."</p>
+      <p begin="00:24:36,899" end="00:24:39,324">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het was liefde op het eerste gezicht.</span>
+      </p>
+      <p begin="00:24:40,395" end="00:24:44,765">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Eindelijk was er een kader vooreen wereldwijde conversatie,</span>
+      </p>
+      <p begin="00:24:44,765" end="00:24:47,342">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik was er ondersteboven van.</span>
+      </p>
+      <p begin="00:24:49,178" end="00:24:52,198">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik richtte de Webby Awards op en richtte mede volgende tien jaar op het web</span>
+      </p>
+      <p begin="00:24:52,198" end="00:24:53,720">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en waar het ons zou brengen.</span>
+      </p>
+      <p begin="00:24:53,720" end="00:24:57,725">We weten allemaal dat de ware internationale<br xmlns="http://www.w3.org/1999/xhtml"/>taal HTML is.</p>
+      <p begin="00:24:57,725" end="00:25:00,756">- We hebben het internet allemaal uitgevonden.</p>
+      <p begin="00:25:03,509" end="00:25:06,486">- Oscars, Emmy's, Grammy's, Tony's,<br xmlns="http://www.w3.org/1999/xhtml"/>de grote award-shows</p>
+      <p begin="00:25:06,486" end="00:25:08,413">hebben allemaal &#233;&#233;n ding gemeen --</p>
+      <p begin="00:25:08,413" end="00:25:10,318">eindeloze bedankredes.</p>
+      <p begin="00:25:10,318" end="00:25:11,233">Dus we kunnen blij zijn dat de mensen</p>
+      <p begin="00:25:11,233" end="00:25:14,747">die de Webbys -de awards voor websites- runnen<br xmlns="http://www.w3.org/1999/xhtml"/>een manier gevonden hebben</p>
+      <p begin="00:25:14,747" end="00:25:16,632">om die redes kort te houden.</p>
+      <p begin="00:25:16,632" end="00:25:20,424">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> -Alle bedankreden moeten vijf woordenof minder zijn.</span>
+      </p>
+      <p begin="00:25:24,481" end="00:25:28,331">-<span tts:fontStyle="italic">Toen ontmoette ik Ken tijdens een van de speeches van mijn vader.</span></p>
+      <p begin="00:25:28,331" end="00:25:32,757">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ken was een professor, die een kunstinstallatie gemaakt had die </span>
+      </p>
+      <p begin="00:25:32,757" end="00:25:37,250">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">robots verbond aan internet, aan tuinen,om commentaar te geven op de maatschappij.</span>
+      </p>
+      <p begin="00:25:37,250" end="00:25:40,005">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het was liefde op het eerste gezicht.</span>
+      </p>
+      <p begin="00:25:40,005" end="00:25:46,001">- Professor Ken Goldberg wil naar voren komen en <br xmlns="http://www.w3.org/1999/xhtml"/>- [publiek schreeuwt]</p>
+      <p begin="00:25:49,054" end="00:25:54,391">- Dank je Albert. Mazzeltof voor deze<br xmlns="http://www.w3.org/1999/xhtml"/>belangrijke gelegenheid.</p>
+      <p begin="00:25:54,391" end="00:25:56,741">En vandaag heb je een van de <br xmlns="http://www.w3.org/1999/xhtml"/>belangrijkste vragen</p>
+      <p begin="00:25:56,741" end="00:26:02,439">van je leven beantwoord,<br xmlns="http://www.w3.org/1999/xhtml"/>door "Ik wil" te zeggen.</p>
+      <p begin="00:26:02,439" end="00:26:05,234">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">[Ken] Dus nu wil ik je iets anders vragen.</span>
+      </p>
+      <p begin="00:26:05,234" end="00:26:06,751">[publiek] Oh oh.</p>
+      <p begin="00:26:06,751" end="00:26:10,843">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">[Ken] Ik vraag om de hand van je dochter Tiffany.</span>
+      </p>
+      <p begin="00:26:10,843" end="00:26:19,748">[gejuich en applaus]</p>
+      <p begin="00:26:19,748" end="00:26:22,576">*- Je hebt een hoop geld bespaard, de rabbi is er nog.</p>
+      <p begin="00:26:22,576" end="00:26:27,564">[gelach en applaus]</p>
+      <p begin="00:26:27,564" end="00:26:28,252">- [Tiffany] <span tts:fontStyle="italic">Mijn vader zei altijd,</span></p>
+      <p begin="00:26:28,252" end="00:26:32,538">*"Ik heb in de natuurkunde gepubliceerd,<br xmlns="http://www.w3.org/1999/xhtml"/>zodat jij en Ken elkaar konden ontmoeten."</p>
+      <p begin="00:26:32,538" end="00:26:35,822">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ken en ik kregen ons eerste kind,Odessa, toen ik 33 was.</span>
+      </p>
+      <p begin="00:26:39,158" end="00:26:41,071">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Als werkende moeder zag ik internetals h&#232;t middel</span>
+      </p>
+      <p begin="00:26:41,071" end="00:26:43,554">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dat de feministische beweging altijd alnodig had gehad</span>
+      </p>
+      <p begin="00:26:43,554" end="00:26:46,981">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">omdat ik zo veel flexibiliteit had in hoe en waar ik kon werken.</span>
+      </p>
+      <p begin="00:26:46,981" end="00:26:50,508">[kind] Mama!<br xmlns="http://www.w3.org/1999/xhtml"/><span tts:fontStyle="italic">[mannenstem] Ah dat is geweldig.</span></p>
+      <p begin="00:26:50,508" end="00:26:55,626">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar na je 35e zijn de kansen op een succesvolle zwangerschap gehalveerd.</span>
+      </p>
+      <p begin="00:26:55,626" end="00:26:57,961">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">We hebben te lang gewacht methet nemen van een tweede kind.</span>
+      </p>
+      <p begin="00:26:57,961" end="00:27:00,938">[tikkende klok]</p>
+      <p begin="00:27:00,938" end="00:27:04,791">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik had er op vertrouwd dat de wetenschap mijn vruchtbaarheid zou verlengen.</span>
+      </p>
+      <p begin="00:27:04,791" end="00:27:06,265">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En nu probeerde ikhormoonbehandelingen</span>
+      </p>
+      <p begin="00:27:06,265" end="00:27:11,311">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">waarvan ik de consequenties niet eens kende.</span>
+      </p>
+      <p begin="00:27:11,311" end="00:27:14,420">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik weet nog dat ik op een dag op straat liep met mijn filmcrew.</span>
+      </p>
+      <p begin="00:27:14,420" end="00:27:17,292">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En ze vertelde dat ik nog een IVF-poging ging doen.</span>
+      </p>
+      <p begin="00:27:17,292" end="00:27:18,871">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik zou gaan beginnen metoestrogeen-injecties,</span>
+      </p>
+      <p begin="00:27:18,871" end="00:27:22,753">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dus mijn stemming zou wat instabiel kunnen zijn.</span>
+      </p>
+      <p begin="00:27:22,753" end="00:27:24,246">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En toen zei Sawyer, die aan het veranderen was</span>
+      </p>
+      <p begin="00:27:24,246" end="00:27:27,806">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">van vrouw naar man,"Dat is grappig,"</span>
+      </p>
+      <p begin="00:27:27,806" end="00:27:29,582">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"ik wilde je juist vertellen dat ik"</span>
+      </p>
+      <p begin="00:27:29,582" end="00:27:32,332">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"ga beginnen met testosteron-injecties."</span>
+      </p>
+      <p begin="00:27:32,332" end="00:27:35,092">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Dus mijn stemming gaat ookinstabiel zijn."</span>
+      </p>
+      <p begin="00:27:35,092" end="00:27:36,290">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En Carlton, die tussen ons in liep</span>
+      </p>
+      <p begin="00:27:36,290" end="00:27:39,175">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">zei, "Wacht, voor de duidelijkheid,"</span>
+      </p>
+      <p begin="00:27:39,175" end="00:27:43,393">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Jij gaat aan de oestrogeen en jij aan de testosteron."</span>
+      </p>
+      <p begin="00:27:43,393" end="00:27:44,393">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Ik ga op vakantie."</span>
+      </p>
+      <p begin="00:27:47,457" end="00:27:50,198">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus dingen zijn duidelijk aan het veranderen,</span>
+      </p>
+      <p begin="00:27:50,198" end="00:27:52,860">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Er is zo veel meer om over na te denken.</span>
+      </p>
+      <p begin="00:27:52,860" end="00:27:57,141">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En dat stukje verandering is zo opbeurend.</span>
+      </p>
+      <p begin="00:27:57,141" end="00:28:00,347">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hoe veel sneller kan ik gaan,totdat we het niet meer bij kunnen houden?</span>
+      </p>
+      <p begin="00:28:00,347" end="00:28:03,186">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hoe beginnen dingen &#252;berhaupt zosnel te veranderen?</span>
+      </p>
+      <p begin="00:28:10,482" end="00:28:13,219">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">[verteller] Dankzij de analytischedenkwijze van de mens,</span>
+      </p>
+      <p begin="00:28:13,219" end="00:28:17,084">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">versnelde de ontwikkeling naar een betere levenskwaliteit.</span>
+      </p>
+      <p begin="00:28:17,084" end="00:28:20,544">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Terwijl ze zich ontwikkelden, vermeerderden ze zich.</span>
+      </p>
+      <p begin="00:28:20,544" end="00:28:23,753">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En omdat er meer en meermensen op aarde zijn,</span>
+      </p>
+      <p begin="00:28:23,753" end="00:28:27,205">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">communiceren er meer idee&#235;n met elkaar.</span>
+      </p>
+      <p begin="00:28:29,061" end="00:28:34,652">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Nieuwe uitvindingen en nieuwe ontdekkingenvolgen elkaar sneller op.</span>
+      </p>
+      <p begin="00:28:34,652" end="00:28:39,215">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De oude Grieken hadden een god van de snelheid,hij heette Mercurius.</span>
+      </p>
+      <p begin="00:28:39,215" end="00:28:46,606">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Mercurius is ook de naam van eenelement, een auto en een popster.</span>
+      </p>
+      <p begin="00:28:46,606" end="00:28:50,984">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De mens kwam in een tijdperkvan ongekende ontdekkingen</span>
+      </p>
+      <p begin="00:28:52,231" end="00:28:56,038">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en er was nog zo veelmeer te ontdekken.</span>
+      </p>
+      <p begin="00:28:56,038" end="00:28:59,936">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dus ze verdeelden de wereldin een enorm raster</span>
+      </p>
+      <p begin="00:28:59,936" end="00:29:04,061">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">om nieuwe gebieden te kunnen ontdekken.</span>
+      </p>
+      <p begin="00:29:04,061" end="00:29:12,272">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het idee was simpel. Verdeel en heers, tegen beter weten in.</span>
+      </p>
+      <p begin="00:29:14,595" end="00:29:16,657">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar er gebeurde iets interessants.</span>
+      </p>
+      <p begin="00:29:18,235" end="00:29:22,497">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Terwijl ze de wereld inafzonderlijke gebieden verdeelden</span>
+      </p>
+      <p begin="00:29:22,497" end="00:29:27,941">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">werd de wereld meer verbonden dan ooit tevoren.</span>
+      </p>
+      <p begin="00:29:27,941" end="00:29:31,725">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Al was het ecosysteem altijd al afhankelijk,</span>
+      </p>
+      <p begin="00:29:31,725" end="00:29:35,278">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">nu integreerde de mens erhandel, transport</span>
+      </p>
+      <p begin="00:29:35,278" end="00:29:37,904">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> en netwerken van idee&#235;n in.</span>
+      </p>
+      <p begin="00:29:39,797" end="00:29:43,742">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ze handelden in alles, inclusief diersoorten.</span>
+      </p>
+      <p begin="00:29:43,742" end="00:29:48,370">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De Europeanen brachten hun bijenbijvoorbeeld naar Amerika</span>
+      </p>
+      <p begin="00:29:48,370" end="00:29:50,863">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">om op het land te helpen.</span>
+      </p>
+      <p begin="00:29:50,863" end="00:29:54,334">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De westelijke gewoonte van verdelen en specialiseren breidde zich uit</span>
+      </p>
+      <p begin="00:29:54,334" end="00:29:57,947">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">over de hele wereld via de nieuwe kanalen.</span>
+      </p>
+      <p begin="00:29:57,947" end="00:30:02,157">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Gedeeltelijk dankzij een specifieke uitvinding, die idee&#235;n</span>
+      </p>
+      <p begin="00:30:02,157" end="00:30:06,138">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">kon weergeven en verspreiden als nooit tevoren.</span>
+      </p>
+      <p begin="00:30:07,692" end="00:30:13,551">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Krachtige, controversi&#235;le idee&#235;nzoals democratie,</span>
+      </p>
+      <p begin="00:30:13,551" end="00:30:17,522">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De theorie van Darwin datal het leven verbonden is.</span>
+      </p>
+      <p begin="00:30:17,522" end="00:30:24,030">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En het idee van politiek wetenschapper Concordetover de kracht van het collectieve denken.</span>
+      </p>
+      <p begin="00:30:24,030" end="00:30:27,505">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Die bewees dat een groep van geesten,het vaker bij het rechte eind had</span>
+      </p>
+      <p begin="00:30:27,505" end="00:30:34,944">dan een geest die onafhankelijk denkt,<br xmlns="http://www.w3.org/1999/xhtml"/>en vormde het jurysysteem.*</p>
+      <p begin="00:30:36,821" end="00:30:39,003">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Idee&#235;n verspreidden zich zo snel</span>
+      </p>
+      <p begin="00:30:39,003" end="00:30:44,581"><span tts:fontStyle="italic">dat de wijze wezens het </span>"Het jaar van de verlichting"<span tts:fontStyle="italic"> noemden.</span></p>
+      <p begin="00:30:44,581" end="00:30:49,428">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Economie&#235;n groeiden en netwerken breidden zich uit.</span>
+      </p>
+      <p begin="00:30:49,428" end="00:30:52,571">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Al gauw ontdekten de slimme mensen dat ze hun methode van verdeel en heers</span>
+      </p>
+      <p begin="00:30:52,571" end="00:30:58,628">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">konden toepassen om tegemoet te komen aan nieuwe consumenteneisen .</span>
+      </p>
+      <p begin="00:30:59,444" end="00:31:02,746">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Deze geweldige nieuwe manier van produceren breidde zich uit</span>
+      </p>
+      <p begin="00:31:02,746" end="00:31:04,882">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">van Engeland totover de hele wereld.</span>
+      </p>
+      <p begin="00:31:04,882" end="00:31:11,595">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En ze kwamen opeens in eentijdperk van massaproductie en overvloed.</span>
+      </p>
+      <p begin="00:31:11,595" end="00:31:14,550">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Deze nieuwe effici&#235;ntie gaf hen veel meer vrije tijd,</span>
+      </p>
+      <p begin="00:31:17,570" end="00:31:20,202">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en de mogelijkheid tot eenofficieel weekend.</span>
+      </p>
+      <p begin="00:31:23,707" end="00:31:28,295">*Tijdens de industri&#235;le revolutie, <br xmlns="http://www.w3.org/1999/xhtml"/>werd voorspeld dat men in de 20e eeuw</p>
+      <p begin="00:31:28,295" end="00:31:33,342">*zo efficient zou zijn, dat men nog maar 4 uur <br xmlns="http://www.w3.org/1999/xhtml"/>per dag hoefde te werken.</p>
+      <p begin="00:31:35,819" end="00:31:37,171">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hmmmmmm.....</span>
+      </p>
+      <p begin="00:31:41,656" end="00:31:48,668">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Maar &#233;&#233;n ontdekking beloofdede wereld radicaal te gaan veranderen.</span>
+      </p>
+      <p begin="00:31:48,668" end="00:31:51,575">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Een wetenschapper met de naamMarie Curie ontdekte</span>
+      </p>
+      <p begin="00:31:51,575" end="00:31:55,081">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">dat een element met de naam uraniumenergie uitstraalde</span>
+      </p>
+      <p begin="00:31:55,081" end="00:31:58,331">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">op het moment dat zijn kleinste deeltjes kapot gaan.</span>
+      </p>
+      <p begin="00:32:00,224" end="00:32:05,161">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Men hoopte dat deze radioactieve energieeen wonderlijke en grenzeloze</span>
+      </p>
+      <p begin="00:32:05,161" end="00:32:08,374">bron van energie zou vormen*</p>
+      <p begin="00:32:08,374" end="00:32:14,281">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">die gebruikt kon worden in denaam van de ontwikkeling.</span>
+      </p>
+      <p begin="00:32:17,182" end="00:32:20,324">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">- [Tiffany] Maar er gebeurde iets onverwachts.</span>
+      </p>
+      <p begin="00:32:20,324" end="00:32:26,323">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> Marie Curie ontdekte ook &#233;&#233;n vande eerste behandelingen tegen kanker.</span>
+      </p>
+      <p begin="00:32:29,943" end="00:32:33,574">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">De bestraling van mijn vader werkteen hij ging vooruit.</span>
+      </p>
+      <p begin="00:32:35,881" end="00:32:37,717">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Zijn spraak begon terug te komen</span>
+      </p>
+      <p begin="00:32:37,717" end="00:32:42,015">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">maar hij kon niet goed articuleren.</span>
+      </p>
+      <p begin="00:32:42,015" end="00:32:43,279">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik wist niet hoeveel tijdwe zouden hebben</span>
+      </p>
+      <p begin="00:32:43,279" end="00:32:47,351">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En ik begon mijn camera overalmee naartoe te nemen.</span>
+      </p>
+      <p begin="00:32:59,296" end="00:33:03,773">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">- Maar het was heel frustrerend voor hem,want zijn woorden kwamen er steeds verkeerd uit.</span>
+      </p>
+      <p begin="00:33:04,546" end="00:33:07,529">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Als chirurg die over het brein schreefen hersenoperaties had gedaan,</span>
+      </p>
+      <p begin="00:33:07,529" end="00:33:11,824">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">wist hij precies wat er gebeurde.</span>
+      </p>
+      <p begin="00:33:11,824" end="00:33:13,845">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Net voordat de hersentumor werd geconstateerd,</span>
+      </p>
+      <p begin="00:33:13,845" end="00:33:15,939">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">schreef mijn vader het laatstehoofdstuk van zijn boek</span>
+      </p>
+      <p begin="00:33:15,939" end="00:33:18,836">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">waaraan hij vijf jaar gewerkt had.</span>
+      </p>
+      <p begin="00:33:18,836" end="00:33:21,214"><span tts:fontStyle="italic">Het heette </span>Leonardo's Brein<span tts:fontStyle="italic">en het bekeek hoe</span></p>
+      <p begin="00:33:21,214" end="00:33:26,662">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Leonardo Da Vinci kunst &#232;n wetenschap beheerste.</span>
+      </p>
+      <p begin="00:33:26,662" end="00:33:31,802">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij was vastberaden om het boek af te makenen al had hij moeite met praten,</span>
+      </p>
+      <p begin="00:33:31,802" end="00:33:38,195">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hij kon nog steeds schrijven.Het duurde alleen langer.</span>
+      </p>
+      <p begin="00:33:38,195" end="00:33:42,242">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij zei dat hij plotseling patronen zagals nooit tevoren.</span>
+      </p>
+      <p begin="00:33:44,744" end="00:33:47,578">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij vond het fijn om uit het raam te kijken.</span>
+      </p>
+      <p begin="00:33:57,381" end="00:34:01,775">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij schreef zelfs over wat hij zag.</span>
+      </p>
+      <p begin="00:34:05,427" end="00:34:10,169">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Het ironische was, dat terwijl wij 24 uur per dagbezig waren met Leonards brein,</span>
+      </p>
+      <p begin="00:34:10,169" end="00:34:14,242">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">hij schreef over "Leonardo's Brein".</span>
+      </p>
+      <p begin="00:34:18,012" end="00:34:22,179">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Als we tijd hadden probeerde ik hem te filmen.</span>
+      </p>
+      <p begin="00:34:22,179" end="00:34:25,334">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij wilde graag interviews doenen ook al waren er veel pauzes</span>
+      </p>
+      <p begin="00:34:25,334" end="00:34:28,939">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">in zijn verhaal, hij werd steeds beter.</span>
+      </p>
+      <p begin="00:34:28,939" end="00:34:30,080">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Hij maakte grapjes tegen de familie,</span>
+      </p>
+      <p begin="00:34:30,080" end="00:34:34,796">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Ik wilde altijd al dat jullie aan mijn lippen hingen."</span>
+      </p>
+      <p begin="00:34:34,796" end="00:34:38,594">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Natuurlijk kwam ieder denkbaartechnisch probleem voor.</span>
+      </p>
+      <p begin="00:34:38,594" end="00:34:42,960">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dan was het het geluid, dan het licht</span>
+      </p>
+      <p begin="00:34:42,960" end="00:34:47,164">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en soms was ik ineens eenemotioneel wrak.</span>
+      </p>
+      <p begin="00:34:47,164" end="00:34:53,831">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">OK, wat heb je geleerd dat misschien...</span>
+      </p>
+      <p begin="00:34:53,831" end="00:34:58,246">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat als ik opnieuw je kind word?</span>
+      </p>
+      <p begin="00:34:58,246" end="00:35:01,682">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Andere keren hield ik het droog,maar was hij te zwak.</span>
+      </p>
+      <p begin="00:35:01,682" end="00:35:04,491">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Wat denk je dat de zin van het leven is?</span>
+      </p>
+      <p begin="00:35:04,491" end="00:35:07,900">- De zin van het leven....</p>
+      <p begin="00:35:07,900" end="00:35:12,247">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic"> Dit was niet het beeld dat ik vast wilde leggen,hij was mijn superheld.</span>
+      </p>
+      <p begin="00:35:13,845" end="00:35:17,337">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik weet nog dat ik 16 was en net mijn rijbewijs had gehaald.</span>
+      </p>
+      <p begin="00:35:17,337" end="00:35:21,952">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Dat gevoel van onafhankelijkheid ende mogelijkheid om zelf ergens heen te rijden,</span>
+      </p>
+      <p begin="00:35:21,952" end="00:35:24,757">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ik reed op de Golden Gate Bridge ende muziek op maximaal volume,</span>
+      </p>
+      <p begin="00:35:24,757" end="00:35:27,589">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en misschien lette ik niet zo goed op als ik zou moeten.</span>
+      </p>
+      <p begin="00:35:27,589" end="00:35:30,066">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En toen trapte de persoon voorme op de rem,</span>
+      </p>
+      <p begin="00:35:30,066" end="00:35:31,912">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ik had niet genoeg tijd om te stoppen,</span>
+      </p>
+      <p begin="00:35:31,912" end="00:35:34,034">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en ik botste op de auto voor me,</span>
+      </p>
+      <p begin="00:35:34,034" end="00:35:37,811">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en had een ongeluk op de Golden Gate Bridge</span>
+      </p>
+      <p begin="00:35:37,811" end="00:35:40,699">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">met een vers rijbewijs.</span>
+      </p>
+      <p begin="00:35:40,699" end="00:35:42,577">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik trilde, wist niet wat ik moest doen,</span>
+      </p>
+      <p begin="00:35:42,577" end="00:35:47,151">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">ik stapte uit en veroorzaakteeen enorme file.</span>
+      </p>
+      <p begin="00:35:47,151" end="00:35:50,863">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Toen mijn vader uit het niets verscheen,was het bijna alsof hij een cape droeg.</span>
+      </p>
+      <p begin="00:35:50,863" end="00:35:51,590">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">En hij kwam aan en zei,</span>
+      </p>
+      <p begin="00:35:51,590" end="00:35:54,856">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">"Schat, stap in, ik regel het wel."</span>
+      </p>
+      <p begin="00:35:54,856" end="00:35:57,408">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">Ik wist het niet, maar hij had de hele tijd achter me gereden</span>
+      </p>
+      <p begin="00:35:57,408" end="00:36:00,503">
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <span tts:fontStyle="italic">en keek naar me terwijl ik reed.</span>
+      </p>
+      <p begin="00:36:00,503" end="00:36:02,683">*Er zijn veel momenten</p>
+      <p begin="00:32:20,324" end="00:32:26,323"/>
+      <p begin="00:32:29,943" end="00:32:33,574"/>
+      <p begin="00:32:35,881" end="00:32:37,717"/>
+      <p begin="00:32:37,717" end="00:32:42,015"/>
+      <p begin="00:32:42,015" end="00:32:43,279"/>
+      <p begin="00:32:43,279" end="00:32:47,351"/>
+      <p begin="00:32:47,351" end="00:32:54,572"/>
+      <p begin="00:32:59,296" end="00:33:03,773"/>
+      <p begin="00:33:04,546" end="00:33:07,529"/>
+      <p begin="00:33:07,529" end="00:33:11,824"/>
+      <p begin="00:33:11,824" end="00:33:13,845"/>
+      <p begin="00:33:13,845" end="00:33:15,939"/>
+      <p begin="00:33:15,939" end="00:33:18,836"/>
+      <p begin="00:33:18,836" end="00:33:21,214"/>
+      <p begin="00:33:21,214" end="00:33:26,662"/>
+      <p begin="00:33:26,662" end="00:33:31,802"/>
+      <p begin="00:33:31,802" end="00:33:38,195"/>
+      <p begin="00:33:38,195" end="00:33:42,242"/>
+      <p begin="00:33:44,744" end="00:33:47,578"/>
+      <p begin="00:33:47,578" end="00:33:57,381"/>
+      <p begin="00:33:57,381" end="00:34:01,775"/>
+      <p begin="00:34:05,427" end="00:34:10,169"/>
+      <p begin="00:34:10,169" end="00:34:14,242"/>
+      <p begin="00:34:18,012" end="00:34:22,179"/>
+      <p begin="00:34:22,179" end="00:34:25,334"/>
+      <p begin="00:34:25,334" end="00:34:28,939"/>
+      <p begin="00:34:28,939" end="00:34:30,080"/>
+      <p begin="00:34:30,080" end="00:34:34,796"/>
+      <p begin="00:34:34,796" end="00:34:38,594"/>
+      <p begin="00:34:38,594" end="00:34:42,960"/>
+      <p begin="00:34:42,960" end="00:34:47,164"/>
+      <p begin="00:34:47,164" end="00:34:53,831"/>
+      <p begin="00:34:53,831" end="00:34:58,246"/>
+      <p begin="00:34:58,246" end="00:35:01,682"/>
+      <p begin="00:35:01,682" end="00:35:04,491"/>
+      <p begin="00:35:04,491" end="00:35:07,900"/>
+      <p begin="00:35:07,900" end="00:35:12,247"/>
+      <p begin="00:35:12,247" end="00:35:13,845"/>
+      <p begin="00:35:13,845" end="00:35:17,337"/>
+      <p begin="00:35:17,337" end="00:35:21,952"/>
+      <p begin="00:35:21,952" end="00:35:24,757"/>
+      <p begin="00:35:24,757" end="00:35:27,589"/>
+      <p begin="00:35:27,589" end="00:35:30,066"/>
+      <p begin="00:35:30,066" end="00:35:31,912"/>
+      <p begin="00:35:31,912" end="00:35:34,034"/>
+      <p begin="00:35:34,034" end="00:35:37,811"/>
+      <p begin="00:35:37,811" end="00:35:40,699"/>
+      <p begin="00:35:40,699" end="00:35:42,577"/>
+      <p begin="00:35:42,577" end="00:35:47,151"/>
+      <p begin="00:35:47,151" end="00:35:50,863"/>
+      <p begin="00:35:50,863" end="00:35:51,590"/>
+      <p begin="00:35:51,590" end="00:35:54,856"/>
+      <p begin="00:35:54,856" end="00:35:57,408"/>
+      <p begin="00:35:57,408" end="00:36:00,503"/>
+      <p begin="00:36:00,503" end="00:36:02,683">Er zijn veel crisismomenten geweest</p>
+      <p begin="00:36:02,683" end="00:36:04,409">waarop ik over mijn schouder keek</p>
+      <p begin="00:36:04,409" end="00:36:10,668">en hoopte dat hij zou verschijnen <br xmlns="http://www.w3.org/1999/xhtml"/>en me advies zou geven.</p>
+      <p begin="00:36:16,540" end="00:36:21,571">En daar was ik, drie maanden zwanger<br xmlns="http://www.w3.org/1999/xhtml"/>en ik had nog steeds zijn advies nodig.</p>
+      <p begin="00:36:21,571" end="00:36:25,547">Ken en ik hadden de grote <br xmlns="http://www.w3.org/1999/xhtml"/>drie-maanden doktersafspraak.</p>
+      <p begin="00:36:25,547" end="00:36:27,895">De dokter deed de echo aan <br xmlns="http://www.w3.org/1999/xhtml"/>en we luisterden.</p>
+      <p begin="00:36:27,895" end="00:36:29,802">[hartslag]</p>
+      <p begin="00:36:29,802" end="00:36:33,216">Er was maar &#200;&#200;n hartslag.<br xmlns="http://www.w3.org/1999/xhtml"/>[kloppen]</p>
+      <p begin="00:36:33,216" end="00:36:35,388">Een van de baby's was gestorven.</p>
+      <p begin="00:36:35,388" end="00:36:40,049">[hartslag]<br xmlns="http://www.w3.org/1999/xhtml"/>? [muziek] ?</p>
+      <p begin="00:36:41,558" end="00:36:44,390">We vroegen ons af of<br xmlns="http://www.w3.org/1999/xhtml"/>het andere hart ook zou stoppen.</p>
+      <p begin="00:36:44,390" end="00:36:50,030">? [muziek] ?</p>
+      <p begin="00:36:50,030" end="00:36:53,147">Maar de dokter zei dat dit de kansen<br xmlns="http://www.w3.org/1999/xhtml"/>voor het het overgebleven kind</p>
+      <p begin="00:36:53,157" end="00:36:56,525">juist sterker zou maken.</p>
+      <p begin="00:36:57,142" end="00:37:01,724">Ik probeerde te bedenken dat het<br xmlns="http://www.w3.org/1999/xhtml"/>misschien niet zo mocht zijn.</p>
+      <p begin="00:37:01,724" end="00:37:06,138">Ik concentreerde me op het nieuwe leven<br xmlns="http://www.w3.org/1999/xhtml"/>en op onze dochter Odessa</p>
+      <p begin="00:37:06,138" end="00:37:08,715">en om ons lot in eigen handen te nemen.</p>
+      <p begin="00:37:11,377" end="00:37:13,148">Ken en ik hebben onze dochter<br xmlns="http://www.w3.org/1999/xhtml"/>zelfs Odessa genoemd,</p>
+      <p begin="00:37:13,148" end="00:37:18,320">omdat allebei onze families<br xmlns="http://www.w3.org/1999/xhtml"/>het lot in eigen handen genomen hebben.</p>
+      <p begin="00:37:18,320" end="00:37:20,390">Onze grootouders waren Joden<br xmlns="http://www.w3.org/1999/xhtml"/>uit Odessa in Oekraine</p>
+      <p begin="00:37:20,390" end="00:37:23,512">die tijdens de Russische revolutie<br xmlns="http://www.w3.org/1999/xhtml"/>gevlucht zijn.</p>
+      <p begin="00:37:23,512" end="00:37:25,258">Mijn opa werd midden in de nacht<br xmlns="http://www.w3.org/1999/xhtml"/>wakker gemaakt</p>
+      <p begin="00:37:25,258" end="00:37:29,112">door zijn vader en hij werd<br xmlns="http://www.w3.org/1999/xhtml"/>achterop een hooiwagen gezet.</p>
+      <p begin="00:37:29,112" end="00:37:31,271">Zijn vader zei dat hij naar Amerika moest gaan<br xmlns="http://www.w3.org/1999/xhtml"/>en genoeg geld verdienen</p>
+      <p begin="00:37:31,271" end="00:37:34,176">om de hele familie over te brengen.</p>
+      <p begin="00:37:35,254" end="00:37:40,260">En dat deed hij en hij stuurde jarenlang<br xmlns="http://www.w3.org/1999/xhtml"/>elke maand geld.</p>
+      <p begin="00:37:40,260" end="00:37:46,596">Totdat hij ontdekte dat zijn hele familie<br xmlns="http://www.w3.org/1999/xhtml"/>was gestorven in de Holocaust.</p>
+      <p begin="00:37:47,427" end="00:37:50,812">Maar mijn opa nam het<br xmlns="http://www.w3.org/1999/xhtml"/>lot in eigen handen.</p>
+      <p begin="00:37:56,741" end="00:38:00,257">En mijn vader moest zijn lot<br xmlns="http://www.w3.org/1999/xhtml"/>ook in eigen handen nemen.</p>
+      <p begin="00:38:02,077" end="00:38:05,939">En het leek erop dat wij als soort<br xmlns="http://www.w3.org/1999/xhtml"/>het lot in eigen handen moesten nemen.</p>
+      <p begin="00:38:07,117" end="00:38:11,553">Mijn vader zei altijd dat een van<br xmlns="http://www.w3.org/1999/xhtml"/>de grootste paradoxen van de mens</p>
+      <p begin="00:38:11,553" end="00:38:14,184">is dat we zowel de meest meelevende</p>
+      <p begin="00:38:14,184" end="00:38:17,316">als de meest wrede <br xmlns="http://www.w3.org/1999/xhtml"/>van alle diersoorten zijn.</p>
+      <p begin="00:38:18,155" end="00:38:22,639">Hoe kunnen we onze verbondenheid gebruiken<br xmlns="http://www.w3.org/1999/xhtml"/>om onze neiging tot zelfdestructie te overwinnen?</p>
+      <p begin="00:38:23,299" end="00:38:29,473">[pistoolschoten]<br xmlns="http://www.w3.org/1999/xhtml"/>[explosie]</p>
+      <p begin="00:38:29,853" end="00:38:33,504">-[Verteller] <br xmlns="http://www.w3.org/1999/xhtml"/>In 1914 was de wereld zo verbonden geworden</p>
+      <p begin="00:38:33,504" end="00:38:35,811">dat &#200;&#200;n moord in Europa,</p>
+      <p begin="00:38:35,811" end="00:38:42,034">een wereldoorlog veroorzaakte<br xmlns="http://www.w3.org/1999/xhtml"/>die zich uitbreidde tot alle continenten</p>
+      <p begin="00:38:42,034" end="00:38:45,251">en dat &#200;&#200;n dood leidde<br xmlns="http://www.w3.org/1999/xhtml"/>tot 15 miljoen doden.</p>
+      <p begin="00:38:45,251" end="00:38:47,290">[schoten en explosie]</p>
+      <p begin="00:38:47,290" end="00:38:50,331">De oorlog was zo vernietigend<br xmlns="http://www.w3.org/1999/xhtml"/>dat hij na afloop</p>
+      <p begin="00:38:50,331" end="00:38:53,825">bekend werd als<br xmlns="http://www.w3.org/1999/xhtml"/>de oorlog die alle oorlogen be&#206;indigde.</p>
+      <p begin="00:38:53,825" end="00:38:57,928">[zingende menigte]</p>
+      <p begin="00:38:57,928" end="00:39:02,168">Die eeuwige vrede duurde vijftien jaar,</p>
+      <p begin="00:39:04,835" end="00:39:09,219">en er stierven nog 16 miljoen mensen.</p>
+      <p begin="00:39:11,360" end="00:39:14,535">De tweede wereldoorlog was het dodelijkste<br xmlns="http://www.w3.org/1999/xhtml"/>conflict in de geschiedenis</p>
+      <p begin="00:39:14,535" end="00:39:20,439">[exploderende bom]</p>
+      <p begin="00:39:20,439" end="00:39:22,699">Hoe meer de mens verbonden was,</p>
+      <p begin="00:39:22,699" end="00:39:27,366">hoe groter de consequenties <br xmlns="http://www.w3.org/1999/xhtml"/>van zijn acties werden.</p>
+      <p begin="00:39:27,366" end="00:39:31,659">Wat zou mevrouw Curie gedacht hebben?</p>
+      <p begin="00:39:31,659" end="00:39:33,505">In ieder afhankelijk systeem</p>
+      <p begin="00:39:33,505" end="00:39:38,272">leidt elke actie tot een kettingreactie.</p>
+      <p begin="00:39:38,272" end="00:39:39,338">[explosies]</p>
+      <p begin="00:39:39,338" end="00:39:42,790">In 1958 bijvoorbeeld, <br xmlns="http://www.w3.org/1999/xhtml"/>begon de leider van China, Mao</p>
+      <p begin="00:39:42,790" end="00:39:45,878">de Grote Sprong Voorwaarts.</p>
+      <p begin="00:39:45,878" end="00:39:48,596">Een campagne voor ontwikkeling.</p>
+      <p begin="00:39:48,596" end="00:39:52,409">Hij wilde de mussen uitroeien.</p>
+      <p begin="00:39:52,409" end="00:39:58,479">Mussen, vond hij, verstoorden de landbouw,<br xmlns="http://www.w3.org/1999/xhtml"/>omdat ze granen aten.</p>
+      <p begin="00:39:58,479" end="00:40:03,412">Dus ze haalden de mussennesten weg,<br xmlns="http://www.w3.org/1999/xhtml"/>braken de eieren en doodden de kuikens.</p>
+      <p begin="00:40:05,304" end="00:40:07,842">In eerste instantie verbeterde de oogst,</p>
+      <p begin="00:40:07,842" end="00:40:11,793">maar een paar jaar later<br xmlns="http://www.w3.org/1999/xhtml"/>gebeurde er iets onvoorspelbaars.</p>
+      <p begin="00:40:11,793" end="00:40:15,644">Plotseling groeide de populatie<br xmlns="http://www.w3.org/1999/xhtml"/>sprinkhanen explosief</p>
+      <p begin="00:40:15,644" end="00:40:19,727">omdat de mussen er niet waren<br xmlns="http://www.w3.org/1999/xhtml"/>om ze op te eten.</p>
+      <p begin="00:40:19,727" end="00:40:25,416">Dit leidde tot een kettingreactie<br xmlns="http://www.w3.org/1999/xhtml"/>die de voedselvoorraad van het land vernielde.</p>
+      <p begin="00:40:25,416" end="00:40:32,043">In drie jaar tijd stierven 36 miljoen <br xmlns="http://www.w3.org/1999/xhtml"/>mensen van de honger.</p>
+      <p begin="00:40:34,043" end="00:40:40,797">Soms kunnen negatieve gebeurtenissen<br xmlns="http://www.w3.org/1999/xhtml"/>leiden tot positieve gevolgen.</p>
+      <p begin="00:40:40,797" end="00:40:44,805">[presentator] Een jaar dat de wereld zoals we hem<br xmlns="http://www.w3.org/1999/xhtml"/>kennen compleet veranderde.</p>
+      <p begin="00:40:44,805" end="00:40:47,994">De mens nam een enorme stap<br xmlns="http://www.w3.org/1999/xhtml"/>in het tijdperk van de atoom</p>
+      <p begin="00:40:47,994" end="00:40:51,478">en de wetenschap had<br xmlns="http://www.w3.org/1999/xhtml"/>de maan in zijn greep.</p>
+      <p begin="00:40:51,528" end="00:40:54,076">Neem de Koude Oorlog --</p>
+      <p begin="00:40:55,115" end="00:40:58,085">een wedstrijd tussen de Verenigde Staten<br xmlns="http://www.w3.org/1999/xhtml"/>en de Sovjet Unie</p>
+      <p begin="00:40:59,208" end="00:41:03,921">die geleid heeft tot twee<br xmlns="http://www.w3.org/1999/xhtml"/>monumentale ontwikkelingen.</p>
+      <p begin="00:41:03,921" end="00:41:08,238">Ontwikkeling 1: de gedrevenheid van de VS <br xmlns="http://www.w3.org/1999/xhtml"/>om naar de maan te gaan,</p>
+      <p begin="00:41:08,238" end="00:41:13,217">die resulteerde in de eerste foto<br xmlns="http://www.w3.org/1999/xhtml"/>van de aarde vanuit de ruimte.</p>
+      <p begin="00:41:15,137" end="00:41:17,251">- [Tiffany] En ontwikkeling 2: het internet,</p>
+      <p begin="00:41:17,251" end="00:41:19,244">dat begon vanuit het Amerikaanse<br xmlns="http://www.w3.org/1999/xhtml"/>ministerie van defensie</p>
+      <p begin="00:41:19,244" end="00:41:26,199">dat een gedecentraliseerd defensiesysteem ontwikkelde<br xmlns="http://www.w3.org/1999/xhtml"/>door hun computers te verbinden.</p>
+      <p begin="00:41:26,199" end="00:41:30,346">Elke stap van het proces veroorzaakte<br xmlns="http://www.w3.org/1999/xhtml"/>zo veel golfbewegingen.</p>
+      <p begin="00:41:30,346" end="00:41:35,485">Maar hoe de wereld ook verandert<br xmlns="http://www.w3.org/1999/xhtml"/>sommige dingen veranderen nooit.</p>
+      <p begin="00:41:35,485" end="00:41:40,391">Het enige dat erger is dan een zieke ouder,<br xmlns="http://www.w3.org/1999/xhtml"/>is een kind dat ziek wordt.</p>
+      <p begin="00:41:40,391" end="00:41:41,873">Het was Halloween<br xmlns="http://www.w3.org/1999/xhtml"/>en onze dochter Odessa</p>
+      <p begin="00:41:41,873" end="00:41:46,104">kreeg erge pijn <br xmlns="http://www.w3.org/1999/xhtml"/>rechts van haar maag.</p>
+      <p begin="00:41:46,104" end="00:41:48,087">Ken belde mijn vader op<br xmlns="http://www.w3.org/1999/xhtml"/>en beschreef haar klachten.-</p>
+      <p begin="00:41:49,710" end="00:41:51,210">Mijn vader zei dat het<br xmlns="http://www.w3.org/1999/xhtml"/>blindedarmontsteking was en</p>
+      <p begin="00:41:51,210" end="00:41:53,766">dat ze meteen geopereerd moest worden.</p>
+      <p begin="00:41:53,766" end="00:41:56,755">Als we het niet zouden doen<br xmlns="http://www.w3.org/1999/xhtml"/>zou haar appendix barsten.</p>
+      <p begin="00:41:56,755" end="00:41:58,347">Maar in het ziekenhuis<br xmlns="http://www.w3.org/1999/xhtml"/>wilden de artsen niet opereren</p>
+      <p begin="00:41:58,347" end="00:42:00,696">voordat ze een CAT-scan hadden gedaan.</p>
+      <p begin="00:42:00,696" end="00:42:04,240">Dus we belden mijn vader weer<br xmlns="http://www.w3.org/1999/xhtml"/>en hij was het er niet mee eens.</p>
+      <p begin="00:42:04,240" end="00:42:07,874">Hij was bang dat de straling<br xmlns="http://www.w3.org/1999/xhtml"/>haar gezondheid op lange termijn zou be&#212;nvloeden.</p>
+      <p begin="00:42:07,874" end="00:42:12,075">Hij zei: <br xmlns="http://www.w3.org/1999/xhtml"/>"Laat de artsen dit niet opnieuw doen."</p>
+      <p begin="00:42:12,075" end="00:42:16,541">En toen ging hij weer slapen, <br xmlns="http://www.w3.org/1999/xhtml"/>omdat hij zo zwak was.</p>
+      <p begin="00:42:16,541" end="00:42:18,938">Om middernacht werd ze nog zieker<br xmlns="http://www.w3.org/1999/xhtml"/>en de artsen weigerden nog steeds</p>
+      <p begin="00:42:18,938" end="00:42:22,401">om zonder de scan te opereren.</p>
+      <p begin="00:42:22,401" end="00:42:27,944">Dus Ken en ik namen het besluit <br xmlns="http://www.w3.org/1999/xhtml"/>zonder mijn vader.</p>
+      <p begin="00:42:27,944" end="00:42:30,077">We lieten de scan toe<br xmlns="http://www.w3.org/1999/xhtml"/>zodat ze haar zouden opereren</p>
+      <p begin="00:42:30,077" end="00:42:33,703">en toen ze dat deden, ontdekten ze<br xmlns="http://www.w3.org/1999/xhtml"/>dat haar appendix al gescheurd was.</p>
+      <p begin="00:42:33,703" end="00:42:36,852">Maar we waren er net op tijd bij.</p>
+      <p begin="00:42:39,080" end="00:42:41,058">Het was voor het eerst dat mijn vader<br xmlns="http://www.w3.org/1999/xhtml"/>me niet kon zien</p>
+      <p begin="00:42:41,058" end="00:42:44,756">tijdens een grote crisis.</p>
+      <p begin="00:42:44,756" end="00:42:46,438">Ik besefte me dat Ken en ik<br xmlns="http://www.w3.org/1999/xhtml"/>nog veel meer grote beslissingen</p>
+      <p begin="00:42:46,438" end="00:42:50,318">zouden moeten nemen <br xmlns="http://www.w3.org/1999/xhtml"/>zonder hem.</p>
+      <p begin="00:42:51,965" end="00:42:56,239">Iedereen maakt dat mee op het moment dat<br xmlns="http://www.w3.org/1999/xhtml"/>ze de persoon worden waar anderen op steunen.</p>
+      <p begin="00:42:58,547" end="00:43:01,143">Het is als een grote overdracht.</p>
+      <p begin="00:43:01,611" end="00:43:06,768">En jij bent de persoon waar ze naartoe komen.</p>
+      <p begin="00:43:09,167" end="00:43:11,043">Was ik er klaar voor?</p>
+      <p begin="00:43:12,499" end="00:43:18,815">Er is een moment waarop<br xmlns="http://www.w3.org/1999/xhtml"/>we in de volgende fase komen.</p>
+      <p begin="00:43:18,815" end="00:43:22,156">Elke beslissing die we maken heeft<br xmlns="http://www.w3.org/1999/xhtml"/>impact op alles om ons heen,</p>
+      <p begin="00:43:22,156" end="00:43:25,997">familie, gemeenschap en de wereld.</p>
+      <p begin="00:43:25,997" end="00:43:28,853">Zodra we meer verbonden worden<br xmlns="http://www.w3.org/1999/xhtml"/>wordt die impact alleen maar</p>
+      <p begin="00:43:28,853" end="00:43:31,942">sterker en sneller.</p>
+      <p begin="00:43:31,942" end="00:43:36,865">Maar verbindingen gaan samen<br xmlns="http://www.w3.org/1999/xhtml"/>met verantwoordelijkheid.</p>
+      <p begin="00:43:36,865" end="00:43:39,318">Zijn wij daar als soort klaar voor?</p>
+      <p begin="00:43:45,841" end="00:43:49,876">- [verteller] Het denken met de linker hersenhelft<br xmlns="http://www.w3.org/1999/xhtml"/>werd zo succesvol</p>
+      <p begin="00:43:49,876" end="00:43:52,952">dat de mens dacht dat hij alles<br xmlns="http://www.w3.org/1999/xhtml"/>kon cre&#206;ren wat hij wilde,</p>
+      <p begin="00:43:52,952" end="00:43:58,339">wanneer hij maar wilde,<br xmlns="http://www.w3.org/1999/xhtml"/>zonder aan de kosten te denken.</p>
+      <p begin="00:43:58,339" end="00:44:03,262">Deze onverzadigbare behoefte om te consumeren<br xmlns="http://www.w3.org/1999/xhtml"/>werd groter na de Tweede Wereldoorlog</p>
+      <p begin="00:44:03,262" end="00:44:07,174">toen de Amerikaanse economie opbloeide.</p>
+      <p begin="00:44:07,174" end="00:44:09,943">De mannen kwamen thuis,<br xmlns="http://www.w3.org/1999/xhtml"/>de vrouwen kregen kinderen,</p>
+      <p begin="00:44:09,943" end="00:44:15,690">en iedereen ging spullen kopen.</p>
+      <p begin="00:44:15,690" end="00:44:21,817">Het idee was simpel --<br xmlns="http://www.w3.org/1999/xhtml"/>geef geld uit en de economie groeit.</p>
+      <p begin="00:44:21,817" end="00:44:25,918">Wat betekende dat de productie<br xmlns="http://www.w3.org/1999/xhtml"/>heel effici&#206;nt moest worden.</p>
+      <p begin="00:44:27,826" end="00:44:31,979">Al snel was de wereld zo verbonden, <br xmlns="http://www.w3.org/1999/xhtml"/>dat de mens in staat was</p>
+      <p begin="00:44:31,979" end="00:44:34,049">om de productie op te delen en<br xmlns="http://www.w3.org/1999/xhtml"/>bepaalde delen uit te besteden</p>
+      <p begin="00:44:34,049" end="00:44:39,181">naar plekken waar<br xmlns="http://www.w3.org/1999/xhtml"/>de productie het goedkoopst was.</p>
+      <p begin="00:44:39,181" end="00:44:43,140">Voor sommigen versnelde dit<br xmlns="http://www.w3.org/1999/xhtml"/>de ontwikkeling</p>
+      <p begin="00:44:45,819" end="00:44:49,822">en vergrootte het de levensstandaard<br xmlns="http://www.w3.org/1999/xhtml"/>in ontwikkelingslanden.</p>
+      <p begin="00:44:51,143" end="00:44:56,022">Voor anderen was het<br xmlns="http://www.w3.org/1999/xhtml"/>kolonisatie met een afstandsbediening.</p>
+      <p begin="00:44:58,562" end="00:45:03,362">Om consumenten te laten consumeren, <br xmlns="http://www.w3.org/1999/xhtml"/>werden producten van plastic gemaakt.,</p>
+      <p begin="00:45:03,362" end="00:45:10,421">zodat ze gauw kapot gingen <br xmlns="http://www.w3.org/1999/xhtml"/>en dan moesten mensen meer kopen.</p>
+      <p begin="00:45:12,052" end="00:45:20,307">Tegenwoordig consumeert de <br xmlns="http://www.w3.org/1999/xhtml"/>gemiddelde Amerikaan 88 kilo per dag.</p>
+      <p begin="00:45:21,321" end="00:45:27,215">En wereldwijd graaft de mens dageljiks <br xmlns="http://www.w3.org/1999/xhtml"/>het equivalent van</p>
+      <p begin="00:45:27,215" end="00:45:31,668">112 Empire State Buildings aan materiaal op, <br xmlns="http://www.w3.org/1999/xhtml"/>om spullen te maken.</p>
+      <p begin="00:45:33,416" end="00:45:38,607">Er drijft nu een eiland van plastic afval <br xmlns="http://www.w3.org/1999/xhtml"/>in de Stille Oceaan</p>
+      <p begin="00:45:38,607" end="00:45:41,054">ter grootte van Texas.</p>
+      <p begin="00:45:41,389" end="00:45:46,722">Men gelooft dat het het grootste bouwwerk <br xmlns="http://www.w3.org/1999/xhtml"/>ter wereld is.</p>
+      <p begin="00:45:46,722" end="00:45:47,309">Een enorm bord <br xmlns="http://www.w3.org/1999/xhtml"/>waarop staat, "LET OP"</p>
+      <p begin="00:45:47,309" end="00:45:50,363"/>
+      <p begin="00:45:50,363" end="00:45:53,338">zoals de bijen.</p>
+      <p begin="00:45:53,338" end="00:45:57,015">Op een dag begon de mens ze<br xmlns="http://www.w3.org/1999/xhtml"/>van boerderij naar boerderij te vervoeren,</p>
+      <p begin="00:45:57,015" end="00:46:02,248">zeventigduizend tegelijk.</p>
+      <p begin="00:46:02,248" end="00:46:05,617">En in plaats van ze gevarieerde voeding te geven,<br xmlns="http://www.w3.org/1999/xhtml"/>kregen ze slechts &#233;&#233;n soort voeding,</p>
+      <p begin="00:46:05,617" end="00:46:11,075">dat het goedkoopst en <br xmlns="http://www.w3.org/1999/xhtml"/>meest effici&#235;nt was, maissiroop.</p>
+      <p begin="00:46:11,075" end="00:46:18,231">Met alles wat de bijen moeten doormaken,<br xmlns="http://www.w3.org/1999/xhtml"/>is het geen wonder dat ze verdwijnen.</p>
+      <p begin="00:46:20,204" end="00:46:26,347">Zo veel problemen van tegenwoordig<br xmlns="http://www.w3.org/1999/xhtml"/>zijn bijproducten van de menselijke behoefte</p>
+      <p begin="00:46:28,086" end="00:46:31,830">aan efficiency en groei.</p>
+      <p begin="00:46:31,830" end="00:46:34,688">Mensen vermenigvuldigen zich,</p>
+      <p begin="00:46:35,888" end="00:46:38,040"/>
+      <p begin="00:46:38,040" end="00:46:39,294">maar de grondstoffen doen dat niet.</p>
+      <p begin="00:46:40,960" end="00:46:43,310">De mens heeft technologie uitgevonden <br xmlns="http://www.w3.org/1999/xhtml"/>om schaarste te voorkomen.</p>
+      <p begin="00:46:49,577" end="00:46:55,478">De technologie verandert de natuur<br xmlns="http://www.w3.org/1999/xhtml"/>in grondstoffen</p>
+      <p begin="00:46:55,478" end="00:46:59,601">die altijd beschikbaar lijken te zijn.</p>
+      <p begin="00:46:59,601" end="00:47:02,094">Maar de mens begint <br xmlns="http://www.w3.org/1999/xhtml"/>zichzelf te zien</p>
+      <p begin="00:47:02,675" end="00:47:05,015">als een grondstof die<br xmlns="http://www.w3.org/1999/xhtml"/>altijd beschikbaar is.</p>
+      <p begin="00:47:05,015" end="00:47:09,813">Wat begon als een manier om het leven te verbeteren,<br xmlns="http://www.w3.org/1999/xhtml"/>dreigt het leven nu te consumeren.</p>
+      <p begin="00:47:09,813" end="00:47:16,340">De consequenties van het menselijk handelen<br xmlns="http://www.w3.org/1999/xhtml"/>gaan sneller en zijn globaler dan ooit</p>
+      <p begin="00:47:19,877" end="00:47:25,645">hoe kan de mensheid deze <br xmlns="http://www.w3.org/1999/xhtml"/>verbondenheid gebruiken</p>
+      <p begin="00:47:25,645" end="00:47:30,792">en de volgende stap in<br xmlns="http://www.w3.org/1999/xhtml"/>de menselijke evolutie nemen?</p>
+      <p begin="00:47:30,792" end="00:47:36,286">- [Tiffany] Misschien is onze eerste stap<br xmlns="http://www.w3.org/1999/xhtml"/>stoppen en nadenken</p>
+      <p begin="00:47:36,286" end="00:47:38,737">over waar we naartoe willen.</p>
+      <p begin="00:47:38,737" end="00:47:42,157">We zitten gevangen in een enorm web<br xmlns="http://www.w3.org/1999/xhtml"/>van problemen, ontstaan door</p>
+      <p begin="00:47:44,895" end="00:47:49,436">onze behoefte aan groei.</p>
+      <p begin="00:47:51,744" end="00:47:54,706">En groeien om het groeien<br xmlns="http://www.w3.org/1999/xhtml"/>is kanker.</p>
+      <p begin="00:47:57,830" end="00:47:59,370">Zijn we ergens onderweg <br xmlns="http://www.w3.org/1999/xhtml"/>ons gevoel verloren voor wat belangrijk is?</p>
+      <p begin="00:48:02,109" end="00:48:08,273">- [verteller] Er is een oud verhaal over een toerist<br xmlns="http://www.w3.org/1999/xhtml"/>die een visser ziet uitrusten</p>
+      <p begin="00:48:18,864" end="00:48:20,876">en hij vraagt hem waarom hij niet<br xmlns="http://www.w3.org/1999/xhtml"/>aan het werk is.</p>
+      <p begin="00:48:20,876" end="00:48:25,655">De visser zegt dat hij al<br xmlns="http://www.w3.org/1999/xhtml"/>genoeg vis gevangen heeft voor vandaag.</p>
+      <p begin="00:48:25,655" end="00:48:29,495">De toerist legt uit dat als hij meer vis zou vangen,<br xmlns="http://www.w3.org/1999/xhtml"/>hij de vis kan verkopen</p>
+      <p begin="00:48:29,495" end="00:48:33,210">en het geld kan gebruiken om een boot<br xmlns="http://www.w3.org/1999/xhtml"/>te kopen en personeel te huren.</p>
+      <p begin="00:48:33,210" end="00:48:38,569">Als hij heel hard zou werken, zou hij<br xmlns="http://www.w3.org/1999/xhtml"/>binnen een paar jaar een vloot hebben</p>
+      <p begin="00:48:38,569" end="00:48:41,876">en bemanning om de boten te besturen.</p>
+      <p begin="00:48:41,876" end="00:48:44,736">"En dan?"</p>
+      <p begin="00:48:44,736" end="00:48:47,738">"Dan hoef je niet zo hard te werken<br xmlns="http://www.w3.org/1999/xhtml"/>en kun je overdag uitrusten."</p>
+      <p begin="00:48:47,738" end="00:48:51,844">De visser antwoordde,<br xmlns="http://www.w3.org/1999/xhtml"/>"Dat ben ik juist aan het doen."</p>
+      <p begin="00:48:51,844" end="00:48:56,660">- [Tiffany] Het was heel duidelijk<br xmlns="http://www.w3.org/1999/xhtml"/>hoe ik mijn tijd moest besteden.</p>
+      <p begin="00:48:57,650" end="00:49:00,831">- [Dr. Schlain] Hoi schat, dit is je vader.<br xmlns="http://www.w3.org/1999/xhtml"/>Ik wil met je praten,</p>
+      <p begin="00:49:00,831" end="00:49:04,925">dus bel me terug....</p>
+      <p begin="00:49:04,925" end="00:49:09,223">- Mijn verlangen om mijn vader <br xmlns="http://www.w3.org/1999/xhtml"/>op film vast te leggen werd groter.</p>
+      <p begin="00:49:09,223" end="00:49:11,968">[Vader en dochter] &#9834; And when <br xmlns="http://www.w3.org/1999/xhtml"/>I'm with him, I love him so much &#9834;</p>
+      <p begin="00:49:11,968" end="00:49:17,100">&#9834; I love my Daddy, my Daddy loves me &#9834;</p>
+      <p begin="00:49:17,100" end="00:49:21,852">&#9834; papam papam pam yeahh &#9834;</p>
+      <p begin="00:49:21,852" end="00:49:24,484">- [Tiffany] de behandeling van mijn vader <br xmlns="http://www.w3.org/1999/xhtml"/>ging heel goed.</p>
+      <p begin="00:49:24,484" end="00:49:27,284">- [Dr. Schlain] Het leven is mooi.<br xmlns="http://www.w3.org/1999/xhtml"/>- [Tiffany] Het leven is mooi.</p>
+      <p begin="00:49:27,284" end="00:49:29,242">- Het leven is mooi.</p>
+      <p begin="00:49:29,242" end="00:49:30,935">[Hartslag]<br xmlns="http://www.w3.org/1999/xhtml"/>En toen belde mijn dokter.</p>
+      <p begin="00:49:30,935" end="00:49:33,923">Ik verwachtte slecht nieuws, maar hij zei<br xmlns="http://www.w3.org/1999/xhtml"/>dat de laatste zwangerschapstest</p>
+      <p begin="00:49:33,923" end="00:49:37,649">liet zien dat de baby het zou halen.</p>
+      <p begin="00:49:37,649" end="00:49:40,602">Al de miskramen, jaren van proberen,<br xmlns="http://www.w3.org/1999/xhtml"/>eindelijk krijgen we nog een baby,</p>
+      <p begin="00:49:40,602" end="00:49:45,066">een broertje of zusje<br xmlns="http://www.w3.org/1999/xhtml"/>voor onze dochter.</p>
+      <p begin="00:49:45,066" end="00:49:47,159">- We hadden het net ontdekt.</p>
+      <p begin="00:49:47,159" end="00:49:53,820">Een broertje of zusje voor Odessa<br xmlns="http://www.w3.org/1999/xhtml"/>was heel belangrijk voor haar en mij.</p>
+      <p begin="00:49:53,820" end="00:49:59,057">De onvruchtbaarheid deed me afvragen</p>
+      <p begin="00:49:59,057" end="00:50:00,871">waarom ik zo graag nog een kind wilde.</p>
+      <p begin="00:50:00,871" end="00:50:03,707">Met name vanwege al de<br xmlns="http://www.w3.org/1999/xhtml"/>overbevolking op de wereld</p>
+      <p begin="00:50:03,707" end="00:50:07,487">die weer met al het andere<br xmlns="http://www.w3.org/1999/xhtml"/>verbonden is.</p>
+      <p begin="00:50:07,487" end="00:50:11,607">In 2050 zullen we bijna<br xmlns="http://www.w3.org/1999/xhtml"/>negen biljoen mensen hebben.</p>
+      <p begin="00:50:15,633" end="00:50:20,069">Hoe veel mensen zal onze wereld verdragen?</p>
+      <p begin="00:50:20,069" end="00:50:23,037">China richtte zich op de<br xmlns="http://www.w3.org/1999/xhtml"/>bevolkingsproblematiek</p>
+      <p begin="00:50:25,704" end="00:50:27,736">door hun eenkindpolitiek te introduceren.</p>
+      <p begin="00:50:27,736" end="00:50:31,647">Het had veel onbedoelde gevolgen.</p>
+      <p begin="00:50:31,647" end="00:50:34,839">Zoals een land met meer mannen dan vrouwen</p>
+      <p begin="00:50:34,839" end="00:50:39,114">of een hele generatie volwassenen</p>
+      <p begin="00:50:39,114" end="00:50:40,549">zonder broers en zussen,<br xmlns="http://www.w3.org/1999/xhtml"/>geen neven, ooms of tantes.</p>
+      <p begin="00:50:40,549" end="00:50:46,344">En nu moeten die enigste kinderen<br xmlns="http://www.w3.org/1999/xhtml"/>helemaal alleen voor twee ouders</p>
+      <p begin="00:50:46,344" end="00:50:49,305">en soms voor vier<br xmlns="http://www.w3.org/1999/xhtml"/>grootouders zorgen.</p>
+      <p begin="00:50:49,305" end="00:50:52,970">En nu leven mensen zo veel langer</p>
+      <p begin="00:50:52,970" end="00:50:54,879">dat het ook acht grootouders kunnen zijn.</p>
+      <p begin="00:50:54,879" end="00:50:59,395">Mijn broer, zus en ik<br xmlns="http://www.w3.org/1999/xhtml"/>waren heel dankbaar</p>
+      <p begin="00:50:59,395" end="00:51:01,091">dat we elkaar hadden<br xmlns="http://www.w3.org/1999/xhtml"/>tijdens die periode.</p>
+      <p begin="00:51:01,091" end="00:51:05,127">Ik begreep op een heel<br xmlns="http://www.w3.org/1999/xhtml"/>nieuw niveau</p>
+      <p begin="00:51:05,127" end="00:51:06,815">wat voor steun broers<br xmlns="http://www.w3.org/1999/xhtml"/>en zussen kunnen geven.</p>
+      <p begin="00:51:06,815" end="00:51:10,067">Toen we klein waren wees mijn vader<br xmlns="http://www.w3.org/1999/xhtml"/>een groep bomen aan en zei,</p>
+      <p begin="00:51:11,646" end="00:51:15,895">"Ze lijken op individuele bomen<br xmlns="http://www.w3.org/1999/xhtml"/>maar ze zijn samen &#233;&#233;n boom."</p>
+      <p begin="00:51:15,895" end="00:51:19,793">"Ze hebben hetzelfde wortelsysteem,<br xmlns="http://www.w3.org/1999/xhtml"/>zoals een familie."</p>
+      <p begin="00:51:19,793" end="00:51:24,751">Dit concept kan op alle<br xmlns="http://www.w3.org/1999/xhtml"/>levende dingen toegepast worden.</p>
+      <p begin="00:51:24,751" end="00:51:30,289">Mijn moeder zei altijd, broers en zussen<br xmlns="http://www.w3.org/1999/xhtml"/>zijn de langste relaties</p>
+      <p begin="00:51:30,289" end="00:51:33,266">die je in je leven zult hebben.</p>
+      <p begin="00:51:33,266" end="00:51:35,186">Ze kennen je goede en slechte momenten,<br xmlns="http://www.w3.org/1999/xhtml"/>je neuroses, een gedeelde geschiedenis.</p>
+      <p begin="00:51:35,186" end="00:51:41,968">En juist nu we niet op <br xmlns="http://www.w3.org/1999/xhtml"/>onze vader konden steunen</p>
+      <p begin="00:51:44,079" end="00:51:47,078">trokken we naar elkaar toe.</p>
+      <p begin="00:51:47,078" end="00:51:51,350">Mijn stiefmoeder Aina liet ons<br xmlns="http://www.w3.org/1999/xhtml"/>elke ochtend weten hoe het met hem ging.</p>
+      <p begin="00:51:52,935" end="00:51:58,137">En mijn zus Kimberly, een artieste,<br xmlns="http://www.w3.org/1999/xhtml"/>schilderde haar gevoelens op doek.</p>
+      <p begin="00:51:58,137" end="00:52:02,153">We praatten elke dag met elkaar.</p>
+      <p begin="00:52:02,153" end="00:52:05,712">Mijn broer Jordan, die dokter is,</p>
+      <p begin="00:52:05,712" end="00:52:07,018">legde alle medische rapporten aan ons uit.</p>
+      <p begin="00:52:07,018" end="00:52:13,106">Op een dag belde mijn broer<br xmlns="http://www.w3.org/1999/xhtml"/>en zei dat onze vaders&#180;</p>
+      <p begin="00:52:13,106" end="00:52:15,430">witte bloedcellen zo laag waren</p>
+      <p begin="00:52:15,430" end="00:52:17,004">dat we ons moesten voorbereiden.</p>
+      <p begin="00:52:17,004" end="00:52:21,357">De volgende dag ging ik met mijn vader<br xmlns="http://www.w3.org/1999/xhtml"/>naar het ziekenhuis voor behandeling.</p>
+      <p begin="00:52:22,820" end="00:52:26,623">En ik zat naast hem,<br xmlns="http://www.w3.org/1999/xhtml"/>hield zijn hand vast en zei,</p>
+      <p begin="00:52:26,623" end="00:52:29,835">"Ik weet dat we niet aan de film hebben <br xmlns="http://www.w3.org/1999/xhtml"/>samengewerkt zoals we gewild hadden.</p>
+      <p begin="00:52:29,835" end="00:52:33,771">Maar ik wil dat je weet dat <br xmlns="http://www.w3.org/1999/xhtml"/>ik de film aan jou opdraag."</p>
+      <p begin="00:52:33,771" end="00:52:38,354">Gedurende die tijd<br xmlns="http://www.w3.org/1999/xhtml"/>was Ken er echt voor ons.</p>
+      <p begin="00:52:41,119" end="00:52:44,339">Hij had zijn eigen vader aan<br xmlns="http://www.w3.org/1999/xhtml"/>Leukemie verloren toen hij 21 was.</p>
+      <p begin="00:52:44,339" end="00:52:47,566">Dus hij begreep wat we doormaakten.</p>
+      <p begin="00:52:47,566" end="00:52:50,301">We waren er echt voor elkaar.</p>
+      <p begin="00:52:50,301" end="00:52:54,240">We koppelden onszelf &#233;&#233;n dag per week <br xmlns="http://www.w3.org/1999/xhtml"/>los van onze computers</p>
+      <p begin="00:52:54,240" end="00:52:57,064">We noemden het onze technologische Shabbats.</p>
+      <p begin="00:52:57,064" end="00:53:00,436">En ondertussen, hoe ziek hij ook was,<br xmlns="http://www.w3.org/1999/xhtml"/>was mijn vader vastberaden</p>
+      <p begin="00:53:00,436" end="00:53:03,302">om zijn boek over Da Vinci af te maken.</p>
+      <p begin="00:53:03,302" end="00:53:06,078">Hij bleef zeggen,<br xmlns="http://www.w3.org/1999/xhtml"/>"Ik blijf leven om jullie baby te zien."</p>
+      <p begin="00:53:06,078" end="00:53:09,120">en, "Ik ga het boek afmaken."</p>
+      <p begin="00:53:09,120" end="00:53:13,397">Het was alsof mijn vader probeerde om zijn<br xmlns="http://www.w3.org/1999/xhtml"/>afdruk te downloaden voor het te laat was.</p>
+      <p begin="00:53:13,397" end="00:53:17,231">Hij was er zo dichtbij<br xmlns="http://www.w3.org/1999/xhtml"/>hij was bij het laatste hoofdstuk.</p>
+      <p begin="00:53:17,231" end="00:53:21,073">En hij was aan het schrijven, <br xmlns="http://www.w3.org/1999/xhtml"/>en ik las de nieuwste versie</p>
+      <p begin="00:53:21,073" end="00:53:22,708">zo snel als ik kon<br xmlns="http://www.w3.org/1999/xhtml"/>zodat we erover konden praten.</p>
+      <p begin="00:53:22,708" end="00:53:26,592">Ik wist dat hij op het spoor was van iets groots<br xmlns="http://www.w3.org/1999/xhtml"/>over de richting van de mensheid.</p>
+      <p begin="00:53:26,592" end="00:53:30,894">Maar ik wist niet waarop hij uit zo komen.</p>
+      <p begin="00:53:30,894" end="00:53:34,010">Maar uiteindelijk was ik blij om hem te<br xmlns="http://www.w3.org/1999/xhtml"/>zien werken aan iets waar hij gepassioneerd over was</p>
+      <p begin="00:53:34,010" end="00:53:37,832">in plaats van over zijn kanker te denken.</p>
+      <p begin="00:53:37,832" end="00:53:41,018">We organiseerden een hoop<br xmlns="http://www.w3.org/1999/xhtml"/>spontane familiebezoeken en etentjes.</p>
+      <p begin="00:53:41,018" end="00:53:45,280">Deze crisis liet ons zien<br xmlns="http://www.w3.org/1999/xhtml"/>wat echt belangrijk was.</p>
+      <p begin="00:53:45,280" end="00:53:48,439">&#9834; [muziek] &#9834;</p>
+      <p begin="00:53:48,439" end="00:53:54,005">- [Verteller] Er waren momenten in de geschiedenis<br xmlns="http://www.w3.org/1999/xhtml"/>waarop een crisis</p>
+      <p begin="00:53:54,005" end="00:53:56,252">de mensen op een andere manier naar<br xmlns="http://www.w3.org/1999/xhtml"/>de wereld liet kijken.</p>
+      <p begin="00:53:56,252" end="00:54:01,644">In de jaren &#180;60</p>
+      <p begin="00:54:04,404" end="00:54:06,749"/>
+      <p begin="00:54:06,749" end="00:54:10,468"/>
+      <p begin="00:54:10,468" end="00:54:13,967"/>
+      <p begin="00:54:13,967" end="00:54:21,737"/>
+      <p begin="00:54:21,737" end="00:54:27,257"/>
+      <p begin="00:54:27,257" end="00:54:28,984"/>
+      <p begin="00:54:28,984" end="00:54:32,924"/>
+      <p begin="00:54:32,924" end="00:54:37,333"/>
+      <p begin="00:54:37,333" end="00:54:41,245"/>
+      <p begin="00:54:41,245" end="00:54:47,492"/>
+      <p begin="00:54:47,492" end="00:54:53,736"/>
+      <p begin="00:54:53,736" end="00:54:59,249"/>
+      <p begin="00:54:59,249" end="00:55:03,587"/>
+      <p begin="00:55:03,587" end="00:55:08,293"/>
+      <p begin="00:55:08,293" end="00:55:12,781"/>
+      <p begin="00:55:12,781" end="00:55:16,097"/>
+      <p begin="00:55:16,097" end="00:55:24,955"/>
+      <p begin="00:55:24,955" end="00:55:29,890"/>
+      <p begin="00:55:29,890" end="00:55:32,590"/>
+      <p begin="00:55:32,590" end="00:55:35,157"/>
+      <p begin="00:55:35,157" end="00:55:38,534"/>
+      <p begin="00:55:38,534" end="00:55:43,656"/>
+      <p begin="00:55:43,656" end="00:55:46,236"/>
+      <p begin="00:55:46,236" end="00:55:47,733"/>
+      <p begin="00:55:47,733" end="00:55:51,145"/>
+      <p begin="00:55:51,145" end="00:55:54,818"/>
+      <p begin="00:55:54,818" end="00:55:59,269"/>
+      <p begin="00:55:59,269" end="00:56:05,813"/>
+      <p begin="00:56:05,813" end="00:56:07,998"/>
+      <p begin="00:56:07,998" end="00:56:10,251"/>
+      <p begin="00:56:10,251" end="00:56:14,954"/>
+      <p begin="00:56:14,954" end="00:56:17,324"/>
+      <p begin="00:56:17,324" end="00:56:22,633"/>
+      <p begin="00:56:22,633" end="00:56:25,179"/>
+      <p begin="00:56:25,179" end="00:56:26,746"/>
+      <p begin="00:56:27,790" end="00:56:30,798"/>
+      <p begin="00:56:30,798" end="00:56:36,063"/>
+      <p begin="00:56:36,063" end="00:56:40,424"/>
+      <p begin="00:56:42,132" end="00:56:45,637"/>
+      <p begin="00:56:45,637" end="00:56:50,752"/>
+      <p begin="00:56:50,752" end="00:56:57,102"/>
+      <p begin="00:56:57,102" end="00:57:01,566"/>
+      <p begin="00:57:01,566" end="00:57:03,484"/>
+      <p begin="00:57:04,531" end="00:57:07,261"/>
+      <p begin="00:57:07,261" end="00:57:10,885"/>
+      <p begin="00:57:10,885" end="00:57:15,813"/>
+      <p begin="00:57:15,813" end="00:57:20,870"/>
+      <p begin="00:57:20,870" end="00:57:26,551"/>
+      <p begin="00:57:27,993" end="00:57:32,443"/>
+      <p begin="00:57:32,443" end="00:57:37,660"/>
+      <p begin="00:57:37,660" end="00:57:42,902"/>
+      <p begin="00:57:42,902" end="00:57:46,137"/>
+      <p begin="00:57:46,137" end="00:57:50,342"/>
+      <p begin="00:57:50,342" end="00:57:56,596"/>
+      <p begin="00:57:56,596" end="00:58:03,693"/>
+      <p begin="00:58:05,534" end="00:58:09,691"/>
+      <p begin="00:58:11,331" end="00:58:14,166"/>
+      <p begin="00:58:14,166" end="00:58:17,378"/>
+      <p begin="00:58:17,378" end="00:58:20,551"/>
+      <p begin="00:58:20,551" end="00:58:24,459"/>
+      <p begin="00:58:24,459" end="00:58:28,121"/>
+      <p begin="00:58:28,121" end="00:58:29,635"/>
+      <p begin="00:58:29,635" end="00:58:31,839"/>
+      <p begin="00:58:31,839" end="00:58:33,012"/>
+      <p begin="00:58:33,012" end="00:58:35,501"/>
+      <p begin="00:58:35,501" end="00:58:38,182"/>
+      <p begin="00:58:39,428" end="00:58:41,399"/>
+      <p begin="00:58:41,399" end="00:58:46,178"/>
+      <p begin="00:58:47,455" end="00:58:49,960"/>
+      <p begin="00:58:49,960" end="00:58:51,923"/>
+      <p begin="00:58:51,923" end="00:58:56,963"/>
+      <p begin="00:59:00,442" end="00:59:02,386"/>
+      <p begin="00:59:02,386" end="00:59:05,297"/>
+      <p begin="00:59:05,820" end="00:59:11,495"/>
+      <p begin="00:59:12,880" end="00:59:14,388"/>
+      <p begin="00:59:14,388" end="00:59:17,463"/>
+      <p begin="00:59:17,463" end="00:59:20,535"/>
+      <p begin="00:59:20,865" end="00:59:25,831"/>
+      <p begin="00:59:25,831" end="00:59:31,177"/>
+      <p begin="00:59:31,177" end="00:59:35,558"/>
+      <p begin="00:59:35,558" end="00:59:38,368"/>
+      <p begin="00:59:38,368" end="00:59:47,407"/>
+      <p begin="00:59:47,407" end="00:59:52,387"/>
+      <p begin="00:59:52,387" end="00:59:58,168"/>
+      <p begin="00:59:58,168" end="00:59:59,398"/>
+      <p begin="00:59:59,398" end="01:00:01,233"/>
+      <p begin="01:00:01,233" end="01:00:03,590"/>
+      <p begin="01:00:03,590" end="01:00:04,634"/>
+      <p begin="01:00:04,634" end="01:00:05,870"/>
+      <p begin="01:00:05,870" end="01:00:07,361"/>
+      <p begin="01:00:07,361" end="01:00:10,148"/>
+      <p begin="01:00:10,148" end="01:00:14,706"/>
+      <p begin="01:00:14,706" end="01:00:21,304"/>
+      <p begin="01:00:21,304" end="01:00:25,162"/>
+      <p begin="01:00:25,162" end="01:00:29,542"/>
+      <p begin="01:00:29,542" end="01:00:32,067"/>
+      <p begin="01:00:36,252" end="01:00:39,937"/>
+      <p begin="01:00:43,459" end="01:00:47,705"/>
+      <p begin="01:00:47,705" end="01:00:50,979"/>
+      <p begin="01:00:50,979" end="01:00:54,655"/>
+      <p begin="01:00:54,655" end="01:00:57,221"/>
+      <p begin="01:00:57,221" end="01:00:59,801"/>
+      <p begin="01:00:59,801" end="01:01:02,190"/>
+      <p begin="01:01:02,190" end="01:01:05,923"/>
+      <p begin="01:01:05,923" end="01:01:08,873"/>
+      <p begin="01:01:08,873" end="01:01:13,428"/>
+      <p begin="01:01:13,428" end="01:01:15,325"/>
+      <p begin="01:01:15,325" end="01:01:20,096"/>
+      <p begin="01:01:20,096" end="01:01:24,645"/>
+      <p begin="01:01:24,645" end="01:01:26,526"/>
+      <p begin="01:01:26,526" end="01:01:30,296"/>
+      <p begin="01:01:30,296" end="01:01:32,735"/>
+      <p begin="01:01:32,735" end="01:01:36,280"/>
+      <p begin="01:01:36,280" end="01:01:38,190"/>
+      <p begin="01:01:40,886" end="01:01:43,274"/>
+      <p begin="01:01:43,274" end="01:01:45,722"/>
+      <p begin="01:01:45,722" end="01:01:52,913"/>
+      <p begin="01:01:53,481" end="01:01:59,057"/>
+      <p begin="01:02:01,435" end="01:02:08,474"/>
+      <p begin="01:02:08,474" end="01:02:11,070"/>
+      <p begin="01:02:13,238" end="01:02:22,463"/>
+      <p begin="01:02:22,463" end="01:02:26,515"/>
+      <p begin="01:02:26,515" end="01:02:29,138"/>
+      <p begin="01:02:29,138" end="01:02:32,468"/>
+      <p begin="01:02:32,468" end="01:02:38,366"/>
+      <p begin="01:02:38,366" end="01:02:43,713"/>
+      <p begin="01:02:43,713" end="01:02:47,361"/>
+      <p begin="01:02:47,361" end="01:02:51,627"/>
+      <p begin="01:02:51,972" end="01:02:58,835"/>
+      <p begin="01:02:58,835" end="01:03:01,825"/>
+      <p begin="01:03:01,825" end="01:03:04,668"/>
+      <p begin="01:03:04,668" end="01:03:10,049"/>
+      <p begin="01:03:10,049" end="01:03:15,433"/>
+      <p begin="01:03:15,433" end="01:03:19,230"/>
+      <p begin="01:03:19,230" end="01:03:22,205"/>
+      <p begin="01:03:22,205" end="01:03:24,579"/>
+      <p begin="01:03:24,584" end="01:03:29,420"/>
+      <p begin="01:03:29,420" end="01:03:33,776"/>
+      <p begin="01:03:33,776" end="01:03:40,364"/>
+      <p begin="01:03:42,500" end="01:03:46,371"/>
+      <p begin="01:03:46,371" end="01:03:52,670"/>
+      <p begin="01:03:53,587" end="01:03:58,307"/>
+      <p begin="01:03:58,307" end="01:04:02,431"/>
+      <p begin="01:04:02,431" end="01:04:04,402"/>
+      <p begin="01:04:04,402" end="01:04:07,911"/>
+      <p begin="01:04:07,911" end="01:04:13,656"/>
+      <p begin="01:04:14,314" end="01:04:19,631"/>
+      <p begin="01:04:19,631" end="01:04:25,115"/>
+      <p begin="01:04:25,115" end="01:04:27,458"/>
+      <p begin="01:04:27,458" end="01:04:32,008"/>
+      <p begin="01:04:32,008" end="01:04:36,559"/>
+      <p begin="01:04:36,559" end="01:04:38,685"/>
+      <p begin="01:04:40,405" end="01:04:44,080"/>
+      <p begin="01:04:44,080" end="01:04:48,418"/>
+      <p begin="01:04:48,418" end="01:04:51,910"/>
+      <p begin="01:04:51,910" end="01:04:54,690"/>
+      <p begin="01:04:54,690" end="01:04:57,293"/>
+      <p begin="01:04:57,293" end="01:04:59,525"/>
+      <p begin="01:05:00,627" end="01:05:08,276"/>
+      <p begin="01:05:08,276" end="01:05:11,694"/>
+      <p begin="01:05:12,864" end="01:05:17,186"/>
+      <p begin="01:05:17,186" end="01:05:23,078"/>
+      <p begin="01:05:23,078" end="01:05:28,649"/>
+      <p begin="01:05:28,649" end="01:05:31,933"/>
+      <p begin="01:05:31,933" end="01:05:37,288"/>
+      <p begin="01:05:37,288" end="01:05:42,177"/>
+      <p begin="01:05:42,177" end="01:05:48,440"/>
+      <p begin="01:05:48,440" end="01:05:51,455"/>
+      <p begin="01:05:51,455" end="01:05:54,621"/>
+      <p begin="01:05:54,621" end="01:05:58,856"/>
+      <p begin="01:05:58,856" end="01:06:01,142"/>
+      <p begin="01:06:01,142" end="01:06:03,804"/>
+      <p begin="01:06:03,804" end="01:06:04,990"/>
+      <p begin="01:06:04,990" end="01:06:06,803"/>
+      <p begin="01:06:06,803" end="01:06:12,220"/>
+      <p begin="01:06:12,220" end="01:06:15,033"/>
+      <p begin="01:06:15,033" end="01:06:19,133"/>
+      <p begin="01:06:19,133" end="01:06:21,767"/>
+      <p begin="01:06:21,767" end="01:06:24,953"/>
+      <p begin="01:06:24,953" end="01:06:30,234"/>
+      <p begin="01:06:30,234" end="01:06:31,768"/>
+      <p begin="01:06:31,768" end="01:06:33,302"/>
+      <p begin="01:06:33,302" end="01:06:36,779"/>
+      <p begin="01:06:36,779" end="01:06:39,381"/>
+      <p begin="01:06:39,381" end="01:06:42,768"/>
+      <p begin="01:06:42,768" end="01:06:48,346"/>
+      <p begin="01:06:48,346" end="01:06:51,329"/>
+      <p begin="01:06:51,329" end="01:06:53,883"/>
+      <p begin="01:06:53,883" end="01:06:57,106"/>
+      <p begin="01:06:57,106" end="01:07:00,132"/>
+      <p begin="01:07:00,132" end="01:07:06,058"/>
+      <p begin="01:07:06,058" end="01:07:12,308"/>
+      <p begin="01:07:12,308" end="01:07:14,712"/>
+      <p begin="01:07:14,712" end="01:07:19,332"/>
+      <p begin="01:07:19,332" end="01:07:22,177"/>
+      <p begin="01:07:35,393" end="01:07:48,609"/>
+      <p begin="01:07:48,609" end="01:07:50,195"/>
+      <p begin="01:07:50,195" end="01:07:57,421"/>
+      <p begin="01:07:57,421" end="01:08:00,693"/>
+      <p begin="01:08:00,693" end="01:08:04,377"/>
+      <p begin="01:08:04,377" end="01:08:08,670"/>
+      <p begin="01:08:09,573" end="01:08:09,574"/>
+      <p begin="01:08:09,574" end="01:08:12,453"/>
+      <p begin="01:08:12,453" end="01:08:16,524"/>
+      <p begin="01:08:19,085" end="01:08:24,362"/>
+      <p begin="01:08:24,362" end="01:08:30,396"/>
+      <p begin="01:08:32,212" end="01:08:36,214"/>
+      <p begin="01:08:36,214" end="01:08:40,204"/>
+      <p begin="01:08:40,204" end="01:08:45,716"/>
+      <p begin="01:08:47,443" end="01:08:52,644"/>
+      <p begin="01:08:56,089" end="01:08:58,017"/>
+      <p begin="01:08:58,017" end="01:09:03,027"/>
+      <p begin="01:09:05,150" end="01:09:09,254"/>
+      <p begin="01:09:09,254" end="01:09:11,667"/>
+      <p begin="01:09:11,667" end="01:09:15,462"/>
+      <p begin="01:09:15,462" end="01:09:17,678"/>
+      <p begin="01:09:20,753" end="01:09:24,331"/>
+      <p begin="01:09:24,331" end="01:09:28,733"/>
+      <p begin="01:09:28,733" end="01:09:32,131"/>
+      <p begin="01:09:32,131" end="01:09:40,006"/>
+      <p begin="01:09:40,006" end="01:09:42,455"/>
+      <p begin="01:09:42,455" end="01:09:46,484"/>
+      <p begin="01:09:46,484" end="01:09:50,017"/>
+      <p begin="01:09:50,017" end="01:09:56,083"/>
+      <p begin="01:09:56,083" end="01:10:00,408"/>
+      <p begin="01:10:00,408" end="01:10:04,820"/>
+      <p begin="01:10:04,820" end="01:10:08,205"/>
+      <p begin="01:10:08,214" end="01:10:14,709"/>
+      <p begin="01:10:14,709" end="01:10:17,215"/>
+      <p begin="01:10:17,215" end="01:10:22,921"/>
+      <p begin="01:10:22,921" end="01:10:27,308"/>
+      <p begin="01:10:27,308" end="01:10:35,678"/>
+      <p begin="01:10:35,678" end="01:10:38,189"/>
+      <p begin="01:10:38,189" end="01:10:40,700"/>
+      <p begin="01:10:40,700" end="01:10:47,448"/>
+      <p begin="01:10:47,448" end="01:10:52,164"/>
+      <p begin="01:10:52,164" end="01:10:56,405"/>
+      <p begin="01:10:56,405" end="01:10:59,707"/>
+      <p begin="01:10:59,707" end="01:11:03,202"/>
+      <p begin="01:11:03,202" end="01:11:08,469"/>
+      <p begin="01:11:08,469" end="01:11:14,991"/>
+      <p begin="01:11:14,991" end="01:11:23,201"/>
+      <p begin="01:11:23,201" end="01:11:28,372"/>
+      <p begin="01:11:28,372" end="01:11:31,219"/>
+      <p begin="01:11:31,219" end="01:11:36,799"/>
+      <p begin="01:11:36,799" end="01:11:39,102"/>
+      <p begin="01:11:39,102" end="01:11:41,868"/>
+      <p begin="01:11:41,868" end="01:11:44,277"/>
+      <p begin="01:11:44,277" end="01:11:48,736"/>
+      <p begin="01:11:48,736" end="01:11:50,780"/>
+      <p begin="01:11:50,780" end="01:11:54,479"/>
+      <p begin="01:11:54,479" end="01:11:56,815"/>
+      <p begin="01:11:56,815" end="01:11:58,701"/>
+      <p begin="01:11:58,701" end="01:12:03,707"/>
+      <p begin="01:12:03,707" end="01:12:03,708"/>
+      <p begin="01:12:03,708" end="01:12:03,708"/>
+      <p begin="01:12:09,774" end="01:12:12,731"/>
+      <p begin="01:12:12,731" end="01:12:15,441"/>
+      <p begin="01:12:15,441" end="01:12:20,798"/>
+      <p begin="01:12:20,798" end="01:12:24,054"/>
+      <p begin="01:12:24,054" end="01:12:29,434"/>
+      <p begin="01:12:29,434" end="01:12:32,042"/>
+      <p begin="01:12:32,042" end="01:13:47,455"/>
+      <p begin="01:13:49,316" end="01:13:58,953"/>
+      <p begin="01:13:58,953" end="01:14:01,668"/>
+      <p begin="01:14:01,668" end="01:14:08,116"/>
+      <p begin="01:14:13,269" end="01:14:16,137"/>
+      <p begin="01:14:16,137" end="01:14:20,588"/>
+      <p begin="01:14:20,588" end="01:14:24,349"/>
+      <p begin="01:14:24,349" end="01:14:27,488"/>
+      <p begin="01:14:27,488" end="01:14:32,427"/>
+      <p begin="01:14:32,427" end="01:14:35,642"/>
+      <p begin="01:14:35,642" end="01:14:37,331"/>
+      <p begin="01:14:43,317" end="01:14:44,423"/>
+      <p begin="01:14:44,423" end="01:14:46,176"/>
+      <p begin="01:14:46,176" end="01:14:51,031"/>
+      <p begin="01:14:51,031" end="01:14:53,765"/>
+      <p begin="01:14:53,765" end="01:14:57,983"/>
+      <p begin="01:14:58,075" end="01:15:02,584"/>
+      <p begin="01:15:02,584" end="01:15:11,172"/>
+      <p begin="01:15:20,865" end="01:15:58,505"/>
+      <p begin="01:15:58,505" end="01:16:02,799"/>
+      <p begin="01:16:02,799" end="01:16:07,772"/>
+      <p begin="01:16:07,772" end="01:16:12,554"/>
+      <p begin="01:16:12,554" end="01:16:15,716"/>
+      <p begin="01:16:15,716" end="01:16:21,252"/>
+      <p begin="01:16:21,252" end="01:16:24,462"/>
+      <p begin="01:16:24,462" end="01:16:27,038"/>
+      <p begin="01:16:27,038" end="01:16:29,866"/>
+      <p begin="01:16:29,866" end="01:16:32,445"/>
+      <p begin="01:16:32,445" end="01:16:33,949"/>
+      <p begin="01:16:33,949" end="01:16:35,958"/>
+      <p begin="01:16:35,958" end="01:16:41,858"/>
+      <p begin="01:16:41,858" end="01:16:45,385"/>
+      <p begin="01:16:45,385" end="01:16:48,158"/>
+      <p begin="01:16:48,158" end="01:16:51,912"/>
+      <p begin="01:16:51,912" end="24:00:00,000"/>
+    </div>
+  </body>
+</tt>

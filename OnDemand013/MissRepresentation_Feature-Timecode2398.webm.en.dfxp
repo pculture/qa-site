@@ -1,0 +1,1542 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:19.503" end="00:00:22.932">$$ The most common way people give up<br/>their power is by thinking</p>
+      <p begin="00:00:22.932" end="00:00:25.935">$$ they don't have any.<br/>-Alice Walker</p>
+      <p begin="00:00:28.501" end="00:00:30.922">$$ American teenagers spend</p>
+      <p begin="00:00:31.790" end="00:00:33.642">$$ 31 hours a week watching a TV</p>
+      <p begin="00:00:34.718" end="00:00:37.712">$$ 17 hours a week listening to music</p>
+      <p begin="00:00:38.550" end="00:00:40.938">$$ 3 hours a week watching movies</p>
+      <p begin="00:00:41.874" end="00:00:44.570">$$ 4 hours a week reading magazines</p>
+      <p begin="00:00:45.679" end="00:00:47.850">$$ 10 hours a week online</p>
+      <p begin="00:00:48.238" end="00:00:51.392">$$ That's 10 hours and 45 minutes<br/>of media consumption a day</p>
+      <p begin="00:00:57.037" end="00:00:59.423">-*[Pat Mitchell] The media is the<br/>message and the messenger.*</p>
+      <p begin="00:01:00.830" end="00:01:03.215">And increasingly a powerful one.</p>
+      <p begin="00:01:06.050" end="00:01:06.826">- *[Jackson Katz] People learn from media*</p>
+      <p begin="00:01:06.826" end="00:01:08.758">than any other single<br/>source of information.</p>
+      <p begin="00:01:08.970" end="00:01:10.385">*So, if you want to understand<br/>what's going on*</p>
+      <p begin="00:01:10.476" end="00:01:14.311">in our society in the 21st century,<br/>we have to understand media.</p>
+      <p begin="00:01:15.440" end="00:01:17.298">- *[Jim Steyer] If you think about <br/>media and technology,*</p>
+      <p begin="00:01:17.467" end="00:01:20.525">they're delivering content that is <br/>shaping our society.</p>
+      <p begin="00:01:20.720" end="00:01:23.643">*They're shaping our politics.<br/>They're shaping national discourse.*</p>
+      <p begin="00:01:23.920" end="00:01:25.389">*And most of all, they're shaping our*</p>
+      <p begin="00:01:25.389" end="00:01:27.769">*children's brains and lives <br/>and emotions.*</p>
+      <p begin="00:01:28.377" end="00:01:30.577">- [Marissa Mayer] If you ask me, there's<br/>somewhere more than a billion people</p>
+      <p begin="00:01:30.577" end="00:01:32.904">who use the internet <br/>every single day.</p>
+      <p begin="00:01:32.928" end="00:01:36.475">*That's just a reach that hasn't existed <br/>before, in terms of media.*</p>
+      <p begin="00:01:37.179" end="00:01:39.704">- *[Jim] Our kids today live on <br/><span tts:fontStyle="italic">Facebook</span> and cellphones.*</p>
+      <p begin="00:01:40.028" end="00:01:41.564">*The diversity of the platforms means *</p>
+      <p begin="00:01:41.564" end="00:01:44.270">*that those images <br/>are impacting your kid 24/7 *</p>
+      <p begin="00:01:44.270" end="00:01:47.085">and whatever restrictions existed <br/>when we were growing up,</p>
+      <p begin="00:01:47.085" end="00:01:48.537">simply don't exist today.</p>
+      <p begin="00:01:49.124" end="00:01:51.446">- [Jean Kilbourne] Girls get <br/>the message from very early on</p>
+      <p begin="00:01:51.446" end="00:01:54.117">*that what's most important <br/>is how they look.*</p>
+      <p begin="00:01:54.117" end="00:01:57.037">That their value, their worth, <br/>depends on that.</p>
+      <p begin="00:01:57.215" end="00:02:00.619">*And boys get the message that this <br/>is what's important about girls.*</p>
+      <p begin="00:02:00.879" end="00:02:03.119">*We get it from advertising.<br/>We get it from films.*</p>
+      <p begin="00:02:03.119" end="00:02:06.603">*We get it from television shows, <br/>video games, everywhere we look.*</p>
+      <p begin="00:02:08.175" end="00:02:11.841">*So, no matter what else a woman does,<br/>no matter what else her achievements.*</p>
+      <p begin="00:02:11.999" end="00:02:14.593">*their value still depends <br/>on how they look.*</p>
+      <p begin="00:02:15.959" end="00:02:19.219">- [Ariella] There is no appreciation<br/>for women intellectuals.</p>
+      <p begin="00:02:19.387" end="00:02:22.163">It's all about the body, <br/>not about the brain.</p>
+      <p begin="00:02:22.234" end="00:02:25.459">- "You all saw the famous <br/>photo from the weekend</p>
+      <p begin="00:02:25.489" end="00:02:29.263">of Hilary looking so haggard,<br/>and what, looking like 92 years old."</p>
+      <p begin="00:02:29.458" end="00:02:31.714">- "Breast implants--<br/>did you have them or not?</p>
+      <p begin="00:02:31.714" end="00:02:35.354">Because that's all over the internet <br/>about you and mainstream media."</p>
+      <p begin="00:02:35.554" end="00:02:37.716">- "I think if you<br/>waterboarded Nancy Pelosi,</p>
+      <p begin="00:02:37.716" end="00:02:39.673">she wouldn't admit to plastic surgery."</p>
+      <p begin="00:02:39.673" end="00:02:44.308">- *[Jennifer Pozner] The fact that media<br/>are so limiting and so derogatory *</p>
+      <p begin="00:02:44.308" end="00:02:47.873">*to the most powerful women <br/>in the country,*</p>
+      <p begin="00:02:48.005" end="00:02:50.212">then what does it say <br/>about media's ability</p>
+      <p begin="00:02:50.212" end="00:02:52.606">to take any woman <br/>in America seriously?</p>
+      <p begin="00:02:53.193" end="00:02:54.433">- [Margaret Cho] The media treats <br/>women like shit</p>
+      <p begin="00:02:54.433" end="00:02:56.595">and it's horrible and it's like,</p>
+      <p begin="00:02:56.595" end="00:02:58.923">I don't know how we survive it.<br/>I don't know how we rise above it.</p>
+      <p begin="00:02:59.593" end="00:03:01.697">*&#9834; [Help I'm Alive by Metric] &#9834;*</p>
+      <p begin="00:03:05.975" end="00:03:09.249">*&#9834; I tremble (I tremble) &#9834; *</p>
+      <p begin="00:03:13.819" end="00:03:17.073">*&#9834; They're gonna eat me alive &#9834;*</p>
+      <p begin="00:03:21.996" end="00:03:26.131">*&#9834; If I stumble (If I stumble) &#9834;*</p>
+      <p begin="00:03:29.831" end="00:03:33.636">*&#9834; They're gonna eat me alive &#9834;*</p>
+      <p begin="00:03:38.298" end="00:03:43.554">*&#9834; Can you hear my heart <br/>beating like a hammer &#9834;*</p>
+      <p begin="00:03:43.974" end="00:03:47.378">*&#9834; beating like a hammer &#9834;*</p>
+      <p begin="00:03:47.928" end="00:03:53.364">*&#9834; Help I'm alive my heart keeps *<br/>*beating like a hammer &#9834;*</p>
+      <p begin="00:03:55.063" end="00:04:00.671">&#9834; Hard to be soft,<br/>*tough to be tender &#9834;*</p>
+      <p begin="00:04:02.770" end="00:04:08.325">*&#9834; Come take my pulse,*<br/>*the pace is on a runaway train &#9834;*</p>
+      <p begin="00:04:10.184" end="00:04:16.531">*&#9834; Help I'm alive my heart keeps *<br/>*beating like a hammer &#9834;*</p>
+      <p begin="00:04:17.254" end="00:04:20.603">*&#9834; beating like a hammer &#9834;*</p>
+      <p begin="00:04:21.309" end="00:04:24.105">*&#9834; beating like a hammer &#9834;*</p>
+      <p begin="00:04:25.413" end="00:04:28.998">*&#9834; beating like a hammer &#9834;*</p>
+      <p begin="00:04:29.243" end="00:04:34.254">*&#9834; Help I'm alive my heart keeps <br/>beating like a hammer &#9834; *</p>
+      <p begin="00:04:34.575" end="00:04:38.187">$$ Miss Representation</p>
+      <p begin="00:04:42.948" end="00:04:44.181">- *[Jennifer Newsom] There are <br/>moments in life *</p>
+      <p begin="00:04:44.181" end="00:04:46.678">*when you begin to see things more clearly.*</p>
+      <p begin="00:04:48.135" end="00:04:53.006">*When I found out I was pregnant<br/>with a girl, everything came into focus.*</p>
+      <p begin="00:04:55.776" end="00:04:59.597">*But I looked around me<br/>and I was really frightened for her.*</p>
+      <p begin="00:05:00.240" end="00:05:02.473">I couldn't imagine<br/>that my daughter could grow up</p>
+      <p begin="00:05:02.525" end="00:05:07.189">to be emotionally healthy and fulfilled,<br/>given our modern culture.</p>
+      <p begin="00:05:07.996" end="00:05:11.858">*So I'm compelled to make sense<br/>of all of this for her.*</p>
+      <p begin="00:05:12.665" end="00:05:15.841">And I know I have to start <br/>by looking at my own life.</p>
+      <p begin="00:05:16.485" end="00:05:20.688">The mistakes I've made<br/>and the traps I've fallen into.</p>
+      <p begin="00:05:21.780" end="00:05:24.352">*Because even though<br/>I've had many privileges,*</p>
+      <p begin="00:05:24.772" end="00:05:29.798">*I haven't been immune to the damage<br/>our culture does to women and girls.*</p>
+      <p begin="00:05:31.477" end="00:05:35.281">*When I was a young girl, I felt secure<br/>in my place in the world.*</p>
+      <p begin="00:05:36.565" end="00:05:40.622">*But as with most girls,<br/>things changed as I got older.*</p>
+      <p begin="00:05:43.233" end="00:05:45.832">*A few days before my 7th birthday,*</p>
+      <p begin="00:05:45.832" end="00:05:49.460">*my older sister, Stacy <br/>died in an accident.*</p>
+      <p begin="00:05:51.254" end="00:05:55.950">I blame myself for her death.<br/>And out of guilt and sadness,</p>
+      <p begin="00:05:56.338" end="00:05:58.965">I tried to be two daughters,<br/>instead of one.</p>
+      <p begin="00:06:02.075" end="00:06:05.747">I channeled my pain into <br/>excelling in sports and school.</p>
+      <p begin="00:06:07.257" end="00:06:11.653">But no matter how hard I tried,<br/>I somehow felt inadequate.</p>
+      <p begin="00:06:13.896" end="00:06:16.980">I became increasingly susceptible<br/>to peer pressure.</p>
+      <p begin="00:06:17.052" end="00:06:19.031">And the bombardment <br/>of media messages,</p>
+      <p begin="00:06:19.076" end="00:06:23.459">telling me that being strong, smart,<br/>and accomplished was not enough.</p>
+      <p begin="00:06:24.748" end="00:06:29.381">To be a woman meant constantly striving<br/>for an unattainable ideal of beauty</p>
+      <p begin="00:06:29.896" end="00:06:32.325">and approval in the eyes of men.</p>
+      <p begin="00:06:34.233" end="00:06:36.686">So when a trusted peer <br/>and later a coach,</p>
+      <p begin="00:06:36.747" end="00:06:40.148">preyed upon my vulnerability<br/>and violated me,</p>
+      <p begin="00:06:40.711" end="00:06:42.708">I was so frightened and ashamed.</p>
+      <p begin="00:06:43.433" end="00:06:45.022">I completely shut down.</p>
+      <p begin="00:06:46.266" end="00:06:50.625">My self worth was at an all-time low.<br/>And I developed an eating disorder</p>
+      <p begin="00:06:50.733" end="00:06:53.317">that consumed two years of my life.</p>
+      <p begin="00:06:55.305" end="00:06:59.220">It took a lot of love and support for me<br/>to find my strength again.</p>
+      <p begin="00:07:00.552" end="00:07:06.133">And although my experiences are unique,<br/>my struggle is all too common.</p>
+      <p begin="00:07:07.132" end="00:07:11.441">*It's always hard being a teenage girl,<br/>but now the media disseminates*</p>
+      <p begin="00:07:11.470" end="00:07:13.520">*such limiting portrayals of women*</p>
+      <p begin="00:07:13.520" end="00:07:16.555">*and pervades every aspect <br/>of our culture.*</p>
+      <p begin="00:07:17.523" end="00:07:21.072">*Is it any wonder teen girls feel<br/>more powerless than ever?*</p>
+      <p begin="00:07:21.719" end="00:07:25.732">$$ 53% of 13 year old girls <br/>are unhappy with their bodies</p>
+      <p begin="00:07:26.056" end="00:07:30.532">$$ Their number increases to 78% <br/>by age 17</p>
+      <p begin="00:07:31.157" end="00:07:37.061">$$ 65% of women and girls <br/>have an eating disorder</p>
+      <p begin="00:07:37.412" end="00:07:42.601">$$ 17% of teens engage in cutting<br/>and self-injurious behavior</p>
+      <p begin="00:07:42.637" end="00:07:45.701">$$ Rates of depression among<br/>girls and women have</p>
+      <p begin="00:07:45.701" end="00:07:49.320">$$ doubled between 2000 and 2010</p>
+      <p begin="00:07:50.981" end="00:07:54.489">I want a different world for my daughter<br/>and her generation.</p>
+      <p begin="00:07:55.542" end="00:07:57.613">But a lot has to change first.</p>
+      <p begin="00:08:00.719" end="00:08:04.011">- [Ariella] We see so much in the media<br/>that there's so much negativity</p>
+      <p begin="00:08:04.031" end="00:08:06.875">towards women and their way<br/>and how they look.</p>
+      <p begin="00:08:06.943" end="00:08:09.395">And it's just a representation <br/>of the pressure we feel</p>
+      <p begin="00:08:09.457" end="00:08:11.763">to conform to men's ideals.</p>
+      <p begin="00:08:12.039" end="00:08:16.947">There's this concept of the perfect woman <br/>who looks this certain way,</p>
+      <p begin="00:08:17.352" end="00:08:20.611">and because women may not look that way,<br/>they're scrutinized.</p>
+      <p begin="00:08:20.973" end="00:08:23.872">- [Urenna] I remember at 5th grade,<br/>I was worrying about my weight.</p>
+      <p begin="00:08:23.916" end="00:08:26.369">And now I'm in 9th grade,<br/>I'm still worrying about my weight.</p>
+      <p begin="00:08:26.414" end="00:08:29.328">- [Angelina] Me being a small person, <br/>like at my old school,</p>
+      <p begin="00:08:29.364" end="00:08:32.788">I was talked to like, "Go throw up."<br/>Or like, "Go get a hamburger."</p>
+      <p begin="00:08:32.850" end="00:08:35.855">Because people thought <br/>I was like, anorexic or something.</p>
+      <p begin="00:08:35.923" end="00:08:39.730">So, I would like, eat a lot.<br/>So that, people would think</p>
+      <p begin="00:08:39.913" end="00:08:42.018">I don't have an eating disorder.</p>
+      <p begin="00:08:42.126" end="00:08:44.916">- [Alexis] I straighten my hair, <br/>just so I can fit in,</p>
+      <p begin="00:08:44.916" end="00:08:47.074">when I have naturally curly hair.</p>
+      <p begin="00:08:47.137" end="00:08:51.513">- [Alexis] I have close friends that<br/>in between like, break periods,</p>
+      <p begin="00:08:51.548" end="00:08:54.750">they would go to the bathroom<br/>and put on ten pounds of make up,</p>
+      <p begin="00:08:54.957" end="00:08:58.344">and you know, comb their hair and <br/>do all this, you know, pampering,</p>
+      <p begin="00:08:58.476" end="00:09:00.044">you know and you're at school to learn.</p>
+      <p begin="00:09:00.180" end="00:09:03.119">- [Maria] When is it gonna be enough?<br/>'Cause you know, I have a younger sister</p>
+      <p begin="00:09:04.425" end="00:09:05.501">She's like...</p>
+      <p begin="00:09:09.213" end="00:09:11.284">$$ She hacks herself.</p>
+      <p begin="00:09:11.832" end="00:09:14.887">$$ She cuts herself because<br/>she gets teased in school</p>
+      <p begin="00:09:14.887" end="00:09:16.848">$$ because she doesn't have<br/>the perfect body</p>
+      <p begin="00:09:18.493" end="00:09:20.671">$$ It's hard for me to see that</p>
+      <p begin="00:09:20.983" end="00:09:24.489">$$ What can I do so my little sister<br/>won't be getting hurt by the media?</p>
+      <p begin="00:09:25.633" end="00:09:28.556">$$ How long is it going to take <br/>for somebody to take a stand?</p>
+      <p begin="00:09:29.903" end="00:09:33.628">$$ How long is it going to take <br/>for somebody to take a stand?</p>
+      <p begin="00:09:34.837" end="00:09:37.663">- *[Jean Kilbourne] The ideal image <br/>of beauty is more extreme*</p>
+      <p begin="00:09:37.663" end="00:09:39.692">and impossible than ever before.</p>
+      <p begin="00:09:40.343" end="00:09:42.460">*In the old days, the perfection <br/>was achieved*</p>
+      <p begin="00:09:42.460" end="00:09:44.716">through cosmetics and airbrushing.</p>
+      <p begin="00:09:44.716" end="00:09:47.375">*But now, is it possible for that image*</p>
+      <p begin="00:09:47.405" end="00:09:50.346">*to be absolutely perfect <br/>because of computers?*</p>
+      <p begin="00:09:50.469" end="00:09:52.034">[camera shutters and clicks]</p>
+      <p begin="00:09:52.451" end="00:09:54.720">*You'd never see the photograph <br/>of a woman considered beautiful*</p>
+      <p begin="00:09:54.720" end="00:09:56.597">that hasn't been digitally altered</p>
+      <p begin="00:09:56.597" end="00:09:59.276">to make her absolutely <br/>and humanly perfect.</p>
+      <p begin="00:09:59.636" end="00:10:02.514">*Girls are being encouraged <br/>to achieve that ideal*</p>
+      <p begin="00:10:02.605" end="00:10:05.098">*at younger and younger ages all the time.*</p>
+      <p begin="00:10:05.192" end="00:10:08.945">They end up measuring themselves<br/>against an impossible standard</p>
+      <p begin="00:10:09.090" end="00:10:11.887">and feeling themselves wanting<br/>as a result of it.</p>
+      <p begin="00:10:12.475" end="00:10:15.655">*Also not surprisingly, <br/>young men who are shown*</p>
+      <p begin="00:10:15.655" end="00:10:17.700">lots of photographs of supermodels,</p>
+      <p begin="00:10:17.700" end="00:10:19.692">*then judge real women <br/>much more harshly.*</p>
+      <p begin="00:10:21.293" end="00:10:25.287">- *The most important thing to understand<br/>about all of these images*</p>
+      <p begin="00:10:25.369" end="00:10:28.498">*and how they affect us is that the effect<br/>is primarily subconscious*</p>
+      <p begin="00:10:28.585" end="00:10:31.547">*and that it is very harmful, <br/>but that for the most part, *</p>
+      <p begin="00:10:31.547" end="00:10:33.382">*we're not really aware of that*</p>
+      <p begin="00:10:33.402" end="00:10:36.739">*which is why we need to pay<br/>conscious attention to these images.*</p>
+      <p begin="00:10:37.167" end="00:10:40.538">- [Jim Steyer] The average child <br/>develops over 18 to 24 years.</p>
+      <p begin="00:10:40.622" end="00:10:42.293">And full brain development <br/>doesn't really occur</p>
+      <p begin="00:10:42.293" end="00:10:44.130">until you're into your early twenties.</p>
+      <p begin="00:10:44.777" end="00:10:49.620">So, the idea that kids at eight or ten<br/>or fifteen have the same level</p>
+      <p begin="00:10:49.620" end="00:10:53.732">of intellectual and emotional maturity <br/>as an adult, is nuts.</p>
+      <p begin="00:10:53.932" end="00:10:55.716">They have different<br/>interpretative abilities.</p>
+      <p begin="00:10:55.716" end="00:10:57.811">They have different <br/>emotional abilities.</p>
+      <p begin="00:10:57.811" end="00:10:59.970">And they're a much more <br/>vulnerable class in society.</p>
+      <p begin="00:11:00.335" end="00:11:05.026">- [Katie Couric] I worry about, you know,<br/>how much pressure my daughters feel</p>
+      <p begin="00:11:05.967" end="00:11:08.085">in a society that features</p>
+      <p begin="00:11:08.085" end="00:11:12.720">*anorexic actresses and models<br/>and television stars.*</p>
+      <p begin="00:11:13.090" end="00:11:16.408">*We get conditioned to think this <br/>is what women should look like.*</p>
+      <p begin="00:11:16.635" end="00:11:24.092">So, even people of average weight and size<br/>have body dysmoprhic disorder.</p>
+      <p begin="00:11:24.330" end="00:11:26.910">- [Margaret Cho] When I did my first<br/>television show *All American Girl*, **</p>
+      <p begin="00:11:26.910" end="00:11:30.129">which was the first Asian-American <br/>family show on television,</p>
+      <p begin="00:11:30.129" end="00:11:32.848">I had a lot of problems <br/>with the network</p>
+      <p begin="00:11:32.909" end="00:11:35.295">because they were constantly<br/>telling me that I was too fat.</p>
+      <p begin="00:11:36.792" end="00:11:39.702">You know, I became<br/>very anorexic trying to</p>
+      <p begin="00:11:39.794" end="00:11:43.517">somehow keep this job<br/>that I really wanted to keep.</p>
+      <p begin="00:11:43.537" end="00:11:46.221">And you know, they ended up <br/>canceling the television show.</p>
+      <p begin="00:11:47.296" end="00:11:50.744">And they replaced it with Drew Carey<br/>'cause he's so thin.</p>
+      <p begin="00:11:50.897" end="00:11:53.729">&#9834; [The Drew Carey Show<br/>theme music] &#9834;</p>
+      <p begin="00:11:56.837" end="00:11:58.342">- [M. Gigi Durham] An aspect of <br/>media literacy education,</p>
+      <p begin="00:11:58.342" end="00:11:59.933">that I think many people <br/>aren't aware of,</p>
+      <p begin="00:11:59.933" end="00:12:01.867">is the whole political economy<br/>of the media.</p>
+      <p begin="00:12:05.339" end="00:12:08.087">*Most media get their revenues<br/>from advertising, you know. *</p>
+      <p begin="00:12:08.087" end="00:12:10.313">so, the non advertising content<br/>of these media</p>
+      <p begin="00:12:10.313" end="00:12:12.059">has to support the advertising.</p>
+      <p begin="00:12:12.182" end="00:12:15.401">- [Maria] Everybody needs to learn <br/>what the media is really about.</p>
+      <p begin="00:12:15.657" end="00:12:19.794">It's really about how they want you<br/>to be something that you're not.</p>
+      <p begin="00:12:20.306" end="00:12:22.245">- [Jean Kilbourne] A lot of advertising <br/>is based on making people</p>
+      <p begin="00:12:22.245" end="00:12:24.596">feel anxious and feeling insecure.</p>
+      <p begin="00:12:24.596" end="00:12:27.476">For men, there's a lot of anxiety <br/>around status and power</p>
+      <p begin="00:12:27.476" end="00:12:30.548">*and wanting to look <br/>as if you have power.*</p>
+      <p begin="00:12:30.548" end="00:12:35.130">*At least drive a powerful car for women <br/>that you're never beautiful enough.*</p>
+      <p begin="00:12:35.577" end="00:12:37.866">- *[M. Gigi Durham] Which is why you<br/>keep seeing these same body types*</p>
+      <p begin="00:12:37.866" end="00:12:40.353">over and over and over again, <br/>because those are the body types</p>
+      <p begin="00:12:40.353" end="00:12:42.587">*that generate the purchase <br/>of all these beauty products *</p>
+      <p begin="00:12:42.587" end="00:12:45.750">*and thus are a futiled pursuit <br/>of this idealized body.*</p>
+      <p begin="00:12:45.947" end="00:12:48.731">It's a hugely profitable pursuit <br/>for these media industries</p>
+      <p begin="00:12:48.731" end="00:12:50.122">and for all of the advertisers.</p>
+      <p begin="00:12:50.122" end="00:12:55.701">$$ Advertisers spent <br/>$235.6 billion in 2009</p>
+      <p begin="00:12:56.039" end="00:13:00.796">$$ 80% of the countries in the world<br/>have GDPs less than that</p>
+      <p begin="00:13:00.934" end="00:13:03.557">American women end up spending<br/>much more money on beauty</p>
+      <p begin="00:13:03.557" end="00:13:05.892">in the pursuit of these ideals<br/>and these myths than on</p>
+      <p begin="00:13:05.892" end="00:13:09.440">their own education, which in fact,<br/>would benefit them more in the long run.</p>
+      <p begin="00:13:09.630" end="00:13:11.903">*And so under this rather<br/>equipped empowerment,*</p>
+      <p begin="00:13:11.903" end="00:13:13.843">*it's completely disempowering women.*</p>
+      <p begin="00:13:14.857" end="00:13:18.281">$$ US women spend $12,000<br/>to $15,000 a year</p>
+      <p begin="00:13:18.281" end="00:13:20.917">$$ on beauty products and salon services</p>
+      <p begin="00:13:21.161" end="00:13:24.873">$$ The number of cosmetic surgical <br/>procedures performed on youth</p>
+      <p begin="00:13:24.873" end="00:13:27.221">$$ under age 19 more than tripled<br/>from 1997 to 2007</p>
+      <p begin="00:13:28.036" end="00:13:32.214">$$ The average adult facelift <br/>costs $11,429</p>
+      <p begin="00:13:32.329" end="00:13:35.646">$$ That's enough money to pay for:<br/>5 years at a community college</p>
+      <p begin="00:13:35.646" end="00:13:39.589">$$ 2 years at a state university<br/>1 year at the University of California</p>
+      <p begin="00:13:40.121" end="00:13:43.318">- *[Jean Kilbourne] Not only are girls<br/>seen as objects by other people,*</p>
+      <p begin="00:13:43.333" end="00:13:45.713">they learn to see themselves as objects.</p>
+      <p begin="00:13:46.382" end="00:13:48.325">- [Caroline Heldman]<br/>*The American Psychological Association*</p>
+      <p begin="00:13:48.325" end="00:13:51.443">*has found in recent years <br/>that self-objectification*</p>
+      <p begin="00:13:51.443" end="00:13:54.807">*has become a national epidemic.<br/>A national problem.*</p>
+      <p begin="00:13:56.671" end="00:14:00.035">- The more women and girls <br/>self-objectify,</p>
+      <p begin="00:14:00.035" end="00:14:03.558">the more likely they are to be <br/>depressed, to have eating disorders.</p>
+      <p begin="00:14:03.558" end="00:14:07.199">They have lower confidence.<br/>They have lower ambition.</p>
+      <p begin="00:14:07.199" end="00:14:09.387">*They have lower<br/>cognitive functioning.*</p>
+      <p begin="00:14:09.387" end="00:14:11.491">*They have lower GPAs.*</p>
+      <p begin="00:14:12.045" end="00:14:14.066">How does this connect <br/>to women and leadership?</p>
+      <p begin="00:14:14.358" end="00:14:18.616">Women who are high self-objectifiers<br/>have lower political efficacy.</p>
+      <p begin="00:14:19.069" end="00:14:22.976">Political efficacy is the idea that <br/>your voice matters in politics</p>
+      <p begin="00:14:23.052" end="00:14:25.095">and that you can bring about <br/>change in politics.</p>
+      <p begin="00:14:25.802" end="00:14:29.333">*So, if we have a whole generation <br/>of young people being raised*</p>
+      <p begin="00:14:29.351" end="00:14:33.941">*where women's objectification is just part<br/>for the course, it's normal, it's okay,*</p>
+      <p begin="00:14:34.038" end="00:14:37.671">we have a whole generation of women <br/>who are less likely to run for office</p>
+      <p begin="00:14:37.671" end="00:14:39.155">and less likely to vote.</p>
+      <p begin="00:14:43.680" end="00:14:45.629">*- [Jennifer] This is dangerous business.*</p>
+      <p begin="00:14:47.265" end="00:14:51.712">*If the media sending girls the message*<br/>*that their value lies in their bodies,*</p>
+      <p begin="00:14:52.479" end="00:14:55.118">*this can only leave them <br/>feeling disempowered*</p>
+      <p begin="00:14:55.458" end="00:14:57.905">*and distract them<br/>from making a difference*</p>
+      <p begin="00:14:58.114" end="00:14:59.454">*and becoming leaders.*</p>
+      <p begin="00:14:59.606" end="00:15:02.577">$$ Women make up <br/>51% of the U.S. population</p>
+      <p begin="00:15:02.853" end="00:15:06.174">$$ Yet comprise only <br/>17% of Congress</p>
+      <p begin="00:15:07.928" end="00:15:11.612">$$ The 2010 mid-term election<br/>is the first time</p>
+      <p begin="00:15:12.064" end="00:15:16.172">$$ women have not made<br/>gains in Congress since 1979</p>
+      <p begin="00:15:16.736" end="00:15:20.401">$$ At this rate, women may not<br/>achieve parity for 500 years</p>
+      <p begin="00:15:20.801" end="00:15:24.622">$$ Only 34 women have<br/>ever served as governors</p>
+      <p begin="00:15:26.705" end="00:15:28.966">$$ compared to 2319 men</p>
+      <p begin="00:15:29.038" end="00:15:33.241">- [Pat Mitchell] Here we are. This<br/>massively powerful democratic society</p>
+      <p begin="00:15:33.241" end="00:15:37.994">and we are not modeling for <br/>the rest of the world a better balance.</p>
+      <p begin="00:15:38.734" end="00:15:43.401">$$ 67 countries in the world have had<br/>female presidents or prime ministers</p>
+      <p begin="00:15:45.068" end="00:15:50.344">$$ The U.S. is not one of them</p>
+      <p begin="00:15:51.436" end="00:15:54.444">$$ The U.S. is 88th in the world in terms<br/>of women in national legislatures</p>
+      <p begin="00:15:54.536" end="00:15:57.612">- *[Gavin Newsom] If people knew<br/>that Cuba, China, Iraq *</p>
+      <p begin="00:15:57.612" end="00:16:00.775">and Afghanistan have more <br/>women in government</p>
+      <p begin="00:16:00.775" end="00:16:02.120">than the United States of America,</p>
+      <p begin="00:16:02.120" end="00:16:04.428">then we'd get some people upset.</p>
+      <p begin="00:16:04.516" end="00:16:06.572">- [Gloria Steinem] No wonder we are<br/>in such trouble in this country,</p>
+      <p begin="00:16:06.572" end="00:16:11.810">we've been choosing our national <br/>leadership from 6% of the country.</p>
+      <p begin="00:16:15.353" end="00:16:18.294">- [Jennifer Lawless] Without more women<br/>in politics, we just don't really have</p>
+      <p begin="00:16:18.294" end="00:16:19.943">democratic legitimacies.</p>
+      <p begin="00:16:19.943" end="00:16:23.308">Something looks fundamentally wrong<br/>with our political institutions.</p>
+      <p begin="00:16:23.730" end="00:16:26.250">- [Cory Booker] We're shortchanging <br/>voices that are urgently needed</p>
+      <p begin="00:16:26.250" end="00:16:29.635">in public forums from <br/>ever getting to the table.</p>
+      <p begin="00:16:29.767" end="00:16:33.048">- [Condoleezza Rice] Washington is still<br/>pretty male. And it was not unusual</p>
+      <p begin="00:16:33.048" end="00:16:35.923">to go into a room and be the <br/>only woman in the room.</p>
+      <p begin="00:16:36.537" end="00:16:41.502">Sometimes it mattered when there was <br/>an attempt to change *Title IX*</p>
+      <p begin="00:16:41.502" end="00:16:44.962">*and some pressure<br/>from Capitol Hill about that.*</p>
+      <p begin="00:16:44.962" end="00:16:48.239">*I can remember Karen Hughson<br/>going to the President saying,*</p>
+      <p begin="00:16:48.604" end="00:16:51.903">"You can't do that. Because you <br/>don't know what it was like</p>
+      <p begin="00:16:51.903" end="00:16:55.861">to be a woman in college<br/>prior to *Title IX*</p>
+      <p begin="00:16:55.861" end="00:17:00.944">when you had to have a bake sale <br/>to get your sports team to take a trip."</p>
+      <p begin="00:17:01.368" end="00:17:04.156">- [Dolores Huerta] If you have any kind <br/>of decision-making board and</p>
+      <p begin="00:17:04.184" end="00:17:08.177">there are not any women on that board, <br/>they're going to make the wrong decisions.</p>
+      <p begin="00:17:08.216" end="00:17:10.388">Because they don't have <br/>the women's perspective,</p>
+      <p begin="00:17:10.450" end="00:17:13.751">the women's insight, <br/>the women's experience--</p>
+      <p begin="00:17:14.167" end="00:17:16.492">- [Sen. Barbara Mikulski]<br/>"It's an absolute scandal that</p>
+      <p begin="00:17:16.492" end="00:17:23.272">America's women continue to earn<br/>just 77 cents for every dollar men earn."</p>
+      <p begin="00:17:23.635" end="00:17:26.667">- [Sen. Amy Klobuchar] "In nine states,<br/>in the district of Columbia,</p>
+      <p begin="00:17:27.186" end="00:17:32.075">women who are victims of domestic abuse, <br/>who have been victims of domestic abuse,</p>
+      <p begin="00:17:32.210" end="00:17:34.882">can be denied health care coverage<br/>because domestic abuse</p>
+      <p begin="00:17:35.014" end="00:17:38.147">can be considered <br/>a pre-existing condition."</p>
+      <p begin="00:17:38.439" end="00:17:39.904">- [Rep. Carol Shea] "We go to<br/>the ladies room,</p>
+      <p begin="00:17:39.904" end="00:17:43.250">the Republican Women,<br/>and the Democrat Women,</p>
+      <p begin="00:17:43.250" end="00:17:45.074">and we just roll our eyes at them,<br/>to be instead out there.</p>
+      <p begin="00:17:45.074" end="00:17:47.426">And the Republican women said,</p>
+      <p begin="00:17:47.426" end="00:17:49.154">when we were fighting <br/>on the health care bill,</p>
+      <p begin="00:17:49.154" end="00:17:52.469">'If we sent the men home, <br/>we can get this done as quickly.'"</p>
+      <p begin="00:17:52.669" end="00:17:55.162">*[crowd cheers]*</p>
+      <p begin="00:17:56.180" end="00:17:58.609">- [speaker] "The United States is the<br/>only major industrialized nation</p>
+      <p begin="00:17:58.609" end="00:18:01.107">without paid family leave."</p>
+      <p begin="00:18:01.190" end="00:18:04.011">- [Sen. Olympia Snowe] "If women didn't <br/>speak up on these issues,</p>
+      <p begin="00:18:04.011" end="00:18:08.115">and didn't become front and center, <br/>in making sure they're on the front burner</p>
+      <p begin="00:18:08.208" end="00:18:11.078">of the legislative agenda, <br/>they simply wouldn't happen.</p>
+      <p begin="00:18:11.116" end="00:18:13.203">I feel if it wasn't us, <br/>who would do it?"</p>
+      <p begin="00:18:13.361" end="00:18:17.503">- [Marie Wilson] Women have been actually<br/>creating the best public policy in America</p>
+      <p begin="00:18:17.553" end="00:18:19.830">in every state and community<br/>of this country.</p>
+      <p begin="00:18:19.830" end="00:18:22.838">The living wage campaigns,<br/>Micro-Enterprise, safety,</p>
+      <p begin="00:18:22.838" end="00:18:26.118">everything that needed different thinking,<br/>women have been doing it,</p>
+      <p begin="00:18:26.179" end="00:18:28.189">so we gotta get them<br/>in the tables of power.</p>
+      <p begin="00:18:28.629" end="00:18:31.108">- [Condoleezza Rice] Well, two things <br/>have to happen when you talk about</p>
+      <p begin="00:18:31.108" end="00:18:34.687">women moving to the next rung<br/>or minorities moving to the next rung.</p>
+      <p begin="00:18:35.070" end="00:18:36.999">First, we have to have the candidates.</p>
+      <p begin="00:18:37.091" end="00:18:39.248">You have to have people<br/>who are in the pools</p>
+      <p begin="00:18:39.248" end="00:18:41.196">from which these positions are drawn.</p>
+      <p begin="00:18:41.424" end="00:18:44.286">But you also have to have a kind <br/>of psychological breakthrough</p>
+      <p begin="00:18:45.516" end="00:18:51.386">or can an American see a woman<br/>born African-American in that position?</p>
+      <p begin="00:18:51.494" end="00:18:55.349">Now I think with women,<br/>we still have a bit to go.</p>
+      <p begin="00:18:57.684" end="00:19:00.784">- [Jennifer] I knew these obstacles <br/>still existed from my generation,</p>
+      <p begin="00:19:00.930" end="00:19:03.617">*but I wanted to find out <br/>if things were any better*</p>
+      <p begin="00:19:03.617" end="00:19:05.933">for young women<br/>seeking leadership positions.</p>
+      <p begin="00:19:06.704" end="00:19:10.403">So I spent time with an exceptional <br/>young woman named, Devanshi Patel,</p>
+      <p begin="00:19:10.900" end="00:19:13.456">who aspires to have <br/>a career in public service.</p>
+      <p begin="00:19:14.104" end="00:19:15.790">- [Devanshi Patel]<br/>"Well, welcome to Bill Hearing.</p>
+      <p begin="00:19:15.790" end="00:19:17.886">Tonight is the bill hearing night for</p>
+      <p begin="00:19:17.886" end="00:19:21.280">The Central Silicon Valley YMCA <br/>Youth and Government Delegation."</p>
+      <p begin="00:19:21.651" end="00:19:25.517">So, first time I ran for public office <br/>was in 4th grade.</p>
+      <p begin="00:19:26.193" end="00:19:28.513">My parents award with me.<br/>We made all these flyers</p>
+      <p begin="00:19:28.513" end="00:19:32.306">with all these cute little slogans<br/>and we campaigned all over the school,</p>
+      <p begin="00:19:32.433" end="00:19:36.397">and I was actually the runner-up <br/>by a handful of votes.</p>
+      <p begin="00:19:36.884" end="00:19:38.377">I think everyone is born with something</p>
+      <p begin="00:19:38.377" end="00:19:40.832">that they have to do <br/>and for me, this was it.</p>
+      <p begin="00:19:40.932" end="00:19:43.585">Every time that I could run for something,<br/>I didn't run for anything less.</p>
+      <p begin="00:19:43.585" end="00:19:46.125">I didn't run for Vice President <br/>or Treasurer. I ran for President.</p>
+      <p begin="00:19:46.522" end="00:19:48.870">- *[Ranna Patel] I asked her one day. <br/>I think it was in 5th grade.*</p>
+      <p begin="00:19:48.923" end="00:19:51.441">*I said, "Devanshi, you always want<br/>to be a leader,*</p>
+      <p begin="00:19:51.441" end="00:19:53.437">*but do you know what a leader is?"*</p>
+      <p begin="00:19:53.825" end="00:19:56.598">She says, "It's very simple, Mama.<br/>They are just servants to people.</p>
+      <p begin="00:19:58.137" end="00:20:00.134">Leaders are just servants to people."</p>
+      <p begin="00:20:00.694" end="00:20:03.423">- [Devanshi] I loved the Youth <br/>and Government program.</p>
+      <p begin="00:20:03.459" end="00:20:06.991">The best way I can give back<br/>is by running for Youth Governor.</p>
+      <p begin="00:20:07.625" end="00:20:10.123">- [speaker] How would you solve <br/>the California Budget Crisis?</p>
+      <p begin="00:20:10.123" end="00:20:11.282">Starting with Ms. Patel.</p>
+      <p begin="00:20:11.606" end="00:20:13.248">- [Devanshi] I would cut <br/>unnecessary spending.</p>
+      <p begin="00:20:13.300" end="00:20:15.826">Well, when I was running for office, <br/>there were a lot of--</p>
+      <p begin="00:20:15.995" end="00:20:19.770">if not outward shows of sexism,<br/>little remarks here and there, like</p>
+      <p begin="00:20:19.863" end="00:20:21.678">you know, "Oh, she speaks well <br/>for a woman.</p>
+      <p begin="00:20:21.700" end="00:20:23.553">She's smart for a woman."</p>
+      <p begin="00:20:23.845" end="00:20:26.215">There were also a couple instances<br/>with some of my friends</p>
+      <p begin="00:20:26.215" end="00:20:29.237">*when they were going to speak <br/>in front of a large audience*</p>
+      <p begin="00:20:29.257" end="00:20:32.080">*and the only thing people could<br/>focus on was their body, *</p>
+      <p begin="00:20:32.080" end="00:20:34.443">*what they looked like,<br/>what they were wearing.*</p>
+      <p begin="00:20:34.534" end="00:20:36.748">I thought, you know, <br/>"We're better than this."</p>
+      <p begin="00:20:36.748" end="00:20:43.227">$$ Devanshi lost the election to one of <br/>her male opponents, coming in second.</p>
+      <p begin="00:20:43.961" end="00:20:49.811">- [Ranna Patel] She said,"Mama,<br/>looks like I'm another Hilary Clinton."</p>
+      <p begin="00:20:50.070" end="00:20:51.280">- [Oliver Mittelstaedt] <br/>Guys will vote for guys.</p>
+      <p begin="00:20:51.280" end="00:20:53.136">And girls would vote for guys,<br/>but some other time,</p>
+      <p begin="00:20:53.136" end="00:20:56.261">girls have a harder time getting<br/>the girls do vote girls because</p>
+      <p begin="00:20:56.261" end="00:20:58.796">I feel like, girls are <br/>kinda harder on other girls.</p>
+      <p begin="00:20:59.089" end="00:21:02.040">$$ 65% of the 2000 teens who vote<br/>in California's YMCA</p>
+      <p begin="00:21:02.040" end="00:21:06.182">Youth &amp;amp; Government program are girls.</p>
+      <p begin="00:21:07.438" end="00:21:10.067">*- [Jennifer] Devanshi's story made me <br/>think about how early *</p>
+      <p begin="00:21:10.067" end="00:21:12.404">*girls face a deep gender bias.*</p>
+      <p begin="00:21:12.746" end="00:21:15.918">*And how things have not changed<br/>as much as we'd like to think.*</p>
+      <p begin="00:21:18.040" end="00:21:20.328">- [Gavin Newsom] One of the first things<br/>I did when I became Mayor of San Francisco</p>
+      <p begin="00:21:20.344" end="00:21:23.972">is I appointed a female police chief<br/>and then a female fire chief.</p>
+      <p begin="00:21:24.900" end="00:21:28.519">When they both show up at the podium,<br/>in a disaster, a lot of national media</p>
+      <p begin="00:21:28.519" end="00:21:30.785">would look there and say,<br/>"Well, where is the police chief?"</p>
+      <p begin="00:21:30.880" end="00:21:32.239">"She's right here."</p>
+      <p begin="00:21:32.239" end="00:21:33.904">"And where's the fire chief?"<br/>"Well, she's right here."</p>
+      <p begin="00:21:33.904" end="00:21:36.770">People thought I was trying <br/>to make some grand statement,</p>
+      <p begin="00:21:36.770" end="00:21:41.584">when in fact, I was actually just hiring <br/>the most qualified two candidates.</p>
+      <p begin="00:21:41.763" end="00:21:46.111">The incredible opposition<br/>was coming mostly from women.</p>
+      <p begin="00:21:46.535" end="00:21:49.523">And those that feel it's much<br/>too soon, too fast,</p>
+      <p begin="00:21:49.631" end="00:21:52.343">they never would've question <br/>at how they've been men.</p>
+      <p begin="00:21:53.643" end="00:21:54.720">- [Caroline Heldman]<br/>Little boys and little girls</p>
+      <p begin="00:21:54.720" end="00:21:55.802">when they're seven years old,</p>
+      <p begin="00:21:55.802" end="00:21:58.467">an equal number want to be<br/>President of the United States</p>
+      <p begin="00:21:58.483" end="00:22:00.287">when they grow up, about 30%.</p>
+      <p begin="00:22:00.595" end="00:22:03.550">*But then, you ask the same<br/>question when they're 15*</p>
+      <p begin="00:22:03.565" end="00:22:05.482">*and you see this massive gap emerging.*</p>
+      <p begin="00:22:05.502" end="00:22:07.575">*So, we have this gendered socialization,*</p>
+      <p begin="00:22:07.575" end="00:22:09.678">*where politics is considered<br/>to be for men.*</p>
+      <p begin="00:22:09.678" end="00:22:11.903">*Leadership is considered to be<br/>a masculine pursuit*</p>
+      <p begin="00:22:12.004" end="00:22:16.446">and women are discouraged<br/>from pursuing ambitious positions.</p>
+      <p begin="00:22:18.586" end="00:22:25.126">$$ You can't be what you can't see.<br/>-Marian Wright Edelman</p>
+      <p begin="00:22:25.594" end="00:22:28.249">- [Carol Jenkins] I think what happens is<br/>that if you do not have women there,</p>
+      <p begin="00:22:28.391" end="00:22:32.074">then girls do not see<br/>that they can be that.</p>
+      <p begin="00:22:32.174" end="00:22:37.199">So, it's really what you see <br/>that inspires your idea of</p>
+      <p begin="00:22:37.199" end="00:22:39.130">what's possible for you in the world.</p>
+      <p begin="00:22:39.221" end="00:22:41.693">- [Krystal Ball] "I do disagree<br/>with Sarah Palin on a lot of issues,</p>
+      <p begin="00:22:41.693" end="00:22:44.879">but seeing her up on stage there<br/>with her young family</p>
+      <p begin="00:22:44.879" end="00:22:47.503">and her young baby was just beautiful.</p>
+      <p begin="00:22:47.503" end="00:22:50.126">And I thought, 'You know what? <br/>Maybe I could give this a shot as well.'"</p>
+      <p begin="00:22:50.949" end="00:22:55.821">$$ 68% of viewers were more likely<br/>to accept a female president</p>
+      <p begin="00:22:56.098" end="00:22:59.782">- [Marie Wilson] Having this opportunity <br/>to see women, to see women leadership,</p>
+      <p begin="00:22:59.820" end="00:23:02.735">to see women's leadership in reality<br/>and on the screen</p>
+      <p begin="00:23:02.735" end="00:23:06.095">and on the television, <br/>is huge for women. Huge.</p>
+      <p begin="00:23:06.095" end="00:23:09.604">Because you don't have that <br/>many women really in leadership.</p>
+      <p begin="00:23:09.604" end="00:23:12.309">So the way that it gets done<br/>to a certain extent</p>
+      <p begin="00:23:12.309" end="00:23:15.723">and way problems get solved <br/>often have to do with Hollywood.</p>
+      <p begin="00:23:15.988" end="00:23:19.138">And the films that get made. <br/>The documentaries, the television shows,</p>
+      <p begin="00:23:19.177" end="00:23:23.118">start where people are<br/>and people are watching television.</p>
+      <p begin="00:23:25.109" end="00:23:27.806">- *[Jennifer] There are some examples<br/>of films and TV shows*</p>
+      <p begin="00:23:27.806" end="00:23:29.708">*that portray powerful women.*</p>
+      <p begin="00:23:30.040" end="00:23:34.032">*But in general, the situation<br/>in Hollywood is pretty bleak. *</p>
+      <p begin="00:23:34.380" end="00:23:37.406">$$ CANCELLED AFTER ONE SEASON</p>
+      <p begin="00:23:37.627" end="00:23:41.249">I decided to pursue acting<br/>professionally at the age of 28.</p>
+      <p begin="00:23:41.573" end="00:23:44.146">And was hopeful I could find<br/>complex roles to play.</p>
+      <p begin="00:23:45.102" end="00:23:48.368">My first reality check came when <br/>my agent told me to lie about my age</p>
+      <p begin="00:23:48.413" end="00:23:51.691">and remove my Stanford MBA <br/>from my resume</p>
+      <p begin="00:23:51.691" end="00:23:53.319">because it might be threatening.</p>
+      <p begin="00:23:54.130" end="00:23:55.862">Well, I didn't do either.</p>
+      <p begin="00:23:55.862" end="00:23:58.047">But my confidence was really shaken.</p>
+      <p begin="00:23:59.292" end="00:24:02.276">My second reality check came when<br/>I learned that there were very few</p>
+      <p begin="00:24:02.276" end="00:24:04.975">multi-dimensional roles<br/>to even audition for.</p>
+      <p begin="00:24:05.874" end="00:24:07.465">I shouldn't have been surprised.</p>
+      <p begin="00:24:07.757" end="00:24:09.415">*Because when you really look<br/>at Hollywood *</p>
+      <p begin="00:24:09.415" end="00:24:11.290">*and the films that are being made,*</p>
+      <p begin="00:24:11.290" end="00:24:13.045">you see the same stereotypes</p>
+      <p begin="00:24:13.045" end="00:24:16.370">*being portrayed over and over again.*</p>
+      <p begin="00:24:17.959" end="00:24:21.649">*&#9834; [Golds Guns Girls by Metric] &#9834;*</p>
+      <p begin="00:24:24.849" end="00:24:27.037">*&#9834; All the gold &#9834;*</p>
+      <p begin="00:24:27.409" end="00:24:29.949">*&#9834; And the guns &#9834;*</p>
+      <p begin="00:24:30.258" end="00:24:34.689">*&#9834; And the girls (Couldn't get you off) &#9834;*</p>
+      <p begin="00:24:35.584" end="00:24:37.740">*&#9834; All the boys &#9834;*</p>
+      <p begin="00:24:37.985" end="00:24:44.205">*&#9834; All the choices in the world &#9834;*</p>
+      <p begin="00:24:44.815" end="00:24:47.229">*&#9834; I remember when we were <br/>gambling to win &#9834;*</p>
+      <p begin="00:24:47.281" end="00:24:50.348">*&#9834; And everybody else said<br/>better luck next time &#9834;*</p>
+      <p begin="00:24:50.410" end="00:24:52.646">*&#9834; I don't wanna bend like<br/>the bad girls bend &#9834;*</p>
+      <p begin="00:24:52.654" end="00:24:55.835">*&#9834; I just wanna be your friend<br/>Is it ever gonna be enough &#9834;*</p>
+      <p begin="00:24:59.471" end="00:25:01.621">*&#9834; Is it ever gonna be enough &#9834;*</p>
+      <p begin="00:25:02.123" end="00:25:04.223">*&#9834; Is it ever gonna be enough &#9834;*</p>
+      <p begin="00:25:04.617" end="00:25:06.789">*&#9834; Is it ever gonna be enough &#9834;*</p>
+      <p begin="00:25:06.918" end="00:25:09.786">- [Ilian] Women are never the protagonist.<br/>They're the ones who,</p>
+      <p begin="00:25:09.790" end="00:25:13.652">if they are the protagonist, <br/>it's something drama about</p>
+      <p begin="00:25:13.652" end="00:25:15.331">*getting a guy or something.*</p>
+      <p begin="00:25:15.331" end="00:25:17.945">It's never really about <br/>finding your destiny or whatever,</p>
+      <p begin="00:25:17.945" end="00:25:19.176">how they stayed for the guys.</p>
+      <p begin="00:25:19.176" end="00:25:22.547">*Like in the *Star Trek,* on this<br/>is your destiny and you know, *</p>
+      <p begin="00:25:22.547" end="00:25:24.003">*being powerful,<br/>being the captain.*</p>
+      <p begin="00:25:24.003" end="00:25:27.929">*But for girls, they wouldn't say that.<br/>And then, what's weird about it*</p>
+      <p begin="00:25:27.929" end="00:25:31.667">is that it seemed normal for us,<br/>like, we don't question it.</p>
+      <p begin="00:25:31.703" end="00:25:34.637">We don't say, "Oh, why isn't the girl <br/>being the protagonist for this?</p>
+      <p begin="00:25:34.653" end="00:25:36.043">Why can't a girl be powerful?"</p>
+      <p begin="00:25:36.965" end="00:25:41.159">$$ Only 16% of protagonists<br/>in films are female</p>
+      <p begin="00:25:41.371" end="00:25:43.819">- [Geena Davis] I hear this all the time.<br/>Well, things are getting better.</p>
+      <p begin="00:25:43.839" end="00:25:47.887">I mean, things are getting better, <br/>you know. But, they're not.</p>
+      <p begin="00:25:48.163" end="00:25:51.347">- [Caroline Heldman] Mainstream movies <br/>are genuinely stories of men's lives</p>
+      <p begin="00:25:51.443" end="00:25:54.927">which revolve around men. <br/>And then we have this sub-genre</p>
+      <p begin="00:25:54.927" end="00:25:57.389">*called, Chic Flicks, which are stories <br/>of women's lives, *</p>
+      <p begin="00:25:57.389" end="00:26:01.033">*which when you look at them<br/>a little more closely, you realize that*</p>
+      <p begin="00:26:01.033" end="00:26:03.422">*they generally revolve <br/>around men's lives, too.*</p>
+      <p begin="00:26:03.422" end="00:26:05.198">*They revolve around trying to get a man,*</p>
+      <p begin="00:26:05.198" end="00:26:08.555">*trying to get love, get married <br/>and get pregnant.*</p>
+      <p begin="00:26:08.570" end="00:26:12.074">- "It's my fault that I'm <br/>alone on Valentine's Day.</p>
+      <p begin="00:26:12.074" end="00:26:15.938">My closest relationship is <br/>with my Blackberry."</p>
+      <p begin="00:26:15.938" end="00:26:17.947">- "Right."<br/>- "Thank God it vibrates."</p>
+      <p begin="00:26:18.585" end="00:26:21.947">- [Geena Davis] Between 1937 and 2005,</p>
+      <p begin="00:26:21.947" end="00:26:26.969">there were only 13 female protagonists<br/>in animated movies.</p>
+      <p begin="00:26:27.339" end="00:26:32.075">All of them, except one,<br/>had the aspiration of finding romance.</p>
+      <p begin="00:26:32.580" end="00:26:35.309">- [Lisa Ling] As a culture, women are<br/>brought up to just be kind of</p>
+      <p begin="00:26:35.309" end="00:26:38.229">fundamentally insecure <br/>and always looking for the time</p>
+      <p begin="00:26:38.229" end="00:26:44.400">when that knight on a horse will come<br/>and rescue us or provide for us.</p>
+      <p begin="00:26:44.857" end="00:26:48.069">*- [Caroline Heldman] When it comes to<br/>female leaders in entertainment media,*</p>
+      <p begin="00:26:48.069" end="00:26:52.599">*we see the bitchy boss who <br/>has sacrificed family and love *</p>
+      <p begin="00:26:52.599" end="00:26:54.386">to make it to where she is.</p>
+      <p begin="00:26:54.397" end="00:27:00.292">- "I said to myself, 'Take a chance. <br/>*Hire the smart, fat girl."*</p>
+      <p begin="00:27:00.999" end="00:27:03.706">- The whole movie is about <br/>bringing her down a peg</p>
+      <p begin="00:27:03.706" end="00:27:07.013">and this is generally done by someone<br/>who is under her, a subordinate,</p>
+      <p begin="00:27:07.013" end="00:27:10.507">typically a male, so that image <br/>doesn't bode well,</p>
+      <p begin="00:27:10.507" end="00:27:14.038">when it comes to ideas <br/>of women in leadership.</p>
+      <p begin="00:27:14.458" end="00:27:17.502">- *[Paul Haggis] We had many more<br/>interesting characters on screen*</p>
+      <p begin="00:27:17.502" end="00:27:20.264">in the 20s, 30s, 40s<br/>than we do now.</p>
+      <p begin="00:27:20.264" end="00:27:24.454">And we allowed women to really<br/>embody all the conrtadictions</p>
+      <p begin="00:27:24.454" end="00:27:26.298">*that make up a human being<br/>back then.*</p>
+      <p begin="00:27:26.298" end="00:27:28.922">*They could be the* femme fatale</p>
+      <p begin="00:27:28.922" end="00:27:31.860">*and then turn around <br/>and be the mother.*</p>
+      <p begin="00:27:31.860" end="00:27:34.378">*And then turn around <br/>and be the seductress.*</p>
+      <p begin="00:27:34.378" end="00:27:37.900">And then turn and be the saint.<br/>And we accepted that.</p>
+      <p begin="00:27:38.946" end="00:27:40.632">They were complex human beings.</p>
+      <p begin="00:27:40.643" end="00:27:43.393">Now we really like to put people in boxes.</p>
+      <p begin="00:27:43.393" end="00:27:46.380">- "The only two choices for women: <br/>Witch and Sexy Kitten."</p>
+      <p begin="00:27:46.447" end="00:27:48.520">- "Oh, you just said <br/>a mouthful there, sister."</p>
+      <p begin="00:27:48.970" end="00:27:52.212">- *As men, we do it because<br/>we don't understand characters *</p>
+      <p begin="00:27:52.212" end="00:27:55.073">*that aren't ourselves and we are yet<br/>willing to put ourselves*</p>
+      <p begin="00:27:55.073" end="00:27:59.183">in the skin of those characters<br/>and women, I think, terrify us.</p>
+      <p begin="00:27:59.771" end="00:28:01.773">*We tend not to write women <br/>as human beings.*</p>
+      <p begin="00:28:01.981" end="00:28:03.689">*It's cartoons we're making now.*</p>
+      <p begin="00:28:03.984" end="00:28:05.274">And that's a shame.</p>
+      <p begin="00:28:06.521" end="00:28:09.242">- *[Caroline Heldman] Throughout any type <br/>of mass media there is,*</p>
+      <p begin="00:28:09.242" end="00:28:13.270">we see the widespread acceptance<br/>of women as sex objects.</p>
+      <p begin="00:28:13.610" end="00:28:17.712">*In rock videos, rapping, hip hop videos.<br/>in all the summer blockbusters,*</p>
+      <p begin="00:28:17.773" end="00:28:22.071">women are basically just body props there<br/>for young male viewers.</p>
+      <p begin="00:28:22.747" end="00:28:24.938">- [Joshua] I think when they <br/>do put in the part,</p>
+      <p begin="00:28:24.938" end="00:28:29.866">she's used as a sexual object or the<br/>object of desire a lot toward the men,</p>
+      <p begin="00:28:29.866" end="00:28:31.354">which I think should change a lot</p>
+      <p begin="00:28:31.354" end="00:28:34.664">because there's still a lot more <br/>to women than just a body.</p>
+      <p begin="00:28:35.990" end="00:28:38.724">- *[Jackson Katz] We're socializing boys<br/>to believe that being a man, *</p>
+      <p begin="00:28:38.724" end="00:28:41.187">means being powerful and in control.</p>
+      <p begin="00:28:41.338" end="00:28:41.970">[thud]</p>
+      <p begin="00:28:42.008" end="00:28:42.533">[kissing sound]</p>
+      <p begin="00:28:42.610" end="00:28:43.105">[slapping sound]</p>
+      <p begin="00:28:43.335" end="00:28:44.754">- "Brianna."</p>
+      <p begin="00:28:45.641" end="00:28:47.407">- *Being smarter than women <br/>or better than women*</p>
+      <p begin="00:28:47.407" end="00:28:49.661">or our needs get met first <br/>in relationships with women</p>
+      <p begin="00:28:49.661" end="00:28:53.723">that's not genetically predestined.<br/>That's learned behavior.</p>
+      <p begin="00:28:53.819" end="00:28:56.486">- "You don't think I can be a surgeon?<br/>I can be a surgeon."</p>
+      <p begin="00:28:56.625" end="00:28:58.584">- "Surgery's hard core."<br/>- "I'm hard core."</p>
+      <p begin="00:28:58.618" end="00:29:00.995">- "You won't last the first year, babe."</p>
+      <p begin="00:29:01.872" end="00:29:04.439">- *[Caroline Heldman] We also see<br/>a new incarnation of this, *</p>
+      <p begin="00:29:04.439" end="00:29:06.868">*where women appear to be empowered.*</p>
+      <p begin="00:29:06.971" end="00:29:09.384">*They are carrying a story<br/>they're the action hero.*</p>
+      <p begin="00:29:09.384" end="00:29:13.336">But again, when you peel back<br/>a layer or two, you discover that</p>
+      <p begin="00:29:13.336" end="00:29:15.309">it's not really about their agency</p>
+      <p begin="00:29:15.309" end="00:29:17.744">and I call this archetype, <br/>the fighting fuck toy.</p>
+      <p begin="00:29:17.744" end="00:29:18.998">*[missile fired]*</p>
+      <p begin="00:29:19.045" end="00:29:21.476">*&#9834; Ooh. Don't speak, even whisper &#9834;*</p>
+      <p begin="00:29:21.508" end="00:29:22.483">[explosion]</p>
+      <p begin="00:29:22.775" end="00:29:24.275">- "Now that's a bad ass chick."</p>
+      <p begin="00:29:25.278" end="00:29:28.941">- *Because even though she is doing things<br/>supposedly on her own terms,*</p>
+      <p begin="00:29:29.393" end="00:29:33.677">*she very much is objectified <br/>and exists for the male viewer.*</p>
+      <p begin="00:29:35.201" end="00:29:38.841">*- [Geena Davis] In G rated movies, <br/>the female characters are just as likely*</p>
+      <p begin="00:29:38.845" end="00:29:44.857">to be wearing sexually revealing clothing<br/>as in R rated movies, which is horrifying.</p>
+      <p begin="00:29:45.464" end="00:29:49.736">$$ "Ratings Creep" shows that<br/>movie ratings categories</p>
+      <p begin="00:29:49.736" end="00:29:52.564">$$ contain MORE violence, sex<br/>and profanity than a decade ago.</p>
+      <p begin="00:29:54.330" end="00:29:58.944">- [Jane Fonda] The hyper sexualization<br/>that occurs in Hollywood, it's toxic.</p>
+      <p begin="00:29:58.979" end="00:30:03.031">There's no question. <br/>It affects all of us including</p>
+      <p begin="00:30:04.123" end="00:30:07.064">young girls who are seeking an identity.</p>
+      <p begin="00:30:08.099" end="00:30:12.567">$$ More than 20% of teens<br/>have sex before the age of 14</p>
+      <p begin="00:30:13.760" end="00:30:17.482">*- [Pat Mitchell] If the message is<br/>that women are objectified,*</p>
+      <p begin="00:30:17.528" end="00:30:19.606">objects that that's<br/>their primary being,</p>
+      <p begin="00:30:19.606" end="00:30:24.042">that's a very tough and challenging <br/>message for young women.</p>
+      <p begin="00:30:24.089" end="00:30:26.907">*To think that's their paths to power.*</p>
+      <p begin="00:30:27.555" end="00:30:29.955">$$ Laurence Fishburne's Daughter<br/>Released a Sex Tape Because of</p>
+      <p begin="00:30:29.955" end="00:30:32.212">$$ 'How Successful <br/>Kim Kardashian Became'</p>
+      <p begin="00:30:32.443" end="00:30:34.569">*- [M. Gigi Durham] You know, they'll say<br/>Madonna is tremendously empowered*</p>
+      <p begin="00:30:34.590" end="00:30:38.600">or Angelina Jolie, but they all embody <br/>that exact same definition of sexuality.</p>
+      <p begin="00:30:38.804" end="00:30:40.172">I mean, when you really <br/>think about it though,</p>
+      <p begin="00:30:40.172" end="00:30:43.303">*Hilary Clinton's tremendously empowered.<br/>She's Secretary of State, right?*</p>
+      <p begin="00:30:43.303" end="00:30:45.272">*Or you know, you think of <br/>women CEOs, or you know, *</p>
+      <p begin="00:30:45.272" end="00:30:48.120">*there are women who are empowered <br/>in lots of different kinds of ways,*</p>
+      <p begin="00:30:48.120" end="00:30:49.976">*but you don't see them represented.*</p>
+      <p begin="00:30:49.976" end="00:30:52.503">You don't get that message <br/>that you don't have to use your sexuality</p>
+      <p begin="00:30:52.503" end="00:30:54.435">to attain empowerment in the world.</p>
+      <p begin="00:30:55.087" end="00:30:57.566">- [Gloria Steinem] A male dominant system,<br/>our patriarchal system,</p>
+      <p begin="00:30:57.566" end="00:31:00.283">values women as child bearers period.</p>
+      <p begin="00:31:00.302" end="00:31:05.806">So, it limits their value to the time<br/>that they are sexually active,</p>
+      <p begin="00:31:05.806" end="00:31:10.759">*reproductively active and become <br/>much less valuable after that.*</p>
+      <p begin="00:31:12.138" end="00:31:13.854">- [Martha Lauzen] What we see <br/>on broadcast television</p>
+      <p begin="00:31:13.854" end="00:31:18.590">*is that the majority of female characters<br/>are in their 20s and 30s.*</p>
+      <p begin="00:31:18.590" end="00:31:23.482">That is just a huge<br/>misrepresentation of reality.</p>
+      <p begin="00:31:23.518" end="00:31:26.293">And that really skews our perceptions.</p>
+      <p begin="00:31:26.700" end="00:31:30.928">$$ Women in their teens, 20's and 30's<br/>are 39% of the population,</p>
+      <p begin="00:31:30.928" end="00:31:34.968">$$ yet are 71% of women on TV</p>
+      <p begin="00:31:36.297" end="00:31:40.832">$$ Women 40 and older <br/>are 47% of the population,</p>
+      <p begin="00:31:41.220" end="00:31:44.048">$$ yet are 26% of women on TV</p>
+      <p begin="00:31:44.452" end="00:31:48.684">It's like when a female<br/>reaches 39 or 40,</p>
+      <p begin="00:31:48.684" end="00:31:51.511">she simply needs to go away.</p>
+      <p begin="00:31:57.489" end="00:32:00.705">- [Daphne Zuniga] One day, I got the call <br/>that I had heard about others getting</p>
+      <p begin="00:32:00.720" end="00:32:02.695">and that was this. <br/>I had just gotten a series</p>
+      <p begin="00:32:02.695" end="00:32:05.193">and it was presented to me <br/>by my managers,</p>
+      <p begin="00:32:05.193" end="00:32:08.928">"Daphne, you're part is secure. <br/>But would you consider doing</p>
+      <p begin="00:32:08.928" end="00:32:11.061">a little Botox or collagen or something?"</p>
+      <p begin="00:32:12.057" end="00:32:13.807">Well, just like them, <br/>I didn't know what the hell it was.</p>
+      <p begin="00:32:13.807" end="00:32:16.523">"What do you mean Botox <br/>or collagen or something?"</p>
+      <p begin="00:32:16.523" end="00:32:24.634">And I remember lying in this chair <br/>with this fat bald man injecting,</p>
+      <p begin="00:32:24.916" end="00:32:29.458">needles in my forehead, <br/>bleeding and I'm crying</p>
+      <p begin="00:32:29.458" end="00:32:31.886">and I'm feeling guilty for crying.</p>
+      <p begin="00:32:32.514" end="00:32:35.230">I remember lying in that chair <br/>just thinking,</p>
+      <p begin="00:32:35.286" end="00:32:37.088">"There's something wrong here."</p>
+      <p begin="00:32:37.219" end="00:32:44.286">It really made me feel less<br/>spiritually whole person,</p>
+      <p begin="00:32:44.753" end="00:32:47.630">less of a woman with integrity.</p>
+      <p begin="00:32:47.762" end="00:32:51.285">I felt like I was cheating and lying <br/>with this stuff in my face.</p>
+      <p begin="00:32:52.711" end="00:32:54.285">So maybe I'll stop working. <br/>I don't know.</p>
+      <p begin="00:32:54.285" end="00:32:57.401">But just right now I have chosen<br/>not to do it again.</p>
+      <p begin="00:32:59.782" end="00:33:01.391">My mother was furious. <br/>Wanna hear what my mother--</p>
+      <p begin="00:33:01.391" end="00:33:03.074">the hippie in Vermont said?</p>
+      <p begin="00:33:03.910" end="00:33:06.472">"You tell those fuckers <br/>to get penis implants."</p>
+      <p begin="00:33:06.598" end="00:33:08.244">[laughs]</p>
+      <p begin="00:33:10.470" end="00:33:14.962">- [Jane Fonda] This is not new, you know.<br/>I started out in the business in the 50s.</p>
+      <p begin="00:33:15.461" end="00:33:17.849">My very first movie, <br/>I played a cheerleader</p>
+      <p begin="00:33:17.849" end="00:33:20.416">and Jack Warner was the head<br/>of Warner Brothers</p>
+      <p begin="00:33:20.416" end="00:33:23.231">and he sent word down<br/>that he wanted me to wear falsies</p>
+      <p begin="00:33:23.231" end="00:33:27.723">and my director, Josh Logan, asked me<br/>to have my back teeth pulled out.</p>
+      <p begin="00:33:28.111" end="00:33:30.539">You know, I wasn't good enough<br/>the way I was.</p>
+      <p begin="00:33:42.394" end="00:33:44.578">- [Jennifer Pozner] I really truly<br/>believe that reality TV</p>
+      <p begin="00:33:44.609" end="00:33:47.641">is the contemporary cultural backlash <br/>against women's rights.</p>
+      <p begin="00:33:48.296" end="00:33:49.279">- *[speaker ]"Ms. Blondie... "*</p>
+      <p begin="00:33:49.406" end="00:33:51.401">$$ We have to watch out<br/>for her body, too.</p>
+      <p begin="00:33:51.482" end="00:33:53.010">$$ Her body is a little thick.</p>
+      <p begin="00:33:53.389" end="00:33:56.991">- *I think one of the worst stereotypes<br/>in reality TV is this notion *</p>
+      <p begin="00:33:56.991" end="00:34:00.920">*that women exist to be decorative.<br/>Women exist to be stupid. *</p>
+      <p begin="00:34:00.973" end="00:34:05.213">*Women are considered gold diggers. <br/>Women are considered bitchy, catty,*</p>
+      <p begin="00:34:05.213" end="00:34:09.555">*manipulative, vindictive, not to be trusted,<br/>especially by other women.*</p>
+      <p begin="00:34:09.595" end="00:34:12.631">"You are a piece of [bleep] <br/>and you're a stupid blonde."</p>
+      <p begin="00:34:13.099" end="00:34:14.535">- "I think you look like a ho."</p>
+      <p begin="00:34:15.289" end="00:34:16.891">- "Slap me, bitch."<br/>- "Or what?"</p>
+      <p begin="00:34:17.505" end="00:34:19.148">- "You motherfucking whore!"</p>
+      <p begin="00:34:19.502" end="00:34:23.539">- *This notion that women <br/>are natural enemies vying for *</p>
+      <p begin="00:34:23.539" end="00:34:28.492">*the prize of being more beautiful<br/>than the rest or the love of whoever,*</p>
+      <p begin="00:34:28.699" end="00:34:32.953">is so counter to women in real life.</p>
+      <p begin="00:34:33.115" end="00:34:36.305">- *"Please, pick me, pick me, pick me. <br/>See how beautiful I am."*</p>
+      <p begin="00:34:37.137" end="00:34:39.603">*- [M. Gigi Durham] There's a really <br/>unequal power relationship going on there,*</p>
+      <p begin="00:34:39.617" end="00:34:41.904">*where it's the girls whose bodies <br/>are on display and the boys *</p>
+      <p begin="00:34:41.904" end="00:34:43.521">*get the power to arbitrate and judge,*</p>
+      <p begin="00:34:43.521" end="00:34:45.809">whether their bodies<br/>are acceptable or not acceptable,</p>
+      <p begin="00:34:45.809" end="00:34:47.377">*desirable or not desirable. *</p>
+      <p begin="00:34:47.377" end="00:34:48.849">So, I think there's <br/>a whole lot going on there</p>
+      <p begin="00:34:48.849" end="00:34:52.583">that actually puts girls in <br/>a really disempowered position.</p>
+      <p begin="00:34:52.996" end="00:34:55.792">- *[Jennifer Pozner] These shows over<br/>the course of the last decade, *</p>
+      <p begin="00:34:55.792" end="00:35:00.097">have tried to portray a world in which, <br/>the only options available to women</p>
+      <p begin="00:35:00.097" end="00:35:04.081">mimic the 1950s model of femininity, <br/>in which women's only power</p>
+      <p begin="00:35:04.081" end="00:35:07.297">was her beauty, in which women<br/>not only had no choices,</p>
+      <p begin="00:35:07.297" end="00:35:11.153">*but shouldn't have even wanted any, <br/>in which men wore burdens *</p>
+      <p begin="00:35:11.153" end="00:35:13.585">*with the responsibility of being<br/>the prince charming, *</p>
+      <p begin="00:35:13.585" end="00:35:17.132">*who comes in and whisks women away <br/>to happily ever after.*</p>
+      <p begin="00:35:17.176" end="00:35:19.628">*Then has to provide for their <br/>financial security.*</p>
+      <p begin="00:35:20.043" end="00:35:25.181">Nobody wins in this model, but<br/>women particularly, lose in this model,</p>
+      <p begin="00:35:25.181" end="00:35:28.371">where they're expected to look<br/>like Miss USA, have sex</p>
+      <p begin="00:35:28.371" end="00:35:31.161">like Samantha on *Sex and the City*<br/>and think like June Cleaver.</p>
+      <p begin="00:35:36.379" end="00:35:39.540">- *[Jennifer] And here's something I find <br/>even more disheartening.*</p>
+      <p begin="00:35:40.076" end="00:35:41.490">*Watching the news.*</p>
+      <p begin="00:35:41.629" end="00:35:45.866">*So many female journalists<br/>are objectified or sexualized.*</p>
+      <p begin="00:35:48.110" end="00:35:53.659">- *&#9834; [CBS theme music ] &#9834; This is the CBS<br/>Evening News with Katie Couric.*</p>
+      <p begin="00:35:56.158" end="00:35:58.914">- "Hi, everyone. I'm very happy<br/>to be with you tonight."</p>
+      <p begin="00:35:59.227" end="00:36:02.578">*- [Carol Jenkins] Katie Couric was <br/>the very first national experience *</p>
+      <p begin="00:36:02.578" end="00:36:07.026">we had all together viewing.<br/>The woman who was not entertaining us,</p>
+      <p begin="00:36:07.026" end="00:36:09.234">*but whose presence and presentation*</p>
+      <p begin="00:36:09.234" end="00:36:11.827">*was vital for anything information <br/>that we needed.*</p>
+      <p begin="00:36:11.858" end="00:36:14.670">- [Katie Couric] The three major<br/>evening newscasts had been</p>
+      <p begin="00:36:14.670" end="00:36:16.694">dominated by white males.</p>
+      <p begin="00:36:16.714" end="00:36:19.162">*They had very similar faces *</p>
+      <p begin="00:36:19.162" end="00:36:22.054">*and very similar backgrounds<br/>for the most part.*</p>
+      <p begin="00:36:22.186" end="00:36:25.356">I thought this is an opportunity <br/>to mix it up a little bit.</p>
+      <p begin="00:36:25.526" end="00:36:28.732">I also thought it was an important message<br/>that a woman could be as confident</p>
+      <p begin="00:36:28.778" end="00:36:32.843">as a man in an important powerful role.</p>
+      <p begin="00:36:33.054" end="00:36:34.266">- [Carol Jenkins] And I remember <br/>in the early days,</p>
+      <p begin="00:36:34.266" end="00:36:36.330">when I would get calls <br/>from reporters about,</p>
+      <p begin="00:36:36.330" end="00:36:37.950">"Ah! That we have our<br/>first woman anchor.</p>
+      <p begin="00:36:37.950" end="00:36:39.293">What do you think about that?"</p>
+      <p begin="00:36:40.462" end="00:36:43.078">Inevitably, the questions <br/>that they would ask first, were,</p>
+      <p begin="00:36:43.078" end="00:36:44.335">*"What about those legs?"*</p>
+      <p begin="00:36:44.335" end="00:36:46.286">*"Do you think she was <br/>showing too much leg?", or*</p>
+      <p begin="00:36:46.754" end="00:36:49.553">"What about that winter white, <br/>wasn't that a big mistake?"</p>
+      <p begin="00:36:49.553" end="00:36:53.125">*They were all observations<br/>that had to do with her physicality *</p>
+      <p begin="00:36:53.125" end="00:36:55.108">and not really about the content at all.</p>
+      <p begin="00:36:55.108" end="00:36:57.606">But again it's because <br/>as I've always said,</p>
+      <p begin="00:36:57.606" end="00:36:59.999">"We are a nation of teenage boys."</p>
+      <p begin="00:36:59.999" end="00:37:03.275">We don't know, you know, <br/>what to make of this woman</p>
+      <p begin="00:37:03.275" end="00:37:06.799">sitting in front of us and so you know,<br/>we look at her legs, her boobs,</p>
+      <p begin="00:37:06.799" end="00:37:10.599">her hair, her whatever, you know.<br/>Then maybe way down the line,</p>
+      <p begin="00:37:10.651" end="00:37:14.011">we'll get to listen to what she's saying.</p>
+      <p begin="00:37:14.162" end="00:37:15.968">- [Rachel Maddow] Ever since<br/>I've been in media at all,</p>
+      <p begin="00:37:15.968" end="00:37:18.624">even since, you know, <br/>the first morning show that I was on</p>
+      <p begin="00:37:18.624" end="00:37:22.367">in Holyoke, Massachusetts, you know,<br/>I was this sidekick newsgirl.</p>
+      <p begin="00:37:23.890" end="00:37:26.510">There's been like <br/>a really consistent proportion of--</p>
+      <p begin="00:37:26.994" end="00:37:30.256">I don't even know if I call it criticism.<br/>Essentially, it's hate mail.</p>
+      <p begin="00:37:30.592" end="00:37:34.026">As I've become sort of better known<br/>and I get more feedback,</p>
+      <p begin="00:37:34.026" end="00:37:37.211">the amount of <br/>"I hate you, homophobic.</p>
+      <p begin="00:37:38.610" end="00:37:41.499">I hate what you look like.<br/>I'm gonna kill you."</p>
+      <p begin="00:37:42.253" end="00:37:45.835">Like threatening mail stuff, <br/>it's like the proportions</p>
+      <p begin="00:37:45.835" end="00:37:47.164">has stayed exactly the same.</p>
+      <p begin="00:37:47.164" end="00:37:52.311">It's always 14% of the feedback<br/>and it's almost all of the hate mail</p>
+      <p begin="00:37:52.523" end="00:37:56.981">is about gender and sexuality.<br/>I mean, who has the time</p>
+      <p begin="00:37:56.981" end="00:37:59.677">if that's really what you think<br/>and you really are that bad a speller,</p>
+      <p begin="00:37:59.677" end="00:38:02.654">like you really, you're still gonna <br/>take this time to let me know</p>
+      <p begin="00:38:02.654" end="00:38:06.737">what you 'thunk' about--<br/>[laughs] about what I look like?</p>
+      <p begin="00:38:08.710" end="00:38:13.010">- [Lisa Ling] It's the scrutinization <br/>that women get</p>
+      <p begin="00:38:13.638" end="00:38:17.447">that far surpasses <br/>the scrutinization that men get.</p>
+      <p begin="00:38:17.611" end="00:38:22.719">I don't ever see gossip columns <br/>or tabloids reporting</p>
+      <p begin="00:38:22.843" end="00:38:27.222">on Brian Williams' personal life, <br/>yet Katie Couric</p>
+      <p begin="00:38:27.222" end="00:38:32.718">and what she is wearing<br/>or who she's dating is headline news.</p>
+      <p begin="00:38:33.493" end="00:38:36.158">- [Katie Couric] I think whenever there<br/>are two women who are working</p>
+      <p begin="00:38:36.158" end="00:38:41.818">in similar professions, it's<br/>automatically positioned as a cat fight.</p>
+      <p begin="00:38:42.049" end="00:38:45.350">Diane Sawyer and I were pitted<br/>against each other as if, you know,</p>
+      <p begin="00:38:45.350" end="00:38:48.545">we were gonna be in a mud wrestling<br/>competition on the weekends.</p>
+      <p begin="00:38:48.756" end="00:38:52.912">And you never saw that with say, <br/>Tom Brokaw and Peter Jennings.</p>
+      <p begin="00:38:53.351" end="00:38:55.710">- "Take it away with the red hot boys<br/>in blue, which--"</p>
+      <p begin="00:38:55.710" end="00:38:56.948">- "I got this one down."</p>
+      <p begin="00:38:56.948" end="00:38:57.362">- "Okay, good."</p>
+      <p begin="00:38:57.395" end="00:39:00.090">- Sometimes I look on <br/>the cable news channels.</p>
+      <p begin="00:39:00.090" end="00:39:05.226">I see women wearing very low cut shirts<br/>and lots of makeup</p>
+      <p begin="00:39:05.321" end="00:39:09.322">and you know, their hair is kind of<br/>tussled and they look like</p>
+      <p begin="00:39:09.322" end="00:39:13.006">they're working as cocktail waitresses,<br/>instead of newscasters.</p>
+      <p begin="00:39:13.682" end="00:39:16.400">It's just a very mixed message.</p>
+      <p begin="00:39:16.814" end="00:39:17.981">- [Jay Leno] "Folks, we're gonna <br/>play a game.</p>
+      <p begin="00:39:17.981" end="00:39:19.513">I'm gonna show you<br/>a photo of a woman.</p>
+      <p begin="00:39:19.513" end="00:39:20.709">You have to guess,<br/>whether she is</p>
+      <p begin="00:39:20.709" end="00:39:24.055">a professional newscaster<br/>or a Hooters waitress.</p>
+      <p begin="00:39:24.055" end="00:39:25.464">Are you ready? Here we go."<br/>[audience laugh]</p>
+      <p begin="00:39:26.357" end="00:39:27.989">- [Jennifer Pozner] The local news <br/>anchorships look like,</p>
+      <p begin="00:39:27.989" end="00:39:31.376">you know, somebody's grandfather<br/>and his second wife.</p>
+      <p begin="00:39:32.923" end="00:39:35.290">- [Katie Couric] Television's a <br/>very visual medium, obviously,</p>
+      <p begin="00:39:35.290" end="00:39:38.182">and it's kind of how do you <br/>walk the fine line</p>
+      <p begin="00:39:38.182" end="00:39:43.138">of looking pleasing and attractive,<br/>but also looking professional.</p>
+      <p begin="00:39:43.606" end="00:39:46.315">I look back on my *Today's Show*<br/>interviews then I think,</p>
+      <p begin="00:39:46.315" end="00:39:48.658">"Geez, my skirt is way too short."</p>
+      <p begin="00:39:49.289" end="00:39:52.825">I sometimes worry that I started <br/>this thing with my legs and everything</p>
+      <p begin="00:39:54.594" end="00:39:59.431">that I have sort of started this trend<br/>of trying to look, you know...</p>
+      <p begin="00:39:59.695" end="00:40:00.634">I don't know.</p>
+      <p begin="00:40:01.029" end="00:40:05.138">- [Lisa Ling] There is so much pressure<br/>to look a certain way.</p>
+      <p begin="00:40:05.607" end="00:40:10.644">When I'm on television, I never try <br/>and explicitly dress sexy.</p>
+      <p begin="00:40:11.116" end="00:40:13.812">I don't want to distract from <br/>the stories that I'm telling.</p>
+      <p begin="00:40:14.174" end="00:40:15.678">- [Rachel Maddow] I want you <br/>to focus on what I'm saying.</p>
+      <p begin="00:40:15.678" end="00:40:17.726">There's a lot of words in my show<br/>and I work really hard</p>
+      <p begin="00:40:17.726" end="00:40:20.132">on getting them in the right order.<br/>[laughs]</p>
+      <p begin="00:40:20.607" end="00:40:21.717">For some people, I will always be</p>
+      <p begin="00:40:21.717" end="00:40:24.578">too hideous a creature<br/>to be on television. That's fine.</p>
+      <p begin="00:40:24.578" end="00:40:27.821">But if you can get over that on day one,<br/>it's gonna stay the same</p>
+      <p begin="00:40:27.953" end="00:40:29.453">for the whole time that I'm on the air.</p>
+      <p begin="00:40:29.551" end="00:40:31.964">- [Katie Couric] I think it's really hard <br/>for women today.</p>
+      <p begin="00:40:35.500" end="00:40:37.571">- *[Jennifer] The emphasis on <br/>women's appearance affects *</p>
+      <p begin="00:40:37.571" end="00:40:39.807">*more than just women on screen.*</p>
+      <p begin="00:40:40.454" end="00:40:44.808">*It's affecting women's ability<br/>to participate in the political process.*</p>
+      <p begin="00:40:46.252" end="00:40:51.688">*Ironically, the more power women gain,<br/>the stronger the backlash against them.*</p>
+      <p begin="00:40:52.348" end="00:40:54.388">-*And this phenomenon is most evident *</p>
+      <p begin="00:40:54.388" end="00:40:57.873">*in the way the media disrespects <br/>our female leaders.*</p>
+      <p begin="00:40:59.654" end="00:41:01.835">- "She's irresistibly cute. <br/>Let's put it that way.</p>
+      <p begin="00:41:01.835" end="00:41:05.186">In the way she presents herself, <br/>obviously, she's attractive and all that."</p>
+      <p begin="00:41:05.186" end="00:41:07.215">- "Sarah Palin looks <br/>really hot in that hat.</p>
+      <p begin="00:41:07.215" end="00:41:12.627">She's just sad that she<br/>doesn't know how cars work.</p>
+      <p begin="00:41:12.627" end="00:41:15.285">Aww, that's crazy.<br/>Have you seen the hat on her?"</p>
+      <p begin="00:41:15.718" end="00:41:19.336">- "Both you and Sarah Palin <br/>are good looking women.</p>
+      <p begin="00:41:19.340" end="00:41:22.513">I mean, you're attractive, young,<br/>relatively young women.</p>
+      <p begin="00:41:22.830" end="00:41:24.917">-"Kagan is gonna put on the<br/>US Supreme Court</p>
+      <p begin="00:41:24.917" end="00:41:27.862">as there's such a thing about<br/>the aesthetics of the appointee.</p>
+      <p begin="00:41:27.862" end="00:41:29.438">Let's put that here that so <br/>she's not your type of face</p>
+      <p begin="00:41:29.438" end="00:41:31.106">you'd wanna see <br/>on the five dollar bill."</p>
+      <p begin="00:41:31.655" end="00:41:34.098">- "I think I'm gonna send<br/>Sotomayor and her club</p>
+      <p begin="00:41:34.098" end="00:41:35.714">a bunch of vacuum cleaners</p>
+      <p begin="00:41:35.714" end="00:41:37.670">to help them clean up<br/>after their meetings."</p>
+      <p begin="00:41:38.274" end="00:41:41.259">- "Cynthia McKinney, the former <br/>congresswoman from Georgia</p>
+      <p begin="00:41:41.259" end="00:41:43.147">was another angry black woman."</p>
+      <p begin="00:41:43.147" end="00:41:45.494">- "Look at these ugly skanks who make up</p>
+      <p begin="00:41:45.494" end="00:41:48.797">the big female leadership <br/>of the democratic party."</p>
+      <p begin="00:41:48.797" end="00:41:51.202">- "You know that ugly hag,<br/>Madeleine Albright, remember her?</p>
+      <p begin="00:41:51.217" end="00:41:54.653">A psycho. She was the Secretary <br/>of State under Clinton, remember?</p>
+      <p begin="00:41:54.653" end="00:41:56.144">Like a fat moron."</p>
+      <p begin="00:41:56.514" end="00:42:00.113">- "And now we have the wicked witch<br/>of the west, you know, that Nancy Pelosi."</p>
+      <p begin="00:42:00.149" end="00:42:03.335">- "I think if speaker Pelosi were still <br/>incapable of human facial expression,</p>
+      <p begin="00:42:03.335" end="00:42:04.997">we'd see she'd be embarrassed."</p>
+      <p begin="00:42:05.016" end="00:42:07.873">- "Nancy Pelosi, that--<br/>Get another face lift, lady.</p>
+      <p begin="00:42:07.873" end="00:42:10.585">Another reason why it's very rare.</p>
+      <p begin="00:42:10.585" end="00:42:13.083">The final woman worthy<br/>of serving in political off--"</p>
+      <p begin="00:42:13.098" end="00:42:16.967">*&#9834; Ding dong, the wicked witch is dead &#9834;*<br/>- "And it's bye bye, Pelosi."</p>
+      <p begin="00:42:17.972" end="00:42:20.373">- "And Hilary Rodham Clinton,<br/>her thighness, is no better</p>
+      <p begin="00:42:20.373" end="00:42:22.008">than Dumbo with the big ears."</p>
+      <p begin="00:42:22.081" end="00:42:25.340">- "When she raises her voice<br/>and when a lot of women do, you know,</p>
+      <p begin="00:42:25.340" end="00:42:29.228">it's as I say, it reaches a point where--<br/>- "Yeah, well, look, you know what?"</p>
+      <p begin="00:42:29.228" end="00:42:31.711">--with every husband in America<br/>has heard it one time or another."</p>
+      <p begin="00:42:31.772" end="00:42:34.833">- "You get a woman in the oval office, <br/>the most powerful person in the world,</p>
+      <p begin="00:42:34.833" end="00:42:37.148">what's the downside?"</p>
+      <p begin="00:42:37.376" end="00:42:39.740">- "You mean, besides the PMS <br/>and the mood swings."</p>
+      <p begin="00:42:42.208" end="00:42:44.826">- [Pat Mitchell] There's probably <br/>no more powerful influence</p>
+      <p begin="00:42:44.826" end="00:42:48.489">in the way we view power than <br/>the way media treats power.</p>
+      <p begin="00:42:48.643" end="00:42:52.687">And media treats power <br/>as defined by men,</p>
+      <p begin="00:42:52.779" end="00:42:56.314">because it has been<br/>throughout our generation</p>
+      <p begin="00:42:56.314" end="00:42:58.918">and the ones before <br/>generally define that way.</p>
+      <p begin="00:42:59.098" end="00:43:01.679">- [Erika Falk] When press representations <br/>of women who are, you know,</p>
+      <p begin="00:43:01.679" end="00:43:04.542">running for the highest office <br/>in the land are focusing, for example,</p>
+      <p begin="00:43:04.542" end="00:43:09.054">on how women look, <br/>instead of what they've done</p>
+      <p begin="00:43:09.087" end="00:43:12.815">or their issue positions. <br/>That's got to impact the audience</p>
+      <p begin="00:43:12.815" end="00:43:15.393">in terms of how they evaluate <br/>and judge those women.</p>
+      <p begin="00:43:15.582" end="00:43:17.891">One of the things it does <br/>is it trivializes them.</p>
+      <p begin="00:43:17.987" end="00:43:20.298">It makes women seem less powerful.</p>
+      <p begin="00:43:20.723" end="00:43:23.402">- [Jennifer Pozner] During the<br/>Democratic National Convention in '84,</p>
+      <p begin="00:43:23.423" end="00:43:25.513">when Geraldine Ferraro was running,</p>
+      <p begin="00:43:25.528" end="00:43:27.975">she was introduced on<br/>national television as,</p>
+      <p begin="00:43:27.975" end="00:43:31.767">"The first female vice presidential<br/>candidate. Size six!"</p>
+      <p begin="00:43:33.051" end="00:43:34.975">So this is not new.</p>
+      <p begin="00:43:35.370" end="00:43:38.250">- [Debbie Walsh] My colleague did a study <br/>looking at Elizabeth Dole</p>
+      <p begin="00:43:38.250" end="00:43:41.897">and her race for President,<br/>she was coming in second in Iowa</p>
+      <p begin="00:43:41.897" end="00:43:46.282">at the time after George Bush <br/>and there was much more coverage</p>
+      <p begin="00:43:46.282" end="00:43:51.550">of her appearance than there was of the <br/>substance of what she was talking about.</p>
+      <p begin="00:43:52.629" end="00:43:54.858">- [Jennifer Lawless] When I ran for<br/>Congress, I was campaigning</p>
+      <p begin="00:43:54.858" end="00:43:59.421">at grocery stores and a woman came up <br/>to me and she put her arms around me</p>
+      <p begin="00:43:59.457" end="00:44:02.602">and she whispered, "Don't worry, <br/>you don't look nearly as fat in real life</p>
+      <p begin="00:44:02.602" end="00:44:05.981">as you do on TV." <br/>The week before the election,</p>
+      <p begin="00:44:05.981" end="00:44:08.667">a man came up to me and he said, <br/>"You know, you seem great,</p>
+      <p begin="00:44:08.667" end="00:44:11.472">but I don't feel like<br/>I could vote for you for Congress.</p>
+      <p begin="00:44:11.472" end="00:44:13.356">I feel like I should hire you<br/>as a babysitter."</p>
+      <p begin="00:44:13.586" end="00:44:16.259">- [Nancy Pelosi] When I first ran for<br/>public office, which is now</p>
+      <p begin="00:44:16.259" end="00:44:20.314">over 20 years ago, although my <br/>youngest was a senior in high school,</p>
+      <p begin="00:44:20.314" end="00:44:22.329">the question I was most <br/>frequently asked was,</p>
+      <p begin="00:44:22.329" end="00:44:24.447">"Who's gonna be taking care <br/>of your children?"</p>
+      <p begin="00:44:24.648" end="00:44:26.688">And of course it's one of<br/>those questions that</p>
+      <p begin="00:44:26.688" end="00:44:30.325">I don't think a man has ever been asked<br/>when he has run for office.</p>
+      <p begin="00:44:30.590" end="00:44:32.147">- [Erika Falk] If you look at<br/>the women who ran,</p>
+      <p begin="00:44:32.147" end="00:44:35.000">who had honorary titles like, <br/>Senator Clinton,</p>
+      <p begin="00:44:35.036" end="00:44:40.156">if the press drops that title and <br/>instead refers to them as Mrs. Clinton,</p>
+      <p begin="00:44:40.269" end="00:44:43.064">this is a way to kind of diminish <br/>some of her accomplishments.</p>
+      <p begin="00:44:43.363" end="00:44:47.367">$$ In John Boehner's first four weeks <br/>as Speaker of the House</p>
+      <p begin="00:44:47.367" end="00:44:51.407">$$ he was on the cover of five <br/>national weekly magazines.</p>
+      <p begin="00:44:51.539" end="00:44:53.331">$$ In Nancy Pelosi's four years<br/>as Speaker of the House</p>
+      <p begin="00:44:53.331" end="00:44:55.073">$$ she was on the cover of zero<br/>national weekly magazines.</p>
+      <p begin="00:44:55.227" end="00:44:57.820">- [Dianne Feinstein] There is such a thing<br/>as a media bias.</p>
+      <p begin="00:44:57.820" end="00:45:02.833">For example, media will write in the<br/>same way about a man and a woman.</p>
+      <p begin="00:45:03.889" end="00:45:07.031">Senator X is a woman, <br/>complained that--</p>
+      <p begin="00:45:07.211" end="00:45:11.802">and in the same thing, <br/>Senator Y, stated that--</p>
+      <p begin="00:45:12.364" end="00:45:14.315">So the man will get the <span tts:fontStyle="italic">stated</span></p>
+      <p begin="00:45:14.315" end="00:45:18.264">and the woman will get<br/>the negative verb, <span tts:fontStyle="italic">complained.</span></p>
+      <p begin="00:45:19.134" end="00:45:23.155">- [Erika Falk] Women were twice as likely <br/>to be described emotionally as were men.</p>
+      <p begin="00:45:23.351" end="00:45:28.935">And by painting women as more emotional<br/>than men, we perpetuate this stereotype</p>
+      <p begin="00:45:28.935" end="00:45:31.147">that women are emotional. <br/>Therefore, they're irrational.</p>
+      <p begin="00:45:31.147" end="00:45:32.977">Therefore they can't handle a crisis.</p>
+      <p begin="00:45:32.977" end="00:45:35.237">Therefore, they should not be<br/>in leadership positions.</p>
+      <p begin="00:45:35.586" end="00:45:38.984">- [Condoleezza Rice] I remember <br/>so many times during the campaign,</p>
+      <p begin="00:45:38.984" end="00:45:42.210">people asking, "Will she tough enough<br/>to be Commander-in-Chief?"</p>
+      <p begin="00:45:42.210" end="00:45:45.423">Well, I've know plenty of men who aren't <br/>tough enough to be Commander-in-Chief</p>
+      <p begin="00:45:45.618" end="00:45:47.628">and nobody asked that question.</p>
+      <p begin="00:45:47.628" end="00:45:52.990">- "Making sure that these kids <br/>have a shot at the American dream...</p>
+      <p begin="00:45:52.990" end="00:45:57.472">[sobbing]<br/>...my God, it's important."</p>
+      <p begin="00:45:57.694" end="00:46:00.400">- "Gosh. What do you think <br/>they would have done to Nancy Pelosi</p>
+      <p begin="00:46:00.400" end="00:46:04.118">if she hadn't gotten all worked up?<br/>They would've said she's unstable,</p>
+      <p begin="00:46:04.123" end="00:46:08.326">couldn't do the job. <br/>Ooh, yes. Welcome to America."</p>
+      <p begin="00:46:11.440" end="00:46:15.133">- [Pat Mitchell] A woman in power <br/>is often seen as a negative thing.</p>
+      <p begin="00:46:15.686" end="00:46:20.673">We associate all the worst aspects <br/>of power and we translate those</p>
+      <p begin="00:46:20.734" end="00:46:23.948">to a woman seeking to achieve power.</p>
+      <p begin="00:46:24.536" end="00:46:26.053">- [Caroline Heldman] One of the key ways</p>
+      <p begin="00:46:26.053" end="00:46:31.109">in which media played a role <br/>in the primary, was to talk about</p>
+      <p begin="00:46:31.109" end="00:46:34.373">Hillary Clinton's ambition <br/>as though it were a bad thing.</p>
+      <p begin="00:46:34.459" end="00:46:39.831">- "When Barack Obama speaks, <br/>men hear, 'Take off for the future'.</p>
+      <p begin="00:46:40.235" end="00:46:44.455">And when Hillary Clinton speaks,<br/>men hear, 'Take out the garbage.'"</p>
+      <p begin="00:46:44.658" end="00:46:48.098">- "When she reacts the way she reacts<br/>to Obama with just a look,</p>
+      <p begin="00:46:48.098" end="00:46:49.487">the look toward him, <br/>looking like,</p>
+      <p begin="00:46:49.487" end="00:46:52.769">everyone's first wife standing <br/>outside a probate court."</p>
+      <p begin="00:46:52.769" end="00:46:54.376">- *"I don't know what they're <br/>getting at here, Tuck.*</p>
+      <p begin="00:46:54.376" end="00:46:55.686">*But what do you think are<br/>they saying about Hillary?"*</p>
+      <p begin="00:46:55.686" end="00:47:00.048">- "I don't know, but that is so perfect, <br/>a guy would have often said." [both laugh]</p>
+      <p begin="00:47:00.048" end="00:47:03.663">"When she comes on television,<br/>I involuntarily cross my legs."</p>
+      <p begin="00:47:03.717" end="00:47:04.947">- "I know you do."</p>
+      <p begin="00:47:05.224" end="00:47:09.381">- Hillary Clinton had hecklers<br/>following her saying, "Iron my shirt."</p>
+      <p begin="00:47:09.544" end="00:47:12.048">- "And some people think<br/>- [Hecklers shouting] *"Iron my shirt!"*</p>
+      <p begin="00:47:12.048" end="00:47:16.095">- we bring about saying, I--"<br/>- *"Iron my shirt! Iron my shirt!"*</p>
+      <p begin="00:47:16.226" end="00:47:19.455">- She was frequently called <br/>a bitch in mainstream media.</p>
+      <p begin="00:47:19.668" end="00:47:23.168">- "She's a stereotypical bitch,<br/>you know what I mean?"</p>
+      <p begin="00:47:23.316" end="00:47:26.913">- "Obama did great in February that was<br/>because it was black history month.</p>
+      <p begin="00:47:27.012" end="00:47:30.432">And now Hillary is doing much better<br/>because it's white bitch month, right?"</p>
+      <p begin="00:47:31.270" end="00:47:34.741">- "If she knew how it made her look,<br/>so alternately sappy and bitchy,</p>
+      <p begin="00:47:34.889" end="00:47:37.442">she'd stop it, but she can't<br/>help herself, can she?"</p>
+      <p begin="00:47:37.529" end="00:47:39.637">- Her credentials were <br/>constantly questioned.</p>
+      <p begin="00:47:39.637" end="00:47:43.051">- "Let's not forget and I'll be brutal.<br/>The reason she's a US Senator,</p>
+      <p begin="00:47:43.051" end="00:47:46.287">the reason she's a candidate for President,<br/>the reason she may be a front runner,</p>
+      <p begin="00:47:46.287" end="00:47:47.874">is her husband messed around."<br/>-"Yeah, but--"</p>
+      <p begin="00:47:47.874" end="00:47:50.827">"That's how she got to be Senator <br/>for New York. We keep forgetting it.</p>
+      <p begin="00:47:50.827" end="00:47:52.282">She didn't win there on her merit."</p>
+      <p begin="00:47:55.297" end="00:47:57.925">*- [Carololine] Sarah Palin presented <br/>a very different image. *</p>
+      <p begin="00:47:57.925" end="00:48:02.154">She is the first national high profiled<br/>female candidate</p>
+      <p begin="00:48:02.210" end="00:48:07.547">who presented herself in very<br/>feminine terms as a "real woman."</p>
+      <p begin="00:48:07.887" end="00:48:09.960">- "She's the American dream. <br/>Women want to be her.</p>
+      <p begin="00:48:09.960" end="00:48:13.195">Men want to mate with her.<br/>I wanna lay her next to me in bed."</p>
+      <p begin="00:48:15.141" end="00:48:18.551">- There were pictures shot <br/>between her legs of folks</p>
+      <p begin="00:48:18.551" end="00:48:20.579">at the Republican National Convention.</p>
+      <p begin="00:48:20.791" end="00:48:24.643">In a nutshell, she was<br/><span tts:fontStyle="italic">pornified</span> and <span tts:fontStyle="italic">ditzified</span></p>
+      <p begin="00:48:24.903" end="00:48:28.277">"I don't wanna say she's a ditz,<br/>but last night,</p>
+      <p begin="00:48:28.277" end="00:48:30.968">my stripper's fake name <br/>was Sarah Palin." *[crowd laughs]*</p>
+      <p begin="00:48:31.356" end="00:48:34.360">- "Yo, let me tell you somethin' <br/>'bout Sarah Palin, man, [all laugh]</p>
+      <p begin="00:48:34.422" end="00:48:38.017">she's good masturbation material."<br/>- [Together] Oh! [all laugh]</p>
+      <p begin="00:48:38.249" end="00:48:40.746">- So, Hillary Clinton tried to be <br/>properly masculine</p>
+      <p begin="00:48:40.746" end="00:48:43.387">and properly feminine and she lost.</p>
+      <p begin="00:48:43.596" end="00:48:48.132">Sarah Palin puts out this different image <br/>of, shall we say hyper femininity,</p>
+      <p begin="00:48:48.177" end="00:48:51.370">and she gets beaten up in<br/>really degrading gendered ways.</p>
+      <p begin="00:48:52.862" end="00:48:57.932">- "But tonight we are crossing party lines <br/>to address the now very ugly role</p>
+      <p begin="00:48:57.963" end="00:49:00.985">that sexism is playing in the campaign."</p>
+      <p begin="00:49:01.197" end="00:49:06.037">- "An issue which I am frankly, surprised <br/>to hear, people suddenly care about."</p>
+      <p begin="00:49:06.037" end="00:49:08.491">*[crowd laughs]*</p>
+      <p begin="00:49:09.500" end="00:49:12.167">- "Reporters and commentators <br/>stop using words</p>
+      <p begin="00:49:12.167" end="00:49:16.305">that diminish us, like pretty, <br/>attractive, beautiful--"</p>
+      <p begin="00:49:16.326" end="00:49:20.784">- "Harpy, shrewd, boner shrinker."</p>
+      <p begin="00:49:20.884" end="00:49:25.155">*[crowd laughs and applauds]*</p>
+      <p begin="00:49:26.136" end="00:49:30.050">- [Cory Booker] My worry is now that <br/>there are millions of people watching</p>
+      <p begin="00:49:30.050" end="00:49:33.685">Sarah Palin, Hillary Clinton... <br/>I could talk to about a lot of women</p>
+      <p begin="00:49:33.685" end="00:49:36.098">there in New Jersey politics.<br/>There are millions of young women</p>
+      <p begin="00:49:36.098" end="00:49:39.071">watching this and the messages <br/>that they're getting are just not</p>
+      <p begin="00:49:39.071" end="00:49:43.171">conducive to encouraging them<br/>to put up with this kind of abuse.</p>
+      <p begin="00:49:43.463" end="00:49:47.022">- [Gavin Newsom] When you're not<br/>treated the same, you are dehumanized.</p>
+      <p begin="00:49:47.066" end="00:49:50.261">When you're not given the same<br/>opportunity, you're dehumanized.</p>
+      <p begin="00:49:50.345" end="00:49:53.466">When people look at you differently <br/>because you happen to be a woman</p>
+      <p begin="00:49:53.466" end="00:49:58.954">and you happen to be in a position <br/>of some influence that someone who is a man,</p>
+      <p begin="00:49:58.954" end="00:50:02.634">would naturally be in based<br/>on tradition or history</p>
+      <p begin="00:50:02.634" end="00:50:06.344">and people question your qualifications, <br/>that's dehumanizing.</p>
+      <p begin="00:50:06.554" end="00:50:12.383">- [Thomas] Empowered women in general,<br/>threaten men because they feel</p>
+      <p begin="00:50:12.383" end="00:50:15.737">that an empowered woman <br/>is just putting down a man</p>
+      <p begin="00:50:15.983" end="00:50:19.654">as opposed to trying <br/>to sort of raise herself.</p>
+      <p begin="00:50:20.018" end="00:50:23.211">- [Jackson Katz] As women have been <br/>challenging men's power, in business,</p>
+      <p begin="00:50:23.211" end="00:50:25.364">in the professions, in education,</p>
+      <p begin="00:50:25.364" end="00:50:29.493">and in politics and other areas<br/>of social life,</p>
+      <p begin="00:50:31.182" end="00:50:33.300">the images of women that have<br/>been flooding their culture,</p>
+      <p begin="00:50:33.300" end="00:50:36.224">have been showing women <br/>as taking up less space.</p>
+      <p begin="00:50:36.224" end="00:50:39.061">They're less threatening.<br/>They're highly sexualized.</p>
+      <p begin="00:50:39.258" end="00:50:42.747">And therefore, a certain kind of power<br/>has been taken away from them,</p>
+      <p begin="00:50:42.747" end="00:50:44.677">which is a power of being<br/>a whole person.</p>
+      <p begin="00:50:46.554" end="00:50:49.894">And I don't think those things<br/>are coincidental. I think that the way</p>
+      <p begin="00:50:49.894" end="00:50:54.060">that the symbolic realm has been acting <br/>as to take power away from women,</p>
+      <p begin="00:50:54.060" end="00:50:57.354">while women have been challenging<br/>men's power in the concrete realm.</p>
+      <p begin="00:51:01.084" end="00:51:03.606">- *[Jennifer] It seems we become numb<br/>to the insidious ways *</p>
+      <p begin="00:51:03.638" end="00:51:07.113">*the media holds women back <br/>when it misrepresents them. *</p>
+      <p begin="00:51:09.402" end="00:51:13.241">*I can't help but wonder, who are <br/>the people behind the scenes *</p>
+      <p begin="00:51:13.241" end="00:51:16.166">*making these crucial decisions <br/>about what we see?*</p>
+      <p begin="00:51:17.424" end="00:51:21.307">*And what are the consequences <br/>for my daughter and her generation?*</p>
+      <p begin="00:51:46.667" end="00:51:48.648">- [Barbara J. Berg] The media<br/>has always been,</p>
+      <p begin="00:51:48.648" end="00:51:51.029">overwhelmingly,<br/>in the hands of men.</p>
+      <p begin="00:51:51.608" end="00:51:56.547">$$ Women own only 5.8% of all television<br/>stattions and 6% radio stations.</p>
+      <p begin="00:51:56.583" end="00:52:00.346">- [Jennifer Pozner] As you go up the ranks<br/>in media, fewer and fewer women</p>
+      <p begin="00:52:00.346" end="00:52:03.537">and people of color exist<br/>at every rung of the ladder.</p>
+      <p begin="00:52:03.537" end="00:52:05.379">$$ Women hold only 3% of clout positions<br/>in telecommunications, entertainment,</p>
+      <p begin="00:52:05.379" end="00:52:07.400">publishing and advertising.</p>
+      <p begin="00:52:07.400" end="00:52:10.754">- [Carol Jenkins] That means that 97% <br/>of everything you know about yourself</p>
+      <p begin="00:52:10.754" end="00:52:13.822">and about your country and your world,<br/>comes from the male perspective.</p>
+      <p begin="00:52:13.868" end="00:52:16.684">It doesn't mean that it's wrong,<br/>it just means that in a democracy,</p>
+      <p begin="00:52:16.684" end="00:52:20.018">where you talk about equality <br/>and full participation,</p>
+      <p begin="00:52:20.018" end="00:52:22.179">you've got half of the population,</p>
+      <p begin="00:52:22.179" end="00:52:24.441">more than half of the population,<br/>not participating.</p>
+      <p begin="00:52:24.682" end="00:52:29.269">- [Pat Mitchell] Many years ago, I said, <br/>"Why don't we just create our own network,</p>
+      <p begin="00:52:29.269" end="00:52:34.706">other than continuing to try and get our<br/>stories told by other people's networks?"</p>
+      <p begin="00:52:34.706" end="00:52:39.202">So, we put together an idea.<br/>We went to various distributors,</p>
+      <p begin="00:52:39.202" end="00:52:42.435">including the broadcast networks, <br/>the cable companies, etcetera,</p>
+      <p begin="00:52:42.435" end="00:52:45.980">pitched the idea <br/>and one person said to me,</p>
+      <p begin="00:52:45.980" end="00:52:48.001">"Well, why do we need<br/>another women's network?</p>
+      <p begin="00:52:48.001" end="00:52:50.847">We already have one.<br/>We have lifetime."</p>
+      <p begin="00:52:51.502" end="00:52:57.485">$$ Meanwhile, there are <br/>22 ESPN sports channels</p>
+      <p begin="00:52:57.840" end="00:53:01.261">- [Martha Lauzen] There's a fairly <br/>pervasive sense of denial</p>
+      <p begin="00:53:01.261" end="00:53:05.914">about the status of women working <br/>in both television and film.</p>
+      <p begin="00:53:06.558" end="00:53:10.698">Peter Bart wrote a column in *Variety, *<br/>talking about the glass ceiling</p>
+      <p begin="00:53:10.738" end="00:53:13.081">and how it no longer exists.</p>
+      <p begin="00:53:13.158" end="00:53:16.956">*Putting that kind of information <br/>out there is really troublesome.*</p>
+      <p begin="00:53:17.393" end="00:53:19.793">$$ Women comprise only 16% <br/>of all writers, directors, producers,</p>
+      <p begin="00:53:19.793" end="00:53:23.293">$$ cinematographers and editors.</p>
+      <p begin="00:53:23.803" end="00:53:28.049">$$ And only 7 % of directors and <br/>10% of writers in film are women.</p>
+      <p begin="00:53:28.347" end="00:53:30.631">- [Lisa Ling] For so long it has been<br/>an industry dominated</p>
+      <p begin="00:53:30.631" end="00:53:33.412">by men who just don't leave.</p>
+      <p begin="00:53:34.735" end="00:53:37.889">- [Lindy DeKoven] People who employ <br/>other people tend to hire people</p>
+      <p begin="00:53:37.889" end="00:53:39.773">who are a reflection of themselves.</p>
+      <p begin="00:53:40.131" end="00:53:43.402">- [Barbara J. Berg] This impacts hiring. <br/>It impacts the news, directors,</p>
+      <p begin="00:53:43.402" end="00:53:46.330">the journalists, the people who are <br/>gonna cover the news,</p>
+      <p begin="00:53:46.330" end="00:53:48.316">and of course, who reports the news?</p>
+      <p begin="00:53:48.490" end="00:53:53.019">Very much is the factor<br/>in what kind of news is reported.</p>
+      <p begin="00:53:53.607" end="00:53:58.285">$$ The average number of news stories <br/>about women and girls is less than 20%</p>
+      <p begin="00:53:58.546" end="00:54:03.175">- [Martha Lauzen] When any group<br/>is not featured in the media,</p>
+      <p begin="00:54:03.291" end="00:54:07.800">they have to wonder, "Well,<br/>what part do I play in this culture?"</p>
+      <p begin="00:54:07.841" end="00:54:10.483">There's actually an <br/>academic term for that.</p>
+      <p begin="00:54:10.727" end="00:54:12.931">It's called, symbolic annihilation.</p>
+      <p begin="00:54:14.056" end="00:54:19.788">[nuclear explosion]</p>
+      <p begin="00:54:29.627" end="00:54:34.497">- [Geena Davis] All of Hollywood <br/>is run on one assumption</p>
+      <p begin="00:54:34.497" end="00:54:39.671">that women will watch stories about men,<br/>but men won't watch stories about women.</p>
+      <p begin="00:54:40.363" end="00:54:48.795">And all the decisions are made <br/>based on this concrete fact</p>
+      <p begin="00:54:48.795" end="00:54:52.600">and nobody's ever really proved<br/>that that's true.</p>
+      <p begin="00:54:52.716" end="00:54:55.772">I think it's a horrible indictment <br/>of our society, if we assume</p>
+      <p begin="00:54:55.772" end="00:55:00.695">that one half of the population<br/>is just not interested in the other half.</p>
+      <p begin="00:55:02.098" end="00:55:05.102">- [Catherine Hardwicke] The first couple <br/>of scripts that I wrote, of course,</p>
+      <p begin="00:55:05.102" end="00:55:09.363">had a female, you know, as a lead<br/>character and people will look,</p>
+      <p begin="00:55:09.363" end="00:55:12.158">"Well, there's hardly <br/>any bankable actresses."</p>
+      <p begin="00:55:12.162" end="00:55:16.103">So, they can't carry a film. <br/>So, it has to be super low budget</p>
+      <p begin="00:55:16.103" end="00:55:19.939">or we wouldn't bankroll it and no one's <br/>gonna show up in the theaters</p>
+      <p begin="00:55:19.939" end="00:55:25.727">and I finally wrote the lowest<br/>budget movie I could ever write.</p>
+      <p begin="00:55:25.794" end="00:55:29.087">I co-wrote <span tts:fontStyle="italic">Thirteen</span> <br/>with a 13-year old girl</p>
+      <p begin="00:55:29.272" end="00:55:32.056">*and it was about people <br/>of lower income.*</p>
+      <p begin="00:55:32.056" end="00:55:34.246">*They could wear my clothes.<br/>We could shoot in my house.*</p>
+      <p begin="00:55:34.246" end="00:55:37.499">*We could use my car. <br/>We made the movie and it went on*</p>
+      <p begin="00:55:37.499" end="00:55:41.461">*to Sundance and it went on to win awards<br/>and get international distribution*</p>
+      <p begin="00:55:41.461" end="00:55:44.943">*and I think it was the same<br/>like, with* Twilight.</p>
+      <p begin="00:55:45.161" end="00:55:50.116">*Two major studios turned it down. <br/>Finally, a new upstart company showed me*</p>
+      <p begin="00:55:50.116" end="00:55:54.323">*the project and it turned into <br/>obviously, a phenomenon making*</p>
+      <p begin="00:55:54.323" end="00:55:58.395">*over half a billion dollars so far.<br/>So, it is proved the theory*</p>
+      <p begin="00:55:58.395" end="00:56:01.711">*that girls and women<br/>wouldn't go to see a movie,*</p>
+      <p begin="00:56:01.711" end="00:56:05.721">but they did go see the movie in droves.<br/>And over and over and over.</p>
+      <p begin="00:56:05.721" end="00:56:08.641">And bought the DVD <br/>and even bought pillowcases.</p>
+      <p begin="00:56:10.357" end="00:56:13.951">But there is a flip side to that, <br/>which is kind of astonishing to me.</p>
+      <p begin="00:56:13.951" end="00:56:17.589">On the next two <span tts:fontStyle="italic">Twilight,</span><br/>they've hired guys.</p>
+      <p begin="00:56:17.765" end="00:56:21.372">*They did not seek out a female director<br/>and on the same side, *</p>
+      <p begin="00:56:21.372" end="00:56:26.351">I've gone after some jobs that I've been<br/>told flat out to myself and my agent,</p>
+      <p begin="00:56:26.351" end="00:56:29.197">"Oh no, we think a guy<br/>should direct this."</p>
+      <p begin="00:56:29.345" end="00:56:32.130">*And to me, I think,<br/>"Okay, can a man direct, you know,*</p>
+      <p begin="00:56:32.130" end="00:56:34.046">Sex and the City, Sisterhood of the<br/>Traveling Pants,</p>
+      <p begin="00:56:34.046" end="00:56:37.934">*the *Miley Cyrus* movie?"<br/>Nobody ever questions that.*</p>
+      <p begin="00:56:38.124" end="00:56:41.973">But I, a very successful female <br/>director, cannot direct a movie</p>
+      <p begin="00:56:41.973" end="00:56:43.729">that should be done by a man.</p>
+      <p begin="00:56:43.913" end="00:56:45.508">- [Jennifer Todd] But nobody says,<br/>"I'm not gonna hire a female director."</p>
+      <p begin="00:56:45.508" end="00:56:49.591">On their list, there's just 25 names<br/>and none of them are women.</p>
+      <p begin="00:56:49.591" end="00:56:52.960">- [Paul Haggis] What happens is, <br/>these studio chiefs who--</p>
+      <p begin="00:56:53.243" end="00:56:56.981">or people like myself, you know,<br/>writer, producers or directors,</p>
+      <p begin="00:56:57.288" end="00:57:00.927">we see the world in a certain way</p>
+      <p begin="00:57:00.978" end="00:57:05.634">and we don't really challenge that often<br/>and so we just replicate the world</p>
+      <p begin="00:57:05.634" end="00:57:11.747">that we grew up in without<br/>really asking why we're doing it.</p>
+      <p begin="00:57:12.210" end="00:57:14.776">- [Martha Lauzen] What is the first thing <br/>that they tell people when they're,</p>
+      <p begin="00:57:14.776" end="00:57:17.861">you know, in a screen writing class?<br/>Create what you know.</p>
+      <p begin="00:57:18.041" end="00:57:20.169">*When you have greater diversity <br/>behind the scenes,*</p>
+      <p begin="00:57:20.169" end="00:57:23.668">not only do you get more<br/>female characters on screen,</p>
+      <p begin="00:57:23.672" end="00:57:26.084">*but you get a different kind <br/>of female character. *</p>
+      <p begin="00:57:26.281" end="00:57:30.052">*You get a more powerful and <br/>multi dimensional female character.*</p>
+      <p begin="00:57:30.237" end="00:57:32.853">- "You should have seen the way <br/>those men looked at me."</p>
+      <p begin="00:57:33.033" end="00:57:36.564">"For them, they discovered,<br/>I was fearless!"</p>
+      <p begin="00:57:36.808" end="00:57:39.329">*- [Rosario Dawson] That's why it's <br/>extremely important for women *</p>
+      <p begin="00:57:39.329" end="00:57:42.414">*to be writing their own stories.<br/>Truly crafting those stories, *</p>
+      <p begin="00:57:42.414" end="00:57:45.613">writing them down, directing them, <br/>and giving them to people</p>
+      <p begin="00:57:45.613" end="00:57:51.095">to really emotionally become impacted by <br/>because when my mom tells me a story</p>
+      <p begin="00:57:51.095" end="00:57:52.206">or my grandmother tells me a story, <br/>I'm riveted.</p>
+      <p begin="00:57:52.286" end="00:57:54.334">[women laughing]</p>
+      <p begin="00:57:54.334" end="00:57:57.990">- [Geena Davis] None of us had any idea<br/>what the response was gonna be</p>
+      <p begin="00:57:57.990" end="00:58:00.466">to *Thelma and Louise.* <br/>One time I was at a red light</p>
+      <p begin="00:58:00.974" end="00:58:03.691">and I heard this honking<br/>and I looked next to me, and it's</p>
+      <p begin="00:58:03.706" end="00:58:06.953">a car full of women who are<br/>popping out of all the windows</p>
+      <p begin="00:58:06.953" end="00:58:10.340">and the sunroof and going, <br/>"Whoo-hoo!"</p>
+      <p begin="00:58:10.390" end="00:58:13.574">[laughs] I'm like,<br/>"Well this is certainly never been</p>
+      <p begin="00:58:13.574" end="00:58:16.675">a reaction to my any of my other movies."</p>
+      <p begin="00:58:17.335" end="00:58:22.459">Then the very next movie I made was<br/>*A League of Their Own,* where I had</p>
+      <p begin="00:58:22.459" end="00:58:26.806">13 or 15 year old girls coming up to me<br/>with the same kind of reactions,</p>
+      <p begin="00:58:26.806" end="00:58:28.886">"Oh my God. You have no idea <br/>that movie changed my life.</p>
+      <p begin="00:58:28.886" end="00:58:31.150">I played sports <br/>because of that movie."</p>
+      <p begin="00:58:31.150" end="00:58:37.554">And it really struck me how few<br/>opportunities we give women to have</p>
+      <p begin="00:58:37.554" end="00:58:39.882">that kind of experience <br/>watching a movie.</p>
+      <p begin="00:58:40.206" end="00:58:42.860">- [Katie Couric] The media can be<br/>an instrument of change.</p>
+      <p begin="00:58:44.198" end="00:58:49.148">It can maintain the *status quo*<br/>and reflect the views of the society.</p>
+      <p begin="00:58:49.536" end="00:58:54.630">Or it can hopefully awaken people <br/>and change minds.</p>
+      <p begin="00:58:55.474" end="00:58:58.778">I think it depends on<br/>who's piloting the plane</p>
+      <p begin="00:59:03.478" end="00:59:05.974">- *[Jennifer] I don't want it undervalued,<br/>the tremendous progress*</p>
+      <p begin="00:59:05.974" end="00:59:07.894">women have made in America.</p>
+      <p begin="00:59:10.349" end="00:59:13.989">*But if we look closely at the way <br/>our history has been recorded,*</p>
+      <p begin="00:59:14.473" end="00:59:17.957">*we start to understand the crucial role <br/>media has played *</p>
+      <p begin="00:59:18.025" end="00:59:19.717">*in defining who we are.*</p>
+      <p begin="00:59:20.891" end="00:59:24.034">*- [Barbara J. Berg] Patriarchy really <br/>is America's default setting, *</p>
+      <p begin="00:59:24.311" end="00:59:28.305">*where men hold the positions<br/>of privilege and power.*</p>
+      <p begin="00:59:29.291" end="00:59:32.781">And where women very often<br/>are treated as second-class citizens.</p>
+      <p begin="00:59:32.973" end="00:59:35.665">It's always been problematic<br/>in American society</p>
+      <p begin="00:59:36.113" end="00:59:38.169">when women have gained power.</p>
+      <p begin="00:59:38.334" end="00:59:40.681">&#9834; [Jazz music] &#9834;</p>
+      <p begin="00:59:42.750" end="00:59:46.218">*During the World War II, <br/>6 million women were pulled *</p>
+      <p begin="00:59:46.255" end="00:59:49.654">*into taking care of the factories<br/>in the absence of the men. *</p>
+      <p begin="00:59:49.654" end="00:59:54.416">*By the time the war was going to a close,<br/>80% percent wanted to stay at their jobs.*</p>
+      <p begin="00:59:54.804" end="00:59:59.606">*When the returning GIs came home<br/>within two days of victory in Civic,*</p>
+      <p begin="00:59:59.700" end="01:00:03.423">800,000 women were fired<br/>from the aircraft industry</p>
+      <p begin="01:00:03.539" end="01:00:05.871">and other companies <br/>began to follow suit.</p>
+      <p begin="01:00:06.275" end="01:00:10.688">*We needed a huge media campaign <br/>to get these women back into the home.*</p>
+      <p begin="01:00:10.688" end="01:00:13.734">$$ 1947 <span tts:fontStyle="italic">Newsweek</span> prints, "For the American<br/>girl, books and babies don't mix."</p>
+      <p begin="01:00:13.765" end="01:00:15.395">$$ Bestselling *Modern Woman* states,</p>
+      <p begin="01:00:15.395" end="01:00:17.195">"An independent woman<br/>is a contradiction in terms."</p>
+      <p begin="01:00:17.272" end="01:00:20.384">*One of the most effective ways to do this <br/>was through television.*</p>
+      <p begin="01:00:20.440" end="01:00:23.024">So, the television was part<br/>of the re-domestication.</p>
+      <p begin="01:00:23.024" end="01:00:25.855">$$ 1948 1 million homes in the U.S.<br/>have TV sets</p>
+      <p begin="01:00:25.855" end="01:00:27.609">$$ 1948 *Father Knows Best*</p>
+      <p begin="01:00:29.316" end="01:00:33.521">*We had television shows sponsored <br/>by numerous commodities.*</p>
+      <p begin="01:00:33.670" end="01:00:37.105">*The gleaming appliances that <br/>June Cleaver would use in the kitchen.*</p>
+      <p begin="01:00:37.143" end="01:00:40.369">*These commodities were being<br/>linked to the good life. *</p>
+      <p begin="01:00:40.709" end="01:00:45.073">*Women rush to their new shopping centers<br/>in their brand new cars and loaded up.*</p>
+      <p begin="01:00:45.333" end="01:00:48.533">*They didn't realize that they were <br/>actually doing this in the service of*</p>
+      <p begin="01:00:48.533" end="01:00:50.849">*the strong governmental imperative.*</p>
+      <p begin="01:00:51.157" end="01:00:54.665">*The notion of the commodity boom <br/>was linked to Capitalism,*</p>
+      <p begin="01:00:54.665" end="01:00:58.823">*which our government was supporting. <br/>These evade the threat of Communism.*</p>
+      <p begin="01:00:58.823" end="01:01:02.013">$$ 1959 CBS becomes the largest <br/>advertising medium in the world</p>
+      <p begin="01:01:02.013" end="01:01:05.612">So, you really see the linkage <br/>of advertising on TV,</p>
+      <p begin="01:01:05.744" end="01:01:10.036">the pushing of Capitalism, and then<br/>our government pushing Capitalism to it.</p>
+      <p begin="01:01:10.605" end="01:01:12.775">*&#9834; [I Want it All by Jules Larson] &#9834;*</p>
+      <p begin="01:01:14.209" end="01:01:17.311">*Now, fast forward to the once where we--*</p>
+      <p begin="01:01:17.363" end="01:01:19.692">&#9834; Well, I can't help myself &#9834;</p>
+      <p begin="01:01:19.692" end="01:01:21.667">*&#9834; I want it all &#9834;*</p>
+      <p begin="01:01:21.667" end="01:01:23.571">*&#9834; and I start to fall &#9834;*</p>
+      <p begin="01:01:23.571" end="01:01:25.506">*&#9834; I can't think at all &#9834;*</p>
+      <p begin="01:01:25.506" end="01:01:27.220">*&#9834; 'cause I want you &#9834;*</p>
+      <p begin="01:01:27.220" end="01:01:28.003">*&#9834; want you &#9834;*</p>
+      <p begin="01:01:28.003" end="01:01:29.481">*&#9834; want it all &#9834;*</p>
+      <p begin="01:01:29.481" end="01:01:31.427">*&#9834; And I'm standing tall &#9834;*</p>
+      <p begin="01:01:31.427" end="01:01:33.379">*&#9834; So don't make me crawl &#9834;*</p>
+      <p begin="01:01:33.379" end="01:01:35.527">*&#9834; I just want you,<br/>want you &#9834;*</p>
+      <p begin="01:01:35.527" end="01:01:37.103">*&#9834; want it all &#9834;*</p>
+      <p begin="01:01:37.211" end="01:01:41.459">*Women went from being bard accessed <br/>to the institutions of higher learning.*</p>
+      <p begin="01:01:41.574" end="01:01:45.350">*Not allowed to participate <br/>in most of the well-known professions *</p>
+      <p begin="01:01:45.350" end="01:01:47.762">*within life in a decade.*</p>
+      <p begin="01:01:48.221" end="01:01:50.710">*Women gained tremendous,<br/>tremendous power.*</p>
+      <p begin="01:01:50.710" end="01:01:51.766">*&#9834; I want it all &#9834;*<br/>*&#9834; (I want it all) &#9834;*</p>
+      <p begin="01:01:51.766" end="01:01:53.479">*&#9834; and I start to fall &#9834;*<br/>*&#9834; (and I start to fall) &#9834;*</p>
+      <p begin="01:01:53.479" end="01:01:55.465">*&#9834; I can't think at all &#9834;*<br/>*&#9834; (I can't think at all) &#9834;*</p>
+      <p begin="01:01:55.465" end="01:01:56.902">*&#9834; 'cause I want you &#9834;*</p>
+      <p begin="01:01:56.902" end="01:01:57.815">*&#9834; want you &#9834;*</p>
+      <p begin="01:01:57.815" end="01:01:59.477">*&#9834; want it all &#9834;*<br/>*&#9834; (I want it all) &#9834;*</p>
+      <p begin="01:01:59.477" end="01:02:01.413">*&#9834; And I'm standing tall &#9834;*<br/>*&#9834; (And I'm standing tall) &#9834;*</p>
+      <p begin="01:02:01.413" end="01:02:03.477">*&#9834; So don't make me crawl &#9834;*<br/>*&#9834; (So don't make me crawl) &#9834;*</p>
+      <p begin="01:02:03.477" end="01:02:05.605">*&#9834; I just want you,<br/>want you &#9834;*</p>
+      <p begin="01:02:05.605" end="01:02:07.569">*&#9834; want it all &#9834;*</p>
+      <p begin="01:02:08.930" end="01:02:12.996">*Then, we get to the great <br/>reality check of 1980s. *</p>
+      <p begin="01:02:13.144" end="01:02:16.941">*There was a huge well-funded <br/>message machine *</p>
+      <p begin="01:02:16.941" end="01:02:21.706">*of conservative bankers and the<br/>de-immunization of the word 'liberal.'*</p>
+      <p begin="01:02:21.960" end="01:02:25.572">If you took an oppositional view, <br/>*New World,* almost un-American.</p>
+      <p begin="01:02:25.672" end="01:02:30.295">And who were the great targets <br/>of this media machine?</p>
+      <p begin="01:02:30.488" end="01:02:34.760">*The Women's Movement and Feminists<br/>because we were seen as posing*</p>
+      <p begin="01:02:34.760" end="01:02:38.683">*the greatest threat to the <br/>social order of America at that time.*</p>
+      <p begin="01:02:40.129" end="01:02:43.972">$$ "The feminist agenda is not about<br/>equal rights for women. It is about</p>
+      <p begin="01:02:43.972" end="01:02:47.494">$$ a socialist, anti-family <br/>political movement</p>
+      <p begin="01:02:47.494" end="01:02:49.415">$$ that encourages women to have</p>
+      <p begin="01:02:49.415" end="01:02:51.336">$$ their husbands, kill their children,<br/>practice witchcraft, destroy capitalism</p>
+      <p begin="01:02:51.336" end="01:02:54.937">$$ and become lesbians."<br/>- Pat Robertson</p>
+      <p begin="01:02:54.937" end="01:02:58.401">$$ "Women's lib is a total assault<br/>on the role of the American woman</p>
+      <p begin="01:02:58.401" end="01:03:01.235">$$ as a wife and mother and on the family</p>
+      <p begin="01:03:01.235" end="01:03:04.623">$$ as the basic unit of society."<br/>- Phyllis Schlafy</p>
+      <p begin="01:03:05.530" end="01:03:09.139">$$ "America's decline as a world power<br/>is a direct result of the feminists'</p>
+      <p begin="01:03:09.139" end="01:03:11.171">$$ movement for reproductive freedom</p>
+      <p begin="01:03:11.171" end="01:03:13.495">$$ and equal rights."<br/>- The Christian Voice</p>
+      <p begin="01:03:14.571" end="01:03:20.495">$$ 1982 The Equal Rights Amendment<br/>fails to gain ratification</p>
+      <p begin="01:03:20.587" end="01:03:24.633">- [Jackson Katz] Anytime you move forward<br/>in a culture, there's gonna be a backlash</p>
+      <p begin="01:03:24.633" end="01:03:27.490">that's gonna try to move backwards<br/>or stop the progress.</p>
+      <p begin="01:03:27.526" end="01:03:30.086">And so it's a constant tension<br/>between trying to move forward</p>
+      <p begin="01:03:30.086" end="01:03:34.186">and advance the project of human, <br/>you know, happiness and equality</p>
+      <p begin="01:03:34.186" end="01:03:35.689">and justice and everything else.</p>
+      <p begin="01:03:35.689" end="01:03:38.147">And at the same time, <br/>you attempt to maintain</p>
+      <p begin="01:03:38.147" end="01:03:41.912">the existing power structures <br/>and that tension is a constant tension.</p>
+      <p begin="01:03:44.062" end="01:03:46.958">*- [Jim Steyer] Starting in the 1980s, <br/>ruling under President Reagan,*</p>
+      <p begin="01:03:47.072" end="01:03:49.864">*we started de-regulating the<br/>media industry in the United States.*</p>
+      <p begin="01:03:53.882" end="01:03:58.585">And the same people who hung their hat<br/>on the mantle of family values,</p>
+      <p begin="01:03:58.877" end="01:04:02.072">were the same people<br/>who de-regulated the media industry.</p>
+      <p begin="01:04:02.732" end="01:04:05.258">*The Chairman of the FCC, Mark Fowler,*</p>
+      <p begin="01:04:05.258" end="01:04:08.219">*in those days, referred <br/>to the television set*</p>
+      <p begin="01:04:08.219" end="01:04:12.956">as just another piece of hardware. <br/>And therefore it should be regulated</p>
+      <p begin="01:04:12.956" end="01:04:16.335">or not regulated in the same way <br/>that toasters are or washing machines,</p>
+      <p begin="01:04:16.335" end="01:04:19.605">but you're talking about images<br/>and messages that shape</p>
+      <p begin="01:04:19.605" end="01:04:22.067">our entire society, our culture.</p>
+      <p begin="01:04:22.575" end="01:04:24.727">*And to cut back on the <br/>regulatory structure*</p>
+      <p begin="01:04:24.727" end="01:04:29.360">that oversees that, led to a lot of<br/>unforeseen consequences when it came</p>
+      <p begin="01:04:29.360" end="01:04:31.424">to messages and images for young people,</p>
+      <p begin="01:04:31.424" end="01:04:33.212">particularly for girls <br/>and young women.</p>
+      <p begin="01:04:33.694" end="01:04:35.724">*What you saw was<br/>more and more content,*</p>
+      <p begin="01:04:35.724" end="01:04:39.645">fewer and fewer limits on that content<br/>and a lessening of standards.</p>
+      <p begin="01:04:40.380" end="01:04:42.798">*By the time you got<br/>to the *Telecomm Act of 1996<span tts:fontStyle="italic">,</span>**</p>
+      <p begin="01:04:42.798" end="01:04:46.478">you had the chance <br/>to potentially re-regulate, if you will,</p>
+      <p begin="01:04:46.478" end="01:04:49.643">the media industry.<br/>But in fact, that did not happen.</p>
+      <p begin="01:04:50.804" end="01:04:55.115">*- [Barbara J. Berg] We have huge corporate<br/>conglomerations controlling television,*</p>
+      <p begin="01:04:55.115" end="01:04:59.114">*radio, cable, news papers, <br/>movie theaters, theme parks,*</p>
+      <p begin="01:04:59.196" end="01:05:03.543">huge amount of power in this country<br/>and most of these conglomerates</p>
+      <p begin="01:05:03.543" end="01:05:07.486">really operate with an eye focused <br/>on the bottom line,</p>
+      <p begin="01:05:07.486" end="01:05:10.206">not on fair and balanced reporting.</p>
+      <p begin="01:05:10.460" end="01:05:12.789">*- [Jennifer Pozner] You have Fox News<br/>on Bill O'Reilley,*</p>
+      <p begin="01:05:12.789" end="01:05:17.983">*developing an entire strategy to corner<br/>the market in <span tts:fontStyle="italic">sensationalistic</span> news*</p>
+      <p begin="01:05:17.983" end="01:05:22.545">*just to sell us, get eyeballs, etcetera <br/>and then all the other major news outlets*</p>
+      <p begin="01:05:22.545" end="01:05:26.836">*on cable trying to compete,<br/>so that who gets to shout the loudest*</p>
+      <p begin="01:05:26.836" end="01:05:30.455">becomes a standard <br/>for the news practice.</p>
+      <p begin="01:05:30.859" end="01:05:33.739">- [Rachel Maddow] I could be delivering <br/>the same script with the same graphics</p>
+      <p begin="01:05:33.739" end="01:05:36.685">in the same studio <br/>wearing the same thing,</p>
+      <p begin="01:05:36.685" end="01:05:38.391">but on two different days.</p>
+      <p begin="01:05:38.391" end="01:05:40.728">I could be delivering it like this, or<br/>"I could be delivering it like this!</p>
+      <p begin="01:05:40.728" end="01:05:43.681">And if I'm delivering it like this, <br/>I'm gonna get double the rating."</p>
+      <p begin="01:05:44.148" end="01:05:45.726">Okay, so that's why people yell.</p>
+      <p begin="01:05:45.726" end="01:05:47.817">- "I know that's a sexist comment--"<br/>- "It totally is."</p>
+      <p begin="01:05:47.817" end="01:05:49.460">- "--but it is this truth to it."</p>
+      <p begin="01:05:49.593" end="01:05:55.558">- [Jehmu Greene] The rise of pundentry <br/>in America is greatly adding to sexism</p>
+      <p begin="01:05:55.641" end="01:05:57.500">and bias in the media.</p>
+      <p begin="01:05:57.500" end="01:06:03.384">And also, confusing what is fact <br/>and what is opinion.</p>
+      <p begin="01:06:03.820" end="01:06:06.544">*- [Jennifer Pozner] You have less <br/>and less minutes devoted *</p>
+      <p begin="01:06:06.544" end="01:06:11.853">*to the pursuit of strong, independent,<br/>long-term investigative journalism.*</p>
+      <p begin="01:06:12.041" end="01:06:16.156">More minutes devoted every year<br/>to celebrity news, to gossip?</p>
+      <p begin="01:06:16.262" end="01:06:17.803">Why?<br/>'Cause it's cheap.</p>
+      <p begin="01:06:18.000" end="01:06:23.041">Fifteen years ago, it would have been <br/>unthinkable for Britney Spear's panties</p>
+      <p begin="01:06:23.041" end="01:06:25.489">to be a breaking headline on CNN.</p>
+      <p begin="01:06:25.744" end="01:06:28.347">- "I wanna lead with the Paris Hilton story--<br/>- "No. And you know what?</p>
+      <p begin="01:06:28.347" end="01:06:30.079">- "What's happening with Paris?"<br/>- "So does my producer, Andy Jones</p>
+      <p begin="01:06:30.079" end="01:06:32.033">is not listening to me. <br/>He's appointed us the lead.</p>
+      <p begin="01:06:32.033" end="01:06:34.480">Listen, I just don't believe <br/>in covering that story,</p>
+      <p begin="01:06:34.480" end="01:06:36.896">especially not as the lead story <br/>in the newscast when you have</p>
+      <p begin="01:06:36.896" end="01:06:38.081">the daylight today--"</p>
+      <p begin="01:06:38.081" end="01:06:41.440">- "Can we show some footage of Paris?<br/>- "No! No, we can't.</p>
+      <p begin="01:06:41.440" end="01:06:42.498">- We have Paris walking out <br/>of the prison last night."</p>
+      <p begin="01:06:42.498" end="01:06:44.958">- Joe, no. I'm gonna do the news now."</p>
+      <p begin="01:06:44.958" end="01:06:47.483">- "I haven't thrown it-- There she is."<br/>- "Look at that strut."</p>
+      <p begin="01:06:47.483" end="01:06:50.230">- "Oh, look at that. She's so humble."<br/>- "Like a reformed woman."</p>
+      <p begin="01:06:50.230" end="01:06:52.092">- "Yeah, she was reformed."<br/>- "She's shy."</p>
+      <p begin="01:06:52.092" end="01:06:54.093">- "Alright, to the news now."<br/>- " 'cause she found Jesus."</p>
+      <p begin="01:06:54.585" end="01:06:56.887">- [Jennifer Pozner] Just months after <br/>Telecomm '96 passed,</p>
+      <p begin="01:06:56.887" end="01:07:00.433">Access Hollywood debuted <br/>and E! news debuted.</p>
+      <p begin="01:07:00.533" end="01:07:04.404">These are two of the most sort of <br/>fat-shaming, info-taming outlets</p>
+      <p begin="01:07:04.404" end="01:07:09.524">we have today, where they follow around<br/>women who have eaten a muffin</p>
+      <p begin="01:07:09.524" end="01:07:13.298">and then circle their stomachs <br/>with graphics and point to them and say,</p>
+      <p begin="01:07:13.298" end="01:07:17.138">"Baby bump? Are they pregnant?<br/>No. Sorry. She just ate a bagel."</p>
+      <p begin="01:07:17.138" end="01:07:20.793">- *"After photos of the singer performing <br/>in her trademark Daisy Duke jeans shorts*</p>
+      <p begin="01:07:20.793" end="01:07:25.362">*showed off an unflattering belly bulge.<br/>Jess' reps were forced to publicly state,*</p>
+      <p begin="01:07:25.362" end="01:07:27.150">*'She is not pregnant.'"*</p>
+      <p begin="01:07:27.721" end="01:07:31.382">- This notion that these media companies <br/>are just giving us what the public wants.</p>
+      <p begin="01:07:31.382" end="01:07:33.983">No. They're giving us what the<br/>media companies want.</p>
+      <p begin="01:07:33.983" end="01:07:35.870">They're giving us what the <br/>advertisers want and they're</p>
+      <p begin="01:07:35.870" end="01:07:40.234">packaging it in such a way as to make it<br/>sound like it's our fault and it's not.</p>
+      <p begin="01:07:42.492" end="01:07:45.193">- [Caroline Heldman] This is the <br/>first time in human history</p>
+      <p begin="01:07:45.193" end="01:07:49.647">that marketers have dictated<br/>our cultural norms and values.</p>
+      <p begin="01:07:49.647" end="01:07:52.832">And this is made possible by <br/>the relaxation of rules on advertising</p>
+      <p begin="01:07:52.832" end="01:07:54.892">in the 1970s and 80s.</p>
+      <p begin="01:07:55.153" end="01:07:58.139">$$ 1980 Congress weakens the <br/>Federal Trade Commission's power</p>
+      <p begin="01:07:58.139" end="01:08:01.385">$$ to stop "unfair" advertising.</p>
+      <p begin="01:08:01.432" end="01:08:04.602">*And then it amplified <br/>relaxation starting in the 90s.*</p>
+      <p begin="01:08:04.602" end="01:08:09.541">$$ 1990s Studies find a steady increase<br/>in explicit sexual images in advertising.</p>
+      <p begin="01:08:09.711" end="01:08:11.837">- [Lindy DeKoven] This is all about <br/>Capitalism.</p>
+      <p begin="01:08:11.837" end="01:08:14.810">*The television industry <br/>targets men 18 to 34 *</p>
+      <p begin="01:08:14.810" end="01:08:18.722">*because it's harder to get men<br/>to watch television.*</p>
+      <p begin="01:08:18.811" end="01:08:24.570">Women watch television so the advertisers <br/>encourage the networks to come up with</p>
+      <p begin="01:08:24.570" end="01:08:29.622">with programming for men 18 to 34,<br/>so they can sell their products to them.</p>
+      <p begin="01:08:29.859" end="01:08:31.493">- "Great!"<br/>- "Hate!"</p>
+      <p begin="01:08:31.493" end="01:08:34.004">- "Less filling."<br/>- "Great taste!"</p>
+      <p begin="01:08:34.004" end="01:08:39.380">*- The exploitation of women's bodies <br/>sells products, magazines, etecetera.*</p>
+      <p begin="01:08:39.380" end="01:08:43.243">- "Can you open this?"<br/>- "Sure."</p>
+      <p begin="01:08:46.857" end="01:08:50.930">*&#9834; Isn't it wonderful &#9834;*<br/>*[woman moaning]*</p>
+      <p begin="01:08:50.931" end="01:08:54.106">*- There has been some discussion<br/>that advertisers *</p>
+      <p begin="01:08:54.106" end="01:08:57.552">*are themselves, men <br/>who are 18 to 34.*</p>
+      <p begin="01:08:58.091" end="01:09:01.802">They are saying this is the <br/>kind of programming we want.</p>
+      <p begin="01:09:02.286" end="01:09:04.871">*If you show a woman scantilly clad,<br/>*</p>
+      <p begin="01:09:04.871" end="01:09:08.941">maybe that's an opportunity to get<br/>more viewers to your show.</p>
+      <p begin="01:09:09.185" end="01:09:11.204">- [Marissa Mayer] And right now,<br/>advertisements are really</p>
+      <p begin="01:09:11.204" end="01:09:14.640">the best way to support <br/>a business on the internet.</p>
+      <p begin="01:09:14.812" end="01:09:16.816">- "Click on me <br/>and let the show begin."</p>
+      <p begin="01:09:17.132" end="01:09:20.428">*Sometimes, what will draw the most<br/>eyeballs at least in the voyeuristic sense*</p>
+      <p begin="01:09:20.428" end="01:09:24.278">*is something that, you know,<br/>might be more salacious.*</p>
+      <p begin="01:09:24.278" end="01:09:26.786">[woman moaning]</p>
+      <p begin="01:09:26.786" end="01:09:28.718">- [Jim Steyer] In the old days, <br/>there used to be a thing called,</p>
+      <p begin="01:09:28.718" end="01:09:30.926">the family hour, which was<br/>a voluntary agreement</p>
+      <p begin="01:09:30.926" end="01:09:33.770">of the three broadcast networks.<br/>Remember those days?</p>
+      <p begin="01:09:33.982" end="01:09:37.454">When you couldn't air anything<br/>inappropriate for children and families</p>
+      <p begin="01:09:37.454" end="01:09:41.262">before 9 pm at night, where, <br/>in return for the free airwaves,</p>
+      <p begin="01:09:41.262" end="01:09:44.475">they felt that they had a very major <br/>public interest commitment.</p>
+      <p begin="01:09:44.475" end="01:09:46.828">It's actually enforced by the<br/>Federal Communications Commission,</p>
+      <p begin="01:09:46.828" end="01:09:50.525">the FCC. That is gone today.<br/>Period. End of story.</p>
+      <p begin="01:09:50.525" end="01:09:53.133">Today, it is the wild, wild west.<br/>It is a free-for-all.</p>
+      <p begin="01:09:53.133" end="01:09:56.458">And there's no sense among folks <br/>who run the media and tech industries,</p>
+      <p begin="01:09:56.520" end="01:09:59.261">perhaps with the exception <br/>of older broadcasters,</p>
+      <p begin="01:09:59.261" end="01:10:00.654">who remember the good old days,</p>
+      <p begin="01:10:00.654" end="01:10:02.666">that they have an obligation<br/>to public interest.</p>
+      <p begin="01:10:03.020" end="01:10:07.039">$$ "We have no obligation to make history.<br/>We have no obligation to make art.</p>
+      <p begin="01:10:07.039" end="01:10:09.503">$$ We have no obligation <br/>to make a statement.</p>
+      <p begin="01:10:09.503" end="01:10:12.683">$$ To make money is our only objective."<br/>- Michael Eisner</p>
+      <p begin="01:10:13.360" end="01:10:15.775">- [Malkia Amala Cyril] It's a myth,<br/>that we live in</p>
+      <p begin="01:10:15.775" end="01:10:19.718">and under and with<br/>a democratic media. We don't.</p>
+      <p begin="01:10:20.348" end="01:10:22.475">- [Jim Steyer] When it comes to <br/>the politics of all this,</p>
+      <p begin="01:10:22.475" end="01:10:27.175">in the last 25 years, our law makers <br/>have essentially been absent.</p>
+      <p begin="01:10:27.262" end="01:10:28.680">Out of the picture.</p>
+      <p begin="01:10:28.680" end="01:10:30.347">$$ 1972 Surgeon General's <br/>report cities link</p>
+      <p begin="01:10:30.347" end="01:10:32.197">$$ between screen violence <br/>and aggressive behavior.</p>
+      <p begin="01:10:32.273" end="01:10:34.082">$$ 1976 American Medical Association</p>
+      <p begin="01:10:34.082" end="01:10:35.897">$$ calls TV violence an<br/>"environmental hazard"</p>
+      <p begin="01:10:35.913" end="01:10:38.094">$$ 1982 National Institute of <br/>Mental Health says, there is a clear link</p>
+      <p begin="01:10:38.094" end="01:10:40.386">$$ between TV violence and aggression.</p>
+      <p begin="01:10:40.386" end="01:10:42.418">$$1985 American Psychological Association</p>
+      <p begin="01:10:42.418" end="01:10:44.249">$$ shows link between TV violence <br/>and real violence</p>
+      <p begin="01:10:44.249" end="01:10:45.738">$$1992 American Psychological Association</p>
+      <p begin="01:10:45.754" end="01:10:47.337">$$ calls for federal policy <br/>to protect society</p>
+      <p begin="01:10:47.337" end="01:10:48.984">$$ when research on violence is ignored</p>
+      <p begin="01:10:48.984" end="01:10:51.583">$$ 2004 The Centers for Disease Control</p>
+      <p begin="01:10:51.583" end="01:10:53.675">$$ finds that media violence <br/>enhances violent behavior</p>
+      <p begin="01:10:53.675" end="01:10:57.705">$$ 2007 The FCC unanimously recommends<br/>Congress regulate TV violence</p>
+      <p begin="01:10:57.751" end="01:11:00.136">$$ 2007 Congress holds special hearing<br/>on the prevalence</p>
+      <p begin="01:11:00.136" end="01:11:03.613">$$ of women's sexualization <br/>in music videos</p>
+      <p begin="01:11:03.643" end="01:11:06.797">$$ 2009 Studies prove exposure to sexually<br/>implicit video games and music videos</p>
+      <p begin="01:11:06.797" end="01:11:10.227">$$ is linked to men's acceptance of rape<br/>myths and sexual harrassment</p>
+      <p begin="01:11:10.288" end="01:11:14.457">$$ Despite all of this, <br/>there have been <span tts:fontStyle="italic">no</span> policy changes</p>
+      <p begin="01:11:14.799" end="01:11:16.964">*You got a situation where<br/>the law makers *</p>
+      <p begin="01:11:16.964" end="01:11:19.699">who you would hope would represent<br/>the broader public interest</p>
+      <p begin="01:11:19.699" end="01:11:22.659">are in a sense--<br/>I hate to overstate it,</p>
+      <p begin="01:11:22.659" end="01:11:24.913">but are largely in the pocket <br/>of the media industry.</p>
+      <p begin="01:11:25.123" end="01:11:27.810">*Because their fortunes<br/>as politicians are dependent *</p>
+      <p begin="01:11:27.810" end="01:11:30.959">*upon the media coverage <br/>as well as their ability to buy time*</p>
+      <p begin="01:11:30.959" end="01:11:33.117">*in those media stations <br/>when they're running for office.*</p>
+      <p begin="01:11:35.841" end="01:11:38.642">*Media has not been held accountable <br/>by our elected representatives*</p>
+      <p begin="01:11:38.642" end="01:11:41.566">and it's not a liberal<br/>or conservative issue,</p>
+      <p begin="01:11:41.570" end="01:11:44.191">it's an American issue <br/>and an American problem.</p>
+      <p begin="01:11:44.409" end="01:11:46.092">- [Malkia Amala Cyril] <br/>Without a media sense,</p>
+      <p begin="01:11:46.092" end="01:11:47.676">when that's publicly accountable,</p>
+      <p begin="01:11:47.676" end="01:11:50.993">what you have is not only <br/>widespread content bias,</p>
+      <p begin="01:11:51.306" end="01:11:55.520">but what you have is a completely <br/>inaccessible public conversation.</p>
+      <p begin="01:11:55.751" end="01:11:57.299">- [Jim Steyer] For years, <br/>the media industry</p>
+      <p begin="01:11:57.299" end="01:12:00.313">hid behind the label of censorship.</p>
+      <p begin="01:12:00.515" end="01:12:03.388">*It's not censorship to say<br/>to a media company *</p>
+      <p begin="01:12:03.388" end="01:12:07.170">that's producing an image or a website<br/>that's really offensive</p>
+      <p begin="01:12:07.170" end="01:12:09.958">and really inappropriate. <br/>That's the essence of free speech.</p>
+      <p begin="01:12:10.163" end="01:12:14.498">But in a world of a million channels <br/>like we have today, people try to do</p>
+      <p begin="01:12:14.498" end="01:12:17.264">more shocking and shocking things<br/>to break through the clutter.</p>
+      <p begin="01:12:17.300" end="01:12:19.187">*And often times, they resort <br/>to violent images*</p>
+      <p begin="01:12:19.187" end="01:12:22.450">or sexually offensive images<br/>or demeaning images,</p>
+      <p begin="01:12:22.450" end="01:12:24.287">'cause they know it'll get attention.</p>
+      <p begin="01:12:24.483" end="01:12:28.831">The problem is, kids are exposed to that<br/>with very little or no mediation.</p>
+      <p begin="01:12:34.996" end="01:12:39.294">*- [Jean Kilbourne] These images are part <br/>of a cultural climate in which women*</p>
+      <p begin="01:12:39.294" end="01:12:41.610">*are seen as things, as objects. *</p>
+      <p begin="01:12:41.610" end="01:12:46.471">And turning a human being into a thing<br/>is almost always the first step towards</p>
+      <p begin="01:12:46.471" end="01:12:48.852">justifying violence against that person.</p>
+      <p begin="01:13:00.481" end="01:13:04.291">$$ 13-year-old girl gang raped <br/>by three classmates</p>
+      <p begin="01:13:04.291" end="01:13:07.632">$$ 7-year-old girl raped on<br/>school bus by teenager</p>
+      <p begin="01:13:07.632" end="01:13:11.475">$$ Two-year-old girl raped at SeaWorld</p>
+      <p begin="01:13:25.659" end="01:13:29.432">$$ 1 in 4 girls experience <br/>teen dating violence</p>
+      <p begin="01:13:30.678" end="01:13:35.178">$$ 1 in 4 women are abused<br/>by a partner in their lifetime</p>
+      <p begin="01:13:35.178" end="01:13:39.823">$$ 1 in 6 women are survivors<br/>of rape or attempted rape</p>
+      <p begin="01:13:40.038" end="01:13:45.600">$$ 15% of rape survivors <br/>are under the age of 12</p>
+      <p begin="01:13:46.907" end="01:13:49.018">$$ Rape survivors are more likely to<br/>Suffer Depression</p>
+      <p begin="01:13:49.018" end="01:13:52.871">$$ Abuse Alcohol and Drugs<br/>Contemplate Suicide</p>
+      <p begin="01:13:57.580" end="01:14:00.790">- *[Jennifer] If the cards are so<br/>heavily stacked against young women,*</p>
+      <p begin="01:14:01.770" end="01:14:05.324">*how are they supposed to achieve<br/>their potential and become leaders?*</p>
+      <p begin="01:14:08.298" end="01:14:12.040">*We can't turn a blind eye <br/>to how the media impacts our culture*</p>
+      <p begin="01:14:12.699" end="01:14:16.375">*and harms both our daughters <br/>and our sons.*</p>
+      <p begin="01:14:18.483" end="01:14:23.499">$$ 1 in 18 men in the U.S.<br/>is behind bars or being monitored</p>
+      <p begin="01:14:23.715" end="01:14:25.975">- [Jane Fonda] We have to help our boys<br/>when they're really young.</p>
+      <p begin="01:14:25.975" end="01:14:28.764">Five or six, when they're just<br/>entering formal schooling.</p>
+      <p begin="01:14:28.764" end="01:14:33.504">Help them not bifurcate <br/>their head from their heart,</p>
+      <p begin="01:14:33.504" end="01:14:36.608">not become emotionally illiterate</p>
+      <p begin="01:14:36.608" end="01:14:40.017">and feel that they can't show emotion,<br/>that their sissies if they cry,</p>
+      <p begin="01:14:40.017" end="01:14:43.388">that they can't be expressing love.</p>
+      <p begin="01:14:44.336" end="01:14:46.598">- [Jackson Katz] If a man is taught that <br/>he's supposed to be smarter than women,</p>
+      <p begin="01:14:46.598" end="01:14:47.967">he's supposed to make<br/>more money than women,</p>
+      <p begin="01:14:47.967" end="01:14:49.920">he's supposed to have <br/>more respect than women,</p>
+      <p begin="01:14:49.920" end="01:14:51.536">yet it's not true in real life,</p>
+      <p begin="01:14:51.536" end="01:14:55.423">you know, his boss might be a woman,<br/>his doctor might be a woman.</p>
+      <p begin="01:14:55.423" end="01:14:57.408">The woman might be making <br/>more money than him.</p>
+      <p begin="01:14:57.408" end="01:14:59.505">The girl next to him in class<br/>is smarter than him, etcetera...</p>
+      <p begin="01:14:59.505" end="01:15:01.421">What does it mean to be a man?</p>
+      <p begin="01:15:01.633" end="01:15:08.587">- [Kirk] If guys don't show this masculine<br/>side, then they're criticized for it</p>
+      <p begin="01:15:09.910" end="01:15:14.987">and they're kind of another looked <br/>upon as less of a man.</p>
+      <p begin="01:15:15.055" end="01:15:16.756">- [Jackson Katz] Now,<br/>how do we expect our sons</p>
+      <p begin="01:15:16.756" end="01:15:18.991">to be men of integrity <br/>and of conscience</p>
+      <p begin="01:15:18.991" end="01:15:22.812">and to be social justice advocates<br/>and just treat women with respect</p>
+      <p begin="01:15:22.812" end="01:15:25.148">and to speak up when they see women <br/>being treated with disrespect,</p>
+      <p begin="01:15:25.148" end="01:15:26.857">if they don't see their fathers doing it,</p>
+      <p begin="01:15:26.857" end="01:15:28.681">if they don't see men in the <br/>public culture doing it,</p>
+      <p begin="01:15:28.681" end="01:15:33.097">it's not fair to put the burdens on the<br/>shoulders of boys or even young men.</p>
+      <p begin="01:15:33.097" end="01:15:35.513">Even though, they're part of the solution, <br/>there's no question.</p>
+      <p begin="01:15:35.513" end="01:15:37.253">This is about adult men.</p>
+      <p begin="01:15:37.433" end="01:15:40.469">- [Calvin] I definitely am not one <br/>to conform to the--</p>
+      <p begin="01:15:40.969" end="01:15:45.442">we need to be hyper masculine and <br/>we need to be misogynistic stereotypes.</p>
+      <p begin="01:15:47.581" end="01:15:52.840">It really puts a lot of pressure on me <br/>when I have relatives who have grown up</p>
+      <p begin="01:15:52.840" end="01:15:57.857">with this phenomenon, who attempt <br/>to put me on that path,</p>
+      <p begin="01:15:57.857" end="01:15:59.245">but I'm not ready for it.</p>
+      <p begin="01:15:59.345" end="01:16:02.350">- [Cory Booker] I remember sitting down<br/>having this conversation with a woman</p>
+      <p begin="01:16:02.350" end="01:16:05.438">far wiser than me <br/>and stories to talk about,</p>
+      <p begin="01:16:05.438" end="01:16:09.573">"Oh, how bad it is for women in America,"<br/>and she just looked at me</p>
+      <p begin="01:16:09.573" end="01:16:11.229">and listened to me <br/>for a while and she said,</p>
+      <p begin="01:16:11.229" end="01:16:12.265">"Well, I have to tell you, Cory,</p>
+      <p begin="01:16:12.265" end="01:16:14.426">I actually think it's really bad <br/>for men in America."</p>
+      <p begin="01:16:14.426" end="01:16:16.185">And I go, "What do you mean?" <br/>She started talking to me</p>
+      <p begin="01:16:16.185" end="01:16:20.042">and really putting the spotlight on me<br/>and talking about how emotionally</p>
+      <p begin="01:16:20.042" end="01:16:22.042">constipated men are taught <br/>to be very early on,</p>
+      <p begin="01:16:23.273" end="01:16:28.083">how we don't have-- haven't learned <br/>how to express ourselves in healthy ways,</p>
+      <p begin="01:16:28.083" end="01:16:32.957">it often does manifest itself in such <br/>awful and violent ways.</p>
+      <p begin="01:16:33.103" end="01:16:37.050">But she talked about a spiritual healing<br/>that was needed for guys.</p>
+      <p begin="01:16:48.245" end="01:16:49.930">- *[Jennifer] I've been trying to imagine*</p>
+      <p begin="01:16:49.930" end="01:16:52.580">*a better world for my <br/>daughter's generation.*</p>
+      <p begin="01:16:53.692" end="01:16:55.858">*And I'm beginning to get some ideas.*</p>
+      <p begin="01:16:56.486" end="01:16:58.462">"The numbers of women <br/>in leadership positions</p>
+      <p begin="01:16:58.462" end="01:17:01.130">in our country are still very low."</p>
+      <p begin="01:17:01.910" end="01:17:04.588">*We have to find a way<br/>to change this culture.*</p>
+      <p begin="01:17:05.518" end="01:17:08.189">We need to shift our focus<br/>from the bottom line</p>
+      <p begin="01:17:08.189" end="01:17:11.895">*to one of social responsibility. <br/>We need to challenge *</p>
+      <p begin="01:17:11.895" end="01:17:14.326">*the media conglomerates<br/>to value women *</p>
+      <p begin="01:17:14.326" end="01:17:17.585">*for more than their youth, <br/>beauty and sexuality.*</p>
+      <p begin="01:17:17.957" end="01:17:20.530">*And we must hold<br/>these companies accountable. *</p>
+      <p begin="01:17:21.750" end="01:17:22.926">*We need to encourage women *</p>
+      <p begin="01:17:22.926" end="01:17:26.258">*to discover their true power,<br/>so they can become leaders.*</p>
+      <p begin="01:17:26.774" end="01:17:28.521">*And we must support them <br/>on their journey.*</p>
+      <p begin="01:17:28.829" end="01:17:32.753">$$ 70% of women in the workforce <br/>are mothers</p>
+      <p begin="01:17:32.753" end="01:17:37.015">$$ yet we have no national paid family <br/>leave, childcare or flex time policy</p>
+      <p begin="01:17:37.092" end="01:17:41.969">*And ultimately, we need to live our <br/>own vision of what a woman can be.*</p>
+      <p begin="01:17:42.061" end="01:17:45.570">$$ Be the change you want <br/>to see in the world.</p>
+      <p begin="01:17:45.570" end="01:17:48.602">$$ - Mahatma Gandhi</p>
+      <p begin="01:17:48.993" end="01:17:52.308">- [Condoleezza Rice] We make a mistake <br/>when we say, you have to find</p>
+      <p begin="01:17:52.308" end="01:17:54.310">role models who look like you.</p>
+      <p begin="01:17:55.232" end="01:18:00.084">If Sally Ride, my dear friend,<br/>first female astronaut had been waiting</p>
+      <p begin="01:18:00.084" end="01:18:04.771">for a female astronaut role model,<br/>she would never have done it.</p>
+      <p begin="01:18:05.306" end="01:18:08.433">And so, I'm a big believer <br/>in finding your role models</p>
+      <p begin="01:18:08.433" end="01:18:10.172">wherever you can find them.</p>
+      <p begin="01:18:10.172" end="01:18:13.495">In people who inspire and<br/>stimulate you for whatever reason.</p>
+      <p begin="01:18:14.141" end="01:18:15.568">- [Jan Yanehiro] Growing up,<br/>there was nobody</p>
+      <p begin="01:18:15.568" end="01:18:17.207">who looked like me on television,</p>
+      <p begin="01:18:17.323" end="01:18:20.204">so I never dreamed <br/>that I could be on television.</p>
+      <p begin="01:18:20.345" end="01:18:24.938">I would love to say, "Yeah, there were<br/>some great women role models back then."</p>
+      <p begin="01:18:24.938" end="01:18:27.019">Actually, there were none.</p>
+      <p begin="01:18:27.019" end="01:18:32.298">Years later, Connie Chung went on<br/>television to report in Watergate,</p>
+      <p begin="01:18:32.666" end="01:18:34.987">and I would say to her, <br/>"Connie, you're my role model."</p>
+      <p begin="01:18:34.987" end="01:18:37.319">She would say to me,<br/>"Jan, but I'm not that old."</p>
+      <p begin="01:18:37.468" end="01:18:39.851">And I say, "Yeah, you're a year <br/>older than I am, Connie</p>
+      <p begin="01:18:39.851" end="01:18:41.208">and that's good enough for me."</p>
+      <p begin="01:18:41.499" end="01:18:44.151">- [Katie Couric] In terms of my<br/>role models in television news,</p>
+      <p begin="01:18:44.177" end="01:18:46.539">of course, Barbara Walters,<br/>Lesley Stahl,</p>
+      <p begin="01:18:46.539" end="01:18:49.080">and believe it or not,<br/>Mary Tyler Moore.</p>
+      <p begin="01:18:49.212" end="01:18:52.561">*I grew up watching that show <br/>and the notion of a woman*</p>
+      <p begin="01:18:52.561" end="01:18:56.347">making it on her own<br/>and working at that TV station,</p>
+      <p begin="01:18:56.347" end="01:18:59.175">I think was, very, very influential.</p>
+      <p begin="01:18:59.579" end="01:19:00.875">- [Rachel Maddow] One of the things<br/>that really surprised me</p>
+      <p begin="01:19:00.875" end="01:19:05.616">was the number of women<br/>in positions of power in television</p>
+      <p begin="01:19:05.616" end="01:19:07.083">who reached out to me and said,</p>
+      <p begin="01:19:07.083" end="01:19:09.467">"Can I take you out to breakfast?" <br/>"Can I take you out to lunch?"</p>
+      <p begin="01:19:09.467" end="01:19:11.819">"Can I make sure that you have <br/>my phone number or my email address,</p>
+      <p begin="01:19:11.819" end="01:19:16.669">so that if anything comes up--" and<br/>it definitely wasn't like a gender mafia</p>
+      <p begin="01:19:16.669" end="01:19:20.732">going on in the media, <br/>but there was an over effort</p>
+      <p begin="01:19:20.732" end="01:19:25.563">to both welcome me and make me know<br/>that women who had gone before me,</p>
+      <p begin="01:19:25.563" end="01:19:28.443">who had fought to get where they were,<br/>were both happy that I was there</p>
+      <p begin="01:19:28.443" end="01:19:30.231">and wanted to be resources to me.</p>
+      <p begin="01:19:30.434" end="01:19:33.096">And there's an expectation that <br/>I will be a resource to other women.</p>
+      <p begin="01:19:35.047" end="01:19:38.466">*- [Jennifer] When women mentor each other,<br/>it can be incredibly powerful.*</p>
+      <p begin="01:19:39.990" end="01:19:43.621">*I got to know a talented young <br/>journalist named, Jessica Shambora.*</p>
+      <p begin="01:19:44.263" end="01:19:48.169">*Jessica was covering a story for*<br/>Fortune *magazine about mentorship.*</p>
+      <p begin="01:19:48.438" end="01:19:50.210">*That really proves the point.*</p>
+      <p begin="01:19:50.454" end="01:19:51.995">- [Jessica Shambora] I just wanted to <br/>introduce myself to you, guys.</p>
+      <p begin="01:19:51.995" end="01:19:56.667">*I'm Jessica Shambora. I'm with <span tts:fontStyle="italic">Fortune</span>,<br/>and so we'd be covering the event tonight.*</p>
+      <p begin="01:19:56.667" end="01:20:00.599">Mini-mentoring is a program <br/>that a couple of the women</p>
+      <p begin="01:20:00.599" end="01:20:05.298">from <span tts:fontStyle="italic">Fortune's</span> most powerful women <br/><span tts:fontStyle="italic">Summit</span> came up with, in order to reach</p>
+      <p begin="01:20:05.298" end="01:20:09.520">a larger group of young women<br/>who really have this desire to be mentored</p>
+      <p begin="01:20:09.520" end="01:20:12.485">and get advice from successful <br/>professional women.</p>
+      <p begin="01:20:12.567" end="01:20:14.672">They would have sort of like,<br/>a speed dating night,</p>
+      <p begin="01:20:14.672" end="01:20:17.883">except for substitute, <br/>mentoring for the dating.</p>
+      <p begin="01:20:17.950" end="01:20:19.607">*- [Dee Dee Myers] The most important <br/>thing that should drive decisions,*</p>
+      <p begin="01:20:19.607" end="01:20:20.805">*especially when you're young is*</p>
+      <p begin="01:20:20.805" end="01:20:22.974">what really get your <br/>heart pitter-pattering.</p>
+      <p begin="01:20:22.974" end="01:20:24.991">- [Candy Crowley] In the end, <br/>here's the deal.</p>
+      <p begin="01:20:24.991" end="01:20:29.842">You wanna be so good at what you do,<br/>that they can't ignore you.</p>
+      <p begin="01:20:30.729" end="01:20:32.928">- [Dana Perino] Turn off the <br/>television and read.</p>
+      <p begin="01:20:32.928" end="01:20:35.712">One hour of reality TV can be fun.</p>
+      <p begin="01:20:36.222" end="01:20:39.467">Four hours is like destructive.<br/>*[others laughing]*</p>
+      <p begin="01:20:39.518" end="01:20:42.304">- [Susan Molinari] To thine own self, <br/>be true. Know who you are.</p>
+      <p begin="01:20:42.337" end="01:20:46.690">Know what is best about you. <br/>Have confidence in yourself</p>
+      <p begin="01:20:46.690" end="01:20:48.692">and don't try and be anybody else.</p>
+      <p begin="01:20:48.736" end="01:20:50.575">- [Dana Perino] On Tony Snow's last day, <br/>when he was leaving the white house</p>
+      <p begin="01:20:50.575" end="01:20:53.582">and I was taking over officially as<br/>the White House Press secretary,</p>
+      <p begin="01:20:53.582" end="01:20:56.195">he came into my office and he said,</p>
+      <p begin="01:20:56.195" end="01:20:58.827">"You are better at this<br/>than you think you are."</p>
+      <p begin="01:20:59.903" end="01:21:02.671">*- [Susan Molinari] I hope you will<br/>remember that you will help*</p>
+      <p begin="01:21:02.671" end="01:21:04.797">that next generation of women a lot.</p>
+      <p begin="01:21:05.013" end="01:21:08.581">It is far overdue that we, women, <br/>stop criticizing each other,</p>
+      <p begin="01:21:08.581" end="01:21:11.892">the decisions and the life decisions <br/>that we make and instead say,</p>
+      <p begin="01:21:11.892" end="01:21:15.176">"Alleluia, sister. Whatever gets you <br/>through, I'm there to support you."</p>
+      <p begin="01:21:15.176" end="01:21:18.622">*[cheers and applause]*</p>
+      <p begin="01:21:20.270" end="01:21:23.328">- [Lisa Ling] You know, if women<br/>don't stand up for each other,</p>
+      <p begin="01:21:23.328" end="01:21:25.024">then no one else will.<br/>No one's gonna look out</p>
+      <p begin="01:21:25.024" end="01:21:27.682">for the interest of women,<br/>except other women.</p>
+      <p begin="01:21:29.746" end="01:21:34.223">- [Katie Couric] If women spent <br/>more time helping a sick neighbor</p>
+      <p begin="01:21:34.223" end="01:21:37.392">or volunteering at a homeless shelter, <br/>or focusing on how to use</p>
+      <p begin="01:21:37.392" end="01:21:40.657">all their energy to solve <br/>some of the world's problems,</p>
+      <p begin="01:21:40.657" end="01:21:44.609">if they spent a tenth of the time thinking<br/>about those things than they do thinking</p>
+      <p begin="01:21:44.609" end="01:21:49.535">about their weight, I mean, I think,<br/>we'd solve all the world's problems</p>
+      <p begin="01:21:49.535" end="01:21:50.795">in a matter of months.</p>
+      <p begin="01:21:51.205" end="01:21:53.649">- [Dianne Feinstein] We're here for <br/>an instant in an eternity.</p>
+      <p begin="01:21:53.814" end="01:21:57.489">And all that really matters<br/>is what we do with that time</p>
+      <p begin="01:21:57.845" end="01:22:00.629">- [Pat Mitchell] We have enormous power. <br/>Eighty six percent of the</p>
+      <p begin="01:22:00.629" end="01:22:05.073">purchasing power in this country<br/>is in the pockets of women.</p>
+      <p begin="01:22:05.349" end="01:22:09.718">Well, let's use it. I mean, let's use it<br/>not to buy those tabloid magazines</p>
+      <p begin="01:22:09.718" end="01:22:12.761">and not to support the <br/>tabloid television shows.</p>
+      <p begin="01:22:12.761" end="01:22:14.309">A consumer's voice is maybe</p>
+      <p begin="01:22:14.309" end="01:22:17.317">the most important,<br/>powerful voice we have,</p>
+      <p begin="01:22:17.317" end="01:22:20.977">other than as a citizen<br/>and using our vote.</p>
+      <p begin="01:22:22.729" end="01:22:25.722">- [Nancy Pelosi] Women in America<br/>will be more encouraged</p>
+      <p begin="01:22:25.722" end="01:22:29.541">if they could see young women<br/>who share their experience</p>
+      <p begin="01:22:29.541" end="01:22:35.876">raising a young family, speaking for them,<br/>identifying with their aspirations.</p>
+      <p begin="01:22:36.283" end="01:22:38.634">- [Rosario Dawson] We're creating<br/>new leaders and they're going</p>
+      <p begin="01:22:38.634" end="01:22:42.437">to not look like how they always did.<br/>An older white male.</p>
+      <p begin="01:22:42.634" end="01:22:46.234">They're gonna look like a woman and<br/>they're gonna look like people of color</p>
+      <p begin="01:22:46.234" end="01:22:50.739">and that is the true reflection <br/>of this country and of this world.</p>
+      <p begin="01:22:51.857" end="01:22:53.852">- [Marie Wilson] I got this <br/>little letter one day.</p>
+      <p begin="01:22:53.852" end="01:22:57.852">"Ms. Wilson, do you realize there has <br/>never been a woman president?"</p>
+      <p begin="01:22:57.852" end="01:23:01.769">And then she said, "I will make a <br/>great president. I'm practicing my piano,</p>
+      <p begin="01:23:01.769" end="01:23:06.559">I'm doing my Math and my name is <br/>Alexandra, which means leader of men."</p>
+      <p begin="01:23:08.999" end="01:23:12.030">- [Jennifer] Look at the eyes. Oh, honey. <br/>*- Oh, oh, oh.*</p>
+      <p begin="01:23:12.062" end="01:23:12.877">- Hello.</p>
+      <p begin="01:23:12.877" end="01:23:13.832">
+        <span tts:fontStyle="italic">[giggles]</span>
+      </p>
+      <p begin="01:23:13.832" end="01:23:15.771">- Hello.</p>
+      <p begin="01:23:17.108" end="01:23:18.961">Oh, she's smiling.</p>
+      <p begin="01:23:20.607" end="01:23:25.884">On September 18th 2009, <br/>I began my journey into motherhood.</p>
+      <p begin="01:23:27.594" end="01:23:29.632">My husband and I have the same wishes</p>
+      <p begin="01:23:29.632" end="01:23:32.870">for Montana that any parents<br/>have for their child.</p>
+      <p begin="01:23:33.608" end="01:23:37.147">We want her to pursue her purpose <br/>and passions in life</p>
+      <p begin="01:23:37.900" end="01:23:40.097">and to understand <br/>that what's really important</p>
+      <p begin="01:23:40.097" end="01:23:42.734">is who she is on the inside.</p>
+      <p begin="01:23:43.753" end="01:23:46.706">And it's critical to us <br/>that all girls grow up in a world</p>
+      <p begin="01:23:46.706" end="01:23:48.831">where their voice counts,</p>
+      <p begin="01:23:48.962" end="01:23:52.327">where our culture embraces them <br/>in all of their diversity</p>
+      <p begin="01:23:52.327" end="01:23:55.822">and where they're afforded <br/>equal opportunities to succeed in life.</p>
+      <p begin="01:23:58.306" end="01:24:00.814">I keep coming back to my early years.</p>
+      <p begin="01:24:01.644" end="01:24:05.953">Too often, we girls and women <br/>don't recognize our own internal strength.</p>
+      <p begin="01:24:08.279" end="01:24:13.975">I now know that we can't let anyone<br/>or anything take our power away from us.</p>
+      <p begin="01:24:18.059" end="01:24:20.238">What do you think, Montana?</p>
+      <p begin="01:24:21.573" end="01:24:23.175">Are you ready?</p>
+      <p begin="01:24:26.020" end="01:24:29.970">$$ Join the Movement<br/>www.missrepresentation.org</p>
+      <p begin="01:24:30.370" end="01:24:32.820">- If we really want things <br/>to change around you,</p>
+      <p begin="01:24:32.820" end="01:24:34.730">here's what you can do.</p>
+      <p begin="01:24:35.597" end="01:24:38.422">$$ Text REPRESENT to<br/>313131</p>
+      <p begin="01:24:38.490" end="01:24:41.242">- Measure yourself by accomplishments<br/>and not by how you look.</p>
+      <p begin="01:24:41.422" end="01:24:44.831">- If you and I, every time<br/>we pass a mirror,</p>
+      <p begin="01:24:44.831" end="01:24:47.358">downgrade on how we look,<br/>or complain about our looks,</p>
+      <p begin="01:24:47.358" end="01:24:51.851">if we remember that a girl is watching us,<br/>and that's what she's learning.</p>
+      <p begin="01:24:52.175" end="01:24:54.743">- Reflect on the ways you <br/>may contribute to sexism.</p>
+      <p begin="01:24:54.943" end="01:24:58.695">- I include myself in this. <br/>We scrutinize the women.</p>
+      <p begin="01:24:58.772" end="01:25:01.325">"God, look how old she's gotten,<br/>look how gray she's gotten.</p>
+      <p begin="01:25:01.325" end="01:25:02.585">What is she wearing?"</p>
+      <p begin="01:25:02.798" end="01:25:06.366">I think that as women, we need to stop <br/>that destructive behavior</p>
+      <p begin="01:25:06.366" end="01:25:10.500">that we inflict upon each other<br/>and ultimately onto ourselves.</p>
+      <p begin="01:25:10.771" end="01:25:13.643">- Support media that champions <br/>accomplished women.</p>
+      <p begin="01:25:14.158" end="01:25:18.649">- We need strong women role models who<br/>in the media because they did something,</p>
+      <p begin="01:25:18.806" end="01:25:21.126">because they're doing great work, <br/>not because they have</p>
+      <p begin="01:25:21.126" end="01:25:25.268">the most bangin' body<br/>and they're sexiest woman of 2010.</p>
+      <p begin="01:25:25.495" end="01:25:27.155">They're the best philanthropists.</p>
+      <p begin="01:25:27.192" end="01:25:30.598">They're the best in the medical field<br/>and it's not about the way they look,</p>
+      <p begin="01:25:30.598" end="01:25:32.595">it's about who they are inside.</p>
+      <p begin="01:25:33.655" end="01:25:37.681">- Boycott magazines, TV shows and movies <br/>that objectify and degrade women.</p>
+      <p begin="01:25:38.509" end="01:25:41.687">- Speaking your mind and criticizing<br/>media companies when you think</p>
+      <p begin="01:25:41.687" end="01:25:43.783">they're doing things that are <br/>inappropriate at your children,</p>
+      <p begin="01:25:43.783" end="01:25:47.958">is not just your God-given right<br/>as an American, as a parent,</p>
+      <p begin="01:25:47.958" end="01:25:50.979">but it's also entirely consistent <br/>with the First Amendment.</p>
+      <p begin="01:25:51.693" end="01:25:54.080">- Go see movies written <br/>and directed by women.</p>
+      <p begin="01:25:54.565" end="01:25:59.043">- And it's important to go on opening <br/>weekend and Friday is best</p>
+      <p begin="01:25:59.843" end="01:26:02.269">because these are the numbers <br/>that Hollywood tracks.</p>
+      <p begin="01:26:02.689" end="01:26:05.426">- Write your own stories <br/>and create your own media</p>
+      <p begin="01:26:05.426" end="01:26:08.374">about powerful women<br/>in non-traditional roles.</p>
+      <p begin="01:26:08.737" end="01:26:10.929">- My daughter, when she was nine, <br/>she wrote this little screenplay</p>
+      <p begin="01:26:10.929" end="01:26:13.169">and she shot a movie you know,<br/>with our little video camera,</p>
+      <p begin="01:26:13.169" end="01:26:16.689">with her you know, casting her friends <br/>and it was just so much fun for her</p>
+      <p begin="01:26:16.689" end="01:26:19.854">and it teaches them that the media <br/>are a construction.</p>
+      <p begin="01:26:20.008" end="01:26:21.119">And they start to understand</p>
+      <p begin="01:26:21.119" end="01:26:23.167">that these are stories that people<br/>are telling them and they can come up</p>
+      <p begin="01:26:23.167" end="01:26:25.892">with their own stories to tell back<br/>and very often, they can be you know,</p>
+      <p begin="01:26:25.892" end="01:26:27.920">subversive stories, resistant stories.</p>
+      <p begin="01:26:28.196" end="01:26:31.128">- Teach those around you <br/>to look at the media critically.</p>
+      <p begin="01:26:31.291" end="01:26:36.325">- Well, one thing that I do with my kids, <br/>is I watch these shows with them,</p>
+      <p begin="01:26:36.325" end="01:26:40.305">I say, "Hey, did you notice <br/>there's only one female in that group?"</p>
+      <p begin="01:26:40.373" end="01:26:44.632">and, "What if that character <br/>had been a girl, instead?"</p>
+      <p begin="01:26:44.708" end="01:26:48.769">and, "Why is she wearing that when<br/>she's trying to rescue somebody?"</p>
+      <p begin="01:26:49.476" end="01:26:52.469">- Ask your school to start <br/>a media literacy course</p>
+      <p begin="01:26:52.469" end="01:26:54.289">focused on gender issues.</p>
+      <p begin="01:26:54.644" end="01:26:59.104">- We need media literacy as much I think, <br/>as we need to learn to read.</p>
+      <p begin="01:26:59.243" end="01:27:02.729">Our responses should be, "Whose <br/>perspectives are framing this story?"</p>
+      <p begin="01:27:02.967" end="01:27:05.856">"There are always more than <br/>two sides to every story."</p>
+      <p begin="01:27:06.220" end="01:27:08.241">"Are we being sold here?"</p>
+      <p begin="01:27:08.452" end="01:27:10.341">- Don't be afraid<br/>to challenge your friends</p>
+      <p begin="01:27:10.341" end="01:27:13.265">if you hear them saying <br/>derogatory things about women.</p>
+      <p begin="01:27:13.477" end="01:27:17.876">- King said it very eloquently, "The<br/>problem today is not the vitriolic words</p>
+      <p begin="01:27:17.876" end="01:27:19.782">and the evil actions<br/>and the bad people,</p>
+      <p begin="01:27:19.782" end="01:27:23.078">it's the appalling silencing <br/>and inaction of the good people."</p>
+      <p begin="01:27:23.275" end="01:27:26.299">- Find healthy role models<br/>and be a mentor to others.</p>
+      <p begin="01:27:26.991" end="01:27:30.670">- Encourage women to become leaders<br/>- and support them in the process.</p>
+      <p begin="01:27:31.023" end="01:27:35.055">- If we see women who we think<br/>would be excellent at any political job,</p>
+      <p begin="01:27:35.055" end="01:27:38.131">whether it's dog catchers, <br/>school board member,</p>
+      <p begin="01:27:38.131" end="01:27:42.108">or member of Congress, <br/>we need to make that known.</p>
+      <p begin="01:27:42.663" end="01:27:46.079">- "Whatever women do, they must do <br/>twice as well as a man</p>
+      <p begin="01:27:46.079" end="01:27:48.776">to be thought of as half as good.</p>
+      <p begin="01:27:48.968" end="01:27:51.841">Luckily, that's not too difficult."</p>
+      <p begin="01:27:53.662" end="01:27:56.379">$$ Miss Representation <br/>would not be possible</p>
+      <p begin="01:27:56.379" end="01:27:58.793">$$ if one woman had not<br/>initially believed in another.</p>
+      <p begin="01:27:59.086" end="01:28:02.604">$$ Thank you Regina for your trust<br/>in me and our team.</p>
+      <p begin="01:28:03.261" end="01:28:08.251">$$ May we all make empowering <br/>other women and girls a priority.</p>
+    </div>
+  </body>
+</tt>
