@@ -22,7 +22,7 @@
   </head>
 <body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
     <div>
-      <p begin="00:00:30.597" end="00:00:34.582">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:00:30.597" end="00:00:34.582"/>
       <p begin="00:00:47.142" end="00:00:50.384">$$ Het zesde jaar <br/>van de Aids Epidemie</p>
       <p begin="00:00:54.784" end="00:00:59.556">$$ Greenwich Village, New York City.<br/>Het Epicentrum.</p>
       <p begin="00:01:07.092" end="00:01:12.569">$$ Zonder medicijnen om Aids te genezen,<br/>is deze ziekte bijna 100% fataal.</p>
@@ -31,21 +31,21 @@
       <p begin="00:01:26.127" end="00:01:28.791">$$ Vechtend voor hun leven, nemen<br/>patienten en hun pleitbezorgers</p>
       <p begin="00:01:28.791" end="00:01:30.993">$$ de zaken in eigen handen.</p>
       <p begin="00:01:31.627" end="00:01:34.407">- Welkom bij ACT UP.<br/>Wij vormen de Aids Alliantie</p>
-      <p begin="00:01:34.407" end="00:01:36.638">- [samen] zodat we samen sterk staan.</p>
+      <p begin="00:01:34.407" end="00:01:36.638">- zodat we samen sterk staan.</p>
       <p begin="00:01:36.638" end="00:01:40.052">Verschillende onpartijdige groepen<br/>en individuelen verbonden in woede</p>
       <p begin="00:01:40.052" end="00:01:42.105">en vastberaden actie te ondernemen</p>
-      <p begin="00:01:42.105" end="00:01:44.130">- [samen] om de Aids crisis te stoppen.</p>
+      <p begin="00:01:42.105" end="00:01:44.130">- om de Aids crisis te stoppen.</p>
       <p begin="00:01:44.130" end="00:01:51.674">- Binnen 12 uur gaan we<br/>City Hall bezetten en overnemen</p>
-      <p begin="00:01:51.966" end="00:01:54.123">[Applaus]</p>
-      <p begin="00:01:54.123" end="00:01:55.843">[Publiek roept en schreeuwt]</p>
-      <p begin="00:01:55.843" end="00:01:57.034">- [Ed Koch] Ja.</p>
-      <p begin="00:01:57.111" end="00:01:59.280"><span tts:fontStyle="italic">- [journalist (M)] Burgemeester, in de</span><br/>verkiezingscampagne voor homostemmen is</p>
+      <p begin="00:01:51.966" end="00:01:54.123"/>
+      <p begin="00:01:54.123" end="00:01:55.843"/>
+      <p begin="00:01:55.843" end="00:01:57.034">- Ja.</p>
+      <p begin="00:01:57.111" end="00:01:59.280"><span tts:fontStyle="italic">- Burgemeester, in de</span><br/>verkiezingscampagne voor homostemmen is</p>
       <p begin="00:01:59.280" end="00:02:02.084">een beetje historische context gewenst<br/>in een verkiezingsjaar</p>
       <p begin="00:02:02.084" end="00:02:04.184">als het gaat om de Aids Crisis <br/>in New York</p>
       <p begin="00:02:04.184" end="00:02:06.238">Het was pas in 1983 dat u<br/>een ontmoeting had met mensen</p>
       <p begin="00:02:06.238" end="00:02:08.306">om iets te doen aan de aids-crisis.</p>
       <p begin="00:02:08.306" end="00:02:09.513">Hoe reageert u op deze vragen?</p>
-      <p begin="00:02:09.513" end="00:02:10.690">- [Ed] dat is een leugen.</p>
+      <p begin="00:02:09.513" end="00:02:10.690">- dat is een leugen.</p>
       <p begin="00:02:10.690" end="00:02:13.446">- Alstublieft, iedereen die denkt<br/>te kunnen worden gearresteerd,</p>
       <p begin="00:02:13.446" end="00:02:17.982"><span tts:fontStyle="italic">vul een support formulier in om te zorgen</span><br/>dat de support medewerker je kent</p>
       <p begin="00:02:18.028" end="00:02:20.235">en in welke groep je zit. OK ?</p>
@@ -53,10 +53,10 @@
       <p begin="00:02:25.894" end="00:02:28.897">en adviseert u ons om te vragen<br/>daar geplaatst te worden ?</p>
       <p begin="00:02:28.897" end="00:02:31.484">- Er is een homoafdeling en ik was daar</p>
       <p begin="00:02:31.484" end="00:02:33.834">het is er beter dan in de gewone afdeling<br/>neem dat maar van me aan.</p>
-      <p begin="00:02:33.834" end="00:02:35.000">- [Ed] Iemand anders? Ja?</p>
-      <p begin="00:02:35.000" end="00:02:38.663">- [journalist] In het verleden heeft u<br/>ACT UP als fascistisch omschreven, maar nu</p>
+      <p begin="00:02:33.834" end="00:02:35.000">- Iemand anders? Ja?</p>
+      <p begin="00:02:35.000" end="00:02:38.663">- In het verleden heeft u<br/>ACT UP als fascistisch omschreven, maar nu</p>
       <p begin="00:02:38.663" end="00:02:40.736">in het persbericht noemt u hen<br/>bezorgde burgers.</p>
-      <p begin="00:02:40.736" end="00:02:45.815"><span tts:fontStyle="italic">Ik vraag me af wat uw mening veranderde?</span><br/>- [Ed] Ik denk dat je beide kunt gebruiken</p>
+      <p begin="00:02:40.736" end="00:02:45.815"><span tts:fontStyle="italic">Ik vraag me af wat uw mening veranderde?</span><br/>- Ik denk dat je beide kunt gebruiken</p>
       <p begin="00:02:45.815" end="00:02:48.571">Fascisten kunnen bezorgde burgers zijn</p>
       <p begin="00:02:49.709" end="00:02:55.882">En ik geloof niet dat ze fascisten zijn,<br/>Ze gebruiken een fascistische tactiek</p>
       <p begin="00:02:55.882" end="00:03:00.336">- Laten we vanavond vieren<br/>dat het de laatste avond is</p>
@@ -64,21 +64,21 @@
       <p begin="00:03:02.646" end="00:03:06.284">dat de gemeenschappen die door<br/>deze epidemie zijn gedecimeerd,</p>
       <p begin="00:03:06.284" end="00:03:09.521">zo zwak zijn en onderling verdeeld</p>
       <p begin="00:03:09.521" end="00:03:12.205">dat hij door kan gaan met ons<br/>dit soort gelul te verkopen.</p>
-      <p begin="00:03:12.205" end="00:03:12.979">[lachen]</p>
+      <p begin="00:03:12.205" end="00:03:12.979"/>
       <p begin="00:03:13.042" end="00:03:15.723">Morgenvroeg zal hij<br/>de waarheid leren kennen</p>
-      <p begin="00:03:15.723" end="00:03:17.415">[applaus]</p>
-      <p begin="00:03:18.330" end="00:03:21.889">- [vrouwenstem] ACT UP, sta sterk<br/>morgenvroeg in City Hall</p>
-      <p begin="00:03:21.889" end="00:03:25.846">- [publiek] ACT UP, sta sterk<br/>morgenvroeg in City Hall</p>
+      <p begin="00:03:15.723" end="00:03:17.415"/>
+      <p begin="00:03:18.330" end="00:03:21.889">- ACT UP, sta sterk<br/>morgenvroeg in City Hall</p>
+      <p begin="00:03:21.889" end="00:03:25.846">- ACT UP, sta sterk<br/>morgenvroeg in City Hall</p>
       <p begin="00:03:25.846" end="00:03:29.692">ACT UP, sta sterk morgenvroeg in City Hall</p>
       <p begin="00:03:29.692" end="00:03:31.515">ACT UP, sta sterk</p>
-      <p begin="00:03:31.515" end="00:03:35.133">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:03:31.515" end="00:03:35.133"/>
       <p begin="00:03:39.728" end="00:03:41.784">$$ City Hall</p>
       <p begin="00:04:03.176" end="00:04:06.061">
-        <span tts:fontStyle="italic">- [journalist (m)] We praten met Jim Eigo</span>
+        <span tts:fontStyle="italic">- We praten met Jim Eigo</span>
       </p>
       <p begin="00:04:06.061" end="00:04:09.161"><span tts:fontStyle="italic">voor het Commitee</span><br/>Kwestiebehandeling van ACT UP.</p>
       <p begin="00:04:09.161" end="00:04:13.020">Jim, welke specifieke kwesties zijn het<br/>belangrijkste in deze demonstratieweek ?</p>
-      <p begin="00:04:13.020" end="00:04:16.390"><span tts:fontStyle="italic">- [Jim Eigo] De gemeentelijke</span><br/>ziekenhuizen zijn veel te ouderwets.</p>
+      <p begin="00:04:13.020" end="00:04:16.390"><span tts:fontStyle="italic">- De gemeentelijke</span><br/>ziekenhuizen zijn veel te ouderwets.</p>
       <p begin="00:04:16.390" end="00:04:19.309"><span tts:fontStyle="italic">Meer dan de helft van de</span><br/>met Aids gediagnosteerde patienten</p>
       <p begin="00:04:19.309" end="00:04:22.691"><span tts:fontStyle="italic">worden tegenwoordig gediagnosteerd</span><br/>op de eerste hulp centra van onze stad.</p>
       <p begin="00:04:22.691" end="00:04:24.826">Je moet vaak 4 dagen op<br/>een eerstehulp afdeling wachten</p>
@@ -90,15 +90,17 @@
       <p begin="00:04:37.528" end="00:04:40.835">En -- Ik bedoel, luister naar<br/>en kijk naar al onze mensen,</p>
       <p begin="00:04:40.835" end="00:04:42.487">het is toch prachtig</p>
       <p begin="00:04:42.487" end="00:04:44.363"><span tts:fontStyle="italic">en het is het waard om</span><br/>onszelf hiervoor in te zetten</p>
-      <p begin="00:04:44.363" end="00:04:46.576"><span tts:fontStyle="italic">- [Ann Northrop]</span><br/>Er is geen accurate diagnose.</p>
+      <p begin="00:04:44.363" end="00:04:46.576">
+        <span tts:fontStyle="italic">- Er is geen accurate diagnose.</span>
+      </p>
       <p begin="00:04:46.576" end="00:04:48.537"><span tts:fontStyle="italic">Er zijn stimuleringsmaatregelen</span><br/>in de stadsziekenhuizen</p>
       <p begin="00:04:48.537" end="00:04:50.560"><span tts:fontStyle="italic">om geen mensen met AIDS</span><br/>te diagnosticeren</p>
       <p begin="00:04:50.560" end="00:04:53.146">en om die reden<br/>worden mensen niet behandeld.</p>
       <p begin="00:04:53.146" end="00:04:56.556">We zijn woedend om de manier<br/>waarop de stad deze crisis behandelt.</p>
       <p begin="00:04:56.556" end="00:05:00.138">en we eisen dat Ed Koch Leiderschap toont</p>
       <p begin="00:05:00.138" end="00:05:02.720">en een noodtoestand afkondigt.</p>
-      <p begin="00:05:02.743" end="00:05:04.128">[Applaus]</p>
-      <p begin="00:05:04.128" end="00:05:07.360"><span tts:fontStyle="italic">- [Peter] Ga nu de straat op of wacht af,</span><br/>dat zijn de opties.</p>
+      <p begin="00:05:02.743" end="00:05:04.128"/>
+      <p begin="00:05:04.128" end="00:05:07.360"><span tts:fontStyle="italic">- Ga nu de straat op of wacht af,</span><br/>dat zijn de opties.</p>
       <p begin="00:05:07.360" end="00:05:08.987">&#201;&#233;n...Hij zegt ga.</p>
       <p begin="00:05:08.987" end="00:05:09.997">
         <span tts:fontStyle="italic">-Twee, NU.</span>
@@ -111,7 +113,7 @@
         <span tts:fontStyle="italic">Ga... NU--</span>
       </p>
       <p begin="00:05:13.478" end="00:05:15.239">
-        <span tts:fontStyle="italic">-[journalist] Ik sta hier met Larry Kremer</span>
+        <span tts:fontStyle="italic">- Ik sta hier met Larry Kremer</span>
       </p>
       <p begin="00:05:15.293" end="00:05:17.672"><span tts:fontStyle="italic">Wat probeert ACT UP vandaag</span><br/>aan Ed Koch te vertellen?</p>
       <p begin="00:05:17.672" end="00:05:19.890">- We sturen een boodschap<br/>aan de ambtenaren,</p>
@@ -119,29 +121,29 @@
       <p begin="00:05:23.638" end="00:05:25.538">en uiteraard alle AIDS kwesties.</p>
       <p begin="00:05:25.538" end="00:05:27.761"><span tts:fontStyle="italic">- Ik zou bijvoorbeeld wel meer cameras</span><br/>willen zien of iets dergelijks</p>
       <p begin="00:05:27.761" end="00:05:29.522">voor onze eigen bescherming.</p>
-      <p begin="00:05:29.522" end="00:05:30.867"><span tts:fontStyle="italic">- [mannenstem] en iedereen hier</span><br/>is bezorgd--</p>
-      <p begin="00:05:30.867" end="00:05:33.331"><span tts:fontStyle="italic">- [Larry] Mensen sterven elke dag.</span><br/>Vrienden worden ziek, elke dag.</p>
+      <p begin="00:05:29.522" end="00:05:30.867"><span tts:fontStyle="italic">- en iedereen hier</span><br/>is bezorgd--</p>
+      <p begin="00:05:30.867" end="00:05:33.331"><span tts:fontStyle="italic">- Mensen sterven elke dag.</span><br/>Vrienden worden ziek, elke dag.</p>
       <p begin="00:05:33.331" end="00:05:35.701">Ik niet, het is of je de sloot belandt.</p>
       <p begin="00:05:35.701" end="00:05:39.273"><span tts:fontStyle="italic">Er is zoveel woede in de gemeenschap,</span><br/>en die komt nu samen op een manier</p>
       <p begin="00:05:39.273" end="00:05:41.757">wat nooit eerder gebeurd is.</p>
       <p begin="00:05:41.757" end="00:05:43.564">- OK, op welke manier gaan we om<br/>met vriendinnen?</p>
       <p begin="00:05:43.564" end="00:05:45.448">Zo.... of zo....</p>
-      <p begin="00:05:45.448" end="00:05:47.494">[mensen praten]</p>
-      <p begin="00:05:49.517" end="00:05:51.480">[autos toeteren]<br/>[mensen roepen steeds harder]</p>
-      <p begin="00:05:51.480" end="00:05:54.344">[allemaal] GEZONDHEIDSZORG IS EEN RECHT<br/>GEZONDHEIDSZORG IS EEN RECHT</p>
+      <p begin="00:05:45.448" end="00:05:47.494"/>
+      <p begin="00:05:49.517" end="00:05:51.480"/>
+      <p begin="00:05:51.480" end="00:05:54.344"> GEZONDHEIDSZORG IS EEN RECHT<br/>GEZONDHEIDSZORG IS EEN RECHT</p>
       <p begin="00:05:54.436" end="00:05:58.052">GEZONDHEIDSZORG IS EEN RECHT<br/>GEZONDHEIDSZORG IS EEN RECHT</p>
       <p begin="00:05:58.052" end="00:06:01.543">GEZONDHEIDSZORG IS EEN RECHT<br/>GEZONDHEIDSZORG IS EEN RECHT</p>
       <p begin="00:06:01.543" end="00:06:05.261">GEZONDHEIDSZORG IS EEN RECHT<br/>GEZONDHEIDSZORG IS EEN RECHT.</p>
-      <p begin="00:06:05.304" end="00:06:07.280">- [politieagent spreekt]</p>
-      <p begin="00:06:07.295" end="00:06:11.724">[mensen schreeuwen]</p>
-      <p begin="00:06:14.549" end="00:06:16.789">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:06:46.585" end="00:06:49.724">[mensen schreeuwen]</p>
-      <p begin="00:06:49.823" end="00:06:52.849">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:06:05.304" end="00:06:07.280"/>
+      <p begin="00:06:07.295" end="00:06:11.724"/>
+      <p begin="00:06:14.549" end="00:06:16.789"/>
+      <p begin="00:06:46.585" end="00:06:49.724"/>
+      <p begin="00:06:49.823" end="00:06:52.849"/>
       <p begin="00:07:15.513" end="00:07:18.500">$$ Hoe overleef je een Pest.</p>
       <p begin="00:07:27.693" end="00:07:30.238">- I denk dat ik me op dit moment<br/>behoorlijk hopeloos voel.</p>
       <p begin="00:07:30.238" end="00:07:37.303">Ik denk dat de belangrijkste vraag waar ik<br/>mee worstel is hoe nu hoop te houden</p>
       <p begin="00:07:37.303" end="00:07:40.229">gezien het toenemende verlies.</p>
-      <p begin="00:07:40.659" end="00:07:43.456">- [David Barr] Ik weet het niet,<br/>het klinkt misschien wat afgezaagd</p>
+      <p begin="00:07:40.659" end="00:07:43.456">- Ik weet het niet,<br/>het klinkt misschien wat afgezaagd</p>
       <p begin="00:07:43.456" end="00:07:44.302">maar ik --</p>
       <p begin="00:07:47.101" end="00:07:50.876">hoe moeilijk het nu ook is voor ons,</p>
       <p begin="00:07:52.594" end="00:07:59.950">Ik wil leven. En ik houd van mijn vrienden<br/>en ik houd van mijn familie.</p>
@@ -150,7 +152,7 @@
       <p begin="00:08:09.174" end="00:08:10.811">
         <span tts:fontStyle="italic">- Dokters praktijk?</span>
       </p>
-      <p begin="00:08:10.811" end="00:08:12.371">- [in de telefoon sprekend]<br/>Hallo, dit is Peter Staley.</p>
+      <p begin="00:08:10.811" end="00:08:12.371">- Hallo, dit is Peter Staley.</p>
       <p begin="00:08:12.371" end="00:08:14.315">Het is alsof je in een oorlog leeft.</p>
       <p begin="00:08:14.315" end="00:08:17.891">Overal rondom me heen, gaan vrienden dood.</p>
       <p begin="00:08:18.016" end="00:08:21.668">En je bent bang voor je eigen leven<br/>alles op hetzelfde moment.</p>
@@ -170,11 +172,15 @@
       <p begin="00:08:48.707" end="00:08:56.623">om een uitweg te vinden en een behandeling<br/>om mijn leven te redden.</p>
       <p begin="00:08:59.392" end="00:09:04.375">En de regering deed weinig,<br/>zo kreeg ik snel in de gaten.</p>
       <p begin="00:09:09.255" end="00:09:14.485"><span tts:fontStyle="italic">Alles wat ik las gaf aan dat ik nog</span><br/>maximaal twee jaar te leven had.</p>
-      <p begin="00:09:16.639" end="00:09:19.951">[Schreeuwende mensen]</p>
+      <p begin="00:09:16.639" end="00:09:19.951"/>
       <p begin="00:09:20.690" end="00:09:22.878">$$ ACT UP's eerste protest 24 Maart 1987</p>
-      <p begin="00:09:22.878" end="00:09:24.734"><span tts:fontStyle="italic">- [mannenstem] WAT WILLEN WE?</span><br/>[mensenmassa] EEN BEHANDELING!</p>
-      <p begin="00:09:24.734" end="00:09:26.791"><span tts:fontStyle="italic">- [mannenstem] WANEER WILLEN WE DAT?</span><br/>[mensenmassa] NU!</p>
-      <p begin="00:09:26.791" end="00:09:32.223"><span tts:fontStyle="italic">- [Peter] Ik was op weg naar mijn werk en</span><br/>kreeg een folder over ACT UP en AIDS.</p>
+      <p begin="00:09:22.878" end="00:09:24.734">
+        <span tts:fontStyle="italic">- EEN BEHANDELING!</span>
+      </p>
+      <p begin="00:09:24.734" end="00:09:26.791">
+        <span tts:fontStyle="italic">- NU!</span>
+      </p>
+      <p begin="00:09:26.791" end="00:09:32.223"><span tts:fontStyle="italic">- Ik was op weg naar mijn werk en</span><br/>kreeg een folder over ACT UP en AIDS.</p>
       <p begin="00:09:32.284" end="00:09:36.490"><span tts:fontStyle="italic">Mijn mentor zegt: "Als je het mij vraagt,</span><br/>denk ik dat ze allemaal moeten sterven"</p>
       <p begin="00:09:36.490" end="00:09:38.511">
         <span tts:fontStyle="italic">"omdat ze hun kont hebben gebruikt."</span>
@@ -182,33 +188,33 @@
       <p begin="00:09:38.770" end="00:09:43.850"><span tts:fontStyle="italic">Ik was diep geschokt en ik ben daardoor</span><br/>de hele dag van slag geweest.</p>
       <p begin="00:09:46.726" end="00:09:49.562"><span tts:fontStyle="italic">Ik ben toen naar de eerstvolgende</span><br/>ACT UP meeting gegaan.</p>
       <p begin="00:09:49.675" end="00:09:53.132"><span tts:fontStyle="italic">Ze konden die onmiddellijke woede gewoon</span><br/>voelen en dingen gedaan krijgen.</p>
-      <p begin="00:09:53.132" end="00:09:55.702"><span tts:fontStyle="italic">- [vrouwenstem] We moeten hier</span><br/>toestemming voor krijgen....</p>
+      <p begin="00:09:53.132" end="00:09:55.702"><span tts:fontStyle="italic">- We moeten hier</span><br/>toestemming voor krijgen....</p>
       <p begin="00:09:55.702" end="00:09:59.208"><span tts:fontStyle="italic">Dit is een niet-gewelddadige,</span><br/>rustige kiss-in.</p>
       <p begin="00:09:59.208" end="00:10:02.117">We gaan hier niet weg<br/>voordat het bestuur ons tegemoet komt</p>
       <p begin="00:10:02.117" end="00:10:07.024">en ons vertelt dat Saint Vincent in een<br/>publiek statement bekend maakt</p>
       <p begin="00:10:07.024" end="00:10:09.274">dat ze homo-en lesbisch<br/>geweld veroordelen.</p>
-      <p begin="00:10:09.274" end="00:10:12.243">[mensen roepen en applaudiseren]</p>
+      <p begin="00:10:09.274" end="00:10:12.243"/>
       <p begin="00:10:15.282" end="00:10:17.289">- Iedereen VOOR?</p>
       <p begin="00:10:19.023" end="00:10:21.137">
         <span tts:fontStyle="italic">- Iemand TEGEN?</span>
       </p>
-      <p begin="00:10:21.384" end="00:10:23.078">[auto gaat voorbij]</p>
-      <p begin="00:10:24.366" end="00:10:27.003"><span tts:fontStyle="italic">- [mannenstem] Ze komen er aan.</span><br/>Je kunt het zien, daar..</p>
+      <p begin="00:10:21.384" end="00:10:23.078"/>
+      <p begin="00:10:24.366" end="00:10:27.003"><span tts:fontStyle="italic">- Ze komen er aan.</span><br/>Je kunt het zien, daar..</p>
       <p begin="00:10:27.225" end="00:10:29.939"><span tts:fontStyle="italic">Je hebt van ACT UP gehoord,</span><br/>je hebt onze pamfletten gezien.</p>
       <p begin="00:10:29.939" end="00:10:32.388">
         <span tts:fontStyle="italic">De kiss-in is vanavond.</span>
       </p>
       <p begin="00:10:32.396" end="00:10:34.249">
-        <span tts:fontStyle="italic">- [mannenstem] ACT UP, VECHT TERUG.</span>
+        <span tts:fontStyle="italic">- ACT UP, VECHT TERUG.</span>
       </p>
       <p begin="00:10:34.249" end="00:10:37.491">
         <span tts:fontStyle="italic">Pak ze aan, ACT UP. Woo, woo.</span>
       </p>
       <p begin="00:10:39.258" end="00:10:41.158">
-        <span tts:fontStyle="italic">- [mannenstem] I pak de camera wel.</span>
+        <span tts:fontStyle="italic">- I pak de camera wel.</span>
       </p>
-      <p begin="00:10:41.158" end="00:10:43.592"><span tts:fontStyle="italic">- [vrouw] Hebben jullie veiligheidsmensen</span><br/>wel eens mensen geslagen hier?</p>
-      <p begin="00:10:43.592" end="00:10:45.960">[mensen praten]</p>
+      <p begin="00:10:41.158" end="00:10:43.592"><span tts:fontStyle="italic">- Hebben jullie veiligheidsmensen</span><br/>wel eens mensen geslagen hier?</p>
+      <p begin="00:10:43.592" end="00:10:45.960"/>
       <p begin="00:10:52.656" end="00:10:55.662">-Leden van de reguliere media zijn hier<br/>buiten gezet, net als wij eerder</p>
       <p begin="00:10:55.662" end="00:10:59.407">maar Steve en ik zijn terug gekomen<br/>en we zullen je laten zien</p>
       <p begin="00:10:59.407" end="00:11:00.982">een exclusief verslag van binnen...</p>
@@ -228,7 +234,7 @@
       <p begin="00:11:23.763" end="00:11:26.021">Ik denk dat als je naar je werk gaat<br/>in Greenwich Village,</p>
       <p begin="00:11:26.021" end="00:11:29.421">je wel sensitiviteitstraining moet hebben<br/>gevolgd, want wij hebben het niet.</p>
       <p begin="00:11:29.421" end="00:11:31.891">- Ik wil maar met drie mensen praten,<br/>de rest vertrekt.</p>
-      <p begin="00:11:31.967" end="00:11:34.129">[mensen praten]</p>
+      <p begin="00:11:31.967" end="00:11:34.129"/>
       <p begin="00:11:34.874" end="00:11:37.051">- Het is onduidelijk hoe dit aan te pakken<br/>mijn eigen instinct zou zeggen,</p>
       <p begin="00:11:37.459" end="00:11:40.968">"We willen graag met jullie praten<br/>na de meeting, we gaan".</p>
       <p begin="00:11:41.283" end="00:11:43.832">Niet weggaan voordat de meeting<br/>plaats heeft gehad.</p>
@@ -243,10 +249,10 @@
       <p begin="00:11:55.727" end="00:11:58.662"><span tts:fontStyle="italic">terwijl hij met drie van ons</span><br/>in gesprek was,</p>
       <p begin="00:11:58.662" end="00:12:02.135"><span tts:fontStyle="italic">Gregg, Jerry en Neil daar in</span><br/>die openbare ruimte.</p>
       <p begin="00:12:02.196" end="00:12:06.388">En wij zouden blijven wachten<br/>op de uitkomst ervan.</p>
-      <p begin="00:12:07.589" end="00:12:11.236"><span tts:fontStyle="italic">- [Peter}Dus zei ik: Ik heb er genoeg van</span><br/>Hier ga ik aan kapot."</p>
+      <p begin="00:12:07.589" end="00:12:11.236"><span tts:fontStyle="italic">- Dus zei ik: Ik heb er genoeg van</span><br/>Hier ga ik aan kapot."</p>
       <p begin="00:12:11.236" end="00:12:17.555">Dus werd ik invalide en besloot om<br/>full-time AIDS activist te worden.</p>
-      <p begin="00:12:19.498" end="00:12:24.755">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:12:38.932" end="00:12:42.561"><span tts:fontStyle="italic">- [Dr.Starrett] Wat voor medicijnen</span><br/>hadden we in het begin?</p>
+      <p begin="00:12:19.498" end="00:12:24.755"/>
+      <p begin="00:12:38.932" end="00:12:42.561"><span tts:fontStyle="italic">- Wat voor medicijnen</span><br/>hadden we in het begin?</p>
       <p begin="00:12:42.569" end="00:12:44.793">
         <span tts:fontStyle="italic">We hadden niets.</span>
       </p>
@@ -273,18 +279,18 @@
       <p begin="00:14:04.820" end="00:14:06.812">$$ Verder heb ik alles al geprobeerd</p>
       <p begin="00:14:06.812" end="00:14:09.335">$$ - En als je je naam er aan verbindt.</p>
       <p begin="00:14:16.197" end="00:14:19.587">$$ - Heb je later<br/>nog een verhaal te vertellen</p>
-      <p begin="00:14:19.687" end="00:14:22.325">$$ - [man] Dat zullen we zeker.</p>
-      <p begin="00:14:24.026" end="00:14:27.560">- [man] OK, Iris Long is levensreddend</p>
+      <p begin="00:14:19.687" end="00:14:22.325">$$ - Dat zullen we zeker.</p>
+      <p begin="00:14:24.026" end="00:14:27.560">- OK, Iris Long is levensreddend</p>
       <p begin="00:14:29.197" end="00:14:33.106"><span tts:fontStyle="italic">- Ze kunnen het achterin niet horen,</span><br/>Als je wilt mag je het schreeuwen.</p>
-      <p begin="00:14:36.967" end="00:14:42.228">- [Iris] Dit is een rapport van de<br/>American Society of Microbiology,</p>
+      <p begin="00:14:36.967" end="00:14:42.228">- Dit is een rapport van de<br/>American Society of Microbiology,</p>
       <p begin="00:14:42.345" end="00:14:45.802">van een conferentie die ik heb bijgewoond<br/>in het einde van mei.</p>
       <p begin="00:14:45.802" end="00:14:47.425">
-        <span tts:fontStyle="italic">- [man schreeuwt] STILTE!</span>
+        <span tts:fontStyle="italic">- STILTE!</span>
       </p>
       <p begin="00:14:47.425" end="00:14:52.928">-Er werd over veel verschillende infecties<br/>gesproken op dit congres waaronder Aids,</p>
       <p begin="00:14:52.928" end="00:15:00.069">en het was verpletterend te weten hoe<br/>veel pathogenen, bacterieen, schimmels,</p>
       <p begin="00:15:01.575" end="00:15:08.929">protozonen en virussen er zijn<br/>die je heel ziek kunnen maken.</p>
-      <p begin="00:15:11.257" end="00:15:15.172"><span tts:fontStyle="italic">- [Larry] Op een dag verscheen</span><br/>deze huisvrouw op het toneel.</p>
+      <p begin="00:15:11.257" end="00:15:15.172"><span tts:fontStyle="italic">- Op een dag verscheen</span><br/>deze huisvrouw op het toneel.</p>
       <p begin="00:15:15.172" end="00:15:17.940">
         <span tts:fontStyle="italic">die wetenschapper was en nog steeds is</span>
       </p>
@@ -305,10 +311,10 @@
       <p begin="00:16:11.037" end="00:16:11.996">
         <span tts:fontStyle="italic">T en D. </span>
       </p>
-      <p begin="00:16:11.996" end="00:16:16.417">- [Garance] ..iets anders.<br/>Er is zo veel --</p>
+      <p begin="00:16:11.996" end="00:16:16.417">- ..iets anders.<br/>Er is zo veel --</p>
       <p begin="00:16:16.502" end="00:16:19.442"><span tts:fontStyle="italic">- het was een mallotige activiteit</span><br/>voor een stel gasten uit East Village</p>
       <p begin="00:16:19.442" end="00:16:24.220">hippies en artiesten samen<br/>medische artikelen bestuderend.</p>
-      <p begin="00:16:24.220" end="00:16:25.100">- [mannen praten]</p>
+      <p begin="00:16:24.220" end="00:16:25.100"/>
       <p begin="00:16:25.100" end="00:16:27.759"><span tts:fontStyle="italic">- Wij noemden het de Science Club,</span><br/>of het een theekransje was,</p>
       <p begin="00:16:27.759" end="00:16:29.677">- Er zijn geen medicijnen...</p>
       <p begin="00:16:29.677" end="00:16:34.794">
@@ -325,16 +331,16 @@
       <p begin="00:16:52.076" end="00:16:56.243">Zoals OI, de vensters van OI, OK?<br/>Dus schreef ik het hier kort op.</p>
       <p begin="00:16:56.412" end="00:16:59.887"><span tts:fontStyle="italic">Slechts 17% van de mensen</span><br/>in de testfase kregen medicijnen</p>
       <p begin="00:16:59.887" end="00:17:01.850">voor opportunistische infecties<br/>of kanker.</p>
-      <p begin="00:17:01.850" end="00:17:04.269">- [Garance] Mark was niet<br/>zo'n stevige vlezige jongen.</p>
+      <p begin="00:17:01.850" end="00:17:04.269">- Mark was niet<br/>zo'n stevige vlezige jongen.</p>
       <p begin="00:17:04.269" end="00:17:08.338"><span tts:fontStyle="italic">Hij was super intelligent,</span><br/>en rookte non-stop.</p>
-      <p begin="00:17:08.338" end="00:17:13.664"><span tts:fontStyle="italic">- [man] Mark nam alles snel in zich op,</span><br/>als osmose, alles.</p>
+      <p begin="00:17:08.338" end="00:17:13.664"><span tts:fontStyle="italic">- Mark nam alles snel in zich op,</span><br/>als osmose, alles.</p>
       <p begin="00:17:13.664" end="00:17:20.319"><span tts:fontStyle="italic">en binnen een paar weken had hij een</span><br/>hele lijst van Aids behandelingstermen</p>
       <p begin="00:17:20.319" end="00:17:23.159">en we verspreidden die in onze meeting.</p>
-      <p begin="00:17:23.159" end="00:17:24.834">[mensen praten]</p>
+      <p begin="00:17:23.159" end="00:17:24.834"/>
       <p begin="00:17:26.595" end="00:17:30.638">
         <span tts:textDecoration="underline">- En dat is door Tom Dwaine betreffende--</span>
       </p>
-      <p begin="00:17:30.638" end="00:17:31.866">[Applaus]</p>
+      <p begin="00:17:30.638" end="00:17:31.866"/>
       <p begin="00:17:31.866" end="00:17:33.042">- Dit is Bernhard Braderman.</p>
       <p begin="00:17:33.057" end="00:17:36.387">die gevaar loopt uit zijn woning<br/>te worden gezet dat hij jarenlang deelde</p>
       <p begin="00:17:36.387" end="00:17:40.329">met zijn levenspartner.<br/>Zijn parner overleed en de huurbaas</p>
@@ -342,7 +348,7 @@
       <p begin="00:17:46.229" end="00:17:47.807">
         <span tts:fontStyle="italic">- Wat is het adres van de huisbaas? </span>
       </p>
-      <p begin="00:17:47.807" end="00:17:48.714">[publiek lacht]</p>
+      <p begin="00:17:47.807" end="00:17:48.714"/>
       <p begin="00:17:48.714" end="00:17:50.514">
         <span tts:fontStyle="italic">We vinden het wel.</span>
       </p>
@@ -350,14 +356,14 @@
       <p begin="00:17:53.438" end="00:17:55.624">Laten we zorgen dat onze stemmen<br/>gehoord worden in New York</p>
       <p begin="00:17:55.624" end="00:17:57.907">om de huizen te beschermen<br/>van PWA's</p>
       <p begin="00:17:57.907" end="00:18:01.082">en andere niet tradionele families.<br/>Dank u wel.</p>
-      <p begin="00:18:01.082" end="00:18:02.743">[Applaus]</p>
-      <p begin="00:18:11.771" end="00:18:14.515"><span tts:fontStyle="italic">- [Bob] Ik wilde graag wat zeggen</span><br/>over wat er zojuist gebeurd is?</p>
+      <p begin="00:18:01.082" end="00:18:02.743"/>
+      <p begin="00:18:11.771" end="00:18:14.515"><span tts:fontStyle="italic">- Ik wilde graag wat zeggen</span><br/>over wat er zojuist gebeurd is?</p>
       <p begin="00:18:14.515" end="00:18:18.878">Ik realiseer me dat we niet alles voor hem<br/>deden en we niet effectief zijn geweest,</p>
       <p begin="00:18:18.878" end="00:18:21.612">en we waren niet sterk,<br/>maar dat zullen we worden.</p>
       <p begin="00:18:21.759" end="00:18:24.161">Het is inspirerend te weten<br/>hoe sterk deze kamer is</p>
       <p begin="00:18:24.161" end="00:18:26.625">potentieel beschikbaar<br/>voor ieder van ons.</p>
-      <p begin="00:18:26.625" end="00:18:28.255">[applaus]</p>
-      <p begin="00:18:28.566" end="00:18:30.379">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:18:26.625" end="00:18:28.255"/>
+      <p begin="00:18:28.566" end="00:18:30.379"/>
       <p begin="00:18:38.768" end="00:18:39.629">-Wat?</p>
       <p begin="00:18:40.823" end="00:18:43.704">Hoe gaat het?<br/>Is het zo goed als van pappa, of beter?</p>
       <p begin="00:18:43.959" end="00:18:46.845">- Die van jou is beter, mamma. yeah!</p>
@@ -365,10 +371,10 @@
         <span tts:fontStyle="italic">- wil je dat pappa het probeert?</span>
       </p>
       <p begin="00:18:49.165" end="00:18:50.928">Klaar? - ja.</p>
-      <p begin="00:18:51.289" end="00:18:53.103">[lachen]</p>
-      <p begin="00:18:55.457" end="00:18:58.497">- Dada heel goed. [lachen]</p>
+      <p begin="00:18:51.289" end="00:18:53.103"/>
+      <p begin="00:18:55.457" end="00:18:58.497">- Dada heel goed. </p>
       <p begin="00:19:00.462" end="00:19:02.884">- Een, Twee, Drie.</p>
-      <p begin="00:19:02.884" end="00:19:07.113"><span tts:fontStyle="italic">- [man] Ik weet dat het spottend klinkt</span><br/>gezien het eindigde in echtscheiding.</p>
+      <p begin="00:19:02.884" end="00:19:07.113"><span tts:fontStyle="italic">- Ik weet dat het spottend klinkt</span><br/>gezien het eindigde in echtscheiding.</p>
       <p begin="00:19:07.174" end="00:19:09.570"><span tts:fontStyle="italic">Maar ik denk dat het eerlijk is</span><br/>om te zeggen,</p>
       <p begin="00:19:09.570" end="00:19:13.780"><span tts:fontStyle="italic">het is de enige echte liefde</span><br/>in mijn leven.</p>
       <p begin="00:19:19.994" end="00:19:22.415">Ik vertelde het op mijn 40e.</p>
@@ -379,19 +385,19 @@
       <p begin="00:19:33.133" end="00:19:36.327">die veilg autorijden,<br/>die geen veilige sex hebben?</p>
       <p begin="00:19:36.606" end="00:19:40.662">volgens mij is het antwoord dat de<br/>samenleving mensen niet negeert</p>
       <p begin="00:19:40.662" end="00:19:43.365">en dood laat gaan, omdat ze<br/>iets menselijks gedaan hebben.</p>
-      <p begin="00:19:47.090" end="00:19:49.342">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:19:53.029" end="00:19:55.880">- [journalist] Voor de eerste keer heeft<br/>de regering recepten goedgekeurd</p>
+      <p begin="00:19:47.090" end="00:19:49.342"/>
+      <p begin="00:19:53.029" end="00:19:55.880">- Voor de eerste keer heeft<br/>de regering recepten goedgekeurd</p>
       <p begin="00:19:55.880" end="00:19:57.865">voor een medicijn<br/>om AIDS te behandelen.</p>
       <p begin="00:19:57.865" end="00:20:00.854">Het medicijn, AZT,<br/>geeft geen genezing voor de ziekte,</p>
       <p begin="00:20:00.854" end="00:20:03.832">maar het verlengd het leven<br/>van sommige Aids slachtoffers.</p>
-      <p begin="00:20:03.832" end="00:20:07.140"><span tts:fontStyle="italic">- [journalist] Het is het enige</span><br/>goedgekeurde Aids medicijn in Amerika.</p>
+      <p begin="00:20:03.832" end="00:20:07.140"><span tts:fontStyle="italic">- Het is het enige</span><br/>goedgekeurde Aids medicijn in Amerika.</p>
       <p begin="00:20:07.224" end="00:20:12.047"><span tts:fontStyle="italic">Maar zelfs dit veelbelovende medicijn,</span><br/>is de bron van frustratie en woede.</p>
       <p begin="00:20:12.047" end="00:20:17.244"><span tts:fontStyle="italic">Met $ 10.000 per jaar per patient,</span><br/>is het belemmerend duur voor de meesten,</p>
       <p begin="00:20:17.244" end="00:20:19.553">
         <span tts:fontStyle="italic">en niet overal verkrijgbaar.</span>
       </p>
-      <p begin="00:20:19.553" end="00:20:22.414">[schreeuwende mensen]</p>
-      <p begin="00:20:23.722" end="00:20:26.576"><span tts:fontStyle="italic">- [Peter] AZT is het duurste medicijn</span><br/>in de geschiedenis.</p>
+      <p begin="00:20:19.553" end="00:20:22.414"/>
+      <p begin="00:20:23.722" end="00:20:26.576"><span tts:fontStyle="italic">- AZT is het duurste medicijn</span><br/>in de geschiedenis.</p>
       <p begin="00:20:26.576" end="00:20:28.813">
         <span tts:fontStyle="italic">Ze rekenen $ 10.000 per jaar. </span>
       </p>
@@ -404,8 +410,8 @@
       <p begin="00:20:50.979" end="00:20:53.610">Dat is waarom we vandaag deden<br/>wat we gedaan hebben.</p>
       <p begin="00:20:53.912" end="00:20:59.913">En als ze niet beginnen te luisteren naar<br/>mijn -- onze gemeenschap,</p>
       <p begin="00:20:59.913" end="00:21:02.708">de Aids gemeenschap,<br/>dan gaan we terug.</p>
-      <p begin="00:21:02.708" end="00:21:05.485">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:21:46.593" end="00:21:48.821"><span tts:fontStyle="italic">- [Dr. Starrett] Een van de</span><br/>allerslechtste dingen was</p>
+      <p begin="00:21:02.708" end="00:21:05.485"/>
+      <p begin="00:21:46.593" end="00:21:48.821"><span tts:fontStyle="italic">- Een van de</span><br/>allerslechtste dingen was</p>
       <p begin="00:21:48.821" end="00:21:52.635">toen mensen in de ziekenhuizen<br/>dood gingen.</p>
       <p begin="00:21:52.635" end="00:21:56.050">Ze gebruikten zwarte vuilniszakken<br/>waar ze hen in stopten.</p>
       <p begin="00:21:58.785" end="00:21:59.923">Het was ...</p>
@@ -415,7 +421,7 @@
       <p begin="00:22:19.163" end="00:22:24.617">wat vriendelijkheid en ondersteuning,<br/>daar hadden ze in elk geval recht op.</p>
       <p begin="00:22:24.940" end="00:22:32.676">Zelfs dat werd geweigerd, weet je,<br/>door de authoriteiten en</p>
       <p begin="00:22:32.676" end="00:22:36.443">organisatieregels van instituten,<br/>het was verschrikkelijk.</p>
-      <p begin="00:22:37.357" end="00:22:41.433">- [nieuws] Het is het meest afschuwelijke<br/>medische mysterie van deze tijd.</p>
+      <p begin="00:22:37.357" end="00:22:41.433">- Het is het meest afschuwelijke<br/>medische mysterie van deze tijd.</p>
       <p begin="00:22:41.433" end="00:22:46.582"><span tts:fontStyle="italic">Aids slachtoffers moeten het doen met</span><br/>het trauma van beiden: patient en paria.</p>
       <p begin="00:22:46.582" end="00:22:51.623">- Ik haat het gebruik van het woord 'homo'<br/>als het om sodomie gaat.</p>
       <p begin="00:22:52.221" end="00:22:57.441">Er is niets gay-achtig aan deze mensen.<br/>Het aangaan van ongelooflijk offensief</p>
@@ -429,7 +435,7 @@
       <p begin="00:23:25.623" end="00:23:27.706">hebben we geleerd onze<br/>eigen klinisch medicus te zijn,</p>
       <p begin="00:23:27.706" end="00:23:31.619"><span tts:fontStyle="italic">onderzoekers, lobby-isten,</span><br/>medicijnsmokkelaars en apothekers.</p>
       <p begin="00:23:31.619" end="00:23:35.708"><span tts:fontStyle="italic">We hebben onze eigen bibliotheken,</span><br/>kranten, apotheken en laboratoria.</p>
-      <p begin="00:23:35.708" end="00:23:39.207"><span tts:fontStyle="italic">- [Garance] Sommige beschikbare medicijnen</span><br/>waren niet effectief.</p>
+      <p begin="00:23:35.708" end="00:23:39.207"><span tts:fontStyle="italic">- Sommige beschikbare medicijnen</span><br/>waren niet effectief.</p>
       <p begin="00:23:39.207" end="00:23:41.584"><span tts:fontStyle="italic">Ze zaten in de categorie die we:</span><br/>"What the hell-drugs" noemden,</p>
       <p begin="00:23:41.584" end="00:23:44.360"><span tts:fontStyle="italic">maar, eerlijk gezegd, er waren bewijzen</span><br/>dat ze nuttig zouden kunnen zijn.</p>
       <p begin="00:23:44.360" end="00:23:45.936"><span tts:fontStyle="italic">Het is onwaarschijnlijk dat</span><br/>ze schadelijk zijn.</p>
@@ -450,7 +456,7 @@
       <p begin="00:24:06.509" end="00:24:11.744">- We helpen mensen medicijnen importeren<br/>die hier niet goedgekeurd zijn.</p>
       <p begin="00:24:11.744" end="00:24:15.864">- Peptide T, albendazole,<br/>oral amphotericin-B,</p>
       <p begin="00:24:16.462" end="00:24:21.135">en de hele verscheidenheid aan dingen<br/>om je verzorging plezierig te maken</p>
-      <p begin="00:24:21.488" end="00:24:25.606">Tussen haakjes, niets werkt echt.<br/>[gelach] zet dat er ook maar in.</p>
+      <p begin="00:24:21.488" end="00:24:25.606">Tussen haakjes, niets werkt echt.<br/>zet dat er ook maar in.</p>
       <p begin="00:24:26.329" end="00:24:30.191">- Waar mensen met Aids<br/>het meest over nadenken is,</p>
       <p begin="00:24:30.191" end="00:24:34.014">"Oh medicijnen, hoe krijg ik die<br/>buiten de markt om? hoe kan ik .."</p>
       <p begin="00:24:34.198" end="00:24:36.418">"Zullen we ooit een zwarte markt krijgen<br/>voor dit medicijn?"</p>
@@ -479,38 +485,38 @@
       <p begin="00:25:49.872" end="00:25:53.988">En alleen de FDA heeft de kracht<br/>onder de geldende wetten en regels</p>
       <p begin="00:25:53.988" end="00:25:56.917">om medicijnen toe te laten die we nu<br/>toegelaten willen hebben.</p>
       <p begin="00:25:56.977" end="00:25:58.208"><span tts:fontStyle="italic">Hoe is dat?</span><br/>- verbazingwekkend</p>
-      <p begin="00:25:58.374" end="00:26:00.035">[mensen schreeuwen samen]</p>
+      <p begin="00:25:58.374" end="00:26:00.035"/>
       <p begin="00:26:00.357" end="00:26:01.697">
         <span tts:fontStyle="italic">AZT IS NIET GENOEG!</span>
       </p>
       <p begin="00:26:02.514" end="00:26:11.978"><span tts:fontStyle="italic">GEEF ONS AL DIE ANDERE SPULLEN</span><br/>AZT IS NIET GENOEG</p>
-      <p begin="00:26:11.978" end="00:26:16.177"><span tts:fontStyle="italic">- [Vito] Het duurt 9 maanden om dit</span><br/>medicijn te testen in Europa, in Belgie</p>
+      <p begin="00:26:11.978" end="00:26:16.177"><span tts:fontStyle="italic">- Het duurt 9 maanden om dit</span><br/>medicijn te testen in Europa, in Belgie</p>
       <p begin="00:26:16.177" end="00:26:21.252"><span tts:fontStyle="italic">in Frankrijk, Duitsland, Engeland.</span><br/>We vragen de FDA niet om</p>
       <p begin="00:26:21.252" end="00:26:25.325"><span tts:fontStyle="italic">gevaarlijke medicijnen vrij te geven</span><br/>zonder veiligheid of werkzaamheid</p>
       <p begin="00:26:25.425" end="00:26:29.791"><span tts:fontStyle="italic">We vragen de FDA alleen</span><br/>om het sneller te doen.</p>
-      <p begin="00:26:30.092" end="00:26:33.041">[mensen schreeuwen]</p>
+      <p begin="00:26:30.092" end="00:26:33.041"/>
       <p begin="00:26:33.141" end="00:26:37.996">- Dextran sulfaat te koop. "Er is hier<br/>geen Dextran, het is binnen te krijgen."</p>
       <p begin="00:26:39.305" end="00:26:42.572">- ...de DFA, maar we verkopen het<br/>hoe dan ook.</p>
       <p begin="00:26:42.572" end="00:26:46.573">- Drie dollar voor Dextran sulfaat.<br/>Drie dollar!</p>
-      <p begin="00:26:46.573" end="00:26:51.760">[mensen scanderen] Geef die medicijnen!<br/>Geef ze de medicijnen nu vrij!</p>
-      <p begin="00:26:51.890" end="00:26:54.878">[mensen scanderen] Aan het werk!<br/>Ga aan het werk!</p>
-      <p begin="00:26:54.878" end="00:27:00.216">[mensen scanderen] Schuldig!<br/>Schuldig! Schuldig!</p>
-      <p begin="00:27:04.478" end="00:27:12.355">[mensen scanderen] Neem de<br/>controle in eigen hand</p>
-      <p begin="00:27:22.800" end="00:27:23.600">[mensen scanderen] ACT UP!<br/>VECHT TERUG! VECHT TEGEN AIDS!</p>
-      <p begin="00:27:23.600" end="00:27:24.600">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:28:02.531" end="00:28:04.828"><span tts:fontStyle="italic">- [man] We hebben geen idee</span><br/>waar we heen gaan.</p>
+      <p begin="00:26:46.573" end="00:26:51.760"> Geef die medicijnen!<br/>Geef ze de medicijnen nu vrij!</p>
+      <p begin="00:26:51.890" end="00:26:54.878"> Aan het werk!<br/>Ga aan het werk!</p>
+      <p begin="00:26:54.878" end="00:27:00.216"> Schuldig!<br/>Schuldig! Schuldig!</p>
+      <p begin="00:27:04.478" end="00:27:12.355"> Neem de<br/>controle in eigen hand</p>
+      <p begin="00:27:22.800" end="00:27:23.600"> ACT UP!<br/>VECHT TERUG! VECHT TEGEN AIDS!</p>
+      <p begin="00:27:23.600" end="00:27:24.600"/>
+      <p begin="00:28:02.531" end="00:28:04.828"><span tts:fontStyle="italic">- We hebben geen idee</span><br/>waar we heen gaan.</p>
       <p begin="00:28:04.828" end="00:28:08.367">We zijn hier omdat de regering de bronnen<br/>heeft om met de Aids epidemie om te gaan</p>
       <p begin="00:28:08.367" end="00:28:10.861">en ze doen het niet<br/>als we ze niet dwingen</p>
-      <p begin="00:28:10.861" end="00:28:12.258"><span tts:fontStyle="italic">- [nieuws] Er zijn live beelden</span><br/>vanuit Rockville, waar</p>
+      <p begin="00:28:10.861" end="00:28:12.258"><span tts:fontStyle="italic">- Er zijn live beelden</span><br/>vanuit Rockville, waar</p>
       <p begin="00:28:12.535" end="00:28:15.271">*het massieve protest heviger wordt,<br/>Roger...*</p>
-      <p begin="00:28:15.271" end="00:28:17.715"><span tts:fontStyle="italic">- [Roger] Nou Jim, het wordt bestempeld</span><br/>als een van Montgomery's County's</p>
+      <p begin="00:28:15.271" end="00:28:17.715"><span tts:fontStyle="italic">- Nou Jim, het wordt bestempeld</span><br/>als een van Montgomery's County's</p>
       <p begin="00:28:17.715" end="00:28:20.969"><span tts:fontStyle="italic">de grootste demontratie van de</span><br/>laatste tijd en het ging probleemloos.</p>
       <p begin="00:28:20.969" end="00:28:24.808">185 gearresteerd, toen een coalitie<br/>van homobewegingen ...</p>
       <p begin="00:28:24.808" end="00:28:27.093">naar Rockville kwamen<br/>om de FDA te sluiten.</p>
-      <p begin="00:28:29.963" end="00:28:34.186"><span tts:fontStyle="italic">- [TV bericht] Vanavond, vanuit Washington</span><br/>Crossfire: Tegen Alle Verwachtingen In.</p>
+      <p begin="00:28:29.963" end="00:28:34.186"><span tts:fontStyle="italic">- Vanavond, vanuit Washington</span><br/>Crossfire: Tegen Alle Verwachtingen In.</p>
       <p begin="00:28:34.186" end="00:28:38.280"><span tts:fontStyle="italic">Aan de linkerkant Tom Braden,</span><br/>rechts Pat Buchanan.</p>
       <p begin="00:28:38.280" end="00:28:42.785"><span tts:fontStyle="italic">In Crossfire, Peter Staley van de New York</span><br/>Aids Coalition om de macht los te laten.</p>
-      <p begin="00:28:42.785" end="00:28:47.899">- [Tom] Peter Staley, Jij hebt Aids<br/>en dat spijt me,</p>
+      <p begin="00:28:42.785" end="00:28:47.899">- Peter Staley, Jij hebt Aids<br/>en dat spijt me,</p>
       <p begin="00:28:48.507" end="00:28:53.084">maar denk je niet dat de FDA<br/>de verantwoordelijkheid heeft</p>
       <p begin="00:28:53.084" end="00:28:59.337">om mensen zoals jij geen<br/>kwakzalversmiddelen te laten gebruiken</p>
       <p begin="00:29:00.093" end="00:29:04.454">die vaker meer kwaad doen dan goed?</p>
@@ -534,14 +540,14 @@
       <p begin="00:30:15.807" end="00:30:19.504">- Wat zou je willen innemen dat je--<br/>- Ik zou graag op legale manier</p>
       <p begin="00:30:21.062" end="00:30:22.620">Dextran Sulfaat willen gebruiken,<br/>ik gebruik het illegaal nu.</p>
       <p begin="00:30:22.620" end="00:30:24.427"><span tts:fontStyle="italic">- Hoe kan u dat schaden?</span><br/>- Waarom niet, Mr Braden?</p>
-      <p begin="00:30:24.427" end="00:30:28.077">- [Tom] Omdat ik, net als u,<br/>niets weet van Dextran Sulfaat..</p>
+      <p begin="00:30:24.427" end="00:30:28.077">- Omdat ik, net als u,<br/>niets weet van Dextran Sulfaat..</p>
       <p begin="00:30:28.077" end="00:30:30.416">- Wel, ik vertel je dit: het is in Japan<br/>een zonder recept verkrijgbaar medicijn</p>
-      <p begin="00:30:30.416" end="00:30:33.021"><span tts:fontStyle="italic">en al meer dan 20 jaar, zonder recept.</span><br/>- [Pat] Zonder recpet in Japan?</p>
+      <p begin="00:30:30.416" end="00:30:33.021"><span tts:fontStyle="italic">en al meer dan 20 jaar, zonder recept.</span><br/>- Zonder recpet in Japan?</p>
       <p begin="00:30:33.021" end="00:30:33.834">- Ja</p>
-      <p begin="00:30:33.834" end="00:30:35.988"><span tts:fontStyle="italic">- [Tom] Maar als de FDA zegt --</span><br/>[Pat] Mr.Staley --</p>
+      <p begin="00:30:33.834" end="00:30:35.988"><span tts:fontStyle="italic">- Maar als de FDA zegt --</span><br/>Mr.Staley --</p>
       <p begin="00:30:35.988" end="00:30:37.795">- Ik vraag alleen maar<br/>dat ze worden toegelaten als ..</p>
       <p begin="00:30:37.795" end="00:30:42.221">er een minimaal positief effect is,<br/>geen volledige test.</p>
-      <p begin="00:30:42.221" end="00:30:46.062"><span tts:fontStyle="italic">- [Pat] --neem er een paar.</span><br/>Jij hebt de rose driehoek op je shirt,</p>
+      <p begin="00:30:42.221" end="00:30:46.062"><span tts:fontStyle="italic">- --neem er een paar.</span><br/>Jij hebt de rose driehoek op je shirt,</p>
       <p begin="00:30:46.354" end="00:30:48.306">Ik ga er daarmee vanuit<br/>dat je homosexueel bent.</p>
       <p begin="00:30:48.306" end="00:30:49.057">- Ja.</p>
       <p begin="00:30:49.057" end="00:30:50.887"><span tts:fontStyle="italic">- Als je in de camera wilt kijken,</span><br/>wat zou je kinderen willen vertellen,</p>
@@ -549,7 +555,7 @@
       <p begin="00:30:53.137" end="00:30:56.249">die ook homosexuele neigingen heeft</p>
       <p begin="00:30:56.249" end="00:30:58.830">wat zou je hem willen zeggen als je<br/>hem een lang leven zou wensen</p>
       <p begin="00:30:58.830" end="00:31:02.146">- Gebruik een condoom, en om verder<br/>ook een glijmiddel te gebruiken,</p>
-      <p begin="00:31:02.146" end="00:31:06.357"><span tts:fontStyle="italic">dat heeft het medicijn --</span><br/>- [Pat] Eigenlijk is 't Russische Roulette</p>
+      <p begin="00:31:02.146" end="00:31:06.357"><span tts:fontStyle="italic">dat heeft het medicijn --</span><br/>- Eigenlijk is 't Russische Roulette</p>
       <p begin="00:31:06.357" end="00:31:09.889">- Het is niet Russische Roulette. Het is<br/>pas Russische Roulette om mensen</p>
       <p begin="00:31:09.889" end="00:31:14.130">deze informatie te onthouden als de natuur<br/>dicteert dat ze er voor uit komen</p>
       <p begin="00:31:14.130" end="00:31:16.137">en ze sex hebben.<br/>- Bedoel je dat celibaat onmogelijk is?</p>
@@ -561,18 +567,18 @@
       <p begin="00:31:29.715" end="00:31:31.568">- Wel, ik denk dat-- wel.</p>
       <p begin="00:31:31.568" end="00:31:33.869">Dank je hartelijk Peter Staley, bedankt<br/>voor het naar de studio komen,</p>
       <p begin="00:31:33.869" end="00:31:36.033">Mr Bradenen ik zijn zo terug</p>
-      <p begin="00:31:36.033" end="00:31:38.652">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:31:39.602" end="00:31:44.464"><span tts:fontStyle="italic">- [mannenstem] Een van de dingen</span><br/>die we wilden was een medicijn dat je</p>
+      <p begin="00:31:36.033" end="00:31:38.652"/>
+      <p begin="00:31:39.602" end="00:31:44.464"><span tts:fontStyle="italic">- Een van de dingen</span><br/>die we wilden was een medicijn dat je</p>
       <p begin="00:31:44.464" end="00:31:48.805">aan mensen kon geven met<br/>cytomegalovirus en ontwikkelde AIDS</p>
       <p begin="00:31:48.805" end="00:31:53.301">omdat mensen, die beiden hadden,<br/>blind dreigden te worden.</p>
       <p begin="00:31:53.301" end="00:31:55.551">
         <span tts:fontStyle="italic">het heette DHPG</span>
       </p>
-      <p begin="00:31:55.551" end="00:32:00.646">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:31:55.551" end="00:32:00.646"/>
       <p begin="00:32:25.245" end="00:32:28.265"><span tts:fontStyle="italic">- Het leek wat op AZT,</span><br/>het was erg giftig,</p>
       <p begin="00:32:28.265" end="00:32:32.010"><span tts:fontStyle="italic">maar het was bekend dat het werkte,</span><br/>omdat 6000 mensen het gebruikten</p>
       <p begin="00:32:32.010" end="00:32:36.754"><span tts:fontStyle="italic">of hadden gebruikt,</span><br/>maar nooit in een medische proef.</p>
-      <p begin="00:32:37.449" end="00:32:41.479">[mensen roepen]</p>
+      <p begin="00:32:37.449" end="00:32:41.479"/>
       <p begin="00:32:41.795" end="00:32:45.604">- We zijn hier met Jim Eigo van ACT UP,<br/>en er is hier in Bethesda een protest</p>
       <p begin="00:32:45.604" end="00:32:49.194">over het medicijn DHPG.<br/>Wat is er aan de hand?</p>
       <p begin="00:32:49.194" end="00:32:52.077">- Wel, dit is de tweede meeting<br/>van de Bush commissie om</p>
@@ -589,31 +595,31 @@
         <span tts:fontStyle="italic">- Daar ga ik van uit.</span>
       </p>
       <p begin="00:33:21.173" end="00:33:25.185">
-        <span tts:fontStyle="italic">- [mensen schreeuwen] Wat met DHGP?</span>
+        <span tts:fontStyle="italic">- Wat met DHGP?</span>
       </p>
       <p begin="00:33:25.185" end="00:33:27.093">- Zonder de objectieve data,</p>
       <p begin="00:33:27.093" end="00:33:32.826">beseffen we dat we ons<br/>op gevaarlijk terrein bevinden</p>
       <p begin="00:33:32.826" end="00:33:37.159">om die beslissing te verdedigen.<br/>En in feite we staan open voor</p>
       <p begin="00:33:37.159" end="00:33:39.377">een arbitraire besluitvorming.</p>
       <p begin="00:33:39.377" end="00:33:43.540">Alhoewel we zeker niet willen worden<br/>beschuldigd van inflexibiliteit.</p>
-      <p begin="00:33:43.540" end="00:33:45.754"><span tts:fontStyle="italic">- [man 1] U deed het met AZT --</span><br/>- [man 2] Precies.</p>
-      <p begin="00:33:45.754" end="00:33:47.161">[Mensen schreeuwen]</p>
+      <p begin="00:33:43.540" end="00:33:45.754"><span tts:fontStyle="italic">- U deed het met AZT --</span><br/>- Precies.</p>
+      <p begin="00:33:45.754" end="00:33:47.161"/>
       <p begin="00:33:47.161" end="00:33:52.543">- Ik bedoel, Ik zou willen aangeven dat<br/>het verschil in data van AZT en DHPG</p>
       <p begin="00:33:52.543" end="00:33:55.665">zo groot is als dag en nacht --</p>
-      <p begin="00:33:55.665" end="00:33:59.326">[mensen praten samen]</p>
-      <p begin="00:33:59.326" end="00:34:02.541"><span tts:fontStyle="italic">- [man] Twee mensen zijn overleden</span><br/>sinds deze meeting begon</p>
+      <p begin="00:33:55.665" end="00:33:59.326"/>
+      <p begin="00:33:59.326" end="00:34:02.541"><span tts:fontStyle="italic">- Twee mensen zijn overleden</span><br/>sinds deze meeting begon</p>
       <p begin="00:34:02.541" end="00:34:04.783"><span tts:fontStyle="italic">en nog vier zullen dood</span><br/>zijn voor de meeting voorbij is.</p>
-      <p begin="00:34:04.783" end="00:34:06.579"><span tts:fontStyle="italic">- [man 2] Wie vertegenwoordigt</span><br/>de patienten op dit forum?</p>
-      <p begin="00:34:06.579" end="00:34:08.940">- [Dr.Cooper] Er is iemand met cholera<br/>in dit forum.</p>
+      <p begin="00:34:04.783" end="00:34:06.579"><span tts:fontStyle="italic">- Wie vertegenwoordigt</span><br/>de patienten op dit forum?</p>
+      <p begin="00:34:06.579" end="00:34:08.940">- Er is iemand met cholera<br/>in dit forum.</p>
       <p begin="00:34:08.940" end="00:34:16.340">- FDA bekijkt de DHPG data opnieuw, en<br/>opeens is iedereen het eens met ACT UP.</p>
-      <p begin="00:34:17.594" end="00:34:22.306"><span tts:fontStyle="italic">- [man] Klaar om te stemmen?</span><br/>Iedereen die v&#243;&#243;r is, steek je hand op.</p>
+      <p begin="00:34:17.594" end="00:34:22.306"><span tts:fontStyle="italic">- Klaar om te stemmen?</span><br/>Iedereen die v&#243;&#243;r is, steek je hand op.</p>
       <p begin="00:34:23.471" end="00:34:25.152">
-        <span tts:fontStyle="italic">- [mannenstem] &#201;&#233;n, Twee...</span>
+        <span tts:fontStyle="italic">- &#201;&#233;n, Twee...</span>
       </p>
       <p begin="00:34:25.290" end="00:34:27.648">
-        <span tts:fontStyle="italic">- [man] Oh, dat is meer.</span>
+        <span tts:fontStyle="italic">- Oh, dat is meer.</span>
       </p>
-      <p begin="00:34:27.648" end="00:34:30.251">[applaus, mensen juichen]</p>
+      <p begin="00:34:27.648" end="00:34:30.251"/>
       <p begin="00:34:31.476" end="00:34:33.034"><span tts:fontStyle="italic">- Het was echt een</span><br/>verbazingwekkende vertoning</p>
       <p begin="00:34:33.034" end="00:34:36.053"><span tts:fontStyle="italic">maar het leek op contact hebben</span><br/>met de Wizard of Oz.</p>
       <p begin="00:34:36.053" end="00:34:39.126">Zoals wanneer je naar het centrum kijkt<br/>van het hele systeem</p>
@@ -626,14 +632,14 @@
       <p begin="00:34:58.458" end="00:35:01.269"><span tts:fontStyle="italic">de hiaten in het onderzoek,</span><br/>de ondervertegenwoordigde bevolking,</p>
       <p begin="00:35:01.269" end="00:35:04.975"><span tts:fontStyle="italic">het feit dat de ziektes en de medicijnen</span><br/>anders konden zijn in die bevolkingsgroep</p>
       <p begin="00:35:04.975" end="00:35:07.091">Hoe konden ze dat ooit ontdekken?<br/>Ze waren niet eens bestudeerd.</p>
-      <p begin="00:35:07.091" end="00:35:10.104">[mensen schreeuwen]</p>
-      <p begin="00:35:10.104" end="00:35:16.972">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:35:07.091" end="00:35:10.104"/>
+      <p begin="00:35:10.104" end="00:35:16.972"/>
       <p begin="00:35:22.755" end="00:35:25.087">
         <span tts:fontStyle="italic">- Dag Rob, Dag Bobby!</span>
       </p>
-      <p begin="00:35:28.395" end="00:35:37.258">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:35:46.551" end="00:35:54.797">- [mensen schreeuwen] HOMO CRISIS<br/>KENT GEEN GRENZEN</p>
-      <p begin="00:35:57.321" end="00:36:01.043"><span tts:fontStyle="italic">- [Peter] Ik zou graag willen aangeven</span><br/>dat de reden waarom we deze medicijnen</p>
+      <p begin="00:35:28.395" end="00:35:37.258"/>
+      <p begin="00:35:46.551" end="00:35:54.797">- HOMO CRISIS<br/>KENT GEEN GRENZEN</p>
+      <p begin="00:35:57.321" end="00:36:01.043"><span tts:fontStyle="italic">- Ik zou graag willen aangeven</span><br/>dat de reden waarom we deze medicijnen</p>
       <p begin="00:36:01.043" end="00:36:03.107"><span tts:fontStyle="italic">niet kunnen krijgen is</span><br/>dat al negen jaar lang</p>
       <p begin="00:36:03.107" end="00:36:07.900"><span tts:fontStyle="italic">de leiders van dit land gefaald hebben</span><br/>om met een plan van aanpak te komen.</p>
       <p begin="00:36:08.062" end="00:36:13.483">Ze faalden in een onderzoeksplan,<br/>een nationale onderzoeksagenda.</p>
@@ -649,14 +655,14 @@
       <p begin="00:36:44.786" end="00:36:48.969">om effectieve behandelingen te ontwikkelen<br/>en te produceren, en niet alleen voor HIV,</p>
       <p begin="00:36:48.969" end="00:36:50.641">maar voor alle opportunistische infecties,</p>
       <p begin="00:36:50.641" end="00:36:54.591">die de eigenlijke oorzaak zijn van<br/>het (over)lijden van mensen met Aids</p>
-      <p begin="00:36:54.591" end="00:36:58.901">- [Iris] Dit is geen nieuwe agenda,<br/>en het is agenda van alleen ACT UP.</p>
+      <p begin="00:36:54.591" end="00:36:58.901">- Dit is geen nieuwe agenda,<br/>en het is agenda van alleen ACT UP.</p>
       <p begin="00:36:58.901" end="00:37:01.820">Wetenschappers zijn het er mee eens.<br/>Waarom kunnen wij dit niet hebben?</p>
       <p begin="00:37:01.820" end="00:37:03.531">- Onderzoekers en wetgevers moeten</p>
       <p begin="00:37:03.531" end="00:37:06.748">een parallel uitgifte programma maken<br/>dat medicijnen geeft</p>
       <p begin="00:37:06.748" end="00:37:11.255">aan mensen die ze nodig hebben<br/>voor de vijfjaars pijplijn,</p>
       <p begin="00:37:11.255" end="00:37:13.749">waarna ze misschien<br/>goedgekeurd worden door FDA.</p>
       <p begin="00:37:13.749" end="00:37:15.604">
-        <span tts:fontStyle="italic">- [Susan] Ik was behoorlijk kwaad</span>
+        <span tts:fontStyle="italic">- Ik was behoorlijk kwaad</span>
       </p>
       <p begin="00:37:15.604" end="00:37:18.452"><span tts:fontStyle="italic">over deze copie van</span><br/>hun Aids onderzoeks agenda.</p>
       <p begin="00:37:18.452" end="00:37:23.715">Ik zou twijfelen tussen:<br/>"Nee, Nee! Ze begrijpen het niet!"</p>
@@ -673,7 +679,7 @@
       <p begin="00:38:02.015" end="00:38:05.069">maar ze wilden wat ze noemden:<br/>'menselijke proeven".</p>
       <p begin="00:38:05.069" end="00:38:10.639">- Het kwam allemaal samen in Montreal<br/>maar wat was er nieuw voor ACT UP?</p>
       <p begin="00:38:10.639" end="00:38:12.786">We gingen naar een medijn fabrikant</p>
-      <p begin="00:38:12.786" end="00:38:15.347"><span tts:fontStyle="italic">- [journalist] Er is opnieuw hoop</span><br/>voor mensen geinfecteerd met Aids</p>
+      <p begin="00:38:12.786" end="00:38:15.347"><span tts:fontStyle="italic">- Er is opnieuw hoop</span><br/>voor mensen geinfecteerd met Aids</p>
       <p begin="00:38:15.347" end="00:38:19.828"><span tts:fontStyle="italic">Een nieuw experimenteel medicijn, DDI</span><br/>zal worden gelimiteerd worden verstrekt</p>
       <p begin="00:38:19.828" end="00:38:23.742"><span tts:fontStyle="italic">gratis deze herfst door de ontwikkelaar</span><br/>de gigant Bristol-Meyers Company</p>
       <p begin="00:38:23.742" end="00:38:27.732"><span tts:fontStyle="italic">Dit is de eerste keer dat een Anti Aids</span><br/>medicijn beschikbaar zal zijn, voordat</p>
@@ -687,12 +693,12 @@
       </p>
       <p begin="00:38:37.601" end="00:38:40.373">- Heb je DDI nodig om te leven, denk je?</p>
       <p begin="00:38:40.373" end="00:38:45.511">- Ja, ik heb DDI nodig en daarnaast<br/>waarschijnlijk ook antivirus medicijnen.</p>
-      <p begin="00:38:45.800" end="00:38:49.931"><span tts:fontStyle="italic">- [Larry] Hier wordt geschiedenis gemaakt,</span><br/>en het is te danken aan de Aids Activisten</p>
+      <p begin="00:38:45.800" end="00:38:49.931"><span tts:fontStyle="italic">- Hier wordt geschiedenis gemaakt,</span><br/>en het is te danken aan de Aids Activisten</p>
       <p begin="00:38:49.931" end="00:38:51.725">dat dit medicijn er is,</p>
       <p begin="00:38:51.725" end="00:38:53.640">het is niet de regering.</p>
       <p begin="00:38:53.640" end="00:38:55.744">Niemand gaf het ons,<br/>we moesten er voor vechten.</p>
       <p begin="00:38:55.744" end="00:38:58.344">En voor de eerste keer<br/>hebben we gewonnen.</p>
-      <p begin="00:38:59.624" end="00:39:02.173"><span tts:fontStyle="italic">- [Mark] Dus in 1989, minder dan een jaar</span><br/>na onze FDA demonstratie,</p>
+      <p begin="00:38:59.624" end="00:39:02.173"><span tts:fontStyle="italic">- Dus in 1989, minder dan een jaar</span><br/>na onze FDA demonstratie,</p>
       <p begin="00:39:02.173" end="00:39:05.261"><span tts:fontStyle="italic">hebben ze een medicijn goedgekeurd om</span><br/>blindheid bij Aidspatienten te voorkomen.</p>
       <p begin="00:39:05.261" end="00:39:10.648"><span tts:fontStyle="italic">en hadden we een betere toegankelijkheid</span><br/>tot DDI, en dat was een machtig gevoel.</p>
       <p begin="00:39:10.648" end="00:39:12.496">
@@ -705,7 +711,7 @@
       <p begin="00:39:28.736" end="00:39:31.404">
         <span tts:fontStyle="italic">en zo mijn leven te verbeteren".</span>
       </p>
-      <p begin="00:39:37.829" end="00:39:42.838">- [Emilio] Bij Merck was HIV<br/>een belangrijk wetenschappelijk doel.</p>
+      <p begin="00:39:37.829" end="00:39:42.838">- Bij Merck was HIV<br/>een belangrijk wetenschappelijk doel.</p>
       <p begin="00:39:44.081" end="00:39:46.221">HIV is een virus natuurlijk.</p>
       <p begin="00:39:46.221" end="00:39:49.997">Om een virus een niet ge-infecteerde<br/>cel te laten infecteren,</p>
       <p begin="00:39:50.359" end="00:39:54.307">moet dat op een<br/>bepaalde manier gevormd zijn.</p>
@@ -725,7 +731,7 @@
       <p begin="00:40:53.089" end="00:40:56.764"><span tts:fontStyle="italic">Het virus kan niet langer</span><br/>die stukjes maken</p>
       <p begin="00:40:56.764" end="00:40:58.696"><span tts:fontStyle="italic">die het nodig heeft om</span><br/>zichzelf te veranderen</p>
       <p begin="00:40:58.696" end="00:41:01.605"><span tts:fontStyle="italic">en een infectueus viraal</span><br/>partikel te maken.</p>
-      <p begin="00:41:02.790" end="00:41:05.206">- [Joseph] We hebben<br/>de structuur van HIV protease</p>
+      <p begin="00:41:02.790" end="00:41:05.206">- We hebben<br/>de structuur van HIV protease</p>
       <p begin="00:41:05.206" end="00:41:08.924">opgelost in 1989, en<br/>vrij snel daarna gepubliceerd.</p>
       <p begin="00:41:08.924" end="00:41:13.437">Ik weet dat we de structuur zagen &amp; binnen<br/>een paar weken was het al in de literatuur</p>
       <p begin="00:41:13.437" end="00:41:15.276">- En toen rees de vraag:<br/>"OK, kunnen we het bewijzen?</p>
@@ -735,13 +741,13 @@
       <p begin="00:41:24.703" end="00:41:29.192">dat het virus geen nieuwe<br/>nakomelingen meer maakt,</p>
       <p begin="00:41:29.192" end="00:41:31.563">en dus geen nieuwe viruspartikels<br/>die dan door zouden gaan</p>
       <p begin="00:41:31.563" end="00:41:33.592">en een nieuwe cyclus<br/>van infectie veroorzaken?</p>
-      <p begin="00:41:39.730" end="00:41:42.925"><span tts:fontStyle="italic">[journalist] Aids is nu de belangrijkste</span><br/>doodsoorzaak bij mannen onder de 44</p>
+      <p begin="00:41:39.730" end="00:41:42.925"><span tts:fontStyle="italic"> Aids is nu de belangrijkste</span><br/>doodsoorzaak bij mannen onder de 44</p>
       <p begin="00:41:42.925" end="00:41:45.667"><span tts:fontStyle="italic">in New York en een half dozijn</span><br/>andere steden</p>
       <p begin="00:41:45.667" end="00:41:47.952">moord en alle andere ziektes<br/>voorbij strevend</p>
       <p begin="00:41:47.952" end="00:41:50.622"><span tts:fontStyle="italic">En opmerkelijk is dat de katholieke</span><br/>bisschoppen deze week bij elkaar komen</p>
       <p begin="00:41:50.622" end="00:41:55.031">om openlijk het gebruik van condooms<br/>als moreel onacceptabel te verklaren.</p>
       <p begin="00:41:55.031" end="00:41:59.523">Dit zet ze recht tegenover<br/>de US Publieke Gezondheids Politiek.</p>
-      <p begin="00:41:59.523" end="00:42:00.961">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:41:59.523" end="00:42:00.961"/>
       <p begin="00:42:00.961" end="00:42:05.103"><span tts:fontStyle="italic">-De nieuwe positie van de kerk veroordeelt</span><br/>niet enkel de immoraliteit van het condoom</p>
       <p begin="00:42:05.103" end="00:42:07.644">
         <span tts:fontStyle="italic">maar ook de effectiviteit ervan.</span>
@@ -753,17 +759,19 @@
       </p>
       <p begin="00:42:17.810" end="00:42:20.488"><span tts:fontStyle="italic">Over de nieuwe voorgestelde</span><br/>politiek van de bisschoppen,</p>
       <p begin="00:42:20.488" end="00:42:22.941"><span tts:fontStyle="italic">zegt Stephen Jacobs, de Commissaris</span><br/>voor Gezondheid in New York:</p>
-      <p begin="00:42:22.941" end="00:42:25.632"><span tts:fontStyle="italic">- [Stephen Jacobs] Dit zou een</span><br/>publieke gezondheidsramp zijn.</p>
+      <p begin="00:42:22.941" end="00:42:25.632"><span tts:fontStyle="italic">- Dit zou een</span><br/>publieke gezondheidsramp zijn.</p>
       <p begin="00:42:25.632" end="00:42:29.187">Het zou ongetwijfeld leiden<br/>tot meer besmettingen in de stad,</p>
       <p begin="00:42:29.187" end="00:42:33.680">speciaal in gebieden met hoge risicos.<br/>Meer ziektegevallen en meer doden.</p>
-      <p begin="00:42:33.680" end="00:42:36.657"><span tts:fontStyle="italic">- [journalist]</span><br/>Katholieke conservatieven zeggen:</p>
+      <p begin="00:42:33.680" end="00:42:36.657">
+        <span tts:fontStyle="italic">- Katholieke conservatieven zeggen:</span>
+      </p>
       <p begin="00:42:36.657" end="00:42:39.593">"Niet enkel fysieke doden<br/>maar spirituele dood is de kwestie hier."</p>
       <p begin="00:42:39.593" end="00:42:42.632"><span tts:fontStyle="italic">Of zoals de aartsbisschop</span><br/>van New York het verwoordt:</p>
       <p begin="00:42:42.632" end="00:42:47.649">- Het gebruik van voorbehoedsmiddelen<br/>is immoreel</p>
       <p begin="00:42:47.649" end="00:42:49.425">in een pluralistische samenleving<br/>of elke andere samenleving.</p>
-      <p begin="00:42:49.425" end="00:42:51.515">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:42:49.425" end="00:42:51.515"/>
       <p begin="00:42:51.515" end="00:42:56.305">- Maar, we hebben ook Ann Northrop nog,<br/>met haat scherpe techniek.</p>
-      <p begin="00:42:56.674" end="00:42:58.212">[publiek klapt en juicht]</p>
+      <p begin="00:42:56.674" end="00:42:58.212"/>
       <p begin="00:43:05.475" end="00:43:09.722">- We willen dat iedereen mee doet,<br/>en ons ondersteunt,</p>
       <p begin="00:43:09.722" end="00:43:16.346"><span tts:fontStyle="italic">om de macht van de kerk te vernietigen,</span><br/>Om onze kant de sterkste te maken.</p>
       <p begin="00:43:16.346" end="00:43:20.790"><span tts:fontStyle="italic">En om dat te doen moeten we</span><br/>duidelijk maken dat WIJ het zijn</p>
@@ -773,12 +781,12 @@
       <p begin="00:43:39.784" end="00:43:45.954">of het drie of vijf seconden duurt.<br/>Een klein zinnetje met grote impact,</p>
       <p begin="00:43:45.954" end="00:43:51.744">dat iets specifieks zegt,<br/>en het zal begrijpelijk zijn.</p>
       <p begin="00:43:52.055" end="00:43:53.385">Dus ....</p>
-      <p begin="00:43:56.000" end="00:43:59.430">[publiek lacht]</p>
+      <p begin="00:43:56.000" end="00:43:59.430"/>
       <p begin="00:44:02.399" end="00:44:05.686">Ik heb nog geen inspiratie en...</p>
-      <p begin="00:44:05.686" end="00:44:06.647">[lachen]</p>
+      <p begin="00:44:05.686" end="00:44:06.647"/>
       <p begin="00:44:06.647" end="00:44:10.778">Toch moet je je eigen zin maken.<br/>Dat is het leren opkomen voor jezelf.</p>
-      <p begin="00:44:10.778" end="00:44:12.862">[publiek lacht]</p>
-      <p begin="00:44:14.031" end="00:44:20.252">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:44:10.778" end="00:44:12.862"/>
+      <p begin="00:44:14.031" end="00:44:20.252"/>
       <p begin="00:44:30.564" end="00:44:34.978">- Dit is Jezus Christus, ik sta op zondag<br/>voor St.Patrick's Cathedral.</p>
       <p begin="00:44:34.978" end="00:44:37.575">We berichten hier over<br/>een belangrijke Aids activist</p>
       <p begin="00:44:37.575" end="00:44:40.181">en abortusrechten activisten demonstartie,</p>
@@ -796,43 +804,45 @@
       <p begin="00:45:17.466" end="00:45:20.475">- Welnu, we wilden een nieuwe naam<br/>voor de kardinaal: O'Condoom.</p>
       <p begin="00:45:21.737" end="00:45:25.495">Dat is onze boodschap aan hem, dat<br/>condooms veilig zijn, en geen leugen.</p>
       <p begin="00:45:25.495" end="00:45:30.492"><span tts:fontStyle="italic">$$ - En hij vertelde hen toen wat zou</span><br/>gebeuren, en het gebeurde.</p>
-      <p begin="00:45:30.506" end="00:45:33.895"><span tts:fontStyle="italic">$$ [schreeuwend publiek]</span><br/>Waarom vermoordt je ons?</p>
+      <p begin="00:45:30.506" end="00:45:33.895">
+        <span tts:fontStyle="italic">$$ Waarom vermoordt je ons?</span>
+      </p>
       <p begin="00:45:34.003" end="00:45:36.220">
         <span tts:fontStyle="italic">$$ Stop die waanzin !!!</span>
       </p>
-      <p begin="00:45:36.220" end="00:45:38.478">$$ - [priester] Als iedereen hier<br/>wil gaan staan en bidden....</p>
+      <p begin="00:45:36.220" end="00:45:38.478">$$ - Als iedereen hier<br/>wil gaan staan en bidden....</p>
       <p begin="00:45:39.187" end="00:45:40.702">
         <span tts:fontStyle="italic">$$ Onze Vader---</span>
       </p>
       <p begin="00:45:40.702" end="00:45:44.742"><span tts:fontStyle="italic">$$ -Bidden zal de 1 tot 1&#733; miljoen mensen</span><br/>echt niet helpen</p>
       <p begin="00:45:44.742" end="00:45:48.225">$$ die zijn geinfecteerd door het<br/>human immunodeficiency virus!</p>
-      <p begin="00:45:49.453" end="00:45:55.009">[gefluit]</p>
+      <p begin="00:45:49.453" end="00:45:55.009"/>
       <p begin="00:45:55.327" end="00:46:01.629">- Stop ons te vermoorden! Stop ons te<br/>vermoorden! We pikken het niet meer!</p>
       <p begin="00:46:01.629" end="00:46:08.279">Je vermoordt ons! Stop! Stop! Stop ermee!</p>
-      <p begin="00:46:08.279" end="00:46:12.796">[mensen schreeuwen]<br/>Stop! Stop! Stop ermee!</p>
+      <p begin="00:46:08.279" end="00:46:12.796">Stop! Stop! Stop ermee!</p>
       <p begin="00:46:14.089" end="00:46:18.872">- Hoeveel meer moeten er nog sterven?<br/>Hoeveel meer moeten er nog dood?</p>
-      <p begin="00:46:18.872" end="00:46:21.760">[mensen maken geluid]</p>
-      <p begin="00:46:21.760" end="00:46:25.237"><span tts:fontStyle="italic">- [Cardinal O'Conner] Die protesteerders</span><br/>geloven dat hun protest zal leiden tot</p>
+      <p begin="00:46:18.872" end="00:46:21.760"/>
+      <p begin="00:46:21.760" end="00:46:25.237"><span tts:fontStyle="italic">- Die protesteerders</span><br/>geloven dat hun protest zal leiden tot</p>
       <p begin="00:46:25.237" end="00:46:31.346">veranderingen in de omgeving en<br/>misschien verandering van houding.</p>
       <p begin="00:46:31.346" end="00:46:33.728">De Kerk zal blijven verkondigen dat</p>
       <p begin="00:46:33.728" end="00:46:37.811">homosexuele activiteit zondig is<br/>tot het einde der tijden.</p>
       <p begin="00:46:37.811" end="00:46:39.632">Dat zal niet veranderen.</p>
-      <p begin="00:46:40.176" end="00:46:44.384">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:46:40.176" end="00:46:44.384"/>
       <p begin="00:46:45.100" end="00:46:47.710">
         <span tts:fontStyle="italic">- Het is 22 juli 1989.</span>
       </p>
-      <p begin="00:46:47.710" end="00:46:51.271"><span tts:fontStyle="italic">- [vrouwenstem] Sara, wat denk je</span><br/>van doodgaan op je 44e?</p>
+      <p begin="00:46:47.710" end="00:46:51.271"><span tts:fontStyle="italic">- Sara, wat denk je</span><br/>van doodgaan op je 44e?</p>
       <p begin="00:46:51.271" end="00:46:52.100">- Goed.</p>
       <p begin="00:46:52.100" end="00:46:53.827">{mensen lachen]</p>
       <p begin="00:46:53.827" end="00:46:55.868">
-        <span tts:fontStyle="italic">- [Bob] Ik denk, dank je voor je support.</span>
+        <span tts:fontStyle="italic">- Ik denk, dank je voor je support.</span>
       </p>
       <p begin="00:46:55.868" end="00:46:57.549">&#201;en, twee, drie!</p>
       <p begin="00:47:00.594" end="00:47:03.552">- Yehey! Yehey!</p>
       <p begin="00:47:05.195" end="00:47:07.394"><span tts:fontStyle="italic">- Veel rook.</span><br/>- Oh, boy!</p>
-      <p begin="00:47:07.394" end="00:47:10.252"><span tts:fontStyle="italic">-[Bob] Ik wil dat die kaarsen stoppen rook</span><br/>te geven, zo slecht voor de gezondheid...</p>
+      <p begin="00:47:07.394" end="00:47:10.252"><span tts:fontStyle="italic">- Ik wil dat die kaarsen stoppen rook</span><br/>te geven, zo slecht voor de gezondheid...</p>
       <p begin="00:47:10.252" end="00:47:11.320">
-        <span tts:fontStyle="italic">- [vrouwenstem] Precies.</span>
+        <span tts:fontStyle="italic">- Precies.</span>
       </p>
       <p begin="00:47:11.320" end="00:47:13.435">
         <span tts:fontStyle="italic">Okay, Robert Resty, </span>
@@ -842,7 +852,7 @@
       <p begin="00:47:17.988" end="00:47:20.979">Ik zal springen, op en neer.<br/>Ik denk dat 44 een mooie leeftijd is.</p>
       <p begin="00:47:20.979" end="00:47:23.597">Het heeft een mooie symmetrie.<br/>Ik heb er een goed gevoel bij.</p>
       <p begin="00:47:23.597" end="00:47:28.009">Het is beter dan 22 en waarschijnliojk<br/>beter dan 88, we zullen zien.</p>
-      <p begin="00:47:28.009" end="00:47:29.593">[vrouw lacht]</p>
+      <p begin="00:47:28.009" end="00:47:29.593"/>
       <p begin="00:47:29.909" end="00:47:33.243">- Hier is hoe we het gepland hebben.<br/>We doen het als volgt</p>
       <p begin="00:47:33.259" end="00:47:36.000">gebruik dit licht in de<br/>Treatment en Data meeting.</p>
       <p begin="00:47:36.000" end="00:47:39.879">Verschillende keren kwamen er mensen<br/>naar de Treatment en Data meeting</p>
@@ -856,7 +866,7 @@
         <span tts:fontStyle="italic">Wanneer beginnen we?</span>
       </p>
       <p begin="00:47:53.201" end="00:47:56.690"><span tts:fontStyle="italic">Dit is Dr. Anthony Fauci.</span><br/>Rob, je mag nu spreken.</p>
-      <p begin="00:47:56.690" end="00:47:58.646"><span tts:fontStyle="italic">- [Bob] Misschien heb ik</span><br/>het verkeerd, Dr Fauci,</p>
+      <p begin="00:47:56.690" end="00:47:58.646"><span tts:fontStyle="italic">- Misschien heb ik</span><br/>het verkeerd, Dr Fauci,</p>
       <p begin="00:47:58.646" end="00:48:04.556"><span tts:fontStyle="italic">maar ik begrijp dat duizenden mensen</span><br/>sterven aan longontsteking</p>
       <p begin="00:48:04.556" end="00:48:07.361"><span tts:fontStyle="italic">omdat er lange tijd geen prioriteit was</span><br/>in de regering,</p>
       <p begin="00:48:07.361" end="00:48:10.139">
@@ -885,16 +895,16 @@
       <p begin="00:49:03.236" end="00:49:04.385">Wel, dat klinkt verschrikkelijk<br/>als je het in de context plaatst</p>
       <p begin="00:49:04.385" end="00:49:08.799">van waar we het hier over hebben.</p>
       <p begin="00:49:08.799" end="00:49:11.241">Maar de hele wereld is niet in deze zaal.</p>
-      <p begin="00:49:11.241" end="00:49:16.856">[publiek maakt herrie]</p>
+      <p begin="00:49:11.241" end="00:49:16.856"/>
       <p begin="00:49:20.456" end="00:49:22.948">
-        <span tts:fontStyle="italic">- [journalist] AIDS activisten bestormen</span>
+        <span tts:fontStyle="italic">- AIDS activisten bestormen</span>
       </p>
       <p begin="00:49:22.948" end="00:49:24.836">
         <span tts:fontStyle="italic">het regerings ziekte onderzoekscentrum.</span>
       </p>
       <p begin="00:49:24.836" end="00:49:28.350"><span tts:fontStyle="italic">Het Nationale Gezondheidsinstituut, waar</span><br/>'n mogelijke AIDS behandeling werd ontdekt</p>
       <p begin="00:49:28.350" end="00:49:31.694"><span tts:fontStyle="italic">het is waar therapieen worden getest</span><br/>in een klinische omgeving.</p>
-      <p begin="00:49:31.694" end="00:49:34.345">- [publiek scandeert]<br/>Geen Geheime meetings meer!</p>
+      <p begin="00:49:31.694" end="00:49:34.345">- Geen Geheime meetings meer!</p>
       <p begin="00:49:34.345" end="00:49:36.651">- Demonstranten blokkeerden<br/>de toegang tot gebouwen.</p>
       <p begin="00:49:36.651" end="00:49:41.062"><span tts:fontStyle="italic">Wetenschappers en ambtenaren die naar</span><br/>hun werk wilden stonden er vertwijfeld bij</p>
       <p begin="00:49:41.062" end="00:49:44.337"><span tts:fontStyle="italic">Activisten beschuldigen de</span><br/>Bush regering van treuzelen</p>
@@ -910,42 +920,50 @@
       </p>
       <p begin="00:49:58.367" end="00:50:01.386">- Hi, Ik ben Jimmy Johnson,<br/>en ik ben hier in een klinische test.</p>
       <p begin="00:50:01.386" end="00:50:05.772">Op dit moment, kijk ik naar de ACT UP<br/>demonstratie en doe er aan mee.</p>
-      <p begin="00:50:05.772" end="00:50:07.718"><span tts:fontStyle="italic">- [journalist V] Waarom?</span><br/>Waarom ondersteun je deze actie?</p>
+      <p begin="00:50:05.772" end="00:50:07.718"><span tts:fontStyle="italic">- Waarom?</span><br/>Waarom ondersteun je deze actie?</p>
       <p begin="00:50:07.718" end="00:50:11.380">- Omdat we veel meer Aids onderzoek nodig<br/>hebben. En we beginnen maar pas.</p>
-      <p begin="00:50:11.380" end="00:50:12.864"><span tts:fontStyle="italic">- [journalist V]</span><br/>Welke test doe je aan mee?</p>
+      <p begin="00:50:11.380" end="00:50:12.864">
+        <span tts:fontStyle="italic">- Welke test doe je aan mee?</span>
+      </p>
       <p begin="00:50:12.864" end="00:50:16.490"><span tts:fontStyle="italic">- Ik zit in Interleukin 2/AZT</span><br/>Combinatiemedicijn Studie</p>
-      <p begin="00:50:16.490" end="00:50:18.310"><span tts:fontStyle="italic">- [journalist V]</span><br/>Zijn er ook vrouwen in deze test?</p>
+      <p begin="00:50:16.490" end="00:50:18.310">
+        <span tts:fontStyle="italic">- Zijn er ook vrouwen in deze test?</span>
+      </p>
       <p begin="00:50:18.310" end="00:50:19.548">
         <span tts:fontStyle="italic">- Nee, er zijn hier helemaal geen vrouwen.</span>
       </p>
       <p begin="00:50:19.548" end="00:50:21.237">
-        <span tts:fontStyle="italic">- [journalist V] Gekleurde mensen?</span>
+        <span tts:fontStyle="italic">- Gekleurde mensen?</span>
       </p>
       <p begin="00:50:21.237" end="00:50:22.786">- Nee, geen</p>
       <p begin="00:50:22.786" end="00:50:24.091">
-        <span tts:fontStyle="italic">- [journalist V] Waarom is dat, denk je?</span>
+        <span tts:fontStyle="italic">- Waarom is dat, denk je?</span>
       </p>
-      <p begin="00:50:24.091" end="00:50:27.101"><span tts:fontStyle="italic">[Jimmy]</span><br/>Dit is pas het begin van het probleem.</p>
-      <p begin="00:50:28.301" end="00:50:30.858">- [Garance] Drie grote dingen die<br/>het NIH Onderzoek controleren,</p>
+      <p begin="00:50:24.091" end="00:50:27.101">
+        <span tts:fontStyle="italic">Dit is pas het begin van het probleem.</span>
+      </p>
+      <p begin="00:50:28.301" end="00:50:30.858">- Drie grote dingen die<br/>het NIH Onderzoek controleren,</p>
       <p begin="00:50:30.858" end="00:50:33.216">stompzinnigheid, incompetentie<br/>en hebzucht.</p>
       <p begin="00:50:33.385" end="00:50:36.451">Deze drie dingen zitten achter de zaken<br/>die hier gebeuren,</p>
       <p begin="00:50:36.451" end="00:50:38.169">en waarom er geen behandelingen zijn</p>
       <p begin="00:50:38.262" end="00:50:40.011">voor mensen die met deze ziekte<br/>moeten leven.</p>
-      <p begin="00:50:40.011" end="00:50:40.849">[schreeuwend publiek]</p>
+      <p begin="00:50:40.011" end="00:50:40.849"/>
       <p begin="00:50:40.849" end="00:50:42.487">
-        <span tts:fontStyle="italic">- [supporter] Zo gaan we echt niet verder.</span>
+        <span tts:fontStyle="italic">- Zo gaan we echt niet verder.</span>
       </p>
       <p begin="00:50:42.487" end="00:50:45.437"><span tts:fontStyle="italic">Dr. Anthony Fauci is het eens</span><br/>met de onderzoeks authoriteiten</p>
       <p begin="00:50:45.437" end="00:50:48.639"><span tts:fontStyle="italic">voor het Nationale Instituut</span><br/>voor Allergieen en Infectieziekten</p>
       <p begin="00:50:48.639" end="00:50:51.640"><span tts:fontStyle="italic">We zijn hier omdat we moeten</span><br/>beslissen over de onderzoeksprioriteiten,</p>
       <p begin="00:50:51.640" end="00:50:53.027">omdat dit de mensen zijn die weten<br/>wat er aan de hand is,</p>
       <p begin="00:50:53.042" end="00:50:55.080">omdat zij er elke dag mee te maken hebben.</p>
-      <p begin="00:50:56.019" end="00:51:02.345">[mensen maken kabaal]</p>
-      <p begin="00:51:03.624" end="00:51:11.948"><span tts:fontStyle="italic">-[mensen schreeuwen]</span><br/>De hele wereld kijkt naar ons!</p>
+      <p begin="00:50:56.019" end="00:51:02.345"/>
+      <p begin="00:51:03.624" end="00:51:11.948">
+        <span tts:fontStyle="italic">- De hele wereld kijkt naar ons!</span>
+      </p>
       <p begin="00:51:12.402" end="00:51:19.285"><span tts:fontStyle="italic">De hele wereld kijkt naar ons!</span><br/>De hele wereld kijkt naar ons!</p>
       <p begin="00:51:19.285" end="00:51:22.260"><span tts:fontStyle="italic">De hele wereld kijkt naar ons!</span><br/>De hele wereld kijkt naar ons!</p>
-      <p begin="00:51:26.982" end="00:51:32.273">[mensen maken kabaal]</p>
-      <p begin="00:51:50.058" end="00:51:51.350">[bons]</p>
+      <p begin="00:51:26.982" end="00:51:32.273"/>
+      <p begin="00:51:50.058" end="00:51:51.350"/>
       <p begin="00:51:52.612" end="00:51:56.874">- Voor alles, de stemming na de NIH<br/>was slechter dan de stemming ervoor.</p>
       <p begin="00:51:56.874" end="00:52:01.830">Omdat we geen idee hadden of ze zouden<br/>veranderen of onze eisen zouden erkennen.</p>
       <p begin="00:52:01.830" end="00:52:05.391">En we hadden nog wel een meeting met<br/>ze gehad in Bethesda na de NIH actie.</p>
@@ -959,15 +977,17 @@
       <p begin="00:52:24.789" end="00:52:28.241">voor de globale gemeenschap van<br/>wetenschappers werkend aan AIDS,</p>
       <p begin="00:52:28.241" end="00:52:32.812">waarom we bij NIH waren, en waarom<br/>het Amerikaanse systeem het niet inzag.</p>
       <p begin="00:52:32.812" end="00:52:38.225">En om mensen te kunnen bereiken die we al<br/>symbolish hadden bereikt met de NIH acties</p>
-      <p begin="00:52:52.553" end="00:52:54.831"><span tts:fontStyle="italic">- [nieuws] Ongeveer 100 protesteerders</span><br/>zijn al gearresteerd</p>
+      <p begin="00:52:52.553" end="00:52:54.831"><span tts:fontStyle="italic">- Ongeveer 100 protesteerders</span><br/>zijn al gearresteerd</p>
       <p begin="00:52:54.831" end="00:52:58.764"><span tts:fontStyle="italic">op de Internationale Aids Conferentie</span><br/>die vandaag in San Francisco begon.</p>
       <p begin="00:52:58.764" end="00:53:01.789">Honderden meer protesteren met angst<br/>tegen de regeringspolitiek</p>
       <p begin="00:53:01.789" end="00:53:06.269">zeggende: "Verwaarloosd onderzoek<br/>en uitgestoten slachtoffers."</p>
-      <p begin="00:53:06.269" end="00:53:08.333"><span tts:fontStyle="italic">- [David]</span><br/>Waarom die informatieve dia niet eerst?</p>
+      <p begin="00:53:06.269" end="00:53:08.333">
+        <span tts:fontStyle="italic">- Waarom die informatieve dia niet eerst?</span>
+      </p>
       <p begin="00:53:08.333" end="00:53:12.806">De USA heeft de meest discriminiserende<br/>immigratiepolitiek betreffende HIV.</p>
       <p begin="00:53:12.806" end="00:53:19.967">- Ik kan zeggen om een brug te slaan<br/>in de wetenschappelijke gemeenschap,</p>
       <p begin="00:53:19.967" end="00:53:24.666">Jullie allemaal en de activisten we willen<br/>jullie bijstaan in een soort van activisme</p>
-      <p begin="00:53:24.727" end="00:53:26.998"><span tts:fontStyle="italic">[Peter] En ik ben me altijd pijnlijk</span><br/>bewust geweest dat ik</p>
+      <p begin="00:53:24.727" end="00:53:26.998"><span tts:fontStyle="italic"> En ik ben me altijd pijnlijk</span><br/>bewust geweest dat ik</p>
       <p begin="00:53:26.998" end="00:53:31.831"><span tts:fontStyle="italic">om dat virus te verslaan</span><br/>en in leven te blijven,</p>
       <p begin="00:53:31.831" end="00:53:33.680">
         <span tts:fontStyle="italic">ik veel hulp van jullie nodig zal hebben.</span>
@@ -989,7 +1009,7 @@
       <p begin="00:54:20.498" end="00:54:25.821">Maar op momenten dat wij u beledigen,<br/>onthoudt dan ook dat net zoals u,</p>
       <p begin="00:54:25.821" end="00:54:30.696">ACT UP volgehouden heeft om de levens<br/>van duizenden mensen te verlengen</p>
       <p begin="00:54:30.696" end="00:54:33.136">die leven met de ziekte Aids.</p>
-      <p begin="00:54:33.985" end="00:54:36.273">[publiek applaudiseert en juicht]</p>
+      <p begin="00:54:33.985" end="00:54:36.273"/>
       <p begin="00:54:36.935" end="00:54:39.807">Ik zou graag vooraan<br/>op het podium willen staan</p>
       <p begin="00:54:39.807" end="00:54:43.043">bij mijn vrienden Aids activisten.</p>
       <p begin="00:54:43.043" end="00:54:45.235">Komen jullie allemaal?</p>
@@ -1009,8 +1029,8 @@
       <p begin="00:55:21.689" end="00:55:25.424">
         <span tts:fontStyle="italic">Sta op alstublieft en blijf staan.</span>
       </p>
-      <p begin="00:55:25.617" end="00:55:27.363">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:55:27.363" end="00:55:29.047">[Publiek schreeuwt]</p>
+      <p begin="00:55:25.617" end="00:55:27.363"/>
+      <p begin="00:55:27.363" end="00:55:29.047"/>
       <p begin="00:55:29.047" end="00:55:32.047"><span tts:fontStyle="italic">- Doe mee met ons en laat je stem horen</span><br/>in onze collectieve woede.</p>
       <p begin="00:55:32.047" end="00:55:36.324"><span tts:fontStyle="italic">Doe mee met een lied tegen de man</span><br/>die de INS barrieres kon opheffen.</p>
       <p begin="00:55:36.324" end="00:55:38.500"><span tts:fontStyle="italic">Doe met ons mee en zing</span><br/>tegen de man die besloten heeft</p>
@@ -1018,17 +1038,17 @@
       <p begin="00:55:43.503" end="00:55:48.092">In de plaats daarvan, op dit moment,<br/>is hij in North Carolina,</p>
       <p begin="00:55:48.092" end="00:55:52.908">en woont een geldinzameling bij voor de<br/>homohatende auteur van de INS barrieres,</p>
       <p begin="00:55:52.908" end="00:55:55.370"><span tts:fontStyle="italic">dat varken in de senaat,</span><br/>bekend als Jesse Helms.</p>
-      <p begin="00:55:55.370" end="00:55:56.716">[publiek schreeuwt]</p>
+      <p begin="00:55:55.370" end="00:55:56.716"/>
       <p begin="00:55:56.716" end="00:55:58.461">
         <span tts:fontStyle="italic">Doe mee met dit lied,</span>
       </p>
       <p begin="00:55:58.461" end="00:56:02.184">Driehonderd duizend doden door Aids.<br/>Waar is George?!</p>
-      <p begin="00:56:02.184" end="00:56:03.760">[publiek schreeuwt]</p>
+      <p begin="00:56:02.184" end="00:56:03.760"/>
       <p begin="00:56:03.760" end="00:56:06.259">Three hundred thousand dead<br/>from AIDS. Where is George?!</p>
       <p begin="00:56:06.259" end="00:56:10.295">Three hundred thousand dead<br/>from AIDS. Where is George?!</p>
       <p begin="00:56:10.295" end="00:56:15.464">Three hundred thousand dead<br/>from AIDS. Where is George?!</p>
       <p begin="00:56:15.464" end="00:56:19.174">- NU kunnen jullie je allemaal<br/>leden van ACT UP noemen.</p>
-      <p begin="00:56:19.174" end="00:56:20.927">[applaus]</p>
+      <p begin="00:56:19.174" end="00:56:20.927"/>
       <p begin="00:56:27.383" end="00:56:30.015">- Een van de dingen die in San Francisco<br/>gebeurden was dat we ontdekten</p>
       <p begin="00:56:30.015" end="00:56:32.875">dat we gewonnen hadden<br/>met onze NIH eisen.</p>
       <p begin="00:56:32.875" end="00:56:34.682">Fauci kwam naar me toe en zei</p>
@@ -1038,11 +1058,11 @@
       <p begin="00:56:42.006" end="00:56:49.787">- Nooit opnieuw zou dit kunnen gebeuren<br/>zonder de Aids mensen</p>
       <p begin="00:56:49.787" end="00:56:52.814">en hun bijstaanders eerst te raadplegen.</p>
       <p begin="00:56:52.814" end="00:56:58.403">Dit zou voortaan<br/>een publieke gebeurtenis zijn.</p>
-      <p begin="00:56:58.403" end="00:57:04.239">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:56:58.403" end="00:57:04.239"/>
       <p begin="00:57:04.626" end="00:57:07.319">- Het begon een beetje anders te voelen<br/>omdat we al die tijd besteedden</p>
       <p begin="00:57:07.319" end="00:57:11.641"><span tts:fontStyle="italic">aan buiten staan in plaats van bij de deur</span><br/>om te proberen binnen te komen.</p>
       <p begin="00:57:11.641" end="00:57:14.499"><span tts:fontStyle="italic">En nu wilden ze eindelijk horen</span><br/>wat we te zeggen hadden.</p>
-      <p begin="00:57:14.499" end="00:57:22.286">&#9834; [Muziek] &#9834;</p>
+      <p begin="00:57:14.499" end="00:57:22.286"/>
       <p begin="00:57:30.779" end="00:57:33.166">- We brachten ze naar Merck.</p>
       <p begin="00:57:33.166" end="00:57:37.125">We hebben er speciale moeite voor gedaan<br/>deze mensen binnen te brengen</p>
       <p begin="00:57:37.125" end="00:57:40.721">zodat ze konden zien wat het is<br/>wat we deden of probeerden te doen</p>
@@ -1072,18 +1092,18 @@
       <p begin="00:58:53.093" end="00:58:56.334">- We geven elk jaar $4 biljoen uit aan<br/>AIDS onderzoek.</p>
       <p begin="00:58:56.334" end="00:58:59.492">Als je dat omrekent<br/>per hoofd van de bevolking,</p>
       <p begin="00:58:59.492" end="00:59:02.959">en vergelijkt met hartziekten of kanker,<br/>is dit erg veel.</p>
-      <p begin="00:59:02.959" end="00:59:06.284"><span tts:fontStyle="italic">- [Newsman] Bijna niets kan</span><br/>George Bush stoppen van een rondje golf.</p>
+      <p begin="00:59:02.959" end="00:59:06.284"><span tts:fontStyle="italic">- Bijna niets kan</span><br/>George Bush stoppen van een rondje golf.</p>
       <p begin="00:59:06.284" end="00:59:08.943"><span tts:fontStyle="italic">Hij speelt zowat elke dag</span><br/>en soms zelfs twee keer daags</p>
       <p begin="00:59:08.943" end="00:59:11.145">
         <span tts:fontStyle="italic">in zijn zomervakantie. </span>
       </p>
-      <p begin="00:59:11.145" end="00:59:19.090">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:59:26.520" end="00:59:30.308"><span tts:fontStyle="italic">- [Bush] Als de boodschap onderzoek is,</span><br/>Zou ik zeggen: "Praat met Dr. Fauci"</p>
+      <p begin="00:59:11.145" end="00:59:19.090"/>
+      <p begin="00:59:26.520" end="00:59:30.308"><span tts:fontStyle="italic">- Als de boodschap onderzoek is,</span><br/>Zou ik zeggen: "Praat met Dr. Fauci"</p>
       <p begin="00:59:30.308" end="00:59:32.987"><span tts:fontStyle="italic">en anderen van het</span><br/>National Institute of Health"</p>
       <p begin="00:59:32.987" end="00:59:37.491"><span tts:fontStyle="italic">Wie zou je vertellen dat het we het aardig</span><br/>doen in het bekostigen van het onderzoek.</p>
-      <p begin="00:59:37.491" end="00:59:46.192">&#9834; [Muziek] &#9834;</p>
-      <p begin="00:59:48.109" end="00:59:52.083">[publiek schreeuwt]</p>
-      <p begin="01:00:04.338" end="01:00:12.571"><span tts:fontStyle="italic">- [Sen. Helms] De gevoeligheid van hen</span><br/>onder ons die denken dat er een spiritueel</p>
+      <p begin="00:59:37.491" end="00:59:46.192"/>
+      <p begin="00:59:48.109" end="00:59:52.083"/>
+      <p begin="01:00:04.338" end="01:00:12.571"><span tts:fontStyle="italic">- De gevoeligheid van hen</span><br/>onder ons die denken dat er een spiritueel</p>
       <p begin="01:00:12.571" end="01:00:20.605"><span tts:fontStyle="italic">en moreel aspect is aan dit spel</span><br/>van de home en lesbo menigte.</p>
       <p begin="01:00:21.576" end="01:00:24.774">
         <span tts:fontStyle="italic">Dit is totaal anders.</span>
@@ -1110,7 +1130,7 @@
       <p begin="01:01:01.835" end="01:01:03.808">Dat weet ik, maar wat nu?</p>
       <p begin="01:01:03.808" end="01:01:05.395">Kom op, eruit!</p>
       <p begin="01:01:05.443" end="01:01:09.515">
-        <span tts:fontStyle="italic">-[Sen. Helms] Als ze hun mond maar hielden</span>
+        <span tts:fontStyle="italic">- Als ze hun mond maar hielden</span>
       </p>
       <p begin="01:01:09.515" end="01:01:11.928"><span tts:fontStyle="italic">en zich met hun eigen zaken bemoeiden</span><br/>wat hun sexuele geaardheid ook zijn mag,</p>
       <p begin="01:01:11.928" end="01:01:14.505"><span tts:fontStyle="italic">niemand zou ooit een woord zeggen,</span><br/>we zouden zelfs niet aan ze denken.</p>
@@ -1118,17 +1138,17 @@
       <p begin="01:01:19.498" end="01:01:22.268"><span tts:fontStyle="italic">Ik weet dat ze mij niet mogen</span><br/>maar ik mag hen ook niet.</p>
       <p begin="01:01:23.437" end="01:01:27.725">Een stel van hen<br/>klom op mijn huis in Arlington</p>
       <p begin="01:01:27.725" end="01:01:33.802"><span tts:fontStyle="italic">plaatsten een 10 meter grote condoom</span><br/>en protesteerden een hele week.</p>
-      <p begin="01:01:34.690" end="01:01:40.051">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:01:34.690" end="01:01:40.051"/>
       <p begin="01:01:45.131" end="01:01:48.319">- Senator, toen we dit begonnen,<br/>dacht ik aan uw kant te staan,</p>
       <p begin="01:01:48.319" end="01:01:50.772">speciaal bij het eerste amendement.</p>
       <p begin="01:01:51.011" end="01:01:53.000">En in dit eerste amendement,<br/>hoeven mensen hun mond niet te houden,</p>
       <p begin="01:01:53.000" end="01:01:56.231">zij hebben het recht om te spreken.</p>
       <p begin="01:01:56.368" end="01:02:05.068">- Dus kunnen zij spreken zolang ze niemand<br/>boos maken, veronderstel ik?</p>
-      <p begin="01:02:06.261" end="01:02:09.718">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:02:06.261" end="01:02:09.718"/>
       <p begin="01:02:11.269" end="01:02:15.508">- Vergewis je ervan dat je tweede<br/>klaarkomen veilig is.</p>
       <p begin="01:02:18.216" end="01:02:19.819">Gebruik condooms.</p>
       <p begin="01:02:20.195" end="01:02:22.018">
-        <span tts:fontStyle="italic">- [Ray Navarro] Schreeuw je? </span>
+        <span tts:fontStyle="italic">- Schreeuw je? </span>
       </p>
       <p begin="01:02:22.018" end="01:02:24.941">
         <span tts:fontStyle="italic">- Ja! Net begonnen.</span>
@@ -1151,9 +1171,9 @@
       <p begin="01:03:19.708" end="01:03:23.748"><span tts:fontStyle="italic">veel andere blinde mannen,</span><br/>leven nu een goed leven.</p>
       <p begin="01:03:26.249" end="01:03:31.798">Er komen nog vele jaren.<br/>Laten we dat hopen.</p>
       <p begin="01:03:34.006" end="01:03:42.512">Dus wat kan het schelen, het leven is nog<br/>steeds waard geleefd te worden, toch?</p>
-      <p begin="01:03:47.718" end="01:03:53.867">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:03:47.718" end="01:03:53.867"/>
       <p begin="01:03:54.020" end="01:03:57.608">
-        <span tts:fontStyle="italic">- [mannenstem] het aantal doden stijgt.</span>
+        <span tts:fontStyle="italic">- het aantal doden stijgt.</span>
       </p>
       <p begin="01:03:59.144" end="01:04:03.144"><span tts:fontStyle="italic">We realiseerden ons dat</span><br/>de wetenschap tegen de muur stond.</p>
       <p begin="01:04:04.218" end="01:04:07.253"><span tts:fontStyle="italic">We bleven proberen meer medicijnen</span><br/>goed te keuren om infecties te voorkomen</p>
@@ -1195,7 +1215,7 @@
       <p begin="01:06:05.919" end="01:06:07.295">Misschien vertelt u het ons gewoon niet.</p>
       <p begin="01:06:07.295" end="01:06:10.391"><span tts:fontStyle="italic">- Mr. Borsick, kunt u een</span><br/>meeting plannen met de FDA?</p>
       <p begin="01:06:10.391" end="01:06:11.829">- Ja, zo snel we kunnen.</p>
-      <p begin="01:06:11.829" end="01:06:14.076"><span tts:fontStyle="italic">- [Peter] We hebben al veel bedrijven</span><br/>geholpen met deze procedures.</p>
+      <p begin="01:06:11.829" end="01:06:14.076"><span tts:fontStyle="italic">- We hebben al veel bedrijven</span><br/>geholpen met deze procedures.</p>
       <p begin="01:06:14.076" end="01:06:17.442"><span tts:fontStyle="italic">We kunnen een medicijn uit uw laboratorium</span><br/>op de markt brengen</p>
       <p begin="01:06:17.442" end="01:06:20.029">
         <span tts:fontStyle="italic">binnen twee jaar als u met ons meewerkt.</span>
@@ -1207,14 +1227,14 @@
       <p begin="01:06:36.033" end="01:06:38.909">Het zal zich verspreiden,<br/>het zal me doden.</p>
       <p begin="01:06:38.909" end="01:06:42.829">En u gaat ook op mijn begrafenis komen,<br/>want u bent daar voor verantwoordelijk.</p>
       <p begin="01:06:42.829" end="01:06:46.440">U bent mijn moodenaar,<br/>met uw overhemd en stropdas.</p>
-      <p begin="01:06:50.918" end="01:06:54.020"><span tts:fontStyle="italic">- [Ed Bradley] Denk je dat je lang</span><br/>genoeg leeft om nog te kunnen genezen?</p>
+      <p begin="01:06:50.918" end="01:06:54.020"><span tts:fontStyle="italic">- Denk je dat je lang</span><br/>genoeg leeft om nog te kunnen genezen?</p>
       <p begin="01:06:54.020" end="01:06:55.963">- Nee, ik niet.</p>
       <p begin="01:06:56.511" end="01:06:58.945">
-        <span tts:fontStyle="italic">- [Ed] Denk je dat je zult overleven? </span>
+        <span tts:fontStyle="italic">- Denk je dat je zult overleven? </span>
       </p>
       <p begin="01:07:00.345" end="01:07:01.160">- Nee.</p>
       <p begin="01:07:02.822" end="01:07:05.179">- Denk je hieraan te zullen overlijden?</p>
-      <p begin="01:07:13.134" end="01:07:18.259">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:07:13.134" end="01:07:18.259"/>
       <p begin="01:07:20.850" end="01:07:23.047"><span tts:fontStyle="italic">- De woede hoopt zich almaar op</span><br/>en wordt steeds groter</p>
       <p begin="01:07:23.047" end="01:07:24.987">
         <span tts:fontStyle="italic">hoe meer mensen er dood gaan.</span>
@@ -1227,7 +1247,7 @@
         <span tts:fontStyle="italic">die soms een week later al dood waren.</span>
       </p>
       <p begin="01:07:34.518" end="01:07:37.105"><span tts:fontStyle="italic">Wat kunnen we doen?</span><br/>Hoe kunnen we helpen?</p>
-      <p begin="01:07:37.105" end="01:07:39.718"><span tts:fontStyle="italic">- [Jim] Ik denk dat de woede</span><br/>van ACT UP verandert</p>
+      <p begin="01:07:37.105" end="01:07:39.718"><span tts:fontStyle="italic">- Ik denk dat de woede</span><br/>van ACT UP verandert</p>
       <p begin="01:07:39.718" end="01:07:43.681">
         <span tts:fontStyle="italic">na zolang buitengesloten te zijn geweest. </span>
       </p>
@@ -1250,12 +1270,12 @@
       <p begin="01:08:41.011" end="01:08:44.412">een vrouw die HIV positief was zei:</p>
       <p begin="01:08:44.412" end="01:08:47.029">"Het is niet<br/>zoals de rest van je leven zal zijn."</p>
       <p begin="01:08:47.029" end="01:08:51.705">En voor veel van de aanwezigen<br/>was het de rest van hun leven.</p>
-      <p begin="01:08:51.705" end="01:08:54.495">[mensen zingen]</p>
+      <p begin="01:08:51.705" end="01:08:54.495"/>
       <p begin="01:08:54.495" end="01:08:58.170"><span tts:fontStyle="italic">- Er waren onvermijdelijke</span><br/>verschillen in prioriteiten.</p>
-      <p begin="01:08:58.170" end="01:09:00.085"><span tts:fontStyle="italic">- Dat weet je heel goed.</span><br/>- [mannenstem] Dat weet ik.</p>
+      <p begin="01:08:58.170" end="01:09:00.085"><span tts:fontStyle="italic">- Dat weet je heel goed.</span><br/>- Dat weet ik.</p>
       <p begin="01:09:00.085" end="01:09:03.816">- En het werd volledig buiten de<br/>NIH onderzoeksagenda gehouden.</p>
       <p begin="01:09:03.816" end="01:09:06.451">
-        <span tts:fontStyle="italic">- [mannenstem] Mee eens. </span>
+        <span tts:fontStyle="italic">- Mee eens. </span>
       </p>
       <p begin="01:09:06.451" end="01:09:11.270"><span tts:fontStyle="italic">- Ik herinner me veel vuile truckjes die</span><br/>uitgehaald werden en een hoop angst zaaide</p>
       <p begin="01:09:11.270" end="01:09:16.055"><span tts:fontStyle="italic">binnen de organisatie en dat</span><br/>diverse groepen dit elkaar aandeden.</p>
@@ -1265,25 +1285,25 @@
       <p begin="01:09:25.366" end="01:09:29.057">- Ik heb ook een paar van die haatbrieven<br/>gehad, maar die waren niet ondertekend.</p>
       <p begin="01:09:29.057" end="01:09:32.880"><span tts:fontStyle="italic">Nooit-- Ik zal nooit--</span><br/>- Dus je gaat er gewoon mee door?</p>
       <p begin="01:09:32.880" end="01:09:38.488">- Er waren toen een hoop beschuldigingen<br/>van sabotage en bedreigingen.</p>
-      <p begin="01:09:38.488" end="01:09:41.890">- [David Barr] Onze laatste spreker<br/>is Larry Kramer.</p>
-      <p begin="01:09:41.890" end="01:09:45.321"><span tts:fontStyle="italic">- [mannenstem] Waarom reageer je niet</span><br/>op de beschuldigingen?</p>
-      <p begin="01:09:45.321" end="01:09:47.617"><span tts:fontStyle="italic">- [David] Bill, je hebt toch</span><br/>het recht om te spreken, of niet?</p>
-      <p begin="01:09:47.617" end="01:09:49.042"><span tts:fontStyle="italic">Iedereen krijgt de kans om wat te zeggen.</span><br/>- [Bill] Lees me niet de les</p>
+      <p begin="01:09:38.488" end="01:09:41.890">- Onze laatste spreker<br/>is Larry Kramer.</p>
+      <p begin="01:09:41.890" end="01:09:45.321"><span tts:fontStyle="italic">- Waarom reageer je niet</span><br/>op de beschuldigingen?</p>
+      <p begin="01:09:45.321" end="01:09:47.617"><span tts:fontStyle="italic">- Bill, je hebt toch</span><br/>het recht om te spreken, of niet?</p>
+      <p begin="01:09:47.617" end="01:09:49.042"><span tts:fontStyle="italic">Iedereen krijgt de kans om wat te zeggen.</span><br/>- Lees me niet de les</p>
       <p begin="01:09:49.042" end="01:09:52.015">
         <span tts:fontStyle="italic">jij dom, lui, incompetent varken.</span>
       </p>
       <p begin="01:09:52.015" end="01:09:54.532">
-        <span tts:fontStyle="italic">- [David] Bill, iedreen heeft de flyer--</span>
+        <span tts:fontStyle="italic">- Bill, iedreen heeft de flyer--</span>
       </p>
-      <p begin="01:09:54.532" end="01:09:58.080"><span tts:fontStyle="italic">- [Bill] Je kunt zijn kont toch</span><br/>niet kussen voordat hij spreekt!</p>
-      <p begin="01:09:58.080" end="01:10:01.263"><span tts:fontStyle="italic">- [mannenstem] Klep dicht</span><br/>en laat hem antwoorden.</p>
+      <p begin="01:09:54.532" end="01:09:58.080"><span tts:fontStyle="italic">- Je kunt zijn kont toch</span><br/>niet kussen voordat hij spreekt!</p>
+      <p begin="01:09:58.080" end="01:10:01.263"><span tts:fontStyle="italic">- Klep dicht</span><br/>en laat hem antwoorden.</p>
       <p begin="01:10:01.263" end="01:10:03.447">- Luister!<br/>Er zijn een hoop mensen in het publiek,</p>
       <p begin="01:10:03.447" end="01:10:05.103">die wat willen vragen<br/>en praten over de behandeling.</p>
       <p begin="01:10:05.103" end="01:10:08.870">Ik denk dat het belangrijk is<br/>dat je dat ook laat gebeuren.</p>
-      <p begin="01:10:08.870" end="01:10:10.289"><span tts:fontStyle="italic">-[Bill] Oh, ga je nu het</span><br/>recht van spreken wegnemen?</p>
-      <p begin="01:10:10.289" end="01:10:13.554">- [mannenstem] Jij bent degene die nu<br/>een spreekbeurt interumpeert. Ik niet--</p>
-      <p begin="01:10:13.554" end="01:10:16.619">[man schreeuwt]</p>
-      <p begin="01:10:17.246" end="01:10:19.441"><span tts:fontStyle="italic">- [mannenstem] Jij stelt nu</span><br/>hetzelfde als George Bush --</p>
+      <p begin="01:10:08.870" end="01:10:10.289"><span tts:fontStyle="italic">- Oh, ga je nu het</span><br/>recht van spreken wegnemen?</p>
+      <p begin="01:10:10.289" end="01:10:13.554">- Jij bent degene die nu<br/>een spreekbeurt interumpeert. Ik niet--</p>
+      <p begin="01:10:13.554" end="01:10:16.619"/>
+      <p begin="01:10:17.246" end="01:10:19.441"><span tts:fontStyle="italic">- Jij stelt nu</span><br/>hetzelfde als George Bush --</p>
       <p begin="01:10:19.441" end="01:10:23.908">- De Pest! We zitten in het midden<br/>van een verrekte Pest!</p>
       <p begin="01:10:23.908" end="01:10:26.621">en jij gedraagt je als dit!</p>
       <p begin="01:10:32.877" end="01:10:34.307">De Pest!</p>
@@ -1329,7 +1349,7 @@
       <p begin="01:13:18.356" end="01:13:21.892">- Onze aanbevelingen, denk ik,<br/>hebben wat wetgeving nodig</p>
       <p begin="01:13:21.892" end="01:13:25.608">dus moeten we<br/>naar onze vrienden op de Hill</p>
       <p begin="01:13:25.608" end="01:13:29.385">en zien welke wonderen<br/>zij voor ons kunnen verrichten.</p>
-      <p begin="01:13:30.570" end="01:13:36.401">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:13:30.570" end="01:13:36.401"/>
       <p begin="01:13:39.081" end="01:13:43.092">- We hadden dit specifieke bestanddeel<br/>dat veelbelovend leek te zijn</p>
       <p begin="01:13:43.092" end="01:13:48.173">en de fysieke eigenschappen die we wilden,<br/>en het kon mogelijk een medicijn zijn.</p>
       <p begin="01:13:48.173" end="01:13:50.637">- Hij zei, "Laat ons dit testen<br/>op HIV geinfecteerde mensen</p>
@@ -1350,31 +1370,31 @@
       <p begin="01:14:32.634" end="01:14:35.025">en in een compleet andere denkrichting.</p>
       <p begin="01:14:35.025" end="01:14:36.332">Dus nu was de vraag</p>
       <p begin="01:14:36.332" end="01:14:39.993">"Ok, wat moeten we nu doen<br/>om het mogelijk te maken?"</p>
-      <p begin="01:14:41.356" end="01:14:43.062">[publiek maakt geluid]</p>
+      <p begin="01:14:41.356" end="01:14:43.062"/>
       <p begin="01:14:43.062" end="01:14:47.130"><span tts:fontStyle="italic">- Dit is het begin van het eerste seizoen</span><br/>om de volgende president te kiezen.</p>
       <p begin="01:14:47.130" end="01:14:50.088"><span tts:fontStyle="italic">We willen een boodschap sturen</span><br/>aan alle kandidaten.</p>
       <p begin="01:14:50.088" end="01:14:54.769">We hebben ze nog niet gehoord zich<br/>actief uit te laten over de Aids Pest</p>
       <p begin="01:14:54.769" end="01:14:57.768">en we dachten dat het beter was<br/>ze een bericht te sturen</p>
       <p begin="01:14:57.768" end="01:15:00.221">door met onze voeten te stemmen<br/>in de straten.</p>
-      <p begin="01:15:00.221" end="01:15:01.259">- [applaus]</p>
+      <p begin="01:15:00.221" end="01:15:01.259"/>
       <p begin="01:15:01.259" end="01:15:05.116"><span tts:fontStyle="italic">- Ik wil oproepen voor een</span><br/>massale demonstratie in Washington,</p>
       <p begin="01:15:05.116" end="01:15:08.763">
         <span tts:fontStyle="italic">het weekend dat het AIDS gilde er is.</span>
       </p>
       <p begin="01:15:08.763" end="01:15:14.560"><span tts:fontStyle="italic">We moeten White House omsingelen</span><br/>met mensen die bezorgd zijn over Aids</p>
       <p begin="01:15:14.560" end="01:15:19.179">om Bush uit het White House te zetten!</p>
-      <p begin="01:15:23.507" end="01:15:25.903"><span tts:fontStyle="italic">- [nieuwsman] Gisteravond,</span><br/>heeft een man Clinton onderbroken,</p>
+      <p begin="01:15:23.507" end="01:15:25.903"><span tts:fontStyle="italic">- Gisteravond,</span><br/>heeft een man Clinton onderbroken,</p>
       <p begin="01:15:25.903" end="01:15:30.204"><span tts:fontStyle="italic">met de beschuldiging dat</span><br/>hij Aids niet bevechtte in Arkansas.</p>
       <p begin="01:15:30.204" end="01:15:34.111">- Toen Bob Rafsky Bill Clinton zag<br/>was dat allesbehalve plezierig,</p>
-      <p begin="01:15:34.111" end="01:15:38.062">- [Robert] Wij gaan dood aan Aids.<br/>Wat gaat u doen aan Aids?</p>
-      <p begin="01:15:38.062" end="01:15:39.253">[applaus]</p>
+      <p begin="01:15:34.111" end="01:15:38.062">- Wij gaan dood aan Aids.<br/>Wat gaat u doen aan Aids?</p>
+      <p begin="01:15:38.062" end="01:15:39.253"/>
       <p begin="01:15:39.253" end="01:15:41.448">
-        <span tts:fontStyle="italic">- [Bill Clinton] Vooral,</span>
+        <span tts:fontStyle="italic">- Vooral,</span>
       </p>
       <p begin="01:15:41.448" end="01:15:44.419">zal het een obsessie worden<br/>voor mij als president.</p>
       <p begin="01:15:44.419" end="01:15:46.537">- Bill, we gaan dood door verwaarlozing.</p>
       <p begin="01:15:46.537" end="01:15:48.772">- Dat is waarom ik me verkiesbaar stel<br/>als president, om er iets aan te doen.</p>
-      <p begin="01:15:48.772" end="01:15:50.318">[Robert schreeuwt]</p>
+      <p begin="01:15:48.772" end="01:15:50.318"/>
       <p begin="01:15:50.318" end="01:15:53.093">- Zou je kalm kunnen blijven?</p>
       <p begin="01:15:53.530" end="01:15:57.584">Ik voel jouw pijn!<br/>Ik voel jouw pijn!</p>
       <p begin="01:15:57.584" end="01:16:00.762">Maar als je me persoonlijk wilt aanvallen<br/>ben je niet veel beter dan Jerry Brown</p>
@@ -1383,7 +1403,7 @@
       <p begin="01:16:06.953" end="01:16:09.823">Als je 't er niet mee eens bent ga dan weg<br/>en support een andere presidentskandidaat,</p>
       <p begin="01:16:09.823" end="01:16:11.569">maar stop zo tegen me te praten.</p>
       <p begin="01:16:11.569" end="01:16:15.035">Het is geen zaak van persoonlijk aanvallen<br/>het is een kwestie van menselijk onrecht.</p>
-      <p begin="01:16:15.035" end="01:16:17.465">[applaus]</p>
+      <p begin="01:16:15.035" end="01:16:17.465"/>
       <p begin="01:16:17.719" end="01:16:20.518">- Ik kom hier vanavond<br/>omdat ik stervende ben aan Aids.</p>
       <p begin="01:16:20.518" end="01:16:23.019">en het maakt me niets uit wie<br/>de volgende president zal zijn, als er</p>
       <p begin="01:16:23.019" end="01:16:27.713">niets verandert aan 11 jaar verzuimen<br/>aandacht te geven aan deze epidemie.</p>
@@ -1391,44 +1411,44 @@
         <span tts:fontStyle="italic">- Ok, Eerst weg. </span>
       </p>
       <p begin="01:16:33.786" end="01:16:39.845">Wat deze week gebeurde was dat <br/>Aids een issue werd in deze campagne.</p>
-      <p begin="01:16:39.845" end="01:16:42.825">[applaus]</p>
+      <p begin="01:16:39.845" end="01:16:42.825"/>
       <p begin="01:16:46.695" end="01:16:49.027">
         <span tts:fontStyle="italic">Ik wil graag Bob Rafsky oproepen.</span>
       </p>
-      <p begin="01:16:49.027" end="01:16:51.867">[applaus]</p>
-      <p begin="01:16:51.867" end="01:16:54.990">&#9834; [Muziek] &#9834;<br/>[publiek schreeuwt]</p>
+      <p begin="01:16:49.027" end="01:16:51.867"/>
+      <p begin="01:16:51.867" end="01:16:54.990"/>
       <p begin="01:17:21.741" end="01:17:25.968">- Debatteer nooit met een wetenschapper,<br/>het geeft alleen maar problemen.</p>
       <p begin="01:17:26.346" end="01:17:30.513">Het lijkt er op dat we deze clowns<br/>moeten dwingen om</p>
       <p begin="01:17:30.513" end="01:17:33.855">de juiste dingen te zeggen <br/>zodat een van hen president kan worden,</p>
       <p begin="01:17:33.855" end="01:17:36.945">we kunnen hem dan verantwoordelijk houden<br/>om de juiste dingen te doen.</p>
       <p begin="01:17:36.945" end="01:17:37.706">
-        <span tts:fontStyle="italic">- [mannen] Yeah! </span>
+        <span tts:fontStyle="italic">- Yeah! </span>
       </p>
       <p begin="01:17:37.706" end="01:17:42.652">- Maar wat ik kwijt wil, het is belangrijk<br/>dat we allemaal weten welke de namen zijn</p>
       <p begin="01:17:42.652" end="01:17:46.925">die ons leven kunnen redden, en dat zijn<br/>niet Bill Clinton, Jerry Brown, enz.</p>
       <p begin="01:17:46.925" end="01:17:51.013">Namen van mensen die ons leven kunnen<br/>redden zijn Iris Long, Mark Harrington,</p>
       <p begin="01:17:51.029" end="01:17:54.904">Peter Staley, enz. En het zullen zij zijn<br/>die altijd zullen worden genoemd</p>
       <p begin="01:17:54.904" end="01:17:59.132">als de helden van deze epidemie,<br/>net als hen die ons zijn voor gegaan.</p>
-      <p begin="01:17:59.132" end="01:18:02.086">[applaus]</p>
-      <p begin="01:18:03.749" end="01:18:05.295">- [pratend kind]</p>
+      <p begin="01:17:59.132" end="01:18:02.086"/>
+      <p begin="01:18:03.749" end="01:18:05.295"/>
       <p begin="01:18:05.295" end="01:18:07.816">- Oh, I haven&#146;t showered so I'm not--</p>
       <p begin="01:18:07.816" end="01:18:10.976">- No, I'm just playing in--</p>
       <p begin="01:18:12.485" end="01:18:18.262"><span tts:fontStyle="italic">- This is Bob's birthday, July 22nd, 1992.</span><br/>- Are you ready?</p>
       <p begin="01:18:18.262" end="01:18:20.112">Are you ready for the pyrotechnics?</p>
       <p begin="01:18:20.112" end="01:18:21.573">
-        <span tts:fontStyle="italic">- [kid] Yeah! </span>
+        <span tts:fontStyle="italic">- Yeah! </span>
       </p>
-      <p begin="01:18:24.326" end="01:18:26.274">[applause]</p>
+      <p begin="01:18:24.326" end="01:18:26.274"/>
       <p begin="01:18:27.420" end="01:18:40.085"><span tts:fontStyle="italic">- Lydia De Rios. Steve H.</span><br/>Mijn vrienden David Evans, Nicholas Kaiser</p>
       <p begin="01:18:41.098" end="01:18:47.244"><span tts:fontStyle="italic">George Marshall,</span><br/>en mijn geliefde broer, Dennis Jay.</p>
       <p begin="01:18:47.244" end="01:18:53.232"><span tts:fontStyle="italic">- Robert R. Hackett,</span><br/>Philip Gregory Alliston.</p>
       <p begin="01:18:55.290" end="01:18:59.369"><span tts:fontStyle="italic">Teri Ronan.</span><br/>- Michael Benetton.</p>
-      <p begin="01:18:59.369" end="01:19:02.519">[een stem]</p>
+      <p begin="01:18:59.369" end="01:19:02.519"/>
       <p begin="01:19:02.970" end="01:19:06.847"><span tts:fontStyle="italic">- Tina Chao.</span><br/>Perry Ellis.</p>
       <p begin="01:19:07.702" end="01:19:10.876"><span tts:fontStyle="italic">Freddie Mercury.</span><br/>Peter Allen.</p>
       <p begin="01:19:12.639" end="01:19:19.051"><span tts:fontStyle="italic">En aan de duizenden anderen </span><br/>die in stilte hebben geleden.</p>
-      <p begin="01:19:25.660" end="01:19:32.801">[publiek schreeuwt]</p>
-      <p begin="01:19:39.027" end="01:19:43.679">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:19:25.660" end="01:19:32.801"/>
+      <p begin="01:19:39.027" end="01:19:43.679"/>
       <p begin="01:19:43.679" end="01:19:47.917"><span tts:fontStyle="italic">- Ik denk dat de groep op zich goed werk</span><br/>doet en het maakt wat los,</p>
       <p begin="01:19:47.917" end="01:19:51.141"><span tts:fontStyle="italic">toch is het alsof je nog iets moois maakt</span><br/>van deze epidemie</p>
       <p begin="01:19:51.423" end="01:19:54.831"><span tts:fontStyle="italic">en ik voelde dat ik zoiets moest doen,</span><br/>het is een manier om te laten zien</p>
@@ -1440,11 +1460,11 @@
       <p begin="01:20:07.431" end="01:20:09.935">"Dit is wat hij en Ronald Reagan<br/>voor hem hebben gedaan."</p>
       <p begin="01:20:09.935" end="01:20:12.138"><span tts:fontStyle="italic">Dit zijn onze geliefden</span><br/>en dit is wat er van hen over is</p>
       <p begin="01:20:12.138" end="01:20:15.617"><span tts:fontStyle="italic">en we brengen hen naar de persoon die</span><br/>verantwoordelijk is voor hun dood.</p>
-      <p begin="01:20:17.029" end="01:20:21.294">&#9834; [Muziek] &#9834;</p>
-      <p begin="01:20:32.392" end="01:20:36.426">[mensen zingen]</p>
-      <p begin="01:20:53.993" end="01:21:05.240">[volk zingt] ZET DE DODEN BIJ JE DEUR!<br/>WIJ PIKKEN HET NIET MEER!</p>
-      <p begin="01:21:11.347" end="01:21:49.592">&#9834; [Muziek] &#9834;</p>
-      <p begin="01:22:12.666" end="01:22:15.882">[mensen zingen]</p>
+      <p begin="01:20:17.029" end="01:20:21.294"/>
+      <p begin="01:20:32.392" end="01:20:36.426"/>
+      <p begin="01:20:53.993" end="01:21:05.240"> ZET DE DODEN BIJ JE DEUR!<br/>WIJ PIKKEN HET NIET MEER!</p>
+      <p begin="01:21:11.347" end="01:21:49.592"/>
+      <p begin="01:22:12.666" end="01:22:15.882"/>
       <p begin="01:22:27.038" end="01:22:28.763">
         <span tts:fontStyle="italic">- I love you Mike! </span>
       </p>
@@ -1465,7 +1485,7 @@
       <p begin="01:23:45.624" end="01:23:50.512">als je de werking, die de oorzaak is van<br/>Aids, kunt veranderen, doe dat dan.</p>
       <p begin="01:23:50.512" end="01:23:54.176">Het volgende wat ik weet is dat<br/>een van de ACT UP mensen zegt:</p>
       <p begin="01:23:54.176" end="01:23:58.034"><span tts:fontStyle="italic">"Bush moet zijn werking veranderen."</span><br/>je kunt er niet rationeel over denken.</p>
-      <p begin="01:24:17.213" end="01:24:28.042"><span tts:fontStyle="italic">- [Robert] Laat ieder weten dat dit geen</span><br/>politieke begrafenis is voor Mark Fischer.</p>
+      <p begin="01:24:17.213" end="01:24:28.042"><span tts:fontStyle="italic">- Laat ieder weten dat dit geen</span><br/>politieke begrafenis is voor Mark Fischer.</p>
       <p begin="01:24:28.042" end="01:24:37.732"><span tts:fontStyle="italic">Wie zou niet zijn moed of liefde voor ons</span><br/>door ons laten begraven of verbranden</p>
       <p begin="01:24:37.732" end="01:24:40.846"><span tts:fontStyle="italic">meer dan dat hij de aarde bezit zou</span><br/>willen laten nemen van zijn lichaam,</p>
       <p begin="01:24:40.846" end="01:24:44.252">
@@ -1495,14 +1515,14 @@
       <p begin="01:26:38.434" end="01:26:47.814">Niet omdat we dan kunnen leven, maar zodat<br/>Mark's ziel eindelijk kan rusten in vrede.</p>
       <p begin="01:26:53.651" end="01:26:59.725">In woede en smart, dit gevecht<br/>is pas over als we allemaal veilig zijn.</p>
       <p begin="01:27:07.629" end="01:27:11.831">ACT UP, vecht terug, bevecht AIDS.</p>
-      <p begin="01:27:18.166" end="01:27:23.755">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:27:18.166" end="01:27:23.755"/>
       <p begin="01:28:48.837" end="01:28:50.497">- Het debat over de Aids therapie heeft</p>
       <p begin="01:28:50.497" end="01:28:53.237">een Europees onderzoek opnieuw geopend<br/>die de effectiviteit van AZT onderzoekt</p>
       <p begin="01:28:53.237" end="01:28:59.441">Het alom voorgeschreven medicijn zou <br/>het HIV virus kunnen behandelen.</p>
-      <p begin="01:28:59.441" end="01:29:03.244"><span tts:fontStyle="italic">- [Larry] Dit onderzoek heeft aangetoond</span><br/>dat wat andere onderzoeken al bewezen</p>
+      <p begin="01:28:59.441" end="01:29:03.244"><span tts:fontStyle="italic">- Dit onderzoek heeft aangetoond</span><br/>dat wat andere onderzoeken al bewezen</p>
       <p begin="01:29:03.244" end="01:29:06.785">dat het medicijn op zijn best redelijk is<br/>maar meestal waardeloos,</p>
       <p begin="01:29:06.785" end="01:29:08.700">zeker niet goed voor je <br/>in het beginstadium.</p>
-      <p begin="01:29:08.700" end="01:29:12.758"><span tts:fontStyle="italic">- [nieuwsman] Twee andere medicijnen,</span><br/>DDI en DDC, werden goedgekeurd omdat ze</p>
+      <p begin="01:29:08.700" end="01:29:12.758"><span tts:fontStyle="italic">- Twee andere medicijnen,</span><br/>DDI en DDC, werden goedgekeurd omdat ze</p>
       <p begin="01:29:12.758" end="01:29:17.154"><span tts:fontStyle="italic">net zo goed waren als AZT wat betekent dat</span><br/>ze ook niet erg goed zouden kunnen zijn.</p>
       <p begin="01:29:17.301" end="01:29:21.848"><span tts:fontStyle="italic">Dit alles is moeilijk te begrijpen</span><br/>voor advocaten van mensen met AIDS.</p>
       <p begin="01:29:21.848" end="01:29:25.924">- We dachten dat we wat vooruitgang hadden<br/>geboekt in aidsbehandelingen in de laatste</p>
@@ -1547,17 +1567,17 @@
       <p begin="01:31:44.789" end="01:31:47.725">Tegenwoordig doen we dat<br/>in een paar maanden.</p>
       <p begin="01:31:47.725" end="01:31:51.129">- Maar u zei net dat dat 6 maanden was<br/>toch? Is dat zo snel mogelijk?</p>
       <p begin="01:31:51.129" end="01:31:53.273">- We kunnen het soms zelfs<br/>een beetje sneller.</p>
-      <p begin="01:31:53.273" end="01:31:56.659"><span tts:fontStyle="italic">- [nieuwsman] Er is een scheiding onder</span><br/>hen die een snelle goedkeuring willen</p>
+      <p begin="01:31:53.273" end="01:31:56.659"><span tts:fontStyle="italic">- Er is een scheiding onder</span><br/>hen die een snelle goedkeuring willen</p>
       <p begin="01:31:56.659" end="01:32:01.390"><span tts:fontStyle="italic">gebaseerd op vroege indicaties van succes,</span><br/>en de Treatment Action Group, of TAG.</p>
       <p begin="01:32:01.390" end="01:32:05.868"><span tts:fontStyle="italic">TAG heeft de FDA gevraagd om een</span><br/>versnelde procedure te her-overwegen.</p>
       <p begin="01:32:06.022" end="01:32:07.342">
-        <span tts:fontStyle="italic">- [Peter] We vertelden de FDA,</span>
+        <span tts:fontStyle="italic">- We vertelden de FDA,</span>
       </p>
       <p begin="01:32:07.342" end="01:32:11.455"><span tts:fontStyle="italic">"Nee, de maatschappij heeft u gevraagd</span><br/>dit medicijn snel goed te keuren.</p>
       <p begin="01:32:11.455" end="01:32:13.831">
         <span tts:fontStyle="italic">Ze hebben eerst meer data nodig.</span>
       </p>
-      <p begin="01:32:14.047" end="01:32:18.011"><span tts:fontStyle="italic">- [nieuwsman] TAG vraagt de FDA</span><br/>om Saquinavir wat sneller te bekijken,</p>
+      <p begin="01:32:14.047" end="01:32:18.011"><span tts:fontStyle="italic">- TAG vraagt de FDA</span><br/>om Saquinavir wat sneller te bekijken,</p>
       <p begin="01:32:18.011" end="01:32:21.215"><span tts:fontStyle="italic">de eerste protease remmer</span><br/>die om goedkeuring vraagt.</p>
       <p begin="01:32:21.215" end="01:32:25.176"><span tts:fontStyle="italic">- We willen zeker zijn dat we niet opnieuw</span><br/>fouten maken zoals met AZT en DDI.</p>
       <p begin="01:32:25.176" end="01:32:28.450"><span tts:fontStyle="italic">Dit is een nieuwe soort medicijn.</span><br/>We moeten weten of het werkt.</p>
@@ -1567,7 +1587,7 @@
       <p begin="01:32:43.787" end="01:32:47.465">veel problemen in de manier hoe medicijnen<br/>getest worden en testen worden gedaan.</p>
       <p begin="01:32:47.465" end="01:32:50.446">Maar velen van ons denken twijfelend dat--</p>
       <p begin="01:32:51.400" end="01:32:55.585">een versnelde goedkeuring <br/>niet altijd HET antwoord is.</p>
-      <p begin="01:32:55.585" end="01:32:58.355"><span tts:fontStyle="italic">- [Bill] Tenet maakte hun goedkeuring</span><br/>voor deze lange simpele proef van</p>
+      <p begin="01:32:55.585" end="01:32:58.355"><span tts:fontStyle="italic">- Tenet maakte hun goedkeuring</span><br/>voor deze lange simpele proef van</p>
       <p begin="01:32:58.355" end="01:33:03.419">18.000 mensen die ze in een placebo<br/>gecontroleerd onderzoek wilden stoppen,</p>
       <p begin="01:33:03.419" end="01:33:05.881">waar een-derde een placebo zal krijgen.</p>
       <p begin="01:33:05.881" end="01:33:09.297">Ze drukten dit idee er bij de FDA door<br/>in een geheime meeting,</p>
@@ -1598,7 +1618,7 @@
       <p begin="01:34:26.695" end="01:34:31.458">Wat we gedaan hebben werd gepresenteerd<br/>aan Merck die het aan de FDA presenteerde.</p>
       <p begin="01:34:31.458" end="01:34:34.309">We wilden een <br/>gemeenschappelijke discussie starten.</p>
       <p begin="01:34:34.309" end="01:34:38.756">- Ik wil alleen Greg en Derek bedanken<br/>om ons hierover te komen vertellen.</p>
-      <p begin="01:34:38.756" end="01:34:40.317">[applaus]</p>
+      <p begin="01:34:38.756" end="01:34:40.317"/>
       <p begin="01:34:40.317" end="01:34:44.219">- omdat we niets gehoord hadden<br/>totdat we er over lazen in Barrons.</p>
       <p begin="01:34:44.219" end="01:34:46.763">- Als je het voorstel wilde horen,<br/>kon je het wel 40 keer horen.</p>
       <p begin="01:34:46.763" end="01:34:48.385">
@@ -1614,17 +1634,17 @@
       <p begin="01:35:00.217" end="01:35:02.117">praten wat langs elkaar heen.</p>
       <p begin="01:35:02.117" end="01:35:05.143">Probeer niet te schreeuwen, probeer niet<br/>elkaar naar de keel te vliegen.</p>
       <p begin="01:35:05.143" end="01:35:08.948">Maar praten alleen, over de verschillen,<br/>kan worden doorbroken.</p>
-      <p begin="01:35:08.948" end="01:35:14.695">[publiek schreeuwt]</p>
-      <p begin="01:35:17.634" end="01:35:21.151"><span tts:fontStyle="italic">- [David] 93 en 95 </span><br/>waren de slechtste jaren.</p>
+      <p begin="01:35:08.948" end="01:35:14.695"/>
+      <p begin="01:35:17.634" end="01:35:21.151"><span tts:fontStyle="italic">- 93 en 95 </span><br/>waren de slechtste jaren.</p>
       <p begin="01:35:21.151" end="01:35:26.441">Het was een verschrikkelijke tijd.<br/>Dat waren de slechtste jaren.</p>
       <p begin="01:35:31.239" end="01:35:33.980">En toen hadden we geluk.</p>
-      <p begin="01:35:34.611" end="01:35:41.550">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:35:34.611" end="01:35:41.550"/>
       <p begin="01:36:23.675" end="01:36:26.268">- en ik heb er in verloren.</p>
       <p begin="01:36:31.353" end="01:36:36.389">En zovelen--<br/>zo veel goede mensen.</p>
       <p begin="01:36:37.362" end="01:36:39.027">En...</p>
       <p begin="01:36:40.993" end="01:36:42.316">Weet je...</p>
       <p begin="01:36:43.100" end="01:36:47.331">zoals in elke oorlog, vraag je je af<br/>waarom je thuis kwam--</p>
-      <p begin="01:36:50.331" end="01:36:53.275">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:36:50.331" end="01:36:53.275"/>
       <p begin="01:37:01.651" end="01:37:06.524"><span tts:fontStyle="italic">- Mark verzamelde al onze schrijfsels.</span><br/>Stukken die elk van ons gemaakt had over</p>
       <p begin="01:37:06.524" end="01:37:09.720">wat er fout was gegaan in de wijze waarop<br/>we de eerdere medicijnen hadden bekeken</p>
       <p begin="01:37:09.720" end="01:37:13.699">en wat we al eerder fout deden<br/>in het uitvogelen waarom</p>
@@ -1672,7 +1692,7 @@
       <p begin="01:39:43.204" end="01:39:46.809">als we maar hard en snel werkten.....<br/>Je weet het, het gebeurde......</p>
       <p begin="01:39:50.883" end="01:39:56.258">maar pas in 96 en dus...<br/>weet je, veel mensen zijn gestorven,</p>
       <p begin="01:39:56.258" end="01:40:02.060">Als Reagan iets eerder<br/>geld had gestopt in Aids...</p>
-      <p begin="01:40:05.288" end="01:40:08.610">[gniffelend]</p>
+      <p begin="01:40:05.288" end="01:40:08.610"/>
       <p begin="01:40:10.933" end="01:40:13.439">zouden ze niet allemaal dood zijn gegaan.</p>
       <p begin="01:40:15.844" end="01:40:22.518">- Ik voel me bevoorrecht. En er ziijn <br/>een hoop mogelijke redenen waarom</p>
       <p begin="01:40:22.518" end="01:40:27.630">maar ik vind het nog steeds erg moeilijk<br/>de toekomst te plannen en/of te accepteren</p>
@@ -1691,8 +1711,8 @@
       <p begin="01:41:52.928" end="01:41:56.668">
         <span tts:fontStyle="italic">isgewoon verbijsterend, ongelooflijk. </span>
       </p>
-      <p begin="01:41:58.242" end="01:42:00.706">[publiek zingt]</p>
-      <p begin="01:42:02.310" end="01:42:06.675"><span tts:fontStyle="italic">- [Larry] Elk medicijn dat er is, kwam er</span><br/>door ACT UP, daar ben ik van overtuigd.</p>
+      <p begin="01:41:58.242" end="01:42:00.706"/>
+      <p begin="01:42:02.310" end="01:42:06.675"><span tts:fontStyle="italic">- Elk medicijn dat er is, kwam er</span><br/>door ACT UP, daar ben ik van overtuigd.</p>
       <p begin="01:42:06.675" end="01:42:09.241"><span tts:fontStyle="italic">We hebben de denkkracht </span><br/>en we hebben de kracht op straat.</p>
       <p begin="01:42:09.241" end="01:42:11.433">
         <span tts:fontStyle="italic">We hebben goede en slechte agenten.</span>
@@ -1704,11 +1724,11 @@
       <p begin="01:42:29.115" end="01:42:31.490">en soms duizenden mensen.</p>
       <p begin="01:42:31.490" end="01:42:35.981">We hadden mensen met Aids, hun lichamen<br/>voorop in de strijd zettend, provocerend</p>
       <p begin="01:42:35.981" end="01:42:39.732">zeggende, <br/>"OK Het is mijn lijf, neem me maar mee."</p>
-      <p begin="01:42:39.732" end="01:42:45.340">- Ikzelf trok daar de lijn, ik wilde niet <br/>gearresteerd worden [lachend].</p>
+      <p begin="01:42:39.732" end="01:42:45.340">- Ikzelf trok daar de lijn, ik wilde niet <br/>gearresteerd worden .</p>
       <p begin="01:42:46.475" end="01:42:49.464">Zo ver wilde ik niet gaan.</p>
       <p begin="01:42:53.156" end="01:42:58.197">$$ Het aantal bedrijven dat nu <br/>effectieve protease remmers maakt: 7</p>
       <p begin="01:42:59.104" end="01:43:03.614">$$ Het aantal levens gered: 6.000.000</p>
-      <p begin="01:43:11.846" end="01:43:16.378"><span tts:fontStyle="italic">- [Peter] Ik wil afsluiten met woorden</span><br/>van vriend en Aids activist Peter Russo.</p>
+      <p begin="01:43:11.846" end="01:43:16.378"><span tts:fontStyle="italic">- Ik wil afsluiten met woorden</span><br/>van vriend en Aids activist Peter Russo.</p>
       <p begin="01:43:16.734" end="01:43:20.892"><span tts:fontStyle="italic">Als toekomstige generaties vragen </span><br/>wat we in de oorlog gedaan hebben,</p>
       <p begin="01:43:21.061" end="01:43:25.035"><span tts:fontStyle="italic">moeten we kunnen vertellen</span><br/>dat we er vochten.</p>
       <p begin="01:43:25.831" end="01:43:27.136">En we moeten wat achterlaten</p>
@@ -1721,16 +1741,16 @@
       <p begin="01:43:48.190" end="01:43:51.150">van: <br/>Er was eens een verschrikkelijke ziekte,</p>
       <p begin="01:43:51.150" end="01:43:54.711">en dat een dappere groep mensen<br/>op stond en vocht,</p>
       <p begin="01:43:54.711" end="01:43:59.145">en soms ook dood gingen, zodat <br/>anderen konden leven en vrij zijn.</p>
-      <p begin="01:44:00.869" end="01:44:02.522">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:44:00.869" end="01:44:02.522"/>
       <p begin="01:44:02.522" end="01:44:06.901">$$ Het aantal mensen dat sterft omdat ze <br/>de Aids medicijnen niet kunnen betalen:</p>
       <p begin="01:44:06.901" end="01:44:09.290">$$ 2.000.000 elk jaar<br/>5.000 elke dag, 4 elke minuut</p>
       <p begin="01:44:09.290" end="01:44:10.290">$$ ACT UP STOPT AIDS.</p>
-      <p begin="01:44:18.658" end="01:44:21.026">- [Peter spreekt]</p>
+      <p begin="01:44:18.658" end="01:44:21.026"/>
       <p begin="01:44:43.409" end="01:44:45.734">- Au! dat doet pijn!</p>
       <p begin="01:44:52.606" end="01:44:55.709">- Onze informatie is essentieel <br/>zodat dokters hun patienten</p>
       <p begin="01:44:55.709" end="01:44:58.260">de juiste behandeling kunnen geven.</p>
       <p begin="01:45:01.177" end="01:45:02.277"><span tts:fontStyle="italic">- OK.</span><br/>- Goed.</p>
-      <p begin="01:45:02.277" end="01:45:03.853">- [man spreekt]</p>
+      <p begin="01:45:02.277" end="01:45:03.853"/>
       <p begin="01:45:03.853" end="01:45:06.175">- Nee, dat neem ik niet.</p>
       <p begin="01:45:06.175" end="01:45:09.445">- Ik ben blij iedereen hier te zien.<br/>Je ziet er goed uit.</p>
       <p begin="01:45:14.317" end="01:45:18.178">- Ik stel voor dat we niet on-ethisch <br/>doen in een willekeurige proef</p>
@@ -1738,12 +1758,12 @@
       <p begin="01:45:23.255" end="01:45:27.064">- Als we HIV niet overal uitroeien kunnen<br/>we het nooit helemaal uitroeien</p>
       <p begin="01:45:32.832" end="01:45:36.933">- We kunnen zonder incidenten marcheren<br/>of ze kunnen ons arresteren,</p>
       <p begin="01:45:36.933" end="01:45:38.656">maar het zal lollig zijn.</p>
-      <p begin="01:45:42.302" end="01:45:46.541">- [man praat]</p>
+      <p begin="01:45:42.302" end="01:45:46.541"/>
       <p begin="01:45:50.325" end="01:45:53.365">- We maken er vandaag een eind aan.</p>
-      <p begin="01:45:55.555" end="01:46:00.976">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:45:55.555" end="01:46:00.976"/>
       <p begin="01:46:12.458" end="01:46:19.033">- Binnen twee jaar werd dat medicijn<br/>van reageerbuis tot volledig goedgekeurd.</p>
-      <p begin="01:46:22.222" end="01:46:26.173">[applaus]</p>
-      <p begin="01:46:29.438" end="01:46:33.759">&#9834; [Muziek] &#9834;</p>
+      <p begin="01:46:22.222" end="01:46:26.173"/>
+      <p begin="01:46:29.438" end="01:46:33.759"/>
     </div>
   </body>
 
