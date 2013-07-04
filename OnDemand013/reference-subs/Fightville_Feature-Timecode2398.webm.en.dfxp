@@ -85,7 +85,7 @@
         <span tts:fontStyle="italic">Now you know you're in trouble.</span>
       </p>
       <p begin="00:02:38.861" end="00:02:43.638">
-        <span tts:fontStyle="italic">Every fight has a story <br/>thats yet to be played out.</span>
+        <span tts:fontStyle="italic">Every fight has a story <br/>that's yet to be played out.</span>
       </p>
       <p begin="00:02:44.238" end="00:02:48.806">
         <span tts:fontStyle="italic">As a match maker, <br/>I have to imagine that story.</span>
@@ -172,50 +172,64 @@
       <p begin="00:05:14.714" end="00:05:18.907">[train honking]</p>
       <p begin="00:05:18.907" end="00:05:27.573">[thud,thud,thud]</p>
       <p begin="00:05:31.356" end="00:05:45.237">&#9834; [music] &#9834;</p>
-      <p begin="00:05:45.314" end="00:05:46.600">- [Tim] <span tts:fontStyle="italic">Defend! Defend! </span></p>
+      <p begin="00:05:45.314" end="00:05:46.600">- [Tim] Defend! Defend!</p>
       <p begin="00:05:46.600" end="00:05:47.350">&#9834; [music] &#9834;</p>
       <p begin="00:05:47.350" end="00:05:48.780">- I'm stuck.</p>
       <p begin="00:05:48.780" end="00:05:51.188">I know, come the other way! <br/>Come this way, come to me!</p>
-      <p begin="00:05:51.188" end="00:05:53.243">
-        <span tts:fontStyle="italic">Defend!</span>
-        <br/>
-        <span tts:fontStyle="italic">Don't get knocked out right here.</span>
-      </p>
-      <p begin="00:05:53.243" end="00:05:55.644">
-        <span tts:fontStyle="italic">There you go...</span>
-      </p>
+      <p begin="00:05:51.188" end="00:05:53.243">Defend!<br/>Don't get knocked out right here.</p>
+      <p begin="00:05:53.243" end="00:05:55.644">There you go...</p>
       <p begin="00:05:55.644" end="00:05:57.737">Feet on the wall, push away.</p>
-      <p begin="00:05:57.737" end="00:05:59.404">
-        <span tts:fontStyle="italic">Flip! Flip! Flip!</span>
-      </p>
+      <p begin="00:05:57.737" end="00:05:59.404">Flip! Flip! Flip!</p>
       <p begin="00:05:59.404" end="00:06:04.437">&#9834; [music] &#9834;</p>
       <p begin="00:06:21.902" end="00:06:23.902">
         <span tts:fontStyle="italic">[alarm ringing]</span>
       </p>
-      <p begin="00:06:23.902" end="00:06:28.907">-<span tts:fontStyle="italic">Stop. It's not your skill, its not yours.</span></p>
-      <p begin="00:06:28.907" end="00:06:33.459">- <span tts:fontStyle="italic">There's a music playing, this is Tim</span></p>
-      <p begin="00:06:36.196" end="00:06:38.314">-["Crazy" Tim Credeur] What <br/>we're doing today with MMA,</p>
-      <p begin="00:06:38.314" end="00:06:40.609">and with mixed martial arts.</p>
-      <p begin="00:06:40.609" end="00:06:44.414">Is what martial arts was always<br/>suppose to be.</p>
-      <p begin="00:06:44.429" end="00:06:49.040">And the revitalization of martial arts <br/>in America is starting to happen.</p>
-      <p begin="00:06:49.040" end="00:06:51.582">The reality of martial arts through MMA</p>
-      <p begin="00:06:51.582" end="00:06:55.531">Has been boiled down to, whats true<br/>and whats just crazy.</p>
+      <p begin="00:06:23.902" end="00:06:28.907">- Stop. It's not your skill, it's not yours.</p>
+      <p begin="00:06:28.907" end="00:06:33.459">There's too much music playing. This is Tim!</p>
+      <p begin="00:06:36.196" end="00:06:38.314">- <span tts:fontStyle="italic">["Crazy" Tim Credeur] What <br/>we're doing today with MMA,</span></p>
+      <p begin="00:06:38.314" end="00:06:40.609">
+        <span tts:fontStyle="italic">and with mixed martial arts.</span>
+      </p>
+      <p begin="00:06:40.609" end="00:06:44.414">
+        <span tts:fontStyle="italic">Is what martial arts was always<br/>supposed to be.</span>
+      </p>
+      <p begin="00:06:44.429" end="00:06:49.040">
+        <span tts:fontStyle="italic">And the revitalization of martial arts <br/>in America is starting to happen.</span>
+      </p>
+      <p begin="00:06:49.040" end="00:06:51.582">
+        <span tts:fontStyle="italic">The reality of martial arts through MMA</span>
+      </p>
+      <p begin="00:06:51.582" end="00:06:55.531">
+        <span tts:fontStyle="italic">Has been boiled down to, what's true<br/>and what's just crazy.</span>
+      </p>
       <p begin="00:06:55.531" end="00:06:57.309">What's crazy movie stuff.</p>
       <p begin="00:06:57.309" end="00:06:59.867">
         <span tts:fontStyle="italic">There's no 7 year old <br/>black belts over here. That's not real.</span>
       </p>
       <p begin="00:06:59.867" end="00:07:03.569">
-        <span tts:fontStyle="italic">We don't have 5 year olds doing <br/>flying jump kicks, through the walls.</span>
+        <span tts:fontStyle="italic">You don't have 5 year olds doing <br/>flying jump kicks, through the walls.</span>
       </p>
-      <p begin="00:07:03.569" end="00:07:05.620">That's just not the reality of it.</p>
+      <p begin="00:07:03.569" end="00:07:05.620">
+        <span tts:fontStyle="italic">That's just not the reality of it.</span>
+      </p>
       <p begin="00:07:05.620" end="00:07:07.851">[swoosh, swoosh]</p>
-      <p begin="00:07:08.543" end="00:07:10.743">These guys who've done <br/>these traditional martial arts,</p>
-      <p begin="00:07:10.743" end="00:07:12.303">In these traditional martial arts school</p>
-      <p begin="00:07:12.303" end="00:07:14.985">They can't win a fight in an MMA match.</p>
-      <p begin="00:07:14.985" end="00:07:16.620">How can that be possible?</p>
-      <p begin="00:07:16.620" end="00:07:19.394">If you spent 20 years<br/>in a martial arts academy.</p>
+      <p begin="00:07:08.543" end="00:07:10.743">
+        <span tts:fontStyle="italic">These guys who've done <br/>these traditional martial arts,</span>
+      </p>
+      <p begin="00:07:10.743" end="00:07:12.303">
+        <span tts:fontStyle="italic">In these traditional martial arts schools</span>
+      </p>
+      <p begin="00:07:12.303" end="00:07:14.985">
+        <span tts:fontStyle="italic">They can't win a fight in an MMA match.</span>
+      </p>
+      <p begin="00:07:14.985" end="00:07:16.620">
+        <span tts:fontStyle="italic">How can that be possible</span>
+      </p>
+      <p begin="00:07:16.620" end="00:07:19.394">
+        <span tts:fontStyle="italic">if you spent 20 years<br/>in a martial arts academy?</span>
+      </p>
       <p begin="00:07:19.394" end="00:07:21.771">
-        <span tts:fontStyle="italic">You've been doing kata's<br/> and breaking fake boards.</span>
+        <span tts:fontStyle="italic">You've been doing katas<br/> and breaking fake boards.</span>
       </p>
       <p begin="00:07:21.771" end="00:07:23.488">
         <span tts:fontStyle="italic">And wearing funny belts.</span>
@@ -224,14 +238,14 @@
         <span tts:fontStyle="italic">You haven't been training <br/>to be a fighter.</span>
       </p>
       <p begin="00:07:26.001" end="00:07:28.209">
-        <span tts:fontStyle="italic">You've been training<br/> to go be in bar and belly circus.</span>
+        <span tts:fontStyle="italic">You've been training to go be <br/>in the bar and the belly circus.</span>
       </p>
       <p begin="00:07:28.209" end="00:07:30.550">That's not martial arts,</p>
       <p begin="00:07:30.550" end="00:07:32.808">That's crazy talk, that's ridiculous.</p>
-      <p begin="00:07:32.808" end="00:07:34.575">When martial arts was developed<br/>for samurais and for the warriors</p>
-      <p begin="00:07:34.575" end="00:07:37.108">of the warrior caste in Asia,</p>
+      <p begin="00:07:32.808" end="00:07:34.975">When martial arts was developed<br/>for samurais and for the warriors</p>
+      <p begin="00:07:34.975" end="00:07:37.108">of the warrior caste in Asia,</p>
       <p begin="00:07:37.108" end="00:07:38.857">you know, people fell off.</p>
-      <p begin="00:07:38.857" end="00:07:41.394">And those people<br/>that did not get to become samurais.</p>
+      <p begin="00:07:38.857" end="00:07:41.394">And those people<br/>did not get to become samurais.</p>
       <p begin="00:07:41.394" end="00:07:44.681">They did not get to become warriors.</p>
       <p begin="00:07:44.681" end="00:07:47.147">Those people got to become farmers.</p>
       <p begin="00:07:47.147" end="00:07:49.296">To make it for everyone, <br/>like I've said before,</p>
@@ -244,14 +258,14 @@
       <p begin="00:08:03.001" end="00:08:04.586">
         <span tts:fontStyle="italic">And then wash your area off too, okay?</span>
       </p>
-      <p begin="00:08:04.586" end="00:08:08.426">Okay? That's like a health violation, ok</p>
+      <p begin="00:08:04.586" end="00:08:08.426">Okay? That's like a health violation, ok.</p>
       <p begin="00:08:08.426" end="00:08:10.852">- <span tts:fontStyle="italic">[Tim] Okay guys, look too, <br/>that's a good point.</span></p>
       <p begin="00:08:10.852" end="00:08:12.391">Health inspector came <br/>and there was some blood,</p>
       <p begin="00:08:12.391" end="00:08:14.283">and he was pissed you know, <br/>he didn't say much..</p>
       <p begin="00:08:14.283" end="00:08:17.621">But if you bleed or somethin' like that,<br/>make sure you clean your stuff up.</p>
       <p begin="00:08:17.621" end="00:08:21.276">Don't leave blood all over the place, <br/>it just make us look ridiculous.</p>
-      <p begin="00:08:21.276" end="00:08:25.776">We're suppose to be a martial arts school.</p>
-      <p begin="00:08:25.776" end="00:08:29.064">Help me, Help you</p>
+      <p begin="00:08:21.276" end="00:08:25.776">We're supposed to be a martial arts school.</p>
+      <p begin="00:08:25.776" end="00:08:29.064">Help me help you.</p>
       <p begin="00:08:29.064" end="00:08:40.212">&#9834; [music] &#9834;</p>
       <p begin="00:08:40.488" end="00:08:44.908">- <span tts:fontStyle="italic">[Gil] You know I grew up, <br/>watching men who work hard.</span></p>
       <p begin="00:08:44.908" end="00:08:48.041">

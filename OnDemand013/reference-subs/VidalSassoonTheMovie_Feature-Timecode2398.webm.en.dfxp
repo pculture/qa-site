@@ -126,12 +126,18 @@
       <p begin="00:04:08,485" end="00:04:26,257">[people chatting]</p>
       <p begin="00:04:26,257" end="00:04:29,096">- [Michael Gordon] So we're gonna go ahead<br xmlns="http://www.w3.org/1999/xhtml"/>and start assembling the wall</p>
       <p begin="00:04:29,096" end="00:04:30,890">because Vidal is coming to see it.</p>
-      <p begin="00:04:30,890" end="00:04:33,264">I've known Vidal about fifteen years</p>
-      <p begin="00:04:33,264" end="00:04:35,163">and I consider him a really good friend.</p>
+      <p begin="00:04:30,890" end="00:04:33,264">
+        <span tts:fontStyle="italic">I've known Vidal about fifteen years</span>
+      </p>
+      <p begin="00:04:33,264" end="00:04:35,163">
+        <span tts:fontStyle="italic">and I consider him a really good friend.</span>
+      </p>
       <p begin="00:04:35,163" end="00:04:38,777">I've always been in the position when<br xmlns="http://www.w3.org/1999/xhtml"/>I was the elder talking to other people.</p>
       <p begin="00:04:38,777" end="00:04:40,867">So, having someone <br xmlns="http://www.w3.org/1999/xhtml"/>who you respect immensely</p>
-      <p begin="00:04:40,867" end="00:04:44,502">and who has such an impact <br xmlns="http://www.w3.org/1999/xhtml"/>on people's lives as a friend.</p>
-      <p begin="00:04:44,502" end="00:04:46,653">It's rather wonderful.</p>
+      <p begin="00:04:40,867" end="00:04:44,502">and who has such an impact <br xmlns="http://www.w3.org/1999/xhtml"/>on people's lives as a friend</p>
+      <p begin="00:04:44,502" end="00:04:46,653">
+        <span tts:fontStyle="italic">is rather wonderful.</span>
+      </p>
       <p begin="00:04:46,653" end="00:04:49,202">
         <span tts:fontStyle="italic">The more I got to know him,<br/>I realized we had lot in common.</span>
       </p>
@@ -141,10 +147,10 @@
       <p begin="00:04:52,674" end="00:04:55,907">
         <span tts:fontStyle="italic">Both transitioned into having <br/>product companies.</span>
       </p>
-      <p begin="00:04:55,907" end="00:04:58,434">
+      <p begin="00:04:55,907" end="00:04:58,034">
         <span tts:fontStyle="italic">I realized that, actually,</span>
       </p>
-      <p begin="00:04:58,434" end="00:05:01,434">
+      <p begin="00:04:58,034" end="00:05:01,434">
         <span tts:fontStyle="italic">nobody had really recorded <br/>his achievements, his life.</span>
       </p>
       <p begin="00:05:01,434" end="00:05:06,049">
@@ -171,7 +177,7 @@
         <span tts:fontStyle="italic">I think he'll really be moved to see this.</span>
       </p>
       <p begin="00:05:27,546" end="00:05:31,291">
-        <span tts:fontStyle="italic">There were series of three<br/>4-hour interviews.</span>
+        <span tts:fontStyle="italic">There were series<br/>of 3 - 4-hour interviews.</span>
       </p>
       <p begin="00:05:31,291" end="00:05:33,125">
         <span tts:fontStyle="italic">Different places, different times.</span>
@@ -181,7 +187,7 @@
       </p>
       <p begin="00:05:37,399" end="00:05:49,441">[birds chirping] [water gushing]</p>
       <p begin="00:05:49,441" end="00:05:53,729">- So, you were born 1928, <br xmlns="http://www.w3.org/1999/xhtml"/>in Shepherds Bush?</p>
-      <p begin="00:05:53,729" end="00:05:57,017">- When I was, maybe, 2 1/2 to 3 ,</p>
+      <p begin="00:05:53,729" end="00:05:57,017">- When I was, maybe, 2 1/2 to 3,</p>
       <p begin="00:05:57,017" end="00:05:58,868">my mother was evicted.</p>
       <p begin="00:05:58,868" end="00:06:03,549">
         <span tts:fontStyle="italic">You have to remember, <br/>it was 1928 I was born.</span>
@@ -193,7 +199,7 @@
         <span tts:fontStyle="italic">My father left us. Had a young brother.</span>
       </p>
       <p begin="00:06:12,086" end="00:06:14,454">And unlike today, <br xmlns="http://www.w3.org/1999/xhtml"/>where we're multi-cultural,</p>
-      <p begin="00:06:16,954" end="00:06:17,954">being Jewish, we stood out in those days.</p>
+      <p begin="00:06:15,954" end="00:06:17,954">being Jewish, we stood out in those days.</p>
       <p begin="00:06:17,954" end="00:06:20,638">
         <span tts:fontStyle="italic">We needed somewhere to live.</span>
       </p>
