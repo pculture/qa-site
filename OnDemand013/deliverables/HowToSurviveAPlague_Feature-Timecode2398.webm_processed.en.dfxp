@@ -24,11 +24,11 @@
     <div>
       <p begin="00:00:30.566" end="00:00:34.547">&#65279;&#9834; [Music] &#9834;</p>
       <p begin="00:00:47.094" end="00:00:50.333" region="top"> Year 6 of the AIDS epidemic. </p>
-      <p begin="00:00:54.729" end="00:00:59.496" region="top"> Greenwich Village, New York City.<br xmlns="http://www.w3.org/1999/xhtml"/>The epicenter. $$</p>
-      <p begin="00:01:07.024" end="00:01:12.496" region="top"> With no drugs to treat the disease,<br xmlns="http://www.w3.org/1999/xhtml"/>AIDS is nearly 100% fatal. $$</p>
+      <p begin="00:00:54.729" end="00:00:59.496" region="top"> Greenwich Village, New York City.<br xmlns="http://www.w3.org/1999/xhtml"/>The epicenter. </p>
+      <p begin="00:01:07.024" end="00:01:12.496" region="top"> With no drugs to treat the disease,<br xmlns="http://www.w3.org/1999/xhtml"/>AIDS is nearly 100% fatal. </p>
       <p begin="00:01:12.496" end="00:01:16.369" region="top"> Panic drives a backlash<br xmlns="http://www.w3.org/1999/xhtml"/>of blame and anti-gay violence. </p>
-      <p begin="00:01:16.369" end="00:01:19.243" region="top"> Even hospitals<br xmlns="http://www.w3.org/1999/xhtml"/>routinely turn away the dying. $$</p>
-      <p begin="00:01:26.040" end="00:01:28.702" region="top"> Fighting for their lives,<br xmlns="http://www.w3.org/1999/xhtml"/>patients and their advocates $$</p>
+      <p begin="00:01:16.369" end="00:01:19.243" region="top"> Even hospitals<br xmlns="http://www.w3.org/1999/xhtml"/>routinely turn away the dying. </p>
+      <p begin="00:01:26.040" end="00:01:28.702" region="top"> Fighting for their lives,<br xmlns="http://www.w3.org/1999/xhtml"/>patients and their advocates </p>
       <p begin="00:01:28.702" end="00:01:30.902" region="top"> take matters into their own hands. </p>
       <p begin="00:01:31.535" end="00:01:34.312">- Welcome to ACT UP. We are <br xmlns="http://www.w3.org/1999/xhtml"/>the AIDS Coalition</p>
       <p begin="00:01:34.312" end="00:01:36.541">- [together] to unleash power.</p>
@@ -170,7 +170,7 @@
       <p begin="00:06:14.174" end="00:06:16.412">&#9834; [music] &#9834;</p>
       <p begin="00:06:46.178" end="00:06:49.314">[crowd shouting]</p>
       <p begin="00:06:49.413" end="00:06:52.436">&#9834; [music] &#9834;</p>
-      <p begin="00:07:15.077" end="00:07:18.061">$ How To Survive A Plague. $</p>
+      <p begin="00:07:15.077" end="00:07:18.061" region="top"> How To Survive A Plague.</p>
       <p begin="00:07:27.245" end="00:07:29.787">- I guess, I'm feeling pretty hopeless<br xmlns="http://www.w3.org/1999/xhtml"/>at the moment.</p>
       <p begin="00:07:29.787" end="00:07:36.845">I think that the biggest question that<br xmlns="http://www.w3.org/1999/xhtml"/>I'm facing now is how to remain hopeful</p>
       <p begin="00:07:36.845" end="00:07:39.768">in the face of increasing loss.</p>
@@ -212,15 +212,15 @@
         <span tts:fontStyle="italic">Everything I read said I had about<br/>two years to live, at most. </span>
       </p>
       <p begin="00:09:16.082" end="00:09:19.391">[Crowd shouting]</p>
-      <p begin="00:09:20.129" end="00:09:22.315">$ ACT UPS first protest<br xmlns="http://www.w3.org/1999/xhtml"/>March 24, 1987 $</p>
+      <p begin="00:09:20.129" end="00:09:22.315" region="top"> ACT UPS first protest<br xmlns="http://www.w3.org/1999/xhtml"/>March 24, 1987</p>
       <p begin="00:09:22.315" end="00:09:24.169">
         <span tts:fontStyle="italic">-[male voice] WHAT DO WE WANT?</span>
-        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <br/>
         <span tts:fontStyle="italic">-[crowd answering] A CURE!</span>
       </p>
       <p begin="00:09:24.169" end="00:09:26.224">
         <span tts:fontStyle="italic">-[male voice] WHEN DO WE WANT IT?</span>
-        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <br/>
         <span tts:fontStyle="italic">-[crowd answering] NOW!</span>
       </p>
       <p begin="00:09:26.224" end="00:09:28.653">
@@ -261,7 +261,7 @@
       <p begin="00:10:20.762" end="00:10:22.454">[car passing]</p>
       <p begin="00:10:23.741" end="00:10:26.375">
         <span tts:fontStyle="italic">-[male voice] They're coming.</span>
-        <br xmlns="http://www.w3.org/1999/xhtml"/>
+        <br/>
         <span tts:fontStyle="italic">You see that right there.</span>
       </p>
       <p begin="00:10:26.597" end="00:10:29.309">
@@ -350,16 +350,16 @@
       <p begin="00:13:33.884" end="00:13:36.818">
         <span tts:fontStyle="italic">I think everything has to be put<br/>in perspective. </span>
       </p>
-      <p begin="00:13:37.989" end="00:13:44.159">$ - We do not know whether this drug<br xmlns="http://www.w3.org/1999/xhtml"/>will do the same thing in a human being $</p>
-      <p begin="00:13:44.159" end="00:13:47.062">$ it does in test tube for<br xmlns="http://www.w3.org/1999/xhtml"/>HIV-infected cells. $</p>
-      <p begin="00:13:47.506" end="00:13:52.152">$ And we don&#8217;t know how this drug<br xmlns="http://www.w3.org/1999/xhtml"/>will respond to people $</p>
-      <p begin="00:13:52.183" end="00:13:54.446">$ who are HIV-positive. $</p>
-      <p begin="00:13:54.531" end="00:14:00.248">$ - I understand that and<br xmlns="http://www.w3.org/1999/xhtml"/>I'm willing to try to find out-- $</p>
-      <p begin="00:14:00.584" end="00:14:03.975">$ - I think this is the thing,<br xmlns="http://www.w3.org/1999/xhtml"/>it's the only thing I haven&#8217;t tried. $</p>
-      <p begin="00:14:03.975" end="00:14:05.965">$ I've tried everything else. $</p>
-      <p begin="00:14:05.965" end="00:14:08.485">$ - And if you'll just your name to this. $</p>
-      <p begin="00:14:15.340" end="00:14:18.727">$ - You'll have stories to tell<br xmlns="http://www.w3.org/1999/xhtml"/>in the future $</p>
-      <p begin="00:14:18.827" end="00:14:21.462">$ - [male] I'm sure we all will. $</p>
+      <p begin="00:13:37.989" end="00:13:44.159" region="top"> - We do not know whether this drug<br xmlns="http://www.w3.org/1999/xhtml"/>will do the same thing in a human being</p>
+      <p begin="00:13:44.159" end="00:13:47.062" region="top"> it does in test tube for<br xmlns="http://www.w3.org/1999/xhtml"/>HIV-infected cells.</p>
+      <p begin="00:13:47.506" end="00:13:52.152" region="top"> And we don&#8217;t know how this drug<br xmlns="http://www.w3.org/1999/xhtml"/>will respond to people</p>
+      <p begin="00:13:52.183" end="00:13:54.446" region="top"> who are HIV-positive.</p>
+      <p begin="00:13:54.531" end="00:14:00.248" region="top"> - I understand that and<br xmlns="http://www.w3.org/1999/xhtml"/>I'm willing to try to find out--</p>
+      <p begin="00:14:00.584" end="00:14:03.975" region="top"> - I think this is the thing,<br xmlns="http://www.w3.org/1999/xhtml"/>it's the only thing I haven&#8217;t tried.</p>
+      <p begin="00:14:03.975" end="00:14:05.965" region="top"> I've tried everything else.</p>
+      <p begin="00:14:05.965" end="00:14:08.485" region="top"> - And if you'll just your name to this.</p>
+      <p begin="00:14:15.340" end="00:14:18.727" region="top"> - You'll have stories to tell<br xmlns="http://www.w3.org/1999/xhtml"/>in the future</p>
+      <p begin="00:14:18.827" end="00:14:21.462" region="top"> - [male] I'm sure we all will.</p>
       <p begin="00:14:23.161" end="00:14:26.692">- [male] Okay. Iris Long is life-saving</p>
       <p begin="00:14:28.327" end="00:14:32.232">- <span tts:fontStyle="italic">You can't hear in the back,<br/>if you want to, just shout it out, please.</span></p>
       <p begin="00:14:36.090" end="00:14:41.345">- [Iris] This is a report of the<br xmlns="http://www.w3.org/1999/xhtml"/>American Society of Microbiology,</p>
@@ -1064,21 +1064,21 @@
       <p begin="00:44:39.704" end="00:44:44.565">Inside, Cardinal O'Connor<br xmlns="http://www.w3.org/1999/xhtml"/>is freely spreading his lies and rumors</p>
       <p begin="00:44:44.565" end="00:44:47.061">about the position of lesbians and gays.</p>
       <p begin="00:44:47.061" end="00:44:50.704">We're here to say,<br xmlns="http://www.w3.org/1999/xhtml"/>"We wanna go to heaven too."</p>
-      <p begin="00:44:50.704" end="00:44:55.857" region="top"> - <span tts:fontStyle="italic">Recent publicity indicates<br/>a possibility of protest activities</span> $$</p>
-      <p begin="00:44:55.857" end="00:44:58.815" region="top"> <span tts:fontStyle="italic">occurring within the Cathedral. </span>$$**</p>
-      <p begin="00:44:59.324" end="00:45:04.950" region="top"> <span tts:fontStyle="italic">We wish to remind all visitor<br/>to respect the prayerful atmosphere</span> $$</p>
-      <p begin="00:45:04.950" end="00:45:07.207" region="top"> <span tts:fontStyle="italic">at the Cathedral today.</span> $$</p>
+      <p begin="00:44:50.704" end="00:44:55.857" region="top"> - <span tts:fontStyle="italic">Recent publicity indicates<br/>a possibility of protest activities</span> </p>
+      <p begin="00:44:55.857" end="00:44:58.815" region="top"> <span tts:fontStyle="italic">occurring within the Cathedral. </span></p>
+      <p begin="00:44:59.324" end="00:45:04.950" region="top"> <span tts:fontStyle="italic">We wish to remind all visitor<br/>to respect the prayerful atmosphere</span> </p>
+      <p begin="00:45:04.950" end="00:45:07.207" region="top"> <span tts:fontStyle="italic">at the Cathedral today.</span> </p>
       <p begin="00:45:07.207" end="00:45:09.666">- J.C. here with the Fire and Brimstone<br xmlns="http://www.w3.org/1999/xhtml"/>network.</p>
       <p begin="00:45:09.666" end="00:45:12.189">And we would like to ask you <br xmlns="http://www.w3.org/1999/xhtml"/>a little bit about this</p>
       <p begin="00:45:12.189" end="00:45:14.748">large vision that you visited upon us.</p>
       <p begin="00:45:14.748" end="00:45:17.754">- Well, we decided to rename<br xmlns="http://www.w3.org/1999/xhtml"/>the cardinal, he's now Cardinal O'Condom.</p>
       <p begin="00:45:19.015" end="00:45:22.769">This is our message to him<br xmlns="http://www.w3.org/1999/xhtml"/>that condoms are safe, it's no fib.</p>
-      <p begin="00:45:22.769" end="00:45:27.761" region="top"> - <span tts:fontStyle="italic">And he then told them what was<br/>going to happen, it did happen.</span> $$</p>
-      <p begin="00:45:27.775" end="00:45:31.161" region="top"> <span tts:fontStyle="italic">[crowd shouting] Why are you <br/>murdering us? </span> $$</p>
-      <p begin="00:45:31.268" end="00:45:33.483" region="top"> <span tts:fontStyle="italic">Stop the madness!!!</span> $$</p>
-      <p begin="00:45:33.483" end="00:45:35.739" region="top"> - [priest] If everyone here <br xmlns="http://www.w3.org/1999/xhtml"/>could stand and pray&#8230; $$</p>
+      <p begin="00:45:22.769" end="00:45:27.761" region="top"> - <span tts:fontStyle="italic">And he then told them what was<br/>going to happen, it did happen.</span> </p>
+      <p begin="00:45:27.775" end="00:45:31.161" region="top"> <span tts:fontStyle="italic">[crowd shouting] Why are you <br/>murdering us? </span> </p>
+      <p begin="00:45:31.268" end="00:45:33.483" region="top"> <span tts:fontStyle="italic">Stop the madness!!!</span> </p>
+      <p begin="00:45:33.483" end="00:45:35.739" region="top"> - [priest] If everyone here <br xmlns="http://www.w3.org/1999/xhtml"/>could stand and pray&#8230; </p>
       <p begin="00:45:36.447" end="00:45:37.961" region="top"> <span tts:fontStyle="italic">Our Father-- </span></p>
-      <p begin="00:45:37.961" end="00:45:41.997" region="top"> - <span tts:fontStyle="italic">Prayers won't save the<br/>1 to 1.5 million people</span> $$</p>
+      <p begin="00:45:37.961" end="00:45:41.997" region="top"> - <span tts:fontStyle="italic">Prayers won't save the<br/>1 to 1.5 million people</span> </p>
       <p begin="00:45:41.997" end="00:45:45.476" region="top"> infected by human immunodeficiency virus! </p>
       <p begin="00:45:46.703" end="00:45:52.253">[whistle blowing]</p>
       <p begin="00:45:52.571" end="00:45:58.867">- Stop killing us! Stop killing us!<br xmlns="http://www.w3.org/1999/xhtml"/>We're not gonna take it anymore!</p>
@@ -1314,10 +1314,10 @@
       <p begin="00:55:04.579" end="00:55:09.522">
         <span tts:fontStyle="italic">This man had said that he would like <br/>to see a kinder, gentler nation. </span>
       </p>
-      <p begin="00:55:09.780" end="00:55:13.701">
+      <p begin="00:55:09.780" end="00:55:11.784">
         <span tts:fontStyle="italic">If you believe <br/>that the immigration policy</span>
       </p>
-      <p begin="00:55:13.701" end="00:55:13.701">
+      <p begin="00:55:07.689" end="00:55:13.701">
         <span tts:fontStyle="italic">barring people <br/>living with HIV disease</span>
       </p>
       <p begin="00:55:13.701" end="00:55:14.880">
@@ -1548,9 +1548,9 @@
       </p>
       <p begin="01:05:33.025" end="01:05:35.261">- <span tts:fontStyle="italic">I'm here with Peter Ryan... </span></p>
       <p begin="01:05:38.165" end="01:05:40.367">- <span tts:fontStyle="italic">We're from ACT UP New York. </span></p>
-      <p begin="01:05:40.367" end="01:05:44.076">$ - We're here basically to demand<br xmlns="http://www.w3.org/1999/xhtml"/>that you start to develop this drug $</p>
-      <p begin="01:05:44.076" end="01:05:45.552" region="top">$ as a potentially life-saving therapy </p>
-      <p begin="01:05:45.552" end="01:05:48.288" region="top"> for people with breast cancer <br xmlns="http://www.w3.org/1999/xhtml"/>and Kaposi sarcoma. $$</p>
+      <p begin="01:05:40.367" end="01:05:44.076" region="top"> - We're here basically to demand<br xmlns="http://www.w3.org/1999/xhtml"/>that you start to develop this drug</p>
+      <p begin="01:05:44.076" end="01:05:45.552" region="top"> as a potentially life-saving therapy </p>
+      <p begin="01:05:45.552" end="01:05:48.288" region="top"> for people with breast cancer <br xmlns="http://www.w3.org/1999/xhtml"/>and Kaposi sarcoma. </p>
       <p begin="01:05:48.288" end="01:05:51.824">- You already have the blood of<br xmlns="http://www.w3.org/1999/xhtml"/>several-thousand people on your hands</p>
       <p begin="01:05:51.854" end="01:05:55.570">and those of us like me<br xmlns="http://www.w3.org/1999/xhtml"/>who have Kaposi sarcoma are gonna die,</p>
       <p begin="01:05:55.570" end="01:05:58.082">and we are here until we get arrested.</p>
@@ -2172,8 +2172,8 @@
       <p begin="01:42:29.825" end="01:42:33.572">saying, "Fine. It's my body, <br xmlns="http://www.w3.org/1999/xhtml"/>take me away."</p>
       <p begin="01:42:33.572" end="01:42:39.174">- I drew the line there, I didn&#8217;t wanna<br xmlns="http://www.w3.org/1999/xhtml"/>get arrested [laughing].</p>
       <p begin="01:42:40.308" end="01:42:43.294">That far, I wouldn&#8217;t go.</p>
-      <p begin="01:42:46.982" end="01:42:52.018" region="top"> The number of companies now<br xmlns="http://www.w3.org/1999/xhtml"/>making effective protease inhibitors: 7 $$</p>
-      <p begin="01:42:52.924" end="01:42:57.430" region="top"> The number of lives saved:<br xmlns="http://www.w3.org/1999/xhtml"/>6,000,000 $$</p>
+      <p begin="01:42:46.982" end="01:42:52.018" region="top"> The number of companies now<br xmlns="http://www.w3.org/1999/xhtml"/>making effective protease inhibitors: 7 </p>
+      <p begin="01:42:52.924" end="01:42:57.430" region="top"> The number of lives saved:<br xmlns="http://www.w3.org/1999/xhtml"/>6,000,000 </p>
       <p begin="01:43:05.654" end="01:43:08.183">- <span tts:fontStyle="italic">[Peter] I'd like to close <br/>with words written</span></p>
       <p begin="01:43:08.183" end="01:43:10.181">
         <span tts:fontStyle="italic">by fellow AIDS activist, Peter Russo.</span>
@@ -2195,9 +2195,9 @@
       <p begin="01:43:44.918" end="01:43:48.476">and that a brave group of people<br xmlns="http://www.w3.org/1999/xhtml"/>stood up and fought,</p>
       <p begin="01:43:48.476" end="01:43:52.905">and in some cases died, so that<br xmlns="http://www.w3.org/1999/xhtml"/>others might live and be free.</p>
       <p begin="01:43:54.628" end="01:43:56.279">&#9834; [music] &#9834;</p>
-      <p begin="01:43:56.279" end="01:44:00.654" region="top"> The number of people who die<br xmlns="http://www.w3.org/1999/xhtml"/>because they can't afford AIDS drugs: $$</p>
-      <p begin="01:44:00.654" end="01:44:03.040" region="top"> 2,000,000 every year<br xmlns="http://www.w3.org/1999/xhtml"/>5,000 every day, 4 every minute $$</p>
-      <p begin="01:44:03.040" end="01:44:03.040" region="top"> ACT UP END AIDS. </p>
+      <p begin="01:43:56.279" end="01:44:00.654" region="top"> The number of people who die<br xmlns="http://www.w3.org/1999/xhtml"/>because they can't afford AIDS drugs: </p>
+      <p begin="01:44:00.654" end="01:44:03.040" region="top"> 2,000,000 every year<br xmlns="http://www.w3.org/1999/xhtml"/>5,000 every day, 4 every minute </p>
+      <p begin="01:44:03.040" end="01:44:05.438" region="top"> ACT UP END AIDS. </p>
       <p begin="01:44:12.399" end="01:44:14.764">- [Peter talking]</p>
       <p begin="01:44:37.125" end="01:44:39.448">- Ouch! That hurts!</p>
       <p begin="01:44:46.313" end="01:44:49.413">- Our information is essential<br xmlns="http://www.w3.org/1999/xhtml"/>so that doctors and patients</p>
