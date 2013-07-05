@@ -1,0 +1,63 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p>&#65279;- [Cara Waters]&lt;i&gt;Good afternoon,&lt;br/&gt;everyone&lt;/i&gt;</p>
+      <p>&lt;i&gt;and welcome to Smart Company&#8217;s&lt;br/&gt;first webinar of the year&lt;/i&gt;</p>
+      <p>&lt;i&gt;which is &#8220;How to Deal With Customers&lt;br/&gt;Who Won&#8217;t Pay&#8221;&lt;/i&gt;</p>
+      <p>&lt;i&gt;I think you agree it&#8217;s a&lt;br/&gt;pretty important topic for all S.M.E.&#8217;s&lt;/i&gt;</p>
+      <p>&lt;i&gt;My name is Cara Waters,&lt;br/&gt;I&#8217;m the editor of Smart Company&lt;/i&gt;</p>
+      <p>&lt;i&gt;and today I&#8217;m joined with our--&lt;br/&gt;virtually&lt;/i&gt;</p>
+      <p>&lt;i&gt;because they're in a different&lt;br/&gt;place from me. &lt;/i&gt;</p>
+      <p>&lt;i&gt;But Andrew Baird, who is a Principal in Accounting and Business Advisory at WHK&lt;/i&gt;</p>
+      <p>&lt;i&gt;and Emily Jaksh, whose task is&lt;br/&gt;Head Guru at HR Gurus.&lt;/i&gt;</p>
+      <p>&lt;i&gt;So for the webinar, if you haven&#8217;t&lt;br/&gt;logged in to one of these before,&lt;/i&gt;</p>
+      <p>&lt;i&gt;just to let you know, the way to&lt;br/&gt;participate is firstly by listening.&lt;/i&gt;</p>
+      <p>&lt;i&gt;The audio will automatically be&lt;br/&gt;streamed through your computer speakers,&lt;/i&gt;</p>
+      <p>&lt;i&gt;and another way is by&lt;/i&gt; Twitter.</p>
+      <p>&lt;i&gt;So you can use the&lt;/i&gt; @SmartCompany&lt;br/&gt;&lt;i&gt;or the&lt;/i&gt; #smartcowebinar.</p>
+      <p>&lt;i&gt;Now the major way though if you want&lt;br/&gt;to get really interactive&lt;/i&gt;</p>
+      <p>&lt;i&gt;is to ask questions via the questions pane, which is,&lt;/i&gt;</p>
+      <p>&lt;i&gt;you&#8217;ll see on your computer screens.&lt;/i&gt;</p>
+      <p>&lt;i&gt;What you&#8217;ll do is you type in your questions&lt;/i&gt;</p>
+      <p>&lt;i&gt;in the space at the bottom and click on send.&lt;/i&gt;</p>
+      <p>&lt;i&gt;I&#8217;ll then be asking our two presentors&lt;br/&gt;Andrew and Emily all your queries.&lt;/i&gt;</p>
+      <p>&lt;i&gt;So I really encourage you to send&lt;br/&gt;them through because--&lt;/i&gt;</p>
+      <p>&lt;i&gt;it is an important topic and something&lt;br/&gt;that I&#8217;m sure a lot of you&lt;/i&gt;</p>
+      <p>&lt;i&gt;do have questions about.&lt;/i&gt;</p>
+      <p>&lt;i&gt;Also, I just want to thank our&lt;br/&gt;partners for today&#8217;s webinar, who--&lt;/i&gt;</p>
+      <p>&lt;i&gt;business victor &#8211;&lt;br/&gt;which is Business Victoria,&lt;/i&gt;</p>
+      <p>&lt;i&gt;providing big help for&lt;br/&gt;small business.&lt;/i&gt;</p>
+      <p>&lt;i&gt;And one final reminder before I hand over to Andrew and Emily is that,&lt;/i&gt;</p>
+      <p>&lt;i&gt;you don&#8217;t have to worry about&lt;br/&gt;furiously copying down notes&lt;/i&gt;</p>
+      <p>&lt;i&gt;because we will send you copy&lt;br/&gt;of the slides to the webinar&lt;/i&gt;</p>
+      <p>&lt;i&gt;and recording of the webinar&lt;br/&gt;as well.&lt;/i&gt;</p>
+      <p>&lt;i&gt;So you can relax a little bit, although&lt;br/&gt;you're free to take notes if you want to.&lt;/i&gt;</p>
+      <p>&lt;i&gt;So, I'll now hand over and let them&lt;br/&gt;introduce themselves properly&lt;i&gt;&lt;/i&gt;&lt;/i&gt;</p>
+      <p>&lt;i&gt;to Andrew and Emily. &lt;/i&gt;</p>
+      <p>- &lt;i&gt;[Andrew] Great! Thanks, Cara!&lt;br/&gt;My name is Andrew Baird,&lt;/i&gt;</p>
+      <p>&lt;i&gt;I'm a principal with WHK&lt;br/&gt;[unintelligible]&lt;/i&gt;</p>
+      <p>&lt;i&gt;and we specialise in not going &lt;br/&gt;[unintelligible] S.M.E. market.&lt;/i&gt;</p>
+      <p>- &lt;i&gt;[Emily] And my name is Emily Jaksh&lt;br/&gt;and I'm also with the S.M.E. market.&lt;/i&gt;</p>
+      <p>&lt;i&gt;[unintelligible]&lt;/i&gt;</p>
+      <p>- &lt;i&gt;[Andrew]And today, [unintelligible] gonna be&lt;br/&gt;talking to you all about&lt;/i&gt;</p>
+      <p>&lt;i&gt;How we deal with customers who won't pay?&lt;br/&gt;And it's [unintelligible] and [unintelligible] &lt;/i&gt;</p>
+      <p>&lt;i&gt;First of all, we gotta be talking about&lt;br/&gt;[unintelligible] but [unintelligible]&lt;/i&gt;</p>
+      <p>&lt;i&gt;How to avoid [unintelligible] and tips&lt;br/&gt;for making customers coming right back&lt;/i&gt;</p>
+      <p>&lt;i&gt;and [unintelligible] deal [unintelligible]&lt;/i&gt;</p>
+      <p/>
+    </div>
+  </body>
+</tt>

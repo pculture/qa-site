@@ -1,0 +1,74 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00.843" end="00:00:06.169">[Steamy's Carpet Care]</p>
+      <p begin="00:00:06.400" end="00:00:09.221">[Comparing different carpet cleaners]</p>
+      <p begin="00:00:09.221" end="00:00:12.738">It is important to choose the right carpet cleaning business</p>
+      <p begin="00:00:12.738" end="00:00:16.215">because it is the difference between destroying your carpet</p>
+      <p begin="00:00:16.215" end="00:00:19.896">or making your carpet look nice and clean.</p>
+      <p begin="00:00:19.896" end="00:00:22.464">The first question you should ask is</p>
+      <p begin="00:00:22.464" end="00:00:24.554">who is actually going to do the job.</p>
+      <p begin="00:00:24.554" end="00:00:28.214">Is the person a trainee, a student?</p>
+      <p begin="00:00:28.214" end="00:00:31.221">Or is he actually a certified technician?</p>
+      <p begin="00:00:31.221" end="00:00:35.299">A certified technician would have to pass training</p>
+      <p begin="00:00:35.299" end="00:00:40.139">and collect yearly points with IICRC.</p>
+      <p begin="00:00:40.139" end="00:00:46.742">That's an international organization that provides training worldwide. </p>
+      <p begin="00:00:46.742" end="00:00:51.819">The technician should show you a card like that,</p>
+      <p begin="00:00:51.819" end="00:00:55.409">showing what sort of training he did.</p>
+      <p begin="00:00:55.409" end="00:00:59.749">You should be asking the technician that comes to your house</p>
+      <p begin="00:00:59.749" end="00:01:03.823">what sort of method he is going to use to clean the carpets.</p>
+      <p begin="00:01:03.823" end="00:01:06.149">Well, there is the dry cleaning method.</p>
+      <p begin="00:01:06.149" end="00:01:08.164">There is the steam cleaning method. </p>
+      <p begin="00:01:08.164" end="00:01:13.245">Dry cleaning is actually a method that was created to compensate </p>
+      <p begin="00:01:13.245" end="00:01:17.781">on steam-cleaning in commercial properties.</p>
+      <p begin="00:01:17.781" end="00:01:22.081">When properties would get steam cleaned on a yearly basis,</p>
+      <p begin="00:01:22.081" end="00:01:25.864">the properties would still get dirty during that year.</p>
+      <p begin="00:01:25.864" end="00:01:28.864">So they brought the dry cleaning as a system</p>
+      <p begin="00:01:28.864" end="00:01:35.661">to maintain that carpet to look good between the two steam cleaning methods.</p>
+      <p begin="00:01:35.661" end="00:01:38.500">Did they move furniture when they cleaned the carpet</p>
+      <p begin="00:01:38.500" end="00:01:44.102">or they didn't move the furniture or just go around the furniture when they do the job?</p>
+      <p begin="00:01:44.102" end="00:01:47.540">One of the questions you should ask a carpet cleaning company</p>
+      <p begin="00:01:47.540" end="00:01:50.459">is how many jobs do they do a day.</p>
+      <p begin="00:01:50.459" end="00:01:56.024">If a company would say to you that they do any more than 4 jobs a day,</p>
+      <p begin="00:01:56.024" end="00:02:00.302">that means they're not going to take the time in cleaning your carpets.</p>
+      <p begin="00:02:00.302" end="00:02:05.541">They'll be rushing in and rushing out as quick as they can to get to the next job.</p>
+      <p begin="00:02:05.541" end="00:02:09.630">For a 3-bedroom house with a hallway and a living area,</p>
+      <p begin="00:02:09.630" end="00:02:12.239">it should take roughly about 4 hours to do.</p>
+      <p begin="00:02:12.239" end="00:02:16.070">It's highly recommended when you ask your carpet cleaning company</p>
+      <p begin="00:02:16.070" end="00:02:20.813">what sort of method they use and what sort of process they use</p>
+      <p begin="00:02:20.813" end="00:02:24.700">like vacuum the carpet with hospital-grade vacuum cleaners,</p>
+      <p begin="00:02:24.700" end="00:02:31.379">agitate the carpet, steam clean the carpet with a truck-mounted machine,</p>
+      <p begin="00:02:31.379" end="00:02:35.234">and dry the carpet with drying pads.</p>
+      <p begin="00:02:35.234" end="00:02:38.582">The final touch would have to be grooming the carpet.</p>
+      <p begin="00:02:38.582" end="00:02:42.151">When you groom the carpet, you're getting rid of all the marks</p>
+      <p begin="00:02:42.151" end="00:02:46.647">that the drying, agitation, and the steam cleaning would leave on the carpet</p>
+      <p begin="00:02:46.647" end="00:02:50.262">to make the carpet look like brand new again.</p>
+      <p begin="00:02:50.262" end="00:02:52.580">You should ask the company you're choosing </p>
+      <p begin="00:02:52.580" end="00:02:57.510">if they do provide a written 100% money-back guarantee</p>
+      <p begin="00:02:57.510" end="00:02:59.540">if you're not satisfied with the job.</p>
+      <p begin="00:02:59.540" end="00:03:03.229">A good guarantee from a carpet cleaning company</p>
+      <p begin="00:03:03.229" end="00:03:06.943">would be if you're not happy with the job</p>
+      <p begin="00:03:06.943" end="00:03:11.358">they'll come back and do the job again free of charge.</p>
+      <p begin="00:03:11.358" end="00:03:13.442">If you're still unhappy with the job,</p>
+      <p begin="00:03:13.442" end="00:03:18.500">you make this company pay for a different carpet cleaning company</p>
+      <p begin="00:03:18.500" end="00:03:20.703">to come back and clean your carpet.</p>
+      <p begin="00:03:20.703" end="00:03:25.547">Finally, remember, it's not just about the cost.</p>
+      <p begin="00:03:25.547" end="00:03:30.590">It's about taking care of your precious and expensive carpet.</p>
+      <p begin="00:03:31.205" end="00:03:34.380">[Steamy's Carpet Care]</p>
+      <p begin="00:03:34.380" end="00:03:38.380">[www.steamys.com.au][1300 881 110]</p>
+    </div>
+  </body>
+</tt>
