@@ -1,0 +1,2242 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="">
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+      <region xml:id="top" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:extent="100% 100%" tts:origin="0% 0%" tts:textAlign="center"/>
+    </layout>
+  </head>
+  <body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:20,890" end="00:00:23,717">
+        <span tts:fontStyle="italic">(Narrator) I think in some ways, <br/>the skyline of a city</span>
+      </p>
+      <p begin="00:00:23,871" end="00:00:26,102">
+        <span tts:fontStyle="italic">can be compared to a human face,</span>
+      </p>
+      <p begin="00:00:26,656" end="00:00:29,001">
+        <span tts:fontStyle="italic">that you can read into those features,</span>
+      </p>
+      <p begin="00:00:29,310" end="00:00:32,220">
+        <span tts:fontStyle="italic">an enormous amount <br/>of the city's personality.</span>
+      </p>
+      <p begin="00:00:33,343" end="00:00:35,234"><br/>-<span tts:fontStyle="italic"> New York is a city of tall buildings,</span></p>
+      <p begin="00:00:35,280" end="00:00:37,196">
+        <span tts:fontStyle="italic">that's its essential identity.</span>
+      </p>
+      <p begin="00:00:39,716" end="00:00:43,199">
+        <span tts:fontStyle="italic">- The Twin Towers <br/>were limited in many ways,</span>
+      </p>
+      <p begin="00:00:43,199" end="00:00:45,180">
+        <span tts:fontStyle="italic">but they were maximum skyline.</span>
+      </p>
+      <p begin="00:00:47,448" end="00:00:48,492">
+        <span tts:fontStyle="italic">And for a lot of people,</span>
+      </p>
+      <p begin="00:00:48,492" end="00:00:51,155">
+        <span tts:fontStyle="italic"> they were part<br/>of orienting yourself in New York,</span>
+      </p>
+      <p begin="00:00:51,155" end="00:00:53,614">
+        <span tts:fontStyle="italic">'cause you could see them<br/>from almost everywhere.</span>
+      </p>
+      <p begin="00:00:56,631" end="00:00:58,557">
+        <span tts:fontStyle="italic">And with it gone, you feel that loss</span>
+      </p>
+      <p begin="00:00:59,894" end="00:01:02,330">
+        <span tts:fontStyle="italic">and I think in the end,</span>
+      </p>
+      <p begin="00:01:02,746" end="00:01:08,279">
+        <span tts:fontStyle="italic">it's a struggle for New York<br/>to get its city back.</span>
+      </p>
+      <p begin="00:01:13,578" end="00:01:16,656">
+        <span tts:fontStyle="italic">&#9834; [Everything Is Broken by Bob Dylan] &#9834;</span>
+      </p>
+      <p begin="00:01:27,711" end="00:01:30,882">
+        <span tts:fontStyle="italic">&#9834; Broken lines broken strings &#9834;</span>
+      </p>
+      <p begin="00:01:31,490" end="00:01:34,526">
+        <span tts:fontStyle="italic">&#9834; Broken threads broken springs &#9834;</span>
+      </p>
+      <p begin="00:01:35,244" end="00:01:38,120">
+        <span tts:fontStyle="italic">&#9834; Broken idols broken heads &#9834;</span>
+      </p>
+      <p begin="00:01:38,389" end="00:01:41,749">
+        <span tts:fontStyle="italic">&#9834; People sleeping in broken beds &#9834;</span>
+      </p>
+      <p begin="00:01:41,793" end="00:01:43,212" region="top"> 16 ACRES</p>
+      <p begin="00:01:43,273" end="00:01:44,328">
+        <span tts:fontStyle="italic">&#9834; Ain't no use jiving &#9834;</span>
+      </p>
+      <p begin="00:01:44,758" end="00:01:46,021">
+        <span tts:fontStyle="italic">&#9834; Ain't no use joking &#9834;</span>
+      </p>
+      <p begin="00:01:47,644" end="00:01:49,300">
+        <span tts:fontStyle="italic">&#9834; Everything is broken &#9834;</span>
+      </p>
+      <p begin="00:01:57,085" end="00:01:59,980">
+        <span tts:fontStyle="italic">&#9834; Broken bottles broken plates &#9834;</span>
+      </p>
+      <p begin="00:02:00,467" end="00:02:03,598">
+        <span tts:fontStyle="italic">&#9834; Broken switches broken gates &#9834;</span>
+      </p>
+      <p begin="00:02:04,800" end="00:02:07,340">
+        <span tts:fontStyle="italic">&#9834; Broken dishes broken pots &#9834;</span>
+      </p>
+      <p begin="00:02:07,753" end="00:02:10,995">
+        <span tts:fontStyle="italic">&#9834; Streets are filled with broken hearts &#9834;</span>
+      </p>
+      <p begin="00:02:11,388" end="00:02:14,678">
+        <span tts:fontStyle="italic">&#9834; Broken words never meant to be spoken &#9834;</span>
+      </p>
+      <p begin="00:02:16,336" end="00:02:18,588">
+        <span tts:fontStyle="italic">&#9834; Everything is broken &#9834;</span>
+      </p>
+      <p begin="00:02:36,743" end="00:02:40,119">
+        <span tts:fontStyle="italic">- [Scott Raab] New York City's response<br/>to 9/11 and the immediate aftermath,</span>
+      </p>
+      <p begin="00:02:40,396" end="00:02:44,313">
+        <span tts:fontStyle="italic">was exemplary. It was just--<br/>I think wonderful, in terms of people</span>
+      </p>
+      <p begin="00:02:44,449" end="00:02:48,881">genuinely opening their hearts<br/>and literally, in many cases,</p>
+      <p begin="00:02:48,881" end="00:02:53,299">embracing each other. People who had<br/>nothing in common except geography,</p>
+      <p begin="00:02:53,576" end="00:02:56,475">
+        <span tts:fontStyle="italic">suddenly realizing they had everything<br/>in common and they were a family.</span>
+      </p>
+      <p begin="00:02:56,801" end="00:03:00,123">
+        <span tts:fontStyle="italic">One community.<br/>And I think that's fantastic.</span>
+      </p>
+      <p begin="00:03:00,356" end="00:03:02,248">
+        <span tts:fontStyle="italic">And I think it felt great at the time.</span>
+      </p>
+      <p begin="00:03:03,110" end="00:03:07,504">You know, it didn't last forever.<br/>It wasn't ever going to last forever.</p>
+      <p begin="00:03:07,734" end="00:03:10,595">It would be nice, you know,<br/>to have that <span tts:fontStyle="italic">Kumbaya</span> moment,</p>
+      <p begin="00:03:10,595" end="00:03:13,431">just go on and on and on and on,<br/>ain't gonna happen,</p>
+      <p begin="00:03:13,431" end="00:03:16,310">ain't ever gonna happen,<br/>and it ain't ever gonna happen here.</p>
+      <p begin="00:03:17,663" end="00:03:19,679">[loud horn]</p>
+      <p begin="00:03:30,956" end="00:03:37,934">Here you have perhaps the most valuable<br/>16 acres on the face of the earth.</p>
+      <p begin="00:03:39,452" end="00:03:42,628">And suddenly, it's gone.</p>
+      <p begin="00:03:42,723" end="00:03:48,266">And these 16 acres at the center<br/>of the Cosmos, are empty.</p>
+      <p begin="00:03:49,276" end="00:03:55,879">And fair game, what fills that vacuum,<br/>depends on who you are.</p>
+      <p begin="00:03:56,840" end="00:03:58,688">
+        <span tts:fontStyle="italic">And the tug of war began immediately.</span>
+      </p>
+      <p begin="00:03:59,332" end="00:04:02,812">
+        <span tts:fontStyle="italic">- [Reporter] "Less than two months ago,<br/>Larry Silverstein's real estate company</span>
+      </p>
+      <p begin="00:04:02,812" end="00:04:04,966">
+        <span tts:fontStyle="italic">spent more than 3 billion dollars to lease</span>
+      </p>
+      <p begin="00:04:04,966" end="00:04:07,964"><span tts:fontStyle="italic"> the World Trade Center Towers</span><br/>for 99 years.</p>
+      <p begin="00:04:08,218" end="00:04:10,797">Last Tuesday, he not only suffered<br/>a professional loss </p>
+      <p begin="00:04:10,797" end="00:04:12,957">when the landmark buildings<br/>came crashing down, </p>
+      <p begin="00:04:12,957" end="00:04:14,446">but a personal one as well.</p>
+      <p begin="00:04:14,560" end="00:04:17,363">Several of his employees<br/>are among the missing.</p>
+      <p begin="00:04:17,747" end="00:04:20,160">- [Larry Silverstein] I've had the most<br/>gut wrenching experience of my life.</p>
+      <p begin="00:04:21,212" end="00:04:31,010">And to lose, for my people,<br/>their families, the devastation</p>
+      <p begin="00:04:31,010" end="00:04:32,915">that's been wrought<br/>to that part of Manhattan.</p>
+      <p begin="00:04:32,915" end="00:04:34,347">- [Reporter] Many people see<br/>that site now</p>
+      <p begin="00:04:34,347" end="00:04:36,526">really as hollowed ground</p>
+      <p begin="00:04:36,569" end="00:04:40,344">because there are thousands of bodies<br/>that are entombed there.</p>
+      <p begin="00:04:40,480" end="00:04:43,782">I mean, should we build<br/>a structure on that site?</p>
+      <p begin="00:04:44,221" end="00:04:46,548">-Well, I believe we should.</p>
+      <p begin="00:04:46,700" end="00:04:47,801">[phone ringing]</p>
+      <p begin="00:04:47,801" end="00:04:51,475">Hello. Oh hey, David. How are you?</p>
+      <p begin="00:04:51,644" end="00:04:54,561">- [Philip Nobel] Larry Silverstein<br/>was vilified immediately</p>
+      <p begin="00:04:54,561" end="00:04:58,840">as the greedy developer,<br/>because people in New York</p>
+      <p begin="00:04:58,840" end="00:05:00,231">don't know any other kind of developer.</p>
+      <p begin="00:05:00,634" end="00:05:02,150">- [Silverstein] It wouldn't surprise me,</p>
+      <p begin="00:05:02,150" end="00:05:05,881">if the replacement of the<br/>Twin 110-storey towers</p>
+      <p begin="00:05:05,881" end="00:05:11,360">ultimately results in the<br/>creation of four towers.</p>
+      <p begin="00:05:11,360" end="00:05:14,314">Perhaps, 50, 55--<br/>maybe 60 storeys in height.</p>
+      <p begin="00:05:14,516" end="00:05:19,285">- [Philip] The first thing he did was<br/>he came out with a plan for the site.</p>
+      <p begin="00:05:19,285" end="00:05:25,479">A kind of a sketch plan for the site<br/>that rebuilt all of the square footage</p>
+      <p begin="00:05:25,479" end="00:05:27,774">to the inch and then<br/>threw in a little park.</p>
+      <p begin="00:05:27,986" end="00:05:31,184">And that was a week after the attack.<br/>You know, too early.</p>
+      <p begin="00:05:32,439" end="00:05:34,798">Then, he told the <span tts:fontStyle="italic">Wall Street Journal</span></p>
+      <p begin="00:05:34,798" end="00:05:38,265">that it would be a tragedy<br/>for him not to rebuild.</p>
+      <p begin="00:05:46,313" end="00:05:48,757">
+        <span tts:fontStyle="italic">- [Silverstein] It came down,<br/>I think a day or two later.</span>
+      </p>
+      <p begin="00:05:49,221" end="00:05:52,356">
+        <span tts:fontStyle="italic">And it was-- God,<br/>it was awful. It was awful.</span>
+      </p>
+      <p begin="00:05:54,530" end="00:05:58,528">I mean, you couldn't describe it.<br/>And there were firemen all over the site,</p>
+      <p begin="00:05:59,253" end="00:06:02,460">trying to find comrades,<br/>policemen trying to find--</p>
+      <p begin="00:06:02,705" end="00:06:09,893">I mean, it was excruciating.</p>
+      <p begin="00:06:15,519" end="00:06:18,964">- [Philip] One of the things people forget<br/>about the event and the re-development</p>
+      <p begin="00:06:18,964" end="00:06:24,850">is this little special period of time,<br/>between the Tuesday of the attack</p>
+      <p begin="00:06:25,890" end="00:06:29,645">and the Friday when <br/>George Bush came to town.</p>
+      <p begin="00:06:29,811" end="00:06:33,358">
+        <span tts:fontStyle="italic">There is a sense, I think, among, <br/>you know, I don't think I was alone</span>
+      </p>
+      <p begin="00:06:33,358" end="00:06:35,957">
+        <span tts:fontStyle="italic">in feeling of that it was <br/>an open narrative.</span>
+      </p>
+      <p begin="00:06:36,539" end="00:06:40,876">- [George Bush] I want you all to know--<br/>you can't go any louder.</p>
+      <p begin="00:06:40,876" end="00:06:42,847">[people laugh]</p>
+      <p begin="00:06:43,267" end="00:06:48,691">
+        <span tts:fontStyle="italic">- [Philip] Then Bush came to town<br/>on Friday the 14th and he was touring site</span>
+      </p>
+      <p begin="00:06:48,691" end="00:06:51,362">and someone, he was speaking to<br/>the hard hats</p>
+      <p begin="00:06:51,362" end="00:06:54,291"> who are cleaning the place up,<br/>standing on this pile of God knows what,</p>
+      <p begin="00:06:54,357" end="00:06:57,210">and someone said, "I can't hear you."</p>
+      <p begin="00:06:57,280" end="00:07:01,201">And he said, fairly famously,<br/>- [Bush] "I can hear you."</p>
+      <p begin="00:07:01,201" end="00:07:05,780">[everybody laughs and cheers]</p>
+      <p begin="00:07:06,855" end="00:07:12,165">"I can hear you. The rest of the world<br/>hears you and the people--</p>
+      <p begin="00:07:12,165" end="00:07:16,190">[cheering continues]</p>
+      <p begin="00:07:16,230" end="00:07:20,933">and the people who knocked these<br/>buildings down, will hear all of us soon.</p>
+      <p begin="00:07:20,992" end="00:07:23,956">[all cheer]</p>
+      <p begin="00:07:24,390" end="00:07:28,810">
+        <span tts:fontStyle="italic">- [Philip] As this was an attack on <br/>our freedom narrative, came into being,</span>
+      </p>
+      <p begin="00:07:28,293" end="00:07:32,320">pressure on the site, <br/>in addition to all the other things</p>
+      <p begin="00:07:32,320" end="00:07:36,734">that go into a construction site,<br/>the pressure on the site became,</p>
+      <p begin="00:07:36,734" end="00:07:40,361">
+        <span tts:fontStyle="italic">"This is our response <br/>and it has to be defined."</span>
+      </p>
+      <p begin="00:07:41,600" end="00:07:44,849">
+        <span tts:fontStyle="italic">In a context, where it's already <br/>very difficult to do anything,</span>
+      </p>
+      <p begin="00:07:44,892" end="00:07:47,210">
+        <span tts:fontStyle="italic">the site was being asked <br/>to do the impossible.</span>
+      </p>
+      <p begin="00:07:47,359" end="00:07:50,526">
+        <span tts:fontStyle="italic">No commercial office building <br/>that I know of,</span>
+      </p>
+      <p begin="00:07:50,526" end="00:07:53,477">
+        <span tts:fontStyle="italic">in the history of offices <br/>and commerce, has ever been asked</span>
+      </p>
+      <p begin="00:07:53,828" end="00:08:02,586">to also be a symbol of defiant renewal<br/>or a symbol of vengeance,</p>
+      <p begin="00:08:02,907" end="00:08:07,112">or a symbol of healing, you know.<br/>That's just not what skyscrapers do.</p>
+      <p begin="00:08:07,958" end="00:08:12,711">
+        <span tts:fontStyle="italic">All of a sudden, there's this idea <br/>that this building is somehow going to</span>
+      </p>
+      <p begin="00:08:12,711" end="00:08:17,944">
+        <span tts:fontStyle="italic">do something architectural, that will <br/>magically make everyone feel better.</span>
+      </p>
+      <p begin="00:08:25,790" end="00:08:30,668">- [Mayor Giuliani] I really believe we<br/>shouldn't think about this site out there,</p>
+      <p begin="00:08:31,509" end="00:08:35,600">right behind us, right here, <br/>as a site for economic development.</p>
+      <p begin="00:08:36,312" end="00:08:41,510">
+        <span tts:fontStyle="italic">and we should think about <br/>a soaring monumental, beautiful memorial.</span>
+      </p>
+      <p begin="00:08:41,548" end="00:08:42,784">This could be a place<br/>that gets remembered</p>
+      <p begin="00:08:42,784" end="00:08:44,820">a hundred and a thousand <br/>years from now.</p>
+      <p begin="00:08:45,780" end="00:08:48,281">Like the great battlefields of Europe<br/>and of the United States.</p>
+      <p begin="00:08:48,834" end="00:08:53,260">
+        <span tts:fontStyle="italic">We have to be able to create something<br/>here that enshrines this forever.</span>
+      </p>
+      <p begin="00:08:53,246" end="00:08:55,259">[crowd applauding]</p>
+      <p begin="00:08:55,259" end="00:08:58,658">
+        <span tts:fontStyle="italic">- [Raab] When Mayor Guiliani gave <br/>his farewell address, he suggested</span>
+      </p>
+      <p begin="00:08:58,821" end="00:09:03,961">
+        <span tts:fontStyle="italic">that nothing should be rebuilt here,<br/>that it'd simply become a memorial.</span>
+      </p>
+      <p begin="00:09:04,427" end="00:09:10,828">
+        <span tts:fontStyle="italic">A large, serene memorial <br/>to the people who died on 9/11.</span>
+      </p>
+      <p begin="00:09:12,200" end="00:09:15,397">There was never any chance of that<br/>happening. I think the Mayor knew it.</p>
+      <p begin="00:09:15,397" end="00:09:18,274">I think the proof that he knew it <br/>was to create the LMDC,</p>
+      <p begin="00:09:18,274" end="00:09:22,104">the Lower Manhattan Development<br/>Corporation, in order to pass that</p>
+      <p begin="00:09:22,104" end="00:09:26,305">along to George Pataki, for fear that<br/>a mayor, who was not a Republican,</p>
+      <p begin="00:09:26,305" end="00:09:28,476">was going to succeed Guiliani.</p>
+      <p begin="00:09:30,927" end="00:09:33,411" region="top"> ALBANY</p>
+      <p begin="00:09:34,324" end="00:09:36,782">- [George Pataki] The LMDC was <br/>right after September 11th.</p>
+      <p begin="00:09:36,838" end="00:09:41,162">Mayor Guiliani and I sat down and said,<br/>"We're gonna need massive assistance.</p>
+      <p begin="00:09:41,162" end="00:09:45,226">We're gonna have help from Washington.<br/>We're gonna have insurance proceeds.</p>
+      <p begin="00:09:45,226" end="00:09:50,560">And we need a vehicle, whose sole purpose,<br/>so they won't get distracted, will be</p>
+      <p begin="00:09:50,560" end="00:09:54,362">to make sure that the funds <br/>are appropriately targeted.</p>
+      <p begin="00:09:54,441" end="00:09:56,727">- [Reporter] The Governor of New York<br/>is central to what eventually happens</p>
+      <p begin="00:09:56,727" end="00:10:00,361">in Lower Manhattan. Here's why.<br/>Two agencies, the Lower Manhattan</p>
+      <p begin="00:10:00,361" end="00:10:03,188">Development Corporation and <br/>the Port Authority control the process</p>
+      <p begin="00:10:03,188" end="00:10:06,392">and New York's Governor <br/>controls half of each.</p>
+      <p begin="00:10:06,423" end="00:10:08,602">- [Philip] There's no single person <br/>involved with the re-development</p>
+      <p begin="00:10:08,602" end="00:10:13,590">who had his much sway <br/>on it as George Pataki.</p>
+      <p begin="00:10:13,395" end="00:10:18,443">
+        <span tts:fontStyle="italic">He achieved that position <br/>by creating the LMDC</span>
+      </p>
+      <p begin="00:10:18,443" end="00:10:25,821">and initially packing it with his cronies<br/>and using it as almost like, control rods</p>
+      <p begin="00:10:25,955" end="00:10:29,788">to change the pace of the process.<br/>At some point, he would slow it down,</p>
+      <p begin="00:10:30,100" end="00:10:32,740">at some point, he would speed it up,</p>
+      <p begin="00:10:32,164" end="00:10:35,722">purely to suit his needs <br/>at any given point,</p>
+      <p begin="00:10:35,722" end="00:10:38,413">
+        <span tts:fontStyle="italic">which were profound, <br/>because he was running</span>
+      </p>
+      <p begin="00:10:38,413" end="00:10:40,390">
+        <span tts:fontStyle="italic">for re-election during the process.</span>
+      </p>
+      <p begin="00:10:48,524" end="00:10:50,545">
+        <span tts:fontStyle="italic">- [Reporter] Here in our area, <br/>a jury will begin deliberating</span>
+      </p>
+      <p begin="00:10:50,545" end="00:10:52,354">
+        <span tts:fontStyle="italic">over how much money will be available</span>
+      </p>
+      <p begin="00:10:52,354" end="00:10:54,646">
+        <span tts:fontStyle="italic">to rebuild the World Trade Center Complex.</span>
+      </p>
+      <p begin="00:10:54,803" end="00:10:58,500">
+        <span tts:fontStyle="italic">Developer Larry Silverstein is suing <br/>several insurance companies claiming,</span>
+      </p>
+      <p begin="00:10:58,500" end="00:11:00,731">
+        <span tts:fontStyle="italic">the attack on Twin Towers<br/>was two separate events.</span>
+      </p>
+      <p begin="00:11:00,950" end="00:11:02,902">
+        <span tts:fontStyle="italic">The insurers say it was one.</span>
+      </p>
+      <p begin="00:11:03,600" end="00:11:05,346">
+        <span tts:fontStyle="italic">Billions of dollars are at stake<br/>on the outcome.</span>
+      </p>
+      <p begin="00:11:05,852" end="00:11:10,610">- [Silverstein] First issue. One event,<br/>two events. We needed, as it turns out,</p>
+      <p begin="00:11:10,610" end="00:11:13,318">we needed two events, <br/>because to rebuild the Trade Center,</p>
+      <p begin="00:11:13,318" end="00:11:15,318">the cost to rebuild the Trade Center</p>
+      <p begin="00:11:15,318" end="00:11:21,098">would require, not just $3.5 billion,<br/>it would require closer to $7 billion.</p>
+      <p begin="00:11:21,098" end="00:11:23,810">Right? We needed more money.</p>
+      <p begin="00:11:23,308" end="00:11:26,400">
+        <span tts:fontStyle="italic">- [Roland Betts] I think<br/>he was preoccupied with this</span>
+      </p>
+      <p begin="00:11:26,400" end="00:11:28,521">
+        <span tts:fontStyle="italic">bizarre legal theory<br/>that there were two buildings,</span>
+      </p>
+      <p begin="00:11:28,521" end="00:11:31,408">
+        <span tts:fontStyle="italic">so therefore it was two separate incidents<br/>and therefore,he had to double his return.</span>
+      </p>
+      <p begin="00:11:31,825" end="00:11:37,536">Most of us in the LMDC thought just<br/>logically, that would be a silly result.</p>
+      <p begin="00:11:37,646" end="00:11:40,640">You know, you have insurance policy<br/>on two buildings for a set number.</p>
+      <p begin="00:11:40,853" end="00:11:44,712">I don't see mathematically, how you're<br/>gonna end up with more than a set number.</p>
+      <p begin="00:11:45,612" end="00:11:48,948">
+        <span tts:fontStyle="italic">- [Janno Lieber] People argued about it<br/>a little bit, like it was common sense,</span>
+      </p>
+      <p begin="00:11:48,948" end="00:11:51,585">
+        <span tts:fontStyle="italic">but believe me, anyone who has read<br/>an insurance policy knows</span>
+      </p>
+      <p begin="00:11:51,585" end="00:11:55,343">
+        <span tts:fontStyle="italic">it's not a common sense industry,<br/>it's all about the specific language </span>
+      </p>
+      <p begin="00:11:55,343" end="00:12:01,435">and what it means. And in fairness, that <br/>was essential to protect the possibility</p>
+      <p begin="00:12:01,435" end="00:12:03,343">of rebuilding, that somebody talked about,</p>
+      <p begin="00:12:03,343" end="00:12:05,344">"How are we gonna get <br/>the money to do this?"</p>
+      <p begin="00:12:06,343" end="00:12:11,710">The result was that Larry was a typecast,<br/>I think, early on in the process,</p>
+      <p begin="00:12:11,710" end="00:12:16,303">as somebody who was fighting about money,<br/>while people were worrying about</p>
+      <p begin="00:12:16,303" end="00:12:20,710">human loss and then about whether we<br/>were gonna build something great.</p>
+      <p begin="00:12:20,710" end="00:12:22,379">And Larry was off fighting about money.</p>
+      <p begin="00:12:24,040" end="00:12:28,653">- [Silverstein] They did everything <br/>they possibly could to excoriate,</p>
+      <p begin="00:12:28,813" end="00:12:36,349">to criticize, to denigrate. <br/>It was just a constant flow.</p>
+      <p begin="00:12:36,727" end="00:12:40,249">Talk about, needing a thick skin <br/>for that, let me tell you,</p>
+      <p begin="00:12:40,249" end="00:12:43,136">I just had to get thick fast.</p>
+      <p begin="00:12:45,795" end="00:12:51,210">
+        <span tts:fontStyle="italic">Born in Brooklyn, it was not<br/>a very pretty part of Brooklyn.</span>
+      </p>
+      <p begin="00:12:51,482" end="00:12:53,968">
+        <span tts:fontStyle="italic">So, probably not one of the best,<br/>probably one of the worst.</span>
+      </p>
+      <p begin="00:12:55,167" end="00:12:59,212">I remember we lived at the top of a--<br/>either a six or a seven story walk-up.</p>
+      <p begin="00:12:59,914" end="00:13:03,490">It had the best view, <br/>but you had to walk up.</p>
+      <p begin="00:13:04,000" end="00:13:05,857">It was not a very luxurious existence.</p>
+      <p begin="00:13:06,378" end="00:13:11,744">My parents, obviously, were struggling.<br/>And then after that, I went to NYU.</p>
+      <p begin="00:13:12,136" end="00:13:16,602">And by this time, my father gravitated<br/>into the real estate business.</p>
+      <p begin="00:13:16,617" end="00:13:19,470">He became a real estate broker. <br/>He read someplace that real estate</p>
+      <p begin="00:13:19,470" end="00:13:22,511">was a foundation of wealth,<br/>so he decided to become a broker.</p>
+      <p begin="00:13:23,130" end="00:13:25,258">I said, "The guys who make the money<br/>are the guys who own the buildings."</p>
+      <p begin="00:13:25,481" end="00:13:27,160">I said, "We could become an owner."</p>
+      <p begin="00:13:27,640" end="00:13:31,826">
+        <span tts:fontStyle="italic">I remember finding a building<br/>down on East 23rd street,</span>
+      </p>
+      <p begin="00:13:32,282" end="00:13:34,370">so I remember finding how much it was.</p>
+      <p begin="00:13:34,370" end="00:13:36,370">Six-hundred thousand<br/>it was for the building.</p>
+      <p begin="00:13:36,685" end="00:13:41,283">Six-hundred thousand,<br/>where do you get $600,000?</p>
+      <p begin="00:13:43,400" end="00:13:47,322">
+        <span tts:fontStyle="italic">So what we did, we went to the people<br/>my father had successfully leased</span>
+      </p>
+      <p begin="00:13:47,539" end="00:13:52,297">stores and lofts to. And then,<br/>I had made the pitch.</p>
+      <p begin="00:13:52,821" end="00:13:57,760">They only joined us for a <br/>small investment in the building.</p>
+      <p begin="00:13:58,253" end="00:14:01,585">And one after one another,<br/>finally said, "yes."</p>
+      <p begin="00:14:02,578" end="00:14:05,673">
+        <span tts:fontStyle="italic">And we bought buildings, bought larger buildings<br/>and we renovated buildings,</span>
+      </p>
+      <p begin="00:14:05,673" end="00:14:09,820">
+        <span tts:fontStyle="italic">we altered them, we modernized them.<br/>And then, ultimately, it led to finally</span>
+      </p>
+      <p begin="00:14:09,820" end="00:14:13,545">being the foundation. Pour in the slab<br/>and building the building.</p>
+      <p begin="00:14:15,303" end="00:14:19,155">
+        <span tts:fontStyle="italic">- [Lieber] 7 World Trade Center<br/>was developed in the early 1980s, </span>
+      </p>
+      <p begin="00:14:19,155" end="00:14:21,410">
+        <span tts:fontStyle="italic">because the Port Authority<br/>had a piece of land, </span>
+      </p>
+      <p begin="00:14:21,410" end="00:14:24,596">
+        <span tts:fontStyle="italic">just north of the World Trade Center site<br/>and they decided to develop it.</span>
+      </p>
+      <p begin="00:14:24,596" end="00:14:26,697">And Silverstein won the bid.</p>
+      <p begin="00:14:26,697" end="00:14:29,580">And so, all of a sudden, <br/>Silverstein was at a new level.</p>
+      <p begin="00:14:31,172" end="00:14:33,668">
+        <span tts:fontStyle="italic">- [Silverstein] I remember<br/>at the topping out ceremony of 7,</span>
+      </p>
+      <p begin="00:14:35,314" end="00:14:37,887">looking up at the Twin Towers,<br/>and saying to myself,</p>
+      <p begin="00:14:37,912" end="00:14:39,451">"God, look at this."</p>
+      <p begin="00:14:39,451" end="00:14:41,530">But my building's big.<br/>It's a 2 million foot building.</p>
+      <p begin="00:14:41,530" end="00:14:43,995">It's a big building. <br/>But, look at that stuff, huge.</p>
+      <p begin="00:14:44,270" end="00:14:45,724">
+        <span tts:fontStyle="italic">And there are two of them, right? Massive.</span>
+      </p>
+      <p begin="00:14:45,902" end="00:14:48,138">
+        <span tts:fontStyle="italic">I said, "Wouldn't it be fantastic<br/>if someday I'll own those?"</span>
+      </p>
+      <p begin="00:14:57,351" end="00:15:03,314">Got it done. Hence, therein started <br/>the odyssey, six weeks before 9/11.</p>
+      <p begin="00:15:09,556" end="00:15:11,407">
+        <span tts:fontStyle="italic">- [speaker] I think the Tower<br/>should be built back.</span>
+      </p>
+      <p begin="00:15:11,407" end="00:15:15,800">
+        <span tts:fontStyle="italic">I think it should be built tall,<br/>as tall, if not taller.</span>
+      </p>
+      <p begin="00:15:15,800" end="00:15:20,236">I like to comment earlier about a<br/>library. I always said I wanted a school.</p>
+      <p begin="00:15:20,811" end="00:15:23,280">- [speaker] You could also have<br/>an exhibition hall.</p>
+      <p begin="00:15:23,280" end="00:15:26,317">You could have a concert hall.<br/>There's enough room there.</p>
+      <p begin="00:15:26,674" end="00:15:30,948">- [speaker] How could you build<br/>on sacred grounds?</p>
+      <p begin="00:15:31,153" end="00:15:34,129">The whole site should be a memorial.</p>
+      <p begin="00:15:34,497" end="00:15:41,442">- [speaker] Our new World Trade Center<br/>Towers must be at least 111 storeys tall.</p>
+      <p begin="00:15:41,442" end="00:15:45,987">[crowd applause and cheers]</p>
+      <p begin="00:15:46,684" end="00:15:50,272">- [Lieber] People are starting to think<br/>about what's going to be created there.</p>
+      <p begin="00:15:50,272" end="00:15:55,655">
+        <span tts:fontStyle="italic">And ultimately, there's a debate<br/>about what should happen</span>
+      </p>
+      <p begin="00:15:55,655" end="00:15:58,331">at the World Trade Center site, <br/>which is classic New York,</p>
+      <p begin="00:15:58,331" end="00:16:00,650">with everybody taking very strong opinions</p>
+      <p begin="00:16:00,650" end="00:16:02,891">that pull in totally opposite directions,</p>
+      <p begin="00:16:03,982" end="00:16:07,760">
+        <span tts:fontStyle="italic">where a lot of different people are<br/>fighting for the one thing that they want.</span>
+      </p>
+      <p begin="00:16:08,345" end="00:16:11,890">What ought to be rebuilt there?<br/>How do we respond to 9/11?</p>
+      <p begin="00:16:17,991" end="00:16:20,648">- [Rosaleen Tallon] I should call Sally <br/>and tell them I'm two minutes away.</p>
+      <p begin="00:16:21,445" end="00:16:23,320">Excuse me. Sorry.</p>
+      <p begin="00:16:23,499" end="00:16:26,545">See, if you get behind <br/>these slow people, you know.</p>
+      <p begin="00:16:29,649" end="00:16:34,670">- <span tts:fontStyle="italic">How are you doing, Rosaleen?</span><br/>- Good to see you. Hi, Dorman.</p>
+      <p begin="00:16:34,317" end="00:16:39,590">[people chattering]</p>
+      <p begin="00:16:43,800" end="00:16:45,885">Good morning. <br/>My name is Rosaleen Tallon.</p>
+      <p begin="00:16:45,885" end="00:16:47,462">This is my mother, Eileen.</p>
+      <p begin="00:16:47,779" end="00:16:52,525">We lost my brother, Sean Patrick Tallon.<br/>He was a probationary firefighter</p>
+      <p begin="00:16:52,525" end="00:16:56,472">at Ladder 10, which is the firehouse<br/>at the World Trade Center.</p>
+      <p begin="00:16:57,461" end="00:17:02,813">If you look at Oklahoma City,<br/>those families are really an integral</p>
+      <p begin="00:17:02,813" end="00:17:06,470">part of the process to<br/>decision-making process.</p>
+      <p begin="00:17:06,860" end="00:17:08,522">So, to say at a minimum,<br/>that's what we're asking. </p>
+      <p begin="00:17:08,522" end="00:17:10,362">Include us in the process.</p>
+      <p begin="00:17:10,606" end="00:17:13,572">Because to this point, <br/>we have not been included.</p>
+      <p begin="00:17:15,279" end="00:17:16,615">[dog barking in distant]</p>
+      <p begin="00:17:16,615" end="00:17:18,007">[kids playing in distant]</p>
+      <p begin="00:17:18,223" end="00:17:21,880">
+        <span tts:fontStyle="italic">We knew he was always going to be<br/>either a policeman or fireman.</span>
+      </p>
+      <p begin="00:17:21,880" end="00:17:23,944">
+        <span tts:fontStyle="italic">It was just, you know,<br/>as they say,"It's in the Irish."</span>
+      </p>
+      <p begin="00:17:24,512" end="00:17:29,602">The first tower collapsed. <br/>And then, we arrived home</p>
+      <p begin="00:17:29,602" end="00:17:35,283">and we watched the tower on TV<br/>and we knew that Sean was up there</p>
+      <p begin="00:17:35,283" end="00:17:38,123">because his company <br/>would've been first on the scene.</p>
+      <p begin="00:17:38,515" end="00:17:41,812">So, there was no doubt in our minds<br/>that he was in there.</p>
+      <p begin="00:17:49,354" end="00:17:53,959">
+        <span tts:fontStyle="italic">I remember standing at the precipice,<br/>right outside the firehouse door.</span>
+      </p>
+      <p begin="00:17:56,568" end="00:17:58,793">
+        <span tts:fontStyle="italic">These people are buried inside there.</span>
+      </p>
+      <p begin="00:17:58,892" end="00:18:02,160">I mean, loved ones. I mean,<br/>knowing Sean was in there,</p>
+      <p begin="00:18:02,160" end="00:18:04,258">I mean, my God, <br/>like looking at that pile, </p>
+      <p begin="00:18:04,258" end="00:18:07,607">and knowing that my little brother<br/>was in there</p>
+      <p begin="00:18:07,607" end="00:18:09,800">and there wasn't anything <br/>I could do about it.</p>
+      <p begin="00:18:12,162" end="00:18:16,666">
+        <span tts:fontStyle="italic">Because of the enormity of what happened<br/>and all of these people died in there,</span>
+      </p>
+      <p begin="00:18:16,666" end="00:18:21,691">
+        <span tts:fontStyle="italic">my parents were definitely hoping<br/>that the site could, say, </span>
+      </p>
+      <p begin="00:18:21,691" end="00:18:24,450">
+        <span tts:fontStyle="italic">be a green field of remembrance.</span>
+      </p>
+      <p begin="00:18:24,980" end="00:18:26,883">But we realized that wasn't going to be.</p>
+      <p begin="00:18:26,989" end="00:18:30,529">There were too many commercial<br/>and real estate interests that</p>
+      <p begin="00:18:30,529" end="00:18:34,844">you know, they had to build back up<br/>their square footage.</p>
+      <p begin="00:18:38,631" end="00:18:41,151">
+        <span tts:fontStyle="italic">- [Pataki] One of the things<br/>that people don't appreciate is that</span>
+      </p>
+      <p begin="00:18:41,151" end="00:18:45,313">
+        <span tts:fontStyle="italic">there was an enormous economic fallout<br/>after September 11th.</span>
+      </p>
+      <p begin="00:18:45,313" end="00:18:49,647">We lost a 100,000 private sector jobs<br/>that morning.</p>
+      <p begin="00:18:49,975" end="00:18:53,245">
+        <span tts:fontStyle="italic">We lost millions of square feet<br/>of office space.</span>
+      </p>
+      <p begin="00:18:53,858" end="00:18:58,261">
+        <span tts:fontStyle="italic">Companies were leaving New York,<br/>so it had to get built.</span>
+      </p>
+      <p begin="00:18:58,458" end="00:19:02,180">
+        <span tts:fontStyle="italic">And the initial plan was,<br/>let the Port Authority do it.</span>
+      </p>
+      <p begin="00:19:04,907" end="00:19:07,512" region="top"> THE PORT AUTHORITY</p>
+      <p begin="00:19:07,878" end="00:19:10,812">- [Kenneth Ringler] I was having dinner<br/>at a local pub around the corner</p>
+      <p begin="00:19:10,812" end="00:19:13,440">from my apartment and somebody was<br/>sitting next to me and they said,</p>
+      <p begin="00:19:13,440" end="00:19:16,902">"So, what do you do?" and I said,<br/>"Well, I run the Port Authority."</p>
+      <p begin="00:19:17,500" end="00:19:19,351">And they said, "Does that mean you<br/>do the bus scheduling?"</p>
+      <p begin="00:19:20,766" end="00:19:22,439">And I had to explain that <br/>the Port Authority </p>
+      <p begin="00:19:22,439" end="00:19:24,944">was a little more<br/>than the bus terminal.</p>
+      <p begin="00:19:24,954" end="00:19:27,729">- [Lieber] Port Authority built <br/>the Lincoln Tunnel</p>
+      <p begin="00:19:27,729" end="00:19:31,800">and George Washington Bridge</p>
+      <p begin="00:19:31,800" end="00:19:34,749">and many of our biggest<br/>transportation facilities</p>
+      <p begin="00:19:34,749" end="00:19:36,914">and also built the World Trade Center.</p>
+      <p begin="00:19:38,986" end="00:19:44,125">
+        <span tts:fontStyle="italic">- [Silverstein] I obligated myself to pay<br/>the ground rent of $120 million a year</span>
+      </p>
+      <p begin="00:19:44,125" end="00:19:46,795">
+        <span tts:fontStyle="italic">to the Port Authority for 99 years,</span>
+      </p>
+      <p begin="00:19:47,367" end="00:19:51,745">which is like in perpetuity with <br/>no abatements of any kind</p>
+      <p begin="00:19:51,745" end="00:19:53,394">'cause no one anticipated the 9/11 event.</p>
+      <p begin="00:19:53,547" end="00:19:56,169">- [Kenneth] You know, it stuck in his<br/>craw that he had to do that.</p>
+      <p begin="00:19:56,169" end="00:20:00,100">But, the fact of the matter is,<br/>he was insured to do that.</p>
+      <p begin="00:20:00,209" end="00:20:01,658">It's called business <br/>interruption insurance.</p>
+      <p begin="00:20:01,658" end="00:20:03,230">And you continue paying your rent.</p>
+      <p begin="00:20:03,522" end="00:20:05,213">- [Raab] Here is Larry Silverstein paying,</p>
+      <p begin="00:20:05,213" end="00:20:09,294">I think, $10 million a month <br/>ground rent at nothing.</p>
+      <p begin="00:20:11,203" end="00:20:13,297" region="top"> 2002</p>
+      <p begin="00:20:13,436" end="00:20:15,777">
+        <span tts:fontStyle="italic">- [Reporter] The plans are moving ahead<br/>to rebuild one of the buildings</span>
+      </p>
+      <p begin="00:20:15,777" end="00:20:17,691">destroyed in the <br/>World Trade Center attacks.</p>
+      <p begin="00:20:17,691" end="00:20:21,711">
+        <span tts:fontStyle="italic">7 World Trade Center collapsed<br/>several hours after the Twin Towers fell.</span>
+      </p>
+      <p begin="00:20:21,898" end="00:20:25,523">
+        <span tts:fontStyle="italic">The owner of the 47-storey building<br/>hopes to break ground on a new structure</span>
+      </p>
+      <p begin="00:20:25,523" end="00:20:26,865">
+        <span tts:fontStyle="italic">on September 11th.</span>
+      </p>
+      <p begin="00:20:29,041" end="00:20:31,110">
+        <span tts:fontStyle="italic">- [Silverstein] So, once we started<br/>designing the building, </span>
+      </p>
+      <p begin="00:20:31,110" end="00:20:32,312">
+        <span tts:fontStyle="italic">people came out of the woodwork and said,</span>
+      </p>
+      <p begin="00:20:32,312" end="00:20:36,723">"Silverstein, you're crazy.<br/>No one's gonna come back down.</p>
+      <p begin="00:20:37,380" end="00:20:40,812">I mean, this is foolhardy. Second of all, <br/>you got that burning mass</p>
+      <p begin="00:20:40,895" end="00:20:43,913">immediately to the South area,<br/>it's ground zero. It's a mess.</p>
+      <p begin="00:20:43,913" end="00:20:49,473">I mean, how is anybody gonna <br/>come back around? It's foolishness.</p>
+      <p begin="00:20:49,974" end="00:20:53,240">I mean, you're really doing yourself<br/>irreparable harm."</p>
+      <p begin="00:20:54,924" end="00:20:57,283">
+        <span tts:fontStyle="italic">- [Lieber] 7 World trade Center,<br/>we wereable to get the building going</span>
+      </p>
+      <p begin="00:20:57,283" end="00:21:00,832">
+        <span tts:fontStyle="italic"> very quickly, because it was<br/>just us and the Port Authority</span>
+      </p>
+      <p begin="00:21:00,832" end="00:21:03,940">and that was it. <br/>We didn't have to deal with</p>
+      <p begin="00:21:03,940" end="00:21:08,123">a ton of different government agencies.<br/>Across the street was totally different.</p>
+      <p begin="00:21:08,446" end="00:21:13,636">
+        <span tts:fontStyle="italic">On the city side, we had the Mayor,<br/>the Economic Development Corporation,</span>
+      </p>
+      <p begin="00:21:13,636" end="00:21:15,400">
+        <span tts:fontStyle="italic">the Industrial Development Agency,</span>
+      </p>
+      <p begin="00:21:15,400" end="00:21:17,381">
+        <span tts:fontStyle="italic">the Department<br/>of Environmental Protection,</span>
+      </p>
+      <p begin="00:21:17,381" end="00:21:20,928">
+        <span tts:fontStyle="italic">the Department of Transportation,<br/>Department of Design and Construction,</span>
+      </p>
+      <p begin="00:21:20,928" end="00:21:23,152">
+        <span tts:fontStyle="italic">the Police Department,<br/>the Fire Department,</span>
+      </p>
+      <p begin="00:21:23,152" end="00:21:26,675">
+        <span tts:fontStyle="italic">the Buildings Department,<br/>the City Council and</span>
+      </p>
+      <p begin="00:21:26,675" end="00:21:28,574">
+        <span tts:fontStyle="italic">the Local Community Board.</span>
+      </p>
+      <p begin="00:21:28,574" end="00:21:32,260">
+        <span tts:fontStyle="italic">On the State level, we had<br/>the Empire State Development Corporation,</span>
+      </p>
+      <p begin="00:21:32,260" end="00:21:34,101">
+        <span tts:fontStyle="italic">the Department<br/>of Environmental Conservation,</span>
+      </p>
+      <p begin="00:21:34,101" end="00:21:36,869">
+        <span tts:fontStyle="italic">the State Historic Preservation Office,</span>
+      </p>
+      <p begin="00:21:36,869" end="00:21:39,243">
+        <span tts:fontStyle="italic">the New York State Department<br/>of Transportation,</span>
+      </p>
+      <p begin="00:21:39,243" end="00:21:42,150">
+        <span tts:fontStyle="italic">the New York State Office<br/>of Emergency Management,</span>
+      </p>
+      <p begin="00:21:42,150" end="00:21:45,680">
+        <span tts:fontStyle="italic">and then, even at the Federal level,<br/>we had Congress,</span>
+      </p>
+      <p begin="00:21:45,680" end="00:21:46,450">
+        <span tts:fontStyle="italic">we had the White House,</span>
+      </p>
+      <p begin="00:21:46,450" end="00:21:48,838">
+        <span tts:fontStyle="italic">Department of Housing<br/>and Urban Development</span>
+      </p>
+      <p begin="00:21:48,838" end="00:21:51,284">
+        <span tts:fontStyle="italic">the Federal Department<br/>of Homeland Security,</span>
+      </p>
+      <p begin="00:21:51,284" end="00:21:55,390">
+        <span tts:fontStyle="italic">FEMA, SBA, EDA, OSHA,</span>
+      </p>
+      <p begin="00:21:55,390" end="00:21:58,376">
+        <span tts:fontStyle="italic">and not to forget<br/>the Army Corps of Engineers,</span>
+      </p>
+      <p begin="00:21:58,376" end="00:22:02,102">
+        <span tts:fontStyle="italic">so it just went on and on and on.</span>
+      </p>
+      <p begin="00:22:04,629" end="00:22:08,278">- [Betts] I started calling meetings<br/>of the heads of all the agencies</p>
+      <p begin="00:22:08,278" end="00:22:14,370">and Silverstein's is on. And the meetings<br/>had 50, 60 people in the room.</p>
+      <p begin="00:22:14,485" end="00:22:18,334">It was completely unworkable.<br/>Tremendous cross currents.</p>
+      <p begin="00:22:18,334" end="00:22:25,937">Silverstein and the Port Authority<br/>wanted a 10 million square feet of</p>
+      <p begin="00:22:25,937" end="00:22:30,187">
+        <span tts:fontStyle="italic">office space and at the other end,<br/>some victim families wanted this</span>
+      </p>
+      <p begin="00:22:30,187" end="00:22:31,917">
+        <span tts:fontStyle="italic">to be hollowed ground.<br/>They wanted nothing.</span>
+      </p>
+      <p begin="00:22:33,101" end="00:22:35,407">
+        <span tts:fontStyle="italic">There was another group<br/>that said that they wanted to see the </span>
+      </p>
+      <p begin="00:22:35,407" end="00:22:37,935">
+        <span tts:fontStyle="italic">Twin Towers rebuilt exactly<br/>as the Twin Towers.</span>
+      </p>
+      <p begin="00:22:37,935" end="00:22:41,297">From the beginning,<br/>I was pretty pessimistic</p>
+      <p begin="00:22:41,297" end="00:22:44,214">that this could actually be coralled.</p>
+      <p begin="00:22:48,770" end="00:22:51,264">
+        <span tts:fontStyle="italic">- [Raab] Once the site was cleaned up,<br/>people expected something to arise</span>
+      </p>
+      <p begin="00:22:51,264" end="00:22:53,804">
+        <span tts:fontStyle="italic">magically from the dust. Hey,<br/>it's New York City,</span>
+      </p>
+      <p begin="00:22:53,804" end="00:22:55,804">
+        <span tts:fontStyle="italic">let's get it done yesterday.</span>
+      </p>
+      <p begin="00:22:55,804" end="00:22:58,607">But I don't think people <br/>get the complexity of the site</p>
+      <p begin="00:22:58,607" end="00:23:03,231">especially below grade and the fact<br/>that it's literally a couple hundred feet</p>
+      <p begin="00:23:03,231" end="00:23:06,967">from a big river and that it ain't easy<br/>to keep that river from pushing</p>
+      <p begin="00:23:06,967" end="00:23:10,202">through the earth on this site.<br/>And in fact, that was one of the</p>
+      <p begin="00:23:10,202" end="00:23:14,110">most daunting, if not the most daunting<br/>challenge of the original building,</p>
+      <p begin="00:23:14,110" end="00:23:16,659">the original Twin Towers was,<br/>how do you keep the Hudson River out?</p>
+      <p begin="00:23:20,357" end="00:23:23,661">
+        <span tts:fontStyle="italic">- [Announcer] The site actually consisted<br/>of water log landfill,</span>
+      </p>
+      <p begin="00:23:23,661" end="00:23:28,475">
+        <span tts:fontStyle="italic">which had accumulated over two centuries<br/>out of old wharves and debris.</span>
+      </p>
+      <p begin="00:23:29,551" end="00:23:33,365">
+        <span tts:fontStyle="italic">To support the great weight of the towers,<br/>foundations had had to be dug</span>
+      </p>
+      <p begin="00:23:33,365" end="00:23:37,309">
+        <span tts:fontStyle="italic">down 70 feet to bedrock.<br/>An underground wall was built </span>
+      </p>
+      <p begin="00:23:37,309" end="00:23:41,895">
+        <span tts:fontStyle="italic">completely sealing the site.<br/>Excavation began.</span>
+      </p>
+      <p begin="00:23:42,166" end="00:23:44,468">- [Pataki] Given the ownership,<br/>given the emotion,</p>
+      <p begin="00:23:44,468" end="00:23:48,447">given that the technical <br/>engineering challenges,</p>
+      <p begin="00:23:48,591" end="00:23:52,290">you couldn't have a more difficult site.<br/>But everybody knew that.</p>
+      <p begin="00:23:52,752" end="00:23:55,230">And it's what you have.</p>
+      <p begin="00:24:04,583" end="00:24:09,126">- [Betts] What we decided to do was,<br/>engage a firm called, Beyer Blinder Belle.</p>
+      <p begin="00:24:09,605" end="00:24:13,958">And so, Beyer Blinder Belle came in<br/>and they became the architects of record.</p>
+      <p begin="00:24:14,248" end="00:24:19,311">- [Philip] They were hired by the LMDC<br/>to just crunch the numbers</p>
+      <p begin="00:24:19,487" end="00:24:24,614">
+        <span tts:fontStyle="italic">and show what could happen spatially<br/>in that place, using these numbers</span>
+      </p>
+      <p begin="00:24:24,614" end="00:24:26,313">
+        <span tts:fontStyle="italic">dictated by Larry Silverstein's lease.</span>
+      </p>
+      <p begin="00:24:26,463" end="00:24:29,173">
+        <span tts:fontStyle="italic">With this big pile of square footage<br/>and this kinda little area,</span>
+      </p>
+      <p begin="00:24:29,173" end="00:24:31,457">
+        <span tts:fontStyle="italic">what are we gonna doand what's possible?</span>
+      </p>
+      <p begin="00:24:32,342" end="00:24:35,606">So, Beyer Blinder Belle was working <br/>on these designs and the public</p>
+      <p begin="00:24:35,606" end="00:24:41,178">desire for a meaningful, symbolic<br/>architectural solution reserved</p>
+      <p begin="00:24:41,178" end="00:24:44,746">building through the months and they<br/>happen to converge in public</p>
+      <p begin="00:24:44,746" end="00:24:49,429">in the Javits Center, in this <br/>very hi-tech, super managed,</p>
+      <p begin="00:24:49,429" end="00:24:51,742">so-called 21st century town meeting.</p>
+      <p begin="00:24:52,342" end="00:24:56,921">- [Reporter] Six proposals are on<br/>the table. Today, 5000 New Yorkers</p>
+      <p begin="00:24:56,921" end="00:24:59,497">will have a chance to voice <br/>their opinions about those plans</p>
+      <p begin="00:24:59,497" end="00:25:02,111">at a meeting called,<br/><span tts:fontStyle="italic">Listening to the City.</span></p>
+      <p begin="00:25:02,655" end="00:25:07,497">[people chattering]</p>
+      <p begin="00:25:08,056" end="00:25:10,330">- [speaker] The footprints is not to<br/>sort of acknowledge some great</p>
+      <p begin="00:25:10,330" end="00:25:13,117">architecture, but the place is <br/>sort of charged with meaning</p>
+      <p begin="00:25:13,117" end="00:25:19,251">and so many loved ones in layers,<br/>that it is one way to have a somber,</p>
+      <p begin="00:25:19,251" end="00:25:22,970">yet, not offensive memorial.</p>
+      <p begin="00:25:22,584" end="00:25:31,296">- [speaker] I just wanna see as much left <br/>that was there before September 11th,</p>
+      <p begin="00:25:31,477" end="00:25:36,513">still there after this <br/>scariest memory constructed.</p>
+      <p begin="00:25:36,719" end="00:25:38,597">
+        <span tts:fontStyle="italic">- [Betts] And everybody could participate.</span>
+      </p>
+      <p begin="00:25:38,597" end="00:25:40,837">
+        <span tts:fontStyle="italic">They had little computer boards there.<br/>Everybody could vote for anything.</span>
+      </p>
+      <p begin="00:25:40,837" end="00:25:43,519">And everybody could talk and so on.</p>
+      <p begin="00:25:43,519" end="00:25:45,507">
+        <span tts:fontStyle="italic">- [speaker] Sometimes, when you look<br/>at all of this, you wonder,</span>
+      </p>
+      <p begin="00:25:45,507" end="00:25:47,290">
+        <span tts:fontStyle="italic">"Where's the memorial?"</span>
+      </p>
+      <p begin="00:25:47,290" end="00:25:49,397">Have we just moved on and <br/>created tax-free shopping days?</p>
+      <p begin="00:25:49,397" end="00:25:52,924">- [speaker] We don't like the fact<br/>that green as an isolated rectangle</p>
+      <p begin="00:25:52,924" end="00:25:56,200">with buildings around it.<br/>- Not enough green.</p>
+      <p begin="00:25:56,200" end="00:26:00,195"><span tts:fontStyle="italic">- Go back to this drawing book.</span><br/>- Strongly, this is strongly helpful.</p>
+      <p begin="00:26:00,195" end="00:26:01,294">
+        <span tts:fontStyle="italic">- Get new architects.</span>
+      </p>
+      <p begin="00:26:01,720" end="00:26:05,262">
+        <span tts:fontStyle="italic">- [Betts] And the comments in real time,<br/>would show up on a screen</span>
+      </p>
+      <p begin="00:26:05,262" end="00:26:07,731">
+        <span tts:fontStyle="italic">'cause the typing<br/>would show right up there.</span>
+      </p>
+      <p begin="00:26:07,731" end="00:26:10,242">
+        <span tts:fontStyle="italic">And then people would vote<br/>for what they like and didn't like.</span>
+      </p>
+      <p begin="00:26:10,242" end="00:26:14,609">And somewhere about two-thirds the way<br/>through the meeting,</p>
+      <p begin="00:26:14,609" end="00:26:16,925">a comment showed up on the screen saying,<br/></p>
+      <p begin="00:26:16,925" end="00:26:20,248">"I hate all these plans.<br/>They look like Albany."</p>
+      <p begin="00:26:20,248" end="00:26:24,219">Okay, and I really think <br/>that captured the day</p>
+      <p begin="00:26:24,219" end="00:26:27,498">because I think everybody looked as if,<br/>"Yeah, they kinda do."</p>
+      <p begin="00:26:27,931" end="00:26:32,472">- [Pataki] It was a perfectly good plan<br/>for a site that didn't have</p>
+      <p begin="00:26:32,472" end="00:26:36,386">the emotional and historic <br/>importance to America.</p>
+      <p begin="00:26:36,810" end="00:26:41,528">But from that sense, it was unacceptable.<br/>So at that point, we said no.</p>
+      <p begin="00:26:41,928" end="00:26:46,900">- [Philip] After the Beyer Blinder Belle<br/>plans were essentially shut down,</p>
+      <p begin="00:26:46,452" end="00:26:53,667">you know, publicly, at the Javits Center,<br/>the Pataki messaging machine</p>
+      <p begin="00:26:53,667" end="00:26:57,358">was in a little bit of a crisis<br/>because the election was approaching</p>
+      <p begin="00:26:57,358" end="00:27:02,882">and the idea that he "wasn't doing<br/>enough at Ground Zero fast enough."</p>
+      <p begin="00:27:02,882" end="00:27:04,577">had already been injected<br/>into the campaign.</p>
+      <p begin="00:27:05,765" end="00:27:08,470">And then, there was a moment of the LMDC</p>
+      <p begin="00:27:08,470" end="00:27:10,645">sort of casting around, saying, <br/>"What now?"</p>
+      <p begin="00:27:10,962" end="00:27:15,440">- [Betts] I called an emergency meeting<br/>of the LMDC and I said,</p>
+      <p begin="00:27:15,440" end="00:27:20,642">"Look, we gotta scrap this thing.<br/>This is nowhere. These plans stink.</p>
+      <p begin="00:27:20,642" end="00:27:25,752">Everybody knows they stink.<br/>And we gotta do something."</p>
+      <p begin="00:27:25,752" end="00:27:27,118">"Okay, well what do you wanna do?"</p>
+      <p begin="00:27:27,118" end="00:27:30,680">I said, "I wanna have an architectural<br/>competition. A true competition."</p>
+      <p begin="00:27:30,326" end="00:27:33,220">- [Pataki] We are going to go out<br/>and have a process</p>
+      <p begin="00:27:33,220" end="00:27:36,194">and engage some of the <br/>world's greatest architects.</p>
+      <p begin="00:27:44,220" end="00:27:48,550">
+        <span tts:fontStyle="italic">- [Philip] And the next step<br/>was to seek out the visionaries.</span>
+      </p>
+      <p begin="00:28:03,774" end="00:28:07,235">
+        <span tts:fontStyle="italic">- [Announcer] The LMDC is now looking<br/>for new international design teams</span>
+      </p>
+      <p begin="00:28:07,445" end="00:28:11,316">
+        <span tts:fontStyle="italic">to come up with still more concepts<br/>using broad guidelines that include,</span>
+      </p>
+      <p begin="00:28:11,316" end="00:28:14,870">
+        <span tts:fontStyle="italic">a tall symbol or structure<br/>seen in the skyline,</span>
+      </p>
+      <p begin="00:28:14,870" end="00:28:18,430">
+        <span tts:fontStyle="italic">the footprints of the original Twin Towers<br/>would remain undeveloped.</span>
+      </p>
+      <p begin="00:28:20,137" end="00:28:23,359">
+        <span tts:fontStyle="italic">- [Philip] By the following December,<br/>every network in the world,</span>
+      </p>
+      <p begin="00:28:23,359" end="00:28:27,829">
+        <span tts:fontStyle="italic">set up to film this dramatic unveiling<br/>of the new future of Ground Zero.</span>
+      </p>
+      <p begin="00:28:29,459" end="00:28:32,691">
+        <span tts:fontStyle="italic">- [Betts] We're about to see<br/>seven very different visions</span>
+      </p>
+      <p begin="00:28:32,691" end="00:28:36,506">by some extraordinary thinkers<br/>in their approach to the restoration</p>
+      <p begin="00:28:36,506" end="00:28:39,234">of hope and optimism to Lower Manhattan.</p>
+      <p begin="00:28:39,338" end="00:28:42,109">- [Architect] We tried to make with<br/>these united towers,</p>
+      <p begin="00:28:42,109" end="00:28:46,456">
+        <span tts:fontStyle="italic">what we call, "The City in the Sky,"<br/>which at the 60th floor.</span>
+      </p>
+      <p begin="00:28:46,456" end="00:28:48,848">
+        <span tts:fontStyle="italic">These towers come together and join.</span>
+      </p>
+      <p begin="00:28:48,848" end="00:28:52,219">- [Architect] The two tall towers in<br/>the middle are at least 1400 feet tall.</p>
+      <p begin="00:28:52,219" end="00:28:56,021">They symbolize triumph. <br/>They're sort of universal.</p>
+      <p begin="00:28:56,021" end="00:28:58,370">They're standing there on big shoulders<br/>with their hands in the air.</p>
+      <p begin="00:28:58,370" end="00:29:01,109">- [Architect] A natural fact. <br/>It's two towers, which kiss</p>
+      <p begin="00:29:01,109" end="00:29:02,665">and touch and become one.</p>
+      <p begin="00:29:04,434" end="00:29:07,522">
+        <span tts:fontStyle="italic">- [Daniel Libeskind] When I first started<br/>on the competition, everybody had an idea.</span>
+      </p>
+      <p begin="00:29:07,522" end="00:29:11,321">Every New Yorker, every member <br/>of the family, every uncle, aunt, niece,</p>
+      <p begin="00:29:11,321" end="00:29:16,150">nephew, every acquaintance. <br/>When they found out that I was doing it,</p>
+      <p begin="00:29:16,150" end="00:29:20,838">"I have an idea. Do this, do this."<br/>And it suddenly occurred to me</p>
+      <p begin="00:29:20,838" end="00:29:24,446">that this was really not just <br/>an architectural issue,</p>
+      <p begin="00:29:24,446" end="00:29:27,460">it was an issue of the soul of people,</p>
+      <p begin="00:29:27,460" end="00:29:30,582">because everyone was somehow,<br/>part of that day.</p>
+      <p begin="00:29:32,847" end="00:29:34,907">- [Betts] We had a broad spectrum,</p>
+      <p begin="00:29:34,907" end="00:29:38,300">but it was clear that there <br/>were two that emerged.</p>
+      <p begin="00:29:39,557" end="00:29:42,314">One was Daniel Libeskind <br/>and one was Rafael Vi&#241;oly.</p>
+      <p begin="00:29:42,717" end="00:29:48,926">- [Rafael Vi&#241;oly] We started <br/>this process, essentially by defining</p>
+      <p begin="00:29:48,926" end="00:29:54,312">for ourselves a principle, what we felt<br/>was moral obligation,</p>
+      <p begin="00:29:54,312" end="00:29:58,760">which was not only to remember<br/>the ones that perished in this tragedy,</p>
+      <p begin="00:29:58,760" end="00:30:02,931">but also, to use their memory <br/>to elevate our memory</p>
+      <p begin="00:30:02,931" end="00:30:06,633">to become the inspiration<br/>for a better future.</p>
+      <p begin="00:30:06,805" end="00:30:10,706">- [Betts] The Vi&#241;oly plan was <br/>very, very different.</p>
+      <p begin="00:30:10,929" end="00:30:17,597">
+        <span tts:fontStyle="italic">The Vi&#241;oly plan had these round cylinders,<br/>if you will, that you could see through.</span>
+      </p>
+      <p begin="00:30:17,597" end="00:30:22,155">
+        <span tts:fontStyle="italic">The idea was that they were preserving<br/>as a hollowed ground</span>
+      </p>
+      <p begin="00:30:22,155" end="00:30:27,360">the space in which people died.<br/>Well, this was spunky.</p>
+      <p begin="00:30:27,843" end="00:30:31,648">This was really different<br/>and really interesting.</p>
+      <p begin="00:30:32,322" end="00:30:35,453">
+        <span tts:fontStyle="italic">- [Vi&#241;oly] The skyland of Manhattanis<br/>re-structured, re-constructed </span>
+      </p>
+      <p begin="00:30:35,453" end="00:30:40,300">with the icons of the public life.Thanks.</p>
+      <p begin="00:30:40,435" end="00:30:43,567">[crowd applause]</p>
+      <p begin="00:30:45,903" end="00:30:49,879">
+        <span tts:fontStyle="italic">- [Betts] I'm now happy<br/>to present Daniel Libeskind.</span>
+      </p>
+      <p begin="00:30:49,954" end="00:30:52,026">[applause]</p>
+      <p begin="00:30:52,026" end="00:30:55,000">- [Libeskind] Thanks.Thank you very much.</p>
+      <p begin="00:30:55,688" end="00:31:00,213">
+        <span tts:fontStyle="italic">I arrived by ship to New York<br/>as a teenager, an immigrant.</span>
+      </p>
+      <p begin="00:31:00,213" end="00:31:05,748">and like millions of others before me,<br/>my first sight was that of the</p>
+      <p begin="00:31:05,748" end="00:31:09,159">Statue of LIberty and the <br/>amazing skyline of Manhattan.</p>
+      <p begin="00:31:09,946" end="00:31:14,245">I have never forgotten that sight<br/>or what it actually stands for.</p>
+      <p begin="00:31:14,697" end="00:31:16,969">This is what this project is all about.</p>
+      <p begin="00:31:17,383" end="00:31:19,995">- [Philip] Everyone had been looking<br/>for a leader or you know,</p>
+      <p begin="00:31:19,995" end="00:31:23,480">someone to put a non-political,<br/>non-bureaucratic face in the process</p>
+      <p begin="00:31:23,480" end="00:31:26,171">and all of a sudden, arrives this guy<br/>with the perfect back story</p>
+      <p begin="00:31:26,171" end="00:31:30,855">and you know, the ability to present<br/>it, you know, super effectively.</p>
+      <p begin="00:31:32,222" end="00:31:34,894">- [Libeskind] I grew up in Poland. <br/>Then to America, where my father had</p>
+      <p begin="00:31:34,894" end="00:31:39,016">his only surviving sisters who<br/>were an Al Fritz, from a family</p>
+      <p begin="00:31:39,016" end="00:31:43,548">of ten brothers and sisters, so he was <br/>determined to come to New York.</p>
+      <p begin="00:31:43,957" end="00:31:47,253">
+        <span tts:fontStyle="italic">It represented everything that people<br/>dreamed about and it still does.</span>
+      </p>
+      <p begin="00:31:48,772" end="00:31:54,458">Those who are lost have become heroes.<br/>To commemorate those lost lives,</p>
+      <p begin="00:31:55,130" end="00:32:00,993">I created two large public spaces.<br/>The park of heroes and the wedge of light.</p>
+      <p begin="00:32:02,223" end="00:32:10,550">The sky will become home again to<br/>a towering spire 1776 feet tall,</p>
+      <p begin="00:32:10,255" end="00:32:16,102">creating an icon that speaks to our<br/>vitality in the face of danger</p>
+      <p begin="00:32:16,102" end="00:32:18,818">and our optimism in the <br/>aftermath of tragedy.</p>
+      <p begin="00:32:19,327" end="00:32:23,326">- [Philip] When asked to do this thing,<br/>which is so impossible</p>
+      <p begin="00:32:23,326" end="00:32:27,993">that it's almost magic, you know, <br/>architects can fill in the difference</p>
+      <p begin="00:32:27,993" end="00:32:31,729">by attaching words to the project.<br/>People understand words.</p>
+      <p begin="00:32:32,693" end="00:32:39,175">And Libeskind's architecture always <br/>comes heavily loaded with words.</p>
+      <p begin="00:32:39,786" end="00:32:43,743">
+        <span tts:fontStyle="italic">And the design he presented at Ground Zero<br/>with the matrix of heroes</span>
+      </p>
+      <p begin="00:32:43,743" end="00:32:47,838">
+        <span tts:fontStyle="italic">and the wedge of light and the tower<br/>that through a tight, somehow spoke</span>
+      </p>
+      <p begin="00:32:47,838" end="00:32:49,786">
+        <span tts:fontStyle="italic">about the Declaration of Independence.</span>
+      </p>
+      <p begin="00:32:50,491" end="00:32:54,717">
+        <span tts:fontStyle="italic">All of that stuff bridges the gap between<br/>what can be, you know,</span>
+      </p>
+      <p begin="00:32:54,717" end="00:32:58,789">
+        <span tts:fontStyle="italic">very funny looking architecture and things<br/>that real people can actually understand,</span>
+      </p>
+      <p begin="00:32:59,113" end="00:33:01,819">because "I'm gonna make you feel better<br/>about September 11th," </p>
+      <p begin="00:33:01,819" end="00:33:03,528">is not a thing<br/>that a building can say.</p>
+      <p begin="00:33:04,103" end="00:33:07,383">- [Libeskind] It's 1776 feet high,<br/>very important and it is not just about</p>
+      <p begin="00:33:07,383" end="00:33:10,213">nations, it's about ecological zones,<br/>ecological regions.</p>
+      <p begin="00:33:10,213" end="00:33:13,633">The twenty upper storeys will be <br/>developed into very spectacular--</p>
+      <p begin="00:33:13,633" end="00:33:15,804">it's like a park standing vertically<br/>and of course--</p>
+      <p begin="00:33:15,804" end="00:33:19,880">
+        <span tts:fontStyle="italic">- [Philip] Daniel Libeskind read<br/>the political landscape perfectly</span>
+      </p>
+      <p begin="00:33:19,880" end="00:33:24,439">
+        <span tts:fontStyle="italic">and pitched to the city in the world<br/>and the powers that be, kind of merging</span>
+      </p>
+      <p begin="00:33:24,439" end="00:33:28,620">of you know, a hip architecture <br/>that was also flag-waving.</p>
+      <p begin="00:33:29,970" end="00:33:32,528">[crowd applause]</p>
+      <p begin="00:33:34,354" end="00:33:36,133">
+        <span tts:fontStyle="italic">- [Betts] I was so engaged in it.<br/>I thought it was phenomenal.</span>
+      </p>
+      <p begin="00:33:36,133" end="00:33:38,239">
+        <span tts:fontStyle="italic">But I didn't know<br/>what other people would think.</span>
+      </p>
+      <p begin="00:33:38,773" end="00:33:42,700">So, I went home that night <br/>and I started looking at newspapers</p>
+      <p begin="00:33:42,700" end="00:33:46,266">and I looked around tomorrow<br/>morning's papers.</p>
+      <p begin="00:33:46,266" end="00:33:49,345">I looked, there's a site where you<br/>can find every newspaper in the world.</p>
+      <p begin="00:33:49,345" end="00:33:54,849">
+        <span tts:fontStyle="italic">And I must've looked at 300 that night.<br/>I did it almost all night just looking.</span>
+      </p>
+      <p begin="00:33:55,118" end="00:33:57,115">
+        <span tts:fontStyle="italic">I just can't believe it. I tell my wife,<br/>"Look at this, God."</span>
+      </p>
+      <p begin="00:33:57,115" end="00:34:02,163">You know, in the middle of nowhere,<br/>Malaysia... and here it is.</p>
+      <p begin="00:34:03,117" end="00:34:05,863">
+        <span tts:fontStyle="italic">One or more of those images<br/>was on the front page </span>
+      </p>
+      <p begin="00:34:05,863" end="00:34:08,867">
+        <span tts:fontStyle="italic">of every newspaper in the world.</span>
+      </p>
+      <p begin="00:34:10,201" end="00:34:13,210">And I think that wasn't lost <br/>on Vi&#241;oly and Libeskind</p>
+      <p begin="00:34:13,210" end="00:34:17,414">and somebody was gonna win and therefore,<br/>the stakes were unbelievably high</p>
+      <p begin="00:34:17,414" end="00:34:21,933">and they wanted to win. <br/>So, it did get a little naughty.</p>
+      <p begin="00:34:22,532" end="00:34:26,560">- [Philip] After Libeskind and THINK were<br/>sort of selected as finalist,</p>
+      <p begin="00:34:26,560" end="00:34:31,680">there was, you know, <br/>campaigns of muttering.</p>
+      <p begin="00:34:32,386" end="00:34:37,467">- [Libeskind] You know, everybody wants<br/>to win and you know, if you're naive,</p>
+      <p begin="00:34:37,467" end="00:34:40,148">you don't know what kind of forces<br/>are arrayed against you.</p>
+      <p begin="00:34:40,725" end="00:34:44,353">There was not a minute<br/>that it was just, "Go, relax."</p>
+      <p begin="00:34:44,353" end="00:34:50,547">You know, meditate. It was a constant<br/>passionate sort of struggle.</p>
+      <p begin="00:34:50,948" end="00:34:53,753">
+        <span tts:fontStyle="italic">- [Philip] And the kind of things,<br/>you know, that sort of rovey </span>
+      </p>
+      <p begin="00:34:53,753" end="00:34:57,218">
+        <span tts:fontStyle="italic">on political tactics,<br/>taken into the world of architecture</span>
+      </p>
+      <p begin="00:34:57,218" end="00:35:01,812">and being propagated by amateurs.<br/>So it was a good time for all.</p>
+      <p begin="00:35:02,502" end="00:35:06,646">- [Lieber] It was blood sport and these<br/>guys were going for the biggest prize</p>
+      <p begin="00:35:06,646" end="00:35:11,125">
+        <span tts:fontStyle="italic">the architecture had ever seen.<br/>And there's a lot at stake for that.</span>
+      </p>
+      <p begin="00:35:12,400" end="00:35:17,473">- [Philip] Libeskind had chosen to leave<br/>the pit empty, preserved as a memorial,</p>
+      <p begin="00:35:17,473" end="00:35:21,785">
+        <span tts:fontStyle="italic">so his opponents started whispering<br/>that it was a pit of death </span>
+      </p>
+      <p begin="00:35:21,932" end="00:35:24,534">
+        <span tts:fontStyle="italic">and an open grave and kind of,<br/>you know, there's a lot of ways</span>
+      </p>
+      <p begin="00:35:24,534" end="00:35:27,548">
+        <span tts:fontStyle="italic">to see how that gesture<br/>could be perceived as inappropriate.</span>
+      </p>
+      <p begin="00:35:28,223" end="00:35:34,199">And then, the THINK team went <br/>you know, very high up in the air</p>
+      <p begin="00:35:34,199" end="00:35:38,182">with these open steel-- <br/>kind of Eiffel towers, so the Libeskinds</p>
+      <p begin="00:35:38,182" end="00:35:41,330">
+        <span tts:fontStyle="italic">started saying that they were<br/>skeletons in the sky.</span>
+      </p>
+      <p begin="00:35:48,466" end="00:35:55,182">- [Betts] So, we finally came to the<br/>point of determining who we wanted to win</p>
+      <p begin="00:35:55,949" end="00:35:57,918">and we chose Vi&#241;oly's plan.</p>
+      <p begin="00:36:00,516" end="00:36:04,380">
+        <span tts:fontStyle="italic">- [Libeskind] It was early in the morning.<br/>I remember being in a car, </span>
+      </p>
+      <p begin="00:36:04,380" end="00:36:08,214">taxi in New York, going somewhere<br/>Lower Manhattan and the headline,</p>
+      <p begin="00:36:08,214" end="00:36:10,856">the day before the competition<br/>was to be judged in the <span tts:fontStyle="italic">New York Times</span></p>
+      <p begin="00:36:10,856" end="00:36:15,940">
+        <span tts:fontStyle="italic">was "Scheme selected, scheme ex-selected."</span>
+      </p>
+      <p begin="00:36:15,716" end="00:36:17,676">
+        <span tts:fontStyle="italic">Was that my scheme?</span>
+      </p>
+      <p begin="00:36:18,460" end="00:36:21,691">And of course, when I read that headline, <br/>I was crushed.</p>
+      <p begin="00:36:22,427" end="00:36:25,341">- [Pataki] I remember waking up<br/>in the morning seeing the front page</p>
+      <p begin="00:36:25,341" end="00:36:29,913">of the <span tts:fontStyle="italic">Times</span> that the LMDC is going<br/>to choose the Vi&#241;oly plan and going,</p>
+      <p begin="00:36:29,913" end="00:36:35,450">"No, this can't be." <br/>Because I thought, the Vi&#241;oly plan,</p>
+      <p begin="00:36:35,450" end="00:36:39,520">one was, unbuildable, two was,<br/>economically unsound and three,</p>
+      <p begin="00:36:39,520" end="00:36:44,879">
+        <span tts:fontStyle="italic">were the footprints where had these<br/>skeletons really rising into the sky</span>
+      </p>
+      <p begin="00:36:44,879" end="00:36:48,887">that to me symbolize <br/>the destruction of the past,</p>
+      <p begin="00:36:48,887" end="00:36:54,307">instead of the hope of the future.<br/>And I just thought it was a terrible idea.</p>
+      <p begin="00:36:54,546" end="00:36:59,228">- [Betts] He just ripped Vi&#241;oly's plan.<br/>And he said it looks like these oil tanks</p>
+      <p begin="00:36:59,228" end="00:37:03,784">
+        <span tts:fontStyle="italic">in New Jersey and no one's ever<br/>gonna want to walk in there, </span>
+      </p>
+      <p begin="00:37:03,784" end="00:37:07,140">
+        <span tts:fontStyle="italic">or they're gonna fall down,<br/>just all this stuff.</span>
+      </p>
+      <p begin="00:37:07,265" end="00:37:11,763">So now, we were in a pretty awful position<br/>here because the LMDC had voted,</p>
+      <p begin="00:37:11,763" end="00:37:15,502">not just as a site committee,<br/>but as the full LMDC</p>
+      <p begin="00:37:15,502" end="00:37:19,616">and expressed a clear preference<br/>for Vi&#241;oly and basically,</p>
+      <p begin="00:37:19,616" end="00:37:24,410">Pataki came in and kinda just pulled<br/>the rug out from under the LMDC</p>
+      <p begin="00:37:24,410" end="00:37:26,523">and you know, he just <br/>reversed the decision.</p>
+      <p begin="00:37:26,835" end="00:37:29,250">- [Pataki] How are you? Good to see you.</p>
+      <p begin="00:37:29,250" end="00:37:30,729">- [Libeskind] Great day. <br/>This is a great day.</p>
+      <p begin="00:37:31,326" end="00:37:34,859">- [Betts] And so, in a sense,<br/>the Libeskind plan became his plan.</p>
+      <p begin="00:37:36,426" end="00:37:39,989">- [Libeskind] It suddenly dawned on me<br/>what immense responsibility I have.</p>
+      <p begin="00:37:40,621" end="00:37:46,366">It wasn't just all great. Oh my, God. <br/>Now, with these few lines on paper,</p>
+      <p begin="00:37:46,366" end="00:37:52,564">how am I going to be able to do<br/>what I promised to do?</p>
+      <p begin="00:37:54,453" end="00:37:55,965">
+        <span tts:fontStyle="italic">- [Announcer] Out of this gaping wound<br/>in of the heart of</span>
+      </p>
+      <p begin="00:37:55,965" end="00:37:59,885">
+        <span tts:fontStyle="italic">the New York Financial Center, where<br/>the 1300 foot tall Twin Towers once stood,</span>
+      </p>
+      <p begin="00:38:01,578" end="00:38:03,775">
+        <span tts:fontStyle="italic">an even taller building will rise.</span>
+      </p>
+      <p begin="00:38:04,555" end="00:38:08,533">- [Pataki] The design plan <br/>has an inspiring spire.</p>
+      <p begin="00:38:08,553" end="00:38:11,450">- [Libeskind] It is the biggest challenge.<br/>The most profoundly moving</p>
+      <p begin="00:38:11,450" end="00:38:14,265">emotionally intellectual, <br/>architecturally spiritual project</p>
+      <p begin="00:38:14,265" end="00:38:15,700">I've ever done here, of course.</p>
+      <p begin="00:38:16,730" end="00:38:20,261">
+        <span tts:fontStyle="italic">- [Philip] For three months, Libeskind<br/>gave Pataki everything he needed.</span>
+      </p>
+      <p begin="00:38:20,261" end="00:38:21,636">[Libeskind laughs]</p>
+      <p begin="00:38:21,712" end="00:38:26,910">
+        <span tts:fontStyle="italic">He got in front of any camera<br/>and told a gripping story </span>
+      </p>
+      <p begin="00:38:26,910" end="00:38:28,455">
+        <span tts:fontStyle="italic">and there was imagery to attach to it.</span>
+      </p>
+      <p begin="00:38:28,455" end="00:38:30,500">[bell ringing]</p>
+      <p begin="00:38:30,500" end="00:38:32,432">
+        <span tts:fontStyle="italic">And he was ringing<br/>the right political bells</span>
+      </p>
+      <p begin="00:38:32,432" end="00:38:34,373">
+        <span tts:fontStyle="italic">and everyone was happy.</span>
+      </p>
+      <p begin="00:38:35,144" end="00:38:36,611">Except for Larry Silverstein.</p>
+      <p begin="00:38:36,674" end="00:38:43,413">- [Lieber] Larry actually preferred <br/>Libeskind's entry to the others.</p>
+      <p begin="00:38:43,413" end="00:38:48,518">
+        <span tts:fontStyle="italic">But once it became clear that Libeskind<br/>wanted to design the building,</span>
+      </p>
+      <p begin="00:38:48,585" end="00:38:52,945">in addition to being the master planner,<br/>we did get into a little conflict with him</p>
+      <p begin="00:38:53,445" end="00:38:57,362">
+        <span tts:fontStyle="italic">because Libeskind had done a couple<br/>of buildings of moderate size,</span>
+      </p>
+      <p begin="00:38:57,362" end="00:39:02,621">
+        <span tts:fontStyle="italic">some architecturally dramatic ones,<br/>including the museum in Berlin.</span>
+      </p>
+      <p begin="00:39:03,425" end="00:39:06,453">But he had not done a skyscraper,<br/>he had not done very tall tower,</p>
+      <p begin="00:39:06,548" end="00:39:08,750">which is a completely different exercise.</p>
+      <p begin="00:39:09,379" end="00:39:13,420">- [Betts] What Libeskind was picked for<br/>was the master plan.</p>
+      <p begin="00:39:13,420" end="00:39:18,886">He was not picked to design and build <br/>skyscrapers, something he had never done.</p>
+      <p begin="00:39:19,764" end="00:39:22,462">
+        <span tts:fontStyle="italic">- [Lieber] So, as Larry Silverstein<br/>explained to Libeskind once when</span>
+      </p>
+      <p begin="00:39:22,462" end="00:39:25,346">
+        <span tts:fontStyle="italic">we were having a meeting, he said,<br/>"Dan, if I'm gonna have open heart</span>
+      </p>
+      <p begin="00:39:25,346" end="00:39:29,114">
+        <span tts:fontStyle="italic">surgery, I wanna have somebody<br/>who's done it before.</span>
+      </p>
+      <p begin="00:39:29,490" end="00:39:35,163">And a building of 1700 feet in height,<br/>is the architectural equivalent</p>
+      <p begin="00:39:35,163" end="00:39:36,785">of open heart surgery."</p>
+      <p begin="00:39:37,174" end="00:39:42,388">And Dan's wife, who is his partner,<br/>you know, in his practice said,</p>
+      <p begin="00:39:42,388" end="00:39:45,360">"He's a quick learner," and Larry said,</p>
+      <p begin="00:39:45,360" end="00:39:48,559">"Not on my heart, you're not gonna learn<br/>how to do open heart surgery."</p>
+      <p begin="00:39:49,088" end="00:39:50,757">- [Silverstein] This meeting's over.<br/>We're done.</p>
+      <p begin="00:39:50,757" end="00:39:52,358">She says, "Don't get excited."</p>
+      <p begin="00:39:52,537" end="00:39:55,367">I said, "I'm not excited," I said,<br/>"Just wanna say this meeting's over.</p>
+      <p begin="00:39:55,367" end="00:39:57,321">I'm having no further discussion<br/>about the redesign.</p>
+      <p begin="00:39:57,742" end="00:39:59,400">It's off the table. Finished.</p>
+      <p begin="00:40:00,789" end="00:40:04,420">- [Libeskind] Here's a man with money,<br/>with power, with the idea that</p>
+      <p begin="00:40:04,420" end="00:40:09,187">it belongs to him, he had his own ideas<br/>with his own architects.</p>
+      <p begin="00:40:10,360" end="00:40:13,773">- [David Childs] Larry came to me <br/>and he said, "Your trade in life,</p>
+      <p begin="00:40:13,773" end="00:40:17,874">what you're a specialist is, <br/>is tall office buildings. </p>
+      <p begin="00:40:17,874" end="00:40:19,520">I need you to do this."</p>
+      <p begin="00:40:19,982" end="00:40:23,879">- [Lieber] Larry announced the truth,<br/>which is he's gonna do the building</p>
+      <p begin="00:40:23,879" end="00:40:28,325">with the architect he chose,<br/>which is David Childs,</p>
+      <p begin="00:40:28,325" end="00:40:29,988">from Skidmore, Owings and Merrill.</p>
+      <p begin="00:40:29,988" end="00:40:32,719">
+        <span tts:fontStyle="italic">He did the Worldwide Plaza building,</span>
+      </p>
+      <p begin="00:40:32,719" end="00:40:35,287">
+        <span tts:fontStyle="italic">he did the Bank<br/>of New York Operations Center,</span>
+      </p>
+      <p begin="00:40:35,287" end="00:40:37,287">
+        <span tts:fontStyle="italic">he's done a lot of big buildings.</span>
+      </p>
+      <p begin="00:40:38,210" end="00:40:40,807">- [Libeskind] David is a, you know,<br/>very accomplished, very powerful</p>
+      <p begin="00:40:40,807" end="00:40:43,663">architect running a firm <br/>of thousands of people.</p>
+      <p begin="00:40:43,663" end="00:40:48,832">You know, it was really kind of<br/><span tts:fontStyle="italic">David and Goliath.</span> [laughs]</p>
+      <p begin="00:40:48,832" end="00:40:55,370">- [Childs] It was a functioning, operating<br/>office building in a capitalistic society.</p>
+      <p begin="00:40:55,370" end="00:40:58,682">This was not just a piece of <br/>sculpture there in the air.</p>
+      <p begin="00:41:00,022" end="00:41:03,938">
+        <span tts:fontStyle="italic">Some time in the middle of the summer,<br/>we were summoned to a meeting </span>
+      </p>
+      <p begin="00:41:03,938" end="00:41:08,404">
+        <span tts:fontStyle="italic">at the offices of the LMDC<br/>and there was a negotiation.</span>
+      </p>
+      <p begin="00:41:08,404" end="00:41:11,945">- [Philip] Libeskind and Childs were<br/>literally thrown into a room together.</p>
+      <p begin="00:41:12,224" end="00:41:17,381">- [Childs] You've gotta have somebody<br/>in charge. You can't have two generals.</p>
+      <p begin="00:41:17,381" end="00:41:21,399">You've gotta have one <br/>that has 51% of the vote.</p>
+      <p begin="00:41:22,450" end="00:41:25,266">And so, that's what I insisted on.</p>
+      <p begin="00:41:25,545" end="00:41:27,792">[people chattering]</p>
+      <p begin="00:41:28,192" end="00:41:29,911">- [Libeskind] This is not a press <br/>conference. This is a photo op.</p>
+      <p begin="00:41:30,573" end="00:41:32,511">
+        <span tts:fontStyle="italic">- [reporter] Have you ever seen<br/>happier faces in your life?</span>
+      </p>
+      <p begin="00:41:32,854" end="00:41:35,930">- [Silverstein] Once or twice.<br/>- [Libeskind] It's a great day.</p>
+      <p begin="00:41:36,352" end="00:41:37,950">
+        <span tts:fontStyle="italic">Fantastic collaboration. </span>
+      </p>
+      <p begin="00:41:37,950" end="00:41:40,619">Wait, we have to roll up our sleeves. <br/>We gotta get to work.</p>
+      <p begin="00:41:40,811" end="00:41:43,540">- [Childs] If body language says anything,<br/>this is the picture.</p>
+      <p begin="00:41:44,318" end="00:41:46,201">
+        <span tts:fontStyle="italic">- [reporter] What's the reality?</span>
+      </p>
+      <p begin="00:41:46,366" end="00:41:47,829">- [Libeskind] It's real, it's real.</p>
+      <p begin="00:41:48,133" end="00:41:49,324">[cameras clicking]</p>
+      <p begin="00:41:49,324" end="00:41:50,963">- [Silverstein] Okay, let's go.<br/>Thank you.</p>
+      <p begin="00:41:51,747" end="00:41:54,146">Right behind you.<br/>Keep going, keep going.</p>
+      <p begin="00:41:54,804" end="00:42:00,830">- [Libeskind] David, they want us--- <br/>[Childs] This is our scheme,</p>
+      <p begin="00:42:00,151" end="00:42:02,547">see how well-- <br/>[Libeskind laughing]</p>
+      <p begin="00:42:02,547" end="00:42:05,127">
+        <span tts:fontStyle="italic">- [Lieber] But it was very clear<br/>from the beginning that these guys</span>
+      </p>
+      <p begin="00:42:05,127" end="00:42:07,969">
+        <span tts:fontStyle="italic">did not look at things the same way.</span>
+      </p>
+      <p begin="00:42:07,969" end="00:42:11,177">Childs and his team would present,<br/>you know, technical issues</p>
+      <p begin="00:42:11,177" end="00:42:14,685">and how they propose to solve<br/>them or options for solving them</p>
+      <p begin="00:42:14,685" end="00:42:19,923">and Libeskind's comments tended<br/>to be focused on more ethereal,</p>
+      <p begin="00:42:19,923" end="00:42:26,420">symbolic and general issues, you know. <br/>I think Dan said,</p>
+      <p begin="00:42:26,420" end="00:42:28,847">"The top has to be more meaningful."<br/>And that you could see</p>
+      <p begin="00:42:28,847" end="00:42:30,320">that Childs' blood rising.</p>
+      <p begin="00:42:30,320" end="00:42:35,765">- [Childs] I think that in fact, that<br/>Libeskind thought that he would have</p>
+      <p begin="00:42:35,765" end="00:42:42,123">a more of a role than I was gonna be<br/>somehow change and be willing to</p>
+      <p begin="00:42:42,123" end="00:42:49,523">just execute his role as a designer.<br/>Frankly, Larry wouldn't permit that.</p>
+      <p begin="00:42:49,657" end="00:42:53,248">- [Libeskind] He's an industrialist.<br/>He wants to make profits.</p>
+      <p begin="00:42:54,010" end="00:42:58,412">He has an empire, you know.<br/>It's not the philanthropic enterprise,</p>
+      <p begin="00:42:58,412" end="00:43:01,736">it's how to create profits,<br/>which I appreciate.</p>
+      <p begin="00:43:02,204" end="00:43:05,815">Now, what would New York be <br/>if people were not entrepreneurial</p>
+      <p begin="00:43:05,815" end="00:43:12,888">to want make money. But that often came<br/>into tension with other ideas.</p>
+      <p begin="00:43:17,621" end="00:43:20,978">- [Pataki] When our work is done,<br/>the history of Lower Manhattan</p>
+      <p begin="00:43:20,978" end="00:43:23,524">would have been written, <br/>not by the terrorists</p>
+      <p begin="00:43:23,524" end="00:43:25,572"> who attacked our city,</p>
+      <p begin="00:43:25,572" end="00:43:28,465">
+        <span tts:fontStyle="italic">but by the millions of New Yorkers,<br/>who stood up to defend it.</span>
+      </p>
+      <p begin="00:43:28,602" end="00:43:34,127">By the 5th anniversary of the attack,<br/>September 11th 2006,</p>
+      <p begin="00:43:34,127" end="00:43:40,342">we will top off a new icon.<br/>The 1776-foot tall Freedom Tower.</p>
+      <p begin="00:43:40,766" end="00:43:43,625">[applause]</p>
+      <p begin="00:43:44,162" end="00:43:46,732">- [Raab] My vast--people <br/>close to the governor,</p>
+      <p begin="00:43:46,732" end="00:43:50,349">was that political calculation<br/>or a spur of the moment,</p>
+      <p begin="00:43:50,349" end="00:43:53,616">naming it, "The Freedom Tower."<br/>And the best answer I've heard</p>
+      <p begin="00:43:53,616" end="00:43:58,144">is that it had been discussed,<br/>but no one had really signed off on it</p>
+      <p begin="00:43:58,144" end="00:44:00,988">and no one was sure of it until it came<br/>out of his mouth during the speech.</p>
+      <p begin="00:44:00,988" end="00:44:04,236">- [Pataki] What is 1776?<br/>It's a symbol of our freedom.</p>
+      <p begin="00:44:04,236" end="00:44:06,971">It's the year we proclaimed<br/>our independence.</p>
+      <p begin="00:44:06,971" end="00:44:12,823">So it just made sense that word just<br/>kinda fell in and fit the building.</p>
+      <p begin="00:44:13,944" end="00:44:16,343"><span tts:fontStyle="italic">- [Philip] There's a letter in the </span><br/>New York Post <span tts:fontStyle="italic">that was brilliant.</span></p>
+      <p begin="00:44:16,481" end="00:44:20,629">
+        <span tts:fontStyle="italic">The letter said, "This building is nothing<br/>but a perch for George Pataki</span>
+      </p>
+      <p begin="00:44:20,629" end="00:44:23,245">
+        <span tts:fontStyle="italic">to climb up and gaze off<br/>in the direction of Washington."</span>
+      </p>
+      <p begin="00:44:23,712" end="00:44:29,490">And that was true. Pataki was<br/>actively using the process to further</p>
+      <p begin="00:44:29,490" end="00:44:32,155">his political ambition<br/>as any politician would.</p>
+      <p begin="00:44:33,878" end="00:44:36,471">- [Pataki] Good morning.<br/>We're here today for the unveiling</p>
+      <p begin="00:44:36,471" end="00:44:38,673">of the model of the Freedom Tower.</p>
+      <p begin="00:44:39,301" end="00:44:44,830">When Daniel Libeskind revealed<br/>his master site plan, the idea was</p>
+      <p begin="00:44:44,830" end="00:44:48,491">to create a building, the tallest<br/>building in the world, yes,</p>
+      <p begin="00:44:48,491" end="00:44:55,997">but symbolically, 1776 feet tall.<br/>But mostly today, is a celebration</p>
+      <p begin="00:44:55,997" end="00:44:59,874">of the successful collaboration<br/>of two brilliant architects,</p>
+      <p begin="00:44:59,874" end="00:45:02,743">who understand that <br/>this is not just a building,</p>
+      <p begin="00:45:02,743" end="00:45:04,579">this is a symbol of freedom.</p>
+      <p begin="00:45:05,011" end="00:45:09,453">So to Daniel Libeskind and to<br/>David Childs, congratulations.</p>
+      <p begin="00:45:09,453" end="00:45:11,590">[cameras clicking]</p>
+      <p begin="00:45:11,590" end="00:45:16,543">[applause]</p>
+      <p begin="00:45:17,973" end="00:45:19,707">- That's it?<br/>- That's it.</p>
+      <p begin="00:45:22,737" end="00:45:24,562">Don't trip now as we go on there.</p>
+      <p begin="00:45:25,182" end="00:45:27,586">[people chattering]</p>
+      <p begin="00:45:27,586" end="00:45:30,267">[cameras clicking]</p>
+      <p begin="00:45:30,267" end="00:45:34,816">[people chatting]</p>
+      <p begin="00:45:35,106" end="00:45:38,272">
+        <span tts:fontStyle="italic">- [Philip] When Libeskind and Childs<br/>allegedly started working together,</span>
+      </p>
+      <p begin="00:45:38,272" end="00:45:43,400">
+        <span tts:fontStyle="italic">the kind of face saving design that came<br/>out of that, had this big stick on top.</span>
+      </p>
+      <p begin="00:45:43,327" end="00:45:49,587">And that stick and the numbers <br/>1776 were the only thing</p>
+      <p begin="00:45:49,587" end="00:45:52,447">that survived of the original<br/>Libeskind concept.</p>
+      <p begin="00:45:53,575" end="00:45:56,255">
+        <span tts:fontStyle="italic">They presented this huge model<br/>that was 10 feet tall or something.</span>
+      </p>
+      <p begin="00:45:56,255" end="00:45:59,268">
+        <span tts:fontStyle="italic">It lit from within and who knows<br/>how much money was spent on it.</span>
+      </p>
+      <p begin="00:45:59,850" end="00:46:02,364">And as they were moving it <br/>out of the Federal Hall,</p>
+      <p begin="00:46:02,364" end="00:46:06,150">where they had the presentation,<br/>the S-1 guys broke the stick off,</p>
+      <p begin="00:46:06,150" end="00:46:08,635">so it could clear the door, you know.</p>
+      <p begin="00:46:08,635" end="00:46:11,140">And that was the last<br/>we saw of Danny's stick.</p>
+      <p begin="00:46:15,909" end="00:46:20,120">
+        <span tts:fontStyle="italic">- [Rosaleen] No matter what people talk<br/>about, buildings or their real estate,</span>
+      </p>
+      <p begin="00:46:20,120" end="00:46:22,425">
+        <span tts:fontStyle="italic">Ground Zero is ground zero<br/>for what happened there.</span>
+      </p>
+      <p begin="00:46:22,991" end="00:46:25,959">So, the most important thing was<br/>how we were gonna remember</p>
+      <p begin="00:46:25,959" end="00:46:27,977">what happened there to those people.</p>
+      <p begin="00:46:28,756" end="00:46:32,262">- [speaker] And this eternal flame<br/>will be visible, just like the tower was,</p>
+      <p begin="00:46:32,262" end="00:46:35,498">so you don't have to come to this<br/>memorial to remember what happened here.</p>
+      <p begin="00:46:35,498" end="00:46:37,766">- [speaker] The key feature of my design<br/>is that every visitor</p>
+      <p begin="00:46:37,766" end="00:46:41,250">will clearly visualize and absorb<br/>the enormity of the sacrifice.</p>
+      <p begin="00:46:41,250" end="00:46:43,589">Every victim will be represented</p>
+      <p begin="00:46:43,589" end="00:46:48,700">by his or her own individual<br/>life-sized human statue.</p>
+      <p begin="00:46:48,700" end="00:46:52,320">- [speaker] We could then have<br/>two or three foot crystal birds.</p>
+      <p begin="00:46:52,320" end="00:46:55,672">One for each life lost.</p>
+      <p begin="00:46:55,684" end="00:46:58,970">[applause]</p>
+      <p begin="00:46:58,511" end="00:47:01,878">
+        <span tts:fontStyle="italic">- [Pataki] We wanted public involvement,<br/>so we invited submissions.</span>
+      </p>
+      <p begin="00:47:01,949" end="00:47:02,986">
+        <span tts:fontStyle="italic">We got thousands.</span>
+      </p>
+      <p begin="00:47:03,989" end="00:47:07,068">- [Anchorman] More than 5000 people<br/>submitted proposals for a memorial</p>
+      <p begin="00:47:07,068" end="00:47:08,737">at the site of the World Trade Center.</p>
+      <p begin="00:47:08,737" end="00:47:12,633">
+        <span tts:fontStyle="italic">Today, a committee chose this one.<br/>It's called, Reflecting Absence.</span>
+      </p>
+      <p begin="00:47:12,633" end="00:47:15,983">
+        <span tts:fontStyle="italic">Designed by New Yorker, Michael Arad,<br/>it will include the names</span>
+      </p>
+      <p begin="00:47:15,983" end="00:47:19,384">
+        <span tts:fontStyle="italic">of everyone killed in the 9/11 attacks<br/>on the World Trade Center.</span>
+      </p>
+      <p begin="00:47:27,248" end="00:47:30,880">- [Michael Arad] I was working as<br/>an assistant architect</p>
+      <p begin="00:47:30,880" end="00:47:32,333">for the New York City Housing<br/>Authority, Design Department,</p>
+      <p begin="00:47:32,333" end="00:47:36,133">when I found out there was a competition<br/>for the design of the memorial,</p>
+      <p begin="00:47:36,949" end="00:47:39,126">and I had to do this.</p>
+      <p begin="00:47:39,271" end="00:47:44,692">There's no sort of rational explanation<br/>for why you get so drawn into it.</p>
+      <p begin="00:47:46,173" end="00:47:52,580">
+        <span tts:fontStyle="italic">I came across this quarry in South Orange<br/>and there's just something very beautiful</span>
+      </p>
+      <p begin="00:47:52,580" end="00:47:57,470">
+        <span tts:fontStyle="italic">and evocative about it, because it had<br/>this sort of clearly traced out absence </span>
+      </p>
+      <p begin="00:47:57,470" end="00:47:59,971">
+        <span tts:fontStyle="italic">of all the rock<br/>that had been excavated out,</span>
+      </p>
+      <p begin="00:47:59,971" end="00:48:04,906">but was softened by the water<br/>and by the trees and I think that</p>
+      <p begin="00:48:04,906" end="00:48:09,359">helped me to start thinking about<br/>the Memorial Plaza.</p>
+      <p begin="00:48:14,243" end="00:48:18,791">
+        <span tts:fontStyle="italic">Days after the attack, I remember<br/>biking around Lower Manhattan</span>
+      </p>
+      <p begin="00:48:18,791" end="00:48:21,300">
+        <span tts:fontStyle="italic">at night and I made my way<br/>to Washington Square Park</span>
+      </p>
+      <p begin="00:48:21,300" end="00:48:25,114">
+        <span tts:fontStyle="italic">and I found myself standing<br/>near that central fountain,</span>
+      </p>
+      <p begin="00:48:25,114" end="00:48:28,555">
+        <span tts:fontStyle="italic">the grand fountain.<br/>People placed candles there.</span>
+      </p>
+      <p begin="00:48:31,146" end="00:48:33,219">
+        <span tts:fontStyle="italic">And I felt like I was part of that group.</span>
+      </p>
+      <p begin="00:48:33,443" end="00:48:35,359">You know, I came there,<br/>not knowing anybody</p>
+      <p begin="00:48:35,359" end="00:48:38,619">and not a word was said.<br/>And I left a few minutes later</p>
+      <p begin="00:48:38,619" end="00:48:40,941">without having said anything<br/>to anybody </p>
+      <p begin="00:48:40,941" end="00:48:43,194">but, I left completely changed.</p>
+      <p begin="00:48:44,237" end="00:48:46,641">
+        <span tts:fontStyle="italic">All of a sudden,<br/>that notion of sort of being</span>
+      </p>
+      <p begin="00:48:46,641" end="00:48:48,641">
+        <span tts:fontStyle="italic">cruelly removed from the life of the city,</span>
+      </p>
+      <p begin="00:48:48,641" end="00:48:53,860">
+        <span tts:fontStyle="italic">I mean, that just shattered.<br/>And we're part of it, a greater all.</span>
+      </p>
+      <p begin="00:48:53,402" end="00:48:54,681">
+        <span tts:fontStyle="italic">You had to be.</span>
+      </p>
+      <p begin="00:49:01,052" end="00:49:03,114">[cycling sound]</p>
+      <p begin="00:49:04,122" end="00:49:07,373">
+        <span tts:fontStyle="italic">- [Rosaleen] Our neighborhood here<br/>in Yonkers is full of police officers</span>
+      </p>
+      <p begin="00:49:07,373" end="00:49:12,316">
+        <span tts:fontStyle="italic">and fire fighters. So, after 9/11,<br/>I met other family members</span>
+      </p>
+      <p begin="00:49:12,316" end="00:49:16,745">and they were very, very intent<br/>on making sure that,</p>
+      <p begin="00:49:16,745" end="00:49:19,248">as they said, the brothers <br/>were listed with their ranks,</p>
+      <p begin="00:49:19,248" end="00:49:22,874">and I thought that was a no-brainer.</p>
+      <p begin="00:49:22,874" end="00:49:26,914">So, they asked me, would I care<br/>to join the group, advocating for 9/11</p>
+      <p begin="00:49:26,914" end="00:49:31,727">issues, and they seemed like such<br/>a simple thing to become involved in.</p>
+      <p begin="00:49:31,786" end="00:49:36,525">- [Betts] I mean, simple things like,<br/>what's the order of the names?</p>
+      <p begin="00:49:36,525" end="00:49:40,727">
+        <span tts:fontStyle="italic">Is it organized alphabetically<br/>by last name?</span>
+      </p>
+      <p begin="00:49:40,727" end="00:49:45,346">
+        <span tts:fontStyle="italic">Is it organized alphabetically<br/>by last name within the firemen's group?</span>
+      </p>
+      <p begin="00:49:45,346" end="00:49:47,655">Are the firemen over here <br/>and the police over here?</p>
+      <p begin="00:49:47,655" end="00:49:50,132">I mean, these are things <br/>that were debated for years.</p>
+      <p begin="00:49:51,063" end="00:49:54,442">
+        <span tts:fontStyle="italic">- [Lieber] The Mayor started seeing<br/>the Memorial was not coming together</span>
+      </p>
+      <p begin="00:49:54,442" end="00:49:57,553">
+        <span tts:fontStyle="italic">as quickly or as well<br/>as everybody had hoped.</span>
+      </p>
+      <p begin="00:49:57,553" end="00:50:00,197">And he took ownership of it.<br/>He literally stepped up,</p>
+      <p begin="00:50:00,197" end="00:50:04,296">became the Chairman of the Board,<br/>raised the money and started</p>
+      <p begin="00:50:04,296" end="00:50:06,274">to push the construction<br/>schedules through.</p>
+      <p begin="00:50:06,750" end="00:50:10,373">
+        <span tts:fontStyle="italic">- [Rosaleen] Mayor Bloomberg,<br/>it's his way or the highway.</span>
+      </p>
+      <p begin="00:50:10,373" end="00:50:11,478">
+        <span tts:fontStyle="italic">That's what I have felt.</span>
+      </p>
+      <p begin="00:50:11,832" end="00:50:16,146">He's a man that cast us aside<br/>and made us seem like</p>
+      <p begin="00:50:16,146" end="00:50:18,961">we couldn't get over our grief.</p>
+      <p begin="00:50:22,013" end="00:50:24,105" region="top"> CITY HALL</p>
+      <p begin="00:50:24,393" end="00:50:26,724">- [Michael Bloomberg] People's views<br/>change with time.</p>
+      <p begin="00:50:26,724" end="00:50:30,597">There's an emotion that, as soon as<br/>you lose a loved one,</p>
+      <p begin="00:50:30,597" end="00:50:33,417">that it's very different than <br/>an emotion that you have</p>
+      <p begin="00:50:33,417" end="00:50:36,615">five and ten and twenty years later.</p>
+      <p begin="00:50:37,769" end="00:50:42,493">And we have to make sure we don't<br/>respond to the first and in fact,</p>
+      <p begin="00:50:42,493" end="00:50:44,692">have a better perspective.<br/>That's not to say,</p>
+      <p begin="00:50:44,692" end="00:50:48,530">that you treat people cavalierly<br/>or don't listen to them.</p>
+      <p begin="00:50:48,530" end="00:50:53,105">- [Rosaleen] The Mayor and the LMDC,<br/>they were able to say,</p>
+      <p begin="00:50:53,105" end="00:50:55,522">"Oh, look at these families."</p>
+      <p begin="00:50:55,522" end="00:50:59,165">They're constantly complaining.<br/>And then, when other issues came up,</p>
+      <p begin="00:50:59,165" end="00:51:03,896">"Oh, look, here comes the families again.<br/>They're slowing the process down."</p>
+      <p begin="00:51:03,896" end="00:51:08,170">They actually blamed us <br/>for slowing Ground Zero down.</p>
+      <p begin="00:51:08,259" end="00:51:11,379">- [Betts] And so, they actually stopped <br/>bugging the Mayor.</p>
+      <p begin="00:51:12,126" end="00:51:15,520">But they went to Pataki and they found<br/>a very receptive ear in Pataki.</p>
+      <p begin="00:51:15,727" end="00:51:19,452">- [Pataki] We always try to include<br/>family members every step of the way,</p>
+      <p begin="00:51:19,452" end="00:51:24,730">as decisions were made and listen<br/>to them and when you have,</p>
+      <p begin="00:51:24,730" end="00:51:26,601">obviously, thousands and thousands<br/>of family members,</p>
+      <p begin="00:51:26,601" end="00:51:30,631">you're never going to have unanimity,<br/>you're going to have divergent opinions.</p>
+      <p begin="00:51:32,814" end="00:51:35,691" region="top"> 2004</p>
+      <p begin="00:51:38,804" end="00:51:42,588">
+        <span tts:fontStyle="italic">- [Philip] Just when the effects<br/>of the Governors' race were winding down,</span>
+      </p>
+      <p begin="00:51:42,588" end="00:51:45,603">the Republicans announced that<br/>in 2004, they'd be hosting</p>
+      <p begin="00:51:45,603" end="00:51:48,326">the Republican Convention. <br/>You know, in Midtown, but within</p>
+      <p begin="00:51:48,326" end="00:51:51,622">kind of easy commute from Ground Zero.</p>
+      <p begin="00:51:51,622" end="00:51:57,153">
+        <span tts:fontStyle="italic">And it was clear that Pataki couldn't<br/>allow Ground Zero to be a festering mess</span>
+      </p>
+      <p begin="00:51:57,153" end="00:52:01,788">
+        <span tts:fontStyle="italic">of selfish infighting, as it had become.<br/>We need to show some progress.</span>
+      </p>
+      <p begin="00:52:02,678" end="00:52:06,910">- [Pataki] On July 4th, as fireworks<br/>burst in the sky,</p>
+      <p begin="00:52:06,910" end="00:52:10,670">ephemeral reminders of our liberty,<br/>we will begin to reclaim</p>
+      <p begin="00:52:10,670" end="00:52:14,962">our skyline with a permanent<br/>symbol of our freedom.</p>
+      <p begin="00:52:15,882" end="00:52:21,302">On July 4th 2004, we will break ground<br/>on the Freedom Tower.</p>
+      <p begin="00:52:21,531" end="00:52:26,445">
+        <span tts:fontStyle="italic">[applause]</span>
+      </p>
+      <p begin="00:52:26,506" end="00:52:31,789">
+        <span tts:fontStyle="italic">- [Lieber] The Governor was in haste<br/>to plant his footprint at Ground Zero.</span>
+      </p>
+      <p begin="00:52:33,250" end="00:52:39,182">
+        <span tts:fontStyle="italic">And he had a beautiful cornerstone<br/>with quite a moving inscription on it</span>
+      </p>
+      <p begin="00:52:39,285" end="00:52:44,578">
+        <span tts:fontStyle="italic">to be planted at a spot where<br/>the Freedom Tower was going to rise.</span>
+      </p>
+      <p begin="00:52:48,551" end="00:52:50,952">- [Philip] First of all, towers <br/>don't have cornerstones,</p>
+      <p begin="00:52:50,952" end="00:52:53,589">but if you wanna lay a <br/>symbolic cornerstone, that's nice.</p>
+      <p begin="00:52:53,834" end="00:53:01,492">- [Betts] I remember it.<br/>I think it was a media event,</p>
+      <p begin="00:53:01,492" end="00:53:03,492">it wasn't a construction event.</p>
+      <p begin="00:53:04,233" end="00:53:06,795">&#9834; [music] &#9834;</p>
+      <p begin="00:53:10,112" end="00:53:16,359">&#9834; [marching band playing] &#9834;</p>
+      <p begin="00:53:29,265" end="00:53:45,599">- [Choir] &#9834; For the land of the free,<br/>and the home of the brave &#9834;</p>
+      <p begin="00:53:45,599" end="00:53:48,321">[crowd applause]</p>
+      <p begin="00:53:48,321" end="00:53:52,323">- [Pataki] Today is the 4th of July,<br/>Independence day.</p>
+      <p begin="00:53:52,907" end="00:53:55,378">
+        <span tts:fontStyle="italic">Today, we lay the cornerstone</span>
+      </p>
+      <p begin="00:53:55,378" end="00:53:58,378">
+        <span tts:fontStyle="italic">for a new symbol of the city<br/>and of this country,</span>
+      </p>
+      <p begin="00:53:58,378" end="00:54:02,592">and of our resolve to triumph<br/>in the face of terror.</p>
+      <p begin="00:54:02,592" end="00:54:05,597">Today, we build the Freedom Tower.</p>
+      <p begin="00:54:05,673" end="00:54:09,184">[applause]</p>
+      <p begin="00:54:09,184" end="00:54:12,932">
+        <span tts:fontStyle="italic">- [Lieber] Of all these things,<br/>the choreography is charged.</span>
+      </p>
+      <p begin="00:54:13,144" end="00:54:18,659">Politicians want to be seen in photos,<br/>certain kinds of settings,</p>
+      <p begin="00:54:18,659" end="00:54:23,724">
+        <span tts:fontStyle="italic">who's in the picture, who's not<br/>in the picture has political ramifications.</span>
+      </p>
+      <p begin="00:54:23,724" end="00:54:29,381">And I guess, the vision that the State<br/>people had was, in the end,</p>
+      <p begin="00:54:29,381" end="00:54:32,648">the politicians would be in <br/>the big shot that would end up</p>
+      <p begin="00:54:32,648" end="00:54:38,170">on the front page of papers and they <br/>didn't really want Larry in the shot.</p>
+      <p begin="00:54:38,017" end="00:54:39,311">[choir singing]</p>
+      <p begin="00:54:39,311" end="00:54:42,894">
+        <span tts:fontStyle="italic">A lot of the politicians<br/>were uncomfortable with having somebody</span>
+      </p>
+      <p begin="00:54:42,894" end="00:54:46,497">
+        <span tts:fontStyle="italic">who was a business person<br/>in the middle of this. </span>
+      </p>
+      <p begin="00:54:46,856" end="00:54:51,360">
+        <span tts:fontStyle="italic">But Larry, when they walked over<br/>to the cornerstone and inspected it,</span>
+      </p>
+      <p begin="00:54:51,360" end="00:54:53,122">
+        <span tts:fontStyle="italic">Larry went with the flow.</span>
+      </p>
+      <p begin="00:54:53,831" end="00:54:59,350">&#9834; [choir singing on background] &#9834;</p>
+      <p begin="00:55:01,728" end="00:55:07,580">[applause]</p>
+      <p begin="00:55:09,554" end="00:55:12,910">
+        <span tts:fontStyle="italic">And after it's over, I'm walking out.</span>
+      </p>
+      <p begin="00:55:12,690" end="00:55:17,696">And one or two of the Pataki aides,<br/>button hole me</p>
+      <p begin="00:55:17,696" end="00:55:21,509">and begin to really let me have it,<br/>yelling at me, you know,</p>
+      <p begin="00:55:21,509" end="00:55:26,427">in full view of my wife, about how<br/>Larry had ruined the shot because</p>
+      <p begin="00:55:26,427" end="00:55:29,749">
+        <span tts:fontStyle="italic">he didn't follow the choreography<br/>and he went with the group</span>
+      </p>
+      <p begin="00:55:29,749" end="00:55:32,848">
+        <span tts:fontStyle="italic">when he was supposed to,<br/>I guess,magically disappear.</span>
+      </p>
+      <p begin="00:55:33,474" end="00:55:37,118">
+        <span tts:fontStyle="italic">But it just was a reminder at the time<br/>that they had mixed feelings</span>
+      </p>
+      <p begin="00:55:37,118" end="00:55:40,813">
+        <span tts:fontStyle="italic">about private developers<br/>being part of the story,</span>
+      </p>
+      <p begin="00:55:40,813" end="00:55:45,633">and about this private developer<br/>being part of the story of the rebuilding,</p>
+      <p begin="00:55:45,633" end="00:55:49,122">even though, we were the ones <br/>who were building the buildings.</p>
+      <p begin="00:55:49,122" end="00:55:51,329">[applause]</p>
+      <p begin="00:55:51,329" end="00:55:53,470">
+        <span tts:fontStyle="italic">- [Pataki] We were ready<br/>to go with the Freedom Tower.</span>
+      </p>
+      <p begin="00:55:53,601" end="00:55:56,210">
+        <span tts:fontStyle="italic">The tallest building<br/>ever built in America,</span>
+      </p>
+      <p begin="00:55:56,210" end="00:56:00,248">
+        <span tts:fontStyle="italic">and the symbol of our freedom<br/>and it was all set.</span>
+      </p>
+      <p begin="00:56:01,140" end="00:56:07,182">- [Lieber] But the one thing that <br/>nobody knew was that the Port Authority</p>
+      <p begin="00:56:07,182" end="00:56:10,783">and the Police Department<br/>had not communicated well,</p>
+      <p begin="00:56:11,845" end="00:56:17,696">about issues concerning security<br/>features in that building.</p>
+      <p begin="00:56:18,114" end="00:56:22,835">- [Raab] Because that base, that exposed<br/>base of the Freedom Tower design</p>
+      <p begin="00:56:22,835" end="00:56:28,245">at that point, was considered by the<br/>NYPD to be a severe terrorist risk</p>
+      <p begin="00:56:28,245" end="00:56:30,149">
+        <span tts:fontStyle="italic">and where the building was placed, </span>
+      </p>
+      <p begin="00:56:30,149" end="00:56:33,232">
+        <span tts:fontStyle="italic">which was quite close<br/>to the highway was also</span>
+      </p>
+      <p begin="00:56:33,232" end="00:56:38,585">
+        <span tts:fontStyle="italic">perceived by the NYPD to be placing<br/>the building at risk of a car bombing.</span>
+      </p>
+      <p begin="00:56:38,585" end="00:56:41,853">
+        <span tts:fontStyle="italic">So, the building was gonna have<br/>to be moved, therefore making</span>
+      </p>
+      <p begin="00:56:41,853" end="00:56:44,960">
+        <span tts:fontStyle="italic">the cornerstone laying<br/>absolutely pointless.</span>
+      </p>
+      <p begin="00:56:44,474" end="00:56:47,889">When that communication started<br/>with the Port Authority as a matter</p>
+      <p begin="00:56:47,889" end="00:56:53,791">of first controversy and then burial.<br/>Apparently, there were claims</p>
+      <p begin="00:56:53,791" end="00:56:56,689">that yes, the NYPD sent a letter, <br/>but it got lost.</p>
+      <p begin="00:56:57,259" end="00:57:01,242">- [Silverstein] How can this be, <br/>in this modern era, this day and age,</p>
+      <p begin="00:57:01,242" end="00:57:04,381">with communication over this,<br/>how could this possibly happen?</p>
+      <p begin="00:57:04,779" end="00:57:06,912">The complete lack of coordination<br/>between the two.</p>
+      <p begin="00:57:07,652" end="00:57:09,389">- [Ringler] If the letter was <br/>such a big deal,</p>
+      <p begin="00:57:09,389" end="00:57:11,272">if I was on the other end of that letter<br/>and didn't get a response,</p>
+      <p begin="00:57:11,272" end="00:57:13,729">I probably would've gotten a phone call<br/>saying, "Did you get my letter?"</p>
+      <p begin="00:57:14,052" end="00:57:17,740">- [Lieber] And the whole project <br/>just stopped that.</p>
+      <p begin="00:57:17,740" end="00:57:20,580">
+        <span tts:fontStyle="italic">- [Reporter] Mr. Mayor,<br/>with regard to the Freedom Towers,</span>
+      </p>
+      <p begin="00:57:20,580" end="00:57:23,477">
+        <span tts:fontStyle="italic">why are security concerned<br/>just now being presented?</span>
+      </p>
+      <p begin="00:57:23,477" end="00:57:25,721">- [Bloomberg] Well, they're not just<br/>now being, you couldn't be more wrong.</p>
+      <p begin="00:57:25,721" end="00:57:29,901">The security concerns <br/>have been there since 1993.</p>
+      <p begin="00:57:29,901" end="00:57:32,781">1993, there was a bombing <br/>at the World Trade Center</p>
+      <p begin="00:57:32,781" end="00:57:34,994">and we did not learn our lesson.</p>
+      <p begin="00:57:34,994" end="00:57:37,917">
+        <span tts:fontStyle="italic">This is a building, particularly,<br/>Freedom Tower, </span>
+      </p>
+      <p begin="00:57:37,917" end="00:57:40,353">
+        <span tts:fontStyle="italic">that is built to be a symbol.</span>
+      </p>
+      <p begin="00:57:40,353" end="00:57:43,650">And we are not going to rush <br/>in to doing anything that doesn't</p>
+      <p begin="00:57:43,650" end="00:57:47,371">take into account the security measures<br/>that the Police Department</p>
+      <p begin="00:57:47,371" end="00:57:50,189">and plenty of other people <br/>think are appropriate.</p>
+      <p begin="00:57:51,475" end="00:57:56,391">
+        <span tts:fontStyle="italic">- [Lieber] It's impossible to describe<br/>the frustration that we all felt.</span>
+      </p>
+      <p begin="00:57:56,391" end="00:58:00,419">In fact, we had to go back<br/>and come up with a new building.</p>
+      <p begin="00:58:01,970" end="00:58:04,120">- [Silverstein] I was crushed by it,<br/>literally crushed.</p>
+      <p begin="00:58:05,408" end="00:58:08,784">I felt it was terribly unfair <br/>and a tragic waste of time,</p>
+      <p begin="00:58:08,784" end="00:58:12,029">effort, energy and money,<br/>that was needed for the purpose</p>
+      <p begin="00:58:12,029" end="00:58:13,489">of rebuilding the World Trade Center.</p>
+      <p begin="00:58:13,779" end="00:58:16,658">- [Childs] That changed <br/>the game, entirely.</p>
+      <p begin="00:58:16,658" end="00:58:20,772">Because we couldn't modify the building.<br/>We couldn't move it onto another site,</p>
+      <p begin="00:58:20,772" end="00:58:24,165">so we were in effect by that decision</p>
+      <p begin="00:58:25,072" end="00:58:30,646">given a clean slate of<br/>clean sheet of paper to work on.</p>
+      <p begin="00:58:31,067" end="00:58:35,546">
+        <span tts:fontStyle="italic">- [Lieber] The building moved<br/>to the east away from the road.</span>
+      </p>
+      <p begin="00:58:35,893" end="00:58:40,361">
+        <span tts:fontStyle="italic">And then, we came up<br/>with a completely new design.</span>
+      </p>
+      <p begin="00:58:41,275" end="00:58:44,540">- [Anchorman] New York officials today<br/>unveil the latest redesign</p>
+      <p begin="00:58:44,540" end="00:58:48,027">of the Freedom Tower to be built <br/>in Ground Zero with the reinforced</p>
+      <p begin="00:58:48,027" end="00:58:54,420">
+        <span tts:fontStyle="italic">concrete base for bomb protection.<br/>The tower will be 1776 feet tall,</span>
+      </p>
+      <p begin="00:58:54,420" end="00:58:58,994">
+        <span tts:fontStyle="italic">its proportions and external skin<br/>recalling the lost Twin Towers.</span>
+      </p>
+      <p begin="00:59:00,999" end="00:59:02,753">
+        <span tts:fontStyle="italic">- [Ringler] I could remember<br/>shuttling back and forth</span>
+      </p>
+      <p begin="00:59:02,753" end="00:59:06,210">
+        <span tts:fontStyle="italic">between Daniel and David,<br/>trying to get Daniel to say</span>
+      </p>
+      <p begin="00:59:06,210" end="00:59:08,205">
+        <span tts:fontStyle="italic">that this is a beautiful building</span>
+      </p>
+      <p begin="00:59:08,205" end="00:59:10,929">and you know, and he kept looking in.<br/>Finally, he said,</p>
+      <p begin="00:59:10,929" end="00:59:12,817">"Yeah, I think I like it.<br/>I think I like it."</p>
+      <p begin="00:59:12,817" end="00:59:15,844">So, I said, I called up <br/>Governor's office and said,</p>
+      <p begin="00:59:15,844" end="00:59:18,332">"Dan is gonna say nice things. I think <br/>we're not gonna have an issue here."</p>
+      <p begin="00:59:18,332" end="00:59:20,711">- [Libeskind] The tower that we have now,<br/>after all the efforts,</p>
+      <p begin="00:59:20,711" end="00:59:23,289">is even a better tower <br/>than we have before.</p>
+      <p begin="00:59:23,289" end="00:59:25,920">It is a slender tower,<br/>it's an elegant tower,</p>
+      <p begin="00:59:25,920" end="00:59:27,882">it's a tower that rises <br/>in a crystal-like form--</p>
+      <p begin="00:59:27,882" end="00:59:29,911">
+        <span tts:fontStyle="italic">- [Betts] Daniel Libeskind was part<br/>of that in name only.</span>
+      </p>
+      <p begin="00:59:29,911" end="00:59:34,224">
+        <span tts:fontStyle="italic">He had absolutely nothing to do with <br/>what we now know as the Freedom Tower.</span>
+      </p>
+      <p begin="00:59:34,490" end="00:59:37,819">
+        <span tts:fontStyle="italic">All that's left of Libeskind's influence<br/>is the height of the building.</span>
+      </p>
+      <p begin="00:59:37,858" end="00:59:38,744">[cameras clicking]</p>
+      <p begin="00:59:39,567" end="00:59:44,720">
+        <span tts:fontStyle="italic">- [Lieber] The new design was rolled out<br/>without people criticizing it</span>
+      </p>
+      <p begin="00:59:44,720" end="00:59:47,979">
+        <span tts:fontStyle="italic">and we were back in business,<br/>and in fact, building.</span>
+      </p>
+      <p begin="00:59:48,594" end="00:59:51,173">
+        <span tts:fontStyle="italic">- [Anchorman] Well, today our Federal Jury<br/>decided that for insurance purposes,</span>
+      </p>
+      <p begin="00:59:51,173" end="00:59:55,149">the destruction of the World Trade Center<br/>was two separate events, not one,</p>
+      <p begin="00:59:55,149" end="00:59:57,128">as insurance companies were hoping for.</p>
+      <p begin="00:59:57,160" end="00:59:59,958">And this means the lease holder, <br/>Larry Silverstein can collect twice</p>
+      <p begin="00:59:59,958" end="01:00:03,480">from some companies because<br/>separate planes hit the two towers.</p>
+      <p begin="01:00:03,095" end="01:00:06,640">This decision is the latest twist<br/>to Silverstein's effort to turn his</p>
+      <p begin="01:00:06,640" end="01:00:10,369">$3.5 billion insurance policy<br/>on the Trade Center Complex,</p>
+      <p begin="01:00:10,369" end="01:00:12,660">into a $7 billion payout.</p>
+      <p begin="01:00:12,774" end="01:00:16,544">- [Lieber] And in the end, we ended up<br/>recovering the equivalent of about</p>
+      <p begin="01:00:16,544" end="01:00:20,442">one and a half, <br/>$4.5 billion dollars of insurance.</p>
+      <p begin="01:00:20,442" end="01:00:23,433">And mind you, that $4.5 billion <br/>sounds like a lot of money,</p>
+      <p begin="01:00:23,433" end="01:00:27,669">but it's not enough money to rebuild<br/>the office space that was destroyed.</p>
+      <p begin="01:00:27,954" end="01:00:30,265">- [Ringer] It was decided <br/>to approach him and say,</p>
+      <p begin="01:00:30,265" end="01:00:35,250">"Can we re-negotiate the deal and <br/>perhaps, lessen your rental obligations,</p>
+      <p begin="01:00:35,250" end="01:00:38,955">and return some of the sites <br/>to the Port Authority</p>
+      <p begin="01:00:38,955" end="01:00:41,382">who would then go on <br/>and develop them."</p>
+      <p begin="01:00:42,048" end="01:00:43,295" region="top"> 2006</p>
+      <p begin="01:00:43,455" end="01:00:45,650">
+        <span tts:fontStyle="italic">- [Anchorwoman] A deal must be reached<br/>today between World Trade Center</span>
+      </p>
+      <p begin="01:00:45,650" end="01:00:47,491">
+        <span tts:fontStyle="italic">lease holder Larry Silverstein<br/>and the Port Authority</span>
+      </p>
+      <p begin="01:00:47,491" end="01:00:48,891">
+        <span tts:fontStyle="italic">which owns the land</span>
+      </p>
+      <p begin="01:00:48,891" end="01:00:51,332">
+        <span tts:fontStyle="italic">on what to do with the site<br/>beyond the Memorial.</span>
+      </p>
+      <p begin="01:00:51,840" end="01:00:54,534">
+        <span tts:fontStyle="italic">Governor Pataki set<br/>the March 14th deadline last year,</span>
+      </p>
+      <p begin="01:00:54,534" end="01:00:56,810">
+        <span tts:fontStyle="italic">in an effort to get<br/>the rebuilding ball rolling.</span>
+      </p>
+      <p begin="01:00:56,810" end="01:01:00,475">- [Lieber] We gave them proposal after <br/>proposal, we couldn't get any response.</p>
+      <p begin="01:01:00,475" end="01:01:04,320">And they left everything to, <br/>literally, the last two days.</p>
+      <p begin="01:01:04,320" end="01:01:06,360">- [Ringler] We got to the <br/>day of the deadline</p>
+      <p begin="01:01:06,360" end="01:01:10,750">and our teams were working <br/>all day at our offices.</p>
+      <p begin="01:01:10,750" end="01:01:14,315">
+        <span tts:fontStyle="italic">And I was there. I was going from room<br/>to room and we were progressing.</span>
+      </p>
+      <p begin="01:01:14,315" end="01:01:18,640">We broke for dinner and hoped <br/>everybody would be back</p>
+      <p begin="01:01:18,640" end="01:01:21,429">by 7:00 or so, and we were gonna <br/>continue the discussions</p>
+      <p begin="01:01:21,429" end="01:01:24,105">and hopefully consummate a deal.</p>
+      <p begin="01:01:25,134" end="01:01:28,333">And I ordered pizza out for our folks</p>
+      <p begin="01:01:28,333" end="01:01:30,838">and we sat around the<br/>conference table eating pizza.</p>
+      <p begin="01:01:30,838" end="01:01:34,148">As I read later, Larry <br/>and his team were so ecstatic,</p>
+      <p begin="01:01:34,148" end="01:01:36,376">they ordered from a French restaurant<br/>and had a party.</p>
+      <p begin="01:01:38,282" end="01:01:39,916">And they didn't come back.</p>
+      <p begin="01:01:41,318" end="01:01:43,260">
+        <span tts:fontStyle="italic">We kept calling, asking,"Where are you?"</span>
+      </p>
+      <p begin="01:01:43,260" end="01:01:46,220">"We're meeting with our key people.<br/>We'll be there. We'll be there."</p>
+      <p begin="01:01:46,606" end="01:01:51,343">
+        <span tts:fontStyle="italic">- [Lieber] And we came back and it was<br/>about 9:00 or so, 9:00 to 9:30.</span>
+      </p>
+      <p begin="01:01:51,343" end="01:01:55,470">Larry Silverstein sat down,<br/>drank two cups of coffee</p>
+      <p begin="01:01:55,470" end="01:01:57,977">'cause he thought we were gonna<br/>be there for a long time.</p>
+      <p begin="01:01:57,977" end="01:02:02,263">- [Ringler] And I think he and his team,<br/>again, it's only my perception,</p>
+      <p begin="01:02:02,263" end="01:02:04,805">felt that because there was a deadline<br/>and that we wanted to honor</p>
+      <p begin="01:02:04,805" end="01:02:09,520">the Governor's wishes, that perhaps there <br/>was more nickels on the table for him.</p>
+      <p begin="01:02:11,005" end="01:02:15,986">
+        <span tts:fontStyle="italic">I walked down the hall and Larry<br/>and his team were sitting at the table.</span>
+      </p>
+      <p begin="01:02:15,986" end="01:02:18,412">Everybody's sitting around there, smiling.</p>
+      <p begin="01:02:18,412" end="01:02:25,445">And I think I felt like an ancient Roman<br/>going into the Colosseum with the lions.</p>
+      <p begin="01:02:25,445" end="01:02:29,740">- [Lieber] Ken Ringler came into that<br/>conference room, where we were sitting.</p>
+      <p begin="01:02:30,263" end="01:02:36,876">And in very blue language, told us <br/>to get the "F" outta his office,</p>
+      <p begin="01:02:36,876" end="01:02:42,651">to pay our "effing" rent, and you know, <br/>we were a bunch of bums</p>
+      <p begin="01:02:42,651" end="01:02:45,639">and they were coming after us.</p>
+      <p begin="01:02:45,639" end="01:02:48,539">- [Silverstein] All I remember<br/>was being surprised as hell.</p>
+      <p begin="01:02:48,539" end="01:02:50,182">Because we genuinely were there</p>
+      <p begin="01:02:50,182" end="01:02:54,331">for the purpose of making a deal<br/>with the Port that night, clearly.</p>
+      <p begin="01:02:57,714" end="01:03:01,270">And it made no sense to me, <br/>literally made no sense.</p>
+      <p begin="01:03:01,261" end="01:03:03,880">And then of course, the next day,<br/>diffused a lot.</p>
+      <p begin="01:03:03,880" end="01:03:05,663">- [Ringler] We thought we were moving<br/>in the right direction.</p>
+      <p begin="01:03:05,663" end="01:03:08,430">Then at 11:35 was it, Sir?<br/>- [speaker] 11:35.</p>
+      <p begin="01:03:08,430" end="01:03:11,615">11:35, they came back with a proposal,<br/>where their demands</p>
+      <p begin="01:03:11,615" end="01:03:13,987">were just as high as they were before,</p>
+      <p begin="01:03:13,987" end="01:03:17,452">they're increasing their demands, <br/>and quite honestly, in my view,</p>
+      <p begin="01:03:17,452" end="01:03:20,142">I think they thought they had leverage <br/>that we were going to back down</p>
+      <p begin="01:03:20,142" end="01:03:22,415">because we wanted to get a deal</p>
+      <p begin="01:03:22,415" end="01:03:24,859">and we wanted to move<br/>the Freedom Tower forward.</p>
+      <p begin="01:03:24,859" end="01:03:27,961">We're not going to make short-sight<br/>a deal with Larry Silverstein.</p>
+      <p begin="01:03:27,961" end="01:03:31,510">- [Silverstein] Negotiation with <br/>the Port collapsed.</p>
+      <p begin="01:03:31,510" end="01:03:33,881">Next thing I know, <span tts:fontStyle="italic">New York Times,</span></p>
+      <p begin="01:03:33,881" end="01:03:37,100">"Governor to Larry Silverstein:<br/>Stand Aside.</p>
+      <p begin="01:03:37,100" end="01:03:39,959">You're obstructing progress at the site."</p>
+      <p begin="01:03:40,878" end="01:03:42,402">Oh, my God.</p>
+      <p begin="01:03:42,402" end="01:03:44,642">- [Ringler] Larry was losing <br/>the public battle.</p>
+      <p begin="01:03:44,642" end="01:03:47,673">And within days, there was a<br/><span tts:fontStyle="italic">New York Times</span> editorial,</p>
+      <p begin="01:03:47,673" end="01:03:50,357">
+        <span tts:fontStyle="italic">the political leaders galvanized<br/>around it and said,</span>
+      </p>
+      <p begin="01:03:50,357" end="01:03:52,233">
+        <span tts:fontStyle="italic">"No. Enough is enough."</span>
+      </p>
+      <p begin="01:03:52,233" end="01:03:56,785">We decided to put an agreement together<br/>and bring it back to Larry</p>
+      <p begin="01:03:56,785" end="01:04:01,130">and basically, not say take it <br/>or leave it, but as I told Larry</p>
+      <p begin="01:04:01,130" end="01:04:02,659">when I brought it up to him,</p>
+      <p begin="01:04:02,659" end="01:04:06,123">"It's this close to take it or leave it<br/>as we're gonna get."</p>
+      <p begin="01:04:06,123" end="01:04:07,491">- [Chuck Scarborough] Good evening.</p>
+      <p begin="01:04:07,491" end="01:04:09,895">An agreement between World Trade Center<br/>developer Larry Silverstein</p>
+      <p begin="01:04:09,895" end="01:04:12,856">and the Port Authority, means<br/>construction on the Freedom Tower</p>
+      <p begin="01:04:12,856" end="01:04:15,721">could finally begin. <br/>Perhaps, by week's end.</p>
+      <p begin="01:04:15,721" end="01:04:18,500">- [Sue Simmons] The deal will give<br/>Port Authority control</p>
+      <p begin="01:04:18,500" end="01:04:21,840">of the long-delayed Freedom Tower,<br/>but reward Silverstein with three</p>
+      <p begin="01:04:21,840" end="01:04:25,437">other prime developing sites along<br/>the eastern side of Ground Zero.</p>
+      <p begin="01:04:25,621" end="01:04:28,603">
+        <span tts:fontStyle="italic">- [Silverstein] That was when<br/>we relinquished control of </span>
+      </p>
+      <p begin="01:04:28,603" end="01:04:32,682">
+        <span tts:fontStyle="italic">The Freedom Tower and Tower 5<br/>and kept Towers 2, 3 and 4.</span>
+      </p>
+      <p begin="01:04:32,682" end="01:04:35,857">
+        <span tts:fontStyle="italic">Did we think it was fair? Not necessarily.</span>
+      </p>
+      <p begin="01:04:35,857" end="01:04:38,468">
+        <span tts:fontStyle="italic">But the important thing was<br/>to keep the momentum going.</span>
+      </p>
+      <p begin="01:04:38,944" end="01:04:42,933">- [Lieber] What we got out of the deal <br/>was a commitment by the Port Authority</p>
+      <p begin="01:04:42,933" end="01:04:46,272">
+        <span tts:fontStyle="italic">that they would dig the hole<br/>on the east side of the site.</span>
+      </p>
+      <p begin="01:04:46,272" end="01:04:49,690">
+        <span tts:fontStyle="italic">The 80-foot hole and put<br/>in the infrastructure and fully prepare</span>
+      </p>
+      <p begin="01:04:49,690" end="01:04:53,440">
+        <span tts:fontStyle="italic">those sites for construction.</span>
+      </p>
+      <p begin="01:04:53,393" end="01:04:55,517">- [Jon Stewart] If you remember,<br/>New York City was attacked</p>
+      <p begin="01:04:55,517" end="01:04:57,761">four and a half years ago<br/>and since that time,</p>
+      <p begin="01:04:57,761" end="01:05:03,700">we have been locked in a vicious<br/>battle over construction of the</p>
+      <p begin="01:05:03,700" end="01:05:06,631">
+        <span tts:fontStyle="italic">tallest, shiniest, terrorist,<br/>tauntiest skyscraper in the world.</span>
+      </p>
+      <p begin="01:05:06,631" end="01:05:07,799">
+        <span tts:fontStyle="italic">[audience laughing]</span>
+      </p>
+      <p begin="01:05:07,799" end="01:05:11,152">
+        <span tts:fontStyle="italic">The 1776 foot tall Freedom Tower!</span>
+      </p>
+      <p begin="01:05:11,152" end="01:05:13,266">- [Pataki] Today, we lay the cornerstone</p>
+      <p begin="01:05:13,266" end="01:05:16,443">
+        <span tts:fontStyle="italic">for a new symbol of the city<br/>and of this country,</span>
+      </p>
+      <p begin="01:05:16,443" end="01:05:19,986">
+        <span tts:fontStyle="italic">and of our resolve<br/>to triumph in the face of terror.</span>
+      </p>
+      <p begin="01:05:20,479" end="01:05:22,953">
+        <span tts:fontStyle="italic">- [Stewart] So that was the site<br/>two years ago.</span>
+      </p>
+      <p begin="01:05:22,953" end="01:05:24,513">
+        <span tts:fontStyle="italic">And today...Oh!</span>
+      </p>
+      <p begin="01:05:24,513" end="01:05:25,976">
+        <span tts:fontStyle="italic">[audience laughing]</span>
+      </p>
+      <p begin="01:05:25,976" end="01:05:27,567">[cameras clicking]</p>
+      <p begin="01:05:28,968" end="01:05:31,845">- [speaker] Governor, good morning.<br/>- [Pataki] Good morning.</p>
+      <p begin="01:05:33,091" end="01:05:35,948">Good morning. <br/>This is a great day for New York</p>
+      <p begin="01:05:35,948" end="01:05:38,810">and a great day for America.<br/>Today, we begin construction</p>
+      <p begin="01:05:38,810" end="01:05:41,190">on the Freedom Tower,the final element--</p>
+      <p begin="01:05:41,190" end="01:05:45,218">- [Betts] When the press would start<br/>ranting and raving about no progress,</p>
+      <p begin="01:05:45,218" end="01:05:49,889">there'd be a ceremony.<br/>I never went to any of them.</p>
+      <p begin="01:05:49,889" end="01:05:52,652">[excavator engine running]</p>
+      <p begin="01:05:52,652" end="01:05:54,787">[applause]</p>
+      <p begin="01:05:54,787" end="01:05:56,355">
+        <span tts:fontStyle="italic">- [Raab] The cornerstone had to come out </span>
+      </p>
+      <p begin="01:05:56,355" end="01:05:59,859">
+        <span tts:fontStyle="italic">because the Freedom Tower<br/>had to be redesigned. </span>
+      </p>
+      <p begin="01:05:59,859" end="01:06:02,800">
+        <span tts:fontStyle="italic">The cornerstone had been<br/>sitting in a plywood box.</span>
+      </p>
+      <p begin="01:06:02,800" end="01:06:08,223">
+        <span tts:fontStyle="italic">They're taking this thing out,<br/>not literally under the cover of night,</span>
+      </p>
+      <p begin="01:06:08,223" end="01:06:10,869">
+        <span tts:fontStyle="italic">but goddamn close to the cover of night.</span>
+      </p>
+      <p begin="01:06:10,869" end="01:06:13,966">No one is supposed to know that<br/>they're pulling the--</p>
+      <p begin="01:06:13,966" end="01:06:18,448">it's too much of an embarrassment<br/>to let anyone in the media know</p>
+      <p begin="01:06:18,448" end="01:06:19,944">that this is going to happen.</p>
+      <p begin="01:06:20,205" end="01:06:23,543">
+        <span tts:fontStyle="italic">- [Reporter] What became<br/>of the cornerstone itself?</span>
+      </p>
+      <p begin="01:06:23,543" end="01:06:26,464">- [Pataki] I honestly don't know,<br/>but to me, I thought it would be nice</p>
+      <p begin="01:06:26,464" end="01:06:31,452">to have it in the lobby of the actual <br/>Freedom Tower that's constructed.</p>
+      <p begin="01:06:31,452" end="01:06:36,270">I haven't had a chance to <br/>talk to David Childs about it.</p>
+      <p begin="01:06:36,270" end="01:06:38,661">- [Raab] My joke was always driving<br/>to Pataki's house.</p>
+      <p begin="01:06:38,661" end="01:06:40,507">You know, and put it down his front lawn.</p>
+      <p begin="01:06:40,507" end="01:06:43,660">Ring the doorbell and drive away<br/>as fast as you can.</p>
+      <p begin="01:06:43,660" end="01:06:49,410">[laughs]</p>
+      <p begin="01:06:50,768" end="01:06:56,544">
+        <span tts:fontStyle="italic">[crowd applauding and cheering]</span>
+      </p>
+      <p begin="01:07:01,957" end="01:07:07,160">- <span tts:fontStyle="italic">[speaker] One , two, done.<br/>[crowd cheering]</span></p>
+      <p begin="01:07:07,160" end="01:07:10,750">
+        <span tts:fontStyle="italic">- [Raab] One of the ironies is<br/>during the middle of all the drama </span>
+      </p>
+      <p begin="01:07:10,750" end="01:07:14,755">
+        <span tts:fontStyle="italic">back in the spring of '06,<br/>we opened 7 World Trade Center.</span>
+      </p>
+      <p begin="01:07:14,755" end="01:07:17,840">- [Betts] That's the best thing Larry did,<br/>was he went in.</p>
+      <p begin="01:07:17,840" end="01:07:20,962">He just plowed ahead, <br/>rebuilt World Trade Center number 7.</p>
+      <p begin="01:07:20,962" end="01:07:25,308">I think that was important for the public<br/>to see construction and to see action</p>
+      <p begin="01:07:25,308" end="01:07:28,919">down there and to see something<br/>coming out of the ground.</p>
+      <p begin="01:07:29,426" end="01:07:33,594">
+        <span tts:fontStyle="italic">- [Lieber] It saw a finished product.<br/>It saw something that was high-style</span>
+      </p>
+      <p begin="01:07:33,594" end="01:07:38,642">
+        <span tts:fontStyle="italic">that was green and that gave confidence<br/>that downtown could </span>
+      </p>
+      <p begin="01:07:38,642" end="01:07:41,379">
+        <span tts:fontStyle="italic">and would be reborn<br/>as a business district.</span>
+      </p>
+      <p begin="01:07:42,594" end="01:07:45,177">
+        <span tts:fontStyle="italic">- [Silverstein] And they looked at<br/>what was going on across the street.</span>
+      </p>
+      <p begin="01:07:45,177" end="01:07:48,692">
+        <span tts:fontStyle="italic">Havoc. I mean, just disaster<br/>across the street, right?</span>
+      </p>
+      <p begin="01:07:48,692" end="01:07:52,228">
+        <span tts:fontStyle="italic"> They knowing it was the Port.<br/>Here, we finished a building.</span>
+      </p>
+      <p begin="01:07:52,228" end="01:07:54,100">And all of a sudden, <br/>people startled and said,</p>
+      <p begin="01:07:54,100" end="01:07:56,953">"What's he doing that's so bad?<br/>What's he doing so wrong?</p>
+      <p begin="01:07:56,953" end="01:07:59,730">Maybe he's the problem."<br/>People started looking and saying,</p>
+      <p begin="01:07:59,730" end="01:08:01,650">"Maybe it's he's not the problem."</p>
+      <p begin="01:08:03,578" end="01:08:05,894">[water flowing]</p>
+      <p begin="01:08:14,668" end="01:08:17,816">
+        <span tts:fontStyle="italic">- [Arad] The design initially suggested<br/>these Memorial galleries,</span>
+      </p>
+      <p begin="01:08:17,816" end="01:08:21,486">
+        <span tts:fontStyle="italic">which would surround the pools<br/>some 30 feet below the plaza.</span>
+      </p>
+      <p begin="01:08:21,855" end="01:08:25,200">And so the idea was that<br/>you would walk up to the--</p>
+      <p begin="01:08:25,200" end="01:08:30,187">adrift of these voids, <br/>sort of peer down below</p>
+      <p begin="01:08:30,187" end="01:08:35,544">and then go on this very,<br/>you know, emotionally fraught</p>
+      <p begin="01:08:35,544" end="01:08:39,720">processional experience and sort of <br/>walking into the area almost</p>
+      <p begin="01:08:39,720" end="01:08:42,865">
+        <span tts:fontStyle="italic">walking right up to the names,<br/>which would be displayed</span>
+      </p>
+      <p begin="01:08:42,865" end="01:08:47,975">
+        <span tts:fontStyle="italic">behind the waterfalls in this<br/>very sort of quiet, cloister-like space.</span>
+      </p>
+      <p begin="01:08:49,605" end="01:08:53,297">
+        <span tts:fontStyle="italic">- [Rosaleen] In advocating<br/>for the ranks of the firefighters,</span>
+      </p>
+      <p begin="01:08:53,297" end="01:08:57,570">we were invited to Michael Arad's office <br/>to speak of that</p>
+      <p begin="01:08:57,570" end="01:09:00,206">and we were in the meeting room,<br/>in the conference room,</p>
+      <p begin="01:09:00,206" end="01:09:03,964">and you know, all around were <br/>aspects of the Memorial.</p>
+      <p begin="01:09:03,964" end="01:09:09,515">
+        <span tts:fontStyle="italic">But there was a three dimensional model<br/>of the Memorial. And up</span>
+      </p>
+      <p begin="01:09:09,515" end="01:09:13,724">
+        <span tts:fontStyle="italic">to that point, none of us had really<br/>questioned where the names were going.</span>
+      </p>
+      <p begin="01:09:13,724" end="01:09:17,797">But then we saw the three dimensional <br/>model and we realized</p>
+      <p begin="01:09:17,797" end="01:09:22,400">the names were gonna be <br/>underneath the waterfalls</p>
+      <p begin="01:09:22,400" end="01:09:24,379">at the base of the waterfalls,<br/>underground.</p>
+      <p begin="01:09:24,379" end="01:09:29,227">
+        <span tts:fontStyle="italic">You would have to descend down, almost<br/>as though, you were going into the subway.</span>
+      </p>
+      <p begin="01:09:29,227" end="01:09:34,429">
+        <span tts:fontStyle="italic">Descend down underground,<br/>into a confined space to view the names.</span>
+      </p>
+      <p begin="01:09:34,429" end="01:09:37,689">
+        <span tts:fontStyle="italic">And that shocked us.</span>
+      </p>
+      <p begin="01:09:38,805" end="01:09:45,830">Knowing now about 1993, <br/>about 2001, I will never go down.</p>
+      <p begin="01:09:45,830" end="01:09:48,890">I will never bring my children <br/>underground at Ground Zero</p>
+      <p begin="01:09:48,890" end="01:09:54,212">because I feel it's always gonna be the<br/>number one target site of the terrorists.</p>
+      <p begin="01:09:54,212" end="01:09:55,819">
+        <span tts:fontStyle="italic">They've come twice.</span>
+      </p>
+      <p begin="01:09:55,819" end="01:09:59,624">
+        <span tts:fontStyle="italic">What better place than to get us<br/>all while we're underground.</span>
+      </p>
+      <p begin="01:09:59,624" end="01:10:02,787">I mean, it just-- <br/>it never made sense to me.</p>
+      <p begin="01:10:03,986" end="01:10:09,254">
+        <span tts:fontStyle="italic">- [Arad] It'll be so easy for this design<br/>to be changed in a fundamental way.</span>
+      </p>
+      <p begin="01:10:09,254" end="01:10:13,299">And you know, while every <br/>suggestion that was made,</p>
+      <p begin="01:10:13,299" end="01:10:15,929">was made by somebody who cares deeply <br/>about the Memorial,</p>
+      <p begin="01:10:15,929" end="01:10:20,454">was not necessarily consistent<br/>with the design that was selected</p>
+      <p begin="01:10:20,454" end="01:10:25,833">and then I felt it was my obligation<br/>to champion and be responsible for it.</p>
+      <p begin="01:10:27,209" end="01:10:30,547">
+        <span tts:fontStyle="italic">How do you build a moment of silence?<br/>This is what this is.</span>
+      </p>
+      <p begin="01:10:35,284" end="01:10:37,859">- [speaker] Write down the ideas,<br/>because you know, four hours from now--</p>
+      <p begin="01:10:39,814" end="01:10:42,724">This is America's Memorial, <br/>as they all like to say.</p>
+      <p begin="01:10:42,724" end="01:10:44,723">America doesn't know what she's getting.</p>
+      <p begin="01:10:44,723" end="01:10:47,144">New York is on now, an American self now.</p>
+      <p begin="01:10:48,544" end="01:10:50,427">
+        <span tts:fontStyle="italic">- [Man] That's insane.<br/>- [Rosaleen] Thank you very much.</span>
+      </p>
+      <p begin="01:10:50,427" end="01:10:53,312">
+        <span tts:fontStyle="italic">Do you know they're spending<br/>$1.2 billion on this?</span>
+      </p>
+      <p begin="01:10:53,312" end="01:10:55,874">- [speaker] On a Memorial <br/>that nobody wants.</p>
+      <p begin="01:10:55,874" end="01:10:57,917">- [Rosaleen] We bring out <br/>the sleeping bags</p>
+      <p begin="01:10:57,917" end="01:11:02,361">and we bring out warmer clothes<br/>to spend the night here.</p>
+      <p begin="01:11:04,129" end="01:11:07,086">9/11 families have always been <br/>somewhat out in the public but</p>
+      <p begin="01:11:07,086" end="01:11:11,256">this was taking a step where people <br/>could really be critical of you saying</p>
+      <p begin="01:11:11,256" end="01:11:14,153">that you had flipped your lid, you know.</p>
+      <p begin="01:11:14,153" end="01:11:15,578">And you know, you could feel that.</p>
+      <p begin="01:11:15,578" end="01:11:18,850">You could feel that,<br/>"Maybe, I'm so deep into this.</p>
+      <p begin="01:11:18,850" end="01:11:20,527">Maybe, I'm carrying it too far."</p>
+      <p begin="01:11:20,527" end="01:11:27,710">But the first nights down there,<br/>I knew that it was the right thing to do.</p>
+      <p begin="01:11:31,649" end="01:11:35,999">
+        <span tts:fontStyle="italic">We looked out into the vast openness<br/>and we could just say </span>
+      </p>
+      <p begin="01:11:35,999" end="01:11:37,733">
+        <span tts:fontStyle="italic">this was their spot</span>
+      </p>
+      <p begin="01:11:38,794" end="01:11:40,817">
+        <span tts:fontStyle="italic">and we're defending it.</span>
+      </p>
+      <p begin="01:11:46,916" end="01:11:49,328">
+        <span tts:fontStyle="italic">- [Reporter] They're being touted<br/>as the last pieces</span>
+      </p>
+      <p begin="01:11:49,328" end="01:11:51,242">
+        <span tts:fontStyle="italic">in the rebirth of Lower Manhattan.</span>
+      </p>
+      <p begin="01:11:51,242" end="01:11:56,131">
+        <span tts:fontStyle="italic">The three towers: 2, 3 and 4 will replace<br/>about 6 million square feet</span>
+      </p>
+      <p begin="01:11:56,131" end="01:11:58,397">
+        <span tts:fontStyle="italic">of the 10 million destroyed in the attack.</span>
+      </p>
+      <p begin="01:11:58,397" end="01:12:01,768">
+        <span tts:fontStyle="italic">Norman Foster's tower is the largest<br/>of the three buildings.</span>
+      </p>
+      <p begin="01:12:01,768" end="01:12:03,992">
+        <span tts:fontStyle="italic">It's taller than the Empire State Building</span>
+      </p>
+      <p begin="01:12:03,992" end="01:12:06,483">
+        <span tts:fontStyle="italic">and has diamond-like paneling<br/>along the top.</span>
+      </p>
+      <p begin="01:12:06,483" end="01:12:09,424">
+        <span tts:fontStyle="italic">Richard Roger's tower<br/>is far sleeker in design.</span>
+      </p>
+      <p begin="01:12:09,424" end="01:12:11,787">
+        <span tts:fontStyle="italic">Fumihiko Maki's is the first to be built,</span>
+      </p>
+      <p begin="01:12:11,787" end="01:12:13,900">
+        <span tts:fontStyle="italic">will have a restaurant<br/>with panoramic views.</span>
+      </p>
+      <p begin="01:12:14,423" end="01:12:16,400">- [Silverstein] Good morning.<br/>- [speaker] Mr. Damian, you know.</p>
+      <p begin="01:12:16,400" end="01:12:17,475">- Hello, Damian.<br/>- [Damian] Hi.</p>
+      <p begin="01:12:17,475" end="01:12:20,569">- HI, buddy. How are you?<br/>Okay.</p>
+      <p begin="01:12:20,569" end="01:12:23,331">- [speaker] We're in deep discussion<br/>with the Board</p>
+      <p begin="01:12:23,331" end="01:12:25,324">and the transit authority's<br/>about that.</p>
+      <p begin="01:12:25,324" end="01:12:29,174">- [Silverstein] We have less congestion<br/>by pulling this in</p>
+      <p begin="01:12:29,174" end="01:12:31,163">and having these out here.</p>
+      <p begin="01:12:32,224" end="01:12:36,331">All during this time, we're plowing ahead,<br/>plowing ahead.</p>
+      <p begin="01:12:36,331" end="01:12:39,450">Because we have--Governor said<br/>we design, finish plans,</p>
+      <p begin="01:12:39,450" end="01:12:41,666">specification and so forth <br/>for Towers 2, 3 and 4.</p>
+      <p begin="01:12:41,666" end="01:12:45,646">We did them, 18 months we finished<br/>the plans, specifications, done.</p>
+      <p begin="01:12:45,646" end="01:12:48,139">All right. Ready to go.<br/>Ready to shovel the ground.</p>
+      <p begin="01:12:48,139" end="01:12:51,395">Is this width the same<br/>as this width?</p>
+      <p begin="01:12:51,395" end="01:12:55,306">And guess what?<br/>No ground on which to put a shovel.</p>
+      <p begin="01:12:55,306" end="01:12:57,330">Why? Because the sites aren't ready.<br/></p>
+      <p begin="01:12:57,330" end="01:12:59,201">The sites the Port Authority's <br/>suppose to deliver to us.</p>
+      <p begin="01:12:59,201" end="01:13:00,549">Not ready.</p>
+      <p begin="01:13:00,917" end="01:13:02,843">
+        <span tts:fontStyle="italic">We know what it takes to dig a hole.</span>
+      </p>
+      <p begin="01:13:02,843" end="01:13:05,487">
+        <span tts:fontStyle="italic">But for some reason, your people,<br/>they're taking longer.</span>
+      </p>
+      <p begin="01:13:05,487" end="01:13:08,877">Much longer than it has<br/>ever been taken, right?</p>
+      <p begin="01:13:08,877" end="01:13:10,420">What's taking so long?</p>
+      <p begin="01:13:12,898" end="01:13:15,728">
+        <span tts:fontStyle="italic">- [Lieber] What happened was they had<br/>another groundbreaking.</span>
+      </p>
+      <p begin="01:13:16,866" end="01:13:21,313">And they started construction of<br/>this PATH Train Station,</p>
+      <p begin="01:13:21,313" end="01:13:23,715">
+        <span tts:fontStyle="italic">designed by Santiago Calatrava.</span>
+      </p>
+      <p begin="01:13:26,335" end="01:13:28,144">
+        <span tts:fontStyle="italic">- [Pataki] And I remember<br/>the Port Authority had, </span>
+      </p>
+      <p begin="01:13:28,144" end="01:13:30,310">
+        <span tts:fontStyle="italic">going to Santiago and saying,</span>
+      </p>
+      <p begin="01:13:30,310" end="01:13:34,344">"Is it expensive?" and he said,<br/>"Of course, it is."</p>
+      <p begin="01:13:36,451" end="01:13:41,809">
+        <span tts:fontStyle="italic">- [Raab] Okay, build me the world's<br/>most expensive subway stop.</span>
+      </p>
+      <p begin="01:13:41,809" end="01:13:46,666">Two billion dollar?<br/>No, make it $4 billion.<br/>The wings are going to open</p>
+      <p begin="01:13:46,666" end="01:13:50,625">like a dove twice a year<br/>or maybe not.</p>
+      <p begin="01:13:51,393" end="01:13:55,440">
+        <span tts:fontStyle="italic">- [Lieber] And what increasingly<br/>became clear is that this train station,</span>
+      </p>
+      <p begin="01:13:55,440" end="01:13:58,591">which they called, "The Oculus,"<br/>because of its shape,</p>
+      <p begin="01:13:58,591" end="01:14:02,817">was actually an octopus that was<br/>killing all the other projects around it</p>
+      <p begin="01:14:02,817" end="01:14:06,358">
+        <span tts:fontStyle="italic">because they were sticking<br/>all their mechanical system,</span>
+      </p>
+      <p begin="01:14:06,358" end="01:14:09,612">
+        <span tts:fontStyle="italic">their air condition, their heating,<br/>to support this train station,</span>
+      </p>
+      <p begin="01:14:09,612" end="01:14:12,688">
+        <span tts:fontStyle="italic">were being pushed into other buildings.</span>
+      </p>
+      <p begin="01:14:12,688" end="01:14:15,566">
+        <span tts:fontStyle="italic">It was creating all kinds<br/>of complexities and delays.</span>
+      </p>
+      <p begin="01:14:17,734" end="01:14:19,787" region="top"> 2008</p>
+      <p begin="01:14:19,987" end="01:14:23,434">
+        <span tts:fontStyle="italic">- [David Paterson] In my perusal, just<br/>in the first days of my administration,</span>
+      </p>
+      <p begin="01:14:23,434" end="01:14:28,797">I couldn't really find anyone that<br/>knew what was being built, </p>
+      <p begin="01:14:28,797" end="01:14:31,885">who was building it,<br/>when it would be completed</p>
+      <p begin="01:14:31,885" end="01:14:36,880">and how and what fashion<br/>it would actually be erected.</p>
+      <p begin="01:14:39,702" end="01:14:42,086">- [worker] Wonderful time.<br/>- [Chris Ward] Sir. Good.</p>
+      <p begin="01:14:43,717" end="01:14:46,820">
+        <span tts:fontStyle="italic">- [Lieber] And one of the first things<br/>that Paterson did when he came in,</span>
+      </p>
+      <p begin="01:14:46,820" end="01:14:51,310">
+        <span tts:fontStyle="italic">was to replace the head<br/>of the Port Authority </span>
+      </p>
+      <p begin="01:14:51,310" end="01:14:53,366">
+        <span tts:fontStyle="italic">with a new guy named, Chris Ward.</span>
+      </p>
+      <p begin="01:14:54,499" end="01:14:56,608">- [Ward] It's great they're all tied off.</p>
+      <p begin="01:15:00,420" end="01:15:03,192"> We wanted it to be symbolic.</p>
+      <p begin="01:15:03,192" end="01:15:05,634">We wanted it to be monumental.</p>
+      <p begin="01:15:05,634" end="01:15:09,372">That could've and should've<br/>remained at a certain level,</p>
+      <p begin="01:15:09,372" end="01:15:12,330">but it became to dominate<br/>the whole project literally</p>
+      <p begin="01:15:12,330" end="01:15:16,502">right down into the ground and when <br/>it dominated it down into the ground, </p>
+      <p begin="01:15:16,502" end="01:15:22,802">the project lost its logic,<br/>it lost its constructability.</p>
+      <p begin="01:15:22,802" end="01:15:25,339">- [Raab] Chris Ward's a guy who's<br/>smart enough to come into the office</p>
+      <p begin="01:15:25,339" end="01:15:27,694">and recognize that <br/>everyone had been lying.</p>
+      <p begin="01:15:27,694" end="01:15:30,377">Everyone had been <br/>bullshitting for years.</p>
+      <p begin="01:15:30,377" end="01:15:32,849">Everyone had held press conferences,<br/>and made promises,</p>
+      <p begin="01:15:32,849" end="01:15:36,896">and none of those press conferences<br/>meant a goddamn thing</p>
+      <p begin="01:15:36,896" end="01:15:38,945">and none of those promises <br/>could be kept.</p>
+      <p begin="01:15:38,945" end="01:15:41,489">- [Paterson] After looking at the<br/>construction solutions,</p>
+      <p begin="01:15:41,489" end="01:15:45,404">that Chris Ward and the staff of<br/>the Port Authority </p>
+      <p begin="01:15:45,404" end="01:15:50,955">have been able to establish,<br/>I am comfortable today</p>
+      <p begin="01:15:50,955" end="01:15:54,633">by telling you that on <br/>September 11th, 2011,</p>
+      <p begin="01:15:54,633" end="01:16:00,670">ten years to the date of that disaster,<br/>there will be an open memorial</p>
+      <p begin="01:16:00,670" end="01:16:03,805">at Ground Zero to those<br/>who lost their lives that day.</p>
+      <p begin="01:16:04,745" end="01:16:08,438">
+        <span tts:fontStyle="italic">- [Ward] We made a major commitment<br/>that the plaza would be open</span>
+      </p>
+      <p begin="01:16:08,438" end="01:16:10,658">
+        <span tts:fontStyle="italic">on the ten-year anniversary.</span>
+      </p>
+      <p begin="01:16:10,658" end="01:16:13,115">
+        <span tts:fontStyle="italic">The fountains would be functioning,<br/>the water would fall</span>
+      </p>
+      <p begin="01:16:13,115" end="01:16:15,924">
+        <span tts:fontStyle="italic">and that was the commitment we made.</span>
+      </p>
+      <p begin="01:16:15,924" end="01:16:21,180">But it was a lot more complicated<br/>and there was some real fundamental</p>
+      <p begin="01:16:21,180" end="01:16:26,674">disconnects in what had to get built<br/>and how it would get built</p>
+      <p begin="01:16:26,674" end="01:16:30,778">and who would build it, that had<br/>to really get completely sorted out.</p>
+      <p begin="01:16:30,778" end="01:16:34,250">- [Silverstein] Things were sliding<br/>further and further and further behind</p>
+      <p begin="01:16:34,250" end="01:16:37,507">as we progressed, right? As the days <br/>went by, the days, the months.</p>
+      <p begin="01:16:38,968" end="01:16:43,157">
+        <span tts:fontStyle="italic">- [Ward] The Mayor, advocate for the city,<br/>saw that things were in fact, stalled,</span>
+      </p>
+      <p begin="01:16:43,157" end="01:16:47,183">took it upon himself to bring us <br/>together in a Gracie Mansion Summit.</p>
+      <p begin="01:16:47,398" end="01:16:50,841">
+        <span tts:fontStyle="italic">He brought the Governors together<br/>from both States.</span>
+      </p>
+      <p begin="01:16:50,841" end="01:16:53,633">
+        <span tts:fontStyle="italic">He brought Larry and he brought me there.</span>
+      </p>
+      <p begin="01:16:54,586" end="01:16:57,320">- [Bloomberg] When they're not<br/>making progress, just shake things up.</p>
+      <p begin="01:16:57,320" end="01:16:59,646">You put them in a room with a <br/>big pot of coffee</p>
+      <p begin="01:16:59,646" end="01:17:02,889">and lock the doors with no bathroom.<br/>You'd be surprised how quickly</p>
+      <p begin="01:17:02,889" end="01:17:04,229">they come to an agreement.</p>
+      <p begin="01:17:05,543" end="01:17:07,710">
+        <span tts:fontStyle="italic">- [Ward] It was one of those moments<br/>that I'm sure the Mayor</span>
+      </p>
+      <p begin="01:17:07,710" end="01:17:10,350">
+        <span tts:fontStyle="italic">was very, very disappointed,<br/>if you go to Gracie Mansion, </span>
+      </p>
+      <p begin="01:17:10,350" end="01:17:13,368">
+        <span tts:fontStyle="italic">the whole idea is you have success<br/>when you leave.</span>
+      </p>
+      <p begin="01:17:13,368" end="01:17:16,435">But you couldn't on that day, <br/>solve all the problems </p>
+      <p begin="01:17:16,435" end="01:17:18,649">as the Mayor had hoped we would.</p>
+      <p begin="01:17:19,341" end="01:17:24,993">- [Lieber] At some point, you know,<br/>the anger gives way to just depression</p>
+      <p begin="01:17:24,993" end="01:17:27,925">because you think, "How are we gonna<br/>ever get out of this?"</p>
+      <p begin="01:17:28,285" end="01:17:31,771">[crowd cheering and applauding]</p>
+      <p begin="01:17:32,048" end="01:17:34,264">- [speaker] Let me hear you <br/>one more time.</p>
+      <p begin="01:17:34,264" end="01:17:36,599">Wouldn't we want these jobs?<br/>[crowd shouting] No!</p>
+      <p begin="01:17:36,599" end="01:17:39,451">Wouldn't we want these jobs?<br/>[crowd shouting] No!</p>
+      <p begin="01:17:39,451" end="01:17:42,990">
+        <span tts:fontStyle="italic">- [speaker] The finger pointing<br/>has got to stop.</span>
+      </p>
+      <p begin="01:17:42,990" end="01:17:48,334">That's almost nine years after 9/11,<br/>instead of a shiny symbol of</p>
+      <p begin="01:17:48,334" end="01:17:52,786">American resilience and strength,<br/>we have a hole in the ground.</p>
+      <p begin="01:17:52,786" end="01:17:55,381">[cheering and applause]</p>
+      <p begin="01:17:55,995" end="01:17:59,627">
+        <span tts:fontStyle="italic">- [Lieber] The construction workers<br/>in New York were so out of work.</span>
+      </p>
+      <p begin="01:17:59,627" end="01:18:03,947">
+        <span tts:fontStyle="italic">At this point, this six months<br/>after Lehman Brothers went down</span>
+      </p>
+      <p begin="01:18:03,947" end="01:18:07,815">
+        <span tts:fontStyle="italic">and we're in the middle<br/>of this incredible economic collapse.</span>
+      </p>
+      <p begin="01:18:07,815" end="01:18:11,459">- [Ward] And you could take a <br/>pessimistic view and go, </p>
+      <p begin="01:18:11,459" end="01:18:15,215">
+        <span tts:fontStyle="italic">"You know, maybe this worldwide recession<br/>is gonna be deep.</span>
+      </p>
+      <p begin="01:18:15,215" end="01:18:18,715">
+        <span tts:fontStyle="italic">It's gonna be long and that we're not<br/>gonna come out of it quickly."</span>
+      </p>
+      <p begin="01:18:18,715" end="01:18:21,620">
+        <span tts:fontStyle="italic">We had a study that said,<br/>"Maybe the market's not back</span>
+      </p>
+      <p begin="01:18:21,620" end="01:18:24,253">all the way until 2037.</p>
+      <p begin="01:18:24,253" end="01:18:30,480">- [Lieber] People were not down for<br/>waiting another 25 years</p>
+      <p begin="01:18:30,480" end="01:18:33,687">to get the World Trade Center rebuilt.</p>
+      <p begin="01:18:33,687" end="01:18:36,431">[crowd chanting] Build it now!<br/>Build it now!</p>
+      <p begin="01:18:36,431" end="01:18:39,779">Build it now!<br/>Build it now!</p>
+      <p begin="01:18:39,779" end="01:18:44,853">- [Ward] It was kind of a great moment<br/>because everybody's chanting, </p>
+      <p begin="01:18:44,853" end="01:18:48,937">
+        <span tts:fontStyle="italic"> "Build it now!" And I was like,<br/>"Who are they talking to?"</span>
+      </p>
+      <p begin="01:18:48,937" end="01:18:54,200">They were talking to me because <br/>I was the one guy who was there</p>
+      <p begin="01:18:54,200" end="01:18:56,847">that would answer the question,<br/>"Could you build it now?"</p>
+      <p begin="01:18:56,847" end="01:19:00,772">
+        <span tts:fontStyle="italic">They were convinced that we were<br/>the ones who were slowing it down.</span>
+      </p>
+      <p begin="01:19:01,386" end="01:19:09,659">- [speaker] We need the Hirsch, Chris,<br/>Larry, the city, to get back at the table</p>
+      <p begin="01:19:09,659" end="01:19:14,505">to find a solution so that these <br/>two towers can be built</p>
+      <p begin="01:19:14,505" end="01:19:17,386">and they can be built now.</p>
+      <p begin="01:19:17,614" end="01:19:21,595">- [Lieber] No more excuses. It's time <br/>for us to all put our shoulders</p>
+      <p begin="01:19:21,595" end="01:19:24,119">so that we all work together<br/>to get the job done.</p>
+      <p begin="01:19:24,119" end="01:19:26,663">And I think that was a game changer.</p>
+      <p begin="01:19:27,331" end="01:19:29,302">- [Paterson] And today, we have found<br/>an agreement</p>
+      <p begin="01:19:29,302" end="01:19:35,130">that we feel will allow us <br/>to complete the reconstruction </p>
+      <p begin="01:19:35,130" end="01:19:37,676">of the World Trade Center's site.</p>
+      <p begin="01:19:40,044" end="01:19:43,226">- [Ward] Wow. This is progress.</p>
+      <p begin="01:19:44,195" end="01:19:48,363">This is probably the most important<br/>part of the project from the</p>
+      <p begin="01:19:48,363" end="01:19:52,999">Port Authority's commitment to<br/>deliver the plaza for the anniversary.</p>
+      <p begin="01:19:52,999" end="01:19:56,961">We have to have this done or<br/>the plaza will not be completed.</p>
+      <p begin="01:19:56,961" end="01:19:58,942">But you stand here and think, </p>
+      <p begin="01:19:58,942" end="01:20:01,650">"Are they gonna be able <br/>to get it all done?"</p>
+      <p begin="01:20:05,263" end="01:20:09,634">We're doing really well. I have no <br/>expectation that we won't deliver</p>
+      <p begin="01:20:09,634" end="01:20:13,894">but, imagine it if we don't?</p>
+      <p begin="01:20:36,241" end="01:20:37,509">- [Jim] What's up, V.?<br/>- [V.] How's it going, Jim?</p>
+      <p begin="01:20:37,509" end="01:20:38,526">How are you, buddy?</p>
+      <p begin="01:20:39,634" end="01:20:40,894">- [worker] I got it right here.<br/></p>
+      <p begin="01:20:40,894" end="01:20:44,207">The one coming through <br/>from this way here is sided.</p>
+      <p begin="01:20:44,207" end="01:20:46,200">- [Jim] Okay, all right.</p>
+      <p begin="01:20:46,938" end="01:20:49,803">[crackling metal sound]</p>
+      <p begin="01:20:56,527" end="01:20:59,941">I gotta get all the way out to the street<br/>five feet by today, alright?</p>
+      <p begin="01:21:00,462" end="01:21:03,515">Bob, we need those two<br/>beehive strainers.</p>
+      <p begin="01:21:06,468" end="01:21:08,111">When you look at it like this,<br/></p>
+      <p begin="01:21:08,111" end="01:21:11,620">it's just amazing how many <br/>people killed that day.</p>
+      <p begin="01:21:14,235" end="01:21:17,570">Well, I lost my mother on 9/11.<br/>She was on the 94th floor </p>
+      <p begin="01:21:17,570" end="01:21:21,567">of the North Tower. <br/>I don't know what to say. </p>
+      <p begin="01:21:21,567" end="01:21:26,460">That's just hard to imagine<br/>it's ten years already. It really is.</p>
+      <p begin="01:21:27,321" end="01:21:29,945">It's what we have right here.</p>
+      <p begin="01:21:48,344" end="01:21:50,628">- [Arad] Reading the names<br/>up to the plaza, </p>
+      <p begin="01:21:50,628" end="01:21:53,650">when that decision was made<br/>against my wishes,</p>
+      <p begin="01:21:53,650" end="01:21:56,600">it felt like a tremendous blow.</p>
+      <p begin="01:21:58,613" end="01:22:04,504">And you know-- but if it is a child,<br/>if it is your child and it's injured,</p>
+      <p begin="01:22:04,504" end="01:22:09,323"> you don't walk away from it,<br/>you stay involved. You keep caring.</p>
+      <p begin="01:22:15,091" end="01:22:19,647">My hope is when the memorial opens up,<br/>whatever dissatisfaction's had been </p>
+      <p begin="01:22:19,647" end="01:22:23,175">expressed up until now, some of this<br/>here's might be assuaged. </p>
+      <p begin="01:22:24,882" end="01:22:28,400">We'll see, I mean that's the missing <br/>ingredient for the memorial right now,</p>
+      <p begin="01:22:28,400" end="01:22:31,430">it's that interaction between <br/>the public and the memorial.</p>
+      <p begin="01:22:31,430" end="01:22:39,700">And what you have right now is <br/>the stage that's set for that encounter.</p>
+      <p begin="01:22:41,747" end="01:22:45,234" region="top"> SEPTEMBER 11, 2011</p>
+      <p begin="01:22:47,059" end="01:22:49,523">[crickets chirping]</p>
+      <p begin="01:22:49,923" end="01:22:52,924">Bye, sweetie. I'm leaving now.</p>
+      <p begin="01:22:54,486" end="01:22:58,069">[door opens<br/>then closes]</p>
+      <p begin="01:23:00,546" end="01:23:06,323">
+        <span tts:fontStyle="italic">You know, last night at 11:00 or so,<br/>all of a sudden I sort of had this urge to</span>
+      </p>
+      <p begin="01:23:06,323" end="01:23:09,712">
+        <span tts:fontStyle="italic">jump in the car and drive to see the site<br/>to make sure that everything's there.</span>
+      </p>
+      <p begin="01:23:11,204" end="01:23:13,186">You know, sort of last minute--<br/></p>
+      <p begin="01:23:16,678" end="01:23:19,372">You wanna make sure <br/>everything is just right.</p>
+      <p begin="01:23:23,969" end="01:23:25,975">[Sean giggling]<br/></p>
+      <p begin="01:23:25,975" end="01:23:28,658">- [Sean] Ahh...</p>
+      <p begin="01:23:30,042" end="01:23:31,503">- [Rosaleen] Sean?<br/></p>
+      <p begin="01:23:31,990" end="01:23:34,815">[scraping sound]</p>
+      <p begin="01:23:36,055" end="01:23:39,890">You put on Uncle Sean's shirt?<br/>You can put on Uncle Sean's shirt.</p>
+      <p begin="01:23:47,488" end="01:23:50,820">
+        <span tts:fontStyle="italic">- [Arad] Today's gonna be<br/>really difficult.</span>
+      </p>
+      <p begin="01:23:51,398" end="01:23:53,224">
+        <span tts:fontStyle="italic">But it's the moment I've been waiting for.</span>
+      </p>
+      <p begin="01:23:55,121" end="01:23:57,849">
+        <span tts:fontStyle="italic">- [Judey] I want that one, please.</span>
+      </p>
+      <p begin="01:23:57,849" end="01:23:59,396">
+        <span tts:fontStyle="italic">- [Rosaleen] Please have<br/>a couple of bites, Sean. </span>
+      </p>
+      <p begin="01:23:59,396" end="01:24:02,347">I'll give Panny then, a little bit <br/>of your English muffin.</p>
+      <p begin="01:24:02,347" end="01:24:04,540">- [Sean] They had a truck in those <br/>bunks in the truck</p>
+      <p begin="01:24:04,540" end="01:24:06,828">and they move it into the garage.</p>
+      <p begin="01:24:06,828" end="01:24:09,291">- [Rosaleen] You know, Daddy went <br/>over there to see </p>
+      <p begin="01:24:09,291" end="01:24:11,573">if he could find Uncle Sean. <br/>I don't know if you ever knew that.</p>
+      <p begin="01:24:11,573" end="01:24:13,276">- [Judey] He did?<br/></p>
+      <p begin="01:24:13,276" end="01:24:14,752">- [Rob Tallon] Yeah.<br/>- I never knew that.</p>
+      <p begin="01:24:16,107" end="01:24:18,662">
+        <span tts:fontStyle="italic">- [Rosaleen] It would be nice<br/>to see Uncle Sean's name, right?</span>
+      </p>
+      <p begin="01:24:18,662" end="01:24:20,084">- [Judey] Yeah.</p>
+      <p begin="01:24:40,084" end="01:24:40,983">- [Silverstein] Thank you.</p>
+      <p begin="01:24:40,983" end="01:24:41,899">[car door closes]</p>
+      <p begin="01:24:58,620" end="01:25:01,700">
+        <span tts:fontStyle="italic">- [Rosaleen] Guys,<br/>ain't it a beautiful day?</span>
+      </p>
+      <p begin="01:25:01,700" end="01:25:03,163"><span tts:fontStyle="italic">- [Eileen] Oh, yes.</span><br/>- They had predicted rain for</p>
+      <p begin="01:25:03,163" end="01:25:05,194">yesterday and today.</p>
+      <p begin="01:25:12,490" end="01:25:14,568">
+        <span tts:fontStyle="italic">- [Silverstein] Go on,<br/>just go pass them slowly.</span>
+      </p>
+      <p begin="01:25:15,771" end="01:25:17,006">Go further.<br/></p>
+      <p begin="01:25:17,006" end="01:25:21,549"><br/>You're gonna go straight to Denmar.</p>
+      <p begin="01:25:21,549" end="01:25:23,303">
+        <span tts:fontStyle="italic">- [woman] Good morning.<br/>- [driver] Good morning, ma'am.</span>
+      </p>
+      <p begin="01:25:23,303" end="01:25:25,485">- <span tts:fontStyle="italic">How are you?</span><br/>- [Silverstein] Silverstein!</p>
+      <p begin="01:25:25,485" end="01:25:27,150"><span tts:fontStyle="italic">- Straight ahead, Sir.</span><br/>- Thank you.</p>
+      <p begin="01:25:27,150" end="01:25:28,065">
+        <span tts:fontStyle="italic">- Okay. - [driver] Thank you. </span>
+      </p>
+      <p begin="01:25:28,065" end="01:25:29,235">
+        <span tts:fontStyle="italic">- Have a great day.- Likewise, ma'am.</span>
+      </p>
+      <p begin="01:25:35,172" end="01:25:38,647">- [Eileen] He was just beaming that<br/>morning. He was all lit up</p>
+      <p begin="01:25:38,647" end="01:25:44,285">in the house, had such a smile.<br/>He was wearing his lovely shirt</p>
+      <p begin="01:25:44,285" end="01:25:48,612">&#160;<span tts:fontStyle="italic">and then he's got on him a white collar<br/>and he just looks so good and smiling.</span></p>
+      <p begin="01:26:03,979" end="01:26:05,767">- [Rosaleen] Yes, they are very charming.<br/></p>
+      <p begin="01:26:07,975" end="01:26:10,223">Where's Grandma?<br/>Keep Grandma with us.</p>
+      <p begin="01:26:10,223" end="01:26:12,178">- [Judey] Can you release my hand.</p>
+      <p begin="01:26:12,888" end="01:26:16,120">[footsteps]</p>
+      <p begin="01:26:21,204" end="01:26:25,352">- [Bloomberg] Please join in observing<br/>our first moment of silence.</p>
+      <p begin="01:26:26,590" end="01:26:27,558">[bell dings]</p>
+      <p begin="01:26:36,253" end="01:26:42,683">- [speaker 1] Edelmiro Abad<br/>- [speaker 2] Vincent Paul Abate</p>
+      <p begin="01:26:42,683" end="01:26:50,309">
+        <span tts:fontStyle="italic">- Laurence Christopher Abel<br/>- Albert Balewa Blackman, Jr.</span>
+      </p>
+      <p begin="01:26:50,309" end="01:26:57,719">
+        <span tts:fontStyle="italic">- Christopher Joseph Blackwell<br/>- Carrie Rosetta Blagburn</span>
+      </p>
+      <p begin="01:26:57,719" end="01:27:01,303">
+        <span tts:fontStyle="italic">- Susan Leigh Blair</span>
+      </p>
+      <p begin="01:27:01,303" end="01:27:04,902">
+        <span tts:fontStyle="italic">&#9834; [melancholy music] &#9834;</span>
+      </p>
+      <p begin="01:27:26,868" end="01:27:31,664">- [Arad] It's easy to think about all the<br/>strife, all the disagreement,</p>
+      <p begin="01:27:31,664" end="01:27:35,607">
+        <span tts:fontStyle="italic">to sort of focus on, "Well, you know, this<br/>didn't go right, that didn't go right."</span>
+      </p>
+      <p begin="01:27:35,607" end="01:27:39,049">
+        <span tts:fontStyle="italic">Actually, the big picture is something<br/>went right, really right.</span>
+      </p>
+      <p begin="01:27:55,102" end="01:27:58,149">- [Silverstein] At the end of the day, <br/>it's a good thing to see,</p>
+      <p begin="01:27:58,149" end="01:28:01,232">everything out moving down the track</p>
+      <p begin="01:28:01,232" end="01:28:04,996">and getting built because<br/>this is important to New York.</p>
+      <p begin="01:28:07,780" end="01:28:10,340">You have to develop very thick skin,<br/></p>
+      <p begin="01:28:10,340" end="01:28:13,461">really take a long view,<br/>a very long view.</p>
+      <p begin="01:28:15,454" end="01:28:17,679">And praises? White noise.</p>
+      <p begin="01:28:31,309" end="01:28:33,290">
+        <span tts:fontStyle="italic">- [Rosaleen] That's Sean's name.</span>
+      </p>
+      <p begin="01:28:33,147" end="01:28:37,223">I mean, he's one of these people <br/>listed on this memorial.</p>
+      <p begin="01:28:37,223" end="01:28:40,102">That's the shocker, I think.<br/>You know, you say,</p>
+      <p begin="01:28:40,102" end="01:28:44,960">"God, that was my flesh and blood<br/>that got caught up in all of this."</p>
+      <p begin="01:28:49,319" end="01:28:52,464">
+        <span tts:fontStyle="italic">- [Lieber] I don't know if the city<br/>will ever be whole. </span>
+      </p>
+      <p begin="01:28:52,464" end="01:28:55,751">
+        <span tts:fontStyle="italic">The people who are lost,<br/>the families who experienced that.</span>
+      </p>
+      <p begin="01:28:55,751" end="01:29:03,673">
+        <span tts:fontStyle="italic">You can never put that back or replace,<br/>but there's a part of the city's</span>
+      </p>
+      <p begin="01:29:03,673" end="01:29:05,613">
+        <span tts:fontStyle="italic">self respect that I think<br/>is gonna be restored.</span>
+      </p>
+      <p begin="01:29:08,596" end="01:29:11,266">
+        <span tts:fontStyle="italic">- [Childs] This is not Rome,<br/>in which you wanna hold it as it now is,</span>
+      </p>
+      <p begin="01:29:11,266" end="01:29:13,844">
+        <span tts:fontStyle="italic">as a great historic monument,</span>
+      </p>
+      <p begin="01:29:13,844" end="01:29:15,392">
+        <span tts:fontStyle="italic">but something which evolves and changes.</span>
+      </p>
+      <p begin="01:29:15,392" end="01:29:17,224">
+        <span tts:fontStyle="italic"> That's the nature of New York.</span>
+      </p>
+      <p begin="01:29:23,547" end="01:29:27,172">
+        <span tts:fontStyle="italic">- [Philip] It's an incredibly<br/>healthy thing that the city responded</span>
+      </p>
+      <p begin="01:29:27,172" end="01:29:30,963">
+        <span tts:fontStyle="italic">to September 11th in sort of,<br/>classic New York fashion</span>
+      </p>
+      <p begin="01:29:30,963" end="01:29:35,190">
+        <span tts:fontStyle="italic">by beating each other up and<br/>grandstanding in political manipulation</span>
+      </p>
+      <p begin="01:29:35,190" end="01:29:38,281">
+        <span tts:fontStyle="italic">and you can say, "Oh, that's awful."</span>
+      </p>
+      <p begin="01:29:39,050" end="01:29:42,118">
+        <span tts:fontStyle="italic">Or you can say, "What a wonderful thing<br/>that New York </span>
+      </p>
+      <p begin="01:29:42,118" end="01:29:44,910">
+        <span tts:fontStyle="italic">healed this big wound with more New York."</span>
+      </p>
+      <p begin="01:29:56,152" end="01:29:59,140" region="top"> Citing marketing concerns,<br/>the Port Authority renamed</p>
+      <p begin="01:29:59,140" end="01:30:01,929" region="top"> the "Freedom Tower"<br/>1 World Trade Center.</p>
+      <p begin="01:30:02,083" end="01:30:05,204" region="top"> Soon after, the agency signed<br/>a lease for 1 million square feet</p>
+      <p begin="01:30:05,204" end="01:30:08,756" region="top"> of office space with magazine<br/>publisher Cond&#233; Nast.</p>
+      <p begin="01:30:09,387" end="01:30:13,179" region="top"> The building will be the tallest<br/>in the city and is expected</p>
+      <p begin="01:30:13,179" end="01:30:16,121" region="top"> to open in 2014, ten years after<br/>the cornerstone ceremony.</p>
+      <p begin="01:30:16,549" end="01:30:20,334" region="top"> Chris Ward was pushed out<br/>of his job at the Port Authority</p>
+      <p begin="01:30:20,334" end="01:30:24,058" region="top"> and replaced by a top aide<br/>to Governor Andrew Cuomo.</p>
+      <p begin="01:30:24,511" end="01:30:29,715" region="top"> 7 World Trade Center reached<br/>full occupancy in October 2011.</p>
+      <p begin="01:30:30,869" end="01:30:34,915" region="top"> Larry Silverstein hopes to complete<br/>the World Trade Center project</p>
+      <p begin="01:30:34,915" end="01:30:37,954" region="top"> by 2016, when he'll be 85 years old.</p>
+      <p begin="01:30:38,277" end="01:30:41,929" region="top"> 4 WTC will be the first tower<br/>to open on the site in 2013.</p>
+      <p begin="01:30:42,514" end="01:30:45,717" region="top"> The completion dates for 2 and 3 WTC<br/>depend on the success of</p>
+      <p begin="01:30:45,717" end="01:30:47,747" region="top"> Silverstein's leasing efforts.</p>
+      <p begin="01:30:47,939" end="01:30:50,956" region="top"> Since winning the master-plan <br/>competition in 2003, Daniel Libeskind</p>
+      <p begin="01:30:50,956" end="01:30:53,807" region="top"> has designed more than 40 projects<br/>around the world,</p>
+      <p begin="01:30:53,807" end="01:30:56,951" region="top"> including several skyscrapers.</p>
+      <p begin="01:30:57,330" end="01:31:01,433" region="top"> The cornerstone now rests<br/>behind the headquarters of the</p>
+      <p begin="01:31:01,433" end="01:31:05,983" region="top"> company that engraved it,<br/>in Hauppauge, Long Island.</p>
+    </div>
+  </body>
+</tt>
