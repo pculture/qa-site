@@ -1,0 +1,45 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,244" end="00:00:05,476"/>
+      <p begin="00:00:05,476" end="00:00:08,754">Chet Rong com o jeito Rong de fazer Agile.</p>
+      <p begin="00:00:08,754" end="00:00:10,563">Hoje, requisitos.</p>
+      <p begin="00:00:10,563" end="00:00:13,571">Voc&#234; deve escrever especifica&#231;&#245;es<br/>para todos os projetos de desenvolvimento.</p>
+      <p begin="00:00:13,571" end="00:00:15,761">Quanto mais detalhe, melhor.</p>
+      <p begin="00:00:15,761" end="00:00:18,490">Comece com um documento<br/>de requisitos de marketing.</p>
+      <p begin="00:00:18,490" end="00:00:19,681"/>
+      <p begin="00:00:19,681" end="00:00:21,392">E um documento <br/>de requisitos de produto.</p>
+      <p begin="00:00:21,392" end="00:00:22,152"/>
+      <p begin="00:00:22,152" end="00:00:23,900">Talvez jogue em um documento<br/>de design tamb&#233;m.</p>
+      <p begin="00:00:23,900" end="00:00:24,969"/>
+      <p begin="00:00:26,261" end="00:00:29,661">Agora voc&#234; est&#225; finalmente pronto<br/>para come&#231;ar a escrever suas hist&#243;rias.</p>
+      <p begin="00:00:29,661" end="00:00:33,108">E lembre-se, se a hist&#243;ria n&#227;o cabe<br/>em uma &#250;nica folha,</p>
+      <p begin="00:00:33,108" end="00:00:35,904">&#233; porque ela &#233; muito curta, <br/>ent&#227;o, continue escrevendo.</p>
+      <p begin="00:00:35,904" end="00:00:39,129">N&#227;o tenha medo de adicionar<br/>uma emenda, se necess&#225;rio.</p>
+      <p begin="00:00:39,883" end="00:00:41,361">E quando tudo estiver escrito,</p>
+      <p begin="00:00:41,361" end="00:00:42,914">n&#227;o haver&#225; confus&#227;o.</p>
+      <p begin="00:00:42,914" end="00:00:45,843">Diz no 8.1.2.5.17 do PRD</p>
+      <p begin="00:00:45,843" end="00:00:47,623">que deve ter um hover state.</p>
+      <p begin="00:00:47,623" end="00:00:49,300">- Como eu esqueci disso?</p>
+      <p begin="00:00:49,300" end="00:00:53,583">- E o mais importante, n&#227;o comece <br/>a codifica&#231;&#227;o at&#233; que tenham assinado</p>
+      <p begin="00:00:53,583" end="00:00:54,598">em especifica&#231;&#245;es.</p>
+      <p begin="00:00:54,598" end="00:00:55,371">- Ugh!</p>
+      <p begin="00:00:55,371" end="00:00:56,035"/>
+      <p begin="00:00:56,035" end="00:00:57,919">- Este &#233; o jeito Rong de<br/>fazer requisitos.</p>
+      <p begin="00:00:58,949" end="00:01:02,949"/>
+    </div>
+  </body>
+</tt>

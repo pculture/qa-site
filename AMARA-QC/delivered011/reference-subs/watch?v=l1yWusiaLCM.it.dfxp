@@ -1,0 +1,45 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,244" end="00:00:05,476">&#9834; [Musica] &#9834;</p>
+      <p begin="00:00:05,476" end="00:00:08,754">Qui vi parla Chet Rong con il metodo per fare Agile di Rong.</p>
+      <p begin="00:00:08,754" end="00:00:10,563">Oggi i requisiti.</p>
+      <p begin="00:00:10,563" end="00:00:13,571">Dovreste scrivere la scheda tecnica di tutti i progetti di sviluppo.</p>
+      <p begin="00:00:13,571" end="00:00:15,761">Pi&#249; dettagli mettete, meglio &#232;.</p>
+      <p begin="00:00:15,761" end="00:00:18,490">Iniziate con un documento di requisiti di marketing.</p>
+      <p begin="00:00:18,490" end="00:00:19,681">[Cade una cartella]</p>
+      <p begin="00:00:19,681" end="00:00:21,392">E un documento di requisiti del prodotto.</p>
+      <p begin="00:00:21,392" end="00:00:22,152">[Cade una cartella]</p>
+      <p begin="00:00:22,152" end="00:00:23,900">Magari aggiungete pure un documento di design.</p>
+      <p begin="00:00:23,900" end="00:00:24,969">[Cade una cartella]</p>
+      <p begin="00:00:26,261" end="00:00:29,661">Ora siete finalmente pronti per iniziare a scrivere le vostre storie.</p>
+      <p begin="00:00:29,661" end="00:00:33,108">E ricordate, se la vostra storia non sta in una sola tessera,</p>
+      <p begin="00:00:33,108" end="00:00:35,904">Allora &#232; troppo corta, dunque continuate a scrivere.</p>
+      <p begin="00:00:35,904" end="00:00:39,129">Non abbiate paura di aggiungere una correzione, se necessaria.</p>
+      <p begin="00:00:39,883" end="00:00:41,361">E quando tutto &#232; scritto,</p>
+      <p begin="00:00:41,361" end="00:00:42,914">allora non c'&#232; confusione.</p>
+      <p begin="00:00:42,914" end="00:00:45,843">Dice in 8.1.2.5.17 del PRD</p>
+      <p begin="00:00:45,843" end="00:00:47,623">che dovrebbe avere un hover state.</p>
+      <p begin="00:00:47,623" end="00:00:49,300">Come ho fatto a mancarlo?</p>
+      <p begin="00:00:49,300" end="00:00:53,583">E soprattutto non iniziate a programmare fino a che</p>
+      <p begin="00:00:53,583" end="00:00:54,598">tutti non hanno terminato con la scheda tecnica.</p>
+      <p begin="00:00:54,598" end="00:00:55,371">Uh!</p>
+      <p begin="00:00:55,371" end="00:00:56,035">[Suono di caduta]</p>
+      <p begin="00:00:56,035" end="00:00:57,919">Questo &#232; il modo sbagliato di fare i requisiti.</p>
+      <p begin="00:00:58,949" end="00:01:02,949">&#9834; [Musica] &#9834;</p>
+    </div>
+  </body>
+</tt>

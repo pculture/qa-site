@@ -1,0 +1,45 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,826" end="00:00:02,745">Questo &#232; Steve Harris.</p>
+      <p begin="00:00:02,745" end="00:00:05,706">Pu&#242; gestire fino a 20 progetti alla volta.</p>
+      <p begin="00:00:05,706" end="00:00:08,668">Programmare da esperto in 10 diverse lingue</p>
+      <p begin="00:00:08,668" end="00:00:13,220">e rispetta sempre le scadenze, non importa quanto ridicole.</p>
+      <p begin="00:00:13,256" end="00:00:15,758">Gli scienziati di Atlassian hanno studiato questo uomo</p>
+      <p begin="00:00:15,758" end="00:00:18,637">per scoprire cosa lo renda cos&#236; efficiente.</p>
+      <p begin="00:00:20,651" end="00:00:22,293">Velocit&#224;.</p>
+      <p begin="00:00:22,800" end="00:00:23,922">[Bip]</p>
+      <p begin="00:00:23,922" end="00:00:37,059">&#9834; [Musica] &#9834;</p>
+      <p begin="00:00:37,782" end="00:00:38,636">[Bip]</p>
+      <p begin="00:00:40,157" end="00:00:41,408">Bellezza.</p>
+      <p begin="00:00:41,408" end="00:00:53,521">&#9834; [Musica] &#9834;</p>
+      <p begin="00:00:53,521" end="00:00:54,813">Mobilit&#224;.</p>
+      <p begin="00:00:54,890" end="00:01:03,051">&#9834; [Musica] &#9834;</p>
+      <p begin="00:01:03,051" end="00:01:05,230">E ora, nella svolta degli umani</p>
+      <p begin="00:01:05,230" end="00:01:07,598">nella tecnologia dei software,</p>
+      <p begin="00:01:07,598" end="00:01:12,606">hanno iniettato il suo DNA direttamente in Jira 6.</p>
+      <p begin="00:01:12,606" end="00:01:14,768">Il risultato &#232; il software di rilevamento</p>
+      <p begin="00:01:14,768" end="00:01:19,821">di progetto pi&#249; efficiente conosciuto all'uomo.</p>
+      <p begin="00:01:19,821" end="00:01:24,956">Ottimizzato per velocit&#224;.</p>
+      <p begin="00:01:24,956" end="00:01:29,948">Riprogrammato per bellezza.</p>
+      <p begin="00:01:29,948" end="00:01:32,292">Con un nuovo sito mobile.</p>
+      <p begin="00:01:32,292" end="00:01:42,628">&#9834; [Musica] &#9834;</p>
+      <p begin="00:01:42,628" end="00:01:44,258">[Esplosione]</p>
+      <p begin="00:01:44,258" end="00:01:47,218">Jira 6. [Tosse]</p>
+      <p begin="00:01:47,218" end="00:01:50,628">Promosso da Steve Harris!</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00,000" end="00:00:01,328">&#9834; [Musica] &#9834;</p>
+      <p begin="00:00:01,328" end="00:00:02,287">[Forte tonfo] Uh!</p>
+      <p begin="00:00:02,287" end="00:00:04,663">&#9834; Chet Rong &#9834;</p>
+      <p begin="00:00:06,332" end="00:00:09,300">Qui vi parla Chet Rong<br/>con il modo di Rong di fare Agile.</p>
+      <p begin="00:00:09,300" end="00:00:11,317">Oggi le riunioni in piedi.</p>
+      <p begin="00:00:11,317" end="00:00:13,757">Prima di tutto,<br/>fate delle riunioni in piedi stando</p>
+      <p begin="00:00:13,757" end="00:00:16,008">seduti cos&#236; tutti sono comodi.</p>
+      <p begin="00:00:16,008" end="00:00:19,220">Pi&#249; gente c'&#232; e meglio&#232;,<br/>dunque invitate tutto l'ufficio.</p>
+      <p begin="00:00:19,220" end="00:00:20,854">Siate sicuri di variare l'orario<br/>e il luogo di incontro,</p>
+      <p begin="00:00:20,854" end="00:00:22,926">per tenere tutti all'erta.</p>
+      <p begin="00:00:22,926" end="00:00:24,393">C'&#232; nessuno?</p>
+      <p begin="00:00:24,393" end="00:00:26,393">Dopodich&#233;, passate un oggetto attorno,</p>
+      <p begin="00:00:26,393" end="00:00:27,856">e accertatevi sia pesante,</p>
+      <p begin="00:00:27,856" end="00:00:30,980">cosicch&#233; tutti sentano il peso<br/>di ci&#242; che viene detto.</p>
+      <p begin="00:00:30,980" end="00:00:33,467">Chi tiene in mano l'oggetto<br/>dovr&#224; ascoltare</p>
+      <p begin="00:00:33,467" end="00:00:34,628">mentre tutti gli altri parlano.</p>
+      <p begin="00:00:34,628" end="00:00:37,823">Parlate di qualsiasi cosa abbiate bisogno<br/>e per quanto tempo volete.</p>
+      <p begin="00:00:37,823" end="00:00:41,427">Discutete ogni problema in dettaglio.</p>
+      <p begin="00:00:41,427" end="00:00:48,416">[Chiacchiere]</p>
+      <p begin="00:00:48,416" end="00:00:50,087">Queste riunioni prenderanno<br/>quasi tutte le mattine</p>
+      <p begin="00:00:50,087" end="00:00:51,669">ma avrete ancora<br/>un paio d'ore nel pomeriggio</p>
+      <p begin="00:00:51,669" end="00:00:53,679">per lavorare sul progetto.</p>
+      <p begin="00:00:53,679" end="00:00:54,838">[Forte tonfo]</p>
+      <p begin="00:00:54,838" end="00:00:57,214">E questo &#232; il modo di Rong<br/>di fare le riunioni in piedi.</p>
+      <p begin="00:00:57,214" end="00:01:01,214">&#9834; [Musica] &#9834;</p>
+    </div>
+  </body>
+
+</tt>

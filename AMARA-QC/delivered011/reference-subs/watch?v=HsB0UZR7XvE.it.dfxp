@@ -1,0 +1,40 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,000" end="00:00:05,542">&#9834; [Musica] &#9834;</p>
+      <p begin="00:00:05,542" end="00:00:08,678">Qui vi parla Chet Rong con il modo di Rong di fare Agile.</p>
+      <p begin="00:00:08,678" end="00:00:10,639">Oggi, la struttura del gruppo.</p>
+      <p begin="00:00:10,639" end="00:00:12,923">Prima di tutto, assegnate il ruolo di Product Owner</p>
+      <p begin="00:00:12,923" end="00:00:15,000">e di Scrum Master alla stessa persona,</p>
+      <p begin="00:00:15,000" end="00:00:17,623">alla fine fanno la stessa cosa in ogni caso.</p>
+      <p begin="00:00:18,808" end="00:00:20,446">Mettete sempre il capo nella squadra,</p>
+      <p begin="00:00:20,446" end="00:00:22,395">questo motiva gli sviluppatori.</p>
+      <p begin="00:00:22,395" end="00:00:26,261">[Una ragazza urla]</p>
+      <p begin="00:00:26,261" end="00:00:28,567">Ovviamente i gruppi dovranno essere formati da persone</p>
+      <p begin="00:00:28,567" end="00:00:29,676">con ruoli complementari</p>
+      <p begin="00:00:29,676" end="00:00:31,140">per le parti diverse della compagnia.</p>
+      <p begin="00:00:31,140" end="00:00:32,382">Ma se si &#232; in crisi col budget,</p>
+      <p begin="00:00:32,382" end="00:00:34,805">escludete tranquillamente la garanzia di qualit&#224;.</p>
+      <p begin="00:00:34,805" end="00:00:35,867">[Puf!]</p>
+      <p begin="00:00:35,867" end="00:00:37,653">[Sospiro collettivo]</p>
+      <p begin="00:00:37,653" end="00:00:39,015">Se tutti fanno il loro lavoro,</p>
+      <p begin="00:00:39,015" end="00:00:40,723">la garanzia di qualit&#224; non &#232; importante.</p>
+      <p begin="00:00:40,723" end="00:00:43,069">[Piccola esplosione]</p>
+      <p begin="00:00:43,069" end="00:00:46,058">E questo &#232; il modo di Rong di creare la struttura del gruppo.</p>
+      <p begin="00:00:46,058" end="00:00:50,058">&#9834; [Musica] &#9834;</p>
+    </div>
+  </body>
+</tt>

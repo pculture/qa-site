@@ -1,0 +1,45 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,244" end="00:00:05,476">&#9834; [Music] &#9834;</p>
+      <p begin="00:00:05,476" end="00:00:08,754">Chet Rong ici avec la fa&#231;on Rong de faire Agile.</p>
+      <p begin="00:00:08,754" end="00:00:10,563">Aujourd'hui, les exigences.</p>
+      <p begin="00:00:10,563" end="00:00:13,571">Vous devriez &#233;crire des sp&#233;cifications<br/>pour tous les projets de d&#233;veloppement.</p>
+      <p begin="00:00:13,571" end="00:00:15,761">Plus de d&#233;tails, c'est mieux.</p>
+      <p begin="00:00:15,761" end="00:00:18,490">Commencez avec un document<br/>sur les conditions du marketing.</p>
+      <p begin="00:00:18,490" end="00:00:19,681">[claquement de dossier]</p>
+      <p begin="00:00:19,681" end="00:00:21,392">Et un document sur les conditions du produit.</p>
+      <p begin="00:00:21,392" end="00:00:22,152">[claquement de dossier]</p>
+      <p begin="00:00:22,152" end="00:00:23,900">Peut-&#234;tre lancer, aussi,<br/>dans un document de conception.</p>
+      <p begin="00:00:23,900" end="00:00:24,969">[claquement de dossier]</p>
+      <p begin="00:00:26,261" end="00:00:29,661">Maintenant, vous &#234;tes enfin pr&#234;t &#224; commencer<br/>&#224; &#233;crire vos histoires.</p>
+      <p begin="00:00:29,661" end="00:00:33,108">Et n'oubliez pas, si votre histoire ne tient pas<br/>sur une seule carte,</p>
+      <p begin="00:00:33,108" end="00:00:35,904">Alors elle est trop courte, alors gardez l'&#233;criture.</p>
+      <p begin="00:00:35,904" end="00:00:39,129">N'ayez pas peur d'ajouter<br/>un amendement si n&#233;cessaire.</p>
+      <p begin="00:00:39,883" end="00:00:41,361">Et une fois que tout est &#233;crit,</p>
+      <p begin="00:00:41,361" end="00:00:42,914">il n'ya pas de confusion.</p>
+      <p begin="00:00:42,914" end="00:00:45,843">- Il est dit dans 8.1.2.5.17 du PRD</p>
+      <p begin="00:00:45,843" end="00:00:47,623">qu'il est cens&#233; d'avoir un &#233;tat stationnaire.</p>
+      <p begin="00:00:47,623" end="00:00:49,300">- Comment est-ce j'ai pu rater &#231;a?</p>
+      <p begin="00:00:49,300" end="00:00:53,583">- Et surtout, ne pas commencer &#224; coder<br/>jusqu'&#224; ce que tout le monde aura sign&#233;</p>
+      <p begin="00:00:53,583" end="00:00:54,598">les sp&#233;cifications.</p>
+      <p begin="00:00:54,598" end="00:00:55,371">- Ugh!</p>
+      <p begin="00:00:55,371" end="00:00:56,035">[crashing sound]</p>
+      <p begin="00:00:56,035" end="00:00:57,919">- C'est la mauvaise fa&#231;on de proc&#233;der<br/>avec les conditions.</p>
+      <p begin="00:00:58,949" end="00:01:02,949">&#9834; [Music] &#9834;</p>
+    </div>
+  </body>
+</tt>

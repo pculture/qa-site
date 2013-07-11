@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00.826" end="00:00:02.745">Das hier ist Steve Harris.</p>
+      <p begin="00:00:02.745" end="00:00:05.705">Er kann an bis zu<br/>20 Projekten gleichzeitig arbeitet,</p>
+      <p begin="00:00:05.705" end="00:00:08.668">codiert auf hohem Niveau in<br/>10 verschiedenen Sprachen</p>
+      <p begin="00:00:08.668" end="00:00:13.220">und schafft alle Deadlines,<br/>egal wie verr&#252;ckt.</p>
+      <p begin="00:00:13.256" end="00:00:15.758">Atlassische Wissenschaftler<br/>haben diesen Mann untersucht</p>
+      <p begin="00:00:15.758" end="00:00:18.637">um heraus zu finden,<br/>was ihn so effizient macht.</p>
+      <p begin="00:00:20.651" end="00:00:22.293">Geschwindigkeit</p>
+      <p begin="00:00:22.800" end="00:00:23.922">[Peep]</p>
+      <p begin="00:00:23.922" end="00:00:37.059">&#9834; [Musik] &#9834;</p>
+      <p begin="00:00:37.782" end="00:00:38.636">[Peep]</p>
+      <p begin="00:00:40.157" end="00:00:41.408">Aussehen</p>
+      <p begin="00:00:41.408" end="00:00:53.521">&#9834; [Musik] &#9834;</p>
+      <p begin="00:00:53.521" end="00:00:54.813">Beweglichkeit</p>
+      <p begin="00:00:54.890" end="00:01:03.051">&#9834; [Musik] &#9834;</p>
+      <p begin="00:01:03.051" end="00:01:05.230">Und nun: In einem Durchbruch in</p>
+      <p begin="00:01:05.230" end="00:01:07.598">der Technologie vom Menschen<br/>zur Software</p>
+      <p begin="00:01:07.598" end="00:01:12.606">haben sie seine DNS<br/>direkt auf Jira 6 &#252;bertragen.</p>
+      <p begin="00:01:12.606" end="00:01:14.768">Das Ergebnis ist die effizienteste</p>
+      <p begin="00:01:14.768" end="00:01:19.821">Projekt-Tracking-Software, die es gibt.</p>
+      <p begin="00:01:19.821" end="00:01:24.956">Optimale Geschwindigkeit.</p>
+      <p begin="00:01:24.956" end="00:01:29.948">Neu designet f&#252;r's Aussehen.</p>
+      <p begin="00:01:29.948" end="00:01:32.292">Mit einer neuen Online-Seite.</p>
+      <p begin="00:01:32.292" end="00:01:42.628">&#9834; [Musik] &#9834;</p>
+      <p begin="00:01:42.628" end="00:01:44.258">[Explosion]</p>
+      <p begin="00:01:44.258" end="00:01:47.218">Jira 6.<br/>[Husten]</p>
+      <p begin="00:01:47.218" end="00:01:50.628">Angetrieben von Steve Harris!</p>
+    </div>
+  </body>
+
+</tt>

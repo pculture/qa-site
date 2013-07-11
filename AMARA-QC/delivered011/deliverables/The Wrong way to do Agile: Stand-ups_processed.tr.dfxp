@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00,000" end="00:00:01,328">&#9834; [Music] &#9834;</p>
+      <p begin="00:00:01,328" end="00:00:02,287">[Kap&#305; &#231;arpar] - Ah!</p>
+      <p begin="00:00:02,287" end="00:00:04,663">&#9834; Chet Rong &#9834;</p>
+      <p begin="00:00:06,332" end="00:00:09,300">Ben Chet Rong, <br/>Agile i&#231;in yanl&#305;&#351; y&#246;ntemlerde</p>
+      <p begin="00:00:09,300" end="00:00:11,317">Bug&#252;n ayaktay&#305;z.</p>
+      <p begin="00:00:11,317" end="00:00:13,757">&#304;lk olarak, <br/>aya&#287;a kalk&#305;p oturur musunuz</p>
+      <p begin="00:00:13,757" end="00:00:16,008">herkez rahat m&#305;?</p>
+      <p begin="00:00:16,008" end="00:00:19,220">Ki&#351;i say&#305;s&#305; &#246;nemli<br/>Bu y&#252;zden b&#252;t&#252;n ofisi davet edin</p>
+      <p begin="00:00:19,220" end="00:00:20,854">Toplant&#305; yer ve zaman&#305;n&#305;n <br/>de&#287;i&#351;medi&#287;inden emin olun</p>
+      <p begin="00:00:20,854" end="00:00:22,926">herkezi ayak parmaklar&#305;nda tutun.</p>
+      <p begin="00:00:22,926" end="00:00:24,393">-Merhaba?</p>
+      <p begin="00:00:24,393" end="00:00:26,393">-Sondaki, ortal&#305;kta bir obje ge&#231;er</p>
+      <p begin="00:00:26,393" end="00:00:27,856">ve objenin a&#287;&#305;r oldu&#287;una emin olun</p>
+      <p begin="00:00:27,856" end="00:00:30,980">b&#246;ylece herkezin s&#246;ylendi&#287;i <br/>gibi a&#287;&#305;rl&#305;&#287;&#305;n&#305; hissetmesini sa&#287;lay&#305;n.</p>
+      <p begin="00:00:30,980" end="00:00:33,467">objeyi tutan herkez dinlesin</p>
+      <p begin="00:00:33,467" end="00:00:34,628">di&#287;er herkez konu&#351;urken.</p>
+      <p begin="00:00:34,628" end="00:00:37,823">Her ne istiyorsan&#305;z onun hakk&#305;nda konu&#351;un.</p>
+      <p begin="00:00:37,823" end="00:00:41,427">Uzun uzad&#305;ya her t&#252;rl&#252; sorunlar&#305; tart&#305;&#351;&#305;n.</p>
+      <p begin="00:00:41,427" end="00:00:48,416">[sohbet]</p>
+      <p begin="00:00:48,416" end="00:00:50,087">Bu toplant&#305;lar b&#252;t&#252;n sabah alabilir</p>
+      <p begin="00:00:50,087" end="00:00:51,669">ama &#246;&#287;lene kadar halen <br/>birka&#231; saatiniz kalacak</p>
+      <p begin="00:00:51,669" end="00:00:53,679">projelerinizi ger&#231;ekle&#351;tirmek i&#231;in</p>
+      <p begin="00:00:53,679" end="00:00:54,838">[ah g&#252;m]</p>
+      <p begin="00:00:54,838" end="00:00:57,214">Ve i&#351;te bu aya&#287;a <br/>kalkmak i&#231;in yanl&#305;&#351; yol.</p>
+      <p begin="00:00:57,214" end="00:01:01,214">&#9834; [Music] &#9834;</p>
+    </div>
+  </body>
+
+</tt>

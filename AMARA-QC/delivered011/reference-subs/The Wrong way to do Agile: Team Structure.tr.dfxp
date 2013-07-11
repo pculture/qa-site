@@ -1,0 +1,40 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,000" end="00:00:05,542">&#9834; [Music] &#9834;</p>
+      <p begin="00:00:05,542" end="00:00:08,678">Chet Rong burda<br/>Rong ile Agile yapmak i&#231;in</p>
+      <p begin="00:00:08,678" end="00:00:10,639">Bug&#252;n, grup yap&#305;lanmas&#305;.</p>
+      <p begin="00:00:10,639" end="00:00:12,923">&#304;lk &#246;nce, &#220;r&#252;n&#252;n&#252;z&#252;n sahibi olun</p>
+      <p begin="00:00:12,923" end="00:00:15,000">ve any&#305; ki&#351;iye ilk hamleniz,</p>
+      <p begin="00:00:15,000" end="00:00:17,623">bu arada onlar da ayn&#305; &#351;eyi yaparlar.</p>
+      <p begin="00:00:18,808" end="00:00:20,446">Her zaman patronu gruba al&#305;n.</p>
+      <p begin="00:00:20,446" end="00:00:22,395">Bu geli&#351;tiricileri motive eder.</p>
+      <p begin="00:00:22,395" end="00:00:26,261">[k&#305;zlar &#231;&#305;&#287;l&#305;k atar]</p>
+      <p begin="00:00:26,261" end="00:00:28,567">Elbette, gruplar insanlardan olu&#351;mal&#305;</p>
+      <p begin="00:00:28,567" end="00:00:29,676">tamamlay&#305;c&#305; rolleri olan</p>
+      <p begin="00:00:29,676" end="00:00:31,140">firman&#305;n farkl&#305; b&#246;l&#252;mleri i&#231;in.</p>
+      <p begin="00:00:31,140" end="00:00:32,382">E&#287;er b&#252;t&#231;e k&#252;&#231;&#252;l&#252;rse,</p>
+      <p begin="00:00:32,382" end="00:00:34,805">QA '&#305; terkedebilirsiniz.</p>
+      <p begin="00:00:34,805" end="00:00:35,867">[poof sesi]</p>
+      <p begin="00:00:35,867" end="00:00:37,653">[toplu gasp]</p>
+      <p begin="00:00:37,653" end="00:00:39,015">E&#287;er herkez kendi i&#351;ini yaparsa</p>
+      <p begin="00:00:39,015" end="00:00:40,723">O zaman QA &#246;nemli de&#287;il.</p>
+      <p begin="00:00:40,723" end="00:00:43,069">[k&#252;&#231;&#252;k patlama]</p>
+      <p begin="00:00:43,069" end="00:00:46,058">Ve bu grup yap&#305;lanmas&#305; i&#231;in yanl&#305;&#351; bir yol</p>
+      <p begin="00:00:46,058" end="00:00:50,058">&#9834; [Music] &#9834;</p>
+    </div>
+  </body>
+</tt>

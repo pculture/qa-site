@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00,826" end="00:00:02,745">Conhe&#231;a Steve Harris.</p>
+      <p begin="00:00:02,745" end="00:00:05,706">Ele pode gerenciar at&#233; 20 projetos <br/>de uma s&#243; vez.</p>
+      <p begin="00:00:05,706" end="00:00:08,668">Especialista em c&#243;digo de<br/>10 linguagens diferentes</p>
+      <p begin="00:00:08,668" end="00:00:13,220">e cumpre qualquer prazo,<br/>n&#227;o importa o qu&#227;o rid&#237;culo ele seja.</p>
+      <p begin="00:00:13,256" end="00:00:15,758">Cientistas Atlassian<br/>estudaram este homem</p>
+      <p begin="00:00:15,758" end="00:00:18,637">para descobrir o que o<br/>faz ser t&#227;o eficiente.</p>
+      <p begin="00:00:20,651" end="00:00:22,293">Velocidade.</p>
+      <p begin="00:00:22,800" end="00:00:23,922"/>
+      <p begin="00:00:23,922" end="00:00:37,059"/>
+      <p begin="00:00:37,782" end="00:00:38,636"/>
+      <p begin="00:00:40,157" end="00:00:41,408">Beleza.</p>
+      <p begin="00:00:41,408" end="00:00:53,521"/>
+      <p begin="00:00:53,521" end="00:00:54,813">Mobilidade.</p>
+      <p begin="00:00:54,890" end="00:01:03,051"/>
+      <p begin="00:01:03,051" end="00:01:05,230">E agora, em um avan&#231;o</p>
+      <p begin="00:01:05,230" end="00:01:07,598">de humano para<br/>tecnologia de software.</p>
+      <p begin="00:01:07,598" end="00:01:12,606">Eles infundiram seu DNA<br/>diretamente no Jira 6.</p>
+      <p begin="00:01:12,606" end="00:01:14,768">O resultados &#233; o mais eficiente</p>
+      <p begin="00:01:14,768" end="00:01:19,821">software de acompanhamento<br/>de projetos conhecido pelo homem.</p>
+      <p begin="00:01:19,821" end="00:01:24,956">Otimizado para velocidade.</p>
+      <p begin="00:01:24,956" end="00:01:29,948">Redesenhado para beleza.</p>
+      <p begin="00:01:29,948" end="00:01:32,292">Com um novo site m&#243;vel.</p>
+      <p begin="00:01:32,292" end="00:01:42,628"/>
+      <p begin="00:01:42,628" end="00:01:44,258"/>
+      <p begin="00:01:44,258" end="00:01:47,218">Jira 6.</p>
+      <p begin="00:01:47,218" end="00:01:50,628">Desenvolvido por Steve Harris!</p>
+    </div>
+  </body>
+
+</tt>

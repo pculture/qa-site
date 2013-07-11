@@ -1,0 +1,1445 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:25.795" end="00:00:50.986">$$ All statistics in this film are from US <br/>Government Studies $$</p>
+      <p begin="00:00:50.986" end="00:00:57.366">*[trumpet sound]*</p>
+      <p begin="00:00:57.366" end="00:00:58.394">*[helicopter whirring]*</p>
+      <p begin="00:00:58.394" end="00:01:03.597">*Today, the latest weapons coupled with <br/>the fighting skill of the American soldier*</p>
+      <p begin="00:01:03.597" end="00:01:09.121">stand ready on the alert <br/>all over the world to defend this country.</p>
+      <p begin="00:01:09.121" end="00:01:13.248">*You, the American people, <br/>against aggression.*</p>
+      <p begin="00:01:13.248" end="00:01:15.359">*This is* The Big Picture.</p>
+      <p begin="00:01:15.359" end="00:01:20.963">*Now to show you part of * The Big Picture, <br/>*here is Sgt. Stuart Queen.*</p>
+      <p begin="00:01:20.963" end="00:01:25.457">- The privilege of serving<br/>the United States in uniform,</p>
+      <p begin="00:01:25.457" end="00:01:26.991">is no longer limited to men.</p>
+      <p begin="00:01:26.991" end="00:01:29.256">*[drum roll]*</p>
+      <p begin="00:01:29.256" end="00:01:40.877">&#9834; [music] &#9834;</p>
+      <p begin="00:01:40.877" end="00:01:42.871">*[Woman] The value placed by<br/>the Women's Army Corps *</p>
+      <p begin="00:01:42.871" end="00:01:44.985">*on meticulous grooming <br/>and feminine grace*</p>
+      <p begin="00:01:44.985" end="00:01:50.238">*is one of the first lessons l<br/>earned by the recruit. *</p>
+      <p begin="00:01:50.238" end="00:01:52.387">*[Man on PA] There were demands <br/>that would require of her *</p>
+      <p begin="00:01:52.387" end="00:01:54.196">*perfect physical health and stamina. *</p>
+      <p begin="00:01:54.196" end="00:01:56.622">- *Ladies, count.<br/>- [All] One, two, three, four...*</p>
+      <p begin="00:01:56.622" end="00:02:00.264">*one, two, three, four.*</p>
+      <p begin="00:02:00.264" end="00:02:02.300">*[Nurse] I'm sure you've all <br/>heard the saying, *</p>
+      <p begin="00:02:02.300" end="00:02:07.096">*"There's a right way, a wrong way,<br/>and the Army way." *</p>
+      <p begin="00:02:07.096" end="00:02:08.682">*&#9834; Duty is calling you and me &#9834;*</p>
+      <p begin="00:02:08.682" end="00:02:12.526">*&#9834; we have a date with destiny &#9834;*</p>
+      <p begin="00:02:12.526" end="00:02:13.900">*&#9834; Ready... &#9834;*</p>
+      <p begin="00:02:13.900" end="00:02:15.821">*&#9834; the WACs are ready &#9834;*</p>
+      <p begin="00:02:15.821" end="00:02:17.253">*&#9834; Their pulse is steady &#9834;*</p>
+      <p begin="00:02:17.253" end="00:02:20.388">*&#9834; A world to set free &#9834;*</p>
+      <p begin="00:02:20.388" end="00:02:21.619">*&#9834; Service &#9834;*</p>
+      <p begin="00:02:21.619" end="00:02:24.121">*&#9834; we're in it heart and soul &#9834;*</p>
+      <p begin="00:02:24.121" end="00:02:27.950">*&#9834; Victory is our only goal &#9834;*</p>
+      <p begin="00:02:27.950" end="00:02:29.023">*&#9834; We're looking for &#9834;*</p>
+      <p begin="00:02:29.023" end="00:02:29.722">*&#9834; Computer specialists &#9834;*</p>
+      <p begin="00:02:29.722" end="00:02:30.953">*&#9834; Plane technicians &#9834;*</p>
+      <p begin="00:02:30.953" end="00:02:32.331">*&#9834; Plumbers...<br/>Carpenters... &#9834;*</p>
+      <p begin="00:02:32.331" end="00:02:34.431">*&#9834; Electricians...<br/>Art illustrators... &#9834;*</p>
+      <p begin="00:02:34.431" end="00:02:35.929">*&#9834; Statisticians... &#9834;*</p>
+      <p begin="00:02:35.929" end="00:02:38.362">*&#9834; Air controllers...<br/>Security police... &#9834;*</p>
+      <p begin="00:02:38.362" end="00:02:40.913">*&#9834; Auto Mechanics...<br/>Fire chiefs... &#9834;*</p>
+      <p begin="00:02:40.913" end="00:02:46.183">*&#9834; Look up &#9834;*</p>
+      <p begin="00:02:46.183" end="00:02:49.710">*&#9834; We look up to in the Air Force &#9834;*</p>
+      <p begin="00:02:49.710" end="00:02:51.355">*[Woman on PA] 2-1-2 radar contact*</p>
+      <p begin="00:02:51.355" end="00:02:53.257">*Turn right heading one-five-zero*</p>
+      <p begin="00:02:53.257" end="00:02:56.676">*[Man on PA] With the fog-bound helicopter<br/>hanging on your every word,*</p>
+      <p begin="00:02:56.676" end="00:03:00.534">it doesn't matter whether you're a man <br/>or a woman, only that you're good.</p>
+      <p begin="00:03:00.534" end="00:03:01.625">- *Coming up slowly...*</p>
+      <p begin="00:03:01.625" end="00:03:04.382">*&#9834; Be all that you can be. . . &#9834;*</p>
+      <p begin="00:03:04.382" end="00:03:05.771">*- [Pilot] Thanks for your help.<br/>- Roger.*</p>
+      <p begin="00:03:05.771" end="00:03:09.599">*&#9834; 'Coz we need you in the Army &#9834;*</p>
+      <p begin="00:03:09.599" end="00:03:12.764">*[helicopter blades whirring]*</p>
+      <p begin="00:03:12.764" end="00:03:15.343">*[Female Pilot] I'm flying in a <br/>helicopter right now.*</p>
+      <p begin="00:03:15.343" end="00:03:15.869">*[machine gun firing]*</p>
+      <p begin="00:03:15.869" end="00:03:19.795">Don't second&#8208;guess yourself.<br/>It's a lot of work, but it's totally worth it.</p>
+      <p begin="00:03:23.286" end="00:03:31.340">$$ The Invisible War $$</p>
+      <p begin="00:03:31.602" end="00:03:49.949">&#9834; [music] &#9834;</p>
+      <p begin="00:03:49.949" end="00:03:53.066">*[Kori Cioca] I would just always see<br/>the movies of the military*</p>
+      <p begin="00:03:53.066" end="00:03:54.054">*and I just knew that was me.*</p>
+      <p begin="00:03:54.054" end="00:04:01.216">*That's what I wanted to do. <br/>That's what I wanted to be.*</p>
+      <p begin="00:04:01.216" end="00:04:05.662">*There was a waiting list for <br/>the Navy over a year*</p>
+      <p begin="00:04:05.662" end="00:04:07.757">and I knew I didn't want to wait that long.</p>
+      <p begin="00:04:07.757" end="00:04:10.764">So, I had a friend who told me<br/>about the Coast Guard</p>
+      <p begin="00:04:10.764" end="00:04:13.256">and I went to the Coast Guard <br/>and they said that they could get me in</p>
+      <p begin="00:04:13.256" end="00:04:17.407">within a month so I said,<br/>"Okay, ship me off."</p>
+      <p begin="00:04:21.931" end="00:04:26.087">[Jessica Hinves] I tried college <br/>and I had a good job</p>
+      <p begin="00:04:26.087" end="00:04:28.113">at a vineyard in East Texas.<br/>I bought my own little house.</p>
+      <p begin="00:04:28.113" end="00:04:32.294">The military was something<br/>I always wanted to do.</p>
+      <p begin="00:04:32.294" end="00:04:34.683">*I come from a military family.<br/>I was always taught*</p>
+      <p begin="00:04:34.683" end="00:04:39.016">*that it's every citizen's duty<br/>to join the military.*</p>
+      <p begin="00:04:39.016" end="00:04:39.880">*If you can, you should. <br/>So, I want to go ahead*</p>
+      <p begin="00:04:39.880" end="00:04:42.847">and join and start a career.</p>
+      <p begin="00:04:43.002" end="00:04:45.487">*[aircraft taking off]*</p>
+      <p begin="00:04:45.530" end="00:04:50.196">*[Robin Lynn Lafayette] I joined the Air Force.<br/>I was 17 years old.*</p>
+      <p begin="00:04:50.196" end="00:04:54.659">I had a boyfriend that encouraged me <br/>to go in so that's what I did.</p>
+      <p begin="00:04:54.752" end="00:04:58.249">My mom signed, gave me permission to go.</p>
+      <p begin="00:04:58.249" end="00:04:59.641">*[Lt. Ariana Klay] When I was <br/>in high school, *</p>
+      <p begin="00:04:59.641" end="00:05:01.841">*I was impressed with<br/>the marines that I had met.*</p>
+      <p begin="00:05:01.841" end="00:05:04.126">*There used to be a lieutenant colonel<br/>that used to run laps *</p>
+      <p begin="00:05:04.126" end="00:05:06.213">*around the track after soccer practice.*</p>
+      <p begin="00:05:06.213" end="00:05:09.001">And, he said, <br/>"You'd be perfect for the Marine Corps</p>
+      <p begin="00:05:09.001" end="00:05:13.085">'cause you're really fit and smart<br/>and that's what the Marine Corps needs."</p>
+      <p begin="00:05:13.085" end="00:05:15.163">The professionalism, the camaraderie,</p>
+      <p begin="00:05:15.163" end="00:05:19.758">everything about it inspired me.</p>
+      <p begin="00:05:19.758" end="00:05:24.091">[Trina McDonald] After I graduated <br/>high school, I left for Orlando, Florida,</p>
+      <p begin="00:05:24.091" end="00:05:26.977">which was the first time I was<br/>ever on an airplane in my life.</p>
+      <p begin="00:05:26.977" end="00:05:29.076">
+        <span tts:fontStyle="italic">[chuckles]</span>
+      </p>
+      <p begin="00:05:29.076" end="00:05:31.498">*Initially, it was just wanting <br/>to go see the world*</p>
+      <p begin="00:05:31.498" end="00:05:33.175">*'cause I'm from a really small town.*</p>
+      <p begin="00:05:33.175" end="00:05:36.449">*I had a college scholarship<br/>to go play basketball*</p>
+      <p begin="00:05:36.449" end="00:05:42.780">*but I instead, opted to go <br/>into the military. *</p>
+      <p begin="00:05:42.780" end="00:05:45.037">So, that's what I chose to do.</p>
+      <p begin="00:05:46.328" end="00:05:50.032">*[Lt. Elle Helmer] I come from a long line <br/>of military lineage.*</p>
+      <p begin="00:05:50.032" end="00:05:52.721">Somebody from every generation <br/>on both sides of the family,</p>
+      <p begin="00:05:52.721" end="00:05:58.567">*all the way back to the revolutionary war,<br/>had served in the armed forces.*</p>
+      <p begin="00:05:58.567" end="00:06:00.233">*I chose the Marine Corps because*</p>
+      <p begin="00:06:00.233" end="00:06:03.500">*no one in my family had ever done it.*</p>
+      <p begin="00:06:03.500" end="00:06:06.944">[Hannah Sewell] I love putting on<br/>a uniform every day</p>
+      <p begin="00:06:06.944" end="00:06:11.154">and, you know, just getting out there<br/>and giving it my all.</p>
+      <p begin="00:06:11.154" end="00:06:14.272">*It's a very proud feeling.*</p>
+      <p begin="00:06:14.348" end="00:06:17.128">*[Everyone] 1, 1000... 2, 1000<br/>3, 1000*</p>
+      <p begin="00:06:17.128" end="00:06:17.913">*He's a piece...*</p>
+      <p begin="00:06:17.913" end="00:06:20.335">[Kori Cioca] I would have done boot camp <br/>over and over again.</p>
+      <p begin="00:06:20.335" end="00:06:26.012">*It was great, the camaraderie,<br/>the discipline, everything it taught you.*</p>
+      <p begin="00:06:26.012" end="00:06:29.825">*Who I wanted to be.<br/>That's what they taught you there.*</p>
+      <p begin="00:06:29.825" end="00:06:32.929">[Trina McDonald] Obviously it was different<br/>taking a shower with 80 different people</p>
+      <p begin="00:06:32.929" end="00:06:38.166">all of a sudden 'cause I was pretty shy. <br/>But, just a great experience.</p>
+      <p begin="00:06:38.166" end="00:06:45.021">*I was a 4&#8208;0 sailor. Every single report done <br/>on me was excellent, great.*</p>
+      <p begin="00:06:45.021" end="00:06:49.893">*I knew what I needed to do in my job.<br/>I was a great team leader.*</p>
+      <p begin="00:06:49.893" end="00:06:52.138">*[Jessica Hinves] I really enjoyed the <br/>whole challenge of it.*</p>
+      <p begin="00:06:52.138" end="00:06:55.691">I got several different awards and kudos.</p>
+      <p begin="00:06:55.691" end="00:06:57.454">*It was mainly men.*</p>
+      <p begin="00:06:57.454" end="00:07:01.090">*I loved that I could blend in <br/>and keep up with the guys*</p>
+      <p begin="00:07:01.090" end="00:07:02.998">*and work as hard as they did.*</p>
+      <p begin="00:07:02.998" end="00:07:05.698">*[cheers and applause]*</p>
+      <p begin="00:07:05.698" end="00:07:08.368">*[Lt. Ariana Klay] The Naval Academy<br/>was challenging.*</p>
+      <p begin="00:07:08.368" end="00:07:10.590">*The education was top&#8208;notch.*</p>
+      <p begin="00:07:10.590" end="00:07:14.034">In my senior, I was selected to be in <br/>one of the top 30 leadership positions</p>
+      <p begin="00:07:14.034" end="00:07:16.275">by the company grade officers there.</p>
+      <p begin="00:07:16.275" end="00:07:20.627">*[Trina McDonald] After basic, I went <br/>to Naval Security Group in Adak, Alaska.*</p>
+      <p begin="00:07:20.627" end="00:07:26.580">*I remember getting there, you know, <br/>issued a parka, I got set up in my room.*</p>
+      <p begin="00:07:26.580" end="00:07:29.888">And then he took me to the bar, <br/>which was in our barracks</p>
+      <p begin="00:07:29.888" end="00:07:34.998">and sat down at a table where it was <br/>me and about ten other guys.</p>
+      <p begin="00:07:34.998" end="00:07:41.421">And, you know, I kind of felt like a piece <br/>of meat on a slab at that point.</p>
+      <p begin="00:07:41.421" end="00:07:43.701">And I'd never wanted to turn around<br/>and leave so much in my life.</p>
+      <p begin="00:07:43.701" end="00:07:50.187">But I couldn't.</p>
+      <p begin="00:07:50.187" end="00:07:51.440">*- [Child[ Hey, mama.*</p>
+      <p begin="00:07:51.440" end="00:07:51.896">*[ball bouncing]*</p>
+      <p begin="00:07:51.896" end="00:07:53.276">*- [Kori] Go get it this time.*</p>
+      <p begin="00:07:53.276" end="00:07:54.092">- Okay.<br/>*- [Kori] Get him, get him.*</p>
+      <p begin="00:07:57.860" end="00:07:58.888">- [Rob] Hey, you give me that ball.</p>
+      <p begin="00:07:58.888" end="00:08:01.381">*- [Kori] Give it to him derby style. Get him.*</p>
+      <p begin="00:08:01.381" end="00:08:02.579">[child laughing]</p>
+      <p begin="00:08:02.579" end="00:08:07.050">[Rob McDonald] I met Kori<br/>December 17th of 2007.</p>
+      <p begin="00:08:07.050" end="00:08:10.228">I was on watch <br/>when she got to the station</p>
+      <p begin="00:08:10.228" end="00:08:13.513">and she kind of just blew me away <br/>when she walked in.</p>
+      <p begin="00:08:13.513" end="00:08:17.208">- Cookies, right?<br/>Is it good you ordered?</p>
+      <p begin="00:08:17.208" end="00:08:19.140">Okay. Thank you.</p>
+      <p begin="00:08:19.140" end="00:08:21.337">- The command told us that <br/>she was coming</p>
+      <p begin="00:08:21.337" end="00:08:26.426">and there were some issues <br/>but none of the crew knew exactly</p>
+      <p begin="00:08:26.426" end="00:08:30.425">what had happened.<br/>And I didn't find out for a long time.</p>
+      <p begin="00:08:30.425" end="00:08:32.057">*- For mommy?<br/>Where's the heart?*</p>
+      <p begin="00:08:32.057" end="00:08:38.331">[Kori] He loved his job. <br/>And it's kind of like he gave it up for me.</p>
+      <p begin="00:08:38.331" end="00:08:40.527">[Rob] She loved the Coast Guard <br/>more than I did.</p>
+      <p begin="00:08:40.527" end="00:08:42.754">She wanted to make it a career,</p>
+      <p begin="00:08:42.754" end="00:08:46.335">but seeing how they treated her,<br/>I didn't want to stay in.</p>
+      <p begin="00:08:46.335" end="00:08:50.339">I did it and then I did my extra year <br/>and I got out.</p>
+      <p begin="00:08:50.339" end="00:08:52.617">I couldn't believe <br/>what had happened to her,</p>
+      <p begin="00:08:52.617" end="00:08:57.842">and what she had went through.</p>
+      <p begin="00:08:57.842" end="00:09:01.414">[Kori Cioca] I was stationed in <br/>Sagano, Michigan.</p>
+      <p begin="00:09:01.414" end="00:09:07.253">I was the only female in my section.<br/>I had a supervisor.</p>
+      <p begin="00:09:07.253" end="00:09:10.162">It got to the place where I would <br/>get calls at 3 o'clock in the morning</p>
+      <p begin="00:09:10.162" end="00:09:12.628">and he'd be drunk at a bar<br/>telling me to come get him.</p>
+      <p begin="00:09:12.628" end="00:09:18.339">And I'm like "I cant, I'm in bed",<br/>and he would then threaten me</p>
+      <p begin="00:09:18.339" end="00:09:23.433">I'd walk in from training <br/>and he'd be sleeping in my bed.</p>
+      <p begin="00:09:23.433" end="00:09:25.051">When we went to <br/>one of the higher&#8208;ups</p>
+      <p begin="00:09:25.051" end="00:09:29.314">in the chain of command,<br/>they were all like his drinking buddy</p>
+      <p begin="00:09:29.314" end="00:09:32.566">and they told me just because<br/>I didn't like somebody,</p>
+      <p begin="00:09:32.566" end="00:09:36.953">they weren't going to switch me<br/>away from this guy.</p>
+      <p begin="00:09:37.246" end="00:09:40.858">It was in the evening, around taps,<br/>and he had unlocked the door</p>
+      <p begin="00:09:40.858" end="00:09:43.889">and he had come in,<br/>and he had an erection</p>
+      <p begin="00:09:43.889" end="00:09:46.754">and he tried to get me to touch him.</p>
+      <p begin="00:09:46.754" end="00:09:49.333">I took my right hand and<br/>I pushed him in the chest</p>
+      <p begin="00:09:49.333" end="00:09:54.498">and started to yell for the other guys<br/>to try to kinda hear me, "Hey, hey, hey."</p>
+      <p begin="00:09:54.498" end="00:09:59.111">He hit me across<br/>the left side of my face.</p>
+      <p begin="00:09:59.111" end="00:10:05.911">I remember holding the closet thinking, <br/>"What just happened?"</p>
+      <p begin="00:10:05.911" end="00:10:08.784">And my face hurts so bad.</p>
+      <p begin="00:10:12.246" end="00:10:14.090">And when we went<br/>to the command about it,</p>
+      <p begin="00:10:14.090" end="00:10:18.092">me and this petty officer <br/>who saw my face,</p>
+      <p begin="00:10:18.092" end="00:10:22.249">they just let it wait cause they <br/>didn't want any problems going on.</p>
+      <p begin="00:10:24.542" end="00:10:28.361">A couple weeks later, <br/>I needed the key to do my cleanup</p>
+      <p begin="00:10:28.361" end="00:10:29.845">so I knocked on his door<br/>and he said,</p>
+      <p begin="00:10:29.845" end="00:10:31.583">"Okay, yeah. come on in here. <br/>It's in here."</p>
+      <p begin="00:10:31.583" end="00:10:34.468">And I said, "No, no, no,<br/>I'm gonna wait out here."</p>
+      <p begin="00:10:34.468" end="00:10:36.426">And he said screamed at me <br/>and he made me come in,</p>
+      <p begin="00:10:36.426" end="00:10:38.930">and he grabbed my arm</p>
+      <p begin="00:10:40.854" end="00:11:04.443">[sobbing]</p>
+      <p begin="00:11:04.535" end="00:11:06.514">and he raped me at his birthing area.</p>
+      <p begin="00:11:09.161" end="00:11:12.908">[Jessica HInves] Everything came<br/>to a complete change</p>
+      <p begin="00:11:12.908" end="00:11:15.022">the day that I was raped.</p>
+      <p begin="00:11:15.022" end="00:11:18.361">[Trina McDonald] I got there in February<br/>and by April</p>
+      <p begin="00:11:18.361" end="00:11:20.757">I was drugged and raped<br/>for the first time.</p>
+      <p begin="00:11:20.757" end="00:11:24.726">[Robin Lynn Lafayette] I had a cold <br/>or pneumonia-like symptoms</p>
+      <p begin="00:11:24.726" end="00:11:30.798">and so they sent me to get checked out. <br/>And, while I was waiting to be examined,</p>
+      <p begin="00:11:30.798" end="00:11:33.364">he came in and he helped himself.</p>
+      <p begin="00:11:33.364" end="00:11:34.861">[Jessica Hinves] He said he was<br/>going to the bathroom</p>
+      <p begin="00:11:34.861" end="00:11:38.403">and he came into my room<br/>and that's when he raped me.</p>
+      <p begin="00:11:38.403" end="00:11:41.917">[Hannah Sewell] The entire time<br/>I was screaming and yelling</p>
+      <p begin="00:11:41.917" end="00:11:45.542">for help and for him to stop, <br/>nobody came to the door,</p>
+      <p begin="00:11:45.542" end="00:11:50.278">nobody came to help,<br/>came to my rescue or anything.</p>
+      <p begin="00:11:50.278" end="00:11:56.354">[Trina McDonald] They made it very, <br/>very clear that if I said anything,</p>
+      <p begin="00:11:56.354" end="00:11:59.997">they were going to kill me, you know, <br/>and then of course,</p>
+      <p begin="00:11:59.997" end="00:12:02.833">I didn't have anyone to go talk to<br/>because the people that</p>
+      <p begin="00:12:02.833" end="00:12:06.370">were perpetrating me were the police.</p>
+      <p begin="00:12:06.370" end="00:12:12.457">[Hannah Sewell] It was my first time ever, <br/>and I've had a tough time</p>
+      <p begin="00:12:12.457" end="00:12:16.147">convincing myself that I'm still a virgin.</p>
+      <p begin="00:12:16.147" end="00:12:21.725">[Trina McDonald] If this is happening to me, <br/>you know, surely I'm not the only one,</p>
+      <p begin="00:12:21.725" end="00:12:27.080">in which I find out later, going through <br/>the claims process, that I wasn't.</p>
+      <p begin="00:12:27.080" end="00:12:35.605">$$ Over 20% of female veterans have been <br/>sexually assaulted while serving. $$</p>
+      <p begin="00:12:35.605" end="00:12:42.720">[Robin Khale] It's just after 3 am, I see <br/>a shadow of a human head over my body.</p>
+      <p begin="00:12:42.720" end="00:12:47.120">[Ayana Defour] Next thing you know, <br/>like I wake up and like he's on top of me.</p>
+      <p begin="00:12:47.120" end="00:12:50.659">[Christina Jones] He pushed my legs apart <br/>and put himself on top of me</p>
+      <p begin="00:12:50.659" end="00:12:52.322">and started pulling at my shirt.</p>
+      <p begin="00:12:52.322" end="00:12:57.130">[Debra Dickerson] And I wake up, <br/>and he's on top of me.</p>
+      <p begin="00:12:57.130" end="00:12:59.193">He's already penetrated me.</p>
+      <p begin="00:12:59.193" end="00:13:05.544">[Regina Vasquez] I was drugged. <br/>I remember the sounds, the smell.</p>
+      <p begin="00:13:05.544" end="00:13:09.801">[Lee Le Teff] He put his locked and loaded<br/>45 at the base of my skull,</p>
+      <p begin="00:13:09.801" end="00:13:13.531">and gauged the bolt so that I knew <br/>that it was around chambered.</p>
+      <p begin="00:13:13.531" end="00:13:16.632">[Katie Webber] All I could do was continue <br/>to concentrate on breathing.</p>
+      <p begin="00:13:16.632" end="00:13:19.742">[Tia Christopher] He slammed my head <br/>against the concrete wall</p>
+      <p begin="00:13:19.742" end="00:13:22.785">and very forcefully had sex with me.</p>
+      <p begin="00:13:22.785" end="00:13:26.641">[Jessica Brakey] I just went to my tent, <br/>pulled the sleeping bag over my head</p>
+      <p begin="00:13:26.641" end="00:13:28.617">and cried myself to sleep.</p>
+      <p begin="00:13:28.617" end="00:13:32.078">[Teah Bedney] So, within the <br/>two-week period,</p>
+      <p begin="00:13:32.078" end="00:13:34.117">he raped me five times.</p>
+      <p begin="00:13:34.117" end="00:13:40.550">[Valine Demos] When we got tested, <br/>I had Trich and gonorrhea</p>
+      <p begin="00:13:40.550" end="00:13:44.039">and I was pregnant.</p>
+      <p begin="00:13:44.039" end="00:13:53.879">[Kristen Miller] And he did it. <br/>He raped me.</p>
+      <p begin="00:13:53.879" end="00:13:56.214">[Amy Herdy] In 1991, <br/>in Congressional testimony,</p>
+      <p begin="00:13:56.214" end="00:13:59.648">it was estimated that 200,000 women<br/>had been sexually assaulted so far</p>
+      <p begin="00:13:59.648" end="00:14:01.859">in the US Military. <br/>If you take into account that women</p>
+      <p begin="00:14:01.859" end="00:14:05.898">don't report because of<br/>the extreme retaliation and that was,</p>
+      <p begin="00:14:05.898" end="00:14:08.159">you know, <br/>more than a decade ago.</p>
+      <p begin="00:14:08.159" end="00:14:11.291">I would say you could easily<br/>double that number</p>
+      <p begin="00:14:11.291" end="00:14:14.709">and it's probably somewhere near about<br/>half a million women have now been</p>
+      <p begin="00:14:14.709" end="00:14:16.636">sexually assaulted in the US military.</p>
+      <p begin="00:14:16.636" end="00:14:18.560">[Capt. Anu Bhagwati] Well, according to <br/>the Department of Defense,</p>
+      <p begin="00:14:18.560" end="00:14:26.629">3,230 women and men reported assault<br/>in the last fiscal year, fiscal year 2009.</p>
+      <p begin="00:14:26.629" end="00:14:32.303">But they also admit, D.O.D itself, <br/>that 80% of sexual assault survivors</p>
+      <p begin="00:14:32.303" end="00:14:39.124">do not report. So if you do the math, <br/>16,150 service members</p>
+      <p begin="00:14:39.124" end="00:14:47.490">were assaulted,<br/>which is an extraordinary number.</p>
+      <p begin="00:14:47.490" end="00:14:51.194">*[vial dropped]*</p>
+      <p begin="00:14:51.194" end="00:14:52.735">*[cluttering sound]*</p>
+      <p begin="00:14:52.735" end="00:14:57.535">- [Kori Cioca] We have more in the cars, Rob.</p>
+      <p begin="00:14:57.535" end="00:14:59.642">[cluttering sound]</p>
+      <p begin="00:14:59.642" end="00:15:00.880">There's some of it here, too.</p>
+      <p begin="00:15:00.880" end="00:15:03.522">This all was prescribed <br/>in the last three to four months.</p>
+      <p begin="00:15:03.522" end="00:15:06.274">This is <span tts:fontStyle="italic">Proxatine</span>, this is <span tts:fontStyle="italic">Seroquel,</span><br/><span tts:fontStyle="italic">Seroquel...</span>**</p>
+      <p begin="00:15:06.274" end="00:15:12.547">Citolopram, this is <span tts:fontStyle="italic">Xanax.</span></p>
+      <p begin="00:15:12.547" end="00:15:20.214">I'm tired of taking all these meds.<br/>I just want the VA to fix my jaw.</p>
+      <p begin="00:15:20.214" end="00:15:23.328">I was having the most horrible<br/>pain in my face,</p>
+      <p begin="00:15:23.328" end="00:15:27.406">so I went to the dentist because <br/>I thought it was my teeth</p>
+      <p begin="00:15:27.406" end="00:15:30.200">or something was wrong. <br/>The doctor came in after the X&#8208; rays</p>
+      <p begin="00:15:30.200" end="00:15:32.426">and asked me if I had been <br/>in a car accident.</p>
+      <p begin="00:15:32.426" end="00:15:35.822">When he hit me in my face,<br/>he dislocated my jaw</p>
+      <p begin="00:15:35.822" end="00:15:39.418">and it sent both of my disks <br/>forward in my face so I don't have</p>
+      <p begin="00:15:39.418" end="00:15:43.078">any disks where they should be in my face.</p>
+      <p begin="00:15:43.078" end="00:15:46.554">They told me I'd probably need a<br/>partial bone replacement.</p>
+      <p begin="00:15:46.554" end="00:15:49.361">From where my bone had been laying <br/>on my nerves for so long,</p>
+      <p begin="00:15:49.361" end="00:15:52.614">it's starting to actually disintegrate.</p>
+      <p begin="00:15:52.614" end="00:15:59.274">I've been on a soft diet for five years now.<br/>I can't eat the foods that I used to eat.</p>
+      <p begin="00:15:59.274" end="00:16:09.485">Everything is mashed potatoes, Jell-o.</p>
+      <p begin="00:16:09.485" end="00:16:13.314">*[wind whistling]*</p>
+      <p begin="00:16:13.314" end="00:16:16.586">Well, I can go out <br/>during the summer time,</p>
+      <p begin="00:16:16.586" end="00:16:18.028">spring time... if it's warm. <br/>If it's too cold outside,</p>
+      <p begin="00:16:18.028" end="00:16:21.459">it's usually just Rob and Shea <br/>go outside.</p>
+      <p begin="00:16:21.459" end="00:16:26.404">When it's really cold, <br/>it's like my jaw would just lock up.</p>
+      <p begin="00:16:26.404" end="00:16:28.008">I just stand, watch from the window</p>
+      <p begin="00:16:28.008" end="00:16:35.545">and hear about the stories <br/>when they come in.</p>
+      <p begin="00:16:35.545" end="00:16:38.105">*[Man on VA] We are sorry, <br/>but due to a large volume of calls *</p>
+      <p begin="00:16:38.105" end="00:16:43.920">*and unusually long wait times, counselors <br/>are unable to answer your call at this time. *</p>
+      <p begin="00:16:43.920" end="00:16:46.086">*[Woman on VA] Please stay on the line,<br/>the calls will be answered*</p>
+      <p begin="00:16:46.086" end="00:16:47.863">*in the order received.*</p>
+      <p begin="00:16:47.863" end="00:16:53.155">*[Man on VA] 15 minutes could save<br/>you hundreds on car insurance. *</p>
+      <p begin="00:16:53.155" end="00:16:55.440">*[Woman on VA] It's the Saint Louis <br/>holiday tradition. *</p>
+      <p begin="00:16:55.440" end="00:17:02.895">*[Colbie Caillat playing on background]*</p>
+      <p begin="00:17:02.895" end="00:17:04.369">*[Man on VA] Hey, this is Stan. *</p>
+      <p begin="00:17:04.369" end="00:17:07.636">[Kori Cioca] Hi Stan, I just wanted to check <br/>the status of my VA claim.</p>
+      <p begin="00:17:07.636" end="00:17:10.301">*[Stan] It's still on file on admissions, <br/>let me check.<br/>*</p>
+      <p begin="00:17:10.301" end="00:17:11.609">[Kori Cioca] Okay--</p>
+      <p begin="00:17:11.609" end="00:17:12.801">It looks like it's about a year old now.</p>
+      <p begin="00:17:12.801" end="00:17:17.444">[Kori Cioca] Yes, it is. <br/>Okay it's still pending?</p>
+      <p begin="00:17:17.444" end="00:17:20.615">Did it say what status it was in?</p>
+      <p begin="00:17:20.615" end="00:17:26.160">*[Stan] Well, it looks like they've gathered <br/>all the information that they need *</p>
+      <p begin="00:17:26.160" end="00:17:30.089">*but it still hasn't moved to the rating board yet. <br/>*</p>
+      <p begin="00:17:30.089" end="00:17:31.792">[Kori Cioca] Okay.</p>
+      <p begin="00:17:31.792" end="00:17:32.722">*[Stan] Thank you for calling ma'am.<br/>You have a good day. *</p>
+      <p begin="00:17:32.722" end="00:17:33.630">[Kori Cioca] You too. Thank you.</p>
+      <p begin="00:17:33.630" end="00:17:35.403">This is the stuff they prescribed me <br/>for migraines</p>
+      <p begin="00:17:35.403" end="00:17:36.282">even though I don't have migraines.</p>
+      <p begin="00:17:36.282" end="00:17:37.983">So, I was looking online<br/>and there are actually other vets</p>
+      <p begin="00:17:37.983" end="00:17:39.385">at the age of like, 25 <br/>and they would actually just die</p>
+      <p begin="00:17:39.385" end="00:17:44.781">because their body wasn't processing</p>
+      <p begin="00:17:44.781" end="00:17:51.319">because the mixture of the Seroquel, <br/>the Gavapentin, the some kind of anxiety,</p>
+      <p begin="00:17:51.319" end="00:17:55.644">which was the Xanax <br/>and, there was something else,</p>
+      <p begin="00:17:55.644" end="00:17:57.638">an antidepressant. <br/>The mixtures of that stuff,</p>
+      <p begin="00:17:57.638" end="00:17:59.300">which is everything I have here that</p>
+      <p begin="00:17:59.300" end="00:18:22.483">other vets were taking<br/>and they have died.</p>
+      <p begin="00:18:22.483" end="00:18:26.816">*[door shuts]*</p>
+      <p begin="00:18:26.816" end="00:18:28.177">- *Hey, baby girl. Hey, hey.* <br/>- *Sit. *</p>
+      <p begin="00:18:28.177" end="00:18:36.978">[Hannah Sewell] Both my dad <br/>and my brother are prior Navy</p>
+      <p begin="00:18:36.978" end="00:18:39.232">and now Army National Guards.</p>
+      <p begin="00:18:39.232" end="00:18:42.481">And it's kind of like it follows in the family <br/>and follows the footsteps.</p>
+      <p begin="00:18:42.481" end="00:18:46.437">I was excited and completely <br/>just hyped up about going.</p>
+      <p begin="00:18:46.437" end="00:18:53.573">All my family was proud of me.<br/>My dad is my biggest hero.</p>
+      <p begin="00:18:53.573" end="00:18:56.348">[Sgt. Major Jerry Sewell] I told her, I said,<br/>"You are going to be taken care of."</p>
+      <p begin="00:18:56.348" end="00:19:02.587">And I guess that's one of the hard things<br/>that I have to accept because</p>
+      <p begin="00:19:02.587" end="00:19:10.407">I told her that she would be. <br/>It was in February, we got a call.</p>
+      <p begin="00:19:10.407" end="00:19:13.634">$$ On February 1st 2008,<br/>Hannah was locked in a hotel room</p>
+      <p begin="00:19:13.634" end="00:19:19.136">and raped by a fellow recruit. $$</p>
+      <p begin="00:19:19.136" end="00:19:20.666">[Hannah Sewell] Once he was done,</p>
+      <p begin="00:19:20.666" end="00:19:25.008">he rubbed his hand <br/>all over my entire body</p>
+      <p begin="00:19:25.008" end="00:19:30.093">and told me, he said,<br/>"I own all of this."</p>
+      <p begin="00:19:30.093" end="00:19:34.157">And I was just absolutely scared,<br/>didn't know what to do.</p>
+      <p begin="00:19:34.157" end="00:19:36.674">I called my dad.</p>
+      <p begin="00:19:36.674" end="00:19:38.925">[Sgt. Major Jerry Sewell] <br/>One of the first things she said is,</p>
+      <p begin="00:19:38.925" end="00:19:45.803">"Dad, I'm no longer a virgin."</p>
+      <p begin="00:19:45.803" end="00:19:55.894">And I said, "What happened?" <br/>And she said, "I was raped."</p>
+      <p begin="00:19:55.894" end="00:19:57.741">And I said,<br/>"Hannah, you're a virgin because</p>
+      <p begin="00:19:57.741" end="00:20:07.205">he took something from you<br/>that you didn't give."</p>
+      <p begin="00:20:07.205" end="00:20:12.612">I said, "So, don't ever think you're not."</p>
+      <p begin="00:20:12.612" end="00:20:16.085">[Hannah Sewell] My main nerve <br/>in my spine was pinched in three places</p>
+      <p begin="00:20:16.085" end="00:20:18.195">and my hips were rotated.</p>
+      <p begin="00:20:18.195" end="00:20:23.198">I could barely walk. I had collapsed due<br/>to muscle spasms in my back</p>
+      <p begin="00:20:23.198" end="00:20:30.817">because my back<br/>was injured during the rape.</p>
+      <p begin="00:20:30.817" end="00:20:33.157">[Admiral Anthony Kurta] My title is<br/>Director of Military Plans</p>
+      <p begin="00:20:33.157" end="00:20:36.530">and Personnel policy for the Navy.</p>
+      <p begin="00:20:36.530" end="00:20:39.196">We have specifically trained<br/>judge advocates.</p>
+      <p begin="00:20:39.196" end="00:20:43.665">Our Navy lawyers, in our naval criminal<br/>investigative service,</p>
+      <p begin="00:20:43.665" end="00:20:46.623">those investigating are all specifically<br/>trained in sexual assault.</p>
+      <p begin="00:20:46.623" end="00:20:49.296">Any report of a sexual assault <br/>is fully investigated</p>
+      <p begin="00:20:49.296" end="00:20:51.560">in the United States Navy.</p>
+      <p begin="00:20:51.560" end="00:20:52.934">[Sgt. Major Jerry Sewell] <br/>They didn't take care of it.</p>
+      <p begin="00:20:52.934" end="00:20:55.460">For a year and a half, <br/>they were tracking down witnesses.</p>
+      <p begin="00:20:55.460" end="00:20:59.568">They had all these students there <br/>and they could have locked them down</p>
+      <p begin="00:20:59.568" end="00:21:02.240">and said, "Hey you're on legal hold <br/>and not leaving till I get this statement."</p>
+      <p begin="00:21:02.240" end="00:21:06.420">And they didn't. Hannah went through <br/>three investigators.</p>
+      <p begin="00:21:06.420" end="00:21:09.510">It was like, "Okay I'm giving this case."<br/>That's what it sort of felt like.</p>
+      <p begin="00:21:09.510" end="00:21:11.892">"Oh, alright I'm giving this case.<br/>I'll take care of it.</p>
+      <p begin="00:21:11.892" end="00:21:15.741">Oh well this isn't even one.<br/>I really don't have the time to deal with it."</p>
+      <p begin="00:21:15.741" end="00:21:16.996">[Captain Greg Rinckey] Females would<br/>come up to their commander</p>
+      <p begin="00:21:16.996" end="00:21:21.235">or their NCOs and say that they were<br/>either sexually assaulted or abused</p>
+      <p begin="00:21:21.235" end="00:21:23.758">and I don't think it was taken seriously.</p>
+      <p begin="00:21:23.758" end="00:21:26.985">I think a lot of times<br/>a cursory investigation was done</p>
+      <p begin="00:21:26.985" end="00:21:30.324">and they were basically just told<br/>to suck it up.</p>
+      <p begin="00:21:30.324" end="00:21:32.469">[Staff Sgt. Stace Nelson] I remember<br/>bringing in a young service member</p>
+      <p begin="00:21:32.469" end="00:21:34.460">who had been brutally raped, <br/>and bringing her in to see her command,</p>
+      <p begin="00:21:34.460" end="00:21:38.834">and trying to make sure that this <br/>young girl was taken care of properly.</p>
+      <p begin="00:21:38.834" end="00:21:45.432">And this idiot, chewed her out for crying,<br/>told her to stop crying over spilt milk.</p>
+      <p begin="00:21:45.432" end="00:21:48.255">[Captain Greg Rinckey] A lot of times,<br/>the credibility of the witness</p>
+      <p begin="00:21:48.255" end="00:21:50.676">was called into account.<br/>Had the potential victim,</p>
+      <p begin="00:21:50.676" end="00:21:53.089">had she made claims<br/>like this in the past?</p>
+      <p begin="00:21:53.089" end="00:21:55.586">There was a lot of witch hunting going on.</p>
+      <p begin="00:21:55.586" end="00:21:59.473">[Maya Haider] I was ordered<br/>to advise a victim of her rights</p>
+      <p begin="00:21:59.473" end="00:22:03.581">for false statement when I knew <br/>that she wasn't lying.</p>
+      <p begin="00:22:03.581" end="00:22:05.003">I was asked to bring her in <br/>and advise her of her rights,</p>
+      <p begin="00:22:05.003" end="00:22:08.347">like a criminal and interrogate her<br/>for false statement,</p>
+      <p begin="00:22:08.347" end="00:22:11.258">"until I got the truth out of her."</p>
+      <p begin="00:22:11.258" end="00:22:14.908">If the woman makes a rape complaint,<br/>they are always people asking</p>
+      <p begin="00:22:14.908" end="00:22:17.809">what she was doing there, <br/>what she was wearing,</p>
+      <p begin="00:22:17.809" end="00:22:19.984">whether she had a boyfriend or not.</p>
+      <p begin="00:22:19.984" end="00:22:22.792">[Miette Wells] If any rape cases came in, <br/>they were never given to women.</p>
+      <p begin="00:22:22.792" end="00:22:28.628">The men always took care of those <br/>because we were too sympathetic.</p>
+      <p begin="00:22:28.628" end="00:22:34.954">We couldn't see what was really going on<br/>because we always took the woman's side.</p>
+      <p begin="00:22:34.954" end="00:22:37.228">[Maya Haider] I was told<br/>I should have been a social worker.</p>
+      <p begin="00:22:37.228" end="00:22:39.892">I had no business being <br/>in the police field.</p>
+      <p begin="00:22:39.892" end="00:22:46.172">There was a lot of resistance there<br/>toward the idea that victims should be</p>
+      <p begin="00:22:46.172" end="00:22:50.307">afforded some kind of sensitivity.<br/>It was almost a laughing matter.</p>
+      <p begin="00:22:50.307" end="00:22:53.110">[Admiral Anthony Kurta] We have given<br/>specific training and continual training</p>
+      <p begin="00:22:53.110" end="00:22:56.410">to our NCIS, <br/>Navy Criminal Investigative Service,</p>
+      <p begin="00:22:56.410" end="00:23:03.120">those investigators on how best to respond<br/>and to investigate those crimes.</p>
+      <p begin="00:23:03.120" end="00:23:11.892">[Hannah Sewell] They told me<br/>they lost my rape kit</p>
+      <p begin="00:23:11.892" end="00:23:23.056">and my nurse examiners report and the<br/>pictures from the bruising on my arm.</p>
+      <p begin="00:23:23.056" end="00:23:24.281">*[Amy] They lost these things? *</p>
+      <p begin="00:23:24.281" end="00:23:25.964">[Hannah Sewell] That's what they told me, <br/>that they had lost them.</p>
+      <p begin="00:23:25.964" end="00:23:33.127">And me being me,<br/>I decided to do a little digging</p>
+      <p begin="00:23:33.127" end="00:23:37.970">of my own and I spoke with <br/>NCIS headquartersin Washington DC,</p>
+      <p begin="00:23:37.970" end="00:23:42.871">and they have all the evidence.</p>
+      <p begin="00:23:42.871" end="00:23:44.068">*[Amy] So what does this mean? *</p>
+      <p begin="00:23:44.068" end="00:23:45.793">[Hannah Sewell] Because the case<br/>is already closed,</p>
+      <p begin="00:23:45.793" end="00:23:52.305">there's nothing they can do.</p>
+      <p begin="00:23:52.305" end="00:23:54.032">[Susan Burke] What we hear<br/>again and again</p>
+      <p begin="00:23:54.032" end="00:23:56.881">from soldiers who have been raped,</p>
+      <p begin="00:23:56.881" end="00:24:01.889">as bad as it was being raped, <br/>what was as bad, if not worse,</p>
+      <p begin="00:24:01.889" end="00:24:05.856">was to receive professional retaliation</p>
+      <p begin="00:24:05.856" end="00:24:07.808">in their chosen career, <br/>merely because they were raped.</p>
+      <p begin="00:24:07.808" end="00:24:11.760">[Theresa Verderber-Phillips] <br/>When you report something,</p>
+      <p begin="00:24:11.760" end="00:24:15.494">you better be prepared <br/>for the repercussions.</p>
+      <p begin="00:24:15.494" end="00:24:18.959">[Debra Dickerson] If a man <br/>gets accused of rape, it's a set&#8208;up.</p>
+      <p begin="00:24:18.959" end="00:24:20.506">The woman is lying.</p>
+      <p begin="00:24:20.506" end="00:24:23.009">[Rebecca Catagnus] I could choose<br/>to report it, but if they found that</p>
+      <p begin="00:24:23.009" end="00:24:28.437">what I was saying wasn't to be truthful, <br/>then I would be reduced in rank.</p>
+      <p begin="00:24:28.437" end="00:24:31.211">[Allison Gill] You could lose your rate, <br/>you could loose rank,</p>
+      <p begin="00:24:31.211" end="00:24:34.271">you could loose your school, <br/>if you file a false report.</p>
+      <p begin="00:24:34.271" end="00:24:37.929">So do you want to file a report? <br/>[Laughs]</p>
+      <p begin="00:24:37.929" end="00:24:40.436">[Christina Jones] Even with the rape kit <br/>and everything,</p>
+      <p begin="00:24:40.436" end="00:24:44.630">and my friend catching him raping me,<br/>they still don't believe me.</p>
+      <p begin="00:24:44.630" end="00:24:49.127">[Tandy Fink] I reported it two <br/>different times to my squad leader</p>
+      <p begin="00:24:49.127" end="00:24:51.704">and he told me that<br/>there was nothing he could do about it</p>
+      <p begin="00:24:51.704" end="00:24:53.479">'cause he didn't have any proof.</p>
+      <p begin="00:24:53.479" end="00:24:58.322">[Andrea Werner] They actually did <br/>charge me with adultery.</p>
+      <p begin="00:24:58.322" end="00:25:00.627">I wasn't married. He was.</p>
+      <p begin="00:25:00.627" end="00:25:04.028">[Tia Christopher] They took me <br/>before my lieutenant commander.</p>
+      <p begin="00:25:04.028" end="00:25:07.216">He says, "You think this is funny?"<br/>I said, "What do you mean?"</p>
+      <p begin="00:25:07.216" end="00:25:09.136">He said, "You think this is all <br/>a joke to you?"</p>
+      <p begin="00:25:09.136" end="00:25:11.052">I said, "What do you mean?"</p>
+      <p begin="00:25:11.052" end="00:25:14.854">And he goes, "You're the third girl<br/>to report rape this week.</p>
+      <p begin="00:25:14.854" end="00:25:23.733">Are you guys like, all in cahoots,<br/>you think this is a game?"</p>
+      <p begin="00:25:23.733" end="00:25:26.725">*[Man on VA] We are sorry, <br/>but due to a large volume of calls *</p>
+      <p begin="00:25:26.725" end="00:25:31.545">*and unusually long wait times, *</p>
+      <p begin="00:25:31.545" end="00:25:33.909">*counselors are unable <br/>to answer your call at this time. *</p>
+      <p begin="00:25:33.909" end="00:25:35.837">*[Woman on VA] Your name, please? *</p>
+      <p begin="00:25:35.837" end="00:25:38.157">[Kori Cioco] Kori Danielle McDonald.</p>
+      <p begin="00:25:38.157" end="00:25:40.481">*[Woman on VA] Okay, I show<br/>that we've got a claim *</p>
+      <p begin="00:25:40.481" end="00:25:45.580">*open for non&#8208;service&#8208;connected <br/>disability pension, depression, TMJ, *</p>
+      <p begin="00:25:45.580" end="00:25:50.422">*bilateral disk condition,<br/>PTSD, nerve&#8208;damage.*</p>
+      <p begin="00:25:50.422" end="00:25:54.197">*It's at the rating board in Cleveland. *</p>
+      <p begin="00:25:54.197" end="00:25:57.334">[Kori Cioca] Okay, and how long <br/>does that usually take?</p>
+      <p begin="00:25:57.334" end="00:26:00.537">*[Woman on VA] Anywhere<br/>from 102 to 139 days. *</p>
+      <p begin="00:26:00.537" end="00:26:01.812">[Kori Cioca] Really?</p>
+      <p begin="00:26:01.812" end="00:26:04.047">*[Woman on VA] And that's just<br/>an estimated time. *</p>
+      <p begin="00:26:04.047" end="00:26:08.898">[Kori Cioca] 139 days? <br/>I mean that's like--</p>
+      <p begin="00:26:08.898" end="00:26:10.994">I've already be waiting like 14 months.</p>
+      <p begin="00:26:10.994" end="00:26:14.915">What the fuck is going on up there? <br/>What the fuck is going on at the VA?</p>
+      <p begin="00:26:14.915" end="00:26:20.309">Like, my shit is new? <br/>And, it's 14 months?</p>
+      <p begin="00:26:20.309" end="00:26:26.278">I bet if we were there in person, <br/>they would have to do something.</p>
+      <p begin="00:26:26.278" end="00:26:28.491">[car starts]</p>
+      <p begin="00:26:28.491" end="00:26:30.464">[car revvs]</p>
+      <p begin="00:26:30.464" end="00:26:31.069">Are you ready? Say ready.<br/>Where are we going?</p>
+      <p begin="00:26:31.069" end="00:26:32.563">[both] Where are we going?</p>
+      <p begin="00:26:32.563" end="00:26:34.903">[chewing]</p>
+      <p begin="00:26:34.903" end="00:26:38.494">No, to the doctor. <br/>Why are we going to the doctor?</p>
+      <p begin="00:26:38.494" end="00:26:46.710">What hurts on mommy?<br/>My face, that's right.</p>
+      <p begin="00:26:46.710" end="00:26:49.760">- "You're gonna want to get on 75 North."<br/>- " On 75 North?"</p>
+      <p begin="00:26:49.760" end="00:26:55.086">- "Yup."</p>
+      <p begin="00:26:55.086" end="00:26:58.193">This goes everywhere with me, <br/>and then this goes everywhere with me.</p>
+      <p begin="00:26:58.193" end="00:27:03.721">You always have protection<br/>with Jesus but sometimes</p>
+      <p begin="00:27:03.721" end="00:27:09.716">you need just a little bit more.</p>
+      <p begin="00:27:09.716" end="00:27:22.452">[Rob McDonald]<br/>In doctor's appointments,</p>
+      <p begin="00:27:22.452" end="00:27:26.293">I come to every one just in case<br/>she gets worked up</p>
+      <p begin="00:27:26.293" end="00:27:30.226">and she's uneasy about men already.<br/>So, I have my phone up on me,</p>
+      <p begin="00:27:30.226" end="00:27:35.253">she has, I tell her to have <br/>a text message or me on speed dial</p>
+      <p begin="00:27:35.253" end="00:27:37.591">if she needs to get out of there.</p>
+      <p begin="00:27:49.012" end="00:27:51.855">How did it go?</p>
+      <p begin="00:27:51.855" end="00:27:59.480">[Kori Cioca] It went good.<br/>They, of course, ordered a back x&#8208;ray</p>
+      <p begin="00:27:59.480" end="00:28:04.552">instead of a face x&#8208;ray.<br/>Here's some make&#8208;up.</p>
+      <p begin="00:28:04.552" end="00:28:09.160">They should know <br/>what's wrong with me.</p>
+      <p begin="00:28:09.160" end="00:28:11.325">Like read my stuff <br/>and you'll see it's my face.</p>
+      <p begin="00:28:11.325" end="00:28:14.345">It's not my back, it's not my legs,<br/>it's not my arms, it's my face.</p>
+      <p begin="00:28:14.345" end="00:28:17.401">[Rob McDonald] The people <br/>who need your proof don't even know</p>
+      <p begin="00:28:17.401" end="00:28:19.277">what your case is about, like <br/>I don't even know why we wasted</p>
+      <p begin="00:28:19.277" end="00:28:21.211">the gas money,<br/>the trip, anything.</p>
+      <p begin="00:28:21.211" end="00:28:26.111">It was completely a waste of time.<br/>What a good Veterans Day, right?</p>
+      <p begin="00:28:26.111" end="00:28:29.016">[Rob McDonald] <br/>Yeah, it's a perfect way to spend it.</p>
+      <p begin="00:28:29.016" end="00:28:39.136">[Kori Cioca] Yeah, screw it.</p>
+      <p begin="00:28:39.136" end="00:28:47.675">[Rob McDonald] Alright, it's <br/>around midnight on October 24th,</p>
+      <p begin="00:28:47.675" end="00:28:53.799">and Kori woke up, myself<br/>and our baby.</p>
+      <p begin="00:28:53.799" end="00:29:01.068">She woke up screaming<br/>so it's been happening quite a bit.</p>
+      <p begin="00:29:01.068" end="00:29:02.650">[crickets chirping]</p>
+      <p begin="00:29:02.650" end="00:29:04.249">- Okay, go go.</p>
+      <p begin="00:29:04.249" end="00:29:05.815">[leaves crunching]</p>
+      <p begin="00:29:05.815" end="00:29:08.058">- Oh!<br/>- One more.</p>
+      <p begin="00:29:08.058" end="00:29:11.688">- I'm sorry I woke you up, <br/>but it's fun, right? You're having fun.</p>
+      <p begin="00:29:11.688" end="00:29:14.086">- Let's put more.<br/>- Yeah, let's put more.</p>
+      <p begin="00:29:14.086" end="00:29:16.927">I think Kori almost likes it better<br/>because it's quiet</p>
+      <p begin="00:29:16.927" end="00:29:33.857">and you don't really know<br/>what to run into at midnight.</p>
+      <p begin="00:29:33.857" end="00:29:36.151">[Trina McDonald] Because it was <br/>in isolated duty station,</p>
+      <p begin="00:29:36.151" end="00:29:40.453">they kind of had their own world <br/>of things going on.</p>
+      <p begin="00:29:40.453" end="00:29:42.251">They were in charge <br/>and we were just kind of like, cattle.</p>
+      <p begin="00:29:42.251" end="00:29:46.235">The first time I was drugged <br/>and raped, I was in this room</p>
+      <p begin="00:29:46.235" end="00:29:49.755">with some of my friends<br/>and I only had like one or two drinks.</p>
+      <p begin="00:29:49.755" end="00:29:53.049">I went and laid down.<br/>It was like instantly,</p>
+      <p begin="00:29:53.049" end="00:29:58.835">I was not feeling well and it came <br/>to having a pillow over my head</p>
+      <p begin="00:29:58.835" end="00:30:04.139">and my friend raping me.</p>
+      <p begin="00:30:04.139" end="00:30:08.588">And that went on repeatedly. <br/>You had to call an operator</p>
+      <p begin="00:30:08.588" end="00:30:14.011">to get a line off base so they listen <br/>to your phone calls so they were screened</p>
+      <p begin="00:30:14.011" end="00:30:21.157">and I used to call my dad and begged him<br/>to get me out of there.</p>
+      <p begin="00:30:21.157" end="00:30:24.158">He would always ask me, <br/>you know, "Hon, well what's wrong?"</p>
+      <p begin="00:30:24.158" end="00:30:26.333">And I'm like,<br/>"I can't tell you what's wrong,"</p>
+      <p begin="00:30:26.333" end="00:30:29.250">because the people who were listening<br/>to our phone calls,</p>
+      <p begin="00:30:29.250" end="00:30:34.865">were the same people that could hurt me.</p>
+      <p begin="00:30:34.865" end="00:30:36.735">[Russell Strand] <br/>Most sex offenders are hunters.</p>
+      <p begin="00:30:36.735" end="00:30:39.202">Just like any hunter,<br/>they study their prey,</p>
+      <p begin="00:30:39.202" end="00:30:40.543">they study their movements,</p>
+      <p begin="00:30:40.543" end="00:30:42.013">they study their behaviors,<br/>they study the environment.</p>
+      <p begin="00:30:42.013" end="00:30:47.609">[Staff Sgt. Stace Nelson] You have rapists <br/>that prey on other human beings.</p>
+      <p begin="00:30:47.609" end="00:30:53.314">They stalk them, <br/>they wait until the victim</p>
+      <p begin="00:30:53.314" end="00:30:56.922">is at the most vulnerable point in time<br/>to perpetrate their crimes.</p>
+      <p begin="00:30:56.922" end="00:30:58.746">[Myla Haider] A lot of times <br/>the victim is somebody</p>
+      <p begin="00:30:58.746" end="00:31:02.118">that the suspect is very familiar with</p>
+      <p begin="00:31:02.118" end="00:31:06.059">and they're very aware <br/>of what's going on.</p>
+      <p begin="00:31:06.059" end="00:31:08.533">[Russell Strand] Most sex offenders <br/>have this hidden persona</p>
+      <p begin="00:31:08.533" end="00:31:11.052">that nobody ever sees<br/>other than the victim.</p>
+      <p begin="00:31:11.052" end="00:31:13.747">Therefore when they're caught<br/>or when somebody reports,</p>
+      <p begin="00:31:13.747" end="00:31:15.183">people don't tend to believe that</p>
+      <p begin="00:31:15.183" end="00:31:18.278">because they don't see<br/>the typical sex offender.</p>
+      <p begin="00:31:18.278" end="00:31:19.584">[Captain Greg Rinckey] <br/>If it's an officer,</p>
+      <p begin="00:31:19.584" end="00:31:22.862">it's an officer that has habitually,<br/>in the past, preyed on an enlisted.</p>
+      <p begin="00:31:22.862" end="00:31:25.511">They would do it once, <br/>they would get away with it,</p>
+      <p begin="00:31:25.511" end="00:31:26.625">and then they think,</p>
+      <p begin="00:31:26.625" end="00:31:29.569">"Wow this is pretty easy,<br/>I'm going to try it again."</p>
+      <p begin="00:31:29.569" end="00:31:33.698">[Brigadier Gen. Lorre Sutton] Particularly<br/>for a savvy perpetrator,</p>
+      <p begin="00:31:33.698" end="00:31:39.833">to work with within a relatively <br/>closed system, like the military,</p>
+      <p begin="00:31:39.833" end="00:31:48.173">it becomes a prime target rich<br/>environment for a predator.</p>
+      <p begin="00:31:48.173" end="00:31:53.658">$$ A navy study found that 15 percent <br/>of incoming recruits</p>
+      <p begin="00:31:53.658" end="00:32:00.071">attempted or committed rape<br/>before entering the military.</p>
+      <p begin="00:32:00.071" end="00:32:08.001">Twice the percentage of the <br/>equivalent civilian population. $$</p>
+      <p begin="00:32:08.001" end="00:32:15.405">[Trina McDonald] When I was discharged, I moved to<br/>Seattle where things got really bad.</p>
+      <p begin="00:32:15.405" end="00:32:19.225">I started to lose everything.</p>
+      <p begin="00:32:19.225" end="00:32:27.406">I was homeless, there was addiction,<br/>I was selling drugs, packing gun.</p>
+      <p begin="00:32:27.406" end="00:32:32.021">[Helen Benedict] Forty percent of homeless <br/>female veterans have been raped</p>
+      <p begin="00:32:32.021" end="00:32:38.111">while they were serving. They spin into such<br/>depression and abuse that they can't hold jobs,</p>
+      <p begin="00:32:38.111" end="00:32:47.542">they can't hold their lives together,<br/>and they end up on the streets.</p>
+      <p begin="00:32:47.542" end="00:32:51.967">[Trina McDonald] My partner, Amy,<br/>I met her a few years ago.</p>
+      <p begin="00:32:51.967" end="00:32:54.986">I was going and trying to do<br/>some stuff at the gym.</p>
+      <p begin="00:32:54.986" end="00:32:59.338">[Amy Rosaaen&#8208;McDonald] <br/>When I first saw Trina</p>
+      <p begin="00:32:59.338" end="00:33:06.625">I was at the gym and I look over<br/>and it was like the universe was like,</p>
+      <p begin="00:33:06.625" end="00:33:13.493">I was like, "Oh, there you are."</p>
+      <p begin="00:33:13.493" end="00:33:18.001">Well I knew there was something <br/>"special" about her for sure.</p>
+      <p begin="00:33:18.001" end="00:33:23.078">When we first started dating,<br/>it was hard.</p>
+      <p begin="00:33:23.078" end="00:33:27.645">The biggest hurdle<br/>was not taking PTSD personally.</p>
+      <p begin="00:33:27.645" end="00:33:46.164">It does get really stressful.</p>
+      <p begin="00:33:46.164" end="00:33:47.653">[Trina McDonald] If I've ever lived <br/>with anyone,</p>
+      <p begin="00:33:47.653" end="00:33:51.130">it's just been with that person.<br/>So when I moved in,</p>
+      <p begin="00:33:51.130" end="00:33:57.112">it was like "Oh, my God", <br/>you know, it was Amy, three boys.</p>
+      <p begin="00:33:57.112" end="00:33:58.846">[Amy Rosaaen&#8208;McDonald] <br/>I'm not just moving in with Amy,</p>
+      <p begin="00:33:58.846" end="00:34:01.016">I'm moving in with an entire family.</p>
+      <p begin="00:34:01.016" end="00:34:04.420">[Trina McDonald] So, they were so used <br/>to such open space,</p>
+      <p begin="00:34:04.420" end="00:34:09.522">and with my PTSD, <br/>we had some moments.</p>
+      <p begin="00:34:09.522" end="00:34:13.167">[Tim and Mitch Rosaaen] I'm sort of sad<br/>to have never known Trina beforehand</p>
+      <p begin="00:34:13.167" end="00:34:21.200">when she was sort of in her prime.<br/>Now she's anxious and sad a lot.</p>
+      <p begin="00:34:21.200" end="00:34:25.068">$$ Women who have been raped <br/>in the military have a PTSD rate</p>
+      <p begin="00:34:25.068" end="00:34:30.513">higher than men <br/>who've been in combat. $$</p>
+      <p begin="00:34:30.513" end="00:34:40.156">[Trina McDonald] A lot of times,<br/>if we're out doing something,</p>
+      <p begin="00:34:40.156" end="00:34:44.917">you know, Mitch will be like, checking in <br/>like, "Oh, it's okay Trina. It's alright."</p>
+      <p begin="00:34:44.917" end="00:34:51.829">I'm appreciative of it, you know,<br/>but it makes me really sad</p>
+      <p begin="00:34:51.829" end="00:35:00.927">that here's this little 11&#8208;year&#8208;old boy&#160;<br/>that's watching out for my well&#8208;being.</p>
+      <p begin="00:35:00.927" end="00:35:30.440">It hurts. I want it to go away, you know, <br/>and it doesn't go away.</p>
+      <p begin="00:35:30.440" end="00:35:32.236">[Russell Strand] I think that the men<br/>that we attract in the military,</p>
+      <p begin="00:35:32.236" end="00:35:35.106">you know, we've got the army of one,<br/>you know, be all you can be,</p>
+      <p begin="00:35:35.106" end="00:35:38.174">all those things we've had <br/>for so many years</p>
+      <p begin="00:35:38.174" end="00:35:40.109">are very, very heavily masculine.</p>
+      <p begin="00:35:40.109" end="00:35:43.206">Masculinity cannot be victimized, <br/>because if you're a leader,</p>
+      <p begin="00:35:43.206" end="00:35:48.406">if you're a masculine person, <br/>and you're victimized, then you're weak.</p>
+      <p begin="00:35:48.406" end="00:35:53.426">The problem is anybody <br/>can be a victim of sexual assault.</p>
+      <p begin="00:35:53.426" end="00:35:57.516">[Michael Matthews] <br/>I joined the service in 1972.</p>
+      <p begin="00:35:57.516" end="00:36:04.655">The military is a great way of life. <br/>I got to see the world, I got educated.</p>
+      <p begin="00:36:04.655" end="00:36:11.407">I loved the military. I was 19 <br/>and I went to the chow hall alone,</p>
+      <p begin="00:36:11.407" end="00:36:14.246">and the next things I know, <br/>I was laying on the ground,</p>
+      <p begin="00:36:14.246" end="00:36:17.853">and I was struck from behind,<br/>and two guys were holding me down,</p>
+      <p begin="00:36:17.853" end="00:36:22.918">and one guy <br/>was pulling my pants down.</p>
+      <p begin="00:36:22.918" end="00:36:29.373">And, you know, he was <br/>taking care of his business.</p>
+      <p begin="00:36:29.373" end="00:36:32.710">And you know I struggled, <br/>and I was being struck and hit</p>
+      <p begin="00:36:32.710" end="00:36:37.243">and told to shut up or they'd kill me.</p>
+      <p begin="00:36:37.243" end="00:36:42.170">And I see how it destroyed my life.<br/>I mean, I've been married three times.</p>
+      <p begin="00:36:42.170" end="00:36:48.532">Luckily I have a wife right now who<br/>I've been married to for 25 years.</p>
+      <p begin="00:36:48.532" end="00:36:49.578">[Jeri Lynn Matthews] <br/>You start wondering</p>
+      <p begin="00:36:49.578" end="00:36:52.496">and you start sort of, <br/>you know either coming up</p>
+      <p begin="00:36:52.496" end="00:36:55.121">with reasons why things <br/>are the way they are.</p>
+      <p begin="00:36:55.121" end="00:36:58.184">And for a long time, I kept thinking,</p>
+      <p begin="00:36:58.184" end="00:37:02.762">I don't know, there's something else.</p>
+      <p begin="00:37:02.762" end="00:37:06.261">[Michael Matthews] I had never told <br/>anybody in over thirty years.</p>
+      <p begin="00:37:06.261" end="00:37:09.217">I decided to tell my wife.</p>
+      <p begin="00:37:09.217" end="00:37:12.605">It was the scariest moment of my life. <br/>I was going to tell my wife,</p>
+      <p begin="00:37:12.605" end="00:37:16.051">she was going to leave me, <br/>and I would be lost with out her.</p>
+      <p begin="00:37:16.051" end="00:37:20.155">I mean, honest to God,<br/>I couldn't get up every morning</p>
+      <p begin="00:37:20.155" end="00:37:26.499">without my wife, you know.<br/>And I told her.</p>
+      <p begin="00:37:26.499" end="00:37:30.259">[Jeri Lynn Matthews] I felt horrified, <br/>and I felt sad and I felt angry,</p>
+      <p begin="00:37:30.259" end="00:37:36.362">along the course of the evening, <br/>feelings just started to surface</p>
+      <p begin="00:37:36.362" end="00:37:41.074">that were probably just simmering<br/>for a very very long time.</p>
+      <p begin="00:37:41.074" end="00:37:43.828">And she put her arms around me </p>
+      <p begin="00:37:43.828" end="00:37:46.020">and we just sat there and sobbed.</p>
+      <p begin="00:37:46.020" end="00:37:54.121">It was like, this great weight<br/>had been lifted off of me.</p>
+      <p begin="00:37:54.121" end="00:37:55.785">[Brigadier Gen. Loree Sutton] <br/>I think it's important to recognize</p>
+      <p begin="00:37:55.785" end="00:38:00.253">that military sexual trauma <br/>is not limited to women,</p>
+      <p begin="00:38:00.253" end="00:38:02.667">and in fact, <br/>when it comes to the absolute numbers,</p>
+      <p begin="00:38:02.667" end="00:38:07.332">because of the proportion of men,<br/>in much larger numbers than women,</p>
+      <p begin="00:38:07.332" end="00:38:12.001">actually the numbers are even greater.</p>
+      <p begin="00:38:12.001" end="00:38:13.658">[Russell Strand] I think one of the <br/>last bits of research,</p>
+      <p begin="00:38:13.658" end="00:38:16.775">showed that about 1% of males <br/>had been victims of sexual assault</p>
+      <p begin="00:38:16.775" end="00:38:18.940">in the last year in the military.</p>
+      <p begin="00:38:18.940" end="00:38:20.772">That equals about 20,000.</p>
+      <p begin="00:38:20.772" end="00:38:22.662">[Jeremiah Arbogast] You would get labeled <br/>as a 'buddy&#8208;fucker'</p>
+      <p begin="00:38:22.662" end="00:38:27.192">and that's not a nice term<br/>to be related to.</p>
+      <p begin="00:38:27.192" end="00:38:30.295">So, it's just one of those things <br/>that you don't talk about</p>
+      <p begin="00:38:30.295" end="00:38:33.629">or you don't bring to anyone's attention.<br/>You kind of just keep to yourself.</p>
+      <p begin="00:38:34.081" end="00:38:37.789">[Amando Javier] It's really, really <br/>hard to forget.</p>
+      <p begin="00:38:38.361" end="00:38:42.949">You know up until now,<br/>they live in my head,</p>
+      <p begin="00:38:43.375" end="00:38:47.230">I can hear them laugh,<br/>I can see their faces,</p>
+      <p begin="00:38:47.230" end="00:38:49.877">I can see what they're doing to me.</p>
+      <p begin="00:38:53.322" end="00:38:58.459">[Brian Lewis] I felt scared <br/>and I was scared to tell my friends,</p>
+      <p begin="00:38:58.459" end="00:39:02.340">the people that really knew me <br/>the truth about what happened.</p>
+      <p begin="00:39:02.340" end="00:39:05.538">[Helen Benedict] The shame, <br/>as bad as it is for women</p>
+      <p begin="00:39:05.538" end="00:39:09.548">is even worse for men, because<br/>it's all tied in with homophobia.</p>
+      <p begin="00:39:09.681" end="00:39:12.948">[Susan Avila Smith] The people <br/>who are doing the raping are not gay.</p>
+      <p begin="00:39:12.948" end="00:39:16.020">That's not the problem. They're worried <br/>about gays in the military.</p>
+      <p begin="00:39:16.020" end="00:39:17.970">The gays are not the rapists.</p>
+      <p begin="00:39:17.970" end="00:39:20.588">They are heterosexual men<br/>for the most part.</p>
+      <p begin="00:39:20.588" end="00:39:22.619">[Capt. Anu Bhagwati] This is not <br/>an issue of sexual orientation,</p>
+      <p begin="00:39:22.619" end="00:39:24.923">this is simply an issue of power<br/>and violence.</p>
+      <p begin="00:39:24.923" end="00:39:27.735">Male sexual predators<br/>for the large part, have targeted</p>
+      <p begin="00:39:27.735" end="00:39:31.150">whoever is there to prey upon,<br/>whether that's men or women.</p>
+      <p begin="00:39:31.738" end="00:39:34.326">[Brigadier Wilma Vaught] <br/>Whenever I see, you know,</p>
+      <p begin="00:39:34.326" end="00:39:39.238">that there is evidence that another<br/>woman has been sexually assaulted,</p>
+      <p begin="00:39:39.238" end="00:39:41.317">the question I keep asking myself is,</p>
+      <p begin="00:39:41.317" end="00:39:44.299">"When does this ever end?"</p>
+      <p begin="00:39:44.299" end="00:39:46.029">$$ 1991 Navy Tailhook. $$</p>
+      <p begin="00:39:46.029" end="00:39:49.389">*[Man on PA] Breaking news at this hour,<br/>the navy appears to be facing *</p>
+      <p begin="00:39:49.389" end="00:39:53.090">*a huge sex scandal. <br/>Details are still coming in. *</p>
+      <p begin="00:39:54.244" end="00:39:58.519">*[Announcer] From ABC, this is world news <br/>tonight with Peter Jennings. *</p>
+      <p begin="00:39:58.519" end="00:40:01.181">[Peter Jennings] Good evening, we're going <br/>to begin tonight by putting a human face </p>
+      <p begin="00:40:01.181" end="00:40:03.821">on the worst case of sexual harassment <br/>in the navy's history.</p>
+      <p begin="00:40:03.836" end="00:40:07.918">At an annual Naval Aviators Convention<br/>called, the Tailhook Convention,</p>
+      <p begin="00:40:07.918" end="00:40:12.199">*Senior officers have known since 1985 <br/>that the convention included *</p>
+      <p begin="00:40:12.199" end="00:40:16.041">*the so called, <span tts:fontStyle="italic">gauntlet</span>, <br/>set up for the specific purpose <span tts:fontStyle="italic">*</span></p>
+      <p begin="00:40:16.041" end="00:40:18.920">of targeting and sexually molesting women.</p>
+      <p begin="00:40:19.858" end="00:40:22.234">[Paula Coughlin] I got off the elevator <br/>on the third floor.</p>
+      <p begin="00:40:22.234" end="00:40:24.489">You could see maybe 200 men.</p>
+      <p begin="00:40:25.240" end="00:40:31.168">It was just a few steps into the hallway <br/>before they closed ranks all around me.</p>
+      <p begin="00:40:31.168" end="00:40:35.628">And then it happened very quickly, <br/>from both sides and from behind,</p>
+      <p begin="00:40:35.628" end="00:40:39.327">many came in <br/>and started reaching in my shirt.</p>
+      <p begin="00:40:39.327" end="00:40:43.307">I was getting pushed down to the floor<br/>and someone was reaching under my skirt</p>
+      <p begin="00:40:43.307" end="00:40:45.447">pulling my underwear off, and you know,</p>
+      <p begin="00:40:45.447" end="00:40:50.686">and it was about maybe 30 or 40 feet <br/>of 200 guys trying to pull my clothes off,</p>
+      <p begin="00:40:50.686" end="00:40:53.563">like I was a high valued target.</p>
+      <p begin="00:40:53.918" end="00:40:56.622">The next morning I met with <br/>my boss for breakfast</p>
+      <p begin="00:40:56.622" end="00:40:59.731">and I said,<br/>"You know, what happened here?"</p>
+      <p begin="00:40:59.731" end="00:41:03.047">And he said, "Well that's what you get<br/>for walking down</p>
+      <p begin="00:41:03.047" end="00:41:05.607">a hallway full of drunk aviators."</p>
+      <p begin="00:41:06.352" end="00:41:09.776">And I said, "I don't think so. "</p>
+      <p begin="00:41:10.466" end="00:41:12.938">*[Peter Jennings] An investigation<br/>was finally begun, *</p>
+      <p begin="00:41:12.938" end="00:41:17.397">*but 1500 interviews later, <br/>the Navy's inspector general reported *</p>
+      <p begin="00:41:17.397" end="00:41:20.516">that his investigators<br/>were being stone walled.</p>
+      <p begin="00:41:21.063" end="00:41:25.326">*A great wall of silence<br/>had gone up to protect the guilty. *</p>
+      <p begin="00:41:25.845" end="00:41:29.882">$$ 1996 Army Aberdeen Proving Grounds $$</p>
+      <p begin="00:41:30.159" end="00:41:33.891">*[Man on PA] The US army today <br/>is trying to establish the extent*</p>
+      <p begin="00:41:33.891" end="00:41:37.415">of a new and growing rape<br/>and sexual harassment scandal.</p>
+      <p begin="00:41:37.415" end="00:41:41.363">*It all took place at the army base <br/>at Aberdeen Proving Ground, *</p>
+      <p begin="00:41:41.363" end="00:41:45.089">*where 30 women have filed <br/>complaints of sexual advances *</p>
+      <p begin="00:41:45.089" end="00:41:49.189">*ranging from unwanted touching <br/>to rape and forcible sodomy. <br/>*</p>
+      <p begin="00:41:49.189" end="00:41:52.137">*[Lt. Gen. Claudia Kennedy] <br/>Aberdeen Proving Ground is a location*</p>
+      <p begin="00:41:52.137" end="00:41:57.036">*where the non&#8208;commissioned officers <br/>were assaulting and raping trainees*</p>
+      <p begin="00:41:57.361" end="00:42:02.933">and then passing the name of the person <br/>they had assaulted to another NCO.</p>
+      <p begin="00:42:02.933" end="00:42:05.749">[Reimer] That unacceptable conduct <br/>for soldiers, </p>
+      <p begin="00:42:05.749" end="00:42:09.308">it's unacceptable to the army <br/>and we have zero tolerance. </p>
+      <p begin="00:42:09.401" end="00:42:13.690">$$ 2003 Air Force, Air Force Academy $$</p>
+      <p begin="00:42:13.690" end="00:42:16.332">*[Man on PA] Twelve years ago, <br/>the Tailhook sex scandal*</p>
+      <p begin="00:42:16.332" end="00:42:19.189">*shook the US Navy <br/>and now the Air Force faces*</p>
+      <p begin="00:42:19.189" end="00:42:21.473">*what may be an even bigger problem.*</p>
+      <p begin="00:42:21.473" end="00:42:25.096">[Peter Jennings] Rape and other <br/>sexual abuse at the Air Force Academy</p>
+      <p begin="00:42:25.096" end="00:42:26.780">in Colorado Springs.</p>
+      <p begin="00:42:26.780" end="00:42:31.827">- 142 allegations of assault against women <br/>have been made in the last decade. </p>
+      <p begin="00:42:31.827" end="00:42:35.290">[Shellee Smith] The highest ranking <br/>Air Force generals knew about </p>
+      <p begin="00:42:35.290" end="00:42:39.823">serious problems of sexual assault <br/>at the academy, yet failed to take action. </p>
+      <p begin="00:42:39.823" end="00:42:44.055">- We don't intend to sweep this <br/>under the rag, we take it very seriously,</p>
+      <p begin="00:42:44.055" end="00:42:45.785">we're going to address it publicly.</p>
+      <p begin="00:42:45.785" end="00:42:48.695">- *In congress, outraged senators accused <br/>Air Force brass *</p>
+      <p begin="00:42:48.695" end="00:42:50.595">*of ignoring assaults on women. *</p>
+      <p begin="00:42:50.595" end="00:42:57.325">[Sen. Susan Collins] We have a clear pattern <br/>of reports of sexual assault</p>
+      <p begin="00:42:57.325" end="00:43:00.353">where the reaction <br/>of the Air Force Academy</p>
+      <p begin="00:43:00.353" end="00:43:02.420">seems to be to blame the victim.</p>
+      <p begin="00:43:02.420" end="00:43:05.132">[Gen. John Jumper] We're in the process <br/>of instituting those changes now.</p>
+      <p begin="00:43:05.132" end="00:43:07.914">[Sen. John McCain] You're in the process <br/>of making those changes now?</p>
+      <p begin="00:43:07.914" end="00:43:12.845">Obviously you and I and the secretary<br/>have a fundamental disagreement here.</p>
+      <p begin="00:43:13.282" end="00:43:17.921">$$ Present Day $$</p>
+      <p begin="00:43:19.641" end="00:43:21.248">$$ Secretary of Defense Confirmation Hearing $$</p>
+      <p begin="00:43:21.248" end="00:43:23.055">*[Sen. Clair McCaskill] What needs to be done <br/>and what should be done,*</p>
+      <p begin="00:43:23.055" end="00:43:25.221">*as it relates to the problem <br/>of sexual assault in the military,*</p>
+      <p begin="00:43:25.221" end="00:43:29.758">women in the military that have had <br/>a great deal of difficulty</p>
+      <p begin="00:43:29.758" end="00:43:31.985">accessing some sense of justice.</p>
+      <p begin="00:43:31.985" end="00:43:36.136">[Leon Panetta] I really totally <br/>share your concerns. We have to be--</p>
+      <p begin="00:43:36.136" end="00:43:41.194">we have to have zero tolerance for<br/>any kinds of sexual assaults in the military.</p>
+      <p begin="00:43:42.373" end="00:43:48.106">$$ One mile from the US Capitol Building,<br/>Marine Barracks Washington DC. $$</p>
+      <p begin="00:43:48.150" end="00:43:51.137">*[Man on PA] At a small post <br/>in Washington DC, Marine pride,*</p>
+      <p begin="00:43:51.137" end="00:43:53.782">*history, and tradition live on.*</p>
+      <p begin="00:43:55.573" end="00:43:57.586">*Marine Barracks at 8th and I streets*</p>
+      <p begin="00:43:57.586" end="00:44:00.273">*is the oldest post in the corps <br/>and for 100 years*</p>
+      <p begin="00:44:00.273" end="00:44:03.689">*since the early 1800s<br/>Marine Corps headquarters. *</p>
+      <p begin="00:44:08.448" end="00:44:11.897">*[Donna McAleer] Marine Barracks <br/>in Washington DC*</p>
+      <p begin="00:44:11.897" end="00:44:16.602">is the most prestigious unit there is<br/>in the Marine Corps.</p>
+      <p begin="00:44:17.246" end="00:44:21.407">This is the unit where<br/>the best of the best go.</p>
+      <p begin="00:44:21.407" end="00:44:26.371">It is the Marine Corps' <br/>showcased ceremonial unit.</p>
+      <p begin="00:44:26.491" end="00:44:32.858">*It handles president's and dignitaries. <br/>Security at the White House,*</p>
+      <p begin="00:44:32.858" end="00:44:35.365">*the Silent Drill Team.*</p>
+      <p begin="00:44:39.712" end="00:44:44.424">[Ariana Klay] After my deployment to <br/>Operation Iraqi Freedom in 2008/2009,</p>
+      <p begin="00:44:44.424" end="00:44:48.063">*my command officer recommended me <br/>for the Marine Barracks in Washington.*</p>
+      <p begin="00:44:48.063" end="00:44:53.422">*I was excited. It was the tip of the spears <br/>as far as the Marine Crops is concerned.*</p>
+      <p begin="00:44:55.594" end="00:44:58.610">*[Capt. Ben Klay] She would stay at work late <br/>and then she would drive home*</p>
+      <p begin="00:44:58.610" end="00:45:01.710">and she would call me and she would be<br/>on some little sort of high</p>
+      <p begin="00:45:01.710" end="00:45:03.829">and tell me how she loves her job.</p>
+      <p begin="00:45:03.829" end="00:45:11.444">She was this sweet person who <br/>was trying really hard in succeeding.</p>
+      <p begin="00:45:13.055" end="00:45:15.401">*[Ariana Klay] One of the first things <br/>I was told when I checked in was,*</p>
+      <p begin="00:45:15.401" end="00:45:19.144">"Don't where any makeup <br/>because the marines will all think</p>
+      <p begin="00:45:19.144" end="00:45:20.951">you're going to want to sleep with them."</p>
+      <p begin="00:45:20.951" end="00:45:23.188">And I thought, "That's just ridiculous."</p>
+      <p begin="00:45:23.188" end="00:45:28.040">[Elle Helmer] The atmosphere off the bat <br/>at Marine Barracks Washington was horrible.</p>
+      <p begin="00:45:28.040" end="00:45:32.405">People asked me what sexual favors <br/>had I performed to get my orders there.</p>
+      <p begin="00:45:33.696" end="00:45:35.580">*[Ariana Klay] There was senior officer<br/>in my command,*</p>
+      <p begin="00:45:35.580" end="00:45:37.583">*who the first time he spoke to me,<br/>he said,*</p>
+      <p begin="00:45:37.583" end="00:45:42.590">"Female marines here are nothing<br/>but objects for the marines to fuck."</p>
+      <p begin="00:45:42.590" end="00:45:45.650">[Active Duty Marine] So, the minute a female<br/>shows up at my work,</p>
+      <p begin="00:45:45.650" end="00:45:47.503">she is immediately pounced on.</p>
+      <p begin="00:45:47.503" end="00:45:51.319">All of the new females get talked about, <br/>saying that they're having sex,</p>
+      <p begin="00:45:51.319" end="00:45:55.220">sleeping with so and so. <br/>Apparently I slept with all these men,</p>
+      <p begin="00:45:55.220" end="00:45:57.930">and I mean, I didn't.</p>
+      <p begin="00:45:58.352" end="00:46:00.769">[Ariana Klay] It got progressively<br/>worse and worse.</p>
+      <p begin="00:46:00.769" end="00:46:05.054">They determined that I welcomed the<br/>sexual harassment by wearing</p>
+      <p begin="00:46:05.054" end="00:46:11.203">*my regulation length uniform skirt <br/>and running in running shorts.*</p>
+      <p begin="00:46:12.085" end="00:46:15.554">There were several junior female<br/>marines that came up to me crying,</p>
+      <p begin="00:46:15.554" end="00:46:19.450">while I was there saying that <br/>they felt too humiliated to come to work.</p>
+      <p begin="00:46:19.705" end="00:46:26.476">$$ In units where sexual harassment <br/>is tolerated, incidents of rape triple. $$</p>
+      <p begin="00:46:29.908" end="00:46:32.811">*[Elle Helmer] One of the duties at<br/>Marine Barracks Washington,*</p>
+      <p begin="00:46:32.811" end="00:46:37.091">*was a ceremonial drill. *<br/>The evening parades are what</p>
+      <p begin="00:46:37.091" end="00:46:39.972">you would see on the news. <br/>The sound drill platoon, President,</p>
+      <p begin="00:46:39.972" end="00:46:42.339">everybody goes to those type of things.</p>
+      <p begin="00:46:45.455" end="00:46:48.857">[Ariana Klay] After the parades, <br/>all of the officers</p>
+      <p begin="00:46:48.857" end="00:46:53.392">are required to stay til midnight<br/>and drink at Center House</p>
+      <p begin="00:46:53.392" end="00:46:56.687">at Marine Barracks Washington. <br/>So we're talking about Wednesday night</p>
+      <p begin="00:46:56.687" end="00:47:00.588">happy hours that start at three<br/>and end at 2 am.</p>
+      <p begin="00:47:00.588" end="00:47:02.852">*[Active Duty Marine] It was a partying <br/>and drinking culture.*</p>
+      <p begin="00:47:02.852" end="00:47:06.548">The atmosphere revolved around <br/>going out and partying and drinking.</p>
+      <p begin="00:47:06.548" end="00:47:10.895">[Elle Helmer] I was ordered to drink,<br/>I was ordered to attend the drinking events.</p>
+      <p begin="00:47:10.895" end="00:47:14.732">[Ariana Klay] My boss even said that they<br/>were mandatory to me.</p>
+      <p begin="00:47:14.732" end="00:47:17.002">She's like, "We do our best work <br/>at these events."</p>
+      <p begin="00:47:17.002" end="00:47:20.600">*[Elle Helmer] We went to various pubs <br/>and bars and the goal*</p>
+      <p begin="00:47:20.600" end="00:47:25.063">*was to do a shot at each one.<br/>All paid for by the Marine Corps.*</p>
+      <p begin="00:47:25.063" end="00:47:26.270">*[Arian Klay] You're talking about<br/>drinking events,*</p>
+      <p begin="00:47:26.270" end="00:47:30.234">*where other senior officers are drinking<br/>to the point of peeing in their pants*</p>
+      <p begin="00:47:30.234" end="00:47:34.381">you know, passing out on lawns. <br/>This is the norm.</p>
+      <p begin="00:47:34.381" end="00:47:38.429">*[Elle Helmer] At one bar, I had water, <br/>and I was ordered a shot anyway*</p>
+      <p begin="00:47:38.429" end="00:47:41.810">and was told I needed to take<br/>two shots to make up for that.</p>
+      <p begin="00:47:42.101" end="00:47:44.824">$$ March 16, 2006. $$</p>
+      <p begin="00:47:44.824" end="00:47:46.880">*I left the bar to get a cab.*</p>
+      <p begin="00:47:46.880" end="00:47:49.134">My company commander followed me<br/>and said,</p>
+      <p begin="00:47:49.134" end="00:47:55.660">"I need to talk to you about some things." <br/>So we walked up the stairs in to his office.</p>
+      <p begin="00:47:55.660" end="00:47:59.448">*There was a little bit of a struggle.<br/>He tried to make an advance*</p>
+      <p begin="00:47:59.448" end="00:48:04.567">*and try to kiss me. I tried to leave <br/>and he slammed the door on my arms.*</p>
+      <p begin="00:48:04.950" end="00:48:08.266">*I fell on the ground and hit my face <br/>on his desk*</p>
+      <p begin="00:48:08.266" end="00:48:11.880">and the next thing I realized was<br/>I had woken up wearing his shorts</p>
+      <p begin="00:48:11.880" end="00:48:15.164">with all of my clothes off <br/>and in tremendous pain.</p>
+      <p begin="00:48:15.164" end="00:48:18.469">I knew enough about me<br/>that something wasn't right</p>
+      <p begin="00:48:18.469" end="00:48:20.704">and I had felt entirely violated.</p>
+      <p begin="00:48:20.704" end="00:48:25.347">$$ The day after the incident, <br/>NCIS opened an investigation.</p>
+      <p begin="00:48:25.347" end="00:48:30.137">It was closed three days later <br/>with no action taken.</p>
+      <p begin="00:48:31.404" end="00:48:33.614">Two days later, the base commander<br/>initiated his own investigation. $$</p>
+      <p begin="00:48:33.614" end="00:48:36.634">The colonel at one point said,<br/>"You know, Lieutenant Helmer,</p>
+      <p begin="00:48:36.634" end="00:48:39.721">boys girls and alcohol just don't mix.</p>
+      <p begin="00:48:39.721" end="00:48:42.681">We'll never really know <br/>what happened inside that office.</p>
+      <p begin="00:48:42.681" end="00:48:45.783">Only you and the major know<br/>and he's not talking.</p>
+      <p begin="00:48:45.783" end="00:48:49.646">So, at this point, the investigation <br/>is closed for a lack of evidence</p>
+      <p begin="00:48:49.646" end="00:48:52.882">and we've reopened a new investigation<br/>against you</p>
+      <p begin="00:48:52.882" end="00:48:57.503">for conduct unbecoming of an officer<br/>and public intoxication."</p>
+      <p begin="00:49:00.784" end="00:49:04.042">[Active Duty Marine] I remember <br/>going to the bar,</p>
+      <p begin="00:49:04.042" end="00:49:07.115">and there were officers,<br/>they were buying shots for us.</p>
+      <p begin="00:49:07.115" end="00:49:11.686">After I had a couple of drinks,<br/>that's all I remember.</p>
+      <p begin="00:49:11.769" end="00:49:16.461">$$ The same officer stalked and raped her <br/>on three separate occasions. $$</p>
+      <p begin="00:49:16.461" end="00:49:20.120">This officer bragged <br/>to his fellow officer friends</p>
+      <p begin="00:49:20.120" end="00:49:25.443">that he had 'bagged' me.<br/>I got called up to a major's office</p>
+      <p begin="00:49:25.443" end="00:49:30.104">and he charged me <br/>with fraternization and adultery.</p>
+      <p begin="00:49:30.148" end="00:49:33.903">He was married, I wasn't,<br/>and I was charged with adultery.</p>
+      <p begin="00:49:36.071" end="00:49:40.325">*[Ariana Klay] I told the battalion XO <br/>about the humiliation and the comments,*</p>
+      <p begin="00:49:40.325" end="00:49:44.109">and he said, "You know you should do <br/>what a marine officer should do</p>
+      <p begin="00:49:44.109" end="00:49:48.140">and that's to ignore it and move on."</p>
+      <p begin="00:49:49.527" end="00:49:54.979">[Ben Klay] I used to lie awake in bed, <br/>you know, wondering what I could do</p>
+      <p begin="00:49:54.979" end="00:49:56.856">to help her get out.</p>
+      <p begin="00:49:56.856" end="00:50:01.828">$$ After a weekly drinking event <br/>in August 2010, Ariana was raped</p>
+      <p begin="00:50:01.828" end="00:50:03.697">by a senior officer 3and his friend. $$</p>
+      <p begin="00:50:03.697" end="00:50:08.993">[Ariana Klay] He said that if I told anybody <br/>that he was going to have his friend Marve</p>
+      <p begin="00:50:08.993" end="00:50:12.019">from Indiana kill me and throw me in a ditch,</p>
+      <p begin="00:50:12.019" end="00:50:15.081">because that's how they<br/>took care of things in Indiana.</p>
+      <p begin="00:50:16.662" end="00:50:21.062">[Ben Klay] She went to war and <br/>gave nine years of her life,</p>
+      <p begin="00:50:22.231" end="00:50:26.743">and for them to take it <br/>and come back and say,</p>
+      <p begin="00:50:29.473" end="00:50:32.415">"Yes they called you a whore, <br/>yes they called you a slut,</p>
+      <p begin="00:50:32.415" end="00:50:35.378">yes they called you a walking mattress,<br/>it's documented</p>
+      <p begin="00:50:35.378" end="00:50:39.399">over and over and over again,<br/>but you deserved it</p>
+      <p begin="00:50:39.399" end="00:50:43.980">and when you complained about it,<br/>you were welcoming it."</p>
+      <p begin="00:50:43.980" end="00:50:48.965">[Ariana Klay] The actions of my seniors <br/>both in the assault and in the ensuing</p>
+      <p begin="00:50:48.965" end="00:50:53.307">investigations have really destroyed me.</p>
+      <p begin="00:50:55.288" end="00:51:00.063">[Capt. Ben Klay] When your wife<br/>doesn't come home to--</p>
+      <p begin="00:51:02.543" end="00:51:07.049">rummage through the house<br/>searching for the suicide notes,</p>
+      <p begin="00:51:09.822" end="00:51:12.780">to call the police with one hand</p>
+      <p begin="00:51:12.780" end="00:51:17.329">while you're restraining her <br/>from killing herself with the other.</p>
+      <p begin="00:51:22.945" end="00:51:25.684">*[Ariana Klay] I think the thing <br/>that makes me the most angry*</p>
+      <p begin="00:51:25.684" end="00:51:28.219">*is not even the rape in itself,*</p>
+      <p begin="00:51:28.219" end="00:51:32.907">it's the commanders that were complicit <br/>in covering everything up that happened.</p>
+      <p begin="00:51:32.907" end="00:51:35.130">$$ The filmmakers contacted<br/>five female marines</p>
+      <p begin="00:51:35.130" end="00:51:39.589">who were each assaulted by an officer <br/>while serving at Marine Barracks Washington.</p>
+      <p begin="00:51:42.568" end="00:51:51.827">Four of the women were investigated <br/>or punished after they reported.</p>
+      <p begin="00:51:51.827" end="00:51:59.676">No officer was punished for any assault. $$</p>
+      <p begin="00:51:59.676" end="00:52:03.303">*[Capt. Ben Klay] This is an organization<br/>that gives commanders*</p>
+      <p begin="00:52:03.903" end="00:52:06.031">an unbelievable amount of power.</p>
+      <p begin="00:52:06.031" end="00:52:11.282">And I felt it, as a lieutenant in Iraq,<br/>it's scary. You appoint the prosecution,</p>
+      <p begin="00:52:11.282" end="00:52:13.320">you appoint the defense, <br/>you appoint the investigator,</p>
+      <p begin="00:52:13.320" end="00:52:17.312">you're in charge of the police force, <br/>you're in charge of the community.</p>
+      <p begin="00:52:17.611" end="00:52:21.806">You own everything. You are judge,<br/>you are jury, you are executioner.</p>
+      <p begin="00:52:21.806" end="00:52:25.622">[Susan Burke] Most Americans assume <br/>there is access to a system of justice,</p>
+      <p begin="00:52:25.622" end="00:52:29.747">so that, for example if you're a civilian <br/>and you're raped, you can call the police</p>
+      <p begin="00:52:29.747" end="00:52:31.693">and then you have prosecutors,</p>
+      <p begin="00:52:31.693" end="00:52:34.532">either federal prosecutors, state <br/>prosecutors, local prosecutors,</p>
+      <p begin="00:52:34.532" end="00:52:39.063">that bring the perpetrator to justice.<br/>The problem with the military is that</p>
+      <p begin="00:52:39.063" end="00:52:42.844">they instead have to go <br/>to their chain of command.</p>
+      <p begin="00:52:42.844" end="00:52:45.534">[Admiral Anthony Kurta] Now in our <br/>system of military justice,</p>
+      <p begin="00:52:45.534" end="00:52:52.173">it is the commander who's responsible<br/>to the chain of command</p>
+      <p begin="00:52:52.173" end="00:52:55.233">for how that investigation proceeds.</p>
+      <p begin="00:52:55.615" end="00:52:58.216">[Stace Nelson] I know that there's been <br/>numerous times over my career that I</p>
+      <p begin="00:52:58.216" end="00:53:04.182">regretted that an individual commander <br/>had the total say so over a case.</p>
+      <p begin="00:53:04.182" end="00:53:09.570">Most of them don't have the training<br/>or the education to determine</p>
+      <p begin="00:53:09.570" end="00:53:12.566">what's appropriate and<br/>in serious felony investigations.</p>
+      <p begin="00:53:12.566" end="00:53:15.326">[Captain Greg Rinckey] The problem <br/>in the military is the convening authority</p>
+      <p begin="00:53:15.326" end="00:53:18.978">who is not legally trained, <br/>makes the final decision.</p>
+      <p begin="00:53:21.667" end="00:53:23.228">[Jessica Hinves] They had <br/>a change of command</p>
+      <p begin="00:53:23.228" end="00:53:26.714">at my old squadron where the guy<br/>that raped me was still stationed.</p>
+      <p begin="00:53:27.851" end="00:53:30.670">He had only been in command <br/>for four days,</p>
+      <p begin="00:53:30.670" end="00:53:34.290">and he made a decision <br/>over legal to stop the case.</p>
+      <p begin="00:53:34.290" end="00:53:36.313">[Capt. Anu Bhagwati] What I saw<br/>was commanders,</p>
+      <p begin="00:53:36.313" end="00:53:38.074"> and these are field grade officers,</p>
+      <p begin="00:53:38.074" end="00:53:42.272">lieutenant colonels, <br/>colonels who have been in 20, 25 years,</p>
+      <p begin="00:53:42.272" end="00:53:48.875">they are career officers,<br/>and they sweep cases under the rug.</p>
+      <p begin="00:53:49.200" end="00:53:53.175">[Major Gen. Dennis Laich] The last thing <br/>a company commander in the army</p>
+      <p begin="00:53:53.175" end="00:53:57.926">wants to do, is make the phone call <br/>to his or her battalion commander to say</p>
+      <p begin="00:53:57.926" end="00:54:02.001">I have had an allegation <br/>of a rape in my unit.</p>
+      <p begin="00:54:02.512" end="00:54:06.325">This is viewed in many cases <br/>as a failure to command</p>
+      <p begin="00:54:06.325" end="00:54:10.459">that will adversely then <br/>affect their career.</p>
+      <p begin="00:54:10.459" end="00:54:14.167">[Stace Nelson] Sometimes you would see <br/>a guy get four or five years for selling</p>
+      <p begin="00:54:14.167" end="00:54:16.483">a minor amount of drugs,<br/>and then you would a guy </p>
+      <p begin="00:54:16.483" end="00:54:19.249">get two weeks extra duty for rape.</p>
+      <p begin="00:54:19.249" end="00:54:24.633">[Susan Burke] The military hides behind <br/>this notion that it is really, really hard.</p>
+      <p begin="00:54:24.633" end="00:54:29.054">Almost impossible to prosecute rape.<br/>*But when you look at prosecution rates*</p>
+      <p begin="00:54:29.054" end="00:54:36.260">*in the 2010 Department of Defense reports, <br/>you begin with 2,410 unrestricted reports*</p>
+      <p begin="00:54:36.260" end="00:54:38.499">*and 748 restricted.*</p>
+      <p begin="00:54:39.630" end="00:54:43.992">*What this means is they've already<br/>funneled 748 sexual assault victims*</p>
+      <p begin="00:54:43.992" end="00:54:48.447">*into a system that has absolutely <br/>no adjudication whatsoever.*</p>
+      <p begin="00:54:48.449" end="00:54:51.707">*Then you take the 2,410 <br/>that have been reported,*</p>
+      <p begin="00:54:51.707" end="00:54:55.482">*of those they have identified<br/>3,223 perpetrators.*</p>
+      <p begin="00:54:56.071" end="00:54:58.173">*Now what happens <br/>once you send a perpetrator*</p>
+      <p begin="00:54:58.173" end="00:55:01.352">*over to command?<br/>Well, the command has just completely*</p>
+      <p begin="00:55:01.352" end="00:55:04.442">*unfettered discretion to do <br/>whatever it is they want.*</p>
+      <p begin="00:55:04.442" end="00:55:09.121">*And what is it that they do do? <br/>First off, they drop 910 of them,*</p>
+      <p begin="00:55:09.121" end="00:55:13.950">*they just don't do anything. Then of the <br/>1,025 that they actually take some action,*</p>
+      <p begin="00:55:13.950" end="00:55:18.805">*do they court martial them? No.<br/>Only half of them, 529,*</p>
+      <p begin="00:55:18.805" end="00:55:21.468">*actually got court-martialed.*</p>
+      <p begin="00:55:21.468" end="00:55:25.493">*The rest, 256 were subjected to<br/>Article 15 punishments,*</p>
+      <p begin="00:55:25.493" end="00:55:28.176">*109 to administrative discharges,*</p>
+      <p begin="00:55:28.176" end="00:55:32.124">*and 131 to "other adverse administrative<br/>actions",*</p>
+      <p begin="00:55:32.124" end="00:55:34.092">*whatever the heck that means.*</p>
+      <p begin="00:55:34.347" end="00:55:37.355">*And then of the convictions<br/>where they actually get jail time,*</p>
+      <p begin="00:55:37.355" end="00:55:39.724">*when you work your way all the way <br/>through the numbers,*</p>
+      <p begin="00:55:39.724" end="00:55:44.018">*what you're looking at, <br/>is that out of 3,223 perpetrators,*</p>
+      <p begin="00:55:44.018" end="00:55:48.010">*only 175 end up doing<br/>any jail time whatsoever.*</p>
+      <p begin="00:55:48.662" end="00:55:51.833">*[Louise Slaughter] I have been<br/>in congress for seven terms now,*</p>
+      <p begin="00:55:51.833" end="00:55:55.938">and every single term, <br/>we have had meetings with D.O.D</p>
+      <p begin="00:55:55.938" end="00:55:59.986">and they come in and they confirmed<br/>to us, "We're going to be serious,"</p>
+      <p begin="00:56:00.017" end="00:56:04.376">"we're going to take care of this,<br/>we're going to stop this, zero tolerance."</p>
+      <p begin="00:56:04.376" end="00:56:10.734">But the rhetoric is not being turned <br/>into the reality of protecting our women,</p>
+      <p begin="00:56:10.734" end="00:56:13.965">and in some cases men in our military.</p>
+      <p begin="00:56:13.965" end="00:56:16.104">[Susan Avila Smith] So then they're like, <br/>but we have this SARC</p>
+      <p begin="00:56:16.104" end="00:56:18.432">and SAPRO program, it's like, <br/>"Oh great." </p>
+      <p begin="00:56:19.863" end="00:56:21.901">*What does that do?*</p>
+      <p begin="00:56:21.901" end="00:56:25.876">*They can strongly suggest to the <br/>military to do something.*</p>
+      <p begin="00:56:25.876" end="00:56:30.895">*- As a band of brothers and sisters,<br/>it is our personal duty*</p>
+      <p begin="00:56:30.895" end="00:56:32.825">*to prevent sexual assault*</p>
+      <p begin="00:56:32.825" end="00:56:36.923">- They can't order them, they can't <br/>enforce it, they don't back it up.</p>
+      <p begin="00:56:36.923" end="00:56:38.860">[Dr. Kaye Whitley] In April of this year, <br/>we will debut</p>
+      <p begin="00:56:38.860" end="00:56:42.489">a social marketing campaign<br/>as part of our prevention strategy.</p>
+      <p begin="00:56:42.489" end="00:56:45.535">- *Preventing sexual assault<br/>is part of my duty*</p>
+      <p begin="00:56:47.011" end="00:56:51.042">-* So when I saw my buddy's date was drunk<br/>I told him, "Ask her when she's sober" *</p>
+      <p begin="00:56:51.382" end="00:56:55.356">*[Capt. Anu Bhagwati] It's ludicrous,* <br/>it's 2011 and we have posters</p>
+      <p begin="00:56:55.356" end="00:56:58.917">that say, "Wait until she's sober."<br/>I mean, it's remarkable that</p>
+      <p begin="00:56:58.917" end="00:57:02.258">that's allowed to pass in today's military.</p>
+      <p begin="00:57:02.258" end="00:57:05.271">[Dr. Kaye Whitley] Well, we've implemented <br/>training at each entry level</p>
+      <p begin="00:57:05.271" end="00:57:08.992">of military service from the moment <br/>they enter the service and basic training.</p>
+      <p begin="00:57:08.992" end="00:57:10.517">They are given that.</p>
+      <p begin="00:57:10.517" end="00:57:15.024">*And, our campaign consists <br/>of a series of posters that are actually*</p>
+      <p begin="00:57:15.024" end="00:57:18.381">*training tools and each of those posters<br/>has a different focus.*</p>
+      <p begin="00:57:18.406" end="00:57:23.006">[Capt. Anu Bhagwati] You cannot prevent <br/>sexual assault with pretty posters.</p>
+      <p begin="00:57:23.319" end="00:57:27.122">Posters do not prevent sexual predators <br/>from preying upon women</p>
+      <p begin="00:57:27.122" end="00:57:28.729">and men in the military.</p>
+      <p begin="00:57:28.729" end="00:57:31.315">We're talking about barging into rooms <br/>in the middle of the night.</p>
+      <p begin="00:57:31.315" end="00:57:34.204">No poster can prevent a criminal<br/>from barging into your room.</p>
+      <p begin="00:57:34.204" end="00:57:35.950">These are violent people.</p>
+      <p begin="00:57:35.950" end="00:57:38.587">[Dr. Kaye Whitley] Well one of the things <br/>that we do in our prevention strategy</p>
+      <p begin="00:57:38.587" end="00:57:43.635">is to focus on bystander intervention. <br/>And in that strategy and in that training</p>
+      <p begin="00:57:43.635" end="00:57:46.702">we ask each soldier, sailor, <br/>airman and marine,</p>
+      <p begin="00:57:46.702" end="00:57:49.668">to be aware of what sexual assault is <br/>and how to prevent it.</p>
+      <p begin="00:57:49.668" end="00:57:52.698">[Jessica Hinves] SARC is a joke.</p>
+      <p begin="00:57:52.905" end="00:57:55.986">*The things that are said are ignored<br/>or they're made fun of.*</p>
+      <p begin="00:57:55.986" end="00:57:58.188">&#9834; [Music] &#9834;</p>
+      <p begin="00:58:10.310" end="00:58:12.920">- [Ariana Klay] There may be a video, <br/>or 20 slides.</p>
+      <p begin="00:58:12.920" end="00:58:15.606">It's like a lot of military training</p>
+      <p begin="00:58:15.606" end="00:58:18.446">where it's the once of the year,<br/>check in a box.</p>
+      <p begin="00:58:18.446" end="00:58:21.601">&#9834; [Music] &#9834;</p>
+      <p begin="00:58:21.711" end="00:58:23.879">- [Capt. Anu Bhagwati] SAPRO can't fix anything.</p>
+      <p begin="00:58:23.879" end="00:58:27.498">- You walkin' back alone?<br/>- Yeah, It's just a short walk to my tube.</p>
+      <p begin="00:58:27.498" end="00:58:28.621">- Alright.</p>
+      <p begin="00:58:28.844" end="00:58:31.668">- *And all the money seems to be <br/>spent on advertising,*</p>
+      <p begin="00:58:31.668" end="00:58:34.064">*which is just rife with victim blaming.*</p>
+      <p begin="00:58:34.064" end="00:58:35.887">- What's your name?<br/>- Stop.</p>
+      <p begin="00:58:35.887" end="00:58:37.884">- Hey, come here. I just<br/>wanna talk to you for a sec--</p>
+      <p begin="00:58:37.884" end="00:58:39.421">I just wanna talk to you.</p>
+      <p begin="00:58:39.421" end="00:58:40.659">*[running footsteps]*</p>
+      <p begin="00:58:40.659" end="00:58:42.969">- Whoa! Are you okay?<br/>- No. There's this guy, he grabbed me.</p>
+      <p begin="00:58:42.969" end="00:58:44.730">- Why are you by yourself? <br/>Where's your buddy?</p>
+      <p begin="00:58:44.730" end="00:58:46.737">- I didn't think I needed one.</p>
+      <p begin="00:58:46.737" end="00:58:48.565">- *[Narrator] Sexual Assault is preventable.*</p>
+      <p begin="00:58:48.565" end="00:58:50.665">*Are you doing your part?*</p>
+      <p begin="00:58:50.665" end="00:58:54.156">- [Susan Burke] And so this notion that <br/>essentially anyone could be a rapist</p>
+      <p begin="00:58:54.156" end="00:58:59.028">and we all have to be alert. <br/>It misses an opportunity to take real steps</p>
+      <p begin="00:58:59.028" end="00:59:02.762">towards preventing rape.<br/>If they actually had systems</p>
+      <p begin="00:59:02.762" end="00:59:08.494">of accountability that prosecuted<br/>and imprisoned perpetrators,</p>
+      <p begin="00:59:08.494" end="00:59:11.480">you would get rid of <br/>a lot of the rapes right away.</p>
+      <p begin="00:59:11.480" end="00:59:14.178">- *[Kirby] How would you characterize <br/>the typical sex offender? *</p>
+      <p begin="00:59:14.178" end="00:59:17.630">- [Dr. Kaye Whitley] Well, if I look at <br/>the data from the Department of Defense,</p>
+      <p begin="00:59:17.630" end="00:59:21.019">it is young people that are ages 18<br/>to 24 or 25.</p>
+      <p begin="00:59:21.019" end="00:59:24.253">*[Kirby] Would you say that most of them <br/>are serial rapists? *</p>
+      <p begin="00:59:24.253" end="00:59:28.871">- [Dr. Kaye Whitley] I don't have data <br/>one way or another to determine that.</p>
+      <p begin="00:59:28.871" end="00:59:31.681">- *[Kirby] And what percentage <br/>of the rapes do you think *</p>
+      <p begin="00:59:31.681" end="00:59:33.731">*are caused by serial predators? *</p>
+      <p begin="00:59:33.731" end="00:59:37.113">- [Dr. Kaye Whitley]<br/>I don't have any numbers.</p>
+      <p begin="00:59:37.113" end="00:59:40.537">I don't think we collect that type of data.</p>
+      <p begin="00:59:40.537" end="00:59:42.829">- *[Kirby] There have been studies done, *</p>
+      <p begin="00:59:42.829" end="00:59:48.058">*that people who enter the military are<br/>twice as likely to have committed rape *</p>
+      <p begin="00:59:48.058" end="00:59:50.562">as the equivalent population<br/>in the civilian world.</p>
+      <p begin="00:59:50.562" end="00:59:52.492">- [Dr. Kaye Whitley] I'm not aware <br/>of that study.</p>
+      <p begin="00:59:52.492" end="00:59:57.323">My area of expertise focuses primarily<br/>on prevention and victim care.</p>
+      <p begin="00:59:57.323" end="01:00:01.788">- *[Kirby] But, wouldn't prevention include <br/>focusing on the perpetrators? *</p>
+      <p begin="01:00:02.962" end="01:00:07.997">$$ July 31, 2008, Kaye Whitley<br/>is subpoenaed to testify</p>
+      <p begin="01:00:08.120" end="01:00:11.636">before the House Subcommittee on <br/>National Security and Foreign Affairs. $$</p>
+      <p begin="01:00:11.719" end="01:00:14.623">-* [Congress Chairman] I noticed that<br/>Dr. Kaye Whitley is not in her chair.*</p>
+      <p begin="01:00:14.623" end="01:00:16.858">Is it under your direction that she</p>
+      <p begin="01:00:16.858" end="01:00:19.128">is not showing for testimony<br/>this morning?</p>
+      <p begin="01:00:19.128" end="01:00:20.166">- *[Dominguez] Yes sir.*</p>
+      <p begin="01:00:20.166" end="01:00:21.604">- [Congress Chairman] You directed her not to?</p>
+      <p begin="01:00:21.604" end="01:00:22.350">- *[Dominguez] I did. *</p>
+      <p begin="01:00:22.350" end="01:00:24.703">- [Congress Chairman] Do you have an <br/>executive privilege to assert?</p>
+      <p begin="01:00:24.703" end="01:00:26.095">- *[Dominguez] No, Sir.*</p>
+      <p begin="01:00:26.095" end="01:00:28.324">- [Rep. Henry A. Waxman] You've<br/>instructed her not to come?</p>
+      <p begin="01:00:28.324" end="01:00:29.808">What is your reason for doing that?</p>
+      <p begin="01:00:29.808" end="01:00:32.345">[Dominguez] If you find <br/>the department's response</p>
+      <p begin="01:00:32.345" end="01:00:35.821">and prevention efforts fall short <br/>of your expectations,</p>
+      <p begin="01:00:35.821" end="01:00:39.364">responsibility for that shortfall<br/>rests with me.</p>
+      <p begin="01:00:39.364" end="01:00:41.388">- *[Rep. Henry A. Waxman] <br/>That's a ridiculous answer.*</p>
+      <p begin="01:00:41.388" end="01:00:46.699">*What is it you're trying to hide? *<br/>We all remember Tailhook and the scandal,</p>
+      <p begin="01:00:47.222" end="01:00:52.436">and how the military tried to cover that up.<br/>*I don't know who you think elected you*</p>
+      <p begin="01:00:52.436" end="01:00:55.301">*to defy the<br/>Congress of the United States,*</p>
+      <p begin="01:00:55.344" end="01:00:57.794">we're an independent <br/>branch of government.</p>
+      <p begin="01:00:57.794" end="01:00:59.732">- [Congress Chairman] So for now <br/>Mr. Dominguez, you are dismissed.</p>
+      <p begin="01:01:11.623" end="01:01:17.352">- *[Kori Cioca] Intimacy is definitely affected. <br/>We'll go months without sex.*</p>
+      <p begin="01:01:18.016" end="01:01:21.135">I have to initiate,<br/>if I'm comfortable enough,<br/></p>
+      <p begin="01:01:21.135" end="01:01:24.295">if I'm having a good day, and I think<br/>my husband looks hot for the day,</p>
+      <p begin="01:01:24.295" end="01:01:26.151">I have to initiate. <br/></p>
+      <p begin="01:01:27.224" end="01:01:28.431">When he comes up and hugs me,</p>
+      <p begin="01:01:28.431" end="01:01:31.091">sometimes I'll cringe <br/>and I'll just want him to--</p>
+      <p begin="01:01:31.890" end="01:01:35.297">he'll feel it, and then he'll get mad <br/>because he'll be like,</p>
+      <p begin="01:01:35.297" end="01:01:37.089">"Why aren't you hugging me back<br/>or whatever?"</p>
+      <p begin="01:01:37.089" end="01:01:39.958">- [Rob McDonald] I still do that. <br/></p>
+      <p begin="01:01:39.971" end="01:01:42.590">- [Kori Cioca] I don't like him <br/>grabbing my hips.</p>
+      <p begin="01:01:42.590" end="01:01:46.059">- [Rob McDonald] I didn't understand<br/>why because it's like,</p>
+      <p begin="01:01:46.059" end="01:01:51.231"> "I'm you're husband, why?"<br/>and I don't fully understand now.</p>
+      <p begin="01:01:51.584" end="01:01:54.489">- [Kori Cioca] I see it in my dreams. <br/>That's what you don't get,</p>
+      <p begin="01:01:54.489" end="01:01:57.671">I don't want to talk about stuff, <br/>and you know that.</p>
+      <p begin="01:02:00.261" end="01:02:04.011">- [Rob McDonald] Yeah well that's<br/>the hard part, I don't know--</p>
+      <p begin="01:02:04.011" end="01:02:07.021">I want to help you, but I don't know,<br/>you know?</p>
+      <p begin="01:02:09.163" end="01:02:12.930">- [Kori Cioca] You can't help me. <br/>That's the thing, cause you can't.</p>
+      <p begin="01:02:12.930" end="01:02:14.868">*Sometimes I think, if when he's <br/>have sex with me,*</p>
+      <p begin="01:02:14.868" end="01:02:19.082">is he thinking about me getting raped,<br/>is he upset, is he, you know,</p>
+      <p begin="01:02:19.082" end="01:02:25.215">because I think about that, and never<br/>does it not run through my head.</p>
+      <p begin="01:02:25.307" end="01:02:29.076">*That's why I didn't want <br/>to have sex for a while.*</p>
+      <p begin="01:02:29.076" end="01:02:30.822">- [Rob McDonald] What if you<br/>were in my spot?</p>
+      <p begin="01:02:30.822" end="01:02:35.129">- [Kori Cioca] It would suck so bad.<br/>I'm not saying I don't appreciate you,</p>
+      <p begin="01:02:35.864" end="01:02:37.687">But it make me cry, baby,</p>
+      <p begin="01:02:37.687" end="01:02:40.755">this is why I don't talk about it Rob, <br/>because it does upset me.</p>
+      <p begin="01:02:42.911" end="01:02:45.087">Like when we almost split up <br/>'cause of stuff,</p>
+      <p begin="01:02:45.087" end="01:02:48.398">and I feel like I'm responsible for it.</p>
+      <p begin="01:02:48.980" end="01:02:55.205">I don't know what I'd do if I lost Rob.<br/>I'd be so lost.</p>
+      <p begin="01:02:56.307" end="01:03:01.173">He's like my only supporter.<br/>Like my own blood.</p>
+      <p begin="01:03:08.708" end="01:03:11.266">*- [Amy Herdy] I've interviewed women<br/>in the civilian world,*</p>
+      <p begin="01:03:11.266" end="01:03:15.479">and rape is a very traumatizing thing <br/>to have happened,</p>
+      <p begin="01:03:15.479" end="01:03:18.376">but I've never seen trauma<br/>like I've seen from women</p>
+      <p begin="01:03:18.376" end="01:03:22.006">who are veterans who have<br/>suffered military sexual trauma.</p>
+      <p begin="01:03:22.559" end="01:03:24.582">- [Stace Nelson] I cannot remember<br/>how many times</p>
+      <p begin="01:03:24.582" end="01:03:26.584">a young female marine <br/>that had been raped</p>
+      <p begin="01:03:26.584" end="01:03:29.353">or sexually assaulted had told me<br/>that she looked at these guys</p>
+      <p begin="01:03:29.353" end="01:03:32.206">as her brother, <br/>or the suspect as her brother.</p>
+      <p begin="01:03:32.437" end="01:03:38.621">- [Brigadier Gen. Loree Sutton] It's akin to <br/>what happens in a family with incest.</p>
+      <p begin="01:03:38.621" end="01:03:45.510">Because in the military, when we're <br/>functioning at our best in a cohesive unit,</p>
+      <p begin="01:03:46.324">what brothers and sisters, you know,<br/>the band of brothers and sisters,</p>
+      <p>I mean we are family.<br/>When that bond of trust is violated,</p>
+      <p>the wound penetrates to the very most <br/>inner part of one's soul, one's psyche.</p>
+      <p>[Kori Cioca] I have this folder that I keep.<br/>I have all my boot camp letters in it,</p>
+      <p>from my mom and my sister<br/>and I was just going through it</p>
+      <p>and I was like, "What is this?", and I was<br/>like, "Oh my god, my suicide letter."</p>
+      <p>"Mom, I'm sorry for the grief <br/>that you must feel.</p>
+      <p>Just because I'm gone physically<br/>doesn't mean I won't be there spiritually.</p>
+      <p>I truly feel that God will<br/>take me without question,</p>
+      <p>even though I took my own life.<br/>I've had the most broken thoughts,</p>
+      <p>dreams, and physical pain to remind me<br/>of the horrific acts upon me</p>
+      <p>that happened while on duty. A mother, <br/>brother, sister and husband should</p>
+      <p>never live knowing the acts upon me,<br/>find peace in knowing that the body</p>
+      <p>left behind doesn't consume my soul.<br/>I am free now, and not afraid.</p>
+      <p>Ready to soar, Kori Danielle."</p>
+      <p>[Trina McDonald] <br/>I took a whole bottle of pills.</p>
+      <p>And woke up strangely enough, <br/>I'm not sure why.</p>
+      <p>At that point in my life<br/>I just wanted it to be over.</p>
+      <p>I think I was 20, 21 and then <br/>within the next year, I tried again.</p>
+      <p>[Michael Matthews] I went out <br/>into the garage,</p>
+      <p>which was separate from the house,<br/>and I turned the car on.</p>
+      <p>I was going to sit in the car<br/>and asphyxiate myself.</p>
+      <p>And we have this little poodle, <br/>Blondie,</p>
+      <p>she went out in the little doggy door<br/>and she's scratching at the door,</p>
+      <p>and I'm like, "Shut up, Goddammit!<br/>You're going to wake my wife up."</p>
+      <p>So I get out, shut the car off,<br/>and I thought for a moment,</p>
+      <p>maybe I'll just take her<br/>in the garage with me,</p>
+      <p>and I thought,<br/>"Why would you kill a dog?"</p>
+      <p>And then I thought, <br/>"Well why would you kill yourself?"</p>
+      <p>[Hannah Sewell] I thought of it, <br/>so many times,</p>
+      <p>and in so many ways. I thought about,<br/>at one point in time,</p>
+      <p>hanging myself from the flagpole,</p>
+      <p>with a sign on me saying exactly<br/>what happened, to make him feel bad.</p>
+      <p>[Kori Cioca] I was going to overdose <br/>on pain medication</p>
+      <p>and sleeping medication <br/>and hope that I would fall asleep</p>
+      <p>and my body would just shut down,<br/>or do something.</p>
+      <p>When I went to the doctor, <br/>I had been feeling sick,</p>
+      <p>and dizzy and nauseated,<br/>and they took my urine</p>
+      <p>and they told me <br/>that I was pregnant.</p>
+      <p>And it was like, there's a life in there,</p>
+      <p>and maybe her life <br/>will be better than mine,</p>
+      <p>and I've got to make sure of that. <br/>So, she's very special.</p>
+      <p>[Brigadier Wilma Vaught] Sometimes <br/>it takes a different kind of action</p>
+      <p>to cause change to come, <br/>and sometimes that's a lawsuit.</p>
+      <p>[Susan Burke] I grew up on military bases. <br/>My dad was career army.</p>
+      <p>When I was a child, <br/>when we answered the phone,</p>
+      <p>we would have to say,<br/>"Colonel Burke's quarters,"</p>
+      <p>and because of that,</p>
+      <p>I have the understanding of the<br/>level of control</p>
+      <p>that perhaps most <br/>in the civilian life don't have.</p>
+      <p>The Feres Doctrine<br/>is a judicial doctrine</p>
+      <p>that was developed by<br/>the Supreme Court that says,</p>
+      <p>although the United States <br/>is going to allow people</p>
+      <p>that are hurt by the government,<br/>to sue, just as you could sue a company,</p>
+      <p>congress could not possibly have meant<br/>to include the military in that.</p>
+      <p>Now Congress did not actually say that,<br/>rather it's a judicial interpretation</p>
+      <p>of what they must have meant. <br/>If you're in the military,</p>
+      <p>you cannot sue for something <br/>that happens to you</p>
+      <p>that's incident to your military service.</p>
+      <p>If military doctors amputate the wrong limb,<br/>you're out of luck.</p>
+      <p>You can not sue for that harm<br/>that's been done to you,</p>
+      <p>so we filed a law suit in federal court<br/>on behalf of 16 men and women,</p>
+      <p>seeking to bring<br/>former Secretary Rumsfeld</p>
+      <p>and Secretary Gates to justice.</p>
+      <p>[Kori Cioca] I heard about the lawsuit <br/>and decided to become a part of it</p>
+      <p>because I never wanted <br/>another woman</p>
+      <p>to go through what I went through.</p>
+      <p>[Susan Burke] The law suit alleges <br/>that they have overseen</p>
+      <p>a system that has deprived the<br/>rape survivors their constitutional rights,</p>
+      <p>specifically we alleged<br/>that they deprived them</p>
+      <p>of their substance of due process, <br/>their procedural due process,</p>
+      <p>equal protection<br/>and first amendment rights.</p>
+      <p>[Kori Cioca] It made me sick <br/>to see everybody's stories.</p>
+      <p>How they kind of closely tie together.</p>
+      <p>It's consistent, like what<br/>the military does to us.</p>
+      <p>[Myla Haider] All the things that they've <br/>put in place are all pretty much intended</p>
+      <p>to help women deal<br/>with being raped better,</p>
+      <p>that's what they're about.</p>
+      <p>[Myla Haider] I joined the military <br/>halfway through</p>
+      <p>my senior year of high school, <br/>wanting to serve my country</p>
+      <p>and do new things <br/>and challenge myself in a different way.</p>
+      <p>I was in the army for about 7 or 8 years <br/>before anything happened to me.</p>
+      <p>I was raped by another CID agent<br/>who was senior to me.</p>
+      <p>I was contacted by an agent<br/>with Fort Riley CID,</p>
+      <p>who said theywere investigating <br/>the suspect as a serial rapist</p>
+      <p>who had raped several military <br/>law enforcement women.</p>
+      <p>I thought, you know, there was <br/>no way he wouldn't be convicted.</p>
+      <p>If I have a difficult time with anything,</p>
+      <p>it's about the fact that I had <br/>an almost ten-year career</p>
+      <p>that I was very invested in, and I <br/>gave it all up to report a sex offender</p>
+      <p>who was not even put to justice<br/>or put on the registry,</p>
+      <p>and he's probably doing <br/>the same thing right now.</p>
+      <p>[Sarah Albertson] <br/>I had one female lieutenant</p>
+      <p>pull me aside and tell me she had heard<br/>about her case</p>
+      <p>and she thought she could talk to me <br/>from one female marine to another,</p>
+      <p>and she said,<br/>"Well what he did, was capitalize</p>
+      <p>on an opportunity <br/>that you presented him.</p>
+      <p>That's not the same thing as rape,<br/>you need to know that.</p>
+      <p>A month after it happened, they made me<br/>go on a hike with him,</p>
+      <p>and I tried to make everyone <br/>advocate for me not to go</p>
+      <p>because I just couldn't deal<br/>with seeing him,</p>
+      <p>so their solution to that <br/>was to put him in front of me,</p>
+      <p>so that I could see him the whole time, <br/>so that I could know where he was</p>
+      <p>and know that he <br/>wasn't able to do anything</p>
+      <p>because he was standing <br/>right in front of me.</p>
+      <p>And I remember thinking the entire time<br/>we were up on the hills,</p>
+      <p>up at Camp Pendleton,<br/>if only it was steeper,</p>
+      <p>I would have jumped.</p>
+      <p>[Myla Haider] There's no way out of it, <br/>I mean if you think of it,</p>
+      <p>the only way out of it <br/>is suicide or AWOL.</p>
+      <p>Those are your only options.<br/>Suicide, AWOL or deal with it.</p>
+      <p>[Regina Vasquez] Right now, <br/>I'm just barely appreciating</p>
+      <p>learning how to appreciate <br/>being a woman again.</p>
+      <p>That's 11 years, <br/>and I'm trying to have fun with it,</p>
+      <p>not forcing myself to have fun. <br/>I'm trying really hard not to cry</p>
+      <p>but it just pisses me off.</p>
+      <p>Watching you girls having to go<br/>through what I have</p>
+      <p>it makes me want to explode.</p>
+      <p>[Kori Cioca] Being here, me wanting to <br/>commit suicide, I'm not alone.</p>
+      <p>Me being hit and raped, I'm not alone. <br/>Everything.</p>
+      <p>The way that they treated me, the way <br/>that they made me feel, I'm not alone.</p>
+      <p>And we have all of you guys, with all <br/>of your knowledge and everything</p>
+      <p>you guys are going to stand right up, <br/>you know, that's awesome.</p>
+      <p>That's all I'm saying.</p>
+      <p>[Brigadier Wilma Vaught] I think the women<br/>who are coming forward</p>
+      <p>in this law suit are very courageous,</p>
+      <p>because they're putting their names<br/>out there for criticism</p>
+      <p>they're putting their names out there <br/>in history</p>
+      <p>as they were the ones who got raped,</p>
+      <p>and that's not anything you want<br/>to go through life with.</p>
+      <p>[Capt. Anu Bhagwati] Today I stand<br/>in solidarity</p>
+      <p>with the courageous women and men<br/>who have served in our armed forces.</p>
+      <p>The inspirational plaintiffs <br/>you see before you are a small handful</p>
+      <p>of the tens of thousands <br/>of troops and veterans</p>
+      <p>who have been sexually brutalized <br/>by their fellow service members</p>
+      <p>while defending our nation. <br/>It is time to finally acknowledge</p>
+      <p>that our military's judicial system<br/>is broken when it comes to these cases.</p>
+      <p>[Kori Cioca] My name is Kori Cioca</p>
+      <p>and in my case, my command<br/>was unwilling to help me.</p>
+      <p>I went for help many times with my<br/>petty officers and I was denied help,</p>
+      <p>even with other men saying,<br/>"Please get her away from him.",</p>
+      <p>and it was still allowed.</p>
+      <p>[Sarah Albertson] My name is <br/>Sarah Albertson.</p>
+      <p>People were telling me,<br/>"Don't go to the public because</p>
+      <p>it will make the military look bad."</p>
+      <p>[Myla Haider] I really feel like it is<br/>my social responsibility</p>
+      <p>to speak out about this issue, <br/>especially considering my</p>
+      <p>investigative experience and especially <br/>because the military justice system</p>
+      <p>allows so many offenders<br/>to escape justice.</p>
+      <p>[Kori Cioca] She's actually starting<br/>to play with her toys.</p>
+      <p>[Myla Haider] Imaginative playing.</p>
+      <p>[Kori Cioca] It's all the stuff<br/>that you teach them</p>
+      <p>when they play, you know. <br/>It's really cool.</p>
+      <p>[Myla Haider] I miss my baby.</p>
+      <p>[Kori Cioca] I do, too.</p>
+      <p>Thank you for having us.</p>
+      <p>[Rep. Chellie Pingree] Sure.</p>
+      <p>Thanks for being willing to fill me<br/>in a little bit on the experiences.</p>
+      <p>[Regina Vazquez] My name is<br/>Regina Vazquez and I served honorably</p>
+      <p>in the United States Marine Corps<br/>for four years.</p>
+      <p>[Kori Cioca] My name is Kori Cioca</p>
+      <p>and I served in<br/>the United States Coast Guard.</p>
+      <p>I was harassed <br/>and sexually assaulted.</p>
+      <p>[Myla Haider] I was administratively <br/>discharged with no benefits</p>
+      <p>after nine and a half years of service.</p>
+      <p>[Rep. Louise Slaughter] Women <br/>should not have to bear that burden.</p>
+      <p>That is not part of what we should have <br/>to be doing to be doing our jobs.</p>
+      <p>[Rep. Mike Turner] We're talking <br/>about criminal activity.</p>
+      <p>We're talking about a vicious attack <br/>that is criminal. It is an assault.</p>
+      <p>[Myla Haider] Almost none of the cases <br/>made it to court&#8208;martial,</p>
+      <p>and out of the ones that do, <br/>almost none of them result in conviction.</p>
+      <p>[Loretta Sanchez] It seems to me <br/>all the times</p>
+      <p>that I've looked at these things</p>
+      <p>that the command is the one <br/>who has such so much discretion.</p>
+      <p>[Kori Cioca] I think the advocate<br/>should actually be civilians.</p>
+      <p>Not ones that work in the military.</p>
+      <p>I think we should have actual units,<br/>civilian units.</p>
+      <p>[Rep. Jackie Speiere] It absolutely tears<br/>my inside to think</p>
+      <p>that this has been going on <br/>as long as it's been going on</p>
+      <p>and we've never addressed it.</p>
+      <p>[Rep. Ted Poe]<br/>All people in the military must know,</p>
+      <p>if you're a perpetrator of sexual assault</p>
+      <p>against someone else in the military,<br/>we'll be to you.</p>
+      <p>You're going to be held accountable.</p>
+      <p>[Myla Haider] As a CID agent, <br/>I found it tremendously frustrating</p>
+      <p>when I would demonstrate that <br/>an offender had committed an offense,</p>
+      <p>and taking it to a commander <br/>and having a commander</p>
+      <p>being the deciding authority.</p>
+      <p>You know, I don't think commanders <br/>are capable</p>
+      <p>of making an objective decision.</p>
+      <p>I do not think it should be in their hands.</p>
+      <p>[Rep. Niki Tsongas] So you would suggest <br/>taking the discretion away from them?</p>
+      <p>[Myla Haider] Yes, absolutely.</p>
+      <p>[Rep. Niki Tsongas] <br/>Congresswoman Davis and I</p>
+      <p>are both on the <br/>armed services committee.</p>
+      <p>[Rep. Susan Davis] There are <br/>a number of issues</p>
+      <p>that you've raised <br/>that makes me want to go back</p>
+      <p>and particularly take another look.</p>
+      <p>[Rep. Loretta Sanchez] On an <br/>emotional basis,</p>
+      <p>what happens after a crime like<br/>that has been committed</p>
+      <p>is a difficult thing to go through,<br/>and don't think I don't know. I know.</p>
+      <p>[Rep. Chellie Pingree] The fact <br/>that you're willing to tell us</p>
+      <p>your stories first hand,<br/>makes it much easier for us to go back</p>
+      <p>and to say you know these are policies<br/>we have to change.</p>
+      <p>It's a big deal what you're doing.</p>
+      <p>[Kori Cioca] You rarely find people<br/>who stand up for us,</p>
+      <p>and just thank you so much <br/>for everything that you do.</p>
+      <p>[Rep. Ted Poe] Last year, <br/>the military received over 3,000 reports</p>
+      <p>of sexual assault involving <br/>other members in the service.</p>
+      <p>This week, 17 veterans are saying<br/>the military ignored their cases</p>
+      <p>of sexual assault<br/>while they were on active duty.</p>
+      <p>[Rep. Jackie Speiere] Today I'm going <br/>to talk about seaman Kori Cioca</p>
+      <p>who served in the Coast Guard<br/>from August 2005 to June 2007.</p>
+      <p>She now suffers from PTSD <br/>and an abnormal EEG</p>
+      <p>due to nerve damage in her face.</p>
+      <p>Cioca later told the press, <br/>"It's like they didn't care.</p>
+      <p>It wasn't important, <br/>I wasn't important."</p>
+      <p>[Kori Cioca] So, we're eating <br/>at Bob Evans'</p>
+      <p>and I overhear a girl <br/>talking about getting ready</p>
+      <p>to go into the military,<br/>so I go over there and try to talk to her.</p>
+      <p>Has anybody told you what to<br/>watch for or anything?</p>
+      <p>[Waitress] My boyfriend's in the navy.</p>
+      <p>[Kori Cioca] So, he knows <br/>how tough it is for women.</p>
+      <p>[Waitress] Yeah, he's been in <br/>for a couple of months now.</p>
+      <p>[Kori Cioca] So, how does he feel <br/>about you joining?</p>
+      <p>Like, isn't he scared that the men <br/>will do something?</p>
+      <p>[Waitress] He's a little scared <br/>but he knows I can take care of myself.</p>
+      <p>[Kori Cioca] Oh I thought so too,<br/>so be careful.</p>
+      <p>I definitely let her know that maybe<br/>she should reconsider college</p>
+      <p>and getting a degree.<br/>It'll save her some of the trouble.</p>
+      <p>I wish someone would have told me that.</p>
+      <p>You try to take care okay? <br/>You can still back out.</p>
+      <p>You can be a civilian worker.</p>
+      <p>[Wairess] Yeah, thank you. <br/>I'm not signed yet.</p>
+      <p>[Kori Cioca] Okay, well, just be careful.</p>
+      <p>[Maiette Wells] People always ask me, <br/>"Was it worth it going in?"</p>
+      <p>The idea of it is honorable. <br/>Serving your country is great.</p>
+      <p>There are good people in it,<br/>and then there are people</p>
+      <p>who will end up ruining your life.</p>
+      <p>[Lt. Ariana Klay] Just the other day,<br/>I saw a girl running along the road.</p>
+      <p>She looked like she<br/>was about high school age.</p>
+      <p>She was wearing a USMC T&#8208;shirt, <br/>and I thought that, if she joins,</p>
+      <p>then she's going to have to accept rape <br/>and destruction of her life.</p>
+      <p>I cannot in good faith, I cannot recommend<br/>anyone to join with the way</p>
+      <p>the organization is set up now.<br/>I would not wish that on anyone.</p>
+      <p>[Rep. Chellie Pingree] You can't ask<br/>women to serve</p>
+      <p>and then say, "Oh by the way, if you get<br/>in one of these horrendous situations,</p>
+      <p>we won't be there to back you up <br/>or to help you."</p>
+      <p>[Rep. Loretta Sanchez] When I would do <br/>nominations for the air force academy,</p>
+      <p>it was difficult to talk to parents <br/>and say,</p>
+      <p>"Don't worry, she's not going to get raped."</p>
+      <p>[Christina Jones] No. I would tell<br/>my daughter not to join the military.</p>
+      <p>They have good things to offer <br/>but a rape is not one of them.</p>
+      <p>[Miette Wells] Not in my lifetime. <br/>She's not joining, no.</p>
+      <p>[Rob McDonald] I would be terrified <br/>if my daughter wanted to join the military.</p>
+      <p>I would have a serious long talk <br/>and hope that the one thing</p>
+      <p>is that's what she'd listen to.</p>
+      <p>[Brigadier Gen. Loree Sutton]<br/>Losing even one soldier,</p>
+      <p>needlessly, because of military sexual<br/>trauma, is one too many.</p>
+      <p>[Kori Cioca] I'm going to get the mail. <br/>Fingers crossed. Here's my fate.</p>
+      <p>[Rob McDonald] What does it say?</p>
+      <p>[Kori Cioca] Effective October 20th 2009. <br/>My overall combined rating is 70%.</p>
+      <p>Wait. Service connection for anxiety<br/>is denied,</p>
+      <p>service connection for disk placement</p>
+      <p>and bilateral disk displacement<br/>is denied.</p>
+      <p>Those motherfuckers, man. <br/>Oh, my god.</p>
+      <p>My face doesn't have any disks in it, <br/>that's what the x&#8208;rays show.</p>
+      <p>[Rob McDonald] How can you deny <br/>medical help when there's x&#8208;rays?</p>
+      <p>If you do not agree with our decision <br/>you should write us and tell us why.</p>
+      <p>[Kori Cioca]<br/>'Cause you're an asshole.</p>
+      <p>[Rob McDonald] And you<br/>should identify specific issues.</p>
+      <p>[Kori Cioca] You're an idiot.</p>
+      <p>[Rob McDonald] The evidence<br/>that was reviewed showed that</p>
+      <p>you served whatever, which is less than <br/>minimum active duty requirements</p>
+      <p>for disability pension.</p>
+      <p>But it wasn't your choice.</p>
+      <p>[Kori Cioca] They're going <br/>to punish me for what they did,</p>
+      <p>because I was short two months <br/>of two years. I know.</p>
+      <p>I feel the same way, Shea.</p>
+      <p>[Dr. Kaye Whitley] It's nice to see you again <br/>and thank you for coming.</p>
+      <p>You have been provided highlights <br/>of the numbers of the report</p>
+      <p>and I'm going to walk you<br/>through those slides,</p>
+      <p>then I'm going to play a short <br/>public service announcement</p>
+      <p>and then we can entertain questions.</p>
+      <p>I think the prevention aspect <br/>of sexual assault</p>
+      <p>goes back in some ways to risk reduction.</p>
+      <p>*[Kirby] What is risk reduction? *</p>
+      <p>[Dr. Kaye Whitley] Risk reductions <br/>are ideas like telling women to--</p>
+      <p>if they're going to go somewhere, <br/>always have a buddy with them.</p>
+      <p>*[Kirby] Are there other examples<br/>of risk reduction? *</p>
+      <p>[Dr. Kaye Whitley] I'm not familiar, <br/>but that's out of my area of expertise.</p>
+      <p>$$ August 1, 2011, <br/>Major General Mary Kay Hertog</p>
+      <p>replaces Kaye Whitley as the Director <br/>of the Sexual Assault and Prevention Office. $$</p>
+      <p>[Major Gen. Mary Kay Hertog] Well,<br/>I want to continue where Dr. Whitley left off.</p>
+      <p>Looking at where our focus is and that's <br/>on prevention as well as response,</p>
+      <p>we've really done a very good job there <br/>and the credit goes to Dr. Whitley</p>
+      <p>and her staff that has been working this <br/>the past five to years years.</p>
+      <p>[Rep. Mike Turner] I don't think<br/>the Department of Defense</p>
+      <p>has really yet embraced that they have<br/>a sexual assault problem</p>
+      <p>that its not just an issue <br/>of a cultural environment</p>
+      <p>or that the people at risk <br/>of sexual assault.</p>
+      <p>The system itself does not value<br/>the rights of victims</p>
+      <p>and doesn't provide them<br/>adequate protection.</p>
+      <p>[Major Gen. Mary Kay Hertog] You know, <br/>I have heard the accusations as well,</p>
+      <p>that commanders are sweeping this <br/>under the carpet.</p>
+      <p>Now, what I would say to the people <br/>that have come forward to you is that,</p>
+      <p>if you feel that your commander is <br/>ignoring what you have asked them to do,</p>
+      <p>if they are not taking care of you<br/>within that chain of command,</p>
+      <p>you need to go to the DOD,</p>
+      <p>the Department of Defense Inspector General.</p>
+      <p>[Rep. Jackie Speier] The GAO, <br/>General Accounting Office,</p>
+      <p>just did a study, a report and guess what,<br/>not one, not one case,</p>
+      <p>of more than 2,500 has been reviewed</p>
+      <p>and investigated<br/>by the inspector general,</p>
+      <p>and when asked about that,<br/>the inspector general said,</p>
+      <p>"Well, we have other higher priorities."</p>
+      <p>[Susan Burke] What you really want<br/>is you want there to be a system akin</p>
+      <p>to a civilian system <br/>where you go to the police</p>
+      <p>and the crime is prosecuted <br/>by an impartial judicial system.</p>
+      <p>[Major Gen. Mary Kay Hertog] <br/>As a commander, you have no favorites.</p>
+      <p>You are equally to take care <br/>of every single person</p>
+      <p>in your organization.<br/>That's what command is all about.</p>
+      <p>[Rep. Susan Burke] These are<br/>human beings just like everyone else.</p>
+      <p>You cannot be impartial when you <br/>are involved with people in other settings.</p>
+      <p>[Admiral Anthony Kurta] I would take <br/>exception with your characterization</p>
+      <p>that the disposition of the case <br/>is based on the relationship</p>
+      <p>between the commander<br/>and the alleged perpetrator.</p>
+      <p>$$ 33% of female soldiers<br/>didn't report their rape</p>
+      <p>because the person to report to <br/>was a friend of the rapist. $$</p>
+      <p>[Major Gen. Mary Kay Hertog] <br/>I'm going to speak to you</p>
+      <p>with my former commander's hat on.</p>
+      <p>There is absolutely <br/>no conflict of interest.</p>
+      <p>You do what the right thing is to do.</p>
+      <p>You have other avenues and if you feel like you <br/>have not been taken care adequately</p>
+      <p>by your commander,<br/>go up through your congressman,</p>
+      <p>or congresswoman, <br/>file a complaint that way.</p>
+      <p>[Rep. Susan Burke] You can't go to your congressman<br/>to obtain justice for being raped,</p>
+      <p>I mean, imagine how silly that is,<br/>imagine if you told civilians that,</p>
+      <p>"Oh jeez, sorry you were raped, <br/>go talk to your congressman."</p>
+      <p>$$ Many of our closest NATO allies <br/>no longer allow commanders</p>
+      <p>to determine the prosecution <br/>of sexual assault cases. $$</p>
+      <p>*[Amy] If you could say something <br/>to this guy,*</p>
+      <p>what would you want to say to him?</p>
+      <p>[Jessica Hinves] I don't know.<br/>I don't think it's affected his life at all.</p>
+      <p>And people in my old squadron <br/>that I've talked to,</p>
+      <p>they don't see an effect on him at all,<br/>and that hurts</p>
+      <p>because it's a struggle every day <br/>and it's completely changed who I am.</p>
+      <p>[Kori Cioca] I'm really hoping he falls off <br/>a coast guard boat</p>
+      <p>and they never find him.<br/>I'm really hoping for that.</p>
+      <p>Or there's a poor mishap <br/>and got chopped up by the prop.</p>
+      <p>[Rob McDonald] That would be great.</p>
+      <p>[Kori Cioca] That would be great.</p>
+      <p>[Rob McDonald] That would be <br/>an exciting day.</p>
+      <p>[Kori Cioca] It would.<br/>I'd probably celebrate.</p>
+      <p>[Trina McDonald] I hope this <br/>reaches them too, you know.</p>
+      <p>I hope that somewhere<br/>someone sees my face,</p>
+      <p>you know, wherever it is, and goes,</p>
+      <p>"I know them.", <br/>and they're talking about me</p>
+      <p>because they know what they did.</p>
+      <p>And then all they'll have to mutter <br/>is to some friend that goes,</p>
+      <p>"Hey weren't we stationed with her?"<br/>and then it can't be a secret anymore.</p>
+      <p>So hopefully they have to deal with it too,</p>
+      <p>you know, <br/>in some way shape or form.</p>
+      <p>[Helen Benedict] Most rapists<br/>are repetitive criminals.</p>
+      <p>It's a kind of crime<br/>that has an obsessive quality</p>
+      <p>so people do it again and again.</p>
+      <p>So the tragedy of that is<br/>that every one of these guys</p>
+      <p>who gets off freely, will be doing it <br/>to other women, again and again,</p>
+      <p>often for years and years and years.</p>
+      <p>[Russell Strand] The average sex offender <br/>in their lifetime has about 300 victims,</p>
+      <p>and the vast majority of sex offenders<br/>will never be caught.</p>
+      <p>[Myla Haider] A lot of civilians see it <br/>as being a military problem,</p>
+      <p>but it really isn't. Because 5% or less <br/>of reported offenders are convicted,</p>
+      <p>so almost none of them wind up<br/>on the sex offender registry.</p>
+      <p>[Major Gen. Mary Kay Hertog] <br/>There is no military sex offender list</p>
+      <p>that I'm aware of but, if you're convicted<br/>in court, a felony conviction</p>
+      <p>of sex offense of a sex offense,<br/>you're going to go on the national list.</p>
+      <p>*[Kirby] For any sex offense whatsoever? *</p>
+      <p>[Major Gen. Mary Kay Hertog] Correct.</p>
+      <p>[Stace Nelson] That is not the case.<br/>It depends on what level conviction they got.</p>
+      <p>If they received over a year,<br/>then that's considered a felony.</p>
+      <p>But a lot of these cases are plead down, <br/>so that they're not felonies.</p>
+      <p>The military doesn't like<br/>to prosecute people</p>
+      <p>and keep them as felony convictions.</p>
+      <p>[Russell Strand] I often ask myself <br/>the question, "Why would they stop?",</p>
+      <p>and if there's nothing to stop them<br/>like incarceration,</p>
+      <p>or some other major life change, <br/>they're going to continue.</p>
+      <p>[Stace Nelson] If you run <br/>a sexual predator</p>
+      <p>through the judicial system</p>
+      <p>and then you slap him on <br/>the hand all you've done,</p>
+      <p>is you've done the equivalent of the <br/>catch and release program.</p>
+      <p>You've caught them, <br/>you've educated them,</p>
+      <p>and now you've released them back<br/>into hometown America.</p>
+      <p>He now knows a lot more<br/>about the law enforcement,</p>
+      <p>the judicial system, than he did <br/>when he first started,</p>
+      <p>which makes him a much more<br/>capable criminal,</p>
+      <p>and a much more dangerous criminal.</p>
+      <p>[Capt. Anu Bhagwati] They go on to<br/>literally prey on women and men</p>
+      <p>in our neighborhoods<br/>across the United States.</p>
+      <p>If we don't care about women and men <br/>in the military, then we should hopefully care</p>
+      <p>about women and men, girls and boys<br/>in our neighborhood back home.</p>
+      <p>$$ In December 2011, the Court dismissed<br/>the survivor's lawsuit ruling that rape is an</p>
+      <p>occupational hazard of military service.<br/>An appeal has been filed. $$</p>
+      <p>[Helen Benedict] The thing that broke <br/>my heart the most about this story,</p>
+      <p>was the young women who went in <br/>with such idealism,</p>
+      <p>I want to serve my country, <br/>I want to give back.</p>
+      <p>To see a young person's hope and idealism <br/>crushed in that brutal way,</p>
+      <p>I think we owe our young people<br/>more than that.</p>
+      <p>[Rep. Chellie Pingree] Increasingly,<br/>women are becoming</p>
+      <p>some of the best&#8208;trained officials<br/>that we have in the military.</p>
+      <p>These are great soldiers <br/>and we can't afford to lose them.</p>
+      <p>[Sara Albertson] Yeah, I'm happy<br/>I never have to wear that again.</p>
+      <p>[Paula Coughlin] People deeply believe<br/>in their hearts to serve their country.</p>
+      <p>They should be given that chance,<br/>with respect.</p>
+      <p>You know, it's part of really <br/>our American way.</p>
+      <p>[Kori Cioca] Do you think we deserve<br/>a purple heart</p>
+      <p>because we were wounded<br/>in a time of war?</p>
+      <p>[Regina Vasquez] They're never going <br/>to give us one.</p>
+      <p>[Kori Cioca] I know, but I'm just saying <br/>maybe there should be a ribbon</p>
+      <p>for women who have survived it.</p>
+      <p>[Dennis Laich] We have a good army,<br/>a good military, but not a great one</p>
+      <p>and this is the kind of issue that keeps <br/>our military from being great.</p>
+      <p>[Brigadier Gen. Loree Sutton] We can <br/>view this as a shared challenge.</p>
+      <p>It's not just a woman's issue, <br/>it's not just something</p>
+      <p>the military has to deal with,<br/>but it's society.</p>
+      <p>We're all in this together. <br/>It's our national duty.</p>
+      <p>$$ Five, years after her attack, <br/>Kori is still trying to get coverage</p>
+      <p>for her jaw surgery from the <br/>Veterans Administration.</p>
+      <p>Her assailant is still in the Coast Guard <br/>and lives in Charleston, South Carolina. $$</p>
+      <p>$$ Ariana is pursuing her Masters Degree<br/>in Social Work to help survivors</p>
+      <p>or military sexual assault. <br/>Her assault was court&#8208;martialed</p>
+      <p>and found guilty of adultery and <br/>indecent language. $$</p>
+      <p>$$ Elle is working for a corporation <br/>and lives in South Carolina.</p>
+      <p>Her assailant has recently been promoted <br/>to lieutenant colonel. $$</p>
+      <p>$$ Michael and his wife are helping<br/>promote awareness</p>
+      <p>of male military sexual assault. <br/>He does not know the identity of his assailants</p>
+      <p>or where they are today. $$</p>
+      <p>$$ Jessica and her husband had a baby boy<br/>and are raising him in Virginia.</p>
+      <p>Her assailant is still in the Air Force <br/>and was awarded 'Airman of the Year'</p>
+      <p>during her rape investigation. $$</p>
+      <p>$$ Hannah's father, Jerry, <br/>is returning from Iraq</p>
+      <p>after a one&#8208;year deployment. <br/>Her assailant is still in the Navy</p>
+      <p>and stationed three hours<br/>from her home in Kentucky. $$</p>
+      <p>$$ Myla's assailant became a supervisor <br/>at a major U.S. corporation</p>
+      <p>and sexually assaulted a<br/>female employee.</p>
+      <p>He was never charged <br/>and now lives in Queens, New York. $$</p>
+      <p>$$ Sign the petition to take the decision <br/>to prosecute and investigate rape</p>
+      <p>out of the hands of commanders. <br/>Go to invisiblewarmovie.com. $$</p>
+      <p>$$ Seek ways to help MST survivors.<br/>Volunteer at your local VA Center.</p>
+      <p>Host a screening of this film. <br/>If everyone knows, it can't be a secret. $$</p>
+      <p>$$Listen to a veteran and ask them <br/>to share their story.</p>
+      <p>Let them know they are not invisible. $$</p>
+    </div>
+  </body>
+</tt>

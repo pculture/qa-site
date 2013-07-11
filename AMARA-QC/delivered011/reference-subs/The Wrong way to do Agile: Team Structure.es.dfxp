@@ -1,0 +1,40 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:00,000" end="00:00:05,542">&#9834; [Music] &#9834;</p>
+      <p begin="00:00:05,542" end="00:00:08,678">Chet Rong aqu&#237; con la manera<br/>equivocada de trabajar en Agile</p>
+      <p begin="00:00:08,678" end="00:00:10,639">hoy d&#237;a, estructura de equipo</p>
+      <p begin="00:00:10,639" end="00:00:12,923">Primero, has que el due&#241;o del producto</p>
+      <p begin="00:00:12,923" end="00:00:15,000">y el jefe de Scrum sean la misma persona,</p>
+      <p begin="00:00:15,000" end="00:00:17,623">b&#225;sicamente hacen lo mismo, cierto.</p>
+      <p begin="00:00:18,808" end="00:00:20,446">Siempre pon al jefe en el equipo,</p>
+      <p begin="00:00:20,446" end="00:00:22,395">eso mantiene a los<br/>desarrolladores motivados</p>
+      <p begin="00:00:22,395" end="00:00:26,261">[girl screaming]</p>
+      <p begin="00:00:26,261" end="00:00:28,567">Claro, los equipos deben<br/>tener personas</p>
+      <p begin="00:00:28,567" end="00:00:29,676">con roles complementarios</p>
+      <p begin="00:00:29,676" end="00:00:31,140">para diferentes partes de la compa&#241;ia.</p>
+      <p begin="00:00:31,140" end="00:00:32,382">pero si el presupuesto es muy alto,</p>
+      <p begin="00:00:32,382" end="00:00:34,805">tomens&#233; la libertad de sacar el QA.</p>
+      <p begin="00:00:34,805" end="00:00:35,867">[poof sound]</p>
+      <p begin="00:00:35,867" end="00:00:37,653">[collective gasp]</p>
+      <p begin="00:00:37,653" end="00:00:39,015">si todos hacen su trabajo</p>
+      <p begin="00:00:39,015" end="00:00:40,723">el control de calidad no es importante.</p>
+      <p begin="00:00:40,723" end="00:00:43,069">[small explosion]</p>
+      <p begin="00:00:43,069" end="00:00:46,058">y esa es la forma erronea de<br/>crear estructura de equipo.</p>
+      <p begin="00:00:46,058" end="00:00:50,058">&#9834; [Music] &#9834;</p>
+    </div>
+  </body>
+</tt>

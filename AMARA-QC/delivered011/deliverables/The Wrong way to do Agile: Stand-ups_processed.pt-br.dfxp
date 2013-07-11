@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00,000" end="00:00:01,328"/>
+      <p begin="00:00:01,328" end="00:00:02,287">- Ugh!</p>
+      <p begin="00:00:02,287" end="00:00:04,663"/>
+      <p begin="00:00:06,332" end="00:00:09,300">Chet Rong com o jeito Rong de fazer Agile.</p>
+      <p begin="00:00:09,300" end="00:00:11,317">Hoje, "stand-ups".</p>
+      <p begin="00:00:11,317" end="00:00:13,757">Primeiro, fa&#231;a "stand-ups" sentado</p>
+      <p begin="00:00:13,757" end="00:00:16,008">assim todos ficaram confort&#225;veis.</p>
+      <p begin="00:00:16,008" end="00:00:19,220">Quanto mais gente melhor, ent&#227;o<br/>convite todo o escrit&#243;rio.</p>
+      <p begin="00:00:19,220" end="00:00:20,854">Certifique-se de variar <br/>o hor&#225;rio e os lugares da reuni&#227;o</p>
+      <p begin="00:00:20,854" end="00:00:22,926">para manter todos acordados.</p>
+      <p begin="00:00:22,926" end="00:00:24,393">- Hello?</p>
+      <p begin="00:00:24,393" end="00:00:26,393">- Depois, passe um objeto pela sala</p>
+      <p begin="00:00:26,393" end="00:00:27,856">e certifique-se de que o objeto &#233; pesado</p>
+      <p begin="00:00:27,856" end="00:00:30,980">assim todos podem sentir o peso<br/>do que est&#225; sendo dito.</p>
+      <p begin="00:00:30,980" end="00:00:33,467">Quem estiver segurando o objeto<br/>deve escutar</p>
+      <p begin="00:00:33,467" end="00:00:34,628">enquanto todo os outros falam.</p>
+      <p begin="00:00:34,628" end="00:00:37,823">Fale sobre tudo que precisar e<br/>por quanto tempo precisar.</p>
+      <p begin="00:00:37,823" end="00:00:41,427">Discuta todas e quaisquer <br/>quest&#245;es at&#233; o fim.</p>
+      <p begin="00:00:41,427" end="00:00:48,416"/>
+      <p begin="00:00:48,416" end="00:00:50,087">Estas reuni&#245;es acontecer&#227;o<br/>na maior parte das manh&#227;s</p>
+      <p begin="00:00:50,087" end="00:00:51,669">mas voc&#234; ainda tem algumas horas<br/>na parte da tarde</p>
+      <p begin="00:00:51,669" end="00:00:53,679">para que o projeto seja feito.</p>
+      <p begin="00:00:53,679" end="00:00:54,838"/>
+      <p begin="00:00:54,838" end="00:00:57,214">Este &#233; o jeito Rong de fazer "stand-ups".</p>
+      <p begin="00:00:57,214" end="00:01:01,214"/>
+    </div>
+  </body>
+
+</tt>

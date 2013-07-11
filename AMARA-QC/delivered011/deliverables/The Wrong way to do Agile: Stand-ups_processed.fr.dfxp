@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00,000" end="00:00:01,328"/>
+      <p begin="00:00:01,328" end="00:00:02,287">- Ugh!</p>
+      <p begin="00:00:02,287" end="00:00:04,663"/>
+      <p begin="00:00:06,332" end="00:00:09,300">Chet Rong ici avec<br/>la fa&#231;on Rong de faire Agile.</p>
+      <p begin="00:00:09,300" end="00:00:11,317">Aujourd'hui, "stand-up".</p>
+      <p begin="00:00:11,317" end="00:00:13,757">D'abord, faites "stand-ups" assis</p>
+      <p begin="00:00:13,757" end="00:00:16,008">comme &#231;a tout le monde sera &#224; l'aise.</p>
+      <p begin="00:00:16,008" end="00:00:19,220">Plus des gens c'est mieux, alors<br/>invitez tout le monde au bureau.</p>
+      <p begin="00:00:19,220" end="00:00:20,854">Assurez-vous de modifier<br/>l'heure et le lieu de la r&#233;union</p>
+      <p begin="00:00:20,854" end="00:00:22,926">pour tenir tout le monde &#233;veill&#233;.</p>
+      <p begin="00:00:22,926" end="00:00:24,393">- All&#244;?</p>
+      <p begin="00:00:24,393" end="00:00:26,393">- Puis d&#233;placez un objet<br/>&#224; travers la pi&#232;ce</p>
+      <p begin="00:00:26,393" end="00:00:27,856">et assurez-vous que l'objet est lourd</p>
+      <p begin="00:00:27,856" end="00:00:30,980">afin que chacun puisse sentir le poids<br/>de ce qui est dit.</p>
+      <p begin="00:00:30,980" end="00:00:33,467">Celui qui tient l'objet<br/>doit &#233;couter</p>
+      <p begin="00:00:33,467" end="00:00:34,628">tandis que tous les autres parlent.</p>
+      <p begin="00:00:34,628" end="00:00:37,823">Parlez de tout ce dont vous avez besoin et<br/>tout le temps dont vous pr&#233;cisez..</p>
+      <p begin="00:00:37,823" end="00:00:41,427">Discutez de tout et n'importe <br/>quoi jusqu'&#224; la fin.</p>
+      <p begin="00:00:41,427" end="00:00:48,416"/>
+      <p begin="00:00:48,416" end="00:00:50,087">La plupart ces r&#233;unions aura lieu<br/>pendant les matins</p>
+      <p begin="00:00:50,087" end="00:00:51,669">mais vous avez encore quelques heures<br/>dans l'apr&#232;s-midi</p>
+      <p begin="00:00:51,669" end="00:00:53,679">pour que le projet soit-il fait.</p>
+      <p begin="00:00:53,679" end="00:00:54,838"/>
+      <p begin="00:00:54,838" end="00:00:57,214">C'est la fa&#231;on Rong de "stand-ups".</p>
+      <p begin="00:00:57,214" end="00:01:01,214"/>
+    </div>
+  </body>
+
+</tt>
