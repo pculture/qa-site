@@ -1,0 +1,468 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="it">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:02.000" end="00:00:04.000">[Nessun suono]</p>
+      <p begin="00:00:06.033" end="00:00:13.000">[Anatre che schiamazzano]</p>
+      <p begin="00:00:19.000" end="00:00:23.633">[Musica dal ritmo veloce]</p>
+      <p begin="00:00:23.700" end="00:00:27.433">Birra -- Spumeggiante, dorata,</p>
+      <p begin="00:00:27.500" end="00:00:29.333">pura, rinfrescante.</p>
+      <p begin="00:00:37.433" end="00:00:39.533">&#9834; LIGHT, LIGHT, LIGHT, YEAH &#9834;</p>
+      <p begin="00:00:39.600" end="00:00:42.200">La birra &#232; la bevanda dell'America.</p>
+      <p begin="00:00:42.267" end="00:00:43.667">Quasi tutto ci&#242;</p>
+      <p begin="00:00:43.733" end="00:00:45.200">che in America &#232; importante</p>
+      <p begin="00:00:45.267" end="00:00:46.033">gravita intorno alla birra.</p>
+      <p begin="00:00:46.100" end="00:00:47.000">Una birra, Norm?</p>
+      <p begin="00:00:47.067" end="00:00:48.600">Quella cosa dorata con la schiuma,</p>
+      <p begin="00:00:48.667" end="00:00:49.500">giusto?</p>
+      <p begin="00:00:49.567" end="00:00:49.933">Esatto.</p>
+      <p begin="00:00:50.000" end="00:00:51.100">Eh si, ne ho sentito</p>
+      <p begin="00:00:51.167" end="00:00:51.767">parlare bene.</p>
+      <p begin="00:00:51.833" end="00:00:52.867">[risate]</p>
+      <p begin="00:00:52.933" end="00:00:54.333">Si sa, gli americani amano</p>
+      <p begin="00:00:54.400" end="00:00:54.800">la birra.</p>
+      <p begin="00:00:54.867" end="00:00:56.300">Beh, &#232; come la mamma,</p>
+      <p begin="00:00:56.367" end="00:00:57.400">Dio e l'apple pie.</p>
+      <p begin="00:00:57.467" end="00:00:59.167">Ora la birra &#232; ghiacciata e</p>
+      <p begin="00:00:59.233" end="00:01:00.533">Ingrid la serve nel</p>
+      <p begin="00:01:00.600" end="00:01:02.167">modo tradizionale: con una</p>
+      <p begin="00:01:02.233" end="00:01:03.567">caraffa decorata da una ghirlanda</p>
+      <p begin="00:01:03.633" end="00:01:04.233">di foglie.</p>
+      <p begin="00:01:04.300" end="00:01:04.767">Mmm!</p>
+      <p begin="00:01:04.833" end="00:01:07.000">Credo che negli Stati Uniti</p>
+      <p begin="00:01:07.067" end="00:01:09.000">la birra sia per gli adulti quello che</p>
+      <p begin="00:01:09.067" end="00:01:10.300">per i bambini &#232; l'orsacchiotto.</p>
+      <p begin="00:01:10.367" end="00:01:12.733">Questi uomini trovano il tipo di</p>
+      <p begin="00:01:12.800" end="00:01:15.300">relax e sollievo di cui hanno bisogno</p>
+      <p begin="00:01:15.367" end="00:01:17.333">in un bicchiere di birra fredda.</p>
+      <p begin="00:01:17.400" end="00:01:20.567">Per loro, non c'&#232; niente di meglio di una birra.</p>
+      <p begin="00:01:20.633" end="00:01:22.067">&#9834; Credo ne prender&#242; una fredda &#9834;</p>
+      <p begin="00:01:22.133" end="00:01:24.167">&#9834; Prender&#242; un'altra birra &#9834; &#9834; Grazie&#9834;</p>
+      <p begin="00:01:24.233" end="00:01:25.933">Per un lunghissimo periodo</p>
+      <p begin="00:01:26.000" end="00:01:27.733">non abbiamo avuto scelta.</p>
+      <p begin="00:01:27.800" end="00:01:29.400">Non c'era altro che quella</p>
+      <p begin="00:01:29.467" end="00:01:31.233">specie di birra frizzante, gialla</p>
+      <p begin="00:01:31.300" end="00:01:32.533">insapore e leggera.</p>
+      <p begin="00:01:32.600" end="00:01:33.767">Non bisogna proprio prenderla</p>
+      <p begin="00:01:33.833" end="00:01:35.033">in considerazione perch&#233; non c'&#232; davvero</p>
+      <p begin="00:01:35.100" end="00:01:36.033">nulla da prendere in considerazione</p>
+      <p begin="00:01:36.100" end="00:01:38.000">La birra americana &#232;</p>
+      <p begin="00:01:38.067" end="00:01:39.867">un po' come fare l'amore in una</p>
+      <p begin="00:01:39.933" end="00:01:40.467">canoa.</p>
+      <p begin="00:01:40.533" end="00:01:42.500">Fare l'amore in una canoa?</p>
+      <p begin="00:01:42.567" end="00:01:44.367">&#200; maledettamente vicina all'acqua.</p>
+      <p begin="00:01:44.433" end="00:01:45.233">[risate]</p>
+      <p begin="00:01:45.300" end="00:01:46.767">Ma adesso vediamo che un maggior numero di</p>
+      <p begin="00:01:46.833" end="00:01:48.267">consumatori stanno passando dalle</p>
+      <p begin="00:01:48.333" end="00:01:49.900">birre di produzione di massa a quelle</p>
+      <p begin="00:01:49.967" end="00:01:51.467">pi&#249; artigianali</p>
+      <p begin="00:01:51.533" end="00:01:53.200">prodotte negli USA</p>
+      <p begin="00:01:53.267" end="00:01:54.700">Che state bevendo ragazzi?</p>
+      <p begin="00:01:54.767" end="00:01:56.167">Sto bevendo una Blue Moon.</p>
+      <p begin="00:01:56.233" end="00:01:56.900">Una Fat Tire.</p>
+      <p begin="00:01:56.967" end="00:01:57.867">Una Sierra Nevada.</p>
+      <p begin="00:01:57.933" end="00:01:58.767">Una Rolling Rock.</p>
+      <p begin="00:01:58.833" end="00:02:00.000">Una Sam Adams Summer Ale.</p>
+      <p begin="00:02:00.067" end="00:02:01.100">Una Pabst Blue Ribbon.</p>
+      <p begin="00:02:01.167" end="00:02:02.033">Una Anchor Steam.</p>
+      <p begin="00:02:02.100" end="00:02:03.267">Sto bevendo una Arrogant</p>
+      <p begin="00:02:03.333" end="00:02:03.833">Bastard.</p>
+      <p begin="00:02:03.900" end="00:02:06.067">La rinascita della birra in</p>
+      <p begin="00:02:06.133" end="00:02:08.667">questo paese &#232; andata ben oltre</p>
+      <p begin="00:02:08.733" end="00:02:10.867">le mie speranze pi&#249; entusiastiche.</p>
+      <p begin="00:02:10.933" end="00:02:12.967">Oggi, gli Stati Uniti hanno</p>
+      <p begin="00:02:13.033" end="00:02:15.033">un assortimento di birre maggiore rispetto a</p>
+      <p begin="00:02:15.100" end="00:02:17.200">qualunque altro paese al mondo.</p>
+      <p begin="00:02:17.267" end="00:02:19.133">Gli americani bevono parecchia</p>
+      <p begin="00:02:19.200" end="00:02:22.033">birra, per un ammontare di 97 milioni di dollari</p>
+      <p begin="00:02:22.100" end="00:02:22.967">lo scorso anno</p>
+      <p begin="00:02:23.033" end="00:02:26.633">che equivalgono a 24.82 milioni di litri di</p>
+      <p begin="00:02:26.700" end="00:02:28.033">birra.</p>
+      <p begin="00:02:28.100" end="00:02:30.100">Gran parte di questa birra &#232; stata prodotta</p>
+      <p begin="00:02:30.167" end="00:02:32.133">da una manciata di societ&#224;</p>
+      <p begin="00:02:32.200" end="00:02:34.367">multinazionali.</p>
+      <p begin="00:02:34.433" end="00:02:36.333">Mi chiamo Anat Baron e</p>
+      <p begin="00:02:36.400" end="00:02:38.467">lavoravo nel settore della birra.</p>
+      <p begin="00:02:38.533" end="00:02:39.767">Da piccola sognavo di diventare</p>
+      <p begin="00:02:39.833" end="00:02:40.400">presidente.</p>
+      <p begin="00:02:40.467" end="00:02:41.667">"Non sono un imbroglione"</p>
+      <p begin="00:02:41.733" end="00:02:43.067">Non di questo tipo...</p>
+      <p begin="00:02:43.133" end="00:02:44.533">ma di questo.</p>
+      <p begin="00:02:44.600" end="00:02:46.267">Dopo la laurea,ottenni un</p>
+      <p begin="00:02:46.333" end="00:02:47.333">lavoro in una grande societ&#224;.</p>
+      <p begin="00:02:47.400" end="00:02:49.467">Avevo un ufficio, l'assistente</p>
+      <p begin="00:02:49.533" end="00:02:50.900">e l'auto aziendale.</p>
+      <p begin="00:02:50.967" end="00:02:51.967">[Suono di clacson]</p>
+      <p begin="00:02:52.033" end="00:02:53.633">Ma la vita in una grande azienda non faceva</p>
+      <p begin="00:02:53.700" end="00:02:55.200">per me. Troppa politica e</p>
+      <p begin="00:02:55.267" end="00:02:59.300">troppe balle.</p>
+      <p begin="00:02:59.367" end="00:03:00.667">Cos&#236;, fuggii dalla giugla</p>
+      <p begin="00:03:00.733" end="00:03:01.167">delle grandi compagnie.</p>
+      <p begin="00:03:01.233" end="00:03:02.333">[Starnazzare di uccelli]</p>
+      <p begin="00:03:02.400" end="00:03:03.633">Ho avuto una societ&#224; di consulenza...</p>
+      <p begin="00:03:03.700" end="00:03:04.533">[Telefono che squilla]</p>
+      <p begin="00:03:04.600" end="00:03:05.400">... ho prodotto film.</p>
+      <p begin="00:03:05.467" end="00:03:06.467">[fruscio di un proiettore]</p>
+      <p begin="00:03:06.533" end="00:03:08.100">Ho anche partecipato al boom</p>
+      <p begin="00:03:08.167" end="00:03:08.600">di Internet.</p>
+      <p begin="00:03:08.667" end="00:03:11.167">Ma veniamo al 2001.</p>
+      <p begin="00:03:11.233" end="00:03:12.933">Un vecchio amico aveva bisogno di aiuto</p>
+      <p begin="00:03:13.000" end="00:03:14.733">con la sua piccola societ&#224; indipendente,</p>
+      <p begin="00:03:14.800" end="00:03:16.300">la Mike's Hard Lemonade.</p>
+      <p begin="00:03:16.367" end="00:03:18.067">Diamo il nostro benvenuto ad Anat Baron,</p>
+      <p begin="00:03:18.133" end="00:03:19.733">il nostro Direttore Generale pro-tempore</p>
+      <p begin="00:03:19.800" end="00:03:20.667">Boom!</p>
+      <p begin="00:03:20.733" end="00:03:22.167">Ero entrata a far parte del settore della birra.</p>
+      <p begin="00:03:22.233" end="00:03:23.733">Ero salita a bordo e avevo finito per</p>
+      <p begin="00:03:23.800" end="00:03:24.933">dirigere la societ&#224;.</p>
+      <p begin="00:03:25.000" end="00:03:26.667">La Mike non fa parte di un grosso</p>
+      <p begin="00:03:26.733" end="00:03:28.633">gruppo e quindi &#232; libera di</p>
+      <p begin="00:03:28.700" end="00:03:30.467">essere creativa e un po' come me,</p>
+      <p begin="00:03:30.533" end="00:03:31.967">un po' fuori dagli schemi.</p>
+      <p begin="00:03:32.033" end="00:03:35.100">E poi la Mike &#232; divertente</p>
+      <p begin="00:03:35.167" end="00:03:36.800">So cosa state pensando:</p>
+      <p begin="00:03:36.867" end="00:03:38.500">"Lavorare nel settore della birra?</p>
+      <p begin="00:03:38.567" end="00:03:40.100">Beh, &#232; divertente</p>
+      <p begin="00:03:40.167" end="00:03:42.233">Pensate ai vantaggi: tutta</p>
+      <p begin="00:03:42.300" end="00:03:44.600">quella birra gratis e le feste."</p>
+      <p begin="00:03:44.667" end="00:03:46.433">Non fa per me.</p>
+      <p begin="00:03:46.500" end="00:03:49.100">Sono allergica all'alcol.</p>
+      <p begin="00:03:49.167" end="00:03:50.933">Quindi, non era per la birra</p>
+      <p begin="00:03:51.000" end="00:03:51.533">gratis.</p>
+      <p begin="00:03:51.600" end="00:03:53.500">Quello che mi piaceva era competere con</p>
+      <p begin="00:03:53.567" end="00:03:55.600">le societ&#224; gigantesche che volevano vederci</p>
+      <p begin="00:03:55.667" end="00:03:56.733">scomparire.</p>
+      <p begin="00:03:56.800" end="00:03:58.833">Tre anni pi&#249; tardi, avevo deposto</p>
+      <p begin="00:03:58.900" end="00:04:00.967">le armi per andare in cerca di nuove avventure.</p>
+      <p begin="00:04:01.033" end="00:04:02.867">Ma non riuscivo a dimenticare le guerre</p>
+      <p begin="00:04:02.933" end="00:04:03.400">della birra.</p>
+      <p begin="00:04:03.467" end="00:04:04.733">I grandi produttori di birra non dovrebbero</p>
+      <p begin="00:04:04.800" end="00:04:06.233">stare l&#236; a piangersi addosso,</p>
+      <p begin="00:04:06.300" end="00:04:07.600">solo che le cose non vanno</p>
+      <p begin="00:04:07.667" end="00:04:07.933">sempre allo stesso modo.</p>
+      <p begin="00:04:08.000" end="00:04:09.333">Ci&#242; potrebbe dipendere in parte</p>
+      <p begin="00:04:09.400" end="00:04:10.700">dall'aggiungersi delle concorrenza</p>
+      <p begin="00:04:10.767" end="00:04:11.400">dei piccoli birrifici.</p>
+      <p begin="00:04:11.467" end="00:04:12.533">Le birre artigianali</p>
+      <p begin="00:04:12.600" end="00:04:13.567">stanno davvero prendendo piede.</p>
+      <p begin="00:04:13.633" end="00:04:14.733">Stanno sottraendo sempre pi&#249;</p>
+      <p begin="00:04:14.800" end="00:04:15.933">quote di mercato ai grandi produttori.</p>
+      <p begin="00:04:16.000" end="00:04:17.467">Le vendite per i re delle birre</p>
+      <p begin="00:04:17.533" end="00:04:18.900">e per altri importanti birrai stanno</p>
+      <p begin="00:04:18.967" end="00:04:20.200">gradualmente diminuendo; con una crescita del 2% o sono stabili</p>
+      <p begin="00:04:20.267" end="00:04:21.733">stanno perdendo terreno sui</p>
+      <p begin="00:04:21.800" end="00:04:22.800">produttori di superalcolici.</p>
+      <p begin="00:04:22.867" end="00:04:24.400">I veri centri di profitto per il club</p>
+      <p begin="00:04:24.467" end="00:04:26.000">del luppolo sono i birrifici piccoli e</p>
+      <p begin="00:04:26.067" end="00:04:27.800">locali.</p>
+      <p begin="00:04:27.867" end="00:04:29.067">Baron: Questo &#232;</p>
+      <p begin="00:04:29.133" end="00:04:30.867">il campo di battaglia e il santo Graal</p>
+      <p begin="00:04:30.933" end="00:04:32.867">&#232; il tuo portafoglio.</p>
+      <p begin="00:04:32.933" end="00:04:35.133">Da un lato c'&#232; l'America dei grandi gruppi</p>
+      <p begin="00:04:35.200" end="00:04:37.300">che fa di tutto per abbattere</p>
+      <p begin="00:04:37.367" end="00:04:38.400">i costi.</p>
+      <p begin="00:04:38.467" end="00:04:40.267">Dall'altro ci sono i piccoli</p>
+      <p begin="00:04:40.333" end="00:04:42.333">birrai che stanno sfidando lo</p>
+      <p begin="00:04:42.400" end="00:04:43.267">status quo.</p>
+      <p begin="00:04:43.333" end="00:04:45.267">Ma qui c'&#232; molto di pi&#249;</p>
+      <p begin="00:04:45.333" end="00:04:46.900">della birra.</p>
+      <p begin="00:04:46.967" end="00:04:50.067">In gioco c'&#232; il sogno americano.</p>
+      <p begin="00:05:10.967" end="00:05:13.800">Andiamo.</p>
+      <p begin="00:05:13.867" end="00:05:14.900">Credo sia passato almeno un anno</p>
+      <p begin="00:05:14.967" end="00:05:16.000">da quando ho incontrato parecchie di queste</p>
+      <p begin="00:05:16.067" end="00:05:17.167">persone.</p>
+      <p begin="00:05:17.233" end="00:05:19.633">E non sono proprio sicura di quale</p>
+      <p begin="00:05:19.700" end="00:05:23.600">sar&#224; la mia reazione.</p>
+      <p begin="00:05:23.667" end="00:05:24.967">Se vuoi trovare i numeri uno</p>
+      <p begin="00:05:25.033" end="00:05:26.400">dell'industria della birra</p>
+      <p begin="00:05:26.467" end="00:05:28.300">questo &#232; il posto giusto.</p>
+      <p begin="00:05:28.533" end="00:05:29.833">Il convegno annuale del settore</p>
+      <p begin="00:05:29.900" end="00:05:31.600">della birra &#232; il luogo d'incontro per</p>
+      <p begin="00:05:31.667" end="00:05:33.000">i pi&#249; importanti attori del mercato</p>
+      <p begin="00:05:33.067" end="00:05:34.200">della birra e i miei passati</p>
+      <p begin="00:05:34.267" end="00:05:36.333">contatti mi hanno permesso di avere un invito.</p>
+      <p begin="00:05:36.400" end="00:05:39.400">[Musica latino americana dal ritmo veloce]</p>
+      <p begin="00:05:39.467" end="00:05:40.133">[Scatti di macchine fotografiche]</p>
+      <p begin="00:05:40.200" end="00:05:41.567">Ma quando sono arrivata, non sembrava</p>
+      <p begin="00:05:41.633" end="00:05:42.800">stessero l&#236; a piangersi</p>
+      <p begin="00:05:42.867" end="00:05:43.300">addosso</p>
+      <p begin="00:05:43.367" end="00:05:43.567">Salve!</p>
+      <p begin="00:05:43.633" end="00:05:44.433">Anat Baron, giusto?</p>
+      <p begin="00:05:44.500" end="00:05:45.667">Baron: Si, che piacere vederti.</p>
+      <p begin="00:05:45.733" end="00:05:46.900">Piacere mio. Come va?</p>
+      <p begin="00:05:46.967" end="00:05:48.167">Baron: Bene, e tu?</p>
+      <p begin="00:05:48.233" end="00:05:48.867">Benissimo.</p>
+      <p begin="00:05:48.933" end="00:05:49.867">Sembri in gran forma.</p>
+      <p begin="00:05:49.933" end="00:05:50.800">Baron: grazie.</p>
+      <p begin="00:05:50.867" end="00:05:51.667">Come stai?</p>
+      <p begin="00:05:51.733" end="00:05:52.967">Baron: Che piacere vederti.</p>
+      <p begin="00:05:53.033" end="00:05:54.000">Che bello vederti.</p>
+      <p begin="00:05:54.067" end="00:05:55.400">Baron: Wow, c'&#232; la banda</p>
+      <p begin="00:05:55.467" end="00:05:55.800">al completo.</p>
+      <p begin="00:05:55.867" end="00:05:56.967">Allora, che c'&#232; di nuovo</p>
+      <p begin="00:05:57.033" end="00:05:57.467">nel mercato della birra?</p>
+      <p begin="00:05:57.533" end="00:05:58.667">Niente di eccitante?</p>
+      <p begin="00:05:58.733" end="00:06:00.000">La birra &#232; stata fatta fuori</p>
+      <p begin="00:06:00.067" end="00:06:01.100">per il secondo anno di fila</p>
+      <p begin="00:06:01.167" end="00:06:02.633">Stanno letteralmente cercando</p>
+      <p begin="00:06:02.700" end="00:06:03.533">di sopravvivere adesso.</p>
+      <p begin="00:06:03.600" end="00:06:05.133">La birra &#232; diventata una merce.</p>
+      <p begin="00:06:05.200" end="00:06:06.833">Ormai non ci sono pi&#249; le stesse vecchie</p>
+      <p begin="00:06:06.900" end="00:06:08.567">semplici marche nazionali.</p>
+      <p begin="00:06:08.633" end="00:06:10.000">Devi essere innovativo.</p>
+      <p begin="00:06:10.067" end="00:06:12.200">Benvenuta a bordo.</p>
+      <p begin="00:06:12.267" end="00:06:14.067">Grazie tante.</p>
+      <p begin="00:06:17.067" end="00:06:18.633">Baron: La mattina dopo c'erano solo</p>
+      <p begin="00:06:18.700" end="00:06:20.133">gli affari mentre l'industria della birra</p>
+      <p begin="00:06:20.200" end="00:06:21.700">metteva in bella mostra</p>
+      <p begin="00:06:21.767" end="00:06:22.833">le sue ultime novit&#224; e il suo meglio.</p>
+      <p begin="00:06:22.900" end="00:06:24.467">"Goditi la tua Butt e</p>
+      <p begin="00:06:24.533" end="00:06:25.733">fatti una Monkey."</p>
+      <p begin="00:06:25.800" end="00:06:27.333">Baron: Cos'&#232; una Hot N Hard</p>
+      <p begin="00:06:27.400" end="00:06:27.833">Lemonade?</p>
+      <p begin="00:06:27.900" end="00:06:29.133">E' una bevanda a base di malto con dentro</p>
+      <p begin="00:06:29.200" end="00:06:30.100">del peperoncino serrano.</p>
+      <p begin="00:06:30.167" end="00:06:31.733">Baron: Se la bevi, ti vengono</p>
+      <p begin="00:06:31.800" end="00:06:33.033">cosce cos&#236;?</p>
+      <p begin="00:06:33.100" end="00:06:34.000">Se ne bevi parecchia.</p>
+      <p begin="00:06:34.067" end="00:06:35.067">Baron: Ok, perfetto.</p>
+      <p begin="00:06:35.133" end="00:06:36.167">Qual'&#232; la sua birra preferita?</p>
+      <p begin="00:06:36.233" end="00:06:37.467">Oh, a lui piace solo fare "Quack"</p>
+      <p begin="00:06:37.533" end="00:06:38.600">quando ne apre una di tanto in tanto.</p>
+      <p begin="00:06:38.667" end="00:06:39.933">Baron: Ok!</p>
+      <p begin="00:06:40.000" end="00:06:41.833">Nel frattempo, calma piatta</p>
+      <p begin="00:06:41.900" end="00:06:44.133">allo stand della Anheuser-Busch.</p>
+      <p begin="00:06:44.200" end="00:06:45.433">Sembra ci sia un prodotto nuovo</p>
+      <p begin="00:06:45.500" end="00:06:46.467">di cui la gente parla.</p>
+      <p begin="00:06:46.533" end="00:06:46.867">No.</p>
+      <p begin="00:06:46.933" end="00:06:48.100">Qual'era l'ultima novit&#224;</p>
+      <p begin="00:06:48.167" end="00:06:49.067">che ricordate sia stata</p>
+      <p begin="00:06:49.133" end="00:06:49.467">lanciata sul mercato?</p>
+      <p begin="00:06:49.533" end="00:06:50.400">La Mike's Lemonade.</p>
+      <p begin="00:06:50.467" end="00:06:51.867">Baron: Sul serio?</p>
+      <p begin="00:06:51.933" end="00:06:53.867">Devo ammettere che mi sono mancati</p>
+      <p begin="00:06:53.933" end="00:06:55.633">questi ragazzi.</p>
+      <p begin="00:06:55.700" end="00:06:57.467">Quello che non mi &#232; mancato per&#242;</p>
+      <p begin="00:06:57.533" end="00:06:59.067">&#232; stare nelle trincee del business</p>
+      <p begin="00:06:59.133" end="00:07:00.767">della birra 24 ore su 24 e 7 giorni su 7, in una guerra che</p>
+      <p begin="00:07:00.833" end="00:07:01.700">non ha mai fine.</p>
+      <p begin="00:07:01.767" end="00:07:03.167">...&#232; un ambiente difficile</p>
+      <p begin="00:07:03.233" end="00:07:05.233">adesso per la birra del mercato nazionale.</p>
+      <p begin="00:07:05.300" end="00:07:06.633">I produttori stanno lottando per avere</p>
+      <p begin="00:07:06.700" end="00:07:08.000">il pezzo pi&#249; grosso di una torta che</p>
+      <p begin="00:07:08.067" end="00:07:09.033">non lievita.</p>
+      <p begin="00:07:09.100" end="00:07:10.367">Baron: Pensi che il settore della birra</p>
+      <p begin="00:07:10.433" end="00:07:11.300">sia, nel complesso, in declino?</p>
+      <p begin="00:07:11.367" end="00:07:12.633">Tutti i produttori di birra si sono ridimensionati.</p>
+      <p begin="00:07:12.700" end="00:07:14.433">Le birre nazionali sono in calo</p>
+      <p begin="00:07:14.500" end="00:07:15.967">un po' di pi&#249; rispetto alle altre.</p>
+      <p begin="00:07:16.033" end="00:07:17.533">le importazioni stanno crescendo in modo massiccio.</p>
+      <p begin="00:07:17.600" end="00:07:19.867">Le birre artigianali stanno prendendo piede.</p>
+      <p begin="00:07:19.933" end="00:07:21.633">La birra deve anche lottare contro</p>
+      <p begin="00:07:21.700" end="00:07:22.800">il vino e i superalcolici.</p>
+      <p begin="00:07:22.867" end="00:07:27.333">C'&#232; solo molta</p>
+      <p begin="00:07:27.400" end="00:07:28.533">incertezza.</p>
+      <p begin="00:07:28.600" end="00:07:30.367">Baron: Come siamo arrivati a questo?</p>
+      <p begin="00:07:30.433" end="00:07:32.233">Come hanno fatto tre compagnie</p>
+      <p begin="00:07:32.300" end="00:07:33.867">a dominare il mercato americano</p>
+      <p begin="00:07:33.933" end="00:07:35.300">della birra?</p>
+      <p begin="00:07:35.367" end="00:07:37.233">I fondatori della Anheuser-Busch,</p>
+      <p begin="00:07:37.300" end="00:07:38.633">della Miller e della Coors arrivarono</p>
+      <p begin="00:07:38.700" end="00:07:41.033">in America a met&#224; del 1800 con un</p>
+      <p begin="00:07:41.100" end="00:07:42.800">sogno e dei cereali.</p>
+      <p begin="00:07:42.867" end="00:07:45.333">Entro il 1900, c'erano pi&#249; di 1.800</p>
+      <p begin="00:07:45.400" end="00:07:46.400">birrifici.</p>
+      <p begin="00:07:46.467" end="00:07:48.100">Quei sogni furono infranti dal</p>
+      <p begin="00:07:48.167" end="00:07:49.933">proibizionismo, ma poi ricostruiti</p>
+      <p begin="00:07:50.000" end="00:07:55.900">mattone su mattone negli anni '50.</p>
+      <p begin="00:07:55.967" end="00:07:58.067">La birra, tra cui la ale, continua ad avere il suo posto</p>
+      <p begin="00:07:58.133" end="00:07:59.900">nella lista della spesa oggi giorno,</p>
+      <p begin="00:07:59.967" end="00:08:01.833">insieme al pane, al latte</p>
+      <p begin="00:08:01.900" end="00:08:03.067">e alle verdure.</p>
+      <p begin="00:08:03.133" end="00:08:04.433">Baron: Con il loro enorme</p>
+      <p begin="00:08:04.500" end="00:08:05.800">budget di marketing, i grandi</p>
+      <p begin="00:08:05.867" end="00:08:07.400">produttori di birra hanno sterminato molti</p>
+      <p begin="00:08:07.467" end="00:08:09.133">birrai locali e regionali.</p>
+      <p begin="00:08:09.367" end="00:08:10.900">I produttori spendono sempre di pi&#249;</p>
+      <p begin="00:08:10.967" end="00:08:12.233">in marketing e</p>
+      <p begin="00:08:12.300" end="00:08:13.800">pubblicit&#224;, facendo quello che</p>
+      <p begin="00:08:13.867" end="00:08:15.000">le compagnie del tabacco hanno fatto</p>
+      <p begin="00:08:15.067" end="00:08:16.067">per generazioni.</p>
+      <p begin="00:08:16.300" end="00:08:18.633">Vediamo i cavalli - famosi - per</p>
+      <p begin="00:08:18.700" end="00:08:20.967">la birra, i bar - piacevoli - per la birra</p>
+      <p begin="00:08:21.033" end="00:08:23.333">il basket, per la birra, il softball per la birra</p>
+      <p begin="00:08:23.400" end="00:08:25.433">la pallavolo, per la birra anche il calcio per la birra.</p>
+      <p begin="00:08:25.500" end="00:08:26.667">Baron: Le conseguenze sono state</p>
+      <p begin="00:08:26.733" end="00:08:27.900">devastanti per i piccoli</p>
+      <p begin="00:08:27.967" end="00:08:28.433">produttori di birra.</p>
+      <p begin="00:08:28.500" end="00:08:29.967">La grande guerra della birra americana ,</p>
+      <p begin="00:08:30.033" end="00:08:31.833">il campo di battaglia di grandi gruppi,</p>
+      <p begin="00:08:31.900" end="00:08:33.300">carriere e denaro</p>
+      <p begin="00:08:33.367" end="00:08:36.867">Dal 1970, 35 birre locali</p>
+      <p begin="00:08:36.933" end="00:08:38.700">sono state fatte fuori in massa, buttate fuori</p>
+      <p begin="00:08:38.767" end="00:08:40.500">dal mercato o rilevate dai</p>
+      <p begin="00:08:40.567" end="00:08:41.867">colossi, andate per sempre.</p>
+      <p begin="00:08:41.933" end="00:08:44.000">Baron: Al 1978, erano rimasti</p>
+      <p begin="00:08:44.067" end="00:08:45.933">solo 45 birrifici</p>
+      <p begin="00:08:46.000" end="00:08:47.167">in America.</p>
+      <p begin="00:08:47.233" end="00:08:48.200">E i colossi si facevano la guerra</p>
+      <p begin="00:08:48.267" end="00:08:50.100">per la supremazia.</p>
+      <p begin="00:08:50.167" end="00:08:51.333">Miller &#232; il secondo pi&#249; grande produttore di birra</p>
+      <p begin="00:08:51.400" end="00:08:52.767">del paese e vuole diventare</p>
+      <p begin="00:08:52.833" end="00:08:53.633">il numero uno.</p>
+      <p begin="00:08:53.700" end="00:08:55.100">Anheuser-Busch &#232; il numero uno e</p>
+      <p begin="00:08:55.167" end="00:08:57.033">intende rimanere al suo posto.</p>
+      <p begin="00:08:57.100" end="00:08:59.100">Non riusciranno mai a toglierci</p>
+      <p begin="00:08:59.167" end="00:08:59.800">il primato.</p>
+      <p begin="00:08:59.867" end="00:09:01.133">Abbiamo la sensazione che sentano il nostro</p>
+      <p begin="00:09:01.200" end="00:09:02.400">fiato sul collo.</p>
+      <p begin="00:09:02.467" end="00:09:04.833">Ma il nostro problema pi&#249; importante &#232;</p>
+      <p begin="00:09:04.900" end="00:09:05.867">la Miller.</p>
+      <p begin="00:09:05.933" end="00:09:08.833">Dobbiamo attaccarli l&#236; dove sono</p>
+      <p begin="00:09:08.900" end="00:09:13.000">forti e dobbiamo farlo</p>
+      <p begin="00:09:13.067" end="00:09:14.067">adesso.</p>
+      <p begin="00:09:18.300" end="00:09:19.900">Come quaterback di questa</p>
+      <p begin="00:09:19.967" end="00:09:21.400">squadra vi garantisco</p>
+      <p begin="00:09:21.467" end="00:09:24.500">aggressivit&#224;, determinazione</p>
+      <p begin="00:09:24.567" end="00:09:27.100">e umilt&#224;.</p>
+      <p begin="00:09:27.167" end="00:09:29.033">Qualcuno ha giustamente detto che</p>
+      <p begin="00:09:29.100" end="00:09:30.900">le guerre creano promozioni.</p>
+      <p begin="00:09:30.967" end="00:09:33.500">Dobbiamo essere forti e determinati</p>
+      <p begin="00:09:33.567" end="00:09:35.467">per competere con tutti i concorrenti.</p>
+      <p begin="00:09:35.533" end="00:09:37.233">A chi apparterr&#224; il futuro?</p>
+      <p begin="00:09:37.300" end="00:09:39.400">A chi apparterr&#224; il domani?</p>
+      <p begin="00:09:39.467" end="00:09:41.800">Dipende da cosa facciamo</p>
+      <p begin="00:09:41.867" end="00:09:43.767">oggi.</p>
+      <p begin="00:09:43.833" end="00:09:45.867">Secondo noi, la famiglia Anheuser-Busch,</p>
+      <p begin="00:09:45.933" end="00:09:48.400">il futuro pu&#242; essere nostro.</p>
+      <p begin="00:09:48.467" end="00:09:50.900">Diventando pi&#249; pronti,</p>
+      <p begin="00:09:50.967" end="00:09:53.800">innovativi, flessibili, efficienti,</p>
+      <p begin="00:09:53.867" end="00:09:56.667">e infine pi&#249; importanti per</p>
+      <p begin="00:09:56.733" end="00:09:58.233">i consumatori di oggi</p>
+      <p begin="00:09:58.467" end="00:10:00.233">Baron: Oggi, la Anheuser-Busch</p>
+      <p begin="00:10:00.300" end="00:10:02.100">vende una birra ogni due</p>
+      <p begin="00:10:02.167" end="00:10:05.467">vendute in America.</p>
+      <p begin="00:10:05.533" end="00:10:07.200">Quella della Anheuser-Busch &#232; una classica</p>
+      <p begin="00:10:07.267" end="00:10:09.067">storia americana di dedizione,</p>
+      <p begin="00:10:09.133" end="00:10:10.533">efficienza, marketing</p>
+      <p begin="00:10:10.600" end="00:10:12.133">aggressivo e ambizione</p>
+      <p begin="00:10:12.200" end="00:10:13.233">sfrenata.</p>
+      <p begin="00:10:13.300" end="00:10:15.333">Beh, andando</p>
+      <p begin="00:10:15.400" end="00:10:17.500">indietro nel tempo, la A.B. stava sorpassando</p>
+      <p begin="00:10:17.567" end="00:10:19.233">praticamente in curva.</p>
+      <p begin="00:10:19.300" end="00:10:20.733">E i produttori di birra pi&#249; piccoli,</p>
+      <p begin="00:10:20.800" end="00:10:22.000">compresa la Miller, erano</p>
+      <p begin="00:10:22.067" end="00:10:23.433">via via sempre pi&#249;</p>
+      <p begin="00:10:23.500" end="00:10:25.733">vulnerabili.</p>
+      <p begin="00:10:25.800" end="00:10:26.967">A me piace la competizione.</p>
+      <p begin="00:10:27.033" end="00:10:28.500">e quindi penso che</p>
+      <p begin="00:10:28.567" end="00:10:30.133">l'analogia militare nella competizione</p>
+      <p begin="00:10:30.200" end="00:10:31.133">funzioni.</p>
+      <p begin="00:10:31.200" end="00:10:32.733">Nel nostro settore parliamo</p>
+      <p begin="00:10:32.800" end="00:10:34.633">parecchio riguardo al non attaccare</p>
+      <p begin="00:10:34.700" end="00:10:36.333">una fortezza ben difesa.</p>
+      <p begin="00:10:36.400" end="00:10:37.967">Hanno una potenza di fuoco di</p>
+      <p begin="00:10:38.033" end="00:10:40.567">un Walmart o di una Microsoft.</p>
+      <p begin="00:10:40.800" end="00:10:42.167">Baron: Mentre la Miller costituisce</p>
+      <p begin="00:10:42.233" end="00:10:45.233">il 18% della quota di mercato e la Coors l'11%,</p>
+      <p begin="00:10:45.300" end="00:10:47.133">insieme i tre grandi produttori di birra</p>
+      <p begin="00:10:47.200" end="00:10:49.867">costituiscono il 78% del mercato americano</p>
+      <p begin="00:10:49.933" end="00:10:52.633">della birra, producendo birre che sembrano</p>
+      <p begin="00:10:52.700" end="00:10:54.300">assomigliarsi molto.</p>
+      <p begin="00:10:54.367" end="00:10:55.600">Chi beve birra &#232; in grado di</p>
+      <p begin="00:10:55.667" end="00:10:56.067">distinguerle?</p>
+      <p begin="00:10:56.133" end="00:10:56.667">Birra.</p>
+      <p begin="00:10:56.733" end="00:10:57.900">Baron: [risate]</p>
+      <p begin="00:10:57.967" end="00:10:58.800">Ho bisogno di una birra.</p>
+      <p begin="00:10:58.867" end="00:11:00.233">Baron: Proprio qui davanti a te</p>
+      <p begin="00:11:00.300" end="00:11:01.667">in questo studio decisamente</p>
+      <p begin="00:11:01.733" end="00:11:02.133">non scientifico...</p>
+      <p begin="00:11:02.200" end="00:11:02.800">Ok.</p>
+      <p begin="00:11:02.867" end="00:11:04.533">Baron: Abbiamo la "A", la "B"</p>
+      <p begin="00:11:04.600" end="00:11:05.800">e la "C"</p>
+      <p begin="00:11:05.867" end="00:11:07.833">Bevi un sorso della "A",</p>
+      <p begin="00:11:07.900" end="00:11:09.467">della "B" e della "C" e poi dimmi</p>
+      <p begin="00:11:09.533" end="00:11:12.567">qual'&#232; la Coors light.</p>
+      <p begin="00:11:12.633" end="00:11:13.500">Credo sia la "A".</p>
+      <p begin="00:11:13.567" end="00:11:14.833">Baron: Dici la "A"?</p>
+      <p begin="00:11:14.900" end="00:11:15.567">Si, la "A".</p>
+      <p begin="00:11:15.633" end="00:11:16.700">Baron: e la "A" &#232;...</p>
+      <p begin="00:11:16.767" end="00:11:17.433">la Bud light.</p>
+      <p begin="00:11:17.500" end="00:11:18.233">Baron: Bud light.</p>
+      <p begin="00:11:18.300" end="00:11:18.900">Sei sorpreso?</p>
+      <p begin="00:11:18.967" end="00:11:19.333">Si.</p>
+      <p begin="00:11:19.400" end="00:11:20.533">Baron: Che cos'&#232; che ti fa essere</p>
+      <p begin="00:11:20.600" end="00:11:21.500">un tipo da Coors light?</p>
+      <p begin="00:11:21.567" end="00:11:26.167">Uhm...l'abitudine</p>
+      <p begin="00:11:26.233" end="00:11:27.500">La mia birra &#232; la Miller lite.</p>
+      <p begin="00:11:27.567" end="00:11:28.800">Io sono uno da Bud light.</p>
+      <p begin="00:11:28.867" end="00:11:34.867">La Coors light &#232; la mia birra</p>
+      <p begin="00:11:38.300" end="00:11:42.400">[risate]</p>
+      <p begin="00:11:42.467" end="00:11:44.233">Vada per la "B".</p>
+      <p begin="00:11:44.300" end="00:11:45.067">"C".</p>
+      <p begin="00:11:45.133" end="00:11:46.800">La "C" &#232; la Bed light.</p>
+      <p begin="00:11:46.867" end="00:11:48.233">La "B" &#232; senza dubbio la Coors</p>
+      <p begin="00:11:48.300" end="00:11:48.567">light.</p>
+      <p begin="00:11:48.633" end="00:11:49.567">Possiamo</p>
+      <p begin="00:11:49.633" end="00:11:49.833">controllare?</p>
+      <p begin="00:11:49.900" end="00:11:51.233">Si.</p>
+      <p begin="00:11:51.300" end="00:11:52.767">Che mi venga...</p>
+      <p begin="00:11:52.833" end="00:11:54.967">Baron: e la "C" &#232;...</p>
+      <p begin="00:11:55.033" end="00:11:56.800">Oh no!</p>
+      <p begin="00:11:56.867" end="00:11:58.200">Baron: e la "B" &#232;...</p>
+      <p begin="00:11:58.267" end="00:12:01.033">non la Coors light.</p>
+      <p begin="00:12:01.100" end="00:12:07.100">Non &#232; la "A".</p>
+      <p begin="00:12:08.600" end="00:12:11.933">Credo che la "C" sia la Miller lite.</p>
+      <p begin="00:12:12.000" end="00:12:13.833">Oh!</p>
+      <p begin="00:12:13.900" end="00:12:16.067">Baron: Hai scelto la</p>
+      <p begin="00:12:16.133" end="00:12:16.667">Coors light.</p>
+      <p begin="00:12:16.733" end="00:12:17.700">Quale potrebbe essere la tua seconda</p>
+      <p begin="00:12:17.767" end="00:12:18.900">scelta tra la "A" e la "B"?</p>
+      <p begin="00:12:18.967" end="00:12:19.367">La "B".</p>
+      <p begin="00:12:19.433" end="00:12:21.167">Mi stai per dire che &#232;...</p>
+      <p begin="00:12:21.233" end="00:12:22.000">Baron: "B"</p>
+      <p begin="00:12:22.067" end="00:12:23.100">[risata di domma]</p>
+      <p begin="00:12:23.167" end="00:12:24.967">La "B" &#232; una Bud light.</p>
+      <p begin="00:12:25.033" end="00:12:27.967">E adesso che succede?</p>
+      <p begin="00:12:28.033" end="00:12:29.333">Credo di aver fallito.</p>
+      <p begin="00:12:29.400" end="00:12:30.133">[risate]</p>
+      <p begin="00:12:30.200" end="00:12:31.900">Oh. no, &#232; tutto ok.</p>
+      <p begin="00:12:31.967" end="00:12:33.267">In realt&#224; questi ragazzi non hanno sbagliato.</p>
+      <p begin="00:12:33.333" end="00:12:34.533">Ma le tre grandi compagnie</p>
+      <p begin="00:12:34.600" end="00:12:35.967">della birra - loro hanno</p>
+      <p begin="00:12:36.033" end="00:12:38.033">venduto la stessa cosa per anni.</p>
+      <p begin="00:12:38.100" end="00:12:39.867">85% di tutta la birra prodotta in questo</p>
+      <p begin="00:12:39.933" end="00:12:41.800">paese &#232; in effetti del tipo</p>
+      <p begin="00:12:41.867" end="00:12:43.367">light lager, di cui</p>
+      <p begin="00:12:43.433" end="00:12:45.200">la Budweiser e la Bud light sono</p>
+      <p begin="00:12:45.267" end="00:12:45.967">gli esempi migliori.</p>
+      <p begin="00:12:46.033" end="00:12:47.300">Quei marchi devono costantemente</p>
+      <p begin="00:12:47.367" end="00:12:49.200">essere rimessi sotto gli occhi del consumatore</p>
+      <p begin="00:12:49.267" end="00:12:51.633">[gemiti di granchi]</p>
+      <p begin="00:12:51.700" end="00:12:53.300">[belare di pecore]</p>
+      <p begin="00:12:53.367" end="00:12:56.467">[grugniti, ululati]</p>
+      <p begin="00:12:56.533" end="00:12:57.433">[silenzio]</p>
+      <p begin="00:12:57.500" end="00:12:58.833">[scoreggie di cavalli]</p>
+      <p begin="00:12:58.900" end="00:12:59.533">Oh!</p>
+      <p begin="00:12:59.600" end="00:13:01.533">Le altre birre si somigliano</p>
+      <p begin="00:13:01.600" end="00:13:03.000">e parlano allo stesso modo.</p>
+      <p begin="00:13:03.067" end="00:13:04.400">Con cose intangibili come</p>
+      <p begin="00:13:04.467" end="00:13:06.167">il trovare ristoro o il gusto da vendere</p>
+      <p begin="00:13:06.233" end="00:13:08.167">l'intero business alla Miller</p>
+      <p begin="00:13:08.233" end="00:13:12.033">&#232; interamente focalizzato a diventare</p>
+      <p begin="00:13:12.100" end="00:13:12.900">un grande mercato.</p>
+    </div>
+  </body>
+</tt>

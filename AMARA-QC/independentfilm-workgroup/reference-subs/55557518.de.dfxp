@@ -1,0 +1,68 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="de">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:15.667" end="00:00:18.200">Sehe ich dick aus?</p>
+      <p begin="00:00:22.400" end="00:00:24.133">Im Ernst.</p>
+      <p begin="00:00:24.200" end="00:00:26.100">Und?</p>
+      <p begin="00:00:27.700" end="00:00:30.200">Ja. Ja, du siehst dick aus.</p>
+      <p begin="00:00:30.267" end="00:00:32.567">So gro&#223; wie ein Haus.</p>
+      <p begin="00:00:34.600" end="00:00:36.733">Ich kann nicht glauben dass du das gerade gesagt hast.</p>
+      <p begin="00:00:36.800" end="00:00:39.200">Und ich trage auch noch dein Kind aus.</p>
+      <p begin="00:00:40.800" end="00:00:43.533">Woher wei&#223;t du das es mein Kind ist?</p>
+      <p begin="00:00:43.600" end="00:00:45.900">Wei&#223;t du was dein Problem ist?</p>
+      <p begin="00:00:47.967" end="00:00:50.333">Du bist reizbar.</p>
+      <p begin="00:00:50.400" end="00:00:51.700">Ja.</p>
+      <p begin="00:00:51.767" end="00:00:53.233">Ich kann einfach nicht.</p>
+      <p begin="00:00:53.300" end="00:00:55.533">Und es ist so gro&#223; wie ein Felsbrocken.</p>
+      <p begin="00:00:55.600" end="00:00:57.533">Ich halte das nicht aus. Ich halte das nicht mehr aus, entschuldigung.</p>
+      <p begin="00:00:57.600" end="00:01:00.833">Entschuldigen Sie bitte, enschuldigung.</p>
+      <p begin="00:01:00.900" end="00:01:02.700">Enschuldigen Sie.</p>
+      <p begin="00:01:02.767" end="00:01:04.333">Geht es ihnen gut?</p>
+      <p begin="00:01:04.400" end="00:01:05.733">Brauchen Sie etwas?</p>
+      <p begin="00:01:05.800" end="00:01:09.333">Ja. Ich brauche einen Musical.</p>
+      <p begin="00:01:09.400" end="00:01:10.900">EINEN GRO&#223;EN</p>
+      <p begin="00:01:10.967" end="00:01:12.200">SCHWULEN</p>
+      <p begin="00:01:12.267" end="00:01:13.567">MUSICAL!</p>
+      <p begin="00:01:52.967" end="00:01:56.533">Ich liebe es Off-Broadway aufzutreten!</p>
+      <p begin="00:01:56.600" end="00:01:58.933">Meine Damen und Herren,</p>
+      <p begin="00:01:59.000" end="00:02:00.733">Herzlich wilkommen zu der Probeforf&#252;hrung von Adam und Steve</p>
+      <p begin="00:02:00.800" end="00:02:03.033">-So wie Gott sie shcuf.</p>
+      <p begin="00:02:03.100" end="00:02:05.800">Bevor die show los geht,</p>
+      <p begin="00:02:05.867" end="00:02:07.400">m&#246;chten wir sie wissen lassen das die Coalition der Christen</p>
+      <p begin="00:02:07.467" end="00:02:10.033">sie mit Flammend bewertet hat.</p>
+      <p begin="00:02:10.100" end="00:02:12.533">Das bedeutet aber nicht das es hier um Homosexuelle geht,</p>
+      <p begin="00:02:12.600" end="00:02:15.233">sondern das falls sie die Show genie&#223;en</p>
+      <p begin="00:02:15.300" end="00:02:18.200">neben uns, brennend in der H&#246;lle, enden werden,</p>
+      <p begin="00:02:18.267" end="00:02:20.500">[Applaus]</p>
+      <p begin="00:02:24.500" end="00:02:26.800">Hallo! Ich bin Adam.</p>
+      <p begin="00:02:26.867" end="00:02:28.733">Und ich bin sein Ehemann, Steven.</p>
+      <p begin="00:02:28.800" end="00:02:30.733">Und das ist unsere Geschichte.</p>
+      <p begin="00:02:30.800" end="00:02:32.800">Am Anfang,</p>
+      <p begin="00:02:32.867" end="00:02:34.300">schuf Gott den Himmel und die Erde.</p>
+      <p begin="00:02:34.367" end="00:02:35.300">Warte mal!</p>
+      <p begin="00:02:35.367" end="00:02:38.433">Das ist nicht der richtige Anfang. Du hast den falschen Buch genommen.</p>
+      <p begin="00:02:38.500" end="00:02:39.100">'schuldigung.</p>
+      <p begin="00:02:44.800" end="00:02:46.333">Am Anfang,</p>
+      <p begin="00:02:46.400" end="00:02:48.800">war Gott...gelangweilt.</p>
+      <p begin="00:02:48.867" end="00:02:51.333">Er war ganz allein im Universum,</p>
+      <p begin="00:02:51.400" end="00:02:54.533">und der Gedanke das er f&#252;r immer so bleiben w&#252;rde gefiel ihm nicht.</p>
+      <p begin="00:02:54.600" end="00:02:57.033">Ihm wurde klar dass er wundersch&#246;ne Wesen brauchte um ihn zu unterhalten.</p>
+      <p begin="00:20:52.667" end="00:20:55.100">Ich weis, aber meine Altern sind sehr religios.</p>
+      <p begin="00:21:09.900" end="00:21:12.000">.</p>
+      <p begin="00:21:30.600" end="00:21:32.833">gefunden.</p>
+    </div>
+  </body>
+</tt>
