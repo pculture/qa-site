@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:23.950" end="00:00:27.950">- Vi pr&#248;ver at leve i byen <br/>uden at p&#229;virke milij&#248;et</p>
+      <p begin="00:00:27.950" end="00:00:30.505">og jeg skriver om <br/>NoImpactMan.com</p>
+      <p begin="00:00:36.990" end="00:00:41.616">Vi f&#230;lder for mange tr&#230;er. Vi beh&#248;ver<br/>tr&#230;erne for at redde planeten.</p>
+      <p begin="00:00:43.116" end="00:00:45.145">Og isbj&#248;rnene.</p>
+      <p begin="00:00:46.533" end="00:00:50.445">Jeg pr&#248;ver at leve efter <br/>mine overbevisninger.</p>
+      <p begin="00:00:52.324" end="00:00:54.074">&#197;h fuck!</p>
+      <p begin="00:00:54.074" end="00:01:07.866"/>
+      <p begin="00:01:07.866" end="00:01:10.533">- Folk er opsatte p&#229; at <br/>udskifte den amerikanske livsstil</p>
+      <p begin="00:01:10.533" end="00:01:13.199">med vindkraft og tr&#230; bark burgere.</p>
+      <p begin="00:01:13.199" end="00:01:14.366"/>
+      <p begin="00:01:14.366" end="00:01:17.324">Som denne familie i New York,<br/>Beavans, som er fem m&#229;neder</p>
+      <p begin="00:01:17.324" end="00:01:20.574">inde i en et &#229;r lang mission med<br/>at leve uden at p&#229;virke milj&#248;et.</p>
+      <p begin="00:01:20.574" end="00:01:24.241">Reglerne: ingen toiletpapir,<br/>ingen gl&#248;dep&#230;rer</p>
+      <p begin="00:01:24.241" end="00:01:27.491">eller engangsbarberblade <br/>eller magasiner,eller aviser,</p>
+      <p begin="00:01:27.491" end="00:01:31.449">fjernsyn, flyrejser, tog, biler, <br/>elevatorer, plastikposer</p>
+      <p begin="00:01:31.449" end="00:01:34.282">eller indk&#248;b af noget nyt.<br/>De er gift</p>
+      <p begin="00:01:34.282" end="00:01:36.990">for vort kapitalistiske samfund,<br/>og for at forsvare sig selv kommer nu</p>
+      <p begin="00:01:36.990" end="00:01:40.533">husfaderen fra denne &#248;ko-<br/>husholdning, Colin Beavan.</p>
+      <p begin="00:01:40.533" end="00:01:41.911">Mr. Beavan, tak fordi du kunne komme.</p>
+      <p begin="00:01:41.911" end="00:01:44.241"/>
+      <p begin="00:01:44.241" end="00:01:49.157">- Her kommer forfatteren og selv-<br/>udn&#230;vnt No Impact Man, Colin Beavan.</p>
+      <p begin="00:01:49.157" end="00:01:53.205">- Vi begynder i aften med en mand,<br/>hans familie og et radikalt eksperiment</p>
+      <p begin="00:01:53.205" end="00:01:54.658">for at hj&#230;lpe planeten.</p>
+      <p begin="00:01:54.658" end="00:01:56.242">med mere en 40% af befolkningen</p>
+      <p begin="00:01:56.242" end="00:01:59.561">nu er overbevist om at mennesket<br/>er en del af den globale opvarmning.</p>
+      <p begin="00:01:59.561" end="00:02:01.488">- Jeg t&#230;nkte bare, hvad nu hvis<br/>jeg faktisk pr&#248;vede</p>
+      <p begin="00:02:01.488" end="00:02:03.601">ikke at skade milj&#248;et,</p>
+      <p begin="00:02:03.601" end="00:02:05.990">Hvordan ville det f&#248;les?</p>
+      <p begin="00:02:05.990" end="00:02:08.571">Er det muligt? <br/>Er det praktisk?</p>
+      <p begin="00:02:08.571" end="00:02:12.402"/>
+      <p begin="00:02:15.907" end="00:02:31.990"/>
+      <p begin="00:02:31.990" end="00:02:35.199">- En af de ting som jeg,<br/>som forfatter har &#248;nsket</p>
+      <p begin="00:02:35.199" end="00:02:37.116">fordi mine sidste to b&#248;ger<br/>var historiske b&#248;ger</p>
+      <p begin="00:02:37.116" end="00:02:40.282">var at blive mere som<br/>en aktivist forfatter.</p>
+      <p begin="00:02:40.282" end="00:02:42.825">P&#229; en underdanig m&#229;de,<br/>vil jeg have lidt en f&#248;lelse af at</p>
+      <p begin="00:02:42.825" end="00:02:46.700">mine skriverier hj&#230;lper verden.</p>
+      <p begin="00:02:46.700" end="00:02:48.865">I det n&#230;ste &#229;r vil min kone,<br/>min lille datter og jeg,</p>
+      <p begin="00:02:48.865" end="00:02:50.323">mens vi bor i midten<br/>af New York City</p>
+      <p begin="00:02:50.323" end="00:02:51.891">fors&#248;ge at leve uden at</p>
+      <p begin="00:02:51.891" end="00:02:54.335">lave en netto p&#229;virkning af milj&#248;et</p>
+      <p begin="00:02:54.335" end="00:02:58.324">Ultimativt betyder det at vi ikke vil<br/>skabe affald og ikke k&#248;be take-out mad,</p>
+      <p begin="00:02:58.324" end="00:03:01.324">ikke udlede CO2,<br/>s&#229; ingen k&#248;rsel eller flyvning;</p>
+      <p begin="00:03:01.324" end="00:03:04.074">ikke h&#230;lde gifte i vandet,<br/>s&#229; intet vaskepulver;</p>
+      <p begin="00:03:04.074" end="00:03:08.784">ikke k&#248;be produkter fra fjerne lande,<br/>s&#229; ingen frugt fra New Zealand.</p>
+      <p begin="00:03:08.784" end="00:03:11.824">For ikke at n&#230;vne, ingen elevatorer, <br/>ingen undergrundsbane,</p>
+      <p begin="00:03:11.824" end="00:03:14.949">ingen produkter i indpakning, ingen plast,<br/>ingen aircondition, ingen TV, ingen avis,</p>
+      <p begin="00:03:14.949" end="00:03:16.408">Blah-blah-blah-blah.</p>
+      <p begin="00:03:16.408" end="00:03:20.700">N&#229;, men det er alts&#229;<br/>hovedtr&#230;kkene i projektet.</p>
+      <p begin="00:03:20.700" end="00:03:22.990"/>
+      <p begin="00:03:22.990" end="00:03:34.334"/>
+      <p begin="00:03:35.869" end="00:03:39.074">- Colin fortalte mig hvad<br/>projektet ville v&#230;re</p>
+      <p begin="00:03:39.074" end="00:03:44.116">og min &#230;rlige reaktion? Jeg var virkelig<br/>begejstret over at han havde en ide</p>
+      <p begin="00:03:44.116" end="00:03:46.575">som han var begejstret over.</p>
+      <p begin="00:03:46.575" end="00:03:49.907">Det var overordnet<br/>det vigtigste.</p>
+      <p begin="00:03:49.907" end="00:03:51.232">Jeg t&#230;nkte at nu vi var<br/>igang med alle disse ting</p>
+      <p begin="00:03:51.232" end="00:03:53.132">hvorfor tilf&#248;jer vi ikke <br/>ogs&#229; mine to laster</p>
+      <p begin="00:03:53.132" end="00:03:56.745">som er shopping og reality TV?</p>
+      <p begin="00:03:57.700" end="00:04:01.824">Jeg er en reality TV kender,<br/>afh&#230;nging og ekspert.</p>
+      <p begin="00:04:01.824" end="00:04:03.449">- Se p&#229; hendes ansigt nu.</p>
+      <p begin="00:04:03.449" end="00:04:04.616"/>
+      <p begin="00:04:04.616" end="00:04:08.907">Hun ser ud som om hun<br/>bliver suget ind i det.</p>
+      <p begin="00:04:08.907" end="00:04:10.865">- Det er godt.</p>
+      <p begin="00:04:10.865" end="00:04:14.491">Jeg har haft en virkeligt <br/>intenst forhold til indk&#248;b.</p>
+      <p begin="00:04:14.491" end="00:04:16.700">Catherine Malandrino <br/>varepr&#248;ve udsalg.</p>
+      <p begin="00:04:16.700" end="00:04:19.907">Jean Paul Gaultier er s&#229; sjovt<br/>og vi ses til midnat</p>
+      <p begin="00:04:19.907" end="00:04:22.074">og s&#229; vil vi spise middag klokken 2.</p>
+      <p begin="00:04:22.074" end="00:04:23.616">Marc Jacobs er som</p>
+      <p begin="00:04:23.616" end="00:04:28.329">"Jeg er gift, jeg er en mor,<br/>men jeg pr&#248;ver stadig at arbejde lidt."</p>
+      <p begin="00:04:28.344" end="00:04:31.327">Jeg er n&#230;rmest afh&#230;ngig af h&#248;jt<br/>fruktoseindhold og majssirup,</p>
+      <p begin="00:04:31.327" end="00:04:36.533">Du ved, en film afh&#230;ngig<br/>k&#248;d-&#230;dende pige.</p>
+      <p begin="00:04:36.533" end="00:04:39.493">Jeg ville sige at jeg ikke var<br/>en milj&#248;aktivist.</p>
+      <p begin="00:04:39.493" end="00:04:42.449">Jeg ville sige at jeg var den typiske,<br/>ligesom forbrugende -</p>
+      <p begin="00:04:42.449" end="00:04:44.700">Jeg er en forbruger.</p>
+      <p begin="00:04:44.700" end="00:04:47.425">Jeg er en take-out junkie.</p>
+      <p begin="00:04:48.946" end="00:04:50.716">- Du var skr&#230;mt over ikke at kunne<br/>- OK, ikke at have.</p>
+      <p begin="00:04:50.716" end="00:04:52.050">- mulighed for at forbruge i et &#229;r.</p>
+      <p begin="00:04:52.050" end="00:04:53.763">- Ja, det var jeg. Du har ret!</p>
+      <p begin="00:04:53.779" end="00:04:55.366">- S&#229; du har pr&#248;vet at lave dit forbrug<br/>for hele &#229;ret p&#229; en enkelt uge.</p>
+      <p begin="00:04:55.366" end="00:04:58.032">- S&#229; jeg afleverede l&#248;nsedlen.</p>
+      <p begin="00:04:58.032" end="00:04:59.990">Chloe's st&#248;vler kostede meget.</p>
+      <p begin="00:04:59.990" end="00:05:01.032">- Hvor meget?</p>
+      <p begin="00:05:01.032" end="00:05:02.824">- P&#229; en m&#229;de, <br/>er jeg forf&#230;rdet over mig selv.</p>
+      <p begin="00:05:02.824" end="00:05:04.199">- Men, kan du sige hvor meget?</p>
+      <p begin="00:05:04.199" end="00:05:07.366">- Det er rystende. Det er ligesom,<br/>det er bare ...</p>
+      <p begin="00:05:07.366" end="00:05:09.658">Jeg kan ikke. Jeg er flov.</p>
+      <p begin="00:05:09.658" end="00:05:12.907"/>
+      <p begin="00:05:12.907" end="00:05:14.658">Dette var, du ved,<br/>det sidste sus.</p>
+      <p begin="00:05:14.658" end="00:05:15.907">- Ja, det var indk&#248;bsflippet. <br/>Jeg fik dig.</p>
+      <p begin="00:05:15.907" end="00:05:17.366">- Jah! Dette er regningen<br/>for indk&#248;bsflippet.</p>
+      <p begin="00:05:17.366" end="00:05:20.174">- Jeg fik, jeg grinte fordi jeg<br/>ledte efter n&#248;dvendigheder.</p>
+      <p begin="00:05:20.217" end="00:05:22.045">- Det var som det sidste store slag.</p>
+      <p begin="00:05:22.324" end="00:05:23.157">- OK.</p>
+      <p begin="00:05:23.157" end="00:05:28.116">- Bruger alle mine penge p&#229; fjollede ting.</p>
+      <p begin="00:05:28.116" end="00:05:29.616">- Jeg er ligeglad med <br/>hvor meget du bruger.</p>
+      <p begin="00:05:29.616" end="00:05:32.408">Lige dette forbrug <br/>h&#230;nger sammen med...</p>
+      <p begin="00:05:32.408" end="00:05:33.199">- Dit projekt.</p>
+      <p begin="00:05:33.199" end="00:05:36.032">- No Impact. Jeg troede <br/>det var vores projekt.</p>
+      <p begin="00:05:36.032" end="00:05:36.782">- &#197;h ja.</p>
+      <p begin="00:05:36.782" end="00:05:38.324">Det er "No Impact Man."</p>
+      <p begin="00:05:38.324" end="00:05:41.366">Det er hans bog og det er hans projekt<br/>og han er "No Impact Man"</p>
+      <p begin="00:05:41.366" end="00:05:46.032">men i orden - men projektet er<br/>noget vores familie g&#248;r.</p>
+      <p begin="00:05:46.032" end="00:05:57.740"/>
+      <p begin="00:05:57.740" end="00:05:59.595">- For to uger siden,<br/>P&#229; dag et i projektet,</p>
+      <p begin="00:05:59.595" end="00:06:03.254">stoppede vi med at bruge<br/>CO2 udledende transport,</p>
+      <p begin="00:06:04.865" end="00:06:10.874">som betyder ingen fly, ingen metro,<br/>ingen taxier og ingen elevatorer.</p>
+      <p begin="00:06:11.827" end="00:06:13.657">Folk siger, <br/>"Alts&#229;, hvorfor g&#229; til ekstremer?"</p>
+      <p begin="00:06:13.657" end="00:06:15.740">for det er ikke alle<br/>der bliver s&#229; ekstreme</p>
+      <p begin="00:06:15.740" end="00:06:19.105">og alle den slags ting er at opleve<br/>ligesom hele viften af ting</p>
+      <p begin="00:06:19.105" end="00:06:22.710">at se hvad vi egentligt<br/>er villige til at opgive, du ved.</p>
+      <p begin="00:06:22.710" end="00:06:26.032">Til slut, kommer vi ud af det og<br/>ser hvad vi er villige til at beholde.</p>
+      <p begin="00:06:26.032" end="00:06:27.990">Hvad er vi ikke, hvad var for h&#229;rdt,<br/>hvad er ikke for h&#229;rdt.</p>
+      <p begin="00:06:33.116" end="00:06:36.907">Paradigmet er at reducere, <br/>genbruge, genvinde.</p>
+      <p begin="00:06:36.907" end="00:06:39.074">S&#229; det f&#248;rste er at reducere.</p>
+      <p begin="00:06:39.074" end="00:06:41.168">Reducere vores forbrug, ikke?</p>
+      <p begin="00:06:41.491" end="00:06:43.574">Alts&#229;, jeg t&#230;nker for mig selv, du ved,</p>
+      <p begin="00:06:43.574" end="00:06:48.199">"Selvf&#248;lgelig kan jeg ikke undv&#230;re dit.<br/>Jeg kan ikke undv&#230;re dat."</p>
+      <p begin="00:06:48.199" end="00:06:52.183">S&#229; ideen er, Ok,<br/>lad os undv&#230;re det hele.</p>
+      <p begin="00:06:52.183" end="00:06:52.970"/>
+      <p begin="00:06:52.970" end="00:06:54.032">. Kommer for at se TV'et.<br/>Hvor stor er TV'et</p>
+      <p begin="00:06:54.032" end="00:06:55.241">- Ja, kom inden for.</p>
+      <p begin="00:06:55.241" end="00:06:57.199">-Skete?</p>
+      <p begin="00:06:57.199" end="00:06:58.731">- De er kommet for at tage TV'et.</p>
+      <p begin="00:06:58.731" end="00:07:00.200">- Ramme ud.</p>
+      <p begin="00:07:00.200" end="00:07:01.281"/>
+      <p begin="00:07:01.281" end="00:07:02.406">- s&#229; vi skal bare ikke have et TV.</p>
+      <p begin="00:07:02.406" end="00:07:04.978">Vi bliver TV-l&#248;se folk.</p>
+      <p begin="00:07:04.978" end="00:07:05.725">- Jah.</p>
+      <p begin="00:07:05.725" end="00:07:08.362">- Mor er en smule afh&#230;ngig af TV.</p>
+      <p begin="00:07:08.362" end="00:07:09.858"/>
+      <p begin="00:07:12.469" end="00:07:14.782">- Jeg bliver 40 denne sommer<br/>og der var bare s&#229; mange ting</p>
+      <p begin="00:07:14.782" end="00:07:17.907">omkring den m&#229;de <br/>jeg levede mit liv p&#229;,</p>
+      <p begin="00:07:17.907" end="00:07:21.324">is&#230;r med Isabelle<br/>som jeg &#248;nskede at &#230;ndre.</p>
+      <p begin="00:07:21.324" end="00:07:23.116">Jeg fik mit blod testet,<br/>rigtigt grundigt</p>
+      <p begin="00:07:23.116" end="00:07:26.615">og det viste at hvis jeg ikke &#230;ndrede<br/>den m&#229;de jeg spiste p&#229;,</p>
+      <p begin="00:07:26.615" end="00:07:32.510">var jeg n&#230;rmest p&#229; vej til at f&#229; diabetes,<br/>og havde lave v&#230;rdier for andet.</p>
+      <p begin="00:07:32.510" end="00:07:36.282">Og det faldt lidt sammen<br/>med min 40 &#229;rs f&#248;dselsdag.</p>
+      <p begin="00:07:36.282" end="00:07:40.573">Det var ligesom p&#229; det tidspunkt<br/>i livet at jeg t&#230;nkte,</p>
+      <p begin="00:07:40.573" end="00:07:44.905">"Alts&#229;, hvordan vil jeg have at den <br/>anden halvdel af mit liv skal se ud?"</p>
+      <p begin="00:07:44.905" end="00:07:46.906">Da den f&#248;rste halvdel er ovre.</p>
+      <p begin="00:07:46.906" end="00:07:48.491">Tik-tak.</p>
+      <p begin="00:07:49.367" end="00:07:51.824">- Projektet arbejder i faser.</p>
+      <p begin="00:07:51.824" end="00:07:54.949">Jeg er ikke uddannet milj&#248;fork&#230;mper<br/>s&#229; jeg l&#230;rer undervejs.</p>
+      <p begin="00:07:54.949" end="00:07:58.199">Lige nu, arbejder vi virkeligt<br/>p&#229; vores affald.</p>
+      <p begin="00:07:58.199" end="00:08:02.949">Den gennemsnitlige amerikaner <br/>skaber 800 kg affald hvert &#229;r.</p>
+      <p begin="00:08:02.949" end="00:08:05.740">Vi pr&#248;ver at reducere det til nul.</p>
+      <p begin="00:08:05.740" end="00:08:14.865"/>
+      <p begin="00:08:14.865" end="00:08:17.783">Se det Hawthorne Valley Farm,<br/>certificeret &#248;kologisk bio-dynamisk.</p>
+      <p begin="00:08:17.783" end="00:08:18.577">- Jah.</p>
+      <p begin="00:08:18.577" end="00:08:20.074">- Jeg vil pr&#248;ve at se om vi kan, <br/>som en familie</p>
+      <p begin="00:08:20.074" end="00:08:23.949">kan bo p&#229; den g&#229;rd i m&#229;ske nogle f&#229; dage <br/>og lave frivilligt arbejde og den slags.</p>
+      <p begin="00:08:23.949" end="00:08:25.449">Er det OK?</p>
+      <p begin="00:08:25.449" end="00:08:27.450">- Ja, skat. Det lyder som<br/>en god ide.</p>
+      <p begin="00:08:27.450" end="00:08:29.532"/>
+      <p begin="00:08:29.532" end="00:08:33.408">- Den st&#248;rste del af vores affald er<br/>indpakning fra mad og madaffald.</p>
+      <p begin="00:08:33.408" end="00:08:35.408">Det gode ved <br/>torvesalget</p>
+      <p begin="00:08:35.408" end="00:08:37.740">er at det meste af maden<br/>bliver solgt uden indpakning</p>
+      <p begin="00:08:37.740" end="00:08:40.532">s&#229; det er nemt at handle der<br/>og ikke skabe affald.</p>
+      <p begin="00:08:40.532" end="00:08:42.282">- Ingen milj&#248; p&#229;virkning?</p>
+      <p begin="00:08:42.282" end="00:08:44.032">- Jah, skaber ingen<br/>milj&#248; p&#229;virkning.</p>
+      <p begin="00:08:44.032" end="00:08:44.740">- Virkelig?</p>
+      <p begin="00:08:44.740" end="00:08:45.657">- Ja.</p>
+      <p begin="00:08:45.657" end="00:08:47.032">- S&#229; kan du ikke f&#229; denne pose.</p>
+      <p begin="00:08:47.032" end="00:08:48.366">- Mange tak!</p>
+      <p begin="00:08:48.366" end="00:08:50.740">Hvordan kan jeg sige dette uden<br/>at lyde som et pikhoved?</p>
+      <p begin="00:08:50.740" end="00:08:53.966">Jeg bliver opr&#248;rt over at se ting<br/>indpakket enkeltvis i plastik.</p>
+      <p begin="00:08:53.966" end="00:08:55.978">&#197;h, ved du hvad,<br/>er orme folket her?</p>
+      <p begin="00:08:55.990" end="00:08:57.934">- Hvad skal du bruge ormene til?<br/>Jeg ved ikke om jeg...</p>
+      <p begin="00:08:57.949" end="00:08:59.990">- Alts&#229; , kan jeg fort&#230;lle dig <br/>om det bagefter?</p>
+      <p begin="00:08:59.990" end="00:09:02.482">Grundl&#230;ggende, ormene<br/>omdanner komposten hurtigere.</p>
+      <p begin="00:09:03.235" end="00:09:05.907">- Skat, jeg er ikke til den <br/>slags over hovedet.</p>
+      <p begin="00:09:05.907" end="00:09:08.581">- OK, vi kan tale om det.</p>
+      <p begin="00:09:09.211" end="00:09:10.557">Michelle!</p>
+      <p begin="00:09:10.557" end="00:09:11.257">- Ja?</p>
+      <p begin="00:09:11.257" end="00:09:12.657">- Vil du komme og se ormene?</p>
+      <p begin="00:09:14.324" end="00:09:15.889"/>
+      <p begin="00:09:18.486" end="00:09:20.782">Se dem vride sig derinde, mor?</p>
+      <p begin="00:09:20.782" end="00:09:22.807">- Ja. Og s&#229;, hvordan s&#248;rger du<br/>for at de ikke slipper ud?</p>
+      <p begin="00:09:22.807" end="00:09:23.832">- Det kan ikke komme ud.</p>
+      <p begin="00:09:23.832" end="00:09:24.548"/>
+      <p begin="00:09:24.548" end="00:09:25.869">- Vent. Er det intet l&#229;g?</p>
+      <p begin="00:09:25.869" end="00:09:28.316">- Selvf&#248;lgelig, der er et l&#229;g...</p>
+      <p begin="00:09:28.316" end="00:09:29.022">- Lad os d&#230;kke det til.</p>
+      <p begin="00:09:29.022" end="00:09:30.474">- Ved du hvad, <br/>Isabelle ser p&#229; dem.</p>
+      <p begin="00:09:30.474" end="00:09:32.741">- OK. Natur.</p>
+      <p begin="00:09:32.741" end="00:09:34.376"/>
+      <p begin="00:09:34.376" end="00:09:38.883">Mor kan ikke rigtigt lide natur<br/>men far kan lide natur.</p>
+      <p begin="00:09:38.883" end="00:09:40.450"/>
+      <p begin="00:09:41.741" end="00:09:44.116">- S&#229; ble.</p>
+      <p begin="00:09:44.116" end="00:09:50.782">Ble overtr&#230;kket er lavet af uld, &#248;kologisk<br/>uld fra lam, der er blevet godt behandlet.</p>
+      <p begin="00:09:50.782" end="00:09:53.194">Jeg har unders&#248;gt alt dette.</p>
+      <p begin="00:09:55.116" end="00:09:56.490">Det er fem forskellige teknikker</p>
+      <p begin="00:09:56.490" end="00:10:02.657">og der er bikini foldningen<br/>og der er engle foldningen og s&#229; videre,</p>
+      <p begin="00:10:02.657" end="00:10:05.366">vi vil pr&#248;ve engle foldningen.</p>
+      <p begin="00:10:05.366" end="00:10:09.032">Der er forvirring omkring om<br/>stofbleer eller engangsbleer</p>
+      <p begin="00:10:09.032" end="00:10:10.865">er bedst for milj&#248;et.</p>
+      <p begin="00:10:10.865" end="00:10:15.573">Og unders&#248;gelser st&#248;ttet af industrien<br/>viser at det er det samme.</p>
+      <p begin="00:10:15.573" end="00:10:16.699">Men fakta i sagen er</p>
+      <p begin="00:10:16.699" end="00:10:21.199">vi kommer 49 milioner bleer<br/>p&#229; lossepladserne hver dag.</p>
+      <p begin="00:10:21.199" end="00:10:24.324">Det er den 3. st&#248;rste kilde<br/>til affald p&#229; lossepladserne.</p>
+      <p begin="00:10:24.324" end="00:10:25.407"/>
+      <p begin="00:10:25.407" end="00:10:26.866">- F&#248;les det anderledes, skat?</p>
+      <p begin="00:10:26.866" end="00:10:28.407">- Det er for sjovt!</p>
+      <p begin="00:10:28.407" end="00:10:30.324">- Det er for sjovt.</p>
+      <p begin="00:10:30.324" end="00:10:32.740">Lad os se.</p>
+      <p begin="00:10:32.740" end="00:10:33.824">Hej-hej!</p>
+      <p begin="00:10:33.824" end="00:10:34.741">- &#197;hh!</p>
+      <p begin="00:10:34.741" end="00:10:37.199">- Hej-hej!</p>
+      <p begin="00:10:37.199" end="00:10:39.782">Se p&#229; dig!</p>
+      <p begin="00:10:39.782" end="00:10:41.282">- Det gr&#248;nne &#229;rhundres Skat.</p>
+      <p begin="00:10:41.282" end="00:10:42.407">- Ja ha ha.</p>
+      <p begin="00:10:42.407" end="00:10:43.699"/>
+      <p begin="00:10:43.699" end="00:10:45.157"/>
+      <p begin="00:10:45.849" end="00:10:49.573">- Vi kommer her hver s&#248;ndag<br/>til morgenmad og vi elsker det.</p>
+      <p begin="00:10:49.573" end="00:10:55.157">Men som en del af vores klumme,<br/>vores "No Impact" projekt,</p>
+      <p begin="00:10:55.157" end="00:11:00.199">stopper vi med alting<br/>inklusive restauranter.</p>
+      <p begin="00:11:00.199" end="00:11:03.241">S&#229; dette er vores sidste<br/>m&#229;ltid p&#229; Pasti's</p>
+      <p begin="00:11:03.241" end="00:11:07.032">og vores sidste m&#229;ltid i en restaurant<br/>sammen som en familie, ikke?</p>
+      <p begin="00:11:07.032" end="00:11:10.074">- Du ved vi vil ikke spise mad der <br/>kommer l&#230;ngere v&#230;k fra end 400 km</p>
+      <p begin="00:11:10.074" end="00:11:14.324">s&#229; det er ikke som s&#229;dan at Pasti's<br/>er et problem men for eksempel,</p>
+      <p begin="00:11:14.324" end="00:11:20.199">hveden og br&#248;det kommer sikkert <br/>fra Great Plains, langt langt borte.</p>
+      <p begin="00:11:20.199" end="00:11:25.282">S&#229; det er - <br/>det er hvad problemet vil v&#230;re.</p>
+      <p begin="00:11:25.282" end="00:11:27.990">Det, du ved, at maden kommer alle <br/>mulige steder fra</p>
+      <p begin="00:11:27.990" end="00:11:30.824">og vi pr&#248;ver at spise lokalt.</p>
+      <p begin="00:11:30.824" end="00:11:33.741">Vi kan spise hvad vi har undtagen<br/>krydderierne fordi, du ved,</p>
+      <p begin="00:11:33.741" end="00:11:36.907">krydderierne ville kunne <br/>holde hele &#229;ret.</p>
+      <p begin="00:11:36.907" end="00:11:38.157">L&#248;g er ikke noget problem.</p>
+      <p begin="00:11:38.157" end="00:11:39.282">Hvidl&#248;g er ikke et problem.</p>
+      <p begin="00:11:39.282" end="00:11:42.115">Squash er ikke et problem.</p>
+      <p begin="00:11:42.115" end="00:11:44.116">Kartofler er ikke et problem.</p>
+      <p begin="00:11:44.116" end="00:11:47.865">Vi spiste bacon kartofler<br/>tilberedt sidste uge, i tre dage.</p>
+      <p begin="00:11:47.865" end="00:11:51.157">- Jeg har sluttet, sluttet med k&#248;d,<br/>men jeg spiser stadig fisk</p>
+      <p begin="00:11:51.157" end="00:11:55.615">s&#229; i aftes startede det med ingen k&#248;d,<br/>ingen fisk, slet ingen ting.</p>
+      <p begin="00:11:55.615" end="00:11:58.449">S&#229;, jeg mener, ud af det hele -<br/>af trapperne,</p>
+      <p begin="00:11:58.449" end="00:12:00.532">scooteren og ingen affald,</p>
+      <p begin="00:12:00.532" end="00:12:02.949">Det med maden har absolut <br/>v&#230;ret det sv&#230;reste for mig.</p>
+      <p begin="00:12:02.949" end="00:12:07.032">Det er stadig h&#229;rdt lige nu, jeg<br/>har lyst til at g&#229; ud og f&#229; lidt bagv&#230;rk.</p>
+      <p begin="00:12:07.032" end="00:12:09.032">- Hvorfor tror du maden<br/>er det sv&#230;reste for dig?</p>
+      <p begin="00:12:11.199" end="00:12:13.907">- Fordi jeg ikke kan spise noget<br/>der smager godt.</p>
+      <p begin="00:12:13.907" end="00:12:16.615"/>
+      <p begin="00:12:18.573" end="00:12:21.907">- Lige nu m&#229; vi n&#248;jes med k&#229;l og<br/>rodfrugter</p>
+      <p begin="00:12:21.907" end="00:12:25.199">indtil vinteren er ovre <br/>og for&#229;ret kommer.</p>
+      <p begin="00:12:25.199" end="00:12:26.573">Hej Ryan!</p>
+      <p begin="00:12:26.573" end="00:12:28.907">Jeg kommer tilbage lidt senere<br/>for at f&#229; lidt m&#230;lk.</p>
+      <p begin="00:12:28.907" end="00:12:31.032">Jeg har for meget at b&#230;re nu.</p>
+      <p begin="00:12:31.032" end="00:12:33.824">- Vi ses!</p>
+      <p begin="00:12:33.824" end="00:12:37.532">Fyren jeg normalt giver mine<br/>&#230;ggebakker til er her ikke.</p>
+      <p begin="00:12:37.532" end="00:12:40.157">Transporten af mad<br/>skaber meget CO2 udledning.</p>
+      <p begin="00:12:40.157" end="00:12:43.095">Her i USA, <br/>har hvert stykke mad</p>
+      <p begin="00:12:43.095" end="00:12:46.952">i gennemsnit rejst 2400 km<br/>fra g&#229;rden til flyet.</p>
+      <p begin="00:12:46.952" end="00:12:48.907">Disse fyre har fantastiske &#230;bler.</p>
+      <p begin="00:12:48.907" end="00:12:51.032">Jeg spekulerer p&#229; hvad din favorit er?</p>
+      <p begin="00:12:51.032" end="00:12:53.066">- Winesap<br/>s&#229; nu vil jeg tale med ham.</p>
+      <p begin="00:12:53.066" end="00:12:53.767">sokker af.</p>
+      <p begin="00:12:53.767" end="00:12:55.337">- Men der er ogs&#229; mange andre<br/>grunde til at spise lokalt</p>
+      <p begin="00:12:55.337" end="00:12:59.038">som at bevare vores <br/>landbrugsjorde.</p>
+      <p begin="00:12:59.038" end="00:13:02.740">Og grunden til vi er vegetarer er p&#229; <br/>verdensplan - er k&#248;dspisning ansvarlig</p>
+      <p begin="00:13:02.740" end="00:13:07.731">for flere drivhusgasser end<br/>noget andet inklusiv transport.</p>
+      <p begin="00:13:10.573" end="00:13:13.699">- Der er ikke noget lokalt dyrket<br/>kaffe s&#229; det m&#229; jeg undv&#230;re.</p>
+      <p begin="00:13:13.699" end="00:13:16.782">S&#229; i dag er mit sidste fors&#248;g med<br/>Iced Colada Espressos.</p>
+      <p begin="00:13:16.782" end="00:13:19.949">Jeg er bekymret for at det skal smutte,<br/>at jeg ikke kan g&#248;re det</p>
+      <p begin="00:13:19.949" end="00:13:24.490">og s&#229; er jeg bekymret om<br/>Colins vrede.</p>
+      <p begin="00:13:24.490" end="00:13:26.506">For det generer ham virkeligt<br/>n&#229;r det smutter for mig</p>
+      <p begin="00:13:26.506" end="00:13:30.448">for det f&#229;r ham til at f&#248;le at<br/>projektet falder sammen.</p>
+      <p begin="00:13:30.448" end="00:13:33.782">Det er egentligt nemt for Colin<br/>og det er bare d&#248;dsv&#230;rt for mig</p>
+      <p begin="00:13:33.782" end="00:13:35.824">Maden og koffeinen.</p>
+      <p begin="00:13:35.824" end="00:13:39.532">Det er mors tredje og sidste<br/>Iced Colada Espresso.</p>
+      <p begin="00:13:39.532" end="00:13:41.072">Klar til at lette!</p>
+      <p begin="00:13:43.949" end="00:13:46.240">F&#248;les godt!</p>
+      <p begin="00:13:46.240" end="00:13:48.240">&#197;h min gud! Meget bedre.</p>
+      <p begin="00:13:48.240" end="00:13:54.757"/>
+      <p begin="00:14:02.407" end="00:14:06.240">- En del af det at spise lokalt handler<br/>om at komme til at kende landm&#230;ndene</p>
+      <p begin="00:14:06.240" end="00:14:08.198">som du f&#229;r din mad fra.</p>
+      <p begin="00:14:08.198" end="00:14:11.641">S&#229; vi skal bes&#248;ge Ronnie p&#229;<br/>Ronnie Brook Farm</p>
+      <p begin="00:14:11.641" end="00:14:15.133">og alle hans sm&#229; k&#248;er.</p>
+      <p begin="00:14:15.133" end="00:14:18.074">Det er f&#248;rste gang jeg har v&#230;ret</p>
+      <p begin="00:14:18.074" end="00:14:27.615">p&#229; ikke fod-drevet <br/>transport i mere end en m&#229;ned.</p>
+      <p begin="00:14:27.615" end="00:14:29.116">S&#229; det er lidt sjovt.</p>
+      <p begin="00:14:29.116" end="00:14:30.074">Fut-fut!</p>
+      <p begin="00:14:30.074" end="00:14:31.323"/>
+      <p begin="00:14:31.323" end="00:14:38.782"/>
+      <p begin="00:14:38.782" end="00:14:40.116">- Hver ko har et navn.</p>
+      <p begin="00:14:40.116" end="00:14:41.531">Dette er Thelma.</p>
+      <p begin="00:14:41.531" end="00:14:44.532">- Hej t&#248;s.</p>
+      <p begin="00:14:45.192" end="00:14:48.907">Er forholdet til dyrene en af<br/>grundene til at du g&#248;r det?</p>
+      <p begin="00:14:48.907" end="00:14:51.157">- Det er grunden til at <br/>vi startede med dem.</p>
+      <p begin="00:14:51.157" end="00:14:54.782">Min kone fort&#230;ller mig at da min<br/>s&#248;n blev f&#248;dt, skulle jeg malke k&#248;erne.</p>
+      <p begin="00:14:54.782" end="00:14:57.032">Jeg kunne ikke tage til --<br/>k&#248;re hende til hospitalet.</p>
+      <p begin="00:14:57.032" end="00:14:57.819"/>
+      <p begin="00:14:57.819" end="00:14:59.448">Jeg vidste det ikke, <br/>det kunne jeg ikke huske.</p>
+      <p begin="00:14:59.448" end="00:15:02.490"/>
+      <p begin="00:15:02.490" end="00:15:04.490">- Lad os tale om &#248;kologi.</p>
+      <p begin="00:15:04.490" end="00:15:06.489">Du har ikke &#216;-m&#230;rket.</p>
+      <p begin="00:15:06.489" end="00:15:11.198">Hvorfor har du ikke det og hvad syntes<br/>du om &#216;-m&#230;rket og...</p>
+      <p begin="00:15:11.198" end="00:15:14.448">- Alts&#229;, jeg mener at <br/>&#248;kologi er en god ting.</p>
+      <p begin="00:15:14.448" end="00:15:17.490">Det eneste jeg har imod at v&#230;re<br/>&#248;kologisk landmand</p>
+      <p begin="00:15:17.490" end="00:15:19.949">er at jeg ikke kan behandle mine k&#248;er.<br/>- Ja.</p>
+      <p begin="00:15:19.949" end="00:15:21.156"/>
+      <p begin="00:15:21.156" end="00:15:24.240">- Det er den eneste ting jeg ikke<br/>kunne v&#230;re med til.</p>
+      <p begin="00:15:24.240" end="00:15:26.699">- Hvilken er hvad? Forklar det for mig.</p>
+      <p begin="00:15:26.699" end="00:15:30.865">Alts&#229;, hvis koen bliver syg, m&#229; <br/>du ikke behandle den med antibiotika.</p>
+      <p begin="00:15:30.865" end="00:15:34.115">Det er problemet jeg har,<br/>at lade k&#248;er d&#248;.</p>
+      <p begin="00:15:34.115" end="00:15:37.782">Det har v&#230;ret de samme <br/>k&#248;er i generationer.</p>
+      <p begin="00:15:37.782" end="00:15:41.073">- Wow!</p>
+      <p begin="00:15:41.073" end="00:15:44.073">Hej skat!</p>
+      <p begin="00:15:44.073" end="00:15:45.490">S&#229; lad mig sp&#248;rge om en ting.</p>
+      <p begin="00:15:45.490" end="00:15:48.156">S&#229; alt hvad du siger,<br/>s&#229; lad os g&#229; til den anden ende.</p>
+      <p begin="00:15:48.156" end="00:15:52.156">Folk hopper med p&#229; vognen<br/>med &#248;kologisk markedsf&#248;ring.</p>
+      <p begin="00:15:52.156" end="00:15:54.865">- Den vigtigste ting,<br/>grunden til at lokalt er vigtigt</p>
+      <p begin="00:15:54.865" end="00:15:57.782">er at jeg vil g&#248;re <br/>f&#248;devarens vej synlig.</p>
+      <p begin="00:15:57.782" end="00:15:59.615">hvis jeg skal k&#248;be <br/>en grapefrugt fra dig</p>
+      <p begin="00:15:59.615" end="00:16:00.881">vil jeg se hvad du laver.</p>
+      <p begin="00:16:00.881" end="00:16:02.895">Du har m&#229;ske ikke et &#216;-m&#230;rke</p>
+      <p begin="00:16:02.895" end="00:16:06.099">men alt hvad du g&#248;r er <br/>&#248;kologisk eller bedre.</p>
+      <p begin="00:16:06.099" end="00:16:10.178">Indenfor m&#230;lk, skal det bare v&#230;re,<br/>det skal bare v&#230;re lokalt</p>
+      <p begin="00:16:11.428" end="00:16:14.815">og hvis du er n&#248;dt til at se p&#229; <br/>behandlingen af disse dyr.</p>
+      <p begin="00:16:14.815" end="00:16:16.365">Du skal tage ud og se det!</p>
+      <p begin="00:16:16.365" end="00:16:20.077"/>
+      <p begin="00:16:20.077" end="00:16:25.354"/>
+      <p begin="00:16:26.615" end="00:16:29.657">- Dette er en helt<br/>lokal mad fritata.</p>
+      <p begin="00:16:29.657" end="00:16:33.282">Rodfrugterne kommer fra en g&#229;rd<br/>i taten New York.</p>
+      <p begin="00:16:33.282" end="00:16:35.990">R&#248;dk&#229;l kommer ogs&#229; fra det nordlige<br/>af staten New York.</p>
+      <p begin="00:16:35.990" end="00:16:41.740">&#198;g og ost kommer ogs&#229; fra<br/>det nordlige af staten New York!</p>
+      <p begin="00:16:41.740" end="00:16:43.031">- H&#248;rte du telefonen ringe?</p>
+      <p begin="00:16:43.031" end="00:16:43.782">- Det gjorde jeg.</p>
+      <p begin="00:16:43.782" end="00:16:44.782">- Det var Robin.</p>
+      <p begin="00:16:44.782" end="00:16:45.523">- Ja?</p>
+      <p begin="00:16:45.523" end="00:16:48.316">Og grundl&#230;ggende er aftalen at</p>
+      <p begin="00:16:48.316" end="00:16:50.527">de vil pr&#248;ve at lave <br/>dette til forside historien.</p>
+      <p begin="00:16:50.527" end="00:16:51.657">- Ja.</p>
+      <p begin="00:16:51.657" end="00:16:53.782">Men tidligt mandag morgen,<br/>omkring klokken syv,</p>
+      <p begin="00:16:53.782" end="00:16:56.448">skal Robin have det<br/>nye udkast i sine h&#230;nder.</p>
+      <p begin="00:16:56.448" end="00:17:03.615">S&#229; jeg f&#248;ler mig s&#229; sv&#230;kket af<br/>min afholdenhed fra koffein</p>
+      <p begin="00:17:03.615" end="00:17:05.740">at jeg f&#248;ler det <br/>vil p&#229;virke mit arbejde.</p>
+      <p begin="00:17:05.740" end="00:17:06.507">- Aha?</p>
+      <p begin="00:17:06.507" end="00:17:08.614">- Jeg syntes dette er <br/>en virkelig vigtig historie.</p>
+      <p begin="00:17:08.614" end="00:17:11.442">- S&#229; det er hvad jeg syntes, hvorfor<br/>ventede du med at fort&#230;lle mig</p>
+      <p begin="00:17:11.442" end="00:17:13.323">hvorn&#229;r begynder du at<br/>lave arbejdet?</p>
+      <p begin="00:17:13.323" end="00:17:14.490">- Efter vores middagsselskab.</p>
+      <p begin="00:17:14.490" end="00:17:17.281">- Hvorfor venter du ikke indtil det,<br/>og s&#229; kan du bestemme dig.</p>
+      <p begin="00:17:17.281" end="00:17:18.962"/>
+      <p begin="00:17:19.954" end="00:17:22.281">- Laver du grin med mig?</p>
+      <p begin="00:17:22.281" end="00:17:25.989">Jeg f&#248;ler det som om mit hoved<br/>et ved at falde af min krop.</p>
+      <p begin="00:17:25.989" end="00:17:26.782"/>
+      <p begin="00:17:26.782" end="00:17:29.907">Det vil hj&#230;lpe mig gennem processen<br/>og jeg kan m&#230;rke at det bliver stresset</p>
+      <p begin="00:17:29.907" end="00:17:32.198">s&#229; hvorfor ikke benytte mig af den hj&#230;lp?</p>
+      <p begin="00:17:32.198" end="00:17:33.907">- Lige en &#248;jeblik</p>
+      <p begin="00:17:36.115" end="00:17:39.115">Hvad du virkelig mener, er at du vil <br/>have noget kaffe lige nu.</p>
+      <p begin="00:17:39.115" end="00:17:39.928">Det har ikke noget...<br/>- Jeg g&#229;r ud med hunden.</p>
+      <p begin="00:17:40.740" end="00:17:41.824">Din skid!</p>
+      <p begin="00:17:41.824" end="00:17:44.073">- &#197;h, det er hvad du virkelig, <br/>det er hvad du virkelig...</p>
+      <p begin="00:17:44.073" end="00:17:46.740">- Ja, jeg vil bruge.<br/>Jeg vil ud og l&#248;be.</p>
+      <p begin="00:17:47.782" end="00:17:49.281">- Jamen, jeg er ligeglad.</p>
+      <p begin="00:17:49.281" end="00:17:52.365">- Du er ikke ligeglad.</p>
+      <p begin="00:17:52.365" end="00:17:53.699">- Alts&#229;, du ved.</p>
+      <p begin="00:17:53.699" end="00:17:56.532">- Jeg spiser kun lokal mad.<br/>Jeg skaber ikke noget affald.</p>
+      <p begin="00:17:56.532" end="00:17:57.865">Jeg spiser ingenting...<br/>- Vent. Vent. Vent. Vent. Vent.</p>
+      <p begin="00:17:57.983" end="00:17:58.818">- Forts&#230;t!</p>
+      <p begin="00:17:58.818" end="00:18:02.532">- Du spiser kun lokal mad, men hvem <br/>s&#230;tter det p&#229; bordet, st&#229;r op om morgenen</p>
+      <p begin="00:18:02.532" end="00:18:03.682">og laver din morgenmad hver dag.</p>
+      <p begin="00:18:03.682" end="00:18:04.382">- Du!</p>
+      <p begin="00:18:04.382" end="00:18:05.182">- Laver din frokost.</p>
+      <p begin="00:18:05.182" end="00:18:05.883">- Du!</p>
+      <p begin="00:18:05.883" end="00:18:06.703">- Laver din aftensmad.</p>
+      <p begin="00:18:06.703" end="00:18:07.737">- Det er ikke det der er pointen!</p>
+      <p begin="00:18:07.737" end="00:18:10.156">- Og s&#229; som regel vasker op,<br/>n&#229;r det hele er lavet?</p>
+      <p begin="00:18:10.156" end="00:18:12.031">- Jeg vasker op!</p>
+      <p begin="00:18:12.031" end="00:18:14.115">- Hvad der virkeligt skete er<br/>at Robin ringede til dig</p>
+      <p begin="00:18:14.115" end="00:18:16.615">og du t&#230;nkte<br/>"&#197;h, dette er en undskyldning."</p>
+      <p begin="00:18:16.615" end="00:18:18.657"/>
+      <p begin="00:18:18.657" end="00:18:20.906">- S&#229; du vil have --<br/>du er vred p&#229; mig</p>
+      <p begin="00:18:20.906" end="00:18:23.407">og jeg siger til dig at<br/>jeg nok skal passe p&#229; mig selv.</p>
+      <p begin="00:18:23.407" end="00:18:24.192">- Du kommer ordene i min mund.</p>
+      <p begin="00:18:24.192" end="00:18:24.893">- OK. Godt s&#229;!</p>
+      <p begin="00:18:24.893" end="00:18:25.824">- Jeg sagde ikke at jeg var det.</p>
+      <p begin="00:18:25.824" end="00:18:28.532">- Nu vil jeg s&#248;rge for mig selv</p>
+      <p begin="00:18:28.532" end="00:18:32.615">og f&#229; en is-k&#248;let firedobbelt espresso<br/>eller m&#229;ske to, jeg ved det ikke.</p>
+      <p begin="00:18:32.615" end="00:18:36.662">Jeg vil ikke skuffe alle.<br/>jeg vil ikke skuffe mig selv.</p>
+      <p begin="00:18:36.662" end="00:18:38.160"/>
+      <p begin="00:18:41.341" end="00:18:44.989">- Jeg brugte denne krydrede olivenolie og <br/>det er resterne af vores olivenolie</p>
+      <p begin="00:18:44.989" end="00:18:47.198">for ret snart,<br/>kan vi ikke bruge olivenolie.</p>
+      <p begin="00:18:47.198" end="00:18:48.956">- Og I vil klare jer uden str&#248;m her?</p>
+      <p begin="00:18:48.956" end="00:18:49.698">- Med tiden.</p>
+      <p begin="00:18:49.698" end="00:18:50.397">- Ja!</p>
+      <p begin="00:18:50.397" end="00:18:52.990">- Hvad med str&#248;m i andres<br/>lejligheder?</p>
+      <p begin="00:18:52.990" end="00:18:55.281">- Hvis nogen skulle invitere os til at<br/>se TV i deres hus,</p>
+      <p begin="00:18:55.281" end="00:18:57.824">ville vi sige ja fordi det var en<br/>social sammenkomst.</p>
+      <p begin="00:18:57.824" end="00:18:58.860">Jeg tigger ikke, men det er t&#230;t p&#229;.</p>
+      <p begin="00:18:58.860" end="00:18:59.559"/>
+      <p begin="00:19:02.556" end="00:19:03.255">- Brugt t&#248;j?</p>
+      <p begin="00:19:03.255" end="00:19:04.824">- Brugt t&#248;j er tilladt.</p>
+      <p begin="00:19:04.824" end="00:19:05.949">- Aha!</p>
+      <p begin="00:19:05.949" end="00:19:09.989">- Ingen nye stoffer men Michelle,<br/>jeg tror jeg vil tage en kold tyrker.</p>
+      <p begin="00:19:09.989" end="00:19:12.448">- I hele &#229;ret, vil jeg ikke k&#248;be<br/>noget som helst hele &#229;ret.</p>
+      <p begin="00:19:12.803" end="00:19:14.407">Det have v&#230;ret virkeligt fantastisk<br/>at slippe det</p>
+      <p begin="00:19:14.407" end="00:19:16.281">for det har givet mig mulighed<br/>for at omvurdere alting.</p>
+      <p begin="00:19:16.281" end="00:19:17.281">Hvad bruger jeg?</p>
+      <p begin="00:19:17.281" end="00:19:18.699">Hvad bruger jeg ikke?</p>
+      <p begin="00:19:18.699" end="00:19:22.281">- Der er en f&#230;lles stil, alligevel.</p>
+      <p begin="00:19:22.281" end="00:19:24.448"/>
+      <p begin="00:19:24.448" end="00:19:25.657">Med nogle enkelte specielle venner.</p>
+      <p begin="00:19:25.657" end="00:19:27.824"/>
+      <p begin="00:19:27.824" end="00:19:32.906"/>
+      <p begin="00:19:32.906" end="00:19:33.824">- Ja, godt g&#229;et!</p>
+      <p begin="00:19:33.824" end="00:19:38.566">- I starten, fordi det var vores vane <br/>at se TV, s&#229; vi savnede det.</p>
+      <p begin="00:19:38.566" end="00:19:41.081">Og nu er det hul fyldt <br/>med at leve i nuet</p>
+      <p begin="00:19:41.081" end="00:19:42.507">med venner og hinanden.</p>
+      <p begin="00:19:42.507" end="00:19:53.285"/>
+      <p begin="00:19:58.864" end="00:20:02.240">- Jeg laver majsmel gr&#248;d,<br/>som vi spiser tit.</p>
+      <p begin="00:20:02.240" end="00:20:04.115">Du vil bem&#230;rke at jeg ikke laver det<br/>s&#229; meget fordi, du ved,</p>
+      <p begin="00:20:04.115" end="00:20:07.031">der er ikke s&#229; meget vi kan f&#229; lokalt.</p>
+      <p begin="00:20:07.031" end="00:20:12.948">S&#229; majsmel gr&#248;d er hvad det er.</p>
+      <p begin="00:20:12.948" end="00:20:14.864">- Mit &#230;ble!</p>
+      <p begin="00:20:24.198" end="00:20:25.490">OK. Kys mor farvel.</p>
+      <p begin="00:20:25.490" end="00:20:27.073">- Jeg elsker dig!</p>
+      <p begin="00:20:27.073" end="00:20:28.573">Vi ses senere, OK skat.</p>
+      <p begin="00:20:28.573" end="00:20:30.156">Jeg tager p&#229; arbejde.</p>
+      <p begin="00:20:30.156" end="00:20:44.906"/>
+      <p begin="00:20:44.906" end="00:20:48.740">- Jeg s&#230;tter et indl&#230;g p&#229; bloggen med <br/>titlen "S&#229;dan undg&#229;r vi at skabe affald."</p>
+      <p begin="00:20:48.740" end="00:20:51.948">Ingen indisk mad og smid-v&#230;k<br/>take-out bakker.</p>
+      <p begin="00:20:51.948" end="00:20:54.532">Ingen kinesisk mad og plastik<br/>smid-v&#230;k bakker.</p>
+      <p begin="00:20:54.532" end="00:20:57.115">Ingen italiensk mad og plastik<br/>smid-v&#230;k bakker.</p>
+      <p begin="00:20:57.115" end="00:21:00.240">Ingen sodavandsd&#229;ser. <br/>Ingen vand i plastflasker.</p>
+      <p begin="00:21:00.240" end="00:21:02.699">Annullerer vores magasin og<br/>avis abonnementer.</p>
+      <p begin="00:21:02.699" end="00:21:06.657">S&#230;tte en stopper for<br/>reklamernes tr&#230; drab.</p>
+      <p begin="00:21:06.657" end="00:21:13.699">Jeg ringer til firmaerne for at bede <br/>dem om ikke at sende dem til os mere.</p>
+      <p begin="00:21:13.699" end="00:21:18.448">Returnere &#230;gge- og frugt-bakker til<br/>producenterne p&#229; torvet til genbrug.</p>
+      <p begin="00:21:18.448" end="00:21:21.781">K&#248;be m&#230;lk i genanvendelige <br/>flasker, der kan returneres.</p>
+      <p begin="00:21:21.781" end="00:21:25.448">G&#229;r rundt med min ultra seje gen-<br/>anvendelige kop og vandflaske</p>
+      <p begin="00:21:25.448" end="00:21:29.156">som er en glaskrukke jeg har<br/>f&#229;et fra lossepladsen.</p>
+      <p begin="00:21:29.156" end="00:21:34.740">Bruger bagepulver fra en genanvendelig<br/>beholder til at b&#248;rste mine t&#230;nder.</p>
+      <p begin="00:21:34.740" end="00:21:37.573">Skifte til rigtige, alts&#229; stofbleer.</p>
+      <p begin="00:21:37.573" end="00:21:41.198">K&#248;ber mad, kun i l&#248;s v&#230;gt og<br/>fra det lokale torv</p>
+      <p begin="00:21:41.198" end="00:21:43.281">hvor det er frisk og ikke pakket ind.</p>
+      <p begin="00:21:43.281" end="00:21:46.115">Hvis jeg vil have det der er inden i<br/>kassen, hvad skal jeg s&#229; med kassen?</p>
+      <p begin="00:21:46.115" end="00:21:48.615">Og inde i kassen er der en pose.</p>
+      <p begin="00:21:48.615" end="00:21:52.281">Ingen smid-v&#230;k plastik barberskrabere<br/>og barberblade.</p>
+      <p begin="00:21:52.281" end="00:21:56.323">Bruge gammelt t&#248;j til klude rundt om i <br/>lejligheden i stedet for papir h&#229;ndkl&#230;der.</p>
+      <p begin="00:21:56.323" end="00:21:59.906">Holde orm i en t&#248;nde til at kompostere<br/>vores madrester og give n&#230;ring,</p>
+      <p begin="00:21:59.906" end="00:22:05.490">det kan gives tilbage til jorden i stedet<br/>for gifte der siver ud fra lossepladserne.</p>
+      <p begin="00:22:05.490" end="00:22:07.573">Her kommer de.</p>
+      <p begin="00:22:07.573" end="00:22:09.383">- De vil spise,<br/>tror jeg du fortalte mig,</p>
+      <p begin="00:22:09.383" end="00:22:11.787">1,5 kg materiale --</p>
+      <p begin="00:22:11.787" end="00:22:13.490">- hver uge, ja.</p>
+      <p begin="00:22:13.490" end="00:22:17.532">For produkterne, tog vi i fire dage<br/>hvor vi gemte alt vores affald</p>
+      <p begin="00:22:17.532" end="00:22:18.864">og der var 340 liter.</p>
+      <p begin="00:22:18.864" end="00:22:22.031">Fire dage, det er lidt ul&#230;kkert.</p>
+      <p begin="00:22:22.031" end="00:22:25.031">Dette er vores samlede <br/>affald for en uge.</p>
+      <p begin="00:22:29.150" end="00:22:33.739">- Isabella taler i telefon.</p>
+      <p begin="00:22:33.739" end="00:22:36.407">OK, s&#229; vi er gennem affalds fasen.<br/>- Ja.</p>
+      <p begin="00:22:36.407" end="00:22:38.532">- og vi er gennem fasen<br/>med at spise lokalt.</p>
+      <p begin="00:22:38.532" end="00:22:39.490">- Ja.</p>
+      <p begin="00:22:39.490" end="00:22:42.698">- og nu skal vi i gang med fasen<br/>med b&#230;redygtigt forbrug.</p>
+      <p begin="00:22:42.698" end="00:22:46.281">- Hvad med transport og<br/>alle de andre ting vi har lavet?</p>
+      <p begin="00:22:46.281" end="00:22:50.491">- Ja, men de er ikke en del af faserne.</p>
+      <p begin="00:22:50.491" end="00:22:53.448"/>
+      <p begin="00:22:53.448" end="00:22:55.115">S&#229;, nu bev&#230;ger vi os ind i --</p>
+      <p begin="00:22:55.115" end="00:22:55.823">- OK.</p>
+      <p begin="00:22:55.823" end="00:22:57.141">- Du ved, v&#230;re sikker p&#229;<br/>at vi ikke har</p>
+      <p begin="00:22:57.141" end="00:23:00.615">nogen p&#229;virkning p&#229; milj&#248;et<br/>gennem vores indk&#248;b.</p>
+      <p begin="00:23:00.615" end="00:23:04.781">S&#229; den f&#248;rste regel er<br/>ikke at k&#248;be nye produkter, OK.</p>
+      <p begin="00:23:04.781" end="00:23:08.573">Men vi kan l&#229;ne, leje eller k&#248;be brugt.</p>
+      <p begin="00:23:08.573" end="00:23:10.156">- Skal du p&#229; potten?<br/>- Ja!</p>
+      <p begin="00:23:10.156" end="00:23:11.323">- Skal du p&#229; potten?</p>
+      <p begin="00:23:11.323" end="00:23:12.407">- Nej!</p>
+      <p begin="00:23:12.407" end="00:23:15.198">- Vil du have noget toiletpapir?</p>
+      <p begin="00:23:15.198" end="00:23:17.073">Faktisk, s&#229; har vi <br/>ikke mere toiletpapir.</p>
+      <p begin="00:23:17.073" end="00:23:18.656">Hej, har vi noget toiletpapir?</p>
+      <p begin="00:23:18.656" end="00:23:20.781">- Nej.</p>
+      <p begin="00:23:20.781" end="00:23:23.865">En ting der er rigtigt, rigtigt sv&#230;rt <br/>for en forbruger er at regne ud</p>
+      <p begin="00:23:23.865" end="00:23:26.283">hvad der er OK at k&#248;be og<br/>hvad der ikke er OK at k&#248;be</p>
+      <p begin="00:23:26.283" end="00:23:29.240">og hvad der skal v&#230;re engangs<br/>og hvad der ikke er engangs, ikke?</p>
+      <p begin="00:23:29.240" end="00:23:30.489">- Ja!</p>
+      <p begin="00:23:30.489" end="00:23:34.637">- S&#229; det er rigtigt, rigtigt sv&#230;rt at<br/>unders&#248;ge og ingen kan g&#248;re det hele.</p>
+      <p begin="00:23:34.637" end="00:23:35.468">- Ja!</p>
+      <p begin="00:23:35.468" end="00:23:39.963">- Men, hvis du bare holder op med at for-<br/>bruge det du egentligt ikke har brug for.</p>
+      <p begin="00:23:39.963" end="00:23:40.680">- Ja.</p>
+      <p begin="00:23:40.680" end="00:23:41.819">- s&#229; har du allerede gjort det!</p>
+      <p begin="00:23:41.819" end="00:23:42.520">- Ja!</p>
+      <p begin="00:23:42.520" end="00:23:44.199">- Du beh&#248;ver ikke at unders&#248;ge det.</p>
+      <p begin="00:23:44.199" end="00:23:44.912">- Det g&#248;r du ikke.</p>
+      <p begin="00:23:44.912" end="00:23:47.712">- S&#229; hvis du finder ud af at egentligt,<br/>beh&#248;ver du ikke toiletpapir</p>
+      <p begin="00:23:47.712" end="00:23:49.789">du kan bare genbruge klude.</p>
+      <p begin="00:23:49.789" end="00:23:50.502">- Ja.</p>
+      <p begin="00:23:50.502" end="00:23:52.587">- Ja. Du beh&#248;ver ikke k&#248;be toiletpapir</p>
+      <p begin="00:23:52.646" end="00:23:55.217">og du beh&#248;ver ikke lave unders&#248;gelser<br/>omkring toiletpapir.</p>
+      <p begin="00:23:55.217" end="00:23:56.063">- Nej!</p>
+      <p begin="00:23:56.063" end="00:23:57.036">- Kan du se det?</p>
+      <p begin="00:23:57.036" end="00:23:57.886">- Ja!</p>
+      <p begin="00:23:57.886" end="00:23:59.091">- Ja!</p>
+      <p begin="00:23:59.091" end="00:24:00.471">- Vil du virkelig v&#230;re s&#229; billedlig<br/>fordi ...</p>
+      <p begin="00:24:00.471" end="00:24:02.680"/>
+      <p begin="00:24:02.680" end="00:24:04.984">- Der er det ved det at du<br/>ikke ved det f&#248;r du har pr&#248;vet det.</p>
+      <p begin="00:24:04.984" end="00:24:06.429">- Jeg f&#248;ler at jeg ender med<br/>at miste mit job.</p>
+      <p begin="00:24:06.429" end="00:24:08.222">Toiletpapir, toiletpapir..</p>
+      <p begin="00:24:08.222" end="00:24:10.729"/>
+      <p begin="00:24:10.729" end="00:24:14.014">- Og den offentlige latterligg&#248;relse<br/>af os, det bliver bare s&#229;...</p>
+      <p begin="00:24:14.014" end="00:24:15.683">- Det er et eksperiment p&#229; et &#229;r.</p>
+      <p begin="00:24:15.683" end="00:24:16.444">- Godt.</p>
+      <p begin="00:24:16.444" end="00:24:19.003">G&#248;r det ikke dig, No Impact Man<br/>s&#229; ekstrem og tosset</p>
+      <p begin="00:24:19.003" end="00:24:23.056">at du bare bliver ladt ude<br/>som en ekstrem tosse?</p>
+      <p begin="00:24:23.056" end="00:24:24.534">Jeg stiller bare et retorisk sp&#248;rgsm&#229;l.</p>
+      <p begin="00:24:24.534" end="00:24:27.695">- Men hvis jeg pr&#248;vede det og jeg <br/>fandt ud af at det virker</p>
+      <p begin="00:24:27.695" end="00:24:31.046">og det er bedre for milj&#248;et<br/>og det ikke er et problem</p>
+      <p begin="00:24:31.046" end="00:24:35.675">og det kan g&#248;res lige s&#229; hygiejnisk,</p>
+      <p begin="00:24:35.675" end="00:24:36.738">s&#229; ville jeg vide og ikke se hvorfor<br/>det ville g&#248;re det billigere.</p>
+      <p begin="00:24:36.738" end="00:24:37.802">Men, men hvis jeg ikke pr&#248;ver det...</p>
+      <p begin="00:24:37.802" end="00:24:38.708">- OK.</p>
+      <p begin="00:24:38.708" end="00:24:39.929">- Jeg ved ikke det hele.</p>
+      <p begin="00:24:39.929" end="00:24:41.069">- Aha.</p>
+      <p begin="00:24:41.069" end="00:24:42.054">- Der ser du.</p>
+      <p begin="00:24:42.054" end="00:24:43.672"/>
+      <p begin="00:24:43.672" end="00:24:45.227">- Aha.</p>
+      <p begin="00:24:45.227" end="00:24:47.942">Hvad er det slemme <br/>ved toiletpapir?</p>
+      <p begin="00:24:48.388" end="00:24:51.770">- Vi har bruge for vores tr&#230;er<br/>til at opsuge CO2 men i stedet,</p>
+      <p begin="00:24:51.770" end="00:24:55.484">f&#230;lder vi dem for at lave toiletpapir.</p>
+      <p begin="00:24:55.484" end="00:24:57.731">S&#229; en del af vores eksperiment<br/>er bare at sp&#248;rge</p>
+      <p begin="00:24:57.731" end="00:25:01.974">"Skal vi v&#230;re en brug og smid v&#230;k<br/>kultur?" Ikke?</p>
+      <p begin="00:25:01.974" end="00:25:04.487">Og toilet, men du ved --<br/>og det er et ekstrem</p>
+      <p begin="00:25:04.487" end="00:25:08.834">fordi vi se p&#229; sagen fra alle sider<br/>om det at smide v&#230;k</p>
+      <p begin="00:25:08.834" end="00:25:12.178">fordi smid-v&#230;k kulturen<br/>i sig selv er et virkeligt stort problem.</p>
+      <p begin="00:25:12.178" end="00:25:13.842">og faktisk hvis vi var, du ved</p>
+      <p begin="00:25:13.842" end="00:25:15.280">m&#229;ske kan vi komme v&#230;k <br/>fra alt</p>
+      <p begin="00:25:15.280" end="00:25:19.017">som vi smider v&#230;k.</p>
+      <p begin="00:25:19.017" end="00:25:22.588">- I aften t&#230;nkte jeg, OK alts&#229;<br/>hvis du beder mig g&#248;re dette,</p>
+      <p begin="00:25:22.588" end="00:25:25.868">s&#229; burde jeg f&#229; en pr&#230;mie,<br/>en rabatkupon eller v&#230;rdibevis</p>
+      <p begin="00:25:25.868" end="00:25:27.759">der kan indl&#248;ses til noget.</p>
+      <p begin="00:25:27.759" end="00:25:32.112">men jeg vil ikke rigtigt have noget<br/>og s&#229; var min n&#230;ste tanke</p>
+      <p begin="00:25:32.112" end="00:25:36.075">jeg f&#248;lte sorg over den side af mig,<br/>der &#248;nsker ting</p>
+      <p begin="00:25:36.075" end="00:25:40.790">d&#248;de en lille smule og jeg f&#248;lte at<br/>der bare var et hul der.</p>
+      <p begin="00:25:40.790" end="00:25:44.151">- S&#229; hvad er der tilbage?</p>
+      <p begin="00:25:48.729" end="00:25:49.898">- Hvad er det?</p>
+      <p begin="00:25:49.898" end="00:25:56.192">- Det er alle de ting vi skal give bort <br/>efter at have ryddet op i skabene.</p>
+      <p begin="00:25:56.192" end="00:25:58.702">- OK, er du klar?</p>
+      <p begin="00:26:03.360" end="00:26:07.373">- Dette kaldes lager reducering.</p>
+      <p begin="00:26:10.830" end="00:26:13.730"/>
+      <p begin="00:26:13.730" end="00:26:17.049">Jeg har aldrig nogensinde v&#230;ret her f&#248;r<br/>hvor de &#229;bnede en Marc Jacobs' btik.</p>
+      <p begin="00:26:17.049" end="00:26:20.377">- Du har pr&#230;cis den samme taske.<br/>- Nej, det har jeg ikke, skat.</p>
+      <p begin="00:26:20.377" end="00:26:23.217">Skat, jeg har den hvide Sophia.</p>
+      <p begin="00:26:23.217" end="00:26:24.353">- Og hvad er det?</p>
+      <p begin="00:26:24.353" end="00:26:28.587">- Det er ikke hvidt. Det er lidt en slags<br/>duegr&#229;t, men det er en helt anden taske.</p>
+      <p begin="00:26:28.587" end="00:26:31.238"/>
+      <p begin="00:26:43.292" end="00:26:45.613">M&#229;ske er vores lidt st&#248;rre.<br/>Jeg ved det ikke men alligevel,</p>
+      <p begin="00:26:45.613" end="00:26:47.828">minder det mig om vores TV.</p>
+      <p begin="00:26:47.828" end="00:26:49.832"/>
+      <p begin="00:26:54.309" end="00:26:57.488">- Du h&#248;rer New York offentlige radio <br/>WNYC FM og AM New York</p>
+      <p begin="00:26:57.488" end="00:26:59.639">og WNYC punktum org.</p>
+      <p begin="00:26:59.639" end="00:27:03.117">Mest solskin i<br/>Central Park og klokken er ti.</p>
+      <p begin="00:27:03.117" end="00:27:06.908">Min f&#248;rste g&#230;st i dag er No Impact Man</p>
+      <p begin="00:27:06.908" end="00:27:11.684">Colin Beavan har lige g&#229;et op af trapperne <br/>til 24. etage,sammen med din v&#230;rt</p>
+      <p begin="00:27:11.684" end="00:27:17.047">som ikke er stolt eller tr&#230;t for at undg&#229;<br/>at bruge str&#248;m i en elevator...</p>
+      <p begin="00:27:17.047" end="00:27:19.215">For dem af jer som tilf&#230;ldigvis<br/>har avisen New York Times liggende,</p>
+      <p begin="00:27:19.215" end="00:27:21.909">tag sektion F frem,<br/>sektionen for Hus og Hjem.</p>
+      <p begin="00:27:21.909" end="00:27:25.562">Der er et stort gr&#248;nt, tonet billede<br/>af Colin Beavans lejlighed</p>
+      <p begin="00:27:25.562" end="00:27:27.173">med sin kone, <br/>hans datter og alting.</p>
+      <p begin="00:27:27.173" end="00:27:28.251"/>
+      <p begin="00:27:28.251" end="00:27:30.309">En af de st&#248;rste billeder, jeg nogensinde <br/>har set i New York Times.</p>
+      <p begin="00:27:30.309" end="00:27:31.047"/>
+      <p begin="00:27:31.047" end="00:27:33.917">En af de mindste lejligheder<br/>jeg nogensinde har set i New York Times.</p>
+      <p begin="00:27:34.071" end="00:27:35.025"/>
+      <p begin="00:27:35.025" end="00:27:36.851">Jeg k&#248;rte hjem fra Bryan show<br/>og jeg troede</p>
+      <p begin="00:27:36.851" end="00:27:39.817">Jeg t&#230;nker p&#229; om nogle af mine venner<br/>s&#229; historien i New York Times</p>
+      <p begin="00:27:39.817" end="00:27:45.765">og mailede til mig for at sige tillykke<br/>og der er omkring 150 mails.</p>
+      <p begin="00:27:45.765" end="00:27:50.314">Emnerne er noget som<br/>"Hilsner fra the Today's show."</p>
+      <p begin="00:27:50.314" end="00:27:53.787">Hej. Dette er Mary Noel. Jeg er <br/>producer for Bill Mark.</p>
+      <p begin="00:27:53.787" end="00:27:57.805">I starten var jeg begejstret, men da jeg<br/>s&#229; hvor mange foresp&#248;rgseler der var</p>
+      <p begin="00:27:57.805" end="00:28:03.695">og jeg ikke vidste hvad jeg skulle g&#248;re,<br/>gik jeg fra begejstret til skr&#230;mt.</p>
+      <p begin="00:28:03.695" end="00:28:05.726">Hi Colin. Mit navn er Julie,</p>
+      <p begin="00:28:05.726" end="00:28:07.758">jeg arbejder med Discovery Channel.</p>
+      <p begin="00:28:07.758" end="00:28:11.381">"Hej Mr. Beavan, mit navn er Abe Hagras, <br/>og jeg ringer fra Al Jazeera English</p>
+      <p begin="00:28:11.381" end="00:28:13.538">beliggende i Washington D.C."</p>
+      <p begin="00:28:13.538" end="00:28:16.965">Folk fra Australien, Colombia,<br/>Tyskland, Italien kontakter mig.</p>
+      <p begin="00:28:16.965" end="00:28:21.878">- Han laver en historie om familier<br/>som lever i New York</p>
+      <p begin="00:28:21.878" end="00:28:24.872">n&#230;rmest &#248;ko-effektive og<br/>milj&#248;m&#230;ssigt gr&#248;nne familier.</p>
+      <p begin="00:28:24.872" end="00:28:28.037">- Kan du dreje dig lidt<br/>mere over mod mig?</p>
+      <p begin="00:28:28.745" end="00:28:30.188">- Ser du?</p>
+      <p begin="00:28:30.188" end="00:28:35.368">For ikke at n&#230;vne italiensk TV,<br/>japansk TV.</p>
+      <p begin="00:28:35.368" end="00:28:38.021">Anmodning om interview fra<br/>en avis i Frankrig.</p>
+      <p begin="00:28:38.021" end="00:28:43.129"/>
+      <p begin="00:28:43.129" end="00:28:45.361">- F&#248;r vi startede dette projekt,<br/>Michelle og jeg</p>
+      <p begin="00:28:45.361" end="00:28:47.509">- Undskyld du talte om <br/>filosofien, hvad ligger bag --</p>
+      <p begin="00:28:47.509" end="00:28:48.220">- OK.</p>
+      <p begin="00:28:48.220" end="00:28:49.051">- No Impact Man.</p>
+      <p begin="00:28:49.051" end="00:28:52.086">- Jeg t&#230;nker n&#230;rmest hele tiden p&#229;<br/>f&#230;lles handlinger.</p>
+      <p begin="00:28:52.086" end="00:28:56.337">Hvad vi som samfund b&#248;r g&#248;re.<br/>Du ved, lovene der burde &#230;ndres.</p>
+      <p begin="00:28:56.337" end="00:28:58.954">Men en af de ting, jeg altid har<br/>v&#230;ret svag til som en Liberal</p>
+      <p begin="00:28:58.954" end="00:28:59.890">er den enkeltes <br/>handling som,</p>
+      <p begin="00:28:59.890" end="00:29:02.072">"Hvorfor skal jeg vente p&#229; at Kongressen<br/>g&#248;r noget?"</p>
+      <p begin="00:29:02.072" end="00:29:04.564">"Hvorfor skal jeg vente p&#229; at de<br/>store virksomheder g&#248;r noget?"</p>
+      <p begin="00:29:04.564" end="00:29:05.828">"Hvorfor g&#248;r jeg ikke noget?"</p>
+      <p begin="00:29:05.828" end="00:29:09.120">- "The Times" f&#229;r det dog til at lyde som<br/>delvis en forandring af verden,</p>
+      <p begin="00:29:09.120" end="00:29:11.946">delvis et reklame nummer for din n&#230;ste <br/>bog. Er du enig i det?</p>
+      <p begin="00:29:11.946" end="00:29:13.869">- Ja, det er jeg helt enig i.</p>
+      <p begin="00:29:13.869" end="00:29:16.168">Du ved, jeg er den jeg er. <br/>Dette er hvad jeg g&#248;r.</p>
+      <p begin="00:29:16.168" end="00:29:21.306">Men hvis jeg kan tage energien i den jeg <br/>er som person og pege den energi</p>
+      <p begin="00:29:21.306" end="00:29:23.878">i en retning som, du ved,<br/>jeg siger dette meget ydmygt</p>
+      <p begin="00:29:23.878" end="00:29:27.386">men og pege den energi i en retning<br/>som kan hj&#230;lpe verden,</p>
+      <p begin="00:29:27.386" end="00:29:29.959">s&#229; er det bedre end at pege den<br/>i en anden retning.</p>
+      <p begin="00:29:29.959" end="00:29:34.436">Dette er hvad <span tts:fontStyle="italic">New York Times'</span> reporter<br/>siger om det aktuelle projekt.</p>
+      <p begin="00:29:34.436" end="00:29:38.395">"Det ligner i bedste fald en scene fra en<br/>gammeldags farce,"</p>
+      <p begin="00:29:38.395" end="00:29:42.866">"og i v&#230;rste fald, en etisk skummel<br/>&#248;velse i selvpromovering."</p>
+      <p begin="00:29:42.866" end="00:29:46.431">S&#229; hun skrev egentligt at<br/>mulighederne er</p>
+      <p begin="00:29:46.431" end="00:29:50.081">at enten er det d&#229;rligt eller ogs&#229;<br/>er det virkeligt d&#229;rligt.</p>
+      <p begin="00:29:50.081" end="00:29:51.322">For l&#230;seren var det virkeligt sjovt.</p>
+      <p begin="00:29:51.322" end="00:29:56.482">Fra mit synspunkt, underminerer det<br/>muligheden for at f&#229; folk til at t&#230;nke.</p>
+      <p begin="00:29:56.482" end="00:29:58.603"/>
+      <p begin="00:29:58.603" end="00:30:02.846">Men hvis vi kaldte det "&#197;ret, hvor jeg<br/>tabte 10 kg uden at tr&#230;ne en eneste gang"</p>
+      <p begin="00:30:02.846" end="00:30:08.467">eller "&#197;ret, hvor vi ikke s&#229; TV og vi<br/>derfor blev meget bedre for&#230;ldre."</p>
+      <p begin="00:30:08.467" end="00:30:11.946">Eller hvis vi kaldte det "&#197;ret hvor vi <br/>spiste lokalt og efter &#229;rstiden,</p>
+      <p begin="00:30:11.946" end="00:30:15.639">og det endte med at f&#229; min kone ud <br/>af sit forstadie til diabetes."</p>
+      <p begin="00:30:15.639" end="00:30:20.425">Der er faktiske fordele<br/>ved at leve milj&#248;rigitgt.</p>
+      <p begin="00:30:22.009" end="00:30:25.961">S&#229; dette er l&#230;sernes meninger, ikke?</p>
+      <p begin="00:30:25.961" end="00:30:30.665">379 kommentarer. &#197;benbart<br/>er det et stort antal kommentarer.</p>
+      <p begin="00:30:30.665" end="00:30:33.006">"Ofre nu eller ofre senere.<br/>Jeg g&#248;r allerede meget</p>
+      <p begin="00:30:33.006" end="00:30:35.184">men planl&#230;gger at g&#248;re meget mere."</p>
+      <p begin="00:30:35.184" end="00:30:39.129">Og der er denne "Jeg gl&#230;der mig <br/>til at t&#248;rre min r&#248;v med denne bog."</p>
+      <p begin="00:30:39.129" end="00:30:41.495">Denne skriver "D. T. M. F. A Michelle"</p>
+      <p begin="00:30:41.495" end="00:30:47.650">som jeg tror st&#229;r for<br/>"Dump The Mother Fucking Asshole."</p>
+      <p begin="00:30:47.650" end="00:30:53.541">Bortset fra gavtyve der n&#230;rmest parodier<br/>og sender ting der er aktuelle i medierne.</p>
+      <p begin="00:30:53.541" end="00:30:56.184">"Colin gr&#230;der stille p&#229; toilettet,</p>
+      <p begin="00:30:56.184" end="00:30:58.891">for fugtig til at flytte sig og<br/>for stolt til at t&#248;rre sig."</p>
+      <p begin="00:30:58.891" end="00:31:00.328"/>
+      <p begin="00:31:00.328" end="00:31:02.917">Det var godt men kommentarerne,</p>
+      <p begin="00:31:02.917" end="00:31:05.118">min f&#248;rste indskydelse var<br/>at rive disse mennesker</p>
+      <p begin="00:31:05.118" end="00:31:09.226">med fugtig ild, mens jeg skriger<br/>"Er det nok indflydelse for dig?"</p>
+      <p begin="00:31:09.226" end="00:31:11.478">Jeg begyndte at tvivle p&#229; mig selv<br/>en lille overgang</p>
+      <p begin="00:31:11.478" end="00:31:14.489">Jeg syntes, "I tror jeg er noget v&#230;rd,<br/>men det er jeg m&#229;ske ikke.</p>
+      <p begin="00:31:14.489" end="00:31:16.444">M&#229;ske en, det er filosofisk forkert.</p>
+      <p begin="00:31:16.444" end="00:31:20.433">Jeg har ogs&#229; f&#229;et mails fra nogle<br/>milj&#248;fork&#230;mpere som skriver</p>
+      <p begin="00:31:20.433" end="00:31:23.042">du ved, "Tosser som dig, giver resten<br/>af os et d&#229;rligt omd&#248;mme."</p>
+      <p begin="00:31:23.042" end="00:31:29.616">Kunne jeg muligvis tr&#230;ffe nogle<br/>totalt forkerte beslutninger?</p>
+      <p begin="00:31:29.616" end="00:31:35.099">Ja, men du er n&#248;dt til --<br/>Jeg pr&#248;ver bare, du ved,</p>
+      <p begin="00:31:35.099" end="00:31:39.493">Jeg vil bare pr&#248;ve at sp&#248;rge mig selv, <br/>at g&#248;re hvad min samvittighed,</p>
+      <p begin="00:31:39.493" end="00:31:42.842">du ved, jeg pr&#248;ver at f&#248;lge<br/>hvad min samvittighed byder mig.</p>
+      <p begin="00:31:42.842" end="00:31:47.616"/>
+      <p begin="00:31:47.616" end="00:31:51.124">- Jeg ved at jeg ikke kan springe fra nu<br/>og jeg vil ikke svigte dig.</p>
+      <p begin="00:31:51.124" end="00:31:53.184">men det giver mig lyst <br/>til ikke at g&#248;re det.</p>
+      <p begin="00:31:53.184" end="00:31:56.676">- Jeg syntes at det er fint, du ved,<br/>hvis vi har l&#230;st</p>
+      <p begin="00:31:56.676" end="00:31:58.278">bloggen og den slags.</p>
+      <p begin="00:31:58.278" end="00:32:01.824">- Der er en person op p&#229; arbejde som jeg<br/>virkelig godt kan lide. Hun er min ven</p>
+      <p begin="00:32:01.824" end="00:32:05.088">men jeg tror, alle vegne hun kommer<br/>taler folk om det.</p>
+      <p begin="00:32:05.088" end="00:32:08.505">Grundl&#230;ggende hvordan vi er<br/>bourgeois faux og sk&#248;re</p>
+      <p begin="00:32:08.505" end="00:32:12.162">og hun bruger al sin tid <br/>p&#229; at forsvare mig.</p>
+      <p begin="00:32:12.162" end="00:32:13.610">men en fyr, han sagde,</p>
+      <p begin="00:32:13.610" end="00:32:19.126">"Min kone har givet mig besked p&#229;<br/>aldrig at give h&#229;nd til dig."</p>
+      <p begin="00:32:19.126" end="00:32:24.844">og hun talte hele natten om<br/>hygiejnen og...</p>
+      <p begin="00:32:24.844" end="00:32:29.125">Jeg kan forst&#229; at folk vil kritisere.<br/>Jeg forst&#229;r bare ikke hvorfor de hader os.</p>
+      <p begin="00:32:29.125" end="00:32:30.271">- Skat, det er -- <br/>Jeg tror ikke de hader os.</p>
+      <p begin="00:32:30.271" end="00:32:31.783">- Se p&#229; det!</p>
+      <p begin="00:32:35.415" end="00:32:38.885">- Helt tilf&#230;ldigt,<br/>Colin og jeg blev inviteret til brunch</p>
+      <p begin="00:32:38.885" end="00:32:43.867">af denne kvinde, Carrie fordi<br/>hun skriver om mad.</p>
+      <p begin="00:32:43.867" end="00:32:50.950">og det viser sig i slutningen af brunchen<br/>at jeg opdager at hun er &#230;rlig</p>
+      <p begin="00:32:50.950" end="00:32:54.814">om det faktum at hun har<br/>skrevet negativt om os</p>
+      <p begin="00:32:54.814" end="00:32:57.671">og har v&#230;ret en af dem<br/>p&#229; nettet, der hader os.</p>
+      <p begin="00:32:57.671" end="00:32:59.762">Hun p&#229;st&#229;r at hun har &#230;ndret<br/>sin holdning til os.</p>
+      <p begin="00:32:59.762" end="00:33:00.818">Jeg ved det ikke.</p>
+      <p begin="00:33:00.818" end="00:33:02.371">- OK. Lad mig se om jeg <br/>kan tr&#230;kke dette op.</p>
+      <p begin="00:33:02.371" end="00:33:03.932">"Jeg har frygtet dette &#248;jeblik.</p>
+      <p begin="00:33:03.932" end="00:33:05.206">Jeg var bange for at du ville sp&#248;rge."</p>
+      <p begin="00:33:05.206" end="00:33:06.442"/>
+      <p begin="00:33:06.442" end="00:33:07.643">- Du er frisk.</p>
+      <p begin="00:33:07.643" end="00:33:08.536">- &#197;h gud!</p>
+      <p begin="00:33:08.536" end="00:33:11.228">"No Impact Man har faktisk en indflydelse</p>
+      <p begin="00:33:11.228" end="00:33:13.236">men sikkert ikke den han s&#248;gte.</p>
+      <p begin="00:33:13.236" end="00:33:15.362">Der var engang, hvor arbejdet <br/>bar l&#248;nnen i sig selv.</p>
+      <p begin="00:33:15.362" end="00:33:19.727">Nu er et l&#248;fte om frivillig forsimpling<br/>bare en anden iv&#230;rks&#230;tter virksomhed.</p>
+      <p begin="00:33:19.727" end="00:33:22.789">Det faktum at No Impact Man's<br/>demonstrative omfavnelse af alt ok&#248;logisk</p>
+      <p begin="00:33:22.804" end="00:33:26.453">ikke opstod p&#229; en, alts&#229;, &#248;kologisk<br/>m&#229;de, er det der generer mig.</p>
+      <p begin="00:33:26.453" end="00:33:30.076">Mens <span tts:fontStyle="italic">No Impact Man</span> render rundt og f&#248;n-<br/>t&#248;rrer sin r&#248;v for kommende generationer,</p>
+      <p begin="00:33:30.076" end="00:33:33.430">f&#248;rer mindre prangende folk et <br/>liv i stille inspiration."</p>
+      <p begin="00:33:34.690" end="00:33:36.390"/>
+      <p begin="00:33:36.390" end="00:33:38.213">Jeg satte sp&#248;rgsm&#229;lstegn ved hans<br/>oprigtighed og hans motiver.</p>
+      <p begin="00:33:38.213" end="00:33:38.978">- Ja.</p>
+      <p begin="00:33:38.978" end="00:33:44.411">- Og der var en <span tts:fontStyle="italic">G Willickers</span> kvalitet<br/>over kommentaren der generede mig.</p>
+      <p begin="00:33:44.411" end="00:33:52.177">- Din kritik set i lyset af kritikken<br/>er meget, meget, meget, meget mild</p>
+      <p begin="00:33:52.177" end="00:33:55.808">Jeg forstod ikke helt hvorfor folk hadede<br/>os eller hvorfor det var s&#229;dan en...</p>
+      <p begin="00:33:55.808" end="00:33:56.644">- Jeg har en teori.</p>
+      <p begin="00:33:56.644" end="00:33:57.561">- Jeg forstod det ikke rigtigt.</p>
+      <p begin="00:33:57.561" end="00:34:01.780">- Ud fra min egen erfaring med<br/>den slags ting, for meget sagt</p>
+      <p begin="00:34:01.780" end="00:34:05.701">men jeg tror at meget af dette<br/>virkeligt ramme et &#248;mt punkt hos folk.</p>
+      <p begin="00:34:05.701" end="00:34:08.333">Ud over at det giver<br/>folk d&#229;rlig samvittighed</p>
+      <p begin="00:34:08.333" end="00:34:12.969">og f&#229;r dem til at forsvare<br/>deres indk&#248;bsvaner.</p>
+      <p begin="00:34:12.969" end="00:34:16.474">Folk bliver meget traumatiesrede <br/>hvis du foresl&#229;r</p>
+      <p begin="00:34:16.474" end="00:34:19.422">at de skulle undv&#230;re noget.</p>
+      <p begin="00:34:19.422" end="00:34:22.300">Hvis de har en f&#248;lelse af...</p>
+      <p begin="00:34:22.300" end="00:34:23.809">- F&#248;lelsen af "Jeg beh&#248;ver det!"</p>
+      <p begin="00:34:23.809" end="00:34:26.030">- Undv&#230;re det, ja! Jeg beh&#248;ver dette...<br/>- Men jeg beh&#248;ver det.</p>
+      <p begin="00:34:26.030" end="00:34:29.241">- eller jeg "ikke beh&#248;ver det men jeg vil<br/>have det og hvorfor skulle jeg ikke det."</p>
+      <p begin="00:34:29.241" end="00:34:32.461">S&#229;dan er man en god Amerikaner.</p>
+      <p begin="00:34:32.461" end="00:34:55.750"/>
+      <p begin="00:34:55.750" end="00:34:59.348">- En del af lokal mad er at f&#229; forbindelse<br/>med den m&#229;de maden dyrkes p&#229;.</p>
+      <p begin="00:34:59.348" end="00:35:02.567">S&#229; ,jeg talte med den lokale f&#230;lles have<br/>og ventelisten</p>
+      <p begin="00:35:02.567" end="00:35:05.327">til at f&#229; dit eget stykke jord er lang,<br/>&#229;r efter &#229;r.</p>
+      <p begin="00:35:05.327" end="00:35:08.379">Men det viser sig at der kun er en<br/>person i den f&#230;lles have</p>
+      <p begin="00:35:08.379" end="00:35:09.612">som dyrker gr&#248;ntsager</p>
+      <p begin="00:35:09.612" end="00:35:11.010">Alle andre dyrker blomster.</p>
+      <p begin="00:35:11.010" end="00:35:15.403">Og han var faktisk villig til at tage<br/>mig med og tage mig i l&#230;re.</p>
+      <p begin="00:35:15.403" end="00:35:16.997">- Du vil hj&#230;lpe os i haven?</p>
+      <p begin="00:35:16.997" end="00:35:18.464">- Ja!</p>
+      <p begin="00:35:18.464" end="00:35:19.924">- Du vil dyrke ting?</p>
+      <p begin="00:35:19.924" end="00:35:21.834">- Det er min ven, Meyer.</p>
+      <p begin="00:35:21.834" end="00:35:24.933">Pas p&#229;. Det er en rosen busk.<br/>Den har torne.</p>
+      <p begin="00:35:24.933" end="00:35:26.520">- Se, det er rigtigt spidst.<br/>- Skarpe ting.</p>
+      <p begin="00:35:28.442" end="00:35:31.618">- Lad os tale om, hvad vi<br/>h&#229;ber at f&#229; lavet i dag.</p>
+      <p begin="00:35:31.618" end="00:35:32.678">- Ja.</p>
+      <p begin="00:35:32.678" end="00:35:35.640">- Dette lille stykke bliver til persille.</p>
+      <p begin="00:35:35.640" end="00:35:39.913">Bare spred det ud over<br/>denne firkant.</p>
+      <p begin="00:35:39.913" end="00:35:44.497">og d&#230;k det til den dybde som det <br/>siger og hvor ellers.</p>
+      <p begin="00:35:44.497" end="00:35:48.199"/>
+      <p begin="00:35:48.199" end="00:35:50.494">- Lad mig fort&#230;lle hvad jeg laver, smukke?</p>
+      <p begin="00:35:50.494" end="00:35:53.585">Vi skal have nogle planter her i<br/>s&#229; vi bryder jorden op</p>
+      <p begin="00:35:53.585" end="00:35:55.379">s&#229; planterne kan gro.</p>
+      <p begin="00:35:55.379" end="00:35:57.793">Jeg troede det var h&#229;rdt arbejde<br/>at have en have, Meyer?</p>
+      <p begin="00:35:57.793" end="00:36:01.129">- Det er det! Jeg gjorde meget af det mest<br/>arbejdskr&#230;vende...</p>
+      <p begin="00:36:01.476" end="00:36:02.680">- Hvorn&#229;r spredte du g&#248;dningen?</p>
+      <p begin="00:36:02.680" end="00:36:03.445">- Ja!</p>
+      <p begin="00:36:03.445" end="00:36:04.181">- Nemlig.</p>
+      <p begin="00:36:04.181" end="00:36:07.215">- Da jeg gravede hele lortet op <br/>sidste efter&#229;r.</p>
+      <p begin="00:36:07.215" end="00:36:12.096">- Jeg tager disse fr&#248;, ikke,<br/>og jeg kommer dem ned i jorden.</p>
+      <p begin="00:36:12.096" end="00:36:16.678">Meyer, vi vil tilbringe<br/>fire dage oppe p&#229; Hawthorne Valley Farm.</p>
+      <p begin="00:36:16.678" end="00:36:19.599">- Det hele er, er at alt <br/>p&#229; g&#229;rden bliver genbrugt.</p>
+      <p begin="00:36:19.599" end="00:36:20.446">- Ja!</p>
+      <p begin="00:36:20.446" end="00:36:21.623">- Det hele k&#248;rer i et lukket kredsl&#248;b.</p>
+      <p begin="00:36:21.623" end="00:36:22.403">- Ja!</p>
+      <p begin="00:36:22.403" end="00:36:23.277">- Meget godt.</p>
+      <p begin="00:36:23.277" end="00:36:26.160">- Jeg ringede til dem og hele familien -<br/>mig og Isabella og Michelle,</p>
+      <p begin="00:36:26.160" end="00:36:27.788">det bliver n&#230;rmest vores ferie.</p>
+      <p begin="00:36:27.788" end="00:36:28.889">- Det er dejligt!</p>
+      <p begin="00:36:28.889" end="00:36:30.222">- Ja.</p>
+      <p begin="00:36:30.222" end="00:36:41.132"/>
+      <p begin="00:36:41.132" end="00:36:44.504">- Jeg f&#248;ler at vi skal tale om <br/>at f&#229; et barn mere.</p>
+      <p begin="00:36:44.504" end="00:36:46.641">- Aha.</p>
+      <p begin="00:36:48.332" end="00:36:51.398">- Men jeg ved at du ikke &#248;nsker flere b&#248;rn</p>
+      <p begin="00:36:51.398" end="00:36:57.426">s&#229; jeg f&#248;ler at det nok betyder at vi<br/>sandsynligvis ikke f&#229;r flere b&#248;rn.</p>
+      <p begin="00:36:59.195" end="00:37:01.356">- &#216;h,</p>
+      <p begin="00:37:02.620" end="00:37:05.852">Da vi fik Isabelle, f&#248;lte jeg at <br/>du virkelig &#248;nskede en baby</p>
+      <p begin="00:37:05.852" end="00:37:08.517">og hvad jeg &#248;nskede af mit liv<br/>ogs&#229; talte, du ved.</p>
+      <p begin="00:37:08.517" end="00:37:10.992">Som jeg kunne ikke holde det fra dig,</p>
+      <p begin="00:37:10.992" end="00:37:13.487">og jeg var villig til at tage springet <br/>med dig fra det</p>
+      <p begin="00:37:13.487" end="00:37:16.639">fordi jeg f&#248;lte, jeg t&#230;nkte det er sjovt<br/>fordi vi har denne historie</p>
+      <p begin="00:37:16.659" end="00:37:18.307">som da jeg var bange for <br/>at blive gift, ogs&#229;</p>
+      <p begin="00:37:18.307" end="00:37:20.765">og jeg ville sige til dig,<br/>"G&#248;r vi den rette ting?"</p>
+      <p begin="00:37:20.765" end="00:37:23.270">og du sagde "Ja, "<br/>og jeg stoler p&#229; vejledningen --</p>
+      <p begin="00:37:23.270" end="00:37:26.831">Jeg stolede p&#229; dig og for mig<br/>er det den helt rigtige ting.</p>
+      <p begin="00:37:26.877" end="00:37:29.336">Men n&#229;r jeg t&#230;nker p&#229; <br/>at f&#229; et barn mere,</p>
+      <p begin="00:37:29.336" end="00:37:30.310">- Aha.</p>
+      <p begin="00:37:30.310" end="00:37:35.972">Alts&#229; hvis karriere er det som skal,<br/>hvis arbejde bliver sat p&#229; pause?</p>
+      <p begin="00:37:35.972" end="00:37:38.275">For du er ligesom helt <br/>vild p&#229; arbejde nu.</p>
+      <p begin="00:37:38.275" end="00:37:41.695">Hvis vi f&#229;r et barn mere,<br/>er du s&#229; villig til at opgive det arbejde?</p>
+      <p begin="00:37:41.695" end="00:37:45.552">- Det beh&#248;ver jeg ikke, det er s&#229; --<br/>det er lige som jeg beh&#248;ver opgive</p>
+      <p begin="00:37:45.552" end="00:37:48.087">mit arbejde for at f&#229; et barn mere.</p>
+      <p begin="00:37:48.457" end="00:37:50.863">Jeg ved ikke hvorfor du tager --<br/>Jeg f&#248;ler ikke rigtigt at mit arbejde</p>
+      <p begin="00:37:50.863" end="00:37:54.093">har noget med det at g&#248;re, faktisk.</p>
+      <p begin="00:37:54.093" end="00:37:57.667">- Det har det, <br/>fordi pointen er ligesom</p>
+      <p begin="00:37:57.667" end="00:38:00.637">Jeg vil vide om vi skal have et <br/>barn mere, ikke?</p>
+      <p begin="00:38:00.637" end="00:38:04.558">Jeg vil ikke n&#248;dvendig vis have et --<br/>Jeg vil ikke have et barn mere, OK?</p>
+      <p begin="00:38:04.558" end="00:38:08.016">Men f&#248;r vi over hovedet <br/>begynder at overveje det-</p>
+      <p begin="00:38:08.016" end="00:38:10.440">der er ikke s&#229; meget fleksibilitet<br/>i vore dagligdag, vel?</p>
+      <p begin="00:38:10.440" end="00:38:14.995">S&#229; det jeg sp&#248;rger dig om, er hvor<br/>skal den fleksibilitet kommer fra?</p>
+      <p begin="00:38:14.995" end="00:38:17.753">- Den vil komme fra mig!</p>
+      <p begin="00:38:25.976" end="00:38:27.652"/>
+      <p begin="00:38:30.405" end="00:38:31.510">- OK.</p>
+      <p begin="00:38:31.510" end="00:38:34.171">Jeg vil samle alle de reng&#248;ringsmidler<br/>vi har i huset allerede.</p>
+      <p begin="00:38:34.387" end="00:38:37.221">Almindelige reng&#248;ringsprodukter<br/>indeholde alle mulige slags kemikalier</p>
+      <p begin="00:38:37.221" end="00:38:38.567">som ikke er gode for os.</p>
+      <p begin="00:38:38.567" end="00:38:40.055">og de er heller ikke gode for milj&#248;et</p>
+      <p begin="00:38:40.055" end="00:38:44.978">og de ender med at blive skyllet ud<br/>eller i afl&#248;bet og ind i vandforsyningen.</p>
+      <p begin="00:38:44.978" end="00:38:50.370">Det vi ser p&#229; her er mange<br/>ting der markdesf&#248;res</p>
+      <p begin="00:38:50.370" end="00:38:55.696">som naturlige og ikke skadelige<br/>for milj&#248;et allerede</p>
+      <p begin="00:38:55.696" end="00:38:59.113">fordi vi har v&#230;ret i gang med <br/>dette projekt i et stykke tid nu.</p>
+      <p begin="00:38:59.113" end="00:39:01.938">De tillader dig ikke<br/>at genfylde flaskerne</p>
+      <p begin="00:39:01.938" end="00:39:05.880">og med henblik p&#229; dette produkt,<br/>bruger vi ikke engangsprodukter</p>
+      <p begin="00:39:05.880" end="00:39:08.157">og folk siger,<br/>"Jamen, hvad med genbrug?"</p>
+      <p begin="00:39:08.157" end="00:39:13.206">Men sagen fakta er at genbrug<br/>af plastik er ikke lige s&#229; godt som</p>
+      <p begin="00:39:13.206" end="00:39:14.412">det siges at v&#230;re.</p>
+      <p begin="00:39:14.412" end="00:39:17.515">Det er bedre end ingenting<br/>men det er stadig ikke perfekt.</p>
+      <p begin="00:39:17.515" end="00:39:20.631">S&#229;, folkene kalder det "down cycling"<br/>i stedet for genbrug</p>
+      <p begin="00:39:20.631" end="00:39:24.853">fordi det g&#229;r ned i kvalitet<br/>hver gang og s&#229; bliver giftigt.</p>
+      <p begin="00:39:24.853" end="00:39:28.877">Efterh&#229;nden som tingene er sluppet op,<br/>har jeg - har vi gemt de tomme flaske</p>
+      <p begin="00:39:28.877" end="00:39:34.100">s&#229; vi kan komme vores hjemmelavede<br/>reng&#248;ringsprodukter i de tomme flasker.</p>
+      <p begin="00:39:34.997" end="00:39:36.907">Alle vores reng&#248;ringsprodukter<br/>kan laves af disse ting.</p>
+      <p begin="00:39:36.907" end="00:39:44.829">Hvid eddike, bagepulver,<br/>naturlig s&#230;be og boraks.</p>
+      <p begin="00:39:44.829" end="00:39:49.479"/>
+      <p begin="00:39:49.479" end="00:39:50.983">Jeg ved det ikke. Hvordan kan du se om<br/>det er rigtigt rent?</p>
+      <p begin="00:39:50.983" end="00:39:54.087">Det f&#248;les som, du ved, det f&#248;les<br/>p&#229; samme m&#229;de som n&#229;r du bruger</p>
+      <p begin="00:39:54.087" end="00:39:56.600">et almindeligt reng&#248;ringsmiddel.</p>
+      <p begin="00:40:03.539" end="00:40:04.928">Hej Poop, du ved hvad<br/>jeg laver lige nu, ikke?</p>
+      <p begin="00:40:04.928" end="00:40:07.323">Jeg fjerner al kosmetikken.</p>
+      <p begin="00:40:07.323" end="00:40:08.584">- Min kosmetik?</p>
+      <p begin="00:40:08.584" end="00:40:10.043">Jamen, er det ikke meningen <br/>at vi skal g&#248;re det?</p>
+      <p begin="00:40:10.043" end="00:40:12.069">- &#197;h, du mener min make-up <br/>og den slags?</p>
+      <p begin="00:40:12.069" end="00:40:15.746">- Jamen, det troede jeg, men ved det ikke.<br/>Hvad g&#248;r du med al din make-up?</p>
+      <p begin="00:40:15.746" end="00:40:18.134">- Hvad laver du, vil du bare<br/>smide alle de sager ud?</p>
+      <p begin="00:40:18.134" end="00:40:19.084">- Jamen, det vil jeg ikke. <br/>Jeg ville ikke smide det ud.</p>
+      <p begin="00:40:19.084" end="00:40:22.192">Jeg ville bare l&#230;gge det i denne kasse,<br/>indtil &#229;ret er g&#229;et.</p>
+      <p begin="00:40:23.052" end="00:40:25.838">- OK. Giv mig bare besked.</p>
+      <p begin="00:40:26.327" end="00:40:28.324"/>
+      <p begin="00:40:28.384" end="00:40:33.658">- Jeg kan ikke bare komme alt dette i <br/>denne kasse. Kan du hj&#230;lpe mig?</p>
+      <p begin="00:40:38.393" end="00:40:40.368"/>
+      <p begin="00:40:44.948" end="00:40:46.428">- Skat!</p>
+      <p begin="00:40:46.428" end="00:40:47.334">- Ja?</p>
+      <p begin="00:40:47.034" end="00:40:50.576">- Gem den flaske hvor der st&#229;r "Fresh".<br/>Den skal jeg nok tage mig af.</p>
+      <p begin="00:40:50.576" end="00:40:53.154">- Jeg har ladet den st&#229; til dig.</p>
+      <p begin="00:40:55.199" end="00:40:57.912">- Her tom.</p>
+      <p begin="00:40:57.912" end="00:40:59.290">- Jeg ved, jeg beh&#248;ver det.</p>
+      <p begin="00:40:59.290" end="00:40:59.995"/>
+      <p begin="00:40:59.995" end="00:41:01.318">- Fordi ved du hvad jeg vil g&#248;re?<br/>Jg vil lave shampoo</p>
+      <p begin="00:41:01.318" end="00:41:03.438">og komme i den.</p>
+      <p begin="00:41:06.788" end="00:41:08.979">For et par dage siden, bloggede<br/>jeg om det faktum</p>
+      <p begin="00:41:08.979" end="00:41:10.885">at vi vil omme af med elektriciteten</p>
+      <p begin="00:41:10.885" end="00:41:13.090">jeg spurgte efter forslag og jeg skrev<br/>en liste med alle de ting</p>
+      <p begin="00:41:13.090" end="00:41:17.738">jeg har brug for hj&#230;lp til<br/>og en af de ting var t&#248;jvask.</p>
+      <p begin="00:41:17.738" end="00:41:21.265">Nogle mailede til mig og skrev at<br/>de plejede at vakse deres t&#248;j i badekarret</p>
+      <p begin="00:41:21.265" end="00:41:24.457">og at de bare gik p&#229; det<br/>og det l&#248;d godt, syntes jeg.</p>
+      <p begin="00:41:24.472" end="00:41:25.701"/>
+      <p begin="00:41:25.701" end="00:41:27.289"/>
+      <p begin="00:41:27.289" end="00:41:28.935">Vil du g&#248;re det?</p>
+      <p begin="00:41:28.935" end="00:41:32.650"/>
+      <p begin="00:41:32.650" end="00:41:34.521">Nu g&#229;r vi bagl&#230;ns.</p>
+      <p begin="00:41:34.521" end="00:41:35.698">.</p>
+      <p begin="00:41:35.698" end="00:41:37.223">Mor!</p>
+      <p begin="00:41:37.223" end="00:41:38.234"/>
+      <p begin="00:41:38.234" end="00:41:39.362">Vi vasker t&#248;jet.</p>
+      <p begin="00:41:39.362" end="00:41:41.404">- Jeg vil g&#248;re det selv.</p>
+      <p begin="00:41:41.404" end="00:41:46.681">Du vil g&#248;re det selv? Men jeg er bange<br/>for om du falder. Fald ikke.</p>
+      <p begin="00:41:46.681" end="00:41:49.156">- Er det, hvad, hvad vasker du <br/>t&#248;jet med?</p>
+      <p begin="00:41:49.156" end="00:41:52.844">- Du ved, Cast -- &#197;h! <br/>Jeg sagde du ikke m&#229;tte falde.</p>
+      <p begin="00:41:52.844" end="00:41:54.259"/>
+      <p begin="00:41:54.259" end="00:41:55.152">Jeg sagde du ikke m&#229;tte falde.</p>
+      <p begin="00:41:55.152" end="00:41:56.435">- Skat, hvad er der i det?</p>
+      <p begin="00:41:56.435" end="00:41:57.950">- Naturlig s&#230;be og Boraks.</p>
+      <p begin="00:41:57.950" end="00:41:59.427">- Hvad er Boraks?</p>
+      <p begin="00:41:59.427" end="00:42:02.984">- Det er naturligt. Det hele er naturligt<br/>vaskepulver. Vil du op i det?</p>
+      <p begin="00:42:02.984" end="00:42:05.137">- Ja.</p>
+      <p begin="00:42:05.137" end="00:42:07.126"/>
+      <p begin="00:42:07.126" end="00:42:08.145">- Jeg vasker t&#248;jet.</p>
+      <p begin="00:42:08.145" end="00:42:10.038">- Du vasker t&#248;jet.</p>
+      <p begin="00:42:10.715" end="00:42:12.879">I gymnasiet bliver hun som...</p>
+      <p begin="00:42:12.879" end="00:42:14.253"/>
+      <p begin="00:42:14.253" end="00:42:16.293">- &#197;h, du gjorde vandet s&#229; koldt!</p>
+      <p begin="00:42:16.293" end="00:42:17.968">- Jamen, de har lagt i bl&#248;d i <br/>tre timer.</p>
+      <p begin="00:42:17.968" end="00:42:20.311">- Jamen, det er ikke sjovt.</p>
+      <p begin="00:42:20.311" end="00:42:23.019">- Kom nu! Det er lige som<br/>at knuse vindruer.</p>
+      <p begin="00:42:23.019" end="00:42:24.908">Kom nu, g&#248;r det rent, b&#248;rn.</p>
+      <p begin="00:42:24.908" end="00:42:26.911">&#197;h-&#229;h jeg tror hun er besv&#230;rlig.</p>
+      <p begin="00:42:26.911" end="00:42:28.370">- Besv&#230;rlig? Hvorfor?</p>
+      <p begin="00:42:28.370" end="00:42:30.890">Hun er kun ude p&#229; ballade.</p>
+      <p begin="00:42:30.890" end="00:42:31.995">- T&#248;jvask!</p>
+      <p begin="00:42:31.995" end="00:42:35.574">- Vi vasker alle t&#248;jet!</p>
+      <p begin="00:42:35.574" end="00:42:41.862"/>
+      <p begin="00:42:41.862" end="00:42:44.431">- Nogle af dine venner tror <br/>du er sindsyg.</p>
+      <p begin="00:42:44.431" end="00:42:45.855"/>
+      <p begin="00:42:45.855" end="00:42:48.557">- Og jeg pr&#248;ver at forestille mig<br/>n&#229;r de kommer forbi til en middag</p>
+      <p begin="00:42:48.557" end="00:42:53.069">hos dig til pastinak eller hvad<br/>det nu er du har liggende.</p>
+      <p begin="00:42:53.324" end="00:42:57.880">Hvad siger dine venner om dette?<br/>Med ingen servietter og ingen toiletpapir,</p>
+      <p begin="00:42:57.880" end="00:42:59.781">kan du g&#248;re det?</p>
+      <p begin="00:42:59.781" end="00:43:01.764"/>
+      <p begin="00:43:01.764" end="00:43:04.252">- Ingen beh&#248;ver at g&#248;re det jeg g&#248;r.<br/>Det er ikke det vigtige.</p>
+      <p begin="00:43:04.252" end="00:43:06.940">Det jeg g&#248;r, det skaber opm&#230;rksomhed<br/>om emnet, men vi alle</p>
+      <p begin="00:43:06.940" end="00:43:08.573">skal bare l&#230;re at g&#248;re hvad vi kan g&#248;re.</p>
+      <p begin="00:43:08.573" end="00:43:09.875">- Du er nu, hvad,<br/>fem og en halv m&#229;ned inde,</p>
+      <p begin="00:43:09.875" end="00:43:12.599">n&#230;ste trin er at slippe <br/>af med elektriciteten</p>
+      <p begin="00:43:12.599" end="00:43:15.561">og leve kun med dagslys,<br/>i New York City?</p>
+      <p begin="00:43:15.561" end="00:43:17.527">- L&#248;rdag, der er en afbryder <br/>i min lejlighed</p>
+      <p begin="00:43:17.527" end="00:43:19.385">som er sikringen<br/>for hele lejligheden.</p>
+      <p begin="00:43:19.385" end="00:43:23.325">Vi holder en lille fest for vores venner<br/>og vi vil slukke for afbryderen.</p>
+      <p begin="00:43:23.325" end="00:43:24.128">S&#229; ja.</p>
+      <p begin="00:43:24.128" end="00:43:25.375">- Jamen, vi skulle fort&#230;lle det til alle.</p>
+      <p begin="00:43:25.375" end="00:43:28.982">Vi kommer til at f&#248;lge Colin<br/>gennem dette lange &#229;r.</p>
+      <p begin="00:43:28.982" end="00:43:33.245"/>
+      <p begin="00:43:33.245" end="00:43:36.837">- Jeg skulle have noget spinat men nu<br/>da det er slut med elektricitet,</p>
+      <p begin="00:43:36.837" end="00:43:38.831">g&#229;r det op for mig at jeg ikke kan <br/>k&#248;be stort ind.</p>
+      <p begin="00:43:38.831" end="00:43:41.522">Jeg m&#229; n&#248;jes med at k&#248;be til <br/>de n&#230;ste par dage</p>
+      <p begin="00:43:41.522" end="00:43:43.801">fordi ud over det,<br/>vil resten bare blive d&#229;rligt.</p>
+      <p begin="00:43:43.801" end="00:43:56.443"/>
+      <p begin="00:43:56.443" end="00:43:58.129">- I aften slukker vi <br/>for elektriciteten.</p>
+      <p begin="00:43:58.129" end="00:44:00.765">og jeg har ikke rigtigt t&#230;nkt over det</p>
+      <p begin="00:44:00.765" end="00:44:06.715">men jeg f&#248;ler faktisk at vi<br/>nu g&#229;r ind i den sjette m&#229;ned</p>
+      <p begin="00:44:06.715" end="00:44:08.963">og jeg begynder virkelig at<br/>forst&#229; udbyttet</p>
+      <p begin="00:44:08.963" end="00:44:12.263">og fordelene begynder at v&#230;lte ind,<br/>s&#229; jeg er faktisk lidt begejstret.</p>
+      <p begin="00:44:12.263" end="00:44:15.038">men jeg er sikker p&#229; at, du ved,<br/>snak med mig igen i morgen</p>
+      <p begin="00:44:15.038" end="00:44:16.697">og s&#229; har jeg det m&#229;ske elendigt</p>
+      <p begin="00:44:16.697" end="00:44:18.718">Lad os tale lidt om hvordan<br/>det vil blive.</p>
+      <p begin="00:44:18.718" end="00:44:20.846">- Alts&#229;, der bliver en <br/>overgangsperiode.</p>
+      <p begin="00:44:20.846" end="00:44:22.972">Det er h&#229;rdt, som alt andet.</p>
+      <p begin="00:44:22.972" end="00:44:34.431"/>
+      <p begin="00:44:34.431" end="00:44:35.447">- Hej.</p>
+      <p begin="00:44:35.447" end="00:44:37.003">- Hej Gracie!</p>
+      <p begin="00:44:37.003" end="00:44:38.346">- Hvordan har du det?</p>
+      <p begin="00:44:38.346" end="00:44:39.047">- Hej.</p>
+      <p begin="00:44:39.047" end="00:44:40.117">- Hvordan g&#229;r det?<br/>- Godt.</p>
+      <p begin="00:44:40.117" end="00:44:41.753">- Hej! Hvordan har du det?</p>
+      <p begin="00:44:41.753" end="00:44:45.511">- Forbruger genbrug af materialer<br/>hj&#230;lper os med at hj&#230;lpe planeten.</p>
+      <p begin="00:44:45.511" end="00:44:46.800">Er det hele godt nok?</p>
+      <p begin="00:44:46.800" end="00:44:48.850"/>
+      <p begin="00:44:49.534" end="00:44:51.700"/>
+      <p begin="00:44:51.700" end="00:44:52.807">- Engangskoppen.</p>
+      <p begin="00:44:52.807" end="00:44:53.574">- Ja.</p>
+      <p begin="00:44:53.574" end="00:44:59.125">- Ikke-genanvendelig kop og s&#229; holderen<br/>og s&#229; har du to kopper faktisk</p>
+      <p begin="00:44:59.125" end="00:45:00.271">som ligner det.</p>
+      <p begin="00:45:00.271" end="00:45:01.551">Du har brudt alle regler.</p>
+      <p begin="00:45:01.551" end="00:45:02.486">- OK.</p>
+      <p begin="00:45:04.342" end="00:45:06.775">- Har I set vores nye k&#248;leskab?</p>
+      <p begin="00:45:06.775" end="00:45:07.888">Du vil have en, vil du ikke?</p>
+      <p begin="00:45:07.888" end="00:45:08.641">- Jo.</p>
+      <p begin="00:45:08.641" end="00:45:10.608">- Hvad er historien?</p>
+      <p begin="00:45:10.608" end="00:45:11.680">Hvad kaldes det?</p>
+      <p begin="00:45:11.680" end="00:45:12.919">- Det kaldes en "Potte p&#229; Potte"</p>
+      <p begin="00:45:12.919" end="00:45:19.485">Det er opfundet til brug i Nigeria<br/>og ideen er at vandet fordamper</p>
+      <p begin="00:45:19.485" end="00:45:23.528">fra -- sandet imellem de<br/>to potter er v&#229;dt og vandet fordamper.</p>
+      <p begin="00:45:23.528" end="00:45:24.300">- OK.</p>
+      <p begin="00:45:24.300" end="00:45:27.226">- og energien fra fordampningen<br/>tages fra den inderste potte</p>
+      <p begin="00:45:27.226" end="00:45:32.607">det f&#229;r den til at k&#248;le ned<br/>og for eksempel, en tomat</p>
+      <p begin="00:45:32.607" end="00:45:36.336">som i Nigeria kun kan holde sig<br/>to dage efter den er plukket</p>
+      <p begin="00:45:36.336" end="00:45:38.109">i denne ting vil den<br/>kunne holde tre uger.</p>
+      <p begin="00:45:38.144" end="00:45:39.020">- Nemlig.</p>
+      <p begin="00:45:39.020" end="00:45:40.581">- Og der er et glas vand derinde lige nu</p>
+      <p begin="00:45:40.581" end="00:45:42.466">s&#229; vi vil pr&#248;ve at se<br/>om glasset og vandet...</p>
+      <p begin="00:45:42.466" end="00:45:44.958">- Jeg troededet var en del af k&#248;lningen.</p>
+      <p begin="00:45:44.958" end="00:45:46.687">- Glasset med vand er der inde<br/>fordi vi skal se</p>
+      <p begin="00:45:46.687" end="00:45:48.928">ved aftenens slutning<br/>om glasset med vand er koldt.</p>
+      <p begin="00:45:48.928" end="00:45:51.127">- &#197;h, jeg troede det var som <br/>det radioaktive kul</p>
+      <p begin="00:45:51.127" end="00:45:53.780"/>
+      <p begin="00:45:54.348" end="00:45:57.397">som drev det hele--<br/>atomkraft.</p>
+      <p begin="00:45:57.397" end="00:45:59.584">- Det er det ikke, OK.</p>
+      <p begin="00:45:59.584" end="00:46:02.392"/>
+      <p begin="00:46:02.392" end="00:46:03.178">- Ja.</p>
+      <p begin="00:46:03.178" end="00:46:04.713">- og er disse fra torvet?</p>
+      <p begin="00:46:04.713" end="00:46:05.803">- Ja!</p>
+      <p begin="00:46:05.803" end="00:46:08.344">OK, s&#229; g&#229;r det l&#248;s!</p>
+      <p begin="00:46:10.465" end="00:46:13.338"/>
+      <p begin="00:46:13.338" end="00:47:07.744"/>
+      <p begin="00:47:07.744" end="00:47:16.646"/>
+      <p begin="00:47:29.867" end="00:47:33.192">- Det er koldere, men endnu ikke koldt.</p>
+      <p begin="00:47:34.715" end="00:47:40.075">Det er der jeg tror du kan se om<br/>der er en m&#229;de at g&#248;re det lidt koldere.</p>
+      <p begin="00:47:54.006" end="00:47:55.331">- Dette er blevet som mit<br/>Four Seasons</p>
+      <p begin="00:47:55.331" end="00:47:58.602">Jeg har mit lys, jeg har lige som -<br/>der kommer nogen ind</p>
+      <p begin="00:47:58.602" end="00:48:02.848">og t&#248;mmer min skraldespand<br/>og der er, du ved,</p>
+      <p begin="00:48:04.308" end="00:48:07.645">masser af varme og str&#248;m<br/>og aircondition.</p>
+      <p begin="00:48:07.645" end="00:48:12.886">S&#229; min store fork&#230;lelse er blevet</p>
+      <p begin="00:48:12.886" end="00:48:14.717">isen, jeg vil vise dig.</p>
+      <p begin="00:48:14.717" end="00:48:16.176">Teknisk set, s&#229; er isen heller<br/>ikke tilladt</p>
+      <p begin="00:48:16.176" end="00:48:22.228">men jeg giver mig selv lov til isen.</p>
+      <p begin="00:48:22.228" end="00:48:27.131"/>
+      <p begin="00:48:27.131" end="00:48:28.992">Den er virkelig god. Det er vandhane<br/>New York City vand</p>
+      <p begin="00:48:28.992" end="00:48:31.367">s&#229; det er - det er lige s&#229; godt <br/>som vand p&#229; flaske.</p>
+      <p begin="00:48:31.367" end="00:48:34.301">Sikkert renere og bedre<br/>end meget af vandet p&#229; flasker.</p>
+      <p begin="00:48:36.684" end="00:48:41.442">Det er godt at f&#229; isen, blive rigtigt kold<br/>du skal vente lidt p&#229; det.</p>
+      <p begin="00:48:41.442" end="00:48:43.661">Gutter, jeg vil lige gennemg&#229; en<br/>historie med jer.</p>
+      <p begin="00:48:43.661" end="00:48:48.871">Dybest set, jeg fik et rigtigt godt<br/>saftigt insider tip i dag.</p>
+      <p begin="00:48:48.871" end="00:48:53.050">Det er en historie om hvad der gik galt.<br/>De fokuserede p&#229; deres svagheder.</p>
+      <p begin="00:48:53.050" end="00:48:56.139">De fors&#248;mte fuldst&#230;ndigt og<br/>investerede ikke nok i deres styrker.</p>
+      <p begin="00:48:56.139" end="00:48:59.769">P&#229; dette tidspunkt, bliver jeg n&#248;dt til, <br/>at f&#248;lge historien helt til d&#248;rs, ikke?</p>
+      <p begin="00:48:59.769" end="00:49:04.292">Og s&#229; se hvad vi har<br/>p&#229; mandag omkring middag.</p>
+      <p begin="00:49:04.292" end="00:49:05.525">- Dette er en meget stor historie.</p>
+      <p begin="00:49:05.525" end="00:49:06.235">- Jeg ved det, <br/>jeg t&#230;nker det samme.</p>
+      <p begin="00:49:06.235" end="00:49:08.828">Dette er den f&#248;rste historie hvor<br/>jeg ikke engang t&#230;nkte p&#229;</p>
+      <p begin="00:49:08.828" end="00:49:10.485">hvordan jeg skal klare <br/>mig uden koffein.</p>
+      <p begin="00:49:10.485" end="00:49:14.882">Jeg g&#248;r lidt fremskridt.<br/>jeg g&#248;r lidt fremskridt.</p>
+      <p begin="00:49:14.882" end="00:49:22.012"/>
+      <p begin="00:49:22.012" end="00:49:24.541">Skat?</p>
+      <p begin="00:49:24.563" end="00:49:27.319">Kan du huske hvor<br/>du lagde t&#230;ndstikkerne?</p>
+      <p begin="00:49:29.674" end="00:49:31.745">&#216;jeblik, &#248;jeblik. Her er de.</p>
+      <p begin="00:49:31.745" end="00:49:33.453"/>
+      <p begin="00:49:33.453" end="00:49:34.294">Jeg har dem.</p>
+      <p begin="00:49:34.294" end="00:49:35.310"/>
+      <p begin="00:49:35.310" end="00:49:38.708"/>
+      <p begin="00:49:38.708" end="00:49:40.755">Det er egenligt vores f&#248;rste aften<br/>uden elektricitet</p>
+      <p begin="00:49:40.755" end="00:49:43.256">for sidste aften havde vi g&#230;ster <br/>og vi havde elektriciteten</p>
+      <p begin="00:49:43.256" end="00:49:45.173">det meste af aftenen.</p>
+      <p begin="00:49:45.173" end="00:49:54.350"/>
+      <p begin="00:49:54.350" end="00:49:58.305">Er du nede?</p>
+      <p begin="00:49:58.305" end="00:49:59.348">Er du vred p&#229; mig?</p>
+      <p begin="00:49:59.348" end="00:50:00.954">- Nej.</p>
+      <p begin="00:50:04.074" end="00:50:06.403">- Hvad er der, skat?</p>
+      <p begin="00:50:10.461" end="00:50:12.882">- Det er dumt.</p>
+      <p begin="00:50:12.882" end="00:50:14.477">- Hvad? Er projektet dumt?</p>
+      <p begin="00:50:14.477" end="00:50:15.778">- Alts&#229;. det at undv&#230;re elektricitet</p>
+      <p begin="00:50:15.778" end="00:50:18.365">hvem vil undv&#230;re<br/>elektricitet?</p>
+      <p begin="00:50:18.365" end="00:50:20.252">Det er dumt.</p>
+      <p begin="00:50:22.755" end="00:50:25.621">- S det er det, der virkelig bekymrer dig<br/>eller er du bange for at... ?</p>
+      <p begin="00:50:25.621" end="00:50:29.165">- Jeg troede ikke at det ville blive,<br/>men det giver mig ondt i r&#248;ven.</p>
+      <p begin="00:50:29.165" end="00:50:31.525"/>
+      <p begin="00:50:31.525" end="00:50:33.633">- Det kan jeg ikke v&#230;re uenig i.</p>
+      <p begin="00:50:33.633" end="00:50:36.365">- Jeg ved det ikke. Jeg f&#248;ler bare<br/>at hele projektet</p>
+      <p begin="00:50:36.365" end="00:50:42.064">Jeg mener, gjorde mig til et kuriosum, <br/>men ikke ...</p>
+      <p begin="00:50:43.894" end="00:50:47.371">Alle vil v&#230;re kommet videre<br/>n&#229;r bogen udkommer</p>
+      <p begin="00:50:47.371" end="00:50:51.753">Og det bliver bare<br/>endnu en irrelevant bog.</p>
+      <p begin="00:50:52.152" end="00:50:55.954">- Lad os bare sige at det viser sig<br/>at det er helt dumt, ikke?</p>
+      <p begin="00:50:55.954" end="00:51:01.233">OK, det tror jeg ikke.<br/>Men alts&#229;, i v&#230;rste fald.</p>
+      <p begin="00:51:01.233" end="00:51:06.562">S&#229;, vi har haft forn&#248;jelsen. Vi har haft<br/>stor forn&#248;jelse ved at g&#248;re det indtil nu.</p>
+      <p begin="00:51:06.562" end="00:51:10.295">Jeg mener, det har v&#230;ret h&#229;rdt<br/>men det har v&#230;ret sjovt, har det ikke?</p>
+      <p begin="00:51:11.833" end="00:51:13.473">- Joh, det har v&#230;ret sjovt.</p>
+      <p begin="00:51:13.473" end="00:51:34.286"/>
+      <p begin="00:51:37.983" end="00:51:41.019">- New York Offentlige Radio WNYC FM<br/>og AM New York</p>
+      <p begin="00:51:41.019" end="00:51:43.081">og WNYC punktum org</p>
+      <p begin="00:51:43.081" end="00:51:47.278"/>
+      <p begin="00:51:47.278" end="00:51:51.180">og varme indekset udsender <br/>ikke bare en advarsel.</p>
+      <p begin="00:51:51.180" end="00:51:56.093">Jeg mener, her er det allerede 29 grader<br/>og klokken er kun 50 minutter over ti.</p>
+      <p begin="00:51:56.093" end="00:51:58.039"/>
+      <p begin="00:51:58.234" end="00:51:59.726">- Det er ul&#230;kkert.</p>
+      <p begin="00:52:04.039" end="00:52:08.977">- Jeg kom hjem i g&#229;r og der var<br/>fluer i hele lejligheden.</p>
+      <p begin="00:52:09.976" end="00:52:15.714"/>
+      <p begin="00:52:15.714" end="00:52:19.433">Der var en masse fluer i gang<br/>med at formere sig i min orme krukke</p>
+      <p begin="00:52:19.433" end="00:52:24.926">og hver gang jeg &#229;bnede orme krukken,<br/>fl&#248;j der flere baby-fluer ud.</p>
+      <p begin="00:52:28.062" end="00:52:31.141"/>
+      <p begin="00:52:32.401" end="00:52:35.110">&#197;h min gud! Se p&#229; dem!</p>
+      <p begin="00:52:35.110" end="00:52:35.922">&#197;h min gud!</p>
+      <p begin="00:52:35.922" end="00:52:48.771"/>
+      <p begin="00:52:48.771" end="00:52:54.207">Forresten, se p&#229; dette.<br/>Det hele er som jord. Se?</p>
+      <p begin="00:52:56.329" end="00:53:08.651"/>
+      <p begin="00:53:11.248" end="00:53:15.267">- Jeg troede ikke at det ville virke.<br/>Det virker bare ikke. OK.</p>
+      <p begin="00:53:15.267" end="00:53:19.580">Der er en grund til <br/>at folk har k&#248;leskabe.</p>
+      <p begin="00:53:24.899" end="00:53:29.318">Sandheden er at jeg er bare vred fordi<br/>jeg ligesom, jeg er bare knust over</p>
+      <p begin="00:53:29.318" end="00:53:33.962">den lille information om at blive gravid.</p>
+      <p begin="00:53:33.962" end="00:53:37.332">Se, statistikken er s&#229; lav<br/>og jeg bliver egentligt 40.</p>
+      <p begin="00:53:37.332" end="00:53:40.585">Og alts&#229;, se det gr&#229; h&#229;r</p>
+      <p begin="00:53:40.585" end="00:53:43.564">og jeg f&#248;ler mig knust af det.</p>
+      <p begin="00:53:43.564" end="00:53:48.059">Og jeg f&#248;ler at det siger at nogen<br/>som mig ville have en chance p&#229; 5%</p>
+      <p begin="00:53:48.059" end="00:53:49.658">i hvilken som helst...</p>
+      <p begin="00:53:49.658" end="00:53:55.458">Det er sikkert - det l&#248;ser sig nok for os<br/>alligevel fordi chancerne er s&#229; sm&#229;.</p>
+      <p begin="00:53:57.010" end="00:53:59.858">- Jeg mener, jeg h&#248;rer,<br/>jeg h&#248;rer virkeligt at du er trist</p>
+      <p begin="00:53:59.858" end="00:54:03.681">og jeg forst&#229;r dig virkeligt<br/>men det f&#248;les som et reality show for mig</p>
+      <p begin="00:54:03.681" end="00:54:05.516">at diskutere dette emne foran et kamera.</p>
+      <p begin="00:54:05.516" end="00:54:09.373">- Jeg troede at du ville vide <br/>hvad jeg syntes om Potte i Potte.</p>
+      <p begin="00:54:09.373" end="00:54:12.824">- &#197;h, jamen, det er - Jeg vil bestemt vide<br/>hvad du syntes om Potte i Potte.</p>
+      <p begin="00:54:12.824" end="00:54:15.516">- S&#229;dan her syntes jeg om den.</p>
+      <p begin="00:54:15.516" end="00:54:18.446">Du ved, hele vores ting var at<br/>vi ville ligesom totalt st&#248;tte</p>
+      <p begin="00:54:18.446" end="00:54:22.347">det den anden person<br/>ville blive, ikke?</p>
+      <p begin="00:54:22.347" end="00:54:27.006">Vi ville p&#229; en m&#229;de v&#230;re med ombord<br/>i hinandens dr&#248;mme.</p>
+      <p begin="00:54:27.006" end="00:54:32.695">Du ved, dette er vigtigt for dig,<br/>at vi ikke har et k&#248;leskab, ikke?</p>
+      <p begin="00:54:32.695" end="00:54:34.184">Jeg er med p&#229; det.</p>
+      <p begin="00:54:34.184" end="00:54:35.428">Og s&#229; f&#248;ler jeg mig virkeligt helt nede</p>
+      <p begin="00:54:35.428" end="00:54:40.173">fordi vi ligesom kommer<br/>alle disse energier i dine dr&#248;mme, ikke?</p>
+      <p begin="00:54:40.173" end="00:54:44.942">Og s&#229;, du ved, er jeg ligesom...</p>
+      <p begin="00:54:44.942" end="00:54:46.640">- Jeg mener, jeg er helt med p&#229;<br/>at arbejde sammen med dig</p>
+      <p begin="00:54:46.640" end="00:54:49.363">og tale med dig omkring<br/>muligheden for at f&#229; et barn mere</p>
+      <p begin="00:54:49.363" end="00:54:53.007">og, du ved, s&#229; hvor<br/>hvor vi kommer hen ved at tale</p>
+      <p begin="00:54:53.007" end="00:54:55.287">men hvis du forbinder<br/>det med projektet,</p>
+      <p begin="00:54:55.287" end="00:54:57.125">Jeg - du ved...</p>
+      <p begin="00:54:57.125" end="00:55:00.052">- Men, det h&#230;nger sammen for mig,<br/>det er helt forbundet.</p>
+      <p begin="00:55:00.052" end="00:55:02.082">S&#229;, hvis det ikke er <br/>forbundet for dig, s&#229;...</p>
+      <p begin="00:55:02.082" end="00:55:07.092">- Har jeg forst&#229;et det rigtigt, du f&#248;ler<br/>du st&#248;tter mig men jeg ikke st&#248;tter dig.</p>
+      <p begin="00:55:07.092" end="00:55:08.672">Som om jeg ikke st&#248;tter dine dr&#248;mme.</p>
+      <p begin="00:55:08.672" end="00:55:13.470">- Jeg f&#248;ler at dette er min st&#248;rste,<br/>mest vigtige, og mest v&#230;rdifulde ting.</p>
+      <p begin="00:55:13.470" end="00:55:14.182">- Ja.</p>
+      <p begin="00:55:14.182" end="00:55:18.633">- Og jeg f&#248;ler som, jah,<br/>du ikke vil g&#248;re det</p>
+      <p begin="00:55:18.633" end="00:55:25.650">s&#229; det er lidt som et nej.<br/>Svaret er nej.</p>
+      <p begin="00:55:25.650" end="00:55:27.197">- &#197;h, jeg &#248;nsker at &#248;nske, hvad du &#248;nsker.</p>
+      <p begin="00:55:29.549" end="00:55:32.899">Men, jeg f&#248;ler ikke at det ville v&#230;re <br/>godt for vores familie</p>
+      <p begin="00:55:32.899" end="00:55:35.702">hvis jeg bare siger,<br/>"OK, du vil det, s&#229; jeg g&#248;r det,"</p>
+      <p begin="00:55:35.702" end="00:55:39.591">n&#229;r jeg har s&#229;<br/>st&#230;rke f&#248;lelser om det.</p>
+      <p begin="00:55:42.681" end="00:55:46.060">- Vil du s&#229; flytte dette ud s&#229;?</p>
+      <p begin="00:55:53.445" end="00:55:55.680">- Det er OK, skat, vi skal bare<br/>lade det v&#230;re ved det nu, OK?</p>
+      <p begin="00:55:55.680" end="00:55:58.399">- OK.</p>
+      <p begin="00:55:58.399" end="00:56:04.446">Potte i Potte er blevet flyttet ud<br/>og dette er vores nyeste k&#248;leskab.</p>
+      <p begin="00:56:04.446" end="00:56:08.588">For at holde det koldt,<br/>snupper jeg is fra min nabo, Hillary.</p>
+      <p begin="00:56:08.588" end="00:56:13.510"/>
+      <p begin="00:56:13.510" end="00:56:16.686">- Vil du komme og hente det <br/>hver dag og hvordan vil du... ?</p>
+      <p begin="00:56:16.686" end="00:56:19.506">- Jeg tror at dette vil vare <br/>lidt tid i k&#248;leren.</p>
+      <p begin="00:56:19.506" end="00:56:22.966">- &#197;h, jah. Det h&#229;ber jeg. Det tror jeg.</p>
+      <p begin="00:56:22.966" end="00:56:24.692">- Skal jeg b&#230;re posen?</p>
+      <p begin="00:56:24.692" end="00:56:26.057">- Jah, jah, jah.<br/>Du kan b&#230;re posen.</p>
+      <p begin="00:56:26.057" end="00:56:30.017">Lad os komme fryseren...<br/>Mange tak.</p>
+      <p begin="00:56:30.017" end="00:56:32.627">- Selv tak.</p>
+      <p begin="00:56:32.627" end="00:56:34.302">- Sig tak til Hillary, skat.</p>
+      <p begin="00:56:34.302" end="00:56:36.192">- Hej-hej. Velbekomme.</p>
+      <p begin="00:56:36.192" end="00:56:37.606">Hej-hej, S&#248;de.</p>
+      <p begin="00:56:43.607" end="00:56:46.496">- OK. Perfekt.</p>
+      <p begin="00:56:46.496" end="00:56:48.862">Vi tager is pakken og kommer<br/>den oven p&#229;</p>
+      <p begin="00:56:48.862" end="00:56:51.273">s&#229; at din m&#230;lk holder sig dejlig og kold.</p>
+      <p begin="00:56:51.273" end="00:56:54.804">Og du vil bare smide<br/>terningerne p&#229; der?</p>
+      <p begin="00:56:54.804" end="00:56:58.277">Smid dem, en af gangen.</p>
+      <p begin="00:56:58.277" end="00:57:00.132">- En af gangen.</p>
+      <p begin="00:57:04.085" end="00:57:05.281">Wow!</p>
+      <p begin="00:57:10.280" end="00:57:12.616">- K&#248;leskabet er min ende.</p>
+      <p begin="00:57:12.616" end="00:57:13.889">Potte i Potten og nu...</p>
+      <p begin="00:57:13.889" end="00:57:19.640">Jeg ved ikke hvad jeg hader mest potte<br/>i potten eller dette, jeg er ikke sikker.</p>
+      <p begin="00:57:21.113" end="00:57:25.639">Bare snuppe str&#248;m via isterninger,<br/>s&#229; jeg forst&#229;r det ikke helt.</p>
+      <p begin="00:57:25.639" end="00:57:27.609">Jeg er lidt...</p>
+      <p begin="00:57:29.607" end="00:57:31.985">Sig, "Hej-hej sk&#248;re k&#248;leskab."</p>
+      <p begin="00:57:31.985" end="00:57:33.931">- Hej-hej. Sk&#248;re k&#248;leskab.</p>
+      <p begin="00:57:42.953" end="00:57:45.754">- Hvem snyder mest, dig eller Collin?</p>
+      <p begin="00:57:45.754" end="00:57:49.940">- Jeg er sikker p&#229; at jeg er n&#248;dt til <br/>at snyde mere, som dette.</p>
+      <p begin="00:57:49.940" end="00:57:52.687">Jeg pr&#248;vede en gr&#248;nsagsdi&#230;t der hjemme<br/>men det var et katastrofe.</p>
+      <p begin="00:57:52.687" end="00:57:53.463">- Ja.</p>
+      <p begin="00:57:53.463" end="00:57:54.448">- Han snyder ikke rigtigt.</p>
+      <p begin="00:57:54.448" end="00:57:56.909">Han b&#248;jer bare reglerne en smule. S&#229; for<br/>ham er det ikke at snyde.</p>
+      <p begin="00:57:56.909" end="00:58:00.665">Som, at der er ingen ture dette &#229;r<br/>fordi vi ikke kan rejse nogle steder.</p>
+      <p begin="00:58:00.665" end="00:58:03.008">S&#229;, han beslutter at <br/>vi skal lave en undtagelse</p>
+      <p begin="00:58:03.008" end="00:58:07.072">og vi skal rejse op til g&#229;rden<br/>hvor de dyrker vores mad.</p>
+      <p begin="00:58:07.072" end="00:58:09.685">Vi gik til stationen <br/>med vores bagage,</p>
+      <p begin="00:58:09.685" end="00:58:12.300">og s&#229; var det at det begyndte at smutte.</p>
+      <p begin="00:58:12.300" end="00:58:13.827">Jeg g&#229;r hen til Dunkin' Donuts,<br/>der er en lang k&#248;</p>
+      <p begin="00:58:13.827" end="00:58:15.634">jeg giver denne dame <br/>mange drikkepenge,</p>
+      <p begin="00:58:15.634" end="00:58:17.800">og sp&#248;rger, "Kan du genfylde<br/>dette glas to gange?"</p>
+      <p begin="00:58:17.800" end="00:58:20.829">Jeg f&#229;r to store koffeinfri og jeg g&#229;r <br/>ikke tilbage til Dunkin' Donuts.</p>
+      <p begin="00:58:20.829" end="00:58:21.902">- Forbinder dig.</p>
+      <p begin="00:58:21.902" end="00:58:23.324">- Og der er nok ti personer bag mig</p>
+      <p begin="00:58:23.324" end="00:58:25.358">men jeg gav hendes s&#229; mange<br/>drikkepenge at hun var som,</p>
+      <p begin="00:58:25.358" end="00:58:27.114">kun min pige i lidt tid.</p>
+      <p begin="00:58:27.114" end="00:58:32.625">Men, jeg var s&#229;dan, jeg vil ikke have vi <br/>kommer vores energi i potte i potten.</p>
+      <p begin="00:58:32.625" end="00:58:34.188">Jeg vil have et barn mere.</p>
+      <p begin="00:58:34.188" end="00:58:36.787">Jeg vil ikke tilbringe <br/>min ferie p&#229; en g&#229;rd.</p>
+      <p begin="00:58:36.787" end="00:58:45.069"/>
+      <p begin="00:58:45.069" end="00:58:46.045">Da vi blev gift,</p>
+      <p begin="00:58:46.045" end="00:58:48.626">Var jeg s&#229;dan, alts&#229; Colin, jeg vil gifte<br/>mig med dig, men der er lige en ting -</p>
+      <p begin="00:58:48.626" end="00:58:52.006">Jeg bryder mig ikke om camping.<br/>Jeg tager aldrig p&#229; camping med dig.</p>
+      <p begin="00:58:52.006" end="00:58:55.425">Men, nu er hele vore hus<br/>blevet til en lejr plads.</p>
+      <p begin="00:58:55.425" end="00:58:57.936">Og ogs&#229;, jeg kan ikke rigtigt lide natur.</p>
+      <p begin="00:58:57.936" end="00:59:00.668">Og nu tager vi ud i naturen<br/>p&#229; vores ferie.</p>
+      <p begin="00:59:00.668" end="00:59:02.139"/>
+      <p begin="00:59:04.467" end="00:59:06.948">Vi skal se og arbejde med<br/>al den mad vi spiser.</p>
+      <p begin="00:59:06.948" end="00:59:09.505">Til torve handlen,<br/>det er g&#229;rden hvor det kommer fra.</p>
+      <p begin="00:59:09.505" end="00:59:16.534"/>
+      <p begin="00:59:16.534" end="00:59:19.570">- Hej, ko.</p>
+      <p begin="00:59:19.570" end="00:59:21.969">- Du kan r&#230;kke din h&#229;nd frem<br/>og r&#248;re ham.</p>
+      <p begin="00:59:21.969" end="00:59:23.678">- Hej, ko.</p>
+      <p begin="00:59:23.678" end="00:59:25.640">- Mange tak fordi vi <br/>m&#229; komme p&#229; bes&#248;g.</p>
+      <p begin="00:59:25.640" end="00:59:26.351">Mange tak.</p>
+      <p begin="00:59:26.351" end="00:59:27.175">- Velkommen!</p>
+      <p begin="00:59:27.175" end="00:59:28.670">Jeg har det bedste m&#248;de allerede,</p>
+      <p begin="00:59:28.670" end="00:59:29.607">Vi har kun v&#230;ret her i en time.</p>
+      <p begin="00:59:29.607" end="00:59:30.735">- Jah.</p>
+      <p begin="00:59:36.669" end="00:59:40.334">- N&#229;r du arbejder med <br/>at forvalte denne jord,</p>
+      <p begin="00:59:40.334" end="00:59:48.841">dyrker du et meget afg&#248;rende<br/>dynamisk v&#230;sen, der er i balance.</p>
+      <p begin="00:59:48.841" end="00:59:51.192">Det er et lukket kredsl&#248;b.</p>
+      <p begin="00:59:51.192" end="00:59:53.692">K&#248;rerne spiser gr&#230;sset.</p>
+      <p begin="00:59:53.692" end="00:59:59.070">De giver dig m&#230;lk men de<br/>giver dig ogs&#229; g&#248;dning.</p>
+      <p begin="00:59:59.070" end="01:00:02.367">G&#248;dningen bliver komposteret.<br/>Det bliver frugtbarheden.</p>
+      <p begin="01:00:02.367" end="01:00:07.611">Vi laver omkring 400 tons<br/>kompost om &#229;ret.</p>
+      <p begin="01:00:07.611" end="01:00:09.753">Og lugt til det.</p>
+      <p begin="01:00:09.753" end="01:00:10.929">- Jah. Det luget bare som jord.</p>
+      <p begin="01:00:10.929" end="01:00:12.929">Det lugter lige pr&#230;cis som <br/>min orme krukke, faktisk.</p>
+      <p begin="01:00:15.165" end="01:00:19.934">- Men du siger meget, at dette ligesom<br/>er virkeligg&#248;relsen af hans v&#230;rdier?</p>
+      <p begin="01:00:19.934" end="01:00:21.288">- Jah.</p>
+      <p begin="01:00:21.288" end="01:00:25.153">- Kan du - hvad f&#248;ler du om det nu<br/>seks m&#229;neder inde i det, kan du stadig...?</p>
+      <p begin="01:00:25.153" end="01:00:27.027">- Jeg f&#248;ler at der er ingen ved tilbage.</p>
+      <p begin="01:00:27.027" end="01:00:28.709">- Der er ingen vej tilbage, vel?</p>
+      <p begin="01:00:28.709" end="01:00:30.305">Korrekt.</p>
+      <p begin="01:00:30.305" end="01:00:32.024">- Det er for vores familie.</p>
+      <p begin="01:00:32.024" end="01:00:33.967">Det drejer sig ikke bare om projektet.</p>
+      <p begin="01:00:37.253" end="01:00:38.266">- Hvor er du fra?</p>
+      <p begin="01:00:38.266" end="01:00:41.438">- Jeg lever i byen. Jeg h&#229;ber at blive<br/>mere til hj&#230;lp end i vejen.</p>
+      <p begin="01:00:41.438" end="01:00:44.256"/>
+      <p begin="01:00:44.256" end="01:00:45.411">- Lad os g&#229;.</p>
+      <p begin="01:00:45.411" end="01:00:49.127"/>
+      <p begin="01:00:49.127" end="01:00:50.891">- Det er Henry. Det er tyren.</p>
+      <p begin="01:00:50.891" end="01:00:53.257">Kom s&#229; Henry, lad os g&#229;.</p>
+      <p begin="01:00:53.257" end="01:00:55.570">Lad os f&#248;lge Henry <br/>ind i laden.</p>
+      <p begin="01:00:55.570" end="01:00:56.557"/>
+      <p begin="01:00:56.557" end="01:00:57.867">- Aftenen f&#248;r vi tog afsted,</p>
+      <p begin="01:00:57.867" end="01:01:00.469">havde landmanden og Colin <br/>en samtale.</p>
+      <p begin="01:01:00.469" end="01:01:03.841">De talte om hvordan dalen engang<br/>var befolket med f&#229;r.</p>
+      <p begin="01:01:03.841" end="01:01:06.488">De talte ogs&#229; om hvordan folk<br/>kan falde tilbage</p>
+      <p begin="01:01:06.488" end="01:01:10.256">til n&#230;rmest dyr.</p>
+      <p begin="01:01:10.256" end="01:01:14.750">Jeg blev s&#229; henf&#248;rt af denne samtale.</p>
+      <p begin="01:01:22.989" end="01:01:25.629">Og s&#229; gik jeg i seng den aften med<br/>den dejlige g&#229;rd luft</p>
+      <p begin="01:01:25.629" end="01:01:29.145">i det smukke g&#229;rd hus med disse<br/>smukke folk</p>
+      <p begin="01:01:29.145" end="01:01:31.818">som behandlede os som familie</p>
+      <p begin="01:01:31.818" end="01:01:35.237">og jeg dr&#248;mte at<br/>jeg var et af f&#229;rene.</p>
+      <p begin="01:01:35.237" end="01:01:37.550">Det er underligt fordi mine <br/>bedstefor&#230;ldre var landm&#230;nd</p>
+      <p begin="01:01:37.550" end="01:01:41.241">ligesom de var sm&#229;b&#248;nder<br/>og jeg begyndte at f&#248;le at ---</p>
+      <p begin="01:01:41.241" end="01:01:45.438">Jeg f&#248;ler det som at min familie<br/>forlod noget der.</p>
+      <p begin="01:01:45.438" end="01:01:49.892">Og jeg var s&#229;dan, jeg f&#248;ler som<br/>jeg tager tilbage for at f&#229; det.</p>
+      <p begin="01:01:50.845" end="01:01:53.725">Da jeg h&#248;rte landmanden tale<br/>om flokken</p>
+      <p begin="01:01:53.725" end="01:01:55.717">og hvordan der nogle gange<br/>kunne ske noget med en af k&#248;erne</p>
+      <p begin="01:01:55.717" end="01:01:58.446">men at flokken forts&#230;tter</p>
+      <p begin="01:01:58.446" end="01:02:01.095">Jeg f&#248;lte det som om jeg v&#229;gnede op.</p>
+      <p begin="01:02:01.095" end="01:02:05.358">Jeg f&#248;lte som at jeg blev n&#248;dt til at gen-<br/>finde forbindelsen med et eller andet.</p>
+      <p begin="01:02:10.093" end="01:02:13.872"/>
+      <p begin="01:02:20.476" end="01:02:28.163"/>
+      <p begin="01:02:28.163" end="01:02:31.952">Et firma l&#229;nte mig dette<br/>solpanel til projektet.</p>
+      <p begin="01:02:31.952" end="01:02:36.533">Jeg kan &#230;ndre den m&#229;de<br/>elektriciteten bliver leveret til mit hus.</p>
+      <p begin="01:02:36.533" end="01:02:37.980">- Fik den.<br/>- Jah.</p>
+      <p begin="01:02:38.902" end="01:02:41.434">Solpanelet vil give<br/>lige pr&#230;cis nok str&#248;m</p>
+      <p begin="01:02:41.434" end="01:02:44.813">til at forsyne min computer og jeg<br/>kan skrive min blog.</p>
+      <p begin="01:02:47.365" end="01:02:50.213">Men, det der er virkeligt interessant<br/>ved denne fase er at</p>
+      <p begin="01:02:50.213" end="01:02:53.096">det er den f&#248;rste gang jeg har indset at<br/>det handler ikke om at bruge s&#229; lidt</p>
+      <p begin="01:02:53.096" end="01:02:55.325">som vi overhovedet kan</p>
+      <p begin="01:02:55.325" end="01:03:00.826">men at finde en m&#229;de at f&#229; hvad<br/>jeg beh&#248;ver p&#229; en holdbar m&#229;de.</p>
+      <p begin="01:03:01.595" end="01:03:03.980">O det er hvad vi skal g&#248;re med,<br/>du ved, med min elektricitet,</p>
+      <p begin="01:03:03.980" end="01:03:05.549">med solpanelet.</p>
+      <p begin="01:03:05.549" end="01:03:07.851">Men, det er ogs&#229; hvad vi skal<br/>g&#248;re ved vores systemer.</p>
+      <p begin="01:03:07.851" end="01:03:10.657">Vi skal bare regne ud hvordan vi<br/>kan give folk hvad de beh&#248;ver</p>
+      <p begin="01:03:10.657" end="01:03:13.494">p&#229; en m&#229;de, der ikke skader planeten.</p>
+      <p begin="01:03:13.494" end="01:03:16.618"/>
+      <p begin="01:03:25.472" end="01:03:28.661">Sig til den fyr, om at komme <br/>ud af cykelbanen.</p>
+      <p begin="01:03:30.039" end="01:03:34.234">Vil du vide hvad jeg <br/>gav hende til hendes 40 &#229;rs f&#248;dselsdag?</p>
+      <p begin="01:03:34.944" end="01:03:36.051">Ingen pr&#230;vention.</p>
+      <p begin="01:03:36.051" end="01:03:38.864">Ved du hvad jeg siger?</p>
+      <p begin="01:03:38.864" end="01:03:42.202">Vi kalder det Russisk Roulette.</p>
+      <p begin="01:03:42.202" end="01:03:45.207">- S&#229;, nu er sp&#248;rgsm&#229;let,<br/>er det klik-klik eller bang-bang?</p>
+      <p begin="01:03:45.207" end="01:03:49.225">- Hvis det er bang-bang, <br/>d&#248;r jeg, hun lever.</p>
+      <p begin="01:03:53.451" end="01:03:56.412">Pas p&#229; din h&#248;jre side, <br/>der er en galning.</p>
+      <p begin="01:03:57.613" end="01:04:02.519">Mit blog indl&#230;g i dag var om<br/>muligheder i en krise.</p>
+      <p begin="01:04:02.519" end="01:04:05.340">Forestil dig, hvis vi gjorde byen <br/>bedre at leve i.</p>
+      <p begin="01:04:05.340" end="01:04:09.090">S&#229;, de to kommentarer <br/>p&#229; indl&#230;gget ind til videre er</p>
+      <p begin="01:04:09.090" end="01:04:11.228">lad os v&#230;re realistiske.</p>
+      <p begin="01:04:11.228" end="01:04:15.209">Som, du kan ikke g&#248;r en by bedre<br/>s&#229; glem det.</p>
+      <p begin="01:04:15.209" end="01:04:19.137">Der er stor mangel p&#229; idealisme, men<br/>jeg tror at idealisme har f&#229;et os til hvor</p>
+      <p begin="01:04:19.137" end="01:04:20.440">vi er i dag,<br/>hvis du ved hvad jeg mener?</p>
+      <p begin="01:04:20.440" end="01:04:22.304"/>
+      <p begin="01:04:22.304" end="01:04:23.145">- Det hj&#230;lper.</p>
+      <p begin="01:04:27.367" end="01:04:28.844">E du OK, Michelle?</p>
+      <p begin="01:04:32.585" end="01:04:33.428">- Pas p&#229;, skat.</p>
+      <p begin="01:04:33.428" end="01:04:35.175">- Jeg ved. Jeg ved.</p>
+      <p begin="01:04:38.316" end="01:04:39.401">- Det er s&#229; stille.</p>
+      <p begin="01:04:39.401" end="01:04:40.965">- Jeg ved det.</p>
+      <p begin="01:04:45.458" end="01:04:46.941">- &#197;h, er det Fort Tilden der ovre?</p>
+      <p begin="01:04:46.941" end="01:04:48.371">- Jah.</p>
+      <p begin="01:04:51.269" end="01:04:53.431">- &#197;h, min gud! <br/>Det er lige som Hamptons.</p>
+      <p begin="01:04:53.431" end="01:04:54.887">- Det er bedre end Hamptons.</p>
+      <p begin="01:04:54.887" end="01:04:56.640">- For der er ingen her.</p>
+      <p begin="01:04:57.715" end="01:04:59.436"/>
+      <p begin="01:05:00.143" end="01:05:04.967">- &#197;h, min gud. Hvor vildt er dette?</p>
+      <p begin="01:05:04.967" end="01:05:08.719">Og dette er stadig New York City.<br/>Vi er i New York City.</p>
+      <p begin="01:05:08.719" end="01:05:10.446">- &#197;h, insekt.</p>
+      <p begin="01:05:11.013" end="01:05:14.209">- Vil du ud at sv&#248;mme <br/>sammen med mig?</p>
+      <p begin="01:05:15.388" end="01:05:17.395">- Alts&#229;, &#248;h...</p>
+      <p begin="01:05:17.574" end="01:05:20.824"/>
+      <p begin="01:05:20.824" end="01:05:22.615">- For mig er det fantastisk<br/>hvor modstandsdygtig natur er</p>
+      <p begin="01:05:22.615" end="01:05:24.321">som rylerne p&#229; denne strand</p>
+      <p begin="01:05:24.321" end="01:05:26.322">og alle pr&#248;ver at overleve.</p>
+      <p begin="01:05:26.322" end="01:05:30.105">Og der er disse myre krapper<br/>og de er i New York City.</p>
+      <p begin="01:05:30.105" end="01:05:31.964">Kan du se de to der?</p>
+      <p begin="01:05:31.964" end="01:05:32.729">- Jeps. jeg ser den.</p>
+      <p begin="01:05:32.729" end="01:05:33.870">- Vent, vent, vent.</p>
+      <p begin="01:05:33.870" end="01:05:34.842">- Jeps-jeps, det ser jeg.</p>
+      <p begin="01:05:34.842" end="01:05:37.190"/>
+      <p begin="01:05:38.132" end="01:05:39.620">- Folk kan blive ved med at tale om,</p>
+      <p begin="01:05:39.620" end="01:05:44.050">hvad er det sv&#230;reste?<br/>Lider du afsavn?</p>
+      <p begin="01:05:44.050" end="01:05:46.842">Selv om alle disse aspekter<br/>af projektet er sv&#230;re.</p>
+      <p begin="01:05:46.842" end="01:05:48.785">Men det handler ikke om afsavn.</p>
+      <p begin="01:05:48.785" end="01:05:51.237">Det handler ikke om at <br/>ikke passe p&#229; dig selv.</p>
+      <p begin="01:05:51.237" end="01:05:52.371">Det er det modsatte.</p>
+      <p begin="01:05:52.371" end="01:05:53.869">Det er om at se,</p>
+      <p begin="01:05:53.869" end="01:05:59.267">er det muligt at have et godt liv<br/>uden af spilde s&#229; meget?</p>
+      <p begin="01:05:59.267" end="01:06:05.636"/>
+      <p begin="01:06:05.636" end="01:06:07.019">- Colin m&#248;dte denne <br/>fantastiske kvinde</p>
+      <p begin="01:06:07.019" end="01:06:10.416">p&#229; torvet, som l&#229;nte os <br/>hendes ladcykel,</p>
+      <p begin="01:06:10.416" end="01:06:13.921">Vi kan rulle. <br/>Det &#230;ndrede totalt vores liv.</p>
+      <p begin="01:06:17.869" end="01:06:21.865">Vi har ingen TV, ingen lys,<br/>ingen elektricitet, ingen aircondition.</p>
+      <p begin="01:06:21.865" end="01:06:25.174">Det var alle ting, der holdt os uden for.</p>
+      <p begin="01:06:25.174" end="01:06:27.875">Vi er n&#230;rmest tvunget ud<br/>af lejligheden hele tiden nu.</p>
+      <p begin="01:06:27.875" end="01:06:30.495"/>
+      <p begin="01:06:30.495" end="01:06:34.104">Dagene f&#248;les som om de varer evigt.</p>
+      <p begin="01:06:37.251" end="01:06:39.006">- Hvad er det?</p>
+      <p begin="01:06:39.006" end="01:06:41.443">- Det er ildfluer.</p>
+      <p begin="01:06:41.443" end="01:06:43.439">- Der er et lys.</p>
+      <p begin="01:06:44.830" end="01:06:47.550"/>
+      <p begin="01:06:47.550" end="01:06:48.783">-&#197;h, &#229;h, &#229;h, &#229;h!</p>
+      <p begin="01:06:50.220" end="01:06:52.479"/>
+      <p begin="01:06:54.062" end="01:06:56.317">- Spiller du Gin Rummy?</p>
+      <p begin="01:06:56.317" end="01:06:58.051">- &#216;hm, vi spiller Gin Rummy.</p>
+      <p begin="01:06:58.051" end="01:06:59.914">- Jeg vil vise dig noget, OK?</p>
+      <p begin="01:06:59.914" end="01:07:06.078">Det er hvad du kalder at<br/>sparke fars r&#248;v, OK?</p>
+      <p begin="01:07:08.415" end="01:07:11.193">- Vi kommer fra meget <br/>forskellige steder.</p>
+      <p begin="01:07:11.193" end="01:07:19.777">Ingen bliver nogensinde s&#229; naive,<br/>naivt h&#229;befulde og naivt optimistiske</p>
+      <p begin="01:07:19.777" end="01:07:23.129">som vi var i slutningen af 60'erne.</p>
+      <p begin="01:07:23.129" end="01:07:25.931">- Men, jeg tror m&#229;ske <br/>noget af det samme</p>
+      <p begin="01:07:25.931" end="01:07:29.982">mere afd&#230;mpet sker lige nu.<br/>Slet ikke p&#229; samme m&#229;de</p>
+      <p begin="01:07:29.982" end="01:07:37.512">men jeg f&#248;ler at der finder en s&#230;rlig<br/>stille begyndelse p&#229; en revolution sted.</p>
+      <p begin="01:07:37.512" end="01:07:42.421"/>
+      <p begin="01:07:42.421" end="01:07:44.807">- Den anden ting du skal pege<br/>p&#229; er denne p&#229;...</p>
+      <p begin="01:07:47.891" end="01:07:51.837">Dette kaldes Scape. S-C-A-P-E.</p>
+      <p begin="01:07:51.837" end="01:07:55.925">Jeg vil foresl&#229; at <br/>du tager en eller to af disse med hjem.</p>
+      <p begin="01:07:55.925" end="01:07:56.820">- OK.</p>
+      <p begin="01:07:56.820" end="01:07:58.628">- Disse er b&#248;nnerne.</p>
+      <p begin="01:07:58.628" end="01:08:01.952">Du kan se hvordan de <br/>griber om p&#230;len.</p>
+      <p begin="01:08:01.952" end="01:08:03.193">Og kan du se dette?</p>
+      <p begin="01:08:03.193" end="01:08:03.911">- Ja.</p>
+      <p begin="01:08:03.911" end="01:08:06.649">- Den begynder at lave tomater.</p>
+      <p begin="01:08:12.915" end="01:08:16.528">- Er du overordnet set optimistisk<br/>eller skeptisk om menneskeheden?</p>
+      <p begin="01:08:16.528" end="01:08:20.168">- Jeg er af den overbevisning <br/>at det er altid 50-50.</p>
+      <p begin="01:08:20.168" end="01:08:21.669">- Nemlig.</p>
+      <p begin="01:08:21.669" end="01:08:25.461">- At rent faktisk, du ved,<br/>nogle ting bliver bedre,</p>
+      <p begin="01:08:25.461" end="01:08:27.813">nogle ting bliver v&#230;rre.</p>
+      <p begin="01:08:29.334" end="01:08:31.661">- Jah.</p>
+      <p begin="01:08:31.661" end="01:08:32.907">- Du ved, selv om alle disse...</p>
+      <p begin="01:08:32.907" end="01:08:34.566">hver gang du fors&#248;ger <br/>at g&#248;re noget rigtigt</p>
+      <p begin="01:08:34.566" end="01:08:41.349">uanset hvilket niveau du er p&#229;,<br/>s&#229; er der, du ved, uforudsete resultater.</p>
+      <p begin="01:08:42.548" end="01:08:47.808">Min t&#248;ven om dit arbejde er, at det <br/>g&#248;r det muligt for folk at narre sig selv</p>
+      <p begin="01:08:47.808" end="01:08:51.210">at alt de beh&#248;ver g&#248;re er at<br/>udskifte gl&#248;delampen</p>
+      <p begin="01:08:51.210" end="01:08:54.809">og genbruge deres plastikpose.</p>
+      <p begin="01:08:54.809" end="01:09:00.120">Jamen, s&#229; l&#230;nge de har det p&#229; den<br/>m&#229;de, vil ingen politikker tage det op.</p>
+      <p begin="01:09:00.120" end="01:09:05.973">- Og jeg syntes det er fuldst&#230;ndigt sandt,<br/>at det er -- det er begge.</p>
+      <p begin="01:09:05.973" end="01:09:08.164">Jeg mener, du er n&#248;dt til at have...</p>
+      <p begin="01:09:08.164" end="01:09:10.013">Jeg tror -- Jeg tror at der er...</p>
+      <p begin="01:09:10.013" end="01:09:12.847">hvis du har en politisk holdning og<br/>s&#229; er der en enorm integritet</p>
+      <p begin="01:09:12.847" end="01:09:15.677">i at elve p&#229; en m&#229;de der afspejler<br/>den politiske holdning.</p>
+      <p begin="01:09:16.714" end="01:09:18.488">- Men risiko for at blive for personlig,</p>
+      <p begin="01:09:18.488" end="01:09:19.483">- Ja.</p>
+      <p begin="01:09:19.483" end="01:09:23.202">- men, du ved, det er ikke,<br/>det er bare fakta.</p>
+      <p begin="01:09:23.202" end="01:09:24.876">Michelle skriver for Businessweek.</p>
+      <p begin="01:09:24.876" end="01:09:25.847">- Ja.</p>
+      <p begin="01:09:25.847" end="01:09:29.130">- Milioner af tr&#230;er <br/>bliver j&#230;vnligt f&#230;ldet</p>
+      <p begin="01:09:29.130" end="01:09:33.457">for at fremme den<br/>totalt fejlagtige propaganda</p>
+      <p begin="01:09:33.457" end="01:09:40.339">at Amerikansk Forretnings Kapitalisme<br/>er godt for folket.</p>
+      <p begin="01:09:40.339" end="01:09:42.512">Godt for dig og mig, du ved.</p>
+      <p begin="01:09:42.512" end="01:09:48.318">Er det nu din p&#229;stand at<br/>hun g&#248;r det godt igen,</p>
+      <p begin="01:09:48.318" end="01:09:53.335">at det udj&#230;vner det fordi hun ikke tager<br/>elevatoren op til din ejerlejlighed.</p>
+      <p begin="01:09:53.335" end="01:09:57.459">Jeg m&#229; sige at du er enten u&#230;rlig<br/>eller lider af vrangsforestillinger.</p>
+      <p begin="01:10:01.849" end="01:10:07.948">- Jeg mener, det er bestemt en ironi<br/>hvis det var et paradis inde i det, men...</p>
+      <p begin="01:10:07.948" end="01:10:11.443">- Jeg mener, hvem?<br/>Hvor kom alt det skidt fra?</p>
+      <p begin="01:10:11.443" end="01:10:15.841">Amerikansk Kapitalisme<br/>gjorde alt dette, du ved.</p>
+      <p begin="01:10:15.841" end="01:10:20.636">Hvis nogen virke troede at<br/>at du ville g&#248;re en forskel der,</p>
+      <p begin="01:10:20.636" end="01:10:25.483">ville du ikke f&#229; al den <br/>opm&#230;rksomhed du f&#229;r.</p>
+      <p begin="01:10:25.483" end="01:10:28.347"/>
+      <p begin="01:10:28.347" end="01:10:30.690"/>
+      <p begin="01:10:30.690" end="01:10:34.376">- Og her er vores<br/>No Impact Man, Colin Beavan</p>
+      <p begin="01:10:34.376" end="01:10:37.110">i den milj&#248;venlige firhjulstr&#230;kker.</p>
+      <p begin="01:10:38.420" end="01:10:41.827">- Du er m&#229;ske med i mit show, men jeg er<br/>ikke her for at sprede dit glade budskab</p>
+      <p begin="01:10:41.827" end="01:10:44.209">for jeg tror at det du g&#248;r er<br/>ekstremt farligt, OK?</p>
+      <p begin="01:10:44.209" end="01:10:46.256"/>
+      <p begin="01:10:46.523" end="01:10:50.128"/>
+      <p begin="01:10:51.988" end="01:10:53.273">- Ups, afsted gik det. Det er godt.</p>
+      <p begin="01:10:53.273" end="01:10:55.093">OK, nu har jeg dig som..<br/>det op s&#229; jeg kan se dig.</p>
+      <p begin="01:10:55.093" end="01:10:57.461">- kan se en smule.</p>
+      <p begin="01:10:57.461" end="01:10:58.282">- En smule.</p>
+      <p begin="01:10:58.282" end="01:10:59.587">- En smule.</p>
+      <p begin="01:10:59.587" end="01:11:01.889">- OK. Jeg vil holde noget op,<br/>s&#229; du kan se mere.</p>
+      <p begin="01:11:01.889" end="01:11:03.209">- Det er ul&#230;kkert.</p>
+      <p begin="01:11:03.209" end="01:11:04.837">- Nej, det er ikke.</p>
+      <p begin="01:11:04.837" end="01:11:06.623">- Det er noget lort...</p>
+      <p begin="01:11:06.623" end="01:11:10.213">- Jah. Det er lort. Det er ormelort.</p>
+      <p begin="01:11:18.778" end="01:11:22.405"/>
+      <p begin="01:11:24.606" end="01:11:30.595">- Jeg tror at min eneste forbindelse til<br/>mad f&#248;r projektet var at spise det.</p>
+      <p begin="01:11:30.595" end="01:11:35.834">Jeg spiste stort set al min mad<br/>p&#229; restauranter eller fra take-out bakker.</p>
+      <p begin="01:11:35.834" end="01:11:40.240">Jeg kogte det aldrig. Jeg tilberedte det<br/>aldrig. Jeg t&#230;nkte aldrig p&#229; det.</p>
+      <p begin="01:11:40.240" end="01:11:43.723">Jeg komposterede det aldrig.<br/>Jeg t&#230;nkte aldrig p&#229; affaldet.</p>
+      <p begin="01:11:43.723" end="01:11:47.319">Nu, n&#229;r jeg g&#229;r p&#229; torvet,<br/>kender jeg alle dem, der dyrker vores mad</p>
+      <p begin="01:11:47.319" end="01:11:53.249">og jeg har lidt et lille &#248;nske om<br/>at tage det til n&#230;ste niveau.</p>
+      <p begin="01:11:53.249" end="01:11:55.099">- Jeg ser i dag som bare<br/>den f&#248;rste omgang.</p>
+      <p begin="01:11:55.099" end="01:11:57.511">- Gundl&#230;ggende, OK. S&#229;..<br/>- Som den f&#248;rste lektion.</p>
+      <p begin="01:11:57.511" end="01:11:59.954">- S&#229;, vi skal lige som lave nogle--</p>
+      <p begin="01:11:59.954" end="01:12:01.974">OK, s&#229; jeg har t&#230;nkt p&#229;<br/>et par ting, vi ville lave.</p>
+      <p begin="01:12:01.974" end="01:12:05.220">OK, vi starter, du ved,<br/>med de gr&#248;nne b&#248;nner</p>
+      <p begin="01:12:05.220" end="01:12:06.408">br&#230;k denne ende af.</p>
+      <p begin="01:12:06.408" end="01:12:09.107">- OK, s&#229; br&#230;k den lidt grimme ende af.<br/>Denne ende.</p>
+      <p begin="01:12:09.107" end="01:12:09.928">- Pr&#230;cis.</p>
+      <p begin="01:12:09.928" end="01:12:13.403">Se, her er m&#230;lkeb&#248;ttebladene,<br/>jeg vil bare klippe enderne af.</p>
+      <p begin="01:12:13.403" end="01:12:15.362">S&#229;, jeg pr&#248;ver at sk&#230;re enden af.<br/>- OK.</p>
+      <p begin="01:12:17.481" end="01:12:18.588">- Fint.</p>
+      <p begin="01:12:18.588" end="01:12:19.534">- Godt gjort.</p>
+      <p begin="01:12:19.534" end="01:12:20.907"/>
+      <p begin="01:12:24.257" end="01:12:26.018">- Du skal forvarme den til 190 grader.<br/>- Ja.</p>
+      <p begin="01:12:26.192" end="01:12:28.885">- Jeg mener helt &#230;rligt,<br/>jeg ville m&#229;ske skrue lidt op til sidst.</p>
+      <p begin="01:12:29.668" end="01:12:32.467">- Jeg vil lave denne kaffe,<br/>men jeg ved du ikke vil have noget, ikke?</p>
+      <p begin="01:12:32.467" end="01:12:33.563">- &#197;h, jo, jeg vil gerne have lidt.</p>
+      <p begin="01:12:33.563" end="01:12:34.487">- E du sikker?</p>
+      <p begin="01:12:34.487" end="01:12:35.902">- Ja. Lad mig bare f&#229; en smule.</p>
+      <p begin="01:12:36.135" end="01:12:38.101">Der er en grund til at<br/>jeg kun kan f&#229; en smule.</p>
+      <p begin="01:12:38.101" end="01:12:40.458">Mon i gutter kan<br/>g&#230;tte &#229;rsagen?</p>
+      <p begin="01:12:40.458" end="01:12:42.353">Jeg skal kun have en lille smule kaffe.</p>
+      <p begin="01:12:42.353" end="01:12:43.854">- Er du gravid?</p>
+      <p begin="01:12:43.854" end="01:12:45.444">- &#197;h, min gud! Er du?</p>
+      <p begin="01:12:45.444" end="01:12:46.877">- Ja!</p>
+      <p begin="01:12:46.877" end="01:12:56.679"/>
+      <p begin="01:12:56.679" end="01:12:58.341">- Kan jeg g&#229; ud?</p>
+      <p begin="01:12:58.341" end="01:13:01.401">- Far tager dig med ud, k&#230;re.</p>
+      <p begin="01:13:01.401" end="01:13:03.135">Far tager dig med ud.</p>
+      <p begin="01:13:03.135" end="01:13:06.013">Jeg s&#230;tter dem bare p&#229;, tomater.</p>
+      <p begin="01:13:07.209" end="01:13:13.034">Jeg laver middag i aften og jeg har<br/>faktisk aldrig lavet middag til os.</p>
+      <p begin="01:13:13.034" end="01:13:14.613">- Skal jeg vise dig<br/>hvordan man f&#229;r den ovn</p>
+      <p begin="01:13:14.613" end="01:13:17.902">op p&#229; 175 eller 190 grader, <br/>det er lidt tricky.</p>
+      <p begin="01:13:17.902" end="01:13:20.767">- Hvorfor s&#230;tter du ikke <br/>bare ovnen p&#229; 175, 190.</p>
+      <p begin="01:13:20.767" end="01:13:21.709">- OK.</p>
+      <p begin="01:13:21.709" end="01:13:24.804">- Jep. Jep. OK. <br/>Det er et godt trick.</p>
+      <p begin="01:13:24.804" end="01:13:28.715">- OK. Og hvis du s&#229; vil v&#230;re sikker,<br/>s&#229; er der et termometer dernede.</p>
+      <p begin="01:13:28.715" end="01:13:29.536">- &#197;h, det er smart.</p>
+      <p begin="01:13:29.536" end="01:13:31.179">- Det viser dig hvad<br/>temperaturen er inde i ovnen.</p>
+      <p begin="01:13:31.179" end="01:13:33.000">- Vi elsker virkelig vores aubergine.</p>
+      <p begin="01:13:33.000" end="01:13:36.057">- Vi elsker virkelig vores aubergine.</p>
+      <p begin="01:13:36.057" end="01:13:40.676">- Det virker m&#229;ske ikke,<br/>men vi m&#229; l&#230;re og vokse.</p>
+      <p begin="01:13:40.676" end="01:13:43.381">I aften er jeg bare fokuseret p&#229; at pr&#248;ve<br/>at l&#230;re hvordan man steger en gr&#248;ntsag.</p>
+      <p begin="01:13:43.381" end="01:13:46.440">- Farvel.</p>
+      <p begin="01:13:46.440" end="01:13:50.484">- Jeg har lidt pr&#230;stations-angst.</p>
+      <p begin="01:13:50.484" end="01:13:52.426">- Jeg ved ikke om jeg skulle <br/>sk&#230;re dette af eller...</p>
+      <p begin="01:13:52.426" end="01:13:55.689">Jeg har virkelig kvalme.</p>
+      <p begin="01:13:57.011" end="01:14:00.015"/>
+      <p begin="01:14:00.015" end="01:14:01.022"/>
+      <p begin="01:14:01.022" end="01:14:02.654">Shhh.</p>
+      <p begin="01:14:02.654" end="01:14:05.080"/>
+      <p begin="01:14:05.080" end="01:14:07.734">Du ved, hele mit liv har jeg ledt efter<br/>efter guruer eller noget</p>
+      <p begin="01:14:07.734" end="01:14:10.716">eller dette program <br/>eller den ting eller --</p>
+      <p begin="01:14:10.716" end="01:14:12.770">Du ved, jeg har altid <br/>s&#248;gt efter noget</p>
+      <p begin="01:14:12.770" end="01:14:16.561">og jeg f&#248;ler at vi leder<br/>efter den ting sammen</p>
+      <p begin="01:14:16.561" end="01:14:20.035">og vi finder ligesom noget af det.</p>
+      <p begin="01:14:20.035" end="01:14:25.000">Jeg m&#229; indr&#248;mme der er tidspunkter<br/>hvor jeg bare er dette r&#248;vhul.</p>
+      <p begin="01:14:25.000" end="01:14:27.104">Jeg har haft mange &#248;jeblikke.</p>
+      <p begin="01:14:27.104" end="01:14:30.879">Nu, syntes jeg at det han <br/>laver er s&#229; cool.</p>
+      <p begin="01:14:30.879" end="01:14:32.270">Jeg f&#229;r et stort kick ud af ham.</p>
+      <p begin="01:14:32.270" end="01:14:35.695">Jeg syntes bare han er som...</p>
+      <p begin="01:14:41.765" end="01:14:45.551">hmm, ikke helt klar endnu.</p>
+      <p begin="01:14:45.551" end="01:14:47.449">Wooh.</p>
+      <p begin="01:14:47.449" end="01:14:57.281">Ah, Madam og Monsieur</p>
+      <p begin="01:14:59.279" end="01:15:01.929"/>
+      <p begin="01:15:07.041" end="01:15:14.202"/>
+      <p begin="01:15:15.923" end="01:15:19.264">- Du har den ide at du kan <br/>parkere andre ting ud over biler?</p>
+      <p begin="01:15:19.264" end="01:15:24.009">- Ideen er, hvorfor er vi afs&#230;tter<br/>disse arealer for biler i stedet for folk?</p>
+      <p begin="01:15:24.009" end="01:15:25.676">Kan du forestille dig, hvis dette er</p>
+      <p begin="01:15:25.676" end="01:15:29.249">udvidet hele vejen op <br/>til 7th Avenue?</p>
+      <p begin="01:15:29.249" end="01:15:32.806">Vi startede en positiv p&#229;virkning<br/>fase af projektet.</p>
+      <p begin="01:15:32.806" end="01:15:35.737">Ideen er ingen netto <br/>p&#229;virkning p&#229; milj&#248;et</p>
+      <p begin="01:15:35.737" end="01:15:40.339">s&#229; det er at mindske vores negative <br/>og &#248;ge vores positive p&#229;virkning.</p>
+      <p begin="01:15:40.339" end="01:15:42.094">Og det er ikke meningen <br/>at det skal v&#230;re videnskabeligt.</p>
+      <p begin="01:15:42.094" end="01:15:44.766">Det skal bare v&#230;re filosofisk.</p>
+      <p begin="01:15:44.766" end="01:15:50.803">Kan jeg leve p&#229; denne planet<br/>og g&#248;re mere godt end ondt?</p>
+      <p begin="01:15:50.803" end="01:15:54.019">Jeg har hjulpet med et projekt, <br/>der handler om at f&#229; &#248;sters tilbage</p>
+      <p begin="01:15:54.019" end="01:15:57.037">i Hudson floden<br/>som vil filtrere vandet.</p>
+      <p begin="01:15:58.985" end="01:16:02.198">Jeg gjorde rent i <br/>tr&#230; gruber i Bronx.</p>
+      <p begin="01:16:02.198" end="01:16:07.420">Jeg var ligesom, sikke noget lort.<br/>No Impact Man, dette er et projekt.</p>
+      <p begin="01:16:07.420" end="01:16:12.416">Der er dette netv&#230;rk af folk som<br/>har arbejdet p&#229; denne sag for evigt.</p>
+      <p begin="01:16:12.416" end="01:16:15.468">- N&#229;r du f&#248;rst er kommet ud af<br/>den uvidenhed at</p>
+      <p begin="01:16:15.468" end="01:16:18.315">n&#229;r du smider noget v&#230;k,<br/>s&#229; bliver det faktisk v&#230;k,</p>
+      <p begin="01:16:18.315" end="01:16:21.372">du ved, det er bare en sv&#230;r ting,<br/>fordi ja, dit stykke affald</p>
+      <p begin="01:16:21.372" end="01:16:24.688">ender i et samfund som dette<br/>hvor det behandles.</p>
+      <p begin="01:16:27.678" end="01:16:30.764">De fleste folk, n&#229;r de forbruger,<br/>forst&#229;r ikke</p>
+      <p begin="01:16:30.764" end="01:16:33.930">hvad den virkelig pris p&#229; de varer er.</p>
+      <p begin="01:16:33.930" end="01:16:36.301">Den forurening, der blev skabt,<br/>du ved, ved at fremstille dem.</p>
+      <p begin="01:16:36.301" end="01:16:39.233">De helbredsp&#229;virkningen <br/>der er ved det.</p>
+      <p begin="01:16:39.233" end="01:16:42.550">Vi er hovedkilden til alle<br/>drivhusgasserne som alle</p>
+      <p begin="01:16:42.550" end="01:16:45.744">pr&#248;ver at bremse lige nu.</p>
+      <p begin="01:16:45.744" end="01:16:47.751">Jeg syntes vi burde bruge mere tid</p>
+      <p begin="01:16:47.751" end="01:16:51.737">p&#229; at erkende at folks liv <br/>bliver bragt i fare hver eneste dag</p>
+      <p begin="01:16:51.737" end="01:16:55.594">og er blevet det i &#229;rtier.</p>
+      <p begin="01:16:55.594" end="01:17:01.449"/>
+      <p begin="01:17:01.449" end="01:17:04.555">- Tolv tusinde lastbiler hver dag<br/>k&#248;rer gennem det kvarter.</p>
+      <p begin="01:17:05.478" end="01:17:09.086">Diesel partiklerene i luften for&#229;rsager<br/>astma hos b&#248;rn,</p>
+      <p begin="01:17:09.086" end="01:17:11.241">for&#229;rsager hjerneskader hos b&#248;rn.</p>
+      <p begin="01:17:11.241" end="01:17:14.442">Du ved, da jeg startede dette projekt,<br/>troede jeg bare at jeg bare skulle</p>
+      <p begin="01:17:14.442" end="01:17:19.298">lave mindre affald, ikke rejse s&#229; meget<br/>og s&#229; ville jeg v&#230;re en helt, eller noget.</p>
+      <p begin="01:17:19.298" end="01:17:23.982">Du ved, jeg tror, det var ikke klart for<br/>mig hvor mange ting, der ville dukke op.</p>
+      <p begin="01:17:23.982" end="01:17:25.605">Jeg taler ikke om isbj&#248;rnene.</p>
+      <p begin="01:17:25.605" end="01:17:27.927">Jeg taler ikke om<br/>folkene p&#229; fjerne &#248;er,</p>
+      <p begin="01:17:27.927" end="01:17:31.358">samfund, der bliver skadet<br/>n&#229;r verdenshavene stiger.</p>
+      <p begin="01:17:31.358" end="01:17:33.991">Jeg taler om folk<br/>som allerede lever</p>
+      <p begin="01:17:33.991" end="01:17:38.173">med f&#248;lgerne af vores<br/>over-forbrugende samfund.</p>
+      <p begin="01:17:38.173" end="01:17:44.606"/>
+      <p begin="01:17:44.606" end="01:17:46.106">- Hvis du spurgte mig, du ved,</p>
+      <p begin="01:17:46.106" end="01:17:48.772">for ni m&#229;neder siden, ville jeg <br/>nogenside have mit barn p&#229; en cykel?</p>
+      <p begin="01:17:48.772" end="01:17:50.022">Og jeg ville sige nej.</p>
+      <p begin="01:17:50.022" end="01:17:52.123">Absolut ikke, det er sindsygt.</p>
+      <p begin="01:17:52.123" end="01:17:54.428">Og jeg kan huske jeg langede<br/>ud efter cykelbudene</p>
+      <p begin="01:17:54.428" end="01:17:57.418">"De skide cykelbude<br/>er fucking sindsyge."</p>
+      <p begin="01:17:57.418" end="01:18:00.197">Og enhver som ville k&#248;re p&#229; cykel<br/>i New York er fucking sindsyge.</p>
+      <p begin="01:18:00.197" end="01:18:04.549">og de g&#248;r det virkeligt usikkert,<br/>cyklisterne, for os bilister,</p>
+      <p begin="01:18:04.549" end="01:18:06.746">som firhjulstr&#230;kkere.</p>
+      <p begin="01:18:06.746" end="01:18:09.434">Det g&#248;r det virkeligt <br/>fucking usikkert for os.</p>
+      <p begin="01:18:09.434" end="01:18:10.809">Og det er lige som mit syn p&#229; verden.</p>
+      <p begin="01:18:10.809" end="01:18:12.263"/>
+      <p begin="01:18:12.263" end="01:18:15.867">Og nu har mit syn p&#229; verden<br/>fuldst&#230;ndigt vendt p&#229; hovedet.</p>
+      <p begin="01:18:15.867" end="01:18:19.908">Gaderne er fuldst&#230;ndig overtaget<br/>og de er ikke for folk.</p>
+      <p begin="01:18:19.908" end="01:18:24.256">Og s&#229; det griske forbrug<br/>for forbrugets skyld.</p>
+      <p begin="01:18:25.821" end="01:18:28.746">Og det koma det fremkalder.</p>
+      <p begin="01:18:33.710" end="01:18:38.330">Jeg ny-t&#230;nker alting<br/>med hensyn til hvad der er vigtigt.</p>
+      <p begin="01:18:38.330" end="01:18:42.493">- F&#248;ler du at, frem over,</p>
+      <p begin="01:18:42.493" end="01:18:48.320">at du f&#248;ler som om det er muligt<br/>p&#229; at overveje din beslutning?</p>
+      <p begin="01:18:48.320" end="01:18:54.059">- Jah, jeg mener, du ved...</p>
+      <p begin="01:18:54.059" end="01:18:57.104">Det jeg g&#248;r er, bare at sige,<br/>jamen, jeg er ligeglad?</p>
+      <p begin="01:19:08.642" end="01:19:30.107"/>
+      <p begin="01:19:30.107" end="01:19:34.324">- Jeg reparerer det <br/>s&#229; vi f&#229;r s&#229; meget</p>
+      <p begin="01:19:35.124" end="01:19:36.963">sol som muligt.</p>
+      <p begin="01:19:38.875" end="01:19:42.302">Et stort sp&#248;rgsm&#229;l midt i<br/><span tts:fontStyle="italic">No Impact</span> eksperimentet var om</p>
+      <p begin="01:19:42.302" end="01:19:47.262">en person kunne g&#248;re en forskel.</p>
+      <p begin="01:19:47.262" end="01:19:50.044">En af de ting jeg virkelig<br/>bliver bekymret om</p>
+      <p begin="01:19:50.044" end="01:19:54.059">n&#229;r folk taler om det faktum at den<br/>enkelte handlinger ikke er s&#229; vigtig er at</p>
+      <p begin="01:19:54.059" end="01:19:59.573">der er det ved den enkeltes handlinger<br/>at det f&#229;r folk til at blive engagerede.</p>
+      <p begin="01:19:59.573" end="01:20:02.571">Vores samfund er ikke indrettet <br/>til at leve b&#230;redygtigt.</p>
+      <p begin="01:20:02.571" end="01:20:05.544">Vi har brug for mere offentligt transport,<br/>mere effektive k&#248;ret&#248;jer,</p>
+      <p begin="01:20:05.544" end="01:20:08.714">ikke flere kul afbr&#230;ndende<br/>kraftv&#230;rker.</p>
+      <p begin="01:20:08.714" end="01:20:11.863">Dette er sv&#230;re forandringer.</p>
+      <p begin="01:20:11.863" end="01:20:13.971">Det internationale panel for <br/>klimaforandringer</p>
+      <p begin="01:20:13.971" end="01:20:19.617">sagde at vi skal sk&#230;re 80% ned<br/>p&#229; CO2 udledninger i 2015.</p>
+      <p begin="01:20:19.617" end="01:20:23.149">Det er stort.</p>
+      <p begin="01:20:23.149" end="01:20:25.616">Som din konstituerende, er den f&#248;rste<br/>ting jeg &#248;nskede at g&#248;re</p>
+      <p begin="01:20:25.616" end="01:20:27.913">Jeg &#248;nskede at takke dig for at st&#248;tte<br/>lovforslaget om energi.</p>
+      <p begin="01:20:27.913" end="01:20:29.013">- Selv tak.</p>
+      <p begin="01:20:29.013" end="01:20:30.573">- For det giver os en god...</p>
+      <p begin="01:20:30.573" end="01:20:32.344">- Giver os hele aftalen.</p>
+      <p begin="01:20:32.344" end="01:20:35.598">- At bruge mindre er en start, <br/>men det er ikke nok.</p>
+      <p begin="01:20:35.598" end="01:20:40.904">Vi skal kr&#230;ve at vores <br/>systemer bliver mere b&#230;redygtige.</p>
+      <p begin="01:20:43.952" end="01:20:47.040">- Du kan skubbe til det. <br/>Jeg vil skubbe til dig, OK?</p>
+      <p begin="01:20:47.040" end="01:20:49.715">OK. vil du rokke<br/>mens du ser p&#229; Frankie?</p>
+      <p begin="01:20:49.715" end="01:20:53.620">- Vi fortalte Isabela, vi t&#230;nkte<br/>Michelle havde en baby i sin mave</p>
+      <p begin="01:20:53.620" end="01:20:55.857">men vi havde uret.</p>
+      <p begin="01:20:55.857" end="01:20:58.067">Det havde hun ikke.</p>
+      <p begin="01:20:58.067" end="01:20:59.177">- Den anden--</p>
+      <p begin="01:20:59.177" end="01:21:01.335">Jeg tror det var anden gang<br/>jeg gik til l&#230;gen.</p>
+      <p begin="01:21:01.335" end="01:21:03.601">Det f&#248;rste gang jeg gik til l&#230;gen,<br/>havde han det fint.</p>
+      <p begin="01:21:03.601" end="01:21:07.044">Og s&#229; den anden gang<br/>vi gik til l&#230;gen</p>
+      <p begin="01:21:07.044" end="01:21:08.750">var der ikke noget hjerteslag.</p>
+      <p begin="01:21:09.918" end="01:21:11.185">- Jah.</p>
+      <p begin="01:21:11.185" end="01:21:13.968">Det var ikke et.<br/>De var ikke noget hjerteslag.</p>
+      <p begin="01:21:17.440" end="01:21:20.915">- Hvor skal du hen?</p>
+      <p begin="01:21:27.689" end="01:21:29.408">Fra fort&#230;llingens synspunkt,</p>
+      <p begin="01:21:29.408" end="01:21:31.257">s&#229; ville det have v&#230;ret den perfekte<br/>afslutning p&#229; fort&#230;llingen.</p>
+      <p begin="01:21:31.257" end="01:21:35.789">Alts&#229; du ved, at jeg endelig lige som<br/>krydsede over</p>
+      <p begin="01:21:35.789" end="01:21:38.182">til <span tts:fontStyle="italic">No Impact</span> og virkelig <br/>omfavndede det</p>
+      <p begin="01:21:38.182" end="01:21:40.036">og det er hvad Colin virkelig &#248;nskede</p>
+      <p begin="01:21:40.036" end="01:21:43.332">og jeg s&#229; blev gravid, det er<br/>hvad jeg virkelig ville have &#248;nsket</p>
+      <p begin="01:21:43.332" end="01:21:44.947">og s&#229; l&#248;ber projektet ud.</p>
+      <p begin="01:21:44.947" end="01:21:47.370">Det hele ender lige som i <br/>en virkelig stor sl&#248;jfe.</p>
+      <p begin="01:21:47.370" end="01:21:53.423">Og det er ikke en sl&#248;jfe,<br/>det er en stor l&#248;s ende.</p>
+      <p begin="01:21:53.423" end="01:21:56.622">S&#229;, det er en l&#248;s ende.</p>
+      <p begin="01:21:56.622" end="01:22:02.224">Det er en l&#248;s ende p&#229; fort&#230;llingen<br/>og det er en &#229;ndelig l&#248;s ende.</p>
+      <p begin="01:22:02.224" end="01:22:09.146">Bare en l&#248;s ende.<br/>Der er mange l&#248;se ender i livet.</p>
+      <p begin="01:22:09.146" end="01:22:11.727">- Jeg trorat vi sikkert pr&#248;ver igen.</p>
+      <p begin="01:22:13.923" end="01:22:16.261">- De er som regnbuer.</p>
+      <p begin="01:22:16.261" end="01:22:18.322">- Er det som regnbuer <br/>p&#229; dine f&#248;dder?</p>
+      <p begin="01:22:18.322" end="01:22:20.466">- Regnbue f&#248;dder.</p>
+      <p begin="01:22:25.320" end="01:22:27.413">- Den officielle svanesang i <br/>haven er n&#229;r</p>
+      <p begin="01:22:27.413" end="01:22:30.169">du graver jorden i efter&#229;ret.</p>
+      <p begin="01:22:30.169" end="01:22:34.856">Det er, det er den officielle<br/>afslutning p&#229; s&#230;sonen.</p>
+      <p begin="01:22:38.147" end="01:22:39.201">- Det er ret interresant</p>
+      <p begin="01:22:39.201" end="01:22:41.092">fordi vi kommer tilbage<br/>til den mad vi spiser</p>
+      <p begin="01:22:41.092" end="01:22:42.458">da projektet startede,</p>
+      <p begin="01:22:42.458" end="01:22:46.861">som er Squash, rodfrugter,<br/>og den slags.</p>
+      <p begin="01:22:46.861" end="01:22:50.283">Og p&#229; samme m&#229;de<br/>vendes haven rundt.</p>
+      <p begin="01:22:50.283" end="01:22:53.543">S&#229;, du faktisk-- du har lidt</p>
+      <p begin="01:22:53.543" end="01:22:57.784">det er ikke som du vender kalenden<br/>og du kan sige at &#229;ret er g&#229;et.</p>
+      <p begin="01:22:57.784" end="01:23:01.704">Du f&#248;ler at der er g&#229;et et &#229;r<br/>fordi du genkender</p>
+      <p begin="01:23:01.704" end="01:23:06.524">noget med jorden.</p>
+      <p begin="01:23:06.524" end="01:23:08.218">Vi har mistet forbindelsen,<br/>tror jeg, i byen</p>
+      <p begin="01:23:08.218" end="01:23:10.592">til naturens rytmer.</p>
+      <p begin="01:23:10.592" end="01:23:11.793">Jeg mener, jeg vidste ikke dette f&#248;r</p>
+      <p begin="01:23:11.793" end="01:23:14.045">men det at faktisk en stor<br/>forn&#248;jelse at v&#230;re forbundet.</p>
+      <p begin="01:23:14.045" end="01:23:36.001"/>
+      <p begin="01:23:36.001" end="01:23:38.307">- Det er hundekoldt herinde.</p>
+      <p begin="01:23:40.757" end="01:23:46.019">Det er den 7. november<br/>og vi er n&#230;sten f&#230;rdige og jeg fryser.</p>
+      <p begin="01:23:46.019" end="01:23:47.618">S&#229;, mange gange g&#248;r jeg det at--</p>
+      <p begin="01:23:47.618" end="01:23:50.398">lad os sige jeg lige er kommet hjem<br/>fra arbejde, jeg har en dragt p&#229;</p>
+      <p begin="01:23:50.398" end="01:23:55.890">men jeg kommer her ind<br/>og jeg kryber ned under t&#230;ppet.</p>
+      <p begin="01:23:55.890" end="01:24:00.367">Jeg bruger meget tid <br/>under t&#230;ppet n&#229;r det er koldt.</p>
+      <p begin="01:24:00.367" end="01:24:01.742">Vi taler ikke om at det slutter.</p>
+      <p begin="01:24:01.742" end="01:24:02.603">Og det er lidt sjovt fordi</p>
+      <p begin="01:24:02.603" end="01:24:04.065">vi bliver adskilt<br/>n&#229;r det slutter</p>
+      <p begin="01:24:04.065" end="01:24:05.846">Fordi n&#229;r det slutter, for mig,</p>
+      <p begin="01:24:05.846" end="01:24:07.516">jeg stiger om bord p&#229; et fly og<br/>bes&#248;ger mine for&#230;ldre,</p>
+      <p begin="01:24:07.516" end="01:24:10.186">som jeg ikke har set i et &#229;r.</p>
+      <p begin="01:24:10.186" end="01:24:13.217">Og Colin vil v&#230;re her<br/>og jeg tager Isabella med.</p>
+      <p begin="01:24:13.217" end="01:24:21.028">S&#229;, vi-- det er sjovt at vi ikke rigtigt <br/>har talt om det.</p>
+      <p begin="01:24:21.028" end="01:24:23.769">Men, alle uden for det<br/>sp&#248;rger mig om det.</p>
+      <p begin="01:24:23.769" end="01:24:25.483">- Mor?</p>
+      <p begin="01:24:25.483" end="01:24:27.753">- Hvad er der, Sukkergris?</p>
+      <p begin="01:24:27.753" end="01:24:31.874">- Der er ikke noget lys herinde.<br/>Jeg kan ikke se.</p>
+      <p begin="01:24:31.874" end="01:24:35.042">- Jeg gl&#230;der mig til at kunne <br/>l&#230;se i sengen med Isabella</p>
+      <p begin="01:24:35.042" end="01:24:40.786">med rigelig belysning,<br/>rigelig belysning.</p>
+      <p begin="01:24:46.090" end="01:24:47.394">Du er ikke tr&#230;t, er du?</p>
+      <p begin="01:24:47.394" end="01:24:48.994">- Nej.</p>
+      <p begin="01:24:48.994" end="01:24:52.893">- Du ved, n&#230;ste uge,<br/>sker der en skole ting i NYU.</p>
+      <p begin="01:24:52.893" end="01:24:57.305">Omkring 200 NYU studenter skal<br/>pr&#248;ve at leve <span tts:fontStyle="italic">No Impact</span> i en uge.</p>
+      <p begin="01:24:57.305" end="01:24:58.438">- Jeg syntes, det er s&#229; cool.</p>
+      <p begin="01:24:58.438" end="01:24:59.215">- Jah.</p>
+      <p begin="01:24:59.215" end="01:25:03.778">S&#229;, s&#248;ndag tager jeg afsted og vi har<br/>en lille workshop om hvordan man g&#248;r.</p>
+      <p begin="01:25:03.778" end="01:25:08.897">Og s&#229; den f&#248;lgende mandag,<br/>tager jeg derhen og holder en stor tale.</p>
+      <p begin="01:25:08.897" end="01:25:16.094"/>
+      <p begin="01:25:16.094" end="01:25:17.854">Lokale 206.</p>
+      <p begin="01:25:20.195" end="01:25:24.447">Og denne uge, n&#229;r I laver eksperimentet,<br/>vil I opdage at det ikke er s&#229; slemt.</p>
+      <p begin="01:25:24.447" end="01:25:26.570">Mit eksperiment varer kun to uger til.</p>
+      <p begin="01:25:26.570" end="01:25:28.363">N&#229;r jeg kommer ud af det ekstreme,</p>
+      <p begin="01:25:28.363" end="01:25:30.123">vil vi tage nogle af de ting vi har</p>
+      <p begin="01:25:30.123" end="01:25:32.153">opgivet tilbage,<br/>men faktum er at balancen</p>
+      <p begin="01:25:32.153" end="01:25:34.484">vil v&#230;re at vi kun<br/>vil p&#229;virke milj&#248;et</p>
+      <p begin="01:25:34.484" end="01:25:37.707">v&#230;sentligt mindre</p>
+      <p begin="01:25:37.707" end="01:25:42.119">og uden negativ p&#229;virkning<br/>af vores lykke.</p>
+      <p begin="01:25:42.119" end="01:25:45.102">Sagens kerne er at<br/>hvis det kun er mig der &#230;ndres</p>
+      <p begin="01:25:45.102" end="01:25:46.813">vil det ikke g&#248;re nogen forskel.</p>
+      <p begin="01:25:46.813" end="01:25:50.895">Men, h&#229;bet er at hvis hver enkelt af<br/>os som individer &#230;ndres,</p>
+      <p begin="01:25:50.895" end="01:25:53.989">s&#229; vil det inspirere<br/>alle til at &#230;ndres.</p>
+      <p begin="01:25:53.989" end="01:25:58.655">S&#229; jeg tror, &#8203;&#8203;den mest radikale,<br/>politiske handling der er, er optimisme.</p>
+      <p begin="01:25:58.655" end="01:26:01.565">S&#229; jeg tror, &#8203;&#8203;den mest radikale,politisk <br/>handling, er at tro at hvis jeg &#230;ndres,</p>
+      <p begin="01:26:01.565" end="01:26:03.093">vil andre folk f&#248;lge efter.</p>
+      <p begin="01:26:03.093" end="01:26:07.972">Grunden til at jeg er her er fordi <br/>en elev i f&#248;rste klasse kaldet Olive,</p>
+      <p begin="01:26:07.972" end="01:26:11.773">Skrev til mig p&#229; min blog<br/>og spurgte om jeg ville komme.</p>
+      <p begin="01:26:11.773" end="01:26:15.444">Folk sp&#248;rger mig, hvis jeg kun kunne<br/>g&#248;re en ting, hvad skulle det s&#229; v&#230;re?</p>
+      <p begin="01:26:15.444" end="01:26:18.955">Ikke at bruge plastikposer<br/>eller ikke at bruger plastikkopper,</p>
+      <p begin="01:26:19.755" end="01:26:22.797">jeg vil sige at hvis der kun <br/>var en ting jeg kunne g&#248;re</p>
+      <p begin="01:26:22.797" end="01:26:25.842">s&#229; ville det blive at arbejde frivilligt<br/>i en milj&#248; organsation.</p>
+      <p begin="01:26:25.842" end="01:26:28.755">En del af grunden til det <br/>er fordi der er f&#230;llesskab.</p>
+      <p begin="01:26:28.755" end="01:26:33.366">Jeg tror meget p&#229; at mange af <br/>klodens milj&#248; problemer</p>
+      <p begin="01:26:33.366" end="01:26:35.872">er opst&#229;et p&#229; grund af<br/>sammenbrudet af f&#230;llesskabet.</p>
+      <p begin="01:26:35.872" end="01:26:36.957">Fordi uden f&#230;llesskab,</p>
+      <p begin="01:26:36.957" end="01:26:39.619">f&#248;ler ingen af os ansvarlige <br/>for andre.</p>
+      <p begin="01:26:39.619" end="01:26:41.319">Vi er alle forbundet med hinanden</p>
+      <p begin="01:26:41.319" end="01:26:42.290">og p&#229; mange planer.</p>
+      <p begin="01:26:42.290" end="01:26:44.256">Du ved, hvis du er religi&#248;s</p>
+      <p begin="01:26:44.256" end="01:26:46.429">s&#229; forst&#229;r du det<br/>p&#229; et religi&#248;st plan.</p>
+      <p begin="01:26:46.429" end="01:26:50.241">Men hvis du kun er praktisk,<br/>kan du se</p>
+      <p begin="01:26:50.241" end="01:26:51.866">at vi er forbundet,<br/>du ved.</p>
+      <p begin="01:26:51.866" end="01:26:54.818">Hvis jeg, du ved, plasker i en vandpyt<br/>og du st&#229;r ved siden af den,</p>
+      <p begin="01:26:54.818" end="01:26:55.893">spr&#248;jter det p&#229; dig.</p>
+      <p begin="01:26:55.893" end="01:27:00.197">Hvis jeg, du ved, skaber forurening,<br/>skal du ind&#229;nde det.</p>
+      <p begin="01:27:00.197" end="01:27:01.366">Min hjerne vil fort&#230;lle mig</p>
+      <p begin="01:27:01.366" end="01:27:04.490">at jeg er den eneste, der er vigtig,<br/>du ved,</p>
+      <p begin="01:27:04.490" end="01:27:08.089">s&#229; jeg skal blive ved med at l&#230;re mig<br/>igen og igen at det ikke er sandt.</p>
+      <p begin="01:27:09.931" end="01:27:12.797">- Og n&#229;r du s&#229; t&#230;nderfor lyset,<br/>er det s&#229; dem alle der t&#230;nder?</p>
+      <p begin="01:27:12.797" end="01:27:14.060">- De fleste. Jeg pr&#248;ver at ...</p>
+      <p begin="01:27:14.060" end="01:27:17.320">- OK, s&#229; snart du g&#248;r det<br/>t&#230;nder de alle.</p>
+      <p begin="01:27:17.320" end="01:27:19.680">- Nej, nej, nej.<br/>Fordi jeg skal lave et par svip.</p>
+      <p begin="01:27:19.680" end="01:27:21.333">Fordi der er mere end<br/>en automatsikring.</p>
+      <p begin="01:27:21.333" end="01:27:24.398">- OK, s&#229; du skal g&#248;re det tre<br/>alts&#229; trykke p&#229; tre automatsikringer</p>
+      <p begin="01:27:24.398" end="01:27:25.641">og s&#229; vil de alle v&#230;re t&#230;ndte.</p>
+      <p begin="01:27:25.641" end="01:27:26.433">- Ja.</p>
+      <p begin="01:27:26.433" end="01:27:28.733">- S&#229;, vi skulle t&#230;nde denne .. OK.</p>
+      <p begin="01:27:28.733" end="01:27:31.092">- OK.</p>
+      <p begin="01:27:31.092" end="01:27:34.408">- Det har v&#230;ret-- alts&#229;, det har <br/>ikke helt v&#230;ret et &#229;r</p>
+      <p begin="01:27:34.408" end="01:27:38.085">fordi fasen med elektricitet<br/>startede omkring m&#229;ned seks.</p>
+      <p begin="01:27:38.085" end="01:27:40.365">S&#229;, det har v&#230;ret seks m&#229;neder<br/>siden vi sidst havde str&#248;m.</p>
+      <p begin="01:27:40.365" end="01:27:45.351">S&#229;, det er taknemmelighed <br/>for de sm&#229; forn&#248;jelser.</p>
+      <p begin="01:27:45.351" end="01:27:46.989">- &#197;hhh.</p>
+      <p begin="01:27:46.989" end="01:27:49.714">- Jah!</p>
+      <p begin="01:27:49.714" end="01:27:52.033"/>
+      <p begin="01:27:56.645" end="01:27:58.968"/>
+      <p begin="01:28:00.670" end="01:28:02.389">- S&#229; g&#229;r det l&#248;s.</p>
+      <p begin="01:28:02.389" end="01:28:11.652"/>
+      <p begin="01:28:11.652" end="01:28:15.454">- Jeg m&#229; sige, jeg var ret skeptisk<br/>omkring mange ting i starten</p>
+      <p begin="01:28:15.454" end="01:28:16.654">og jeg t&#230;nkte at de var sindsyge</p>
+      <p begin="01:28:16.654" end="01:28:21.997">og virkelig dumme og jeg hadede <br/>og afskyede dig, skiftevis, for dem.</p>
+      <p begin="01:28:21.997" end="01:28:25.454">Men, jeg vil virkelig, <br/>virkelig beholde cyklingen.</p>
+      <p begin="01:28:25.454" end="01:28:29.187">Jeg vil beholde s&#229; meget som vi<br/>overhovedet kan med at undg&#229; affald.</p>
+      <p begin="01:28:29.187" end="01:28:33.082">Og jeg vil virkelig ,virkelig <br/>beholde turene ti ltorvet.</p>
+      <p begin="01:28:33.082" end="01:28:37.355"/>
+      <p begin="01:28:37.355" end="01:28:41.626">Jeg vil v&#230;re vegetar<br/>men jeg vil have en hotdog af og til.</p>
+      <p begin="01:28:41.626" end="01:28:42.917"/>
+      <p begin="01:28:42.917" end="01:28:48.001">Jeg ville v&#230;re en vege-hogian <br/>eller en vege-dogian.</p>
+      <p begin="01:28:48.001" end="01:28:52.441"/>
+      <p begin="01:28:52.441" end="01:28:56.858">Jeg vil gerne undv&#230;re TV i huset,<br/>men jeg gl&#230;der mig til at g&#229; i biografen</p>
+      <p begin="01:28:56.858" end="01:28:58.961">og n&#229;r vi er p&#229; ferie,<br/>er det p&#229; programmet.</p>
+      <p begin="01:29:00.816" end="01:29:02.811">Det er nogle ting,<br/>som jeg har nogle problemer med.</p>
+      <p begin="01:29:02.811" end="01:29:03.528">-Ja.</p>
+      <p begin="01:29:03.528" end="01:29:05.289">- Hvorfor kan vi ikke g&#229; bort fra<br/>det med ormene?</p>
+      <p begin="01:29:05.289" end="01:29:09.223">Fordi de laver<br/>Fluernes Herre i k&#248;kkenet.</p>
+      <p begin="01:29:09.223" end="01:29:12.966">Og der er ogs&#229; nogle ting som<br/>vi bare skal kunne g&#248;re</p>
+      <p begin="01:29:12.966" end="01:29:16.566">m&#229;ske og det er muligvis en af dem.</p>
+      <p begin="01:29:16.566" end="01:29:18.674">For jeg skal ogs&#229; bestemme <br/>lidt her omkring.</p>
+      <p begin="01:29:18.674" end="01:29:22.670"/>
+    </div>
+  </body>
+
+</tt>

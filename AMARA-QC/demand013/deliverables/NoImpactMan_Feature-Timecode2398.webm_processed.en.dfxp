@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:23.950" end="00:00:27.950">- [Colin Beavan] We try to live in a city <br xmlns="http://www.w3.org/1999/xhtml"/>causing no environmental impact</p>
+      <p begin="00:00:27.950" end="00:00:30.505">and I write about <span tts:fontStyle="italic">NoImpactMan.com.</span></p>
+      <p begin="00:00:36.990" end="00:00:41.616">We're just cutting down too many trees. <br xmlns="http://www.w3.org/1999/xhtml"/>We need the trees to save the planet.</p>
+      <p begin="00:00:43.116" end="00:00:45.145">And the polar bears.</p>
+      <p begin="00:00:46.533" end="00:00:50.445">I'm trying to live a life in line with my values.</p>
+      <p begin="00:00:52.324" end="00:00:54.074">[Sighs] Oh fuck!</p>
+      <p begin="00:00:54.074" end="00:01:07.866">&#9834; [music] &#9834;</p>
+      <p begin="00:01:07.866" end="00:01:10.533">
+        <span tts:fontStyle="italic">- [TV Host] People are intent <br/>on replacing the American way</span>
+      </p>
+      <p begin="00:01:10.533" end="00:01:13.199">with wind power and tree bark burgers.</p>
+      <p begin="00:01:13.199" end="00:01:14.366">[Audience Laughter]</p>
+      <p begin="00:01:14.366" end="00:01:17.324">Like this one New York family, <br xmlns="http://www.w3.org/1999/xhtml"/>the Beavans, who are five months</p>
+      <p begin="00:01:17.324" end="00:01:20.574">into a year long quest to live without<br xmlns="http://www.w3.org/1999/xhtml"/>impacting the environment.</p>
+      <p begin="00:01:20.574" end="00:01:24.241">
+        <span tts:fontStyle="italic">The rules: no toilet paper, <br/>no incandescent bulbs</span>
+      </p>
+      <p begin="00:01:24.241" end="00:01:27.491">
+        <span tts:fontStyle="italic">or disposable razors or magazines, <br/>or newspapers,</span>
+      </p>
+      <p begin="00:01:27.491" end="00:01:31.449">
+        <span tts:fontStyle="italic">television, planes, trains, automobiles, <br/>elevators, plastic bags</span>
+      </p>
+      <p begin="00:01:31.449" end="00:01:34.282">
+        <span tts:fontStyle="italic">or shopping for anything new.</span>
+      </p>
+      <p begin="00:01:34.282" end="00:01:36.990">They're poisoning our capital society, <br xmlns="http://www.w3.org/1999/xhtml"/>and here now to defend himself</p>
+      <p begin="00:01:36.990" end="00:01:40.533">is the patriarch of this eco-Mansons, <br xmlns="http://www.w3.org/1999/xhtml"/>Colin Beavan.</p>
+      <p begin="00:01:40.533" end="00:01:41.911">Mr. Beavan, thank you so much for joining.</p>
+      <p begin="00:01:41.911" end="00:01:44.241">[Audience Cheering and Applauding]</p>
+      <p begin="00:01:44.241" end="00:01:49.157">- Joining us now is the writer and <br xmlns="http://www.w3.org/1999/xhtml"/>self-proclaimed No Impact Man, Colin Beavan.</p>
+      <p begin="00:01:49.157" end="00:01:53.205">- We begin tonight with one man, <br xmlns="http://www.w3.org/1999/xhtml"/>his family and a radical experiment </p>
+      <p begin="00:01:53.205" end="00:01:54.658">to help the planet.</p>
+      <p begin="00:01:54.658" end="00:01:56.242">
+        <span tts:fontStyle="italic">with more than 40% of the public</span>
+      </p>
+      <p begin="00:01:56.242" end="00:01:59.561">
+        <span tts:fontStyle="italic">now convinced that humans <br/>are part of global warming.</span>
+      </p>
+      <p begin="00:01:59.561" end="00:02:01.488">
+        <span tts:fontStyle="italic">- [Colin] I just thought, what if <br/>I actually tried</span>
+      </p>
+      <p begin="00:02:01.488" end="00:02:03.601">
+        <span tts:fontStyle="italic">not to hurt the environment,</span>
+      </p>
+      <p begin="00:02:03.601" end="00:02:05.990">
+        <span tts:fontStyle="italic">What would that feel like?</span>
+      </p>
+      <p begin="00:02:05.990" end="00:02:08.571">
+        <span tts:fontStyle="italic">Is it possible? Is it practical?</span>
+      </p>
+      <p begin="00:02:08.571" end="00:02:12.402">[plane taking off]</p>
+      <p begin="00:02:15.907" end="00:02:31.990">[busy street noise]</p>
+      <p begin="00:02:31.990" end="00:02:35.199">- One of the things that I,<br xmlns="http://www.w3.org/1999/xhtml"/>as a writer have wanted</p>
+      <p begin="00:02:35.199" end="00:02:37.116">because my last two books were<br xmlns="http://www.w3.org/1999/xhtml"/>history books</p>
+      <p begin="00:02:37.116" end="00:02:40.282">for this to become more like <br xmlns="http://www.w3.org/1999/xhtml"/>an activist writer.</p>
+      <p begin="00:02:40.282" end="00:02:42.825">In some sort of humble way, <br xmlns="http://www.w3.org/1999/xhtml"/>I want to have some sense that</p>
+      <p begin="00:02:42.825" end="00:02:46.700">my writing is helping the world.</p>
+      <p begin="00:02:46.700" end="00:02:48.865">
+        <span tts:fontStyle="italic">For the next year, my wife, <br/>baby daughter and I</span>
+      </p>
+      <p begin="00:02:48.865" end="00:02:50.323">
+        <span tts:fontStyle="italic">while living in the middle <br/>of New York City</span>
+      </p>
+      <p begin="00:02:50.323" end="00:02:51.891">
+        <span tts:fontStyle="italic">are going to attempt <br/>to live without making</span>
+      </p>
+      <p begin="00:02:51.891" end="00:02:54.335">
+        <span tts:fontStyle="italic">any net impact on the environment.</span>
+      </p>
+      <p begin="00:02:54.335" end="00:02:58.324">Ultimately, this means we'll create <br xmlns="http://www.w3.org/1999/xhtml"/>no trash or no take-out food,</p>
+      <p begin="00:02:58.324" end="00:03:01.324">emit no carbon dioxides, <br xmlns="http://www.w3.org/1999/xhtml"/>so no driving or flying;</p>
+      <p begin="00:03:01.324" end="00:03:04.074">pour no toxins in the water, <br xmlns="http://www.w3.org/1999/xhtml"/>so no laundry detergent;</p>
+      <p begin="00:03:04.074" end="00:03:08.784">buy no produce from distant lands,<br xmlns="http://www.w3.org/1999/xhtml"/>so no New Zealand fruit.</p>
+      <p begin="00:03:08.784" end="00:03:11.824">Not to mention, no elevators, no subway,</p>
+      <p begin="00:03:11.824" end="00:03:14.949">no product in packaging, no plastics, <br xmlns="http://www.w3.org/1999/xhtml"/>no airconditioning, no TV, no paper.</p>
+      <p begin="00:03:14.949" end="00:03:16.408">Blah-blah-blah-blah.</p>
+      <p begin="00:03:16.408" end="00:03:20.700">Anyway, so that's kind of like <br xmlns="http://www.w3.org/1999/xhtml"/>a summary of the project.</p>
+      <p begin="00:03:20.700" end="00:03:22.990">&#9834; [music] &#9834;</p>
+      <p begin="00:03:22.990" end="00:03:34.334">[busy street noise]</p>
+      <p begin="00:03:35.869" end="00:03:39.074">
+        <span tts:fontStyle="italic">- [Michelle Conlin] Colin told me what <br/>the project would be</span>
+      </p>
+      <p begin="00:03:39.074" end="00:03:44.116">
+        <span tts:fontStyle="italic">and my honest reaction? I was really<br/>excited that he had an idea</span>
+      </p>
+      <p begin="00:03:44.116" end="00:03:46.575">
+        <span tts:fontStyle="italic">that he was excited about.</span>
+      </p>
+      <p begin="00:03:46.575" end="00:03:49.907">
+        <span tts:fontStyle="italic">That was overall <br/>the most important thing.</span>
+      </p>
+      <p begin="00:03:49.907" end="00:03:51.232">I thought, as long as we're doing <br xmlns="http://www.w3.org/1999/xhtml"/>all these things,</p>
+      <p begin="00:03:51.232" end="00:03:53.132">why don't we throw in <br xmlns="http://www.w3.org/1999/xhtml"/>my two current addictions</p>
+      <p begin="00:03:53.132" end="00:03:56.745">which are shopping and reality TV?</p>
+      <p begin="00:03:57.700" end="00:04:01.824">I'm a reality TV aficionado, <br xmlns="http://www.w3.org/1999/xhtml"/>addict and expert.</p>
+      <p begin="00:04:01.824" end="00:04:03.449">- <span tts:fontStyle="italic">Look at her face right now.</span></p>
+      <p begin="00:04:03.449" end="00:04:04.616">[Laughter]</p>
+      <p begin="00:04:04.616" end="00:04:08.907">
+        <span tts:fontStyle="italic">She's like, aren't you looking like<br/>you'd get sucked in.</span>
+      </p>
+      <p begin="00:04:08.907" end="00:04:10.865">- It's good.</p>
+      <p begin="00:04:10.865" end="00:04:14.491">I've had a really intense relationship <br xmlns="http://www.w3.org/1999/xhtml"/>with retail.</p>
+      <p begin="00:04:14.491" end="00:04:16.700">Catherine Malandrino sample sale.</p>
+      <p begin="00:04:16.700" end="00:04:19.907">Jean Paul Gaultier is so fun <br xmlns="http://www.w3.org/1999/xhtml"/>and I'll see you at midnight</p>
+      <p begin="00:04:19.907" end="00:04:22.074">and then we'll have dinner at 2 am.</p>
+      <p begin="00:04:22.074" end="00:04:23.616">Marc Jacobs is like</p>
+      <p begin="00:04:23.616" end="00:04:28.329">"I'm married, I'm a mom <br xmlns="http://www.w3.org/1999/xhtml"/>but I'm still trying to work it a little bit."</p>
+      <p begin="00:04:28.344" end="00:04:31.327">I'm like a high fructose, <br xmlns="http://www.w3.org/1999/xhtml"/>corn syrup addicted,</p>
+      <p begin="00:04:31.327" end="00:04:36.533">You know, screen addicted, <br xmlns="http://www.w3.org/1999/xhtml"/>meat-eating girl.</p>
+      <p begin="00:04:36.533" end="00:04:39.493">I would say that I was not <br xmlns="http://www.w3.org/1999/xhtml"/>an enviromentalist.</p>
+      <p begin="00:04:39.493" end="00:04:42.449">I would say that I was the typical, <br xmlns="http://www.w3.org/1999/xhtml"/>like consuming -</p>
+      <p begin="00:04:42.449" end="00:04:44.700">I'm a consumer.</p>
+      <p begin="00:04:44.700" end="00:04:47.425">I'm a take-out junkie.</p>
+      <p begin="00:04:48.946" end="00:04:50.716">- You were scared of not being able<br xmlns="http://www.w3.org/1999/xhtml"/>- Alright, not having.</p>
+      <p begin="00:04:50.716" end="00:04:52.050">- to consume for a year.</p>
+      <p begin="00:04:52.050" end="00:04:53.763">
+        <span tts:fontStyle="italic">- Yeah, I was. You're right!</span>
+      </p>
+      <p begin="00:04:53.779" end="00:04:55.366">- So, you've been, you're trying to do <br xmlns="http://www.w3.org/1999/xhtml"/>all your year's consuming in one week.</p>
+      <p begin="00:04:55.366" end="00:04:58.032">
+        <span tts:fontStyle="italic">- So I dropped the paycheck.</span>
+      </p>
+      <p begin="00:04:58.032" end="00:04:59.990">Chloe boots that was a lot.</p>
+      <p begin="00:04:59.990" end="00:05:01.032">
+        <span tts:fontStyle="italic">- How much?</span>
+      </p>
+      <p begin="00:05:01.032" end="00:05:02.824">- In a way, I'm appalled at myself.</p>
+      <p begin="00:05:02.824" end="00:05:04.199">
+        <span tts:fontStyle="italic">- Can you say how much, though?</span>
+      </p>
+      <p begin="00:05:04.199" end="00:05:07.366">- That's appalling. That's like, <br xmlns="http://www.w3.org/1999/xhtml"/>that's just...</p>
+      <p begin="00:05:07.366" end="00:05:09.658">I can't even. I'm embarrased.</p>
+      <p begin="00:05:09.658" end="00:05:12.907">[Colin laughs]</p>
+      <p begin="00:05:12.907" end="00:05:14.658">This was the, you know,<br xmlns="http://www.w3.org/1999/xhtml"/>the last rush.</p>
+      <p begin="00:05:14.658" end="00:05:15.907">- Yes, this was the binge. I got you.</p>
+      <p begin="00:05:15.907" end="00:05:17.366">- Yeah! That's the bill of the binge.</p>
+      <p begin="00:05:17.366" end="00:05:20.174">- I got, I was laughing because I was <br xmlns="http://www.w3.org/1999/xhtml"/>just looking for like necessities.</p>
+      <p begin="00:05:20.217" end="00:05:22.045">
+        <span tts:fontStyle="italic">- That was like Custer's last stand <br/>right there.</span>
+      </p>
+      <p begin="00:05:22.324" end="00:05:23.157">- Okay.</p>
+      <p begin="00:05:23.157" end="00:05:28.116">- Spending all my money on silly things.</p>
+      <p begin="00:05:28.116" end="00:05:29.616">
+        <span tts:fontStyle="italic">- I don't care how much you spend.</span>
+      </p>
+      <p begin="00:05:29.616" end="00:05:32.408">This particular spending has to do with...</p>
+      <p begin="00:05:32.408" end="00:05:33.199">- Your project.</p>
+      <p begin="00:05:33.199" end="00:05:36.032">- No Impact. I thought it was our project.</p>
+      <p begin="00:05:36.032" end="00:05:36.782">- Oh yeah.</p>
+      <p begin="00:05:36.782" end="00:05:38.324">It's "No Impact Man."</p>
+      <p begin="00:05:38.324" end="00:05:41.366">Its his book and that's his project <br xmlns="http://www.w3.org/1999/xhtml"/>and he's "No Impact Man"</p>
+      <p begin="00:05:41.366" end="00:05:46.032">but in order- but the project is <br xmlns="http://www.w3.org/1999/xhtml"/>our family's doing this.</p>
+      <p begin="00:05:46.032" end="00:05:57.740">[train running]</p>
+      <p begin="00:05:57.740" end="00:05:59.595">- Two weeks ago, <br xmlns="http://www.w3.org/1999/xhtml"/>On day one of the project,</p>
+      <p begin="00:05:59.595" end="00:06:03.254">we stopped using carbon producing <br xmlns="http://www.w3.org/1999/xhtml"/>transportation,</p>
+      <p begin="00:06:04.865" end="00:06:10.874">
+        <span tts:fontStyle="italic">which means no airplanes, no subways, <br/>no taxis and no elevators.</span>
+      </p>
+      <p begin="00:06:11.827" end="00:06:13.657">
+        <span tts:fontStyle="italic">People say, "Well, why get to extreme?"</span>
+      </p>
+      <p begin="00:06:13.657" end="00:06:15.740">
+        <span tts:fontStyle="italic">because not everybody <br/>is gonna get so extreme</span>
+      </p>
+      <p begin="00:06:15.740" end="00:06:19.105">and all this kind of thing is to experience <br xmlns="http://www.w3.org/1999/xhtml"/>like the whole gamut of things</p>
+      <p begin="00:06:19.105" end="00:06:22.710">to see what we really <br xmlns="http://www.w3.org/1999/xhtml"/>are willing to give up, you know.</p>
+      <p begin="00:06:22.710" end="00:06:26.032">At the end, we'll come out of it and <br xmlns="http://www.w3.org/1999/xhtml"/>see what are we willing to keep.</p>
+      <p begin="00:06:26.032" end="00:06:27.990">What are we not, what was too hard, <br xmlns="http://www.w3.org/1999/xhtml"/>what wasn't too hard.</p>
+      <p begin="00:06:33.116" end="00:06:36.907">
+        <span tts:fontStyle="italic">The paradigm is reduce, reuse, recycle.</span>
+      </p>
+      <p begin="00:06:36.907" end="00:06:39.074">
+        <span tts:fontStyle="italic">So the first thing is reduce.</span>
+      </p>
+      <p begin="00:06:39.074" end="00:06:41.168">
+        <span tts:fontStyle="italic">Reduce our consumption, right?</span>
+      </p>
+      <p begin="00:06:41.491" end="00:06:43.574">
+        <span tts:fontStyle="italic">Well, I think to myself, you know,</span>
+      </p>
+      <p begin="00:06:43.574" end="00:06:48.199">
+        <span tts:fontStyle="italic">"Of course, I can't do without this.<br/>I can't do without that."</span>
+      </p>
+      <p begin="00:06:48.199" end="00:06:52.383">
+        <span tts:fontStyle="italic">So the idea is, okay, <br/>let's do without it all.</span>
+      </p>
+      <p begin="00:06:52.383" end="00:06:52.970">[dogs barking]</p>
+      <p begin="00:06:52.970" end="00:06:54.032">- Coming in see the T. V. <br xmlns="http://www.w3.org/1999/xhtml"/>How big the T. V is.</p>
+      <p begin="00:06:54.032" end="00:06:55.241">- Yeah, come on in.</p>
+      <p begin="00:06:55.241" end="00:06:57.199">- Happened?</p>
+      <p begin="00:06:57.199" end="00:06:58.731">- They're gonna take the T. V away.</p>
+      <p begin="00:06:58.731" end="00:07:00.200">
+        <span tts:fontStyle="italic">- Frame out.</span>
+      </p>
+      <p begin="00:07:00.200" end="00:07:01.281">[child whimpers]</p>
+      <p begin="00:07:01.281" end="00:07:02.406">
+        <span tts:fontStyle="italic">- and we're just gonna not have a TV.</span>
+      </p>
+      <p begin="00:07:02.406" end="00:07:04.978">We're just gonna be TV-less people.</p>
+      <p begin="00:07:04.978" end="00:07:05.725">- Yeah.</p>
+      <p begin="00:07:05.725" end="00:07:08.362">- Mommy is a little bit addicted to the T. V.</p>
+      <p begin="00:07:08.362" end="00:07:09.858">[dog barking]</p>
+      <p begin="00:07:12.469" end="00:07:14.782">
+        <span tts:fontStyle="italic">- I'm gonna be 40 this summer <br/>and there were just so many things</span>
+      </p>
+      <p begin="00:07:14.782" end="00:07:17.907">about the way that I was living my life,</p>
+      <p begin="00:07:17.907" end="00:07:21.324">especially with Isabella <br xmlns="http://www.w3.org/1999/xhtml"/>that I wanted to change.</p>
+      <p begin="00:07:21.324" end="00:07:23.116">I had my blood tested, like really in depth</p>
+      <p begin="00:07:23.116" end="00:07:26.615">and it showed that like if I didn't change<br xmlns="http://www.w3.org/1999/xhtml"/>the way that I was eating,</p>
+      <p begin="00:07:26.615" end="00:07:32.510">I was like on my way to diabetes,<br xmlns="http://www.w3.org/1999/xhtml"/>and had a low thyroid.</p>
+      <p begin="00:07:32.510" end="00:07:36.282">And then that kind of co-mingled <br xmlns="http://www.w3.org/1999/xhtml"/>with my 40th birthday.</p>
+      <p begin="00:07:36.282" end="00:07:40.573">It's kind of like that moment in life <br xmlns="http://www.w3.org/1999/xhtml"/>when I think,</p>
+      <p begin="00:07:40.573" end="00:07:44.905">"Well, where do I want the second half <br xmlns="http://www.w3.org/1999/xhtml"/>of my life to look like?"</p>
+      <p begin="00:07:44.905" end="00:07:46.906">Since the first half is done.</p>
+      <p begin="00:07:46.906" end="00:07:48.491">Tick tock.</p>
+      <p begin="00:07:49.367" end="00:07:51.824">
+        <span tts:fontStyle="italic">- [Colin] The project works in phases.</span>
+      </p>
+      <p begin="00:07:51.824" end="00:07:54.949">
+        <span tts:fontStyle="italic">I'm not a trained environmentalist <br/>so I'm learning as I go.</span>
+      </p>
+      <p begin="00:07:54.949" end="00:07:58.199">
+        <span tts:fontStyle="italic">Right now, we're really working <br/>on our trash.</span>
+      </p>
+      <p begin="00:07:58.199" end="00:08:02.949">
+        <span tts:fontStyle="italic">The average American creates <br/>1600 lbs. of trash a year.</span>
+      </p>
+      <p begin="00:08:02.949" end="00:08:05.740">
+        <span tts:fontStyle="italic">We're trying to reduce that to zero.</span>
+      </p>
+      <p begin="00:08:05.740" end="00:08:14.865">&#9834; [music] &#9834;</p>
+      <p begin="00:08:14.865" end="00:08:17.783">See that Hawthorne Valley Farm, <br xmlns="http://www.w3.org/1999/xhtml"/>certified organic bio-dynamic.</p>
+      <p begin="00:08:17.783" end="00:08:18.577">- Yeah.</p>
+      <p begin="00:08:18.577" end="00:08:20.074">- <span tts:fontStyle="italic">I'm gonna see if we can all, as a family</span></p>
+      <p begin="00:08:20.074" end="00:08:23.949">
+        <span tts:fontStyle="italic">go stay on that farm for like <br/>a few days and volunteer and stuff.</span>
+      </p>
+      <p begin="00:08:23.949" end="00:08:25.449">
+        <span tts:fontStyle="italic">Is that okay?</span>
+      </p>
+      <p begin="00:08:25.449" end="00:08:27.450">- Yeah, babe. That sounds like <br xmlns="http://www.w3.org/1999/xhtml"/>a great idea.</p>
+      <p begin="00:08:27.450" end="00:08:29.532">[Both laughing]</p>
+      <p begin="00:08:29.532" end="00:08:33.408">- The majority of our trash is <br xmlns="http://www.w3.org/1999/xhtml"/>food packaging and food waste.</p>
+      <p begin="00:08:33.408" end="00:08:35.408">The good thing about <br xmlns="http://www.w3.org/1999/xhtml"/>the Farmers Market</p>
+      <p begin="00:08:35.408" end="00:08:37.740">is that most of the food <br xmlns="http://www.w3.org/1999/xhtml"/>is sold unpackaged</p>
+      <p begin="00:08:37.740" end="00:08:40.532">so it's easy to shop there <br xmlns="http://www.w3.org/1999/xhtml"/>and not make trash.</p>
+      <p begin="00:08:40.532" end="00:08:42.282">- No environmental impact?</p>
+      <p begin="00:08:42.282" end="00:08:44.032">- Yeah, causing no <br xmlns="http://www.w3.org/1999/xhtml"/>environmental impact.</p>
+      <p begin="00:08:44.032" end="00:08:44.740">- Really?</p>
+      <p begin="00:08:44.740" end="00:08:45.657">- Yes.</p>
+      <p begin="00:08:45.657" end="00:08:47.032">- Then you can't have this bag.</p>
+      <p begin="00:08:47.032" end="00:08:48.366">- Thank you!</p>
+      <p begin="00:08:48.366" end="00:08:50.740">How do I say this without <br xmlns="http://www.w3.org/1999/xhtml"/>sounding like a dick?</p>
+      <p begin="00:08:50.740" end="00:08:53.966">
+        <span tts:fontStyle="italic">I get upset to see things individually <br/>wrapped in plastic.</span>
+      </p>
+      <p begin="00:08:53.966" end="00:08:55.978">Oh, you know what,<br xmlns="http://www.w3.org/1999/xhtml"/>Are the worm people here?</p>
+      <p begin="00:08:55.990" end="00:08:57.934">- What do you need the worms for?<br xmlns="http://www.w3.org/1999/xhtml"/>I don't know if I'm...</p>
+      <p begin="00:08:57.949" end="00:08:59.990">- Well, can I tell you about it after?</p>
+      <p begin="00:08:59.990" end="00:09:02.482">Basically, the worms <br xmlns="http://www.w3.org/1999/xhtml"/>make a compost faster.</p>
+      <p begin="00:09:03.235" end="00:09:05.907">
+        <span tts:fontStyle="italic">- Honey, I'm not into that at all.</span>
+      </p>
+      <p begin="00:09:05.907" end="00:09:08.581">- Okay, we can talk about it.</p>
+      <p begin="00:09:09.211" end="00:09:10.657">Michelle!</p>
+      <p begin="00:09:10.657" end="00:09:11.241">
+        <span tts:fontStyle="italic">- Yeah?</span>
+      </p>
+      <p begin="00:09:11.241" end="00:09:12.657">- Wanna come see the worms?</p>
+      <p begin="00:09:14.324" end="00:09:15.889">[Isabella giggles]</p>
+      <p begin="00:09:18.486" end="00:09:20.782">See them wiggling around in there, Mom?</p>
+      <p begin="00:09:20.782" end="00:09:22.807">- Yeah. And then how do you <br xmlns="http://www.w3.org/1999/xhtml"/>make sure they don't get out?</p>
+      <p begin="00:09:22.807" end="00:09:23.832">- They can't get out.</p>
+      <p begin="00:09:23.832" end="00:09:24.448">[child babbling]</p>
+      <p begin="00:09:24.448" end="00:09:25.869">- Wait. Is there no cover?</p>
+      <p begin="00:09:25.869" end="00:09:28.316">- Of course, there is a cover...</p>
+      <p begin="00:09:28.316" end="00:09:29.022">- Let's cover it up.</p>
+      <p begin="00:09:29.022" end="00:09:30.474">- Know what, Isabella's looking at them.</p>
+      <p begin="00:09:30.474" end="00:09:32.741">
+        <span tts:fontStyle="italic">- Okay. Nature.</span>
+      </p>
+      <p begin="00:09:32.741" end="00:09:34.376">[Colin laughs]</p>
+      <p begin="00:09:34.376" end="00:09:38.883">Mom doesn't really like nature <br xmlns="http://www.w3.org/1999/xhtml"/>but Dad likes nature.</p>
+      <p begin="00:09:38.883" end="00:09:40.450">[Colin laughs]</p>
+      <p begin="00:09:41.741" end="00:09:44.116">- So diaper.</p>
+      <p begin="00:09:44.116" end="00:09:50.782">Diaper cover made from wool, <br xmlns="http://www.w3.org/1999/xhtml"/>organic wool nicely treated lambs.</p>
+      <p begin="00:09:50.782" end="00:09:53.194">I checked into all this.</p>
+      <p begin="00:09:55.116" end="00:09:56.490">There's like five different techniques</p>
+      <p begin="00:09:56.490" end="00:10:02.657">and there's like the bikini fold <br xmlns="http://www.w3.org/1999/xhtml"/>and the angel fold and so whatever,</p>
+      <p begin="00:10:02.657" end="00:10:05.366">we're gonna try the angel fold.</p>
+      <p begin="00:10:05.366" end="00:10:09.032">There's confusion over whether <br xmlns="http://www.w3.org/1999/xhtml"/>cloth diapers or disposable diapers</p>
+      <p begin="00:10:09.032" end="00:10:10.865">are better for the environment.</p>
+      <p begin="00:10:10.865" end="00:10:15.573">And the industry-funded studies <br xmlns="http://www.w3.org/1999/xhtml"/>suggest that it's the same.</p>
+      <p begin="00:10:15.573" end="00:10:16.699">
+        <span tts:fontStyle="italic">But the fact of the matter is</span>
+      </p>
+      <p begin="00:10:16.699" end="00:10:21.199">
+        <span tts:fontStyle="italic">we put 49 million plastic diapers <br/>a day in the landfills.</span>
+      </p>
+      <p begin="00:10:21.199" end="00:10:24.324">It's the third largest source <br xmlns="http://www.w3.org/1999/xhtml"/>of trash in the landfills.</p>
+      <p begin="00:10:24.324" end="00:10:25.407">[Isabella talking]</p>
+      <p begin="00:10:25.407" end="00:10:26.866">- Does it feel different, honey?</p>
+      <p begin="00:10:26.866" end="00:10:28.407">- It's too fun!</p>
+      <p begin="00:10:28.407" end="00:10:30.324">- It's too fun.</p>
+      <p begin="00:10:30.324" end="00:10:32.740">Let's see.</p>
+      <p begin="00:10:32.740" end="00:10:33.824">He-hey!</p>
+      <p begin="00:10:33.824" end="00:10:34.741">
+        <span tts:fontStyle="italic">- Ohhh!</span>
+      </p>
+      <p begin="00:10:34.741" end="00:10:37.199">- He-hey!</p>
+      <p begin="00:10:37.199" end="00:10:39.782">Look at you!</p>
+      <p begin="00:10:39.782" end="00:10:41.282">- The Green Century Babe.</p>
+      <p begin="00:10:41.282" end="00:10:42.407">- Yahaha.</p>
+      <p begin="00:10:42.407" end="00:10:43.699">[Michelle laughing]</p>
+      <p begin="00:10:43.699" end="00:10:45.157">[hands clapping]</p>
+      <p begin="00:10:45.849" end="00:10:49.573">
+        <span tts:fontStyle="italic">- We come here every Sunday <br/>for breakfast and we love it.</span>
+      </p>
+      <p begin="00:10:49.573" end="00:10:55.157">But as a part of our column, <br xmlns="http://www.w3.org/1999/xhtml"/>our "No Impact" project,</p>
+      <p begin="00:10:55.157" end="00:11:00.199">we're phasing out everything <br xmlns="http://www.w3.org/1999/xhtml"/>including restaurants.</p>
+      <p begin="00:11:00.199" end="00:11:03.241">So this is our last supper at <span tts:fontStyle="italic">Pasti's</span></p>
+      <p begin="00:11:03.241" end="00:11:07.032">and our last supper in a restaurant <br xmlns="http://www.w3.org/1999/xhtml"/>together as a family, right?</p>
+      <p begin="00:11:07.032" end="00:11:10.074">- You know we're gonna eat food <br xmlns="http://www.w3.org/1999/xhtml"/>only from within 250 miles</p>
+      <p begin="00:11:10.074" end="00:11:14.324">so it's not that <span tts:fontStyle="italic">Pasti's</span> per se <br xmlns="http://www.w3.org/1999/xhtml"/>is a problem but for example,</p>
+      <p begin="00:11:14.324" end="00:11:20.199">the wheat and the bread probably comes <br xmlns="http://www.w3.org/1999/xhtml"/>from the Great Plains, way far away.</p>
+      <p begin="00:11:20.199" end="00:11:25.282">So it's - that's what the problem will be.</p>
+      <p begin="00:11:25.282" end="00:11:27.990">That, you know the food comes <br xmlns="http://www.w3.org/1999/xhtml"/>from all over the place</p>
+      <p begin="00:11:27.990" end="00:11:30.824">and we're trying to eat locally.</p>
+      <p begin="00:11:30.824" end="00:11:33.741">We can eat what we have except <br xmlns="http://www.w3.org/1999/xhtml"/>for the spices because you know,</p>
+      <p begin="00:11:33.741" end="00:11:36.907">the spices would last all year.</p>
+      <p begin="00:11:36.907" end="00:11:38.157">Onions are not a problem.</p>
+      <p begin="00:11:38.157" end="00:11:39.282">Garlic is not a problem.</p>
+      <p begin="00:11:39.282" end="00:11:42.115">Squash is not a problem.</p>
+      <p begin="00:11:42.115" end="00:11:44.116">Potatoes are not a problem.</p>
+      <p begin="00:11:44.116" end="00:11:47.865">We had bacon potatoes <br xmlns="http://www.w3.org/1999/xhtml"/>cooked last week for three days.</p>
+      <p begin="00:11:47.865" end="00:11:51.157">- I've gone off, off meat but I still <br xmlns="http://www.w3.org/1999/xhtml"/>have been eating fish</p>
+      <p begin="00:11:51.157" end="00:11:55.615">so last night started like no meat, <br xmlns="http://www.w3.org/1999/xhtml"/>no fish, no nothing.</p>
+      <p begin="00:11:55.615" end="00:11:58.449">So, I mean out of everything - <br xmlns="http://www.w3.org/1999/xhtml"/>out of the stairs,</p>
+      <p begin="00:11:58.449" end="00:12:00.532">the scooter and the no garbage,</p>
+      <p begin="00:12:00.532" end="00:12:02.949">I've definitely found the food <br xmlns="http://www.w3.org/1999/xhtml"/>to be the hardest.</p>
+      <p begin="00:12:02.949" end="00:12:07.032">It's still hard like right now, <br xmlns="http://www.w3.org/1999/xhtml"/>I just wanna go get like a baked good.</p>
+      <p begin="00:12:07.032" end="00:12:09.032">- Why do you think foods <br xmlns="http://www.w3.org/1999/xhtml"/>are the hardest for you?</p>
+      <p begin="00:12:11.199" end="00:12:13.907">- Because I can't eat anything <br xmlns="http://www.w3.org/1999/xhtml"/>that tastes good.</p>
+      <p begin="00:12:13.907" end="00:12:16.615">[Both laughing]</p>
+      <p begin="00:12:18.573" end="00:12:21.907">
+        <span tts:fontStyle="italic">- We're stuck now with cabbage <br/>and root vegetables</span>
+      </p>
+      <p begin="00:12:21.907" end="00:12:25.199">
+        <span tts:fontStyle="italic">until the winter's over <br/>and the spring comes.</span>
+      </p>
+      <p begin="00:12:25.199" end="00:12:26.573">
+        <span tts:fontStyle="italic">Hi Ryan!</span>
+      </p>
+      <p begin="00:12:26.573" end="00:12:28.907">I'm gonna come back in a little while <br xmlns="http://www.w3.org/1999/xhtml"/>to get some milk.</p>
+      <p begin="00:12:28.907" end="00:12:31.032">I've got too much to carry already.</p>
+      <p begin="00:12:31.032" end="00:12:33.824">- We'll see ya!</p>
+      <p begin="00:12:33.824" end="00:12:37.532">The guy that they usually give <br xmlns="http://www.w3.org/1999/xhtml"/>my egg cartons to isn't here.</p>
+      <p begin="00:12:37.532" end="00:12:40.157">The transportation of food <br xmlns="http://www.w3.org/1999/xhtml"/>creates a lot of carbon emission.</p>
+      <p begin="00:12:40.157" end="00:12:43.095">Here in the United States, <br xmlns="http://www.w3.org/1999/xhtml"/>the average piece of food</p>
+      <p begin="00:12:43.095" end="00:12:46.952">has traveled 1500 miles <br xmlns="http://www.w3.org/1999/xhtml"/>from the farm to the plane.</p>
+      <p begin="00:12:46.952" end="00:12:48.907">These guys have great apples.</p>
+      <p begin="00:12:48.907" end="00:12:51.032">I'm wondering what your favorite is?</p>
+      <p begin="00:12:51.032" end="00:12:53.365">- [Male Customer] The Winesap <br xmlns="http://www.w3.org/1999/xhtml"/>so I'm now gonna talk to him.</p>
+      <p begin="00:12:53.365" end="00:12:53.407">[....00:12:52:07] socks off.</p>
+      <p begin="00:12:53.407" end="00:12:55.337">
+        <span tts:fontStyle="italic">- But they're also lots <br/>of other reasons for eating local</span>
+      </p>
+      <p begin="00:12:55.337" end="00:12:59.038">
+        <span tts:fontStyle="italic">like preserving our farmlands.</span>
+      </p>
+      <p begin="00:12:59.038" end="00:13:02.740">And the reason were vegetarian is <br xmlns="http://www.w3.org/1999/xhtml"/>worldwide-meat eating is responsible</p>
+      <p begin="00:13:02.740" end="00:13:07.731">for more green house gases than <br xmlns="http://www.w3.org/1999/xhtml"/>anything else including transportation.</p>
+      <p begin="00:13:10.573" end="00:13:13.699">- There's no locally grown coffee <br xmlns="http://www.w3.org/1999/xhtml"/>so I have to cut it out.</p>
+      <p begin="00:13:13.699" end="00:13:16.782">So today's my last try with <br xmlns="http://www.w3.org/1999/xhtml"/>Iced Colada Espressos.</p>
+      <p begin="00:13:16.782" end="00:13:19.949">I am worried that I'm gonna have a slip, <br xmlns="http://www.w3.org/1999/xhtml"/>that I'm not gonna be able to do it</p>
+      <p begin="00:13:19.949" end="00:13:24.490">and then I'm worried about <br xmlns="http://www.w3.org/1999/xhtml"/>the wrath of Colin.</p>
+      <p begin="00:13:24.490" end="00:13:26.506">Because it really bothers him <br xmlns="http://www.w3.org/1999/xhtml"/>when I have slips</p>
+      <p begin="00:13:26.506" end="00:13:30.448">because it makes him feel like <br xmlns="http://www.w3.org/1999/xhtml"/>the project is going to pot.</p>
+      <p begin="00:13:30.448" end="00:13:33.782">Basically, this is easy for Colin <br xmlns="http://www.w3.org/1999/xhtml"/>and this is just like murder for me.</p>
+      <p begin="00:13:33.782" end="00:13:35.824">The food and the caffeine.</p>
+      <p begin="00:13:35.824" end="00:13:39.532">That's Mommy's third and last <br xmlns="http://www.w3.org/1999/xhtml"/>Iced Colada Espresso.</p>
+      <p begin="00:13:39.532" end="00:13:41.072">Prepare for take off!</p>
+      <p begin="00:13:43.949" end="00:13:46.240">Feeling good!</p>
+      <p begin="00:13:46.240" end="00:13:48.240">Oh my God! Much better.</p>
+      <p begin="00:13:48.240" end="00:13:54.757">&#9834; [music] &#9834;</p>
+      <p begin="00:14:02.407" end="00:14:06.240">
+        <span tts:fontStyle="italic">- [Colin] Part of eating local is <br/>about getting to know the farmers</span>
+      </p>
+      <p begin="00:14:06.240" end="00:14:08.198">
+        <span tts:fontStyle="italic">that you're getting your food from.</span>
+      </p>
+      <p begin="00:14:08.198" end="00:14:11.641">So we're gonna go see Ronnie at <br xmlns="http://www.w3.org/1999/xhtml"/><span tts:fontStyle="italic">Ronnie Brook Farm</span> </p>
+      <p begin="00:14:11.641" end="00:14:15.133">and all his little cows.</p>
+      <p begin="00:14:15.133" end="00:14:18.074">
+        <span tts:fontStyle="italic">This is the first time I've been</span>
+      </p>
+      <p begin="00:14:18.074" end="00:14:27.615">on any sort of non-self propelled <br xmlns="http://www.w3.org/1999/xhtml"/>transportation for more than a month.</p>
+      <p begin="00:14:27.615" end="00:14:29.116">So it's kind of fun.</p>
+      <p begin="00:14:29.116" end="00:14:30.074">Choo-choo!</p>
+      <p begin="00:14:30.074" end="00:14:31.323">[Laughs]</p>
+      <p begin="00:14:31.323" end="00:14:38.782">&#9834; [music] &#9834;</p>
+      <p begin="00:14:38.782" end="00:14:40.116">
+        <span tts:fontStyle="italic">- [Farmer] Every cow has a name.</span>
+      </p>
+      <p begin="00:14:40.116" end="00:14:41.531">This is Thelma.</p>
+      <p begin="00:14:41.531" end="00:14:44.532">
+        <span tts:fontStyle="italic">- [Colin] Hi girl.</span>
+      </p>
+      <p begin="00:14:45.192" end="00:14:48.907">Is the relationship with the animals <br xmlns="http://www.w3.org/1999/xhtml"/>part of why you do it?</p>
+      <p begin="00:14:48.907" end="00:14:51.157">- That's the reason we started them.</p>
+      <p begin="00:14:51.157" end="00:14:54.782">My wife tells me that when my <br xmlns="http://www.w3.org/1999/xhtml"/>son was born, I had to milk the cows.</p>
+      <p begin="00:14:54.782" end="00:14:57.032">I couldn't go to the --<br xmlns="http://www.w3.org/1999/xhtml"/>take her to the hospital.</p>
+      <p begin="00:14:57.032" end="00:14:57.819">[Colin laughs]</p>
+      <p begin="00:14:57.819" end="00:14:59.448">I didn't know, I didn't remember <br xmlns="http://www.w3.org/1999/xhtml"/>that one.</p>
+      <p begin="00:14:59.448" end="00:15:02.490">[Colin laughs]</p>
+      <p begin="00:15:02.490" end="00:15:04.490">- Let's talk about organic.</p>
+      <p begin="00:15:04.490" end="00:15:06.489">You don't have the organic label.</p>
+      <p begin="00:15:06.489" end="00:15:11.198">Why don't you and what do you think <br xmlns="http://www.w3.org/1999/xhtml"/>about the organic label and...</p>
+      <p begin="00:15:11.198" end="00:15:14.448">- Well, I think organic is a good thing.</p>
+      <p begin="00:15:14.448" end="00:15:17.490">The one thing that I am opposed to <br xmlns="http://www.w3.org/1999/xhtml"/>as organic</p>
+      <p begin="00:15:17.490" end="00:15:19.949">is not being able to treat your cows.<br xmlns="http://www.w3.org/1999/xhtml"/>- Right.</p>
+      <p begin="00:15:19.949" end="00:15:21.156">[clears throat]</p>
+      <p begin="00:15:21.156" end="00:15:24.240">- That's the only thing that I couldn't<br xmlns="http://www.w3.org/1999/xhtml"/>subscribe to.</p>
+      <p begin="00:15:24.240" end="00:15:26.699">- Which is what? Explain that to me.</p>
+      <p begin="00:15:26.699" end="00:15:30.865">- Well, if the cow gets sick, <br xmlns="http://www.w3.org/1999/xhtml"/>you can't use any antibiotics.</p>
+      <p begin="00:15:30.865" end="00:15:34.115">That's the problem I have<br xmlns="http://www.w3.org/1999/xhtml"/>is letting cows die.</p>
+      <p begin="00:15:34.115" end="00:15:37.782">These have been the same cows <br xmlns="http://www.w3.org/1999/xhtml"/>for generations.</p>
+      <p begin="00:15:37.782" end="00:15:41.073">- Wow!</p>
+      <p begin="00:15:41.073" end="00:15:44.073">Hi honey!</p>
+      <p begin="00:15:44.073" end="00:15:45.490">So let me ask you this.</p>
+      <p begin="00:15:45.490" end="00:15:48.156">So everything you're saying, <br xmlns="http://www.w3.org/1999/xhtml"/>so let's go to the other end.</p>
+      <p begin="00:15:48.156" end="00:15:52.156">People are like on-board <br xmlns="http://www.w3.org/1999/xhtml"/>the organic marketing bus.</p>
+      <p begin="00:15:52.156" end="00:15:54.865">- The most important thing, <br xmlns="http://www.w3.org/1999/xhtml"/>the reason locals' important</p>
+      <p begin="00:15:54.865" end="00:15:57.782">is I want to make the food channel legible.</p>
+      <p begin="00:15:57.782" end="00:15:59.615">if I'm gonna buy a grape from you</p>
+      <p begin="00:15:59.615" end="00:16:00.881">
+        <span tts:fontStyle="italic">I wanna go see what you're doing.</span>
+      </p>
+      <p begin="00:16:00.881" end="00:16:02.895">
+        <span tts:fontStyle="italic">You might not be certified organic</span>
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+      </p>
+      <p begin="00:16:02.895" end="00:16:06.099">
+        <span tts:fontStyle="italic">but everything you do <br/>is organic or better.</span>
+      </p>
+      <p begin="00:16:06.099" end="00:16:10.178">In milk, it only has to be,<br xmlns="http://www.w3.org/1999/xhtml"/>It only has to be local </p>
+      <p begin="00:16:11.428" end="00:16:14.815">and you have to go see the treatment <br xmlns="http://www.w3.org/1999/xhtml"/>of those animals.</p>
+      <p begin="00:16:14.815" end="00:16:16.365">You gotta go see it!</p>
+      <p begin="00:16:16.365" end="00:16:20.077">[people talking]</p>
+      <p begin="00:16:20.077" end="00:16:25.354">[cars passing by]</p>
+      <p begin="00:16:26.615" end="00:16:29.657">- [Colin] This is an entirely <br xmlns="http://www.w3.org/1999/xhtml"/>local food fritata.</p>
+      <p begin="00:16:29.657" end="00:16:33.282">Now the root vegetables come from <br xmlns="http://www.w3.org/1999/xhtml"/>an up-state farm.</p>
+      <p begin="00:16:33.282" end="00:16:35.990">Red cabbage also up-state New York.</p>
+      <p begin="00:16:35.990" end="00:16:41.740">Eggs and cheese <br xmlns="http://www.w3.org/1999/xhtml"/>from up-state New York too!</p>
+      <p begin="00:16:41.740" end="00:16:43.031">
+        <span tts:fontStyle="italic">- [Michelle] Did you hear <br/>the phone ring?</span>
+      </p>
+      <p begin="00:16:43.031" end="00:16:43.782">
+        <span tts:fontStyle="italic">- I did.</span>
+      </p>
+      <p begin="00:16:43.782" end="00:16:44.782">- That was Robin.</p>
+      <p begin="00:16:44.782" end="00:16:45.323">
+        <span tts:fontStyle="italic">- Yeah?</span>
+      </p>
+      <p begin="00:16:45.323" end="00:16:48.316">And basically the deal is that <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:16:48.316" end="00:16:50.527">they wanna try and make<br xmlns="http://www.w3.org/1999/xhtml"/>this the cover story.</p>
+      <p begin="00:16:50.527" end="00:16:51.657">
+        <span tts:fontStyle="italic">- Yeah.</span>
+      </p>
+      <p begin="00:16:51.657" end="00:16:53.782">But early Monday morning, <br xmlns="http://www.w3.org/1999/xhtml"/>like at seven am,</p>
+      <p begin="00:16:53.782" end="00:16:56.448">Robin needs to have<br xmlns="http://www.w3.org/1999/xhtml"/>the new draft in his hand.</p>
+      <p begin="00:16:56.448" end="00:17:03.615">So I'm feeling so debilitated by <br xmlns="http://www.w3.org/1999/xhtml"/>my caffeine withdrawal</p>
+      <p begin="00:17:03.615" end="00:17:05.740">that I feel like it's gonna affect my work.</p>
+      <p begin="00:17:05.740" end="00:17:06.407">
+        <span tts:fontStyle="italic">- Uh-huh?</span>
+      </p>
+      <p begin="00:17:06.407" end="00:17:08.614">- I feel like this is a really important story.</p>
+      <p begin="00:17:08.614" end="00:17:11.442">- So it is what I think, why did you <br xmlns="http://www.w3.org/1999/xhtml"/>wait until you tell me</p>
+      <p begin="00:17:11.442" end="00:17:13.323">when are you gonna start <br xmlns="http://www.w3.org/1999/xhtml"/>doing the work?</p>
+      <p begin="00:17:13.323" end="00:17:14.490">- After our dinner party.</p>
+      <p begin="00:17:14.490" end="00:17:17.281">
+        <span tts:fontStyle="italic">- Why don't you wait till then <br/>and then you can decide.</span>
+      </p>
+      <p begin="00:17:17.281" end="00:17:18.962">[dog barking]</p>
+      <p begin="00:17:19.954" end="00:17:22.281">- You gotta be kidding me?</p>
+      <p begin="00:17:22.281" end="00:17:25.989">I feel like my head is about <br xmlns="http://www.w3.org/1999/xhtml"/>to pop off my body.</p>
+      <p begin="00:17:25.989" end="00:17:26.782">[spoon drops]</p>
+      <p begin="00:17:26.782" end="00:17:29.907">It's gonna help me through the process <br xmlns="http://www.w3.org/1999/xhtml"/>and I feel like it's gonna be stressful</p>
+      <p begin="00:17:29.907" end="00:17:32.198">and so why not avail myself of that help?</p>
+      <p begin="00:17:32.198" end="00:17:33.907">
+        <span tts:fontStyle="italic">- Just a second</span>
+      </p>
+      <p begin="00:17:36.115" end="00:17:39.115">
+        <span tts:fontStyle="italic">What you really mean is you want <br/>some coffee right now. </span>
+      </p>
+      <p begin="00:17:39.115" end="00:17:39.928">It's got nothing...<br xmlns="http://www.w3.org/1999/xhtml"/>- I'm gonna take the dog out.</p>
+      <p begin="00:17:40.740" end="00:17:41.824">You SOB!</p>
+      <p begin="00:17:41.824" end="00:17:44.073">
+        <span tts:fontStyle="italic">- Oh,that's what you really, <br/>that's what you really...</span>
+      </p>
+      <p begin="00:17:44.073" end="00:17:46.740">- Yeah, I wanna go use. <br xmlns="http://www.w3.org/1999/xhtml"/>I wanna go on a run.</p>
+      <p begin="00:17:47.782" end="00:17:49.281">- Well, I don't care.</p>
+      <p begin="00:17:49.281" end="00:17:52.365">
+        <span tts:fontStyle="italic">- But you do care.</span>
+      </p>
+      <p begin="00:17:52.365" end="00:17:53.699">- Well, you know.</p>
+      <p begin="00:17:53.699" end="00:17:56.532">- I eat only local food. <br xmlns="http://www.w3.org/1999/xhtml"/>I don't create any garbage.</p>
+      <p begin="00:17:56.532" end="00:17:57.865">I don't eat anything...<br xmlns="http://www.w3.org/1999/xhtml"/><span tts:fontStyle="italic">- Wait. Wait. Wait. Wait. Wait.</span></p>
+      <p begin="00:17:57.983" end="00:17:58.818">
+        <span tts:fontStyle="italic">- Progress!</span>
+      </p>
+      <p begin="00:17:58.818" end="00:18:02.532">- You only eat local food but who provides it, <br xmlns="http://www.w3.org/1999/xhtml"/>gets up in the morning</p>
+      <p begin="00:18:02.532" end="00:18:03.782">and makes your breakfast everyday.</p>
+      <p begin="00:18:03.782" end="00:18:04.448">
+        <span tts:fontStyle="italic">- You!</span>
+      </p>
+      <p begin="00:18:04.448" end="00:18:05.156">- Does your lunch.</p>
+      <p begin="00:18:05.156" end="00:18:05.608">
+        <span tts:fontStyle="italic">- You!</span>
+      </p>
+      <p begin="00:18:05.608" end="00:18:06.303">- Does your dinner.</p>
+      <p begin="00:18:06.303" end="00:18:07.737">
+        <span tts:fontStyle="italic">- That wasn't the point!</span>
+      </p>
+      <p begin="00:18:07.737" end="00:18:10.156">- Then generally washes the dishes <br xmlns="http://www.w3.org/1999/xhtml"/>when it's all done?</p>
+      <p begin="00:18:10.156" end="00:18:12.031">
+        <span tts:fontStyle="italic">- I wash the dishes!</span>
+      </p>
+      <p begin="00:18:12.031" end="00:18:14.115">- What really happened is <br xmlns="http://www.w3.org/1999/xhtml"/>Robin called you up</p>
+      <p begin="00:18:14.115" end="00:18:16.615">and you thought "Oh, this is an excuse."</p>
+      <p begin="00:18:16.615" end="00:18:18.657">[Isabella whimpering]</p>
+      <p begin="00:18:18.657" end="00:18:20.906">- So you're gonna have -- <br xmlns="http://www.w3.org/1999/xhtml"/>you're mad at me</p>
+      <p begin="00:18:20.906" end="00:18:23.407">and I'm telling you that<br xmlns="http://www.w3.org/1999/xhtml"/>I'm gonna go take care of myself.</p>
+      <p begin="00:18:23.407" end="00:18:24.193">- You're putting words in my mouth.</p>
+      <p begin="00:18:24.193" end="00:18:24.774">- Okay. Alright!</p>
+      <p begin="00:18:24.774" end="00:18:25.824">- I never said I was that.</p>
+      <p begin="00:18:25.824" end="00:18:28.532">- I am now going to take care of myself</p>
+      <p begin="00:18:28.532" end="00:18:32.615">and get an iced quad espresso <br xmlns="http://www.w3.org/1999/xhtml"/>and maybe two, I don't know.</p>
+      <p begin="00:18:32.615" end="00:18:36.662">
+        <span tts:fontStyle="italic">I don't want to let everyone down. <br/>I don't want myself down.</span>
+      </p>
+      <p begin="00:18:36.662" end="00:18:38.160">[Chuckling]</p>
+      <p begin="00:18:41.341" end="00:18:44.989">- I used this spicy olive oil and it's <br xmlns="http://www.w3.org/1999/xhtml"/>the remnants of our olive oil</p>
+      <p begin="00:18:44.989" end="00:18:47.198">because pretty soon, <br xmlns="http://www.w3.org/1999/xhtml"/>we won't be able to use olive oil.</p>
+      <p begin="00:18:47.198" end="00:18:49.156">- [Male Visitor: And you're gonna do <br xmlns="http://www.w3.org/1999/xhtml"/>without power here?</p>
+      <p begin="00:18:49.156" end="00:18:49.698">
+        <span tts:fontStyle="italic">- Eventually.</span>
+      </p>
+      <p begin="00:18:49.698" end="00:18:50.240">
+        <span tts:fontStyle="italic">- Yeah!</span>
+      </p>
+      <p begin="00:18:50.240" end="00:18:52.990">- What about power in somebody <br xmlns="http://www.w3.org/1999/xhtml"/>else's apartment?</p>
+      <p begin="00:18:52.990" end="00:18:55.281">
+        <span tts:fontStyle="italic">- [Colin] If somebody were to invite us <br/>to watch TV at their house,</span>
+      </p>
+      <p begin="00:18:55.281" end="00:18:57.824">we'd say yes because it was a<br xmlns="http://www.w3.org/1999/xhtml"/>social occasion.</p>
+      <p begin="00:18:57.824" end="00:18:58.906">
+        <span tts:fontStyle="italic">I'm not begging but close.</span>
+      </p>
+      <p begin="00:18:58.906" end="00:18:59.218">[Laughter]</p>
+      <p begin="00:19:02.247" end="00:19:02.756">- [Female Visitor] Used clothing?</p>
+      <p begin="00:19:02.756" end="00:19:04.824">- Used clothes are allowed.</p>
+      <p begin="00:19:04.824" end="00:19:05.949">- Uh-huh!</p>
+      <p begin="00:19:05.949" end="00:19:09.989">- No new materials but Michelle, <br xmlns="http://www.w3.org/1999/xhtml"/>I think wants to go cold turkey.</p>
+      <p begin="00:19:09.989" end="00:19:12.448">- For the whole year, I'm not <br xmlns="http://www.w3.org/1999/xhtml"/>gonna buy anything all year.</p>
+      <p begin="00:19:12.803" end="00:19:14.407">It's been really great letting it go</p>
+      <p begin="00:19:14.407" end="00:19:16.281">because I've been able to <br xmlns="http://www.w3.org/1999/xhtml"/>re-think everything.</p>
+      <p begin="00:19:16.281" end="00:19:17.281">What do I use?</p>
+      <p begin="00:19:17.281" end="00:19:18.699">What don't I use?</p>
+      <p begin="00:19:18.699" end="00:19:22.281">- [Lady Visitor] There's a common<br xmlns="http://www.w3.org/1999/xhtml"/>style, anyway.</p>
+      <p begin="00:19:22.281" end="00:19:24.448">[Laughter]</p>
+      <p begin="00:19:24.448" end="00:19:25.657">With a few special friends.</p>
+      <p begin="00:19:25.657" end="00:19:27.824">[Laughter]</p>
+      <p begin="00:19:27.824" end="00:19:32.906">[music]</p>
+      <p begin="00:19:32.906" end="00:19:33.824">- [Lady Visitor] Yay, good job!</p>
+      <p begin="00:19:33.824" end="00:19:38.566">
+        <span tts:fontStyle="italic">- [Colin] At first because it is was<br/>our habit to watch TV, we missed it.</span>
+      </p>
+      <p begin="00:19:38.566" end="00:19:41.081">And now that space is filled with being <br xmlns="http://www.w3.org/1999/xhtml"/>in the moment </p>
+      <p begin="00:19:41.081" end="00:19:42.507">with friends and each other.</p>
+      <p begin="00:19:42.507" end="00:19:53.285">&#9834; [music] &#9834;</p>
+      <p begin="00:19:58.864" end="00:20:02.240">- I'm making corn mill porridge <br xmlns="http://www.w3.org/1999/xhtml"/>which we have a lot.</p>
+      <p begin="00:20:02.240" end="00:20:04.115">You'll notice that I don't make it <br xmlns="http://www.w3.org/1999/xhtml"/>that much because you know,</p>
+      <p begin="00:20:04.115" end="00:20:07.031">there's not that much we can get locally.</p>
+      <p begin="00:20:07.031" end="00:20:12.948">So, corn mill porridge is what it is.</p>
+      <p begin="00:20:12.948" end="00:20:14.864">- [Isabella] My apple!</p>
+      <p begin="00:20:24.198" end="00:20:25.490">Okay. Give Mommy a kiss goodbye.</p>
+      <p begin="00:20:25.490" end="00:20:27.073">- I love you!</p>
+      <p begin="00:20:27.073" end="00:20:28.573">I'll see you later, okay honey.</p>
+      <p begin="00:20:28.573" end="00:20:30.156">I'm gonna go to work.</p>
+      <p begin="00:20:30.156" end="00:20:44.906">&#9834; [music] &#9834;</p>
+      <p begin="00:20:44.906" end="00:20:48.740">- I put a post on the blog called <br xmlns="http://www.w3.org/1999/xhtml"/><span tts:fontStyle="italic">"How we avoid making trash."</span></p>
+      <p begin="00:20:48.740" end="00:20:51.948">No Indian food and throw away <br xmlns="http://www.w3.org/1999/xhtml"/>take-out cut tubs.</p>
+      <p begin="00:20:51.948" end="00:20:54.532">No Chinese food and plastic<br xmlns="http://www.w3.org/1999/xhtml"/>throw away tubs.</p>
+      <p begin="00:20:54.532" end="00:20:57.115">No Italian food and plastic <br xmlns="http://www.w3.org/1999/xhtml"/>throw away tubs.</p>
+      <p begin="00:20:57.115" end="00:21:00.240">No soda cans. No water in plastic bottles.</p>
+      <p begin="00:21:00.240" end="00:21:02.699">Cancelling our magazine and <br xmlns="http://www.w3.org/1999/xhtml"/>newspaper subscriptions.</p>
+      <p begin="00:21:02.699" end="00:21:06.657">Putting in ends to the <br xmlns="http://www.w3.org/1999/xhtml"/>junk mail tree killing.</p>
+      <p begin="00:21:06.657" end="00:21:13.699">I'm calling of the companies to ask <br xmlns="http://www.w3.org/1999/xhtml"/>them not to send them to us anymore.</p>
+      <p begin="00:21:13.699" end="00:21:18.448">Returning egg and berry cartons to the<br xmlns="http://www.w3.org/1999/xhtml"/>vendors at the farmers market for reuse.</p>
+      <p begin="00:21:18.448" end="00:21:21.781">Buying milk in returnable, <br xmlns="http://www.w3.org/1999/xhtml"/>reuseable bottles.</p>
+      <p begin="00:21:21.781" end="00:21:25.448">Carrying my ultra cool reusable <br xmlns="http://www.w3.org/1999/xhtml"/>cup and water bottle</p>
+      <p begin="00:21:25.448" end="00:21:29.156">which is a glass jar I diverted <br xmlns="http://www.w3.org/1999/xhtml"/>from the landfill.</p>
+      <p begin="00:21:29.156" end="00:21:34.740">Using baking soda from a recyclable <br xmlns="http://www.w3.org/1999/xhtml"/>container to brush my teeth.</p>
+      <p begin="00:21:34.740" end="00:21:37.573">Switching to real, meaning cloth diapers.</p>
+      <p begin="00:21:37.573" end="00:21:41.198">Shopping for food only from the bulk bins <br xmlns="http://www.w3.org/1999/xhtml"/>and from the local farmers market</p>
+      <p begin="00:21:41.198" end="00:21:43.281">where is unpackaged and fresh.</p>
+      <p begin="00:21:43.281" end="00:21:46.115">If I want what's inside this box, <br xmlns="http://www.w3.org/1999/xhtml"/>why do I need the box?</p>
+      <p begin="00:21:46.115" end="00:21:48.615">And inside the box, there's a bag.</p>
+      <p begin="00:21:48.615" end="00:21:52.281">No throw away plastic razors <br xmlns="http://www.w3.org/1999/xhtml"/>and blade cartridges.</p>
+      <p begin="00:21:52.281" end="00:21:56.323">Using old cloths for rags around <br xmlns="http://www.w3.org/1999/xhtml"/>the apartment instead of paper towels.</p>
+      <p begin="00:21:56.323" end="00:21:59.906">Keeping a worm bin to compost <br xmlns="http://www.w3.org/1999/xhtml"/>our food scraps and to nourishment,</p>
+      <p begin="00:21:59.906" end="00:22:05.490">it can be returned to the earth instead <br xmlns="http://www.w3.org/1999/xhtml"/>of toxins that seep from the landfills.</p>
+      <p begin="00:22:05.490" end="00:22:07.573">Here they go.</p>
+      <p begin="00:22:07.573" end="00:22:09.383">- [Male] They're gonna eat, <br xmlns="http://www.w3.org/1999/xhtml"/>I think you told me,</p>
+      <p begin="00:22:09.383" end="00:22:11.787">three pounds of food material --</p>
+      <p begin="00:22:11.787" end="00:22:13.490">- a week, yeah.</p>
+      <p begin="00:22:13.490" end="00:22:17.532">For the products, we took four days<br xmlns="http://www.w3.org/1999/xhtml"/>where we saved all our trash</p>
+      <p begin="00:22:17.532" end="00:22:18.864">and there was 90 gallon.</p>
+      <p begin="00:22:18.864" end="00:22:22.031">Four days, which is kind of disgusting.</p>
+      <p begin="00:22:22.031" end="00:22:25.031">
+        <span tts:fontStyle="italic">This is our combined trash for a week.</span>
+      </p>
+      <p begin="00:22:29.150" end="00:22:33.739">- Isabella talking phone.</p>
+      <p begin="00:22:33.739" end="00:22:36.407">Okay so, we've done the trash phase. <br xmlns="http://www.w3.org/1999/xhtml"/><span tts:fontStyle="italic">- Yeah.</span></p>
+      <p begin="00:22:36.407" end="00:22:38.532">- and we've done the local eating phase.</p>
+      <p begin="00:22:38.532" end="00:22:39.490">
+        <span tts:fontStyle="italic">- Yeah.</span>
+      </p>
+      <p begin="00:22:39.490" end="00:22:42.698">- and now we're moving into the <br xmlns="http://www.w3.org/1999/xhtml"/>sustainable consumption phase.</p>
+      <p begin="00:22:42.698" end="00:22:46.281">- What about like transportation <br xmlns="http://www.w3.org/1999/xhtml"/>and all the other stuff we've done?</p>
+      <p begin="00:22:46.281" end="00:22:50.491">- Yes, but those aren't part of the phases.</p>
+      <p begin="00:22:50.491" end="00:22:53.448">[Laughs]</p>
+      <p begin="00:22:53.448" end="00:22:55.115">So, now we're moving into --</p>
+      <p begin="00:22:55.115" end="00:22:55.823">- Okay.</p>
+      <p begin="00:22:55.823" end="00:22:57.141">- You know making sure <br xmlns="http://www.w3.org/1999/xhtml"/>that we don't have </p>
+      <p begin="00:22:57.141" end="00:23:00.615">any environmental impact <br xmlns="http://www.w3.org/1999/xhtml"/>through purchasing basically.</p>
+      <p begin="00:23:00.615" end="00:23:04.781">So the first rule is <br xmlns="http://www.w3.org/1999/xhtml"/>don't buy new products, okay.</p>
+      <p begin="00:23:04.781" end="00:23:08.573">But we can borrow, rent or buy used.</p>
+      <p begin="00:23:08.573" end="00:23:10.156">- Do you have to go to the potty?<br xmlns="http://www.w3.org/1999/xhtml"/>- Yes!</p>
+      <p begin="00:23:10.156" end="00:23:11.323">- You have to go potty?</p>
+      <p begin="00:23:11.323" end="00:23:12.407">- No!</p>
+      <p begin="00:23:12.407" end="00:23:15.198">- Do you want some toilet paper?</p>
+      <p begin="00:23:15.198" end="00:23:17.073">Actually we're out of toilet paper.</p>
+      <p begin="00:23:17.073" end="00:23:18.656">Hey, do we have any toilet paper?</p>
+      <p begin="00:23:18.656" end="00:23:20.781">
+        <span tts:fontStyle="italic">- [Colin] No.</span>
+      </p>
+      <p begin="00:23:20.781" end="00:23:23.865">One thing that's really really hard <br xmlns="http://www.w3.org/1999/xhtml"/>is for a consumer to figure out</p>
+      <p begin="00:23:23.865" end="00:23:26.283">
+        <span tts:fontStyle="italic">what's okay to buy <br/>and what's not okay to buy</span>
+      </p>
+      <p begin="00:23:26.283" end="00:23:29.240">and what should be disposable <br xmlns="http://www.w3.org/1999/xhtml"/>and what's not disposable, right?</p>
+      <p begin="00:23:29.240" end="00:23:30.489">- Yeah!</p>
+      <p begin="00:23:30.489" end="00:23:34.637">- So that research is really, really hard to do <br xmlns="http://www.w3.org/1999/xhtml"/>and nobody can do it all.</p>
+      <p begin="00:23:34.637" end="00:23:35.468">- Yeah!</p>
+      <p begin="00:23:35.468" end="00:23:39.963">- But, if you just cut out consuming <br xmlns="http://www.w3.org/1999/xhtml"/>the things you don't really need,</p>
+      <p begin="00:23:39.963" end="00:23:40.680">- Yes.</p>
+      <p begin="00:23:40.680" end="00:23:41.919">- you've already done it!</p>
+      <p begin="00:23:41.919" end="00:23:42.415">- Yes!</p>
+      <p begin="00:23:42.415" end="00:23:44.199">- You don't have to do the research.</p>
+      <p begin="00:23:44.199" end="00:23:44.912">- You don't.</p>
+      <p begin="00:23:44.912" end="00:23:47.712">- So if you discover that really, <br xmlns="http://www.w3.org/1999/xhtml"/>you don't need toilet paper</p>
+      <p begin="00:23:47.712" end="00:23:49.889">you can just reuse cloths.</p>
+      <p begin="00:23:49.889" end="00:23:50.502">- Yeah.</p>
+      <p begin="00:23:50.502" end="00:23:52.587">- Yeah. You don't have to buy toilet paper</p>
+      <p begin="00:23:52.646" end="00:23:55.217">and you don't have to do the research<br xmlns="http://www.w3.org/1999/xhtml"/>about toilet paper.</p>
+      <p begin="00:23:55.217" end="00:23:56.063">- No!</p>
+      <p begin="00:23:56.063" end="00:23:57.036">- You get it?</p>
+      <p begin="00:23:57.036" end="00:23:57.886">- Yeah!</p>
+      <p begin="00:23:57.886" end="00:23:59.091">- Yeah!</p>
+      <p begin="00:23:59.091" end="00:24:00.471">- Do you really wanna be this <br xmlns="http://www.w3.org/1999/xhtml"/>graphic because...</p>
+      <p begin="00:24:00.471" end="00:24:02.680">[Isabella laughs]</p>
+      <p begin="00:24:02.680" end="00:24:04.984">- The thing about it is <br xmlns="http://www.w3.org/1999/xhtml"/>you don't know until you try.</p>
+      <p begin="00:24:04.984" end="00:24:06.429">- I feel like I'm gonna lose my job.</p>
+      <p begin="00:24:06.429" end="00:24:08.222">- Toilet paper, toilet paper..</p>
+      <p begin="00:24:08.222" end="00:24:10.729">[Michelle laughs]</p>
+      <p begin="00:24:10.729" end="00:24:14.014">- And public health mockery of us, <br xmlns="http://www.w3.org/1999/xhtml"/>it's just gonna be...</p>
+      <p begin="00:24:14.014" end="00:24:15.683">
+        <span tts:fontStyle="italic">- [Colin] It's a one year experiment.</span>
+      </p>
+      <p begin="00:24:15.683" end="00:24:16.444">- Right.</p>
+      <p begin="00:24:16.444" end="00:24:19.003">Isn't it making you, <span tts:fontStyle="italic">No Impact Man</span><br xmlns="http://www.w3.org/1999/xhtml"/>so fringed and wacko</p>
+      <p begin="00:24:19.003" end="00:24:23.056">that you'll just be discounted <br xmlns="http://www.w3.org/1999/xhtml"/>as a fringe wacko?</p>
+      <p begin="00:24:23.056" end="00:24:24.534">I'm just asking rhetorically.</p>
+      <p begin="00:24:24.534" end="00:24:27.695">- But if I tried it and I found <br xmlns="http://www.w3.org/1999/xhtml"/>out that it works</p>
+      <p begin="00:24:27.695" end="00:24:31.046">and its enviromentally better <br xmlns="http://www.w3.org/1999/xhtml"/>and it's not problem </p>
+      <p begin="00:24:31.046" end="00:24:35.675">and it can be done just as hygienically, </p>
+      <p begin="00:24:35.675" end="00:24:36.738">then I know don't see why <br xmlns="http://www.w3.org/1999/xhtml"/>it would cheapen it.</p>
+      <p begin="00:24:36.738" end="00:24:37.802">But, but if I don't try it...</p>
+      <p begin="00:24:37.802" end="00:24:38.708">- Okay.</p>
+      <p begin="00:24:38.708" end="00:24:39.929">- I won't know it all.</p>
+      <p begin="00:24:39.929" end="00:24:41.069">- Uh-huh.</p>
+      <p begin="00:24:41.069" end="00:24:42.054">- You see.</p>
+      <p begin="00:24:42.054" end="00:24:43.672">[Isabella talks]</p>
+      <p begin="00:24:43.672" end="00:24:45.227">- Uh-huh.</p>
+      <p begin="00:24:45.227" end="00:24:47.942">What's bad about toilet paper?</p>
+      <p begin="00:24:48.388" end="00:24:51.770">
+        <span tts:fontStyle="italic">- We need our trees to absorb <br/>carbon dioxide but instead,</span>
+      </p>
+      <p begin="00:24:51.770" end="00:24:55.484">
+        <span tts:fontStyle="italic">we're cutting them down <br/>to make toilet paper.</span>
+      </p>
+      <p begin="00:24:55.484" end="00:24:57.731">So part of our experiment is <br xmlns="http://www.w3.org/1999/xhtml"/>just to ask</p>
+      <p begin="00:24:57.731" end="00:25:01.974">"Do we have to be a disposable <br xmlns="http://www.w3.org/1999/xhtml"/>culture?"&#148; Right?</p>
+      <p begin="00:25:01.974" end="00:25:04.487">And toilet, but you know -- <br xmlns="http://www.w3.org/1999/xhtml"/>and its an extreme</p>
+      <p begin="00:25:04.487" end="00:25:08.834">because we're looking at every angle <br xmlns="http://www.w3.org/1999/xhtml"/>of that disposable-ness </p>
+      <p begin="00:25:08.834" end="00:25:12.178">because the throw away culture <br xmlns="http://www.w3.org/1999/xhtml"/>itself is really a big problem.</p>
+      <p begin="00:25:12.178" end="00:25:13.842">and actually if we were, you know </p>
+      <p begin="00:25:13.842" end="00:25:15.280">maybe we can get away <br xmlns="http://www.w3.org/1999/xhtml"/>from everything</p>
+      <p begin="00:25:15.280" end="00:25:19.017">that we throw away.</p>
+      <p begin="00:25:19.017" end="00:25:22.588">- Tonight I was like, okay well, <br xmlns="http://www.w3.org/1999/xhtml"/>if you're gonna ask me to do this,</p>
+      <p begin="00:25:22.588" end="00:25:25.868">then I should be getting a prize, <br xmlns="http://www.w3.org/1999/xhtml"/>a coupon or a voucher </p>
+      <p begin="00:25:25.868" end="00:25:27.759">redeemable for something.</p>
+      <p begin="00:25:27.759" end="00:25:32.112">but I don't really want anything <br xmlns="http://www.w3.org/1999/xhtml"/>and then my next thought was</p>
+      <p begin="00:25:32.112" end="00:25:36.075">I felt the sadness for the wanting <br xmlns="http://www.w3.org/1999/xhtml"/>part of me</p>
+      <p begin="00:25:36.075" end="00:25:40.790">kind of dying a little bit and it felt like <br xmlns="http://www.w3.org/1999/xhtml"/>there was just a hole there.</p>
+      <p begin="00:25:40.790" end="00:25:44.151">- So what is left?</p>
+      <p begin="00:25:48.729" end="00:25:49.898">- What's that?</p>
+      <p begin="00:25:49.898" end="00:25:56.192">- It's all the stuff that were gonna give <br xmlns="http://www.w3.org/1999/xhtml"/>away from cleaning out the closets.</p>
+      <p begin="00:25:56.192" end="00:25:58.702">- Okay you ready?</p>
+      <p begin="00:26:03.360" end="00:26:07.373">- This is called inventory reduction.</p>
+      <p begin="00:26:10.830" end="00:26:13.730">[Michelle gasping]</p>
+      <p begin="00:26:13.730" end="00:26:17.049">I've never ever been here before <br xmlns="http://www.w3.org/1999/xhtml"/>where they put up a Marc Jacobs' store.</p>
+      <p begin="00:26:17.049" end="00:26:20.377">- You already have that exact same bag.<br xmlns="http://www.w3.org/1999/xhtml"/>- No I don't, honey.</p>
+      <p begin="00:26:20.377" end="00:26:23.217">Honey, I have the white Sophia.</p>
+      <p begin="00:26:23.217" end="00:26:24.353">- And what's that?</p>
+      <p begin="00:26:24.353" end="00:26:28.587">- That's not white. It's like kind of taupe <br xmlns="http://www.w3.org/1999/xhtml"/>but its a totally different bag.</p>
+      <p begin="00:26:28.587" end="00:26:31.238">[car honking]</p>
+      <p begin="00:26:43.292" end="00:26:45.613">Maybe ours was a little bigger. <br xmlns="http://www.w3.org/1999/xhtml"/>I don't know but anyway,</p>
+      <p begin="00:26:45.613" end="00:26:47.828">just reminds me of our T. V.</p>
+      <p begin="00:26:47.828" end="00:26:49.832">[chuckles]</p>
+      <p begin="00:26:54.309" end="00:26:57.488">- [Radio Host] You're on New York <br xmlns="http://www.w3.org/1999/xhtml"/>public radio WNYC FM and AM New York</p>
+      <p begin="00:26:57.488" end="00:26:59.639">and WNYC dot org.</p>
+      <p begin="00:26:59.639" end="00:27:03.117">Mostly sunny skies <br xmlns="http://www.w3.org/1999/xhtml"/>in Central Park at ten o&#146;clock.</p>
+      <p begin="00:27:03.117" end="00:27:06.908">My first guest today is <span tts:fontStyle="italic">No Impact Man</span></p>
+      <p begin="00:27:06.908" end="00:27:11.684">Colin Beavan just walked up 24 flights <br xmlns="http://www.w3.org/1999/xhtml"/>of stairs, accompanied by your host</p>
+      <p begin="00:27:11.684" end="00:27:17.047">who's not proud or tired to avoid <br xmlns="http://www.w3.org/1999/xhtml"/>consuming electricity in an elevator..</p>
+      <p begin="00:27:17.047" end="00:27:19.215">For those of you who happen to have <br xmlns="http://www.w3.org/1999/xhtml"/>the <span tts:fontStyle="italic">New York Times</span> around,</p>
+      <p begin="00:27:19.215" end="00:27:21.909">take out section F, <br xmlns="http://www.w3.org/1999/xhtml"/>the House and Home Section.</p>
+      <p begin="00:27:21.909" end="00:27:25.562">There's a big green, tinted picture <br xmlns="http://www.w3.org/1999/xhtml"/>of Colin Beavan's apartment</p>
+      <p begin="00:27:25.562" end="00:27:27.173">with his wife, his daughter and everything.</p>
+      <p begin="00:27:27.173" end="00:27:28.251">[music playing]</p>
+      <p begin="00:27:28.251" end="00:27:30.309">One of the biggest pictures I've ever seen <br xmlns="http://www.w3.org/1999/xhtml"/>in the <span tts:fontStyle="italic">New York Times.</span></p>
+      <p begin="00:27:30.309" end="00:27:31.047">[laughs]</p>
+      <p begin="00:27:31.047" end="00:27:33.917">One of the littlest apartments <br xmlns="http://www.w3.org/1999/xhtml"/>I've ever seen in the <span tts:fontStyle="italic">New York Times.</span></p>
+      <p begin="00:27:34.470" end="00:27:35.025">[laughs]</p>
+      <p begin="00:27:35.025" end="00:27:36.851">I rode home from Bryan's show <br xmlns="http://www.w3.org/1999/xhtml"/>and I thought</p>
+      <p begin="00:27:36.851" end="00:27:39.817">I wonder if any of my friends saw<br xmlns="http://www.w3.org/1999/xhtml"/>the <span tts:fontStyle="italic">New York Times</span> story</p>
+      <p begin="00:27:39.817" end="00:27:45.765">and e-mailed me to say congratulations <br xmlns="http://www.w3.org/1999/xhtml"/>and there's a 150 e-mails.</p>
+      <p begin="00:27:45.765" end="00:27:50.314">The subject line says things like<br xmlns="http://www.w3.org/1999/xhtml"/>"Greetings from the <span tts:fontStyle="italic">Today's</span> show."</p>
+      <p begin="00:27:50.314" end="00:27:53.787">
+        <span tts:fontStyle="italic">Hi. This is Mary Noel. <br/>I'm a producer for Bill Mark.</span>
+      </p>
+      <p begin="00:27:53.787" end="00:27:57.805">At first I was excited, but then when <br xmlns="http://www.w3.org/1999/xhtml"/>I saw how many requests there were</p>
+      <p begin="00:27:57.805" end="00:28:03.695">and I didn't know what to do, I went<br xmlns="http://www.w3.org/1999/xhtml"/>from excited to scared out of my mind.</p>
+      <p begin="00:28:03.695" end="00:28:05.726">
+        <span tts:fontStyle="italic">Hi Colin. My name is Julie,</span>
+      </p>
+      <p begin="00:28:05.726" end="00:28:07.758">
+        <span tts:fontStyle="italic">I work with the Discovery Channel.</span>
+      </p>
+      <p begin="00:28:07.758" end="00:28:11.381">
+        <span tts:fontStyle="italic">"Hi Mr. Beavan, my name is Abe Hagras,<br/>and I'm calling from Al Jazeera English</span>
+      </p>
+      <p begin="00:28:11.381" end="00:28:13.538">
+        <span tts:fontStyle="italic">based in Washington D.C."</span>
+      </p>
+      <p begin="00:28:13.538" end="00:28:16.965">People contacting me from Australia, <br xmlns="http://www.w3.org/1999/xhtml"/>Colombia, Germany, Italy.</p>
+      <p begin="00:28:16.965" end="00:28:21.878">- He's doing a story about families <br xmlns="http://www.w3.org/1999/xhtml"/>who live in New York</p>
+      <p begin="00:28:21.878" end="00:28:24.872">sort of eco-effective and environmental <br xmlns="http://www.w3.org/1999/xhtml"/>green families.</p>
+      <p begin="00:28:24.872" end="00:28:28.037">- [Female Interviewere] Can you turn <br xmlns="http://www.w3.org/1999/xhtml"/>yourself slightly more towards me?</p>
+      <p begin="00:28:28.745" end="00:28:30.188">- You see?</p>
+      <p begin="00:28:30.188" end="00:28:35.368">Not to mention like Italian television,<br xmlns="http://www.w3.org/1999/xhtml"/>Japanese television.</p>
+      <p begin="00:28:35.368" end="00:28:38.021">Interview request from <br xmlns="http://www.w3.org/1999/xhtml"/>a newspaper in France.</p>
+      <p begin="00:28:38.021" end="00:28:43.129">- [Reporter] [speaking in French]</p>
+      <p begin="00:28:43.129" end="00:28:45.361">- Before we started this project, <br xmlns="http://www.w3.org/1999/xhtml"/>Michelle and I</p>
+      <p begin="00:28:45.361" end="00:28:47.809">- [Radio Host] Sorry you were talking <br xmlns="http://www.w3.org/1999/xhtml"/>about the philosophy, what's behind&#151; --</p>
+      <p begin="00:28:47.809" end="00:28:48.220">- Okay.</p>
+      <p begin="00:28:48.220" end="00:28:48.851">- <span tts:fontStyle="italic">No Impact Man.</span></p>
+      <p begin="00:28:48.851" end="00:28:52.086">- I'm kind of, always thinking about <br xmlns="http://www.w3.org/1999/xhtml"/>collective action.</p>
+      <p begin="00:28:52.086" end="00:28:56.337">What we as a society should do. <br xmlns="http://www.w3.org/1999/xhtml"/>You know, the laws that should be changed.</p>
+      <p begin="00:28:56.337" end="00:28:58.954">But one of the things, I've always been <br xmlns="http://www.w3.org/1999/xhtml"/>weak on as a Liberal</p>
+      <p begin="00:28:58.954" end="00:28:59.890">is individual action like,</p>
+      <p begin="00:28:59.890" end="00:29:02.072">"Why do I have to wait for Congress<br xmlns="http://www.w3.org/1999/xhtml"/>to do something?"</p>
+      <p begin="00:29:02.072" end="00:29:04.564">"Why do I have to wait for big business <br xmlns="http://www.w3.org/1999/xhtml"/>to do something?"</p>
+      <p begin="00:29:04.564" end="00:29:05.828">"Why don't I do something?"</p>
+      <p begin="00:29:05.828" end="00:29:09.120">- The <span tts:fontStyle="italic">Times</span> though makes it sound like <br xmlns="http://www.w3.org/1999/xhtml"/>part change the world,</p>
+      <p begin="00:29:09.120" end="00:29:11.946">part gimmick for your next book. <br xmlns="http://www.w3.org/1999/xhtml"/>Do you cop to that?</p>
+      <p begin="00:29:11.946" end="00:29:13.869">- Yeah, I totally cop to that.</p>
+      <p begin="00:29:13.869" end="00:29:16.168">You know I am who I am. This is what I do.</p>
+      <p begin="00:29:16.168" end="00:29:21.306">But if I can take the energy of who I am <br xmlns="http://www.w3.org/1999/xhtml"/>as a person and point that energy</p>
+      <p begin="00:29:21.306" end="00:29:23.878">in a direction that, you know, <br xmlns="http://www.w3.org/1999/xhtml"/>I'd say this most humbly</p>
+      <p begin="00:29:23.878" end="00:29:27.386">but and point that energy in a direction <br xmlns="http://www.w3.org/1999/xhtml"/>that can help the world,</p>
+      <p begin="00:29:27.386" end="00:29:29.959">then it's better than pointing it <br xmlns="http://www.w3.org/1999/xhtml"/>in another direction.</p>
+      <p begin="00:29:29.959" end="00:29:34.436">This is what the <span tts:fontStyle="italic">New York Times</span><br xmlns="http://www.w3.org/1999/xhtml"/>reporter says about the project at hand.</p>
+      <p begin="00:29:34.436" end="00:29:38.395">"It may seem at best like a scene from an <br xmlns="http://www.w3.org/1999/xhtml"/>old fashioned situation comedy,"</p>
+      <p begin="00:29:38.395" end="00:29:42.866">"and at worst, an ethically murky exercise <br xmlns="http://www.w3.org/1999/xhtml"/>in self-promotion."</p>
+      <p begin="00:29:42.866" end="00:29:46.431">So she wrote basically that <br xmlns="http://www.w3.org/1999/xhtml"/>the range of possibilities</p>
+      <p begin="00:29:46.431" end="00:29:50.081">was that it's bad or it's really bad.</p>
+      <p begin="00:29:50.081" end="00:29:51.322">
+        <span tts:fontStyle="italic">To a reader, it was really funny.</span>
+      </p>
+      <p begin="00:29:51.322" end="00:29:56.482">
+        <span tts:fontStyle="italic">From my point of view, it undermines <br/>the opportunity to cause people to think.</span>
+      </p>
+      <p begin="00:29:56.482" end="00:29:58.603">&#9834; [music] &#9834;</p>
+      <p begin="00:29:58.603" end="00:30:02.846">But if we called it "The year I lost <br xmlns="http://www.w3.org/1999/xhtml"/>20 pounds without going to the gym once"</p>
+      <p begin="00:30:02.846" end="00:30:08.467">or "The year we didn't watch TV and we <br xmlns="http://www.w3.org/1999/xhtml"/>became much better parents as a result."</p>
+      <p begin="00:30:08.467" end="00:30:11.946">Or if we called it "The year we ate <br xmlns="http://www.w3.org/1999/xhtml"/>locally and seasonally,</p>
+      <p begin="00:30:11.946" end="00:30:15.639">and it ended up reversing my wife's <br xmlns="http://www.w3.org/1999/xhtml"/>pre-diabetic condition."</p>
+      <p begin="00:30:15.639" end="00:30:20.425">There are actual benefits <br xmlns="http://www.w3.org/1999/xhtml"/>to living environmentally.</p>
+      <p begin="00:30:22.009" end="00:30:25.961">So this is the reader's opinions, right?</p>
+      <p begin="00:30:25.961" end="00:30:30.665">379 comments. Apparently <br xmlns="http://www.w3.org/1999/xhtml"/>it's a huge number of comments.</p>
+      <p begin="00:30:30.665" end="00:30:33.006">"Sacrifice now or sacrifice later. <br xmlns="http://www.w3.org/1999/xhtml"/>I'm already doing a lot</p>
+      <p begin="00:30:33.006" end="00:30:35.184">but plan to do a lot more."</p>
+      <p begin="00:30:35.184" end="00:30:39.129">And there's this one "I can't wait <br xmlns="http://www.w3.org/1999/xhtml"/>to wipe my ass with this book."</p>
+      <p begin="00:30:39.129" end="00:30:41.495">This one says "D. T. M. F. A Michelle"</p>
+      <p begin="00:30:41.495" end="00:30:47.650">which I'm guessing stands for <br xmlns="http://www.w3.org/1999/xhtml"/>"Dump The Mother Fucking Asshole."</p>
+      <p begin="00:30:47.650" end="00:30:53.541">Gawkers aside that kind of parodies <br xmlns="http://www.w3.org/1999/xhtml"/>and sends things up that are in the media.</p>
+      <p begin="00:30:53.541" end="00:30:56.184">"Colin quietly weeps on the toilet, <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:30:56.184" end="00:30:58.891">too moist to move and<br xmlns="http://www.w3.org/1999/xhtml"/>too proud too wipe."</p>
+      <p begin="00:30:58.891" end="00:31:00.328">[Laughs]</p>
+      <p begin="00:31:00.328" end="00:31:02.917">That was great but the comments, <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:31:02.917" end="00:31:05.118">my first impulse was <br xmlns="http://www.w3.org/1999/xhtml"/>to rake these people</p>
+      <p begin="00:31:05.118" end="00:31:09.226">with oozy fire while screaming <br xmlns="http://www.w3.org/1999/xhtml"/>"Is that enough impact for you?"</p>
+      <p begin="00:31:09.226" end="00:31:11.478">I started, I doubted myself <br xmlns="http://www.w3.org/1999/xhtml"/>for a little a while.</p>
+      <p begin="00:31:11.478" end="00:31:14.489">I go, "I think I'm something worthwhile <br xmlns="http://www.w3.org/1999/xhtml"/>but maybe I'm not."</p>
+      <p begin="00:31:14.489" end="00:31:16.444">Maybe one, it's philosophically wrong.</p>
+      <p begin="00:31:16.444" end="00:31:20.433">I've also got emails from some <br xmlns="http://www.w3.org/1999/xhtml"/>environmentalists that say,</p>
+      <p begin="00:31:20.433" end="00:31:23.042">
+        <span tts:fontStyle="italic">you know, "Crazy people like you<br/>give the rest of us a bad name."</span>
+      </p>
+      <p begin="00:31:23.042" end="00:31:29.616">Could I potentially be making <br xmlns="http://www.w3.org/1999/xhtml"/>completely the wrong decisions?</p>
+      <p begin="00:31:29.616" end="00:31:35.099">Yeah but you have to --<br xmlns="http://www.w3.org/1999/xhtml"/>I'm just trying, you know,</p>
+      <p begin="00:31:35.099" end="00:31:39.493">I will just try to ask myself, you know, <br xmlns="http://www.w3.org/1999/xhtml"/>to do what my conscience,</p>
+      <p begin="00:31:39.493" end="00:31:42.842">you know, I try to follow the dictates <br xmlns="http://www.w3.org/1999/xhtml"/>of my conscience.</p>
+      <p begin="00:31:42.842" end="00:31:47.616">[water running]</p>
+      <p begin="00:31:47.616" end="00:31:51.124">- I know that I can't back out now <br xmlns="http://www.w3.org/1999/xhtml"/>and I'm not gonna back out on you.</p>
+      <p begin="00:31:51.124" end="00:31:53.184">but it's making me not wanna do it.</p>
+      <p begin="00:31:53.184" end="00:31:56.676">- I think that its great, you know, <br xmlns="http://www.w3.org/1999/xhtml"/>if we've been reading</p>
+      <p begin="00:31:56.676" end="00:31:58.278">the blog and stuff like that.</p>
+      <p begin="00:31:58.278" end="00:32:01.824">- One person at work has come up <br xmlns="http://www.w3.org/1999/xhtml"/>who I really like. She's a friend of mine</p>
+      <p begin="00:32:01.824" end="00:32:05.088">but I guess, everywhere she goes <br xmlns="http://www.w3.org/1999/xhtml"/>people are talking about it.</p>
+      <p begin="00:32:05.088" end="00:32:08.505">Basically how we're <br xmlns="http://www.w3.org/1999/xhtml"/>bourgeois faux and crazy </p>
+      <p begin="00:32:08.505" end="00:32:12.162">and she spends all her time defending me.</p>
+      <p begin="00:32:12.162" end="00:32:13.610">but one guy, he said, </p>
+      <p begin="00:32:13.610" end="00:32:19.126">"My wife has instructed me to never ever <br xmlns="http://www.w3.org/1999/xhtml"/>shake your hand." </p>
+      <p begin="00:32:19.126" end="00:32:24.844">and she went on all night <br xmlns="http://www.w3.org/1999/xhtml"/>about the hygiene and...</p>
+      <p begin="00:32:24.844" end="00:32:29.125">I understand why people would criticize <br xmlns="http://www.w3.org/1999/xhtml"/>if ever. I just don't get why they hate us.</p>
+      <p begin="00:32:29.125" end="00:32:30.271">- Babe, that's -- I don't think they hate us.</p>
+      <p begin="00:32:30.271" end="00:32:31.783">- Look at that!</p>
+      <p begin="00:32:35.415" end="00:32:38.885">- Completely coincidentally, <br xmlns="http://www.w3.org/1999/xhtml"/>Colin and I were invited to brunch</p>
+      <p begin="00:32:38.885" end="00:32:43.867"> by this woman, Carrie because <br xmlns="http://www.w3.org/1999/xhtml"/>she's a food writer.</p>
+      <p begin="00:32:43.867" end="00:32:50.950">and it turns out at the end of the brunch<br xmlns="http://www.w3.org/1999/xhtml"/>that I discover that she comes clean</p>
+      <p begin="00:32:50.950" end="00:32:54.814">with the fact that she had <br xmlns="http://www.w3.org/1999/xhtml"/>written negatively about us</p>
+      <p begin="00:32:54.814" end="00:32:57.671">and had been one of <br xmlns="http://www.w3.org/1999/xhtml"/>our haters on the web.</p>
+      <p begin="00:32:57.671" end="00:32:59.762">She claims that she's changed <br xmlns="http://www.w3.org/1999/xhtml"/>her mind about us.</p>
+      <p begin="00:32:59.762" end="00:33:00.818">I don't know.</p>
+      <p begin="00:33:00.818" end="00:33:02.371">- [Kerry Trueman] Alright. Let me see <br xmlns="http://www.w3.org/1999/xhtml"/>if I can pull this up.</p>
+      <p begin="00:33:02.371" end="00:33:03.932">"I have been dreading this moment.</p>
+      <p begin="00:33:03.932" end="00:33:05.206">I was afraid you were gonna ask."</p>
+      <p begin="00:33:05.206" end="00:33:06.442">[Michelle laughing]</p>
+      <p begin="00:33:06.442" end="00:33:07.643">- You're sport.</p>
+      <p begin="00:33:07.643" end="00:33:08.536">- Oh God!</p>
+      <p begin="00:33:08.536" end="00:33:11.228">"<span tts:fontStyle="italic">No Impact Man</span> is in fact having an impact</p>
+      <p begin="00:33:11.228" end="00:33:13.236">but probably not the one he intended.</p>
+      <p begin="00:33:13.236" end="00:33:15.362">Once upon a time, virtue was its own reward.</p>
+      <p begin="00:33:15.362" end="00:33:19.727">Now, a vow of voluntary simplicity <br xmlns="http://www.w3.org/1999/xhtml"/>is just another entrepreneurial enterprise.</p>
+      <p begin="00:33:19.727" end="00:33:22.789">The fact that <span tts:fontStyle="italic">No Impact Man</span>'s <br xmlns="http://www.w3.org/1999/xhtml"/>ostentatious embrace of all things organic</p>
+      <p begin="00:33:22.804" end="00:33:26.453">did not come about in, well, an organic <br xmlns="http://www.w3.org/1999/xhtml"/>fashion is what bothers me.</p>
+      <p begin="00:33:26.453" end="00:33:30.076">While <span tts:fontStyle="italic">No Impact Man</span> runs around <br xmlns="http://www.w3.org/1999/xhtml"/>air drying his ass for posterity,</p>
+      <p begin="00:33:30.076" end="00:33:33.430">less flamboyant folks are leading lives <br xmlns="http://www.w3.org/1999/xhtml"/>of quiet inspiration."</p>
+      <p begin="00:33:34.690" end="00:33:36.390">[exhales loudly]</p>
+      <p begin="00:33:36.390" end="00:33:38.213">I questioned his sincerity and his motives.</p>
+      <p begin="00:33:38.213" end="00:33:38.578">- Yes.</p>
+      <p begin="00:33:38.578" end="00:33:44.411">- And there was <span tts:fontStyle="italic">G Willickers</span> quality <br xmlns="http://www.w3.org/1999/xhtml"/>to the post that rubbed me the wrong way.</p>
+      <p begin="00:33:44.411" end="00:33:52.177">- Your criticism in the context of the criticism <br xmlns="http://www.w3.org/1999/xhtml"/>is very, very, very, very mild</p>
+      <p begin="00:33:52.177" end="00:33:55.808">I didn't quite get why people hated us <br xmlns="http://www.w3.org/1999/xhtml"/>or why it was such a...</p>
+      <p begin="00:33:55.808" end="00:33:56.644">- I have a theory.</p>
+      <p begin="00:33:56.644" end="00:33:57.561">- I didn't quite get it.</p>
+      <p begin="00:33:57.561" end="00:34:01.780">- Based on my own experience with <br xmlns="http://www.w3.org/1999/xhtml"/>this kind of thing, too much is said</p>
+      <p begin="00:34:01.780" end="00:34:05.701">but I think that a lot of this <br xmlns="http://www.w3.org/1999/xhtml"/>really touches a nerve for people.</p>
+      <p begin="00:34:05.701" end="00:34:08.333">Aside from making people feel guilty <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:34:08.333" end="00:34:12.969">and defensive about <br xmlns="http://www.w3.org/1999/xhtml"/>their consumer habits.</p>
+      <p begin="00:34:12.969" end="00:34:16.474">People are very traumatized <br xmlns="http://www.w3.org/1999/xhtml"/>if you suggest</p>
+      <p begin="00:34:16.474" end="00:34:19.422">that they should make do <br xmlns="http://www.w3.org/1999/xhtml"/>without something.</p>
+      <p begin="00:34:19.422" end="00:34:22.300">If they have the notion of...</p>
+      <p begin="00:34:22.300" end="00:34:23.809">- The notion of "I need it!"</p>
+      <p begin="00:34:23.809" end="00:34:26.030">- Going without, yeah! I need this..<br xmlns="http://www.w3.org/1999/xhtml"/>- But I need it.</p>
+      <p begin="00:34:26.030" end="00:34:29.241">- or I" don't need it but I want it and <br xmlns="http://www.w3.org/1999/xhtml"/>why shouldn't I have it."</p>
+      <p begin="00:34:29.241" end="00:34:32.461">This is being a good American.</p>
+      <p begin="00:34:32.461" end="00:34:55.750">&#9834; [music] &#9834;</p>
+      <p begin="00:34:55.750" end="00:34:59.348">
+        <span tts:fontStyle="italic">- [Colin] Part of local food is about <br/>connecting with the way the food is grown.</span>
+      </p>
+      <p begin="00:34:59.348" end="00:35:02.567">
+        <span tts:fontStyle="italic">So, I talked to the local <br/>community garden and the waiting list</span>
+      </p>
+      <p begin="00:35:02.567" end="00:35:05.327">
+        <span tts:fontStyle="italic">for having your own plot is long,<br/>like years and years.</span>
+      </p>
+      <p begin="00:35:05.327" end="00:35:08.379">
+        <span tts:fontStyle="italic">But it turns out that there is only <br/>one person in that community garden</span>
+      </p>
+      <p begin="00:35:08.379" end="00:35:09.612">
+        <span tts:fontStyle="italic">who grows vegetables.</span>
+      </p>
+      <p begin="00:35:09.612" end="00:35:11.010">
+        <span tts:fontStyle="italic">Everybody else grows flowers.</span>
+      </p>
+      <p begin="00:35:11.010" end="00:35:15.403">And he was actually willing to take me on<br xmlns="http://www.w3.org/1999/xhtml"/>and to mentor me.</p>
+      <p begin="00:35:15.403" end="00:35:16.997">- [Meyer] You're gonna help us <br xmlns="http://www.w3.org/1999/xhtml"/>in the garden?</p>
+      <p begin="00:35:16.997" end="00:35:18.464">- Yeah!</p>
+      <p begin="00:35:18.464" end="00:35:19.924">- You wanna grow things?</p>
+      <p begin="00:35:19.924" end="00:35:21.834">- That's my friend, Meyer.</p>
+      <p begin="00:35:21.834" end="00:35:24.933">Be careful. That's a rose bush. <br xmlns="http://www.w3.org/1999/xhtml"/>That has thorns.</p>
+      <p begin="00:35:24.933" end="00:35:26.520">- [Meyer] See that's really pokey.<br xmlns="http://www.w3.org/1999/xhtml"/>- [Colin] Sharp things.</p>
+      <p begin="00:35:28.442" end="00:35:31.618">- Let's talk about what we <br xmlns="http://www.w3.org/1999/xhtml"/>hope to do today.</p>
+      <p begin="00:35:31.618" end="00:35:32.678">
+        <span tts:fontStyle="italic">- Yeah.</span>
+      </p>
+      <p begin="00:35:32.678" end="00:35:35.640">- This little plot is gonna be parsley.</p>
+      <p begin="00:35:35.640" end="00:35:39.913">Just kind of broadcast it <br xmlns="http://www.w3.org/1999/xhtml"/>over this rectangle </p>
+      <p begin="00:35:39.913" end="00:35:44.497">and cover it to the depth that it says to <br xmlns="http://www.w3.org/1999/xhtml"/>and wherever else.</p>
+      <p begin="00:35:44.497" end="00:35:48.199">&#9834; [music] &#9834;</p>
+      <p begin="00:35:48.199" end="00:35:50.494">- Let me tell you what I'm doing, lovey?</p>
+      <p begin="00:35:50.494" end="00:35:53.585">We're gonna put some plants in there <br xmlns="http://www.w3.org/1999/xhtml"/>so we're breaking up the soils</p>
+      <p begin="00:35:53.585" end="00:35:55.379">so that the plants can grow.</p>
+      <p begin="00:35:55.379" end="00:35:57.793">
+        <span tts:fontStyle="italic">I thought gardening was supposed<br/>to be hard work, Meyer?</span>
+      </p>
+      <p begin="00:35:57.793" end="00:36:01.129">- It is! I did a lot of the most <br xmlns="http://www.w3.org/1999/xhtml"/>labor intensive...</p>
+      <p begin="00:36:01.476" end="00:36:02.879">
+        <span tts:fontStyle="italic">- When you spread the manure?</span>
+      </p>
+      <p begin="00:36:02.879" end="00:36:03.445">- Yeah!</p>
+      <p begin="00:36:03.445" end="00:36:04.181">
+        <span tts:fontStyle="italic">- Right.</span>
+      </p>
+      <p begin="00:36:04.181" end="00:36:07.215">- When I dug the whole <br xmlns="http://www.w3.org/1999/xhtml"/>fucking place up last fall.</p>
+      <p begin="00:36:07.215" end="00:36:12.096">- I'm taking these seeds, right, <br xmlns="http://www.w3.org/1999/xhtml"/>and I'm gonna put them in the ground.</p>
+      <p begin="00:36:12.096" end="00:36:16.678">Meyer, we're going to go spend <br xmlns="http://www.w3.org/1999/xhtml"/>four days up at Hawthorne Valley Farm.</p>
+      <p begin="00:36:16.678" end="00:36:19.599">- That whole thing is, is that everything <br xmlns="http://www.w3.org/1999/xhtml"/>on the farm is recycled.</p>
+      <p begin="00:36:19.599" end="00:36:20.446">
+        <span tts:fontStyle="italic">- Yes!</span>
+      </p>
+      <p begin="00:36:20.446" end="00:36:21.723">- It's all self-contained.</p>
+      <p begin="00:36:21.723" end="00:36:22.403">- Yes!</p>
+      <p begin="00:36:22.403" end="00:36:23.077">
+        <span tts:fontStyle="italic">- Very good.</span>
+      </p>
+      <p begin="00:36:23.077" end="00:36:26.160">- I called them up and the whole family - <br xmlns="http://www.w3.org/1999/xhtml"/>me and Isabella and Michelle,</p>
+    </div>
+    <div>
+      <p begin="00:36:26.160" end="00:36:27.788">it's kind of, gonna be our holiday.</p>
+      <p begin="00:36:27.788" end="00:36:28.889">
+        <span tts:fontStyle="italic">- That's nice!</span>
+      </p>
+      <p begin="00:36:28.889" end="00:36:30.222">- Yeah.</p>
+      <p begin="00:36:30.222" end="00:36:41.132">&#9834; [music] &#9834;</p>
+      <p begin="00:36:41.132" end="00:36:44.504">
+        <span tts:fontStyle="italic">- [Michelle] I feel like we should talk<br/>about having another kid.</span>
+      </p>
+      <p begin="00:36:44.504" end="00:36:46.641">
+        <span tts:fontStyle="italic">- [Colin] Uh-huh.</span>
+      </p>
+      <p begin="00:36:48.332" end="00:36:51.398">- But I know that you don't want another kid</p>
+      <p begin="00:36:51.398" end="00:36:57.426">so I feel like that means we're probably <br xmlns="http://www.w3.org/1999/xhtml"/>not gonna have another kid.</p>
+      <p begin="00:36:59.195" end="00:37:01.356">- Umm,</p>
+      <p begin="00:37:02.620" end="00:37:05.852">
+        <span tts:fontStyle="italic">When we had Isabella, I felt like <br/>you really wanted a baby</span>
+      </p>
+      <p begin="00:37:05.852" end="00:37:08.517">and what I wanted from my life <br xmlns="http://www.w3.org/1999/xhtml"/>had account, you know.</p>
+      <p begin="00:37:08.517" end="00:37:10.992">Like I just couldn't keep that from you,</p>
+      <p begin="00:37:10.992" end="00:37:13.487">
+        <span tts:fontStyle="italic">and I was willing to take the leap <br/>with you from that</span>
+      </p>
+      <p begin="00:37:13.487" end="00:37:16.639">because I felt like, I thought it's funny <br xmlns="http://www.w3.org/1999/xhtml"/>because we have this history</p>
+      <p begin="00:37:16.659" end="00:37:18.307">like I was scared to get married, too</p>
+      <p begin="00:37:18.307" end="00:37:20.765">and I would say to you, <br xmlns="http://www.w3.org/1999/xhtml"/>"Are we doing the right thing?"</p>
+      <p begin="00:37:20.765" end="00:37:23.270">and you said "Yes, "<br xmlns="http://www.w3.org/1999/xhtml"/>and I trust in the guidance --</p>
+      <p begin="00:37:23.270" end="00:37:26.831">I trusted you and for me <br xmlns="http://www.w3.org/1999/xhtml"/>it's totally the right thing.</p>
+      <p begin="00:37:26.877" end="00:37:29.336">But when I think about <br xmlns="http://www.w3.org/1999/xhtml"/>having a second child,</p>
+      <p begin="00:37:29.336" end="00:37:30.310">
+        <span tts:fontStyle="italic">- Uh-huh.</span>
+      </p>
+      <p begin="00:37:30.310" end="00:37:35.972">Like whose career's that's gonna get, <br xmlns="http://www.w3.org/1999/xhtml"/>whose works are gonna get sidelined?</p>
+      <p begin="00:37:35.972" end="00:37:38.275">'Cause like your like totally <br xmlns="http://www.w3.org/1999/xhtml"/>running high at work.</p>
+      <p begin="00:37:38.275" end="00:37:41.695">If we were to have a second child, <br xmlns="http://www.w3.org/1999/xhtml"/>are you willing to give up that work?</p>
+      <p begin="00:37:41.695" end="00:37:45.552">- I don't have to, that's so -- <br xmlns="http://www.w3.org/1999/xhtml"/>that's like I don't have to give up</p>
+      <p begin="00:37:45.552" end="00:37:48.087">my job to have a second child.</p>
+      <p begin="00:37:48.457" end="00:37:50.863">I don't know why you're bringing --<br xmlns="http://www.w3.org/1999/xhtml"/>I don't really feel like my work</p>
+      <p begin="00:37:50.863" end="00:37:54.093">has anything to do with it, really.</p>
+      <p begin="00:37:54.093" end="00:37:57.667">- It does, because the point is like</p>
+      <p begin="00:37:57.667" end="00:38:00.637">I wanna know if we were to have <br xmlns="http://www.w3.org/1999/xhtml"/>a second child, right?</p>
+      <p begin="00:38:00.637" end="00:38:04.558">I don't particularly want a sec -- <br xmlns="http://www.w3.org/1999/xhtml"/>I don't want a second child, right?</p>
+      <p begin="00:38:04.558" end="00:38:08.016">But before we even <br xmlns="http://www.w3.org/1999/xhtml"/>begin to consider it-</p>
+      <p begin="00:38:08.016" end="00:38:10.440">there is not much flexibility <br xmlns="http://www.w3.org/1999/xhtml"/>in our schedules, right?</p>
+      <p begin="00:38:10.440" end="00:38:14.995">So what I'm asking you is where <br xmlns="http://www.w3.org/1999/xhtml"/>is the flexibility gonna come from?</p>
+      <p begin="00:38:14.995" end="00:38:17.753">- It will come from me!</p>
+      <p begin="00:38:25.976" end="00:38:27.652">[door closes]</p>
+      <p begin="00:38:30.405" end="00:38:31.510">- Okay. </p>
+      <p begin="00:38:31.510" end="00:38:34.171">I'll collect all the cleaning products<br xmlns="http://www.w3.org/1999/xhtml"/>we have in the house already.</p>
+      <p begin="00:38:34.387" end="00:38:37.221">Standard cleaning products <br xmlns="http://www.w3.org/1999/xhtml"/>contain all sorts of chemicals</p>
+      <p begin="00:38:37.221" end="00:38:38.567">that aren't good for us.<br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:38:38.567" end="00:38:40.055">and they're not good for the <br xmlns="http://www.w3.org/1999/xhtml"/>environment either</p>
+      <p begin="00:38:40.055" end="00:38:44.978">and they end up getting flushed down <br xmlns="http://www.w3.org/1999/xhtml"/>or drained and into the water supply.</p>
+      <p begin="00:38:44.978" end="00:38:50.370">What were looking at here are a lot <br xmlns="http://www.w3.org/1999/xhtml"/>of things that are marketed</p>
+      <p begin="00:38:50.370" end="00:38:55.696">as natural and not harming <br xmlns="http://www.w3.org/1999/xhtml"/>the environment already</p>
+      <p begin="00:38:55.696" end="00:38:59.113">because we've been <br xmlns="http://www.w3.org/1999/xhtml"/>on the project for a while now.</p>
+      <p begin="00:38:59.113" end="00:39:01.938">They do not allow you <br xmlns="http://www.w3.org/1999/xhtml"/>to refill the bottles</p>
+      <p begin="00:39:01.938" end="00:39:05.880">and for the purpose of this product, <br xmlns="http://www.w3.org/1999/xhtml"/>we don't use disposable products</p>
+      <p begin="00:39:05.880" end="00:39:08.157">and people say, <br xmlns="http://www.w3.org/1999/xhtml"/>"Well, what about recycling?"</p>
+      <p begin="00:39:08.157" end="00:39:13.206">But the fact of the matter is that <br xmlns="http://www.w3.org/1999/xhtml"/>plastic recycling is not as good</p>
+      <p begin="00:39:13.206" end="00:39:14.412">as it's made out to be.</p>
+      <p begin="00:39:14.412" end="00:39:17.515">It's better than nothing <br xmlns="http://www.w3.org/1999/xhtml"/>but it's still not perfect.</p>
+      <p begin="00:39:17.515" end="00:39:20.631">So, the people call it "down cycling" <br xmlns="http://www.w3.org/1999/xhtml"/>rather than recycling</p>
+      <p begin="00:39:20.631" end="00:39:24.853">because it goes down in quality <br xmlns="http://www.w3.org/1999/xhtml"/>everytime and then becomes toxic.</p>
+      <p begin="00:39:24.853" end="00:39:28.877">As we've been running out of stuff, <br xmlns="http://www.w3.org/1999/xhtml"/>I've had - we've saved the empty bottles</p>
+      <p begin="00:39:28.877" end="00:39:34.100">so we that we can put our homemade<br xmlns="http://www.w3.org/1999/xhtml"/>cleaning products in the empty bottles.</p>
+      <p begin="00:39:34.997" end="00:39:36.907">All our cleaning products <br xmlns="http://www.w3.org/1999/xhtml"/>can be made from these things.</p>
+      <p begin="00:39:36.907" end="00:39:44.829">White vinegar, baking soda, <br xmlns="http://www.w3.org/1999/xhtml"/>Castile soap and Borax.</p>
+      <p begin="00:39:44.829" end="00:39:49.479">[water flowing]</p>
+      <p begin="00:39:49.479" end="00:39:50.983">I don't know. How do you tell<br xmlns="http://www.w3.org/1999/xhtml"/>if its really clean?</p>
+      <p begin="00:39:50.983" end="00:39:54.087">It feels like it's, you know, it feels <br xmlns="http://www.w3.org/1999/xhtml"/>the same as when we're using</p>
+      <p begin="00:39:54.087" end="00:39:56.600">a regular cleaner.</p>
+      <p begin="00:40:03.539" end="00:40:04.928">Hey Poop, you know what <br xmlns="http://www.w3.org/1999/xhtml"/>I'm doing right now, right?</p>
+      <p begin="00:40:04.928" end="00:40:07.323">I'm getting rid of all the cosmetics.</p>
+      <p begin="00:40:07.323" end="00:40:08.584">- My cosmetics?</p>
+      <p begin="00:40:08.584" end="00:40:10.043">Well, aren't we supposed to do that?</p>
+      <p begin="00:40:10.043" end="00:40:12.069">- Oh, you mean my make up and stuff?</p>
+      <p begin="00:40:12.069" end="00:40:15.746">- Well, I thought so but I don't know. <br xmlns="http://www.w3.org/1999/xhtml"/>What are you doing about your make up?</p>
+      <p begin="00:40:15.746" end="00:40:18.134">- What are you doing, you're just gonna<br xmlns="http://www.w3.org/1999/xhtml"/>throw all that stuff out?</p>
+      <p begin="00:40:18.134" end="00:40:19.084">- Well, I'm not. I wasn't gonna throw it out.</p>
+      <p begin="00:40:19.084" end="00:40:22.192">I was just gonna put it in this box, <br xmlns="http://www.w3.org/1999/xhtml"/>till the year is over.</p>
+      <p begin="00:40:23.052" end="00:40:25.838">- Okay. Just let me know.</p>
+      <p begin="00:40:26.327" end="00:40:28.324">[Colin Laughs]</p>
+      <p begin="00:40:28.384" end="00:40:33.658">- I can't just put all this stuff in this box. <br xmlns="http://www.w3.org/1999/xhtml"/>Can you help me?</p>
+      <p begin="00:40:38.393" end="00:40:40.368">[bottles clattering]</p>
+      <p begin="00:40:44.948" end="00:40:46.428">- Honey!</p>
+      <p begin="00:40:46.428" end="00:40:47.034">- Yeah?</p>
+      <p begin="00:40:47.034" end="00:40:50.576">- Leave that bottle that says "Fresh" on it. <br xmlns="http://www.w3.org/1999/xhtml"/>Just, I'll take care of it.</p>
+      <p begin="00:40:50.576" end="00:40:53.154">- I already left that for you.</p>
+      <p begin="00:40:55.199" end="00:40:57.912">- Here empty.</p>
+      <p begin="00:40:57.912" end="00:40:59.290">- I know, I need that.</p>
+      <p begin="00:40:59.290" end="00:40:59.835">[Isabella talking]</p>
+      <p begin="00:40:59.835" end="00:41:01.318">- Because you know what I wanna do? <br xmlns="http://www.w3.org/1999/xhtml"/>I'm gonna make shampoo</p>
+      <p begin="00:41:01.318" end="00:41:03.438">and put it in there.</p>
+      <p begin="00:41:06.788" end="00:41:08.979">A few days ago, I blogged about the fact</p>
+      <p begin="00:41:08.979" end="00:41:10.885">that we were getting rid of the electricity</p>
+      <p begin="00:41:10.885" end="00:41:13.090">I asked for suggestions and I gave <br xmlns="http://www.w3.org/1999/xhtml"/>a list of all the things</p>
+      <p begin="00:41:13.090" end="00:41:17.738">I needed help with and <br xmlns="http://www.w3.org/1999/xhtml"/>one of the things was laundry.</p>
+      <p begin="00:41:17.738" end="00:41:21.265">Somebody e-mailed me and said that<br xmlns="http://www.w3.org/1999/xhtml"/>they used to do their laundry in the bathtub</p>
+      <p begin="00:41:21.265" end="00:41:24.457">and they would just walk on it <br xmlns="http://www.w3.org/1999/xhtml"/>and that sounded good to me.</p>
+      <p begin="00:41:24.472" end="00:41:25.701">[water splashing] <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:41:25.701" end="00:41:27.289">[Isabella talking]</p>
+      <p begin="00:41:27.289" end="00:41:28.935">You wanna do it too?</p>
+      <p begin="00:41:28.935" end="00:41:32.650">[water splashing] </p>
+      <p begin="00:41:32.650" end="00:41:34.521">Now we go backwards.</p>
+      <p begin="00:41:34.521" end="00:41:35.698">[Laughs]</p>
+      <p begin="00:41:35.698" end="00:41:37.223">Mom!</p>
+      <p begin="00:41:37.223" end="00:41:38.234">[Isabella talking]</p>
+      <p begin="00:41:38.234" end="00:41:39.362">We're doing the laundry.</p>
+      <p begin="00:41:39.362" end="00:41:41.404">- I wanna do it myself.</p>
+      <p begin="00:41:41.404" end="00:41:46.681">You wanna do it yourself? But I'm worried <br xmlns="http://www.w3.org/1999/xhtml"/>you'll fall over. Don't fall over.</p>
+      <p begin="00:41:46.681" end="00:41:49.156">- Is it, what, what are you cleaning <br xmlns="http://www.w3.org/1999/xhtml"/>clothes with?</p>
+      <p begin="00:41:49.156" end="00:41:52.844">- You know, Cast -- Oh! I told you not to fall.</p>
+      <p begin="00:41:52.844" end="00:41:54.259">[Laughs]</p>
+      <p begin="00:41:54.259" end="00:41:55.152">I told you not to fall.</p>
+      <p begin="00:41:55.152" end="00:41:56.435">- Honey, what is in there?</p>
+      <p begin="00:41:56.435" end="00:41:57.950">- Castile soap and Borax.</p>
+      <p begin="00:41:57.950" end="00:41:59.427">- What's Borax?</p>
+      <p begin="00:41:59.427" end="00:42:02.984">- It's natural. It's all natural laundry stuff. <br xmlns="http://www.w3.org/1999/xhtml"/>You wanna get in?</p>
+      <p begin="00:42:02.984" end="00:42:05.137">- Yeah.</p>
+      <p begin="00:42:05.137" end="00:42:07.126">[Laughs]</p>
+      <p begin="00:42:07.126" end="00:42:08.145">
+        <span tts:fontStyle="italic">- [Isabella] I'm doing the laundry.</span>
+      </p>
+      <p begin="00:42:08.145" end="00:42:10.038">- You're doing the laundry. </p>
+      <p begin="00:42:10.715" end="00:42:12.879">In college, she's gonna be like...</p>
+      <p begin="00:42:12.879" end="00:42:14.253">[Michelle laughing]</p>
+      <p begin="00:42:14.253" end="00:42:16.293">- [Gasps] Oh, you made the water so cold!</p>
+      <p begin="00:42:16.293" end="00:42:17.968">- Well, they've been soaking<br xmlns="http://www.w3.org/1999/xhtml"/>for three hours.</p>
+      <p begin="00:42:17.968" end="00:42:20.311">- Well, this isn't fun.</p>
+      <p begin="00:42:20.311" end="00:42:23.019">- Come on! It's like crushing grapes.</p>
+      <p begin="00:42:23.019" end="00:42:24.908">Come on, get it clean, kids.</p>
+      <p begin="00:42:24.908" end="00:42:26.911">Uh-oh I think she's in troublesome.</p>
+      <p begin="00:42:26.911" end="00:42:28.370">- Troublesome? Why?</p>
+      <p begin="00:42:28.370" end="00:42:30.890">She's only looking for trouble.</p>
+      <p begin="00:42:30.890" end="00:42:31.995">
+        <span tts:fontStyle="italic">- [Isabella] Laundry!</span>
+      </p>
+      <p begin="00:42:31.995" end="00:42:35.574">- [Together] We're all doing a laundry!</p>
+      <p begin="00:42:35.574" end="00:42:41.862">&#9834; [music] &#9834;</p>
+      <p begin="00:42:41.862" end="00:42:44.431">- [TV Host] Some of your friends <br xmlns="http://www.w3.org/1999/xhtml"/>think you're insane. </p>
+      <p begin="00:42:44.431" end="00:42:45.855">[Colin laughing]</p>
+      <p begin="00:42:45.855" end="00:42:48.557">- And I'm trying to imagine <br xmlns="http://www.w3.org/1999/xhtml"/>when they come over for supper</p>
+      <p begin="00:42:48.557" end="00:42:53.069">at your house for parsnips or whatever<br xmlns="http://www.w3.org/1999/xhtml"/>it is you have lying around.</p>
+      <p begin="00:42:53.324" end="00:42:57.880">What do your friends say about this?<br xmlns="http://www.w3.org/1999/xhtml"/>With no napkins and no toilet paper,</p>
+      <p begin="00:42:57.880" end="00:42:59.781">could you do it?</p>
+      <p begin="00:42:59.781" end="00:43:01.764">[audience laughs]</p>
+      <p begin="00:43:01.764" end="00:43:04.252">- Nobody has to do what I do. <br xmlns="http://www.w3.org/1999/xhtml"/>That's not the important thing.</p>
+      <p begin="00:43:04.252" end="00:43:06.940">What I'm doing, it brings attention <br xmlns="http://www.w3.org/1999/xhtml"/>to the issue but all of us</p>
+      <p begin="00:43:06.940" end="00:43:08.573">should just learn to do what we can do.</p>
+      <p begin="00:43:08.573" end="00:43:09.875">- You're now, what, <br xmlns="http://www.w3.org/1999/xhtml"/>five and a half months in,</p>
+      <p begin="00:43:09.875" end="00:43:12.599">next step is to get rid of the electricity</p>
+      <p begin="00:43:12.599" end="00:43:15.561">and live by daylight alone, <br xmlns="http://www.w3.org/1999/xhtml"/>in New York City?</p>
+      <p begin="00:43:15.561" end="00:43:17.527">- Saturday, there's a switch in my <br xmlns="http://www.w3.org/1999/xhtml"/>apartment </p>
+      <p begin="00:43:17.527" end="00:43:19.385">which is the circuit breaker <br xmlns="http://www.w3.org/1999/xhtml"/>for the whole apartment.</p>
+      <p begin="00:43:19.385" end="00:43:23.325">We're having a little party for our friends <br xmlns="http://www.w3.org/1999/xhtml"/>and we're gonna click the switch off.</p>
+      <p begin="00:43:23.325" end="00:43:24.128">So yeah.</p>
+      <p begin="00:43:24.128" end="00:43:25.375">- Well, we should let everybody know.</p>
+      <p begin="00:43:25.375" end="00:43:28.982">We're gonna be following Colin <br xmlns="http://www.w3.org/1999/xhtml"/>throughout this long year.</p>
+      <p begin="00:43:28.982" end="00:43:33.245">&#9834; [music] &#9834;</p>
+      <p begin="00:43:33.245" end="00:43:36.837">
+        <span tts:fontStyle="italic">- [Colin] I was gonna get some spinach <br/>but now that the electricity is going off,</span>
+      </p>
+      <p begin="00:43:36.837" end="00:43:38.831">I realize that I can't buy a lot of stuff.</p>
+      <p begin="00:43:38.831" end="00:43:41.522">I got to just buy for the next couple of days</p>
+      <p begin="00:43:41.522" end="00:43:43.801">because other than that,<br xmlns="http://www.w3.org/1999/xhtml"/>everything will just spoil.</p>
+      <p begin="00:43:43.801" end="00:43:56.443">&#9834; [music] &#9834;</p>
+      <p begin="00:43:56.443" end="00:43:58.129">- Tonight we're switching off <br xmlns="http://www.w3.org/1999/xhtml"/>the electricity</p>
+      <p begin="00:43:58.129" end="00:44:00.765">and I haven't really thought about it</p>
+      <p begin="00:44:00.765" end="00:44:06.715">but I actually feel we're moving<br xmlns="http://www.w3.org/1999/xhtml"/>into the sixth month</p>
+      <p begin="00:44:06.715" end="00:44:08.963">and I'm starting to really get <br xmlns="http://www.w3.org/1999/xhtml"/>into the dividends</p>
+      <p begin="00:44:08.963" end="00:44:12.263">and the benefits are really starting <br xmlns="http://www.w3.org/1999/xhtml"/>to pour in so I'm actually kind of excited.</p>
+      <p begin="00:44:12.263" end="00:44:15.038">but I'm sure that, you know, <br xmlns="http://www.w3.org/1999/xhtml"/>talk to me in a day </p>
+      <p begin="00:44:15.038" end="00:44:16.697">and I might be just miserable.</p>
+      <p begin="00:44:16.697" end="00:44:18.718">Let's just talk a little bit about <br xmlns="http://www.w3.org/1999/xhtml"/>what it's gonna be like.</p>
+      <p begin="00:44:18.718" end="00:44:20.846">- Well, there's gonna be <br xmlns="http://www.w3.org/1999/xhtml"/>a transition period.</p>
+      <p begin="00:44:20.846" end="00:44:22.972">That's hard, like everything else.</p>
+      <p begin="00:44:22.972" end="00:44:34.431">&#9834; [music] &#9834;</p>
+      <p begin="00:44:34.431" end="00:44:35.447">- Hi.</p>
+      <p begin="00:44:35.447" end="00:44:37.003">- Hi Gracie!</p>
+      <p begin="00:44:37.003" end="00:44:38.646">- How are you?</p>
+      <p begin="00:44:38.646" end="00:44:38.647">- Hi.</p>
+      <p begin="00:44:38.647" end="00:44:40.117">- How is it going?<br xmlns="http://www.w3.org/1999/xhtml"/>- Good.</p>
+      <p begin="00:44:40.117" end="00:44:41.753">- Hi! How are you?</p>
+      <p begin="00:44:41.753" end="00:44:45.511">- [Male Visitor] Consumer recycling <br xmlns="http://www.w3.org/1999/xhtml"/>material help us help the planet.</p>
+      <p begin="00:44:45.511" end="00:44:46.800">Is that all good enough?</p>
+      <p begin="00:44:46.800" end="00:44:48.850">[Laughter]</p>
+      <p begin="00:44:49.534" end="00:44:51.700">[people chattering]</p>
+      <p begin="00:44:51.700" end="00:44:52.807">- [Lady Guest] The disposable cup.</p>
+      <p begin="00:44:52.807" end="00:44:53.474">- [Male Guest] Yes.</p>
+      <p begin="00:44:53.474" end="00:44:59.125">- Non-recycable cup and then jacket <br xmlns="http://www.w3.org/1999/xhtml"/>and then you have two cups in fact</p>
+      <p begin="00:44:59.125" end="00:45:00.271">that looks like it.</p>
+      <p begin="00:45:00.271" end="00:45:01.551">You've broken every rule.</p>
+      <p begin="00:45:01.551" end="00:45:02.486">- Okay.</p>
+      <p begin="00:45:04.342" end="00:45:06.775">
+        <span tts:fontStyle="italic">- [Michelle] Have you guys seen <br/>our new refrigerator?</span>
+      </p>
+      <p begin="00:45:06.775" end="00:45:07.888">
+        <span tts:fontStyle="italic">You want one, don't you?</span>
+      </p>
+      <p begin="00:45:07.888" end="00:45:08.541">
+        <span tts:fontStyle="italic">- Female Guest] Yeah.</span>
+      </p>
+      <p begin="00:45:08.541" end="00:45:10.608">- What's the story?</p>
+      <p begin="00:45:10.608" end="00:45:11.680">What's its called?</p>
+      <p begin="00:45:11.680" end="00:45:12.919">- [Colin] Its called a "Pot on Pot"</p>
+      <p begin="00:45:12.919" end="00:45:19.485">It's invented for use in Nigeria <br xmlns="http://www.w3.org/1999/xhtml"/>and the idea is that the water evaporates</p>
+      <p begin="00:45:19.485" end="00:45:23.628">from the -- the sand in between the <br xmlns="http://www.w3.org/1999/xhtml"/>two pots is wet and the water evaporates.</p>
+      <p begin="00:45:23.628" end="00:45:24.300">
+        <span tts:fontStyle="italic">- [Lady Guest] Okay.</span>
+      </p>
+      <p begin="00:45:24.300" end="00:45:27.226">- and the energy of the evaporation <br xmlns="http://www.w3.org/1999/xhtml"/>is taken from the inner pot </p>
+      <p begin="00:45:27.226" end="00:45:32.607">which causes it to cool down <br xmlns="http://www.w3.org/1999/xhtml"/>and for example, a tomato </p>
+      <p begin="00:45:32.607" end="00:45:36.336">which would only last in Nigeria<br xmlns="http://www.w3.org/1999/xhtml"/>two days after picking,</p>
+      <p begin="00:45:36.336" end="00:45:38.109">
+        <span tts:fontStyle="italic">in this thing would last three weeks.</span>
+      </p>
+      <p begin="00:45:38.144" end="00:45:39.020">
+        <span tts:fontStyle="italic">- [Michelle] Right.</span>
+      </p>
+      <p begin="00:45:39.020" end="00:45:40.581">
+        <span tts:fontStyle="italic">- [Colin] And there's a glass <br/>of water in there right now</span>
+      </p>
+      <p begin="00:45:40.581" end="00:45:42.466">so we're gonna see <br xmlns="http://www.w3.org/1999/xhtml"/>if the glass and water...</p>
+      <p begin="00:45:42.466" end="00:45:44.958">
+        <span tts:fontStyle="italic">- [Lady Guest] I thought there was <br/>part of the refrigeration.</span>
+      </p>
+      <p begin="00:45:44.958" end="00:45:46.687">- The glass of water is in there <br xmlns="http://www.w3.org/1999/xhtml"/>because we're gonna see </p>
+      <p begin="00:45:46.687" end="00:45:48.928">at the end of the night <br xmlns="http://www.w3.org/1999/xhtml"/>if the glass of water is cold.</p>
+      <p begin="00:45:48.928" end="00:45:51.127">- [Male Guest] Oh, I thought that's like<br xmlns="http://www.w3.org/1999/xhtml"/>the nuclear coal</p>
+      <p begin="00:45:51.127" end="00:45:53.780">[Woman laughing]</p>
+      <p begin="00:45:54.348" end="00:45:57.397">that drove the whole thing -- <br xmlns="http://www.w3.org/1999/xhtml"/>nuclear energy.</p>
+      <p begin="00:45:57.397" end="00:45:59.584">
+        <span tts:fontStyle="italic">- [Lady Guest] It's not, okay.</span>
+      </p>
+      <p begin="00:45:59.584" end="00:46:02.392">[people talking]</p>
+      <p begin="00:46:02.392" end="00:46:03.178">- [Colin] Yeah.</p>
+      <p begin="00:46:03.178" end="00:46:04.713">- and are these from <br xmlns="http://www.w3.org/1999/xhtml"/>the farmers market?</p>
+      <p begin="00:46:04.713" end="00:46:05.803">- Yes!</p>
+      <p begin="00:46:05.803" end="00:46:08.344">Okay, here we go!</p>
+      <p begin="00:46:10.465" end="00:46:13.338">[switches clicking]</p>
+      <p begin="00:46:13.338" end="00:47:07.744">&#9834; [music] &#9834;</p>
+      <p begin="00:47:07.744" end="00:47:16.646">[glass clattering]</p>
+      <p begin="00:47:29.867" end="00:47:33.192">- Its cooler but its not yet cold.</p>
+      <p begin="00:47:34.715" end="00:47:40.075">That's where i suppose you can see <br xmlns="http://www.w3.org/1999/xhtml"/>if there's a way to make it a bit colder.</p>
+      <p begin="00:47:54.006" end="00:47:55.331">- This has become like my <br xmlns="http://www.w3.org/1999/xhtml"/>Four Seasons</p>
+      <p begin="00:47:55.331" end="00:47:58.602">I have like my lights, I have like -<br xmlns="http://www.w3.org/1999/xhtml"/>somebody comes in </p>
+      <p begin="00:47:58.602" end="00:48:02.848">like empties my garbage <br xmlns="http://www.w3.org/1999/xhtml"/>and there is you know,</p>
+      <p begin="00:48:04.308" end="00:48:07.645">plenty of heat and electricity <br xmlns="http://www.w3.org/1999/xhtml"/>and air conditioning.</p>
+      <p begin="00:48:07.645" end="00:48:12.886">So my huge treat has become<br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:48:12.886" end="00:48:14.717"> the ice, I'm gonna go show you.</p>
+      <p begin="00:48:14.717" end="00:48:16.176">Technically, the ice shouldn't <br xmlns="http://www.w3.org/1999/xhtml"/>be allowed either </p>
+      <p begin="00:48:16.176" end="00:48:22.228">but I allow myself the ice.</p>
+      <p begin="00:48:22.228" end="00:48:27.131">[ice crunching]</p>
+      <p begin="00:48:27.131" end="00:48:28.992">It's really good. Its tap - <br xmlns="http://www.w3.org/1999/xhtml"/>New York City taps</p>
+      <p begin="00:48:28.992" end="00:48:31.367">so it's - this is good as bottled water.</p>
+      <p begin="00:48:31.367" end="00:48:34.301">Probably cleaner and better <br xmlns="http://www.w3.org/1999/xhtml"/>than a lot of bottled waters.</p>
+      <p begin="00:48:36.684" end="00:48:41.442">It's good to get the ice, get really cold<br xmlns="http://www.w3.org/1999/xhtml"/>you have to wait for a little bit.</p>
+      <p begin="00:48:41.442" end="00:48:43.661">You guys, I wanna run a story by you.</p>
+      <p begin="00:48:43.661" end="00:48:48.871">Basically, I got like a really good, <br xmlns="http://www.w3.org/1999/xhtml"/>juicy inside dope today.</p>
+      <p begin="00:48:48.871" end="00:48:53.050">Its kind of like a what went wrong story.<br xmlns="http://www.w3.org/1999/xhtml"/>They focused on their weaknesses.</p>
+      <p begin="00:48:53.050" end="00:48:56.139">They totally neglected and <br xmlns="http://www.w3.org/1999/xhtml"/>under invested in their strengths.</p>
+      <p begin="00:48:56.139" end="00:48:59.769">At this point, I just have to, like,<br xmlns="http://www.w3.org/1999/xhtml"/>just report the thing to death, right?</p>
+      <p begin="00:48:59.769" end="00:49:04.292">And then see what we have <br xmlns="http://www.w3.org/1999/xhtml"/>mid-day Monday.</p>
+      <p begin="00:49:04.292" end="00:49:05.525">- [Male] This is a very big story.</p>
+      <p begin="00:49:05.525" end="00:49:06.235">- I know I'm thinking the same.</p>
+      <p begin="00:49:06.235" end="00:49:08.828">This is the first story where <br xmlns="http://www.w3.org/1999/xhtml"/>I didn't even think about</p>
+      <p begin="00:49:08.828" end="00:49:10.485">having to do without caffeine.</p>
+      <p begin="00:49:10.485" end="00:49:14.882">I'm making some progress. <br xmlns="http://www.w3.org/1999/xhtml"/>I'm making some progress.</p>
+      <p begin="00:49:14.882" end="00:49:22.012">[cars passing by]</p>
+      <p begin="00:49:22.012" end="00:49:24.541">Honey?</p>
+      <p begin="00:49:24.563" end="00:49:27.319">Do you remember where <br xmlns="http://www.w3.org/1999/xhtml"/>you put the matches?</p>
+      <p begin="00:49:29.674" end="00:49:31.745">Hang on, hang on. Here they are.</p>
+      <p begin="00:49:31.745" end="00:49:33.453">[Colin laughing]</p>
+      <p begin="00:49:33.453" end="00:49:34.294">I got them.</p>
+      <p begin="00:49:34.294" end="00:49:35.310">[match striking]</p>
+      <p begin="00:49:35.310" end="00:49:38.708">&#9834; [music] &#9834;</p>
+      <p begin="00:49:38.708" end="00:49:40.755">Its kind of really our first night <br xmlns="http://www.w3.org/1999/xhtml"/>without the electricity</p>
+      <p begin="00:49:40.755" end="00:49:43.256">because last night we had people over <br xmlns="http://www.w3.org/1999/xhtml"/>and we had the electricity </p>
+      <p begin="00:49:43.256" end="00:49:45.173">for most of the night.</p>
+      <p begin="00:49:45.173" end="00:49:54.350">&#9834; [music] &#9834;</p>
+      <p begin="00:49:54.350" end="00:49:58.305">Are you down?</p>
+      <p begin="00:49:58.305" end="00:49:59.348">Are you mad at me?</p>
+      <p begin="00:49:59.348" end="00:50:00.954">- [Colin] No.</p>
+      <p begin="00:50:04.074" end="00:50:06.403">- What is it babe?</p>
+      <p begin="00:50:10.461" end="00:50:12.882">- It's stupid.</p>
+      <p begin="00:50:12.882" end="00:50:14.477">- What? The project is stupid?</p>
+      <p begin="00:50:14.477" end="00:50:15.778">- Well, the going without electricity<br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="00:50:15.778" end="00:50:18.365">like, who's gonna go <br xmlns="http://www.w3.org/1999/xhtml"/>without electricity?</p>
+      <p begin="00:50:18.365" end="00:50:20.252">That's dumb.</p>
+      <p begin="00:50:22.755" end="00:50:25.621">- So that's whats really bothering you <br xmlns="http://www.w3.org/1999/xhtml"/>or are you afraid that...?</p>
+      <p begin="00:50:25.621" end="00:50:29.165">- I didn't think like it's gonna be,<br xmlns="http://www.w3.org/1999/xhtml"/>but I feel like this pain in the ass.</p>
+      <p begin="00:50:29.165" end="00:50:31.525">[Michelle laughing]</p>
+      <p begin="00:50:31.525" end="00:50:33.633">- Can't argue with you there.</p>
+      <p begin="00:50:33.633" end="00:50:36.365">- I don't know. I just feel like <br xmlns="http://www.w3.org/1999/xhtml"/>the whole project </p>
+      <p begin="00:50:36.365" end="00:50:42.064">I mean, made me a curiosity but not...</p>
+      <p begin="00:50:43.894" end="00:50:47.371">Everybody will have moved on <br xmlns="http://www.w3.org/1999/xhtml"/>by the time the book comes out</p>
+      <p begin="00:50:47.371" end="00:50:51.753">and It's just going to be<br xmlns="http://www.w3.org/1999/xhtml"/>another irrelevant book.</p>
+      <p begin="00:50:52.152" end="00:50:55.954">- Let's just say it turns out <br xmlns="http://www.w3.org/1999/xhtml"/>that its totally stupid, right?</p>
+      <p begin="00:50:55.954" end="00:51:01.233">Okay, I don't think that. <br xmlns="http://www.w3.org/1999/xhtml"/>But like, just worst case scenario.</p>
+      <p begin="00:51:01.233" end="00:51:06.562">So, we had, like, a ball.<br xmlns="http://www.w3.org/1999/xhtml"/>We've had a ball doing it so far. </p>
+      <p begin="00:51:06.562" end="00:51:10.295">I mean it's been hard <br xmlns="http://www.w3.org/1999/xhtml"/>but it's been fun, hasn't it?</p>
+      <p begin="00:51:11.833" end="00:51:13.473">- Yeah, its been fun.</p>
+      <p begin="00:51:13.473" end="00:51:34.286">&#9834; [music] &#9834;</p>
+      <p begin="00:51:37.983" end="00:51:41.019">
+        <span tts:fontStyle="italic">- [Radio Host] New York Public Radio <br/>WNYC FM and AM New York</span>
+      </p>
+      <p begin="00:51:41.019" end="00:51:43.081">
+        <span tts:fontStyle="italic">and WNYC dot org</span>
+      </p>
+      <p begin="00:51:43.081" end="00:51:47.278">&#9834; [music] &#9834;</p>
+      <p begin="00:51:47.278" end="00:51:51.180">
+        <span tts:fontStyle="italic">and the heat index issue<br/>is not just a warning.</span>
+      </p>
+      <p begin="00:51:51.180" end="00:51:56.093">
+        <span tts:fontStyle="italic">I mean, here it's already 84 degrees <br/>and it's only 50 minutes after ten o'clock.</span>
+      </p>
+      <p begin="00:51:56.093" end="00:51:58.039">[paper slamming]</p>
+      <p begin="00:51:58.234" end="00:51:59.726">- It's gross.</p>
+      <p begin="00:52:04.039" end="00:52:08.977">- I got home yesterday and there were <br xmlns="http://www.w3.org/1999/xhtml"/>flies all over the apartment.</p>
+      <p begin="00:52:09.976" end="00:52:15.714">[swatting flies]</p>
+      <p begin="00:52:15.714" end="00:52:19.433">There was a bunch of flies <br xmlns="http://www.w3.org/1999/xhtml"/>reproducing in my worm bin</p>
+      <p begin="00:52:19.433" end="00:52:24.926">and everytime I opened the worm bin, <br xmlns="http://www.w3.org/1999/xhtml"/>more baby flies flew out.</p>
+      <p begin="00:52:28.062" end="00:52:31.141">[swatting flies]</p>
+      <p begin="00:52:32.401" end="00:52:35.110">Oh my God! Look at 'em!</p>
+      <p begin="00:52:35.110" end="00:52:35.922">Oh my God!</p>
+      <p begin="00:52:35.922" end="00:52:48.771">&#9834;[music]&#9834;</p>
+      <p begin="00:52:48.771" end="00:52:54.207">By the way, look at this. <br xmlns="http://www.w3.org/1999/xhtml"/>It's like all earth. See?</p>
+      <p begin="00:52:56.329" end="00:53:08.651">[birds chirping]</p>
+      <p begin="00:53:11.248" end="00:53:15.267">- I didn't think that it would work. <br xmlns="http://www.w3.org/1999/xhtml"/>It just doesn't work. Okay.</p>
+      <p begin="00:53:15.267" end="00:53:19.580">There's a reason why people <br xmlns="http://www.w3.org/1999/xhtml"/>have refrigerators.</p>
+      <p begin="00:53:24.899" end="00:53:29.318">The truth is I'm just mad because <br xmlns="http://www.w3.org/1999/xhtml"/>I'm like, I'm just devastated about that</p>
+      <p begin="00:53:29.318" end="00:53:33.962">little information about getting pregnant.</p>
+      <p begin="00:53:33.962" end="00:53:37.332">Look, statistics are so low <br xmlns="http://www.w3.org/1999/xhtml"/>and I'm basically turning 40.</p>
+      <p begin="00:53:37.332" end="00:53:40.585">And like, note the gray hair</p>
+      <p begin="00:53:40.585" end="00:53:43.564">and I just feel devastated about it.</p>
+      <p begin="00:53:43.564" end="00:53:48.059">And I feel like it says that somebody<br xmlns="http://www.w3.org/1999/xhtml"/>like me would have a 5% chance</p>
+      <p begin="00:53:48.059" end="00:53:49.658">like in any given...</p>
+      <p begin="00:53:49.658" end="00:53:55.458">It's probably - it's gonna work out your way <br xmlns="http://www.w3.org/1999/xhtml"/>anyway because the chances are so low.</p>
+      <p begin="00:53:57.010" end="00:53:59.858">- I mean, I totally, <br xmlns="http://www.w3.org/1999/xhtml"/>I totally hear that you're sad</p>
+      <p begin="00:53:59.858" end="00:54:03.681">and I totally understand <br xmlns="http://www.w3.org/1999/xhtml"/>but it feels like a reality show for me</p>
+      <p begin="00:54:03.681" end="00:54:05.516">discussing this issue on camera.</p>
+      <p begin="00:54:05.516" end="00:54:09.373">- I thought that you want to know <br xmlns="http://www.w3.org/1999/xhtml"/>how I felt about the Pot in a Pot.</p>
+      <p begin="00:54:09.373" end="00:54:12.824">- Oh, well, that's - I totally wanna know<br xmlns="http://www.w3.org/1999/xhtml"/>how you feel about the Pot in a Pot.</p>
+      <p begin="00:54:12.824" end="00:54:15.516">- This is how I feel about it.</p>
+      <p begin="00:54:15.516" end="00:54:18.446">You know, our whole thing was that<br xmlns="http://www.w3.org/1999/xhtml"/>we were gonna like totally support</p>
+      <p begin="00:54:18.446" end="00:54:22.347">who the other person <br xmlns="http://www.w3.org/1999/xhtml"/>wanted to become, right?</p>
+      <p begin="00:54:22.347" end="00:54:27.006">We were gonna kinda be on board<br xmlns="http://www.w3.org/1999/xhtml"/>for each other's dreams.</p>
+      <p begin="00:54:27.006" end="00:54:32.695">You know, this is important to you<br xmlns="http://www.w3.org/1999/xhtml"/>that we don't have a fridge, right?</p>
+      <p begin="00:54:32.695" end="00:54:34.184">I'm on board with that.</p>
+      <p begin="00:54:34.184" end="00:54:35.428">And then I feel really bummed</p>
+      <p begin="00:54:35.428" end="00:54:40.173">because we're like putting<br xmlns="http://www.w3.org/1999/xhtml"/>all these energy on your dream, right?</p>
+      <p begin="00:54:40.173" end="00:54:44.942">And then, you know, I'm like...</p>
+      <p begin="00:54:44.942" end="00:54:46.640">- I mean, I'm totally willing <br xmlns="http://www.w3.org/1999/xhtml"/>to work with you</p>
+      <p begin="00:54:46.640" end="00:54:49.363">and talk to you about the <br xmlns="http://www.w3.org/1999/xhtml"/>prospect of having another child</p>
+      <p begin="00:54:49.363" end="00:54:53.007">and, you know, see where <br xmlns="http://www.w3.org/1999/xhtml"/>we get to in talking</p>
+      <p begin="00:54:53.007" end="00:54:55.287">but if you're connecting it to the project,</p>
+      <p begin="00:54:55.287" end="00:54:57.125">I &#8212; you know...</p>
+      <p begin="00:54:57.125" end="00:55:00.052">- But, this is tied together for me, <br xmlns="http://www.w3.org/1999/xhtml"/>they're totally connected.</p>
+      <p begin="00:55:00.052" end="00:55:02.082">So, if they're not connected for you, then...</p>
+      <p begin="00:55:02.082" end="00:55:07.092">- If I've got this right, you feel as though<br xmlns="http://www.w3.org/1999/xhtml"/>you support me but I don't support you.</p>
+      <p begin="00:55:07.092" end="00:55:08.672">Like I don't support your dreams.</p>
+      <p begin="00:55:08.672" end="00:55:13.470">- I feel like this is my biggest, <br xmlns="http://www.w3.org/1999/xhtml"/>most important, like most precious thing.</p>
+      <p begin="00:55:13.470" end="00:55:13.982">- Right.</p>
+      <p begin="00:55:13.982" end="00:55:18.633">- And I feel like, yeah, <br xmlns="http://www.w3.org/1999/xhtml"/>you don't wanna do it</p>
+      <p begin="00:55:18.633" end="00:55:25.650">so it's kind of like no. <br xmlns="http://www.w3.org/1999/xhtml"/>The answer's no.</p>
+      <p begin="00:55:25.650" end="00:55:27.197">- Oh, I want to want what you want.</p>
+      <p begin="00:55:29.549" end="00:55:32.899">But, I don't feel like it would be <br xmlns="http://www.w3.org/1999/xhtml"/>good for our family</p>
+      <p begin="00:55:32.899" end="00:55:35.702">for me to just say, <br xmlns="http://www.w3.org/1999/xhtml"/>"Okay, you want it so I'll do it,"</p>
+      <p begin="00:55:35.702" end="00:55:39.591">when I have such <br xmlns="http://www.w3.org/1999/xhtml"/>strong feelings about it.</p>
+      <p begin="00:55:42.681" end="00:55:46.060">- Do you wanna move this out then?</p>
+      <p begin="00:55:53.445" end="00:55:55.680">- It's okay honey, we're just gonna<br xmlns="http://www.w3.org/1999/xhtml"/>leave that there, just for now, okay?</p>
+      <p begin="00:55:55.680" end="00:55:58.399">- Okay.</p>
+      <p begin="00:55:58.399" end="00:56:04.446">The Pot in a Pot has been moved out<br xmlns="http://www.w3.org/1999/xhtml"/>and this is our latest refrigerator.</p>
+      <p begin="00:56:04.446" end="00:56:08.588">To keep it cold, <br xmlns="http://www.w3.org/1999/xhtml"/>I mooch ice off of my neighbor, Hillary.</p>
+      <p begin="00:56:08.588" end="00:56:13.510">[scooping ice]</p>
+      <p begin="00:56:13.510" end="00:56:16.686">- Do you need to come and get it <br xmlns="http://www.w3.org/1999/xhtml"/>everyday or how do you wanna...?</p>
+      <p begin="00:56:16.686" end="00:56:19.506">- I think this will last a little while in the cooler.</p>
+      <p begin="00:56:19.506" end="00:56:22.966">- Ah, yeah. I hope so. I think so.</p>
+      <p begin="00:56:22.966" end="00:56:24.692">- Can I carry the bag?</p>
+      <p begin="00:56:24.692" end="00:56:26.057">- Yeah, yeah, yeah. <br xmlns="http://www.w3.org/1999/xhtml"/>You can carry the bag.</p>
+      <p begin="00:56:26.057" end="00:56:30.017">Let's put the freezer... <br xmlns="http://www.w3.org/1999/xhtml"/>Thank you so much.</p>
+      <p begin="00:56:30.017" end="00:56:32.627">- You're welcome.</p>
+      <p begin="00:56:32.627" end="00:56:34.302">- Say thank you to Hillary, honey.</p>
+      <p begin="00:56:34.302" end="00:56:36.192">- Bye. You're welcome.</p>
+      <p begin="00:56:36.192" end="00:56:37.606">Bye, Sweetie.</p>
+      <p begin="00:56:43.607" end="00:56:46.496">- Okay. Perfect.</p>
+      <p begin="00:56:46.496" end="00:56:48.862">
+        <span tts:fontStyle="italic">We're gonna take the ice pack <br/>and put it right on top</span>
+      </p>
+      <p begin="00:56:48.862" end="00:56:51.273">
+        <span tts:fontStyle="italic">so that your milk stays nice and cold.</span>
+      </p>
+      <p begin="00:56:51.273" end="00:56:54.804">And you wanna just drop <br xmlns="http://www.w3.org/1999/xhtml"/>the cubes on there?</p>
+      <p begin="00:56:54.804" end="00:56:58.277">Drop them, one by one.</p>
+      <p begin="00:56:58.277" end="00:57:00.132">- One by one. </p>
+      <p begin="00:57:04.085" end="00:57:05.281">Whoa!</p>
+      <p begin="00:57:10.280" end="00:57:12.616">- The refrigerator is my bottom.</p>
+      <p begin="00:57:12.616" end="00:57:13.889">The pot in a pot and now the...</p>
+      <p begin="00:57:13.889" end="00:57:19.640">I don't know what I hate more<br xmlns="http://www.w3.org/1999/xhtml"/>the pot in a pot or this, I'm not sure.</p>
+      <p begin="00:57:21.113" end="00:57:25.639">Just mooching power on ice cube, <br xmlns="http://www.w3.org/1999/xhtml"/>so I kinda don't get it.</p>
+      <p begin="00:57:25.639" end="00:57:27.609">I'm kinda like...</p>
+      <p begin="00:57:29.607" end="00:57:31.985">Say, "Bye wacko fridge."</p>
+      <p begin="00:57:31.985" end="00:57:33.931">- Bye. Wacko fridge.</p>
+      <p begin="00:57:42.953" end="00:57:45.754">- Who cheats more, you or Collin?</p>
+      <p begin="00:57:45.754" end="00:57:49.940">- I'm sure I have to cheat more, like this.</p>
+      <p begin="00:57:49.940" end="00:57:52.787">
+        <span tts:fontStyle="italic">I tried vegetable diet at home<br/>but it was a disaster.</span>
+      </p>
+      <p begin="00:57:52.787" end="00:57:53.463">- Right.</p>
+      <p begin="00:57:53.463" end="00:57:54.448">
+        <span tts:fontStyle="italic">- He doesn't really cheat.</span>
+      </p>
+      <p begin="00:57:54.448" end="00:57:56.909">
+        <span tts:fontStyle="italic">He'll bend the rules a little bit.<br/>That to him wouldn't be a cheat.</span>
+      </p>
+      <p begin="00:57:56.909" end="00:58:00.665">Like, there's no trips this year <br xmlns="http://www.w3.org/1999/xhtml"/>because we can't go anywhere.</p>
+      <p begin="00:58:00.665" end="00:58:03.008">So, he decides that we're gonna <br xmlns="http://www.w3.org/1999/xhtml"/>make an exception</p>
+      <p begin="00:58:03.008" end="00:58:07.072">and we're gonna go up to the farm<br xmlns="http://www.w3.org/1999/xhtml"/>where they grow our food.</p>
+      <p begin="00:58:07.072" end="00:58:09.685">We walked to the station <br xmlns="http://www.w3.org/1999/xhtml"/>with our luggage,</p>
+      <p begin="00:58:09.685" end="00:58:12.300"><br xmlns="http://www.w3.org/1999/xhtml"/>this is when the slip started.</p>
+      <p begin="00:58:12.300" end="00:58:13.827">I go to Dunkin' Donuts, <br xmlns="http://www.w3.org/1999/xhtml"/>there's a huge line</p>
+      <p begin="00:58:13.827" end="00:58:15.634">I give the lady this huge tip,</p>
+      <p begin="00:58:15.634" end="00:58:17.800">and I'm like, "Could you refill <br xmlns="http://www.w3.org/1999/xhtml"/>this glass twice?"</p>
+      <p begin="00:58:17.800" end="00:58:20.829">
+        <span tts:fontStyle="italic">I get two huge decafs and I'm not <br/>going back at Dunkin' Donuts.</span>
+      </p>
+      <p begin="00:58:20.829" end="00:58:21.902">- Hooking you up.</p>
+      <p begin="00:58:21.902" end="00:58:23.324">
+        <span tts:fontStyle="italic">- And there's like <br/>ten people behind me</span>
+      </p>
+      <p begin="00:58:23.324" end="00:58:25.358">
+        <span tts:fontStyle="italic">but I gave her such a big tip <br/>that she was like,</span>
+      </p>
+      <p begin="00:58:25.358" end="00:58:27.114">
+        <span tts:fontStyle="italic">just my girl for a while.</span>
+      </p>
+      <p begin="00:58:27.114" end="00:58:32.625">But, I was like, I don't wanna be<br xmlns="http://www.w3.org/1999/xhtml"/>putting our energy into the pot in a pot.</p>
+      <p begin="00:58:32.625" end="00:58:34.188">I wanna be having another kid.</p>
+      <p begin="00:58:34.188" end="00:58:36.787">I don't wanna spend <br xmlns="http://www.w3.org/1999/xhtml"/>my vacation on a farm.</p>
+      <p begin="00:58:36.787" end="00:58:45.069">&#9834;[music]&#9834;</p>
+      <p begin="00:58:45.069" end="00:58:46.045">When we got married,</p>
+      <p begin="00:58:46.045" end="00:58:48.626">I was like, look Colin, I'll marry you <br xmlns="http://www.w3.org/1999/xhtml"/>but there is one thing -</p>
+      <p begin="00:58:48.626" end="00:58:52.006">I don't like camping.<br xmlns="http://www.w3.org/1999/xhtml"/>I'm never going camping with you.</p>
+      <p begin="00:58:52.006" end="00:58:55.425">But, now our whole house<br xmlns="http://www.w3.org/1999/xhtml"/>has turned into a camp ground.</p>
+      <p begin="00:58:55.425" end="00:58:57.936">And also, I don't really like nature.</p>
+      <p begin="00:58:57.936" end="00:59:00.668">And now for our vacation,<br xmlns="http://www.w3.org/1999/xhtml"/>we're going into nature.</p>
+      <p begin="00:59:00.668" end="00:59:02.139">[Laughs]</p>
+      <p begin="00:59:04.467" end="00:59:06.948">We're gonna see and work <br xmlns="http://www.w3.org/1999/xhtml"/>with all the food that we eat.</p>
+      <p begin="00:59:06.948" end="00:59:09.505">For the farmer's market,<br xmlns="http://www.w3.org/1999/xhtml"/>this is the farm where it comes from.</p>
+      <p begin="00:59:09.505" end="00:59:16.534">&#9834;[music]&#9834;</p>
+      <p begin="00:59:16.534" end="00:59:19.570">- Hi, cow.</p>
+      <p begin="00:59:19.570" end="00:59:21.969">- You could put your hand out <br xmlns="http://www.w3.org/1999/xhtml"/>and touch him.</p>
+      <p begin="00:59:21.969" end="00:59:23.678">- Hi, cow.</p>
+      <p begin="00:59:23.678" end="00:59:25.640">- Thank you so much for having us.</p>
+      <p begin="00:59:25.640" end="00:59:26.351">Thank you.</p>
+      <p begin="00:59:26.351" end="00:59:27.175">- [Rachel Schneider] Welcome!</p>
+      <p begin="00:59:27.175" end="00:59:28.670">I'm having the best session already,</p>
+      <p begin="00:59:28.670" end="00:59:29.607">We've only been here for an hour.</p>
+      <p begin="00:59:29.607" end="00:59:30.735">- Yeah.</p>
+      <p begin="00:59:36.669" end="00:59:40.334">
+        <span tts:fontStyle="italic">- [Rachel] As you work <br/>to steward this land,</span>
+      </p>
+      <p begin="00:59:40.334" end="00:59:48.841">you are growing a very vital, <br xmlns="http://www.w3.org/1999/xhtml"/>dynamic being that's in balance.</p>
+      <p begin="00:59:48.841" end="00:59:51.192">
+        <span tts:fontStyle="italic">It's a closed loop system.</span>
+      </p>
+      <p begin="00:59:51.192" end="00:59:53.692">The cows eat the grass.</p>
+      <p begin="00:59:53.692" end="00:59:59.070">They give you milk but they also <br xmlns="http://www.w3.org/1999/xhtml"/>give you manure.</p>
+      <p begin="00:59:59.070" end="01:00:02.367">The manure is composted.<br xmlns="http://www.w3.org/1999/xhtml"/>It becomes the fertility.</p>
+      <p begin="01:00:02.367" end="01:00:07.611">
+        <span tts:fontStyle="italic">We make about 400 tons <br/>of compost per year.</span>
+      </p>
+      <p begin="01:00:07.611" end="01:00:09.753">And smell it.</p>
+      <p begin="01:00:09.753" end="01:00:10.929">- Yeah. It just smells like earth.</p>
+      <p begin="01:00:10.929" end="01:00:12.929">It smell just like my worm bin, actually.</p>
+      <p begin="01:00:15.165" end="01:00:19.934">- You say though a lot that this kind <br xmlns="http://www.w3.org/1999/xhtml"/>of is the realization of his values?</p>
+      <p begin="01:00:19.934" end="01:00:21.288">
+        <span tts:fontStyle="italic">- Yeah.</span>
+      </p>
+      <p begin="01:00:21.288" end="01:00:25.153">- Do you - how do you feel about it now<br xmlns="http://www.w3.org/1999/xhtml"/>six months into that, do you still...?</p>
+      <p begin="01:00:25.153" end="01:00:27.027">- I feel like there's no going back.</p>
+      <p begin="01:00:27.027" end="01:00:28.709">- There's no going back, right?</p>
+      <p begin="01:00:28.709" end="01:00:30.305">Right.</p>
+      <p begin="01:00:30.305" end="01:00:32.024">- This is for our family.</p>
+      <p begin="01:00:32.024" end="01:00:33.967">It's not just about the project.</p>
+      <p begin="01:00:37.253" end="01:00:38.266">- [Male] Where are you from?</p>
+      <p begin="01:00:38.266" end="01:00:41.438">- [Colin] I live in the city. I hope to be <br xmlns="http://www.w3.org/1999/xhtml"/>more of a help than a hindrance.</p>
+      <p begin="01:00:41.438" end="01:00:44.256">[Laughing]</p>
+      <p begin="01:00:44.256" end="01:00:45.411">
+        <span tts:fontStyle="italic">- [Male Farmer] Let's go.</span>
+      </p>
+      <p begin="01:00:45.411" end="01:00:49.127">[bells clanging]</p>
+      <p begin="01:00:49.127" end="01:00:50.891">- [Male] That's Henry. That's the bull.</p>
+      <p begin="01:00:50.891" end="01:00:53.257">Come on Henry, let's go.</p>
+      <p begin="01:00:53.257" end="01:00:55.570">Let's go to escort Henry<br xmlns="http://www.w3.org/1999/xhtml"/>into the barn.</p>
+      <p begin="01:00:55.570" end="01:00:56.557">[Cow mooing]</p>
+      <p begin="01:00:56.557" end="01:00:57.867">
+        <span tts:fontStyle="italic">- [Michelle] The night before we left,</span>
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+      </p>
+      <p begin="01:00:57.867" end="01:01:00.469">
+        <span tts:fontStyle="italic">the farmer and Colin <br/>were having a conversation.</span>
+      </p>
+      <p begin="01:01:00.469" end="01:01:03.841">
+        <span tts:fontStyle="italic">They're talking about how valley<br/>once was populated with sheep.</span>
+      </p>
+      <p begin="01:01:03.841" end="01:01:06.488">
+        <span tts:fontStyle="italic">They were also talking about <br/>how people could devolve</span>
+      </p>
+      <p begin="01:01:06.488" end="01:01:10.256">
+        <span tts:fontStyle="italic">into like animals.</span>
+      </p>
+      <p begin="01:01:10.256" end="01:01:14.750">
+        <span tts:fontStyle="italic">I just felt so transported <br/>by this conversation.</span>
+      </p>
+      <p begin="01:01:22.989" end="01:01:25.629">
+        <span tts:fontStyle="italic">And then I went to bed that night <br/>with the beautiful farm air</span>
+      </p>
+      <p begin="01:01:25.629" end="01:01:29.145">
+        <span tts:fontStyle="italic">in the beautiful farm house <br/>with these beautiful people</span>
+      </p>
+      <p begin="01:01:29.145" end="01:01:31.818">who treated us like we're family</p>
+      <p begin="01:01:31.818" end="01:01:35.237">and I dreamt that <br xmlns="http://www.w3.org/1999/xhtml"/>I was one of the sheep.</p>
+      <p begin="01:01:35.237" end="01:01:37.550">
+        <span tts:fontStyle="italic">It's weird 'cause my grandparents<br/>were farmers</span>
+      </p>
+      <p begin="01:01:37.550" end="01:01:41.241">like they were homesteaders<br xmlns="http://www.w3.org/1999/xhtml"/>and I started feeling like &#8212;</p>
+      <p begin="01:01:41.241" end="01:01:45.438">I feel like my family like <br xmlns="http://www.w3.org/1999/xhtml"/>left something back there.</p>
+      <p begin="01:01:45.438" end="01:01:49.892">And I was like, I feel like <br xmlns="http://www.w3.org/1999/xhtml"/>I'm going back to get it.</p>
+      <p begin="01:01:50.845" end="01:01:53.725">
+        <span tts:fontStyle="italic">When I listened to the farmer <br/>talking about the herd</span>
+      </p>
+      <p begin="01:01:53.725" end="01:01:55.717">and how sometimes something <br xmlns="http://www.w3.org/1999/xhtml"/>will happen to one of the cattle </p>
+      <p begin="01:01:55.717" end="01:01:58.446">but that the herd goes on</p>
+      <p begin="01:01:58.446" end="01:02:01.095">
+        <span tts:fontStyle="italic">I felt like I woke up.</span>
+        <br xmlns="http://www.w3.org/1999/xhtml"/>
+      </p>
+      <p begin="01:02:01.095" end="01:02:05.358">
+        <span tts:fontStyle="italic">I felt like I got to reconnect <br/>with something.</span>
+      </p>
+      <p begin="01:02:10.093" end="01:02:13.872">[horn blowing]</p>
+      <p begin="01:02:20.476" end="01:02:28.163">&#9834;[music]&#9834;</p>
+      <p begin="01:02:28.163" end="01:02:31.952">A company loaned me this <br xmlns="http://www.w3.org/1999/xhtml"/>solar panel for the project.</p>
+      <p begin="01:02:31.952" end="01:02:36.533">I can change the way that <br xmlns="http://www.w3.org/1999/xhtml"/>electricity is delivered to my house.</p>
+      <p begin="01:02:36.533" end="01:02:37.980">- Get it.<br xmlns="http://www.w3.org/1999/xhtml"/>- Yeah.</p>
+      <p begin="01:02:38.902" end="01:02:41.434">The solar panel will provide <br xmlns="http://www.w3.org/1999/xhtml"/>just enough electricity </p>
+      <p begin="01:02:41.434" end="01:02:44.813">
+        <span tts:fontStyle="italic">so that I can power my computer <br/>and write my blog.</span>
+      </p>
+      <p begin="01:02:47.365" end="01:02:50.213">But, what's really interesting <br xmlns="http://www.w3.org/1999/xhtml"/>about this phase is that</p>
+      <p begin="01:02:50.213" end="01:02:53.096">
+        <span tts:fontStyle="italic">it's the first time that I've realized <br/>that it's not about using as little</span>
+      </p>
+      <p begin="01:02:53.096" end="01:02:55.325">
+        <span tts:fontStyle="italic">as we can possibly use</span>
+      </p>
+      <p begin="01:02:55.325" end="01:03:00.826">but finding a way to get <br xmlns="http://www.w3.org/1999/xhtml"/>what I need in a sustainable way.</p>
+      <p begin="01:03:01.595" end="01:03:03.980">And that's what we need to do with, <br xmlns="http://www.w3.org/1999/xhtml"/>you know, with my electricity, </p>
+      <p begin="01:03:03.980" end="01:03:05.549">with the solar panel.</p>
+      <p begin="01:03:05.549" end="01:03:07.851">But, that's also what we need <br xmlns="http://www.w3.org/1999/xhtml"/>to do with our systems.</p>
+      <p begin="01:03:07.851" end="01:03:10.657">
+        <span tts:fontStyle="italic">We just need to figure out <br/>how to get people what they need</span>
+      </p>
+      <p begin="01:03:10.657" end="01:03:13.494">in a way that doesn't harm the planet.</p>
+      <p begin="01:03:13.494" end="01:03:16.618">[typing]</p>
+      <p begin="01:03:25.472" end="01:03:28.661">Tell that guy to get out of the bike lane.</p>
+      <p begin="01:03:30.039" end="01:03:34.234">Do you wanna know <br xmlns="http://www.w3.org/1999/xhtml"/>what I gave her for her 40th birthday?</p>
+      <p begin="01:03:34.944" end="01:03:36.051">No birth control.</p>
+      <p begin="01:03:36.051" end="01:03:38.864">You know what I'm saying?</p>
+      <p begin="01:03:38.864" end="01:03:42.202">We call it Russian Roulette.</p>
+      <p begin="01:03:42.202" end="01:03:45.207">- So, now the question is, <br xmlns="http://www.w3.org/1999/xhtml"/>is it click-click or bang-bang?</p>
+      <p begin="01:03:45.207" end="01:03:49.225">- If it's bang-bang, I die, she lives.</p>
+      <p begin="01:03:53.451" end="01:03:56.412">Watch out on your right for a lunatic.</p>
+      <p begin="01:03:57.613" end="01:04:02.519">My blog post today was about<br xmlns="http://www.w3.org/1999/xhtml"/>opportunities in a crisis.</p>
+      <p begin="01:04:02.519" end="01:04:05.340">Imagine if we made the city <br xmlns="http://www.w3.org/1999/xhtml"/>nicer to live in.</p>
+      <p begin="01:04:05.340" end="01:04:09.090">So, the two comments <br xmlns="http://www.w3.org/1999/xhtml"/>on the post so far are</p>
+      <p begin="01:04:09.090" end="01:04:11.228">let's be realistic.</p>
+      <p begin="01:04:11.228" end="01:04:15.209">Like, you can't make a city nice<br xmlns="http://www.w3.org/1999/xhtml"/>so forget it.</p>
+      <p begin="01:04:15.209" end="01:04:19.137">There's such a lack of idealism, but <br xmlns="http://www.w3.org/1999/xhtml"/>I think realism got us to where we are,</p>
+      <p begin="01:04:19.137" end="01:04:20.440">you know what I'm saying?</p>
+      <p begin="01:04:20.440" end="01:04:22.304">[horn honking]</p>
+      <p begin="01:04:22.304" end="01:04:23.145">- That helps.</p>
+      <p begin="01:04:27.367" end="01:04:28.844">You okay Michelle?</p>
+      <p begin="01:04:32.585" end="01:04:33.428">- Watch out honey.</p>
+      <p begin="01:04:33.428" end="01:04:35.175">- I know. I know.</p>
+      <p begin="01:04:38.316" end="01:04:39.401">- It's so quiet.</p>
+      <p begin="01:04:39.401" end="01:04:40.965">- I know.</p>
+      <p begin="01:04:45.458" end="01:04:46.941">- Oh, that Fort Tilden over there?</p>
+      <p begin="01:04:46.941" end="01:04:48.371">- Yeah.</p>
+      <p begin="01:04:51.269" end="01:04:53.431">- Oh, my God! This is like the Hamptons.</p>
+      <p begin="01:04:53.431" end="01:04:54.887">- It's better than the Hamptons.</p>
+      <p begin="01:04:54.887" end="01:04:56.640">- 'Cause there's no one here.</p>
+      <p begin="01:04:57.715" end="01:04:59.436">[Colin laughing]</p>
+      <p begin="01:05:00.143" end="01:05:04.967">- Oh, my God. How radical is this?</p>
+      <p begin="01:05:04.967" end="01:05:08.719">And this is still New York City.<br xmlns="http://www.w3.org/1999/xhtml"/>We're in New York City.</p>
+      <p begin="01:05:08.719" end="01:05:10.446">- Ooh, bug.</p>
+      <p begin="01:05:11.013" end="01:05:14.209">- Will you go swimming with me?</p>
+      <p begin="01:05:15.388" end="01:05:17.395">- Well, um...</p>
+      <p begin="01:05:17.574" end="01:05:20.824">[waves crashing]</p>
+      <p begin="01:05:20.824" end="01:05:22.615">- To me it's amazing <br xmlns="http://www.w3.org/1999/xhtml"/>how resilient nature is</p>
+      <p begin="01:05:22.615" end="01:05:24.321">like there's sandpipers on this beach</p>
+      <p begin="01:05:24.321" end="01:05:26.322">and everybody is trying to survive.</p>
+      <p begin="01:05:26.322" end="01:05:30.105">And there's these ant crabs<br xmlns="http://www.w3.org/1999/xhtml"/>and they're in New York City.</p>
+      <p begin="01:05:30.105" end="01:05:32.181">See the two of them?</p>
+      <p begin="01:05:32.181" end="01:05:32.729">- Yup, I see it.</p>
+      <p begin="01:05:32.729" end="01:05:33.870">- Wait, wait, wait.</p>
+      <p begin="01:05:33.870" end="01:05:34.442">- Ahuh yup, I see.</p>
+      <p begin="01:05:34.442" end="01:05:37.190">[waves crashing]</p>
+      <p begin="01:05:38.132" end="01:05:39.620">- People can keep talking about,</p>
+      <p begin="01:05:39.620" end="01:05:44.050">what's the hardest thing? <br xmlns="http://www.w3.org/1999/xhtml"/>Are you depriving yourself?</p>
+      <p begin="01:05:44.050" end="01:05:46.842">As though like all these aspects<br xmlns="http://www.w3.org/1999/xhtml"/>of the project are hard.</p>
+      <p begin="01:05:46.842" end="01:05:48.785">But, it's not about deprivation.</p>
+      <p begin="01:05:48.785" end="01:05:51.237">It's not about not taking care of yourself.</p>
+      <p begin="01:05:51.237" end="01:05:52.371">It's the opposite.</p>
+      <p begin="01:05:52.371" end="01:05:53.869">It's about seeing,</p>
+      <p begin="01:05:53.869" end="01:05:59.267">is it possible to have a good life<br xmlns="http://www.w3.org/1999/xhtml"/>without wasting so much?</p>
+      <p begin="01:05:59.267" end="01:06:05.636">&#9834;[music]&#9834;</p>
+      <p begin="01:06:05.636" end="01:06:07.019">- Colin met this amazing woman</p>
+      <p begin="01:06:07.019" end="01:06:10.416">at the farmers market, who loaned us her tricycle.</p>
+      <p begin="01:06:10.416" end="01:06:13.921">We can roll. It totally changed our life.</p>
+      <p begin="01:06:17.869" end="01:06:21.865">We have no TV, no lights, <br xmlns="http://www.w3.org/1999/xhtml"/>no electricity, no air-conditioning.</p>
+      <p begin="01:06:21.865" end="01:06:25.174">These were all the things that kept us inside.</p>
+      <p begin="01:06:25.174" end="01:06:27.875">We're kinda forced out <br xmlns="http://www.w3.org/1999/xhtml"/>of the apartment all the time now.</p>
+      <p begin="01:06:27.875" end="01:06:30.495">[water splashing]</p>
+      <p begin="01:06:30.495" end="01:06:34.104">The days feel like they just last forever.</p>
+      <p begin="01:06:37.251" end="01:06:39.006">- What are those?</p>
+      <p begin="01:06:39.006" end="01:06:41.443">- They're fireflies.</p>
+      <p begin="01:06:41.443" end="01:06:43.439">
+        <span tts:fontStyle="italic">- [Isabella] There's a light.</span>
+      </p>
+      <p begin="01:06:44.830" end="01:06:47.550">[Isabella Shrieking] </p>
+      <p begin="01:06:47.550" end="01:06:48.783">-Oh, oh, oh, oh!</p>
+      <p begin="01:06:50.220" end="01:06:52.479">[Colin laughing]</p>
+      <p begin="01:06:54.062" end="01:06:56.317">- Are you playing Gin Rummy?</p>
+      <p begin="01:06:56.317" end="01:06:58.051">- Uh-hm, we're playing Gin Rummy.</p>
+      <p begin="01:06:58.051" end="01:06:59.914">- I wanna show you something, okay?</p>
+      <p begin="01:06:59.914" end="01:07:06.078">This is what you call <br xmlns="http://www.w3.org/1999/xhtml"/>kicking dad's ass, okay?</p>
+      <p begin="01:07:08.415" end="01:07:11.193">- [Meyer] We're coming from <br xmlns="http://www.w3.org/1999/xhtml"/>vastly different spaces.</p>
+      <p begin="01:07:11.193" end="01:07:19.777">No one is ever gonna be as naive, <br xmlns="http://www.w3.org/1999/xhtml"/>naively hopeful and naively optimistic</p>
+      <p begin="01:07:19.777" end="01:07:23.129">as we were in the late '60s.</p>
+      <p begin="01:07:23.129" end="01:07:25.931">- But, I think there maybe something <br xmlns="http://www.w3.org/1999/xhtml"/>kind of similar</p>
+      <p begin="01:07:25.931" end="01:07:29.982">more muted that's happening now. <br xmlns="http://www.w3.org/1999/xhtml"/>Not in the same way at all</p>
+      <p begin="01:07:29.982" end="01:07:37.512">but I feel like there's a certain quiet<br xmlns="http://www.w3.org/1999/xhtml"/>beginning of a rebellion happening.</p>
+      <p begin="01:07:37.512" end="01:07:42.421">&#9834; [music] &#9834;</p>
+      <p begin="01:07:42.421" end="01:07:44.807">- [Meyer] The other thing you need <br xmlns="http://www.w3.org/1999/xhtml"/>to point out is this on the ...</p>
+      <p begin="01:07:47.891" end="01:07:51.837">This called the Scape. S-C-A-P-E.</p>
+      <p begin="01:07:51.837" end="01:07:55.925">I would suggest <br xmlns="http://www.w3.org/1999/xhtml"/>you take home one or two of those.</p>
+      <p begin="01:07:55.925" end="01:07:56.820">- Okay.</p>
+      <p begin="01:07:56.820" end="01:07:58.628">- These are the beans.</p>
+      <p begin="01:07:58.628" end="01:08:01.952">You can see how they're grabbing the pole.</p>
+      <p begin="01:08:01.952" end="01:08:03.193">And you see this?</p>
+      <p begin="01:08:03.193" end="01:08:03.739">- Yeah.</p>
+      <p begin="01:08:03.739" end="01:08:06.649">- It's starting to make tomatoes.</p>
+      <p begin="01:08:12.915" end="01:08:16.528">- Are you overall optimistic about <br xmlns="http://www.w3.org/1999/xhtml"/>human kind or skeptical?</p>
+      <p begin="01:08:16.528" end="01:08:20.168">- I'm of the belief that it's always 50-50.</p>
+      <p begin="01:08:20.168" end="01:08:21.669">- Right.</p>
+      <p begin="01:08:21.669" end="01:08:25.461">- That in fact, you know, <br xmlns="http://www.w3.org/1999/xhtml"/>somethings are getting better,</p>
+      <p begin="01:08:25.461" end="01:08:27.813">somethings are getting worse.</p>
+      <p begin="01:08:29.334" end="01:08:31.661">- Yeah.</p>
+      <p begin="01:08:31.661" end="01:08:32.907">- You know, though all these...</p>
+      <p begin="01:08:32.907" end="01:08:34.566">every time you try to do something right</p>
+      <p begin="01:08:34.566" end="01:08:41.349">no matter what level you're on, <br xmlns="http://www.w3.org/1999/xhtml"/>there are, you know, unforeseen results.</p>
+      <p begin="01:08:42.548" end="01:08:47.808">My hesitation about your work is that <br xmlns="http://www.w3.org/1999/xhtml"/>it enables people to fool themselves</p>
+      <p begin="01:08:47.808" end="01:08:51.210">that all they have to do is change <br xmlns="http://www.w3.org/1999/xhtml"/>the light bulb </p>
+      <p begin="01:08:51.210" end="01:08:54.809">and recycle their plastic bag.</p>
+      <p begin="01:08:54.809" end="01:09:00.120">Well, as long as they feel that way, <br xmlns="http://www.w3.org/1999/xhtml"/>no politician will pick it up.</p>
+      <p begin="01:09:00.120" end="01:09:05.973">- And I feel that it's completely true,<br xmlns="http://www.w3.org/1999/xhtml"/>that that's &#8212; it's both.</p>
+      <p begin="01:09:05.973" end="01:09:08.164">I mean, you need to have...</p>
+      <p begin="01:09:08.164" end="01:09:10.013">I think &#8212; I think that there's ...</p>
+      <p begin="01:09:10.013" end="01:09:12.847">if you have a political stance and<br xmlns="http://www.w3.org/1999/xhtml"/>then there's a tremendous integrity</p>
+      <p begin="01:09:12.847" end="01:09:15.677">to living in a way that reflects that <br xmlns="http://www.w3.org/1999/xhtml"/>political stance.</p>
+      <p begin="01:09:16.714" end="01:09:18.488">- At the risk of being too personal,</p>
+      <p begin="01:09:18.488" end="01:09:19.483">
+        <span tts:fontStyle="italic">- Right.</span>
+      </p>
+      <p begin="01:09:19.483" end="01:09:23.202">- but, you know, it's not, <br xmlns="http://www.w3.org/1999/xhtml"/>it's just the facts.</p>
+      <p begin="01:09:23.202" end="01:09:24.876">Michelle writes for Businessweek.</p>
+      <p begin="01:09:24.876" end="01:09:25.847">
+        <span tts:fontStyle="italic">- Yes.</span>
+      </p>
+      <p begin="01:09:25.847" end="01:09:29.130">- Millions of trees are cut down <br xmlns="http://www.w3.org/1999/xhtml"/>on a regular basis</p>
+      <p begin="01:09:29.130" end="01:09:33.457">in order to promote <br xmlns="http://www.w3.org/1999/xhtml"/>the totally fallacious propaganda</p>
+      <p begin="01:09:33.457" end="01:09:40.339">that American Corporate Capitalism <br xmlns="http://www.w3.org/1999/xhtml"/>is good for the people.</p>
+      <p begin="01:09:40.339" end="01:09:42.512">Good for you and me, you know.</p>
+      <p begin="01:09:42.512" end="01:09:48.318">Now, if it's your contention that<br xmlns="http://www.w3.org/1999/xhtml"/>she makes up for that</p>
+      <p begin="01:09:48.318" end="01:09:53.335">that evens out because she doesn't <br xmlns="http://www.w3.org/1999/xhtml"/>take the elevator in your 5th Avenue Coop,</p>
+      <p begin="01:09:53.335" end="01:09:57.459">I have to say you're either<br xmlns="http://www.w3.org/1999/xhtml"/>dishonest or delusional.</p>
+      <p begin="01:10:01.849" end="01:10:07.948">- I mean, that there's definitely an irony<br xmlns="http://www.w3.org/1999/xhtml"/>if it were in a paradise involved in that, but...</p>
+      <p begin="01:10:07.948" end="01:10:11.443">- I mean, who? <br xmlns="http://www.w3.org/1999/xhtml"/>Where did all these crap come from?</p>
+      <p begin="01:10:11.443" end="01:10:15.841">American Corporate Capitalism <br xmlns="http://www.w3.org/1999/xhtml"/>did all of it, you know.</p>
+      <p begin="01:10:15.841" end="01:10:20.636">If anybody really thought that <br xmlns="http://www.w3.org/1999/xhtml"/>that you were gonna have an impact there,</p>
+      <p begin="01:10:20.636" end="01:10:25.483">you wouldn't be getting<br xmlns="http://www.w3.org/1999/xhtml"/>the attention you're getting.</p>
+      <p begin="01:10:25.483" end="01:10:28.347">&#9834; [music] &#9834;</p>
+      <p begin="01:10:28.347" end="01:10:30.690">[people cheering and clapping]</p>
+      <p begin="01:10:30.690" end="01:10:34.376">- [TV Host] And here's our <br xmlns="http://www.w3.org/1999/xhtml"/>No Impact Man, Colin Beavan</p>
+      <p begin="01:10:34.376" end="01:10:37.110">in the no impact SUV.</p>
+      <p begin="01:10:38.420" end="01:10:41.827">- You may be on my show but I'm not<br xmlns="http://www.w3.org/1999/xhtml"/>here to spread your particular gospel</p>
+      <p begin="01:10:41.827" end="01:10:44.209">because I think what you're doing<br xmlns="http://www.w3.org/1999/xhtml"/>is extremely dangerous, okay?</p>
+      <p begin="01:10:44.209" end="01:10:46.256">[Colin laughing]</p>
+      <p begin="01:10:46.523" end="01:10:50.128">[camera clicking]</p>
+      <p begin="01:10:51.988" end="01:10:53.273">- Oops, there we go. That's good.</p>
+      <p begin="01:10:53.273" end="01:10:55.093">Okay, now I've got you like ...<br xmlns="http://www.w3.org/1999/xhtml"/>it up so I can see you.</p>
+      <p begin="01:10:55.093" end="01:10:57.661">- [Myriam Weil] can see a little bit.</p>
+      <p begin="01:10:57.661" end="01:10:58.282">- A little bit.</p>
+      <p begin="01:10:58.282" end="01:10:59.587">
+        <span tts:fontStyle="italic">- [Myriam] A little bit.</span>
+      </p>
+      <p begin="01:10:59.587" end="01:11:01.889">- Okay, I'm gonna hold something<br xmlns="http://www.w3.org/1999/xhtml"/>up for you to see more.</p>
+      <p begin="01:11:01.889" end="01:11:03.209">
+        <span tts:fontStyle="italic">- [Myriam] It's disgusting.</span>
+      </p>
+      <p begin="01:11:03.209" end="01:11:04.837">- No, it's not.</p>
+      <p begin="01:11:04.837" end="01:11:06.623">
+        <span tts:fontStyle="italic">- [Myriam] It's something shit...</span>
+      </p>
+      <p begin="01:11:06.623" end="01:11:10.213">- Yeah. It is shit. It's worm shit.</p>
+      <p begin="01:11:18.778" end="01:11:22.405">[water dripping]</p>
+      <p begin="01:11:24.606" end="01:11:30.595">- I think that my only connection to food<br xmlns="http://www.w3.org/1999/xhtml"/>before the project was eating it.</p>
+      <p begin="01:11:30.595" end="01:11:35.834">I really ate all my food pretty much <br xmlns="http://www.w3.org/1999/xhtml"/>at restaurants or at a take out container.</p>
+      <p begin="01:11:35.834" end="01:11:40.240">I never cooked it. I never prepared it.<br xmlns="http://www.w3.org/1999/xhtml"/>I never thought about it.</p>
+      <p begin="01:11:40.240" end="01:11:43.723">I never composted it. <br xmlns="http://www.w3.org/1999/xhtml"/>I never thought about the waste.</p>
+      <p begin="01:11:43.723" end="01:11:47.319">Now, that I go to the farmer's market,<br xmlns="http://www.w3.org/1999/xhtml"/>I know all the people who grow our food</p>
+      <p begin="01:11:47.319" end="01:11:53.249">and kinda have this like little desire<br xmlns="http://www.w3.org/1999/xhtml"/>to take it to the next level.</p>
+      <p begin="01:11:53.249" end="01:11:55.099">- I'm seeing today as just like <br xmlns="http://www.w3.org/1999/xhtml"/>the first session.</p>
+      <p begin="01:11:55.099" end="01:11:57.511">- [FemaleCook] Basic, okay. &#160;So...<br xmlns="http://www.w3.org/1999/xhtml"/>- Like the first lesson.</p>
+      <p begin="01:11:57.511" end="01:11:59.954">- So, we're gonna just like make some--</p>
+      <p begin="01:11:59.954" end="01:12:01.974">alright, so I've been thinking of<br xmlns="http://www.w3.org/1999/xhtml"/>a few things we'd make.</p>
+      <p begin="01:12:01.974" end="01:12:05.220">Alright, we'll start, you know, <br xmlns="http://www.w3.org/1999/xhtml"/>with the green beans </p>
+      <p begin="01:12:05.220" end="01:12:06.408">just snap off just this end.</p>
+      <p begin="01:12:06.408" end="01:12:09.107">- Okay, so snap off the kind of <br xmlns="http://www.w3.org/1999/xhtml"/>uglier end. This end.</p>
+      <p begin="01:12:09.107" end="01:12:09.928">- Exactly.</p>
+      <p begin="01:12:09.928" end="01:12:13.403">See, here are the dandelion greens,<br xmlns="http://www.w3.org/1999/xhtml"/>I'm gonna just snip the ends off.</p>
+      <p begin="01:12:13.403" end="01:12:15.362">So, I'm trying to cut off the end.<br xmlns="http://www.w3.org/1999/xhtml"/>- Okay.</p>
+      <p begin="01:12:17.481" end="01:12:18.588">- Great.</p>
+      <p begin="01:12:18.588" end="01:12:19.534">
+        <span tts:fontStyle="italic">- [Colin] Nicely done.</span>
+      </p>
+      <p begin="01:12:19.534" end="01:12:20.907">[Colin laughing]</p>
+      <p begin="01:12:24.257" end="01:12:26.018">- You just pre-heat it to 375.<br xmlns="http://www.w3.org/1999/xhtml"/>- Yeah.</p>
+      <p begin="01:12:26.192" end="01:12:28.885">- [Female Cook] I mean honestly, <br xmlns="http://www.w3.org/1999/xhtml"/>I might turn it up a little towards the end.</p>
+      <p begin="01:12:29.668" end="01:12:32.467">- I'm gonna make this coffee <br xmlns="http://www.w3.org/1999/xhtml"/>but I know you don't want any, right?</p>
+      <p begin="01:12:32.467" end="01:12:33.563">- [Michelle] Oh, yeah. I'll have a little.</p>
+      <p begin="01:12:33.563" end="01:12:34.487">- Are you sure?</p>
+      <p begin="01:12:34.487" end="01:12:35.902">- Yeah. I can have just a little bit.</p>
+      <p begin="01:12:36.135" end="01:12:38.101">There's a reason why <br xmlns="http://www.w3.org/1999/xhtml"/>I can only have a little bit.</p>
+      <p begin="01:12:38.101" end="01:12:40.458">I wonder if you guys <br xmlns="http://www.w3.org/1999/xhtml"/>can guess the reason?</p>
+      <p begin="01:12:40.458" end="01:12:42.353">I'll just have a little bit of coffee.</p>
+      <p begin="01:12:42.353" end="01:12:43.854">- Are you pregnant?</p>
+      <p begin="01:12:43.854" end="01:12:45.444">- Oh, my God! You are?</p>
+      <p begin="01:12:45.444" end="01:12:46.877">- Yes!</p>
+      <p begin="01:12:46.877" end="01:12:56.679">[shrieking]</p>
+      <p begin="01:12:56.679" end="01:12:58.341">
+        <span tts:fontStyle="italic">- [isabella] Can I go out?</span>
+      </p>
+      <p begin="01:12:58.341" end="01:13:01.401">- Dad's gonna take you out, love.</p>
+      <p begin="01:13:01.401" end="01:13:03.135">Dad's gonna take you out.</p>
+      <p begin="01:13:03.135" end="01:13:06.013">I'm just gonna put them on, tomatoes.</p>
+      <p begin="01:13:07.209" end="01:13:13.034">I'm making dinner tonight and I've <br xmlns="http://www.w3.org/1999/xhtml"/>actually never made dinner for us.</p>
+      <p begin="01:13:13.034" end="01:13:14.613">- Do you want me to show you <br xmlns="http://www.w3.org/1999/xhtml"/>how to get that oven</p>
+      <p begin="01:13:14.613" end="01:13:17.902"> to get to 350 or 375, it's all tricky.</p>
+      <p begin="01:13:17.902" end="01:13:20.767">- Why don't you just <br xmlns="http://www.w3.org/1999/xhtml"/>do the oven to 350, 375.</p>
+      <p begin="01:13:20.767" end="01:13:21.709">- Okay.</p>
+      <p begin="01:13:21.709" end="01:13:24.804">- Yup. Yup. Okay. That's a good trick.</p>
+      <p begin="01:13:24.804" end="01:13:28.715">- Okay. And then if you wanna be sure<br xmlns="http://www.w3.org/1999/xhtml"/>there's a thermometer down there.</p>
+      <p begin="01:13:28.715" end="01:13:29.536">- Oh, that's nice.</p>
+      <p begin="01:13:29.536" end="01:13:31.179">- It tells you what the <br xmlns="http://www.w3.org/1999/xhtml"/>temperature of the oven is.</p>
+      <p begin="01:13:31.179" end="01:13:33.000">- We really love our eggplant.</p>
+      <p begin="01:13:33.000" end="01:13:36.057">- We really love our eggplant.</p>
+      <p begin="01:13:36.057" end="01:13:40.676">- It might not workout <br xmlns="http://www.w3.org/1999/xhtml"/>but we have to learn and grow.</p>
+      <p begin="01:13:40.676" end="01:13:43.381">Tonight I'm just focused on I'm trying <br xmlns="http://www.w3.org/1999/xhtml"/>to learn how to roast a vegetable.</p>
+      <p begin="01:13:43.381" end="01:13:46.440">- Bye.</p>
+      <p begin="01:13:46.440" end="01:13:50.484">- I feel a little performance anxiety.</p>
+      <p begin="01:13:50.484" end="01:13:52.426">- I don't know if I should cut this off or...</p>
+      <p begin="01:13:52.426" end="01:13:55.689">I feel really nauseous.</p>
+      <p begin="01:13:57.011" end="01:14:00.015">[water splashing]</p>
+      <p begin="01:14:00.015" end="01:14:01.022">[dog barking]</p>
+      <p begin="01:14:01.022" end="01:14:02.654">Shhh.</p>
+      <p begin="01:14:02.654" end="01:14:05.080">[dog barking]</p>
+      <p begin="01:14:05.080" end="01:14:07.734">You know, my whole life I've been like <br xmlns="http://www.w3.org/1999/xhtml"/>looking for like gurus </p>
+      <p begin="01:14:07.734" end="01:14:10.716">or this program or that thing or --</p>
+      <p begin="01:14:10.716" end="01:14:12.770">You know, I've always been kind of<br xmlns="http://www.w3.org/1999/xhtml"/>looking for something</p>
+      <p begin="01:14:12.770" end="01:14:16.561">and I feel like we're looking <br xmlns="http://www.w3.org/1999/xhtml"/>for that thing together</p>
+      <p begin="01:14:16.561" end="01:14:20.035">and we're kinda like finding some of it.</p>
+      <p begin="01:14:20.035" end="01:14:25.000">I have to admit that like there are times<br xmlns="http://www.w3.org/1999/xhtml"/>when I'm just like this asshole.</p>
+      <p begin="01:14:25.000" end="01:14:27.104">I had a lot of moments.</p>
+      <p begin="01:14:27.104" end="01:14:30.879">Now, I think what he's doing is so cool.</p>
+      <p begin="01:14:30.879" end="01:14:32.270">I get like a big kick out of him.</p>
+      <p begin="01:14:32.270" end="01:14:35.695">I just think he's like...</p>
+      <p begin="01:14:41.765" end="01:14:45.551">hmm, not quite done yet.</p>
+      <p begin="01:14:45.551" end="01:14:47.449">Wooh.</p>
+      <p begin="01:14:47.449" end="01:14:57.281">Ah, Madam and Monsieur <br xmlns="http://www.w3.org/1999/xhtml"/>[foreign language]</p>
+      <p begin="01:14:59.279" end="01:15:01.929">[child babbling]</p>
+      <p begin="01:15:07.041" end="01:15:14.202">[cars passing]</p>
+      <p begin="01:15:15.923" end="01:15:19.264">- You have the idea that you can<br xmlns="http://www.w3.org/1999/xhtml"/>park other things besides cars?</p>
+      <p begin="01:15:19.264" end="01:15:24.009">- The idea is, why are we dedicating <br xmlns="http://www.w3.org/1999/xhtml"/>this land to cars instead of people?</p>
+      <p begin="01:15:24.009" end="01:15:25.676">Could you imagine like, if this is <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="01:15:25.676" end="01:15:29.249">extended all the way up<br xmlns="http://www.w3.org/1999/xhtml"/>to 7th Avenue?</p>
+      <p begin="01:15:29.249" end="01:15:32.806">
+        <span tts:fontStyle="italic">We started a positive impact<br/>phase of the project.</span>
+      </p>
+      <p begin="01:15:32.806" end="01:15:35.737">
+        <span tts:fontStyle="italic">The idea is no net <br/>environmental impact</span>
+      </p>
+      <p begin="01:15:35.737" end="01:15:40.339">
+        <span tts:fontStyle="italic">so that's reduce our negative impact<br/>and increase our positive impact.</span>
+      </p>
+      <p begin="01:15:40.339" end="01:15:42.094">
+        <span tts:fontStyle="italic">And it's not meant to be scientific.</span>
+      </p>
+      <p begin="01:15:42.094" end="01:15:44.766">It's just meant to be philosophical.</p>
+      <p begin="01:15:44.766" end="01:15:50.803">Can I live on this planet doing<br xmlns="http://www.w3.org/1999/xhtml"/>more good than harm?</p>
+      <p begin="01:15:50.803" end="01:15:54.019">
+        <span tts:fontStyle="italic">I've been helping with a research <br/>project to do with putting oysters back</span>
+      </p>
+      <p begin="01:15:54.019" end="01:15:57.037">in the Hudson River<br xmlns="http://www.w3.org/1999/xhtml"/>which will filter the water.</p>
+      <p begin="01:15:58.985" end="01:16:02.198">I went cleaning out tree pits in the Bronx.</p>
+      <p begin="01:16:02.198" end="01:16:07.420">I was like, what a crack of shit.<br xmlns="http://www.w3.org/1999/xhtml"/>No, impact man this is a project.</p>
+      <p begin="01:16:07.420" end="01:16:12.416">There is this network of people who<br xmlns="http://www.w3.org/1999/xhtml"/>have been working on this stuff forever.</p>
+      <p begin="01:16:12.416" end="01:16:15.468">- [Majora Carter] Once you no longer <br xmlns="http://www.w3.org/1999/xhtml"/>live in the ignorance that</p>
+      <p begin="01:16:15.468" end="01:16:18.315">when you throw something away<br xmlns="http://www.w3.org/1999/xhtml"/>that it actually goes away,</p>
+      <p begin="01:16:18.315" end="01:16:21.372">you know, it's just really difficult thing<br xmlns="http://www.w3.org/1999/xhtml"/>because yes, your piece of trash </p>
+      <p begin="01:16:21.372" end="01:16:24.688">comes to a community like this <br xmlns="http://www.w3.org/1999/xhtml"/>where it's processed.</p>
+      <p begin="01:16:27.678" end="01:16:30.764">
+        <span tts:fontStyle="italic">Most people, as they consume, <br/>don't understand</span>
+      </p>
+      <p begin="01:16:30.764" end="01:16:33.930">
+        <span tts:fontStyle="italic">what the real cost of those goods are.</span>
+      </p>
+      <p begin="01:16:33.930" end="01:16:36.301">
+        <span tts:fontStyle="italic">The pollution it was created, <br/>you know, to make it.</span>
+      </p>
+      <p begin="01:16:36.301" end="01:16:39.233">
+        <span tts:fontStyle="italic">The health effects <br/>that are associated with it.</span>
+      </p>
+      <p begin="01:16:39.233" end="01:16:42.550">We are the point sources for all <br xmlns="http://www.w3.org/1999/xhtml"/>the green house gases that everybody</p>
+      <p begin="01:16:42.550" end="01:16:45.744">is trying to curb right now.</p>
+      <p begin="01:16:45.744" end="01:16:47.751">
+        <span tts:fontStyle="italic">I think we should be spending more time</span>
+      </p>
+      <p begin="01:16:47.751" end="01:16:51.737">
+        <span tts:fontStyle="italic">recognizing that people's lives <br/>are being compromised every single day</span>
+      </p>
+      <p begin="01:16:51.737" end="01:16:55.594">
+        <span tts:fontStyle="italic">and have been for decades.</span>
+      </p>
+      <p begin="01:16:55.594" end="01:17:01.449">[truck passing]</p>
+      <p begin="01:17:01.449" end="01:17:04.555">- Twelve thousand trucks a day <br xmlns="http://www.w3.org/1999/xhtml"/>go through that neighborhood.</p>
+      <p begin="01:17:05.478" end="01:17:09.086">
+        <span tts:fontStyle="italic">The diesel particulates in the air <br/>are causing asthma in kids,</span>
+      </p>
+      <p begin="01:17:09.086" end="01:17:11.241">
+        <span tts:fontStyle="italic">causing brain damage in kids.</span>
+      </p>
+      <p begin="01:17:11.241" end="01:17:14.442">You know, when I started this project, <br xmlns="http://www.w3.org/1999/xhtml"/>I just thought I was just gonna like</p>
+      <p begin="01:17:14.442" end="01:17:19.298">make less garbage, not travel so much<br xmlns="http://www.w3.org/1999/xhtml"/>and wouldn't I be a hero, sort of thing.</p>
+      <p begin="01:17:19.298" end="01:17:23.982">You know, I guess I wasn't so clear<br xmlns="http://www.w3.org/1999/xhtml"/>how many issues it was gonna open up.</p>
+      <p begin="01:17:23.982" end="01:17:25.605">I'm not talking about the Polar Bears.</p>
+      <p begin="01:17:25.605" end="01:17:27.927">I'm not talking about <br xmlns="http://www.w3.org/1999/xhtml"/>the people in far away island,</p>
+      <p begin="01:17:27.927" end="01:17:31.358">communities who are gonna be hurt <br xmlns="http://www.w3.org/1999/xhtml"/>when the ocean levels rise.</p>
+      <p begin="01:17:31.358" end="01:17:33.991">I'm talking about people <br xmlns="http://www.w3.org/1999/xhtml"/>who already are living </p>
+      <p begin="01:17:33.991" end="01:17:38.173">with the effects of our <br xmlns="http://www.w3.org/1999/xhtml"/>over consumptive society.</p>
+      <p begin="01:17:38.173" end="01:17:44.606">&#9834;[music]&#9834;</p>
+      <p begin="01:17:44.606" end="01:17:46.106">- If you would ask me, you know,</p>
+      <p begin="01:17:46.106" end="01:17:48.772">nine months ago, <br xmlns="http://www.w3.org/1999/xhtml"/>would I ever have my baby be on a bike?</p>
+      <p begin="01:17:48.772" end="01:17:50.022">And I would say no.</p>
+      <p begin="01:17:50.022" end="01:17:52.123">Absolutely not, that's insane.</p>
+      <p begin="01:17:52.123" end="01:17:54.428">And I remember going off on the bike messengers</p>
+      <p begin="01:17:54.428" end="01:17:57.418">"Those fucking bike messengers<br xmlns="http://www.w3.org/1999/xhtml"/>are fucking insane."</p>
+      <p begin="01:17:57.418" end="01:18:00.197">And anybody who would ride a bike <br xmlns="http://www.w3.org/1999/xhtml"/>in New York is fucking insane.</p>
+      <p begin="01:18:00.197" end="01:18:04.549">and they're making it really unsafe, <br xmlns="http://www.w3.org/1999/xhtml"/>the bikers, for us car people, </p>
+      <p begin="01:18:04.549" end="01:18:06.746">like SUV renters.</p>
+      <p begin="01:18:06.746" end="01:18:09.434">They're making it <br xmlns="http://www.w3.org/1999/xhtml"/>really fucking unsafe for us.</p>
+      <p begin="01:18:09.434" end="01:18:10.809">And that's like my world view.</p>
+      <p begin="01:18:10.809" end="01:18:12.263">[car honking]</p>
+      <p begin="01:18:12.263" end="01:18:15.867">And now my world view <br xmlns="http://www.w3.org/1999/xhtml"/>has completely slipped on it's head.</p>
+      <p begin="01:18:15.867" end="01:18:19.908">The streets have totally been taken over<br xmlns="http://www.w3.org/1999/xhtml"/>and they're not for people.</p>
+      <p begin="01:18:19.908" end="01:18:24.256">
+        <span tts:fontStyle="italic">And then the rapacious consumption<br/>for consumption's sake.</span>
+      </p>
+      <p begin="01:18:25.821" end="01:18:28.746">
+        <span tts:fontStyle="italic">And the coma that that induces.</span>
+      </p>
+      <p begin="01:18:33.710" end="01:18:38.330">I'm just re-thinking everything <br xmlns="http://www.w3.org/1999/xhtml"/>in terms of what's important.</p>
+      <p begin="01:18:38.330" end="01:18:42.493">- Do you feel that, moving forward,</p>
+      <p begin="01:18:42.493" end="01:18:48.320">that you feel like there's some other way<br xmlns="http://www.w3.org/1999/xhtml"/>of considering your decision?</p>
+      <p begin="01:18:48.320" end="01:18:54.059">- Yeah. I mean, you know...</p>
+      <p begin="01:18:54.059" end="01:18:57.104">What am I doing to do, just say, <br xmlns="http://www.w3.org/1999/xhtml"/>well, I don't care?</p>
+      <p begin="01:19:08.642" end="01:19:30.107">&#9834; [music] &#9834;</p>
+      <p begin="01:19:30.107" end="01:19:34.324">- I'm fixing it so that we get the most<br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="01:19:35.124" end="01:19:36.963"> sun that we can.</p>
+      <p begin="01:19:38.875" end="01:19:42.302">A big question at the center of the<br xmlns="http://www.w3.org/1999/xhtml"/><span tts:fontStyle="italic">No Impact</span> experiment was whether</p>
+      <p begin="01:19:42.302" end="01:19:47.262">one person can make a difference.</p>
+      <p begin="01:19:47.262" end="01:19:50.044">One of the things that I <br xmlns="http://www.w3.org/1999/xhtml"/>really get worried about</p>
+      <p begin="01:19:50.044" end="01:19:54.059">when people talk about the fact that<br xmlns="http://www.w3.org/1999/xhtml"/>individual action is not important is that</p>
+      <p begin="01:19:54.059" end="01:19:59.573">the thing about individual action <br xmlns="http://www.w3.org/1999/xhtml"/>is that it causes people to be engaged.</p>
+      <p begin="01:19:59.573" end="01:20:02.571">Our society is not setup to live sustainably.</p>
+      <p begin="01:20:02.571" end="01:20:05.544">We need more mass transit, <br xmlns="http://www.w3.org/1999/xhtml"/>higher efficiency vehicles, </p>
+      <p begin="01:20:05.544" end="01:20:08.714">no more coal burning power plants.</p>
+      <p begin="01:20:08.714" end="01:20:11.863">These are hard changes.</p>
+      <p begin="01:20:11.863" end="01:20:13.971">The international panel on climate change</p>
+      <p begin="01:20:13.971" end="01:20:19.617">said that we need an 80% cut <br xmlns="http://www.w3.org/1999/xhtml"/>on carbon emissions by 2015.</p>
+      <p begin="01:20:19.617" end="01:20:23.149">That's huge.</p>
+      <p begin="01:20:23.149" end="01:20:25.616">As your constituent, the first thing<br xmlns="http://www.w3.org/1999/xhtml"/>that I wanted to do is</p>
+      <p begin="01:20:25.616" end="01:20:27.913"> I wanted to thank you for sponsoring <br xmlns="http://www.w3.org/1999/xhtml"/>the energy bill.</p>
+      <p begin="01:20:27.913" end="01:20:29.013">- You're welcome.</p>
+      <p begin="01:20:29.013" end="01:20:30.573">- Because that gives us a good...</p>
+      <p begin="01:20:30.573" end="01:20:32.344">- Gives a whole deal.</p>
+      <p begin="01:20:32.344" end="01:20:35.598">- Using less is a start but it's not enough.</p>
+      <p begin="01:20:35.598" end="01:20:40.904">We need to demand that <br xmlns="http://www.w3.org/1999/xhtml"/>our systems become sustainable.</p>
+      <p begin="01:20:43.952" end="01:20:47.040">- You can rock it. I will rock you, okay?</p>
+      <p begin="01:20:47.040" end="01:20:49.715">Okay, do you wanna rock <br xmlns="http://www.w3.org/1999/xhtml"/>while you look at Frankie?</p>
+      <p begin="01:20:49.715" end="01:20:53.620">- We told Isabela, we thought <br xmlns="http://www.w3.org/1999/xhtml"/>Michelle had a baby in her tummy </p>
+      <p begin="01:20:53.620" end="01:20:55.857">but we were wrong.</p>
+      <p begin="01:20:55.857" end="01:20:58.067">She didn't, actually.</p>
+      <p begin="01:20:58.067" end="01:20:59.177">- The second--</p>
+      <p begin="01:20:59.177" end="01:21:01.335">I guess it was the second time <br xmlns="http://www.w3.org/1999/xhtml"/>I went to the doctor.</p>
+      <p begin="01:21:01.335" end="01:21:03.601">The first time we went to the doctor, <br xmlns="http://www.w3.org/1999/xhtml"/>he was fine.</p>
+      <p begin="01:21:03.601" end="01:21:07.044">And then the second time<br xmlns="http://www.w3.org/1999/xhtml"/>we went to the doctor </p>
+      <p begin="01:21:07.044" end="01:21:08.750">there was not heartbeat.</p>
+      <p begin="01:21:09.918" end="01:21:11.185">- Yeah.</p>
+      <p begin="01:21:11.185" end="01:21:13.968">There wasn't one. <br xmlns="http://www.w3.org/1999/xhtml"/>There was no heartbeat.</p>
+      <p begin="01:21:17.440" end="01:21:20.915">- Where are you going?</p>
+      <p begin="01:21:27.689" end="01:21:29.408">From the perspective of the story,</p>
+      <p begin="01:21:29.408" end="01:21:31.257">it would have been like <br xmlns="http://www.w3.org/1999/xhtml"/>the perfect ender of the story.</p>
+      <p begin="01:21:31.257" end="01:21:35.789">Like you know, I finally kind of <br xmlns="http://www.w3.org/1999/xhtml"/>crossed over </p>
+      <p begin="01:21:35.789" end="01:21:38.182">into <span tts:fontStyle="italic">No Impact</span> and really embrace it</p>
+      <p begin="01:21:38.182" end="01:21:40.036">and that's what Colin really wanted</p>
+      <p begin="01:21:40.036" end="01:21:43.332">and then I got pregnant, <br xmlns="http://www.w3.org/1999/xhtml"/>that's what I would have really wanted</p>
+      <p begin="01:21:43.332" end="01:21:44.947">and then the project winds down.</p>
+      <p begin="01:21:44.947" end="01:21:47.370">It's all kind of in this really great bow.</p>
+      <p begin="01:21:47.370" end="01:21:53.423">And it's not a bow, it's a big loose end.</p>
+      <p begin="01:21:53.423" end="01:21:56.622">So, it's a loose end.</p>
+      <p begin="01:21:56.622" end="01:22:02.224">It's a narrative loose end<br xmlns="http://www.w3.org/1999/xhtml"/>and a spiritual loose end.</p>
+      <p begin="01:22:02.224" end="01:22:09.146">Just a loose end. <br xmlns="http://www.w3.org/1999/xhtml"/>A lot of loose ends in life.</p>
+      <p begin="01:22:09.146" end="01:22:11.727">- I think we'll probably try again.</p>
+      <p begin="01:22:13.923" end="01:22:16.261">- They're like rainbows.</p>
+      <p begin="01:22:16.261" end="01:22:18.322">- Is that like rainbows on your feet?</p>
+      <p begin="01:22:18.322" end="01:22:20.466">- [Isabella] Rainbow feet.</p>
+      <p begin="01:22:25.320" end="01:22:27.413">- [Meyer] The official swan song <br xmlns="http://www.w3.org/1999/xhtml"/>in the garden is when </p>
+      <p begin="01:22:27.413" end="01:22:30.169">you turn the soil over in the fall.</p>
+      <p begin="01:22:30.169" end="01:22:34.856">That's, that's the official <br xmlns="http://www.w3.org/1999/xhtml"/>end of the season.</p>
+      <p begin="01:22:38.147" end="01:22:39.201">- It's kind of interesting</p>
+      <p begin="01:22:39.201" end="01:22:41.092">because we're coming back <br xmlns="http://www.w3.org/1999/xhtml"/>to the food that we were eating </p>
+      <p begin="01:22:41.092" end="01:22:42.458">when the project started,</p>
+      <p begin="01:22:42.458" end="01:22:46.861">which is like squash, root vegetables,<br xmlns="http://www.w3.org/1999/xhtml"/>and stuff like that.</p>
+      <p begin="01:22:46.861" end="01:22:50.283">And similarly, the garden <br xmlns="http://www.w3.org/1999/xhtml"/>is getting turned.</p>
+      <p begin="01:22:50.283" end="01:22:53.543">So, you actually-- you kind of</p>
+      <p begin="01:22:53.543" end="01:22:57.784">it's not like you turn the calendar page<br xmlns="http://www.w3.org/1999/xhtml"/>and you can tell that a year has passed.</p>
+      <p begin="01:22:57.784" end="01:23:01.704">You feel that a year has passed <br xmlns="http://www.w3.org/1999/xhtml"/>because you're recognizing </p>
+      <p begin="01:23:01.704" end="01:23:06.524">something about the earth.</p>
+      <p begin="01:23:06.524" end="01:23:08.218">We're so disconnected, <br xmlns="http://www.w3.org/1999/xhtml"/>I think, in the city</p>
+      <p begin="01:23:08.218" end="01:23:10.592">from the natural rhythms.</p>
+      <p begin="01:23:10.592" end="01:23:11.793">I mean, I didn't know this before<br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="01:23:11.793" end="01:23:14.045">but it's actually a great pleasure <br xmlns="http://www.w3.org/1999/xhtml"/>to be connected.</p>
+      <p begin="01:23:14.045" end="01:23:36.001">&#9834;[music]&#9834;</p>
+      <p begin="01:23:36.001" end="01:23:38.307">- It's freezing in here.</p>
+      <p begin="01:23:40.757" end="01:23:46.019">It's November 7th <br xmlns="http://www.w3.org/1999/xhtml"/>and we're almost done and I'm cold.</p>
+      <p begin="01:23:46.019" end="01:23:47.618">So, a lot of times what I do is I --</p>
+      <p begin="01:23:47.618" end="01:23:50.398">say I just got home from work, <br xmlns="http://www.w3.org/1999/xhtml"/>I'm wearing a suit</p>
+      <p begin="01:23:50.398" end="01:23:55.890">but I come in here <br xmlns="http://www.w3.org/1999/xhtml"/>and I get in the covers.</p>
+      <p begin="01:23:55.890" end="01:24:00.367">I spend a lot of time <br xmlns="http://www.w3.org/1999/xhtml"/>under the covers when it's cold.</p>
+      <p begin="01:24:00.367" end="01:24:01.742">We don't talk about it ending.</p>
+      <p begin="01:24:01.742" end="01:24:02.603">And it's kind of funny because <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="01:24:02.603" end="01:24:04.065">we're gonna be separated <br xmlns="http://www.w3.org/1999/xhtml"/>when it ends</p>
+      <p begin="01:24:04.065" end="01:24:05.846">Because when it ends, for me,</p>
+      <p begin="01:24:05.846" end="01:24:07.516">I'm getting on a plane to go <br xmlns="http://www.w3.org/1999/xhtml"/>see my parents, </p>
+      <p begin="01:24:07.516" end="01:24:10.186">who I haven't seen in a year.</p>
+      <p begin="01:24:10.186" end="01:24:13.217">And Colin will be here <br xmlns="http://www.w3.org/1999/xhtml"/>and I'm taking Isabella.</p>
+      <p begin="01:24:13.217" end="01:24:21.028">So, we-- it's funny we haven't<br xmlns="http://www.w3.org/1999/xhtml"/>really talked about it.</p>
+      <p begin="01:24:21.028" end="01:24:23.769">But, everybody on the outside <br xmlns="http://www.w3.org/1999/xhtml"/>ask me about it.</p>
+      <p begin="01:24:23.769" end="01:24:25.483">
+        <span tts:fontStyle="italic">- Mom?</span>
+      </p>
+      <p begin="01:24:25.483" end="01:24:27.753">
+        <span tts:fontStyle="italic">- What's up Sugar Pop?</span>
+      </p>
+      <p begin="01:24:27.753" end="01:24:31.874">- There no any light in here. I can't see.</p>
+      <p begin="01:24:31.874" end="01:24:35.042">- I'm looking forward to reading <br xmlns="http://www.w3.org/1999/xhtml"/>in bed with Isabella</p>
+      <p begin="01:24:35.042" end="01:24:40.786">with ample illumination, <br xmlns="http://www.w3.org/1999/xhtml"/>ample illumination.</p>
+      <p begin="01:24:46.090" end="01:24:47.394">You're not tired, are you?</p>
+      <p begin="01:24:47.394" end="01:24:48.994">- No.</p>
+      <p begin="01:24:48.994" end="01:24:52.893">- You know, next week, <br xmlns="http://www.w3.org/1999/xhtml"/>there's a school thing happening in NYU.</p>
+      <p begin="01:24:52.893" end="01:24:57.305">Something like 200 NYU students are<br xmlns="http://www.w3.org/1999/xhtml"/>gonna try and live <span tts:fontStyle="italic">No Impact</span> for a week.</p>
+      <p begin="01:24:57.305" end="01:24:58.438">- I think that's so cool.</p>
+      <p begin="01:24:58.438" end="01:24:59.115">- Yeah.</p>
+      <p begin="01:24:59.115" end="01:25:03.778">So, like on Sunday I go and we just have<br xmlns="http://www.w3.org/1999/xhtml"/>kind of a workshop about how to do it.</p>
+      <p begin="01:25:03.778" end="01:25:08.897">And then the following Monday, <br xmlns="http://www.w3.org/1999/xhtml"/>I go and I give a big talk.</p>
+      <p begin="01:25:08.897" end="01:25:16.094">&#9834;[music]&#9834;</p>
+      <p begin="01:25:16.094" end="01:25:17.854">Room 206.</p>
+      <p begin="01:25:20.195" end="01:25:24.447">And this week as you experiment, <br xmlns="http://www.w3.org/1999/xhtml"/>I think you're gonna see that it's not so bad.</p>
+      <p begin="01:25:24.447" end="01:25:26.570">My experiment only lasts two more weeks.</p>
+      <p begin="01:25:26.570" end="01:25:28.363">As I come out of the extremes,</p>
+      <p begin="01:25:28.363" end="01:25:30.123">some of the stuff that we've given up</p>
+      <p begin="01:25:30.123" end="01:25:32.153">we'll take back <br xmlns="http://www.w3.org/1999/xhtml"/>but the fact is that the balance</p>
+      <p begin="01:25:32.153" end="01:25:34.484">will be that we're just<br xmlns="http://www.w3.org/1999/xhtml"/>gonna be substantially</p>
+      <p begin="01:25:34.484" end="01:25:37.707">causing less environmental impact</p>
+      <p begin="01:25:37.707" end="01:25:42.119">and without adversely <br xmlns="http://www.w3.org/1999/xhtml"/>affecting our happiness.</p>
+      <p begin="01:25:42.119" end="01:25:45.102">The fact of the matter is that <br xmlns="http://www.w3.org/1999/xhtml"/>if only I change</p>
+      <p begin="01:25:45.102" end="01:25:46.813">it's not gonna make a difference.</p>
+      <p begin="01:25:46.813" end="01:25:50.895">But, the hope is that if each of us <br xmlns="http://www.w3.org/1999/xhtml"/>as individuals change, </p>
+      <p begin="01:25:50.895" end="01:25:53.989">it's going to inspire everybody to change.</p>
+      <p begin="01:25:53.989" end="01:25:58.655">So, I believe the most radical, <br xmlns="http://www.w3.org/1999/xhtml"/>political act there is, is to be an optimist.</p>
+      <p begin="01:25:58.655" end="01:26:01.565">The most radical, political act there is, <br xmlns="http://www.w3.org/1999/xhtml"/>is to believe that if I change,</p>
+      <p begin="01:26:01.565" end="01:26:03.093"> other people will follow suit.</p>
+      <p begin="01:26:03.093" end="01:26:07.972">The reason why I am here is <br xmlns="http://www.w3.org/1999/xhtml"/>because a first grader called Olive,</p>
+      <p begin="01:26:07.972" end="01:26:11.773">wrote to me on my blog <br xmlns="http://www.w3.org/1999/xhtml"/>and asked me if I would come.</p>
+      <p begin="01:26:11.773" end="01:26:15.444">People ask me, if I could just <br xmlns="http://www.w3.org/1999/xhtml"/>do one thing, what should it be?</p>
+      <p begin="01:26:15.444" end="01:26:18.955">Not use plastic bags <br xmlns="http://www.w3.org/1999/xhtml"/>or not use plastic cups,</p>
+      <p begin="01:26:19.755" end="01:26:22.797">I would say, if there was <br xmlns="http://www.w3.org/1999/xhtml"/>only one thing to do</p>
+      <p begin="01:26:22.797" end="01:26:25.842">it would be to volunteer with<br xmlns="http://www.w3.org/1999/xhtml"/>an environmental organization.</p>
+      <p begin="01:26:25.842" end="01:26:28.755">Part of the reason for that<br xmlns="http://www.w3.org/1999/xhtml"/>is because there is community.</p>
+      <p begin="01:26:28.755" end="01:26:33.366">I believe very strongly that a lot of the<br xmlns="http://www.w3.org/1999/xhtml"/>environmental problems in our planet</p>
+      <p begin="01:26:33.366" end="01:26:35.872">have come because of the <br xmlns="http://www.w3.org/1999/xhtml"/>breakdown of community.</p>
+      <p begin="01:26:35.872" end="01:26:36.957">Because without community, <br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="01:26:36.957" end="01:26:39.619">none of us feel accountable <br xmlns="http://www.w3.org/1999/xhtml"/>to anybody else.</p>
+      <p begin="01:26:39.619" end="01:26:41.319">All of us are interconnected</p>
+      <p begin="01:26:41.319" end="01:26:42.290">and on many levels.</p>
+      <p begin="01:26:42.290" end="01:26:44.256">You know, if you're religious<br xmlns="http://www.w3.org/1999/xhtml"/></p>
+      <p begin="01:26:44.256" end="01:26:46.429">then you understand <br xmlns="http://www.w3.org/1999/xhtml"/>that at a religious level.</p>
+      <p begin="01:26:46.429" end="01:26:50.241">But even if you're just practical, <br xmlns="http://www.w3.org/1999/xhtml"/>you can see</p>
+      <p begin="01:26:50.241" end="01:26:51.866"> that we're interconnected, <br xmlns="http://www.w3.org/1999/xhtml"/>you know.</p>
+      <p begin="01:26:51.866" end="01:26:54.818">If I, you know, splash a puddle <br xmlns="http://www.w3.org/1999/xhtml"/>and you're standing next to it, </p>
+      <p begin="01:26:54.818" end="01:26:55.893">it splashes you.</p>
+      <p begin="01:26:55.893" end="01:27:00.197">If I, you know, make pollution<br xmlns="http://www.w3.org/1999/xhtml"/>you have to breathe it in.</p>
+      <p begin="01:27:00.197" end="01:27:01.366">My mind wants to tell me </p>
+      <p begin="01:27:01.366" end="01:27:04.490">that I'm the only one that's important, <br xmlns="http://www.w3.org/1999/xhtml"/>you know,</p>
+      <p begin="01:27:04.490" end="01:27:08.089">so I have to keep teaching myself<br xmlns="http://www.w3.org/1999/xhtml"/>over and over again that that's not true.</p>
+      <p begin="01:27:09.931" end="01:27:12.797">
+        <span tts:fontStyle="italic">- [Lady Guest] And then when you turn <br/>the light on, are all the lights gonna go on?</span>
+      </p>
+      <p begin="01:27:12.797" end="01:27:14.060">- Most of them. I try to ...</p>
+      <p begin="01:27:14.060" end="01:27:17.320">
+        <span tts:fontStyle="italic">- Okay, just as soon as you do that<br/>they're all gonna go on.</span>
+      </p>
+      <p begin="01:27:17.320" end="01:27:19.680">- No, no, no. <br xmlns="http://www.w3.org/1999/xhtml"/>Because I have to do it just a few flicks.</p>
+      <p begin="01:27:19.680" end="01:27:21.333">Because there's more than <br xmlns="http://www.w3.org/1999/xhtml"/>one circuit breaker.</p>
+      <p begin="01:27:21.333" end="01:27:24.398">- Alright, so you have to do like three<br xmlns="http://www.w3.org/1999/xhtml"/>like hit three circuit breaker</p>
+      <p begin="01:27:24.398" end="01:27:25.641">and then they all will be on.</p>
+      <p begin="01:27:25.641" end="01:27:26.333">- Yes.</p>
+      <p begin="01:27:26.333" end="01:27:28.733">- So, we should light this ... okay.</p>
+      <p begin="01:27:28.733" end="01:27:31.092">- Okay.</p>
+      <p begin="01:27:31.092" end="01:27:34.408">- It's been-- well, it hasn't really been a year</p>
+      <p begin="01:27:34.408" end="01:27:38.085">because the electricity phase <br xmlns="http://www.w3.org/1999/xhtml"/>started like around month six.</p>
+      <p begin="01:27:38.085" end="01:27:40.365">So, it's been six months <br xmlns="http://www.w3.org/1999/xhtml"/>since we've had electricity.</p>
+      <p begin="01:27:40.365" end="01:27:45.351">So, it's gratitude for small pleasures.</p>
+      <p begin="01:27:45.351" end="01:27:46.989">- Ohhh.</p>
+      <p begin="01:27:46.989" end="01:27:49.714">- Yey!</p>
+      <p begin="01:27:49.714" end="01:27:52.033">[child babbling]</p>
+      <p begin="01:27:56.645" end="01:27:58.968">[blowing sound]</p>
+      <p begin="01:28:00.670" end="01:28:02.389">- Here we go.</p>
+      <p begin="01:28:02.389" end="01:28:11.652">&#9834;[music]&#9834;</p>
+      <p begin="01:28:11.652" end="01:28:15.454">- I have to say I was really skeptical<br xmlns="http://www.w3.org/1999/xhtml"/>about a lot of things in the beginning</p>
+      <p begin="01:28:15.454" end="01:28:16.654">and I thought they were insane</p>
+      <p begin="01:28:16.654" end="01:28:21.997">
+        <span tts:fontStyle="italic">and really stupid and I hated and <br/>resented you, alternatively, for them.</span>
+      </p>
+      <p begin="01:28:21.997" end="01:28:25.454">But, I really, really wanna keep the biking.</p>
+      <p begin="01:28:25.454" end="01:28:29.187">I wanna keep as much <br xmlns="http://www.w3.org/1999/xhtml"/>as we possibly can the no garbage.</p>
+      <p begin="01:28:29.187" end="01:28:33.082">And I really, really wanna keep<br xmlns="http://www.w3.org/1999/xhtml"/>the farmer's market.</p>
+      <p begin="01:28:33.082" end="01:28:37.355">&#9834;[music]&#9834;</p>
+      <p begin="01:28:37.355" end="01:28:41.626">I wanna be a vegetarian<br xmlns="http://www.w3.org/1999/xhtml"/>but I wanna have a hotdog, now and then.</p>
+      <p begin="01:28:41.626" end="01:28:42.917">[Colin chuckling]</p>
+      <p begin="01:28:42.917" end="01:28:48.001">I would be a vege-hoggian or vege-dogian.</p>
+      <p begin="01:28:48.001" end="01:28:52.441">&#9834;[music]&#9834;</p>
+      <p begin="01:28:52.441" end="01:28:56.858">I'd like to not have TV in the house<br xmlns="http://www.w3.org/1999/xhtml"/>but I can't wait to go to the movies</p>
+      <p begin="01:28:56.858" end="01:28:58.961">and when we're on vacation,<br xmlns="http://www.w3.org/1999/xhtml"/>that thing is on.</p>
+      <p begin="01:29:00.816" end="01:29:02.811">There are some things <br xmlns="http://www.w3.org/1999/xhtml"/>I have some issues with.</p>
+      <p begin="01:29:02.811" end="01:29:03.528">- Yeah.</p>
+      <p begin="01:29:03.528" end="01:29:05.289">- Why can't we take those worms back?</p>
+      <p begin="01:29:05.289" end="01:29:09.223">Because they do make <br xmlns="http://www.w3.org/1999/xhtml"/>Lord of the Fleece in the kitchen.</p>
+      <p begin="01:29:09.223" end="01:29:12.966">And also there are some things that <br xmlns="http://www.w3.org/1999/xhtml"/>we'll just not gonna be able to do</p>
+      <p begin="01:29:12.966" end="01:29:16.566">maybe and that might be one of them.</p>
+      <p begin="01:29:16.566" end="01:29:18.674">'Cause I get to make <br xmlns="http://www.w3.org/1999/xhtml"/>some decisions around here.</p>
+      <p begin="01:29:18.674" end="01:29:22.670">&#9834;[music]&#9834;</p>
+    </div>
+  </body>
+
+</tt>
