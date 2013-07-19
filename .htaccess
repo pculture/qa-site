@@ -1,2 +1,2 @@
-AddType application/txt .srt .dfxp
+AddType text/plain .srt .dfxp
 
