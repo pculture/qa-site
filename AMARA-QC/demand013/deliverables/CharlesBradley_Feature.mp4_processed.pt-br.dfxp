@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="pt-br">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:18.617" end="00:00:22.200">Um, dois. Um, dois, tr&#234;s, quatro.</p>
+      <p begin="00:00:22.278" end="00:00:23.520"/>
+      <p begin="00:00:23.582" end="00:00:25.691">Se gosta da m&#250;sica de James Brown,</p>
+      <p begin="00:00:25.691" end="00:00:27.585">esta noite vai passar um bom bocado.</p>
+      <p begin="00:00:27.585" end="00:00:29.761">Esta noite estamos a celebrar o 62&#186; anivers&#225;rio</p>
+      <p begin="00:00:29.761" end="00:00:33.850">de Black Velvet, James Brown Jr.</p>
+      <p begin="00:00:33.850" end="00:00:35.906" region="top">Whoo, 62! </p>
+      <p begin="00:00:36.476" end="00:00:38.526" region="top">Agora, comecem a bater palmas </p>
+      <p begin="00:00:38.526" end="00:00:39.758" region="top">porque temos um jovem </p>
+      <p begin="00:00:39.758" end="00:00:41.545" region="top">prestes a subir ao palco. </p>
+      <p begin="00:00:41.545" end="00:00:43.690">Ele esteve no programa do David Letterman</p>
+      <p begin="00:00:43.690" end="00:00:45.777">Batam palmas, conhe&#231;am e cumprimentem</p>
+      <p begin="00:00:45.777" end="00:00:49.963">ao Black Velvet, James Brown, Jr.!</p>
+      <p begin="00:00:49.963" end="00:00:52.279"/>
+      <p begin="00:00:52.279" end="00:00:53.952"/>
+      <p begin="00:00:53.952" end="00:00:59.249">&#9834; &#201; um mundo de homem. &#9834;</p>
+      <p begin="00:00:59.249" end="00:01:05.556">&#9834; Mas eu n&#227;o seria nada, nada... &#9834;</p>
+      <p begin="00:01:05.556" end="00:01:06.715">- Imito o James Brown</p>
+      <p begin="00:01:06.715" end="00:01:13.956">desde os meus 14 anos.</p>
+      <p begin="00:01:13.956" end="00:01:16.475"/>
+      <p begin="00:01:16.475" end="00:01:17.935"/>
+      <p begin="00:01:17.935" end="00:01:21.271"/>
+      <p begin="00:01:21.271" end="00:01:25.860"/>
+      <p begin="00:01:25.860" end="00:01:29.767">Mas agora vou come&#231;ar a fazer de Charles Bradley.</p>
+      <p begin="00:01:29.767" end="00:01:52.445"/>
+      <p begin="00:01:52.599" end="00:01:54.471" region="top">O meu primeiro &#225;lbum de originais </p>
+      <p begin="00:01:54.471" end="00:01:58.132" region="top">vai ficar &#224; venda em 25 de Janeiro. </p>
+      <p begin="00:01:58.132" end="00:02:01.271">H&#225; 42 anos que luto</p>
+      <p begin="00:02:01.271" end="00:02:03.014">para singrar na ind&#250;stria</p>
+      <p begin="00:02:03.014" end="00:02:04.731">e, aos 62 anos,</p>
+      <p begin="00:02:04.731" end="00:02:06.775">estou a come&#231;ar a encontrar o meu caminho.</p>
+      <p begin="00:02:09.086" end="00:02:11.071">Nunca fiz dinheiro suficiente</p>
+      <p begin="00:02:11.071" end="00:02:13.928">para me sustentar no mundo da m&#250;sica.</p>
+      <p begin="00:02:13.928" end="00:02:15.993">,as espero que este &#225;lbum</p>
+      <p begin="00:02:15.993" end="00:02:17.442">seja um ponto de viragem para mim,</p>
+      <p begin="00:02:17.442" end="00:02:20.252">e que me possa sustentar atrav&#233;s da m&#250;sica.</p>
+      <p begin="00:02:25.314" end="00:02:26.837">Hey, man.</p>
+      <p begin="00:02:26.837" end="00:02:28.808">Vou buscar-te &#225;gua, ok?</p>
+      <p begin="00:02:28.808" end="00:02:30.155">Hey, man.</p>
+      <p begin="00:02:30.155" end="00:02:30.834">Este &#233; o meu p&#225;ssaro.</p>
+      <p begin="00:02:30.834" end="00:02:32.647">Deixa-me louco.</p>
+      <p begin="00:02:32.647" end="00:02:33.782">Fico zangado, saio da beira dele, vou para as traseiras, fecho a porta,</p>
+      <p begin="00:02:33.782" end="00:02:35.520">Eu vou no quarto, fechar a porta,</p>
+      <p begin="00:02:35.520" end="00:02:37.328">e deixo-o &#224; vontade para gritar quanto ele quiser.</p>
+      <p begin="00:02:38.020" end="00:02:39.057">E ter a minha casinha est&#225;vel,</p>
+      <p begin="00:02:39.057" end="00:02:40.590">n&#227;o &#233; tudo o que quero,</p>
+      <p begin="00:02:40.590" end="00:02:43.199">mas gra&#231;as a Deus que tenho um telhado sobre a cabe&#231;a.</p>
+      <p begin="00:02:44.221" end="00:02:45.529">Quando entro no meu apartamentozinho</p>
+      <p begin="00:02:45.529" end="00:02:47.113">e fecho a minha porta,</p>
+      <p begin="00:02:47.113" end="00:02:48.734">fico em paz.</p>
+      <p begin="00:02:48.734" end="00:02:50.496">Mas quando entro nos bairros,</p>
+      <p begin="00:02:50.496" end="00:02:53.225">quando entro no elevador,</p>
+      <p begin="00:02:53.225" end="00:02:54.307">entrar l&#225;,</p>
+      <p begin="00:02:54.307" end="00:02:55.545">&#233; a&#237; que come&#231;am os sarilhos.</p>
+      <p begin="00:02:55.545" end="00:02:57.076">Nunca se sabe</p>
+      <p begin="00:02:57.076" end="00:02:59.174">o que vai acontecer nessas noites.</p>
+      <p begin="00:02:59.174" end="00:03:00.663">O tipo l&#225; de baixo,</p>
+      <p begin="00:03:00.663" end="00:03:02.366">o nome dele &#233; Alfred,</p>
+      <p begin="00:03:02.366" end="00:03:03.206">Tipo muito bom, n&#227;o chateia ningu&#233;m.</p>
+      <p begin="00:03:03.206" end="00:03:04.783">&#201; um tipo religioso.</p>
+      <p begin="00:03:04.783" end="00:03:06.731">Eles dispararam contra a casa dele.</p>
+      <p begin="00:03:06.731" end="00:03:07.753">Ele mostrou-me todos os buracos</p>
+      <p begin="00:03:07.753" end="00:03:08.478">onde foram disparados tiros.</p>
+      <p begin="00:03:08.478" end="00:03:09.261">Eu disse: "Wow, man."</p>
+      <p begin="00:03:09.261" end="00:03:10.741">Eu disse,</p>
+      <p begin="00:03:10.741" end="00:03:13.017">N&#227;o era capaz de viver no r&#233;s-do-ch&#227;o.</p>
+      <p begin="00:03:13.017" end="00:03:14.586">Quando as coisas ficam</p>
+      <p begin="00:03:14.586" end="00:03:16.289">demasiado m&#225;s nos bairros,</p>
+      <p begin="00:03:16.289" end="00:03:18.007">vou para casa da minha m&#227;e</p>
+      <p begin="00:03:18.007" end="00:03:19.737">e durmo na cave dela.</p>
+      <p begin="00:03:32.075" end="00:03:33.691">Ent&#227;o venho para aqui,</p>
+      <p begin="00:03:33.691" end="00:03:36.011">e &#233; aqui que durmo.</p>
+      <p begin="00:03:36.011" end="00:03:37.269">At&#233; ao dia seguinte,</p>
+      <p begin="00:03:37.269" end="00:03:39.058">vou fazer os recados,</p>
+      <p begin="00:03:39.058" end="00:03:40.105">cuidar de tudo o que precisamos</p>
+      <p begin="00:03:40.105" end="00:03:43.638">para manter o telhado sobre ambas as nossas cabe&#231;as.</p>
+      <p begin="00:03:43.931" end="00:03:47.370">Gosto de enrolar um pouco disto</p>
+      <p begin="00:03:47.370" end="00:03:48.964">na forma de uma pequena bola.</p>
+      <p begin="00:03:50.953" end="00:03:53.302">&#201; s&#243; meter estes l&#225; dentro.</p>
+      <p begin="00:03:55.722" end="00:03:56.898">Hey, como est&#225; o arroz?</p>
+      <p begin="00:03:57.067" end="00:03:58.366">- Deixa-me ver</p>
+      <p begin="00:04:00.135" end="00:04:02.056">S&#243; mais um bocadinho.</p>
+      <p begin="00:04:02.194" end="00:04:05.126">- Venho de uma fam&#237;lia de oito pessoas.</p>
+      <p begin="00:04:05.188" end="00:04:08.021">O meu objectivo principal &#233; tomar conta</p>
+      <p begin="00:04:08.021" end="00:04:11.799">da minha m&#227;e, e fazer o melhor que posso.</p>
+      <p begin="00:04:12.707" end="00:04:14.664" region="top">- &#201; o meu menino, </p>
+      <p begin="00:04:14.664" end="00:04:16.777" region="top">e adoro-o. </p>
+      <p begin="00:04:16.883" end="00:04:18.556" region="top">Ele lava a minha roupa. </p>
+      <p begin="00:04:18.726" end="00:04:19.466" region="top">Ele limpa a casa. </p>
+      <p begin="00:04:19.466" end="00:04:20.945" region="top">No Dia dos Namorados, </p>
+      <p begin="00:04:20.945" end="00:04:23.555" region="top">comprou-me uma caixa de chocolates. </p>
+      <p begin="00:04:23.555" end="00:04:24.911" region="top">E o meu menino &#233; t&#227;o docinho </p>
+      <p begin="00:04:24.911" end="00:04:26.138" region="top">quanto esses chocolates. </p>
+      <p begin="00:04:26.138" end="00:04:27.835">Apenas fa&#231;o com que ela</p>
+      <p begin="00:04:27.835" end="00:04:28.542">tenha uma vida calma,</p>
+      <p begin="00:04:28.542" end="00:04:29.668">e</p>
+      <p begin="00:04:29.668" end="00:04:31.712">ent&#227;o, ela n&#227;o tmr que se preocupar</p>
+      <p begin="00:04:31.712" end="00:04:33.312">com contas nem nada.</p>
+      <p begin="00:04:33.312" end="00:04:34.478">Assumi esse fardo,</p>
+      <p begin="00:04:34.478" end="00:04:36.190">e n&#227;o sabia mesmo</p>
+      <p begin="00:04:36.190" end="00:04:37.231">em que me estava a meter.</p>
+      <p begin="00:04:37.231" end="00:04:38.493">Mas agora, j&#225; me comprometi.</p>
+      <p begin="00:04:38.493" end="00:04:40.083">N&#227;o vou mudar.</p>
+      <p begin="00:04:40.083" end="00:04:41.252">Ent&#227;o a &#250;nica coisa que posso &#233; tentar</p>
+      <p begin="00:04:41.252" end="00:04:42.968">fazer com que algo funcione</p>
+      <p begin="00:04:42.968" end="00:04:44.297">onde possa arranjar um rendimento decente</p>
+      <p begin="00:04:44.297" end="00:04:47.211">para que eu possa viver e deixar viver.</p>
+      <p begin="00:04:47.211" end="00:04:50.030">E isso &#233; tudo o que posso pedir da vida agora.</p>
+      <p begin="00:04:50.138" end="00:04:56.875"/>
+      <p begin="00:04:56.875" end="00:05:00.615">&#9834; And&#225;mos &#224;s voltas outra vez.&#9834;</p>
+      <p begin="00:05:00.615" end="00:05:05.222">&#9834; Onde p&#225;ra, ningu&#233;m sabe. &#9834;</p>
+      <p begin="00:05:05.222" end="00:05:08.565">&#9834; &#201; um frio, frio mundo. &#9834;</p>
+      <p begin="00:05:08.965" end="00:05:12.469">&#9834; &#201; um frio, frio mundo. &#9834;</p>
+      <p begin="00:05:14.254" end="00:05:16.173">&#9834; Como podemos parar as mudan&#231;as &#9834;</p>
+      <p begin="00:05:16.173" end="00:05:21.219">&#9834; que decorrem na Am&#233;rica hoje? &#9834;</p>
+      <p begin="00:05:31.033" end="00:05:35.022">&#9834; Ohhh, ohhh, ohhh &#9834;</p>
+      <p begin="00:05:41.466" end="00:05:43.575">&#9834; Regressar. &#9834;</p>
+      <p begin="00:05:43.575" end="00:05:47.287">&#9834; Regressar &#224; Regra Dourada. &#9834;</p>
+      <p begin="00:05:47.287" end="00:05:48.994">&#9834; Oh. Ah. Uh. &#9834;</p>
+      <p begin="00:05:49.455" end="00:05:50.963">&#9834; Regressar &#9834;</p>
+      <p begin="00:05:50.963" end="00:05:55.504">&#9834; Regressar &#224; Regra Dourada. &#9834;</p>
+      <p begin="00:05:55.504" end="00:05:58.215">&#9834; Bring it all down. &#9834;</p>
+      <p begin="00:05:58.215" end="00:06:11.844"/>
+      <p begin="00:06:11.844" end="00:06:13.438">- Esta &#233; uma m&#250;sica</p>
+      <p begin="00:06:13.438" end="00:06:15.399">do novo &#225;lbum, No Time for Dreaming.</p>
+      <p begin="00:06:15.399" end="00:06:16.525">Charles Bradley</p>
+      <p begin="00:06:16.525" end="00:06:17.652">e a Menahan Street Band.</p>
+      <p begin="00:06:17.652" end="00:06:19.111">N&#227;o consigo acreditar</p>
+      <p begin="00:06:19.111" end="00:06:20.445">que tenhas aparecido do nada,</p>
+      <p begin="00:06:20.445" end="00:06:22.656">virtualmente desconhecido para n&#243;s.</p>
+      <p begin="00:06:22.656" end="00:06:24.858">J&#225; gravou alguma vez antes?</p>
+      <p begin="00:06:24.981" end="00:06:26.277">- N&#227;o.</p>
+      <p begin="00:06:26.277" end="00:06:28.820">&#201; a primeira vez em que realmente come&#231;o a aparecer.</p>
+      <p begin="00:06:28.820" end="00:06:30.349">- Sei que tem actuado.</p>
+      <p begin="00:06:30.349" end="00:06:31.431">- Sim.</p>
+      <p begin="00:06:31.431" end="00:06:32.420">- Como Black Velvet</p>
+      <p begin="00:06:32.420" end="00:06:34.044">- Sim.</p>
+      <p begin="00:06:34.044" end="00:06:35.335">- Ent&#227;o agora est&#225; a actuar como-</p>
+      <p begin="00:06:35.335" end="00:06:37.064">como Charles Bradley?</p>
+      <p begin="00:06:37.064" end="00:06:38.076">- Sim, sim.</p>
+      <p begin="00:06:38.076" end="00:06:39.298">- Bem, tem uma &#243;ptima banda</p>
+      <p begin="00:06:39.298" end="00:06:40.129">a apoi&#225;-lo.</p>
+      <p begin="00:06:40.129" end="00:06:41.667">E, claro,</p>
+      <p begin="00:06:41.667" end="00:06:43.302">com as pessoas da Daptone,</p>
+      <p begin="00:06:43.302" end="00:06:44.463">sabe,</p>
+      <p begin="00:06:44.463" end="00:06:45.287">que equipa maravilhosa que eles s&#227;o.</p>
+      <p begin="00:06:45.287" end="00:06:46.597">E j&#225; viu es.</p>
+      <p begin="00:06:46.597" end="00:06:49.276">o que aconteceu com a Sharon Jones, que, - Sim, sim.</p>
+      <p begin="00:06:49.276" end="00:06:51.340">que, sabe, como voc&#234;,</p>
+      <p begin="00:06:51.340" end="00:06:52.882">foi da completa obscuridade at&#233;,</p>
+      <p begin="00:06:52.897" end="00:06:55.464">quem sabe as alturas a que voc&#234;s poder&#227;o subir.</p>
+      <p begin="00:06:55.464" end="00:06:56.872">Ent&#227;o, este,</p>
+      <p begin="00:06:56.872" end="00:06:59.067">deve ser um momento excitante para si?</p>
+      <p begin="00:06:59.067" end="00:07:01.820">- Penso que Deus respondeu &#224;s minhas preces,</p>
+      <p begin="00:07:01.820" end="00:07:03.864">sabe,</p>
+      <p begin="00:07:03.864" end="00:07:06.033">perguntei-me a mim pr&#243;prio porque demorou tanto,</p>
+      <p begin="00:07:06.033" end="00:07:07.451">mas n&#227;o podemos questionar Deus</p>
+      <p begin="00:07:07.451" end="00:07:09.411">quando ele quer fazer coisas.</p>
+      <p begin="00:07:09.411" end="00:07:12.348">Ent&#227;o, j&#225; eu com a minha idade avan&#231;ada, come&#231;ou a vir.</p>
+      <p begin="00:07:12.348" end="00:07:13.916">- O que se segue?</p>
+      <p begin="00:07:13.916" end="00:07:15.375">Quero dizer, est&#225; a pensar em grande?</p>
+      <p begin="00:07:15.375" end="00:07:17.144">- Penso que o limite &#233; o c&#233;u.</p>
+      <p begin="00:07:17.144" end="00:07:19.421">- Parab&#233;ns por este fant&#225;stico &#225;lbum.</p>
+      <p begin="00:07:19.421" end="00:07:20.737">Independentemente do que aconte&#231;a com ele,</p>
+      <p begin="00:07:20.737" end="00:07:22.632">&#233; um trabalho fant&#225;stico.</p>
+      <p begin="00:07:22.632" end="00:07:24.943">Charleys Bradley na WFUV.</p>
+      <p begin="00:07:25.113" end="00:07:28.346"/>
+      <p begin="00:07:28.346" end="00:07:33.685">&#9834; Este mundo est&#225; a arder. &#9834;</p>
+      <p begin="00:07:33.685" end="00:07:39.107">&#9834; E ningu&#233;m quer assumir a culpa. &#9834;</p>
+      <p begin="00:07:39.107" end="00:07:44.286">&#9834; N&#227;o me digam como viver a minha vida. &#9834;</p>
+      <p begin="00:07:44.286" end="00:07:49.746">&#9834; Quando nunca sentiram a dor. &#9834;</p>
+      <p begin="00:07:49.746" end="00:07:55.790">&#9834; Ohhh. Ahhh. Ohhh &#9834;</p>
+      <p begin="00:07:55.790" end="00:07:58.335">&#9834;Ohhh.&#9834;</p>
+      <p begin="00:07:58.335" end="00:08:01.051">&#9834; N&#227;o me v&#234;em chorar? &#9834;</p>
+      <p begin="00:08:01.051" end="00:08:02.883" region="top">&#9834; Ohhh... &#9834; </p>
+      <p begin="00:08:02.883" end="00:08:04.800"/>
+      <p begin="00:08:04.800" end="00:08:06.051" region="top">- N&#227;o sei quantos artistas </p>
+      <p begin="00:08:06.051" end="00:08:07.718" region="top">chegaram aos 62 anos de idade </p>
+      <p begin="00:08:07.718" end="00:08:09.445" region="top">e lan&#231;aram o seu &#225;lbum de estreia. </p>
+      <p begin="00:08:10.213" end="00:08:11.950" region="top">Ele poder&#225; ser o primeiro. </p>
+      <p begin="00:08:12.777" end="00:08:14.936" region="top">- Este tipo, ele est&#225; a p&#244;r </p>
+      <p begin="00:08:14.936" end="00:08:16.937" region="top">a p&#244;r as coisas em andamento. </p>
+      <p begin="00:08:16.937" end="00:08:19.215" region="top">Ele trabalhou muito arduamente, durante muito tempo. </p>
+      <p begin="00:08:19.338" end="00:08:20.858" region="top">E espero que </p>
+      <p begin="00:08:20.858" end="00:08:21.734" region="top">pessoas suficientes o ou&#231;am a cantar, </p>
+      <p begin="00:08:21.734" end="00:08:23.151">para que-</p>
+      <p begin="00:08:23.151" end="00:08:24.361">que ele possa ter a vida</p>
+      <p begin="00:08:24.361" end="00:08:26.139">que quer e tomar conta da sua fam&#237;lia.</p>
+      <p begin="00:08:26.139" end="00:08:27.626"/>
+      <p begin="00:08:27.626" end="00:08:30.701">&#9834; Uh. Yeah. &#9834;</p>
+      <p begin="00:08:30.701" end="00:08:33.120">&#9834; Estou a falar contigo rapariga. &#9834;</p>
+      <p begin="00:08:33.120" end="00:08:34.538">&#9834; Yeah. &#9834;</p>
+      <p begin="00:08:34.538" end="00:08:36.642">&#9834; Apenas tu ... &#9834;</p>
+      <p begin="00:08:36.642" end="00:08:38.333">Fui at&#233; ao Gabe</p>
+      <p begin="00:08:38.333" end="00:08:40.502">porque achei que ele sabia o que estava a fazer.</p>
+      <p begin="00:08:40.502" end="00:08:42.129">Senti que ele me podia dar uma ajuda,</p>
+      <p begin="00:08:42.129" end="00:08:44.673">e ajudar-me a entrar na ind&#250;strial da m&#250;sica.</p>
+      <p begin="00:08:44.673" end="00:08:48.569">Tudo o que eu sabia fazer era subir ao palco e actuar.</p>
+      <p begin="00:08:48.692" end="00:08:52.118">- Se gostas de m&#250;sica funk e soul, ou Afrobeat, e vives em Nova Iorque,</p>
+      <p begin="00:08:52.226" end="00:08:55.036">Gabe Roth &#233; o tipo que queres atr&#225;s da mesa de mistura.</p>
+      <p begin="00:08:55.174" end="00:08:57.708">Este &#233; o tipo que queres a empurrar te na dire&#231;&#227;o certa,</p>
+      <p begin="00:08:57.708" end="00:08:59.778">porque os seus &#225;lbuns eram fenomenais.</p>
+      <p begin="00:09:00.994" end="00:09:03.773">- Eu apenas come&#231;o a fazer o tipo de &#225;lbunds de que gosto de ouvir.</p>
+      <p begin="00:09:03.849" end="00:09:05.318">Penso que muitos desses &#225;lbuns de soul</p>
+      <p begin="00:09:05.318" end="00:09:10.384">t&#234;m uma certa sinceridade de que sempre gostei.</p>
+      <p begin="00:09:11.137" end="00:09:12.724">Uma manh&#227;, penso que bastante cedo,</p>
+      <p begin="00:09:12.832" end="00:09:14.266">por volta das nove ou dez da manh&#227;.</p>
+      <p begin="00:09:14.297" end="00:09:16.394">Ou&#231;o algu&#233;m a bater &#224; minha porta, e l&#225; estava Charles.</p>
+      <p begin="00:09:16.532" end="00:09:18.932">E ele disse: "Ouvi que andavas &#224; procura de cantores."</p>
+      <p begin="00:09:19.040" end="00:09:20.668">Bem, ouvi dizer que estavas &#224; minha procura.</p>
+      <p begin="00:09:21.268" end="00:09:23.092">N&#227;o fazia ideia de que &#233; que ele estava a falar.</p>
+      <p begin="00:09:23.092" end="00:09:25.506">Ent&#227;o, ele mostra-me esta grava&#231;&#227;o dele a cantar estas m&#250;sicas do James Brown</p>
+      <p begin="00:09:25.506" end="00:09:26.784">E ele tem um som fant&#225;stico, sabe?</p>
+      <p begin="00:09:27.538" end="00:09:30.920">- Gabe Roth da Daptone Records levou-o para um ensaio</p>
+      <p begin="00:09:30.920" end="00:09:32.412">que estavamos a fazer em Staten Island.</p>
+      <p begin="00:09:32.412" end="00:09:34.470">E Gabe queria que grav&#225;ssemos com um cantor.</p>
+      <p begin="00:09:34.500" end="00:09:36.613">Ent&#227;o, Charles era um cantor para o qual ainda n&#227;o tinham encontrado</p>
+      <p begin="00:09:36.613" end="00:09:38.004">uma banda da Daptone</p>
+      <p begin="00:09:38.004" end="00:09:40.048">mas Charles tinha captivado a aten&#231;&#227;o deles.</p>
+      <p begin="00:09:40.140" end="00:09:43.803">- E eu pensei, bem, vamos ver como Charles trabalha com eles, sabe?</p>
+      <p begin="00:09:43.926" end="00:09:47.401" region="top">&#9834; P&#225;ra &#9834; </p>
+      <p begin="00:09:47.401" end="00:09:51.782" region="top">&#9834; P&#225;ra, beb&#233;. &#9834; </p>
+      <p begin="00:09:51.782" end="00:09:55.952">&#9834; Ohhh. &#9834;</p>
+      <p begin="00:09:55.952" end="00:09:59.665">&#9834; N&#227;o me sinto bem, beb&#233;. &#9834;</p>
+      <p begin="00:09:59.665" end="00:10:01.958">&#9834; E estou preso numa jaula ..." &#9834;</p>
+      <p begin="00:10:01.958" end="00:10:06.661">- Toquei com a banda que estava com Tommy em Staten Island.</p>
+      <p begin="00:10:07.110" end="00:10:09.636">Eles estavam l&#225; um dia, e estavam a ensaiar.</p>
+      <p begin="00:10:09.636" end="00:10:11.635">Eles estavam a tocar e eles disseram-me,</p>
+      <p begin="00:10:11.635" end="00:10:14.930">" Hey man, canta nisto, canta nisto, canta niso."</p>
+      <p begin="00:10:14.930" end="00:10:18.684">E, quero dizer, como na m&#250;sica, a letra estava</p>
+      <p begin="00:10:18.684" end="00:10:20.269">a aparecer na minha cabe&#231;a.</p>
+      <p begin="00:10:20.269" end="00:10:24.188">- Ent&#227;o, correu tudo muito bem, e grav&#225;mos essas can&#231;&#245;es</p>
+      <p begin="00:10:24.188" end="00:10:27.442">com Bradley na Daptone, e eram boas can&#231;&#245;es,</p>
+      <p begin="00:10:27.442" end="00:10:29.236">mas nunca chegaram a ganhar visibilidade.</p>
+      <p begin="00:10:29.236" end="00:10:31.333">E depois seguimos os nossos caminhos separados.</p>
+      <p begin="00:10:32.040" end="00:10:38.347">- Passaram dois anos, e eu estava a imitar o James Brown em clubes pequenos.</p>
+      <p begin="00:10:38.501" end="00:10:43.381">E depois recebi uma chamada para fazer um espect&#225;culo com Sharon Jones.</p>
+      <p begin="00:10:43.566" end="00:10:46.121">- Ent&#227;o ensaiamos, d&#233;-mos o espect&#225;culo, fant&#225;stico.</p>
+      <p begin="00:10:46.244" end="00:10:48.250">Eu e o Charles v&#234;-mo-nos pela primeira vez num par de anos,</p>
+      <p begin="00:10:48.358" end="00:10:53.291">pomos a conversa em dia, e eu digo, "Hey Charles,</p>
+      <p begin="00:10:53.291" end="00:10:55.762">estou a trabalhar numas m&#250;sicas, porque &#233; que n&#227;o apareces uma destas noites</p>
+      <p begin="00:10:55.762" end="00:10:57.139">e tentamos fazer alguma coisa."</p>
+      <p begin="00:10:57.139" end="00:10:59.124">E ele disse, "Sim Tommy, claro."</p>
+      <p begin="00:10:59.124" end="00:11:01.709">Gravamos, magicamente, duas m&#250;sicas numa noite.</p>
+      <p begin="00:11:01.709" end="00:11:04.066">Uma das quais era The World's Going up in Flames,</p>
+      <p begin="00:11:04.174" end="00:11:06.257">e uma que era a In You I Found a Love.</p>
+      <p begin="00:11:06.257" end="00:11:09.094">Charles estava mesmo aqui, e eu estava mesmo aqui</p>
+      <p begin="00:11:09.115" end="00:11:10.197">a carregar no bot&#227;o de grava&#231;&#227;o,</p>
+      <p begin="00:11:10.217" end="00:11:13.612">e escrevemos as m&#250;sicas juntos, e estava feito.</p>
+      <p begin="00:11:13.720" end="00:11:16.538">Quero dizer, a m&#250;sica estava escrita, mas ele ainda estava a na letra,</p>
+      <p begin="00:11:16.538" end="00:11:19.947">a improvis&#225;-la, e eu estava a p&#244;-la no s&#237;tio certo.</p>
+      <p begin="00:11:20.101" end="00:11:36.833"/>
+      <p begin="00:11:40.495" end="00:11:42.596" region="top">Nessa altura ainda n&#227;o tinhamos feito muitos espect&#225;culos com Charles. </p>
+      <p begin="00:11:42.596" end="00:11:48.180">Actuamos algumas vezes ao vivo, porque Charles &#233;, sabe,</p>
+      <p begin="00:11:48.195" end="00:11:51.943">ele s&#243; quer passar a sua mensagem, e ele quer,</p>
+      <p begin="00:11:51.943" end="00:11:55.426">ele quer alcan&#231;ar cada pessoa que est&#225; no p&#250;blico.</p>
+      <p begin="00:11:55.580" end="00:11:59.835">Ent&#227;o, o que ensaiamos e o que acontece em palco</p>
+      <p begin="00:11:59.835" end="00:12:00.917">s&#227;o duas coisas diferentes.</p>
+      <p begin="00:12:00.917" end="00:12:03.957">Quero dizer, a banda vai tocar bem, e a &#250;nica raz&#227;o pela qual tentamos ensaiar</p>
+      <p begin="00:12:04.065" end="00:12:06.658">com Charles, &#233; para deixar que Charles conduza a banda.</p>
+      <p begin="00:12:07.427" end="00:12:10.356"/>
+      <p begin="00:12:10.494" end="00:12:13.048">- Bam, bam, bam, bam.</p>
+      <p begin="00:12:14.771" end="00:12:16.723">- Tr&#234;s, quatro.</p>
+      <p begin="00:12:16.904" end="00:12:35.570"/>
+      <p begin="00:12:35.570" end="00:12:41.034">&#9834; Em ti encontrei amor. &#9834;</p>
+      <p begin="00:12:41.034" end="00:12:45.455">&#9834; Que me faz sentir real. &#9834;</p>
+      <p begin="00:12:45.455" end="00:12:48.041">&#9834; &#211; beb&#233;. &#9834;</p>
+      <p begin="00:12:48.041" end="00:12:55.461">&#9834; &#192;s vezes quando estou a dormir &#224; noite, &#9834;</p>
+      <p begin="00:12:55.461" end="00:13:02.973">&#9834; Acordo e n&#227;o te encontro. &#9834;</p>
+      <p begin="00:13:02.973" end="00:13:10.773">&#9834; Disseste que me amavas e estarias sempre por perto. &#9834;</p>
+      <p begin="00:13:10.773" end="00:13:14.985">&#9834; Em ti, pensei ... &#9834;</p>
+      <p begin="00:13:14.985" end="00:13:18.032">- Aquela m&#250;sica nova, pela primeira vez, sou eu.</p>
+      <p begin="00:13:18.032" end="00:13:21.492">S&#227;o viv&#234;ncias pelas quais passei, m&#225;goas</p>
+      <p begin="00:13:21.492" end="00:13:24.036">e dor.</p>
+      <p begin="00:13:24.036" end="00:13:27.956">&#9834; N&#227;o quero mais ser est&#250;pido &#9834;</p>
+      <p begin="00:13:27.956" end="00:13:34.087"/>
+      <p begin="00:13:34.087" end="00:13:37.953">- Yeah Bradley. Esperaste duas vezes pelo trompete.</p>
+      <p begin="00:13:37.953" end="00:13:39.426">- Sim, foi perfeito.</p>
+      <p begin="00:13:39.426" end="00:13:42.469"/>
+      <p begin="00:13:42.469" end="00:13:43.981">- Era s&#243; para dizer boa noite.</p>
+      <p begin="00:13:43.981" end="00:13:46.321">Podemos sempre fazer nisto numa outra altura, baby.</p>
+      <p begin="00:13:46.429" end="00:13:49.025">Se quiseres, se me quiseres ver, ver um Tommy mesmo divertido.</p>
+      <p begin="00:13:49.178" end="00:13:50.726">- Tudo bem man, e --</p>
+      <p begin="00:13:50.834" end="00:13:52.033">- foi excelente.</p>
+      <p begin="00:13:52.141" end="00:13:53.227">- Tommy, novamente, obrigado.</p>
+      <p begin="00:13:53.227" end="00:13:54.460">Sabes que te adoro.</p>
+      <p begin="00:13:54.460" end="00:13:55.595">Obrigado mano.</p>
+      <p begin="00:13:55.749" end="00:13:57.570">Okay.</p>
+      <p begin="00:13:58.108" end="00:14:01.942">N&#227;o fechei a porta.</p>
+      <p begin="00:14:07.342" end="00:14:13.295"/>
+      <p begin="00:14:13.295" end="00:14:14.525">Nove e meio.</p>
+      <p begin="00:14:14.525" end="00:14:15.793">- M&#227;e, v&#225; l&#225;.</p>
+      <p begin="00:14:15.793" end="00:14:18.200">Tu, tu disseste nove, disseste oito, oito e meia.</p>
+      <p begin="00:14:18.200" end="00:14:19.813">Trouxe o de tamanho oito.</p>
+      <p begin="00:14:19.813" end="00:14:21.862">Agora queres nove, queres nove e meio.</p>
+      <p begin="00:14:21.862" end="00:14:24.168">Qual &#233; o mal deste, este mesmo aqui?</p>
+      <p begin="00:14:26.889" end="00:14:28.459">- Sim, mas est&#225; a deixar-me maluco.</p>
+      <p begin="00:14:30.185" end="00:14:32.030"/>
+      <p begin="00:14:33.461" end="00:14:35.513">Ai Jesus.</p>
+      <p begin="00:14:35.559" end="00:14:38.197">&#201; dif&#237;cil &#224;s vezes.</p>
+      <p begin="00:14:38.197" end="00:14:41.446">&#201; muito dif&#237;cil, porque agora</p>
+      <p begin="00:14:41.446" end="00:14:43.490">depende tudo muito de mim.</p>
+      <p begin="00:14:43.490" end="00:14:45.965">Mas se eu a pusesse num lar, ela iria morrer.</p>
+      <p begin="00:14:45.965" end="00:14:47.096">E eu sei isso.</p>
+      <p begin="00:14:47.818" end="00:14:49.808" region="top">Uma vez, tive um AVC. </p>
+      <p begin="00:14:50.422" end="00:14:52.874" region="top">Tive muitos ataques de cora&#231;&#227;o. </p>
+      <p begin="00:14:54.246" end="00:14:57.836" region="top">Mas aquele ataque card&#237;aco veio com o meu padrasto morreu </p>
+      <p begin="00:14:57.836" end="00:15:06.382" region="top">e a minha av&#243; morreu, e quando o meu marido </p>
+      <p begin="00:15:06.382" end="00:15:07.767" region="top">morreu. </p>
+      <p begin="00:15:10.044" end="00:15:14.153">Ela disse, "filho, deixa-me passar os meus &#250;ltimos dias na casa."</p>
+      <p begin="00:15:14.492" end="00:15:16.924">Eu disse, "Okay m&#227;e, vou fazer isso."</p>
+      <p begin="00:15:17.140" end="00:15:20.809">Mas ela n&#227;o sabe que eu n&#227;o tenho vida.</p>
+      <p begin="00:15:21.409" end="00:15:23.186">Ela &#233; a minha vida.</p>
+      <p begin="00:15:23.570" end="00:15:29.102">Para eu ficar com algu&#233;m... nem sei como faz&#234;-lo.</p>
+      <p begin="00:15:29.348" end="00:16:13.946"/>
+      <p begin="00:16:13.946" end="00:16:18.454" region="top">- Quando a m&#227;e de Charles saiu da Fl&#243;rida para ir para Nova Iorque, </p>
+      <p begin="00:16:18.562" end="00:16:23.926" region="top">Charles tinha apenas oito meses de idade, oito meses. </p>
+      <p begin="00:16:25.295" end="00:16:30.925">E ela ficou longe durante tanto tempo, que, quando regressou pela primeira vez,</p>
+      <p begin="00:16:30.925" end="00:16:33.262">ele n&#227;o a reconhecia, ele n&#227;o sabia que ela era a sua m&#227;e.</p>
+      <p begin="00:16:34.122" end="00:16:37.105">Ele pensou que a sua av&#243; era a sua m&#227;e.</p>
+      <p begin="00:16:38.843" end="00:16:41.408" region="top">- Vim para Nova Iorque para me melhorar, para o bem de todos n&#243;s. </p>
+      <p begin="00:16:42.654" end="00:16:46.609" region="top">Eu e o meu marido estavamos separados, e eu queria melhorar-me, queria mesmo. </p>
+      <p begin="00:16:46.609" end="00:16:50.246" region="top">Comprei a casa no n&#250;mero 843 da Avenida Willoughby. </p>
+      <p begin="00:16:50.338" end="00:16:52.195">Uh-huh.</p>
+      <p begin="00:16:52.410" end="00:17:02.065">- De certa forma, ela abandonou as crian&#231;as para ir atr&#225;s de um homem</p>
+      <p begin="00:17:03.279" end="00:17:06.688">que tinha uma mulher pela qual era ela louca.</p>
+      <p begin="00:17:08.379" end="00:17:10.802">Caso contr&#225;rio, ela provavelmente nunca teria vindo para Nova Iorque.</p>
+      <p begin="00:17:10.940" end="00:17:15.445">Eu tinha cerca de 7 ou 8 anos.</p>
+      <p begin="00:17:15.445" end="00:17:18.140">A minha m&#227;e, quando veio para baixo, ela disse &#224; minha av&#243;,</p>
+      <p begin="00:17:18.217" end="00:17:20.106">"Quero que ele regresse comigo."</p>
+      <p begin="00:17:20.106" end="00:17:23.104">A minha av&#243; disse que n&#227;o, para os deixar ficar c&#225; que ficavam melhor assim,</p>
+      <p begin="00:17:23.196" end="00:17:26.138">que iam ter uma educa&#231;&#227;o melhor se ficassem aqui comigo.</p>
+      <p begin="00:17:26.368" end="00:17:28.062">Ent&#227;o a minha m&#227;e diz, "N&#227;o."</p>
+      <p begin="00:17:28.200" end="00:17:30.392">E a minha av&#243; disse, "N&#227;o, n&#227;o os vais levar."</p>
+      <p begin="00:17:30.485" end="00:17:32.168">Ent&#227;o a minha m&#227;e roubou-nos.</p>
+      <p begin="00:17:32.276" end="00:17:34.196" region="top">- Eram meus, ent&#227;o achei, tenho-os. </p>
+      <p begin="00:17:34.196" end="00:17:36.881" region="top">Vou cri&#225;-los. </p>
+      <p begin="00:17:37.034" end="00:17:40.983" region="top">Ent&#227;o, trouxe todas as minhas cria&#231;&#245;es de volta a Nova Iorque comigo. </p>
+      <p begin="00:17:40.983" end="00:17:43.479">Mmhm.</p>
+      <p begin="00:17:44.252" end="00:17:45.801">Foi isso que fiz.</p>
+      <p begin="00:17:47.340" end="00:17:51.545">- Odeio dizer isto, mas acho que naquela altura era dif&#237;cil encontrar emprego</p>
+      <p begin="00:17:51.698" end="00:17:56.906" region="top">ent&#227;o era apenas -- uma maneira era, se tivesse dependentes </p>
+      <p begin="00:17:57.690" end="00:18:00.561">para receber assist&#234;ncia.</p>
+      <p begin="00:18:00.946" end="00:18:05.534">E penso que era isso que ela estava a fazer para</p>
+      <p begin="00:18:05.642" end="00:18:07.072">receber uma pens&#227;o ao levar os mi&#250;dos.</p>
+      <p begin="00:18:07.179" end="00:18:11.732">- Durante a sua inf&#226;ncia ele era a crian&#231;a preferida.</p>
+      <p begin="00:18:11.855" end="00:18:16.663">Ele recebia todo o amor e carinho dos seus irm&#227;os mais velhos e</p>
+      <p begin="00:18:16.785" end="00:18:19.357">irm&#227;s e da av&#243; e do av&#243;, e de todos n&#243;s,</p>
+      <p begin="00:18:19.357" end="00:18:21.371">porque ele era o beb&#233;.</p>
+      <p begin="00:18:21.371" end="00:18:25.880">- Quando que foi quando Charles foi para Nova Iorque que perdeu isso tudo.</p>
+      <p begin="00:18:31.834" end="00:18:32.928">- Eu estava a morar com a minha m&#227;e, e tinha medo que ela</p>
+      <p begin="00:18:32.928" end="00:18:36.312">me magoasse, ent&#227;o fugi.</p>
+      <p begin="00:18:36.312" end="00:18:38.457">N&#227;o nos conseguiamos entender.</p>
+      <p begin="00:18:38.457" end="00:18:39.997">Eu era culpado por tudo.</p>
+      <p begin="00:18:39.997" end="00:18:41.508">Ent&#227;o fiquei muito amargo.</p>
+      <p begin="00:18:42.170" end="00:18:45.432">E pareceu que era tudo racionado,</p>
+      <p begin="00:18:45.555" end="00:18:48.251">e eu estava numa cave pior que esta.</p>
+      <p begin="00:18:48.251" end="00:18:52.166">Era s&#243; uma cave de areia, n&#227;o era uma cave de bet&#227;o.</p>
+      <p begin="00:18:52.490" end="00:18:54.088">L&#226;mpada el&#233;ctrica de 15 watts.</p>
+      <p begin="00:18:54.195" end="00:18:55.982">E eu disse n&#227;o, n&#227;o consigo aguentar isto.</p>
+      <p begin="00:18:56.012" end="00:18:57.752">Disse que n&#227;o queria isto, vou embora.</p>
+      <p begin="00:18:57.922" end="00:18:59.008">E fui.</p>
+      <p begin="00:18:59.746" end="00:19:04.900"/>
+      <p begin="00:19:04.900" end="00:19:07.056">Tinha 14 anos de idade.</p>
+      <p begin="00:19:08.226" end="00:19:09.892">A minha casa era o metro.</p>
+      <p begin="00:19:09.984" end="00:19:12.574">Era para a&#237; que ia para me manter quente.</p>
+      <p begin="00:19:13.866" end="00:19:17.866">Em algumas noites, noites de Inverno, entrava no metro, com frio.</p>
+      <p begin="00:19:18.236" end="00:19:20.330">E andava no comboio da linha A, para cima e para baixo.</p>
+      <p begin="00:19:20.468" end="00:19:22.670">A pol&#237;cia, pop, pop, pop, bateram com for&#231;a na porra da coisa</p>
+      <p begin="00:19:22.808" end="00:19:24.387">e diziam, "Mi&#250;dos, t&#234;m que sair."</p>
+      <p begin="00:19:24.925" end="00:19:31.271">Atravessava a plataforma, e apanhava outro comboio para voltar a adormecer.</p>
+      <p begin="00:19:31.471" end="00:19:35.284">Encostaram-me a um canto, pegaram no pau e deram-me com muito for&#231;a.</p>
+      <p begin="00:19:35.422" end="00:19:36.546">Penetrou a minha cabe&#231;a.</p>
+      <p begin="00:19:36.746" end="00:19:39.910">Ele disse,"Mi&#250;dos, levantem-se. Mi&#250;dos, levantem-se.</p>
+      <p begin="00:19:40.079" end="00:19:44.370">Ent&#227;o eu continuei a apanhar linhas diferentes</p>
+      <p begin="00:19:44.375" end="00:19:49.295">para poder dormir durante a noite, antes de amanhecer.</p>
+      <p begin="00:19:49.300" end="00:19:53.458">E vejo-me a mim pr&#243;prio, e ao que est&#225; a acontecer, porque, naquela altura,</p>
+      <p begin="00:19:53.581" end="00:19:56.817">toda a gente estava a pedrada, a usar drogas pesadas.</p>
+      <p begin="00:19:56.925" end="00:19:59.766">Eu n&#227;o o fazia, via-os enquanto eles se estavam a injectar,</p>
+      <p begin="00:19:59.766" end="00:20:01.183">e tentaram dar-me.</p>
+      <p begin="00:20:01.183" end="00:20:03.544">Fiquei assustado e eu tinha medo de agulhas.</p>
+      <p begin="00:20:03.544" end="00:20:05.021">Eu disse "N&#227;o, n&#227;o, n&#227;o."</p>
+      <p begin="00:20:05.190" end="00:20:07.022">Foi quando ouvi falar da Jobs Corps.</p>
+      <p begin="00:20:07.145" end="00:20:10.515">E tentei convencer a minha m&#227;e a inscrever-me para ir para a Job Corps.</p>
+      <p begin="00:20:10.622" end="00:20:12.854">E ela ficou zangada comigo, n&#227;o ia assinar.</p>
+      <p begin="00:20:12.977" end="00:20:15.088">Ent&#227;o convenci a minha irm&#227; a forjar o nome dela.</p>
+      <p begin="00:20:15.550" end="00:20:17.032">E aprendi a cozinhar.</p>
+      <p begin="00:20:17.140" end="00:20:19.089">Cozinhei durante dois anos.</p>
+      <p begin="00:20:19.212" end="00:20:21.961">Fui aprendiz de cozinheiro em Bar Harbor, Maine.</p>
+      <p begin="00:20:21.961" end="00:20:24.645">E foi quando comecei a imitar o James Brown, na Job Corps.</p>
+      <p begin="00:20:24.829" end="00:20:27.790">Quando eles disseram: "V&#234;s aquele tipo novo que entrou?"</p>
+      <p begin="00:20:27.928" end="00:20:31.156">Ele parece mesmo aquele tipo chamado James Brown.</p>
+      <p begin="00:20:34.451" end="00:20:36.840">E eles deixaram-me excitado, e deram-me algum gin e, naquele emprego,</p>
+      <p begin="00:20:36.840" end="00:20:39.036">era suposto traz&#234;-lo &#224; escondidas.</p>
+      <p begin="00:20:39.736" end="00:20:42.175">Eles deram-me algum gin, deixaram-me bem pedrado,</p>
+      <p begin="00:20:42.299" end="00:20:44.505">e deram-me o microfone e disseram: "Canta".</p>
+      <p begin="00:20:44.643" end="00:20:45.821">E eu enlouqueci.</p>
+      <p begin="00:20:45.960" end="00:20:49.231">Ent&#227;o disseram-me que iam levar-me a um</p>
+      <p begin="00:20:49.231" end="00:20:51.358">centro feminino da Job Corps para actuar.</p>
+      <p begin="00:20:51.358" end="00:20:53.110">Eu disse: "V&#227;o ser quantas pessoas?"</p>
+      <p begin="00:20:53.217" end="00:20:54.678">Eles disseram 20 ou 30 pessoas.</p>
+      <p begin="00:20:54.770" end="00:20:56.225">Eu disse: "Okay".</p>
+      <p begin="00:20:56.548" end="00:20:59.096">E chamaram-me ao placo.</p>
+      <p begin="00:20:59.403" end="00:21:01.168">E eu olho em volta daquele palco</p>
+      <p begin="00:21:01.276" end="00:21:02.737">e vejo todas aquelas pessoas, e congelei.</p>
+      <p begin="00:21:02.737" end="00:21:04.121">Eu disse:</p>
+      <p begin="00:21:04.121" end="00:21:08.125">"N&#227;o vou para ali. Eu n&#227;o, eu n&#227;o".</p>
+      <p begin="00:21:08.125" end="00:21:13.205">Ent&#227;o, este tipo chamado Moody, veio por tr&#225;s de mim e deu-me um empurr&#227;o.</p>
+      <p begin="00:21:13.298" end="00:21:14.760">Vejo todas as pessoas, felizes.</p>
+      <p begin="00:21:14.883" end="00:21:15.938">Adoram-me.</p>
+      <p begin="00:21:16.030" end="00:21:17.898">Adoram que eu lhes d&#234; o meu cora&#231;&#227;o.</p>
+      <p begin="00:21:18.329" end="00:21:22.091">E eu disse: "Wow, &#233; aqui que quero estar."</p>
+      <p begin="00:21:22.214" end="00:21:23.843">E nunca parei.</p>
+      <p begin="00:21:26.981" end="00:21:29.903" region="top">Os nossos planos eram, quando sa&#237;ssemos da Job Corps, </p>
+      <p begin="00:21:29.903" end="00:21:31.954" region="top">&#237;amos juntos e continuar a fazer m&#250;sica. </p>
+      <p begin="00:21:31.954" end="00:21:35.205" region="top">A minha banda foi recrutada para ir para a Guerra do Vietname. </p>
+      <p begin="00:21:35.205" end="00:21:41.083" region="top">E l&#225; foram para a guerra, e eu acabei a minha forma&#231;&#227;o na Job Corps. </p>
+      <p begin="00:21:47.414" end="00:21:49.499"/>
+      <p begin="00:21:49.499" end="00:21:52.827"/>
+      <p begin="00:21:52.827" end="00:21:56.698">- Quero prov&#225;-la contigo, a cerveja que &#233; de ab&#243;bora.</p>
+      <p begin="00:21:56.698" end="00:21:58.097">- Oh yeah.</p>
+      <p begin="00:21:58.097" end="00:21:59.297">- Tenho que provar isso.</p>
+      <p begin="00:21:59.297" end="00:22:00.821">- Podemos abri-lo agora.</p>
+      <p begin="00:22:00.821" end="00:22:02.555">- Cerveja de ab&#243;bora, nunca ouvi falar de cerveja de ab&#243;bora.</p>
+      <p begin="00:22:02.555" end="00:22:03.541">- Oh, yeah. Podemos beber um pouco disso.</p>
+      <p begin="00:22:03.541" end="00:22:06.036">- Quero mesmo provar.</p>
+      <p begin="00:22:06.132" end="00:22:07.265">Okay.</p>
+      <p begin="00:22:08.373" end="00:22:10.439">&#211; meu deus, isto &#233; delicioso.</p>
+      <p begin="00:22:10.439" end="00:22:12.132">- Isso &#233; cerveja de ab&#243;bora?</p>
+      <p begin="00:22:12.132" end="00:22:13.572">- A s&#233;rio, isto &#233; inacredit&#225;vel.</p>
+      <p begin="00:22:13.572" end="00:22:14.406">- &#201; uma ab&#243;bora?</p>
+      <p begin="00:22:14.406" end="00:22:15.025">- Yo!</p>
+      <p begin="00:22:15.025" end="00:22:16.318">- &#201; a ab&#243;bora?</p>
+      <p begin="00:22:16.318" end="00:22:20.223">&#201; tipo, n&#227;o-gaseificada ou algo do g&#233;nero, e tem um sabor inacredit&#225;vel.</p>
+      <p begin="00:22:20.223" end="00:22:21.316">Gostas agora?</p>
+      <p begin="00:22:21.316" end="00:22:22.249">-N&#227;o. -N&#227;o gostas?</p>
+      <p begin="00:22:22.249" end="00:22:23.575">-Simplesmente n&#227;o gosto.</p>
+      <p begin="00:22:23.575" end="00:22:24.764">- Eu acho que &#233; deliciosa.</p>
+      <p begin="00:22:24.764" end="00:22:27.111">- Vou provar a ab&#243;bora nisso.</p>
+      <p begin="00:22:27.296" end="00:22:29.471">Trabalhar com Charleys Bradley, ao contr&#225;rio de trabalhar com</p>
+      <p begin="00:22:29.471" end="00:22:31.083">Sharon Lee ou outra pessoa,</p>
+      <p begin="00:22:31.083" end="00:22:34.239">os outros cantores de Nova Iorque com os quais j&#225; trabalhei muitas vezes,</p>
+      <p begin="00:22:34.239" end="00:22:37.143">sabe, Charles tem hist&#243;rias malucas.</p>
+      <p begin="00:22:37.339" end="00:22:38.983">As hist&#243;rias mais doidas.</p>
+      <p begin="00:22:38.983" end="00:22:42.967">Ent&#227;o, sabe, enquanto compositor, eu sento-me &#224; beira dele,</p>
+      <p begin="00:22:43.075" end="00:22:45.738">e ou&#231;o Charles a contar estas hist&#243;rias, e fica-se do g&#233;nero,</p>
+      <p begin="00:22:45.845" end="00:22:48.796">sabe, temos que escrever uma m&#250;sica acerca disso.</p>
+      <p begin="00:22:48.796" end="00:22:51.394">Ent&#227;o, normalmente, antes de fazermos a parte vocal da can&#231;&#227;o,</p>
+      <p begin="00:22:51.394" end="00:22:54.150">eu toco a m&#250;sica para o Charles ouvir e,</p>
+      <p begin="00:22:54.173" end="00:22:55.265">primeiro, pergunto-lhe se gosta.</p>
+      <p begin="00:22:55.288" end="00:22:58.550">Canto-lhe minhas ideias, voc&#234; sabe, digo "acho que &#233; assim que devia ser."</p>
+      <p begin="00:22:58.719" end="00:23:02.367">E n&#227;o &#233; que ele ignore as minhas ideias, mas ele tem as suas pr&#243;prias ideias</p>
+      <p begin="00:23:02.367" end="00:23:05.407">e come&#231;a a expressa-las instantaneamente.</p>
+      <p begin="00:23:05.561" end="00:23:08.053">Ele come&#231;a a cantar logo, e ent&#227;o n&#243;s paramos</p>
+      <p begin="00:23:08.161" end="00:23:09.930">e afastamo-nos um pouco, e apenas falamos.</p>
+      <p begin="00:23:09.930" end="00:23:11.289">Se --</p>
+      <p begin="00:23:11.289" end="00:23:13.336">conversar com Charles tempo suficiente, ele come&#231;a a</p>
+      <p begin="00:23:13.336" end="00:23:15.336">contar uma hist&#243;ria acerca de qualquer coisa.</p>
+      <p begin="00:23:15.336" end="00:23:18.842">Que sem eu lhe pedir, ele come&#231;a a cantar acerca daquilo</p>
+      <p begin="00:23:18.842" end="00:23:20.549">que estivemos ainda &#224; pouco a falar.</p>
+      <p begin="00:23:20.549" end="00:23:23.133">E ent&#227;o eu vou buscar l&#225;pis e papel e deixo-o</p>
+      <p begin="00:23:23.133" end="00:23:24.133">fazer freestyle por cima da m&#250;sica,</p>
+      <p begin="00:23:24.133" end="00:23:25.887">uma e outra vez.</p>
+      <p begin="00:23:25.887" end="00:23:29.070">E depois recome&#231;amos, e, aos poucos, isso torna-se numa m&#250;sica,</p>
+      <p begin="00:23:29.070" end="00:23:30.708">ao longo de algumas horas.</p>
+      <p begin="00:23:30.815" end="00:23:34.330">Mas s&#227;o sempre as hist&#243;rias dele que tento traduzir para can&#231;&#227;o.</p>
+      <p begin="00:23:34.453" end="00:23:39.721"/>
+      <p begin="00:23:39.875" end="00:23:43.113" region="top">- Eu fui para a Calif&#243;rnia em 1977, </p>
+      <p begin="00:23:43.303" end="00:23:46.061">em busca dos meus sonhos e de m&#250;sica.</p>
+      <p begin="00:23:46.251" end="00:23:48.326">E andava a saltar de banda em banda.</p>
+      <p begin="00:23:48.326" end="00:23:52.196">Eles dizem, pagamos-te US $400 para dar este espect&#225;culo hoje.</p>
+      <p begin="00:23:52.303" end="00:23:55.370">E este tipo pagova-me isso para actuar.</p>
+      <p begin="00:23:55.492" end="00:23:57.149">Era assim que eu me andava a safar l&#225;.</p>
+      <p begin="00:23:57.488" end="00:24:01.896">E naquela &#233;poca, n&#227;o sei porqu&#234;, fiquei doente.</p>
+      <p begin="00:24:02.035" end="00:24:06.613">Telefonei para a minha m&#227;e, e ela disse filho, volta para casa.</p>
+      <p begin="00:24:09.290" end="00:24:12.653">A minha m&#227;e est&#225; a ficar velha, e j&#225; passou por muito.</p>
+      <p begin="00:24:12.745" end="00:24:16.686">E n&#227;o me cabe a mim crucific&#225;-la pelo que ela fez durante a vida dela.</p>
+      <p begin="00:24:17.686" end="00:24:21.707" region="top">Ent&#227;o voltei para Nova Iorque em '94. </p>
+      <p begin="00:24:22.846" end="00:24:26.149" region="top">Eu estava doente que nem um c&#227;o, estive quase a morrer. </p>
+      <p begin="00:24:26.826" end="00:24:29.243" region="top">Fui levado para o Hospital de Woodhull. </p>
+      <p begin="00:24:29.643" end="00:24:33.428" region="top">Sou al&#233;rgico a penicilina e estavam a dar-me penicilina </p>
+      <p begin="00:24:33.705" end="00:24:36.235" region="top">e o meu corpo desligou-se. </p>
+      <p begin="00:24:37.358" end="00:24:40.104" region="top">Eu tinha desistido completamente. </p>
+      <p begin="00:24:41.919" end="00:24:49.562">Ent&#227;o o meu irm&#227;o Joseph, ele veio ao hospital para me ver.</p>
+      <p begin="00:24:50.070" end="00:24:52.881">E ele estendeu-se e beijou-me.</p>
+      <p begin="00:24:52.881" end="00:24:54.978">Ele disse, "Charles, n&#227;o, n&#227;o."</p>
+      <p begin="00:24:55.163" end="00:24:56.783">E ele sussurrou no meu ouvido.</p>
+      <p begin="00:24:56.968" end="00:25:01.406">Ele disse, "Mano, se n&#227;o quiseres viver para ti pr&#243;prio,</p>
+      <p begin="00:25:01.422" end="00:25:02.484">por favor, vive por mim."</p>
+      <p begin="00:25:02.499" end="00:25:03.729">Ele disse, "Charles, amo-te."</p>
+      <p begin="00:25:04.175" end="00:25:05.559">"&#201;s o meu cora&#231;&#227;o."</p>
+      <p begin="00:25:05.820" end="00:25:09.538">Eu disse, "Joe, eu vou lutar. Eu vou lutar."</p>
+      <p begin="00:25:09.661" end="00:25:15.579"/>
+      <p begin="00:25:15.579" end="00:25:19.675">O meu irm&#227;o disse-me, "Charles agora faz algo que queiras fazer."</p>
+      <p begin="00:25:20.120" end="00:25:21.254">"Segue os teus sonhos."</p>
+      <p begin="00:25:21.254" end="00:25:22.730">"Adoras m&#250;sica, f&#225;-la."</p>
+      <p begin="00:25:22.730" end="00:25:24.529">E eu disse, "Joe, gostava de ser como tu."</p>
+      <p begin="00:25:24.559" end="00:25:26.299">Ele disse, "N&#227;o, irm&#227;o, n&#227;o podes ser como eu."</p>
+      <p begin="00:25:26.422" end="00:25:27.839">"Nunca queiras ser como eu. Se tu pr&#243;prio."</p>
+      <p begin="00:25:27.977" end="00:25:31.578" region="top">- Ah, ele era o seu amig&#227;o. </p>
+      <p begin="00:25:32.055" end="00:25:34.077" region="top">Ele gostava, era louco pelo Charles. </p>
+      <p begin="00:25:34.200" end="00:25:37.948" region="top">Ele disse a Charles, "Fa&#231;as o que fizeres f&#225;-lo bem irm&#227;o e nunca desistas." </p>
+      <p begin="00:25:38.056" end="00:25:39.662" region="top">"N&#227;o deixas que ninguem te conven&#231;a a desistir." </p>
+      <p begin="00:25:39.969" end="00:25:42.668" region="top">Ele disse isto antes de morrer. </p>
+      <p begin="00:25:42.713" end="00:25:46.356" region="top">Ele disse, "N&#227;o deixes ningu&#233;m convencer-te a desistir." </p>
+      <p begin="00:25:46.402" end="00:26:02.360"/>
+      <p begin="00:26:02.530" end="00:26:04.640">- Ele disse, "Porque n&#227;o consigo faz&#234;-lo como tu."</p>
+      <p begin="00:26:04.716" end="00:26:06.824">Porque me lembro que quando ainda era um mi&#250;do a viver na Fl&#243;rida,</p>
+      <p begin="00:26:07.009" end="00:26:10.779">Ela andava a ter aulas de piano, e estas coisas que estou a tocar no piano,</p>
+      <p begin="00:26:10.932" end="00:26:13.016">aprendias ao observ&#225;-lo.</p>
+      <p begin="00:26:13.724" end="00:26:16.478">Ele nunca aprendeu estas musiquinhas.</p>
+      <p begin="00:26:17.216" end="00:26:19.815">Ele disse, "Segue os teus sonhos de ser m&#250;sico."</p>
+      <p begin="00:26:19.815" end="00:26:23.997">E ele disse, "Vai para uma das salas nesta casa e usa-a</p>
+      <p begin="00:26:24.135" end="00:26:26.244">como o teu quarto, e pede &#224;s pessoas para virem aqui</p>
+      <p begin="00:26:26.265" end="00:26:27.347">para verem os teus ensaios."</p>
+      <p begin="00:26:27.367" end="00:26:28.664">E foi isso que fiz.</p>
+      <p begin="00:26:29.171" end="00:26:31.328">Joey era como um pai e um irm&#227;o.</p>
+      <p begin="00:26:31.421" end="00:26:33.748">Ele era um irm&#227;o lindo.</p>
+      <p begin="00:26:33.867" end="00:26:39.326"/>
+      <p begin="00:26:39.326" end="00:26:40.813">- Ent&#227;o, onde est&#227;o os frutos?</p>
+      <p begin="00:26:44.336" end="00:26:48.283"/>
+      <p begin="00:26:48.283" end="00:26:49.966">- Chega assim?</p>
+      <p begin="00:26:49.966" end="00:26:51.130">- Um pouco mais.</p>
+      <p begin="00:26:51.269" end="00:26:52.598">- Sim, senta-te.</p>
+      <p begin="00:26:52.598" end="00:26:54.603">- Estou s&#243; a fazer pequenos-almo&#231;os.</p>
+      <p begin="00:26:54.603" end="00:26:55.804">-N&#227;o tenho fome, mas come tu.</p>
+      <p begin="00:26:55.942" end="00:26:59.512">E depois come&#231;amos a falar acerca do que fizeste.</p>
+      <p begin="00:26:59.620" end="00:27:00.716">-Ok, vou deixar isto aqui para si.</p>
+      <p begin="00:27:00.716" end="00:27:02.300">-Est&#225; bem.</p>
+      <p begin="00:27:02.300" end="00:27:03.548">Eu estou a dar explica&#231;&#245;es ao Charles.</p>
+      <p begin="00:27:03.671" end="00:27:06.320">Eu diria que a sua leitura e compreens&#227;o est&#227;o,</p>
+      <p begin="00:27:06.343" end="00:27:07.435" region="top">provavelmente, ao n&#237;vel do primeiro ano </p>
+      <p begin="00:27:07.458" end="00:27:09.933" region="top">ou de uma crian&#231;a do jardim de inf&#226;ncia </p>
+      <p begin="00:27:10.179" end="00:27:15.653">-Os escritores est&#227;o interessados na minha hist&#243;ria?</p>
+      <p begin="00:27:15.653" end="00:27:17.142">-OK, leste em voz alta.</p>
+      <p begin="00:27:17.142" end="00:27:19.132">Percebeste tudo o que leste?</p>
+      <p begin="00:27:21.228" end="00:27:24.710">-Sim e n&#227;o.</p>
+      <p begin="00:27:24.710" end="00:27:26.320">- Sim e n&#227;o.</p>
+      <p begin="00:27:26.320" end="00:27:27.093">-Charles?</p>
+      <p begin="00:27:27.093" end="00:27:28.407">-Hm?</p>
+      <p begin="00:27:28.407" end="00:27:29.819" region="top">-O almo&#231;o foi delicioso. </p>
+      <p begin="00:27:29.927" end="00:27:31.307">-Obrigado, m&#227;e.</p>
+      <p begin="00:27:31.953" end="00:27:37.271">-Eu acho que o objectivo principal dele &#233; ser capaz de escrever as suas letras</p>
+      <p begin="00:27:37.271" end="00:27:40.080">rapidamente quando elas lhe est&#227;o a vir &#224; cabe&#231;a,</p>
+      <p begin="00:27:40.080" end="00:27:43.296">porque ele tem um monte de palavras que quer escrever,</p>
+      <p begin="00:27:43.404" end="00:27:45.309">mas n&#227;o sabe como faz&#234;-lo.</p>
+      <p begin="00:27:45.355" end="00:27:46.372">-Essa n&#227;o &#233; a ortografia correcta.</p>
+      <p begin="00:27:46.372" end="00:27:48.381">-OK.</p>
+      <p begin="00:27:48.381" end="00:27:49.498">-S&#243; um N, e nenhum D.</p>
+      <p begin="00:27:49.498" end="00:27:51.239">-Oh N.</p>
+      <p begin="00:27:51.239" end="00:27:53.705">-Porque and ("e") &#233; quando se juntam duas coisas, como</p>
+      <p begin="00:27:53.705" end="00:27:55.332">-Certo, OK.</p>
+      <p begin="00:27:55.332" end="00:27:56.661">-Peixe e batatas fritas.</p>
+      <p begin="00:27:56.907" end="00:27:58.399">-OK. Vou ter saudades tuas.</p>
+      <p begin="00:27:58.569" end="00:28:00.934">-Adeus Charles. Vejo-te para a semana.</p>
+      <p begin="00:28:01.103" end="00:28:02.172">Obrigado.</p>
+      <p begin="00:28:02.203" end="00:28:30.261"/>
+      <p begin="00:28:30.261" end="00:28:32.411">- Entre</p>
+      <p begin="00:28:32.498" end="00:28:36.180">- Podes ler depois. Acaba o trabalho.</p>
+      <p begin="00:28:36.365" end="00:28:38.008">- N&#227;o.</p>
+      <p begin="00:28:39.547" end="00:28:41.505">Sabes que sou o manda-chuva.</p>
+      <p begin="00:28:42.398" end="00:28:44.711">- Aposto que adoravas ser.</p>
+      <p begin="00:28:44.726" end="00:28:46.157">-Obrigado, Sr. Brown.</p>
+      <p begin="00:28:47.265" end="00:28:52.004">- Charles costumava usar a peruca de James Brown constantemente.</p>
+      <p begin="00:28:52.096" end="00:28:53.733">Sempre.</p>
+      <p begin="00:28:53.825" end="00:28:56.263">E &#224; medida que o &#225;lbum se aproximava, era tipo, "Charles,</p>
+      <p begin="00:28:56.325" end="00:28:58.766">tens que apresentar-te como Charles Bradley."</p>
+      <p begin="00:28:58.766" end="00:29:00.342">E foi dif&#237;cil para ele.</p>
+      <p begin="00:29:00.342" end="00:29:02.154">Quero dizer, ele queria aparecer com a capa e a coisa do James Brown.</p>
+      <p begin="00:29:02.154" end="00:29:03.786">E ser apenas isso.</p>
+      <p begin="00:29:03.786" end="00:29:05.815">Porque era assim que ele estava habituado a subir ao palco.</p>
+      <p begin="00:29:05.860" end="00:29:07.919">E n&#243;s n&#227;o quer&#237;amos isso.</p>
+      <p begin="00:29:07.919" end="00:29:09.910">S&#243; quer&#237;amos que o Charles fosse o Charles.</p>
+      <p begin="00:29:10.002" end="00:29:12.183">E foi preciso muito tempo para convencer o Charles a fazer isso.</p>
+      <p begin="00:29:12.183" end="00:29:20.122"/>
+      <p begin="00:29:20.122" end="00:29:23.090">- Charles tem um &#225;lbum que vai sair dia 25 de Janeiro.</p>
+      <p begin="00:29:23.213" end="00:29:24.582">Ent&#227;o agora &#233; a altura em que se</p>
+      <p begin="00:29:24.600" end="00:29:26.172">come&#231;a a promover o &#225;lbum at&#233; que este saia.</p>
+      <p begin="00:29:26.190" end="00:29:29.087">- Vou fazer uma digress&#227;o com Sharon Jones,</p>
+      <p begin="00:29:29.268" end="00:29:30.990">e vou abrir os concertos dela.</p>
+      <p begin="00:29:31.170" end="00:29:34.461">Sharon Jones est&#225; a dar-me a oportunidade de expor</p>
+      <p begin="00:29:34.489" end="00:29:36.602">alguma da minha m&#250;sica para deixar</p>
+      <p begin="00:29:36.630" end="00:29:39.064">o mundo saber quem &#233; o Charles Bradley.</p>
+      <p begin="00:29:39.926" end="00:29:42.627">-&#201; muito excitante para n&#243;s enquanto discogr&#225;fica ser capazes</p>
+      <p begin="00:29:42.645" end="00:29:43.717">de apresentar estes tipo de pacotes,</p>
+      <p begin="00:29:43.735" end="00:29:48.459">e Charles &#233; o tipo perfeito para adicionar a qualquer um dos</p>
+      <p begin="00:29:48.566" end="00:29:51.951">espect&#225;culos e para p&#244;r o nome dele antes do de tantas outras banda</p>
+      <p begin="00:29:51.951" end="00:29:53.779">que at&#233; agora foram bem-sucedidas.</p>
+      <p begin="00:29:53.995" end="00:29:56.188">-Se formos a algum lugar e formos capazes de ter mil pessoas a apareer</p>
+      <p begin="00:29:56.280" end="00:29:59.559">para ver a Sharon, poder p&#244;-lo &#224; frente de um p&#250;blico assim &#233;...</p>
+      <p begin="00:29:59.682" end="00:30:02.230">&#233; uma vantagem enorme.</p>
+      <p begin="00:30:02.938" end="00:30:05.211">At&#233; agora a Sharon Jones e os Dap-Kings</p>
+      <p begin="00:30:05.319" end="00:30:08.880">foram os nossos artistas mais prol&#237;ficos e mais bem-sucedidos.</p>
+      <p begin="00:30:09.003" end="00:30:10.140">S&#227;o os artistas que j&#225; est&#227;o conosco h&#225; mais tempo,</p>
+      <p begin="00:30:10.140" end="00:30:12.212">que j&#225; fizeram mais digress&#245;es, e que j&#225; venderam</p>
+      <p begin="00:30:12.230" end="00:30:13.853">dez vezes o n&#250;mero de &#225;lbuns.</p>
+      <p begin="00:30:14.088" end="00:30:23.039"/>
+      <p begin="00:30:23.039" end="00:30:26.088">- N&#227;o ter um bom espect&#225;culo em um ano ou cerca disso,</p>
+      <p begin="00:30:26.211" end="00:30:28.227">e para tamb&#233;m dar algo contexto,</p>
+      <p begin="00:30:28.227" end="00:30:40.614">ele n&#227;o fez um monte de espect&#225;culos enquanto Charles Bradley.</p>
+      <p begin="00:30:40.614" end="00:30:43.035">-Trabalhar ao vivo com o Bradley &#233; um pouco stressante,</p>
+      <p begin="00:30:43.112" end="00:30:46.203">porque ele pode, tipo, disparar a qualquer altura durante uma m&#250;sica.</p>
+      <p begin="00:30:52.756" end="00:30:58.282">- Am&#233;rica! N&#243;s temos que fazer esta sala, temos que tocar.</p>
+      <p begin="00:30:58.605" end="00:31:01.159">Andem, d&#234;m tudo o que t&#234;m a dar.</p>
+      <p begin="00:31:01.886" end="00:31:04.218">&#9834; Arranja tempo para sonhar &#9834;</p>
+      <p begin="00:31:04.218" end="00:31:05.146">&#9834; Sonhar, sonhar.&#9834;</p>
+      <p begin="00:31:05.146" end="00:31:06.408">&#9834; Tens que te erguer.&#9834;</p>
+      <p begin="00:31:06.408" end="00:31:08.089">&#9834; Erguer.&#9834;</p>
+      <p begin="00:31:08.089" end="00:31:10.747">&#9834;Tens que fazer a tua coisa, oh...&#9834;</p>
+      <p begin="00:31:10.931" end="00:31:13.135">&#9834; N&#227;o h&#225; tempo para sonhar.&#9834;</p>
+      <p begin="00:31:13.135" end="00:31:14.401">&#9834; Sonhar, sonhar.&#9834;</p>
+      <p begin="00:31:14.401" end="00:31:15.316">&#9834; Tens que te erguer,&#9834;</p>
+      <p begin="00:31:15.316" end="00:31:16.817">&#9834; Erguer.&#9834;</p>
+      <p begin="00:31:16.817" end="00:31:18.235">&#9834; Tens que fazer a tua coisa. &#9834;</p>
+      <p begin="00:31:18.235" end="00:31:19.611">&#9834; Faz a tua coisa.&#9834;</p>
+      <p begin="00:31:19.611" end="00:31:22.030">&#9834; Dorme enquanto dormes. &#9834;</p>
+      <p begin="00:31:22.030" end="00:31:24.074">&#9834; Farto de rastejar lentamente. &#9834;</p>
+      <p begin="00:31:24.074" end="00:31:25.325">&#9834; Acorda!&#9834;</p>
+      <p begin="00:31:25.325" end="00:31:28.412">&#9834; Antes que seja tarde demais. &#9834;</p>
+      <p begin="00:31:28.412" end="00:31:30.956">&#9834; Esfor&#231;a-te mais! &#9834;</p>
+      <p begin="00:31:30.956" end="00:31:32.958">&#9834; P&#225;ra de pensar no que est&#225; acol&#225;. &#9834;</p>
+      <p begin="00:31:32.958" end="00:31:34.376">&#9834; Acorda! &#9834;</p>
+      <p begin="00:31:34.376" end="00:31:35.669">&#9834; Vais ter a tua hip&#243;tese. &#9834;</p>
+      <p begin="00:31:35.669" end="00:31:37.295">&#9834; Huh! &#9834;</p>
+      <p begin="00:31:37.295" end="00:31:39.548">&#9834; N&#227;o h&#225; tempo para sonhar.&#9834;</p>
+      <p begin="00:31:39.548" end="00:31:40.383">&#9834; Sonhar, sonhar.&#9834;</p>
+      <p begin="00:31:40.383" end="00:31:41.788">&#9834; Tens que te erguer,&#9834;</p>
+      <p begin="00:31:41.788" end="00:31:43.362">&#9834; Erguer.&#9834;</p>
+      <p begin="00:31:43.362" end="00:31:44.803">&#9834; Tens que fazer a tua coisa. &#9834;</p>
+      <p begin="00:31:44.803" end="00:31:46.517">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:31:46.517" end="00:31:48.379">&#9834; N&#227;o h&#225; tempo para sonhar.&#9834;</p>
+      <p begin="00:31:48.379" end="00:31:49.296">&#9834; Sonhar, sonhar.&#9834;</p>
+      <p begin="00:31:49.296" end="00:31:50.811">&#9834; Tens que te erguer,&#9834;</p>
+      <p begin="00:31:50.811" end="00:31:51.676">&#9834; Erguer.&#9834;</p>
+      <p begin="00:31:51.676" end="00:31:52.812">&#9834; Tens que fazer a tua coisa. &#9834;</p>
+      <p begin="00:31:52.812" end="00:31:54.185">&#9834; E fazer a tua coisa. &#9834;</p>
+      <p begin="00:31:54.185" end="00:31:55.188">&#9834; Hey...&#9834;</p>
+      <p begin="00:31:55.188" end="00:32:02.572"/>
+      <p begin="00:32:02.572" end="00:32:03.710">&#9834; Hey...&#9834;</p>
+      <p begin="00:32:03.710" end="00:32:05.449"/>
+      <p begin="00:32:05.449" end="00:32:06.992">&#9834; Tens que&#9834;</p>
+      <p begin="00:32:06.992" end="00:32:10.329">&#9834; dar &#9834;</p>
+      <p begin="00:32:10.329" end="00:32:13.081">&#9834; Yeah &#9834;</p>
+      <p begin="00:32:13.081" end="00:32:14.751">&#9834; N&#227;o h&#225; tempo para sonhar.&#9834;</p>
+      <p begin="00:32:14.751" end="00:32:15.835">&#9834; Sonhar, sonhar.&#9834;</p>
+      <p begin="00:32:15.835" end="00:32:17.253">&#9834; Tens que te erguer,&#9834;</p>
+      <p begin="00:32:17.253" end="00:32:18.696">&#9834; Erguer.&#9834;</p>
+      <p begin="00:32:18.696" end="00:32:19.464">&#9834; Tens que fazer a tua coisa. &#9834;</p>
+      <p begin="00:32:19.464" end="00:32:21.002">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:32:21.002" end="00:32:23.800">&#9834; Huh! N&#227;o h&#225; tempo para sonhar.&#9834;</p>
+      <p begin="00:32:23.800" end="00:32:25.510">&#9834; Sonhar, sonhar.&#9834;</p>
+      <p begin="00:32:25.510" end="00:32:26.262">&#9834; Tens que te erguer,&#9834;</p>
+      <p begin="00:32:26.262" end="00:32:27.729">&#9834; Erguer.&#9834;</p>
+      <p begin="00:32:27.729" end="00:32:28.889">&#9834; Tens que fazer a tua coisa. &#9834;</p>
+      <p begin="00:32:28.889" end="00:32:31.372">&#9834; Faz a tua coisa.&#9834;</p>
+      <p begin="00:32:31.557" end="00:32:36.314">&#9834; Huh! N&#227;o h&#225; tempo para sonhar.&#9834;</p>
+      <p begin="00:32:36.314" end="00:32:39.748">&#9834; Tens que te erguer,&#9834;</p>
+      <p begin="00:32:39.748" end="00:32:43.445">&#9834; Tens que fazer a tua coisa. &#9834;</p>
+      <p begin="00:32:43.445" end="00:32:44.444"/>
+      <p begin="00:32:44.444" end="00:32:45.781"/>
+      <p begin="00:32:45.781" end="00:32:47.916">- Amo-te, Charles.</p>
+      <p begin="00:32:47.916" end="00:32:51.705">-Tamb&#233;m te amo. Tamb&#233;m te amo. Tamb&#233;m te amo.</p>
+      <p begin="00:32:51.705" end="00:32:52.914">- Amo-te, Charles.</p>
+      <p begin="00:32:52.914" end="00:32:54.456">- Tamb&#233;m te amo</p>
+      <p begin="00:32:54.456" end="00:32:56.875"/>
+      <p begin="00:32:56.875" end="00:33:01.157">- Senhoras e senhores, palmas para Charles Bradley!</p>
+      <p begin="00:33:02.448" end="00:33:06.598">Mostrem o vosso amor pelo Sr. Charles Bradley.</p>
+      <p begin="00:33:07.690" end="00:33:09.788">- Ok. Tu &#233;s inteligente, &#233;s inteligente.</p>
+      <p begin="00:33:09.788" end="00:33:10.871">-Foi melhor do que a noite passada, n&#227;o foi?</p>
+      <p begin="00:33:10.871" end="00:33:11.960">-Sim, foi.</p>
+      <p begin="00:33:11.960" end="00:33:12.887">- Foi melhor. - Arrasaste.</p>
+      <p begin="00:33:12.887" end="00:33:13.885">-Ent&#227;o, ganhamos.</p>
+      <p begin="00:33:13.885" end="00:33:14.853">-Foi.</p>
+      <p begin="00:33:14.853" end="00:33:15.603">-Quanto tempo?</p>
+      <p begin="00:33:15.603" end="00:33:18.478">-Eu sei que cometi alguns erros hoje.</p>
+      <p begin="00:33:18.616" end="00:33:20.818">Mas estou a melhorar e consigo senti-lo.</p>
+      <p begin="00:33:20.941" end="00:33:22.948">O p&#250;blico n&#227;o o viu, mas eu sei.</p>
+      <p begin="00:33:23.071" end="00:33:24.848">E o Tom, ele apercebeu-se.</p>
+      <p begin="00:33:25.156" end="00:33:28.084">Fui bom durante o &#250;ltimo.</p>
+      <p begin="00:33:28.484" end="00:33:31.641">E h&#225; algo em que penso quando fa&#231;o um erro,</p>
+      <p begin="00:33:31.748" end="00:33:34.127">mas estou a melhorar. E prometo-lhe isso.</p>
+      <p begin="00:33:34.389" end="00:33:37.651">-N&#227;o conseguimos acreditar que apareceu mais vezes.</p>
+      <p begin="00:33:37.651" end="00:33:38.949">Quer&#237;amos mais de si.</p>
+      <p begin="00:33:38.949" end="00:33:41.928">Porque n&#227;o voltou no fim?</p>
+      <p begin="00:33:42.543" end="00:33:43.797">Diga-lhe.</p>
+      <p begin="00:33:43.797" end="00:33:44.506"/>
+      <p begin="00:33:44.506" end="00:33:46.574">-N&#227;o quero saber, queremos mais.</p>
+      <p begin="00:33:46.666" end="00:33:48.404">Mais do Chuckie.</p>
+      <p begin="00:33:48.912" end="00:33:49.640">-Obrigado, parceiro.</p>
+      <p begin="00:33:49.640" end="00:33:50.892">Obrigado por isso.</p>
+      <p begin="00:33:50.892" end="00:33:52.065">Voc&#234; deixou-nos excitados a todos.</p>
+      <p begin="00:33:52.065" end="00:33:53.669">Obrigado.</p>
+      <p begin="00:33:53.669" end="00:33:55.631">-Voc&#234; arrebentou com a casa.</p>
+      <p begin="00:33:55.816" end="00:33:58.677">-Inacredit&#225;vel. Voc&#234; vai ser muito famoso.</p>
+      <p begin="00:33:58.877" end="00:34:01.061">-N&#227;o percebo o que as pessoas querem dizer com "diva",</p>
+      <p begin="00:34:01.184" end="00:34:03.732">porque essa palavra, "diva", pode &#224;s vezes n&#227;o ser correcta.</p>
+      <p begin="00:34:03.793" end="00:34:04.862">- Mas &#233; acertada para si.</p>
+      <p begin="00:34:04.862" end="00:34:07.674">-Diva significa, bem, depende.</p>
+      <p begin="00:34:07.798" end="00:34:08.955">-Sim.</p>
+      <p begin="00:34:09.232" end="00:34:11.366">-Bem, mas vem de amor, tem que levar a fonte em considera&#231;&#227;o.</p>
+      <p begin="00:34:11.366" end="00:34:12.115">-Esta &#233; tua.</p>
+      <p begin="00:34:12.115" end="00:34:13.367">- "Considera a fonte."</p>
+      <p begin="00:34:13.367" end="00:34:14.453">-Tenha uma boa semana</p>
+      <p begin="00:34:14.453" end="00:34:17.521">-N&#227;o disseste, "Para Charles." N&#227;o disseste, "Para Charles."</p>
+      <p begin="00:34:17.521" end="00:34:20.460">-"Charles," como se soletra "Bradley?"</p>
+      <p begin="00:34:20.460" end="00:34:21.965">-Bradley, B-R-A-D-L-E-Y,</p>
+      <p begin="00:34:21.965" end="00:34:23.480">-....L-E-Y.</p>
+      <p begin="00:34:23.480" end="00:34:25.078">- Certo. Agora percebi.</p>
+      <p begin="00:34:25.078" end="00:34:26.148">-Tens uma fa&#237;sca.</p>
+      <p begin="00:34:28.843" end="00:34:30.669">- Adoro-te Sharon.</p>
+      <p begin="00:34:30.669" end="00:34:31.699">- Tamb&#233;m te adoro.</p>
+      <p begin="00:34:31.776" end="00:34:35.165" region="top">-Encontraste um verdadeiro amigo em mim. </p>
+      <p begin="00:34:35.165" end="00:34:37.539">-Desejo tudo de melhor para ti, para n&#243;s.</p>
+      <p begin="00:34:37.631" end="00:34:41.974">-Se n&#227;o te vir no topo, vejo-te no c&#233;u.</p>
+      <p begin="00:34:42.158" end="00:34:43.982">-Vais-me ver, vais ver-me no topo</p>
+      <p begin="00:34:43.982" end="00:34:45.401">e vais ver-me no c&#233;u.</p>
+      <p begin="00:34:45.401" end="00:34:46.933">E vais ver-me aqui em baixo tamb&#233;m.</p>
+      <p begin="00:34:46.933" end="00:34:48.530">-Amo-te Sharon.</p>
+      <p begin="00:34:48.530" end="00:34:49.757">-Tamb&#233;m te amo Charles.</p>
+      <p begin="00:34:50.030" end="00:35:09.633"/>
+      <p begin="00:35:09.633" end="00:35:11.844">- Poughkeepsie</p>
+      <p begin="00:35:13.059" end="00:35:17.141">-Vou parar para fazer uma visita a uns velhos amigos que n&#227;o vejo h&#225; anos.</p>
+      <p begin="00:35:17.141" end="00:35:19.559"/>
+      <p begin="00:35:19.559" end="00:35:25.315"/>
+      <p begin="00:35:25.315" end="00:35:27.506">- Eu disse, "Deus, espero que eles ainda estejam aqui."</p>
+      <p begin="00:35:27.506" end="00:35:29.235">- Sim, ainda estamos aqui irm&#227;o.</p>
+      <p begin="00:35:29.235" end="00:35:32.649">- Wow, esta casa cheira bem!</p>
+      <p begin="00:35:32.649" end="00:35:35.143">-Que se passa, amig&#227;o? Como te sentes?</p>
+      <p begin="00:35:35.143" end="00:35:36.623">-Aos anos Carl, olha s&#243; para ti.</p>
+      <p begin="00:35:36.623" end="00:35:38.277">-Ah, sim. Est&#225;s com bom aspecto.</p>
+      <p begin="00:35:38.277" end="00:35:39.789">- Tamb&#233;m est&#225;s com bom aspecto.</p>
+      <p begin="00:35:39.789" end="00:35:42.040">&#201; a Jackie que est&#225; a descer?</p>
+      <p begin="00:35:42.040" end="00:35:44.251">Ah! Olha para a Jackie!</p>
+      <p begin="00:35:44.251" end="00:35:46.675">Como est&#225;s?</p>
+      <p begin="00:35:47.647" end="00:35:49.383" region="top">Eu conhe&#231;o este tipo -- </p>
+      <p begin="00:35:49.383" end="00:35:52.616" region="top">conhe&#231;o Ernie Washington desde 1968. </p>
+      <p begin="00:35:52.616" end="00:35:54.345" region="top">- Sabes de que &#233; que ela anda &#224; procura agora? </p>
+      <p begin="00:35:54.345" end="00:35:55.660" region="top">- Um? </p>
+      <p begin="00:35:55.660" end="00:35:56.825" region="top">- Lembras-te de quanto costumavas usar aquela capa? </p>
+      <p begin="00:35:56.825" end="00:35:59.182">- Estavas a cantar uma m&#250;sica do James Brown,</p>
+      <p begin="00:35:59.182" end="00:36:01.268">e atiravas a capa.- Oh, meu Deus.</p>
+      <p begin="00:36:01.268" end="00:36:04.841">E n&#227;o sei se um de n&#243;s foi apanhar a capa</p>
+      <p begin="00:36:04.841" end="00:36:06.485">e voltar a p&#244;-la nos teus ombros ou qu&#234;.</p>
+      <p begin="00:36:06.485" end="00:36:07.388">-Sim, lembro-me disso.</p>
+      <p begin="00:36:07.388" end="00:36:08.359">-Sim.</p>
+      <p begin="00:36:08.359" end="00:36:10.030">-Sim, lembro-me disso.</p>
+      <p begin="00:36:10.030" end="00:36:11.383">-&#201; isso mesmo.</p>
+      <p begin="00:36:11.460" end="00:36:13.392">Nunca saberias que foste t&#227;o longe, huh?</p>
+      <p begin="00:36:13.515" end="00:36:15.925">-Deus. Sabes, agrade&#231;o a Deus n&#227;o ter desistido.</p>
+      <p begin="00:36:15.925" end="00:36:17.676">-Gra&#231;as a Deus.</p>
+      <p begin="00:36:17.676" end="00:36:18.704">-Deixa-me falar com o Tom.</p>
+      <p begin="00:36:18.781" end="00:36:24.243">Diz ao Tom para por o Sr. e a Sra. Washington na lista de convidados</p>
+      <p begin="00:36:24.720" end="00:36:25.831">Encontrei os meus amigos.</p>
+      <p begin="00:36:26.047" end="00:36:27.523">Eles s&#227;o completamente a minha fam&#237;lia.</p>
+      <p begin="00:36:27.692" end="00:36:31.112">Mantemo-nos em contacto, embora possamos separar-nos durante muito tempo,</p>
+      <p begin="00:36:31.112" end="00:36:32.040">mas, eventualmente, eu encontro-os de novo.</p>
+      <p begin="00:36:32.040" end="00:36:32.913">-&#201; isso mesmo.</p>
+      <p begin="00:36:32.913" end="00:36:34.197">-Sabes que sim, Jackie.</p>
+      <p begin="00:36:34.197" end="00:36:35.631">-Sim, somos amigos h&#225; muito, muito tempo.</p>
+      <p begin="00:36:35.631" end="00:36:37.020">-Sim, sim, Deus, sim.</p>
+      <p begin="00:36:37.958" end="00:36:40.386">Fico com arrepios s&#243; de pensar nisso.</p>
+      <p begin="00:36:40.510" end="00:36:42.545">Vejo-os depois, hoje &#224; noite.</p>
+      <p begin="00:36:42.545" end="00:36:44.309">-Toma cuidado, vejo-te hoje &#224; noite.</p>
+      <p begin="00:36:44.309" end="00:36:45.688">-Est&#225; bem, amigo.</p>
+      <p begin="00:36:47.196" end="00:36:51.122">Oh meu Deus, que nostalgia.</p>
+      <p begin="00:36:54.459" end="00:36:55.824">Na estrada para o sul,</p>
+      <p begin="00:36:55.824" end="00:37:01.724">Estava numa casa ali, e houve uma tempestade de neve.</p>
+      <p begin="00:37:01.724" end="00:37:02.788">Telefonei a dizer que estava doente,</p>
+      <p begin="00:37:02.788" end="00:37:06.045">n&#227;o queria ir porque n&#227;o era capaz de atravessar toda aquela neve.</p>
+      <p begin="00:37:06.045" end="00:37:08.960">Ent&#227;o ele disse, "Bem, telefonas-nos, n&#227;o apareces,</p>
+      <p begin="00:37:08.960" end="00:37:10.920">n&#227;o te d&#234;s ao trabalho de aparecer outra vez."`</p>
+      <p begin="00:37:10.920" end="00:37:14.699">E eu disse, bem, n&#227;o quero perder o meu emprego e o meu apartamento,</p>
+      <p begin="00:37:14.712" end="00:37:15.763">tenho que pagar a renda.</p>
+      <p begin="00:37:15.776" end="00:37:19.022">Ent&#227;o sa&#237;, meti-me ao caminho, e comecei a andar &#224; boleia.</p>
+      <p begin="00:37:19.036" end="00:37:21.131">Boleia, boleia.</p>
+      <p begin="00:37:21.162" end="00:37:23.322">Ent&#227;o de repente, vejo este tipo a parar.</p>
+      <p begin="00:37:23.430" end="00:37:24.853">Deixou-me entrar, e eu entrei no carro.</p>
+      <p begin="00:37:24.945" end="00:37:29.243">Ap&#243;s termos andado cerca de uma milha, duas milhas, havia um daqueles</p>
+      <p begin="00:37:29.243" end="00:37:31.885">Ligou a sirene, e mandou-o encostar.</p>
+      <p begin="00:37:31.885" end="00:37:37.043">Ele perguntou, "Posso ver a sua identifica&#231;&#227;o?"</p>
+      <p begin="00:37:38.012" end="00:37:39.613">Bem, quem &#233; o tipo ao seu lado?</p>
+      <p begin="00:37:39.613" end="00:37:41.410">Eu disse, "Essa informa&#231;&#227;o n&#227;o &#233; minha para dar,</p>
+      <p begin="00:37:41.410" end="00:37:42.577">vai ter que lhe perguntar a ele."</p>
+      <p begin="00:37:42.577" end="00:37:45.780">Ent&#227;o ele agarrou-me e chamou-me: "Preto sabicholas."</p>
+      <p begin="00:37:45.964" end="00:37:47.708">Agarrou-me e atirou-me contra o carro,</p>
+      <p begin="00:37:47.708" end="00:37:49.293">algemou-me.</p>
+      <p begin="00:37:49.293" end="00:37:51.473">Ele disse, "Levava-te para o monte e dava-te um tiro na mioleira.</p>
+      <p begin="00:37:51.627" end="00:37:53.760">Quando te fa&#231;o uma pergunta, n&#227;o te armes em esperto comigo."</p>
+      <p begin="00:37:53.898" end="00:37:57.488">E eu fiquei l&#225;, e depois o parceiro dele aproximou-se e disse, "Hey man."</p>
+      <p begin="00:37:57.611" end="00:37:59.940">Levou-o &#224; parte e disse-lhe algo.</p>
+      <p begin="00:38:00.760" end="00:38:03.379">E depois o parceiro dele pediu-me desculpa.</p>
+      <p begin="00:38:03.610" end="00:38:06.659">Tirou-me as algemas, disse-me para me meter no carro e continuar.</p>
+      <p begin="00:38:06.797" end="00:38:07.833">E eu fui embora.</p>
+      <p begin="00:38:09.372" end="00:38:10.856">E eu entrei nesta pizzaria pequena.</p>
+      <p begin="00:38:10.856" end="00:38:12.774">Pizzaria mesmo pequena.</p>
+      <p begin="00:38:12.774" end="00:38:14.298">Estava a sentar-me e disse, "Deus, n&#227;o aguento isto."</p>
+      <p begin="00:38:14.298" end="00:38:15.844">J&#225; n&#227;o conseguia aguentar mais.</p>
+      <p begin="00:38:16.782" end="00:38:22.317">Estava a tentar pensar em alguma forma de sair deste corpo sem --</p>
+      <p begin="00:38:22.486" end="00:38:24.737">se conseguisse faz&#234;-lo r&#225;pido, sem</p>
+      <p begin="00:38:24.768" end="00:38:26.890">dor, e com a certeza de n&#227;o cometer um erro,</p>
+      <p begin="00:38:26.921" end="00:38:28.892">e que n&#227;o sobrevivesse apenas para sofrer.</p>
+      <p begin="00:38:29.076" end="00:38:31.760">Eu disse, sei que se um autocarro --</p>
+      <p begin="00:38:31.781" end="00:38:33.863">se um cami&#227;o me bater vou desta para melhor.</p>
+      <p begin="00:38:33.883" end="00:38:36.175">E tentei arranjar coragem para o fazer.</p>
+      <p begin="00:38:37.110" end="00:38:40.769">E depois, de repente, este tipo entra e p&#245;e algum dinheiro na jukebox</p>
+      <p begin="00:38:40.954" end="00:38:45.044">e escolheu uma m&#250;sica, Take it to the Limit One More Time.</p>
+      <p begin="00:38:46.028" end="00:38:48.439">Foi como se Deus estivesse a falar comigo.</p>
+      <p begin="00:38:48.546" end="00:38:53.912">Eu estava no fim da linha. Quando ouvi aquela m&#250;sica comecei a chorar.</p>
+      <p begin="00:38:54.128" end="00:38:56.943">E at&#233; o tipo da pizzaria disse,</p>
+      <p begin="00:38:56.943" end="00:38:59.238">"Est&#225; tudo bem jovem. Est&#225; tudo bem."</p>
+      <p begin="00:38:59.238" end="00:39:01.984">Levantei-me, sa&#237;, e voltei &#224; estrada.</p>
+      <p begin="00:39:04.618" end="00:39:23.889"/>
+      <p begin="00:39:23.889" end="00:39:28.242">&#9834; Ai-ai...&#9834;</p>
+      <p begin="00:39:28.242" end="00:39:32.354">&#9834; Amar-te beb&#233; &#9834;</p>
+      <p begin="00:39:32.354" end="00:39:38.988">&#9834; Oh, n&#227;o me consigo fartar de ti beb&#233;&#9834;</p>
+      <p begin="00:39:38.988" end="00:39:43.532">&#9834; N&#227;o me consigo fartar de ti &#9834;</p>
+      <p begin="00:39:43.532" end="00:39:49.432">&#9834; Estava a chorar quando senti o teu amor &#9834;</p>
+      <p begin="00:39:52.017" end="00:39:55.955">&#9834; Desta vez sei que &#233; verdadeiro, baby.&#9834;</p>
+      <p begin="00:39:56.140" end="00:40:02.571">&#9834; Eu... &#9834;</p>
+      <p begin="00:40:02.571" end="00:40:09.002"/>
+      <p begin="00:40:10.356" end="00:40:11.603">&#9834;Baixem um pouco o volume, rapazes.&#9834;</p>
+      <p begin="00:40:12.772" end="00:40:17.555">Senhoras e senhores, quem quer que sejam.</p>
+      <p begin="00:40:20.185" end="00:40:28.861">Eu morei aqui. Vim aqui para Poughkeepsie por volta de 1968.</p>
+      <p begin="00:40:30.075" end="00:40:33.834">E h&#225; 9 anos que moro aqui.</p>
+      <p begin="00:40:35.464" end="00:40:38.697">Isto &#233; como se fosse o meu lar.</p>
+      <p begin="00:40:38.928" end="00:40:40.745">Ent&#227;o, dou-lhes o meu amor.</p>
+      <p begin="00:40:41.929" end="00:40:45.271">Baixem mais um pouco, rapazes.</p>
+      <p begin="00:40:46.548" end="00:40:50.179">E trabalhei numa pequena cidade chamada Wassaic.</p>
+      <p begin="00:40:51.148" end="00:40:56.689">Trabalhava num pequeno centro, era o cozinheiro de 3500 pessoas por dia.</p>
+      <p begin="00:40:57.780" end="00:41:00.239">Tenho um amigo aqui, dois amigos,</p>
+      <p begin="00:41:00.332" end="00:41:02.964">que estavam comigo quando vim para aqui.</p>
+      <p begin="00:41:03.701" end="00:41:07.639">E os seus nomes s&#227;o Sr. e Sra. Ernest Washington.</p>
+      <p begin="00:41:07.778" end="00:41:10.524">Ernest Washington n&#227;o te consigo ver, onde est&#225;s?</p>
+      <p begin="00:41:10.709" end="00:41:14.055">Mas, obrigado pela viagem, irm&#227;o.</p>
+      <p begin="00:41:14.854" end="00:41:16.971">Muito obrigada, Jackie.</p>
+      <p begin="00:41:18.141" end="00:41:21.134">Obrigado por seres meu amigo ao longo dos anos.</p>
+      <p begin="00:41:21.273" end="00:41:23.033">E todos voc&#234;s a&#237;.</p>
+      <p begin="00:41:23.248" end="00:41:26.501">&#9834; Amo-vos.&#9834;</p>
+      <p begin="00:41:26.655" end="00:41:31.556">&#9834; Yeah... &#9834;</p>
+      <p begin="00:41:31.556" end="00:41:35.644">&#9834; Amo-te.&#9834;</p>
+      <p begin="00:41:35.644" end="00:41:37.564">&#9834; Queres ver? &#9834;</p>
+      <p begin="00:41:37.564" end="00:41:39.523">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:41:39.523" end="00:41:42.986">&#9834; Ooo....&#9834;</p>
+      <p begin="00:41:42.986" end="00:42:04.645">Obrigado Senhoras e Senhores - adoro-vos.</p>
+      <p begin="00:42:04.645" end="00:42:06.205">-Tamb&#233;m vi-te no Youtube.</p>
+      <p begin="00:42:06.809" end="00:42:09.877">Foi assim que conheci a grandiosidade de Charles Bradley.</p>
+      <p begin="00:42:10.877" end="00:42:12.070">-Muito obrigado.</p>
+      <p begin="00:42:12.208" end="00:42:13.507">Foi uma noite fant&#225;stica.</p>
+      <p begin="00:42:14.769" end="00:42:16.039">-Foi mesmo.</p>
+      <p begin="00:42:16.239" end="00:42:17.975">- E voc&#234; tornou-a muito especial.</p>
+      <p begin="00:42:18.074" end="00:42:19.105">Muito especial.</p>
+      <p begin="00:42:19.712" end="00:42:20.787">Muito obrigado.</p>
+      <p begin="00:42:20.287" end="00:42:21.026">-Deus te aben&#231;oe.</p>
+      <p begin="00:42:21.026" end="00:42:23.093">-Obrigado.</p>
+      <p begin="00:42:23.093" end="00:42:24.620">-Este &#233; o nosso sobrinho, Cain.</p>
+      <p begin="00:42:24.758" end="00:42:26.162">-Obrigado por terem vindo a Poughkeepsie.</p>
+      <p begin="00:42:26.270" end="00:42:27.571">-Voc&#234; aben&#231;ou Poughkeepsie esta noite.</p>
+      <p begin="00:42:27.571" end="00:42:29.310">-Obrigado.</p>
+      <p begin="00:42:29.310" end="00:42:30.862">-Tome cuidado.</p>
+      <p begin="00:42:31.001" end="00:42:33.234">-Obrigado por voltar para uma noite.</p>
+      <p begin="00:42:34.219" end="00:42:36.383">-Pude tocar no momento, um momento.</p>
+      <p begin="00:42:36.521" end="00:42:38.733">Quando me baixei e comecei a connversar com algumas pessoas.</p>
+      <p begin="00:42:39.010" end="00:42:40.137">Fiquei tocado.</p>
+      <p begin="00:42:40.353" end="00:42:41.820">Ent&#227;o disse, "&#201; melhor parar, est&#225; a ficar demasiado profundo agora."</p>
+      <p begin="00:42:41.820" end="00:42:43.648">"&#201; melhor parar."</p>
+      <p begin="00:42:43.648" end="00:42:46.115">Voltei a levantar-me porque estava a come&#231;ar a ficar comovente.</p>
+      <p begin="00:42:46.300" end="00:42:50.862">Mas essa foi a coisa bonita acerca do que viram, Ernest Washing e Jackie.</p>
+      <p begin="00:42:51.016" end="00:42:52.109">Oh, man.</p>
+      <p begin="00:42:52.325" end="00:42:56.160">Esta &#233; a primeira vez que eles me v&#234;em em anos.</p>
+      <p begin="00:43:00.687" end="00:43:08.141"/>
+      <p begin="00:43:08.141" end="00:43:10.986">- Esta &#233; a casa onde o meu irm&#227;o foi morto.</p>
+      <p begin="00:43:13.401" end="00:43:16.454">&#201; por isso que j&#225; n&#227;o gosto de vir a este quarteir&#227;o.</p>
+      <p begin="00:43:16.454" end="00:43:21.742" region="top">-Ele desceu as escadas e viu-me a chorar. </p>
+      <p begin="00:43:21.742" end="00:43:22.997" region="top">Ele disse, "M&#227;e, qual &#233; o problema?" </p>
+      <p begin="00:43:22.997" end="00:43:24.892" region="top">Eu disse, "Vai ver &#224; porta ao lado." </p>
+      <p begin="00:43:24.892" end="00:43:27.153" region="top">"Charles, o teu irm&#227;o est&#225; morto." </p>
+      <p begin="00:43:29.369" end="00:43:31.290" region="top">Ele disse: "N&#227;o, m&#227;e, n&#227;o pode ser." </p>
+      <p begin="00:43:31.290" end="00:43:32.733" region="top">Eu disse, "Sim, ele est&#225; morto." </p>
+      <p begin="00:43:32.733" end="00:43:38.160" region="top">O quarteir&#227;o todo estava cheio de pol&#237;cias com armas. </p>
+      <p begin="00:43:38.268" end="00:43:40.601">Eu olho para fora, e vejo estes pol&#237;cias todos,</p>
+      <p begin="00:43:40.693" end="00:43:42.926">e os cami&#245;es dos bombeiros, e a ambul&#226;ncia l&#225; fora.</p>
+      <p begin="00:43:43.019" end="00:43:47.037">Ent&#227;o sa&#237; e disse, tenho que ver isto com os meus pr&#243;prios olhos.</p>
+      <p begin="00:43:47.160" end="00:43:52.394">Vi esta coisa a dizer "Morgue", e quando vi isso, o que fiz foi</p>
+      <p begin="00:43:53.378" end="00:43:56.952">sair para ir &#224; casa do meu irm&#227;o,</p>
+      <p begin="00:43:56.952" end="00:43:58.870">e o detective n&#227;o me deixava entrar.</p>
+      <p begin="00:43:58.870" end="00:44:01.010">Disse-lhe que era o meu irm&#227;o e que n&#227;o me podia parar.</p>
+      <p begin="00:44:01.179" end="00:44:02.580">Ent&#227;o abri caminho aos empurr&#245;es.</p>
+      <p begin="00:44:02.873" end="00:44:06.023">Mas agora desejo nunca o ter feito.</p>
+      <p begin="00:44:06.731" end="00:44:09.496" region="top">- E eles tinham o rapaz no banco de tr&#225;s do carro. </p>
+      <p begin="00:44:09.619" end="00:44:12.635" region="top">Eu disse, "D&#234;-me a sua arma, Sr. Pol&#237;cia." </p>
+      <p begin="00:44:12.789" end="00:44:15.465" region="top">Eu disse, "Vou arrebentar-lhe com os miolos." </p>
+      <p begin="00:44:15.465" end="00:44:16.939" region="top">Ele disse, "N&#227;o posso fazer isso". </p>
+      <p begin="00:44:16.939" end="00:44:19.810" region="top">Eu disse, "Ainda bem que n&#227;o pode, </p>
+      <p begin="00:44:19.819" end="00:44:21.857" region="top">porque eu enchia-lhe a cabe&#231;a de balas." </p>
+      <p begin="00:44:21.866" end="00:44:25.804" region="top">Ele roubou o meu filho e ficou com o dinheiro dele. </p>
+      <p begin="00:44:25.850" end="00:44:28.412" region="top">Eu disse, "Vou mat&#225;-lo". </p>
+      <p begin="00:44:28.412" end="00:44:31.945" region="top">E estava a falar a s&#233;rio. </p>
+      <p begin="00:44:33.390" end="00:44:34.874" region="top">Adoro o meu beb&#233;. </p>
+      <p begin="00:44:34.874" end="00:44:36.158" region="top">Mm-hm. </p>
+      <p begin="00:44:36.158" end="00:44:37.539" region="top">Adoro o meu beb&#233;. </p>
+      <p begin="00:44:37.539" end="00:44:39.595" region="top">Dormir, filho. </p>
+      <p begin="00:44:39.985" end="00:44:41.310" region="top">Deus te ame, mas a m&#227;e, </p>
+      <p begin="00:44:41.448" end="00:44:46.140" region="top">quero dizer, a m&#227;e ama-te, mas Deus ama-te mais e d&#225;-te descanso eterno. </p>
+      <p begin="00:44:46.810" end="00:44:49.187" region="top">Um dia vamos voltar a encontrar-nos no trono. </p>
+      <p begin="00:44:49.480" end="00:44:51.422" region="top">Sim. Sim, vamos, filho. </p>
+      <p begin="00:44:52.668" end="00:44:57.963">-Acho que Charles dependia de Joseph tal como a m&#227;e deles depende de Charles.</p>
+      <p begin="00:45:00.117" end="00:45:03.672">Charles quase que enloqueceu quando Joseph foi morto.</p>
+      <p begin="00:45:05.610" end="00:45:10.572">Quero dizer, durante algum tempo ele disse-me que ia enlouquecer.</p>
+      <p begin="00:45:13.079" end="00:45:14.868">- E eu realmente gostava de descobrir a verdade</p>
+      <p begin="00:45:14.868" end="00:45:15.940">do porqu&#234; de ele ter sido morto.</p>
+      <p begin="00:45:15.958" end="00:45:17.556">Ele era demasiado jovem.</p>
+      <p begin="00:45:18.709" end="00:45:21.417">Ele tinha 48 anos de idade.</p>
+      <p begin="00:45:22.878" end="00:45:29.159"/>
+      <p begin="00:45:29.359" end="00:45:30.732">- H&#225; um microfone ti aqui.</p>
+      <p begin="00:45:32.378" end="00:45:35.760">Queres tentar s&#243; uma, ou queres tocar outra coisa?</p>
+      <p begin="00:45:35.760" end="00:45:38.579">-Sim, podemos voltar...</p>
+      <p begin="00:45:38.579" end="00:45:41.188">-Fazes sempre isso.</p>
+      <p begin="00:45:41.341" end="00:45:44.193">- Queres tocar a Heartaches and Pain?</p>
+      <p begin="00:45:48.772" end="00:46:02.999"/>
+      <p begin="00:46:03.030" end="00:46:05.981">-Heartaches and Pain &#233; de longe a m&#250;sica mais profunda</p>
+      <p begin="00:46:06.007" end="00:46:07.109">no &#225;lbum do Charles Bradley,</p>
+      <p begin="00:46:07.134" end="00:46:12.159">e foi provavelmente a terceira m&#250;sica que escrevemos juntos.</p>
+      <p begin="00:46:12.282" end="00:46:16.425">Charles conta-me esta hist&#243;ria acerca do seu irm&#227;o, e Charles diz-me,</p>
+      <p begin="00:46:16.563" end="00:46:20.207">"Quero escrever uma m&#250;sica acerca do meu irm&#227;o Joseph."</p>
+      <p begin="00:46:20.346" end="00:46:23.662">Eu disse, "Ok, como teu amigo, vou ajudar-te a escreve-la."</p>
+      <p begin="00:46:24.245" end="00:46:26.758">E eu disse, "Sabes aquele can&#231;&#227;o que tens tocado toda a tua vida?"</p>
+      <p begin="00:46:28.367" end="00:46:30.106">Vai ser essa a m&#250;sica da can&#231;&#227;o.</p>
+      <p begin="00:46:30.306" end="00:46:33.230">Trouxe Charles, e adicion&#225;-mos algumas coisas &#224; coisa do piano dele,</p>
+      <p begin="00:46:33.230" end="00:46:34.488">algumas progress&#245;es harm&#243;nicas.</p>
+      <p begin="00:46:34.488" end="00:46:36.488">E "Hey Charles, esta &#233; a can&#231;&#227;o para o teu irm&#227;o."</p>
+      <p begin="00:46:36.827" end="00:46:39.765">Ele fez a coisa dele, come&#231;ou a gritar, a correr,</p>
+      <p begin="00:46:39.842" end="00:46:42.420">"Isto &#233; lindo, isto &#233; lindo, oh meu Deus, oh meu Deus."</p>
+      <p begin="00:46:42.697" end="00:46:48.531">E depois come&#231;amos a trabalhar na can&#231;&#227;o e foi dif&#237;cil, muito dif&#237;cil.</p>
+      <p begin="00:46:48.685" end="00:46:56.936">&#201; uma hist&#243;ria muito pessoal, profunda, escura e assombrosa</p>
+      <p begin="00:46:57.059" end="00:46:59.069">acerca do irm&#227;o do Charles, um irm&#227;o mais velho que ele admirava e amava.</p>
+      <p begin="00:46:59.208" end="00:47:01.147">E ele precisava cont&#225;-la.</p>
+      <p begin="00:47:01.301" end="00:47:25.261"/>
+      <p begin="00:47:28.337" end="00:47:34.298">- A hipoteca &#233; dura para mim, porque n&#227;o acho que seja justa para mim.</p>
+      <p begin="00:47:34.467" end="00:47:37.172">Fiz sempre os pagamentos, porque disseram-me que se me atrasasse a pagar,</p>
+      <p begin="00:47:37.295" end="00:47:39.660">eles aumentavam a minha taxa de juros em 18%.</p>
+      <p begin="00:47:39.798" end="00:47:42.071">Estou a tentar com que seja re-hipotecada.</p>
+      <p begin="00:47:42.210" end="00:47:44.098">Eles dizem-me que n&#227;o ganho dinheiro suficiente.</p>
+      <p begin="00:47:44.344" end="00:47:48.846">Eu disse, "Bem, eu n&#227;o ganho dinheiro suficiente, e estou a pagar</p>
+      <p begin="00:47:48.939" end="00:47:51.318">esta hipoteca alta, eu saio para ganhar</p>
+      <p begin="00:47:51.487" end="00:47:55.521">tost&#245;es, todos os tost&#245;ezinhos, para que isto continue a andar."</p>
+      <p begin="00:47:56.090" end="00:47:57.943">- Quando Joseph foi morto</p>
+      <p begin="00:47:57.943" end="00:48:04.214">e Charles assumiu a responsabilidade de tomar conta das necessidades da m&#227;e,</p>
+      <p begin="00:48:04.214" end="00:48:06.442">porque nem toda a gente o teria feito,</p>
+      <p begin="00:48:06.442" end="00:48:09.914">Charles d&#225;-lhe muito do seu dinheiro pessoal,</p>
+      <p begin="00:48:09.996" end="00:48:13.118">que p&#245;e na casa para ajud&#225;-la a ficar l&#225;.</p>
+      <p begin="00:48:13.426" end="00:48:19.502">- Eu diria que ele est&#225; no processo de quase comprar a casa para a sua m&#227;e.</p>
+      <p begin="00:48:20.425" end="00:48:25.461">E o seu irm&#227;o mais velho que vive l&#225; na casa,</p>
+      <p begin="00:48:25.800" end="00:48:27.510">n&#227;o o quer l&#225;.</p>
+      <p begin="00:48:27.618" end="00:48:38.116">Ent&#227;o ele &#233; largamente responsavel por tomar conta</p>
+      <p begin="00:48:38.201" end="00:48:42.201">de todos os assuntos da minha irm&#227;.</p>
+      <p begin="00:48:43.286" end="00:48:47.237"/>
+      <p begin="00:48:48.303" end="00:48:49.552">- Ol&#225;.</p>
+      <p begin="00:48:50.398" end="00:48:51.680">- Sim?</p>
+      <p begin="00:48:53.357" end="00:48:55.131">- Ent&#227;o, como est&#225;s Paul?</p>
+      <p begin="00:48:56.546" end="00:49:01.861">Se ela n&#227;o for capaz de</p>
+      <p begin="00:49:01.999" end="00:49:04.951">refinanciar a casa, ela vai ter que esperar</p>
+      <p begin="00:49:05.120" end="00:49:08.111">por dois meses at&#233; o imposto sobre o rendimento vir.</p>
+      <p begin="00:49:08.434" end="00:49:10.670">Quando vier o imposto sobre o rendimento,</p>
+      <p begin="00:49:10.670" end="00:49:11.670">ela queria que eu abdicasse do meu apartamento,</p>
+      <p begin="00:49:11.670" end="00:49:13.463">mas eu n&#227;o quero deixar o meu apartamento, tu sabes.</p>
+      <p begin="00:49:13.463" end="00:49:16.238">E depois tinha que me mudar para a casa da minha m&#227;e.</p>
+      <p begin="00:49:17.540" end="00:49:20.740">Sim, porque, como eu disse, este apartamento &#233; o &#250;nico s&#237;tio que tenho</p>
+      <p begin="00:49:20.863" end="00:49:22.571">para onde fugir quando fico deprimido</p>
+      <p begin="00:49:22.571" end="00:49:27.281">e h&#225; aqui partes de mim.</p>
+      <p begin="00:49:27.281" end="00:49:30.127">mas o que quer que voc&#234; decida &#233; porque me est&#225; a tentar ajudar, eu sei.</p>
+      <p begin="00:49:30.220" end="00:49:31.246">E agrade&#231;o isso.</p>
+      <p begin="00:49:31.246" end="00:49:32.115">Ok, Paul.</p>
+      <p begin="00:49:32.115" end="00:49:32.791">Obrigado, Paul.</p>
+      <p begin="00:49:32.791" end="00:49:34.968">Ok.</p>
+      <p begin="00:49:36.418" end="00:49:37.786">O que mais posso fazer?</p>
+      <p begin="00:49:37.878" end="00:49:38.573">&#201; a minha vida.</p>
+      <p begin="00:49:38.573" end="00:49:40.384">Acabar com a minha vida.</p>
+      <p begin="00:49:40.384" end="00:49:43.015">&#192;s vezes apenas pe&#231;o a Deus que me chame para ir para casa.</p>
+      <p begin="00:49:43.122" end="00:49:47.703">Porque eu saio, todos os dias, e luto e luto para manter a minha honestidade,</p>
+      <p begin="00:49:47.857" end="00:49:51.311">a dec&#234;ncia de um ser humano que caminha no planeta e de amar</p>
+      <p begin="00:49:51.434" end="00:49:55.135">toda a gente como Deus pede.</p>
+      <p begin="00:49:55.858" end="00:49:59.353">Mas os outros pensam nisto como uma fraqueza, penso.</p>
+      <p begin="00:49:59.923" end="00:50:05.079">Quanto mais pode-se dar at&#233; encontrar amor neste planeta?</p>
+      <p begin="00:50:05.202" end="00:50:07.281">Quanto mais se pode dar?</p>
+      <p begin="00:50:07.574" end="00:50:12.191">Eu disse, "Pai, quando me quiseres levar,"</p>
+      <p begin="00:50:12.376" end="00:50:14.094">"estou pronto para ir."</p>
+      <p begin="00:50:14.707" end="00:50:17.243">&#201; assim que me sinto em rela&#231;&#227;o &#224; vida.</p>
+      <p begin="00:50:22.797" end="00:50:26.103">E antes de eu deixar este mundo, vou deixar o mundo saber</p>
+      <p begin="00:50:26.580" end="00:50:28.450">que n&#227;o me podem mudar.</p>
+      <p begin="00:50:28.589" end="00:50:30.905">N&#227;o quero saber o que me d&#234;em,</p>
+      <p begin="00:50:31.013" end="00:50:34.131">n&#227;o h&#225; dinheiro nesta Terra que me tire</p>
+      <p begin="00:50:34.221" end="00:50:36.580">o amor que tenho por Deus no meu cora&#231;&#227;o.</p>
+      <p begin="00:50:36.670" end="00:50:38.397">Amo toda a gente.</p>
+      <p begin="00:50:38.535" end="00:50:41.098">Nunca fa&#231;o mal a ningu&#233;m.</p>
+      <p begin="00:50:42.251" end="00:50:45.831">Apenas tento fazer a minha vida correctamente.</p>
+      <p begin="00:50:45.877" end="00:50:49.023"/>
+      <p begin="00:50:49.561" end="00:50:54.802">&#9834; Porque &#233; que &#233; t&#227;o dif&#237;cil? &#9834;</p>
+      <p begin="00:50:55.125" end="00:51:04.856">&#9834; Ser bem-sucedido na Am&#233;rica.&#9834;</p>
+      <p begin="00:51:04.856" end="00:51:06.822">&#9834; Ent&#227;o disse a mim pr&#243;prio, &#9834;</p>
+      <p begin="00:51:06.822" end="00:51:10.639">&#9834; Tenho que sair daqui .&#9834;</p>
+      <p begin="00:51:11.099" end="00:51:15.761">-Eu e o Homer estavamos a viajar pela Europa com Sharon Jones e os Dap-Kings.</p>
+      <p begin="00:51:15.780" end="00:51:18.591">E uma noite estavamos a conviver, e conhecemos algumas raparigas em Paris.</p>
+      <p begin="00:51:18.591" end="00:51:19.668">E estas raparigas estava tipo,</p>
+      <p begin="00:51:19.668" end="00:51:25.025">"Hey, a Sharon Jones &#233; t&#227;o famosa na Am&#233;rica quanto na Fran&#231;a?</p>
+      <p begin="00:51:25.163" end="00:51:27.289">E n&#243;s dissemos, n&#227;o, n&#227;o.</p>
+      <p begin="00:51:27.381" end="00:51:28.545">Ningu&#233;m conhece a Sharon Jones.</p>
+      <p begin="00:51:28.652" end="00:51:31.016">Isto foi h&#225; anos atr&#225;s, ningu&#233;m conhecia a Sharon Jones na Am&#233;rica.</p>
+      <p begin="00:51:31.062" end="00:51:33.845">Toc&#225;vamos nos arredores de Brooklyn e em bares pequenos, mas naquela altura</p>
+      <p begin="00:51:33.845" end="00:51:37.120">est&#225;vamos a actuar em teatros em Paris e assim,</p>
+      <p begin="00:51:37.120" end="00:51:40.040">e era uma coisa muito maior na Europa.</p>
+      <p begin="00:51:40.040" end="00:51:43.705">E isso levou-nos a escrever esta musiquinha chamada:</p>
+      <p begin="00:51:43.705" end="00:51:47.618">Why Is It So Hard To Make It In America?</p>
+      <p begin="00:51:47.772" end="00:51:52.676">Assim que o Charles cantou a Why Is It So Hard To Make It In America?</p>
+      <p begin="00:51:52.800" end="00:51:56.926">o significado da m&#250;sica mudou completamente.</p>
+      <p begin="00:51:57.079" end="00:51:59.193"/>
+      <p begin="00:51:59.193" end="00:52:11.071">&#9834; Porque &#233; que &#233; t&#227;o dif&#237;cil ser bem-sucedido na Am&#233;rica?&#9834;</p>
+      <p begin="00:52:11.071" end="00:52:14.158">&#9834; Eu tento &#9834;</p>
+      <p begin="00:52:14.158" end="00:52:29.798">&#9834; muito, agora, ser bem-sucedido na Am&#233;rica. &#9834;</p>
+      <p begin="00:52:29.798" end="00:52:33.969">&#9834; Porqu&#234;?&#9834;</p>
+      <p begin="00:52:33.969" end="00:52:36.430">&#9834; Digam-me. &#9834;</p>
+      <p begin="00:52:36.430" end="00:52:43.562">&#9834; Temos que mudar as coisas na Am&#233;rica. &#9834;</p>
+      <p begin="00:52:43.562" end="00:52:47.232">&#9834;Algu&#233;m me ajude.&#9834;</p>
+      <p begin="00:52:47.232" end="00:52:52.696">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:52:52.696" end="00:53:00.309">&#9834;&#9834;</p>
+      <p begin="00:53:00.309" end="00:53:01.247">-Vem c&#225;.</p>
+      <p begin="00:53:01.247" end="00:53:02.167">-Vem c&#225;.</p>
+      <p begin="00:53:02.167" end="00:53:03.843">Anda l&#225;.</p>
+      <p begin="00:53:03.843" end="00:53:05.239">Vem aqui, Nicky.</p>
+      <p begin="00:53:05.439" end="00:53:06.633">N&#227;o queres vir agora, ok.</p>
+      <p begin="00:53:06.756" end="00:53:08.315">N&#227;o queres, vou respeitar os teus desejos.</p>
+      <p begin="00:53:08.476" end="00:53:09.945">Ok, vou deixar-te sozinho.</p>
+      <p begin="00:53:09.945" end="00:53:13.754">Sabe, j&#225; o tenho desde que morava em S&#227;o Francisco.</p>
+      <p begin="00:53:13.862" end="00:53:15.740">Fui a um espect&#225;culo de p&#225;ssaros.</p>
+      <p begin="00:53:15.955" end="00:53:19.821">E n&#227;o estava a pensar em comprar um p&#225;ssaro, porque quando era mi&#250;do</p>
+      <p begin="00:53:19.959" end="00:53:24.446">Eu tinha uma galinha de estima&#231;&#227;o, e foi esse o meu animal de estima&#231;&#227;o.</p>
+      <p begin="00:53:24.676" end="00:53:28.218">E criei-a desde pintinho, desde pintinho, era amarela,</p>
+      <p begin="00:53:28.480" end="00:53:30.636">e tornou-se numa bela galinha.</p>
+      <p begin="00:53:30.775" end="00:53:33.409">E ela costumava dormir comigo, e era uma bela galinha.</p>
+      <p begin="00:53:34.040" end="00:53:38.895">Ent&#227;o um dia, j&#225; a tinha pelo menos h&#225; dois anos.</p>
+      <p begin="00:53:39.095" end="00:53:43.774">E a minha tia veio a minha casa um dia.</p>
+      <p begin="00:53:43.881" end="00:53:48.099">E a minha galinha costumava estar sempre na entrada da garagem, &#224; minha procura,</p>
+      <p begin="00:53:48.418" end="00:53:50.436">E ela n&#227;o estava l&#225; nesse dia.</p>
+      <p begin="00:53:50.590" end="00:53:53.023">E eu dissem "Onde est&#225; a minha galinha?"</p>
+      <p begin="00:53:53.038" end="00:53:55.090">Ningu&#233;m conhecia a minha galinha agora.</p>
+      <p begin="00:53:55.228" end="00:53:57.154">Tia Lily, onde est&#225; a minha galinha?</p>
+      <p begin="00:53:57.154" end="00:54:00.320">Ela disse, "Rapaz estas galinhas s&#227;o muito mansas."</p>
+      <p begin="00:54:00.413" end="00:54:02.116">Eu disse, "Onde est&#225; a minha galinha?"</p>
+      <p begin="00:54:02.269" end="00:54:05.219">Ela disse, "Bem, estou a assar a galinha no forno."</p>
+      <p begin="00:54:05.435" end="00:54:07.677">E eu olho para dentro do forno, e l&#225; estava a galinha.</p>
+      <p begin="00:54:07.846" end="00:54:09.955">E eu tirei a galinha de l&#225;.</p>
+      <p begin="00:54:10.109" end="00:54:13.756">Fiz um buraco, enterrei-a, e pus uma cruz por cima.</p>
+      <p begin="00:54:13.894" end="00:54:16.166">E comecei a chorar.</p>
+      <p begin="00:54:16.351" end="00:54:18.768">Veio a minha av&#243;, e disse,</p>
+      <p begin="00:54:18.768" end="00:54:20.544">"Lily, era a galinha do mi&#250;do."</p>
+      <p begin="00:54:20.544" end="00:54:22.153">Ela disse, "N&#227;o a devias ter morto."</p>
+      <p begin="00:54:22.153" end="00:54:23.625">Ela disse, "Eu n&#227;o sabia."</p>
+      <p begin="00:54:23.794" end="00:54:27.359">Ent&#227;o deram-me seis pintinhos, e eu disse, "N&#227;o quero pintos nenhuns,"</p>
+      <p begin="00:54:27.451" end="00:54:29.114">"quero a minha galinha de volta."</p>
+      <p begin="00:54:29.222" end="00:54:33.839">Ent&#227;o este p&#225;ssaro deixou-me entusiasmado, e eu disse, "Um dia destes"</p>
+      <p begin="00:54:33.993" end="00:54:35.873">"vou arranjar um daqueles p&#225;ssaros."</p>
+      <p begin="00:54:36.949" end="00:54:40.573"/>
+      <p begin="00:54:40.711" end="00:54:42.008">Tommy!</p>
+      <p begin="00:54:42.258" end="00:54:43.974">-OK.</p>
+      <p begin="00:54:43.974" end="00:54:45.879">Eu vou definitivamente busc&#225;-la.</p>
+      <p begin="00:54:46.448" end="00:54:48.146">Tudo bem, Tommy.</p>
+      <p begin="00:54:49.469" end="00:54:50.952">P&#225;gina 6?</p>
+      <p begin="00:54:51.382" end="00:54:52.700">Ok, Tommy.</p>
+      <p begin="00:54:54.638" end="00:54:55.850">Ok Tommy.</p>
+      <p begin="00:54:56.527" end="00:54:58.386">Devo-vos tanto.</p>
+      <p begin="00:54:58.493" end="00:55:00.865">Voc&#234;s s&#227;o... Ah, Tommy.</p>
+      <p begin="00:55:00.865" end="00:55:02.690">Vejo-te.</p>
+      <p begin="00:55:02.690" end="00:55:04.212">L&#225; vai o teu neto.</p>
+      <p begin="00:55:05.580" end="00:55:06.891">Tudo bem Tommy.</p>
+      <p begin="00:55:07.030" end="00:55:12.093">Tommy disse que me puseram no The Post, na p&#225;gina seis.</p>
+      <p begin="00:55:12.724" end="00:55:17.279">Senhor, tem piedade.</p>
+      <p begin="00:55:18.002" end="00:55:19.650">O que posso dizer?</p>
+      <p begin="00:55:20.635" end="00:55:35.965">&#9834;&#9834;</p>
+      <p begin="00:55:35.965" end="00:55:37.791">Voc&#234; tem o The Post?</p>
+      <p begin="00:55:38.007" end="00:55:39.220">Voc&#234; tem o The Post?</p>
+      <p begin="00:55:40.250" end="00:55:43.648">Ele n&#227;o tem o The Post.</p>
+      <p begin="00:55:43.909" end="00:56:09.846"/>
+      <p begin="00:56:10.062" end="00:56:11.224">Porra.</p>
+      <p begin="00:56:13.916" end="00:56:15.637">Meu Deus.</p>
+      <p begin="00:56:16.149" end="00:56:19.258"/>
+      <p begin="00:56:19.258" end="00:56:23.665">Sim, oh meu Deus.</p>
+      <p begin="00:56:23.788" end="00:56:25.137">Olhe para isto.</p>
+      <p begin="00:56:25.260" end="00:56:28.287">Porra, estou no jornal.</p>
+      <p begin="00:56:28.336" end="00:56:30.098">-Oh meu Deus.</p>
+      <p begin="00:56:30.098" end="00:56:31.816">-Que est&#225;s a fazer?</p>
+      <p begin="00:56:31.923" end="00:56:33.903">- Sou eu, ali mesmo.</p>
+      <p begin="00:56:35.965" end="00:56:42.064">Agrade&#231;o a Deus por isto, oh meu Deus.</p>
+      <p begin="00:56:42.448" end="00:56:46.582">-Este tipo lutou muito consigo pr&#243;prio,</p>
+      <p begin="00:56:46.706" end="00:56:49.686">mas hoje ele vai ficar bem, ele vai ficar bem.</p>
+      <p begin="00:56:49.809" end="00:56:52.087">N&#243;s fal&#225;mos h&#225; anos.</p>
+      <p begin="00:56:52.410" end="00:56:54.522">Eu olho para ele, e digo para mim mesmo,</p>
+      <p begin="00:56:55.215" end="00:56:56.638">"Ele vai chegar l&#225; depois de rezar."</p>
+      <p begin="00:56:56.638" end="00:56:57.373">-Ele est&#225; no jornal?</p>
+      <p begin="00:56:57.373" end="00:56:58.006">-Sim.</p>
+      <p begin="00:56:58.006" end="00:56:58.939">-Ele est&#225; no jornal?</p>
+      <p begin="00:56:58.939" end="00:57:01.177">-Sim.</p>
+      <p begin="00:57:01.177" end="00:57:02.863">-Eu para aqui a falar e tu est&#225;s no jornal?</p>
+      <p begin="00:57:02.863" end="00:57:04.712">-Sim, ali mesmo.</p>
+      <p begin="00:57:04.712" end="00:57:06.156">-Meu Senhor.</p>
+      <p begin="00:57:07.218" end="00:57:09.423">-Tom, ainda te vou bater, j&#225; me devias ter dito isto.</p>
+      <p begin="00:57:09.516" end="00:57:12.013">-Descobri agora mesmo.</p>
+      <p begin="00:57:12.136" end="00:57:15.091">-Eu disse-te, eu disse-te.</p>
+      <p begin="00:57:17.030" end="00:57:18.238">Sabes que te adoro.</p>
+      <p begin="00:57:18.884" end="00:57:19.584">-Disseste-me</p>
+      <p begin="00:57:19.584" end="00:57:21.270">-Disse-te.</p>
+      <p begin="00:57:21.270" end="00:57:22.463">-Est&#225; a acontecer.</p>
+      <p begin="00:57:23.380" end="00:57:28.475">-Eu disse-te, "Mant&#233;m a tua f&#233;, nunca pares de acreditar, e j&#225; l&#225; est&#225;s."</p>
+      <p begin="00:57:28.921" end="00:57:29.955">Est&#225;s preocupado com o qu&#234;?</p>
+      <p begin="00:57:30.262" end="00:57:31.279">Foste l&#225;, j&#225; est&#225; feito.</p>
+      <p begin="00:57:31.279" end="00:57:32.494">-Parab&#233;ns.</p>
+      <p begin="00:57:32.494" end="00:57:34.241">- Deus tem sido bom.</p>
+      <p begin="00:57:34.241" end="00:57:37.430">E se chorares, &#233; de felicidade quando ergueres a tua cabe&#231;a</p>
+      <p begin="00:57:37.553" end="00:57:38.883">porque ele ainda te tem.</p>
+      <p begin="00:57:40.467" end="00:57:42.444">-Amo-te irm&#227;o, e nunca vou esquecer.</p>
+      <p begin="00:57:42.623" end="00:57:49.863"/>
+      <p begin="00:57:50.201" end="00:57:54.349">Esta noite &#233; a minha primeira noite, s&#243; eu no palco,</p>
+      <p begin="00:57:57.427" end="00:58:01.627">Finalmente chegaram muitas coisas, e espero que toda a gente</p>
+      <p begin="00:58:01.734" end="00:58:05.339">aparece no espect&#225;culo para me mostrarem o seu apoio.</p>
+      <p begin="00:58:09.697" end="00:58:11.522">-Este &#233; um dos meus melhores amigos.</p>
+      <p begin="00:58:11.814" end="00:58:13.208">-Tudo bem?</p>
+      <p begin="00:58:13.485" end="00:58:15.127">-Hoje &#224; noite vens?</p>
+      <p begin="00:58:15.250" end="00:58:18.030">Dizes sempre que vens ao nosso espect&#225;culo.</p>
+      <p begin="00:58:19.153" end="00:58:22.663">Este &#233; o lugar onde, antes de ser arranjado,</p>
+      <p begin="00:58:22.817" end="00:58:26.810">eu vivi aqui durante, Deus, mais ou menos dois anos e meio.</p>
+      <p begin="00:58:26.995" end="00:58:29.867">Estava abandonado, e agora &#233; uma igreja.</p>
+      <p begin="00:58:30.237" end="00:58:32.602">O tipo que era dono vendeu o espa&#231;o, e arranjaram-o.</p>
+      <p begin="00:58:33.279" end="00:58:35.792">Bem, outrora isto foi o meu lar</p>
+      <p begin="00:58:35.930" end="00:58:40.740">e este tipo, Jose, foi quem me deu</p>
+      <p begin="00:58:40.864" end="00:58:44.119">electricidade da casa dele, e que me fez continuar.</p>
+      <p begin="00:58:44.380" end="00:58:46.515">&#201; por isso que agora somos amigos pr&#243;ximos.</p>
+      <p begin="00:58:46.715" end="00:58:51.858"/>
+      <p begin="00:58:51.966" end="00:58:56.542" region="top">Esta &#233; a noite em que realmente vou ver se continuo. </p>
+      <p begin="00:58:56.726" end="00:58:58.250" region="top">Tenho o que &#233; necess&#225;rio? </p>
+      <p begin="00:58:59.387" end="00:59:00.650" region="top">&#201; disso que estou &#224; procura. </p>
+      <p begin="00:59:02.835" end="00:59:04.838">Voc&#234; gosta de rhythm and blues?</p>
+      <p begin="00:59:04.838" end="00:59:06.150">-Ser&#225; que tenho?</p>
+      <p begin="00:59:06.150" end="00:59:07.322">-Por favor, apare&#231;a hoje &#224; noite. Ok.</p>
+      <p begin="00:59:07.322" end="00:59:08.848">- Vamos ter boa m&#250;sica para si</p>
+      <p begin="00:59:09.122" end="00:59:11.184">- E espero que lhe posso ajudar a relembrar algumas boas mem&#243;rias.</p>
+      <p begin="00:59:11.292" end="00:59:12.362">-OK. Muito obrigado.</p>
+      <p begin="00:59:12.454" end="00:59:13.362">-Como se chama?</p>
+      <p begin="00:59:13.362" end="00:59:14.256">-Andrea.</p>
+      <p begin="00:59:14.256" end="00:59:15.204">-A minha irm&#227; chama-se Andrea Laura.</p>
+      <p begin="00:59:15.204" end="00:59:16.182">-Ah, veja s&#243;.</p>
+      <p begin="00:59:16.182" end="00:59:17.932">-Oh.</p>
+      <p begin="00:59:17.932" end="00:59:18.977">-Qual &#233; o nome do meio dela?</p>
+      <p begin="00:59:19.085" end="00:59:20.702">- Andrea Laura Bradley.</p>
+      <p begin="00:59:20.702" end="00:59:23.197">-Ah, cale-se! O meu nome &#233; Andrea Lauren.</p>
+      <p begin="00:59:23.597" end="00:59:25.128">-Veja s&#243;, estavamos destinados a conhecermo-nos</p>
+      <p begin="00:59:25.266" end="00:59:25.947">-Sim. E eu adoro roxo.</p>
+      <p begin="00:59:25.947" end="00:59:26.600">-Oh meu Deus.</p>
+      <p begin="00:59:26.600" end="00:59:28.007">-Hoje &#233; um bom dia.</p>
+      <p begin="00:59:28.007" end="00:59:29.125">-Deus te aben&#231;oe, querida.</p>
+      <p begin="00:59:30.447" end="00:59:35.890">Estou a lutar pela minha m&#250;sica h&#225; mais de 47 anos</p>
+      <p begin="00:59:36.044" end="00:59:38.528">e espero que seja a coisa para mim.</p>
+      <p begin="00:59:38.774" end="00:59:42.182">Espero que esta seja a minha chance de apresentar isto ao mundo,</p>
+      <p begin="00:59:42.443" end="00:59:44.489">e espero que o mundo goste.</p>
+      <p begin="00:59:44.750" end="00:59:48.172" region="top">-A maioria das pessoas j&#225; teria desistido e n&#227;o ter feito nada. </p>
+      <p begin="00:59:48.310" end="00:59:49.403" region="top">Arranjado um trabalho. </p>
+      <p begin="00:59:49.526" end="00:59:51.608" region="top">E, sabe, ele tem trabalhado na sua m&#250;sica sem parar. </p>
+      <p begin="00:59:52.285" end="00:59:55.696">-J&#225; &#233; dif&#237;cil o suficiente para uma pessoa com 30 anos come&#231;ar uma carreira.</p>
+      <p begin="00:59:55.911" end="00:59:58.392">Para algu&#233;m com os seus 60, &#233; quase loucura.</p>
+      <p begin="00:59:58.392" end="01:00:00.187">-Excelente. Soa-me bem</p>
+      <p begin="01:00:00.187" end="01:00:01.664">-Voc&#234;s gostam de R&amp;amp;B?</p>
+      <p begin="01:00:01.756" end="01:00:03.484">-N&#243;s vamos</p>
+      <p begin="01:00:03.484" end="01:00:04.137">-Ah, v&#225; l&#225;.</p>
+      <p begin="01:00:04.137" end="01:00:05.880"/>
+      <p begin="01:00:05.880" end="01:00:11.995">&#9834; &#9834;</p>
+      <p begin="01:00:11.995" end="01:00:17.041">Vou ver se consigo encontrar algo para adicionar ao meu macac&#227;o,</p>
+      <p begin="01:00:17.041" end="01:00:20.105">para o apimentar para o lan&#231;amento do meu &#225;lbum.</p>
+      <p begin="01:00:22.319" end="01:00:25.617">Isto tamb&#233;m &#233; lindo, realmente.</p>
+      <p begin="01:00:25.617" end="01:00:26.350">-Obrigado, irm&#227;o.</p>
+      <p begin="01:00:26.350" end="01:00:27.293">-OK, chefe.</p>
+      <p begin="01:00:27.293" end="01:00:28.706">-Tenha um bom dia.</p>
+      <p begin="01:00:28.706" end="01:00:31.107">-Obrigado.</p>
+      <p begin="01:00:34.234" end="01:00:36.749">-O que fa&#231;o quando vejo algo de que gosto e que &#233; muito caro,</p>
+      <p begin="01:00:36.749" end="01:00:39.746">e que cutta muito dinheiro e que n&#227;o posso pagar,</p>
+      <p begin="01:00:39.746" end="01:00:44.501">e vejo algo numa loja de segunda-m&#227;o de que gosto, e que &#233; bom,</p>
+      <p begin="01:00:44.501" end="01:00:46.271">digo, "Esta material &#233; bom."</p>
+      <p begin="01:00:46.271" end="01:00:49.798">compro isso, junto-os aos dois</p>
+      <p begin="01:00:49.798" end="01:00:54.559">E talvez n&#227;o o pare&#231;a, mas vai dar-me a qualidade que procuro.</p>
+      <p begin="01:00:54.559" end="01:00:57.990">A pe&#231;a na parte de tr&#225;s, &#233; uma pe&#231;a de .</p>
+      <p begin="01:01:01.589" end="01:01:07.186">Esta pe&#231;a aqui, fi-la a partir de uma t-shirt que comprei.</p>
+      <p begin="01:01:07.263" end="01:01:12.330">Cortei-a, voltei a p&#244;-a aqui s&#243; para dar-lhe outro aspecto.</p>
+      <p begin="01:01:14.022" end="01:01:15.710">Estou a considerar um colar.</p>
+      <p begin="01:01:15.880" end="01:01:19.680">Como um colar de m&#227;o, para lhe dar um toque especial.</p>
+      <p begin="01:01:19.803" end="01:01:22.512">E vou arranjar tempo para p&#244;-lo nas cal&#231;as.</p>
+      <p begin="01:01:27.512" end="01:01:29.522">- Apenas espero que seja uma noite decente,</p>
+      <p begin="01:01:29.540" end="01:01:30.611">que aparecem algumas pessoas,</p>
+      <p begin="01:01:30.629" end="01:01:33.313">que ele tenha uma sala para a aqual actuar, e que se sinta bem quanto ao &#225;lbum</p>
+      <p begin="01:01:33.313" end="01:01:35.177">porque n&#243;s sentimo-nos bem quanto a ele.</p>
+      <p begin="01:01:35.177" end="01:01:39.514"/>
+      <p begin="01:01:39.514" end="01:01:44.606"/>
+      <p begin="01:01:44.606" end="01:01:49.788">-Wow, wow, esgotado.</p>
+      <p begin="01:01:51.653" end="01:01:53.363">Meu Deus...</p>
+      <p begin="01:01:53.363" end="01:01:54.833">- &#201; disso que estou a falar.</p>
+      <p begin="01:01:54.833" end="01:01:56.615">N&#227;o h&#225; tempo para sonhar, d&#234;em as boas vindas .</p>
+      <p begin="01:01:56.615" end="01:02:02.954">ao Sr. Charles Bradley</p>
+      <p begin="01:02:02.954" end="01:02:04.824">- Digamos assim, eu estava na lista de convidados</p>
+      <p begin="01:02:04.824" end="01:02:05.824">e trabalho para a discogr&#225;fica,</p>
+      <p begin="01:02:05.824" end="01:02:09.354">e tenho amigos que tocam na banda, e tive que esperar l&#225; fora</p>
+      <p begin="01:02:09.354" end="01:02:11.945">durante cerca de 25 minutos antes de conseguir sequer entrar na porta.</p>
+      <p begin="01:02:12.068" end="01:02:13.544">Estava esgotad&#237;ssimo.</p>
+      <p begin="01:02:13.651" end="01:02:17.844"/>
+      <p begin="01:02:17.844" end="01:02:37.460"/>
+      <p begin="01:02:37.460" end="01:02:40.515">Senhoras e senhores, h&#225; uma senhora especial no p&#250;blico.</p>
+      <p begin="01:02:40.515" end="01:02:41.857">Acho que &#233; a m&#227;e.</p>
+      <p begin="01:02:41.934" end="01:02:44.243">A minha m&#227;e est&#225; algures no p&#250;blico.</p>
+      <p begin="01:02:44.496" end="01:02:47.089"/>
+      <p begin="01:02:47.089" end="01:02:48.475">M&#227;e.</p>
+      <p begin="01:02:49.244" end="01:02:50.749">M&#227;e.</p>
+      <p begin="01:02:51.996" end="01:02:54.215">Estou a olhar para a parte de tr&#225;s ali,</p>
+      <p begin="01:02:54.215" end="01:02:56.051">Acho que &#233; minha m&#227;e que est&#225; por l&#225;.</p>
+      <p begin="01:02:56.189" end="01:03:00.059">Mas, senhoras e senhores, foi ela que me deu o meu come&#231;o.</p>
+      <p begin="01:03:00.273" end="01:03:09.022"/>
+      <p begin="01:03:09.022" end="01:03:19.532">&#9834; Ohhh...&#9834;</p>
+      <p begin="01:03:19.532" end="01:03:21.241">&#9834; Regressa &#9834;</p>
+      <p begin="01:03:21.241" end="01:03:24.872">&#9834; Regressa &#224; regra dourada &#9834;</p>
+      <p begin="01:03:24.872" end="01:03:27.581">&#9834; Regra dourada...&#9834;</p>
+      <p begin="01:03:27.581" end="01:03:29.373">&#9834; Regressa &#9834;</p>
+      <p begin="01:03:29.373" end="01:03:32.783">&#9834; Regressa &#224; regra dourada &#9834;</p>
+      <p begin="01:03:32.783" end="01:03:36.674">&#9834; Regra dourada...&#9834;</p>
+      <p begin="01:03:36.674" end="01:03:42.160">Gostaria de dizer algumas palavras agora.</p>
+      <p begin="01:03:42.899" end="01:03:49.624">Voc&#234;s. Voc&#234;s fizeram de mim a pessoa que sou.</p>
+      <p begin="01:03:50.300" end="01:03:52.827">Obrigado. Obrigado.</p>
+      <p begin="01:03:54.150" end="01:03:59.611">Agrade&#231;o-vos e espero que possa continuar a dar-vos amor,</p>
+      <p begin="01:03:59.647" end="01:04:01.790">dec&#234;ncia e honestidade.</p>
+      <p begin="01:04:01.826" end="01:04:15.962"/>
+      <p begin="01:04:15.962" end="01:04:21.677">&#9834;Owww...&#9834;</p>
+      <p begin="01:04:21.677" end="01:04:25.348">&#9834; O que &#233; que vou fazer?&#9834;</p>
+      <p begin="01:04:25.348" end="01:04:29.018">&#9834; O que &#233; que vou dizer?&#9834;</p>
+      <p begin="01:04:29.018" end="01:04:34.650">&#9834; Owww...&#9834;</p>
+      <p begin="01:04:34.650" end="01:04:48.162"/>
+      <p begin="01:04:48.162" end="01:04:51.473">Que amor posso pedir que me rodeie agora?</p>
+      <p begin="01:04:51.857" end="01:04:53.228">Digam-me que Deus n&#227;o &#233; real.</p>
+      <p begin="01:04:53.228" end="01:04:56.872">Com este amor ao meu redor,</p>
+      <p begin="01:04:56.964" end="01:04:58.506">faz-me procurar no meu cora&#231;&#227;o</p>
+      <p begin="01:04:58.506" end="01:05:00.048">e dar a todos um pedacinho e dizer que eu os amo.</p>
+      <p begin="01:05:00.725" end="01:05:02.192">-Foi um dos espect&#225;culos especiais do ano do ano.</p>
+      <p begin="01:05:03.053" end="01:05:06.708">Mudou a minha vida. Mudou a minha vida.</p>
+      <p begin="01:05:06.815" end="01:05:08.173">-&#201; contagiante.</p>
+      <p begin="01:05:08.866" end="01:05:11.133">Ele tem paix&#227;o pelo que faz.</p>
+      <p begin="01:05:11.210" end="01:05:12.754">Ele est&#225; apaixonado pelo seu p&#250;blico.</p>
+      <p begin="01:05:12.877" end="01:05:14.101">Como &#233; que &#233; poss&#237;vel n&#227;o gostar?</p>
+      <p begin="01:05:14.424" end="01:05:16.885">-Quando ele diz que nos ama, n&#243;s sentimo-lo.</p>
+      <p begin="01:05:16.885" end="01:05:18.737">-Incr&#237;vel.</p>
+      <p begin="01:05:18.737" end="01:05:22.537">Eu trouxe o meu amigo da It&#225;lia, e que &#233; que achaste?</p>
+      <p begin="01:05:22.706" end="01:05:23.838">-Incr&#237;vel.</p>
+      <p begin="01:05:24.577" end="01:05:26.780">- Acho que era um lugar demasiado pequeno</p>
+      <p begin="01:05:26.842" end="01:05:28.087">para as pessoas que apareceram.</p>
+      <p begin="01:05:28.149" end="01:05:32.722">Porque foi negada entrada a muita gente, e magoou-me ver isso.</p>
+      <p begin="01:05:32.906" end="01:05:36.485">Mas a alegria, o amor que as pessoas me deram, isso foram elas.</p>
+      <p begin="01:05:36.792" end="01:05:37.990">Oh! Meu Deus!</p>
+      <p begin="01:05:38.190" end="01:05:39.683">Elas queriam mais de mim.</p>
+      <p begin="01:05:39.822" end="01:05:42.397">E sentia-o quando olhava para as linhas dos seus rostos,</p>
+      <p begin="01:05:42.520" end="01:05:45.311">Meu Deus, foi muito emocionante.</p>
+      <p begin="01:05:45.545" end="01:06:11.202"/>
+      <p begin="01:06:11.418" end="01:06:13.028">Senhor tenha miseric&#243;rdia.</p>
+      <p begin="01:06:19.252" end="01:06:23.636">Wah!</p>
+      <p begin="01:06:23.636" end="01:06:25.685">-Eu sabia que o &#225;lbum ia ser bem-sucedido,</p>
+      <p begin="01:06:25.686" end="01:06:26.889">mas n&#227;o sabia qu&#227;o rapidamente.</p>
+      <p begin="01:06:26.890" end="01:06:28.346">As pessoas n&#227;o o conhecem assim t&#227;o bem,</p>
+      <p begin="01:06:28.346" end="01:06:29.346">e as vendas para um tipo que est&#225; agora a</p>
+      <p begin="01:06:29.346" end="01:06:31.890">e s&#227;o vendas de um tipo que est&#225; a lan&#231;ar o seu primeiro LP</p>
+      <p begin="01:06:31.890" end="01:06:33.100">e que muitas pessoas n&#227;o conhecem.</p>
+      <p begin="01:06:33.100" end="01:06:35.602">&#201; inacredit&#225;vel.</p>
+      <p begin="01:06:35.602" end="01:06:42.009"/>
+      <p begin="01:06:42.147" end="01:06:43.653">-N&#243;s estamos, contra todas as possibilidades,</p>
+      <p begin="01:06:43.653" end="01:06:45.153">a pensar que sim, aos 62 anos</p>
+      <p begin="01:06:45.153" end="01:06:48.824">um homem velho e negro de Bedstock, Brooklyn,</p>
+      <p begin="01:06:48.824" end="01:06:51.035">vai ter o seu primeiro &#225;lbum,</p>
+      <p begin="01:06:51.035" end="01:06:55.665">e no primeiro par de semanas, j&#225; vendeu mais do que a maioria dos &#225;lbuns</p>
+      <p begin="01:06:55.665" end="01:06:58.834">vende num ano.</p>
+      <p begin="01:06:58.834" end="01:07:03.764"/>
+      <p begin="01:07:03.918" end="01:07:05.362">-N&#227;o acho que seja certo.</p>
+      <p begin="01:07:05.470" end="01:07:06.638">N&#227;o acho que seja f&#225;cil.</p>
+      <p begin="01:07:06.776" end="01:07:08.560">Acho que muitas pessoas v&#227;o comprar o &#225;lbum dele.</p>
+      <p begin="01:07:08.667" end="01:07:10.631">Ele vai dar muitos mais espect&#225;culos.</p>
+      <p begin="01:07:10.739" end="01:07:12.079">Ele vai fazer muitos mais &#225;lbuns.</p>
+      <p begin="01:07:12.187" end="01:07:14.820">&#201; um longo caminho, sabe.</p>
+      <p begin="01:07:14.973" end="01:07:16.474">E ele come&#231;ou tarde.</p>
+      <p begin="01:07:20.310" end="01:07:23.854">- J&#225; ultrapassou as nossas expectativas, acho que o &#225;lbum tem pernas para andar.</p>
+      <p begin="01:07:23.993" end="01:07:25.215">N&#227;o acho que agora v&#225; parar.</p>
+      <p begin="01:07:25.338" end="01:07:27.368">Acho que ainda n&#227;o vimos as maiores vendas.</p>
+      <p begin="01:07:31.535" end="01:07:35.155">Ahhh!</p>
+      <p begin="01:07:35.155" end="01:07:36.578">-Senhor, tem miseric&#243;rdia.</p>
+      <p begin="01:07:36.578" end="01:07:38.410" region="top">-Sim. </p>
+      <p begin="01:07:38.410" end="01:07:39.713" region="top">-Oh, Deus! </p>
+      <p begin="01:07:42.605" end="01:07:46.952">-Estamos a sair para ir para a Europa para fazer uma digress&#227;o por l&#225;,</p>
+      <p begin="01:07:47.106" end="01:07:49.577">e espero que a Europa verdadeira adore o que estou a fazer,</p>
+      <p begin="01:07:49.739" end="01:07:51.384">o que lhes estou a dar.</p>
+      <p begin="01:07:51.546" end="01:07:56.220">Agora est&#225; limpo como "cauda" de beb&#233;.</p>
+      <p begin="01:07:57.235" end="01:07:58.376">-Por quanto tempo vais estar fora?</p>
+      <p begin="01:07:58.376" end="01:07:59.343">-Tr&#234;s semanas m&#227;e.</p>
+      <p begin="01:07:59.343" end="01:08:00.025">-Tr&#234;s semanas?</p>
+      <p begin="01:08:00.025" end="01:08:01.549">-Sim.</p>
+      <p begin="01:08:01.549" end="01:08:02.912">-Oh, vou sentir saudades tuas filho.</p>
+      <p begin="01:08:02.912" end="01:08:04.906">-Est&#225;s sempre aqui.</p>
+      <p begin="01:08:05.029" end="01:08:06.174">De tr&#234;s em tr&#234;s dias vou telefonar-te.</p>
+      <p begin="01:08:06.174" end="01:08:08.630">-Ok.</p>
+      <p begin="01:08:13.310" end="01:08:15.430">-Sou m&#225; pe&#231;a.</p>
+      <p begin="01:08:15.569" end="01:08:17.070">Agora n&#227;o tens &#225;gua para me atirar.</p>
+      <p begin="01:08:17.486" end="01:08:19.296">Agora n&#227;o tens &#225;gua nenhuma para me atirar.</p>
+      <p begin="01:08:23.195" end="01:08:25.144">N&#227;o tens &#225;gua nenhum. Posso fazer-te c&#243;cegas.</p>
+      <p begin="01:08:27.457" end="01:08:28.865">Agora posso fazer-te c&#243;cegas.</p>
+      <p begin="01:08:28.865" end="01:08:39.527"/>
+      <p begin="01:08:39.711" end="01:08:41.817">E, como a minha m&#227;e disse hoje,</p>
+      <p begin="01:08:42.140" end="01:08:45.254">ela nunca acreditou que eu iria chegar a este n&#237;vel.</p>
+      <p begin="01:09:01.818" end="01:09:06.830">Quero ver o qu&#227;o longe posso ir na vida.</p>
+      <p begin="01:09:07.937" end="01:09:11.170">Ver se consigo ir mais longe do que qualquer outro</p>
+      <p begin="01:09:11.239" end="01:09:13.516">membro da minha fam&#237;lia alguma vez foi.</p>
+      <p begin="01:09:13.585" end="01:09:16.133">E dizer, fui eu que cheguei l&#225;.</p>
+      <p begin="01:09:17.441" end="01:09:19.466">Jovens, tenham cuidado.</p>
+      <p begin="01:09:19.589" end="01:09:22.876">Est&#225; a aparecer-vos &#224; frente um idoso, e fazia o vosso trabalho melhor.</p>
+      <p begin="01:09:23.060" end="01:09:24.835">Se voc&#234;s n&#227;o o fizerem, fa&#231;o eu por voc&#234;s.</p>
+      <p begin="01:10:21.791" end="01:10:24.010">- Queres trabalhar naquela can&#231;&#227;o da semana passada?</p>
+      <p begin="01:10:24.148" end="01:10:25.229">- Qual?</p>
+      <p begin="01:10:25.367" end="01:10:26.862">- Agrade&#231;o-te.</p>
+      <p begin="01:10:26.986" end="01:10:52.255"/>
+      <p begin="01:10:52.394" end="01:10:54.959">-Ele est&#225; realmente a apanhar os detalhes todos.</p>
+      <p begin="01:10:55.082" end="01:11:04.246"/>
+      <p begin="01:11:04.246" end="01:11:07.062">Ahh!</p>
+      <p begin="01:11:07.062" end="01:11:08.836">&#201; assim que sou.</p>
+      <p begin="01:11:21.449" end="01:11:24.273">Woo.</p>
+      <p begin="01:11:24.725" end="01:11:58.065"/>
+      <p begin="01:11:58.065" end="01:12:00.084">-Porque quando eu deixar este mundo, este mundo n&#227;o me deve nada.</p>
+      <p begin="01:12:00.223" end="01:12:01.745">-Devolve-me o meu d&#243;lar agora.</p>
+      <p begin="01:12:04.392" end="01:12:05.962">-Sai de cima de mim.</p>
+      <p begin="01:12:06.089" end="01:12:07.791">-Man, devolve-me o meu d&#243;lar.</p>
+      <p begin="01:12:08.810" end="01:12:17.605"/>
+      <p begin="01:12:17.605" end="01:12:18.666">-Oh, o meu passaporte, aguarde um minuto.</p>
+      <p begin="01:12:18.804" end="01:12:39.516"/>
+      <p begin="01:12:39.655" end="01:12:41.596">-Poupa a tua lagosta.</p>
+      <p begin="01:12:43.227" end="01:12:46.111">-Jimmy, tu n&#227;o comes lagosta, d&#225;s-me sempre a mim.</p>
+      <p begin="01:12:46.280" end="01:12:47.576">-Hoje vou come&#231;ar a com&#234;-la</p>
+      <p begin="01:12:47.791" end="01:13:09.549"/>
+      <p begin="01:13:09.796" end="01:13:13.704">-Disseste bem r&#225;pido que a moeda era tua. Eu vi-a.</p>
+      <p begin="01:13:13.811" end="01:13:14.871">-Apanhei-a.</p>
+      <p begin="01:13:15.025" end="01:14:07.858"/>
+    </div>
+  </body>
+
+</tt>

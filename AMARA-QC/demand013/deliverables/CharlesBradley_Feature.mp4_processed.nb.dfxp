@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="nb">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:18.617" end="00:00:22.200">En, to. En, to, tre, fire.</p>
+      <p begin="00:00:22.278" end="00:00:23.520"/>
+      <p begin="00:00:23.582" end="00:00:25.691">Hvis du liker James Brown-</p>
+      <p begin="00:00:25.691" end="00:00:27.585">-kommer du til &#229; f&#229; en fin kveld.</p>
+      <p begin="00:00:27.585" end="00:00:29.761">I kveld feirer vi Black Velvet-</p>
+      <p begin="00:00:29.761" end="00:00:33.850">-James Brown Jrs 62. f&#248;dselsdag.</p>
+      <p begin="00:00:33.850" end="00:00:35.906" region="top">62! </p>
+      <p begin="00:00:36.476" end="00:00:38.526" region="top">S&#229;, gi en applaus- </p>
+      <p begin="00:00:38.526" end="00:00:39.758" region="top">-fordi det er en ung man- </p>
+      <p begin="00:00:39.758" end="00:00:41.545" region="top">-som entrer scenen. </p>
+      <p begin="00:00:41.545" end="00:00:43.690">Han har v&#230;rt p&#229; David Letterman Show.</p>
+      <p begin="00:00:43.690" end="00:00:45.777">Gi en applaus til-</p>
+      <p begin="00:00:45.777" end="00:00:49.963">-Black Velvet James Brown, Jr!</p>
+      <p begin="00:00:49.963" end="00:00:52.279"/>
+      <p begin="00:00:52.279" end="00:00:53.952"/>
+      <p begin="00:00:53.952" end="00:00:59.249">&#9834; Det er en manns verden. &#9834;</p>
+      <p begin="00:00:59.249" end="00:01:05.556">&#9834; Men det hadde ikke v&#230;rt noe uten... &#9834;</p>
+      <p begin="00:01:05.556" end="00:01:06.715">- Jeg har spilt James Brown-</p>
+      <p begin="00:01:06.715" end="00:01:13.956">-siden jeg var 14 &#229;r.</p>
+      <p begin="00:01:13.956" end="00:01:16.475"/>
+      <p begin="00:01:16.475" end="00:01:17.935"/>
+      <p begin="00:01:17.935" end="00:01:21.271"/>
+      <p begin="00:01:21.271" end="00:01:25.860"/>
+      <p begin="00:01:25.860" end="00:01:29.767">Men n&#229; skal jeg spille Charles Bradley.</p>
+      <p begin="00:01:29.767" end="00:01:52.445"/>
+      <p begin="00:01:52.599" end="00:01:54.471" region="top">Min f&#248;rste plate- </p>
+      <p begin="00:01:54.471" end="00:01:58.132" region="top">-kommer ut 25. januar. </p>
+      <p begin="00:01:58.132" end="00:02:01.271">Jeg har kjempet i over 42 &#229;r-</p>
+      <p begin="00:02:01.271" end="00:02:03.764">-i denne bransjen-</p>
+      <p begin="00:02:03.764" end="00:02:04.731">-og i en alder av 62-</p>
+      <p begin="00:02:04.731" end="00:02:06.775">-er jeg i ferd med &#229; komme meg igjennom.</p>
+      <p begin="00:02:09.086" end="00:02:11.071">Jeg har aldri tjent nok-</p>
+      <p begin="00:02:11.071" end="00:02:13.928">-til &#229; leve av musikk.</p>
+      <p begin="00:02:13.928" end="00:02:15.993">Men jeg h&#229;per at dette albumet vil-</p>
+      <p begin="00:02:15.993" end="00:02:17.442">-snu rundt p&#229; det-</p>
+      <p begin="00:02:17.442" end="00:02:20.252">-slik at jeg kan leve av musikk.</p>
+      <p begin="00:02:25.314" end="00:02:26.837">Hei, du.</p>
+      <p begin="00:02:26.837" end="00:02:28.808">Jeg henter vann til deg, okey?</p>
+      <p begin="00:02:28.808" end="00:02:30.155">Hei, du.</p>
+      <p begin="00:02:30.155" end="00:02:31.584">Det er fuglen min.</p>
+      <p begin="00:02:31.584" end="00:02:32.554">Gj&#248;r meg gal.</p>
+      <p begin="00:02:32.647" end="00:02:33.782">Jeg blir gal og g&#229;r vekk-</p>
+      <p begin="00:02:33.782" end="00:02:35.520">-til bakrommet, lukker d&#248;ra-</p>
+      <p begin="00:02:35.520" end="00:02:37.328">-og lar han skrike s&#229; h&#248;yt han vil.</p>
+      <p begin="00:02:38.020" end="00:02:39.057">&#197; ha en liten, stabil plass-</p>
+      <p begin="00:02:39.057" end="00:02:40.590">-det er ikke helt det jeg vil ha-</p>
+      <p begin="00:02:40.590" end="00:02:43.199">-men takk Gud for at jeg har tak over hodet.</p>
+      <p begin="00:02:44.221" end="00:02:45.529">N&#229;r jeg er inne i leiligheten-</p>
+      <p begin="00:02:45.529" end="00:02:47.113">-og l&#229;ser d&#248;ra-</p>
+      <p begin="00:02:47.113" end="00:02:48.734">-da er det fredelig.</p>
+      <p begin="00:02:48.734" end="00:02:50.496">Men n&#229;r jeg g&#229;r ut-</p>
+      <p begin="00:02:50.496" end="00:02:53.225">-og inn i heisen...</p>
+      <p begin="00:02:53.225" end="00:02:54.907">N&#229;r jeg er der...</p>
+      <p begin="00:02:54.907" end="00:02:56.295">Det er da problemene starter.</p>
+      <p begin="00:02:56.295" end="00:02:57.076">Man vet aldri-</p>
+      <p begin="00:02:57.076" end="00:02:59.924">-hva som vil skje.</p>
+      <p begin="00:02:59.924" end="00:03:00.663">Han som bor der nede-</p>
+      <p begin="00:03:00.663" end="00:03:02.366">-heter Alfred.</p>
+      <p begin="00:03:02.366" end="00:03:03.956">Snill kar. Plager ingen.</p>
+      <p begin="00:03:03.956" end="00:03:04.783">Han er i en menighet.</p>
+      <p begin="00:03:04.783" end="00:03:06.731">De skj&#248;t hjemme hos han.</p>
+      <p begin="00:03:06.731" end="00:03:07.753">Han viste meg alle hullene-</p>
+      <p begin="00:03:07.753" end="00:03:09.228">-fra skuddene.</p>
+      <p begin="00:03:09.228" end="00:03:10.011">Og jeg sa: "Herregud!"</p>
+      <p begin="00:03:10.011" end="00:03:10.741">Jeg sa:</p>
+      <p begin="00:03:10.741" end="00:03:13.017">"Jeg kan ikke bo i f&#248;rste etasje".</p>
+      <p begin="00:03:13.017" end="00:03:14.586">N&#229;r det blir-</p>
+      <p begin="00:03:14.586" end="00:03:16.289">-altfor spr&#248;tt-</p>
+      <p begin="00:03:16.289" end="00:03:18.007">-da drar jeg til mamma-</p>
+      <p begin="00:03:18.007" end="00:03:19.737">-og jeg sover i hennes kjeller.</p>
+      <p begin="00:03:32.075" end="00:03:33.691">S&#229; jeg drar hit-</p>
+      <p begin="00:03:33.691" end="00:03:36.011">-og her sover jeg.</p>
+      <p begin="00:03:36.011" end="00:03:37.269">Dagen etter-</p>
+      <p begin="00:03:37.269" end="00:03:39.058">-g&#229;r jeg ut og gj&#248;r &#230;rend-</p>
+      <p begin="00:03:39.058" end="00:03:40.105">-tar meg av alt-</p>
+      <p begin="00:03:40.105" end="00:03:43.638">-s&#229;nn at vi kan ha tak over hodene v&#229;re.</p>
+      <p begin="00:03:43.931" end="00:03:47.370">Jeg lager en-</p>
+      <p begin="00:03:47.370" end="00:03:48.964">-liten ball av dette.</p>
+      <p begin="00:03:51.703" end="00:03:52.552">.Jeg bare putter disse i.</p>
+      <p begin="00:03:55.722" end="00:03:56.898">Hvordan er risen?</p>
+      <p begin="00:03:57.067" end="00:03:58.366">- F&#229;r jeg se?</p>
+      <p begin="00:04:00.135" end="00:04:02.056">Bare litt mer.</p>
+      <p begin="00:04:02.194" end="00:04:05.126">- Jeg kom fra en familie p&#229; &#229;tte.</p>
+      <p begin="00:04:05.188" end="00:04:08.021">Hovedm&#229;let er at jeg ser over-</p>
+      <p begin="00:04:08.021" end="00:04:11.799">-min mor, og gj&#248;r det beste jeg kan.</p>
+      <p begin="00:04:12.707" end="00:04:14.664" region="top">- Det er gutten min- </p>
+      <p begin="00:04:14.664" end="00:04:16.777" region="top">-og jeg er glad i han. </p>
+      <p begin="00:04:16.883" end="00:04:18.556" region="top">Han vasker kl&#230;rne mine. </p>
+      <p begin="00:04:18.726" end="00:04:20.216" region="top">Han vasker huset. </p>
+      <p begin="00:04:20.216" end="00:04:20.945" region="top">P&#229; Valentine's Day- </p>
+      <p begin="00:04:20.945" end="00:04:23.555" region="top">-kj&#248;pte han godteri til meg. </p>
+      <p begin="00:04:23.555" end="00:04:24.911" region="top">Han er like s&#248;t- </p>
+      <p begin="00:04:24.911" end="00:04:26.888" region="top">-som det godteriet. </p>
+      <p begin="00:04:26.888" end="00:04:27.835">- Jeg gj&#248;r livet-</p>
+      <p begin="00:04:27.835" end="00:04:28.892">hennes fredfylt-</p>
+      <p begin="00:04:28.892" end="00:04:29.668">Og...</p>
+      <p begin="00:04:29.668" end="00:04:31.712">S&#229;nn at hun ikke kan bekymre seg-</p>
+      <p begin="00:04:31.712" end="00:04:33.312">-over regningene og alt.</p>
+      <p begin="00:04:33.312" end="00:04:35.228">Jeg tok det ansvaret-</p>
+      <p begin="00:04:35.228" end="00:04:36.190">-og jeg...</p>
+      <p begin="00:04:36.190" end="00:04:37.831">Jeg visste ikke hva jeg bega meg ut p&#229;.</p>
+      <p begin="00:04:37.831" end="00:04:39.243">Men n&#229; er jeg oppi det.</p>
+      <p begin="00:04:39.243" end="00:04:40.083">Jeg endrer ikke p&#229; det.</p>
+      <p begin="00:04:40.083" end="00:04:41.971">S&#229; jeg pr&#248;ver-</p>
+      <p begin="00:04:42.002" end="00:04:42.968">-&#229; f&#229; ting til &#229; fungere-</p>
+      <p begin="00:04:42.968" end="00:04:44.297">-hvor jeg kan f&#229; en brukbar inntekt-</p>
+      <p begin="00:04:44.297" end="00:04:47.211">-s&#229;nn at jeg kan leve av det.</p>
+      <p begin="00:04:47.211" end="00:04:50.030">Og det er alt jeg kan f&#229; ut av livet akkurat n&#229;.</p>
+      <p begin="00:04:50.138" end="00:04:56.875"/>
+      <p begin="00:04:56.875" end="00:05:00.615">&#9834; Rundt og rundt g&#229;r det igjen. &#9834;</p>
+      <p begin="00:05:00.615" end="00:05:05.222">&#9834; Hvor det stopper vet ingen. &#9834;</p>
+      <p begin="00:05:05.222" end="00:05:08.565">&#9834; Det er en kald verden &#9834;</p>
+      <p begin="00:05:08.965" end="00:05:12.469">&#9834; Det er en kald verden &#9834;</p>
+      <p begin="00:05:14.254" end="00:05:16.173">&#9834; Hvordan kan vi stoppe det som skjer &#9834;</p>
+      <p begin="00:05:16.173" end="00:05:21.219">&#9834; i dagens Amerika &#9834;</p>
+      <p begin="00:05:31.033" end="00:05:35.022">&#9834; Ohhh, ohhh, ohhh &#9834;</p>
+      <p begin="00:05:41.466" end="00:05:43.575">&#9834; G&#229; tilbake &#9834;</p>
+      <p begin="00:05:43.575" end="00:05:47.287">&#9834; G&#229; tilbake til den gylne regel &#9834;</p>
+      <p begin="00:05:47.287" end="00:05:48.994">&#9834; Oh. Ah. Uh. &#9834;</p>
+      <p begin="00:05:49.455" end="00:05:50.963">&#9834; G&#229; tilbake &#9834;</p>
+      <p begin="00:05:50.963" end="00:05:55.504">&#9834; G&#229; tilbake til den gylne regel &#9834;</p>
+      <p begin="00:05:55.504" end="00:05:58.215">&#9834; Ta det ned &#9834;</p>
+      <p begin="00:05:58.215" end="00:06:12.594"/>
+      <p begin="00:06:12.594" end="00:06:13.438">- Det er en sang-</p>
+      <p begin="00:06:13.438" end="00:06:15.399">-fra det nye albumet, "No Time For Dreaming".</p>
+      <p begin="00:06:15.399" end="00:06:16.525">"Charles Bradley-</p>
+      <p begin="00:06:16.525" end="00:06:18.402">-and the Menahan Street Band".</p>
+      <p begin="00:06:18.402" end="00:06:19.111">Jeg kan ikke fatte-</p>
+      <p begin="00:06:19.111" end="00:06:20.445">-at du kom fra ingensteds-</p>
+      <p begin="00:06:20.445" end="00:06:22.656">-som en helt ukjent for oss.</p>
+      <p begin="00:06:22.656" end="00:06:24.858">Har du spilt inn sanger f&#248;r?</p>
+      <p begin="00:06:24.981" end="00:06:26.277">- Nei.</p>
+      <p begin="00:06:26.277" end="00:06:28.820">Det er f&#248;rste gang jeg gj&#248;r det.</p>
+      <p begin="00:06:28.820" end="00:06:31.099">- Jeg vet at du har opptredt.</p>
+      <p begin="00:06:31.099" end="00:06:31.901">- Ja.</p>
+      <p begin="00:06:31.931" end="00:06:33.170">- Som "Black Velvet".</p>
+      <p begin="00:06:33.170" end="00:06:34.044">- Ja.</p>
+      <p begin="00:06:34.044" end="00:06:35.335">- S&#229; n&#229; opptrer du som-</p>
+      <p begin="00:06:35.335" end="00:06:37.064">-Charles Bradley?</p>
+      <p begin="00:06:37.064" end="00:06:38.076">- Ja.</p>
+      <p begin="00:06:38.076" end="00:06:39.298">- Du har litt av et band-</p>
+      <p begin="00:06:39.298" end="00:06:40.879">-som st&#248;tter deg.</p>
+      <p begin="00:06:40.879" end="00:06:41.667">Og selvf&#248;lgelig...</p>
+      <p begin="00:06:41.667" end="00:06:43.302">Med folka fra Daptone...</p>
+      <p begin="00:06:43.302" end="00:06:44.463">Du vet...</p>
+      <p begin="00:06:44.463" end="00:06:46.037">De er litt av en gjeng.</p>
+      <p begin="00:06:46.037" end="00:06:46.597">Du har sett-</p>
+      <p begin="00:06:46.597" end="00:06:49.276">-hva som skjedde med Sharon Jones.</p>
+      <p begin="00:06:49.276" end="00:06:51.340">Som akkurat som deg-</p>
+      <p begin="00:06:51.340" end="00:06:52.882">-gikk fra &#229; v&#230;re helt ukjent til &#229; kunne-</p>
+      <p begin="00:06:52.897" end="00:06:55.464">-vite hvilke h&#248;yder man kan bestige.</p>
+      <p begin="00:06:55.464" end="00:06:56.872">S&#229; det er...</p>
+      <p begin="00:06:56.872" end="00:06:59.067">Det er et spennende &#248;yeblikk for deg?</p>
+      <p begin="00:06:59.067" end="00:07:01.820">- Jeg tror Gud svarte mine b&#248;nner.</p>
+      <p begin="00:07:01.820" end="00:07:03.864">Det er som...</p>
+      <p begin="00:07:03.864" end="00:07:06.033">Jeg spurte meg selv hvorfor det tok s&#229; lang tid-</p>
+      <p begin="00:07:06.033" end="00:07:07.451">-men man kan aldri stille sp&#248;rsm&#229;l ved Gud-</p>
+      <p begin="00:07:07.451" end="00:07:09.411">-n&#229;r han vil gj&#248;re ting.</p>
+      <p begin="00:07:09.411" end="00:07:12.975">S&#229; det bare skjedde p&#229; min alder.</p>
+      <p begin="00:07:13.098" end="00:07:13.916">- Hva skjer videre?</p>
+      <p begin="00:07:13.916" end="00:07:15.375">Tenker du stort?</p>
+      <p begin="00:07:15.375" end="00:07:17.144">- Jeg tror at himmelen er grensen.</p>
+      <p begin="00:07:17.144" end="00:07:19.421">- Gratulerer til deg med denne platen.</p>
+      <p begin="00:07:19.421" end="00:07:20.737">Uansett hva som skjer med den-</p>
+      <p begin="00:07:20.737" end="00:07:22.632">-s&#229; er det et godt arbeid.</p>
+      <p begin="00:07:22.632" end="00:07:24.943">Charles Bradley p&#229; WFUV.</p>
+      <p begin="00:07:25.113" end="00:07:28.346"/>
+      <p begin="00:07:28.346" end="00:07:33.685">&#9834; Verden g&#229;r opp i flammer &#9834;</p>
+      <p begin="00:07:33.685" end="00:07:39.107">&#9834; Ingen vil ta p&#229; seg skylden &#9834;</p>
+      <p begin="00:07:39.107" end="00:07:44.286">&#9834; Ikke fortell meg hvordan jeg skal leve livet mitt &#9834;</p>
+      <p begin="00:07:44.286" end="00:07:49.746">&#9834; N&#229;r man aldri kjenner smerten &#9834;</p>
+      <p begin="00:07:49.746" end="00:07:55.790">&#9834; Ohhh. Ahhh. Ohhh &#9834;</p>
+      <p begin="00:07:55.790" end="00:07:58.335">&#9834; Ohhh &#9834;</p>
+      <p begin="00:07:58.335" end="00:08:01.051">&#9834; Ser de ikke at jeg gr&#229;ter? &#9834;</p>
+      <p begin="00:08:01.051" end="00:08:02.883" region="top">&#9834; Ohhh &#9834; </p>
+      <p begin="00:08:02.883" end="00:08:04.800"/>
+      <p begin="00:08:04.800" end="00:08:06.051" region="top">- Jeg vet ikke hvor mange artister- </p>
+      <p begin="00:08:06.051" end="00:08:07.718" region="top">-som har v&#230;rt 62 &#229;r gammel- </p>
+      <p begin="00:08:07.718" end="00:08:09.445" region="top">-og utgitt deres debutalbum. </p>
+      <p begin="00:08:10.213" end="00:08:11.950" region="top">Han kan v&#230;re den f&#248;rste. </p>
+      <p begin="00:08:12.777" end="00:08:14.936" region="top">- Han bare f&#229;r det til &#229; skje- </p>
+      <p begin="00:08:14.936" end="00:08:16.937" region="top">-s&#229; vidt jeg vet. </p>
+      <p begin="00:08:16.937" end="00:08:19.215" region="top">Han har jobbet veldig hardt i lang stund. </p>
+      <p begin="00:08:19.338" end="00:08:20.858">Og jeg h&#229;per- $</p>
+      <p begin="00:08:20.858" end="00:08:22.484" region="top">-nok folk kan h&#248;re han synge- </p>
+      <p begin="00:08:22.484" end="00:08:23.151">-slik at-</p>
+      <p begin="00:08:23.151" end="00:08:24.361">-han kan f&#229; det livet han &#248;nsker-</p>
+      <p begin="00:08:24.361" end="00:08:26.889">-og ta vare p&#229; familien sin.</p>
+      <p begin="00:08:26.889" end="00:08:27.626"/>
+      <p begin="00:08:27.626" end="00:08:30.701">&#9834; Uh. Ja. &#9834;</p>
+      <p begin="00:08:30.701" end="00:08:33.120">&#9834; Jeg snakker til deg, dame &#9834;</p>
+      <p begin="00:08:33.120" end="00:08:34.538">&#9834; Ja &#9834;</p>
+      <p begin="00:08:34.538" end="00:08:37.392">&#9834; Bare du... &#9834;</p>
+      <p begin="00:08:37.392" end="00:08:38.333">- Jeg dro til Gabe-</p>
+      <p begin="00:08:38.333" end="00:08:40.502">-fordi jeg trodde han visste hva han gjorde.</p>
+      <p begin="00:08:40.502" end="00:08:42.129">Jeg f&#248;lte han kunne gi meg en hjelpende h&#229;nd-</p>
+      <p begin="00:08:42.129" end="00:08:44.673">-til &#229; komme meg inn i musikkbransjen.</p>
+      <p begin="00:08:44.673" end="00:08:48.569">Alt jeg kjenner til er &#229; komme meg p&#229; scenen og opptre.</p>
+      <p begin="00:08:48.692" end="00:08:52.118">- Hvis du liker funk og soul, eller Afrobeat, og lever i New York-</p>
+      <p begin="00:08:52.226" end="00:08:55.036">-da er Gabe Roth den mannen du skal lete etter.</p>
+      <p begin="00:08:55.174" end="00:08:57.708">Det er han du &#248;nkser skal dytte deg i retningen-</p>
+      <p begin="00:08:57.708" end="00:08:59.778">-fordi deres plater var fenomenale.</p>
+      <p begin="00:09:00.994" end="00:09:03.773">- Jeg lager de platene jeg liker &#229; h&#248;re p&#229;.</p>
+      <p begin="00:09:03.849" end="00:09:05.318">Jeg tror mange av soul-platene-</p>
+      <p begin="00:09:05.318" end="00:09:10.384">-har en viss &#230;rlighet i seg som jeg liker.</p>
+      <p begin="00:09:11.137" end="00:09:12.724">Det var en morgen, og jeg tror det var ganske tidlig.</p>
+      <p begin="00:09:12.832" end="00:09:14.266">Klokken var ni eller ti om morgenen.</p>
+      <p begin="00:09:14.297" end="00:09:16.394">Det banket p&#229; d&#248;ren og der sto Charles.</p>
+      <p begin="00:09:16.532" end="00:09:18.932">Og han sa: "Jeg h&#248;rte du var p&#229; utkikk etter sangere".</p>
+      <p begin="00:09:19.040" end="00:09:20.668">"Jeg h&#248;rte du lette etter meg".</p>
+      <p begin="00:09:21.268" end="00:09:23.092">Jeg forsto ikke hva han snakket om.</p>
+      <p begin="00:09:23.092" end="00:09:25.506">S&#229; han viser meg en video hvor han synger James Brown-sanger.</p>
+      <p begin="00:09:25.506" end="00:09:26.784">Og han h&#248;res flott ut.</p>
+      <p begin="00:09:27.538" end="00:09:30.920">- Gabe Roth fra Daptone Records tok han med til en &#248;ving-</p>
+      <p begin="00:09:30.920" end="00:09:32.412">-p&#229; Staten Island.</p>
+      <p begin="00:09:32.412" end="00:09:34.470">Og Gabe ville at vi skulle spille inn sammen med en vokalist.</p>
+      <p begin="00:09:34.500" end="00:09:36.613">S&#229; Charles var en vokalist de fortsatt m&#229;tte finne et band-</p>
+      <p begin="00:09:36.613" end="00:09:38.004">-til hos Daptone-</p>
+      <p begin="00:09:38.004" end="00:09:40.048">-men Charles hadde fanget deres oppmerksomhet.</p>
+      <p begin="00:09:40.140" end="00:09:43.803">- Jeg tenkte at kanskje vi skal se hvordan Charles fungerer sammen med dem.</p>
+      <p begin="00:09:43.926" end="00:09:47.401" region="top">&#9834; Stopp! &#9834; </p>
+      <p begin="00:09:47.401" end="00:09:51.782" region="top">&#9834; Stopp, baby &#9834; </p>
+      <p begin="00:09:51.782" end="00:09:55.952">&#9834; Ohhh &#9834;</p>
+      <p begin="00:09:55.952" end="00:09:59.665">&#9834; Jeg f&#248;ler meg forferdelig, baby &#9834;</p>
+      <p begin="00:09:59.665" end="00:10:01.958">&#9834; Jeg er innestengt i et bur... &#9834;</p>
+      <p begin="00:10:01.958" end="00:10:06.661">- Jeg spilte sammen med bandet til Tommy p&#229; Staten Island.</p>
+      <p begin="00:10:07.110" end="00:10:09.636">Jeg var der borte og de &#248;vde en dag.</p>
+      <p begin="00:10:09.636" end="00:10:11.635">De spilte, og de sa:</p>
+      <p begin="00:10:11.635" end="00:10:14.930">"Syng dette".</p>
+      <p begin="00:10:14.930" end="00:10:18.684">Jeg liker musikken, og teksten bare-</p>
+      <p begin="00:10:18.684" end="00:10:20.269">-dukket opp i hodet.</p>
+      <p begin="00:10:20.269" end="00:10:24.188">- S&#229; det fungerte veldig bra og vi spilte inn de sangene-</p>
+      <p begin="00:10:24.188" end="00:10:27.442">-med Bradley hos Daptone, og de var gode l&#229;ter-</p>
+      <p begin="00:10:27.442" end="00:10:29.236">-men de tok ikke helt av.</p>
+      <p begin="00:10:29.236" end="00:10:31.333">S&#229; vi gikk alle hver til sitt.</p>
+      <p begin="00:10:32.040" end="00:10:38.347">- To &#229;r gikk og jeg sang James Brown i sm&#229; klubber.</p>
+      <p begin="00:10:38.501" end="00:10:43.381">Og s&#229; fikk jeg en telefon og de sa jeg kunne opptre sammen med Sharon James.</p>
+      <p begin="00:10:43.566" end="00:10:46.121">- Vi &#248;vde, vi opptr&#229;dde. Flott.</p>
+      <p begin="00:10:46.244" end="00:10:48.250">Jeg og Charles m&#248;tes for f&#248;rste gang p&#229; et par &#229;r.</p>
+      <p begin="00:10:48.358" end="00:10:53.291">Vi m&#248;tes og jeg sier: "Hei, Charles, du vet,-"</p>
+      <p begin="00:10:53.291" end="00:10:55.762">"-jeg jobber med noe n&#229;, s&#229; hva om du kommer hit en kveld-"</p>
+      <p begin="00:10:55.762" end="00:10:57.139">"-s&#229; gir vi det en sjanse".</p>
+      <p begin="00:10:57.139" end="00:10:59.124">Og han sa: "Selvf&#248;lgelig, Tommy".</p>
+      <p begin="00:10:59.124" end="00:11:01.709">Vi spilte inn to sanger p&#229; &#233;n kveld.</p>
+      <p begin="00:11:01.709" end="00:11:04.066">En het "The World's Going Up in Flames",</p>
+      <p begin="00:11:04.174" end="00:11:06.257">og den andre het "In You I Found a Love".</p>
+      <p begin="00:11:06.257" end="00:11:10.094">Charles og jeg var akkurat her og trykket p&#229; "record".</p>
+      <p begin="00:11:10.217" end="00:11:13.612">Vi skrev det sammen, og det var det.</p>
+      <p begin="00:11:13.720" end="00:11:16.538">Melodien var skrevet, men han kom med teksten-</p>
+      <p begin="00:11:16.538" end="00:11:19.947">-og jeg satte den p&#229; riktig sted.</p>
+      <p begin="00:11:20.101" end="00:11:36.833"/>
+      <p begin="00:11:40.495" end="00:11:42.596" region="top">Vi har ikke spilt s&#229; mange ganger sammen med Charles helt til n&#229;. </p>
+      <p begin="00:11:42.596" end="00:11:48.180">Vi spilte live noen ganger; jeg tror for Charles sin del at-</p>
+      <p begin="00:11:48.195" end="00:11:51.943">-han vil komme seg igjennom det, og han vil-</p>
+      <p begin="00:11:51.943" end="00:11:55.426">-komme helt frem til hver eneste person i salen.</p>
+      <p begin="00:11:55.580" end="00:11:59.835">Det vi &#248;ver p&#229; og det som skjer p&#229; scenen-</p>
+      <p begin="00:11:59.835" end="00:12:00.917">-er to helt forskjellige ting.</p>
+      <p begin="00:12:00.917" end="00:12:03.957">Bandet er bundet sammen, og det eneste vi &#248;ver p&#229;-</p>
+      <p begin="00:12:04.065" end="00:12:06.658">-med Charles, er &#229; la han lede bandet.</p>
+      <p begin="00:12:07.427" end="00:12:10.356"/>
+      <p begin="00:12:10.494" end="00:12:13.048">- Bam, bam, bam, bam.</p>
+      <p begin="00:12:14.771" end="00:12:16.723">- Tre, fire.</p>
+      <p begin="00:12:16.904" end="00:12:35.570"/>
+      <p begin="00:12:35.570" end="00:12:41.034">&#9834; I deg fant jeg kj&#230;rligheten &#9834;</p>
+      <p begin="00:12:41.034" end="00:12:45.455">&#9834; Som gj&#248;r meg virkelig &#9834;</p>
+      <p begin="00:12:45.455" end="00:12:48.041">&#9834; Oh, baby &#9834;</p>
+      <p begin="00:12:48.041" end="00:12:55.461">&#9834; Noen ganger, n&#229;r jeg sover om natten &#9834;</p>
+      <p begin="00:12:55.461" end="00:13:02.973">&#9834; Jeg v&#229;kner opp og du er ikke der &#9834;</p>
+      <p begin="00:13:02.973" end="00:13:10.773">&#9834; Du sa du elsket meg og ville v&#230;re her hele tiden &#9834;</p>
+      <p begin="00:13:10.773" end="00:13:14.985">&#9834; Jeg trodde at du... &#9834;</p>
+      <p begin="00:13:14.985" end="00:13:18.032">- Den nye musikken er noe som kommer fra meg.</p>
+      <p begin="00:13:18.032" end="00:13:21.492">Det er ting jeg har opplevd og g&#229;tt igjennom; hjertesorg-</p>
+      <p begin="00:13:21.492" end="00:13:24.036">-og smerter.</p>
+      <p begin="00:13:24.036" end="00:13:27.956"/>
+      <p begin="00:13:27.956" end="00:13:34.087"/>
+      <p begin="00:13:34.087" end="00:13:37.970">- Du ventet to ganger p&#229; hornene.</p>
+      <p begin="00:13:38.703" end="00:13:39.426">- Ja, det var perfekt.</p>
+      <p begin="00:13:39.426" end="00:13:43.104"/>
+      <p begin="00:13:43.219" end="00:13:43.981">- Jeg &#248;nsker &#229; si "god natt".</p>
+      <p begin="00:13:43.981" end="00:13:46.321">Vi kan alltids gj&#248;re dette en gang.</p>
+      <p begin="00:13:46.429" end="00:13:49.025">Det var kjempemorsomt, Tommy.</p>
+      <p begin="00:13:49.178" end="00:13:50.726">- Ok.</p>
+      <p begin="00:13:50.834" end="00:13:52.033">- Det var utmerket.</p>
+      <p begin="00:13:52.141" end="00:13:53.354">- Tommy, takk skal du ha.</p>
+      <p begin="00:13:53.477" end="00:13:54.353">Du vet jeg er glad i deg.</p>
+      <p begin="00:13:54.460" end="00:13:55.595">Takk, broder.</p>
+      <p begin="00:13:55.749" end="00:13:57.570">Ha det.</p>
+      <p begin="00:13:58.108" end="00:14:01.942">Jeg lukket ikke d&#248;ren.</p>
+      <p begin="00:14:07.342" end="00:14:13.295"/>
+      <p begin="00:14:13.295" end="00:14:14.525">- Ni og halv.</p>
+      <p begin="00:14:14.525" end="00:14:15.793">- Mamma, kom igjen n&#229; da...</p>
+      <p begin="00:14:15.793" end="00:14:18.889">Du sa ni, du sa &#229;tte, &#229;tte og en halv.</p>
+      <p begin="00:14:18.950" end="00:14:19.813">Jeg henter &#229;tte.</p>
+      <p begin="00:14:19.813" end="00:14:21.862">N&#229; vil du ha ni; ni og en halv.</p>
+      <p begin="00:14:21.862" end="00:14:24.168">Hva er galt med denne? Denne her?</p>
+      <p begin="00:14:26.889" end="00:14:28.459">- Ja, men jeg blir spr&#248;.</p>
+      <p begin="00:14:30.185" end="00:14:32.030"/>
+      <p begin="00:14:33.461" end="00:14:35.513">- Herregud.</p>
+      <p begin="00:14:35.559" end="00:14:38.197">Det er vanskelig noen ganger.</p>
+      <p begin="00:14:38.197" end="00:14:41.446">Det er vanskelig; alt n&#229; for tiden-</p>
+      <p begin="00:14:41.446" end="00:14:43.490">-er avhengig av meg.</p>
+      <p begin="00:14:43.490" end="00:14:45.965">Men hvis jeg hadde satt henne av p&#229; et gamlehjem, hadde hun ikke klart seg.</p>
+      <p begin="00:14:45.965" end="00:14:47.096">Og det vet jeg.</p>
+      <p begin="00:14:47.818" end="00:14:49.808" region="top">- Jeg fikk slag en gang. </p>
+      <p begin="00:14:50.422" end="00:14:52.874" region="top">Jeg har hatt mange hjerteinfarkt. </p>
+      <p begin="00:14:52.936" end="00:14:54.246" region="top">- Ha en fin dag. </p>
+      <p begin="00:14:54.246" end="00:14:57.836" region="top">Men det skjedde n&#229;r stefaren min d&#248;de- </p>
+      <p begin="00:14:57.836" end="00:15:06.382" region="top">-og n&#229;r bestemoren og mannen min... </p>
+      <p begin="00:15:06.382" end="00:15:07.767" region="top">D&#248;de. </p>
+      <p begin="00:15:10.044" end="00:15:14.153">- "La meg leve mine siste dager i mitt eget hus".</p>
+      <p begin="00:15:14.492" end="00:15:16.924">Jeg sa: "Okey, mamma".</p>
+      <p begin="00:15:17.140" end="00:15:20.809">Men hun vet ikke at jeg ikke har et annet liv.</p>
+      <p begin="00:15:21.409" end="00:15:23.186">Mitt liv er henne.</p>
+      <p begin="00:15:23.570" end="00:15:29.102">At jeg er med noen andre, det vet jeg ikke hvordan jeg skulle ha gjort.</p>
+      <p begin="00:15:29.348" end="00:16:13.946"/>
+      <p begin="00:16:13.946" end="00:16:18.454" region="top">- Da moren til Charles forlot Florida for &#229; dra til New York- </p>
+      <p begin="00:16:18.562" end="00:16:23.926" region="top">-var Charles bare &#229;tte m&#229;neder gammel; &#229;tte m&#229;neder. </p>
+      <p begin="00:16:25.295" end="00:16:30.925">Og hun var borte s&#229; lenge at n&#229;r hun kom tilbake-</p>
+      <p begin="00:16:30.925" end="00:16:33.262">-kjente han ikke henne igjen. Han visste ikke at hun var hans mor.</p>
+      <p begin="00:16:34.122" end="00:16:37.105">Han trodde at bestemoren hans var moren hans.</p>
+      <p begin="00:16:38.843" end="00:16:41.408" region="top">- Jeg dro til New York for &#229; bedre meg selv p&#229; alles vegner. </p>
+      <p begin="00:16:42.654" end="00:16:46.609" region="top">Jeg og ektemannen min var separert;jeg ville bedre meg selv og det gjorde jeg </p>
+      <p begin="00:16:46.609" end="00:16:50.246" region="top">Jeg kj&#248;pte hjemmet v&#229;rt i 843 Willoughby Avenue. </p>
+      <p begin="00:16:50.338" end="00:16:52.195">Ja.</p>
+      <p begin="00:16:52.410" end="00:17:02.065">- Hun forlot barna, p&#229; en m&#229;te, for &#229; f&#248;lge etter en mann-</p>
+      <p begin="00:17:03.279" end="00:17:06.688">-som hadde en kone som hun var gal etter.</p>
+      <p begin="00:17:08.379" end="00:17:10.802">Hvis ikke hadde hun aldri dratt til New York.</p>
+      <p begin="00:17:10.940" end="00:17:15.445">- Jeg var mellom syv og &#229;tte &#229;r gammel.</p>
+      <p begin="00:17:15.445" end="00:17:18.140">Moren min sa til bestemor da hun kom tilbake-</p>
+      <p begin="00:17:18.217" end="00:17:20.106">-at hun ville at jeg skulle bli med tilbake med henne.</p>
+      <p begin="00:17:20.106" end="00:17:23.104">Bestemor sa "Nei. La de bli igjen her, fordi de har det bedre her-</p>
+      <p begin="00:17:23.196" end="00:17:26.138">-og de f&#229;r en bedre utdanning hvis de blir igjen her med meg".</p>
+      <p begin="00:17:26.368" end="00:17:28.062">Moren min var ikke enig.</p>
+      <p begin="00:17:28.200" end="00:17:30.392">S&#229; bestemor sa: "Nei, du f&#229;r ikke ta de med".</p>
+      <p begin="00:17:30.485" end="00:17:32.168">S&#229; min mor stjal oss.</p>
+      <p begin="00:17:32.276" end="00:17:34.196" region="top">- De var mine, s&#229; jeg tok de. </p>
+      <p begin="00:17:34.196" end="00:17:36.881" region="top">Jeg lagde de. </p>
+      <p begin="00:17:37.034" end="00:17:41.626" region="top">S&#229; jeg tok med alle mine kreasjoner med meg tilbake til New York. </p>
+      <p begin="00:17:41.733" end="00:17:42.729">Jada.</p>
+      <p begin="00:17:44.252" end="00:17:45.801">Det gjorde jeg.</p>
+      <p begin="00:17:47.340" end="00:17:51.545">- Jeg liker ikke &#229; si det, men p&#229; den tiden var det vanskelig &#229; skaffe seg jobb-</p>
+      <p begin="00:17:51.698" end="00:17:56.906" region="top">-s&#229; det var bare--hvis man er en fors&#248;rger- </p>
+      <p begin="00:17:57.690" end="00:18:00.561">-s&#229; kan man f&#229; leve av velferdspenger.</p>
+      <p begin="00:18:00.946" end="00:18:06.534">Og hun kunne f&#229; de pengene ved at hun tok ungene med seg.</p>
+      <p begin="00:18:07.179" end="00:18:11.732">- I barndommen hans var han favorittbarnet hennes.</p>
+      <p begin="00:18:11.855" end="00:18:16.663">Han fikk all kj&#230;rligheten og omsorgen fra hans eldre br&#248;dre-</p>
+      <p begin="00:18:16.785" end="00:18:19.357">-og s&#248;stre, bestemoren hans, onkelen og alle sammen-</p>
+      <p begin="00:18:19.357" end="00:18:21.371">-fordi han var en unge.</p>
+      <p begin="00:18:21.371" end="00:18:25.880">- Jeg tror Charles mistet alt det da han dro til New York.</p>
+      <p begin="00:18:31.834" end="00:18:32.928">- Jeg bodde sammen med moren min, og jeg var redd for at hun-</p>
+      <p begin="00:18:32.928" end="00:18:36.312">-skulle gj&#248;re meg vondt, s&#229; jeg dro. Vi var ikke enige med hverandre.</p>
+      <p begin="00:18:36.312" end="00:18:38.457">Vi var ikke enige med hverandre.</p>
+      <p begin="00:18:38.457" end="00:18:39.997">Jeg fikk skylden for alt.</p>
+      <p begin="00:18:39.997" end="00:18:41.508">S&#229; jeg var veldig bitter.</p>
+      <p begin="00:18:42.170" end="00:18:45.432">Og alt ble rasjonert-</p>
+      <p begin="00:18:45.555" end="00:18:48.251">-og jeg bodde i en kjeller.</p>
+      <p begin="00:18:48.251" end="00:18:52.166">Det var ingen betongkjeller.</p>
+      <p begin="00:18:52.490" end="00:18:54.088">Lysp&#230;ren var bare p&#229; femten watt.</p>
+      <p begin="00:18:54.195" end="00:18:55.982">Og jeg sa: "Nei, dette takler jeg ikke".</p>
+      <p begin="00:18:56.012" end="00:18:57.752">Jeg sa: "Jeg vil ikke ha dette. Jeg drar".</p>
+      <p begin="00:18:57.922" end="00:18:59.008">S&#229; jeg dro.</p>
+      <p begin="00:18:59.746" end="00:19:04.900"/>
+      <p begin="00:19:04.900" end="00:19:07.056">Jeg var fjorten &#229;r gammel.</p>
+      <p begin="00:19:08.226" end="00:19:09.892">Hjemmet mitt var p&#229; t-banen.</p>
+      <p begin="00:19:09.984" end="00:19:12.574">Det var dit jeg dro for &#229; holde meg varm.</p>
+      <p begin="00:19:13.866" end="00:19:17.866">Jeg gikk p&#229; t-banen noen netter, eller vinternetter. Det var kaldt.</p>
+      <p begin="00:19:18.236" end="00:19:20.330">Tok t-banen frem og tilbake.</p>
+      <p begin="00:19:20.468" end="00:19:22.670">Politiet banket p&#229; veldig hardt-</p>
+      <p begin="00:19:22.808" end="00:19:24.387">-og sa: "Du m&#229; g&#229; av, unge".</p>
+      <p begin="00:19:24.925" end="00:19:31.271">Jeg gikk over plattformen, og gikk til en ny vogn for &#229; sove.</p>
+      <p begin="00:19:31.471" end="00:19:35.284">Jeg fant et lite hj&#248;rne, og en pinne for &#229; sl&#229; med hardt.</p>
+      <p begin="00:19:35.422" end="00:19:36.546">Det gjennomboret hodet mitt.</p>
+      <p begin="00:19:36.746" end="00:19:39.910">Han sa: "Kom deg opp, unge".</p>
+      <p begin="00:19:40.079" end="00:19:47.370">S&#229; jeg tok forskjellige ruter for &#229; f&#229; meg litt s&#248;vn f&#248;r dagslyset kom.</p>
+      <p begin="00:19:49.300" end="00:19:53.458">Og det som alle sammen drev p&#229; med p&#229; den tiden-</p>
+      <p begin="00:19:53.581" end="00:19:56.817">-v&#229;r &#229; ruse seg med tunge rusmidler.</p>
+      <p begin="00:19:56.925" end="00:19:59.766">Jeg tok det ikke, men jeg s&#229; de tok noen skudd-</p>
+      <p begin="00:19:59.766" end="00:20:01.183">-og de pr&#248;vde &#229; gi det til meg.</p>
+      <p begin="00:20:01.183" end="00:20:03.544">Jeg ble skremt og jegvar redd for spr&#248;yter.</p>
+      <p begin="00:20:03.544" end="00:20:05.021">Jeg sa: "Nei, nei, nei".</p>
+      <p begin="00:20:05.190" end="00:20:07.022">S&#229; det var da jeg fikk h&#248;re om "Job Corps".</p>
+      <p begin="00:20:07.145" end="00:20:10.515">Og jeg pr&#248;vde &#229; f&#229; moren min til &#229; signere for &#229; dra til "Job Corps".</p>
+      <p begin="00:20:10.622" end="00:20:12.854">Og hun ble sint p&#229; meg. Hun ville ikke signere.</p>
+      <p begin="00:20:12.977" end="00:20:15.088">S&#229; jeg fikk s&#248;steren min til &#229; forfalske navnet til moren min.</p>
+      <p begin="00:20:15.550" end="00:20:17.032">Og jeg l&#230;rte meg &#229; lage mat.</p>
+      <p begin="00:20:17.140" end="00:20:19.089">Jeg var kokk i to &#229;r.</p>
+      <p begin="00:20:19.212" end="00:20:21.961">Jeg var kokkel&#230;rling i Bar Harbor, Maine.</p>
+      <p begin="00:20:21.961" end="00:20:24.645">Og det var da jeg virkelig begynte &#229; synge James Brown i "Job Corps".</p>
+      <p begin="00:20:24.829" end="00:20:27.790">Men de sa: "Har dere sett han nye som kom inn?"</p>
+      <p begin="00:20:27.928" end="00:20:31.156">"Han ligner akkurat p&#229; James Brown".</p>
+      <p begin="00:20:34.451" end="00:20:36.840">Og de fyrte meg opp og ga meg gin, og i den jobben-</p>
+      <p begin="00:20:36.840" end="00:20:39.036">-var det meningen at du skulle snike det inn.</p>
+      <p begin="00:20:39.736" end="00:20:42.175">De ga meg gin og jeg ble beruset-</p>
+      <p begin="00:20:42.299" end="00:20:44.505">-og de ga meg mikrofonen og ba meg synge.</p>
+      <p begin="00:20:44.643" end="00:20:45.821">Og jeg ble spr&#248;.</p>
+      <p begin="00:20:45.960" end="00:20:49.231">S&#229; de fortalte meg at de skulle ta meg med til "Job Corps" for jenter-</p>
+      <p begin="00:20:49.231" end="00:20:51.358">-for &#229; opptre.</p>
+      <p begin="00:20:51.358" end="00:20:53.110">Og jeg spurte: "Hvor mange skal dit?"</p>
+      <p begin="00:20:53.217" end="00:20:54.678">De sa: "Tjue eller tretti personer".</p>
+      <p begin="00:20:54.770" end="00:20:56.225">Jeg sa: "Okey".</p>
+      <p begin="00:20:56.548" end="00:20:59.096">S&#229; de ropte meg opp p&#229; scenen.</p>
+      <p begin="00:20:59.403" end="00:21:01.168">Og jeg ser utover p&#229; folkemassen.</p>
+      <p begin="00:21:01.276" end="00:21:03.380">Jeg s&#229; alle de menneskene og jeg fr&#248;s.</p>
+      <p begin="00:21:03.487" end="00:21:04.121">Jeg sa:</p>
+      <p begin="00:21:04.121" end="00:21:08.125">"Jeg gj&#248;r det ikke".</p>
+      <p begin="00:21:08.125" end="00:21:13.205">S&#229; var det en som het Moody som ga meg et lite dytt.</p>
+      <p begin="00:21:13.298" end="00:21:14.760">Jeg s&#229; at alle var glade.</p>
+      <p begin="00:21:14.883" end="00:21:15.938">De likte meg.</p>
+      <p begin="00:21:16.030" end="00:21:17.898">De elsket at jeg ga de hele mitt hjerte.</p>
+      <p begin="00:21:18.329" end="00:21:22.091">Jeg tenkte at her vil jeg v&#230;re.</p>
+      <p begin="00:21:22.214" end="00:21:23.843">Og jeg stoppet aldri opp.</p>
+      <p begin="00:21:26.981" end="00:21:29.903">V&#229;re planer etter at vi var ferdige i "Job Corps" var at-</p>
+      <p begin="00:21:29.903" end="00:21:31.954" region="top">-vi skulle g&#229; sammen og fortsette med musikken. </p>
+      <p begin="00:21:31.954" end="00:21:35.205" region="top">Resten av bandet mitt ble innkalt til vietnamkrigen. </p>
+      <p begin="00:21:35.205" end="00:21:41.083" region="top">Og de gikk ut i krig og jeg gjorde meg ferdig med treningen hos "Job Corps". </p>
+      <p begin="00:21:47.414" end="00:21:49.499"/>
+      <p begin="00:21:49.499" end="00:21:52.827"/>
+      <p begin="00:21:52.827" end="00:21:57.120">- Jeg vil smake p&#229; det sammen med deg.</p>
+      <p begin="00:21:57.448" end="00:21:58.097">- Ja.</p>
+      <p begin="00:21:58.097" end="00:21:59.297">- Det m&#229; jeg smake p&#229;.</p>
+      <p begin="00:21:59.297" end="00:22:00.821">- Vi kan &#229;pne den n&#229;.</p>
+      <p begin="00:22:00.821" end="00:22:02.555">- Gresskar&#248;l; jeg har aldri h&#248;r om det.</p>
+      <p begin="00:22:02.555" end="00:22:04.091">- Jada, vi kan smake litt p&#229; det.</p>
+      <p begin="00:22:04.291" end="00:22:05.286">- Det vil jeg gjerne smake p&#229;.</p>
+      <p begin="00:22:06.132" end="00:22:07.265">- Okey.</p>
+      <p begin="00:22:08.373" end="00:22:10.943">Herregud, det var godt.</p>
+      <p begin="00:22:11.189" end="00:22:12.040">- Det er gresskar&#248;l.</p>
+      <p begin="00:22:12.132" end="00:22:14.322">- Seri&#248;st, det er utrolig.</p>
+      <p begin="00:22:14.322" end="00:22:15.156">- Det er gresskar?</p>
+      <p begin="00:22:15.156" end="00:22:15.775">- Ja.</p>
+      <p begin="00:22:15.775" end="00:22:17.318">- Det er gresskar?</p>
+      <p begin="00:22:17.318" end="00:22:20.223">- Det er som uten kullsyre.</p>
+      <p begin="00:22:20.223" end="00:22:21.616">Liker du det? Nei?</p>
+      <p begin="00:22:21.616" end="00:22:22.999">- Nei.- Gj&#248;r du ikke?</p>
+      <p begin="00:22:22.999" end="00:22:23.875">- Jeg liker det ikke.</p>
+      <p begin="00:22:23.875" end="00:22:24.764">- Jeg synes det er deilig.</p>
+      <p begin="00:22:24.764" end="00:22:27.111">- Det er noe... Smak av gresskar.</p>
+      <p begin="00:22:27.296" end="00:22:29.471">&#197; jobbe med Charles Bradley, mot det &#229; jobbe med-</p>
+      <p begin="00:22:29.471" end="00:22:31.083">-Sharon Lee eller noen...</p>
+      <p begin="00:22:31.083" end="00:22:34.239">De andre vokalistene fra New York som jeg s&#229; ofte jobber med...</p>
+      <p begin="00:22:34.239" end="00:22:37.143">Charles har bare de spr&#248;este historier...</p>
+      <p begin="00:22:37.339" end="00:22:38.983">Spr&#248;este historier.</p>
+      <p begin="00:22:38.983" end="00:22:42.967">Som l&#229;tskriver sitter jeg sammen med han-</p>
+      <p begin="00:22:43.075" end="00:22:45.738">-og jeg h&#248;rer p&#229; Charles fortelle historier, og jeg bare...</p>
+      <p begin="00:22:45.845" end="00:22:48.796">Vi m&#229; bare skrive en sang om de, hvis du skj&#248;nner.</p>
+      <p begin="00:22:48.796" end="00:22:51.394">S&#229; f&#248;r vi spiller inn vokal p&#229; sangen-</p>
+      <p begin="00:22:51.394" end="00:22:55.150">-spiller jeg Charles sin sang og sp&#248;r om han liker den, f&#248;rst av alt.</p>
+      <p begin="00:22:55.288" end="00:22:58.550">Jeg synger sangen slik jeg mener den b&#248;r v&#230;re.</p>
+      <p begin="00:22:58.719" end="00:23:01.367">Og det er ikke det at han ser bort fra mine id&#233;er det er bare det at han har-</p>
+      <p begin="00:23:01.367" end="00:23:02.367">-sine egne id&#233;er-</p>
+      <p begin="00:23:02.367" end="00:23:05.407">-og han bare uttrykker dem med en gang.</p>
+      <p begin="00:23:05.561" end="00:23:08.053">Han starter &#229; synge, og s&#229; stopper vi-</p>
+      <p begin="00:23:08.161" end="00:23:10.680">-og s&#229; tar vi en pause for &#229; snakke.</p>
+      <p begin="00:23:10.680" end="00:23:11.289">Hvis du...</p>
+      <p begin="00:23:11.289" end="00:23:15.336">Snakker du med Charles lenge nok,kommer det en historie.</p>
+      <p begin="00:23:15.336" end="00:23:19.592">Uten at jeg sp&#248;r han, starter han &#229; synge om hva vi akkurat-</p>
+      <p begin="00:23:19.592" end="00:23:20.549">-snakket om.</p>
+      <p begin="00:23:20.549" end="00:23:24.133">Og s&#229; gir jeg han en blyant og et ark, og lar han skrible fritt-</p>
+      <p begin="00:23:24.133" end="00:23:25.887">-om og om igjen.</p>
+      <p begin="00:23:25.887" end="00:23:29.070">Etter hvert blir det til en sang-</p>
+      <p begin="00:23:29.070" end="00:23:30.708">-over en periode p&#229; et par timer.</p>
+      <p begin="00:23:30.815" end="00:23:34.330">Men det er hans historier jeg alltid pr&#248;ver &#229; oversette til sang.</p>
+      <p begin="00:23:34.453" end="00:23:39.721"/>
+      <p begin="00:23:39.875" end="00:23:45.113" region="top">- Jeg dro til California i 1977 og lette etter mine dr&#248;mmer; musikk. </p>
+      <p begin="00:23:46.251" end="00:23:48.326">Jeg var med i mange forskjellige band.</p>
+      <p begin="00:23:48.326" end="00:23:52.196">De sa: "Vi betaler deg $400 for &#229; spille i kveld".</p>
+      <p begin="00:23:52.303" end="00:23:55.370">Og en fyr betalte meg for &#229; gj&#248;re det.</p>
+      <p begin="00:23:55.492" end="00:23:57.149">Det var s&#229;nn det gikk for seg.</p>
+      <p begin="00:23:57.488" end="00:24:01.896">Jeg vet ikke hvorfor, men p&#229; det tidspunktet ble jeg syk.</p>
+      <p begin="00:24:02.035" end="00:24:06.613">Jeg ringte moren min og hun ba meg komme hjem.</p>
+      <p begin="00:24:09.290" end="00:24:12.653">Mamma begynner &#229; bli gammel og hun har v&#230;rt igjennom mye.</p>
+      <p begin="00:24:12.745" end="00:24:16.686">Det er ikke min jobb &#229; d&#248;mme henne for alt det hun gjorde.</p>
+      <p begin="00:24:17.686" end="00:24:21.707" region="top">Jeg dro tilbake til New York i 1994. </p>
+      <p begin="00:24:22.846" end="00:24:26.149" region="top">Jeg var syk som bare det. Jeg var n&#230;r d&#248;den. </p>
+      <p begin="00:24:26.826" end="00:24:29.243" region="top">De la meg inn p&#229; Woodhull sykehus. </p>
+      <p begin="00:24:29.643" end="00:24:33.428" region="top">Jeg er allergisk mot penicillin, og de ga meg det- </p>
+      <p begin="00:24:33.705" end="00:24:36.235" region="top">-og kroppen min hadde skrudd seg helt av. </p>
+      <p begin="00:24:37.358" end="00:24:40.104" region="top">Jeg hadde gitt opp fullstendig. </p>
+      <p begin="00:24:41.919" end="00:24:49.562">Broren min, Joseph, kom til sykehuset for &#229; bes&#248;ke meg.</p>
+      <p begin="00:24:50.070" end="00:24:52.881">Og han strakte seg over og kysset meg.</p>
+      <p begin="00:24:52.881" end="00:24:54.978">Han sa: "Charles. Nei, nei".</p>
+      <p begin="00:24:55.163" end="00:24:56.783">Og han hvisket i &#248;ret mitt.</p>
+      <p begin="00:24:56.968" end="00:25:02.406">Han sa: "Broder, hvis du ikke vil leve for deg selv, s&#229; lev for meg".</p>
+      <p begin="00:25:02.499" end="00:25:03.729">Han sa: "Charles, jeg er glad i deg".</p>
+      <p begin="00:25:04.175" end="00:25:05.559">"Du er mitt hjerte".</p>
+      <p begin="00:25:05.820" end="00:25:09.538">Jeg sa: "Jeg skal kjempe".</p>
+      <p begin="00:25:09.661" end="00:25:15.579"/>
+      <p begin="00:25:15.579" end="00:25:18.675">Broren min sa at jeg skulle gj&#248;re det jeg hadde lyst til.</p>
+      <p begin="00:25:19.870" end="00:25:21.254">"F&#248;lg dr&#248;mmene dine".</p>
+      <p begin="00:25:21.254" end="00:25:22.730">"Du elsker musikk. Gj&#248;r det".</p>
+      <p begin="00:25:22.730" end="00:25:24.529">Og jeg sa: "Jeg kan v&#230;re smart som deg".</p>
+      <p begin="00:25:24.559" end="00:25:26.299">Han svarte: "Nei, du kan ikke v&#230;re meg".</p>
+      <p begin="00:25:26.422" end="00:25:27.839">"Ikke &#248;nsk &#229; v&#230;re meg. V&#230;r deg selv".</p>
+      <p begin="00:25:27.977" end="00:25:31.578" region="top">- Dette var kompisen hans. </p>
+      <p begin="00:25:32.055" end="00:25:34.077" region="top">Han syntes godt om Charles. </p>
+      <p begin="00:25:34.200" end="00:25:36.948" region="top">Han sa til Charles at hva enn han m&#229;tte gj&#248;re, m&#229;tte han gj&#248;re det bra- </p>
+      <p begin="00:25:36.966" end="00:25:38.038" region="top">-og holde seg til det. </p>
+      <p begin="00:25:38.056" end="00:25:39.662" region="top">"Ikke la noen snakke deg ut av det". </p>
+      <p begin="00:25:39.969" end="00:25:42.668" region="top">Han sa det f&#248;r han d&#248;de. </p>
+      <p begin="00:25:42.713" end="00:25:46.356" region="top">"Ikke la noen snakke deg ut av det". </p>
+      <p begin="00:25:46.402" end="00:26:02.360"/>
+      <p begin="00:26:02.530" end="00:26:04.640">Han sa: "Jeg kan ikke gj&#248;re det s&#229;nn som du gj&#248;r det".</p>
+      <p begin="00:26:04.716" end="00:26:06.824">Jeg husker da jeg var barn og bodde i Florida.</p>
+      <p begin="00:26:07.009" end="00:26:10.779">Han l&#230;rte seg &#229; spille piano-</p>
+      <p begin="00:26:10.932" end="00:26:13.016">-og jeg l&#230;rte meg &#229; spille piano ved &#229; se han spille.</p>
+      <p begin="00:26:13.724" end="00:26:16.478">Jeg l&#230;rte meg aldri noen av hans l&#229;ter.</p>
+      <p begin="00:26:17.216" end="00:26:19.815">Han ba meg f&#248;lge mine dr&#248;mmer.</p>
+      <p begin="00:26:19.815" end="00:26:23.997">Han ba meg ordne et rom i hus og klargj&#248;re det-</p>
+      <p begin="00:26:24.135" end="00:26:27.244">-som mitt &#248;velseslokale.</p>
+      <p begin="00:26:27.367" end="00:26:28.664">Og det gjorde jeg.</p>
+      <p begin="00:26:29.171" end="00:26:31.328">Joey var som en bror og far.</p>
+      <p begin="00:26:31.421" end="00:26:33.748">Han var en nydelig bror.</p>
+      <p begin="00:26:33.867" end="00:26:39.326"/>
+      <p begin="00:26:39.326" end="00:26:40.813">- S&#229;, hvor har du frukten?</p>
+      <p begin="00:26:44.336" end="00:26:49.033"/>
+      <p begin="00:26:49.033" end="00:26:49.966">- Er det nok?</p>
+      <p begin="00:26:49.966" end="00:26:51.130">- Litt mer.</p>
+      <p begin="00:26:51.269" end="00:26:52.598">- Sett deg ned og spis.</p>
+      <p begin="00:26:52.598" end="00:26:54.603">- Jeg lager bare litt frokost.</p>
+      <p begin="00:26:54.603" end="00:26:55.804">- Jeg er ikke sulten men du m&#229; bare spise.</p>
+      <p begin="00:26:55.942" end="00:26:59.512">Og s&#229; begynner vi &#229; snakke om hva du gjorde.</p>
+      <p begin="00:26:59.620" end="00:27:01.374">- Jeg bare lar det ligge her.</p>
+      <p begin="00:27:01.466" end="00:27:02.192">- Det er helt greit.</p>
+      <p begin="00:27:02.300" end="00:27:03.548">Jeg veileder Charles.</p>
+      <p begin="00:27:03.671" end="00:27:07.320" region="top">Jeg vil p&#229;st&#229; han er p&#229; barnehage -eller f&#248;rsteklasseniv&#229;- </p>
+      <p begin="00:27:07.458" end="00:27:09.933" region="top">-n&#229;r det gjelder hans leseferdigheter og leseforst&#229;else. </p>
+      <p begin="00:27:10.179" end="00:27:15.653">- Er forfatterene interesserte i historien min?</p>
+      <p begin="00:27:15.653" end="00:27:17.142">- Ok. Du leste det h&#248;yt.</p>
+      <p begin="00:27:17.142" end="00:27:19.132">Forsto du alt du leste?</p>
+      <p begin="00:27:21.228" end="00:27:24.710">- B&#229;de ja og nei.</p>
+      <p begin="00:27:24.710" end="00:27:26.994">- Ja og nei.</p>
+      <p begin="00:27:27.070" end="00:27:27.843">- Charles?</p>
+      <p begin="00:27:27.843" end="00:27:28.407">- Hva?</p>
+      <p begin="00:27:28.407" end="00:27:29.819" region="top">- Lunsjen var herlig. </p>
+      <p begin="00:27:29.927" end="00:27:31.307">- Takk, mamma.</p>
+      <p begin="00:27:31.953" end="00:27:37.271">- Jeg tror hans f&#248;rste prioritet er &#229; v&#230;re i stand til &#229; skrive sangene sine-</p>
+      <p begin="00:27:37.271" end="00:27:40.080">-ned p&#229; papir raskt n&#229;r de dukker opp i hodet-</p>
+      <p begin="00:27:40.080" end="00:27:43.296">-fordi han har s&#229; mange ord i hodet som m&#229; bli skrevet ned-</p>
+      <p begin="00:27:43.404" end="00:27:45.309">-men han vet ikke helt hvordan.</p>
+      <p begin="00:27:45.355" end="00:27:46.815">- Du stavet det ikke riktig.</p>
+      <p begin="00:27:47.122" end="00:27:47.841">- to N-er?</p>
+      <p begin="00:27:48.381" end="00:27:50.125">- Bare en N, ingen D-er.</p>
+      <p begin="00:27:50.248" end="00:27:51.239">- &#197;ja. N.</p>
+      <p begin="00:27:51.239" end="00:27:53.855">- Fordi "og" brukes til &#229; sette to ting sammen.</p>
+      <p begin="00:27:54.455" end="00:27:55.225">- Akkurat. Okey.</p>
+      <p begin="00:27:55.332" end="00:27:56.661">- Fisk og chips.</p>
+      <p begin="00:27:56.907" end="00:27:58.399">- Okey. Jeg kommer til &#229; savne deg.</p>
+      <p begin="00:27:58.569" end="00:28:00.934">- Ha det, Charles. Vi ses neste uke.</p>
+      <p begin="00:28:01.103" end="00:28:02.172">Takk.</p>
+      <p begin="00:28:02.203" end="00:28:30.811"/>
+      <p begin="00:28:31.011" end="00:28:31.661">- Kom inn...</p>
+      <p begin="00:28:32.498" end="00:28:36.180">- Du kan lese senere. Legg det bort.</p>
+      <p begin="00:28:36.365" end="00:28:38.008">- Du vet at jeg eier det.</p>
+      <p begin="00:28:39.547" end="00:28:41.505">Du vet at jeg er sjefen.</p>
+      <p begin="00:28:42.398" end="00:28:44.711">- Det skulle du ha &#248;nsket.</p>
+      <p begin="00:28:44.726" end="00:28:46.157">- Takk, Mr. Brown.</p>
+      <p begin="00:28:47.265" end="00:28:52.004">- Charles brukte &#229; g&#229; med James Brown-parykk hele tiden, ikke sant?</p>
+      <p begin="00:28:52.096" end="00:28:53.733">Hele tiden.</p>
+      <p begin="00:28:53.825" end="00:28:56.263">Og n&#229; som vi n&#230;rmer oss utgivelse-</p>
+      <p begin="00:28:56.325" end="00:28:58.766">-m&#229; du presentere deg som Charles Bradley.</p>
+      <p begin="00:28:58.766" end="00:29:00.342">Og han hadde det t&#248;ft.</p>
+      <p begin="00:29:00.342" end="00:29:02.904">Han &#248;nsket &#229; bruke kappe og alt som har med James Brown &#229; gj&#248;re.</p>
+      <p begin="00:29:02.904" end="00:29:03.786">Og bare v&#230;re s&#229;nn.</p>
+      <p begin="00:29:03.786" end="00:29:05.815">Fordi det er han vant med &#229; bruke p&#229; scenen.</p>
+      <p begin="00:29:05.860" end="00:29:07.919">Og det &#248;nsket ikke vi.</p>
+      <p begin="00:29:07.919" end="00:29:09.910">Vi bare &#248;nsket han han skulle v&#230;re seg selv.</p>
+      <p begin="00:29:10.002" end="00:29:12.183">Det krevde mye overtalelse for at han skulle gj&#248;re det.</p>
+      <p begin="00:29:12.183" end="00:29:20.122"/>
+      <p begin="00:29:20.122" end="00:29:23.090">- Charles gir ut plate 25. januar.</p>
+      <p begin="00:29:23.213" end="00:29:26.082">N&#229; begynner promoteringen av albumet.</p>
+      <p begin="00:29:26.190" end="00:29:30.087">- Jeg skal turnere med Sharon Jones.</p>
+      <p begin="00:29:31.170" end="00:29:36.461">Sharon Jones gir meg en sjanse til &#229; vise meg frem-</p>
+      <p begin="00:29:36.630" end="00:29:39.064">-til verden s&#229; de vet hvem Charles Bradley er.</p>
+      <p begin="00:29:39.926" end="00:29:43.627">- Det er veldig spennende for oss som et plateselskap &#229; vise frem disse-</p>
+      <p begin="00:29:43.735" end="00:29:48.459">-pakkene, avtalene, og Charles passer perfekt som tilskuddd til-</p>
+      <p begin="00:29:48.566" end="00:29:51.951">-fremf&#248;ringene og vise han frem til s&#229; mange band-</p>
+      <p begin="00:29:51.951" end="00:29:53.779">-som har hatt suksess helt frem til n&#229;.</p>
+      <p begin="00:29:53.995" end="00:29:56.188">- Hvis vi drar et sted og f&#229;r bes&#248;k av tusen personer-</p>
+      <p begin="00:29:56.280" end="00:29:59.559">-som har kommet for &#229; se Sharon... Det &#229; f&#229; han p&#229; scenen-</p>
+      <p begin="00:29:59.682" end="00:30:02.230">-er en enorm tjuvstart.</p>
+      <p begin="00:30:02.938" end="00:30:05.211">S&#229; langt har Sharon Jones and the Dap-Kings v&#230;rt-</p>
+      <p begin="00:30:05.319" end="00:30:08.880">-v&#229;re mest produktive og suksessrike artister.</p>
+      <p begin="00:30:09.003" end="00:30:12.122">Artister har v&#230;rt med lenge, turnert mest, og har solgt-</p>
+      <p begin="00:30:12.230" end="00:30:13.853">-ti ganger s&#229; mange album.</p>
+      <p begin="00:30:14.088" end="00:30:23.039"/>
+      <p begin="00:30:23.039" end="00:30:26.088">- Han har ikke hatt et skikkelig show f&#248;r et &#229;r siden-</p>
+      <p begin="00:30:26.211" end="00:30:28.227">-og satt i sammenheng;</p>
+      <p begin="00:30:28.227" end="00:30:40.614">-han har ikke spilt s&#229; mange ganger som Charles Bradley.</p>
+      <p begin="00:30:40.614" end="00:30:43.035">- Det &#229; jobbe med Bradley live er litt stressende-</p>
+      <p begin="00:30:43.112" end="00:30:46.203">-fordi han kan ta av hvor som helst i en sang.</p>
+      <p begin="00:30:52.756" end="00:30:58.282">- Amerika. Vi m&#229; f&#229; dette rommet til &#229;... Vi m&#229; spille.</p>
+      <p begin="00:30:58.605" end="00:31:01.159">Kom igjen n&#229;.</p>
+      <p begin="00:31:01.886" end="00:31:04.218">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:31:04.218" end="00:31:06.146">&#9834; Dr&#248;mmer, dr&#248;mmer &#9834;</p>
+      <p begin="00:31:06.146" end="00:31:07.158">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:31:07.158" end="00:31:08.089">&#9834; Reis deg &#9834;</p>
+      <p begin="00:31:08.089" end="00:31:10.747">&#9834; Gj&#248;r det du skal, oooooh... &#9834;</p>
+      <p begin="00:31:10.931" end="00:31:13.135">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:31:13.135" end="00:31:15.151">&#9834; Dr&#248;mmer, dr&#248;mmer &#9834;</p>
+      <p begin="00:31:15.151" end="00:31:16.066">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:31:16.066" end="00:31:16.817">&#9834; Reis deg &#9834;</p>
+      <p begin="00:31:16.817" end="00:31:18.235">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:31:18.235" end="00:31:19.611">&#9834; Det du skal &#9834;</p>
+      <p begin="00:31:19.611" end="00:31:22.030">&#9834; Sov n&#229;r du sover &#9834;</p>
+      <p begin="00:31:22.030" end="00:31:24.074">&#9834; Lei av sakte kryping &#9834;</p>
+      <p begin="00:31:24.074" end="00:31:25.325">&#9834; V&#229;kn opp! &#9834;</p>
+      <p begin="00:31:25.325" end="00:31:28.412">&#9834; F&#248;r det er for sent &#9834;</p>
+      <p begin="00:31:28.412" end="00:31:30.956">&#9834; Pr&#248;v litt hardere &#9834;</p>
+      <p begin="00:31:30.956" end="00:31:32.958">&#9834; Ikke kast bort tiden &#9834;</p>
+      <p begin="00:31:32.958" end="00:31:34.376">&#9834; V&#229;kn opp! &#9834;</p>
+      <p begin="00:31:34.376" end="00:31:35.669">&#9834; Du f&#229;r din pause &#9834;</p>
+      <p begin="00:31:35.669" end="00:31:37.295">&#9834; Huh! &#9834;</p>
+      <p begin="00:31:37.295" end="00:31:39.548">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:31:39.548" end="00:31:41.383">&#9834; Dr&#248;mmer, dr&#248;mmer &#9834;</p>
+      <p begin="00:31:41.383" end="00:31:42.538">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:31:42.538" end="00:31:43.362">&#9834; Reis deg! &#9834;</p>
+      <p begin="00:31:43.362" end="00:31:44.803">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:31:44.803" end="00:31:46.517">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:31:46.517" end="00:31:48.379">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:31:48.379" end="00:31:50.296">&#9834; Dr&#248;mmer, dr&#248;mmer &#9834;</p>
+      <p begin="00:31:50.296" end="00:31:51.561">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:31:51.561" end="00:31:52.176">&#9834; Reis deg! &#9834;</p>
+      <p begin="00:31:52.176" end="00:31:53.262">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:31:53.262" end="00:31:54.185">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:31:54.185" end="00:31:55.188">&#9834; Hey... &#9834;</p>
+      <p begin="00:31:55.188" end="00:32:02.572"/>
+      <p begin="00:32:02.572" end="00:32:03.710">&#9834; Hey... &#9834;</p>
+      <p begin="00:32:03.710" end="00:32:05.449"/>
+      <p begin="00:32:05.449" end="00:32:06.992">&#9834; Man m&#229;... &#9834;</p>
+      <p begin="00:32:06.992" end="00:32:10.329">&#9834; Gi &#9834;</p>
+      <p begin="00:32:10.329" end="00:32:13.081">&#9834; Yeah &#9834;</p>
+      <p begin="00:32:13.081" end="00:32:14.751">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:32:14.751" end="00:32:16.835">&#9834; Dr&#248;mmer, dr&#248;mmer &#9834;</p>
+      <p begin="00:32:16.835" end="00:32:18.003">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:32:18.003" end="00:32:18.696">&#9834; Reis deg! &#9834;</p>
+      <p begin="00:32:18.696" end="00:32:20.214">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:32:20.214" end="00:32:21.002">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:32:21.002" end="00:32:23.800">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:32:23.800" end="00:32:25.510">&#9834; Dr&#248;mmer, dr&#248;mmer &#9834;</p>
+      <p begin="00:32:25.510" end="00:32:27.012">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:32:27.012" end="00:32:27.729">&#9834; Reis deg &#9834;</p>
+      <p begin="00:32:27.729" end="00:32:28.889">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:32:28.889" end="00:32:31.372">&#9834; Det du skal &#9834;</p>
+      <p begin="00:32:31.557" end="00:32:36.314">&#9834; Ingen tid til &#229; dr&#248;mme &#9834;</p>
+      <p begin="00:32:36.314" end="00:32:39.748">&#9834; Man m&#229; reise seg &#9834;</p>
+      <p begin="00:32:39.748" end="00:32:43.445">&#9834; Gj&#248;r det du skal &#9834;</p>
+      <p begin="00:32:43.445" end="00:32:45.194"/>
+      <p begin="00:32:45.194" end="00:32:45.781"/>
+      <p begin="00:32:45.781" end="00:32:47.916">- Jeg er glad i deg, Charles.</p>
+      <p begin="00:32:47.916" end="00:32:51.705">- Jeg er glad i deg ogs&#229;.</p>
+      <p begin="00:32:51.705" end="00:32:52.914">- Glad i deg, Charles.</p>
+      <p begin="00:32:52.914" end="00:32:54.456">- Glad i deg ogs&#229;.</p>
+      <p begin="00:32:54.456" end="00:32:56.875"/>
+      <p begin="00:32:56.875" end="00:33:01.157">- Charles Bradley, alle sammen.</p>
+      <p begin="00:33:02.448" end="00:33:06.598">Vis litt kj&#230;rlighet til Mr. Charles Bradley.</p>
+      <p begin="00:33:07.690" end="00:33:10.431">- Jada!</p>
+      <p begin="00:33:10.538" end="00:33:11.528">- Bedre enn forrige gang, ikke sant?</p>
+      <p begin="00:33:11.621" end="00:33:12.460">- Ja, det var det.</p>
+      <p begin="00:33:12.460" end="00:33:13.576">- Vi kj&#248;rte p&#229;.</p>
+      <p begin="00:33:13.637" end="00:33:14.542">- S&#229; vi vant.</p>
+      <p begin="00:33:14.635" end="00:33:15.480">- Det gjorde vi.</p>
+      <p begin="00:33:15.603" end="00:33:16.603">- Hvor lenge tok det?</p>
+      <p begin="00:33:16.603" end="00:33:18.478">- Jeg vet jeg gjorde noen tabber i kveld.</p>
+      <p begin="00:33:18.616" end="00:33:20.818">Men jeg har forbedret meg og jeg kjenner det.</p>
+      <p begin="00:33:20.941" end="00:33:22.948">Publikum s&#229; det ikke, men jeg vet det.</p>
+      <p begin="00:33:23.071" end="00:33:24.848">Men Tom vet om det.</p>
+      <p begin="00:33:25.156" end="00:33:28.084">Jeg var god p&#229; den siste sangen.</p>
+      <p begin="00:33:28.484" end="00:33:31.641">Jeg gj&#248;r feil av og til-</p>
+      <p begin="00:33:31.748" end="00:33:34.127">-men jeg blir bedre. Det kan jeg love deg.</p>
+      <p begin="00:33:34.389" end="00:33:37.651">- Vi kan ikke fatte at de ikke lot deg synge mer.</p>
+      <p begin="00:33:37.651" end="00:33:38.949">Vi ville h&#248;re mer.</p>
+      <p begin="00:33:38.949" end="00:33:41.928">Hvorfor kom du ikke tilbake p&#229; slutten?</p>
+      <p begin="00:33:42.543" end="00:33:43.547">Fortell henne.</p>
+      <p begin="00:33:43.547" end="00:33:44.506"/>
+      <p begin="00:33:44.506" end="00:33:46.574">- Jeg bryr meg ikke. Vi vil ha mer.</p>
+      <p begin="00:33:46.666" end="00:33:48.404">Mer av "Chuckie".</p>
+      <p begin="00:33:48.912" end="00:33:50.313">- Takk skal du ha.</p>
+      <p begin="00:33:50.390" end="00:33:51.315">Takk for det.</p>
+      <p begin="00:33:51.392" end="00:33:52.707">Du fikk frem de gode vibrasjonene i oss alle.</p>
+      <p begin="00:33:52.815" end="00:33:53.577">Takk.</p>
+      <p begin="00:33:53.669" end="00:33:55.631">- Du bl&#229;ste taket av huset.</p>
+      <p begin="00:33:55.816" end="00:33:58.677">- Utrolig. Du kommer til &#229; bli stor.</p>
+      <p begin="00:33:58.877" end="00:34:01.061">- Jeg forst&#229;r ikke helt hva folk mener med "diva"-</p>
+      <p begin="00:34:01.184" end="00:34:03.732">-fordi ordet kan bety feil.</p>
+      <p begin="00:34:03.793" end="00:34:04.862">- Men det er riktig for deg.</p>
+      <p begin="00:34:04.862" end="00:34:07.674">Det avhenger.</p>
+      <p begin="00:34:07.798" end="00:34:08.955">- Joda.</p>
+      <p begin="00:34:09.232" end="00:34:11.366">- Dette er ren kj&#230;rlighet; man m&#229; anse hva det kommer fra.</p>
+      <p begin="00:34:11.366" end="00:34:12.465">- Denne er din.</p>
+      <p begin="00:34:12.465" end="00:34:13.367">- Anse hva det kommer fra.</p>
+      <p begin="00:34:13.367" end="00:34:14.453">- Ha en fin uke.</p>
+      <p begin="00:34:14.453" end="00:34:17.521">- Charles? Hvordan staves Bradley?</p>
+      <p begin="00:34:17.521" end="00:34:20.460">- Hvordan staves "Bradley"?</p>
+      <p begin="00:34:20.460" end="00:34:21.965">- Bradley.</p>
+      <p begin="00:34:21.965" end="00:34:24.123">- E-Y?</p>
+      <p begin="00:34:24.230" end="00:34:24.970">- Riktig.</p>
+      <p begin="00:34:25.078" end="00:34:26.148">- Du har gnisten i deg.</p>
+      <p begin="00:34:29.593" end="00:34:30.561">- Glad i deg, Sharon.</p>
+      <p begin="00:34:30.669" end="00:34:31.699">- Glad i deg ogs&#229;.</p>
+      <p begin="00:34:31.776" end="00:34:35.165" region="top">- Du har funnet en god venn i meg. </p>
+      <p begin="00:34:35.165" end="00:34:37.539">- Jeg &#248;nsker det beste for deg og oss.</p>
+      <p begin="00:34:37.631" end="00:34:41.974">- Hvis jeg ikke ser deg helt p&#229; toppen, da ses vi i himmelen.</p>
+      <p begin="00:34:42.158" end="00:34:43.982">- Du kommer til &#229; se meg p&#229; toppen-</p>
+      <p begin="00:34:43.982" end="00:34:45.401">-og i himmelen.</p>
+      <p begin="00:34:45.401" end="00:34:47.575">Vi skal v&#230;re her nede ogs&#229;.</p>
+      <p begin="00:34:47.683" end="00:34:48.422">- Glad i deg.</p>
+      <p begin="00:34:48.530" end="00:34:49.757">- I deg ogs&#229;.</p>
+      <p begin="00:34:50.030" end="00:35:09.633"/>
+      <p begin="00:35:09.633" end="00:35:11.844">- Poughkeepsie.</p>
+      <p begin="00:35:13.059" end="00:35:17.141">- Jeg skal bes&#248;ke noen gamle venner jeg ikke har sett p&#229; &#229;revis.</p>
+      <p begin="00:35:17.141" end="00:35:19.559"/>
+      <p begin="00:35:19.559" end="00:35:25.315"/>
+      <p begin="00:35:25.315" end="00:35:27.506">- Jeg h&#229;pet at dere var her fortsatt.</p>
+      <p begin="00:35:27.506" end="00:35:29.235">- Vi er her fortsatt.</p>
+      <p begin="00:35:29.235" end="00:35:32.649">Her lukter det godt!</p>
+      <p begin="00:35:32.649" end="00:35:35.143">- Hva skjer, kompis? Hvordan g&#229;r det?</p>
+      <p begin="00:35:35.143" end="00:35:36.623">- Det har v&#230;rt lenge siden. Se p&#229; deg da.</p>
+      <p begin="00:35:36.623" end="00:35:38.277">- Ja. Du ser bra ut.</p>
+      <p begin="00:35:38.277" end="00:35:39.789">- Det gj&#248;r du ogs&#229;.</p>
+      <p begin="00:35:39.789" end="00:35:42.040">Er det Jackie?</p>
+      <p begin="00:35:42.040" end="00:35:44.251">Se p&#229; henne!</p>
+      <p begin="00:35:44.251" end="00:35:46.675">Hvordan g&#229;r det?</p>
+      <p begin="00:35:48.397" end="00:35:49.383" region="top">Jeg kjenner han her... </p>
+      <p begin="00:35:49.383" end="00:35:53.616" region="top">Jeg kjenner Ernie Washington siden 1968. </p>
+      <p begin="00:35:53.616" end="00:35:55.095" region="top">- Vet du hva hun lette etter? </p>
+      <p begin="00:35:55.095" end="00:35:55.660" region="top">- Hva? </p>
+      <p begin="00:35:55.660" end="00:35:56.825" region="top">- Husker du den kappen du brukte? </p>
+      <p begin="00:35:56.825" end="00:35:59.182">- Du sang en James Brown-sang-</p>
+      <p begin="00:35:59.182" end="00:36:01.268">-og du kastet av deg kappen.</p>
+      <p begin="00:36:01.268" end="00:36:04.841">Og jeg husker ikke om en av oss gikk og plukket den opp-</p>
+      <p begin="00:36:04.841" end="00:36:07.112">-og la den p&#229; skulderen din.</p>
+      <p begin="00:36:07.235" end="00:36:08.138">- Jo, jeg husker det!</p>
+      <p begin="00:36:08.138" end="00:36:09.109">- Ja, da.</p>
+      <p begin="00:36:09.109" end="00:36:10.030">- Jeg husker det.</p>
+      <p begin="00:36:10.030" end="00:36:11.383">- Akkurat.</p>
+      <p begin="00:36:11.460" end="00:36:13.392">Du visste ikke at du skulle komme s&#229; langt, eller hva?</p>
+      <p begin="00:36:13.515" end="00:36:16.567">- Gud. Jeg takker Gud for at jeg ikke ga opp.</p>
+      <p begin="00:36:16.675" end="00:36:17.568">- Takk Gud.</p>
+      <p begin="00:36:17.676" end="00:36:18.704">- F&#229; snakke med Tom.</p>
+      <p begin="00:36:18.781" end="00:36:24.243">Si at Tom skal sette herr og fru Washington p&#229; gjestelisten.</p>
+      <p begin="00:36:24.720" end="00:36:25.831">Jeg fant kompisene mine.</p>
+      <p begin="00:36:26.047" end="00:36:27.523">De er s&#229; klart familien min.</p>
+      <p begin="00:36:27.692" end="00:36:31.754">Vi holder kontakten, og vi er atskilt s&#229; lenge, men til slutt-</p>
+      <p begin="00:36:31.862" end="00:36:32.790">-s&#229; finner jeg de.</p>
+      <p begin="00:36:32.790" end="00:36:33.363">- Akkurat.</p>
+      <p begin="00:36:33.363" end="00:36:34.197">- Vet du det, Jackie?</p>
+      <p begin="00:36:34.197" end="00:36:35.631">- Vi har v&#230;rt venner sv&#230;rt lenge.</p>
+      <p begin="00:36:35.631" end="00:36:37.020">- Ja, herregud.</p>
+      <p begin="00:36:37.958" end="00:36:40.386">Jeg f&#229;r g&#229;sehud n&#229;r jeg tenker p&#229; det.</p>
+      <p begin="00:36:40.510" end="00:36:42.545">Jeg ser dere senere. Vi ses i kveld.</p>
+      <p begin="00:36:42.545" end="00:36:44.309">- Ta vare p&#229; deg, ogs&#229; ses vi i kveld.</p>
+      <p begin="00:36:44.309" end="00:36:45.688">- Okey, kompis.</p>
+      <p begin="00:36:47.196" end="00:36:51.122">Herregud, der kom minnene frem.</p>
+      <p begin="00:36:54.459" end="00:36:55.824">P&#229; "South Road"...</p>
+      <p begin="00:36:55.824" end="00:37:01.724">Jeg bodde i det huset der og det var sn&#248;storm.</p>
+      <p begin="00:37:01.724" end="00:37:02.788">Jeg ringte p&#229; jobb og sa at jeg var syk-</p>
+      <p begin="00:37:02.788" end="00:37:06.045">-og at jeg ikke kunne dra fordi det var s&#229; mye sn&#248;-</p>
+      <p begin="00:37:06.045" end="00:37:08.960">S&#229; han svarte at jeg-</p>
+      <p begin="00:37:08.960" end="00:37:10.920">-ikke skulle komme tilbake igjen.</p>
+      <p begin="00:37:10.920" end="00:37:14.699">Jeg svarte at jeg ikke ville miste jobben og leiligheten min. Jeg m&#229;tte jo-</p>
+      <p begin="00:37:14.712" end="00:37:15.763">-betale husleien.</p>
+      <p begin="00:37:15.776" end="00:37:19.022">S&#229; jeg gikk ut og begynte &#229; haike.</p>
+      <p begin="00:37:19.036" end="00:37:21.131">Haike.</p>
+      <p begin="00:37:21.162" end="00:37:23.322">Plutselig stoppet en fyr.</p>
+      <p begin="00:37:23.430" end="00:37:24.853">Han stoppet og jeg ble med.</p>
+      <p begin="00:37:24.945" end="00:37:29.243">Han kj&#248;rte cirka 2-3 km, og s&#229; dukket politiet opp-</p>
+      <p begin="00:37:29.243" end="00:37:31.885">-med sirene p&#229;, og han ble stoppet.</p>
+      <p begin="00:37:31.885" end="00:37:37.043">Han ville se f&#248;rerkortet.</p>
+      <p begin="00:37:38.012" end="00:37:39.613">"Hvem er det som sitter der ved siden av deg?"</p>
+      <p begin="00:37:39.613" end="00:37:41.410">Jeg svarte at det m&#229;tte han ikke sp&#248;rre meg om.</p>
+      <p begin="00:37:41.410" end="00:37:42.577">"Det m&#229; du sp&#248;rre han om".</p>
+      <p begin="00:37:42.577" end="00:37:45.780">Han tok tak i meg og satte p&#229; meg h&#229;ndjern og sa: "Din lure neger".</p>
+      <p begin="00:37:45.964" end="00:37:47.708">Han r&#248;sket i meg, kastet meg mot bilen-</p>
+      <p begin="00:37:47.708" end="00:37:49.293">-og satte h&#229;ndjern p&#229; meg.</p>
+      <p begin="00:37:49.293" end="00:37:51.473">Han sa at han skulle ta meg med uti skogen og kverke meg.</p>
+      <p begin="00:37:51.627" end="00:37:53.760">"Ikke k&#248;dd med meg n&#229;r jeg sp&#248;r deg om noe".</p>
+      <p begin="00:37:53.898" end="00:37:57.488">Jeg sto der en stund, og s&#229; kom parteren hans dit-</p>
+      <p begin="00:37:57.611" end="00:37:59.940">-og tok han med til siden og sa noe til han.</p>
+      <p begin="00:38:00.760" end="00:38:03.379">Og partneren hans sa unnskyld til meg.</p>
+      <p begin="00:38:03.610" end="00:38:06.659">Han tok av meg h&#229;ndjernet og ba meg g&#229; tilbake til bilen og fortsette.</p>
+      <p begin="00:38:06.797" end="00:38:07.833">Og jeg dro av g&#229;rde.</p>
+      <p begin="00:38:09.372" end="00:38:10.856">S&#229; dro jeg til en bitteliten pizzabutikk.</p>
+      <p begin="00:38:10.856" end="00:38:12.774">Liten pizzabutikk.</p>
+      <p begin="00:38:12.774" end="00:38:14.298">Jeg satte meg ned og tenkte at jeg ikke klarte mer.</p>
+      <p begin="00:38:14.298" end="00:38:15.844">Det holdt p&#229; &#229; g&#229; galt.</p>
+      <p begin="00:38:16.782" end="00:38:21.317">Jeg pr&#248;vde &#229; finne ut hvordan jeg skulle komme meg ut av kroppen min-</p>
+      <p begin="00:38:21.345" end="00:38:22.458">-hvis jeg kunne gj&#248;re det raskt-</p>
+      <p begin="00:38:22.486" end="00:38:26.737">-uten &#229; skade meg og s&#248;rge for at jeg ikke gjorde en tabbe-</p>
+      <p begin="00:38:26.921" end="00:38:28.892">-og overlevde med en lidelse.</p>
+      <p begin="00:38:29.076" end="00:38:32.760">Hvis en lastebil treffer meg s&#229; d&#248;r jeg, men hvis en bil treffer meg-</p>
+      <p begin="00:38:32.781" end="00:38:33.863">-s&#229; overlever jeg.</p>
+      <p begin="00:38:33.883" end="00:38:36.175">Og jeg fors&#248;kte &#229; manne meg opp til &#229; gj&#248;re det.</p>
+      <p begin="00:38:37.110" end="00:38:40.769">Plutselig dukker en fyr opp og putter penger p&#229; jukeboksen-</p>
+      <p begin="00:38:40.954" end="00:38:45.044">-og han spilte sangen "Take It to the Limit".</p>
+      <p begin="00:38:46.028" end="00:38:48.439">Det virket som at Gud snakket til meg.</p>
+      <p begin="00:38:48.546" end="00:38:53.912">Jeg var helt knust. Da jeg h&#248;rte sangen, begynte jeg &#229; gr&#229;te.</p>
+      <p begin="00:38:54.128" end="00:38:56.943">Og han sa:</p>
+      <p begin="00:38:56.943" end="00:38:59.238">"Det g&#229;r bra, unge mann. Det g&#229;r bra".</p>
+      <p begin="00:38:59.238" end="00:39:01.984">Jeg reiste meg og gikk nedover veien.</p>
+      <p begin="00:39:04.618" end="00:39:23.889"/>
+      <p begin="00:39:23.889" end="00:39:28.242">&#9834; Ai-ai...&#9834;</p>
+      <p begin="00:39:28.242" end="00:39:32.354">&#9834; Elsker deg, baby &#9834;</p>
+      <p begin="00:39:32.354" end="00:39:38.988">&#9834; Kan ikke f&#229; nok av deg, baby &#9834;</p>
+      <p begin="00:39:38.988" end="00:39:43.532">&#9834; Kan ikke f&#229; nok av deg &#9834;</p>
+      <p begin="00:39:43.532" end="00:39:49.432">&#9834; Jeg gr&#229;t da jeg kjente din kj&#230;rlighet &#9834;</p>
+      <p begin="00:39:52.017" end="00:39:55.955">&#9834; Denne gangen vet jeg det er ekte &#9834;</p>
+      <p begin="00:39:56.140" end="00:40:02.571">&#9834; Jeg... &#9834;</p>
+      <p begin="00:40:02.571" end="00:40:09.002"/>
+      <p begin="00:40:10.356" end="00:40:11.603">Skru ned volumet litt, gutter.</p>
+      <p begin="00:40:12.772" end="00:40:17.555">Mine damer og herrer, hvem enn dere m&#229;tte v&#230;re...</p>
+      <p begin="00:40:20.185" end="00:40:28.861">Jeg bodde her. Jeg kom hit i 1968.</p>
+      <p begin="00:40:30.075" end="00:40:33.834">Jeg bodde her i ni &#229;r.</p>
+      <p begin="00:40:35.464" end="00:40:38.697">Dette er som mitt hjem.</p>
+      <p begin="00:40:38.928" end="00:40:40.745">S&#229; jeg gir dere all min kj&#230;rlighet.</p>
+      <p begin="00:40:41.929" end="00:40:45.271">Skru ned litt, gutter.</p>
+      <p begin="00:40:46.548" end="00:40:50.179">Jeg jobbet i en liten by som heter Poughkeepsie.</p>
+      <p begin="00:40:51.148" end="00:40:56.689">Jeg jobbet p&#229; et lite senter og jeg var kokk for 3500 mennesker hver dag.</p>
+      <p begin="00:40:57.780" end="00:41:00.239">Det er en venn av meg her inne; to venner som jeg vet-</p>
+      <p begin="00:41:00.332" end="00:41:02.964">-var kompiser med meg da jeg kom hit.</p>
+      <p begin="00:41:03.701" end="00:41:07.639">Og de heter herr og fru Washington.</p>
+      <p begin="00:41:07.778" end="00:41:10.524">Ernest Washington, jeg ser deg ikke. Hvor er du?</p>
+      <p begin="00:41:10.709" end="00:41:14.055">Men takk, broder, for turen.</p>
+      <p begin="00:41:14.854" end="00:41:16.971">Takk, Jackie.</p>
+      <p begin="00:41:18.141" end="00:41:21.134">Takk for vennskapet gjennom alle &#229;rene.</p>
+      <p begin="00:41:21.273" end="00:41:23.033">Og alle dere der ute.</p>
+      <p begin="00:41:23.248" end="00:41:26.501">&#9834; Glad i deg &#9834;</p>
+      <p begin="00:41:26.655" end="00:41:31.556"/>
+      <p begin="00:41:31.556" end="00:41:35.644">&#9834; Glad i deg &#9834;</p>
+      <p begin="00:41:35.644" end="00:41:37.564">&#9834; Ser du det? &#9834;</p>
+      <p begin="00:41:37.564" end="00:41:39.523">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:41:39.523" end="00:41:42.986">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:41:42.986" end="00:41:48.395">Takk, mine damer og herrer. Jeg er glad i dere.</p>
+      <p begin="00:42:03.455" end="00:42:05.455">- Jeg s&#229; deg p&#229; YouTube, ogs&#229;.</p>
+      <p begin="00:42:06.809" end="00:42:09.877">S&#229;nn ble jeg kjent med storheten til Charles Bradley.</p>
+      <p begin="00:42:10.877" end="00:42:12.070">- Takk s&#229; mye.</p>
+      <p begin="00:42:12.208" end="00:42:13.507">Det var en flott kveld.</p>
+      <p begin="00:42:14.769" end="00:42:16.039">- Det var det virkelig.</p>
+      <p begin="00:42:16.239" end="00:42:17.975">- Og du gjorde den ekstra spesiell.</p>
+      <p begin="00:42:18.074" end="00:42:19.605">- Det er spesielt; veldig spesielt.</p>
+      <p begin="00:42:19.712" end="00:42:20.944">Tusen takk.</p>
+      <p begin="00:42:21.037" end="00:42:21.684">- Gud velsigne deg.</p>
+      <p begin="00:42:21.776" end="00:42:22.688">- Takk.</p>
+      <p begin="00:42:23.093" end="00:42:24.620">- Dette er nev&#248;en v&#229;r, Cain.</p>
+      <p begin="00:42:24.758" end="00:42:26.162">- Takk for at du kom hit.</p>
+      <p begin="00:42:26.270" end="00:42:28.182">- Du velsignet Poughkeepsie i kveld.</p>
+      <p begin="00:42:28.321" end="00:42:29.187">- Takk.</p>
+      <p begin="00:42:29.310" end="00:42:30.862">- Ta vare p&#229; deg selv.</p>
+      <p begin="00:42:31.001" end="00:42:33.234">- Takk for at du kom tilbake for bare en kveld.</p>
+      <p begin="00:42:34.219" end="00:42:36.383">- Jeg m&#229; kjenne litt p&#229; &#248;yeblikket.</p>
+      <p begin="00:42:36.521" end="00:42:38.733">Jeg gikk ned og snakket med folk.</p>
+      <p begin="00:42:39.010" end="00:42:40.137">Jeg ble r&#248;rt.</p>
+      <p begin="00:42:40.353" end="00:42:42.431">Jeg tenkte at jeg m&#229;tte la det ligge. Det ble litt for dypt.</p>
+      <p begin="00:42:42.570" end="00:42:43.495">"Kom deg vekk".</p>
+      <p begin="00:42:43.648" end="00:42:46.115">Jeg m&#229;tte g&#229; fordi jeg ble r&#248;rt.</p>
+      <p begin="00:42:46.300" end="00:42:50.862">Men det er det fine med Ernest og Jackie.</p>
+      <p begin="00:42:51.016" end="00:42:52.109">J&#248;ss.</p>
+      <p begin="00:42:52.325" end="00:42:56.160">Dette var f&#248;rste gang de s&#229; meg opptre p&#229; mange &#229;r.</p>
+      <p begin="00:43:00.687" end="00:43:08.141"/>
+      <p begin="00:43:08.141" end="00:43:10.986">- Her ble broren min drept.</p>
+      <p begin="00:43:13.401" end="00:43:16.454">Det er grunnen til at jeg ikke liker &#229; komme hit.</p>
+      <p begin="00:43:16.454" end="00:43:21.742" region="top">- Han gikk ned og s&#229; meg gr&#229;te. </p>
+      <p begin="00:43:21.742" end="00:43:22.997" region="top">Han spurte hva som var galt. </p>
+      <p begin="00:43:22.997" end="00:43:24.892" region="top">Jeg sa at han skulle g&#229; til naboen. </p>
+      <p begin="00:43:24.892" end="00:43:27.153" region="top">Charles, broren din er d&#248;d. </p>
+      <p begin="00:43:29.369" end="00:43:31.290" region="top">Han sa at det ikke kunne v&#230;re sant. </p>
+      <p begin="00:43:31.290" end="00:43:32.733" region="top">Jo, sa jeg. </p>
+      <p begin="00:43:32.733" end="00:43:38.160" region="top">S&#229; hele nabolaget ble fylt med politifolk med rifler og pistoler. </p>
+      <p begin="00:43:38.268" end="00:43:40.601">- Jeg ser ut gjennom vinduet og ser alt av politi-</p>
+      <p begin="00:43:40.693" end="00:43:42.926">-og brannbilene og sykebilene utenfor.</p>
+      <p begin="00:43:43.019" end="00:43:47.037">S&#229; jeg gikk ut for &#229; se p&#229; det.</p>
+      <p begin="00:43:47.160" end="00:43:52.394">Jeg s&#229; ordet "likhus", og n&#229;r det st&#229;r det s&#229;...</p>
+      <p begin="00:43:53.378" end="00:43:56.952">Jeg gikk ut for &#229; g&#229; til broren min-</p>
+      <p begin="00:43:56.952" end="00:43:58.870">-men de ville ikke slippe meg inn.</p>
+      <p begin="00:43:58.870" end="00:44:01.010">Jeg sa at det var broen min, og at de ikke kunne stoppe meg.</p>
+      <p begin="00:44:01.179" end="00:44:02.580">S&#229; jeg dyttet de til side.</p>
+      <p begin="00:44:02.873" end="00:44:06.023">Men jeg &#248;nsker at jeg ikke hadde gjort det.</p>
+      <p begin="00:44:06.731" end="00:44:09.496" region="top">- De tok han med inn i bilen. </p>
+      <p begin="00:44:09.619" end="00:44:12.635" region="top">Jeg spurte om &#229; f&#229; pistolen til politiet. </p>
+      <p begin="00:44:12.789" end="00:44:15.465" region="top">Jeg sa at jeg skulle bl&#229;se hjernen ut av hodet hans. </p>
+      <p begin="00:44:15.465" end="00:44:16.939" region="top">Han sa at han ikke kunne gj&#248;re det. </p>
+      <p begin="00:44:16.939" end="00:44:21.810" region="top">Jeg sa at det var bra fordi- </p>
+      <p begin="00:44:21.866" end="00:44:25.804" region="top">Han ranet s&#248;nnen min for alt av penger. </p>
+      <p begin="00:44:25.850" end="00:44:28.412" region="top">Jeg sa at jeg skulle kverke han. </p>
+      <p begin="00:44:28.412" end="00:44:31.945" region="top">Og jeg mente det ogs&#229;. Ja, da. </p>
+      <p begin="00:44:33.390" end="00:44:34.874" region="top">Jeg er glad i gutten min. </p>
+      <p begin="00:44:34.874" end="00:44:36.158" region="top">Ja. </p>
+      <p begin="00:44:36.158" end="00:44:37.289" region="top">Jeg er glad i han. </p>
+      <p begin="00:44:37.289" end="00:44:38.845" region="top">Sov videre, gutt. </p>
+      <p begin="00:44:39.985" end="00:44:41.310" region="top">Gud elsker deg, men mamma... </p>
+      <p begin="00:44:41.448" end="00:44:46.140" region="top">Jeg mener; mamma elsker deg, men Gud elsker deg best og gir deg evig hvile. </p>
+      <p begin="00:44:46.810" end="00:44:49.187" region="top">En dag m&#248;tes vi ved tronen. </p>
+      <p begin="00:44:49.480" end="00:44:51.422" region="top">Ja, det skal vi, s&#248;nn. </p>
+      <p begin="00:44:52.668" end="00:44:57.963">- Jeg tror Charles var avhengig av Joseph akkurat som moren var avhengig av han.</p>
+      <p begin="00:45:00.117" end="00:45:03.672">Charles mistet nesten vettet da Joseph d&#248;de.</p>
+      <p begin="00:45:05.610" end="00:45:10.572">Han sa at han skulle komme til bunns i det.</p>
+      <p begin="00:45:13.079" end="00:45:15.850">- Jeg &#248;nsker &#229; finne ut hvorfor han ble drept.</p>
+      <p begin="00:45:15.958" end="00:45:17.556">Han var altfor ung.</p>
+      <p begin="00:45:18.709" end="00:45:21.417">Han ble 48 &#229;r gammel.</p>
+      <p begin="00:45:22.878" end="00:45:29.159"/>
+      <p begin="00:45:29.359" end="00:45:30.732">- Der har du mikrofonen.</p>
+      <p begin="00:45:32.378" end="00:45:35.760">Vil du spille denne eller vil du pr&#248;ve en annen?</p>
+      <p begin="00:45:35.760" end="00:45:38.579">- Vi kan pr&#248;ve...</p>
+      <p begin="00:45:38.579" end="00:45:41.188">- Du gj&#248;r alltid s&#229;nn.</p>
+      <p begin="00:45:41.341" end="00:45:44.193">- Vil du spille "Heartaches and Pain"?</p>
+      <p begin="00:45:48.772" end="00:46:02.999"/>
+      <p begin="00:46:03.030" end="00:46:06.981">- "Heartaches and Pain" er uten tvil den dypeste sangen p&#229; albumet v&#229;rt-</p>
+      <p begin="00:46:07.134" end="00:46:12.159">-og den var nok den tredje sangen vi skrev sammen.</p>
+      <p begin="00:46:12.282" end="00:46:16.425">Charles fortalte meg om broren hans, og han sa at-</p>
+      <p begin="00:46:16.563" end="00:46:20.207">-han ville skrive en sang om Joseph.</p>
+      <p begin="00:46:20.346" end="00:46:23.662">Jeg sa at jeg skulle hjelpe han med det, som en venn.</p>
+      <p begin="00:46:24.245" end="00:46:26.758">Jeg spurte han om den sangen han har spilt-</p>
+      <p begin="00:46:28.367" end="00:46:30.106">Den sangen skulle v&#230;re melodien til sangen om Joseph.</p>
+      <p begin="00:46:30.306" end="00:46:33.230">Jeg tok med Charles og la til et par ting.</p>
+      <p begin="00:46:33.230" end="00:46:34.488">Et par akkord-progresjoner.</p>
+      <p begin="00:46:34.488" end="00:46:36.488">"Dette er sangen om broen din, Charles".</p>
+      <p begin="00:46:36.827" end="00:46:39.765">Og han begynte med det han bruker &#229; gj&#248;re; begynte &#229; rope og l&#248;pe rundt.</p>
+      <p begin="00:46:39.842" end="00:46:42.420">"Dette er vakkert, herregud".</p>
+      <p begin="00:46:42.697" end="00:46:48.531">Vi begynte &#229; jobbe med sangen, og det var sv&#230;rt vanskelig.</p>
+      <p begin="00:46:48.685" end="00:46:56.936">Det er en veldig personlig, dyp og m&#248;rk historie om broren hans.</p>
+      <p begin="00:46:57.059" end="00:46:59.069">En eldre bror som han beundret og var glad i.</p>
+      <p begin="00:46:59.208" end="00:47:01.147">Som han f&#248;lte han m&#229;tte fortelle.</p>
+      <p begin="00:47:01.301" end="00:47:25.261"/>
+      <p begin="00:47:28.337" end="00:47:34.298">- Husl&#229;net er ganske tungt for meg, og jeg mener det ikke er rettferdig.</p>
+      <p begin="00:47:34.467" end="00:47:37.172">Jeg har aldri glemt en betaling, fordi hvis jeg gjorde det-</p>
+      <p begin="00:47:37.295" end="00:47:39.660">-skulle de g&#229; opp til 18% p&#229; renten.</p>
+      <p begin="00:47:39.798" end="00:47:42.071">Jeg har pr&#248;vd &#229; f&#229;tt det refinansiert.</p>
+      <p begin="00:47:42.210" end="00:47:44.098">De sier at jeg ikke tjener nok penger.</p>
+      <p begin="00:47:44.344" end="00:47:48.846">Jeg spurte om hvordan det g&#229;r an siden jeg betaler-</p>
+      <p begin="00:47:48.939" end="00:47:51.318">-p&#229; et stort husl&#229;n hele tiden. Jeg g&#229;r jo ut og tjener penger-</p>
+      <p begin="00:47:51.487" end="00:47:55.521">-for &#229; holde det g&#229;ende.</p>
+      <p begin="00:47:56.090" end="00:47:57.943">- Da Joseph d&#248;de-</p>
+      <p begin="00:47:57.943" end="00:48:04.964">-tok Charles ansvar for moren-</p>
+      <p begin="00:48:04.964" end="00:48:05.734">-fordi ingen ville gj&#248;re det.</p>
+      <p begin="00:48:06.442" end="00:48:09.914">Charles ga mye av hans egne penger-</p>
+      <p begin="00:48:09.996" end="00:48:13.118">-slik at hun kunne bo der hun bodde.</p>
+      <p begin="00:48:13.426" end="00:48:19.502">Jeg vil si at han er i ferd med &#229; kj&#248;pe dette huset til moren sin.</p>
+      <p begin="00:48:20.425" end="00:48:25.461">Og de eldre s&#248;skene som bor der-</p>
+      <p begin="00:48:25.800" end="00:48:27.510">-vil ikke ha han der.</p>
+      <p begin="00:48:27.618" end="00:48:39.116">Han er mest ansvarlig for &#229; ta vare p&#229; s&#248;steren min.</p>
+      <p begin="00:48:43.286" end="00:48:47.237"/>
+      <p begin="00:48:48.303" end="00:48:49.552">- Hallo?</p>
+      <p begin="00:48:50.398" end="00:48:51.680">- Ja?</p>
+      <p begin="00:48:53.357" end="00:48:55.131">- Hvordan g&#229;r det, Paul?</p>
+      <p begin="00:48:56.546" end="00:49:01.861">Hun... Hvis hun ikke er... Hun er ikke i stand til &#229;... &#197; refinansiere...</p>
+      <p begin="00:49:01.999" end="00:49:04.951">&#197; refinansiere huset, at hun m&#229; vente-</p>
+      <p begin="00:49:05.120" end="00:49:08.111">-to m&#229;neder til skatten.</p>
+      <p begin="00:49:08.434" end="00:49:11.670">N&#229;r skatten kommer vil hun at jeg skal gi opp leiligheten min-</p>
+      <p begin="00:49:11.670" end="00:49:13.463">-men jeg vil ikke gj&#248;re det.</p>
+      <p begin="00:49:13.463" end="00:49:16.238">Og da m&#229; jeg flytte inn hos mamma.</p>
+      <p begin="00:49:17.540" end="00:49:20.740">Fordi denne leiligheten er, som jeg sa, det stedet jeg-</p>
+      <p begin="00:49:20.863" end="00:49:22.571">-drar til n&#229;r jeg blir deprimert, og det er bare her jeg kan v&#230;re da.</p>
+      <p begin="00:49:22.571" end="00:49:27.281">Det er bare jeg som er her.</p>
+      <p begin="00:49:27.281" end="00:49:30.127">Men samme hva du bestemmer deg for, fordi du pr&#248;ver jo bare &#229; hjelpe meg.</p>
+      <p begin="00:49:30.220" end="00:49:31.411">Og det setter jeg pris p&#229;.</p>
+      <p begin="00:49:31.996" end="00:49:32.788">Greit, Paul.</p>
+      <p begin="00:49:32.865" end="00:49:33.464">Takk skal du ha.</p>
+      <p begin="00:49:33.541" end="00:49:34.218">Greit.</p>
+      <p begin="00:49:36.418" end="00:49:37.786">Hva gjenst&#229;r for meg &#229; gj&#248;re?</p>
+      <p begin="00:49:37.878" end="00:49:39.092">Dette er livet mitt.</p>
+      <p begin="00:49:39.323" end="00:49:40.261">Ta livet mitt.</p>
+      <p begin="00:49:40.384" end="00:49:43.015">Noen ganger sp&#248;r jeg om Gud kan hente meg.</p>
+      <p begin="00:49:43.122" end="00:49:47.703">Hver dag g&#229;r jeg ut og strever, og for &#229; holde &#230;rligheten-</p>
+      <p begin="00:49:47.857" end="00:49:51.311">-og anstendigheten til et menneske som g&#229;r p&#229; jorden og elsker-</p>
+      <p begin="00:49:51.434" end="00:49:55.135">-alle som Gud har bedt deg om &#229; elske alle.</p>
+      <p begin="00:49:55.858" end="00:49:59.353">Men n&#229;r jeg tenker p&#229; det s&#229; er det en svakhet.</p>
+      <p begin="00:49:59.923" end="00:50:05.079">Hvor mye m&#229; man gi f&#248;r man finner kj&#230;rlighet her p&#229; jorda?</p>
+      <p begin="00:50:05.202" end="00:50:07.281">Hvor mye mer kan man gi?</p>
+      <p begin="00:50:07.574" end="00:50:12.191">"Fader, n&#229;r tiden er inne..."</p>
+      <p begin="00:50:12.376" end="00:50:14.094">"Da er jeg klar til &#229; dra".</p>
+      <p begin="00:50:14.707" end="00:50:17.243">S&#229;nn tenker jeg om livet.</p>
+      <p begin="00:50:22.797" end="00:50:26.103">F&#248;r jeg forlater denne verden, skal folk vite at-</p>
+      <p begin="00:50:26.580" end="00:50:28.450">-ingen kan forandre meg.</p>
+      <p begin="00:50:28.589" end="00:50:30.905">Jeg bryr meg ikke om hva du gir meg.</p>
+      <p begin="00:50:31.013" end="00:50:36.131">Ingen penger kan gj&#248;re noe med denkj&#230;rligheten jeg har for Gud i mitt hjerte</p>
+      <p begin="00:50:36.670" end="00:50:38.397">Jeg er glad i alle.</p>
+      <p begin="00:50:38.535" end="00:50:41.098">Jeg skader ingen.</p>
+      <p begin="00:50:42.251" end="00:50:45.831">Jeg pr&#248;ver bare &#229; leve.</p>
+      <p begin="00:50:45.877" end="00:50:49.023"/>
+      <p begin="00:50:49.561" end="00:50:54.802">&#9834; Hvorfor er det s&#229; vanskelig? &#9834;</p>
+      <p begin="00:50:55.125" end="00:51:04.856">&#9834; &#197; klare seg i Amerika? &#9834;</p>
+      <p begin="00:51:04.856" end="00:51:06.822">&#9834; Jeg sa til meg selv &#9834;</p>
+      <p begin="00:51:06.822" end="00:51:10.639">&#9834; Jeg m&#229; dra herfra &#9834;</p>
+      <p begin="00:51:11.099" end="00:51:15.761">- Jeg og Homer reiste rundt i Europa med "Sharon Jones and the Dap-kings".</p>
+      <p begin="00:51:15.780" end="00:51:18.591">Og vi gikk ut en kveld og m&#248;tte noen jenter i Paris.</p>
+      <p begin="00:51:18.591" end="00:51:19.668">Og de spurte oss:</p>
+      <p begin="00:51:19.668" end="00:51:25.025">"Er Sharon Jones like stor i Amerika som hun er i Frankrike?"</p>
+      <p begin="00:51:25.163" end="00:51:27.289">Vi svarte: "Nei, nei".</p>
+      <p begin="00:51:27.381" end="00:51:28.545">Ingen visste om Sharon Jones.</p>
+      <p begin="00:51:28.652" end="00:51:31.016">Dette skjedde for flere &#229;r siden, og ingen i Amerika visste om henne da.</p>
+      <p begin="00:51:31.062" end="00:51:33.845">Vi spilte i Brooklyn, og i sm&#229; klubber, men p&#229; den tiden-</p>
+      <p begin="00:51:33.845" end="00:51:37.120">-spilte vi p&#229; st&#248;rre scener i Paris.</p>
+      <p begin="00:51:37.120" end="00:51:40.040">Det var en mye st&#248;rre ting i Europa.</p>
+      <p begin="00:51:40.040" end="00:51:43.705">S&#229; det endte med at vi skrev en sang den kvelden som het:</p>
+      <p begin="00:51:43.705" end="00:51:47.618">"Why Is It So Hard To Make It In America?"</p>
+      <p begin="00:51:47.772" end="00:51:52.676">Med en gang Charles begynte &#229; synge p&#229; den sangen-</p>
+      <p begin="00:51:52.800" end="00:51:56.926">-skulle sangens mening endre seg totalt.</p>
+      <p begin="00:51:57.079" end="00:51:59.193"/>
+      <p begin="00:51:59.193" end="00:52:11.071">&#9834; Hvorfor er det s&#229; vanskelig &#229; klare seg i Amerika? &#9834;</p>
+      <p begin="00:52:11.071" end="00:52:14.158">&#9834; Jeg pr&#248;ver &#9834;</p>
+      <p begin="00:52:14.158" end="00:52:29.798">&#9834; S&#229; hardt for &#229; klare meg i Amerika &#9834;</p>
+      <p begin="00:52:29.798" end="00:52:33.969">&#9834; Hvorfor? &#9834;</p>
+      <p begin="00:52:33.969" end="00:52:36.430">&#9834; Fortell meg &#9834;</p>
+      <p begin="00:52:36.430" end="00:52:43.562">&#9834; Vi m&#229; gj&#248;re en forandring i Amerika &#9834;</p>
+      <p begin="00:52:43.562" end="00:52:47.232">&#9834; Noen m&#229; hjelpe meg &#9834;</p>
+      <p begin="00:52:47.232" end="00:52:52.696">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:52:52.696" end="00:53:01.059"/>
+      <p begin="00:53:01.059" end="00:53:01.997">- Kom hit.</p>
+      <p begin="00:53:01.997" end="00:53:02.917">- Kom n&#229;.</p>
+      <p begin="00:53:02.917" end="00:53:03.505">Kom igjen.</p>
+      <p begin="00:53:03.843" end="00:53:05.239">Kom hit, Nicky.</p>
+      <p begin="00:53:05.439" end="00:53:06.633">Du vil ikke? Okey.</p>
+      <p begin="00:53:06.756" end="00:53:08.315">Du vil ikke.</p>
+      <p begin="00:53:08.476" end="00:53:09.945">Greit. Jeg lar deg v&#230;re i fred.</p>
+      <p begin="00:53:09.945" end="00:53:13.754">Jeg har hatt han helt siden jeg bodde i San Francisco.</p>
+      <p begin="00:53:13.862" end="00:53:15.740">Jeg dro til et fugleshow.</p>
+      <p begin="00:53:15.955" end="00:53:19.821">Jeg trengte ikke &#229; kj&#248;pe en fugl, fordi da jeg var barn-</p>
+      <p begin="00:53:19.959" end="00:53:24.446">-hadde jeg en kylling som kj&#230;ledyr.</p>
+      <p begin="00:53:24.676" end="00:53:28.218">Jeg oppdro den fra da han var bitte liten-</p>
+      <p begin="00:53:28.480" end="00:53:30.636">-og den visste seg &#229; bli til en vakker h&#248;ne.</p>
+      <p begin="00:53:30.775" end="00:53:33.409">Og den pleide &#229; sove med meg og det var en vakker h&#248;ne.</p>
+      <p begin="00:53:34.040" end="00:53:38.895">En dag... Jeg hadde hatt han i minst to &#229;r.</p>
+      <p begin="00:53:39.095" end="00:53:43.774">En dag kom tante p&#229; bes&#248;k, og jeg gikk ut og kyllingen brukte alltid &#229; v&#230;re-</p>
+      <p begin="00:53:43.881" end="00:53:48.099">-ved oppkj&#248;rselen for &#229; se etter meg; for at jeg skulle plukke han opp.</p>
+      <p begin="00:53:48.418" end="00:53:50.436">Men han var ikke der den dagen.</p>
+      <p begin="00:53:50.590" end="00:53:53.023">Jeg sa: "Hvor er kyllingen min?"</p>
+      <p begin="00:53:53.038" end="00:53:55.090">Det er ingen som vet om kyllingen min n&#229;.</p>
+      <p begin="00:53:55.228" end="00:53:57.154">"Tante Lily, hvor er kyllingen min?"</p>
+      <p begin="00:53:57.154" end="00:54:00.320">Hun sa: "J&#248;ss, disse kyllingene er s&#229; tamme".</p>
+      <p begin="00:54:00.413" end="00:54:02.116">Jeg svarte: "Hvor er kyllingen min?"</p>
+      <p begin="00:54:02.269" end="00:54:05.219">Hun sa: "Jeg steker den i ovnen akkurat n&#229;".</p>
+      <p begin="00:54:05.435" end="00:54:07.677">Og i ovnen ser jeg kyllingen min.</p>
+      <p begin="00:54:07.846" end="00:54:09.955">Jeg tok han ut.</p>
+      <p begin="00:54:10.109" end="00:54:13.756">Jeg gravde et hull, puttet han i det og satte et kors over det.</p>
+      <p begin="00:54:13.894" end="00:54:16.166">Og jeg begynte &#229; gr&#229;te.</p>
+      <p begin="00:54:16.351" end="00:54:18.768">Bestemoren min kom og sa:</p>
+      <p begin="00:54:18.768" end="00:54:20.544">"Det var denne guttens kylling".</p>
+      <p begin="00:54:20.544" end="00:54:22.153">Hun sa at hun ikke burde ha drept den.</p>
+      <p begin="00:54:22.153" end="00:54:23.625">Hun sa at hun ikke visste det.</p>
+      <p begin="00:54:23.794" end="00:54:27.359">De ga meg seks fugler men jeg sa at jeg ikke ville ha det.</p>
+      <p begin="00:54:27.451" end="00:54:29.114">Jeg ville ha kyllingen min tilbake.</p>
+      <p begin="00:54:29.222" end="00:54:33.839">S&#229; det som fikk meg hekta p&#229; den fuglen... En eller annen gang-</p>
+      <p begin="00:54:33.993" end="00:54:35.873">-skal jeg skaffe meg en av de fuglene de.</p>
+      <p begin="00:54:36.949" end="00:54:40.573"/>
+      <p begin="00:54:40.711" end="00:54:42.008">Beklager.</p>
+      <p begin="00:54:43.008" end="00:54:43.866">- Greit.</p>
+      <p begin="00:54:43.974" end="00:54:45.879">Jeg skal definitivt se p&#229; det.</p>
+      <p begin="00:54:46.448" end="00:54:48.146">Greit, Tommy.</p>
+      <p begin="00:54:49.469" end="00:54:50.952">Side seks?</p>
+      <p begin="00:54:51.382" end="00:54:52.700">&#197;ja. Greit, Tommy.</p>
+      <p begin="00:54:54.638" end="00:54:55.850">Greit.</p>
+      <p begin="00:54:56.527" end="00:54:58.386">Jeg skylder s&#229; mye.</p>
+      <p begin="00:54:58.493" end="00:55:01.461">Dere er...</p>
+      <p begin="00:55:01.615" end="00:55:02.475">Jeg ser deg senere.</p>
+      <p begin="00:55:02.690" end="00:55:04.212">Der har du barnebarnet ditt.</p>
+      <p begin="00:55:05.580" end="00:55:06.891">Den er god.</p>
+      <p begin="00:55:07.030" end="00:55:12.093">Tommy sa at de fikk meg frem p&#229; side seks i "The Post".</p>
+      <p begin="00:55:12.724" end="00:55:17.279">Gud, vis n&#229;de.</p>
+      <p begin="00:55:18.002" end="00:55:19.650">Hva skal jeg si?</p>
+      <p begin="00:55:20.635" end="00:55:35.965"/>
+      <p begin="00:55:35.965" end="00:55:37.791">Har du... Har du avisa?</p>
+      <p begin="00:55:38.007" end="00:55:39.220">Har du den?</p>
+      <p begin="00:55:40.250" end="00:55:43.648">Han har den ikke.</p>
+      <p begin="00:55:43.909" end="00:56:09.846"/>
+      <p begin="00:56:10.062" end="00:56:11.224">Fy flate!</p>
+      <p begin="00:56:13.916" end="00:56:15.637">Herregud.</p>
+      <p begin="00:56:16.149" end="00:56:19.258"/>
+      <p begin="00:56:19.258" end="00:56:23.665">Ja, herregud.</p>
+      <p begin="00:56:23.788" end="00:56:25.137">Se p&#229; dette.</p>
+      <p begin="00:56:25.260" end="00:56:28.287">J&#248;ss. Jeg er i avisa.</p>
+      <p begin="00:56:29.086" end="00:56:30.036">- Herregud.</p>
+      <p begin="00:56:30.098" end="00:56:31.816">- Hva gj&#248;r du?</p>
+      <p begin="00:56:31.923" end="00:56:33.903">- Det der er meg.</p>
+      <p begin="00:56:35.965" end="00:56:42.064">Jeg takker Gud for dette. Herregud.</p>
+      <p begin="00:56:42.448" end="00:56:46.582">- Han har strevet veldig mye-</p>
+      <p begin="00:56:46.706" end="00:56:49.686">-men han kommer til &#229; klare seg.</p>
+      <p begin="00:56:49.809" end="00:56:52.087">Vi har snakket i &#229;revis.</p>
+      <p begin="00:56:52.410" end="00:56:54.522">Jeg ser p&#229; han og jeg sier til meg selv:</p>
+      <p begin="00:56:55.215" end="00:56:56.765">"Han er der etter at han ber".</p>
+      <p begin="00:56:56.888" end="00:56:58.015">- Er han i avisa?</p>
+      <p begin="00:56:58.123" end="00:56:58.633">- Ja.</p>
+      <p begin="00:56:58.756" end="00:56:59.597">- Er han?</p>
+      <p begin="00:56:59.689" end="00:57:00.577">- Ja.</p>
+      <p begin="00:57:01.177" end="00:57:03.536">- Jeg sitter her og snakker ogs&#229; er du i avisa?</p>
+      <p begin="00:57:03.613" end="00:57:04.589">- Ja, akkurat der.</p>
+      <p begin="00:57:04.712" end="00:57:06.156">- Herregud.</p>
+      <p begin="00:57:07.218" end="00:57:09.423">- Tom, du kunne ha fortalt meg om det.</p>
+      <p begin="00:57:09.516" end="00:57:12.013">- Det var ikke s&#229; lenge siden jeg fant det ut selv.</p>
+      <p begin="00:57:12.136" end="00:57:15.091">- Det var det jeg sa, baby.</p>
+      <p begin="00:57:17.030" end="00:57:18.538">Du vet jeg er glad i deg.</p>
+      <p begin="00:57:19.184" end="00:57:20.211">- Du sa det til meg.</p>
+      <p begin="00:57:20.334" end="00:57:21.163">- Jeg sa det til deg.</p>
+      <p begin="00:57:21.270" end="00:57:22.463">- Det er n&#229; det skjer.</p>
+      <p begin="00:57:23.380" end="00:57:28.475">Ha troen og aldri gi deg. Du er der n&#229;.</p>
+      <p begin="00:57:28.921" end="00:57:29.955">Hva bekymrer du deg for?</p>
+      <p begin="00:57:30.262" end="00:57:32.079">Du har v&#230;rt der og n&#229; er det gjort.</p>
+      <p begin="00:57:32.079" end="00:57:33.167">- Gratulerer.</p>
+      <p begin="00:57:33.244" end="00:57:34.226">- Gud har v&#230;rt god.</p>
+      <p begin="00:57:34.241" end="00:57:37.430">Og hvis man gr&#229;ter med hevet hodet, s&#229; er det en god gr&#229;t-</p>
+      <p begin="00:57:37.553" end="00:57:38.883">-fordi han har deg fortsatt.</p>
+      <p begin="00:57:40.467" end="00:57:42.444">- Jeg er glad i deg broder, og jeg kommer aldri til &#229; glemme.</p>
+      <p begin="00:57:42.623" end="00:57:49.863"/>
+      <p begin="00:57:50.201" end="00:57:54.349">I kveld skal jeg opptre helt alene.</p>
+      <p begin="00:57:57.427" end="00:58:01.627">Mye har endelig skjedd, og jeg h&#229;per at alle der ute-</p>
+      <p begin="00:58:01.734" end="00:58:05.339">-kommer og viser sin st&#248;tte.</p>
+      <p begin="00:58:09.697" end="00:58:11.522">- Dette er en av mine beste venner.</p>
+      <p begin="00:58:11.814" end="00:58:13.208">- Greit?</p>
+      <p begin="00:58:13.485" end="00:58:15.127">- Du kommer i kveld.</p>
+      <p begin="00:58:15.250" end="00:58:18.030">Du sier alltid at du kommer.</p>
+      <p begin="00:58:19.153" end="00:58:22.663">Dette er det stedet, f&#248;r de pusset det opp-</p>
+      <p begin="00:58:22.817" end="00:58:26.810">-hvor jeg levde i to og et halvt &#229;r.</p>
+      <p begin="00:58:26.995" end="00:58:29.867">Det ble forlatt og er n&#229; en kirke.</p>
+      <p begin="00:58:30.237" end="00:58:32.602">Han som eide det, solgte det og de pusset det opp.</p>
+      <p begin="00:58:33.279" end="00:58:35.792">Dette var mitt hjem en gang i tiden-</p>
+      <p begin="00:58:35.930" end="00:58:40.740">-og dette er Jose. Han er er mannen som ga meg-</p>
+      <p begin="00:58:40.864" end="00:58:44.119">-elektrisistet og fikk hjulene mine til &#229; g&#229; i rundt.</p>
+      <p begin="00:58:44.380" end="00:58:46.515">Det er derfor vi er s&#229; n&#230;re venner den dag i dag.</p>
+      <p begin="00:58:46.715" end="00:58:51.858"/>
+      <p begin="00:58:51.966" end="00:58:56.542" region="top">I kveld finner jeg ut om jeg klarer &#229; kjempe videre. </p>
+      <p begin="00:58:56.726" end="00:58:58.250" region="top">Har jeg det i meg? </p>
+      <p begin="00:58:59.387" end="00:59:00.950" region="top">Det er det jeg ser etter. </p>
+      <p begin="00:59:04.135" end="00:59:05.288">Liker du "Rhythm &amp;amp; Blues"?</p>
+      <p begin="00:59:05.288" end="00:59:06.150">- Gj&#248;r jeg?</p>
+      <p begin="00:59:06.150" end="00:59:07.322">- Bli med i kveld, da.</p>
+      <p begin="00:59:07.322" end="00:59:08.848">Vi skal spille bra musikk.</p>
+      <p begin="00:59:09.122" end="00:59:11.184">- Og jeg h&#229;per &#229; bringe frem noen gode minner.</p>
+      <p begin="00:59:11.292" end="00:59:12.862">- Greit. Takk skal du ha.</p>
+      <p begin="00:59:12.954" end="00:59:13.989">- Hva heter du?</p>
+      <p begin="00:59:14.112" end="00:59:14.898">- Andrea.</p>
+      <p begin="00:59:15.006" end="00:59:15.846">- S&#248;steren min heter Andrea Laura.</p>
+      <p begin="00:59:15.954" end="00:59:16.886">- Ser man det.</p>
+      <p begin="00:59:16.932" end="00:59:17.793">- &#197;h.</p>
+      <p begin="00:59:17.932" end="00:59:18.977">- Hva er mellomnavnet hennes?</p>
+      <p begin="00:59:19.085" end="00:59:20.702">- Hun heter Andrea Laura Bradley.</p>
+      <p begin="00:59:20.702" end="00:59:23.197">- Jeg heter Andrea Lauren. Kom igjen.</p>
+      <p begin="00:59:23.597" end="00:59:25.128">- Det var meningen at vi skulle m&#248;tes.</p>
+      <p begin="00:59:25.266" end="00:59:26.290">- Ja, og jeg liker lilla.</p>
+      <p begin="00:59:26.397" end="00:59:27.274">- Herregud.</p>
+      <p begin="00:59:27.350" end="00:59:28.130">- Dette er en bra dag.</p>
+      <p begin="00:59:28.207" end="00:59:29.125">- Gud velsigne deg, kj&#230;re.</p>
+      <p begin="00:59:30.447" end="00:59:35.890">Jeg har strevet med musikken min i 47 &#229;r, og jeg h&#229;per-</p>
+      <p begin="00:59:36.044" end="00:59:38.528">-at dette er tingen for meg.</p>
+      <p begin="00:59:38.774" end="00:59:43.182">Jeg h&#229;per dette er sjansen til &#229; vise det til verden og at verden liker det.</p>
+      <p begin="00:59:44.750" end="00:59:48.172" region="top">- De fleste kunne ha gitt opp og bare ikke gjort noe. </p>
+      <p begin="00:59:48.310" end="00:59:49.403" region="top">Bare finn deg til rette i en jobb. </p>
+      <p begin="00:59:49.526" end="00:59:51.608" region="top">Han har bare kj&#248;rt i vei og spilt musikk. </p>
+      <p begin="00:59:52.285" end="00:59:55.696">- Det er vanskelig &#229; starte en karriere i 30-&#229;rene.</p>
+      <p begin="00:59:55.911" end="00:59:58.695">Det at noen i 60-&#229;rene gj&#248;r det er ganske sykt.</p>
+      <p begin="00:59:59.142" end="01:00:00.095">- Flott. H&#248;res bra ut.</p>
+      <p begin="01:00:00.187" end="01:00:01.664">- Liker dere "Rhythm &amp;amp; Blues"?</p>
+      <p begin="01:00:01.756" end="01:00:03.484">Vi har allerede billetter.</p>
+      <p begin="01:00:03.484" end="01:00:04.857">- Kom igjen.</p>
+      <p begin="01:00:04.887" end="01:00:05.880"/>
+      <p begin="01:00:05.880" end="01:00:11.995"/>
+      <p begin="01:00:11.995" end="01:00:17.041">Jeg leter etter noe ekstra til dressen min.</p>
+      <p begin="01:00:17.041" end="01:00:20.105">Jeg skal fikse litt p&#229; den f&#248;r albumet gis ut.</p>
+      <p begin="01:00:22.319" end="01:00:26.197">Det er vakkert.</p>
+      <p begin="01:00:26.367" end="01:00:27.069">- Takk, broder.</p>
+      <p begin="01:00:27.100" end="01:00:28.093">- Greit, sjef.</p>
+      <p begin="01:00:28.293" end="01:00:29.348">- Ha en fin dag.</p>
+      <p begin="01:00:29.456" end="01:00:30.357">- Takk.</p>
+      <p begin="01:00:34.234" end="01:00:36.749">- Det jeg gj&#248;r n&#229;r jeg ser noe jeg liker-</p>
+      <p begin="01:00:36.749" end="01:00:39.746">-og det koster mye penger og jeg ikke har r&#229;d til det-</p>
+      <p begin="01:00:39.746" end="01:00:44.501">-og hvis jeg ser noe jeg liker i en bruktbutikk-</p>
+      <p begin="01:00:44.501" end="01:00:46.271">-da sier jeg: "Det der er bra".</p>
+      <p begin="01:00:46.271" end="01:00:49.798">S&#229; da kj&#248;per jeg det to og to sammen.</p>
+      <p begin="01:00:49.798" end="01:00:54.559">Men kanskje det ikke ser ut som den kvaliteten jeg er ute etter.</p>
+      <p begin="01:00:54.559" end="01:00:57.990">Den delen der er en...</p>
+      <p begin="01:01:01.589" end="01:01:07.186">Se p&#229; denne delen. Dette er den delen... Jeg kj&#248;pte meg en t-skjorte-</p>
+      <p begin="01:01:07.263" end="01:01:12.330">-og skj&#230;rte den ut, satte den p&#229; bak der for at den skulle se annerledes ut.</p>
+      <p begin="01:01:14.022" end="01:01:15.710">Jeg syr p&#229; en krage.</p>
+      <p begin="01:01:15.880" end="01:01:19.680">Det er som en h&#229;ndkrage...</p>
+      <p begin="01:01:19.803" end="01:01:22.512">Og jeg syr krager p&#229; beina ogs&#229;.</p>
+      <p begin="01:01:27.512" end="01:01:30.522">- Jeg h&#229;per det blir en bra kveld... At noen folk dukker opp.</p>
+      <p begin="01:01:30.629" end="01:01:33.313">Han har et rom han kan opptre i og ser lyst p&#229; albumet-</p>
+      <p begin="01:01:33.313" end="01:01:35.177">-fordi vi har gode forh&#229;pninger.</p>
+      <p begin="01:01:35.177" end="01:01:39.514"/>
+      <p begin="01:01:39.514" end="01:01:44.606"/>
+      <p begin="01:01:44.606" end="01:01:49.788">- J&#248;ss. Utsolgt.</p>
+      <p begin="01:01:52.403" end="01:01:53.363">Herregud...</p>
+      <p begin="01:01:53.363" end="01:01:54.833">- Det er akkurat det jeg snakker om.</p>
+      <p begin="01:01:54.833" end="01:01:56.615">Ingen tid til &#229; dr&#248;mme, gi en applaus til-</p>
+      <p begin="01:01:56.615" end="01:02:02.954">Mr. Charles Bradley.</p>
+      <p begin="01:02:02.954" end="01:02:05.824">- Jeg var p&#229; gjestelisten og jeg jobbet for plateselskapet.</p>
+      <p begin="01:02:05.824" end="01:02:09.354">Og de som spilte i bandet m&#229;tte vente ute i-</p>
+      <p begin="01:02:09.354" end="01:02:11.945">-cirka 25 minutter f&#248;r jeg kunne g&#229; inn.</p>
+      <p begin="01:02:12.068" end="01:02:13.544">Det var utsolgt.</p>
+      <p begin="01:02:13.651" end="01:02:17.844"/>
+      <p begin="01:02:17.844" end="01:02:37.460"/>
+      <p begin="01:02:37.460" end="01:02:40.515">Mine damer og herrer, vi har en spesiell dame i huset.</p>
+      <p begin="01:02:40.515" end="01:02:41.857">Det er moren min.</p>
+      <p begin="01:02:41.934" end="01:02:44.243">Moren min er her et sted.</p>
+      <p begin="01:02:44.496" end="01:02:47.089"/>
+      <p begin="01:02:47.089" end="01:02:48.475">Mamma!</p>
+      <p begin="01:02:49.244" end="01:02:50.749">Mamma!</p>
+      <p begin="01:02:51.996" end="01:02:54.215">Se rundt bak der.</p>
+      <p begin="01:02:54.215" end="01:02:56.051">Jeg tror det der er mamma.</p>
+      <p begin="01:02:56.189" end="01:03:00.059">Men hun ga meg en start.</p>
+      <p begin="01:03:00.273" end="01:03:09.022"/>
+      <p begin="01:03:09.022" end="01:03:19.532">&#9834; Ohhh... &#9834;</p>
+      <p begin="01:03:19.532" end="01:03:21.241">&#9834; G&#229; tilbake &#9834;</p>
+      <p begin="01:03:21.241" end="01:03:24.872">&#9834; G&#229; tilbake til den gylne regel &#9834;</p>
+      <p begin="01:03:24.872" end="01:03:27.581">&#9834; Gylne regel &#9834;</p>
+      <p begin="01:03:27.581" end="01:03:29.373">&#9834; G&#229; tilbake &#9834;</p>
+      <p begin="01:03:29.373" end="01:03:32.783">&#9834; G&#229; tilbake til den gylne regel &#9834;</p>
+      <p begin="01:03:32.783" end="01:03:36.674">&#9834; Gylne regel &#9834;</p>
+      <p begin="01:03:36.674" end="01:03:42.160">La meg f&#229; si en ting.</p>
+      <p begin="01:03:42.899" end="01:03:49.624">Dere skapte den jeg er i dag.</p>
+      <p begin="01:03:50.300" end="01:03:52.827">Takk s&#229; mye.</p>
+      <p begin="01:03:54.150" end="01:04:01.611">Jeg takker dere og h&#229;per jeg kan gidere kj&#230;rlighet, anstendighet og &#230;rlighet.</p>
+      <p begin="01:04:01.826" end="01:04:15.962"/>
+      <p begin="01:04:15.962" end="01:04:21.677">&#9834; Owww... &#9834;</p>
+      <p begin="01:04:21.677" end="01:04:25.348">&#9834; Hva skal jeg gj&#248;re? &#9834;</p>
+      <p begin="01:04:25.348" end="01:04:29.018">&#9834; Hva skal jeg si? &#9834;</p>
+      <p begin="01:04:29.018" end="01:04:34.650">&#9834; Yeah... &#9834;</p>
+      <p begin="01:04:34.650" end="01:04:48.162"/>
+      <p begin="01:04:48.162" end="01:04:51.473">Hva kan jeg sp&#248;rre om akkurat n&#229;?</p>
+      <p begin="01:04:51.857" end="01:04:53.228">Gud er virkelig.</p>
+      <p begin="01:04:53.228" end="01:04:56.872">Med all den kj&#230;rligheten rundt meg-</p>
+      <p begin="01:04:56.964" end="01:04:58.506">-som rekker til mitt hjerte-</p>
+      <p begin="01:04:58.506" end="01:05:00.048">-og gir alle en bit av det, og jeg sier "Jeg er glad i dere".</p>
+      <p begin="01:05:00.725" end="01:05:02.192">- Det er en av de mer spesielle opptredener i &#229;r.</p>
+      <p begin="01:05:03.053" end="01:05:06.708">Livet mitt ble totalt forandret.</p>
+      <p begin="01:05:06.815" end="01:05:08.173">- Det er smittsomt.</p>
+      <p begin="01:05:08.866" end="01:05:11.133">Han er s&#229; glad i det han driver med.</p>
+      <p begin="01:05:11.210" end="01:05:12.754">Han er forelsket i publikum.</p>
+      <p begin="01:05:12.877" end="01:05:14.101">Hvordan g&#229;r det an &#229; ikke like det?</p>
+      <p begin="01:05:14.424" end="01:05:17.419">- N&#229;r han sier at han er glad i oss, da kan man f&#248;le det.</p>
+      <p begin="01:05:17.635" end="01:05:18.629">- Fantastisk.</p>
+      <p begin="01:05:18.737" end="01:05:22.537">Jeg tok med min venn fra Italia, og hva tror han?</p>
+      <p begin="01:05:22.706" end="01:05:23.838">- Utrolig.</p>
+      <p begin="01:05:24.577" end="01:05:27.780">- Jeg tror lokalet var litt for lite for dem.</p>
+      <p begin="01:05:28.149" end="01:05:32.722">Mange har ikke m&#248;tt opp og det er jo trist.</p>
+      <p begin="01:05:32.906" end="01:05:36.485">Men all den gleden og kj&#230;rligheten de ga meg, det var dem.</p>
+      <p begin="01:05:36.792" end="01:05:37.990">Herregud.</p>
+      <p begin="01:05:38.190" end="01:05:39.683">De ville ha mer.</p>
+      <p begin="01:05:39.822" end="01:05:42.397">Jeg kunne se det p&#229; dem.</p>
+      <p begin="01:05:42.520" end="01:05:45.311">Det fikk t&#229;rene til &#229; renne.</p>
+      <p begin="01:05:45.545" end="01:06:11.202"/>
+      <p begin="01:06:11.418" end="01:06:13.028">Gud, v&#230;r n&#229;dig.</p>
+      <p begin="01:06:19.252" end="01:06:23.636">Aaaahhhhh!!!</p>
+      <p begin="01:06:23.636" end="01:06:26.885">Jeg visste ikke at albumet skulle gj&#248;re det s&#229; bra s&#229; fort.</p>
+      <p begin="01:06:27.700" end="01:06:29.346">Folk kjenner han ikke s&#229; godt-</p>
+      <p begin="01:06:29.346" end="01:06:31.890">-og dette er salgene fra en som akkurat har utgitt sitt debutalbum-</p>
+      <p begin="01:06:31.890" end="01:06:33.100">-som ikke s&#229; mange kjenner til.</p>
+      <p begin="01:06:33.100" end="01:06:35.602">Det er utrolig.</p>
+      <p begin="01:06:35.602" end="01:06:42.009"/>
+      <p begin="01:06:42.147" end="01:06:45.153">Vi er mot alle odds n&#229;r vi tror at en 62-&#229;rig-</p>
+      <p begin="01:06:45.153" end="01:06:48.824">afro-amerikansk mann fra Bedstock i Brooklyn-</p>
+      <p begin="01:06:48.824" end="01:06:51.035">-gir ut sin f&#248;rste plate og som-</p>
+      <p begin="01:06:51.035" end="01:06:55.665">-selger i l&#248;pet av de f&#248;rste par ukene mer enn de fleste plater-</p>
+      <p begin="01:06:55.665" end="01:06:58.834">-gj&#248;r i l&#248;pet av et &#229;r.</p>
+      <p begin="01:06:58.834" end="01:07:03.764"/>
+      <p begin="01:07:03.918" end="01:07:05.362">- Jeg tror ikke det er ferdig enn&#229;.</p>
+      <p begin="01:07:05.470" end="01:07:06.638">Jeg tror ikke det er lett.</p>
+      <p begin="01:07:06.776" end="01:07:08.560">Jeg tror flere kommer til &#229; kj&#248;pe albumet.</p>
+      <p begin="01:07:08.667" end="01:07:10.631">Han kommer til &#229; opptre mer.</p>
+      <p begin="01:07:10.739" end="01:07:12.079">Han kommer til &#229; lage flere album.</p>
+      <p begin="01:07:12.187" end="01:07:14.820">Det er en lang vei.</p>
+      <p begin="01:07:14.973" end="01:07:16.474">Og han har startet seint.</p>
+      <p begin="01:07:20.310" end="01:07:23.854">- Det er over all forventning at det skulle g&#229; s&#229; fort.</p>
+      <p begin="01:07:23.993" end="01:07:25.215">Jeg tror ikke det stanser med det f&#248;rste.</p>
+      <p begin="01:07:25.338" end="01:07:27.368">Jeg tror ikke vi har sett de st&#248;rste salgene enn&#229;.</p>
+      <p begin="01:07:31.535" end="01:07:35.155">Ahhh!</p>
+      <p begin="01:07:35.155" end="01:07:37.221">- Gud, v&#230;r n&#229;dig.</p>
+      <p begin="01:07:37.328" end="01:07:38.287" region="top">- Ja. </p>
+      <p begin="01:07:38.410" end="01:07:39.713" region="top">- Herregud! </p>
+      <p begin="01:07:42.605" end="01:07:46.952">- Vi skal p&#229; turne i Europa, og jeg h&#229;per at-</p>
+      <p begin="01:07:47.106" end="01:07:50.577">-Europa vil elske det jeg gj&#248;r, og det jeg gir dem.</p>
+      <p begin="01:07:51.546" end="01:07:56.220">N&#229; g&#229;r det ikke an &#229; f&#229; det renere.</p>
+      <p begin="01:07:57.235" end="01:07:58.757">- Hvor lenge blir du borte?</p>
+      <p begin="01:07:59.126" end="01:08:00.093">- Tre uker.</p>
+      <p begin="01:08:00.093" end="01:08:00.775">- Tre uker?</p>
+      <p begin="01:08:00.775" end="01:08:01.549">- Ja.</p>
+      <p begin="01:08:01.549" end="01:08:02.912">- Jeg kommer til &#229; savne deg.</p>
+      <p begin="01:08:02.912" end="01:08:04.906">- Du er i mitt hjerte.</p>
+      <p begin="01:08:05.029" end="01:08:06.786">Jeg skal ringe deg hver tredje dag.</p>
+      <p begin="01:08:06.924" end="01:08:07.880">- Greit, kj&#230;re.</p>
+      <p begin="01:08:13.310" end="01:08:15.430">- Jeg er en slem gutt.</p>
+      <p begin="01:08:15.569" end="01:08:17.070">Du kan ikke kaste vann p&#229; meg n&#229;.</p>
+      <p begin="01:08:17.486" end="01:08:19.296">Du har ikke noe vann.</p>
+      <p begin="01:08:23.195" end="01:08:25.144">Jeg skal kile deg.</p>
+      <p begin="01:08:27.457" end="01:08:28.865">Jeg kan kile deg n&#229;.</p>
+      <p begin="01:08:28.865" end="01:08:39.527"/>
+      <p begin="01:08:39.711" end="01:08:41.817">Min mor sa i dag at...</p>
+      <p begin="01:08:42.140" end="01:08:45.254">Hun trodde aldri jeg skulle komme s&#229; langt.</p>
+      <p begin="01:09:01.818" end="01:09:06.830">Jeg har lyst til &#229; se hvor langt jeg kan komme.</p>
+      <p begin="01:09:07.937" end="01:09:13.170">Kan jeg komme lengre enn noen av de i familien?</p>
+      <p begin="01:09:13.585" end="01:09:16.133">Jeg brakte meg hit.</p>
+      <p begin="01:09:17.441" end="01:09:19.466">Alle sammen, se opp.</p>
+      <p begin="01:09:19.589" end="01:09:22.876">En gammel mann kommer og han gj&#248;r jobben bedre enn dere.</p>
+      <p begin="01:09:23.060" end="01:09:24.835">Hvis ikke s&#229; gj&#248;r jeg den for deg.</p>
+      <p begin="01:10:21.791" end="01:10:24.010">- Vil du jobbe med sangen fra forrige uke?</p>
+      <p begin="01:10:24.148" end="01:10:25.229">- Hvem av de?</p>
+      <p begin="01:10:25.367" end="01:10:26.862">- "I Thank You"</p>
+      <p begin="01:10:26.986" end="01:10:52.255"/>
+      <p begin="01:10:52.394" end="01:10:54.959">- Han kommer til bunns i det.</p>
+      <p begin="01:10:55.082" end="01:11:04.246"/>
+      <p begin="01:11:04.246" end="01:11:07.062">Ahh!</p>
+      <p begin="01:11:07.062" end="01:11:08.836">S&#229;nn er jeg.</p>
+      <p begin="01:11:21.449" end="01:11:24.273">Woooooo.</p>
+      <p begin="01:11:24.725" end="01:11:58.065"/>
+      <p begin="01:11:58.065" end="01:12:00.084">- N&#229;r jeg forlater denne verden, skylder den meg ingenting.</p>
+      <p begin="01:12:00.223" end="01:12:01.745">- Gi tilbake pengene.</p>
+      <p begin="01:12:04.392" end="01:12:05.962">- G&#229; vekk.</p>
+      <p begin="01:12:06.089" end="01:12:07.791">- Gi tilbake pengene.</p>
+      <p begin="01:12:08.810" end="01:12:17.605"/>
+      <p begin="01:12:17.605" end="01:12:18.666">- Passet mitt... Vent n&#229; litt...</p>
+      <p begin="01:12:18.804" end="01:12:39.516"/>
+      <p begin="01:12:39.655" end="01:12:41.596">- Spar p&#229; hummeren din.</p>
+      <p begin="01:12:43.227" end="01:12:46.111">- Jimmy, du spiser ikke hummer. Du gir den alltid til meg.</p>
+      <p begin="01:12:46.280" end="01:12:47.576">- Jeg begynner &#229; spise den i kveld.</p>
+      <p begin="01:12:47.791" end="01:13:09.549"/>
+      <p begin="01:13:09.796" end="01:13:13.704">- Det der var min mynt. Det s&#229; jeg.</p>
+      <p begin="01:13:13.811" end="01:13:14.871">- Jeg plukket den opp.</p>
+      <p begin="01:13:15.025" end="01:14:07.858"/>
+    </div>
+  </body>
+
+</tt>

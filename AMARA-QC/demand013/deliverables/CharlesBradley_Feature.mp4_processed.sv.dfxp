@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="sv">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:18,147" end="00:00:22,407">Ett, tv&#229;. Ett, tv&#229;, tre, fyr</p>
+      <p begin="00:00:22,537" end="00:00:23,457"/>
+      <p begin="00:00:23,582" end="00:00:25,691">Om du tycker om James Browns musik </p>
+      <p begin="00:00:25,691" end="00:00:27,585">kommer du ha riktigt roligt ikv&#228;ll.</p>
+      <p begin="00:00:27,585" end="00:00:29,761">Ikv&#228;ll firar vi Black Velvet,</p>
+      <p begin="00:00:29,761" end="00:00:33,850">James Brown Jr.'s 62:a f&#246;delsedag</p>
+      <p begin="00:00:33,852" end="00:00:36,442" region="top"> Whoo, 62!</p>
+      <p begin="00:00:36,472" end="00:00:38,502" region="top"> S&#229; ge en varm appl&#229;d</p>
+      <p begin="00:00:38,526" end="00:00:39,758" region="top"> till den h&#228;r unge mannen</p>
+      <p begin="00:00:39,758" end="00:00:41,545" region="top"> som &#228;r p&#229; v&#228;g upp p&#229; scenen</p>
+      <p begin="00:00:41,545" end="00:00:43,690">Han har varit p&#229; David Letterman Show,</p>
+      <p begin="00:00:43,690" end="00:00:45,777">H&#228;lsa honom v&#228;lkommen med en stor appl&#229;d</p>
+      <p begin="00:00:45,777" end="00:00:49,963">Black Velvet, James Brown, Jr!</p>
+      <p begin="00:00:49,963" end="00:00:52,279"/>
+      <p begin="00:00:52,279" end="00:00:53,952"/>
+      <p begin="00:00:53,952" end="00:00:59,249">&#9834; Det &#228;r en mans v&#228;rld. &#9834;</p>
+      <p begin="00:00:59,249" end="00:01:05,556">&#9834; Men den &#228;r inget, inget... &#9834;</p>
+      <p begin="00:01:05,556" end="00:01:06,715">- Jag har spelat James Brown</p>
+      <p begin="00:01:06,715" end="00:01:13,956">sen jag var 14 &#229;r gammal.</p>
+      <p begin="00:01:13,956" end="00:01:16,475"/>
+      <p begin="00:01:16,475" end="00:01:17,935"/>
+      <p begin="00:01:17,945" end="00:01:21,265"/>
+      <p begin="00:01:21,265" end="00:01:25,855"/>
+      <p begin="00:01:25,855" end="00:01:29,767">Men nu vill jag vara Charles Bradley.</p>
+      <p begin="00:01:29,767" end="00:01:52,445"/>
+      <p begin="00:01:52,599" end="00:01:54,471" region="top"> Min f&#246;rsta skiva med egna l&#229;tar</p>
+      <p begin="00:01:54,471" end="00:01:58,132" region="top"> sl&#228;pps den 25:e januari.</p>
+      <p begin="00:01:58,132" end="00:02:01,271">Jag har k&#228;mpat i &#246;ver 42 &#229;r</p>
+      <p begin="00:02:01,271" end="00:02:03,014">f&#246;r att lyckas i branschen</p>
+      <p begin="00:02:03,014" end="00:02:04,731">och vid 62 &#229;rs &#229;lder</p>
+      <p begin="00:02:04,731" end="00:02:06,775">b&#246;rjar jag &#228;ntligen se en ljusning.</p>
+      <p begin="00:02:09,086" end="00:02:11,071">Jag har aldrig tj&#228;nat nog med pengar</p>
+      <p begin="00:02:11,071" end="00:02:13,928">f&#246;r att f&#246;rs&#246;rja mig p&#229; musiken,</p>
+      <p begin="00:02:13,928" end="00:02:15,993">men jag hoppas att den h&#228;r skivan</p>
+      <p begin="00:02:15,993" end="00:02:17,442">ska bli en v&#228;ndpunkt</p>
+      <p begin="00:02:17,442" end="00:02:20,252">s&#229; att jag kan f&#246;rs&#246;rja mig p&#229; musiken.</p>
+      <p begin="00:02:25,314" end="00:02:26,837">Du....</p>
+      <p begin="00:02:26,837" end="00:02:28,808">Jag h&#228;mtar lite vatten &#229;t dig, OK?</p>
+      <p begin="00:02:28,808" end="00:02:30,155">H&#246;rru.</p>
+      <p begin="00:02:30,155" end="00:02:31,134">Det d&#228;r &#228;r min f&#229;gel.</p>
+      <p begin="00:02:31,134" end="00:02:32,647">Den g&#246;r mig arg.</p>
+      <p begin="00:02:32,647" end="00:02:33,782">N&#228;r jag blir arg g&#229;r jag d&#228;rifr&#229;n</p>
+      <p begin="00:02:33,782" end="00:02:35,520">till ett annat rum och st&#228;nger d&#246;rren,</p>
+      <p begin="00:02:35,520" end="00:02:37,328">l&#229;ter honom skrika s&#229; mycket han vill.</p>
+      <p begin="00:02:38,020" end="00:02:39,057">Jag har mitt eget lilla st&#228;lle.</p>
+      <p begin="00:02:39,057" end="00:02:40,590">Det &#228;r inte precis vad jag vill ha</p>
+      <p begin="00:02:40,590" end="00:02:43,199">men jag tackar Gud att jag har en bostad.</p>
+      <p begin="00:02:44,221" end="00:02:45,529">N&#228;r jag g&#229;r in i min lilla l&#228;genhet</p>
+      <p begin="00:02:45,529" end="00:02:47,113">och l&#229;ser d&#246;rren</p>
+      <p begin="00:02:47,113" end="00:02:48,734">k&#228;nner jag mig tillfreds.</p>
+      <p begin="00:02:48,734" end="00:02:50,496">Men n&#228;r jag &#229;ker till ghettot,</p>
+      <p begin="00:02:50,496" end="00:02:53,225">g&#229;r in i hissen,</p>
+      <p begin="00:02:53,225" end="00:02:54,407">kommer dit,</p>
+      <p begin="00:02:54,407" end="00:02:55,545">det &#228;r d&#229; problemen b&#246;rjar.</p>
+      <p begin="00:02:55,545" end="00:02:57,076">Man vet aldrig</p>
+      <p begin="00:02:57,076" end="00:02:59,174">vad som kan h&#228;nda d&#228;r inne.</p>
+      <p begin="00:02:59,174" end="00:03:00,663">Vi kom ner</p>
+      <p begin="00:03:00,663" end="00:03:02,366">och s&#229;g Alfred.</p>
+      <p begin="00:03:02,366" end="00:03:03,206">Bra kille, st&#246;rde aldrig n&#229;gon.</p>
+      <p begin="00:03:03,206" end="00:03:04,783">En kyrkokille.</p>
+      <p begin="00:03:04,783" end="00:03:06,731">De har skjutit in i hans l&#228;genhet.</p>
+      <p begin="00:03:06,731" end="00:03:08,463">Han visade mig var de hade skjutit.</p>
+      <p begin="00:03:08,478" end="00:03:10,701">Jag sa: "Wow, man." Jag sa:</p>
+      <p begin="00:03:10,741" end="00:03:13,017">"Jag vill inte bo p&#229; bottenv&#229;ningen."</p>
+      <p begin="00:03:13,017" end="00:03:14,586">- N&#228;r det blir f&#246;r galet</p>
+      <p begin="00:03:14,586" end="00:03:16,289">i ghettot</p>
+      <p begin="00:03:16,289" end="00:03:18,007">&#229;ker jag till min mammas hus</p>
+      <p begin="00:03:18,007" end="00:03:19,737">och sover i hennes k&#228;llare.</p>
+      <p begin="00:03:32,075" end="00:03:33,691">- S&#229; jag kommer hit</p>
+      <p begin="00:03:33,691" end="00:03:36,011">och det &#228;r h&#228;r jag sover.</p>
+      <p begin="00:03:36,011" end="00:03:37,269">Tills n&#228;sta dag</p>
+      <p begin="00:03:37,269" end="00:03:39,058">d&#229; jag tar hand om deras &#228;renden.</p>
+      <p begin="00:03:39,058" end="00:03:40,105">Tar hand om allt som beh&#246;vs</p>
+      <p begin="00:03:40,105" end="00:03:43,638">f&#246;r att ha vi ska ha tak &#246;ver huvudet.</p>
+      <p begin="00:03:43,931" end="00:03:47,370">- Jag tycker om att rulla ihop det h&#228;r</p>
+      <p begin="00:03:47,370" end="00:03:48,964">till en liten boll.</p>
+      <p begin="00:03:50,953" end="00:03:53,302">- Sl&#228;ng i dem h&#228;r.</p>
+      <p begin="00:03:55,722" end="00:03:56,898">- Hur g&#229;r det med riset?</p>
+      <p begin="00:03:57,067" end="00:03:58,366">- L&#229;t mig se?</p>
+      <p begin="00:04:00,135" end="00:04:02,056">En liten stund till.</p>
+      <p begin="00:04:02,194" end="00:04:05,126">- Vi var 8 personer i v&#229;r familj.</p>
+      <p begin="00:04:05,188" end="00:04:08,021">Mitt huvudm&#229;l var att ta hand om</p>
+      <p begin="00:04:08,021" end="00:04:11,799">min mamma s&#229; bra som m&#246;jligt.</p>
+      <p begin="00:04:12,707" end="00:04:14,664" region="top"> - Han &#228;r min gullunge</p>
+      <p begin="00:04:14,664" end="00:04:16,777" region="top"> och jag &#228;lskar honom.</p>
+      <p begin="00:04:16,883" end="00:04:18,556" region="top"> Han tv&#228;ttar mina kl&#228;der.</p>
+      <p begin="00:04:18,726" end="00:04:19,466" region="top"> Han st&#228;dar mitt hus.</p>
+      <p begin="00:04:19,466" end="00:04:20,945" region="top"> P&#229; Alla hj&#228;rtans dag</p>
+      <p begin="00:04:20,945" end="00:04:23,555" region="top"> kom han med en l&#229;da godis.</p>
+      <p begin="00:04:23,555" end="00:04:24,911" region="top"> Han &#228;r lika s&#246;t</p>
+      <p begin="00:04:24,911" end="00:04:26,138" region="top"> som godisl&#229;dan.</p>
+      <p begin="00:04:26,138" end="00:04:27,835">- Jag vill bara</p>
+      <p begin="00:04:27,835" end="00:04:28,542">att hennes liv ska vara fridfullt</p>
+      <p begin="00:04:28,542" end="00:04:29,668">s&#229; att</p>
+      <p begin="00:04:29,668" end="00:04:31,712">hon slipper oroa sig f&#246;r r&#228;kningar</p>
+      <p begin="00:04:31,712" end="00:04:33,312">och s&#229;nt.</p>
+      <p begin="00:04:33,312" end="00:04:34,478">- Jag tog p&#229; mig det ansvaret</p>
+      <p begin="00:04:34,478" end="00:04:36,190">men jag visste inte riktigt</p>
+      <p begin="00:04:36,190" end="00:04:37,731">vad jag hade gett mig in p&#229;.</p>
+      <p begin="00:04:37,731" end="00:04:38,693">Men nu har jag redan b&#246;rjat.</p>
+      <p begin="00:04:38,693" end="00:04:40,083">Jag kommer inte att &#228;ndra mig.</p>
+      <p begin="00:04:40,083" end="00:04:41,252">S&#229; det enda jag kan g&#246;ra &#228;r</p>
+      <p begin="00:04:41,252" end="00:04:42,968">att f&#246;rs&#246;ka hitta ett s&#228;tt att f&#229;</p>
+      <p begin="00:04:42,968" end="00:04:44,297">en stadig inkomst</p>
+      <p begin="00:04:44,297" end="00:04:47,211">s&#229; jag kan klara mig.</p>
+      <p begin="00:04:47,211" end="00:04:50,030">Mer &#228;n s&#229; kan jag inte beg&#228;ra just nu.</p>
+      <p begin="00:04:56,875" end="00:05:00,615">&#9834; Runt och runt &#229;ker vi igen. &#9834;</p>
+      <p begin="00:05:00,615" end="00:05:05,222">&#9834; Vart tar det v&#228;gen, ingen vet.. &#9834;</p>
+      <p begin="00:05:05,222" end="00:05:08,565">&#9834; Det &#228;r en kall kall v&#228;rld.&#9834;</p>
+      <p begin="00:05:08,965" end="00:05:12,469">&#9834; Det &#228;r en kall kall v&#228;rld. &#9834;</p>
+      <p begin="00:05:14,254" end="00:05:16,173">&#9834; Hur kan vi stoppa f&#246;r&#228;ndringarna &#9834;</p>
+      <p begin="00:05:16,173" end="00:05:21,219">&#9834; som sker i USA idag?&#9834;</p>
+      <p begin="00:05:31,033" end="00:05:35,022">&#9834; Ohhh, ohhh, ohhh. &#9834;</p>
+      <p begin="00:05:41,466" end="00:05:43,575">&#9834; Ta mig tillbaks. &#9834;</p>
+      <p begin="00:05:43,575" end="00:05:47,287">&#9834; Ta mig tillbaks till gyllene tiderna. &#9834;</p>
+      <p begin="00:05:47,287" end="00:05:48,994">&#9834; Oh. Ah. Uh. &#9834;</p>
+      <p begin="00:05:49,455" end="00:05:50,963">&#9834; Ta mig tillbaka. &#9834;</p>
+      <p begin="00:05:50,963" end="00:05:55,504">&#9834; Tillbaka till de gyllene tiderna. &#9834;</p>
+      <p begin="00:05:55,504" end="00:05:58,215">&#9834; Rasera allt. &#9834;</p>
+      <p begin="00:05:58,215" end="00:06:11,544"/>
+      <p begin="00:06:11,564" end="00:06:13,438">- Det var en s&#229;ng</p>
+      <p begin="00:06:13,438" end="00:06:15,399">fr&#229;n nya skivan "No Time For Dreaming."</p>
+      <p begin="00:06:15,399" end="00:06:16,525">Charles Bradley</p>
+      <p begin="00:06:16,525" end="00:06:17,652">and the Menahan Street Band.</p>
+      <p begin="00:06:17,652" end="00:06:19,111">- Jag kan inte fatta</p>
+      <p begin="00:06:19,111" end="00:06:20,445">att du kom fr&#229;n ingenstans</p>
+      <p begin="00:06:20,445" end="00:06:22,656">helt ok&#228;nd f&#246;r oss.</p>
+      <p begin="00:06:22,656" end="00:06:24,858">- Har du spelat in f&#246;rut?</p>
+      <p begin="00:06:24,981" end="00:06:26,277">- Nej.</p>
+      <p begin="00:06:26,277" end="00:06:28,820">Det &#228;r min f&#246;rsta inspelning, som sl&#228;pps.</p>
+      <p begin="00:06:28,820" end="00:06:30,349">- Jag vet att du har upptr&#228;tt f&#246;rut.</p>
+      <p begin="00:06:30,349" end="00:06:31,431">- Ja.</p>
+      <p begin="00:06:31,431" end="00:06:32,420">- Som Black Velvet.</p>
+      <p begin="00:06:32,420" end="00:06:34,044">- Ja.</p>
+      <p begin="00:06:34,044" end="00:06:35,335">- S&#229; nu upptr&#228;der du som</p>
+      <p begin="00:06:35,335" end="00:06:37,064">som Charles Bradley?</p>
+      <p begin="00:06:37,064" end="00:06:38,076">- Ja.</p>
+      <p begin="00:06:38,076" end="00:06:39,298">- Du har ett riktigt bra band</p>
+      <p begin="00:06:39,298" end="00:06:40,129">bakom dig.</p>
+      <p begin="00:06:40,129" end="00:06:41,667">Och sj&#228;lvklart</p>
+      <p begin="00:06:41,667" end="00:06:43,302">de som jobbar p&#229; Daptone</p>
+      <p begin="00:06:43,302" end="00:06:44,463">jag menar</p>
+      <p begin="00:06:44,463" end="00:06:45,287">vilken fantastisk grupp de &#228;r.</p>
+      <p begin="00:06:45,287" end="00:06:46,597">- Och du har sett vad som</p>
+      <p begin="00:06:46,597" end="00:06:49,276">h&#228;nde med Sharon Jones, som...<br/>- Ja.</p>
+      <p begin="00:06:49,276" end="00:06:51,340">som, precis som du</p>
+      <p begin="00:06:51,340" end="00:06:52,882">gick fr&#229;n totalt ok&#228;nd till</p>
+      <p begin="00:06:52,897" end="00:06:55,464">vem vet hur h&#246;gt du kan n&#229;.</p>
+      <p begin="00:06:55,464" end="00:06:56,872">- Det &#228;r v&#228;l</p>
+      <p begin="00:06:56,872" end="00:06:59,067">en sp&#228;nnande tid f&#246;r dig?</p>
+      <p begin="00:06:59,067" end="00:07:01,820">- Jag tror Gud har besvarat mina b&#246;ner</p>
+      <p begin="00:07:01,820" end="00:07:03,864">vet du, jag har</p>
+      <p begin="00:07:03,864" end="00:07:06,033">fr&#229;gat mig sj&#228;lv varf&#246;r det dr&#246;jde</p>
+      <p begin="00:07:06,033" end="00:07:07,451">men du kan inte ifr&#229;gas&#228;tta Gud</p>
+      <p begin="00:07:07,451" end="00:07:09,411">n&#228;r han vill g&#246;ra n&#229;gonting.</p>
+      <p begin="00:07:09,411" end="00:07:12,348">S&#229; i min &#229;lder b&#246;rjade det h&#228;nda saker.</p>
+      <p begin="00:07:12,348" end="00:07:13,916">- Vad &#228;r n&#228;sta steg?</p>
+      <p begin="00:07:13,916" end="00:07:15,375">Jag menar, har du stora planer?</p>
+      <p begin="00:07:15,375" end="00:07:17,144">- Jag t&#228;nker att himlen &#228;r gr&#228;nsen.</p>
+      <p begin="00:07:17,144" end="00:07:19,421">- Gratulerar till en fantastisk skiva.</p>
+      <p begin="00:07:19,421" end="00:07:20,737">Oavsett vad som h&#228;nder med den</p>
+      <p begin="00:07:20,737" end="00:07:22,632">&#228;r den ett riktigt konstverk.</p>
+      <p begin="00:07:22,632" end="00:07:24,943">Charles Bradley p&#229; WFUV.</p>
+      <p begin="00:07:25,113" end="00:07:28,346"/>
+      <p begin="00:07:28,346" end="00:07:33,685">&#9834; V&#228;rlden st&#229;r i brand. &#9834;</p>
+      <p begin="00:07:33,685" end="00:07:39,107">&#9834; Ingen vill ta p&#229; sig ansvaret. &#9834;</p>
+      <p begin="00:07:39,107" end="00:07:44,286">&#9834; S&#228;g inte hur jag ska leva mitt liv. &#9834;</p>
+      <p begin="00:07:44,286" end="00:07:49,746">&#9834; N&#228;r du aldrig k&#228;nt sm&#228;rtan. &#9834;</p>
+      <p begin="00:07:49,746" end="00:07:55,790">&#9834; Ohh. Ahh. Ohh. &#9834;</p>
+      <p begin="00:07:55,790" end="00:07:58,335">&#9834; Ohh. &#9834;</p>
+      <p begin="00:07:58,335" end="00:08:01,051">&#9834; Ser de inte att jag gr&#229;ter? &#9834;</p>
+      <p begin="00:08:01,051" end="00:08:02,883" region="top"> &#9834; Ohhh... &#9834;</p>
+      <p begin="00:08:02,883" end="00:08:04,800"/>
+      <p begin="00:08:04,800" end="00:08:06,051" region="top"> - Jag vet inte hur m&#229;nga artister</p>
+      <p begin="00:08:06,051" end="00:08:07,718" region="top"> som varit 62 &#229;r gamla</p>
+      <p begin="00:08:07,718" end="00:08:09,445" region="top"> n&#228;r de sl&#228;ppte sin debutskiva.</p>
+      <p begin="00:08:10,213" end="00:08:11,950" region="top"> Han kan vara den f&#246;rsta.</p>
+      <p begin="00:08:12,777" end="00:08:14,936" region="top"> - Han har bara b&#246;rjat</p>
+      <p begin="00:08:14,936" end="00:08:16,937" region="top"> komma ig&#229;ng, s&#229; vitt jag kan se.</p>
+      <p begin="00:08:16,937" end="00:08:19,215" region="top"> Han har jobbat h&#229;rt under l&#229;ng tid.</p>
+      <p begin="00:08:19,338" end="00:08:20,858" region="top"> Och jag hoppas att</p>
+      <p begin="00:08:20,858" end="00:08:21,734" region="top"> tillr&#228;ckligt m&#229;nga <br/>kan h&#246;ra honom sjunga</p>
+      <p begin="00:08:21,734" end="00:08:23,151">s&#229; han kan</p>
+      <p begin="00:08:23,151" end="00:08:24,361">f&#229; det liv han vill ha</p>
+      <p begin="00:08:24,361" end="00:08:26,139">och kunna ta hand om sin familj.</p>
+      <p begin="00:08:27,626" end="00:08:30,701">&#9834; Uh. Yeah. &#9834;</p>
+      <p begin="00:08:30,701" end="00:08:33,120">&#9834; Jag pratar med dig tjejen. &#9834;</p>
+      <p begin="00:08:33,120" end="00:08:34,538">&#9834; Yeah. &#9834;</p>
+      <p begin="00:08:34,538" end="00:08:36,642">&#9834; Bara dig... &#9834;</p>
+      <p begin="00:08:36,642" end="00:08:38,333">- Jag gick till Gabe,</p>
+      <p begin="00:08:38,333" end="00:08:40,502">jag t&#228;nkte att han vet vad han g&#246;r.</p>
+      <p begin="00:08:40,502" end="00:08:42,129">Jag k&#228;nde att han kunde hj&#228;lpa mig</p>
+      <p begin="00:08:42,129" end="00:08:44,673">att ta mig in i musikbranschen.</p>
+      <p begin="00:08:44,673" end="00:08:48,569">Jag vet bara hur man upptr&#228;der p&#229; scen.</p>
+      <p begin="00:08:48,692" end="00:08:52,118">- Gillar du funk n' soul eller Afrobeat</p>
+      <p begin="00:08:52,226" end="00:08:55,036">&#228;r det Gabe Roth du vill ska producera.</p>
+      <p begin="00:08:55,174" end="00:08:57,708">Han kommer att leda dig i r&#228;tt</p>
+      <p begin="00:08:57,708" end="00:08:59,778">eftersom deras skivor &#228;r fenomenala.</p>
+      <p begin="00:09:00,994" end="00:09:03,773">- Jag b&#246;rjade g&#246;ra skivor som jag gillar.</p>
+      <p begin="00:09:03,849" end="00:09:05,318">M&#229;nga soulskivor har en viss</p>
+      <p begin="00:09:05,318" end="00:09:09,204">&#228;rlighet som jag gillar.</p>
+      <p begin="00:09:11,137" end="00:09:12,724">En morgon, jag tror det var ganska tidigt,</p>
+      <p begin="00:09:12,832" end="00:09:14,266">kanske runt 9 eller 10 p&#229; morgonen,</p>
+      <p begin="00:09:14,297" end="00:09:16,394">knackade det p&#229; d&#246;rren<br/>och d&#228;r stod Charles.</p>
+      <p begin="00:09:16,532" end="00:09:18,932">Han sa: "H&#246;rde att du letar efter s&#229;ngare"</p>
+      <p begin="00:09:19,040" end="00:09:20,668">"Jag h&#246;rde att du letade efter mig."</p>
+      <p begin="00:09:21,268" end="00:09:23,092">Jag f&#246;rstod inte vad han pratade om.</p>
+      <p begin="00:09:23,092" end="00:09:25,506">S&#229; han visade mig ett videoklipp.</p>
+      <p begin="00:09:25,506" end="00:09:26,784">Och han sjunger s&#229; bra, du vet?</p>
+      <p begin="00:09:27,538" end="00:09:30,920">- Gabe Roth tog med honom till ett rep</p>
+      <p begin="00:09:30,920" end="00:09:32,412">i Staten Island.</p>
+      <p begin="00:09:32,412" end="00:09:34,470">Och Gabe ville spela in med en s&#229;ngare.</p>
+      <p begin="00:09:34,500" end="00:09:36,613">Charles var en s&#229;ngare som</p>
+      <p begin="00:09:36,613" end="00:09:38,004">Daptone inte hade hittat ett band till &#228;n</p>
+      <p begin="00:09:38,004" end="00:09:40,048">men Charles f&#229;ngade deras uppm&#228;rksamhet.</p>
+      <p begin="00:09:40,140" end="00:09:43,803">- Vi ser hur de fungerar tillsammans?</p>
+      <p begin="00:09:43,926" end="00:09:47,401" region="top"> &#9834; Sluta &#9834;</p>
+      <p begin="00:09:47,401" end="00:09:51,782" region="top"> &#9834; Sluta baby. &#9834;</p>
+      <p begin="00:09:51,782" end="00:09:55,952">&#9834; Ohhh. &#9834;</p>
+      <p begin="00:09:55,952" end="00:09:59,665">&#9834; Jag m&#229;r d&#229;ligt, baby. &#9834;</p>
+      <p begin="00:09:59,665" end="00:10:01,958">&#9834; Och jag &#228;r inl&#229;st i en bur...&#9834;</p>
+      <p begin="00:10:01,958" end="00:10:06,661">- Jag spelade med Tommys band.</p>
+      <p begin="00:10:07,110" end="00:10:09,636">Jag gick &#246;ver en dag n&#228;r de repade.</p>
+      <p begin="00:10:09,636" end="00:10:11,635">De jammade och fr&#229;gade mig:</p>
+      <p begin="00:10:11,635" end="00:10:14,930">"Kan du sjunga till detta?"</p>
+      <p begin="00:10:14,930" end="00:10:18,684">Och du vet, jag gillade musiken,</p>
+      <p begin="00:10:18,684" end="00:10:20,269">och texten bara kom till mig.</p>
+      <p begin="00:10:20,269" end="00:10:24,188">- Det l&#246;ste sig bra. Vi spelade in l&#229;tarna</p>
+      <p begin="00:10:24,188" end="00:10:27,442">med Bradley p&#229; Daptone, de var bra</p>
+      <p begin="00:10:27,442" end="00:10:29,236">men lossnade inte riktigt.</p>
+      <p begin="00:10:29,236" end="00:10:31,333">Efter det gick vi skilda v&#228;gar.</p>
+      <p begin="00:10:32,040" end="00:10:38,347">- Tv&#229; &#229;r gick och jag upptr&#228;dde <br/>som James Brown p&#229; sm&#229; klubbar.</p>
+      <p begin="00:10:38,501" end="00:10:43,381">Jag erbj&#246;ds att spela med Sharon James.</p>
+      <p begin="00:10:43,566" end="00:10:46,121">- S&#229; vi repade, upptr&#228;dde, allt var bra.</p>
+      <p begin="00:10:46,244" end="00:10:48,250">Jag och Charles s&#229;gs efter flera &#229;r,</p>
+      <p begin="00:10:48,358" end="00:10:53,291">vi pratade lite och jag sa "Charles,</p>
+      <p begin="00:10:53,291" end="00:10:55,762">jag h&#229;ller p&#229; att jobba p&#229; lite ny musik,</p>
+      <p begin="00:10:55,762" end="00:10:57,139">kom &#246;ver en kv&#228;ll och pr&#246;va."</p>
+      <p begin="00:10:57,139" end="00:10:59,124">Han sa: "Sj&#228;lvklart Tommy"</p>
+      <p begin="00:10:59,124" end="00:11:01,709">Vi spelade in tv&#229; l&#229;tar p&#229; en natt:</p>
+      <p begin="00:11:01,709" end="00:11:04,066">"The World's Going Up In Flames"</p>
+      <p begin="00:11:04,174" end="00:11:06,257">och "In You I Found a Love".</p>
+      <p begin="00:11:06,257" end="00:11:10,094">- Charles satt h&#228;r och jag satt h&#228;r <br/>och tryckte p&#229; inspelningsknappen.</p>
+      <p begin="00:11:10,217" end="00:11:13,612">Vi skrev den tillsammans <br/>och s&#229; gick det till.</p>
+      <p begin="00:11:13,720" end="00:11:16,538">Musiken var klar och han kom p&#229; text</p>
+      <p begin="00:11:16,538" end="00:11:19,947">helt improviserat, <br/>jag satte bara orden p&#229; r&#228;tt plats.</p>
+      <p begin="00:11:40,495" end="00:11:42,596" region="top"> Vi har inte gjort s&#229; m&#229;nga spelningar <br/>tillsammans med Charles &#228;n.</p>
+      <p begin="00:11:42,596" end="00:11:48,180">Vi gjorde ett par livespelningar, <br/>men jag tror f&#246;r Charles,</p>
+      <p begin="00:11:48,195" end="00:11:51,943">han vill bara ber&#246;ra folk, han vill</p>
+      <p begin="00:11:51,943" end="00:11:55,426">n&#229; varje enskild individ i publiken.</p>
+      <p begin="00:11:55,580" end="00:11:59,835">S&#229; n&#228;r vi repar och n&#228;r vi st&#229;r p&#229; scen,</p>
+      <p begin="00:11:59,835" end="00:12:00,917">&#228;r tv&#229; helt olika saker.</p>
+      <p begin="00:12:00,917" end="00:12:03,957">Bandet m&#229;ste vara samspelt, <br/>det enda vi f&#246;rs&#246;ker repa</p>
+      <p begin="00:12:04,065" end="00:12:06,658">med Charles &#228;r att l&#229;ta honom leda.</p>
+      <p begin="00:12:10,494" end="00:12:13,048">Bam, bam, bam, bam.</p>
+      <p begin="00:12:14,771" end="00:12:16,723">- Tre, fyr.</p>
+      <p begin="00:12:35,570" end="00:12:41,034">&#9834; I dig hittade jag k&#228;rleken. &#9834;</p>
+      <p begin="00:12:41,034" end="00:12:45,455">&#9834; Det f&#229;r mig att k&#228;nna mig levande. &#9834;</p>
+      <p begin="00:12:45,455" end="00:12:48,041">&#9834; Oh baby. &#9834;</p>
+      <p begin="00:12:48,041" end="00:12:55,461">&#9834; Ibland n&#228;r jag sover p&#229; kv&#228;llarna &#9834;</p>
+      <p begin="00:12:55,461" end="00:13:02,973">&#9834; Vaknar jag och du &#228;r inte d&#228;r &#9834;</p>
+      <p begin="00:13:02,973" end="00:13:10,773">&#9834; Du sa att du &#228;lskade mig, <br/>att du alltid skulle finnas d&#228;r. &#9834;</p>
+      <p begin="00:13:10,773" end="00:13:14,985">&#9834; I dig.. trodde jag att... &#9834;</p>
+      <p begin="00:13:14,985" end="00:13:18,032">- Den nya musiken &#228;r jag, <br/>f&#246;r en g&#229;ngs skull.</p>
+      <p begin="00:13:18,032" end="00:13:21,492">Det &#228;r saker jag har g&#229;tt igenom,</p>
+      <p begin="00:13:21,492" end="00:13:24,036">hj&#228;rtesorger och sm&#228;rtor.</p>
+      <p begin="00:13:24,036" end="00:13:27,956">&#9834; Jag vill inte vara en d&#229;re mer &#9834;</p>
+      <p begin="00:13:27,956" end="00:13:34,087"/>
+      <p begin="00:13:34,087" end="00:13:37,953">Ja du, Bradley.<br/>Du v&#228;ntade tv&#229; g&#229;nger p&#229; trumpeterna.</p>
+      <p begin="00:13:37,953" end="00:13:39,426">- Ja, det var perfekt.</p>
+      <p begin="00:13:39,426" end="00:13:42,469"/>
+      <p begin="00:13:42,469" end="00:13:43,981">- Jag skulle vilja s&#228;ga godnatt.</p>
+      <p begin="00:13:43,981" end="00:13:46,321">Vi kan alltid g&#246;ra det igen.</p>
+      <p begin="00:13:46,429" end="00:13:49,025">Det var en riktig fest, Tommy.</p>
+      <p begin="00:13:49,178" end="00:13:50,726">- Javisst och..</p>
+      <p begin="00:13:50,834" end="00:13:52,033">- det d&#228;r var perfekt.</p>
+      <p begin="00:13:52,141" end="00:13:53,227">- Tack igen Tommy.</p>
+      <p begin="00:13:53,227" end="00:13:54,460">Du vet att jag &#228;lskar dig.</p>
+      <p begin="00:13:54,460" end="00:13:55,595">Tack min bror.</p>
+      <p begin="00:13:55,749" end="00:13:57,570">Hejd&#229;.</p>
+      <p begin="00:13:58,108" end="00:14:01,942">Jag har inte st&#228;ngt d&#246;rren.</p>
+      <p begin="00:14:07,225" end="00:14:13,295"/>
+      <p begin="00:14:13,295" end="00:14:14,525">- 9 &#189;.</p>
+      <p begin="00:14:14,525" end="00:14:15,793">- Kom igen nu mamma.</p>
+      <p begin="00:14:15,793" end="00:14:18,200">F&#246;rst sa du sa 9, sen 8, och 8 &#189; .</p>
+      <p begin="00:14:18,200" end="00:14:19,813">Jag skaffade 8.</p>
+      <p begin="00:14:19,813" end="00:14:21,862">Nu vill du ha 9, eller 9 &#189;.</p>
+      <p begin="00:14:21,862" end="00:14:24,168">Vad &#228;r det f&#246;r fel med skorna du har h&#228;r?</p>
+      <p begin="00:14:26,889" end="00:14:28,459">- Mamma, du g&#246;r mig galen.</p>
+      <p begin="00:14:30,185" end="00:14:32,030"/>
+      <p begin="00:14:33,461" end="00:14:35,513">Herrregud,</p>
+      <p begin="00:14:35,559" end="00:14:38,197">Det &#228;r jobbigt ibland.</p>
+      <p begin="00:14:38,197" end="00:14:41,446">Det &#228;r sv&#229;rt f&#246;r jag kan, liksom,</p>
+      <p begin="00:14:41,446" end="00:14:43,490">allt h&#228;nger p&#229; mig.</p>
+      <p begin="00:14:43,490" end="00:14:45,965">Men om jag satte henne p&#229; ett hem, <br/>s&#229; skulle hon s&#228;kert d&#246;.</p>
+      <p begin="00:14:45,965" end="00:14:47,096">Och det vet jag.</p>
+      <p begin="00:14:47,818" end="00:14:49,808" region="top"> Jag fick en stroke f&#246;rut.</p>
+      <p begin="00:14:50,422" end="00:14:52,874" region="top"> Jag har haft m&#229;nga hj&#228;rtattacker.</p>
+      <p begin="00:14:52,936" end="00:14:54,246" region="top"> Ha en bra dag.</p>
+      <p begin="00:14:54,246" end="00:14:57,836" region="top"> Men hj&#228;rtattacken<br/>kom n&#228;r min styvpappa dog,</p>
+      <p begin="00:14:57,836" end="00:15:06,382" region="top"> n&#228;r min mormor dog och n&#228;r min man...</p>
+      <p begin="00:15:06,382" end="00:15:07,767" region="top"> dog.</p>
+      <p begin="00:15:10,044" end="00:15:14,153">- Hon sa: "L&#229;t mig tillbringa<br/>mina sista dagar i huset."</p>
+      <p begin="00:15:14,492" end="00:15:16,924">Jag sa: "OK, mamma. Jag ordnar det."</p>
+      <p begin="00:15:17,140" end="00:15:20,809">Men hon vet inte att jag inte har ett liv.</p>
+      <p begin="00:15:21,409" end="00:15:23,186">Hon &#228;r mitt liv.</p>
+      <p begin="00:15:23,570" end="00:15:29,102">Att vara tillsammans med n&#229;gon, <br/>jag vet inte hur man g&#246;r.</p>
+      <p begin="00:15:29,348" end="00:16:13,946"/>
+      <p begin="00:16:13,946" end="00:16:18,454" region="top"> - N&#228;r Charles mamma l&#228;mnade Florida<br/>f&#246;r att &#229;ka till New York,</p>
+      <p begin="00:16:18,562" end="00:16:23,926" region="top"> var Charles bara 8 m&#229;nader gammal.</p>
+      <p begin="00:16:25,295" end="00:16:30,925">Hon var borta s&#229; l&#228;nge att,<br/>n&#228;r hon kom tillbaks f&#246;rsta g&#229;ngen</p>
+      <p begin="00:16:30,925" end="00:16:33,262">k&#228;nde han inte igen henne,<br/>han visste inte att hon var hans mamma.</p>
+      <p begin="00:16:34,122" end="00:16:37,105">Han trodde hans mormor var hans mamma.</p>
+      <p begin="00:16:38,843" end="00:16:41,408" region="top"> - Jag &#229;kte till New York f&#246;r att <br/>det skulle bli b&#228;ttre f&#246;r oss alla.</p>
+      <p begin="00:16:42,654" end="00:16:46,609" region="top"> Jag och min make separerade,<br/>jag ville b&#228;ttra mig och jag lyckades.</p>
+      <p begin="00:16:46,609" end="00:16:50,246" region="top"> Jag k&#246;pte huset p&#229; 843 Willoughby Ave.</p>
+      <p begin="00:16:50,338" end="00:16:52,195">Mmm-hm</p>
+      <p begin="00:16:52,410" end="00:17:02,065">- Hon &#246;vergav, kan man s&#228;ga,<br/>barnen f&#246;r att f&#246;lja efter.. en man</p>
+      <p begin="00:17:03,279" end="00:17:06,688">som redan hade en fru,<br/>men som hon var galen i.</p>
+      <p begin="00:17:08,379" end="00:17:10,802">Annars hade hon f&#246;rmodligen inte <br/>&#229;kt till New York.</p>
+      <p begin="00:17:10,940" end="00:17:15,445">Jag var v&#228;l ungef&#228;r 7 eller 8 &#229;r.</p>
+      <p begin="00:17:15,445" end="00:17:18,140">N&#228;r mamma kom, ber&#228;ttade hon f&#246;r mormor</p>
+      <p begin="00:17:18,217" end="00:17:20,106">att hon ville att jag skulle<br/>f&#246;lja med henne tillbaka.</p>
+      <p begin="00:17:20,106" end="00:17:23,104">Min mormor sa: "Nej, l&#229;t dem stanna h&#228;r,<br/>de har det b&#228;ttre h&#228;r.</p>
+      <p begin="00:17:23,196" end="00:17:26,138">"De kommer f&#229; en b&#228;ttre utbildning<br/>om de stannar h&#228;r med mig."</p>
+      <p begin="00:17:26,368" end="00:17:28,062">Min mamma sa nej.</p>
+      <p begin="00:17:28,200" end="00:17:30,392">S&#229; min mormor sa:<br/>"Nej, jag l&#229;ter dig inte ta dem."</p>
+      <p begin="00:17:30,485" end="00:17:32,168">S&#229; min mamma stal oss.</p>
+      <p begin="00:17:32,276" end="00:17:34,196" region="top"> - De var mina, s&#229; jag t&#228;nkte:</p>
+      <p begin="00:17:34,196" end="00:17:36,881" region="top"> "Jag tar dem. Jag skapade dem."</p>
+      <p begin="00:17:37,034" end="00:17:40,983" region="top"> S&#229; jag tog med mig mina skapelser <br/>tillbaka till New York.</p>
+      <p begin="00:17:40,983" end="00:17:43,479">Mmm-hm.</p>
+      <p begin="00:17:44,252" end="00:17:45,801">Det gjorde jag.</p>
+      <p begin="00:17:47,340" end="00:17:50,821">- Jag hatar verkligen att s&#228;ga det</p>
+      <p begin="00:17:50,821" end="00:17:51,998">men ibland var det sv&#229;rt<br/>att hitta n&#229;gra jobb</p>
+      <p begin="00:17:51,998" end="00:17:56,906" region="top"> s&#229; det fanns bara en v&#228;g,<br/>om du hade n&#229;gon typ av anh&#246;riga</p>
+      <p begin="00:17:57,690" end="00:18:00,561">s&#229; kunde du f&#229; lite bidrag.</p>
+      <p begin="00:18:00,946" end="00:18:06,534">Och jag k&#228;nner att det var d&#228;rf&#246;r<br/>hon tog barnen, f&#246;r att f&#229; bidrag.</p>
+      <p begin="00:18:07,179" end="00:18:11,262">- Under barndomen var han favoritbarnet.</p>
+      <p begin="00:18:11,453" end="00:18:16,663">Han fick all k&#228;rlek och blev omh&#228;ndertagen<br/>av sina &#228;ldre br&#246;der,</p>
+      <p begin="00:18:16,785" end="00:18:19,357">systrar, mormor och morbr&#246;der</p>
+      <p begin="00:18:19,357" end="00:18:21,371">f&#246;r han var det lilla barnet.</p>
+      <p begin="00:18:21,371" end="00:18:25,880">- N&#228;r Charles &#229;kte till New York,<br/>det var d&#229; han f&#246;rlorade allt det.</p>
+      <p begin="00:18:31,834" end="00:18:32,928">- Jag bodde med min mamma.</p>
+      <p begin="00:18:32,928" end="00:18:36,312">Jag var r&#228;dd att hon skulle skada mig,<br/>s&#229; jag stack.</p>
+      <p begin="00:18:36,312" end="00:18:38,457">Vi kom inte &#246;verens.</p>
+      <p begin="00:18:38,457" end="00:18:39,997">Jag blev beskylld f&#246;r allt.</p>
+      <p begin="00:18:39,997" end="00:18:41,508">S&#229; jag var v&#228;ldigt bitter.</p>
+      <p begin="00:18:42,170" end="00:18:45,432">Det k&#228;ndes som att allt var ransonerat</p>
+      <p begin="00:18:45,555" end="00:18:48,251">och jag bodde i en k&#228;llare<br/>som var v&#228;rre &#228;n den h&#228;r.</p>
+      <p begin="00:18:48,251" end="00:18:52,166">Det var bara en sandk&#228;llare,<br/>inte en betongk&#228;llare.</p>
+      <p begin="00:18:52,490" end="00:18:54,088">15 watts gl&#246;dlampa.</p>
+      <p begin="00:18:54,195" end="00:18:55,982">Och jag k&#228;nde att:<br/>"Nej, jag klarar inte av det h&#228;r."</p>
+      <p begin="00:18:56,012" end="00:18:57,752">Jag sa: "Jag vill inte mer, jag sticker."</p>
+      <p begin="00:18:57,922" end="00:18:59,008">S&#229; jag stack.</p>
+      <p begin="00:18:59,746" end="00:19:04,900"/>
+      <p begin="00:19:04,900" end="00:19:07,056">Jag var 14 &#229;r.</p>
+      <p begin="00:19:08,226" end="00:19:09,892">Tunnelbanan blev mitt hem.</p>
+      <p begin="00:19:09,984" end="00:19:12,574">Jag gick dit f&#246;r att h&#229;lla mig varm.</p>
+      <p begin="00:19:13,866" end="00:19:17,866">Jag satte mig p&#229; t&#229;get<br/>vissa kalla vintern&#228;tter.</p>
+      <p begin="00:19:18,236" end="00:19:20,330">&#197;kte med t&#229;get fram och tillbaka.</p>
+      <p begin="00:19:20,468" end="00:19:22,670">Polisen knackade h&#229;rt och sa:</p>
+      <p begin="00:19:22,808" end="00:19:24,387">"Ungar, ni m&#229;ste g&#229; av."</p>
+      <p begin="00:19:24,925" end="00:19:31,271">Jag gick &#246;ver till andra sidan perrongen,<br/>tog ett annat t&#229;g. Somnade igen.</p>
+      <p begin="00:19:31,471" end="00:19:35,284">Satte mig i ett h&#246;rn,<br/>tog en pinne och slog h&#229;rt p&#229; n&#229;got.</p>
+      <p begin="00:19:35,422" end="00:19:36,546">Det d&#228;r satte sig i mitt huvud.</p>
+      <p begin="00:19:36,746" end="00:19:39,910">Han sa: "Upp med er ungar. Upp!"</p>
+      <p begin="00:19:40,079" end="00:19:47,370">S&#229; jag &#229;kte olika turer<br/>f&#246;r att f&#229; sova tills solen gick upp.</p>
+      <p begin="00:19:49,300" end="00:19:53,458">Jag s&#229;g med egna &#246;gon vad som h&#228;nde,<br/>eftersom alla p&#229; den tiden</p>
+      <p begin="00:19:53,581" end="00:19:56,817">var h&#246;ga, de anv&#228;nde tunga droger.</p>
+      <p begin="00:19:56,925" end="00:19:59,766">Men inte jag, jag h&#246;ll ett &#246;ga p&#229; dem<br/>medan de sk&#246;t upp</p>
+      <p begin="00:19:59,766" end="00:20:01,183">och de f&#246;rs&#246;kte erbjuda mig.</p>
+      <p begin="00:20:01,183" end="00:20:03,544">Men jag blev r&#228;dd, jag gillade inte n&#229;lar.</p>
+      <p begin="00:20:03,544" end="00:20:05,021">Jag sa: "Nej, nej, nej."</p>
+      <p begin="00:20:05,190" end="00:20:07,022">Det var d&#229; jag gick till Jobs Corps.</p>
+      <p begin="00:20:07,145" end="00:20:10,515">Jag f&#246;rs&#246;kte f&#229; mamma att <br/>registrera mig hos Jobs Corps.</p>
+      <p begin="00:20:10,622" end="00:20:12,854">Hon var arg p&#229; mig,<br/>s&#229; hon ville inte skriva p&#229;.</p>
+      <p begin="00:20:12,977" end="00:20:15,088">S&#229; min syster f&#246;rfalskade<br/>hennes namnteckning.</p>
+      <p begin="00:20:15,550" end="00:20:17,032">Jag l&#228;rde mig laga mat.</p>
+      <p begin="00:20:17,140" end="00:20:19,089">Jag lagade mat i tv&#229; &#229;r.</p>
+      <p begin="00:20:19,212" end="00:20:21,961">Jag var kockl&#228;rling i Bar Harbor, Maine.</p>
+      <p begin="00:20:21,961" end="00:20:24,645">Det var d&#229; jag b&#246;rjade g&#246;ra James Brown,<br/>p&#229; Job Corps.</p>
+      <p begin="00:20:24,829" end="00:20:27,790">De sa, "Har ni sett den nya killen"?</p>
+      <p begin="00:20:27,928" end="00:20:31,156">"Han ser precis ut som James Brown."</p>
+      <p begin="00:20:32,231" end="00:20:36,840">Det gjorde mig peppad, de gav mig lite gin<br/>och det var s&#229; p&#229; det jobbet,</p>
+      <p begin="00:20:36,840" end="00:20:39,036">man skulle smygdricka.</p>
+      <p begin="00:20:39,736" end="00:20:42,175">De gav mig lite gin, jag blev full,</p>
+      <p begin="00:20:42,299" end="00:20:44,505">de gav mig en mikrofon och sa: "Sjung."</p>
+      <p begin="00:20:44,643" end="00:20:45,821">Och jag sl&#228;ppte loss.</p>
+      <p begin="00:20:45,960" end="00:20:49,231">S&#229; de tog mig till <br/>ett Job Corpcenter f&#246;r tjejer</p>
+      <p begin="00:20:49,231" end="00:20:51,358">f&#246;r att upptr&#228;da.</p>
+      <p begin="00:20:51,358" end="00:20:53,110">Jag fr&#229;gade, "Hur stor &#228;r publiken?"</p>
+      <p begin="00:20:53,217" end="00:20:54,678">De sa ungef&#228;r 20 eller 30.</p>
+      <p begin="00:20:54,770" end="00:20:56,225">Jag sa "OK".</p>
+      <p begin="00:20:56,548" end="00:20:59,096">De bad mig komma upp p&#229; scenen.</p>
+      <p begin="00:20:59,403" end="00:21:01,168">Och jag tittade ut &#246;ver scenen.</p>
+      <p begin="00:21:01,276" end="00:21:02,737">Jag s&#229;g alla m&#228;nniskor<br/>och jag kunde inte r&#246;ra mig.</p>
+      <p begin="00:21:02,737" end="00:21:04,121">Jag sa:</p>
+      <p begin="00:21:04,121" end="00:21:08,125">"Jag v&#228;grar g&#229; ut. Inte jag."</p>
+      <p begin="00:21:08,125" end="00:21:13,205">S&#229; en kille som hette Moody<br/>gav mig en knuff.</p>
+      <p begin="00:21:13,298" end="00:21:14,760">Jag s&#229;g att alla var glada.</p>
+      <p begin="00:21:14,883" end="00:21:15,938">De &#228;lskade mig.</p>
+      <p begin="00:21:16,030" end="00:21:17,898">De &#228;lskade att jag sj&#246;ng fr&#229;n hj&#228;rtat.</p>
+      <p begin="00:21:18,329" end="00:21:22,091">Och jag t&#228;nkte:<br/>"Wow, det &#228;r h&#228;r jag h&#246;r hemma."</p>
+      <p begin="00:21:22,214" end="00:21:23,843">Jag slutade aldrig efter det.</p>
+      <p begin="00:21:26,981" end="00:21:29,903" region="top"> V&#229;r plan n&#228;r vi slutade i Job Corps,</p>
+      <p begin="00:21:29,903" end="00:21:31,954" region="top"> var att tr&#228;ffas igen<br/>och forts&#228;tta med musiken.</p>
+      <p begin="00:21:31,954" end="00:21:35,205" region="top"> Mitt band blev skickade<br/>till Vietnamkriget.</p>
+      <p begin="00:21:35,205" end="00:21:41,083" region="top"> De &#229;kte till kriget och jag gick klart<br/>min tr&#228;ning p&#229; Job Corps.</p>
+      <p begin="00:21:47,414" end="00:21:49,499"/>
+      <p begin="00:21:49,499" end="00:21:52,827"> </p>
+      <p begin="00:21:52,827" end="00:21:56,698">- Jag vill smaka p&#229; den d&#228;r, <br/>n&#228;r du &#246;ppnade s&#229; var det en pumpa.</p>
+      <p begin="00:21:56,698" end="00:21:58,097">- Ja, det &#228;r klart.</p>
+      <p begin="00:21:58,097" end="00:21:59,297">- Jag m&#229;ste smaka p&#229; det d&#228;r.</p>
+      <p begin="00:21:59,297" end="00:22:00,821">- Vi kan &#246;ppna den nu.</p>
+      <p begin="00:22:00,821" end="00:22:02,555">- Ett pumpa&#246;l, jag har aldrig <br/>h&#246;rt talas om pumpa&#246;l.</p>
+      <p begin="00:22:02,555" end="00:22:03,541">- Ja, vi kan dricka lite av det.</p>
+      <p begin="00:22:03,541" end="00:22:06,036">- Jag vill verkligen smaka.</p>
+      <p begin="00:22:06,132" end="00:22:07,265">- OK.</p>
+      <p begin="00:22:08,373" end="00:22:10,439">- Herregud, vad gott!</p>
+      <p begin="00:22:10,439" end="00:22:12,132">- Pumpa&#246;l?</p>
+      <p begin="00:22:12,132" end="00:22:13,572">- Seri&#246;st, det &#228;r helt otroligt.</p>
+      <p begin="00:22:13,572" end="00:22:14,406">- &#196;r det pumpa?</p>
+      <p begin="00:22:14,406" end="00:22:15,125">- Yo!</p>
+      <p begin="00:22:15,125" end="00:22:16,318">- &#196;r det pumpan?</p>
+      <p begin="00:22:16,318" end="00:22:20,223">- Det &#228;r s&#229; det p&#229;verkar vissa m&#228;nniskor.</p>
+      <p begin="00:22:20,223" end="00:22:21,316">- Gillar du det nu?</p>
+      <p begin="00:22:21,316" end="00:22:22,549">- Nej. - Gillar du det inte?</p>
+      <p begin="00:22:22,549" end="00:22:23,575">- Jag gillar det helt enkelt inte.</p>
+      <p begin="00:22:23,575" end="00:22:24,764">- Jag tycker det smakar uts&#246;kt.</p>
+      <p begin="00:22:24,764" end="00:22:27,111">- Det &#228;r n&#229;gon typ av, pumpasmak d&#228;r i.</p>
+      <p begin="00:22:27,296" end="00:22:29,471">- Att jobba med Charles Bradley<br/>&#228;r inte som att jobba med</p>
+      <p begin="00:22:29,471" end="00:22:31,083">Sharon Lee eller n&#229;gon av de andra</p>
+      <p begin="00:22:31,083" end="00:22:34,239">s&#229;ngarna fr&#229;n New York<br/>som jag ofta jobbar med</p>
+      <p begin="00:22:34,239" end="00:22:37,143">Charles har dom galnaste historierna.</p>
+      <p begin="00:22:37,339" end="00:22:38,983">De absolut galnaste.</p>
+      <p begin="00:22:38,983" end="00:22:42,967">Jag sitter med honom och, <br/>l&#229;tskrivare som jag &#228;r</p>
+      <p begin="00:22:43,075" end="00:22:45,738">h&#246;r jag hans historier och t&#228;nker att...</p>
+      <p begin="00:22:45,845" end="00:22:48,796">Det d&#228;r m&#229;ste vi g&#246;ra en s&#229;ng av.</p>
+      <p begin="00:22:48,796" end="00:22:51,394">S&#229; innan vi spelar in s&#229;ngen till en l&#229;t</p>
+      <p begin="00:22:51,394" end="00:22:54,150">s&#228;tter jag p&#229; musiken och</p>
+      <p begin="00:22:54,265" end="00:22:55,265">fr&#229;gar Charles om han gillar den.</p>
+      <p begin="00:22:55,288" end="00:22:58,550">Sedan sjunger jag mina ide&#233;r f&#246;r honom,<br/>hur jag tycker att det ska vara.</p>
+      <p begin="00:22:58,719" end="00:23:02,367">Inte f&#246;r att han avf&#228;rdar mina ide&#233;r,<br/>men han har sina egna</p>
+      <p begin="00:23:02,367" end="00:23:05,407">och han b&#246;rjar uttrycka dem direkt.</p>
+      <p begin="00:23:05,561" end="00:23:08,053">Han b&#246;rjar sjunga, och sen slutar vi</p>
+      <p begin="00:23:08,161" end="00:23:09,930">och b&#246;rjar prata om n&#229;got annat en stund.</p>
+      <p begin="00:23:09,930" end="00:23:11,289">- Pratar du med Charles</p>
+      <p begin="00:23:11,289" end="00:23:15,336">tillr&#228;ckligt l&#228;nge kommer du att<br/>f&#229; h&#246;ra historier.</p>
+      <p begin="00:23:15,336" end="00:23:18,842">Utan att jag fr&#229;gar, s&#229; b&#246;rjar han sjunga</p>
+      <p begin="00:23:18,842" end="00:23:20,549">om vad vi pratade om.</p>
+      <p begin="00:23:20,549" end="00:23:24,133">Sen h&#228;mtar jag en penna <br/>och l&#229;ter honom improvisera</p>
+      <p begin="00:23:24,133" end="00:23:25,887">om och om igen.</p>
+      <p begin="00:23:25,887" end="00:23:29,070">- Sen kollar vi igenom det igen<br/>och b&#246;rjar forma det till en s&#229;ng</p>
+      <p begin="00:23:29,070" end="00:23:30,708">l&#229;ngsamt, under ett par timmar.</p>
+      <p begin="00:23:30,815" end="00:23:34,330">Det &#228;r hans historier jag alltid<br/>f&#246;rs&#246;ker &#246;vers&#228;tta till en s&#229;ng.</p>
+      <p begin="00:23:34,453" end="00:23:39,721"/>
+      <p begin="00:23:39,875" end="00:23:45,113" region="top"> - Jag &#229;kte till Kalifornien 1977, <br/>jag s&#246;kte mina dr&#246;mmar, musiken.</p>
+      <p begin="00:23:46,251" end="00:23:48,326">Jag hoppade mellan olika band.</p>
+      <p begin="00:23:48,326" end="00:23:52,196">De sa: "Vi betalar dig 400 dollar<br/>f&#246;r att upptr&#228;da ikv&#228;ll".</p>
+      <p begin="00:23:52,303" end="00:23:55,370">Han betalade mig f&#246;r att<br/>upptr&#228;da den kv&#228;llen.</p>
+      <p begin="00:23:55,492" end="00:23:57,149">Det var s&#229; det funkade.</p>
+      <p begin="00:23:57,488" end="00:24:01,896">Det var d&#229;, vet inte varf&#246;r,<br/>s&#229; blev jag v&#228;ldigt sjuk.</p>
+      <p begin="00:24:02,035" end="00:24:06,613">Jag ringde min mamma<br/>och hon sa: "Kom hem."</p>
+      <p begin="00:24:09,290" end="00:24:12,653">Mamma b&#246;rjade bli gammal<br/>och hon har varit med om mycket.</p>
+      <p begin="00:24:12,745" end="00:24:16,686">Det &#228;r ju inte min uppgift att<br/>anklaga henne f&#246;r hur hon levt sitt liv.</p>
+      <p begin="00:24:17,686" end="00:24:21,707" region="top"> S&#229; jag kom tillbaka till New York 1994.</p>
+      <p begin="00:24:22,846" end="00:24:26,149" region="top"> Jag var riktigt sjuk, n&#228;ra att d&#246;.</p>
+      <p begin="00:24:26,826" end="00:24:29,243" region="top"> De f&#246;rde mig till Woodhulls sjukhus.</p>
+      <p begin="00:24:29,643" end="00:24:33,428" region="top"> Jag &#228;r allergisk mot penicillin<br/>och de gav mig penicillin</p>
+      <p begin="00:24:33,705" end="00:24:36,235" region="top"> och min kropp st&#228;ngdes av.</p>
+      <p begin="00:24:37,358" end="00:24:40,104" region="top"> Jag hade gett upp totalt.</p>
+      <p begin="00:24:41,919" end="00:24:49,562">D&#229; kom min bror Joseph<br/>och bes&#246;kte mig p&#229; sjukhuset.</p>
+      <p begin="00:24:50,070" end="00:24:52,881">Han b&#246;jde sig ner och pussade mig.</p>
+      <p begin="00:24:52,881" end="00:24:54,978">Han sa "Nej, nej, Charles."</p>
+      <p begin="00:24:55,163" end="00:24:56,783">Och han viskade i mitt &#246;ra</p>
+      <p begin="00:24:56,968" end="00:25:02,406">Han sa "Min bror, om du inte vill leva <br/>f&#246;r dig sj&#228;lv, lev f&#246;r mig!"</p>
+      <p begin="00:25:02,499" end="00:25:03,729">Han sa: "Charles, jag &#228;lskar dig."</p>
+      <p begin="00:25:04,175" end="00:25:05,559">"Du &#228;r mitt hj&#228;rta."</p>
+      <p begin="00:25:05,820" end="00:25:09,538">Jag sa: "Joe, jag ska k&#228;mpa.<br/>Jag ska k&#228;mpa."</p>
+      <p begin="00:25:09,661" end="00:25:15,579"/>
+      <p begin="00:25:15,579" end="00:25:19,675">Min bror sa till mig: <br/>"Charles, g&#246;r n&#229;got som du vill g&#246;ra."</p>
+      <p begin="00:25:20,120" end="00:25:21,254">"F&#246;lj dina dr&#246;mmar."</p>
+      <p begin="00:25:21,254" end="00:25:22,730">"Du &#228;lskar musik, g&#246;r musik."</p>
+      <p begin="00:25:22,730" end="00:25:24,529">Och jag sa: "Jag vill vara smart som du."</p>
+      <p begin="00:25:24,559" end="00:25:26,299">Han sa: "Nej brorsan, var inte som jag".</p>
+      <p begin="00:25:26,422" end="00:25:27,839">"F&#246;rs&#246;k aldrig vara jag. Var dig sj&#228;lv."</p>
+      <p begin="00:25:27,977" end="00:25:31,578" region="top"> - Det var hans kompis.</p>
+      <p begin="00:25:32,055" end="00:25:34,077" region="top"> Joe gillade, var galen i Charles.</p>
+      <p begin="00:25:34,200" end="00:25:37,948" region="top"> Han sa till Charles "Vad du &#228;n g&#246;r,<br/>g&#246;r det bra och forts&#228;tt k&#228;mpa."</p>
+      <p begin="00:25:38,056" end="00:25:39,662" region="top"> "L&#229;t inte n&#229;gon prata dig ur det."</p>
+      <p begin="00:25:39,969" end="00:25:42,668" region="top"> Det sa han innan han dog.</p>
+      <p begin="00:25:42,713" end="00:25:46,356" region="top"> Han sa:<br/>"L&#229;t inte n&#229;gon prata dig ur det."</p>
+      <p begin="00:25:46,402" end="00:26:02,360"/>
+      <p begin="00:26:02,530" end="00:26:04,640">- Han sa: "Jag kan inte g&#246;ra det som du."</p>
+      <p begin="00:26:04,716" end="00:26:06,824">Jag kommer ih&#229;g<br/>n&#228;r jag var liten, i Florida.</p>
+      <p begin="00:26:07,009" end="00:26:10,779">Joseph gick p&#229; pianoskola<br/>och l&#228;rde sig alla sm&#229; detaljer,</p>
+      <p begin="00:26:10,932" end="00:26:13,016">Jag l&#228;rde mig spela piano,<br/>genom att kolla p&#229; honom.</p>
+      <p begin="00:26:13,724" end="00:26:16,478">Han visste aldrig detta - <br/>jag gjorde det sj&#228;lv.</p>
+      <p begin="00:26:17,216" end="00:26:19,815">Han sa: "F&#246;lj dina dr&#246;mmar inom musiken"</p>
+      <p begin="00:26:19,815" end="00:26:23,997">Han sa: "Ta ett av rummen <br/>och fixa till det"</p>
+      <p begin="00:26:24,135" end="00:26:27,244">"G&#246;r det till ditt rum <br/>dit folk kan komma och repa."</p>
+      <p begin="00:26:27,367" end="00:26:28,664">Det var det jag gjorde.</p>
+      <p begin="00:26:29,171" end="00:26:31,328">Joey var b&#229;de som en pappa och en bror.</p>
+      <p begin="00:26:31,421" end="00:26:33,748">Han var en underbar bror.</p>
+      <p begin="00:26:33,867" end="00:26:39,326"/>
+      <p begin="00:26:39,326" end="00:26:40,813">- Jaha, var &#228;r frukten?</p>
+      <p begin="00:26:44,336" end="00:26:48,283"/>
+      <p begin="00:26:48,283" end="00:26:49,966">- R&#228;cker det?</p>
+      <p begin="00:26:49,966" end="00:26:51,130">- Lite mer.</p>
+      <p begin="00:26:51,269" end="00:26:52,598">- Ja, s&#228;tt dig ner Charles, och &#228;t.</p>
+      <p begin="00:26:52,598" end="00:26:54,603">- Jag g&#246;r bara lite frukost.</p>
+      <p begin="00:26:54,603" end="00:26:55,804">- Jag &#228;r inte hungrig,<br/>det vet du. Men &#228;t du.</p>
+      <p begin="00:26:55,942" end="00:26:59,512">Sen b&#246;rjar vi prata om vad du har gjort.</p>
+      <p begin="00:26:59,620" end="00:27:00,716">- Okej, jag st&#228;ller den h&#228;r &#229;t dig.</p>
+      <p begin="00:27:00,716" end="00:27:02,300">- Det g&#229;r bra.</p>
+      <p begin="00:27:02,300" end="00:27:03,548">Jag l&#228;r upp Charles.</p>
+      <p begin="00:27:03,671" end="00:27:07,320" region="top"> Jag skulle s&#228;ga att han &#228;r<br/>ungef&#228;r p&#229; dagis- eller f&#246;rstaklassniv&#229;</p>
+      <p begin="00:27:07,458" end="00:27:09,933" region="top"> n&#228;r det g&#228;ller l&#228;sf&#246;rst&#229;else.</p>
+      <p begin="00:27:10,179" end="00:27:15,653">- &#196;r de intresserade av min story?</p>
+      <p begin="00:27:15,653" end="00:27:17,142">- Okej, du gjorde ljuden.</p>
+      <p begin="00:27:17,142" end="00:27:19,132">F&#246;rstod du vad du l&#228;ste?</p>
+      <p begin="00:27:21,228" end="00:27:24,710">- Hm, ja och nej.</p>
+      <p begin="00:27:24,710" end="00:27:26,320">- Ja och nej.</p>
+      <p begin="00:27:26,320" end="00:27:27,093">- Charles?</p>
+      <p begin="00:27:27,093" end="00:27:28,407">- Hm?</p>
+      <p begin="00:27:28,407" end="00:27:29,819" region="top"> - Lunchen var j&#228;ttegod.</p>
+      <p begin="00:27:29,927" end="00:27:31,307">- Tack, mamma.</p>
+      <p begin="00:27:31,953" end="00:27:37,271">- Jag tror hans fr&#228;msta m&#229;l &#228;r att <br/>kunna skriva sina egna texter snabbt</p>
+      <p begin="00:27:37,271" end="00:27:40,080">s&#229; fort de kommer in i hans huvud,</p>
+      <p begin="00:27:40,080" end="00:27:43,296">f&#246;r han har m&#229;nga ord i huvudet<br/>som han vill skriva ner p&#229; papper.</p>
+      <p begin="00:27:43,404" end="00:27:45,309">Men han vet inte hur man g&#246;r.</p>
+      <p begin="00:27:45,355" end="00:27:46,372">- Du svarade inte "An" r&#228;tt. - OK</p>
+      <p begin="00:27:46,372" end="00:27:48,381">- Jaha, tv&#229; N?</p>
+      <p begin="00:27:48,381" end="00:27:49,498">- Bara ett N, inget D.</p>
+      <p begin="00:27:49,498" end="00:27:51,239">- Jaha, N.</p>
+      <p begin="00:27:51,239" end="00:27:53,705">- F&#246;r ordet OCH &#228;r n&#228;r du <br/>pratar om tv&#229; saker som du s&#228;tter ihop..</p>
+      <p begin="00:27:53,705" end="00:27:55,332">- Okej, jag f&#246;rst&#229;r.</p>
+      <p begin="00:27:55,332" end="00:27:56,661">- Fish AND chips.</p>
+      <p begin="00:27:56,907" end="00:27:58,399">- OK. Jag kommer sakna dig.</p>
+      <p begin="00:27:58,569" end="00:28:00,934">- Hejd&#229; Charles. Vi ses n&#228;sta vecka.</p>
+      <p begin="00:28:01,103" end="00:28:02,172">Tack.</p>
+      <p begin="00:28:02,203" end="00:28:30,261"/>
+      <p begin="00:28:30,261" end="00:28:32,411">- Kom in.</p>
+      <p begin="00:28:32,498" end="00:28:36,180">- Tar du det? Du kan l&#228;sa senare.<br/>Sluta med det d&#228;r nu.</p>
+      <p begin="00:28:36,365" end="00:28:38,008">- Nej. Stick h&#228;r ifr&#229;n. - B&#246;rja jobba.</p>
+      <p begin="00:28:39,547" end="00:28:41,505">- Du vet att jag &#228;ger dig.<br/>Du vet att jag &#228;r bossen.</p>
+      <p begin="00:28:42,398" end="00:28:44,711">- Du &#246;nskar s&#228;kert att du var det.</p>
+      <p begin="00:28:44,726" end="00:28:46,157">- Tack, Mr. Brown.</p>
+      <p begin="00:28:47,265" end="00:28:52,004">- Charles brukade ha p&#229; sig sin<br/>James Brown-peruk hela tiden, eller hur?</p>
+      <p begin="00:28:52,096" end="00:28:53,733">- Hela tiden.</p>
+      <p begin="00:28:53,825" end="00:28:56,263">Och nu n&#228;r skivsl&#228;ppet n&#228;rmar sig<br/>blir det: "H&#246;rru Charles."</p>
+      <p begin="00:28:56,325" end="00:28:58,766">"Du m&#229;ste presentera dig som <br/>Charles Bradley."</p>
+      <p begin="00:28:58,766" end="00:29:00,342">Det var sv&#229;rt f&#246;r honom.</p>
+      <p begin="00:29:00,342" end="00:29:02,154">Jag menar, han ville ha p&#229; sig capen<br/>och k&#246;ra James Brown-grejen.</p>
+      <p begin="00:29:02,154" end="00:29:03,786">Och bara vara det.</p>
+      <p begin="00:29:03,786" end="00:29:05,815">F&#246;r det &#228;r det han &#228;r van <br/>att g&#246;ra p&#229; scenen.</p>
+      <p begin="00:29:05,860" end="00:29:07,919">Och det ville vi inte ha.</p>
+      <p begin="00:29:07,919" end="00:29:09,910">Vi ville att Charles skulle vara Charles.</p>
+      <p begin="00:29:10,002" end="00:29:12,183">Det tog en del &#246;vertalning f&#246;r att<br/>f&#229; Charles att g&#246;ra det.</p>
+      <p begin="00:29:12,183" end="00:29:20,122"/>
+      <p begin="00:29:20,122" end="00:29:23,090">- Charles har en skiva<br/>som sl&#228;pps 25:e januari.</p>
+      <p begin="00:29:23,213" end="00:29:26,082">S&#229; nu b&#246;rjar reklamkampanjen f&#246;r skivan.</p>
+      <p begin="00:29:26,190" end="00:29:30,087">- Jag ska p&#229; turn&#233; med Sharon Jones<br/>som hennes &#246;ppningsartist.</p>
+      <p begin="00:29:31,170" end="00:29:36,461">Sharon Jones ger mig en chans att <br/>visa upp min musik s&#229;</p>
+      <p begin="00:29:36,630" end="00:29:39,064">att v&#228;rlden f&#229;r reda p&#229; <br/>vem Charles Bradley &#228;r.</p>
+      <p begin="00:29:39,926" end="00:29:43,627">- Det &#228;r sp&#228;nnande f&#246;r oss som skivbolag<br/>att kunna presentera</p>
+      <p begin="00:29:43,735" end="00:29:48,459">konsertpaket som detta<br/>och Charles &#228;r perfekt att l&#228;gga till</p>
+      <p begin="00:29:48,566" end="00:29:51,911">i vilken konsert som helst, <br/>och se till att hans namn n&#229;r ut</p>
+      <p begin="00:29:51,951" end="00:29:53,779">med band som varit framg&#229;ngsrika.</p>
+      <p begin="00:29:53,995" end="00:29:56,188">- Om vi &#229;ker till ett st&#228;lle d&#228;r det <br/>kommer upp till 1000 m&#228;nniskor</p>
+      <p begin="00:29:56,280" end="00:29:59,559">f&#246;r att se Sharon, att f&#229; chansen<br/>att spela inf&#246;r en s&#229;dan publik &#228;r...</p>
+      <p begin="00:29:59,682" end="00:30:02,230">ett riktigt bra f&#246;rspr&#229;ng.</p>
+      <p begin="00:30:02,938" end="00:30:05,211">Hittills har Sharon Jones och Dap-Kings</p>
+      <p begin="00:30:05,319" end="00:30:08,880">varit v&#229;ra mest produktiva och <br/>framg&#229;ngsrika artister.</p>
+      <p begin="00:30:09,003" end="00:30:12,122">De artister som funnits l&#228;ngst, <br/>turnerat mest och s&#229;lt</p>
+      <p begin="00:30:12,230" end="00:30:13,853">du vet, tio g&#229;nger fler skivor.</p>
+      <p begin="00:30:14,088" end="00:30:23,039"/>
+      <p begin="00:30:23,039" end="00:30:26,088">- Har inte haft en bra spelning <br/>p&#229; ett &#229;r eller s&#229;</p>
+      <p begin="00:30:26,211" end="00:30:28,227">han har dessutom inte haft</p>
+      <p begin="00:30:28,227" end="00:30:40,614">s&#229; m&#229;nga spelningar som Charles Bradley.</p>
+      <p begin="00:30:40,614" end="00:30:43,035">- Att jobba med Bradley live <br/>&#228;r lite stressande</p>
+      <p begin="00:30:43,112" end="00:30:46,203">f&#246;r han kan b&#246;rja ta ut sv&#228;ngarna <br/>i en l&#229;t n&#228;r som helst.</p>
+      <p begin="00:30:52,756" end="00:30:58,282">- Amerika. Vi m&#229;ste g&#246;ra det h&#228;r rummet <br/>till en b&#228;ttre plats.</p>
+      <p begin="00:30:58,605" end="00:31:01,159">Kom igen, nu k&#246;r vi</p>
+      <p begin="00:31:01,886" end="00:31:04,218">&#9834; Ingen tid att dr&#246;mma &#9834;</p>
+      <p begin="00:31:04,218" end="00:31:05,546">&#9834; Dr&#246;mma, dr&#246;mma.. &#9834;</p>
+      <p begin="00:31:05,546" end="00:31:06,408">&#9834; M&#229;ste ta mig upp. &#9834;</p>
+      <p begin="00:31:06,408" end="00:31:08,089">&#9834; Upp. &#9834;</p>
+      <p begin="00:31:08,089" end="00:31:10,747">&#9834; M&#229;ste g&#246;ra din grej, oooh &#9834;</p>
+      <p begin="00:31:10,931" end="00:31:13,135">&#9834; Ingen tid att dr&#246;mma &#9834;</p>
+      <p begin="00:31:13,135" end="00:31:14,401">&#9834; Dr&#246;mma, dr&#246;mma. &#9834;</p>
+      <p begin="00:31:14,711" end="00:31:15,766">&#9834; M&#229;ste ta dig upp. &#9834;</p>
+      <p begin="00:31:15,846" end="00:31:16,817">Upp med dig. &#9834;</p>
+      <p begin="00:31:16,817" end="00:31:18,235">&#9834; M&#229;ste g&#246;ra din grej &#9834;</p>
+      <p begin="00:31:18,235" end="00:31:19,611">&#9834; G&#246;ra din grej.. &#9834;</p>
+      <p begin="00:31:19,611" end="00:31:22,030">&#9834; Sov medan du sover &#9834;</p>
+      <p begin="00:31:22,030" end="00:31:24,074">&#9834; Tr&#246;tt p&#229; att krypa fram &#9834;</p>
+      <p begin="00:31:24,074" end="00:31:25,325">&#9834; Vakna! &#9834;</p>
+      <p begin="00:31:25,325" end="00:31:28,412">&#9834; Innan det &#228;r f&#246;r sent. &#9834;</p>
+      <p begin="00:31:28,412" end="00:31:30,956">&#9834; F&#246;rs&#246;k lite mer! &#9834;</p>
+      <p begin="00:31:30,956" end="00:31:32,958">&#9834; Sluta t&#228;nka p&#229; annat.. &#9834;</p>
+      <p begin="00:31:32,958" end="00:31:34,376">&#9834; Vakna! &#9834;</p>
+      <p begin="00:31:34,376" end="00:31:35,669">&#9834; Du kommer f&#229; din chans. &#9834;</p>
+      <p begin="00:31:35,669" end="00:31:37,295">&#9834; Huh! &#9834;</p>
+      <p begin="00:31:37,295" end="00:31:39,548">&#9834; Ingen tid att dr&#246;mma. &#9834;</p>
+      <p begin="00:31:39,548" end="00:31:40,983">&#9834; Dr&#246;mma, dr&#246;mma.. &#9834;</p>
+      <p begin="00:31:40,983" end="00:31:41,788">&#9834; M&#229;ste ta mig upp. &#9834;</p>
+      <p begin="00:31:41,788" end="00:31:43,362">&#9834; Upp med dig! &#9834;</p>
+      <p begin="00:31:43,362" end="00:31:44,803">&#9834; M&#229;ste g&#246;ra din grej. &#9834;</p>
+      <p begin="00:31:44,803" end="00:31:46,517">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:31:46,517" end="00:31:48,379">&#9834; Ingen tid att dr&#246;mma. &#9834;</p>
+      <p begin="00:31:48,379" end="00:31:49,596">&#9834; Dr&#246;mma, dr&#246;mma.. &#9834;</p>
+      <p begin="00:31:49,596" end="00:31:50,811">&#9834; M&#229;ste ta mig upp. &#9834;</p>
+      <p begin="00:31:50,811" end="00:31:52,076">&#9834; Upp med dig. &#9834;</p>
+      <p begin="00:31:52,076" end="00:31:52,912">&#9834; M&#229;ste g&#246;ra din grej &#9834;</p>
+      <p begin="00:31:52,912" end="00:31:54,185">&#9834; Och g&#246;ra din grej &#9834;</p>
+      <p begin="00:31:54,185" end="00:31:55,188">&#9834; Hey... &#9834;</p>
+      <p begin="00:31:55,188" end="00:32:02,572"/>
+      <p begin="00:32:02,572" end="00:32:03,710">&#9834; Hey... &#9834;</p>
+      <p begin="00:32:03,710" end="00:32:05,449"/>
+      <p begin="00:32:05,449" end="00:32:06,992">&#9834; M&#229;ste &#9834;</p>
+      <p begin="00:32:06,992" end="00:32:10,329">&#9834; Ge &#9834;</p>
+      <p begin="00:32:10,329" end="00:32:13,081">&#9834; Yeah &#9834;</p>
+      <p begin="00:32:13,081" end="00:32:14,751">&#9834; Ingen tid att dr&#246;mma. &#9834;</p>
+      <p begin="00:32:14,751" end="00:32:15,835">&#9834; Dr&#246;mma, dr&#246;mma.. &#9834;</p>
+      <p begin="00:32:16,565" end="00:32:17,743">&#9834; M&#229;ste ta mig upp &#9834;</p>
+      <p begin="00:32:17,793" end="00:32:18,696">&#9834; Upp med dig &#9834;</p>
+      <p begin="00:32:18,696" end="00:32:19,464">&#9834; M&#229;ste g&#246;ra din grej &#9834;</p>
+      <p begin="00:32:19,464" end="00:32:21,002">&#9834; Ohhh... &#9834;</p>
+      <p begin="00:32:21,002" end="00:32:23,800">&#9834; Huh! Ingen tid att dr&#246;mma &#9834;</p>
+      <p begin="00:32:23,800" end="00:32:25,510">&#9834; Dr&#246;mma, dr&#246;mma.. &#9834;</p>
+      <p begin="00:32:25,510" end="00:32:26,672">&#9834; M&#229;ste ta dig upp &#9834;</p>
+      <p begin="00:32:26,722" end="00:32:27,729">&#9834; Upp med dig &#9834;</p>
+      <p begin="00:32:27,729" end="00:32:28,889">&#9834; M&#229;ste g&#246;ra din grej &#9834;</p>
+      <p begin="00:32:28,889" end="00:32:31,372">&#9834; G&#246;r din grej &#9834;</p>
+      <p begin="00:32:31,557" end="00:32:36,314">&#9834; Ingen tid att dr&#246;mma &#9834;</p>
+      <p begin="00:32:36,314" end="00:32:39,748">&#9834; Du m&#229;ste ta dig upp. &#9834;</p>
+      <p begin="00:32:39,748" end="00:32:43,445">&#9834; Och g&#246;ra din grej. &#9834;</p>
+      <p begin="00:32:43,445" end="00:32:44,444"/>
+      <p begin="00:32:44,444" end="00:32:45,781"/>
+      <p begin="00:32:45,781" end="00:32:47,916">- Jag &#228;lskar dig, Charles.</p>
+      <p begin="00:32:47,916" end="00:32:51,705">- Jag &#228;lskar er med, jag &#228;lskar er med.</p>
+      <p begin="00:32:51,705" end="00:32:52,914">- Jag &#228;lskar dig, Charles.</p>
+      <p begin="00:32:52,914" end="00:32:54,456">- Jag &#228;lskar dig med.</p>
+      <p begin="00:32:54,456" end="00:32:56,875"/>
+      <p begin="00:32:56,875" end="00:33:01,157">- En stor appl&#229;d f&#246;r Charles Bradley.</p>
+      <p begin="00:33:02,448" end="00:33:06,598">Visa er k&#228;rlek f&#246;r Mr. Charles Bradley.</p>
+      <p begin="00:33:07,690" end="00:33:09,788">- Ok, du &#228;r smartare.</p>
+      <p begin="00:33:09,788" end="00:33:10,871">- B&#228;ttre &#228;n ig&#229;r eller hur?</p>
+      <p begin="00:33:10,871" end="00:33:11,960">- Ja, det var det.</p>
+      <p begin="00:33:11,960" end="00:33:12,887">- Det var b&#228;ttre. - Den satt.</p>
+      <p begin="00:33:12,887" end="00:33:13,885">- S&#229; vi vann.</p>
+      <p begin="00:33:13,885" end="00:33:14,853">- Det gjorde vi.</p>
+      <p begin="00:33:14,853" end="00:33:15,603">- Hur l&#229;ngt var det?</p>
+      <p begin="00:33:15,603" end="00:33:18,478">- Jag gjorde ett par misstag ikv&#228;ll.</p>
+      <p begin="00:33:18,616" end="00:33:20,818">Men jag blir b&#228;ttre och jag k&#228;nner det.</p>
+      <p begin="00:33:20,941" end="00:33:22,948">Publiken s&#229;g det inte, men jag k&#228;nner det.</p>
+      <p begin="00:33:23,071" end="00:33:24,848">Och Tom, han vet.</p>
+      <p begin="00:33:25,156" end="00:33:28,084">Jag var bra p&#229; den senaste.</p>
+      <p begin="00:33:28,484" end="00:33:31,641">Jag blir fundersam n&#228;r jag g&#246;r ett misstag</p>
+      <p begin="00:33:31,748" end="00:33:34,127">men jag blir b&#228;ttre. Jag lovar det.</p>
+      <p begin="00:33:34,389" end="00:33:37,651">- Vi f&#246;rst&#229;r inte att de inte l&#228;t dig<br/>spela mer.</p>
+      <p begin="00:33:37,651" end="00:33:38,949">Vi ville h&#246;ra mer.</p>
+      <p begin="00:33:38,949" end="00:33:40,928">Varf&#246;r kom du inte tillbaka i slutet?</p>
+      <p begin="00:33:41,043" end="00:33:42,797">S&#228;g det till henne.</p>
+      <p begin="00:33:42,797" end="00:33:44,506"/>
+      <p begin="00:33:44,506" end="00:33:46,574">- Jag bryr mig inte. Vi vill h&#246;ra mer.</p>
+      <p begin="00:33:46,666" end="00:33:48,404">Mer fr&#229;n Chuckie.</p>
+      <p begin="00:33:48,912" end="00:33:49,640">- Tack kompis.</p>
+      <p begin="00:33:49,640" end="00:33:51,392">Tack f&#246;r det.</p>
+      <p begin="00:33:51,392" end="00:33:52,705">Du fick adrenalinet att pumpa i oss alla.</p>
+      <p begin="00:33:52,745" end="00:33:53,669">Tack.</p>
+      <p begin="00:33:53,669" end="00:33:55,631">- Du lyfte taket p&#229; st&#228;llet.</p>
+      <p begin="00:33:55,816" end="00:33:58,677">- Fantastiskt, du kommer bli stor mannen!</p>
+      <p begin="00:33:58,877" end="00:34:01,061">- Jag f&#246;rst&#229;r inte vad folk menar med diva</p>
+      <p begin="00:34:01,184" end="00:34:03,732">f&#246;r det d&#228;r ordet kan ge fel intryck.</p>
+      <p begin="00:34:03,793" end="00:34:04,862">- Men det passar p&#229; dig.</p>
+      <p begin="00:34:04,862" end="00:34:07,674">- Diva betyder, det beror p&#229;.</p>
+      <p begin="00:34:07,798" end="00:34:08,955">- Ja.</p>
+      <p begin="00:34:09,232" end="00:34:10,866">- Det &#228;r sagt med k&#228;rlek, man m&#229;ste<br/>alltid ta h&#228;nsyn till k&#228;llan.</p>
+      <p begin="00:34:10,866" end="00:34:11,715">- Den h&#228;r &#228;r till dig.</p>
+      <p begin="00:34:11,715" end="00:34:13,367">- "Man m&#229;ste t&#228;nka p&#229; k&#228;llan."</p>
+      <p begin="00:34:13,367" end="00:34:14,453">- Ha en bra vecka.</p>
+      <p begin="00:34:14,453" end="00:34:17,521">- Du skrev inte "Till Charles".<br/>Du skrev inte "Till Charles"</p>
+      <p begin="00:34:17,521" end="00:34:20,460">- Charles, hur stavar man Bradley?</p>
+      <p begin="00:34:20,460" end="00:34:21,965">- Bradley. B-R-A-D-L-E-Y.</p>
+      <p begin="00:34:21,965" end="00:34:23,480">- L- E-Y?</p>
+      <p begin="00:34:23,480" end="00:34:25,078">- Det st&#228;mmer.</p>
+      <p begin="00:34:25,078" end="00:34:26,148">- Du har k&#228;nslan.</p>
+      <p begin="00:34:28,843" end="00:34:30,669">- Jag &#228;lskar dig, Sharon.</p>
+      <p begin="00:34:30,669" end="00:34:31,699">- Jag &#228;lskar dig med.</p>
+      <p begin="00:34:31,776" end="00:34:35,165" region="top"> - Du har hittat en riktig v&#228;n i mig,</p>
+      <p begin="00:34:35,165" end="00:34:37,539">- Jag &#246;nskar dig allt gott, och &#228;ven oss.</p>
+      <p begin="00:34:37,631" end="00:34:41,974">- Om jag inte m&#246;ter er p&#229; toppen,<br/>s&#229; kommer jag m&#246;ta er i himlen.</p>
+      <p begin="00:34:42,158" end="00:34:43,982">- Du kommer att se mig, <br/>du kommer m&#246;ta mig p&#229; toppen,</p>
+      <p begin="00:34:43,982" end="00:34:45,401">och du kommer m&#246;ta mig i himlen.</p>
+      <p begin="00:34:45,401" end="00:34:46,933">Du kommer att se mig h&#228;r nere med.</p>
+      <p begin="00:34:46,933" end="00:34:48,530">- Jag &#228;lskar dig, Sharon.</p>
+      <p begin="00:34:48,530" end="00:34:49,757">- Jag &#228;lskar dig med, Charles!</p>
+      <p begin="00:34:50,030" end="00:35:09,633"/>
+      <p begin="00:35:09,633" end="00:35:11,844">- Poughkeepsie</p>
+      <p begin="00:35:13,059" end="00:35:17,141">- Jag ska &#229;ka och tr&#228;ffa gamla v&#228;nner<br/>som jag inte har tr&#228;ffat p&#229; &#229;ratal.</p>
+      <p begin="00:35:17,141" end="00:35:19,559"/>
+      <p begin="00:35:19,559" end="00:35:25,315"/>
+      <p begin="00:35:25,315" end="00:35:27,506">- Jag sa: "Jag hoppas <br/>de fortfarande &#228;r d&#228;r."</p>
+      <p begin="00:35:27,506" end="00:35:29,235">- Japp, vi finns alltid h&#228;r f&#246;r dig.</p>
+      <p begin="00:35:29,235" end="00:35:32,649">- Wow, det luktar gott h&#228;r!</p>
+      <p begin="00:35:32,649" end="00:35:35,143">- Vad h&#228;nder kompis? Hur m&#229;r du?</p>
+      <p begin="00:35:35,143" end="00:35:36,623">- Det var l&#228;nge sen.</p>
+      <p begin="00:35:36,623" end="00:35:38,277">- Verkligen. Du ser cool ut.</p>
+      <p begin="00:35:38,277" end="00:35:39,789">- Oj, du ser ocks&#229; bra ut.</p>
+      <p begin="00:35:39,789" end="00:35:42,040">&#196;r det d&#228;r Jackie?</p>
+      <p begin="00:35:42,040" end="00:35:44,251">Kolla p&#229; Jackie!</p>
+      <p begin="00:35:44,251" end="00:35:46,675">Hur m&#229;r du?</p>
+      <p begin="00:35:47,647" end="00:35:49,383" region="top"> Jag har k&#228;nt den h&#228;r killen</p>
+      <p begin="00:35:49,383" end="00:35:53,616" region="top"> Ernie Washington sedan 1968.</p>
+      <p begin="00:35:53,616" end="00:35:54,345" region="top"> - Vet du vad hon letade efter nu?</p>
+      <p begin="00:35:54,345" end="00:35:55,660" region="top"> - Va?</p>
+      <p begin="00:35:55,660" end="00:35:56,825" region="top"> - Kommer du ih&#229;g n&#228;r <br/>du brukade anv&#228;nda den d&#228;r capen?</p>
+      <p begin="00:35:56,825" end="00:35:59,182">- Du sj&#246;ng en James Brown-l&#229;t</p>
+      <p begin="00:35:59,182" end="00:36:01,268">och du kastade av capen..</p>
+      <p begin="00:36:01,268" end="00:36:04,841">Och jag vet inte vem av oss som <br/>plockade upp capen</p>
+      <p begin="00:36:04,841" end="00:36:06,485">och h&#228;ngde den p&#229; dina axlar.</p>
+      <p begin="00:36:06,485" end="00:36:07,388">- Ja, jag kommer ih&#229;g det.</p>
+      <p begin="00:36:07,388" end="00:36:08,359">- Ja.</p>
+      <p begin="00:36:08,359" end="00:36:10,030">- Ja, jag kommer ih&#229;g det.</p>
+      <p begin="00:36:10,030" end="00:36:11,383">- Det st&#228;mmer.</p>
+      <p begin="00:36:11,460" end="00:36:13,392">Man visste inte att du skulle g&#229; s&#229; l&#229;ngt?</p>
+      <p begin="00:36:13,515" end="00:36:15,925">- Jag tackar Gud att jag inte gav upp.</p>
+      <p begin="00:36:15,925" end="00:36:17,676">- Tack Gud.</p>
+      <p begin="00:36:17,676" end="00:36:18,704">- L&#229;t mig prata med Tom.</p>
+      <p begin="00:36:18,781" end="00:36:24,243">S&#228;g till Tom att Mr. och Mrs. Washington<br/>ska finnas p&#229; g&#228;stlistan.</p>
+      <p begin="00:36:24,720" end="00:36:25,831">Jag hittade mina v&#228;nner.</p>
+      <p begin="00:36:26,047" end="00:36:27,523">De &#228;r verkligen min familj.</p>
+      <p begin="00:36:27,692" end="00:36:29,254">Vi h&#229;ller kontakten med varandra,</p>
+      <p begin="00:36:29,254" end="00:36:31,112">vi kan vara l&#229;ngt ifr&#229;n varandra<br/>men f&#246;rr eller senare</p>
+      <p begin="00:36:31,112" end="00:36:32,240">kommer vi hitta varandra.</p>
+      <p begin="00:36:32,270" end="00:36:33,013">- Det st&#228;mmer.</p>
+      <p begin="00:36:33,013" end="00:36:34,197">- Det vet du Jackie.</p>
+      <p begin="00:36:34,197" end="00:36:35,631">- Ja, vi har varit v&#228;nner v&#228;ldigt l&#228;nge.</p>
+      <p begin="00:36:35,631" end="00:36:37,020">- Ja, ja. Gud ja.</p>
+      <p begin="00:36:37,958" end="00:36:40,386">Jag f&#229;r g&#229;shud n&#228;r jag t&#228;nker p&#229; det.</p>
+      <p begin="00:36:40,510" end="00:36:42,545">Vi ses ikv&#228;ll!</p>
+      <p begin="00:36:42,545" end="00:36:44,309">- Ta hand om er, s&#229; ses vi ikv&#228;ll.</p>
+      <p begin="00:36:44,309" end="00:36:45,688">- Okej, hejd&#229;.</p>
+      <p begin="00:36:47,196" end="00:36:51,122">Herregud, vilken nostalgitripp.</p>
+      <p begin="00:36:54,459" end="00:36:55,824">P&#229; South Road </p>
+      <p begin="00:36:55,824" end="00:37:01,724">stod jag i ett hus d&#228;r borta<br/>n&#228;r det var sn&#246;storm.</p>
+      <p begin="00:37:01,724" end="00:37:02,788">Jag ringde och sa att jag var sjuk</p>
+      <p begin="00:37:02,788" end="00:37:06,045">f&#246;r jag ville inte g&#229; ut i sn&#246;n.</p>
+      <p begin="00:37:06,045" end="00:37:08,960">D&#229; sa han: "Du ringer dig sjuk igen,<br/>om du inte kommer in</p>
+      <p begin="00:37:08,960" end="00:37:10,920">beh&#246;ver du inte komma tillbaka igen."</p>
+      <p begin="00:37:10,920" end="00:37:15,699">Jag sa: "Jag vill inte f&#246;rlora mitt jobb<br/>och min l&#228;genhet, m&#229;ste betala hyran."</p>
+      <p begin="00:37:15,776" end="00:37:19,022">S&#229; jag gick ut p&#229; gatan<br/>och f&#246;rs&#246;kte f&#229; lift.</p>
+      <p begin="00:37:19,036" end="00:37:21,131">Lifta, lifta.</p>
+      <p begin="00:37:21,162" end="00:37:23,322">D&#229; pl&#246;tsligt, s&#229;g jag att <br/>en kille stannade.</p>
+      <p begin="00:37:23,430" end="00:37:24,853">Han plockade upp mig, <br/>och jag satte mig i bilen.</p>
+      <p begin="00:37:24,945" end="00:37:29,243">Efter ett par kilometer s&#229; s&#229;g jag polisen</p>
+      <p begin="00:37:29,243" end="00:37:31,885">med sirener p&#229;, som bad honom stanna.</p>
+      <p begin="00:37:31,885" end="00:37:37,043">En kom fram och sa:<br/>"Kan jag f&#229; se ditt leg?"</p>
+      <p begin="00:37:38,012" end="00:37:39,613">"Vem &#228;r det bredvid dig?"</p>
+      <p begin="00:37:39,613" end="00:37:41,410">Jag sa: "Det kan inte jag svara p&#229;."</p>
+      <p begin="00:37:41,410" end="00:37:42,577">"Det f&#229;r du fr&#229;ga honom om."</p>
+      <p begin="00:37:42,577" end="00:37:45,780">Han tog tag i mig, och sa "Listiga neger".</p>
+      <p begin="00:37:45,964" end="00:37:47,708">Han kastade mig mot polisbilen</p>
+      <p begin="00:37:47,708" end="00:37:49,293">och satte p&#229; mig handf&#228;ngsel.</p>
+      <p begin="00:37:49,293" end="00:37:51,473">Han sa: "Jag skulle kunna ta dig <br/>till skogen och spr&#228;cka din skalle."</p>
+      <p begin="00:37:51,627" end="00:37:53,760">Var inte spydig n&#228;r jag st&#228;ller en fr&#229;ga.</p>
+      <p begin="00:37:53,898" end="00:37:57,488">Jag stannade d&#228;r, tills hans kollega kom<br/>och sa: "H&#246;rru."</p>
+      <p begin="00:37:57,611" end="00:37:59,940">Tog honom avsides, sa n&#229;got till honom.</p>
+      <p begin="00:38:00,760" end="00:38:03,379">Sen bad hans kollega mig om urs&#228;kt.</p>
+      <p begin="00:38:03,610" end="00:38:06,659">Tog av handf&#228;ngslet och sa &#229;t mig att <br/>s&#228;tta mig i bilen och &#229;ka vidare.</p>
+      <p begin="00:38:06,797" end="00:38:07,833">Och jag &#229;kte iv&#228;g.</p>
+      <p begin="00:38:09,372" end="00:38:10,856">Och jag &#229;kte till en liten pizzeria.</p>
+      <p begin="00:38:10,856" end="00:38:12,774">V&#228;ldigt liten pizzeria.</p>
+      <p begin="00:38:12,774" end="00:38:14,298">Jag satt ner och t&#228;nkte: <br/>"Herregud, jag klarar inte detta."</p>
+      <p begin="00:38:14,298" end="00:38:15,844">"Jag &#228;r p&#229; botten nu."</p>
+      <p begin="00:38:16,782" end="00:38:22,317">Jag f&#246;rs&#246;kte komma p&#229; ett s&#228;tt att <br/>slippa den h&#228;r kroppen, snabbt</p>
+      <p begin="00:38:22,486" end="00:38:26,737">utan att det g&#246;r ont, utan misstag</p>
+      <p begin="00:38:26,921" end="00:38:28,892">s&#229; jag skulle fasta i ett liv <br/>som bara var lidande.</p>
+      <p begin="00:38:29,076" end="00:38:32,760">
+        <span tts:fontStyle="italic">Jag t&#228;nkte att om en buss eller lastbil<br/>k&#246;r p&#229; mig </span>
+      </p>
+      <p begin="00:38:32,863" end="00:38:33,863">
+        <span tts:fontStyle="italic">f&#246;rsvinner jag, men om det &#228;r en bil <br/>kan jag &#246;verleva.</span>
+      </p>
+      <p begin="00:38:33,883" end="00:38:36,175">Jag skulle f&#246;rs&#246;ka klara det, <br/>att v&#229;ga g&#246;ra det.</p>
+      <p begin="00:38:37,110" end="00:38:40,769">D&#229; kom det in en man <br/>och la pengar i jukeboxen</p>
+      <p begin="00:38:40,954" end="00:38:45,044">och han spelade s&#229;ngen:<br/>"Take It To The Limit One More Time"</p>
+      <p begin="00:38:46,028" end="00:38:48,439">Det k&#228;ndes som att Gud pratade med mig,</p>
+      <p begin="00:38:48,546" end="00:38:53,912">Jag var nere p&#229; botten. <br/>Jag h&#246;rde l&#229;ten och b&#246;rjade gr&#229;ta.</p>
+      <p begin="00:38:54,128" end="00:38:56,943">Till och med killen p&#229; pizzerian sa:</p>
+      <p begin="00:38:56,943" end="00:38:59,238">"Det &#228;r OK killen, det &#228;r OK."</p>
+      <p begin="00:38:59,238" end="00:39:01,984">Jag st&#228;llde mig upp och gick ut p&#229; gatan.</p>
+      <p begin="00:39:04,618" end="00:39:23,889"/>
+      <p begin="00:39:23,889" end="00:39:28,242">&#9834; Ai-ai...&#9834;</p>
+      <p begin="00:39:28,242" end="00:39:32,354">&#9834; &#196;lskar dig baby &#9834;</p>
+      <p begin="00:39:32,354" end="00:39:38,988">&#9834; Jag kan inte f&#229; nog av dig baby &#9834; </p>
+      <p begin="00:39:38,988" end="00:39:43,532">&#9834; Kan inte f&#229; nog av dig &#9834;</p>
+      <p begin="00:39:43,532" end="00:39:49,432">&#9834; Jag gr&#228;t n&#228;r jag k&#228;nde din k&#228;rlek &#9834;</p>
+      <p begin="00:39:52,017" end="00:39:55,955">&#9834; Den h&#228;r g&#229;ngen &#228;r det p&#229; riktigt, baby &#9834;</p>
+      <p begin="00:39:56,140" end="00:40:02,571">&#9834; Jag... &#9834;</p>
+      <p begin="00:40:02,571" end="00:40:09,002"/>
+      <p begin="00:40:10,356" end="00:40:11,603">&#9834; Tona ner det lite, grabbar. &#9834;</p>
+      <p begin="00:40:12,772" end="00:40:17,555">Mina damer och herrar, vilka ni &#228;n &#228;r.</p>
+      <p begin="00:40:20,185" end="00:40:28,861">Jag bor h&#228;r, jag kom hit runt &#229;r 1968.</p>
+      <p begin="00:40:30,075" end="00:40:33,834">Jag har bott h&#228;r i 9 &#229;r.</p>
+      <p begin="00:40:35,464" end="00:40:38,697">Det k&#228;nns som mitt hem.</p>
+      <p begin="00:40:38,928" end="00:40:40,745">S&#229; jag ger er min k&#228;rlek.</p>
+      <p begin="00:40:41,929" end="00:40:45,271">Tona ner det lite, grabbar.</p>
+      <p begin="00:40:46,548" end="00:40:50,179">Och jag jobbade i en liten stad de kallar</p>
+      <p begin="00:40:51,148" end="00:40:56,689">Jag jobbade p&#229; ett litet center, <br/>jag var kock &#229;t 3500 m&#228;nniskor per dag.</p>
+      <p begin="00:40:57,780" end="00:41:00,239">Det finns en v&#228;n h&#228;r inne, <br/>tv&#229; v&#228;nner som jag vet att,</p>
+      <p begin="00:41:00,332" end="00:41:02,964">n&#228;r jag kom hit s&#229; var de med mig.</p>
+      <p begin="00:41:03,701" end="00:41:07,639">Och deras namn &#228;r<br/>Mr. och Mrs. Ernest Washington.</p>
+      <p begin="00:41:07,778" end="00:41:10,524">Ernest Washington, <br/>jag ser dig inte, var &#228;r du?</p>
+      <p begin="00:41:10,709" end="00:41:14,055">Tack min broder f&#246;r skjutsen.</p>
+      <p begin="00:41:14,854" end="00:41:16,971">Tack ska du ha, Jackie.</p>
+      <p begin="00:41:18,141" end="00:41:21,134">Tack f&#246;r att du har varit min v&#228;n <br/>under alla dessa &#229;r.</p>
+      <p begin="00:41:21,273" end="00:41:23,033">Och till alla er d&#228;r ute.</p>
+      <p begin="00:41:23,248" end="00:41:26,501">&#9834; Jag &#228;lskar er &#9834;</p>
+      <p begin="00:41:26,655" end="00:41:31,556">&#9834; Yeah &#9834;</p>
+      <p begin="00:41:31,556" end="00:41:35,644">&#9834; Jag &#228;lskar dig..&#9834;</p>
+      <p begin="00:41:35,644" end="00:41:37,564">&#9834; Kan du se det? &#9834;</p>
+      <p begin="00:41:37,564" end="00:41:39,523">&#9834; Ohh...&#9834;</p>
+      <p begin="00:41:39,523" end="00:41:42,986">&#9834; Ooo...&#9834;</p>
+      <p begin="00:41:42,986" end="00:42:04,645">Tack mina damer och herrar, jag &#228;lskar er!</p>
+      <p begin="00:42:04,645" end="00:42:06,205">- Jag s&#229;g dig p&#229; YouTube ocks&#229;.</p>
+      <p begin="00:42:06,809" end="00:42:09,877">Det var s&#229; jag fick reda p&#229; storheten<br/>hos den store Charles Bradley.</p>
+      <p begin="00:42:10,877" end="00:42:12,070">- Tack s&#229; mycket.</p>
+      <p begin="00:42:12,208" end="00:42:13,507">Det var en fantastisk kv&#228;ll.</p>
+      <p begin="00:42:14,769" end="00:42:16,039">- Det var det verkligen.</p>
+      <p begin="00:42:16,239" end="00:42:17,975">- Och du gjorde den extra speciell.</p>
+      <p begin="00:42:18,474" end="00:42:19,312">- Det var v&#228;ldigt, v&#228;ldigt speciellt.</p>
+      <p begin="00:42:19,312" end="00:42:20,287">Tack s&#229; mycket.</p>
+      <p begin="00:42:20,287" end="00:42:21,026">- Gud v&#228;lsigne er.</p>
+      <p begin="00:42:21,026" end="00:42:23,093">- Tack ska du ha.</p>
+      <p begin="00:42:23,093" end="00:42:24,620">- Det h&#228;r &#228;r v&#229;r brorson, Cain.</p>
+      <p begin="00:42:24,758" end="00:42:26,162">- Tack f&#246;r att du kom.</p>
+      <p begin="00:42:26,270" end="00:42:27,571">- Du v&#228;lsignade Poughkeepsie ikv&#228;ll.</p>
+      <p begin="00:42:27,571" end="00:42:29,310">- Tack.</p>
+      <p begin="00:42:29,310" end="00:42:30,862">- Ta hand om er.</p>
+      <p begin="00:42:31,001" end="00:42:33,234">- Tack f&#246;r att ni kom tillbaka<br/>f&#246;r en kv&#228;ll.</p>
+      <p begin="00:42:34,219" end="00:42:36,383">- Jag fick uppleva en r&#246;rande stund.</p>
+      <p begin="00:42:36,521" end="00:42:38,733">N&#228;r jag var klar och b&#246;rjade prata <br/>med n&#229;gra m&#228;nniskor.</p>
+      <p begin="00:42:39,010" end="00:42:40,137">Det blev k&#228;nslosamt.</p>
+      <p begin="00:42:40,353" end="00:42:41,820">Jag sa: "Det f&#229;r vara nog Charles, <br/>det blir f&#246;r djupt."</p>
+      <p begin="00:42:41,820" end="00:42:43,648">"Sluta med det."</p>
+      <p begin="00:42:43,648" end="00:42:46,115">Jag tog mig upp igen <br/>n&#228;r det blev f&#246;r k&#228;nslosamt.</p>
+      <p begin="00:42:46,300" end="00:42:50,862">Det var det som var s&#229; vackert <br/>med Ernest Washington och Jackie.</p>
+      <p begin="00:42:51,016" end="00:42:52,109">Minsann.</p>
+      <p begin="00:42:52,325" end="00:42:56,160">Wow, det &#228;r f&#246;rsta g&#229;ngen <br/>de verkligen s&#229;g mig p&#229; flera &#229;r.</p>
+      <p begin="00:43:00,687" end="00:43:08,141"/>
+      <p begin="00:43:08,141" end="00:43:10,986">- Det h&#228;r &#228;r huset min bror m&#246;rdades i.</p>
+      <p begin="00:43:13,401" end="00:43:16,454">Det &#228;r d&#228;rf&#246;r jag inte gillar <br/>att komma till de h&#228;r kvarteren l&#228;ngre.</p>
+      <p begin="00:43:16,454" end="00:43:21,742" region="top"> - Han kom ner f&#246;r trappan <br/>och s&#229;g mig gr&#229;ta.</p>
+      <p begin="00:43:21,742" end="00:43:22,997" region="top"> Han sa: "Mamma vad har h&#228;nt?"</p>
+      <p begin="00:43:22,997" end="00:43:24,892" region="top"> Jag sa: "G&#229; till grannen."</p>
+      <p begin="00:43:24,892" end="00:43:27,153" region="top"> "Charles, din bror &#228;r d&#246;d."</p>
+      <p begin="00:43:29,369" end="00:43:31,290" region="top"> Han sa: "Nej mamma, <br/>det kan inte st&#228;mma."</p>
+      <p begin="00:43:31,290" end="00:43:32,733" region="top"> Jag sa: "Jo det st&#228;mmer."</p>
+      <p begin="00:43:32,733" end="00:43:38,160" region="top"> Hela kvarteret var fyllt av poliser <br/>med automatgev&#228;r och pistoler.</p>
+      <p begin="00:43:38,268" end="00:43:40,601">Jag kollade ut och s&#229;g alla poliser,</p>
+      <p begin="00:43:40,693" end="00:43:42,926">och brandbilar, ambulanser utanf&#246;r.</p>
+      <p begin="00:43:43,019" end="00:43:47,037">S&#229; jag gick ut och sa, jag m&#229;ste g&#229;<br/>och se det med egna &#246;gon.</p>
+      <p begin="00:43:47,160" end="00:43:52,394">F&#246;r jag s&#229;g att det stod "B&#229;rhus"<br/>och n&#228;r jag s&#229;g det</p>
+      <p begin="00:43:53,378" end="00:43:56,952">f&#246;rs&#246;kte jag g&#229; till min brors hus</p>
+      <p begin="00:43:56,952" end="00:43:58,870">men polisen ville inte sl&#228;ppa in mig.</p>
+      <p begin="00:43:58,870" end="00:44:01,010">Jag sa att det &#228;r min brors hus <br/>och han kan inte stoppa mig.</p>
+      <p begin="00:44:01,179" end="00:44:02,580">S&#229; jag tvingade mig in.</p>
+      <p begin="00:44:02,873" end="00:44:06,023">Jag &#246;nskar att jag inte hade gjort det.</p>
+      <p begin="00:44:06,731" end="00:44:09,496" region="top"> - Och de hade pojken bak i bilen.</p>
+      <p begin="00:44:09,619" end="00:44:12,635" region="top"> Jag sa: "Ge mig din pistol, Herr Polis."</p>
+      <p begin="00:44:12,789" end="00:44:15,465" region="top"> Jag sa: "Jag ska skjuta skallen av honom."</p>
+      <p begin="00:44:15,465" end="00:44:16,939" region="top"> Han sa: "Det kan jag inte g&#246;ra".</p>
+      <p begin="00:44:16,939" end="00:44:21,810" region="top"> Jag sa: "Tur att du inte kan det, <br/>jag skulle s&#228;tta varje kula i hans huvud."</p>
+      <p begin="00:44:21,866" end="00:44:25,804" region="top"> Han r&#229;nade min son och tog hans pengar.</p>
+      <p begin="00:44:25,850" end="00:44:28,412" region="top"> Jag sa: "Jag ska m&#246;rda honom."</p>
+      <p begin="00:44:28,412" end="00:44:31,945" region="top"> Och jag menade det ocks&#229;. Var s&#229; s&#228;ker.</p>
+      <p begin="00:44:33,390" end="00:44:34,874" region="top"> Jag &#228;lskar min baby.</p>
+      <p begin="00:44:34,874" end="00:44:36,158" region="top"> Mm-hm</p>
+      <p begin="00:44:36,158" end="00:44:37,539" region="top"> Jag &#228;lskar min baby.</p>
+      <p begin="00:44:37,539" end="00:44:39,595" region="top"> - Sov gott min son. Vila nu.</p>
+      <p begin="00:44:39,985" end="00:44:41,310" region="top"> Gud &#228;lskar dig, men mamma..</p>
+      <p begin="00:44:41,448" end="00:44:46,140" region="top"> Jag menar, mamma &#228;lskar dig, <br/>men Gud &#228;lskar dig b&#228;st och ger evig vila</p>
+      <p begin="00:44:46,810" end="00:44:49,187" region="top"> En dag kommer jag tr&#228;ffa dig p&#229; tronen.</p>
+      <p begin="00:44:49,480" end="00:44:51,422" region="top"> Ja, ja, det kommer jag min son.</p>
+      <p begin="00:44:52,668" end="00:44:56,603">- Jag tror Charles var beroende av Joseph</p>
+      <p begin="00:44:56,708" end="00:44:59,758">precis som hans mor var beroende av honom.</p>
+      <p begin="00:45:00,117" end="00:45:03,672">Charles blev n&#228;stan galen <br/>n&#228;r Joseph blev m&#246;rdad.</p>
+      <p begin="00:45:05,610" end="00:45:10,572">Jag menar, ett tag sa han <br/>att han skulle bli galen.</p>
+      <p begin="00:45:13,079" end="00:45:15,850">- Och jag vill verkligen veta sanningen <br/>om varf&#246;r han blev m&#246;rdad.</p>
+      <p begin="00:45:15,958" end="00:45:17,556">Han var f&#246;r ung.</p>
+      <p begin="00:45:18,709" end="00:45:21,417">Han var 48 &#229;r gammal.</p>
+      <p begin="00:45:22,878" end="00:45:29,159"/>
+      <p begin="00:45:29,359" end="00:45:30,732">- Vi har en mick till dig d&#228;r.</p>
+      <p begin="00:45:32,378" end="00:45:35,760">Vill du pr&#246;va den eller vill du <br/>spela n&#229;got annat?</p>
+      <p begin="00:45:35,760" end="00:45:38,579">- Ja, vi kan komma tillbaka..</p>
+      <p begin="00:45:38,579" end="00:45:41,188">- Du g&#246;r alltid s&#229;.</p>
+      <p begin="00:45:41,341" end="00:45:44,193">- Vill du k&#246;ra "Heartaches and Pain"?</p>
+      <p begin="00:45:48,772" end="00:46:02,999"/>
+      <p begin="00:46:03,030" end="00:46:06,981">- "Heartaches and Pain" &#228;r utan tvekan<br/>den djupaste l&#229;ten p&#229; skivan</p>
+      <p begin="00:46:07,134" end="00:46:12,159">och det var nog den tredje l&#229;ten<br/>vi skrev tillsammans.</p>
+      <p begin="00:46:12,282" end="00:46:16,425">Charles ber&#228;ttar historien om sin bror <br/>och Charles s&#228;ger att</p>
+      <p begin="00:46:16,563" end="00:46:20,207">Jag vill skriva en l&#229;t om min bror Joseph.</p>
+      <p begin="00:46:20,346" end="00:46:23,662">Jag sa: "OK, jag hj&#228;lper dig,<br/>jag &#228;r din v&#228;n"</p>
+      <p begin="00:46:24,245" end="00:46:26,758">Och jag sa: "Du vet den d&#228;r l&#229;ten <br/>du har spelat p&#229; piano varje dag?"</p>
+      <p begin="00:46:28,367" end="00:46:30,106">Vi ska anv&#228;nda den musiken till l&#229;ten.</p>
+      <p begin="00:46:30,306" end="00:46:33,230">Jag tog med Charles och <br/>la till n&#229;gra saker p&#229; hans pianogrej,</p>
+      <p begin="00:46:33,230" end="00:46:34,488">ett par nya noter och s&#229;.</p>
+      <p begin="00:46:34,488" end="00:46:36,488">Och jag sa: "Charles, <br/>h&#228;r &#228;r l&#229;ten till din bror."</p>
+      <p begin="00:46:36,827" end="00:46:39,765">Han b&#246;rjade g&#246;ra sin grej, <br/>springa runt och skrika,</p>
+      <p begin="00:46:39,842" end="00:46:42,420">"Det &#228;r s&#229; vackert, s&#229; vackert, <br/>herregud, herregud!"</p>
+      <p begin="00:46:42,697" end="00:46:48,531">Sen b&#246;rjade vi jobba p&#229; den<br/>och det var sv&#229;rt, riktigt sv&#229;rt.</p>
+      <p begin="00:46:48,685" end="00:46:56,936">Det var en v&#228;ldigt personlig och djup, <br/>m&#246;rk och hemsk historia om Charles bror.</p>
+      <p begin="00:46:57,059" end="00:46:59,069">Dessutom en storebror, <br/>som han s&#229;g upp till och &#228;lskade.</p>
+      <p begin="00:46:59,208" end="00:47:01,147">Han beh&#246;vde ber&#228;tta.</p>
+      <p begin="00:47:01,301" end="00:47:25,261"/>
+      <p begin="00:47:28,337" end="00:47:34,298">L&#229;net &#228;r jobbigt f&#246;r mig, <br/>jag tycker inte det &#228;r r&#228;ttvist.</p>
+      <p begin="00:47:34,467" end="00:47:37,172">Har aldrig missat en betalning, <br/>f&#246;r de sa att om jag missar en betalning,</p>
+      <p begin="00:47:37,295" end="00:47:39,660">kommer jag f&#229; 18% r&#228;nta.</p>
+      <p begin="00:47:39,798" end="00:47:42,071">Jag har f&#246;rs&#246;kt ta nya l&#229;n, nya l&#229;n.</p>
+      <p begin="00:47:42,210" end="00:47:44,098">De s&#228;ger att jag inte <br/>tj&#228;nar tillr&#228;ckligt med pengar.</p>
+      <p begin="00:47:44,344" end="00:47:48,846">Jag sa: "Hur ska jag kunna <br/>tj&#228;na tillr&#228;ckligt med pengar</p>
+      <p begin="00:47:48,939" end="00:47:51,318">n&#228;r jag betalar dessa dyra l&#229;n, <br/>jag ger mig ut</p>
+      <p begin="00:47:51,487" end="00:47:55,521">och tj&#228;nar sm&#229;slantar, <br/>varje slant h&#229;ller mig flytande."</p>
+      <p begin="00:47:56,090" end="00:47:57,943">- N&#228;r Joseph m&#246;rdades</p>
+      <p begin="00:47:57,943" end="00:48:04,214">fick Charles ta &#246;ver allt ansvar <br/>f&#246;r vad hans mamma beh&#246;vde.</p>
+      <p begin="00:48:04,214" end="00:48:06,442">Inte alla skulle ha gjort det.</p>
+      <p begin="00:48:06,442" end="00:48:09,914">Charles har gett henne <br/>mycket av sina besparingar</p>
+      <p begin="00:48:09,996" end="00:48:13,118">han investerar det i huset <br/>och hj&#228;lper henne att stanna d&#228;r.</p>
+      <p begin="00:48:13,426" end="00:48:19,502">- Han &#228;r p&#229; v&#228;g, skulle jag s&#228;ga, <br/>att k&#246;pa huset fr&#229;n sin mamma.</p>
+      <p begin="00:48:20,425" end="00:48:25,461">Hans &#228;ldre syskon bor ocks&#229; i huset.</p>
+      <p begin="00:48:25,800" end="00:48:27,510">Vill inte ha honom d&#228;r.</p>
+      <p begin="00:48:27,618" end="00:48:39,116">Han har ocks&#229; ett stort ansvar f&#246;r <br/>att ta hand om min systers aff&#228;rer.</p>
+      <p begin="00:48:43,286" end="00:48:47,237"/>
+      <p begin="00:48:48,303" end="00:48:49,552">- Hall&#229;.</p>
+      <p begin="00:48:50,398" end="00:48:51,680">- Ja?</p>
+      <p begin="00:48:53,357" end="00:48:55,131">- Hur m&#229;r du, Paul?</p>
+      <p begin="00:48:56,546" end="00:49:01,861">Om hon inte kan l&#228;ra sig att renovera</p>
+      <p begin="00:49:01,999" end="00:49:04,951">och l&#228;gga om l&#229;net p&#229; huset,<br/>d&#229; m&#229;ste hon v&#228;nta</p>
+      <p begin="00:49:05,120" end="00:49:08,111">tills inkomstskatten kommer.</p>
+      <p begin="00:49:08,434" end="00:49:11,670">N&#228;r den kommer, skulle hon vilja <br/>att jag sa upp min l&#228;genhet,</p>
+      <p begin="00:49:11,670" end="00:49:13,463">men jag vill inte ge upp min l&#228;genhet.</p>
+      <p begin="00:49:13,463" end="00:49:16,238">Om jag gjorde det s&#229; m&#229;ste jag <br/>flytta in i mammas hus.</p>
+      <p begin="00:49:17,540" end="00:49:20,740">Som jag sa: "Min l&#228;genhet <br/>&#228;r det enda st&#228;llet jag har</p>
+      <p begin="00:49:20,863" end="00:49:22,571">att g&#229; till n&#228;r jag blir deprimerad</p>
+      <p begin="00:49:22,571" end="00:49:27,281">och bara ta hand om mig sj&#228;lv."</p>
+      <p begin="00:49:27,281" end="00:49:30,127">- Men vad du &#228;n g&#246;r, s&#229; vet jag att <br/>du g&#246;r det f&#246;r att hj&#228;lpa mig.</p>
+      <p begin="00:49:30,220" end="00:49:31,246">och jag uppskattar det.</p>
+      <p begin="00:49:31,246" end="00:49:32,115">Okej, Paul.</p>
+      <p begin="00:49:32,115" end="00:49:32,991">Tack ska du ha, Paul.</p>
+      <p begin="00:49:32,991" end="00:49:34,968">Okej.</p>
+      <p begin="00:49:36,418" end="00:49:37,786">Vad har jag kvar att g&#246;ra?</p>
+      <p begin="00:49:37,878" end="00:49:38,873">Det &#228;r mitt liv.</p>
+      <p begin="00:49:38,873" end="00:49:40,384">Ta mitt liv ifr&#229;n mig.</p>
+      <p begin="00:49:40,384" end="00:49:43,015">Ibland ber jag Gud att kalla hem mig.</p>
+      <p begin="00:49:43,122" end="00:49:47,703">F&#246;r varje dag &#228;r jag ute och krigar <br/>f&#246;r att beh&#229;lla &#228;rligheten,</p>
+      <p begin="00:49:47,857" end="00:49:51,311">anst&#228;ndigheten hos en m&#228;nniska <br/>som g&#229;r p&#229; denna planet</p>
+      <p begin="00:49:51,434" end="00:49:55,135">att &#228;lska alla som Gud bett oss att g&#246;ra.</p>
+      <p begin="00:49:55,858" end="00:49:59,353">Men idag ses det som en svaghet tror jag.</p>
+      <p begin="00:49:59,923" end="00:50:05,079">Hur mycket mer kan en m&#228;nniska ge<br/>innan de hittar k&#228;rlek p&#229; planeten?</p>
+      <p begin="00:50:05,202" end="00:50:07,281">Hur mycket mer kan man ge?</p>
+      <p begin="00:50:07,574" end="00:50:12,191">Jag sa: "Fader, n&#228;r min stund &#228;r kommen."</p>
+      <p begin="00:50:12,376" end="00:50:14,094">"&#196;r jag redo att g&#229;."</p>
+      <p begin="00:50:14,707" end="00:50:17,243">Det &#228;r s&#229; jag k&#228;nner.</p>
+      <p begin="00:50:22,797" end="00:50:26,103">Och innan jag l&#228;mnar denna v&#228;rld,<br/>vill jag att v&#228;rlden ska veta</p>
+      <p begin="00:50:26,580" end="00:50:28,450">att den inte kan f&#246;r&#228;ndra mig.</p>
+      <p begin="00:50:28,589" end="00:50:30,905">Jag bryr mig inte vad du ger mig,</p>
+      <p begin="00:50:31,013" end="00:50:34,011">det finns inte tillr&#228;ckligt<br/>med pengar i v&#228;rlden</p>
+      <p begin="00:50:34,060" end="00:50:36,580">som kan ers&#228;tta k&#228;rleken <br/>jag har f&#246;r Gud i mitt hj&#228;rta.</p>
+      <p begin="00:50:36,670" end="00:50:38,397">Jag &#228;lskar alla.</p>
+      <p begin="00:50:38,535" end="00:50:41,098">Jag skadar aldrig n&#229;gon.</p>
+      <p begin="00:50:42,251" end="00:50:45,831">Jag f&#246;rs&#246;ker bara h&#229;lla mig p&#229; min v&#228;g.</p>
+      <p begin="00:50:45,877" end="00:50:49,023"> </p>
+      <p begin="00:50:49,561" end="00:50:54,802">&#9834; Varf&#246;r &#228;r det s&#229; sv&#229;rt?</p>
+      <p begin="00:50:55,125" end="00:51:04,856">&#9834; Att lyckas i USA? &#9834;</p>
+      <p begin="00:51:04,856" end="00:51:06,822">&#9834; S&#229; jag sa till mig sj&#228;lv &#9834;</p>
+      <p begin="00:51:06,822" end="00:51:10,639">&#9834; Jag m&#229;ste ta mig h&#228;rifr&#229;n &#9834;</p>
+      <p begin="00:51:11,099" end="00:51:15,761">- Jag och Homer har rest runt i Europa<br/>med Sharon Jones och Dap-Kings.</p>
+      <p begin="00:51:15,780" end="00:51:18,591">En dag var vi var ute i Paris<br/>och tr&#228;ffade n&#229;gra flickor.</p>
+      <p begin="00:51:18,591" end="00:51:19,668">Tjejerna fr&#229;gade:</p>
+      <p begin="00:51:19,668" end="00:51:25,025">"&#196;r Sharon Jones lika stor i USA <br/>som hon &#228;r i Frankrike?"</p>
+      <p begin="00:51:25,163" end="00:51:27,289">Och vi sa: "Nej nej."</p>
+      <p begin="00:51:27,381" end="00:51:28,545">Ingen k&#228;nner till Sharon Jones.</p>
+      <p begin="00:51:28,652" end="00:51:31,016">Det h&#228;r &#228;r &#229;ratal sedan, <br/>ingen k&#228;nner till Sharon Jones i USA.</p>
+      <p begin="00:51:31,062" end="00:51:33,845">Vi spelade p&#229; st&#228;llen runt Brooklyn, <br/>p&#229; sm&#229; klubbar, men p&#229; den tiden</p>
+      <p begin="00:51:33,845" end="00:51:37,120">spelade vi p&#229; teatrar i Paris och liknande</p>
+      <p begin="00:51:37,120" end="00:51:40,040">och det var en st&#246;rre grej i Europa.</p>
+      <p begin="00:51:40,040" end="00:51:43,705">S&#229; vi skrev en liten l&#229;t den kv&#228;llen:</p>
+      <p begin="00:51:43,705" end="00:51:47,618">"Why Is It So Hard To Make It In America"</p>
+      <p begin="00:51:47,772" end="00:51:52,676">Samma sekund som Charles sj&#246;ng <br/>"Why Is It So Hard To Make It In America"</p>
+      <p begin="00:51:52,800" end="00:51:56,926">&#228;ndrades s&#229;ngens betydelse direkt.</p>
+      <p begin="00:51:57,079" end="00:51:59,193"/>
+      <p begin="00:51:59,193" end="00:52:11,071">&#9834; Varf&#246;r &#228;r det s&#229; sv&#229;rt<br/>att lyckas i USA? &#9834;</p>
+      <p begin="00:52:11,071" end="00:52:14,158">&#9834; Jag f&#246;rs&#246;ker &#9834;</p>
+      <p begin="00:52:14,158" end="00:52:29,798">&#9834; S&#229; sv&#229;rt att lyckas i USA. &#9834;</p>
+      <p begin="00:52:29,798" end="00:52:33,969">&#9834; Varf&#246;r? &#9834;</p>
+      <p begin="00:52:33,969" end="00:52:36,430">&#9834; S&#228;g mig. &#9834;</p>
+      <p begin="00:52:36,430" end="00:52:43,562">&#9834; Vi m&#229;ste f&#246;r&#228;ndra USA. &#9834;</p>
+      <p begin="00:52:43,562" end="00:52:47,232">&#9834; Hj&#228;lp mig n&#229;gon &#9834;</p>
+      <p begin="00:52:47,232" end="00:52:52,696">&#9834; Ohh... &#9834;</p>
+      <p begin="00:52:52,696" end="00:53:00,309"/>
+      <p begin="00:53:00,309" end="00:53:01,247">- Kom hit.</p>
+      <p begin="00:53:01,247" end="00:53:02,167">- Kom hit.</p>
+      <p begin="00:53:02,167" end="00:53:03,843">Kom igen.</p>
+      <p begin="00:53:03,843" end="00:53:05,239">Kom hit, Nicky.</p>
+      <p begin="00:53:05,439" end="00:53:06,633">Du vill inte komma hit, OK.</p>
+      <p begin="00:53:06,756" end="00:53:08,315">Du vill inte. Jag respekterar det.</p>
+      <p begin="00:53:08,476" end="00:53:09,945">Ok, jag l&#229;ter dig vara ifred.</p>
+      <p begin="00:53:09,945" end="00:53:13,754">Jag har haft honom<br/>sen jag flyttade till San Francisco.</p>
+      <p begin="00:53:13,862" end="00:53:15,740">Jag gick p&#229; en f&#229;gelshow.</p>
+      <p begin="00:53:15,955" end="00:53:19,821">Jag t&#228;nkte inte k&#246;pa n&#229;gon f&#229;gel, <br/>f&#246;r n&#228;r jag var barn</p>
+      <p begin="00:53:19,959" end="00:53:24,446">hade jag en kyckling som husdjur.</p>
+      <p begin="00:53:24,676" end="00:53:28,218">Jag tog hand om den fr&#229;n att <br/>den var en liten bebis, den var gul</p>
+      <p begin="00:53:28,480" end="00:53:30,636">och den blev sedan en vacker h&#246;na.</p>
+      <p begin="00:53:30,775" end="00:53:33,409">Den brukade sova med mig <br/>och den var en vacker h&#246;na.</p>
+      <p begin="00:53:34,040" end="00:53:38,895">Men en dag, n&#228;r jag <br/>hade haft den i minst tv&#229; &#229;r,</p>
+      <p begin="00:53:39,095" end="00:53:43,774">var min moster d&#228;r. N&#228;r jag kom ut <br/>brukade min kyckling alltid</p>
+      <p begin="00:53:43,881" end="00:53:48,099">v&#228;nta p&#229; mig p&#229; parkeringen, <br/>v&#228;nta p&#229; att jag ska plocka upp honom.</p>
+      <p begin="00:53:48,418" end="00:53:50,436">Men han var inte d&#228;r den dagen.</p>
+      <p begin="00:53:50,590" end="00:53:53,023">Jag sa: "Var &#228;r min kyckling?"</p>
+      <p begin="00:53:53,038" end="00:53:55,090">Ingen visste var min kyckling var.</p>
+      <p begin="00:53:55,228" end="00:53:57,154">- Moster Lily, var &#228;r min kyckling?</p>
+      <p begin="00:53:57,154" end="00:54:00,320">Hon sa, "De h&#228;r kycklingarna &#228;r s&#229; tama."</p>
+      <p begin="00:54:00,413" end="00:54:02,116">Jag sa: "Var &#228;r min kyckling?"</p>
+      <p begin="00:54:02,269" end="00:54:05,219">Hon sa: "Jag grillar en kyckling i ugnen."</p>
+      <p begin="00:54:05,435" end="00:54:07,677">Jag tog en titt i ugnen, <br/>d&#228;r var min kyckling.</p>
+      <p begin="00:54:07,846" end="00:54:09,955">Jag tog ut kycklingen.</p>
+      <p begin="00:54:10,109" end="00:54:13,756">Jag gr&#228;vde en grav och begravde den, <br/>och satte dit ett kors.</p>
+      <p begin="00:54:13,894" end="00:54:16,166">Och jag b&#246;rjade gr&#229;ta.</p>
+      <p begin="00:54:16,351" end="00:54:18,768">Min mormor kom och sa: "Lily,</p>
+      <p begin="00:54:18,768" end="00:54:20,544">det &#228;r hans kyckling."</p>
+      <p begin="00:54:20,544" end="00:54:22,153">"Du borde inte ha d&#246;dat den."</p>
+      <p begin="00:54:22,153" end="00:54:23,625">Hon sa: "Jag visste inte."</p>
+      <p begin="00:54:23,794" end="00:54:27,359">S&#229; de gav mig sex f&#229;glar, men jag sa<br/>att jag inte ville ha sex f&#229;glar,</p>
+      <p begin="00:54:27,451" end="00:54:29,114">"Jag vill ha tillbaka min kyckling."</p>
+      <p begin="00:54:29,222" end="00:54:33,839">Det var det som fick mig att fastna <br/>f&#246;r den h&#228;r f&#229;geln. Jag sa:</p>
+      <p begin="00:54:33,993" end="00:54:35,873">"En dag ska jag skaffa en s&#229;n d&#228;r f&#229;gel."</p>
+      <p begin="00:54:36,949" end="00:54:40,573"/>
+      <p begin="00:54:40,711" end="00:54:42,008">F&#246;rl&#229;t.</p>
+      <p begin="00:54:42,258" end="00:54:43,974">- Okej.</p>
+      <p begin="00:54:43,974" end="00:54:45,879">Jag ska definitivt skaffa den.</p>
+      <p begin="00:54:46,448" end="00:54:48,146">Okej, Tommy.</p>
+      <p begin="00:54:49,469" end="00:54:50,952">Sidan 6?</p>
+      <p begin="00:54:51,382" end="00:54:52,700">Ja, okej, Tommy.</p>
+      <p begin="00:54:54,638" end="00:54:55,850">Okej Tommy.</p>
+      <p begin="00:54:56,527" end="00:54:58,386">Du ser, jag &#228;r skyldig dig s&#229; mycket.</p>
+      <p begin="00:54:58,493" end="00:55:00,865">Ni &#228;r bara f&#246;r..Oh Tommy.</p>
+      <p begin="00:55:00,865" end="00:55:02,690">Vi ses.</p>
+      <p begin="00:55:02,690" end="00:55:04,212">Man har sina d&#229;liga sidor.</p>
+      <p begin="00:55:05,580" end="00:55:06,891">Okej, Tommy.</p>
+      <p begin="00:55:07,030" end="00:55:12,093">Tommy sa att jag fanns med <br/>i "The Post" p&#229; sidan 6.</p>
+      <p begin="00:55:12,724" end="00:55:17,279">&#197;h Gud sig f&#246;rbarme.</p>
+      <p begin="00:55:18,002" end="00:55:19,650">Vad s&#228;ger man?</p>
+      <p begin="00:55:20,635" end="00:55:35,965"/>
+      <p begin="00:55:35,965" end="00:55:37,791">Har du den, The Post?</p>
+      <p begin="00:55:38,007" end="00:55:39,220">Har du The Post?</p>
+      <p begin="00:55:40,250" end="00:55:43,648">Oj, han har inte The Post.</p>
+      <p begin="00:55:49,847" end="00:56:09,846"/>
+      <p begin="00:56:10,062" end="00:56:11,224">N&#228;men.</p>
+      <p begin="00:56:13,916" end="00:56:15,637">Herregud.</p>
+      <p begin="00:56:16,149" end="00:56:19,258"/>
+      <p begin="00:56:19,258" end="00:56:23,665">Ja, herregud.</p>
+      <p begin="00:56:23,788" end="00:56:25,137">Kolla p&#229; det h&#228;r.</p>
+      <p begin="00:56:25,260" end="00:56:28,287">J&#228;klar, de fick med mig i tidningen.</p>
+      <p begin="00:56:28,336" end="00:56:30,098">- Herre min skapare.</p>
+      <p begin="00:56:30,098" end="00:56:31,816">- Vad g&#246;r du?</p>
+      <p begin="00:56:31,923" end="00:56:33,903">- D&#228;r &#228;r jag.</p>
+      <p begin="00:56:35,965" end="00:56:42,064">Jag tackar Gud f&#246;r detta, herregud.</p>
+      <p begin="00:56:42,448" end="00:56:46,582">- Den h&#228;r killen har <br/>k&#228;mpat mycket med sig sj&#228;lv,</p>
+      <p begin="00:56:46,706" end="00:56:49,686">men det kommer att bli bra.</p>
+      <p begin="00:56:49,809" end="00:56:52,087">Vi har pratat med varandra i &#229;ratal.</p>
+      <p begin="00:56:52,410" end="00:56:54,522">Jag ser p&#229; honom och s&#228;ger till mig sj&#228;lv:</p>
+      <p begin="00:56:55,215" end="00:56:56,638">"Han kommer n&#229; dit om han ber."</p>
+      <p begin="00:56:56,638" end="00:56:57,373">- &#196;r han i tidningen?</p>
+      <p begin="00:56:57,373" end="00:56:58,206">- Ja.</p>
+      <p begin="00:56:58,206" end="00:56:59,239">- &#196;r han i tidningen?</p>
+      <p begin="00:56:59,239" end="00:57:01,177">- Japp.</p>
+      <p begin="00:57:01,177" end="00:57:02,863">- Jag sitter h&#228;r och pratar med dig <br/>och du &#228;r i tidningen?</p>
+      <p begin="00:57:02,863" end="00:57:04,712">- Ja, d&#228;r.</p>
+      <p begin="00:57:04,712" end="00:57:06,156">- Herregud.</p>
+      <p begin="00:57:07,218" end="00:57:09,423">- Jag vill bara sl&#229; dig just nu,<br/>du hade ju kunnat knacka p&#229; och ber&#228;ttat.</p>
+      <p begin="00:57:09,516" end="00:57:12,013">- Jag fick reda p&#229; det nyss sj&#228;lv.</p>
+      <p begin="00:57:12,136" end="00:57:15,091">- Jag sa ju det, jag sa ju det, baby.</p>
+      <p begin="00:57:17,030" end="00:57:18,538">Du vet att jag &#228;lskar dig.</p>
+      <p begin="00:57:18,584" end="00:57:19,584">- Du sa det.</p>
+      <p begin="00:57:19,584" end="00:57:21,270">- Jag sa det.</p>
+      <p begin="00:57:21,270" end="00:57:22,463">- Det h&#228;nder nu.</p>
+      <p begin="00:57:23,380" end="00:57:28,475">- Jag sa ju det, h&#229;ll hoppet uppe <br/>och sluta aldrig tro att du redan &#228;r d&#228;r.</p>
+      <p begin="00:57:28,921" end="00:57:29,955">Vad &#228;r du orolig &#246;ver?</p>
+      <p begin="00:57:30,262" end="00:57:31,779">Du har varit d&#228;r och det &#228;r redan klart.</p>
+      <p begin="00:57:31,779" end="00:57:32,694">- Grattis.</p>
+      <p begin="00:57:32,694" end="00:57:34,241">- Gud &#228;r god.</p>
+      <p begin="00:57:34,241" end="00:57:37,430">Och om du gr&#229;ter &#228;r det bra t&#229;rar, <br/>s&#229; h&#229;ll huvudet h&#246;gt</p>
+      <p begin="00:57:37,553" end="00:57:38,883">f&#246;r han &#228;r fortfarande med dig.</p>
+      <p begin="00:57:40,467" end="00:57:42,444">- Jag &#228;lskar dig och jag gl&#246;mmer inte.</p>
+      <p begin="00:57:42,623" end="00:57:49,863"/>
+      <p begin="00:57:50,201" end="00:57:54,349">Ikv&#228;ll &#228;r min f&#246;rsta solospelning.</p>
+      <p begin="00:57:57,427" end="00:58:01,627">Nu h&#228;nder det &#228;ntligen <br/>och jag hoppas alla kommer dit</p>
+      <p begin="00:58:01,734" end="00:58:05,339">och visar sitt st&#246;d f&#246;r mig.</p>
+      <p begin="00:58:09,697" end="00:58:11,522">- Det h&#228;r &#228;r en av mina b&#228;sta v&#228;nner.</p>
+      <p begin="00:58:11,814" end="00:58:13,208">- M&#229;r du bra?</p>
+      <p begin="00:58:13,485" end="00:58:15,127">- Du kommer v&#228;l ikv&#228;ll.</p>
+      <p begin="00:58:15,250" end="00:58:18,030">Du s&#228;ger alltid att du ska <br/>komma till v&#229;r show.</p>
+      <p begin="00:58:19,153" end="00:58:22,663">- Det h&#228;r st&#228;llet bodde jag p&#229;</p>
+      <p begin="00:58:22,817" end="00:58:26,810">innan de fixade till det. <br/>Tv&#229; och ett halvt &#229;r, herregud.</p>
+      <p begin="00:58:26,995" end="00:58:29,867">Det var &#246;vergivet och nu &#228;r det en kyrka.</p>
+      <p begin="00:58:30,237" end="00:58:32,602">Den d&#228;r killen &#228;gde och s&#229;lde det, <br/>och sen fixade de till det.</p>
+      <p begin="00:58:33,279" end="00:58:35,792">S&#229; var det med det, det var mitt hem f&#246;rut</p>
+      <p begin="00:58:35,930" end="00:58:40,740">och Jose, det var han som gav mig</p>
+      <p begin="00:58:40,864" end="00:58:44,119">elektricitet, och h&#246;ll mig flytande.</p>
+      <p begin="00:58:44,380" end="00:58:46,515">Det &#228;r d&#228;rf&#246;r vi &#228;r s&#229; n&#228;ra v&#228;nner idag.</p>
+      <p begin="00:58:46,715" end="00:58:51,858"/>
+      <p begin="00:58:51,966" end="00:58:56,542" region="top"> Ikv&#228;ll f&#229;r vi reda p&#229;:<br/>Kommer jag att forts&#228;tta?</p>
+      <p begin="00:58:56,726" end="00:58:58,250" region="top"> Har jag vad som kr&#228;vs?</p>
+      <p begin="00:58:59,387" end="00:59:00,950" region="top"> Det &#228;r vad jag kollar efter.</p>
+      <p begin="00:59:03,325" end="00:59:05,038">Gillar du rhythm and blues?</p>
+      <p begin="00:59:05,038" end="00:59:06,150">- G&#246;r jag?</p>
+      <p begin="00:59:06,150" end="00:59:07,322">- Sn&#228;lla kom ikv&#228;ll. - OK.</p>
+      <p begin="00:59:07,322" end="00:59:08,848">- Vi ska spela riktigt bra musik f&#246;r dig.</p>
+      <p begin="00:59:09,122" end="00:59:11,184">- Och jag hoppas att jag f&#229;r dig <br/>att t&#228;nka p&#229; goda minnen.</p>
+      <p begin="00:59:11,184" end="00:59:12,362">- Okej. Tack s&#229; mycket.</p>
+      <p begin="00:59:12,362" end="00:59:13,322">- Vad heter du?</p>
+      <p begin="00:59:13,322" end="00:59:14,256">- Andrea.</p>
+      <p begin="00:59:14,256" end="00:59:15,204">- Min syster heter Andrea Laura.</p>
+      <p begin="00:59:15,204" end="00:59:16,182">- D&#228;r ser man.</p>
+      <p begin="00:59:16,182" end="00:59:17,932">- Oj.</p>
+      <p begin="00:59:17,932" end="00:59:18,977">- Vad &#228;r hennes mellannamn?</p>
+      <p begin="00:59:19,085" end="00:59:20,702">- Det &#228;r Andrea Laura Bradley.</p>
+      <p begin="00:59:20,702" end="00:59:23,197">- Jag heter Andrea Lauren. Konstigt.</p>
+      <p begin="00:59:23,597" end="00:59:25,000">- D&#228;r ser man. Det var menat <br/>att vi skulle tr&#228;ffas.</p>
+      <p begin="00:59:25,000" end="00:59:25,947">- Ja. Jag &#228;lskar lila ocks&#229;.</p>
+      <p begin="00:59:25,947" end="00:59:26,800">- Herregud.</p>
+      <p begin="00:59:26,800" end="00:59:28,007">- Det h&#228;r &#228;r en bra dag.</p>
+      <p begin="00:59:28,007" end="00:59:29,125">- Gud v&#228;lsigne dig, hj&#228;rtat.</p>
+      <p begin="00:59:30,447" end="00:59:35,890">Jag har k&#228;mpat med min musik i &#246;ver 47 &#229;r.</p>
+      <p begin="00:59:36,044" end="00:59:38,528">Jag hoppas att detta blir en v&#228;ndpunkt.</p>
+      <p begin="00:59:38,774" end="00:59:43,182">Jag hoppas att detta &#228;r min chans att visa<br/>v&#228;rlden och att v&#228;rlden gillar det.</p>
+      <p begin="00:59:44,750" end="00:59:48,172" region="top"> - De flesta skulle ha gett upp<br/>och inte gjort n&#229;gonting.</p>
+      <p begin="00:59:48,310" end="00:59:49,403" region="top"> N&#246;jt sig med ett jobb.</p>
+      <p begin="00:59:49,526" end="00:59:51,608" region="top"> Och du vet, han har bara <br/>k&#228;mpat p&#229; och gjort musik.</p>
+      <p begin="00:59:52,285" end="00:59:55,696">- Det &#228;r tillr&#228;ckligt sv&#229;rt <br/>f&#246;r en 30-&#229;ring att starta sin karri&#228;r.</p>
+      <p begin="00:59:55,911" end="00:59:58,392">F&#246;r en 60-&#229;ring, helt galet.</p>
+      <p begin="00:59:58,392" end="01:00:00,187">- Fantastiskt. L&#229;ter bra.</p>
+      <p begin="01:00:00,187" end="01:00:01,664">- Gillar ni rhythm and blues?</p>
+      <p begin="01:00:01,756" end="01:00:03,484">- Vi har redan biljetter. - Vi ska g&#229;.</p>
+      <p begin="01:00:03,484" end="01:00:04,437">- &#197;h, kom igen.</p>
+      <p begin="01:00:04,437" end="01:00:05,880"/>
+      <p begin="01:00:05,880" end="01:00:11,995"/>
+      <p begin="01:00:11,995" end="01:00:17,041">Jag ska se om jag kan hitta n&#229;got <br/>att l&#228;gga till p&#229; min byxdress</p>
+      <p begin="01:00:17,041" end="01:00:20,105">f&#246;r att krydda till det lite <br/>inf&#246;r skivsl&#228;ppet.</p>
+      <p begin="01:00:22,319" end="01:00:25,617">Den &#228;r vacker,<br/>den &#228;r ocks&#229; vacker, verkligen.</p>
+      <p begin="01:00:25,617" end="01:00:26,350">- Tack chefen.</p>
+      <p begin="01:00:26,350" end="01:00:27,593">- Ok, chefen.</p>
+      <p begin="01:00:27,593" end="01:00:28,706">- Ha en bra dag.</p>
+      <p begin="01:00:28,706" end="01:00:31,107">- Tack.</p>
+      <p begin="01:00:34,234" end="01:00:36,749">- Vad jag g&#246;r n&#228;r jag ser<br/>n&#229;got som jag gillar</p>
+      <p begin="01:00:36,749" end="01:00:39,746">men som kostar mycket s&#229; jag inte har r&#229;d</p>
+      <p begin="01:00:39,746" end="01:00:44,501">s&#229; kollar jag secondhandaff&#228;rer ist&#228;llet.</p>
+      <p begin="01:00:44,501" end="01:00:46,271">"Det h&#228;r materialet &#228;r bra."</p>
+      <p begin="01:00:46,271" end="01:00:49,798">Jag k&#246;per n&#229;got d&#228;r, n&#229;got d&#228;r,<br/>pusslar ihop det med n&#229;got annat</p>
+      <p begin="01:00:49,798" end="01:00:54,559">som kanske inte ser lika bra ut, <br/>men det ger den k&#228;nsla jag s&#246;ker.</p>
+      <p begin="01:00:54,559" end="01:00:57,990">Den d&#228;r grejen d&#228;r bak &#228;r riktigt..</p>
+      <p begin="01:01:01,589" end="01:01:07,186">Den h&#228;r biten du ser h&#228;r, <br/>som finns p&#229; t-shirten jag k&#246;pte,</p>
+      <p begin="01:01:07,263" end="01:01:12,330">klippte ut den och satte den h&#228;r<br/>f&#246;r att f&#229; den att se lite annorlunda ut.</p>
+      <p begin="01:01:14,022" end="01:01:15,710">Jag syr p&#229; en krage.</p>
+      <p begin="01:01:15,880" end="01:01:19,680">Det &#228;r som en handkrage, <br/>som ger det hela n&#229;got extra.</p>
+      <p begin="01:01:19,803" end="01:01:22,512">Jag kommer hinna s&#228;tta den p&#229; benen.</p>
+      <p begin="01:01:27,512" end="01:01:30,522">- Jag hoppas att det blir en bra kv&#228;ll <br/>med hyggligt mycket folk,</p>
+      <p begin="01:01:30,629" end="01:01:33,313">att han har en publik att upptr&#228;da f&#246;r <br/>som tycker om skivan</p>
+      <p begin="01:01:33,313" end="01:01:35,177">eftersom vi tycker om skivan.</p>
+      <p begin="01:01:35,177" end="01:01:39,514"/>
+      <p begin="01:01:39,514" end="01:01:44,606"/>
+      <p begin="01:01:44,606" end="01:01:49,788">- Wow, wow, sluts&#229;lt!</p>
+      <p begin="01:01:51,653" end="01:01:53,363">Herregud...</p>
+      <p begin="01:01:53,363" end="01:01:54,833">- Det st&#228;mmer!</p>
+      <p begin="01:01:54,833" end="01:01:58,125">Ingen tid att dr&#246;mma sig bort, <br/>h&#228;lsa honom v&#228;lkommen,</p>
+      <p begin="01:01:58,245" end="01:02:02,954">Mr. Charles Bradley!</p>
+      <p begin="01:02:02,954" end="01:02:05,824">- Jag s&#228;ger s&#229; h&#228;r, jag var p&#229; g&#228;stlistan<br/>och jobbade f&#246;r skivbolaget.</p>
+      <p begin="01:02:05,824" end="01:02:09,354">Och mina v&#228;nner spelar i bandet, <br/>jag beh&#246;vde v&#228;nta utanf&#246;r i, typ,</p>
+      <p begin="01:02:09,354" end="01:02:11,945">25 minuter innan jag kunde komma in.</p>
+      <p begin="01:02:12,068" end="01:02:13,544">Det var sluts&#229;lt.</p>
+      <p begin="01:02:13,651" end="01:02:17,844"/>
+      <p begin="01:02:17,844" end="01:02:37,460"/>
+      <p begin="01:02:37,460" end="01:02:40,515">Mina damer och herrar, <br/>vi har en speciell kvinna h&#228;r idag.</p>
+      <p begin="01:02:40,515" end="01:02:41,857">Jag tror det &#228;r mamma.</p>
+      <p begin="01:02:41,934" end="01:02:44,243">Min mamma &#228;r h&#228;r inne n&#229;gonstans.</p>
+      <p begin="01:02:44,496" end="01:02:47,089"/>
+      <p begin="01:02:47,089" end="01:02:48,475">Mamma.</p>
+      <p begin="01:02:49,244" end="01:02:50,749">Mamma.</p>
+      <p begin="01:02:51,996" end="01:02:54,215">Titta d&#228;r borta i bakgrunden.</p>
+      <p begin="01:02:54,215" end="01:02:56,051">Jag tror det &#228;r min mamma d&#228;r borta.</p>
+      <p begin="01:02:56,189" end="01:03:00,059">Mina damer och herrar,<br/>hon gav mig en b&#246;rjan.</p>
+      <p begin="01:03:00,273" end="01:03:09,022"/>
+      <p begin="01:03:09,022" end="01:03:19,532">&#9834; Ohhh...&#9834;</p>
+      <p begin="01:03:19,532" end="01:03:21,241">&#9834; Ta mig tillbaka &#9834;</p>
+      <p begin="01:03:21,241" end="01:03:24,872">&#9834; Till den gyllene tiden &#9834;</p>
+      <p begin="01:03:24,872" end="01:03:27,581">&#9834; Gyllene tiden...&#9834;</p>
+      <p begin="01:03:27,581" end="01:03:29,373">&#9834; Ta mig tillbaks &#9834;</p>
+      <p begin="01:03:29,373" end="01:03:32,783">&#9834; Till den gyllene tiden &#9834;</p>
+      <p begin="01:03:32,783" end="01:03:36,674">&#9834; Gyllene tiden...&#9834;</p>
+      <p begin="01:03:36,674" end="01:03:42,160">L&#229;t mig s&#228;ga ett par ord.</p>
+      <p begin="01:03:42,899" end="01:03:49,624">Du, du och du gjorde mig till den jag &#228;r.</p>
+      <p begin="01:03:50,300" end="01:03:52,827">Tack, tack.</p>
+      <p begin="01:03:54,150" end="01:03:57,171">Jag tackar dig och <br/>jag ber till gud att jag kan</p>
+      <p begin="01:03:57,240" end="01:04:01,790">forts&#228;tta ge dig k&#228;rlek, <br/>anst&#228;ndighet och &#228;rlighet.</p>
+      <p begin="01:04:01,826" end="01:04:15,962"/>
+      <p begin="01:04:15,962" end="01:04:21,677">&#9834; Owww...&#9834;</p>
+      <p begin="01:04:21,677" end="01:04:25,348">&#9834; Vad ska jag g&#246;ra? &#9834;</p>
+      <p begin="01:04:25,348" end="01:04:29,018">&#9834; Vad ska jag s&#228;ga? &#9834;</p>
+      <p begin="01:04:29,018" end="01:04:34,650">&#9834; Owww...&#9834;</p>
+      <p begin="01:04:34,650" end="01:04:48,162"/>
+      <p begin="01:04:48,162" end="01:04:51,473">Vilken k&#228;rlek kan jag be att <br/>f&#229; ha runt mig just nu?</p>
+      <p begin="01:04:51,857" end="01:04:53,228">S&#228;g mig att Gud inte finns.</p>
+      <p begin="01:04:53,228" end="01:04:56,072">Med den k&#228;rlek h&#228;r runt mig</p>
+      <p begin="01:04:56,134" end="01:04:57,586">som f&#229;r mig att ta en bit av mitt hj&#228;rta</p>
+      <p begin="01:04:57,646" end="01:05:00,048">och ge till var och en av er <br/>och s&#228;ga att jag &#228;lskar er.</p>
+      <p begin="01:05:00,725" end="01:05:02,192">- Det &#228;r en av mina favoritshower i &#229;r.</p>
+      <p begin="01:05:03,053" end="01:05:06,708">Den f&#246;r&#228;ndrade mitt liv. <br/>F&#246;r&#228;ndrade mitt liv.</p>
+      <p begin="01:05:06,815" end="01:05:08,173">- Det smittar.</p>
+      <p begin="01:05:08,866" end="01:05:11,133">Du vet, han &#228;lskar vad han g&#246;r.</p>
+      <p begin="01:05:11,210" end="01:05:12,754">Han &#228;r f&#246;r&#228;lskad i sin publik.</p>
+      <p begin="01:05:12,877" end="01:05:14,101">Hur kan man inte gilla det?</p>
+      <p begin="01:05:14,424" end="01:05:16,885">- N&#228;r han s&#228;ger att han &#228;lskar oss, <br/>s&#229; k&#228;nner man det.</p>
+      <p begin="01:05:16,885" end="01:05:18,737">- Otroligt.</p>
+      <p begin="01:05:18,737" end="01:05:22,537">Jag tog med min v&#228;n fr&#229;n Italien, <br/>vad tyckte du om det d&#228;r?</p>
+      <p begin="01:05:22,706" end="01:05:23,838">- Otroligt.</p>
+      <p begin="01:05:24,577" end="01:05:27,780">- Jag tror det h&#228;r st&#228;llet <br/>var f&#246;r litet f&#246;r alla som kom.</p>
+      <p begin="01:05:28,149" end="01:05:32,722">F&#246;r m&#229;nga m&#228;nniskor blev nekade<br/>och det s&#229;rade mig.</p>
+      <p begin="01:05:32,906" end="01:05:36,485">Men all lycka och k&#228;rlek <br/>de gav mig, kom fr&#229;n dem.</p>
+      <p begin="01:05:36,792" end="01:05:37,990">Herregud.</p>
+      <p begin="01:05:38,190" end="01:05:39,683">De ville ha mer av mig.</p>
+      <p begin="01:05:39,822" end="01:05:42,397">Och jag k&#228;nde n&#228;r jag s&#229;g deras ansikten,</p>
+      <p begin="01:05:42,520" end="01:05:45,311">Herregud, det fick t&#229;rarna att rinna...</p>
+      <p begin="01:05:45,545" end="01:06:11,202">&#9834; The world (is going up in flames) &#9834;</p>
+      <p begin="01:06:11,418" end="01:06:13,028">Gud f&#246;rbarma dig.</p>
+      <p begin="01:06:19,252" end="01:06:23,636">Wah!</p>
+      <p begin="01:06:23,636" end="01:06:26,885">- Jag visste att skivan skulle s&#228;lja bra, <br/>jag visste bara inte hur snabbt.</p>
+      <p begin="01:06:27,700" end="01:06:29,346">Det &#228;r inte s&#229; m&#229;nga <br/>som k&#228;nner till honom och</p>
+      <p begin="01:06:29,346" end="01:06:31,890">han sl&#228;pper sin f&#246;rsta LP <br/>som s&#228;ljer s&#229; bra</p>
+      <p begin="01:06:31,890" end="01:06:33,100">n&#228;r s&#229; f&#229; k&#228;nner till honom...</p>
+      <p begin="01:06:33,100" end="01:06:35,602">Det &#228;r helt ofattbart.</p>
+      <p begin="01:06:35,602" end="01:06:42,009"/>
+      <p begin="01:06:42,147" end="01:06:45,153">- Vi jobbar verkligen emot oddsen <br/>med tanke p&#229; att han &#228;r en 62 &#229;r gammal</p>
+      <p begin="01:06:45,153" end="01:06:48,824">svart man fr&#229;n Bedstock, Brooklyn</p>
+      <p begin="01:06:48,824" end="01:06:51,035">som ska sl&#228;ppa sin f&#246;rsta skiva och</p>
+      <p begin="01:06:51,035" end="01:06:55,665">inom de f&#246;rsta veckorna s&#228;lja fler skivor</p>
+      <p begin="01:06:55,665" end="01:06:58,834">&#228;n de flesta g&#246;r p&#229; ett &#229;r.</p>
+      <p begin="01:06:58,834" end="01:07:03,764"/>
+      <p begin="01:07:03,918" end="01:07:05,362">- Jag tror inte det &#228;r klappat och klart.</p>
+      <p begin="01:07:05,470" end="01:07:06,638">Jag tror inte det &#228;r enkelt.</p>
+      <p begin="01:07:06,776" end="01:07:08,560">Jag tror m&#229;nga fler m&#228;nniskor <br/>m&#229;ste k&#246;pa den h&#228;r skivan.</p>
+      <p begin="01:07:08,667" end="01:07:10,631">Han kommer beh&#246;va g&#246;ra<br/>m&#229;nga fler konserter.</p>
+      <p begin="01:07:10,739" end="01:07:12,079">Han kommer g&#246;ra m&#229;nga fler skivor.</p>
+      <p begin="01:07:12,187" end="01:07:14,820">Det &#228;r en l&#229;ng och m&#246;dosam v&#228;g.</p>
+      <p begin="01:07:14,973" end="01:07:16,474">Och han startade sent.</p>
+      <p begin="01:07:20,310" end="01:07:23,854">- Det har g&#229;tt redan g&#229;tt mycket b&#228;ttre<br/>&#228;n vi f&#246;rv&#228;ntade oss, skivan s&#228;ljer.</p>
+      <p begin="01:07:23,993" end="01:07:25,215">Jag tror inte det kommer sluta nu.</p>
+      <p begin="01:07:25,338" end="01:07:27,368">Jag tror inte vi har sett <br/>de st&#246;rsta succ&#233;erna &#228;n.</p>
+      <p begin="01:07:31,535" end="01:07:35,155">Ahhh!</p>
+      <p begin="01:07:35,155" end="01:07:36,578">- Herren sig f&#246;rbarme.</p>
+      <p begin="01:07:36,578" end="01:07:38,410" region="top"> - Ja.</p>
+      <p begin="01:07:38,410" end="01:07:39,713" region="top"> - Herregud!</p>
+      <p begin="01:07:42,605" end="01:07:46,952">- Vi &#229;ker snart till Europa p&#229; turn&#233;<br/>och jag hoppas verkligen att</p>
+      <p begin="01:07:47,106" end="01:07:50,577">det riktiga Europa kommer gilla <br/>vad jag g&#246;r, vad jag ger till dem.</p>
+      <p begin="01:07:51,546" end="01:07:56,220">Rent som en barnrumpa.</p>
+      <p begin="01:07:57,235" end="01:07:58,616">- Hur l&#228;nge kommer du vara borta?</p>
+      <p begin="01:07:58,666" end="01:07:59,793">- Tre veckor, mamma.</p>
+      <p begin="01:07:59,833" end="01:08:00,675">- Tre veckor?</p>
+      <p begin="01:08:00,715" end="01:08:01,549">- Ja.</p>
+      <p begin="01:08:01,549" end="01:08:02,912">- Jag kommer sakna dig min son.</p>
+      <p begin="01:08:02,912" end="01:08:04,906">- Mm-hm. Du bor h&#228;r.</p>
+      <p begin="01:08:05,029" end="01:08:06,174">Jag kommer ringa dig var tredje dag.</p>
+      <p begin="01:08:06,174" end="01:08:08,630">- Okej &#228;lskling.</p>
+      <p begin="01:08:13,310" end="01:08:15,430">- Jag &#228;r en bad boy.</p>
+      <p begin="01:08:15,569" end="01:08:17,070">Du kan inte ta bort den h&#228;r k&#228;nslan.</p>
+      <p begin="01:08:17,486" end="01:08:19,296">Du kan inte ta bort den h&#228;r k&#228;nslan.</p>
+      <p begin="01:08:23,195" end="01:08:25,144">- Du kan inte retas. - Jag kan kittla dig.</p>
+      <p begin="01:08:27,457" end="01:08:28,865">Jag kan kittla dig.</p>
+      <p begin="01:08:28,865" end="01:08:39,527"/>
+      <p begin="01:08:39,711" end="01:08:41,817">Som min mamma sa idag</p>
+      <p begin="01:08:42,140" end="01:08:50,370">hon trodde aldrig att jag skulle <br/>ta mig till den h&#228;r niv&#229;n.</p>
+      <p begin="01:08:50,450" end="01:09:01,860"/>
+      <p begin="01:09:01,920" end="01:09:06,830">Jag vill se hur l&#229;ngt <br/>jag kan ta mig i livet.</p>
+      <p begin="01:09:07,937" end="01:09:13,170">Se om jag kan ta mig l&#228;ngre <br/>&#228;n alla mina familjemedlemmar.</p>
+      <p begin="01:09:13,585" end="01:09:16,133">Och du ser, det tog mig hit.</p>
+      <p begin="01:09:17,441" end="01:09:19,466">Alla d&#228;r ute, se upp.</p>
+      <p begin="01:09:19,589" end="01:09:22,876">En gammal man &#228;r p&#229; v&#228;g<br/>och jag g&#246;r ert jobb b&#228;ttre &#228;n ni.</p>
+      <p begin="01:09:23,060" end="01:09:27,872">Om inte, g&#246;r jag det &#229;t er.</p>
+      <p begin="01:09:31,686" end="01:10:03,522"/>
+      <p begin="01:10:22,155" end="01:10:24,010">- Vill du jobba p&#229; den<br/>d&#228;r l&#229;ten fr&#229;n f&#246;rra veckan?</p>
+      <p begin="01:10:24,148" end="01:10:25,229">- Vilken?</p>
+      <p begin="01:10:25,367" end="01:10:26,862">- I Thank You (Jag tackar dig).</p>
+      <p begin="01:10:26,986" end="01:10:52,255"/>
+      <p begin="01:10:52,394" end="01:10:54,959">- Han b&#246;rjar verkligen bli bra.</p>
+      <p begin="01:10:55,082" end="01:11:04,246"/>
+      <p begin="01:11:04,246" end="01:11:07,062">Ahh!</p>
+      <p begin="01:11:07,062" end="01:11:12,799">S&#229;dan &#228;r jag.</p>
+      <p begin="01:11:12,799" end="01:11:21,486"/>
+      <p begin="01:11:21,736" end="01:11:24,273">Woo.</p>
+      <p begin="01:11:56,895" end="01:12:00,084">- N&#228;r jag l&#228;mnar den h&#228;r v&#228;rlden <br/>&#228;r v&#228;rlden inte skyldig mig n&#229;got.</p>
+      <p begin="01:12:00,223" end="01:12:01,745">- Ge mig tillbaks min dollar nu.</p>
+      <p begin="01:12:04,392" end="01:12:05,962">- L&#228;gg av.</p>
+      <p begin="01:12:06,089" end="01:12:07,791">- Ge mig tillbaks min dollar.</p>
+      <p begin="01:12:08,810" end="01:12:17,605"/>
+      <p begin="01:12:17,605" end="01:12:18,666">- Mitt pass, v&#228;nta lite.</p>
+      <p begin="01:12:18,804" end="01:12:39,516"/>
+      <p begin="01:12:39,655" end="01:12:41,596">- Spara din hummer.</p>
+      <p begin="01:12:43,227" end="01:12:46,111">- Jimmy, du &#228;ter inte hummer, <br/>du ger den alltid till mig.</p>
+      <p begin="01:12:46,280" end="01:12:47,576">- Jag ska b&#246;rja &#228;ta det idag.</p>
+      <p begin="01:12:47,791" end="01:13:09,549"/>
+      <p begin="01:13:09,796" end="01:13:13,704">- Du &#228;r verkligen snabb, <br/>det &#228;r min quarter. Jag s&#229;g det.</p>
+      <p begin="01:13:13,811" end="01:13:15,088">- Jag plockade upp den.</p>
+      <p begin="01:13:15,268" end="01:14:18,880"/>
+    </div>
+  </body>
+
+</tt>

@@ -1,0 +1,100 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="" end="">[music]</p>
+      <p begin="" end="">- We welcome, Ms. Joan Rivers!</p>
+      <p begin="" end="">[applause]</p>
+      <p begin="" end="">- You know, you're going to be<br/>a big star.</p>
+      <p begin="" end="">- Here's my dappy, little friend,<br/>Joan Rivers!</p>
+      <p begin="" end="">[screaming]</p>
+      <p begin="" end="">[applause]</p>
+      <p begin="" end="">- Joan Rivers, </p>
+      <p begin="" end="">the groundbreaking <br/>female comedian</p>
+      <p begin="" end="">paved the way for women ---<br/></p>
+      <p begin="" end="">[applause]</p>
+      <p begin="" end="">- The Grammy goes to...<br/>Joan Rivers!</p>
+      <p begin="" end="">[applause]</p>
+      <p begin="" end="">- We hear Joan Rivers!</p>
+      <p begin="" end="">- ___ and I'm very, very late.</p>
+      <p begin="" end="">[music]</p>
+      <p begin="" end="">- Keep bringing 'em,<br/>you're gonna need them.</p>
+      <p begin="" end="">Welcome, Ms. Joan Rivers!</p>
+      <p begin="" end="">[applause]</p>
+      <p begin="" end="">- This is my career.<br/>How depressing is this.</p>
+      <p begin="" end="">[laughter]</p>
+      <p begin="" end="">Forty years in <br/>the fucking business</p>
+      <p begin="" end="">and this is where you end up.<br/>[audience laughter]</p>
+      <p begin="" end="">Just to show you...<br/>[audience laughter]</p>
+      <p begin="" end="">My daughter and I are very close;<br/>very, very close.</p>
+      <p begin="" end="">But I brought her up all wrong.<br/></p>
+      <p begin="" end="">I brought her up to have morals.</p>
+      <p begin="" end="">She turned down doing <br/>Playboy magazine cover,</p>
+      <p begin="" end="">how about that?</p>
+      <p begin="" end="">Four hundred thousand dollars,<br/>naked to the waist.</p>
+      <p begin="" end="">Turned it fuckin' down<br/>and calls me up for approval.</p>
+      <p begin="" end="">For approval!</p>
+      <p begin="" end="">"Mother, I turned down<br/>Playboy. What do you think?"</p>
+      <p begin="" end="">And you know, what do I think?</p>
+      <p begin="" end="">I'm very proud of you, Melissa.</p>
+      <p begin="" end="">What do I think?<br/></p>
+      <p begin="" end="">What do I think,<br/>you stupid, fucking cunt!</p>
+      <p begin="" end="">What do I think?<br/>[audience laughter]</p>
+      <p begin="" end="">I think you should ask<br/>200,000 more <br/></p>
+      <p begin="" end="">and show your pussy! <br/>That's what I think!</p>
+      <p begin="" end="">[audience applause and laughter]</p>
+      <p begin="" end="">I'm a 75 year old woman<br/>I'll be ___ drums in Queens!</p>
+      <p begin="" end="">What do I think?<br/>[audience laughter]</p>
+      <p begin="" end="">I'm not a fucking red __<br/>with a hot stunt<br/><br/></p>
+      <p begin="" end="">----<br/>where are you from?</p>
+      <p begin="" end="">Got a lucky charm.<br/></p>
+      <p begin="" end="">Who the fuck are you?</p>
+      <p begin="" end="">[audience applause and laughter]</p>
+      <p begin="" end="">[music]</p>
+      <p begin="" end="">A year in the life of <br/>a semi-legend.</p>
+      <p begin="" end="">- Not good. This is not good.</p>
+      <p begin="" end="">We have no Vegas, no giant club date.</p>
+      <p begin="" end="">Kathy Griffin's taken all <br/>those away.</p>
+      <p begin="" end="">I have the play, which is<br/>not giving me any money.</p>
+      <p begin="" end="">Can we get club gigs?<br/>Can't Billy get club gigs?</p>
+      <p begin="" end=""/>
+      <p begin="" end="">And this is not a full book.</p>
+      <p begin="" end="">- Like a little date here and there.<br/></p>
+      <p begin="" end="">- Yeah.</p>
+      <p begin="" end="">- Sure.</p>
+      <p begin="" end="">- These were the good years.</p>
+      <p begin="" end="">- These were the good years.</p>
+      <p begin="" end="">- See this is the kind of a book I like.</p>
+      <p begin="" end="">Now that's a good page.<br/>You know what I mean?</p>
+      <p begin="" end="">Ten o'clock, eleven o'clock.<br/>Twelve thirty, this and that.<br/></p>
+      <p begin="" end="">That's happiness.</p>
+      <p begin="" end="">Last year was a very difficult year.</p>
+      <p begin="" end="">I was playing Here We Go,<br/>the Bronx at 4:30 in the afternoon.</p>
+      <p begin="" end="">That was a real good one.</p>
+      <p begin="" end="">I'll show you fear.</p>
+      <p begin="" end="">That's fear.</p>
+      <p begin="" end="">If my book ever looked like this,<br/>it would mean that nobody wants me,</p>
+      <p begin="" end="">That everything I ever tried to do<br/>in life didn't work.</p>
+      <p begin="" end="">Nobody cares and I've been <br/>totally forgotten.</p>
+      <p begin="" end="">- When you say Joan, I get ___<br/>hold on let me put my sunglasses on</p>
+      <p begin="" end="">because the white of the page<br/>hurts my eyes.</p>
+      <p begin="" end="">So, that's a joke. <br/>So we used to laugh at that.</p>
+      <p begin="" end="">"Hold on, let me get my sunglasses."</p>
+      <p begin="" end="">Okay, what day?</p>
+      <p begin="" end="">- You don't have to.</p>
+      <p begin="" end="">- Humor me.</p>
+    </div>
+  </body>
+</tt>
