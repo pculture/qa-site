@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="fr">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:02:41.267" end="00:02:44.933">Dans les ann&#233;es 80 et 90, l'information &#233;tait essentielle</p>
+      <p begin="00:02:45.000" end="00:02:47.200">mais depuis tout a chang&#233;.</p>
+      <p begin="00:02:47.267" end="00:02:49.200">Aujourd'hui, gr&#226;ce &#224; Internet,</p>
+      <p begin="00:02:49.267" end="00:02:52.667">deux jeunes dipl&#244;m&#233;s peuvent d&#233;placer</p>
+      <p begin="00:02:52.733" end="00:02:54.333">plus d'argent que les plus grands fonds</p>
+      <p begin="00:02:54.400" end="00:02:56.200">et obtenir des informations avant tout le monde,</p>
+      <p begin="00:02:56.267" end="00:02:58.933">sans m&#234;me bouger de leur petit bureau merdique,</p>
+      <p begin="00:02:59.000" end="00:03:02.200">car ils dirigent un chat.</p>
+      <p begin="00:03:02.267" end="00:03:06.233">C'est pourquoi notre boulot est plus que de l'information,</p>
+      <p begin="00:03:06.300" end="00:03:08.467">il s'agit aussi d'intelligence.</p>
+      <p begin="00:03:08.533" end="00:03:10.500">On ach&#232;te une action</p>
+      <p begin="00:03:10.567" end="00:03:13.700">Qu'un idiot nous a revendue</p>
+      <p begin="00:03:13.767" end="00:03:15.500">Et quand je dis "nous",</p>
+      <p begin="00:03:15.567" end="00:03:20.233">je ne parle pas de ces trouillards de Wall Street.</p>
+      <p begin="00:03:20.300" end="00:03:23.900">Messieurs, les fonds sp&#233;culatifs sont l'avenir.</p>
+      <p begin="00:03:23.967" end="00:03:29.133">Nous prosp&#233;rons gr&#226;ce &#224; notre capacit&#233; &#224; d&#233;chiffrer les indices</p>
+      <p begin="00:03:29.200" end="00:03:34.367">et &#224; lire entre les lignes, mais aussi gr&#226;ce &#224; nos strat&#233;gies infaillibles</p>
+      <p begin="00:03:34.433" end="00:03:39.500">suivies &#224; la lettre par les super-capitalistes.</p>
+      <p begin="00:03:39.567" end="00:03:45.233">Nous travaillons dans une agence cach&#233;e de haut rang</p>
+      <p begin="00:03:45.300" end="00:03:50.833">ayant une seule et unique mission :</p>
+      <p begin="00:03:50.900" end="00:03:52.233">notre droit absolu de gagner le plus d'argent possible</p>
+      <p begin="00:03:52.300" end="00:03:57.000">avant de mourir.</p>
+      <p begin="00:03:57.067" end="00:03:59.167">Nous nous armerons de nos discours</p>
+      <p begin="00:03:59.233" end="00:04:01.867">et surtout, s'il le faut,</p>
+      <p begin="00:04:01.933" end="00:04:05.000">nous entrerons en guerre en usant de toutes les strat&#233;gies</p>
+      <p begin="00:04:05.067" end="00:04:09.000">m&#234;me les plus inimaginables.</p>
+      <p begin="00:04:09.067" end="00:04:15.867">Car nos provoquons des &#233;v&#232;nements</p>
+      <p begin="00:04:15.933" end="00:04:20.567">qui d&#233;bloquent la valeur actionnariale.</p>
+      <p begin="00:04:20.633" end="00:04:26.033">Voil&#224; comment notre fonds augmente de 25% chaque ann&#233;e</p>
+      <p begin="00:04:26.100" end="00:04:28.800">depuis 5 ans.</p>
+      <p begin="00:04:28.867" end="00:04:30.733">Qu'en est-il de l'Asie?</p>
+      <p begin="00:04:30.800" end="00:04:33.267">Nous avons quelqu'un &#224; Hong Kong.</p>
+      <p begin="00:04:33.333" end="00:04:37.700">Tr&#232;s intelligent. Il s'y connait.</p>
+      <p begin="00:04:37.767" end="00:04:41.833">(bavardage indistinct)</p>
+      <p begin="00:04:41.900" end="00:04:45.567">T'en mets du temps &#224; lancer les d&#233;s, mec !</p>
+      <p begin="00:04:45.633" end="00:04:50.133">Allez, allez ! Lance les d&#233;s !</p>
+      <p begin="00:04:50.200" end="00:04:51.800">Lance les, putain !</p>
+      <p begin="00:04:51.867" end="00:04:55.067">(ils crient tous)</p>
+      <p begin="00:04:55.133" end="00:04:56.833">&#9834; Vas-y balance tout &#9834;</p>
+      <p begin="00:04:56.900" end="00:04:59.300">&#9834; Vas-y, balance tout, tout, tout &#9834;</p>
+      <p begin="00:04:59.367" end="00:05:01.333">&#9834; Balance tout, encaisse l'argent &#9834;</p>
+      <p begin="00:05:01.400" end="00:05:04.533">&#9834; Vas-y balance tout, vas-y balance tout, tout &#9834;</p>
+      <p begin="00:05:04.600" end="00:05:06.900">Ohhhhh !</p>
+      <p begin="00:05:06.967" end="00:05:08.200">Putain !</p>
+      <p begin="00:05:08.267" end="00:05:09.767">&#9834; Vas-y balance tout &#9834;</p>
+      <p begin="00:05:09.833" end="00:05:12.100">&#9834; Balance tout, encaisse l'argent &#9834;</p>
+      <p begin="00:05:16.900" end="00:05:18.433">&#9834; Une belle maison sur les collines &#9834;</p>
+      <p begin="00:05:18.500" end="00:05:20.700">&#9834; J'ai ma belle maison sur les collines &#9834;</p>
+      <p begin="00:05:20.767" end="00:05:23.300">Les traders attendent avec impatience</p>
+      <p begin="00:05:23.367" end="00:05:25.767">la d&#233;cision de la banque centrale sur les taux d'int&#233;r&#234;t.</p>
+      <p begin="00:05:25.833" end="00:05:27.567">Une augmentation importante des taux</p>
+      <p begin="00:05:27.633" end="00:05:29.733">pourrait avoir des effets consid&#233;rables</p>
+      <p begin="00:05:29.800" end="00:05:31.067">sur l'&#233;conomie am&#233;ricaine.</p>
+      <p begin="00:05:31.133" end="00:05:32.567">Cela pourrait freiner la croissance,</p>
+      <p begin="00:05:32.633" end="00:05:34.133">car, avec des taux plus &#233;lev&#233;s,</p>
+      <p begin="00:05:34.200" end="00:05:35.733">il est plus difficile d'emprunter de l'argent.</p>
+      <p begin="00:05:35.800" end="00:05:38.733">Mais les experts affirment que cela est n&#233;cessaire</p>
+      <p begin="00:05:38.800" end="00:05:42.000">pour limiter l'inflation.</p>
+      <p begin="00:05:46.133" end="00:05:49.867">( rires) 1%, c'est &#231;a, Conner ? Bien s&#251;r !</p>
+      <p begin="00:05:49.933" end="00:05:53.233">Les nouvelles vont vite -- Tu crois vraiment que les taux vont &#234;tre baiss&#233;s &#224; 1%?</p>
+      <p begin="00:05:53.300" end="00:05:55.300">Le moment est arriv&#233;, Andy, je le sens.</p>
+      <p begin="00:05:55.367" end="00:05:58.867">T'es fou ! J'aime &#231;a chez toi !</p>
+      <p begin="00:05:58.933" end="00:06:02.733">Eh, Conner, merci pour hier ! En plein dans le mille !</p>
+      <p begin="00:06:02.800" end="00:06:04.167">J'attends mes billets pour le match !</p>
+      <p begin="00:06:04.233" end="00:06:07.233">S&#233;rieux ce mec... Je peux te demander quelque chose?</p>
+      <p begin="00:06:07.300" end="00:06:09.233">Ouais ? Vendredi...</p>
+      <p begin="00:06:09.300" end="00:06:11.800">Les Yankees contre les Mets? Qui va gagner?</p>
+      <p begin="00:06:11.867" end="00:06:13.867">Johnson contre Kishita ? Ouais.</p>
+      <p begin="00:06:13.933" end="00:06:16.533">Il parait que Kishita a rompu avec sa fianc&#233;e,</p>
+      <p begin="00:06:16.600" end="00:06:18.500">donc il ne sera pas vraiment au top. T'en sais rien !</p>
+      <p begin="00:06:18.567" end="00:06:21.633">Crois-moi. Victoire des Yankees de 2 points.</p>
+      <p begin="00:06:21.700" end="00:06:23.800">Okay, c'est ce que je voulais savoir.</p>
+      <p begin="00:06:23.867" end="00:06:25.800">( bavardage indistinct )</p>
+      <p begin="00:06:25.867" end="00:06:28.400">C'est le grand jour.</p>
+      <p begin="00:06:28.467" end="00:06:29.667">Pr&#234;t?</p>
+      <p begin="00:06:30.900" end="00:06:33.267">Ouais.</p>
+      <p begin="00:06:33.333" end="00:06:35.100">M. Brown, la connexion est &#233;tablie.</p>
+      <p begin="00:06:35.167" end="00:06:36.867">Qu'avez-vous &#224; me dire?</p>
+      <p begin="00:06:36.933" end="00:06:38.200">Hendricks?</p>
+      <p begin="00:06:38.267" end="00:06:40.333">Le vieux Kaffi de R.A.W. va bient&#244;t y passer</p>
+      <p begin="00:06:40.400" end="00:06:43.100">donc on va vendre &#224; d&#233;couvert.</p>
+      <p begin="00:06:43.167" end="00:06:44.867">A&#239;e. Beau gosse?</p>
+      <p begin="00:06:44.933" end="00:06:46.600">En attendant les gros chiffres de la banque centrale</p>
+      <p begin="00:06:46.667" end="00:06:48.400">on serre les fesses.</p>
+      <p begin="00:06:48.467" end="00:06:50.267">Bande de l&#226;ches !</p>
+      <p begin="00:06:50.333" end="00:06:52.500">Un autre point &#224; voir aujourd'hui --</p>
+      <p begin="00:06:52.567" end="00:06:55.633">on va tous dire sayonara &#224; Hong Kong,</p>
+      <p begin="00:06:55.700" end="00:06:57.900">on se d&#233;barrasse de Fei &amp; Chang.</p>
+      <p begin="00:06:57.967" end="00:06:59.500">(m&#233;contentement)</p>
+      <p begin="00:06:59.567" end="00:07:01.700">Bon, s'il n'y a rien &#224; ajouter ...</p>
+      <p begin="00:07:01.767" end="00:07:04.533">Heu, &#233;coute Mark. Ici Conner.</p>
+      <p begin="00:07:04.600" end="00:07:06.800">J'ai analys&#233; ce qu'il va se passer aujourd'hui</p>
+      <p begin="00:07:06.867" end="00:07:09.733">et il vaudrait mieux renforcer notre position chez Fei &amp; Chang.</p>
+      <p begin="00:07:09.800" end="00:07:11.067">Combien ?</p>
+      <p begin="00:07:11.133" end="00:07:12.333">Entre 80 et 90 millions.</p>
+      <p begin="00:07:12.400" end="00:07:13.667">T'es compl&#232;tement fou!</p>
+      <p begin="00:07:13.733" end="00:07:15.533">La FED est dans le p&#233;trin, ils vont r&#233;duire les taux.</p>
+      <p begin="00:07:15.600" end="00:07:17.300">Je t'ai d&#233;j&#224; dit de laisser tomber !</p>
+      <p begin="00:07:17.367" end="00:07:18.533">J'ai refait des calculs.</p>
+      <p begin="00:07:18.600" end="00:07:20.800">Et mon intuition me dit que -- Ton intuition?</p>
+      <p begin="00:07:20.867" end="00:07:24.067">Tu te crois &#224; Vegas? Miser sur ton intuition?</p>
+      <p begin="00:07:24.133" end="00:07:27.533">Mark, d&#233;sol&#233;, il faut excuser M. Conner.</p>
+      <p begin="00:07:27.600" end="00:07:29.533">Il vient de se r&#233;veiller du pays imaginaire !</p>
+      <p begin="00:07:29.600" end="00:07:31.333">Si l'on baisse les taux, les conommateurs</p>
+      <p begin="00:07:31.400" end="00:07:32.867">vont sortir, racheter leurs pr&#234;ts immobiliers,</p>
+      <p begin="00:07:32.933" end="00:07:34.400">auront plus d'argent &#224; d&#233;penser.</p>
+      <p begin="00:07:34.467" end="00:07:36.233">Ils pourront acheter des &#233;crans plats, des t&#233;l&#233;phones,</p>
+      <p begin="00:07:36.300" end="00:07:38.933">tout ce qu'ils d&#233;sirent pour leurs enfants.</p>
+      <p begin="00:07:39.000" end="00:07:41.033">Et qui fabrique ces produits? La chine.</p>
+      <p begin="00:07:41.100" end="00:07:43.667">Et quelle grande soci&#233;t&#233; va en tirer les b&#233;n&#233;fices?</p>
+      <p begin="00:07:43.733" end="00:07:46.400">Il n'y a que moi qui pense qu'il est en train de r&#234;ver?</p>
+      <p begin="00:07:46.467" end="00:07:50.400">La FED ne baissera jamais les taux &#224; 1%, jamais.</p>
+      <p begin="00:07:50.467" end="00:07:52.333">Trouvez une solution et rappelez moi.</p>
+      <p begin="00:07:52.400" end="00:07:54.767">Si vous acceptiez de m'&#233;couter -- Non, TU vas m'&#233;couter !</p>
+      <p begin="00:07:54.833" end="00:07:58.333">Fei &amp; Chang, c'est fini !</p>
+      <p begin="00:07:58.400" end="00:08:02.233">R&#233;union termin&#233;e, maintenant d&#233;gagez !</p>
+      <p begin="00:08:09.667" end="00:08:12.600">Tu te crois malin ?</p>
+      <p begin="00:08:12.667" end="00:08:14.967">Avec tes chiffres magiques. Et, merde.</p>
+      <p begin="00:08:15.033" end="00:08:17.333">Ecoute moi bien, tu me refais ce coup-l&#224; encore une fois,</p>
+      <p begin="00:08:17.400" end="00:08:19.900">et tu n'auras plus qu'&#224; astiquer ma lampe magique.</p>
+      <p begin="00:08:19.967" end="00:08:22.167">Astiquer votre lampe magique. Entendu.</p>
+      <p begin="00:08:22.233" end="00:08:24.833">Bien. Andy, liquide toutes les actions Fei &amp; Chang.</p>
+      <p begin="00:08:24.900" end="00:08:26.400">Grosse erreur.</p>
+      <p begin="00:08:26.467" end="00:08:30.333">(rit) Tu as abandonn&#233; tes &#233;tudes et</p>
+      <p begin="00:08:30.400" end="00:08:31.967">tu te crois bien plac&#233; pour me dire quoi faire?</p>
+      <p begin="00:08:32.033" end="00:08:34.200">Depuis 6 mois je couvre votre secteur,</p>
+      <p begin="00:08:34.267" end="00:08:36.400">je r&#233;dige vos propositions, j'&#233;tudie les chiffres,</p>
+      <p begin="00:08:36.467" end="00:08:38.267">en gros je fais votre boulot.</p>
+      <p begin="00:08:38.333" end="00:08:40.233">Donc, oui, je pense que je suis bien plac&#233; --</p>
+      <p begin="00:08:40.300" end="00:08:42.700">J'en ai rien &#224; foutre de ce que tu penses.</p>
+      <p begin="00:08:42.767" end="00:08:45.467">Tu fais des choses sans pr&#233;c&#233;dent sur le march&#233;</p>
+      <p begin="00:08:45.533" end="00:08:46.867">et tu n'&#233;coutes personne.</p>
+      <p begin="00:08:46.933" end="00:08:48.233">Il y a une hi&#233;rarchie ici,</p>
+      <p begin="00:08:48.300" end="00:08:50.067">donc quand je te dis d'aller te faire foutre, tu le fais.</p>
+      <p begin="00:08:50.133" end="00:08:51.300">Compris ?</p>
+      <p begin="00:08:51.367" end="00:08:52.700">Morris, d&#233;tends toi un peu.</p>
+      <p begin="00:08:52.767" end="00:08:54.433">Andy, si je voulais un conseil non-sollicit&#233; d'une chienne,</p>
+      <p begin="00:08:54.500" end="00:08:56.200">j'appellerais mon ex-femme.</p>
+      <p begin="00:08:56.267" end="00:08:58.433">Je vais &#234;tre plus clair. FED -- 1%</p>
+      <p begin="00:08:58.500" end="00:09:00.900">Fei &amp; Chang ? Hausse ph&#233;nom&#233;nale.</p>
+      <p begin="00:09:00.967" end="00:09:03.200">Okay, Monsieur je-sais-tout.</p>
+      <p begin="00:09:03.267" end="00:09:05.867">Tu veux parier sur tes pr&#233;dictions?</p>
+      <p begin="00:09:05.933" end="00:09:07.067">Laisse tomber.</p>
+      <p begin="00:09:07.133" end="00:09:08.600">Une chance sur 10 que tu aies raison.</p>
+      <p begin="00:09:08.667" end="00:09:10.367">Tu ne veux pas &#234;tre ici, moi non plus.</p>
+      <p begin="00:09:10.433" end="00:09:12.300">Donc on va faire quelque chose...</p>
+      <p begin="00:09:12.367" end="00:09:16.367">S'il vous plait, votre attention !</p>
+      <p begin="00:09:16.433" end="00:09:17.867">Je, Morris Borwn III,</p>
+      <p begin="00:09:17.933" end="00:09:20.700">m'engage &#224; verser 50000 $</p>
+      <p begin="00:09:20.767" end="00:09:21.933">&#224; l'abruti</p>
+      <p begin="00:09:22.000" end="00:09:24.000">-- c'est toi</p>
+      <p begin="00:09:24.067" end="00:09:26.200">si l'abruti traverse le bureau nu</p>
+      <p begin="00:09:26.267" end="00:09:28.400">en courant et</p>
+      <p begin="00:09:28.467" end="00:09:30.100">en criant "Morris est mon papa".</p>
+      <p begin="00:09:30.167" end="00:09:31.500">Allez, Conner !</p>
+    </div>
+  </body>
+
+</tt>

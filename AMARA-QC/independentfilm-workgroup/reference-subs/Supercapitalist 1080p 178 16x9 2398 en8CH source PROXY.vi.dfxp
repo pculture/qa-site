@@ -1,0 +1,33 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="vi">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:02:41.267" end="00:02:44.933">Ng&#432;&#7907;c v&#7873; nh&#7919;ng n&#259;m 80 v&#224; 90, th&#244;ng tin l&#224; chi&#7871;c ch&#236;a kh&#243;a.</p>
+      <p begin="00:02:45.000" end="00:02:47.200">Nh&#432;ng gi&#7901; &#273;&#226;y n&#243; l&#224; c&#7843; m&#7897;t tr&#242; ch&#417;i m&#7899;i.</p>
+      <p begin="00:02:47.267" end="00:02:49.200">Ng&#224;y nay, v&#7899;i m&#7841;ng to&#224;n c&#7847;u,</p>
+      <p begin="00:02:49.267" end="00:02:52.667">Hai sinh vi&#234;n m&#7899;i t&#7889;t nghi&#7879;p ng&#7891;i &#7903; m&#7897;t c&#225;i h&#7897;p kh&#244;ng c&#7917;a s&#7893; kh&#7881; kh&#244; n&#224;o &#273;&#243;</p>
+      <p begin="00:02:52.733" end="00:02:54.333">c&#243; th&#7875; &#273;ang l&#224;m ra nhi&#7873;u ti&#7873;n h&#417;n</p>
+      <p begin="00:02:54.400" end="00:02:56.200">so v&#7899;i m&#7897;t s&#7889; qu&#7929; l&#7899;n nh&#7845;t,</p>
+      <p begin="00:02:56.267" end="00:02:58.933">v&#224; l&#7845;y &#273;&#432;&#7907;c th&#244;ng tin nhanh h&#417;n b&#7845;t c&#7913; ai kh&#225;c</p>
+      <p begin="00:02:59.000" end="00:03:02.200">b&#7903;i v&#236; h&#7885; l&#224; chuy&#234;n gia c&#7911;a m&#7897;t ph&#242;ng t&#225;n g&#7851;u.</p>
+      <p begin="00:03:02.267" end="00:03:06.233">V&#236; v&#7853;y ngh&#7873; nghi&#7879;p c&#7911;a ch&#250;ng ta kh&#244;ng ph&#7843;i ch&#7881; v&#7873; th&#244;ng tin;</p>
+      <p begin="00:03:06.300" end="00:03:08.467">m&#224; v&#7873; t&#236;nh b&#225;o.</p>
+      <p begin="00:03:08.533" end="00:03:10.500">Khi ch&#250;ng ta mua m&#7897;t m&#7851;u th&#244;ng tin,</p>
+      <p begin="00:03:10.567" end="00:03:13.700">&#273;&#243; l&#224; b&#7903;i v&#236; m&#7897;t t&#234;n ng&#7889;c &#273;&#227; b&#225;n n&#243; cho ch&#250;ng ta.</p>
+      <p begin="00:03:13.767" end="00:03:15.500">V&#224; khi t&#244;i n&#243;i ch&#250;ng ta,</p>
+      <p begin="00:03:15.567" end="00:03:20.233">t&#244;i kh&#244;ng c&#243; &#253; n&#243;i t&#7899;i m&#7845;y con nh&#7887; &#7903; Ph&#7889; Wall.</p>
+    </div>
+  </body>
+</tt>

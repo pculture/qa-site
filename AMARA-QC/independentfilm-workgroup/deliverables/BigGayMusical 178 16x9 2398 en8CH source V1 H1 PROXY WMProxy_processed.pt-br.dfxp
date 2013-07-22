@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="pt-br">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:15.667" end="00:00:18.200">Eu pare&#231;o gordo?</p>
+      <p begin="00:00:22.400" end="00:00:24.133">Estou falando s&#233;rio.</p>
+      <p begin="00:00:24.200" end="00:00:26.100">Estou?</p>
+      <p begin="00:00:27.700" end="00:00:30.200">Sim. Sim, voc&#234; est&#225; engordando.</p>
+      <p begin="00:00:30.267" end="00:00:32.567">T&#227;o grande quanto uma casa</p>
+      <p begin="00:00:34.600" end="00:00:36.733">Eu n&#227;o posso acreditar no que acabou de dizer.</p>
+      <p begin="00:00:36.800" end="00:00:39.200">E aqui estou, carregando seu beb&#234;.</p>
+      <p begin="00:00:40.800" end="00:00:43.533">Como eu sei que ele &#233; o meu filho?</p>
+      <p begin="00:00:43.600" end="00:00:45.900">Voc&#234; sabe qual &#233; o seu problema?</p>
+      <p begin="00:00:50.400" end="00:00:51.700">SIm</p>
+      <p begin="00:00:51.767" end="00:00:53.233">Somente n&#227;o posso.</p>
+      <p begin="00:00:53.300" end="00:00:55.533">E isso &#233; t&#227;o grande quanto um</p>
+      <p begin="00:00:57.600" end="00:01:00.833">Licen&#231;a, licen&#231;a</p>
+      <p begin="00:01:00.900" end="00:01:02.700">Com licen&#231;a</p>
+      <p begin="00:01:02.767" end="00:01:04.333">Senhor, est&#225; tudo bem?</p>
+      <p begin="00:01:04.400" end="00:01:05.733">Precisa de alguma coisa?</p>
+      <p begin="00:01:05.800" end="00:01:09.333">Sim. Eu preciso de um musical</p>
+      <p begin="00:01:09.400" end="00:01:10.900">O GRANDE</p>
+      <p begin="00:01:10.967" end="00:01:12.200">GAY</p>
+      <p begin="00:01:12.267" end="00:01:13.567">MUSICAL</p>
+      <p begin="00:01:52.967" end="00:01:56.533">Amo estar fora da Broadway!</p>
+      <p begin="00:01:56.600" end="00:01:58.933">Senhoras e senhores,</p>
+      <p begin="00:01:59.000" end="00:02:00.733">bem-vindos ao primeiro preview de "Adam e Steve -</p>
+      <p begin="00:02:03.100" end="00:02:05.800">Antes do show comear</p>
+      <p begin="00:02:05.867" end="00:02:07.400">precisamos avisar que o show vai pegar "FOGO</p>
+      <p begin="00:02:07.467" end="00:02:10.033">pela Coaliz&#227;o de Crist&#227;os.</p>
+      <p begin="00:02:10.100" end="00:02:12.533">Mas isso n&#227;o significa que isso &#233; sobre homossexuais.</p>
+      <p begin="00:02:12.600" end="00:02:15.233">Isso quer dizer somente que, se aproveitarem o show,</p>
+      <p begin="00:02:15.300" end="00:02:18.200">voc&#234;s ir&#227;o queimar no inferno, certo pr&#243;ximo de n&#243;s</p>
+      <p begin="00:02:18.267" end="00:02:20.500">[Aplausos]</p>
+      <p begin="00:02:24.500" end="00:02:26.800">OI! Eu sou o Adam.</p>
+      <p begin="00:02:26.867" end="00:02:28.733">E eu sou o seu esposo, Steven.</p>
+      <p begin="00:02:28.800" end="00:02:30.733">E essa &#233; a nossa hist&#243;ria.</p>
+      <p begin="00:02:30.800" end="00:02:32.800">No come&#231;o</p>
+      <p begin="00:02:32.867" end="00:02:34.300">Deus criou os C&#233;us e a Terra.</p>
+      <p begin="00:02:34.367" end="00:02:35.300">Espere!</p>
+      <p begin="00:02:35.367" end="00:02:38.433">Esse n&#227;o &#233; o in&#237;cio da hist&#243;ria. Voc&#234; pegou o livro errado.</p>
+      <p begin="00:02:38.500" end="00:02:39.100">Desculpe!</p>
+      <p begin="00:02:44.800" end="00:02:46.333">No come&#231;o,</p>
+      <p begin="00:02:46.400" end="00:02:48.800">Deus estava... cansado.</p>
+      <p begin="00:02:48.867" end="00:02:51.333">Ele estava sozinho no univverso,</p>
+      <p begin="00:02:51.400" end="00:02:54.533">e</p>
+    </div>
+  </body>
+
+</tt>

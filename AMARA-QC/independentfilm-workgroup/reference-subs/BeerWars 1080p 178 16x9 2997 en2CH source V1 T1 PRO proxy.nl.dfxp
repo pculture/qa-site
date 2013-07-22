@@ -1,0 +1,102 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="nl">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:02.000" end="00:00:04.000">[ Geen geluid ]</p>
+      <p begin="00:00:06.033" end="00:00:13.000">[ Kwakende eenden ]</p>
+      <p begin="00:00:19.000" end="00:00:23.633">[ Up-tempo muziek ]</p>
+      <p begin="00:00:23.700" end="00:00:27.433">&amp;gt;&amp;gt; Beer -- sprankelend, goud,</p>
+      <p begin="00:00:27.500" end="00:00:29.333">puur, verfrissend</p>
+      <p begin="00:00:37.433" end="00:00:39.533">&amp;gt;&amp;gt; &#9834; Licht, licht, licht, ja &#9834;</p>
+      <p begin="00:00:39.600" end="00:00:42.200">&amp;gt;&amp;gt; Bier is de drank van Amerika.</p>
+      <p begin="00:00:42.267" end="00:00:43.667">Bijna alles wat in</p>
+      <p begin="00:00:43.733" end="00:00:45.200">Amerika belangrijk is</p>
+      <p begin="00:00:45.267" end="00:00:46.033">gaat om bier.</p>
+      <p begin="00:00:46.100" end="00:00:47.000">&amp;gt;&amp;gt; Bier, Norm?</p>
+      <p begin="00:00:47.067" end="00:00:48.600">&amp;gt;&amp;gt; Dat is dat schuimende, gouden</p>
+      <p begin="00:00:48.667" end="00:00:49.500">spul, of niet?</p>
+      <p begin="00:00:49.567" end="00:00:49.933">&amp;gt;&amp;gt; Ja.</p>
+      <p begin="00:00:50.000" end="00:00:51.100">&amp;gt;&amp;gt; Ja, daar heb ik goede dingen</p>
+      <p begin="00:00:51.167" end="00:00:51.767">over gehoord.</p>
+      <p begin="00:00:51.833" end="00:00:52.867">[ Gelach ]</p>
+      <p begin="00:00:52.933" end="00:00:54.333">&amp;gt;&amp;gt; Weet je, Amerikanen houden</p>
+      <p begin="00:00:54.400" end="00:00:54.800">van bier.</p>
+      <p begin="00:00:54.867" end="00:00:56.300">Het is net als, weet je, moeder,</p>
+      <p begin="00:00:56.367" end="00:00:57.400">God en appeltaart.</p>
+      <p begin="00:00:57.467" end="00:00:59.167">&amp;gt;&amp;gt; Het bier is nu gekoeld, en</p>
+      <p begin="00:00:59.233" end="00:01:00.533">Ingrid serveert het op de</p>
+      <p begin="00:01:00.600" end="00:01:02.167">traditionele manier -- uit een</p>
+      <p begin="00:01:02.233" end="00:01:03.567">karaf met een slinger van</p>
+      <p begin="00:01:03.633" end="00:01:04.233">groen.</p>
+      <p begin="00:01:04.300" end="00:01:04.767">mmm!</p>
+      <p begin="00:01:04.833" end="00:01:07.000">&amp;gt;&amp;gt; Ik denk dat in de Verenigde Staten,</p>
+      <p begin="00:01:07.067" end="00:01:09.000">bier net zo iets is als de</p>
+      <p begin="00:01:09.067" end="00:01:10.300">volwassen Teddybeer.</p>
+      <p begin="00:01:10.367" end="00:01:12.733">&amp;gt;&amp;gt; Deze mannen vinden een soort van</p>
+      <p begin="00:01:12.800" end="00:01:15.300">ontspanning en bevrijding die ze nodig hebben</p>
+      <p begin="00:01:15.367" end="00:01:17.333">in een koud glas bier.</p>
+      <p begin="00:01:17.400" end="00:01:20.567">Voor hen, is het alleen bier wat dat doet.</p>
+      <p begin="00:01:20.633" end="00:01:22.067">&amp;gt;&amp;gt; &#9834; Ik denk dat ik een koud glas neem &#9834;</p>
+      <p begin="00:01:22.133" end="00:01:24.167">&#9834; Ik neem nog een biertje &#9834; &#9834; Alsjeblieft, dank je &#9834;</p>
+      <p begin="00:01:24.233" end="00:01:25.933">&amp;gt;&amp;gt; Weet je, voor een lange tijd,</p>
+      <p begin="00:01:26.000" end="00:01:27.733">hadden we niets te kiezen.</p>
+      <p begin="00:01:27.800" end="00:01:29.400">Er was niets anders dan dat</p>
+      <p begin="00:01:29.467" end="00:01:31.233">prikkende, gele, nogal flauwe,</p>
+      <p begin="00:01:31.300" end="00:01:32.533">gemakkelijk drinkende bier.</p>
+      <p begin="00:01:32.600" end="00:01:33.767">Je hoeft er eigenlijk niet aan te denken</p>
+      <p begin="00:01:33.833" end="00:01:35.033">omdat er niet eigenlijk ook</p>
+      <p begin="00:01:35.100" end="00:01:36.033">niets over te denken valt.</p>
+      <p begin="00:01:36.100" end="00:01:38.000">&amp;gt;&amp;gt; Wij vinden dat jullie Amerikaanse bier</p>
+      <p begin="00:01:38.067" end="00:01:39.867">lijkt op de liefde bedrijven in een</p>
+      <p begin="00:01:39.933" end="00:01:40.467">kano.</p>
+      <p begin="00:01:40.533" end="00:01:42.500">&amp;gt;&amp;gt; De liefde bedrijven in een kano?</p>
+      <p begin="00:01:42.567" end="00:01:44.367">&amp;gt;&amp;gt; Het komt verdomde dicht bij water.</p>
+      <p begin="00:01:44.433" end="00:01:45.233">[ Gelach ]</p>
+      <p begin="00:01:45.300" end="00:01:46.767">&amp;gt;&amp;gt; Maar nu zien we steeds meer</p>
+      <p begin="00:01:46.833" end="00:01:48.267">consumenten die overschakelen van</p>
+      <p begin="00:01:48.333" end="00:01:49.900">in massa geproduceerde bieren naar</p>
+      <p begin="00:01:49.967" end="00:01:51.467">de meer ambachtelijke bieren die</p>
+      <p begin="00:01:51.533" end="00:01:53.200">in de V.S. gemaakt worden.</p>
+      <p begin="00:01:53.267" end="00:01:54.700">&amp;gt;&amp;gt; Wat drinken jullie?</p>
+      <p begin="00:01:54.767" end="00:01:56.167">&amp;gt;&amp;gt; Ik drink een "Blue Moon".</p>
+      <p begin="00:01:56.233" end="00:01:56.900">&amp;gt;&amp;gt; "Fat Tire".</p>
+      <p begin="00:01:56.967" end="00:01:57.867">&amp;gt;&amp;gt; "Sierra Nevada".</p>
+      <p begin="00:01:57.933" end="00:01:58.767">&amp;gt;&amp;gt; "Rolling Rock".</p>
+      <p begin="00:01:58.833" end="00:02:00.000">&amp;gt;&amp;gt; "Sam Adams Summer Ale".</p>
+      <p begin="00:02:00.067" end="00:02:01.100">&amp;gt;&amp;gt; "Pabst Blue Ribbon".</p>
+      <p begin="00:02:01.167" end="00:02:02.033">&amp;gt;&amp;gt; "Anchor Steam".</p>
+      <p begin="00:02:02.100" end="00:02:03.267">&amp;gt;&amp;gt; Ik drink "Arrogant</p>
+      <p begin="00:02:03.333" end="00:02:03.833">Bastard".</p>
+      <p begin="00:02:03.900" end="00:02:06.067">&amp;gt;&amp;gt; The wedergeboorte van het bier in</p>
+      <p begin="00:02:06.133" end="00:02:08.667">dit land gaat verder dan</p>
+      <p begin="00:02:08.733" end="00:02:10.867">mijn -- mijn wildste dromen.</p>
+      <p begin="00:02:10.933" end="00:02:12.967">Tegenwoordig, hebben de Verenigde Staten</p>
+      <p begin="00:02:13.033" end="00:02:15.033">een grotere keuze aan bieren dan</p>
+      <p begin="00:02:15.100" end="00:02:17.200">in welk ander land dan ook in de wereld.</p>
+      <p begin="00:02:17.267" end="00:02:19.133">&amp;gt;&amp;gt; Amerikanen drinken veel</p>
+      <p begin="00:02:19.200" end="00:02:22.033">bier -- voor ruim 71 miljard euro</p>
+      <p begin="00:02:22.100" end="00:02:22.967">afgelopen jaar.</p>
+      <p begin="00:02:23.033" end="00:02:26.633">Dat is bijna 25 miljoen liter</p>
+      <p begin="00:02:26.700" end="00:02:28.033">bier.</p>
+      <p begin="00:02:28.100" end="00:02:30.100">En het meeste van dit bier kwam van</p>
+      <p begin="00:02:30.167" end="00:02:32.133">maar een handvol multinationals.</p>
+      <p begin="00:02:32.200" end="00:02:34.367">&amp;nbsp;</p>
+      <p begin="00:02:34.433" end="00:02:36.333">Mijn naam is Anat Baron, en ik</p>
+      <p begin="00:02:36.400" end="00:02:38.467">heb in de bier industrie gewerkt.</p>
+      <p begin="00:02:38.533" end="00:02:39.767">Toen ik opgroeide, wilde ik</p>
+      <p begin="00:02:39.833" end="00:02:40.400">president worden.</p>
+    </div>
+  </body>
+</tt>

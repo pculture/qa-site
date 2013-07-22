@@ -1,0 +1,602 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="fr">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+      <ttm:title/>
+      <ttm:description/>
+      <ttm:copyright/>
+    </metadata>
+    <styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:textAlign="center"/>
+    </styling>
+    <layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+      <region xml:id="amara-subtitle-area" style="amara-style" tts:extent="560px 62px" tts:padding="5px 3px" tts:backgroundColor="black" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body region="amara-subtitle-area">
+    <div>
+      <p begin="00:00:15.667" end="00:00:18.200">[Actrice] J'ai l'air grosse?</p>
+      <p begin="00:00:22.400" end="00:00:24.133">S&#233;rieusement:</p>
+      <p begin="00:00:24.200" end="00:00:26.100">oui ou non?</p>
+      <p begin="00:00:27.700" end="00:00:30.200">[Acteur] Oui. Oui, tu as l'air grosse.</p>
+      <p begin="00:00:30.267" end="00:00:32.567">Enorme comme une maison.</p>
+      <p begin="00:00:34.600" end="00:00:36.733">[Actrice] Je n'arrive pas &#224; croire que tu viens de dire &#231;a.</p>
+      <p begin="00:00:36.800" end="00:00:39.200">Et je suis l&#224; &#224; porter ton b&#233;b&#233;.</p>
+      <p begin="00:00:40.800" end="00:00:43.533">[Acteur] Comment je peux savoir que c'est mon b&#233;b&#233;?</p>
+      <p begin="00:00:43.600" end="00:00:45.900">[Actrice] Tu sais quel est ton probl&#232;me?</p>
+      <p begin="00:00:47.967" end="00:00:50.333">Tu as un complexe.</p>
+      <p begin="00:00:50.400" end="00:00:51.700">[Acteur] Oui.</p>
+      <p begin="00:00:51.767" end="00:00:53.233">[Acteur murmure:] J'en peux plus.</p>
+      <p begin="00:00:53.300" end="00:00:55.533">[Acteur] Et il est gros comme un rocher. (?)</p>
+      <p begin="00:00:55.600" end="00:00:57.533">[Spectateur] C'est insupportable, insupportable. Pardon.</p>
+      <p begin="00:00:57.600" end="00:01:00.833">Pardon, pardon.</p>
+      <p begin="00:01:00.900" end="00:01:02.700">Pardon.</p>
+      <p begin="00:01:02.767" end="00:01:04.333">[Ouvreur (?)] Vous vous sentez bien, Monsieur?</p>
+      <p begin="00:01:04.400" end="00:01:05.733">Il vous faut quelque chose?</p>
+      <p begin="00:01:05.800" end="00:01:09.333">[Spectateur] Oui: il me faut une com&#233;die musicale.</p>
+      <p begin="00:01:09.400" end="00:01:10.900">Une com&#233;die musicale</p>
+      <p begin="00:01:10.967" end="00:01:12.200">IMMENSE</p>
+      <p begin="00:01:12.267" end="00:01:13.567">GAY (?)!</p>
+      <p begin="00:01:52.967" end="00:01:56.533">[?] J'adore jouer<br/>"OFF Broadway"!</p>
+      <p begin="00:01:56.600" end="00:01:58.933">Mesdames et messieurs,</p>
+      <p begin="00:01:59.000" end="00:02:00.733">bienvenue &#224; la r&#233;p&#233;tition g&#233;n&#233;rale d'"Adam et Steve -</p>
+      <p begin="00:02:00.800" end="00:02:03.033">juste comme Dieu les a faits."</p>
+      <p begin="00:02:03.100" end="00:02:05.800">Avant que le spectacle commence</p>
+      <p begin="00:02:05.867" end="00:02:07.400">nous devons vous avertir qu'il a &#233;t&#233; d&#233;fini comme "incendiaire" (? flaming)"</p>
+      <p begin="00:02:07.467" end="00:02:10.033">par une Coalition de chr&#233;tiens.</p>
+      <p begin="00:02:10.100" end="00:02:12.533">Mais cela ne signifie pas qu'il traite d'homosexuels.</p>
+      <p begin="00:02:12.600" end="00:02:15.233">Cela signifie seulement que si le spectacle vous pla&#238;t,</p>
+      <p begin="00:02:15.300" end="00:02:18.200">vous finirez en enfer, &#224; nos c&#244;t&#233;s.</p>
+      <p begin="00:02:18.267" end="00:02:20.500">[Applaudissements]</p>
+      <p begin="00:02:24.500" end="00:02:26.800">[Adam] Salut! Je suis Adam</p>
+      <p begin="00:02:26.867" end="00:02:28.733">[Steve] Et je suis son mari, Steven</p>
+      <p begin="00:02:28.800" end="00:02:30.733">[?] Et c'est notre histoire.</p>
+      <p begin="00:02:30.800" end="00:02:32.800">Au commencement,</p>
+      <p begin="00:02:32.867" end="00:02:34.300">Dieu cr&#233;a le Ciel et la Terre.</p>
+      <p begin="00:02:34.367" end="00:02:35.300">Attends un peu!</p>
+      <p begin="00:02:35.367" end="00:02:38.433">Ce n'est pas ainsi que &#231;a doit commencer. Tu t'es tromp&#233; de livre</p>
+      <p begin="00:02:38.500" end="00:02:39.100">Pardon.</p>
+      <p begin="00:02:44.800" end="00:02:46.333">Au commencement,</p>
+      <p begin="00:02:46.400" end="00:02:48.800">Dieu... s'ennuyait.</p>
+      <p begin="00:02:48.867" end="00:02:51.333">Il &#233;tait tout seul dans l'univers,</p>
+      <p begin="00:02:51.400" end="00:02:54.533">et l'id&#233;e de rester tout seul pour l'&#233;ternit&#233; L'emb&#234;tait.</p>
+      <p begin="00:02:54.600" end="00:02:57.033">Il a compris que ce qu'il Lui fallait, c'&#233;tait de beaux &#234;tres pour Le divertir.</p>
+      <p begin="00:02:57.100" end="00:03:00.500">Ainsi, Dieu cr&#233;a les anges.</p>
+      <p begin="00:03:03.500" end="00:03:05.400">Et ils &#233;taient attrayants.</p>
+      <p begin="00:03:07.200" end="00:03:09.533">Chaque ange &#233;tait attrayant et sexy</p>
+      <p begin="00:03:09.600" end="00:03:11.000">et m&#226;le.</p>
+      <p begin="00:04:02.100" end="00:04:04.200">Dieu adorait les anges,</p>
+      <p begin="00:04:04.267" end="00:04:06.433">mais il a vite compris qu'Il voulait autre chose.</p>
+      <p begin="00:04:06.500" end="00:04:08.300">Alors, Dieu cr&#233;a la Terre.</p>
+      <p begin="00:04:10.900" end="00:04:18.267">&#9834; Il cr&#233;a la Terre, pleine de beaut&#233; et de merveilles. &#9834;</p>
+      <p begin="00:04:21.267" end="00:04:30.133">&#9834; Il cr&#233;a le Ciel, plein d'&#233;toiles, comme personne ne pouvait. &#9834;</p>
+      <p begin="00:04:30.200" end="00:04:38.700">&#9834; Il cr&#233;a les oc&#233;ans et les rivi&#232;res et les montagnes. &#9834;</p>
+      <p begin="00:04:38.767" end="00:04:42.733">&#9834; Et il sut &#9834;</p>
+      <p begin="00:04:42.800" end="00:04:46.833">&#9834; Que c'&#233;tait bien. &#9834;</p>
+      <p begin="00:04:46.900" end="00:04:51.933">&#9834; Un jour, Dieu descendit sur Terre et rassembla toute Son &#233;nergie. &#9834;</p>
+      <p begin="00:04:52.000" end="00:04:56.833">&#9834; Il jeta un coup d'oeil aux t&#233;n&#232;bres et dit: &#9834;</p>
+      <p begin="00:04:56.900" end="00:05:00.100">Pourquoi fait-il si sombre ici bas, merde!?</p>
+      <p begin="00:05:00.167" end="00:05:02.200">Oh, c'est mieux comme &#231;a.</p>
+      <p begin="00:05:02.267" end="00:05:03.700">Ne sont-ils (?) pas magnifiques?</p>
+      <p begin="00:05:03.767" end="00:05:06.100">Montrons les aux anges! (?)</p>
+      <p begin="00:05:08.800" end="00:05:11.433">&#9834; C'est Dieu. Il est le seul cr&#233;ateur. &#9834;</p>
+      <p begin="00:05:11.500" end="00:05:14.033">&#9834; C'est Dieu. Il est l'amuseur. &#9834;</p>
+      <p begin="00:05:14.100" end="00:05:17.033">&#9834; C'est Dieu. Il est le grand orateur. &#9834;</p>
+      <p begin="00:05:17.100" end="00:05:19.733">&#9834; C'est Dieu. Il est "the mastur..."&#9834;</p>
+      <p begin="00:05:19.800" end="00:05:21.200">[Gasp]</p>
+      <p begin="00:05:21.267" end="00:05:23.267">Ben quoi? Il est "The Master", le ma&#238;tre.</p>
+      <p begin="00:05:24.667" end="00:05:26.800">&#9834; Je suis Dieu &#9834;</p>
+      <p begin="00:05:30.067" end="00:05:33.000">&#9834; J'ai cr&#233;&#233; les plantes et les arbres. &#9834;</p>
+      <p begin="00:05:33.067" end="00:05:36.700">&#9834; J'ai fait toutes les b&#234;tes - les oiseaux et les abeilles. &#9834;</p>
+      <p begin="00:05:36.767" end="00:05:39.933">&#9834;J'ai fait tout ce que vous voyez, &#9834;</p>
+      <p begin="00:05:40.000" end="00:05:42.933">&#9834; mais rien de tout &#231;a ne me satisfaisait. &#9834;</p>
+      <p begin="00:05:43.000" end="00:05:46.700">&#9834; Il me fallait de l'interaction, du drame. &#9834;</p>
+      <p begin="00:05:46.767" end="00:05:50.700">&#9834; Il me fallait un spectacle divertissant. &#9834;</p>
+      <p begin="00:05:50.767" end="00:05:53.600">&#9834; J'adorais tous ces trucs que j'avais cr&#233;&#233;, &#9834;</p>
+      <p begin="00:05:53.667" end="00:05:58.433">&#9834; mais c'&#233;tait comme les documentaires sur la nature &#224; la t&#233;l&#233;.&#9834;</p>
+      <p begin="00:05:58.500" end="00:06:00.300">Alors Dieu cr&#233;a un homme.</p>
+      <p begin="00:06:05.000" end="00:06:07.433">Adam &#233;tait exactement ce que Dieu voulait:</p>
+      <p begin="00:06:07.500" end="00:06:09.333">un homme pour s'occuper du jardinage,</p>
+      <p begin="00:06:09.400" end="00:06:11.733">prendre soin des b&#234;tes.</p>
+      <p begin="00:06:11.800" end="00:06:14.633">Mais Adam souffrait de solitude.</p>
+      <p begin="00:06:14.700" end="00:06:18.133">Et Dieu n'aimait pas beaucoup ce qu'Adam faisait avec les b&#234;tes.</p>
+      <p begin="00:06:18.200" end="00:06:20.233">[B&#234;&#234;h...]</p>
+      <p begin="00:06:20.300" end="00:06:23.500">Alors Dieu cr&#233;a Eve, une femme pour Adam.</p>
+      <p begin="00:06:32.067" end="00:06:33.667">Et ils furent heureux -</p>
+      <p begin="00:06:34.867" end="00:06:37.133">pendant un certain temps.</p>
+      <p begin="00:06:37.200" end="00:06:38.433">Tu ne pourrais pas quand m&#234;me me pr&#233;parer quelque chose &#224; manger?</p>
+      <p begin="00:06:38.500" end="00:06:41.433">Ne commence pas &#224; m'emb&#234;ter!</p>
+      <p begin="00:06:41.500" end="00:06:43.500">Mais c'est devenu vraiment &#224; chier quand ils ont mang&#233; le fruit pr&#233;f&#233;r&#233; de Dieu.</p>
+      <p begin="00:06:43.567" end="00:06:45.800">Voil&#224;: mange &#231;a!</p>
+      <p begin="00:06:48.567" end="00:06:51.100">[Coup de tonnerre]</p>
+      <p begin="00:06:51.167" end="00:06:53.333">Doux J&#233;sus!</p>
+      <p begin="00:06:53.400" end="00:06:54.933">Oui, papa?</p>
+      <p begin="00:06:55.000" end="00:06:56.867">Rien. Retourne au lit.</p>
+      <p begin="00:06:58.767" end="00:07:01.200">Ce n'&#233;tait pas ma faute. Je le jure.</p>
+      <p begin="00:07:01.267" end="00:07:02.933">C'&#233;tait un serpent.</p>
+      <p begin="00:07:03.000" end="00:07:05.000">Ouais, un serpent.</p>
+      <p begin="00:07:07.900" end="00:07:10.833">&#9834; Et ainsi, je les ai chass&#233;s tous deux de mon jardin. &#9834;</p>
+      <p begin="00:07:10.900" end="00:07:13.800">&#9834; Que pouvais-je faire d'autre? &#9834;</p>
+      <p begin="00:07:13.867" end="00:07:17.133">&#9834; Mais le jardin semblait tellement vide, &#9834;</p>
+      <p begin="00:07:17.200" end="00:07:21.133">&#9834; et j'&#233;tais d&#233;prim&#233; et si m&#233;lancolique. &#9834;</p>
+      <p begin="00:07:21.200" end="00:07:24.833">H&#233; Dieu. Pourquoi n'essaies-tu pas avec deux hommes?</p>
+      <p begin="00:07:24.900" end="00:07:27.367">Pourquoi pas? Essayons!</p>
+      <p begin="00:07:30.000" end="00:07:33.300">&#9834; J'ai fait un autre Adam pour mon jardin, &#9834;</p>
+      <p begin="00:07:33.367" end="00:07:36.700">&#9834; Mais je n'ai pas fait une autre Eve. &#9834;</p>
+      <p begin="00:07:36.767" end="00:07:40.300">&#9834; J'ai fait un autre homme, un peu plus sensible, &#9834;</p>
+      <p begin="00:07:40.367" end="00:07:47.900">&#9834; et je l'ai appel&#233; Steve! &#9834;</p>
+      <p begin="00:07:50.167" end="00:07:54.333">&#9834; Et c'est ainsi que tout a commenc&#233;, &#9834;</p>
+      <p begin="00:07:54.400" end="00:07:59.000">&#9834; l'histoire d'Adam et Steve. &#9834;</p>
+      <p begin="00:07:59.067" end="00:08:03.600">&#9834; M&#234;me si elle n'est pas &#233;crite dans la Bible, &#9834;</p>
+      <p begin="00:08:03.667" end="00:08:08.633">&#9834; C'est la v&#233;rit&#233; venant d'en haut, alors croyez-y. &#9834;</p>
+      <p begin="00:08:08.700" end="00:08:16.033">&#9834; Et maintenant, voici Adam et Steve. &#9834;</p>
+      <p begin="00:08:16.100" end="00:08:22.000">&#9834; Que Dieu b&#233;nisse Adam et Steve. &#9834;</p>
+      <p begin="00:08:22.067" end="00:08:25.200">Juste comme je les ai faits!</p>
+      <p begin="00:08:25.267" end="00:08:27.833">De vraiment bons acteurs.</p>
+      <p begin="00:08:27.900" end="00:08:29.433">Oui, pour une r&#233;p&#233;tition g&#233;n&#233;rale, c'&#233;tait plut&#244;t bien, en fait.</p>
+      <p begin="00:08:29.500" end="00:08:31.533">O&#249; est-ce que tu cours comme &#231;a?</p>
+      <p begin="00:08:31.600" end="00:08:34.233">- Je ne fais pas la porte des acteurs.<br/>- Qu'est-ce que tu veux dire?</p>
+      <p begin="00:08:34.300" end="00:08:36.833">Il n'y a rien que je d&#233;teste plus que les gens &#224; la porte des acteurs.</p>
+      <p begin="00:08:36.900" end="00:08:39.333">Ils pensent qu'ils doivent te dire comme tu es bon.</p>
+      <p begin="00:08:39.400" end="00:08:40.533">C'est artificiel et embarrassant, et je ne le fais simplement pas.</p>
+      <p begin="00:08:40.600" end="00:08:42.400">Oh, &#233;coute, Patti LuPone.</p>
+      <p begin="00:08:42.467" end="00:08:44.233">Tu te barres toujours avant le public?</p>
+      <p begin="00:08:44.300" end="00:08:45.900">Pour le moment, &#231;a va bien.</p>
+      <p begin="00:08:45.967" end="00:08:47.533">Et tes fans?</p>
+      <p begin="00:08:47.600" end="00:08:49.633">Mes "fans"? Ouais, c'est vrai (?).</p>
+      <p begin="00:08:49.700" end="00:08:51.633">Oh, je bosse au Mostly Sondheim, dans la soir&#233;e,</p>
+      <p begin="00:08:51.700" end="00:08:54.500">alors si tu veux passer, fais-moi savoir.</p>
+      <p begin="00:08:54.567" end="00:08:57.033">J'ai tellement envie d'&#233;couter un mec ob&#232;se chanter "All that Jazz".</p>
+      <p begin="00:08:57.100" end="00:09:01.333">Ou un chanteur sentimental dans "And I am telling you, Sophie."</p>
+      <p begin="00:09:01.400" end="00:09:04.800">Des chansons de spectacles et des gamins bourr&#233;s. C'est ce qui me rend heureux.</p>
+      <p begin="00:09:04.867" end="00:09:07.867">- Je vous vois plus tard.<br/>- Oui, plus tard.</p>
+      <p begin="00:09:11.300" end="00:09:12.833">Oh, pardon!</p>
+      <p begin="00:09:12.900" end="00:09:14.467">Pas de probl&#232;me. A demain.</p>
+      <p begin="00:09:16.367" end="00:09:18.933">H&#233;, mon chou. Magnifique, cette r&#233;p&#233;tition g&#233;n&#233;rale.</p>
+      <p begin="00:09:19.000" end="00:09:22.233">[tape un sms] A bient&#244;t :).</p>
+      <p begin="00:09:22.300" end="00:09:25.100">Nous sommes si fiers de toi.</p>
+      <p begin="00:09:25.167" end="00:09:27.133">Tu seras une immense vedette &#224; New York.</p>
+      <p begin="00:09:27.200" end="00:09:28.600">Ce n'est que de l'Off Broadway.</p>
+      <p begin="00:09:28.667" end="00:09:30.133">Que de l'Off Broadway?</p>
+      <p begin="00:09:30.200" end="00:09:33.033">Des gens vendraient leur &#226;me</p>
+      <p begin="00:09:33.100" end="00:09:35.900">pour avoir la vedette dans un spectacle Off Broadway, ne l'oublie pas.</p>
+      <p begin="00:09:35.967" end="00:09:37.933">Nous voulions juste t'appeler et te dire combien nous sommes fiers de toi.</p>
+      <p begin="00:09:38.000" end="00:09:39.633">Et f&#233;licitations.</p>
+      <p begin="00:09:39.700" end="00:09:41.233">Merci.</p>
+      <p begin="00:09:41.300" end="00:09:43.300">Nous avons une surprise pour toi.</p>
+      <p begin="00:09:43.367" end="00:09:45.367">Nous venons &#224; ta premi&#232;re.</p>
+      <p begin="00:09:47.800" end="00:09:49.833">H&#233;, nous allions pas rater ton grand soir, hein?</p>
+      <p begin="00:09:49.900" end="00:09:52.500">H&#233;, nous sommes venus &#224; tous tes autres spectacles.</p>
+      <p begin="00:09:52.567" end="00:09:53.633">Comment aurions nous rat&#233; ta premi&#232;re premi&#232;re &#224; New York?</p>
+      <p begin="00:09:53.700" end="00:09:54.500">La premi&#232;re de beaucoup d'autres.</p>
+      <p begin="00:09:54.567" end="00:09:56.933">Oh, formidable!</p>
+      <p begin="00:09:57.000" end="00:09:58.500">H&#233;, nous devrions te laisser partir admirer ton succ&#232;s.</p>
+      <p begin="00:09:58.567" end="00:10:00.133">Oh oui, Dieu te b&#233;nisse (?).</p>
+      <p begin="00:10:00.200" end="00:10:01.433">Nous t'aimons, ch&#233;ri.</p>
+      <p begin="00:10:01.500" end="00:10:02.933">Dieu te b&#233;nisse (?).</p>
+      <p begin="00:10:03.000" end="00:10:04.700">Je vous aime aussi.</p>
+      <p begin="00:10:13.667" end="00:10:16.433">Bonjour tout le monde. Bienvenue au Mostly Sondheim!</p>
+      <p begin="00:10:16.500" end="00:10:19.133">Il y a un public d'enfer, ici.</p>
+      <p begin="00:10:19.200" end="00:10:21.433">Mostly Sondheim est une sorte de t&#233;l&#233;crochet pour chansons de spectacles</p>
+      <p begin="00:10:21.500" end="00:10:23.433">Toutes les chansons que vous chanterez doivent venir d'un spectacle</p>
+      <p begin="00:10:23.500" end="00:10:25.633">ou d'un compositeur de chansons qui a &#233;crit un spectacle.</p>
+      <p begin="00:10:25.700" end="00:10:27.933">Bon, en fait, vous pouvez chanter tout ce que vous voulez</p>
+      <p begin="00:10:28.000" end="00:10:30.200">si vous donnez un pourboire de 20 dollars. On s'en fout.</p>
+      <p begin="00:10:30.267" end="00:10:32.300">Et je ne peux pas imaginer de commencer Mostly Sondheim</p>
+      <p begin="00:10:32.367" end="00:10:34.500">sans &#233;couter les accords vocaux, gr&#233;gaires et magnifiques,</p>
+      <p begin="00:10:34.567" end="00:10:37.633">de ma co-animatrice, Kate Pazaki.</p>
+      <p begin="00:10:37.700" end="00:10:39.800">Gr&#233;gaires?</p>
+      <p begin="00:10:39.867" end="00:10:42.100">Je ne sais pas: j'ai juste invent&#233; ce mot.</p>
+      <p begin="00:10:42.167" end="00:10:44.733">Alors vas-y, Jack! Et n'oublie pas le pourboire.</p>
+      <p begin="00:10:44.800" end="00:10:47.800">&#9834; Vendredi soir &#9834;</p>
+      <p begin="00:10:47.867" end="00:10:52.833">&#9834; J'ai pass&#233; toute la semaine &#224; attendre vendredi soir. &#9834;</p>
+      <p begin="00:10:52.900" end="00:10:57.200">&#9834; Anticipant tous les coeurs solitaires. &#9834;</p>
+      <p begin="00:10:57.267" end="00:11:02.700">&#9834; Nous jouons tous un r&#244;le vendredi soir. &#9834;</p>
+      <p begin="00:11:05.500" end="00:11:12.933">&#9834; Parce que c'est alors que la f&#234;te commence! &#9834;</p>
+      <p begin="00:11:13.000" end="00:11:16.333">&#9834; Et la f&#234;te ne finit que quand il n'y a plus rien &#224; boire dans le bar, &#9834;</p>
+      <p begin="00:11:16.400" end="00:11:20.133">&#9834; ni dans le suivant, o&#249; tu me fais de l'oeil. &#9834;</p>
+      <p begin="00:11:20.200" end="00:11:26.433">&#9834; Non, la f&#234;te ne finit que quand nous prenons un taxi et je t'accompagne chez toi. &#9834;</p>
+      <p begin="00:11:26.500" end="00:11:30.133">&#9834; Tu vois, la f&#234;te n'est finie que quand j'ai vu ton visage. &#9834;</p>
+      <p begin="00:11:30.200" end="00:11:33.400">&#9834; Et que je sais que c'est toi, l'extra-terrestre! &#9834;</p>
+      <p begin="00:11:33.467" end="00:11:36.933">&#9834; Et la f&#234;te n'est finie que quand je trouve l'&#234;tre unique, &#9834;</p>
+      <p begin="00:11:37.000" end="00:11:43.900">&#9834; que je tombe amoureux (?) de toi! &#9834;</p>
+      <p begin="00:11:50.000" end="00:11:51.200">Bon!</p>
+      <p begin="00:11:54.300" end="00:11:56.533">Il est 4 heures du mat, et vous savez ce que &#231;a veut dire, vous tous!</p>
+      <p begin="00:11:56.600" end="00:11:59.300">Finalement, vous allez jouer quelque chose de cet enfl&#233; de Sondheim?</p>
+      <p begin="00:11:59.367" end="00:12:02.133">Non, &#231;a veut dire que vous devez rentrer chez vous, et n'oubliez pas le pourboire!</p>
+      <p begin="00:12:02.200" end="00:12:04.400">"Mostly Sondheim," mon cul!</p>
+      <p begin="00:12:04.467" end="00:12:06.533">&#199;a devrait s'appeler "Mostly Jason Robert Brown."</p>
+      <p begin="00:12:06.600" end="00:12:07.833">Bonne nuit tout le monde. Rentrez chez vous prudemment!</p>
+      <p begin="00:12:07.900" end="00:12:09.167">Bonne nuit!</p>
+      <p begin="00:12:11.800" end="00:12:13.533">Tu es pr&#234;t (?) &#224; partir?</p>
+      <p begin="00:12:13.600" end="00:12:16.433">Je suis pr&#234;t &#224; un tas de choses.</p>
+      <p begin="00:12:16.500" end="00:12:18.967">Mmm, &#231;a me fait r&#234;ver.</p>
+      <p begin="00:12:24.000" end="00:12:25.500">Regarde!</p>
+      <p begin="00:12:28.467" end="00:12:31.833">Le mode de vie homosexuel est la plus grande menace pour notre nation,</p>
+      <p begin="00:12:31.900" end="00:12:34.400">plus grave encore que le terrorisme.</p>
+      <p begin="00:12:34.467" end="00:12:36.733">Et ils pr&#233;tendent &#234;tre chr&#233;tiens.</p>
+      <p begin="00:12:36.800" end="00:12:39.533">J&#233;sus n'a-t-il pas dit:</p>
+      <p begin="00:12:39.600" end="00:12:42.300">"Fais &#224; ton prochain ce que tu voudrais qu'il te fasse"?</p>
+      <p begin="00:12:42.367" end="00:12:45.467">&#199;a a l'air d'une bonne philosophie.</p>
+      <p begin="00:12:48.300" end="00:12:50.033">- Attends!<br/>- Quoi?</p>
+      <p begin="00:12:50.100" end="00:12:52.700">Pas de d&#233;luge? Pas de tonnerre?</p>
+      <p begin="00:12:52.767" end="00:12:55.200">Pas de col&#232;re de Dieu?</p>
+      <p begin="00:12:55.267" end="00:12:57.200">Il approuve, probablement.</p>
+      <p begin="00:13:01.800" end="00:13:03.700">Allons.</p>
+      <p begin="00:13:03.767" end="00:13:05.600">Nous devons nous comporter en bons prochains.</p>
+      <p begin="00:14:08.967" end="00:14:10.500">[Sonnerie SMS]</p>
+      <p begin="00:14:10.567" end="00:14:12.033">Encore un SMS de ton petit ami?</p>
+      <p begin="00:14:12.100" end="00:14:14.233">S&#233;bastien n'est pas mon petit ami.</p>
+      <p begin="00:14:14.300" end="00:14:16.233">&#199;a ne fait que 2 semaines que nous sortons ensemble.</p>
+      <p begin="00:14:16.300" end="00:14:18.433">Mon sucre d'orge, &#231;a fait une &#233;ternit&#233; que tu es c&#233;libataire.</p>
+      <p begin="00:14:18.500" end="00:14:20.500">Si j'&#233;tais toi, je l'appellerais "petit ami"</p>
+      <p begin="00:14:20.567" end="00:14:22.433">Rien que pour pouvoir dire que j'en ai eu un pendant ce mill&#233;naire.</p>
+      <p begin="00:14:22.500" end="00:14:24.333">La question n'est pas d'avoir un petit ami.</p>
+      <p begin="00:14:24.400" end="00:14:25.900">C'est de trouver le bon.</p>
+      <p begin="00:14:25.967" end="00:14:28.100">J'ai une petite surprise pour vous.</p>
+      <p begin="00:14:28.167" end="00:14:30.333">Puisque vous deux, vous avez &#233;t&#233; si formidable</p>
+      <p begin="00:14:30.400" end="00:14:32.400">Je vous offre quelques cadeaux de mariage sp&#233;ciaux.</p>
+      <p begin="00:14:32.467" end="00:14:34.633">Quoi? Il leur donne encore plus de trucs!</p>
+      <p begin="00:14:34.700" end="00:14:36.933">Je parie qu'ils vont se mettre &#224; chanter des chansonettes du (?) spectacle.</p>
+      <p begin="00:14:37.000" end="00:14:41.733">Art, mode, cr&#233;ativit&#233;, musique!</p>
+      <p begin="00:14:41.800" end="00:14:44.233">&#9834; Regardez-les, ils sont si heureux. &#9834;</p>
+      <p begin="00:14:44.300" end="00:14:47.700">&#9834; Regardez-les, ils sont si contents. &#9834;</p>
+      <p begin="00:14:47.767" end="00:14:51.533">&#9834; Ils vivent dans notre jardin, tandis que nous sommes ici, sous tente! &#9834;</p>
+      <p begin="00:14:51.600" end="00:14:54.033">&#9834; Cette bataille n'est pas finie. &#9834;</p>
+      <p begin="00:14:54.100" end="00:14:56.233">&#9834; Non, ils vont le payer! &#9834;</p>
+      <p begin="00:14:56.300" end="00:14:58.833">&#9834; Ces hommes qui sont si heureux, &#9834;</p>
+      <p begin="00:14:58.900" end="00:15:01.700">&#9834; ces hommes qui sont si gais! &#9834;</p>
+      <p begin="00:15:01.767" end="00:15:03.833">C'est peut-&#234;tre comme &#231;a qu'on devrait les appeler.</p>
+      <p begin="00:15:03.900" end="00:15:05.733">Gays!</p>
+      <p begin="00:15:05.800" end="00:15:07.000">Parce qu'ils sont si heureux.</p>
+      <p begin="00:15:07.067" end="00:15:08.400">Tais-toi!</p>
+      <p begin="00:15:08.467" end="00:15:10.400">H&#233;, ce n'est pas ma faute!</p>
+      <p begin="00:15:10.467" end="00:15:12.100">Dieu et son fruit d&#233;fendu.</p>
+      <p begin="00:15:16.300" end="00:15:18.033">Oh, salut, Steve.</p>
+      <p begin="00:15:18.100" end="00:15:20.467">Salut, Adam: regarde ce que je viens de faire.</p>
+      <p begin="00:15:23.200" end="00:15:25.633">Bon, maintenant, c'est officiel: tu es un g&#233;nie!</p>
+      <p begin="00:15:25.700" end="00:15:27.533">Oh, tu es trop chou.</p>
+      <p begin="00:15:27.600" end="00:15:29.433">Qui e&#251;t jamais cru que tu pourrais extraire</p>
+      <p begin="00:15:29.500" end="00:15:31.633">ce jus formidable d'une pomme de terre?</p>
+      <p begin="00:15:31.700" end="00:15:34.433">Regarde ces chouettes verres que tu as fait.</p>
+      <p begin="00:15:34.500" end="00:15:37.633">- Souffl&#233;s &#224; la main!<br/>- &#199;a a toujours &#233;t&#233; une de tes sp&#233;cialit&#233;s.</p>
+      <p begin="00:15:37.700" end="00:15:39.233">Et la nuit derni&#232;re ? Tu as su comment remettre la peau ?</p>
+      <p begin="00:15:39.300" end="00:15:41.200">c'est bien mieux comme &#231;a.</p>
+      <p begin="00:15:41.267" end="00:15:43.633">Je sais, maintenant j'aime vraiment les bananes.</p>
+      <p begin="00:15:43.700" end="00:15:45.533">H&#233;, je me demande si nos enfants seront comme nous...</p>
+      <p begin="00:15:45.600" end="00:15:46.933">ou comme eux.</p>
+      <p begin="00:15:47.000" end="00:15:49.833">Que veux tu dire ?</p>
+      <p begin="00:15:49.900" end="00:15:51.533">Comment saurons nous que nos enfants seront cultiv&#233;s de ces trucs ?</p>
+      <p begin="00:15:51.600" end="00:15:53.200">Ou comme nous ?</p>
+      <p begin="00:15:56.267" end="00:15:59.033">Et bien, nous devrons apprendre &#224; nos enfants d'&#234;tre comme nous, c'est tout.</p>
+      <p begin="00:15:59.100" end="00:16:01.900">Et de leur dire de rester &#224; l'&#233;cart du jardin.</p>
+      <p begin="00:16:06.500" end="00:16:08.900">H&#233; ! Qui &#234;tes vous ?</p>
+      <p begin="00:16:08.967" end="00:16:13.033">Bonjour, Je suis Adam et lui c'est mon mari Steve.</p>
+      <p begin="00:16:13.100" end="00:16:14.433">Comment tu t'appelles ?</p>
+      <p begin="00:16:14.500" end="00:16:15.933">Cain.</p>
+      <p begin="00:16:16.000" end="00:16:18.433">Tu veux une banane ?</p>
+      <p begin="00:16:18.500" end="00:16:21.433">Maaman, j'ai le droit de manger la banane d'Adam ?</p>
+      <p begin="00:16:21.500" end="00:16:23.233">Fais attention &#224; bien retirer la peau.</p>
+      <p begin="00:16:23.300" end="00:16:25.433">Restez &#224; l'&#233;cart de ces individus !</p>
+      <p begin="00:16:25.500" end="00:16:27.700">Ils essayent de convertir nos enfants.</p>
+      <p begin="00:16:27.767" end="00:16:30.100">C'est ce qu'ils ont l'intention de faire.</p>
+      <p begin="00:16:30.167" end="00:16:32.433">Ils n'ont pas besoin de travailler dur.</p>
+      <p begin="00:16:32.500" end="00:16:34.733">Ils utilisent seulement un fruit !</p>
+      <p begin="00:16:34.800" end="00:16:36.300">Cain !</p>
+      <p begin="00:16:38.000" end="00:16:40.700">Dieu n'aime pas les gays.</p>
+      <p begin="00:16:40.767" end="00:16:44.133">C'est pour &#231;a qu'ils les laissent enferm&#233;s dans le jardin.</p>
+      <p begin="00:16:44.200" end="00:16:48.433">Et ils nous a donn&#233;...le d&#233;sert entier</p>
+      <p begin="00:16:48.500" end="00:16:51.800">C'est la raison pour laquelle ils nous aiment davantage.</p>
+      <p begin="00:16:53.800" end="00:16:56.533">&#9834; Fais attention aux Gays, &#9834;</p>
+      <p begin="00:16:56.600" end="00:16:59.000">&#9834; et leurs besoins pervers. &#9834;</p>
+      <p begin="00:16:59.067" end="00:17:00.933">&#9834; Ils veulent que tu deviennes comme eux, &#9834;</p>
+      <p begin="00:17:01.000" end="00:17:03.100">&#9834; mais Dieu a besoin que tu &#233;l&#232;ves une famille. &#9834;</p>
+      <p begin="00:17:03.167" end="00:17:05.433">&#9834; Ces gays veulent te convertir &#9834;</p>
+      <p begin="00:17:05.500" end="00:17:07.833">&#9834; et ton petit fr&#232;re aussi. &#9834;</p>
+      <p begin="00:17:07.900" end="00:17:09.800">&#9834; Sois fier de tes parents. &#9834;</p>
+      <p begin="00:17:09.867" end="00:17:11.933">&#9834; Tu sais donc comment faire. &#9834;</p>
+      <p begin="00:17:12.000" end="00:17:14.433">Va surveiller ton petit fr&#232;re.</p>
+      <p begin="00:17:14.500" end="00:17:16.633">&#9834; Le combat n'est pas fini. &#9834;</p>
+      <p begin="00:17:16.700" end="00:17:18.633">&#9834; Non, ils le paieront. &#9834;</p>
+      <p begin="00:17:18.700" end="00:17:21.033">&#9834; Ces hommes qui sont si heureux,&#9834;</p>
+      <p begin="00:17:21.100" end="00:17:23.933">&#9834;ces hommes qui sont si gais. &#9834;</p>
+      <p begin="00:17:24.000" end="00:17:26.500">Maaman, maaman, maaman !</p>
+      <p begin="00:17:26.567" end="00:17:28.400">Qu'y-a-t-il Cain ?</p>
+      <p begin="00:17:28.467" end="00:17:30.733">il faut que...que je tue Abel.</p>
+      <p begin="00:17:30.800" end="00:17:32.100">Quoi ? Pourquoi &#231;a ?</p>
+      <p begin="00:17:32.167" end="00:17:33.800">Il chantait...</p>
+      <p begin="00:17:35.400" end="00:17:37.667">il chantait une chansonnette.</p>
+      <p begin="00:17:38.967" end="00:17:41.100">NON !</p>
+      <p begin="00:17:41.167" end="00:17:43.100">Pas une chansonnette !</p>
+      <p begin="00:17:45.100" end="00:17:47.500">&#9834; cette fois ils attrap&#232;rent Abel, &#9834;</p>
+      <p begin="00:17:47.567" end="00:17:50.033">&#9834; et ils lui enseigna leurs comportements mauvais. &#9834;</p>
+      <p begin="00:17:50.100" end="00:17:51.933">&#9834; Et tu ne peux pas Mamman, me prot&#233;ger ? &#9834;</p>
+      <p begin="00:17:52.000" end="00:17:54.433">&#9834; de me comporter comme eux ? &#9834;</p>
+      <p begin="00:17:54.500" end="00:17:58.033">Ne t'inqui&#232;te pas Cain. Je te prot&#232;gerais de ces individus!</p>
+      <p begin="00:17:58.100" end="00:18:01.633">Je te promets Mamman, Je ne chanterais plus jamais</p>
+      <p begin="00:18:01.700" end="00:18:04.000">une chansonnette.</p>
+      <p begin="00:18:04.067" end="00:18:06.633">&#9834; Nous allons montrer &#224; ce peuple choisi &#9834;</p>
+      <p begin="00:18:06.700" end="00:18:09.300">&#9834;qui va gagner ce combat. &#9834;</p>
+      <p begin="00:18:09.367" end="00:18:11.300">&#9834; la mort d'Abel est sur nos t&#234;tes maintenat. &#9834;</p>
+      <p begin="00:18:11.367" end="00:18:13.700">&#9834; Je sais que nous avons raison. &#9834;</p>
+      <p begin="00:18:13.767" end="00:18:15.700">&#9834; Nous devons arr&#234;ter de recruter &#9834;</p>
+      <p begin="00:18:15.767" end="00:18:18.033">&#9834; de nouvelles personnes. &#9834;</p>
+      <p begin="00:18:18.100" end="00:18:20.033">&#9834; et de d&#233;tester ces usages. &#9834;</p>
+      <p begin="00:18:20.100" end="00:18:22.933">&#9834; Nous d&#233;testons ceux qui sont gais ! &#9834;</p>
+      <p begin="00:18:23.000" end="00:18:25.933">Cain, va chercher le bouquin de Maman qu'elle &#233;crit en ce moment.</p>
+      <p begin="00:18:26.000" end="00:18:30.233">Tu veux dire "Le Livre d'Informations sur les exemples d'&#233;levage d'&#234;tres vivants"</p>
+      <p begin="00:18:30.300" end="00:18:32.333">Oui, ch&#233;ri.</p>
+      <p begin="00:18:32.400" end="00:18:34.033">Mais on l'appelle B.I.B.L.E. en abr&#233;g&#233;. (NdT : Breeders Informational Book of Living Example)</p>
+      <p begin="00:18:34.100" end="00:18:35.967">Mais tu &#233;cris ce livre pour quoi faire ?</p>
+      <p begin="00:18:38.400" end="00:18:41.533">Je dois faire comprendre &#224; nos descendants de d&#233;tester les gays.</p>
+      <p begin="00:18:41.600" end="00:18:43.600">Tu crois que ce livre sera suffisant pour les alerter pour l'avenir ?</p>
+      <p begin="00:18:43.667" end="00:18:45.633">Et s'ils ne le croient pas ?</p>
+      <p begin="00:18:45.700" end="00:18:47.533">Ils croieront ce qu'ils liront.</p>
+      <p begin="00:18:47.600" end="00:18:49.833">dans les 5 mille ans apr&#232;s notre &#232;re.</p>
+      <p begin="00:18:49.900" end="00:18:52.400">Ils ne sauront m&#234;me pas qui leur auront &#233;crit ce truc !</p>
+      <p begin="00:18:54.767" end="00:18:57.200">&#9834;Nous seront Son peuple choisis. &#9834;</p>
+      <p begin="00:18:57.267" end="00:18:59.700">&#9834; Ces hommes, ils nous le feront payer. &#9834;</p>
+      <p begin="00:18:59.767" end="00:19:02.533">&#9834;Je l'enseignerai &#224; tous les enfants &#9834;</p>
+      <p begin="00:19:02.600" end="00:19:05.033">&#9834;&#224; leur faire d&#233;tester ceux qui sont gay. &#9834;</p>
+      <p begin="00:19:05.100" end="00:19:10.700">&#9834; Toutes ces aires de ces chansons &#9834;</p>
+      <p begin="00:19:10.767" end="00:19:15.100">&#9834; gays! &#9834;</p>
+      <p begin="00:19:59.000" end="00:20:00.967">H&#233;</p>
+      <p begin="00:20:01.667" end="00:20:03.667">Bonjour.</p>
+      <p begin="00:20:05.800" end="00:20:07.533">Tu es charmant.</p>
+      <p begin="00:20:07.600" end="00:20:09.300">Merci.</p>
+      <p begin="00:20:13.200" end="00:20:15.733">Je suis seulement ici pour me reposer.</p>
+      <p begin="00:20:15.800" end="00:20:17.800">Je peux t'aider.</p>
+      <p begin="00:20:17.867" end="00:20:19.933">en fait, je vois quelqu'un.</p>
+      <p begin="00:20:20.000" end="00:20:21.700">Je ne le dirait pas.</p>
+      <p begin="00:20:23.300" end="00:20:25.533">Je ne suis pas la pour t'emb&#234;ter.</p>
+      <p begin="00:20:25.600" end="00:20:27.633">Allez, je veux juste te sucer.</p>
+      <p begin="00:20:27.700" end="00:20:29.233">Non !</p>
+      <p begin="00:20:29.300" end="00:20:30.600">Laisse moi tout seul dans la merde.</p>
+      <p begin="00:20:32.200" end="00:20:34.600">Je veux &#234;tre bien avec le Christ !</p>
+      <p begin="00:20:34.667" end="00:20:36.000">Dick.</p>
+      <p begin="00:20:38.100" end="00:20:41.033">Je peux te parler de quelque chose ?</p>
+      <p begin="00:20:41.100" end="00:20:44.400">Bien s&#251;r, de quoi ? - Mes parents viennent &#224; l'ouverture du spectacle.</p>
+      <p begin="00:20:44.467" end="00:20:46.933">- C'est g&#233;nial ! -C'est &#231;a. Ils sont toujours &#224; te supporter,</p>
+      <p begin="00:20:47.000" end="00:20:49.633">mais je ne pensais pas qu'ils viendront pour &#231;a.</p>
+      <p begin="00:20:49.700" end="00:20:52.600">C'est ta premi&#232;re du spectacle de New York. Tu ne devrais pas &#234;tre surpris.</p>
+      <p begin="00:20:52.667" end="00:20:55.100">Je sais, mais mes parents sont tr&#232;s religieux.</p>
+      <p begin="00:20:55.167" end="00:20:57.900">Oh, donc tes parents savent ce que c'est ce spectacle ?</p>
+      <p begin="00:20:57.967" end="00:21:00.733">Je leur ai dit que c'&#233;tait "Adam et Eve" - O&#249; comment Dieu les a fait ".</p>
+      <p begin="00:21:00.800" end="00:21:03.100">Ouais, ils vont &#234;tre surpris.</p>
+      <p begin="00:21:03.167" end="00:21:06.000">Et ils ne me connaissent pas non plus.</p>
+      <p begin="00:21:06.067" end="00:21:07.367">&#231;a va &#234;tre bien.</p>
+      <p begin="00:21:08.367" end="00:21:09.833">D&#233;sol&#233;.</p>
+      <p begin="00:21:09.900" end="00:21:12.000">Je suis s&#233;rieux. J'ai la trouille.</p>
+      <p begin="00:21:12.067" end="00:21:13.900">Ils ne nous laisseraient pas lire Harry Potter,</p>
+      <p begin="00:21:13.967" end="00:21:16.000">parce que &#231;a parle de magie c'est contraire &#224; Dieu.</p>
+      <p begin="00:21:16.067" end="00:21:18.133">Eh bien, s'ils pensent que Harry Potter est un sacril&#232;ge,</p>
+      <p begin="00:21:18.200" end="00:21:20.133">J'ai h&#226;te d'entendre la critique de ce spectacle.</p>
+      <p begin="00:21:20.200" end="00:21:21.433">J'essaie de mon mieux. Je n'ai pas encore eu de rapports sexuels.</p>
+      <p begin="00:21:21.500" end="00:21:22.900">Mais tu as eu des rapports sexuels non ?</p>
+      <p begin="00:21:24.900" end="00:21:27.133">Quoi? c'est s&#233;rieux ?</p>
+      <p begin="00:21:27.200" end="00:21:30.533">Je voulais attendre la bonne personne.</p>
+      <p begin="00:21:30.600" end="00:21:32.833">Mai je ne sors pas vraiment donc je n'ai jamais trouv&#233; quelqu'un.</p>
+      <p begin="00:21:32.900" end="00:21:36.000">Ouaw. Mais tu n'as jamais &#233;t&#233; tent&#233; ?</p>
+      <p begin="00:21:36.067" end="00:21:37.833">Non.</p>
+      <p begin="00:21:37.900" end="00:21:41.033">Oui. Je ne sais pas. Attend!</p>
+      <p begin="00:21:41.100" end="00:21:42.633">Le sexe est la derni&#232;re chose que j'ai &#224; l'esprit. Que vais-je faire ?</p>
+      <p begin="00:21:42.700" end="00:21:44.300">Si seulement je savais quoi te dire.</p>
+      <p begin="00:21:44.367" end="00:21:47.100">Mes parents vont me d&#233;tester.</p>
+      <p begin="00:21:47.167" end="00:21:49.100">Non, &#231;a va aller. Fais moi confiance.</p>
+      <p begin="00:21:49.167" end="00:21:51.133">Allez, on doit y aller. On en parle plus tard OK ?</p>
+      <p begin="00:21:51.200" end="00:21:52.133">Ouais.</p>
+      <p begin="00:21:52.200" end="00:21:54.000">Ok.</p>
+      <p begin="00:21:54.067" end="00:21:57.133">Grand dieu, je souhaite que &#231;a ne m'arrive pas.</p>
+      <p begin="00:21:57.200" end="00:22:00.433">Et comme les proph&#233;ties pr&#233;dites, 5 mille ans plus tard,</p>
+      <p begin="00:22:00.500" end="00:22:02.933">Dieu renvoya Adam et Steve sur Terre pour prouver leur vrai amour,</p>
+      <p begin="00:22:03.000" end="00:22:05.700">et d'&#234;tre capables d'affronter les obstacles du monde moderne</p>
+      <p begin="00:22:05.767" end="00:22:09.233">Ils furent mis dans diff&#233;rents endroits,</p>
+      <p begin="00:22:09.300" end="00:22:13.333">et dans les quartiers qu'utilis&#232;rent les pr&#234;cheurs du livre d'information sur les exemples vivants.</p>
+      <p begin="00:22:13.400" end="00:22:17.733">&#9834; j'&#233;tais assis derri&#232;re la sc&#232;ne &#9834;</p>
+      <p begin="00:22:17.800" end="00:22:20.833">&#9834; en me demandant quoi dire &#9834;</p>
+      <p begin="00:22:20.900" end="00:22:24.833">&#9834; ainsi j'ai mis les mains vers les Cieux &#9834;</p>
+      <p begin="00:22:24.900" end="00:22:28.833">&#9834; et commen&#231;a &#224; prier. &#9834;</p>
+      <p begin="00:22:28.900" end="00:22:30.133">&#9834; et Jesus dit pour &#9834;</p>
+      <p begin="00:22:30.200" end="00:22:31.500">&#9834; le sermoner. &#9834;</p>
+      <p begin="00:22:31.567" end="00:22:32.833">&#9834; Jesus lui dit &#9834;</p>
+      <p begin="00:22:32.900" end="00:22:34.200">&#9834; aime Le. &#9834;</p>
+      <p begin="00:22:34.267" end="00:22:35.533">&#9834; Jesus lui dit &#9834;</p>
+      <p begin="00:22:35.600" end="00:22:37.133">&#9834; glorifie Le. &#9834;</p>
+      <p begin="00:22:37.200" end="00:22:38.633">&#9834; Oui J&#233;sus a dit &#9834;</p>
+      <p begin="00:22:38.700" end="00:22:40.233">&#9834; Oui, J&#233;sus a dit &#9834;</p>
+      <p begin="00:22:40.300" end="00:22:42.500">&#9834; cherche le salut. &#9834;</p>
+      <p begin="00:22:42.567" end="00:22:45.000">&#9834; Il a dit... fait un don. &#9834;</p>
+      <p begin="00:22:45.067" end="00:22:46.500">&#9834; Jesus a dit, oh Jesus a dit. Oh, oui il l'a dit ! &#9834;</p>
+      <p begin="00:22:46.567" end="00:22:49.533">Et Jesus m'a dit, "Patty Maye",</p>
+      <p begin="00:22:49.600" end="00:22:54.833">"Patty Maye", Je veux que tu sorte et pr&#234;cher au monde ce que tu ressens</p>
+      <p begin="00:22:54.900" end="00:22:58.133">Dites-leur ce que tu ressens en tant que Chr&#233;tien."</p>
+      <p begin="00:22:58.200" end="00:23:00.900">Donc Jesus, cette chansonnette est pour toi.</p>
+      <p begin="00:23:02.967" end="00:23:05.100">&#9834; Je suis fi&#232;re d'&#234;tre Chr&#233;tien &#9834;</p>
+      <p begin="00:23:05.167" end="00:23:08.300">&#9834; et d'aimer mon compagnon. &#9834;</p>
+      <p begin="00:23:08.367" end="00:23:11.100">&#9834; Fier d'&#234;tre Chr&#233;tien &#9834;</p>
+      <p begin="00:23:11.167" end="00:23:14.233">&#9834;pour aider les autres quand je peux. &#9834;</p>
+      <p begin="00:23:14.300" end="00:23:17.133">&#9834; je suis fier d'&#234;tre Chr&#233;tien &#9834;</p>
+      <p begin="00:23:17.200" end="00:23:20.000">&#9834; et d'&#234;tre gentil pour tout le monde. &#9834;</p>
+      <p begin="00:23:20.067" end="00:23:23.300">&#9834; Nous ne sommes ni mieux que les Juifs ou les Arabes &#9834;</p>
+      <p begin="00:23:23.367" end="00:23:26.500">&#9834; dans le combat qui continue &#9834;</p>
+      <p begin="00:23:26.567" end="00:23:29.233">&#9834; nous ne sommes ni mieux que les Catholiques, les boozers, &#9834;</p>
+      <p begin="00:23:29.300" end="00:23:34.233">&#9834; mais nous avons toujours raison. &#9834;</p>
+      <p begin="00:23:34.300" end="00:23:37.033">Et sais-tu pourquoi je sais que nous avons raison ?</p>
+      <p begin="00:23:37.100" end="00:23:38.400">&#9834;et Jesus a dit &#9834;</p>
+      <p begin="00:23:38.467" end="00:23:39.733">&#9834; crois en lui. &#9834;</p>
+      <p begin="00:23:39.800" end="00:23:41.033">&#9834; Jesus a dit &#9834;</p>
+      <p begin="00:23:41.100" end="00:23:42.400">&#9834; aime Le. &#9834;</p>
+      <p begin="00:23:42.467" end="00:23:43.700">&#9834; Jesus a dit &#9834;</p>
+      <p begin="00:23:43.767" end="00:23:45.233">&#9834; glorifie Le. &#9834;</p>
+      <p begin="00:23:45.300" end="00:23:46.800">&#9834; Oui, Jesus a dit. &#9834;</p>
+      <p begin="00:23:46.867" end="00:23:48.300">&#9834; Oh, oui Jesuis a dit &#9834;</p>
+      <p begin="00:23:48.367" end="00:23:50.433">&#9834; Cherche le salut. &#9834;</p>
+      <p begin="00:23:50.500" end="00:23:53.100">&#9834; Il a dit fait un...don. &#9834;</p>
+      <p begin="00:23:53.167" end="00:23:54.033">&#9834; Jesus a dit, oh Jesus a dit, oh oui Jesus a dit ! &#9834;</p>
+      <p begin="00:23:54.100" end="00:23:56.367">N'est-elle pas formidable ?</p>
+      <p begin="00:23:59.000" end="00:24:01.433">Tous les jours Je remercie Dieu de m'apporter Patty Maye</p>
+      <p begin="00:24:01.500" end="00:24:03.633">Maintenant, savez-vous ce qu'il faut faire ?</p>
+      <p begin="00:24:03.700" end="00:24:05.300">et bien, je l'esp&#232;re.</p>
+      <p begin="00:24:05.367" end="00:24:07.933">C'est l'heure d'&#233;couter Jesus !</p>
+      <p begin="00:24:08.000" end="00:24:10.233">-Amen ! -Mais avant...</p>
+      <p begin="00:24:10.300" end="00:24:12.833">Je peux vous raconter le monde de notre P&#232;re,</p>
+      <p begin="00:24:12.900" end="00:24:16.133">J'ai besoin de vous parler de quelque chose de tr&#232;s important</p>
+      <p begin="00:24:16.200" end="00:24:19.500">Mes amis, partenaires de mon minist&#232;re,</p>
+      <p begin="00:24:19.567" end="00:24:23.333">nous avons &#233;chou&#233; maintes fois</p>
+      <p begin="00:24:23.400" end="00:24:28.800">maintenant, nous devons r&#233;pandre &#224; travers le monde notre message,</p>
+      <p begin="00:24:28.867" end="00:24:31.533">mais, nous n'avons pas assez d'argent!</p>
+      <p begin="00:24:31.600" end="00:24:33.933">Maintenant vous savez que tout votre argent dans votre portefeuille</p>
+      <p begin="00:24:34.000" end="00:24:36.133">et votre compte en banque, cartes de cr&#233;dit,</p>
+      <p begin="00:24:36.200" end="00:24:38.833">et bien ce n'est pas votre argent!</p>
+      <p begin="00:24:38.900" end="00:24:41.300">c'est l'argent de Dieu,</p>
+      <p begin="00:24:41.367" end="00:24:43.633">et DIeu a besoin qu'on lui rende son argent!</p>
+      <p begin="00:24:43.700" end="00:24:45.833">Hallelujah!</p>
+      <p begin="00:24:45.900" end="00:24:47.833">Et finalement, &#224; la fin de la "cr&#233;ation"</p>
+      <p begin="00:24:47.900" end="00:24:49.933">je voudrais renforcer le "aah",</p>
+      <p begin="00:24:50.000" end="00:24:51.733">donc regardez moi, &#231;a fait "aaaahh!"</p>
+      <p begin="00:24:51.800" end="00:24:52.933">Vous aimez &#231;a ouais?</p>
+      <p begin="00:24:53.000" end="00:24:54.100">oui.</p>
+      <p begin="00:24:54.167" end="00:24:55.433">merci beaucoup.</p>
+      <p begin="00:24:55.500" end="00:24:56.633">Faites un bon second acte</p>
+      <p begin="00:24:56.700" end="00:24:57.500">Merci.</p>
+      <p begin="00:24:59.500" end="00:25:01.500">Alors que dois-je faire?</p>
+      <p begin="00:25:01.567" end="00:25:03.300">sur quoi ? Tes parents ou ta virginit&#233; ?</p>
+      <p begin="00:25:03.367" end="00:25:07.133">sur quoi? Hein ? Quoi ? Tu es vir....</p>
+      <p begin="00:25:07.200" end="00:25:10.633">Vous devez l'excuser. Elle n'a jamais utilis&#233; ce mot auparavant.</p>
+      <p begin="00:25:10.700" end="00:25:14.833">Ce n'est pas vrai. J'ai toujours pri&#233; Marie et elle &#233;tait vierge.</p>
+      <p begin="00:25:14.900" end="00:25:18.900">-Est-tu vraiment vierge ? - C'est probablement pas le meilleur endroit pour en discuter.</p>
+      <p begin="00:25:18.967" end="00:25:20.633">On peut vous aider avec votre virginit&#233;.</p>
+      <p begin="00:25:20.700" end="00:25:23.833">Oh non! Laisse le tranquille.</p>
+      <p begin="00:25:23.900" end="00:25:26.200">je ne le pensais pas comme &#231;a. Je voulais dire sors avec nous ce soir !</p>
+      <p begin="00:25:26.267" end="00:25:28.700">On connait beaucoup de mec chauds. On ne va pas te laisser seul.</p>
+      <p begin="00:25:28.767" end="00:25:31.933">-Viens sortir avec nous ! Je ne vais pas te laisser seul.</p>
+      <p begin="00:25:32.000" end="00:25:33.900">Sortir ce soir va te faire du bien. Te changer d'air.</p>
+      <p begin="00:25:33.967" end="00:25:36.900">Te changer les id&#233;es.</p>
+      <p begin="00:25:36.967" end="00:25:39.200">Et S&#233;bastien et moi seront la que ces putes</p>
+      <p begin="00:25:39.267" end="00:25:40.633">ne vont pas te sauter dessus le train direct vers l'enfer.</p>
+      <p begin="00:25:40.700" end="00:25:43.800">Tu me prends pour une pute ?</p>
+      <p begin="00:25:43.867" end="00:25:46.133">Si je ne m'&#233;tais pas assis sur cette chaise, je prendrais mon...</p>
+      <p begin="00:25:46.200" end="00:25:48.300">Mais c'est &#231;a, Blanche! C'est toi!</p>
+      <p begin="00:26:03.900" end="00:26:05.867">De l'alcohol !</p>
+      <p begin="00:26:13.100" end="00:26:16.833">Aller, aller danser. Je ne pourrais faire &#231;a.</p>
+      <p begin="00:26:16.900" end="00:26:19.633">C'est pour de vrai ?</p>
+      <p begin="00:26:19.700" end="00:26:22.500">je sais qu'il a un zeus sur la fesse droite.</p>
+      <p begin="00:26:31.167" end="00:26:33.533">D'accord, faisons lui une autre.</p>
+      <p begin="00:26:33.600" end="00:26:35.900">Je reviens. Okay.</p>
+      <p begin="00:26:38.467" end="00:26:40.933">H&#233;, H&#233; toi ! Comment va ?</p>
+      <p begin="00:26:41.000" end="00:26:43.233">Je ne me suis jamais senti si mieux. C'&#233;tait une tr&#232;s bonne id&#233;e.</p>
+      <p begin="00:26:43.300" end="00:26:45.600">C'est vrai ? Tu as l'air d'un d&#233;chet.</p>
+      <p begin="00:26:45.667" end="00:26:49.033">tu peux le dire d&#233;chet, pour moi c'est "libre!"</p>
+      <p begin="00:26:49.100" end="00:26:51.800">d'ac, je fais pas de choses stupides.</p>
+      <p begin="00:27:05.967" end="00:27:07.700">Je vais te montrer des mecs danser.</p>
+      <p begin="00:27:09.167" end="00:27:10.100">C'est quoi ?</p>
+      <p begin="00:27:12.867" end="00:27:14.367">Non, non, non, non.</p>
+      <p begin="00:27:16.767" end="00:27:18.167">bon, je suis comme &#231;a pour toi et tes amis.</p>
+      <p begin="00:27:35.800" end="00:27:37.800">Oh mon dieu.</p>
+      <p begin="00:27:57.500" end="00:28:00.867">si bon! Ne te cogne pas la t&#234;te</p>
+      <p begin="00:28:04.500" end="00:28:06.800">Je crois que c'est le tiens.</p>
+      <p begin="00:28:06.867" end="00:28:09.500">Je ne peux pas croire comment &#231;a pu me faire &#231;a.</p>
+      <p begin="00:28:09.567" end="00:28:11.733">Je peux t'aider pour le remettre ?</p>
+      <p begin="00:28:11.800" end="00:28:13.833">tu peux m'aider &#224; faire ce que tu veux.</p>
+      <p begin="00:28:13.900" end="00:28:15.733">vraiment ?</p>
+      <p begin="00:28:15.800" end="00:28:17.700">ouais.</p>
+      <p begin="00:28:24.400" end="00:28:26.233">Pas devant mes amis.</p>
+      <p begin="00:28:26.300" end="00:28:28.300">Quoi ?</p>
+      <p begin="00:28:28.367" end="00:28:29.800">on ne peut pas s'embrasser devant mes amis.</p>
+      <p begin="00:28:29.867" end="00:28:31.233">mais tu m'a bien embrass&#233; non ?</p>
+      <p begin="00:28:31.300" end="00:28:33.400">ouais, Je sais, mais</p>
+      <p begin="00:28:33.467" end="00:28:35.367">tu ne peux pas faire &#231;a devant mes amis.</p>
+      <p begin="00:28:42.700" end="00:28:45.300">tu veux aller ailleurs ?</p>
+      <p begin="00:28:45.367" end="00:28:47.933">j'ai toujours voulu aller &#224; Paris.</p>
+      <p begin="00:28:48.000" end="00:28:51.533">Et bien, cette nuit, allons l&#224; o&#249; je t'emm&#232;ne.</p>
+      <p begin="00:28:51.600" end="00:28:53.367">&#231;a va le faire maintenant.</p>
+      <p begin="00:28:59.600" end="00:29:01.900">attends, je reviens.</p>
+      <p begin="00:29:10.000" end="00:29:12.433">h&#233; Eddie !</p>
+      <p begin="00:29:12.500" end="00:29:16.233">je peux te parler un instant ? - oui que se passe-t-il ?</p>
+      <p begin="00:29:16.300" end="00:29:18.033">tu es s&#251;r de ce que tu fais ?</p>
+      <p begin="00:29:18.100" end="00:29:19.633">oui pourquoi ?</p>
+      <p begin="00:29:19.700" end="00:29:21.533">je voulais en &#234;tre s&#251;r.</p>
+      <p begin="00:29:21.600" end="00:29:23.733">toi et ton autre nouveau</p>
+      <p begin="00:29:23.800" end="00:29:25.733">tu n'as pas besoin de rentrer avec quelqu'un.</p>
+      <p begin="00:29:25.800" end="00:29:27.267">oui je sais.</p>
+      <p begin="00:29:28.600" end="00:29:29.933">je veux rentrer chez moi avec lui.</p>
+      <p begin="00:29:30.000" end="00:29:31.600">il est vraiment craquant.</p>
+      <p begin="00:29:31.667" end="00:29:32.600">Okay.</p>
+      <p begin="00:29:34.067" end="00:29:36.333">Je l'apprecie. Bonne nuit.</p>
+      <p begin="00:29:36.400" end="00:29:38.500">-sois safe. - oh oh.</p>
+      <p begin="00:30:00.867" end="00:30:03.300">je ne l'ai jamais fais.</p>
+      <p begin="00:30:03.367" end="00:30:05.600">prends ton pied</p>
+      <p begin="00:30:05.667" end="00:30:08.100">&#231;a fais du bien ?</p>
+      <p begin="00:30:08.167" end="00:30:10.167">oui.</p>
+      <p begin="00:30:22.800" end="00:30:25.633">attends, on devrait prendre une cap...</p>
+      <p begin="00:30:25.700" end="00:30:27.700">pas la peine.</p>
+      <p begin="00:30:27.767" end="00:30:29.233">tu le fais souvent comme &#231;a ?</p>
+      <p begin="00:30:29.300" end="00:30:32.067">Non, t'es un type super.</p>
+      <p begin="00:30:36.900" end="00:30:40.000">- et que s'est-il pass&#233; la nuit derni&#232;re ? - Que veux-tu dire ?</p>
+      <p begin="00:30:40.067" end="00:30:42.533">eh bien, tout d'abord nous &#233;tions ivres, et ensuite tu es sorti avec ce mec...</p>
+      <p begin="00:30:42.600" end="00:30:44.733">-Scott ? - Scott.</p>
+      <p begin="00:30:44.800" end="00:30:47.900">tu l'as fait ? tu t'es pris son petit cul ?</p>
+      <p begin="00:30:47.967" end="00:30:50.300">bien en fait...</p>
+      <p begin="00:30:52.167" end="00:30:54.233">-Non! Comment &#231;a ?</p>
+      <p begin="00:30:54.300" end="00:30:56.433">tu t'es fais prendre par un mec passif ?</p>
+      <p begin="00:30:56.500" end="00:30:58.433">je ne sais m&#234;me pas quoi dire de &#231;a.</p>
+      <p begin="00:30:58.500" end="00:31:00.533">-Mais t'&#233;tais prot&#233;g&#233;, non ? - Quoi ?</p>
+      <p begin="00:31:00.600" end="00:31:02.733">-Vous aviez mis des capotes quand m&#234;me ? - Quoi prot&#233;g&#233; ?</p>
+      <p begin="00:31:02.800" end="00:31:05.800">Quand tu as fait l'amour, tu utilisais une capote ?</p>
+      <p begin="00:31:05.867" end="00:31:08.733">Il ne fait pas l'amour souvent. Il m'a dit que &#231;a le ferait plus mal si...</p>
+      <p begin="00:31:08.800" end="00:31:11.233">Quoi t'es s&#233;rieux ? C'est une salope !</p>
+      <p begin="00:31:11.300" end="00:31:14.033">Tu n'auras plus d'autres rapports non prot&#233;g&#233;s, tu m'entends ?</p>
+      <p begin="00:31:14.100" end="00:31:17.133">Jamais! Je m'enfiche de savoir avec qui tu es.</p>
+      <p begin="00:31:17.200" end="00:31:19.133">Tu l'as juste rencontr&#233;, c'est dingue!</p>
+      <p begin="00:31:19.200" end="00:31:22.400">-Mais il... - ne prend jamais de capotes !</p>
+      <p begin="00:31:22.467" end="00:31:23.533">Ok ?</p>
+      <p begin="00:31:23.600" end="00:31:25.600">Oui. &#231;a va.</p>
+      <p begin="00:31:26.800" end="00:31:28.133">5 minutes les gars!</p>
+      <p begin="00:31:28.200" end="00:31:30.533">Merci 5.</p>
+      <p begin="00:31:30.600" end="00:31:34.100">donc, que puis-je faire pour mes parents?</p>
+      <p begin="00:31:34.167" end="00:31:36.433">bien, peu importe ce que tu fais, ne leur dit pas que tu fais l'amour sans pr&#233;servatifs.</p>
+      <p begin="00:31:36.500" end="00:31:39.100">Je suis s&#233;rieux!</p>
+      <p begin="00:31:39.167" end="00:31:41.333">oui, quoi que tu fasse et que tu leur racontes,</p>
+      <p begin="00:31:41.400" end="00:31:43.833">assure toi de le faire avant qu'ils arrivent ici.</p>
+      <p begin="00:31:43.900" end="00:31:45.600">[sonnerie sms]</p>
+      <p begin="00:31:45.667" end="00:31:46.933">C'est qui ?</p>
+      <p begin="00:31:47.000" end="00:31:48.200">Qu'est-ce qu'il y a ?</p>
+      <p begin="00:31:50.600" end="00:31:55.500">quelqu'un a dit &#224; S&#233;bastien que j'&#233;tais s&#233;ropositif.</p>
+      <p begin="00:31:55.567" end="00:31:58.700">Ah: je comprends mieux maintenant, tous ces trucs prot&#233;g&#233;s.</p>
+      <p begin="00:31:58.767" end="00:32:00.500">-d&#233;sol&#233;, je ne l'ai pas fait... - Je n'ai pas le SIDA!</p>
+      <p begin="00:32:01.867" end="00:32:03.467">Je ne suis pas s&#233;ropo !</p>
+      <p begin="00:32:05.767" end="00:32:08.500">Benny, tu sais il est temps...</p>
+      <p begin="00:32:08.567" end="00:32:11.700">il est temps de dire &#224; nos amis Chr&#233;tiens</p>
+      <p begin="00:32:11.767" end="00:32:14.900">ce qui se passe dans notre famille tout de suite.</p>
+      <p begin="00:32:14.967" end="00:32:17.100">t'es s&#251;r que t'es pr&#234;t &#224; &#231;a, ch&#233;ri ?</p>
+      <p begin="00:32:17.167" end="00:32:18.233">Je suis fort.</p>
+      <p begin="00:32:18.300" end="00:32:19.233">Fort.</p>
+      <p begin="00:32:19.300" end="00:32:20.433">pour Jesus!</p>
+      <p begin="00:32:20.500" end="00:32:21.567">C'est ma Patty !</p>
+      <p begin="00:32:24.000" end="00:32:26.733">je ne suis pas s&#251;r que tous savais &#231;a,</p>
+      <p begin="00:32:26.800" end="00:32:32.833">mais un de nos petits anges qui chante est mon neveu, Steven.</p>
+      <p begin="00:32:32.900" end="00:32:37.000">Ma soeur est devenu Catholique pour son mari,</p>
+      <p begin="00:32:37.067" end="00:32:40.033">et ils ont eu Steven</p>
+      <p begin="00:32:40.100" end="00:32:42.300">comme Catholique! - Oh Dieu.</p>
+      <p begin="00:32:46.000" end="00:32:49.300">Jesus m'a dit comment &#231;a Lui fait mal !</p>
+      <p begin="00:32:52.400" end="00:32:55.200">Maintenant, quelques semaines plus tard, Steven est venu &#224; moi et m'a dit,</p>
+      <p begin="00:32:55.267" end="00:33:00.233">"Tante Patty, il y a quelque chose que tu dois savoir."</p>
+      <p begin="00:33:00.300" end="00:33:03.700">alors, j'ai pris mon coeur et lui dit</p>
+      <p begin="00:33:03.767" end="00:33:06.633">"s'il te pla&#238;t, doux Jesus. Dit lui de quitter l'Eglise Catholique!"</p>
+      <p begin="00:33:06.700" end="00:33:07.700">Priez Jesuis!</p>
+      <p begin="00:33:09.300" end="00:33:13.400">Mais non, me dit-il, "Tante Patty,</p>
+      <p begin="00:33:13.467" end="00:33:18.033">Je suis homosexuel." - Homosexuel!</p>
+      <p begin="00:33:18.100" end="00:33:23.833">alors, je me suis mis &#224; genoux et lui dit, "Non Jesus! Non!<br/>Il va devenir pr&#234;tre!"</p>
+      <p begin="00:33:23.900" end="00:33:25.900">Oh non !</p>
+      <p begin="00:33:25.967" end="00:33:27.733">alors merci Jesus, qu'il ne soit pas pr&#234;tre.</p>
+      <p begin="00:33:27.800" end="00:33:30.400">Mais il est homo...sexuel.</p>
+      <p begin="00:33:33.067" end="00:33:35.733">Mais c'est seulement une maladie que l'on peut gu&#233;rir.</p>
+      <p begin="00:33:35.800" end="00:33:38.833">Alors, Benny et je lui dit,</p>
+      <p begin="00:33:38.900" end="00:33:44.900">qu'on lui lira des versets de la Bible o&#249; il est dit que l'homosexualit&#233; est un mal.</p>
+      <p begin="00:33:44.967" end="00:33:46.300">DIeu les d&#233;testent.</p>
+      <p begin="00:33:46.367" end="00:33:48.233">les d&#233;testent!</p>
+      <p begin="00:33:48.300" end="00:33:51.633">Et alors, Jesus m'a donn&#233; une mission.</p>
+      <p begin="00:33:51.700" end="00:33:56.633">Et Benny et moi ensemble allons commencer un programme de traitement</p>
+      <p begin="00:33:56.700" end="00:34:01.533">pour aider ces jeunes homosexuels &#224; se remettre sur le droit chemin vers Jesus!</p>
+    </div>
+  </body>
+</tt>

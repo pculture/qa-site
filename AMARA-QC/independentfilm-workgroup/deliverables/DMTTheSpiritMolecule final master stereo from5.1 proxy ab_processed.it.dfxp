@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="it">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:14,800" end="00:00:18,067">CHRISTIAN MUELI: Ho visto la citt&#224; da molto molto lontano,</p>
+      <p begin="00:00:18,133" end="00:00:20,567">era di un verde scuro, con tante luci tremolanti</p>
+      <p begin="00:00:20,633" end="00:00:22,667">e nuvole che la sorvolavano.</p>
+      <p begin="00:00:22,733" end="00:00:25,733">Vidi tutto questo dopo favolosi disegni geometrici</p>
+      <p begin="00:00:25,800" end="00:00:29,867">cos&#236; incredibilmente veloci che non li puoi descrivere a nessuno,</p>
+      <p begin="00:00:29,933" end="00:00:31,767">da quanto sono rapidi.</p>
+      <p begin="00:00:31,833" end="00:00:32,633">Appena hanno rallentato,</p>
+      <p begin="00:00:32,700" end="00:00:35,833">ho visto questa citt&#224; da molto lontano.</p>
+      <p begin="00:00:35,900" end="00:00:38,867">Quindi la stavo guardando e, improvvisamente, questa sfera luminosa</p>
+      <p begin="00:00:38,933" end="00:00:40,933">mi passa vicino, proprio davanti a me.</p>
+      <p begin="00:00:41,000" end="00:00:41,933">Cos'era?</p>
+      <p begin="00:00:42,000" end="00:00:45,467">Non mi ha spaventato, a parte il fatto che era davvero vicina.</p>
+      <p begin="00:00:45,533" end="00:00:47,633">Dopodich&#233; ho cominciato a guardarmi intorno, ed &#232; come se fossi</p>
+      <p begin="00:00:47,700" end="00:00:51,633">in questo posto e ti chiedessi: "Perch&#233; sono in questo posto?"</p>
+      <p begin="00:00:51,700" end="00:00:54,500">Poi ho notato che c'era una donna alla mia destra,</p>
+      <p begin="00:00:54,567" end="00:00:58,900">con un naso molto lungo e la pelle verde.</p>
+      <p begin="00:00:58,967" end="00:01:01,467">Girava questa manopola, e allora ho capito che stava regolando</p>
+      <p begin="00:01:01,533" end="00:01:06,800">l'intensit&#224; delle luci sulla citt&#224;, in lontananza.</p>
+      <p begin="00:01:06,867" end="00:01:10,100">E non appena la guardai, lei se ne accorse,</p>
+      <p begin="00:01:10,167" end="00:01:12,367">e disse "Cos'altro vuoi?"</p>
+      <p begin="00:01:12,433" end="00:01:16,667">E io dissi, "Cos'altro hai?"</p>
+      <p begin="00:01:33,667" end="00:01:38,533">JOE ROGAN: Questa &#232; la storia della DMT, o dimetiltriptamina.</p>
+      <p begin="00:01:38,600" end="00:01:40,933">Un composto semplice presente in natura,</p>
+      <p begin="00:01:41,000" end="00:01:45,333">che ha profondi effetti sulla coscienza umana.</p>
+      <p begin="00:01:45,400" end="00:01:47,500">DENNIS MCKENNA: Uno degli aspetti, oltre i suoi effetti,</p>
+      <p begin="00:01:47,567" end="00:01:52,433">una delle cose circa la DMT che mi hanno sempre affascinato &#232;</p>
+      <p begin="00:01:52,500" end="00:01:56,633">il fatto che &#232; una molecola molto semplice.</p>
+      <p begin="00:01:56,700" end="00:01:59,600">DAVE NICHOLS: DMT sta per dimetiltriptamina.</p>
+      <p begin="00:01:59,667" end="00:02:01,933">Nn-dimetiltriptamina.</p>
+      <p begin="00:02:02,000" end="00:02:06,633">Se si osserva la struttura ad anello della DMT stessa,</p>
+      <p begin="00:02:06,700" end="00:02:09,367">si hanno solo quattro posizioni in cui</p>
+      <p begin="00:02:09,433" end="00:02:11,033">si possono formare i legami.</p>
+      <p begin="00:02:11,100" end="00:02:13,833">Per cui si pu&#242; ottenere dietile, o dipropile.</p>
+      <p begin="00:02:13,900" end="00:02:16,467">Ci sono altri tipi di catene carboniose che si possono attaccare</p>
+      <p begin="00:02:16,533" end="00:02:20,867">con le quali si ottengono composti attivi,</p>
+      <p begin="00:02:20,933" end="00:02:25,167">ma nettamente differenti dalla DMT.</p>
+      <p begin="00:02:25,233" end="00:02:30,233">DR. MCKENNA: Biosinteticamente &#232; a soli due passi dal triptofano.</p>
+      <p begin="00:02:30,300" end="00:02:34,267">Esatto, due banali passi enzimatici dal triptofano.</p>
+      <p begin="00:02:34,333" end="00:02:39,533">Be' naturalmente il triptofano &#232; un amminoacido, ed &#232; ovunque,</p>
+      <p begin="00:02:39,600" end="00:02:44,567">per cui ogni organismo ha il triptofano, e ogni organismo</p>
+      <p begin="00:02:44,633" end="00:02:50,767">ha due enzimi chiave che portano alla sintesi della DMT.</p>
+      <p begin="00:02:50,833" end="00:02:53,600">Questi enzimi sono enzimi molto antichi;</p>
+      <p begin="00:02:53,667" end="00:02:55,200">sono ovunque.</p>
+      <p begin="00:02:55,267" end="00:02:59,200">Sono appunto parte del metabolismo basale, quindi in teoria,</p>
+      <p begin="00:02:59,267" end="00:03:03,767">qualsiasi cosa pu&#242; sintetizzare la DMT.</p>
+      <p begin="00:03:07,067" end="00:03:10,300">GRAHAM HANCOCK: La DMT &#232; incredibilmente e largamente disponibile</p>
+      <p begin="00:03:10,367" end="00:03:13,367">nelle piante e animali di tutto il mondo, ma fin ora,</p>
+      <p begin="00:03:13,433" end="00:03:18,133">nessuno conosce veramente perch&#233; sia l&#224;, o quale sia la sua funzione.</p>
+      <p begin="00:03:18,200" end="00:03:22,133">DR. MEULI: Questa &#232; la domanda da 64 milioni di dollari.</p>
+      <p begin="00:03:22,200" end="00:03:24,633">Perch&#233; la DMT &#232; nel nostro corpo?</p>
+      <p begin="00:03:24,700" end="00:03:26,800">Perch&#233; si trova nelle piante?</p>
+      <p begin="00:03:26,867" end="00:03:29,033">E in tutti i tipi di mammiferi?</p>
+      <p begin="00:03:29,100" end="00:03:32,733">E qual'&#232; il ruolo che svolge nella specie umana?</p>
+      <p begin="00:03:32,800" end="00:03:36,200">DR: MCKENNA: La sapienza convenzionale di 30 o 40 anni fa suggeriva</p>
+      <p begin="00:03:36,267" end="00:03:38,133">che queste cose non avevano nessuna reale funzione.</p>
+      <p begin="00:03:38,200" end="00:03:42,033">Erano considerati rumore fisiologico, ma ci&#242; rappresenta una</p>
+      <p begin="00:03:42,100" end="00:03:45,000">conoscenza semplicistica della faccenda.</p>
+      <p begin="00:03:45,067" end="00:03:49,000">Ci&#242; che sappiamo ora, invece, &#232; che questi composti secondari sono</p>
+      <p begin="00:03:49,067" end="00:03:52,233">in un certo senso il linguaggio delle piante.</p>
+      <p begin="00:03:52,300" end="00:03:55,267">Sono molecole messaggere.</p>
+      <p begin="00:03:55,333" end="00:03:59,667">Questo &#232; ci&#242; che le piante usano per mediare le loro relazioni</p>
+      <p begin="00:03:59,733" end="00:04:02,833">con altri organismi nell'ambiente.</p>
+      <p begin="00:04:02,900" end="00:04:05,167">CHARLES GROB: Come mai il sistema nervoso centrale dell'uomo</p>
+      <p begin="00:04:05,233" end="00:04:09,867">&#232; collegato in modo da ricevere queste esperienze?</p>
+      <p begin="00:04:09,933" end="00:04:15,967">Probabilmente perch&#233; ci sono importanti informazioni da apprendere.</p>
+      <p begin="00:04:16,033" end="00:04:18,833">HANCOCK: Dunque, non penso sia universalmente presente in natura</p>
+      <p begin="00:04:18,900" end="00:04:20,133">per caso.</p>
+      <p begin="00:04:20,200" end="00:04:21,367">Ha una funzione importante.</p>
+      <p begin="00:04:21,433" end="00:04:23,767">Ci siamo co-evoluti con queste piante, c'&#232; un scopo</p>
+      <p begin="00:04:23,833" end="00:04:25,633">e un significato a tutto questo.</p>
+      <p begin="00:04:30,067" end="00:04:32,267">LEANNA STANDISH: Quindi si inserisce perfettamente nel concetto secondo cui</p>
+      <p begin="00:04:32,333" end="00:04:38,900">la DMT sarebbe il linguaggio molecolare comune, un linguaggio di risonanza,</p>
+      <p begin="00:04:38,967" end="00:04:41,767">tra tutti gli esseri viventi -</p>
+      <p begin="00:04:41,833" end="00:04:45,400">in questo pianeta e magari anche in altri.</p>
+      <p begin="00:04:45,467" end="00:04:49,467">Non riesco a concepire uno strumento pi&#249; potente per l'esplorazione</p>
+      <p begin="00:04:49,533" end="00:04:53,867">dell'intera questione "cosa &#233; la coscienza?".</p>
+      <p begin="00:04:56,467" end="00:05:00,100">RALPH METZNER: Queste sostanze sono strumenti che possono essere usati per</p>
+      <p begin="00:05:00,167" end="00:05:04,000">espandere la consapevolezza in ogni ambito della vita, ed impiegare questa</p>
+      <p begin="00:05:04,067" end="00:05:08,733">consapevolezza per il miglioramento della vita della gente.</p>
+      <p begin="00:05:08,800" end="00:05:12,900">Nella loro comunit&#224;, nella loro famiglia e nella nostra societ&#224;.</p>
+      <p begin="00:05:16,000" end="00:05:18,333">JEREMY NARBY: La buona notizia &#232; che vi &#233; un numero crescente</p>
+      <p begin="00:05:18,400" end="00:05:22,533">di occidentali, e in particolare intellettuali, scienziati,</p>
+      <p begin="00:05:22,600" end="00:05:26,200">artisti, promotori e agitatori, filmakers, e cos&#236; via</p>
+      <p begin="00:05:26,267" end="00:05:31,533">che si sono resi conti che questa roba &#232; decisamente troppo interessante per</p>
+      <p begin="00:05:31,600" end="00:05:34,100">tenerla nascosta sotto il tappeto.</p>
+      <p begin="00:05:34,167" end="00:05:36,333">E intanto,nello stesso modo in cui l'inquisizione risale a molto tempo fa,</p>
+      <p begin="00:05:36,400" end="00:05:38,667">la nascita del razionalismo avvenne alla stessa maniera molto tempo fa.</p>
+      <p begin="00:05:38,733" end="00:05:42,167">A questo punto, non c'&#232; nessuna ragione, a parte che per brutta abitudine,</p>
+      <p begin="00:05:42,233" end="00:05:44,400">di mantenere in piedi queste barriere.</p>
+      <p begin="00:05:45,300" end="00:05:47,133">ROGAN: Con l'aiuto di due concetti che sono</p>
+      <p begin="00:05:47,200" end="00:05:52,433">tradizionalmente opposti, scienza e spiritualit&#224;, reintroduciamo</p>
+      <p begin="00:05:52,500" end="00:05:57,267">umilmente gli psichedelici nel dibattito culturale.</p>
+      <p begin="00:05:57,333" end="00:06:01,367">ALEX GRAY: DMT, la molecola dello spirito, &#232; un enigma,</p>
+      <p begin="00:06:01,433" end="00:06:02,567">un paradosso.</p>
+      <p begin="00:06:02,633" end="00:06:08,867">Lo spirito &#232; il mondo interiore mentre la molecola &#232; il quello esteriore,</p>
+      <p begin="00:06:08,933" end="00:06:14,867">per cui gli psichedelici, o enteogeni, ci traghettano</p>
+      <p begin="00:06:14,933" end="00:06:19,500">dalla scienza allo spirito.</p>
+      <p begin="00:06:19,567" end="00:06:22,100">RICK STRASSMAN: Sono stato attratto dalla ghiandola pineale, che &#232; un</p>
+      <p begin="00:06:22,167" end="00:06:25,967">organo molto piccolo al centro del cervello, che &#232;</p>
+      <p begin="00:06:26,033" end="00:06:28,900">sempre stato un oggetto di interesse, e perfino venerazione</p>
+      <p begin="00:06:28,967" end="00:06:33,800">per un gran numero di discipline esoteriche e psicologiche.</p>
+      <p begin="00:06:33,867" end="00:06:38,967">Ho pensato di essere completamente pazzo nel presumere che nella ghiandola pineale</p>
+      <p begin="00:06:39,033" end="00:06:43,600">si producesse DMT, cosa che si inserisce bene nella mia teoria</p>
+      <p begin="00:06:43,667" end="00:06:46,500">secondo cui la pineale &#232; in qualche modo coinvolta negli stati</p>
+      <p begin="00:06:46,567" end="00:06:48,767">mistici che avvengono in modo naturale.</p>
+      <p begin="00:06:53,200" end="00:06:56,400">JOEL BASKT: Questa ipotesi propone che la ghiandola pineale</p>
+      <p begin="00:06:56,467" end="00:07:01,433">in certi momenti, sotto particolare stress o stimolazione,</p>
+      <p begin="00:07:01,500" end="00:07:07,500">rilascerebbe una significativa quantit&#224; di questo ormone DMT.</p>
+      <p begin="00:07:07,567" end="00:07:13,233">Ed &#232; questo ormone che facilita l'entrata</p>
+      <p begin="00:07:13,300" end="00:07:17,833">e l'uscita dell'anima dal corpo.</p>
+      <p begin="00:07:17,900" end="00:07:23,533">Questo &#232; ci&#242; che i mistici ebrei hanno descritto</p>
+      <p begin="00:07:23,600" end="00:07:29,067">in linguaggio codificato per letteralmente migliaia di anni.</p>
+      <p begin="00:07:29,133" end="00:07:32,167">DR: STRASSMAN: Attraverso la meditazione, il digiuno</p>
+      <p begin="00:07:32,233" end="00:07:36,367">il canto, e altre tecniche, pu&#242; verificarsi</p>
+      <p begin="00:07:36,433" end="00:07:39,967">un' esplosione di DMT endogena correlata alle esperienze</p>
+      <p begin="00:07:40,033" end="00:07:41,767">mistiche e di pre-morte.</p>
+      <p begin="00:07:41,833" end="00:07:45,233">Portavo avanti questa teoria secondo la quale c'era una grande somiglianza tra</p>
+      <p begin="00:07:45,300" end="00:07:49,367">gli psichedelici e le esperienze ottenibili attraverso</p>
+      <p begin="00:07:49,433" end="00:07:53,367">un'intensa pratica meditativa.</p>
+      <p begin="00:07:53,433" end="00:07:56,767">Questa &#232; una delle scoperte iniziali che mi portarono a</p>
+      <p begin="00:07:56,833" end="00:08:00,500">cercare una molecola dello spirito, una sostanza prodotta nel cervello</p>
+      <p begin="00:08:00,567" end="00:08:05,067">che stimolasse esperienze mistiche.</p>
+      <p begin="00:08:13,233" end="00:08:15,800">STEVEN BARKER: Sono dell'idea che il ruolo ricoperto dalla DMT</p>
+      <p begin="00:08:15,867" end="00:08:21,300">potrebbe spiegare ogni tipo di fenomeno allucinatorio</p>
+      <p begin="00:08:21,367" end="00:08:26,000">che l'Uomo ha sperimentato nel corso della storia.</p>
+      <p begin="00:08:26,067" end="00:08:30,467">Creativit&#224;, immaginazione, stati onirici, cambiamenti che avvengono</p>
+      <p begin="00:08:30,533" end="00:08:34,600">a causa di isolamento, trauma o fame, ognuno di essi</p>
+      <p begin="00:08:34,667" end="00:08:37,000">causa fenomeni allucinatori.</p>
+      <p begin="00:08:37,067" end="00:08:41,533">Questi fenomeni allucinatori sono spiegabili grazie alla presenza</p>
+      <p begin="00:08:41,600" end="00:08:44,733">di sostanze chimiche conosciute per le loro propriet&#224; allucinatorie,</p>
+      <p begin="00:08:44,800" end="00:08:47,133">e gli unici composti a noi noti in grado di</p>
+      <p begin="00:08:47,200" end="00:08:49,933">fare ci&#242;, sono la classe di composti conosciuti come</p>
+      <p begin="00:08:50,000" end="00:08:52,000">allucinogeni.</p>
+      <p begin="00:08:55,800" end="00:08:57,900">ANDREW NEWBERG: Pensando agli stati di coscienza spirituali,</p>
+      <p begin="00:08:57,967" end="00:09:01,433">sono convinto che i composti endogeni allucinatori</p>
+      <p begin="00:09:01,500" end="00:09:04,533">e le molecole che il cervello pu&#242; potenzialmente rilasciare</p>
+      <p begin="00:09:04,600" end="00:09:08,833">siano probabilmente molto rilevanti per questo argomento poich&#233; per certi aspetti</p>
+      <p begin="00:09:08,900" end="00:09:11,533">potrebbero davvero aiutarci a chiarire quale sia il</p>
+      <p begin="00:09:11,600" end="00:09:13,867">meccanismo neurochimico di tali esperienze.</p>
+      <p begin="00:09:13,933" end="00:09:18,133">Voglio dire, se ammettessimo che ci fosse un rilascio endogeno di</p>
+      <p begin="00:09:18,200" end="00:09:20,767">oppiacei o uno di dopamina</p>
+      <p begin="00:09:20,833" end="00:09:23,767">o qualcosa del genere e se potessimo misurare quel rilascio</p>
+      <p begin="00:09:23,833" end="00:09:27,167">e potessimo sapere a quali zone del cervello vanno</p>
+      <p begin="00:09:27,233" end="00:09:30,333">le varie molecole e quali recettori attivano o disattivano,</p>
+      <p begin="00:09:30,400" end="00:09:33,267">potremmo imparare molto di pi&#249; riguardo a che cosa siano</p>
+      <p begin="00:09:33,333" end="00:09:37,167">queste esperienze, perch&#233; ci&#242; ci permetterebbe di collegare</p>
+      <p begin="00:09:37,233" end="00:09:41,233">queste esperienze vissute dalla gente con gli allucinogeni, comprendendo</p>
+      <p begin="00:09:41,300" end="00:09:44,267">anche il tipo di relazione che hanno nel contesto dei</p>
+      <p begin="00:09:44,333" end="00:09:47,300">recettori cerebrali e delle diverse parti del cervello</p>
+      <p begin="00:09:47,367" end="00:09:51,467">che possono o meno diventare attive.</p>
+      <p begin="00:09:54,367" end="00:09:56,267">DR. STRASSMAN: Una delle altre cose interessanti circa</p>
+      <p begin="00:09:56,333" end="00:10:00,367">l'aspetto farmacologico della DMT &#232; che essa &#232; attivamente trasportata</p>
+      <p begin="00:10:00,433" end="00:10:04,500">nel cervello, perci&#242; c'&#232; da interrogasi riguardo al ruolo della DMT</p>
+      <p begin="00:10:04,567" end="00:10:08,900">nella normale attivit&#224; percettiva quotidiana.</p>
+      <p begin="00:10:08,967" end="00:10:13,900">Troppa DMT e le cose si fanno molto psichedeliche o non abbastanza DMT e</p>
+      <p begin="00:10:13,967" end="00:10:19,267">il cervello pu&#242; rendere le cose opache, piatte e grige.</p>
+      <p begin="00:10:20,767" end="00:10:22,067">NEAL GOLDSMITH: C'&#232; qualcosa che per quanto mi riguarda</p>
+      <p begin="00:10:22,133" end="00:10:24,233">ha senso riguardo alla DMT.</p>
+      <p begin="00:10:24,300" end="00:10:25,433">Si chiama molecola dello spirito;</p>
+      <p begin="00:10:25,500" end="00:10:29,033">potrebbe quasi essere chiamata la molecola della realt&#224;.</p>
+      <p begin="00:10:29,100" end="00:10:32,033">Filosoficamente &#232; sensato che qualcosa di</p>
+      <p begin="00:10:32,100" end="00:10:37,300">cos&#236; fondamentale per la percezione della realt&#224;</p>
+      <p begin="00:10:37,367" end="00:10:40,300">sia imbevuto nella realt&#224; circostante.</p>
+      <p begin="00:10:44,867" end="00:10:46,933">ERIK DAVIS: In qualche modo c'era</p>
+      <p begin="00:10:47,000" end="00:10:51,300">qualcosa di speciale in essa che non era rintracciabile da nessun'altra parte</p>
+      <p begin="00:10:51,367" end="00:10:54,333">non era come gli altri psichedelici,</p>
+      <p begin="00:10:54,400" end="00:10:58,233">la sua intensit&#224; e velocit&#224; erano tali che producevano</p>
+      <p begin="00:10:58,300" end="00:11:01,767">un tipo di risposta diversa, nel senso che ricordo</p>
+      <p begin="00:11:01,833" end="00:11:04,567">di avere quasi avuto la sensazione che fosse un specie di</p>
+      <p begin="00:11:04,633" end="00:11:07,267">salto con l'elastico psichedelico simile ad una specie di</p>
+      <p begin="00:11:07,333" end="00:11:12,533">crudo salto in questo ambiente in rapida evoluzione</p>
+      <p begin="00:11:12,600" end="00:11:15,767">molto differente dall'approccio graduale</p>
+      <p begin="00:11:15,833" end="00:11:19,833">di altri psichedelici.</p>
+      <p begin="00:11:23,333" end="00:11:25,667">JAMES KENT: Fumare DMT &#232; pi&#249; o meno la versione psichedelica essere spinti fuori da</p>
+      <p begin="00:11:25,733" end="00:11:27,267">un auto in corsa [fig. drive by shooting]</p>
+      <p begin="00:11:27,333" end="00:11:31,567">Sei in un posto e BANG sei in un altro posto e BANG</p>
+      <p begin="00:11:31,633" end="00:11:35,100">sei di nuovo a terra, per cui non c'&#232; molto spazio</p>
+      <p begin="00:11:35,167" end="00:11:39,300">per la narrativa del chi sono Io, cosa ci faccio,</p>
+      <p begin="00:11:39,367" end="00:11:41,867">perch&#233; sono qui, cosa sto imparando?</p>
+      <p begin="00:11:41,933" end="00:11:45,200">E' come se ci fossero troppe informazioni da elaborare</p>
+      <p begin="00:11:45,267" end="00:11:48,400">nell'arco di pochi minuti per poi integrarle una volta</p>
+      <p begin="00:11:48,467" end="00:11:49,967">ritornato in te stesso.</p>
+      <p begin="00:11:51,667" end="00:11:54,267">DR: BARKER: La dimetiltriptamina quando viene somministrata ha</p>
+      <p begin="00:11:54,333" end="00:11:58,700">un'insorgenza molto rapida e un'azione molto breve.</p>
+      <p begin="00:11:58,767" end="00:12:01,100">Questo a causa del fatto che viene velocemente scomposta dal</p>
+      <p begin="00:12:01,167" end="00:12:05,200">corpo in modo che questo si ripulisca.</p>
+      <p begin="00:12:05,267" end="00:12:08,833">DR. NICHOLS: La DMT viene degradata rapidamente da enzimi nel</p>
+      <p begin="00:12:08,900" end="00:12:11,800">fegato chiamati monoammino ossidasi, o MAO,questo &#232; il motivo</p>
+      <p begin="00:12:11,867" end="00:12:14,400">per il quale non risulta attivo quando ingerito.</p>
+      <p begin="00:12:14,467" end="00:12:17,133">Mentre la psilocibina assunta oralmente viene</p>
+      <p begin="00:12:17,200" end="00:12:19,533">scomposta molto lentamente dalle amminossidasi</p>
+      <p begin="00:12:19,600" end="00:12:21,633">e dunque passa attraverso il fegato, per poi raggiungere il</p>
+      <p begin="00:12:21,700" end="00:12:24,167">circolo ematico e il cervello.</p>
+      <p begin="00:12:29,967" end="00:12:32,300">DR: STRASSMAN: Si, sono molto interessato all'Ayahuasca.</p>
+      <p begin="00:12:32,367" end="00:12:36,833">Quando cominciai i miei studi nei primi anni novanta, l'Ayahuasca stava solo iniziando</p>
+      <p begin="00:12:36,900" end="00:12:39,833">a farsi strada in Occidente, ma ovviamente ora &#232;</p>
+      <p begin="00:12:39,900" end="00:12:44,200">diventata molto pi&#249; popolare negli ultimi dieci o quindici anni e</p>
+      <p begin="00:12:44,267" end="00:12:48,633">l'ingrediente visionario nell'Ayahuasca &#232; la DMT.</p>
+      <p begin="00:12:48,700" end="00:12:51,533">Attraverso qualche straordinaria impresa di chimica pre-letterata,</p>
+      <p begin="00:12:51,600" end="00:12:57,567">i nativi dell'Amazzonia sono riusciti a scoprirla per caso o forse hanno provato a combinare un po' di tutto.</p>
+      <p begin="00:12:57,633" end="00:13:00,333">Non so come abbiano fatto ma hanno trovato una pianta</p>
+      <p begin="00:13:00,400" end="00:13:04,167">contenente DMT e una contenente inibitori enzimatici;</p>
+      <p begin="00:13:04,233" end="00:13:07,433">combinali insieme e puoi bere DMT oralmente attivo,</p>
+      <p begin="00:13:07,500" end="00:13:09,967">che comincia a fare effetto dopo mezz'ora dall'ingestione e dura tre</p>
+      <p begin="00:13:10,033" end="00:13:13,967">o quattro ore e puoi gestirlo molto</p>
+      <p begin="00:13:14,033" end="00:13:17,167">pi&#249; facilmente in quello stato che quando lo</p>
+      <p begin="00:13:17,233" end="00:13:19,933">fumi o te lo inietti.</p>
+      <p begin="00:13:23,433" end="00:13:29,667">KENT: L'Ayahuasca attiva oralmente tende a prenderti e portarti</p>
+      <p begin="00:13:29,733" end="00:13:33,200">gentilmente nello spazio e ti cinge, ti abbraccia, ti ripulisce</p>
+      <p begin="00:13:33,267" end="00:13:37,300">e ti mostra ogni sorta i visione mistica e poi</p>
+      <p begin="00:13:37,367" end="00:13:39,600">molto dolcemente ti riporta a terra come se stessi fluttuando</p>
+      <p begin="00:13:39,667" end="00:13:42,633">su una piuma.</p>
+      <p begin="00:13:46,167" end="00:13:49,467">KAT HARRISON: Per quanto possa essere stata preziosa la mia esperienza con la DMT,</p>
+      <p begin="00:13:49,533" end="00:13:56,633">sento che c'&#232; un valore molto pi&#249; duraturo nella</p>
+      <p begin="00:13:56,700" end="00:14:00,733">tecnologia popolare che protende l'esperienza e rende il tutto</p>
+      <p begin="00:14:00,800" end="00:14:02,400">uno spazio altamente navigabile.</p>
+      <p begin="00:14:02,467" end="00:14:08,833">L'intera nostra tradizione occidentale di distillare</p>
+      <p begin="00:14:08,900" end="00:14:13,133">l'alcool e isolare composti chimici rendendo tutto pi&#249; forte</p>
+      <p begin="00:14:13,200" end="00:14:18,500">sradicando ogni cosa dal suo contesto naturale per inserirlo nel pi&#249; grosso stampo possibile,</p>
+      <p begin="00:14:18,567" end="00:14:22,000">generalmente, non penso sia</p>
+      <p begin="00:14:22,067" end="00:14:23,600">il modo di fare pi&#249; utile.</p>
+      <p begin="00:14:23,667" end="00:14:28,400">Penso ci sia una ragione per cui quelle culture impararono a rendere</p>
+      <p begin="00:14:28,467" end="00:14:32,067">un'esperienza di cinque minuti in una di cinque ore.</p>
+      <p begin="00:14:32,133" end="00:14:37,767">Mi sembra che l'Ayahuasca abbia avuto un piano per</p>
+      <p begin="00:14:37,833" end="00:14:42,533">raggiungere il mondo intero portando cos&#236; la DMT in molte</p>
+      <p begin="00:14:42,600" end="00:14:47,567">migliaia di esistenze allargandosi su una tela molto pi&#249; grande</p>
+      <p begin="00:14:47,633" end="00:14:51,667">rispetto ai passati 10,000 anni o quanti anni siano da allora.</p>
+      <p begin="00:14:51,733" end="00:14:55,067">E' avvenuto tutto molto velocemente in modo</p>
+      <p begin="00:14:55,133" end="00:14:57,633">da seguire il suo andamento.</p>
+      <p begin="00:14:59,433" end="00:15:04,367">HANCOK: L'Ayauhasca &#232; molto pi&#249; difficile per le strutture del potere</p>
+      <p begin="00:15:04,433" end="00:15:07,200">che abbiamo ora, &#232; molto pi&#249; difficile da abbattere</p>
+      <p begin="00:15:07,267" end="00:15:10,900">perch&#233; &#232; stata parte di una pratica legittima, religiosa</p>
+      <p begin="00:15:10,967" end="00:15:13,600">e spirituale per migliaia di anni,</p>
+      <p begin="00:15:13,667" end="00:15:18,967">sicuramente in Amazzionia, e non possiamo respingere</p>
+      <p begin="00:15:19,033" end="00:15:22,500">tutto ci&#242; come sciocchezze primitive e superstizioni.</p>
+      <p begin="00:15:22,567" end="00:15:27,267">Dobbiamo fare i conti con questo nei giusti termini.</p>
+      <p begin="00:15:27,333" end="00:15:30,000">NARBY: Penso che ci sia attualmente un numero crescente di persone che</p>
+      <p begin="00:15:30,067" end="00:15:38,300">sentono il desiderio di tornare a contatto con la natura, con le piante,</p>
+      <p begin="00:15:38,367" end="00:15:43,333">con gli animali e con chi sa che attraverso il percorso sciamanico c'&#232;</p>
+      <p begin="00:15:43,400" end="00:15:47,700">modo di farlo e che, anche che attraverso questi strumenti,</p>
+      <p begin="00:15:47,767" end="00:15:51,433">questi strumenti psicoattivi derivanti dalle piante come l'Ayahuasca,</p>
+      <p begin="00:15:51,500" end="00:15:54,933">vi &#233; un modo diretto di fare tutto ci&#242;, certo sicuramente non &#232;</p>
+      <p begin="00:15:55,000" end="00:15:58,433">il metodo ideale per tutti e penso che, in realt&#224;, un sacco di persone</p>
+      <p begin="00:15:58,500" end="00:16:01,400">abbiano buoni motivi di temerlo.</p>
+      <p begin="00:16:06,000" end="00:16:08,333">DAVIS: Come molte persone della mia generazione</p>
+      <p begin="00:16:08,400" end="00:16:11,900">ho sentito parlare per la prima volta di DMT da Terence McKenna.</p>
+      <p begin="00:16:11,967" end="00:16:17,233">Fu un modo davvero divertente di venire a conoscenza di questi potenti,</p>
+      <p begin="00:16:17,300" end="00:16:22,867">interessanti e antropologicamente ricchi argomenti</p>
+      <p begin="00:16:22,933" end="00:16:27,567">come la DMT perch&#233; divenne qualcosa di pi&#249;, divenne</p>
+      <p begin="00:16:27,633" end="00:16:30,967">quasi un concetto pi&#249; che un qualcosa che la gente</p>
+      <p begin="00:16:31,033" end="00:16:34,233">dovesse necessariamente assumere.</p>
+      <p begin="00:16:34,300" end="00:16:39,267">TERENCE MCKENNA: Il flash da DMT rende chiaro il fatto che la coscienza</p>
+      <p begin="00:16:39,333" end="00:16:42,633">disincarnata sia una possibilit&#224;;</p>
+      <p begin="00:16:42,700" end="00:16:44,667">sono dell'idea che la storia e la vita</p>
+      <p begin="00:16:44,733" end="00:16:48,667">tendano verso la</p>
+      <p begin="00:16:48,733" end="00:16:52,367">perdita della corporeit&#224;.</p>
+      <p begin="00:16:52,433" end="00:16:58,067">DR. MCKENNA: Terence era proprio, era un buon promoter,</p>
+      <p begin="00:16:58,133" end="00:17:01,567">in pratica diceva che era la pillola metafisica d'avanguardia</p>
+      <p begin="00:17:01,633" end="00:17:07,000">anche se non &#232; una pillola ma, ho pensato che fosse</p>
+      <p begin="00:17:07,067" end="00:17:09,300">una discreta caratterizzazione dopo averla presa.</p>
+      <p begin="00:17:09,367" end="00:17:17,167">Sembra appartenere ad una categoria diversa rispetto all'LSD e alla Mescalina</p>
+      <p begin="00:17:17,233" end="00:17:20,267">e di altre sostanze che circolavano, la DMT sembrava</p>
+      <p begin="00:17:20,333" end="00:17:25,633">davvero essere a tutto un altro livello di esperienza.</p>
+      <p begin="00:17:31,767" end="00:17:34,733">ROGAN: Mi piacerebbe che sospendeste ogni opinione sia negativa</p>
+      <p begin="00:17:34,800" end="00:17:37,300">che positiva riguardo a questi composti.</p>
+      <p begin="00:17:37,367" end="00:17:40,333">Qualsiasi valore assegnate loro, essi continuano ad avere</p>
+      <p begin="00:17:40,400" end="00:17:43,533">profondi effetti in qualsiasi contesto vengano impiegati, che sia</p>
+      <p begin="00:17:43,600" end="00:17:48,133">nella cultura occidentale contemporanea o nella foresta pluviale amazzonica.</p>
+      <p begin="00:17:48,200" end="00:17:51,400">METZNER: Fu negli anni cinquanta che le chiese che adottavano l'Ayahuasca cominciarono</p>
+      <p begin="00:17:51,467" end="00:17:57,433">ad essere pubbliche, ci fu come una specie di transizione dagli Indiani indigeni</p>
+      <p begin="00:17:57,500" end="00:18:01,633">nel Sud america ai meticci (Mestizo) nelle citt&#224;</p>
+      <p begin="00:18:01,700" end="00:18:04,967">e cos&#236; queste chiese come la Santo Daime</p>
+      <p begin="00:18:05,033" end="00:18:08,633">e la UDV un po' pi&#249; tardi iniziarono a fare cerimonie</p>
+      <p begin="00:18:08,700" end="00:18:11,367">che resero l'Ayahuasca accessibile non solo agli Indiani</p>
+      <p begin="00:18:11,433" end="00:18:14,933">ma anche alla gente nelle grandi citt&#224; che sono distanti</p>
+      <p begin="00:18:15,000" end="00:18:17,633">dalla cultura sciamanica come lo siamo noi.</p>
+      <p begin="00:18:19,933" end="00:18:25,867">DR. GROB: Nei primi anni novanta l'UDV stabil&#236; una branca</p>
+      <p begin="00:18:25,933" end="00:18:28,533">della sua chiesa negli Stati Uniti.</p>
+      <p begin="00:18:28,600" end="00:18:33,467">Sul finire degli anni novanta, i dipartimenti doganali insieme</p>
+      <p begin="00:18:33,533" end="00:18:37,433">alla D.E.A intercettarono una spedizione di Ayahuasca.</p>
+      <p begin="00:18:37,500" end="00:18:42,100">La chiesa protest&#242; per l'azione del governo,</p>
+      <p begin="00:18:42,167" end="00:18:45,167">sostenendo che violava la l'Atto di Restaurazione della</p>
+      <p begin="00:18:45,233" end="00:18:49,167">Libert&#224; Religiosa e il caso venne accolto nella Corte Suprema degli Stati Uniti</p>
+      <p begin="00:18:49,233" end="00:18:54,700">e nel Febbraio del 2006 la loro decisione fu annunciata</p>
+      <p begin="00:18:54,767" end="00:18:59,633">e fu un'unanime verdetto a favore dell'UDV.</p>
+      <p begin="00:19:02,533" end="00:19:05,400">NARBY: Perch&#233; nell'intero mondo occidentale queste</p>
+      <p begin="00:19:05,467" end="00:19:10,200">sostanze ritenute di grande interesse da centinaia</p>
+      <p begin="00:19:10,267" end="00:19:14,167">di culture per migliaia di anni sono proibite?</p>
+      <p begin="00:19:14,233" end="00:19:17,333">Com'&#232; possibile che queste culture che si ritenengono</p>
+      <p begin="00:19:17,400" end="00:19:22,833">illuminate, democratiche e scientifiche arrivano a dichiarare</p>
+      <p begin="00:19:22,900" end="00:19:24,133">illegali delle piante?</p>
+      <p begin="00:19:24,200" end="00:19:28,033">Potrebbe sembrare strano ma c'&#232; chiaramente qualcosa di molto profondo</p>
+      <p begin="00:19:28,100" end="00:19:32,033">e rivelatore circa la natura di queste societ&#224;.</p>
+      <p begin="00:19:32,100" end="00:19:35,233">HANCOCK: La nostra societ&#224; valorizza una coscienza indirizzata ad un attenta</p>
+      <p begin="00:19:35,300" end="00:19:38,200">risoluzione (razionale) dei problemi e svaluta tutti gli altri</p>
+      <p begin="00:19:38,267" end="00:19:39,900">stati di coscienza.</p>
+      <p begin="00:19:39,967" end="00:19:43,233">Qualsiasi tipo di coscienza che non &#232; correlata alla</p>
+      <p begin="00:19:43,300" end="00:19:47,733">produzione o al consumo di beni materiali &#232; stigmatizzata</p>
+      <p begin="00:19:47,800" end="00:19:49,333">nella nostra societ&#224; moderna.</p>
+      <p begin="00:19:49,400" end="00:19:53,467">Certamente accettiamo l'ebrezza alcolica, concediamo alle persone qualche breve</p>
+      <p begin="00:19:53,533" end="00:19:56,767">tregua dalla macina del materialismo.</p>
+      <p begin="00:19:56,833" end="00:20:00,467">Una societ&#224; che sottoscrive questo modello &#232; una societ&#224; che</p>
+      <p begin="00:20:00,533" end="00:20:03,433">condanner&#224; gli stati di coscienza che non hanno nulla</p>
+      <p begin="00:20:03,500" end="00:20:06,433">a che fare con la mentalit&#224; vigile basata sul problem solving, e se si torna</p>
+      <p begin="00:20:06,500" end="00:20:10,267">indietro agli anni sessanta quando ci fu un tremendo incremento</p>
+      <p begin="00:20:10,333" end="00:20:15,533">nell'esplorazione degli psichedelici,</p>
+      <p begin="00:20:15,600" end="00:20:21,067">il successivo enorme contraccolpo causato dalla paura</p>
+      <p begin="00:20:21,133" end="00:20:24,767">dei potenti data dal fatto che se abbastanza gente fosse andata</p>
+      <p begin="00:20:24,833" end="00:20:27,700">in quei reami e avesse vissuto quel tipo di esperienza, il tessuto stesso</p>
+      <p begin="00:20:27,767" end="00:20:30,400">della societ&#224; che abbiamo oggi sarebbe stata messa da parte e,</p>
+      <p begin="00:20:30,467" end="00:20:33,667">cosa pi&#249; importante, i potenti in cima non sarebbero pi&#249; stati n&#233; al comando</p>
+      <p begin="00:20:33,733" end="00:20:36,633">n&#233; in cima.</p>
+      <p begin="00:20:42,167" end="00:20:45,267">DOUGLAS RUSHKOFF: C'era un ottimismo infondato,</p>
+      <p begin="00:20:45,333" end="00:20:47,400">come &#232; noto c'era la questione del Vietnam, tutti questi</p>
+      <p begin="00:20:47,467" end="00:20:50,267">fatti reali stavano accadendo di cui il movimento psichedelico non stava</p>
+      <p begin="00:20:50,333" end="00:20:55,500">occupandosene in modo reale, e Timothy e gli altri</p>
+      <p begin="00:20:55,567" end="00:21:02,200">ci volevano convincere di una soluzione che in realt&#224; non funzionava.</p>
+      <p begin="00:21:02,267" end="00:21:04,233">TIMOTHY LEARY: In questo momento siamo, che ci piaccia o meno,</p>
+      <p begin="00:21:04,300" end="00:21:05,833">nell'era psico-chimica.</p>
+      <p begin="00:21:05,900" end="00:21:08,433">Nel futuro la scelta non sar&#224; tra quali libri sceglierete ma</p>
+      <p begin="00:21:08,500" end="00:21:11,833">tra quali prodotti chimici andrete ad usare per aprire o chiudere</p>
+      <p begin="00:21:11,900" end="00:21:13,033">la coscienza.</p>
+      <p begin="00:21:13,100" end="00:21:16,133">Le sostanze chimiche possono aiutarci a imparare velocemente, possono aiutarci a</p>
+      <p begin="00:21:16,200" end="00:21:19,600">espandere o contrarre la nostra coscienza.</p>
+      <p begin="00:21:21,267" end="00:21:24,433">RALPH ABRHAM: L'atmosfera negli anni sessanta era del tipo,</p>
+      <p begin="00:21:24,500" end="00:21:28,933">stiamo facendo ricerca, stiamo dedicando le nostre vite</p>
+      <p begin="00:21:29,000" end="00:21:31,633">nella sperimentazione di praticamente ogni cosa sul pianeta.</p>
+      <p begin="00:21:31,700" end="00:21:35,033">Quindi noi le proviamo, poi ne parliamo</p>
+      <p begin="00:21:35,100" end="00:21:37,333">e le valutiamo, ci consideravamo</p>
+      <p begin="00:21:37,400" end="00:21:40,600">pi&#249; o meno come pionieri spirituali.</p>
+      <p begin="00:21:43,633" end="00:21:46,067">DANILE PINCHBECK: Ecco la mia prospettiva sugli anni sessanta: la si pu&#242; intendere</p>
+      <p begin="00:21:46,133" end="00:21:51,133">come un tentato viaggio culturale iniziatico di massa</p>
+      <p begin="00:21:51,200" end="00:21:52,633">fallito.</p>
+      <p begin="00:21:52,700" end="00:21:56,033">All'epoca molti andavano alla ricerca di queste</p>
+      <p begin="00:21:56,100" end="00:21:58,933">realt&#224; alternative ma non avevano una base dalla quale partire.</p>
+      <p begin="00:21:59,000" end="00:22:02,167">Non c'erano saggezza tradizionale n&#233; anziani saggi, non c'erano</p>
+      <p begin="00:22:02,233" end="00:22:04,567">connessioni con i lignaggi sciamanici, alcuni</p>
+      <p begin="00:22:04,633" end="00:22:07,633">andavano semplicemente allo sbaraglio.</p>
+      <p begin="00:22:11,733" end="00:22:14,500">ROLAND GRIFFITHS: Timothy Leary scredit&#242;</p>
+      <p begin="00:22:14,567" end="00:22:19,700">l'approccio scientifico allo studio di queste sostanze perch&#233; cominci&#242;</p>
+      <p begin="00:22:19,767" end="00:22:24,700">a fare una ricerca interessante ma poi inizi&#242; a promuoverne</p>
+      <p begin="00:22:24,767" end="00:22:28,300">un uso che era incredibilmente minaccioso.</p>
+      <p begin="00:22:28,367" end="00:22:35,800">Cos&#236; reagimmo culturalmente e divent&#242; politicamente impossibile</p>
+      <p begin="00:22:35,867" end="00:22:38,867">fare questo tipo di ricerca.</p>
+      <p begin="00:22:38,933" end="00:22:42,967">Le agenzie di finanziamento non resero le risorse disponibili,</p>
+      <p begin="00:22:43,033" end="00:22:48,000">le agenzie di regolamentazione crearono ostacoli di tipo pratico</p>
+      <p begin="00:22:48,067" end="00:22:53,033">per l'inizio di questo tipo di ricerca e credo che chi</p>
+      <p begin="00:22:53,100" end="00:22:59,233">si interess&#242; a questo tipo di ricerca fu ampiamente screditato</p>
+      <p begin="00:22:59,300" end="00:23:02,233">proprio per l'interesse che mostravano a riguardo.</p>
+      <p begin="00:23:02,300" end="00:23:06,500">I problemi di natura sociale, politica e scientifica che emersero,</p>
+      <p begin="00:23:06,567" end="00:23:11,500">spinsero queste droghe fuori dal mercato scientifico.</p>
+      <p begin="00:23:19,300" end="00:23:21,433">DR. BARKER: L'opinione pubblica in molti casi si convinse che</p>
+      <p begin="00:23:21,500" end="00:23:24,533">la ricerca nel campo degli psichedelici era pericolosa.</p>
+      <p begin="00:23:24,600" end="00:23:29,567">Il pubblico generale era disinformato riguardo alla vera natura di questi</p>
+      <p begin="00:23:29,633" end="00:23:32,633">composti e circa l'importanza che avrebbero potuto avere nella</p>
+      <p begin="00:23:32,700" end="00:23:37,500">comprensione dei meccanismi percettivi.</p>
+      <p begin="00:23:38,533" end="00:23:40,333">DR. NICOLS: Una delle cose tragiche per quanto mi riguarda &#232; che</p>
+      <p begin="00:23:40,400" end="00:23:43,467">la ricerca clinica su queste sostanze si ferm&#242; praticamente</p>
+      <p begin="00:23:43,533" end="00:23:48,133">intorno al 1970, e per me ci&#242; fu particolarmente tragico perch&#233;</p>
+      <p begin="00:23:48,200" end="00:23:50,933">credo fermamente che queste sostanze giocarono un ruolo importantissimo</p>
+      <p begin="00:23:51,000" end="00:23:52,967">nello sviluppo planetario della nostra filosofia e del nostro</p>
+      <p begin="00:23:53,033" end="00:23:54,233">modo di pensare sviluppato in tutto il mondo.</p>
+      <p begin="00:23:54,300" end="00:23:57,067">Ci&#242; che molti non comprendono &#232; che la psichiatria</p>
+      <p begin="00:23:57,133" end="00:24:00,200">fino agli anni cinquanta, la ricerca in generale non aveva cognizione del fatto che</p>
+      <p begin="00:24:00,267" end="00:24:03,600">la neurochimica svolgesse un ruolo predominante nelle emozioni e nei comportamenti che</p>
+      <p begin="00:24:03,667" end="00:24:07,567">oggi appaiono bizzarri e la scoperta dell'LSD e dei suoi</p>
+      <p begin="00:24:07,633" end="00:24:11,800">potenti effetti sulla psiche umana avvenne quasi</p>
+      <p begin="00:24:11,867" end="00:24:14,667">in contemporanea con la scoperta della serotonina riconosciuta come</p>
+      <p begin="00:24:14,733" end="00:24:17,900">una molecola presente nel cervello e fu quando si analizz&#242; la</p>
+      <p begin="00:24:17,967" end="00:24:21,300">struttura della serotonina che venne paragonata a quella dell'LSD</p>
+      <p begin="00:24:21,367" end="00:24:25,067">che si cominci&#242; a pensare, che sai, forse la neurochimica svolge davvero</p>
+      <p begin="00:24:25,133" end="00:24:29,200">un ruolo nella chimica del cervello e negli stati comportamentali.</p>
+      <p begin="00:24:29,267" end="00:24:31,967">Se l'LSD non fosse stato scoperto, dubito che avremmo avuto</p>
+      <p begin="00:24:32,033" end="00:24:34,700">una qualsiasi dei farmaci che abbiamo, quantomeno non cos&#236; velocemente, per</p>
+      <p begin="00:24:34,767" end="00:24:38,433">il trattamento della depressione e cos&#236; via.</p>
+      <p begin="00:24:38,500" end="00:24:42,733">DR. STRASSMAN: Una volta che poi si cominci&#242; ad abusare e a scandalizzare queste droghe,</p>
+      <p begin="00:24:42,800" end="00:24:47,633">la Psichiatria dovette lavorare davvero sodo per distanziarsi</p>
+      <p begin="00:24:47,700" end="00:24:53,400">da qualsivoglia tipo di relazione scientifica e meritevolmente scientifica</p>
+      <p begin="00:24:53,467" end="00:24:55,200">con gli psichedelici.</p>
+      <p begin="00:24:55,267" end="00:24:57,733">Essere uno psichiatra e ammettere che si &#232; interessati ad imparare o studiare</p>
+      <p begin="00:24:57,800" end="00:25:03,733">gli psichedelici, non &#232; un segnale molto ben accolto tant'&#232; che una volta</p>
+      <p begin="00:25:03,800" end="00:25:07,000">ne feci menzione e venni scoraggiato a riproporre la questione</p>
+      <p begin="00:25:07,067" end="00:25:09,433">per un buon numero di anni.</p>
+      <p begin="00:25:09,500" end="00:25:12,833">GRIFFITHS: Per ragioni culturali l'intera classe di composti venne</p>
+      <p begin="00:25:12,900" end="00:25:18,767">rimossa dal banco clinico cosicch&#233; la ricerca non avanz&#242;</p>
+      <p begin="00:25:18,833" end="00:25:20,633">per 40 anni.</p>
+      <p begin="00:25:20,700" end="00:25:26,567">Dunque, scientificamente non riesco a immaginare un'area pi&#249; entusiasmante</p>
+      <p begin="00:25:26,633" end="00:25:28,500">da perseguire.</p>
+      <p begin="00:25:29,033" end="00:25:30,767">ROGAN: In che modo vengono studiate queste piante</p>
+      <p begin="00:25:30,833" end="00:25:31,967">e questi composti?</p>
+      <p begin="00:25:32,033" end="00:25:35,967">Piante e composti che producono inimmaginabili esperienze</p>
+      <p begin="00:25:36,033" end="00:25:39,033">e che sembrano fare luce su alcuni dei pi&#249; grandi misteri</p>
+      <p begin="00:25:39,100" end="00:25:40,267">dell'umanit&#224;.</p>
+      <p begin="00:25:40,333" end="00:25:43,567">Per rispondere a questa domanda il Dott. Strassman condusse</p>
+      <p begin="00:25:43,633" end="00:25:47,767">la prima ricerca sugli effetti degli psichedelici sull'uomo in una generazione.</p>
+      <p begin="00:25:47,833" end="00:25:50,900">DR. STRASSMAN: Una delle cose che stabilii all'inizio</p>
+      <p begin="00:25:50,967" end="00:25:57,300">fu di fare una distinzione tra gli studi nel</p>
+      <p begin="00:25:57,367" end="00:26:00,600">campo scientifico e l'uso ricreativo, ma nei</p>
+      <p begin="00:26:00,667" end="00:26:04,500">primi anni ottanta revisionai quella letteratura e potei facilmente</p>
+      <p begin="00:26:04,567" end="00:26:08,900">stabilire che se le persone fossero state esaminate</p>
+      <p begin="00:26:08,967" end="00:26:11,800">e supervisionate e poi monitorate, la probabilit&#224; di</p>
+      <p begin="00:26:11,867" end="00:26:16,100">reazioni avverse all'LSD e agli psichedelici di quel genere</p>
+      <p begin="00:26:16,167" end="00:26:17,933">sarebbe stata davvero modesta.</p>
+      <p begin="00:26:19,233" end="00:26:22,433">La droga o il prodotto chimico che sembrava essere il</p>
+      <p begin="00:26:22,500" end="00:26:28,133">miglior candidato per la riapertura del fronte statunitense</p>
+      <p begin="00:26:28,200" end="00:26:30,900">sugli psichedelici era la DMT.</p>
+      <p begin="00:26:33,500" end="00:26:35,733">DR. NICHOLS: Era davvero, era entusiasmante per me perch&#233;</p>
+      <p begin="00:26:35,800" end="00:26:39,633">questo era il primo studio in una generazione e non solo questo,</p>
+      <p begin="00:26:39,700" end="00:26:42,733">a parte il fatto che la DMT venne usata in modo sicuro in studi</p>
+      <p begin="00:26:42,800" end="00:26:44,833">precedenti ed era uno delle sostanze prodotte naturalmente dal cervello,</p>
+      <p begin="00:26:44,900" end="00:26:48,733">non dimentichiamo che la DMT &#232; uno dei pi&#249; profondi e potenti psichedelici conosciuti.</p>
+      <p begin="00:26:48,800" end="00:26:52,533">Perci&#242; non era solo l'avvio di una ricerca clinica, era</p>
+      <p begin="00:26:52,600" end="00:26:56,300">un riavvio della ricerca clinica con una droga estremamente potente.</p>
+      <p begin="00:26:56,367" end="00:26:59,233">Ero della ferma opinione che questi studi fossero fattibili</p>
+      <p begin="00:26:59,300" end="00:27:00,467">e Rick era d'accordo.</p>
+      <p begin="00:27:00,533" end="00:27:03,467">Cos&#236;, dopo molte discussioni, a un certo punto</p>
+      <p begin="00:27:03,533" end="00:27:06,967">l'argomento salt&#242; fuori, sai Dave se facessi tutti i documenti</p>
+      <p begin="00:27:07,033" end="00:27:10,467">e passassi tutto questo tempo per arrivare ad ottenere il necessario ed</p>
+      <p begin="00:27:10,533" end="00:27:13,867">essere pronto a partire e poi non riuscissi ad ottenere la DMT,</p>
+      <p begin="00:27:13,933" end="00:27:17,033">cosa molto probabile perch&#233; la DMT, la DMT sintetizzata non era</p>
+      <p begin="00:27:17,100" end="00:27:19,633">un prodotto acquistabile nello scaffale di qualche negozio, e cos&#236; dissi</p>
+      <p begin="00:27:19,700" end="00:27:22,767">"Rick se arrivi a quel punto e nessuno te la riesce a procurare</p>
+      <p begin="00:27:22,833" end="00:27:28,333">lo far&#242; io" e alla fine Rick arriv&#242; al punto di chiedermela cos&#236; gliela sintetizzai.</p>
+      <p begin="00:27:28,400" end="00:27:29,767">DR. STRASSMAN: Il progetto dello studio era abbastanza</p>
+      <p begin="00:27:29,833" end="00:27:33,500">semplice, bisognava somministrare DMT ai volontari misurando</p>
+      <p begin="00:27:33,567" end="00:27:35,600">quante pi&#249; variabili possibili.</p>
+      <p begin="00:27:35,667" end="00:27:39,100">Dovetti anticipare un sacco di obiezioni che sarebbero</p>
+      <p begin="00:27:39,167" end="00:27:43,000">arrivate dalle agenzie di regolamentazione che sovrintendono</p>
+      <p begin="00:27:43,067" end="00:27:44,800">questo tipo di ricerche.</p>
+      <p begin="00:27:44,867" end="00:27:49,700">Cos&#236; a quel punto ebbe inizio un processo lungo due anni con</p>
+      <p begin="00:27:49,767" end="00:27:53,267">non molte agenzie di regolamentazione ma quelle poche che parteciparono erano piuttosto rigide.</p>
+      <p begin="00:27:53,333" end="00:27:56,867">Uno dei satelliti del protocollo</p>
+      <p begin="00:27:56,933" end="00:28:01,500">era il coinvolgimento di uno psichiatra dell'U.C.L.A.</p>
+      <p begin="00:28:01,567" end="00:28:06,267">chiamato Daniel Freedman: era uno degli pi&#249; grandi fondatori</p>
+      <p begin="00:28:06,333" end="00:28:10,333">della Psichiatria Americana ed era uno di quelli che negli</p>
+      <p begin="00:28:10,400" end="00:28:13,700">anni cinquanta e sessanta cominci&#242; le sue ricerche</p>
+      <p begin="00:28:13,767" end="00:28:15,000">proprio nel campo degli psichedelici.</p>
+      <p begin="00:28:15,067" end="00:28:17,833">DR. NICOLS: La cosa principale che Danny Freedman disse a Rick,</p>
+      <p begin="00:28:17,900" end="00:28:21,300">ci disse, fu di non avvicinarci nemmeno alla psicoterapia.</p>
+      <p begin="00:28:21,367" end="00:28:24,133">Dimenticatevi del trattamento delle malattie mentali o dell'alcolismo</p>
+      <p begin="00:28:24,200" end="00:28:27,133">o di qualsiasi altra cosa; dimenticatevi tutto ci&#242;, &#232; l&#236; che nasce tutta l'isteria</p>
+      <p begin="00:28:27,200" end="00:28:29,000">e tutte le paure vengono a galla.</p>
+      <p begin="00:28:29,067" end="00:28:31,633">Tu sei uno scienziato RIck, approccia la cosa da scienziato.</p>
+      <p begin="00:28:31,700" end="00:28:34,100">Fai semplici misurazioni, fai attenzione il battito cardiaco,</p>
+      <p begin="00:28:34,167" end="00:28:36,800">ai parametri cardiovascolari e non avrai guai.</p>
+      <p begin="00:28:36,867" end="00:28:39,900">Puoi essere finanziato ed &#232; vera scienza.</p>
+      <p begin="00:28:39,967" end="00:28:43,033">Rick fece ci&#242; che gli era stato suggerito ma alla fine fu comunque in grado di ottenere questi</p>
+      <p begin="00:28:43,100" end="00:28:46,367">resoconti di quello che succedeva, e quello non rientrava nei piani</p>
+      <p begin="00:28:46,433" end="00:28:49,667">non era per quello che lo studio veniva finanziato</p>
+      <p begin="00:28:49,733" end="00:28:53,033">e non era ci&#242; che Denny intendeva, ma quelli</p>
+      <p begin="00:28:53,100" end="00:28:56,733">erano i risultati secondari che rendevano il tutto molto pi&#249; interessante.</p>
+      <p begin="00:28:58,133" end="00:29:00,533">PATRICIO DOMINIGUEZ: Rick Strassman stava pubblicizzando</p>
+      <p begin="00:29:00,600" end="00:29:06,967">in qualche rivista da qualche parte che aveva bisogno di volontari per uno</p>
+      <p begin="00:29:07,033" end="00:29:11,533">studio particolare con un agente psicotropo, e non</p>
+      <p begin="00:29:11,600" end="00:29:15,033">sapevo cosa, non distinguevo la DMT dall'STP a quel tempo.</p>
+      <p begin="00:29:15,100" end="00:29:18,633">Mi ricordo che lessi l'annuncio e pensai "Oh mio dio questo &#232; grave,</p>
+      <p begin="00:29:18,700" end="00:29:21,700">&#232; meglio che mi faccia coinvolgere per assicurarmi che nessuno</p>
+      <p begin="00:29:21,767" end="00:29:25,300">si faccia male e che almeno ci fosse un po' di</p>
+      <p begin="00:29:25,367" end="00:29:29,667">sensibilit&#224; rispetto a ci&#242; che quella roba rappresentava."</p>
+      <p begin="00:29:30,767" end="00:29:34,300">SUSAN BLUMENTHAL: Incontrai ad una festa l'infermiera che lavorava alla ricerca di Rick</p>
+      <p begin="00:29:34,367" end="00:29:39,300">e lei mi sent&#236; parlare del fatto che avevo usato il Peyote</p>
+      <p begin="00:29:39,367" end="00:29:43,100">in via cerimoniale, cos&#236; mi prese in disparte e mi disse,</p>
+      <p begin="00:29:43,167" end="00:29:45,300">"C'&#232; qualcosa che potrebbe interessarti:</p>
+      <p begin="00:29:45,367" end="00:29:48,967">stiamo cercando soggetti volontari per una</p>
+      <p begin="00:29:49,033" end="00:29:51,900">ricerca un po' insolita".</p>
+      <p begin="00:29:51,967" end="00:29:54,100">CYNTHIA GEIST: Ero un po' preoccupata dal fatto che i partecipanti</p>
+      <p begin="00:29:54,167" end="00:29:59,500">allo studio sarebbero stati un po' fastidiosi, forse non &#232;</p>
+      <p begin="00:29:59,567" end="00:30:02,000">la parola giusta ma, sai, quelli che cercavano solo</p>
+      <p begin="00:30:02,067" end="00:30:05,933">di farsi un sacco di droga, ma in realt&#224; erano persone molto professionali.</p>
+      <p begin="00:30:06,000" end="00:30:10,333">Tra di loro vi erano diversi livelli di esperienza nell'uso degli allucinogeni</p>
+      <p begin="00:30:10,400" end="00:30:14,133">e sembrava che ci fossero alcune persone la cui</p>
+      <p begin="00:30:14,200" end="00:30:17,600">missione di vita era di</p>
+      <p begin="00:30:17,667" end="00:30:20,133">provare ogni tipo di sostanza esistente</p>
+      <p begin="00:30:20,200" end="00:30:23,800">mentre altri credo fossero interessati unicamente</p>
+      <p begin="00:30:23,867" end="00:30:29,533">alla loro crescita personale o erano semplicemente curiosi.</p>
+      <p begin="00:30:29,600" end="00:30:32,033">SUSAN: Una volta entrati nella fase preparatoria</p>
+      <p begin="00:30:32,100" end="00:30:36,967">dell'esperienza vera e propria, Rick mi chiese qualcosa sulle montagne russe.</p>
+      <p begin="00:30:37,033" end="00:30:39,767">"Ti piacciono le montagne russe? Sai quella sensazione di andare</p>
+      <p begin="00:30:39,833" end="00:30:42,933">su molto in alto e poi essere scaraventati gi&#249; verso la Terra?"</p>
+      <p begin="00:30:43,000" end="00:30:47,033">E io dissi "No io le odio, sono orribili" e lui disse</p>
+      <p begin="00:30:47,100" end="00:30:48,867">"Male."</p>
+      <p begin="00:30:48,933" end="00:30:53,667">Volevo solo abbandonarmi all'esperienza, imparare il pi&#249;</p>
+      <p begin="00:30:53,733" end="00:31:00,467">possibile, assorbire il pi&#249; possibile ed essere umile a riguardo.</p>
+      <p begin="00:31:00,533" end="00:31:02,967">ANDREW STONE: L'idea di psichedelici legalmente sanzionati</p>
+      <p begin="00:31:03,033" end="00:31:05,333">era molto convincente.</p>
+      <p begin="00:31:05,400" end="00:31:08,700">In pi&#249; eravamo in un ospedale quindi nell'ipotesi in cui fosse sopraggiunta quella</p>
+      <p begin="00:31:08,767" end="00:31:12,700">sgradevole sensazione di morire, saresti stato con dei dottori</p>
+      <p begin="00:31:12,767" end="00:31:15,667">in un ambiente sicuro, sotto quel punto di vista.</p>
+      <p begin="00:31:15,733" end="00:31:17,400">DR: STRASSMAN: Voglio dire tutto questo &#232; davvero al limite,</p>
+      <p begin="00:31:17,467" end="00:31:21,800">molto "l&#224; fuori", molto, era molto rischioso e le persone sapevano a cosa</p>
+      <p begin="00:31:21,867" end="00:31:23,900">stavano andando incontro e perci&#242; volevano essere</p>
+      <p begin="00:31:23,967" end="00:31:26,800">profondamente rassicurati ed io ero felice di avere un carrello medico</p>
+      <p begin="00:31:26,867" end="00:31:30,267">nella stanza e una squadra nell'ospedale che si sarebbe attivata</p>
+      <p begin="00:31:30,333" end="00:31:32,300">per qualsiasi tipo di emergenza.</p>
+      <p begin="00:31:32,367" end="00:31:35,700">SUSAN: Ci si trovava in questa stanza d'ospedale dove c'erano tutti i suoni</p>
+      <p begin="00:31:35,767" end="00:31:40,500">e gli odori di quei luoghi e tutte le esperienze pregresse dell'essere</p>
+      <p begin="00:31:40,567" end="00:31:45,033">in un ospedale, sai, tutte quelle cose negative riemergono per cui</p>
+      <p begin="00:31:45,100" end="00:31:49,900">ero sicura che ci fosse l'intero ambiente da superare perch&#233;</p>
+      <p begin="00:31:49,967" end="00:31:52,433">non sapevo che non era importante dove fossi,</p>
+      <p begin="00:31:52,500" end="00:31:54,000">in quanto non sarei stata nel mio corpo.</p>
+      <p begin="00:31:54,067" end="00:31:56,933">Sarei stata in giro nell'universo e quindi non importava</p>
+      <p begin="00:31:57,000" end="00:32:00,733">il punto da cui il "lancio" sarebbe avvenuto, poteva essere un ospedale poteva essere</p>
+      <p begin="00:32:00,800" end="00:32:03,733">la giungla in Amazzionia non importava dov'ero</p>
+      <p begin="00:32:03,800" end="00:32:05,933">perch&#233; non sarei rimasta l&#236;.</p>
+      <p begin="00:32:06,000" end="00:32:10,200">PATRICIO: Condizioni e ambiente sono MOLTO importanti, forse pi&#249;</p>
+      <p begin="00:32:10,267" end="00:32:12,900">importanti della sostanza stessa, pi&#249; importanti della</p>
+      <p begin="00:32:12,967" end="00:32:14,233">sostanza.</p>
+      <p begin="00:32:14,300" end="00:32:18,167">Condizioni e ambiente sono tutto.</p>
+      <p begin="00:32:18,233" end="00:32:24,667">Ma cosa sono le condizioni e l'ambiente quando hai gli occhi bendati?</p>
+      <p begin="00:32:24,733" end="00:32:26,767">Le condizioni e l'ambiente non sono ci&#242; che stai vedendo</p>
+      <p begin="00:32:26,833" end="00:32:28,367">perch&#233; non vedi nulla.</p>
+      <p begin="00:32:28,433" end="00:32:33,433">Le condizioni e l'ambiente sono il tuo s&#233; interiore.</p>
+      <p begin="00:32:33,500" end="00:32:37,933">Le cose che hai imparato, le capacit&#224; che</p>
+      <p begin="00:32:38,000" end="00:32:45,267">hai appreso, lo stato della tua psiche e della tua psicologia;</p>
+      <p begin="00:32:45,333" end="00:32:50,267">quelle sono le tue condizioni e il tuo ambiente.</p>
+      <p begin="00:32:50,333" end="00:32:52,967">ROBERT WEISZ: E' il farmaco combinato con o in interazione</p>
+      <p begin="00:32:53,033" end="00:32:57,200">con le condizioni e l'ambiente che crea un effetto di sicurezza,</p>
+      <p begin="00:32:57,267" end="00:33:01,500">fiducia, confort e intraprendenza e che poi permette</p>
+      <p begin="00:33:01,567" end="00:33:04,267">di fare un bel salto e quindi di ricevere</p>
+      <p begin="00:33:04,333" end="00:33:08,200">un bel regalo regalo, cosa che quando non accade ti lascia terrorizzato.</p>
+      <p begin="00:33:08,267" end="00:33:10,767">CYNTHIA: Non avevo delle reali paure materiali del tipo che</p>
+      <p begin="00:33:10,833" end="00:33:13,700">potessero morire o avere un attacco di cuore.</p>
+      <p begin="00:33:13,767" end="00:33:17,700">Avevo qualche paura circa la salute mentale dei soggetti,</p>
+      <p begin="00:33:17,767" end="00:33:20,200">soprattutto quelli che avrebbero preso dosi pi&#249; consistenti.</p>
+      <p begin="00:33:20,267" end="00:33:24,200">Somministrammo ad un signore che aveva avuto un sacco di esperienze di quel tipo</p>
+      <p begin="00:33:24,267" end="00:33:28,000">una dose, ma lui non credette che lo avrebbe portato abbastanza lontano cos&#236;</p>
+      <p begin="00:33:28,067" end="00:33:32,533">gli demmo una dose maggiore, e a quel punto era andato, era davvero andato.</p>
+      <p begin="00:33:32,600" end="00:33:37,433">Mi ricord&#242; una scena de "L'Esorcista",</p>
+      <p begin="00:33:37,500" end="00:33:41,233">si mise a schiena dritta seduto sul letto con gli occhi</p>
+      <p begin="00:33:41,300" end="00:33:44,933">completamente dilatati e neri, e mi venne quasi da pensare che</p>
+      <p begin="00:33:45,000" end="00:33:49,033">avrebbe girato la testa di 360&#176;: mi ricordo che guardai Rick</p>
+      <p begin="00:33:49,100" end="00:33:52,733">e Rick mi guard&#242; e pensai "Oh mio Dio &#232; andato,</p>
+      <p begin="00:33:52,800" end="00:33:56,200">spero che torni"..e alla fine torn&#242;.</p>
+      <p begin="00:33:56,267" end="00:33:58,700">ANTONAPAULOS SPIROS: Il conto alla rovescia era come contare,</p>
+      <p begin="00:33:58,767" end="00:34:03,000">in attesa della tua morte , come se attendessi di arrenderti</p>
+      <p begin="00:34:03,067" end="00:34:08,467">e senti il freddo che ti attraversa</p>
+      <p begin="00:34:08,533" end="00:34:13,967">le vene, ed &#232; davvero indescrivibile, &#232; molto difficile farlo;</p>
+      <p begin="00:34:14,033" end="00:34:17,933">&#232; come ghiaccio che ti scorre nelle vene.</p>
+      <p begin="00:34:18,000" end="00:34:23,667">La cosa successiva che mi &#232; successa oltre all'aumento del battito cardiaco &#232; questa</p>
+      <p begin="00:34:23,733" end="00:34:28,267">bruciante sensazione dietro al collo,</p>
+      <p begin="00:34:28,333" end="00:34:30,633">cio&#232; era qualcosa di sicuro, preciso come un orologio.</p>
+      <p begin="00:34:30,700" end="00:34:35,333">Questo succedeva ogni volta che iniettavo DMT</p>
+      <p begin="00:34:35,400" end="00:34:40,500">e poi c'era questo ronzio e il ronzio cresceva</p>
+      <p begin="00:34:40,567" end="00:34:46,700">e cresceva, fino al punto in cui veniva distrutto tutto ci&#242;</p>
+      <p begin="00:34:46,767" end="00:34:53,667">che ero o che sapevo, era tipo "Hummmmmm"</p>
+      <p begin="00:34:53,733" end="00:34:55,700">Diventava sempre pi&#249; forte fino a che eri costretto ad</p>
+      <p begin="00:34:55,767" end="00:34:59,500">arrenderti al suono,</p>
+      <p begin="00:34:59,567" end="00:35:02,467">e poi ti ritrovavi l&#236;.</p>
+      <p begin="00:35:05,933" end="00:35:09,500">DR MUELI: Prima che mi arrivasse in testa, avvertivo una sensazione di caldo, una sensazione</p>
+      <p begin="00:35:09,567" end="00:35:13,800">di qualcosa di dorato al petto.</p>
+      <p begin="00:35:13,867" end="00:35:16,833">Sentivo questa canna riscaldata di quasi tre centimetri in diametro</p>
+      <p begin="00:35:16,900" end="00:35:20,833">che mi cresceva dentro nel canale centrale.</p>
+      <p begin="00:35:20,900" end="00:35:23,700">Saliva e rallentava nel petto, lo riscaldava e poi saliva</p>
+      <p begin="00:35:23,767" end="00:35:28,200">in testa e si fermava e premeva incredibilmente forte nei seni</p>
+      <p begin="00:35:28,267" end="00:35:34,300">nasali dietro gli occhi e poi diminuiva e cresceva</p>
+      <p begin="00:35:34,367" end="00:35:37,233">per estenderesi fino a dietro la mia fronte di circa due centimetri e mezzo</p>
+      <p begin="00:35:37,300" end="00:35:40,433">dietro l'attaccatura dei capelli.</p>
+      <p begin="00:35:40,500" end="00:35:42,300">Avevo paura che mi facesse scoppiare la pelle un paio di volte perch&#233;</p>
+      <p begin="00:35:42,367" end="00:35:44,533">era una sensazione molto fisica.</p>
+      <p begin="00:35:44,600" end="00:35:47,933">Circa tre centimetri, tre e qualcosa sopra il mio cranio,</p>
+      <p begin="00:35:48,000" end="00:35:49,900">e quando arrivava in quel punto il viaggio psichedelico</p>
+      <p begin="00:35:49,967" end="00:35:53,467">iniziava.</p>
+      <p begin="00:35:53,533" end="00:35:55,333">Pensavo di essere morto.</p>
+      <p begin="00:35:55,400" end="00:36:02,167">Vidi queste nuvole bianche, di tipo rinascimentale, lanuginose</p>
+      <p begin="00:36:02,233" end="00:36:06,033">con gli dei e gli angeli e tutta quella roba, ecco ci&#242; che ho visto.</p>
+      <p begin="00:36:06,100" end="00:36:08,967">Pensavo di morire e andarmene ma dando un'occhiata veloce</p>
+      <p begin="00:36:09,033" end="00:36:11,967">a Cynthia e un'altra a Rick perch&#233; avevo gli occhi aperti</p>
+      <p begin="00:36:12,033" end="00:36:14,467">li vedevo che erano entrambi l&#236; che guardavano</p>
+      <p begin="00:36:14,533" end="00:36:15,567">rilassati.</p>
+      <p begin="00:36:15,633" end="00:36:18,333">E ho pensato "Wow buone notizie, il mio corpo &#232; a posto".</p>
+      <p begin="00:36:24,333" end="00:36:27,067">STONE: Allora..non sapevo se era la mia nascita che stavo</p>
+      <p begin="00:36:27,133" end="00:36:30,700">rivivendo, la mia morte che doveva ancora sopraggiungere perch&#233;</p>
+      <p begin="00:36:30,767" end="00:36:36,100">so che il tempo si sfalda, la linearit&#224; del tempo &#232; totalmente</p>
+      <p begin="00:36:36,167" end="00:36:40,700">insignificante in quegli stati, sei al cospetto della divinit&#224;,</p>
+      <p begin="00:36:40,767" end="00:36:45,267">il punto in cui il tempo si ripiega su di s&#233;.</p>
+      <p begin="00:36:45,333" end="00:36:48,900">PATRICIO: Strati su strati della mia umanit&#224; cominciarono a</p>
+      <p begin="00:36:48,967" end="00:36:50,900">essere rimossi.</p>
+      <p begin="00:36:50,967" end="00:36:56,467">Alla fine, l'ultima, no quasi l'ultima e non riesco neanche a</p>
+      <p begin="00:36:56,533" end="00:37:00,067">descrivere cosa fosse ma, insomma raggiunsi</p>
+      <p begin="00:37:00,133" end="00:37:06,200">in un certo senso l'ultimo strato che mi definiva</p>
+      <p begin="00:37:06,267" end="00:37:10,700">un essere umano, e senti tipo un "click".</p>
+      <p begin="00:37:10,767" end="00:37:13,333">Da quel momento non sei pi&#249; un essere umano;</p>
+      <p begin="00:37:13,400" end="00:37:17,800">infatti non sei identificabile pi&#249; in nulla.</p>
+      <p begin="00:37:17,867" end="00:37:22,133">SUSAN: Non c'era il concetto del tempo, era cos&#236; disorientante.</p>
+      <p begin="00:37:22,200" end="00:37:27,033">Ero terrorizzata, mai nella mia vita mi sono sentita cos&#236;</p>
+      <p begin="00:37:27,100" end="00:37:32,733">terrorizzata di essere scaraventata fuori dal mio corpo, di lasciare il mio corpo indietro,</p>
+      <p begin="00:37:32,800" end="00:37:38,267">di andare al rallentatore indietro nel mio DNA</p>
+      <p begin="00:37:38,333" end="00:37:42,800">e finire nell'universo.</p>
+      <p begin="00:37:45,133" end="00:37:47,467">DR. MUELI: Cos&#236; andai dritto in questa luce bianca,</p>
+      <p begin="00:37:47,533" end="00:37:52,233">e appena ci fui dentro persi ogni senso del mio essere differente,</p>
+      <p begin="00:37:52,300" end="00:37:57,633">ogni senso di ci&#242; che stavo facendo, del passato, ogni senso del futuro.</p>
+      <p begin="00:37:57,700" end="00:38:04,933">Era assolutamente estatico ed euforico e mi sono sentito come,</p>
+      <p begin="00:38:05,000" end="00:38:10,167">come se non fossi io, ero tutto, ero la luce stessa.</p>
+      <p begin="00:38:10,233" end="00:38:12,933">Non c'era senso di separazione, niente ombre,</p>
+      <p begin="00:38:13,000" end="00:38:18,200">niente differenze, niente passato, niente futuro.</p>
+      <p begin="00:38:18,267" end="00:38:22,600">Era tutto presente, tutto era di una luce gialla e bianca.</p>
+      <p begin="00:38:22,667" end="00:38:26,900">Poi mi sono sentito cadere da questa luce, e mentre ne uscivo</p>
+      <p begin="00:38:26,967" end="00:38:31,600">sentivo che questa luce era come un'incandescenza, come il sole con</p>
+      <p begin="00:38:31,667" end="00:38:35,900">le fiamme che uscivano e mi avvolgevano e potevo gi&#224;</p>
+      <p begin="00:38:35,967" end="00:38:38,300">avvertire questa tremenda separazione.</p>
+      <p begin="00:38:38,367" end="00:38:42,400">SUSAN: Raggiunto un certo stadio mi resi conto di essere nell'universo,</p>
+      <p begin="00:38:42,467" end="00:38:46,200">in questo enorme vuoto assieme a degli esseri che erano dall'altra parte</p>
+      <p begin="00:38:46,267" end="00:38:51,200">cos&#236; allungai le mani e un incredibile arcobaleno di luce rosa</p>
+      <p begin="00:38:51,267" end="00:38:56,333">si frappose tra me e queste entit&#224;, alch&#233; provai a</p>
+      <p begin="00:38:56,400" end="00:39:00,733">farlo diventare una luce bianca ma era una luce di un rosa</p>
+      <p begin="00:39:00,800" end="00:39:05,733">incredibile, quest'energia d'amore che noi, questa capacit&#224; d'amare che</p>
+      <p begin="00:39:05,800" end="00:39:12,400">noi umani abbiamo e che io cercavo di mandare loro.</p>
+      <p begin="00:39:15,600" end="00:39:19,133">PATRICIO: Questo viaggio simile a uno su un meteorite attraverso lo spazio infinito</p>
+      <p begin="00:39:19,200" end="00:39:23,933">della coscienza interiore &#232;.., si apre come se fosse una</p>
+      <p begin="00:39:24,000" end="00:39:28,133">porta ad incastro cos&#236; mi ritrovo a sfreecciare in questa specie di ventosa</p>
+      <p begin="00:39:28,200" end="00:39:32,367">come se niente fosse, &#232; come se ci volassi attraverso,</p>
+      <p begin="00:39:32,433" end="00:39:37,167">ma ora so che cosa sia la porta ad incastro.</p>
+      <p begin="00:39:37,233" end="00:39:41,567">La porta ad incastro &#232; il punto pi&#249; remoto</p>
+      <p begin="00:39:41,633" end="00:39:43,767">della tua umanit&#224;.</p>
+      <p begin="00:39:43,833" end="00:39:47,867">Questo &#232; il portale verso ci&#242; che ti definisce come</p>
+      <p begin="00:39:47,933" end="00:39:49,267">essere umano.</p>
+      <p begin="00:39:49,333" end="00:39:55,567">Quando lo superi smetti di essere umano in un certo qual senso, e</p>
+      <p begin="00:39:55,633" end="00:39:59,133">pi&#249; superi quello stadio e pi&#249; lontano vai dall'essere</p>
+      <p begin="00:39:59,200" end="00:40:02,100">un umano, perci&#242; questa porta a incastro</p>
+      <p begin="00:40:02,167" end="00:40:03,300">&#232; il tutto.</p>
+      <p begin="00:40:03,367" end="00:40:06,100">E' tutto, &#232; ci&#242; che ti rende un essere umano,</p>
+      <p begin="00:40:06,167" end="00:40:11,667">questo &#232; il tuo.., questa porta a incastro sei TU.</p>
+      <p begin="00:40:13,267" end="00:40:18,200">STONE: Questo &#232; il nucleo da cui tutta la realt&#224;</p>
+      <p begin="00:40:18,267" end="00:40:19,700">viene emanata.</p>
+      <p begin="00:40:19,767" end="00:40:21,300">Questo &#232; il nucleo da cui deriva ogni significato.</p>
+      <p begin="00:40:21,367" end="00:40:25,767">Da l&#236; uscivano simboli, simboli e lettere erano intrecciati</p>
+      <p begin="00:40:25,833" end="00:40:33,267">tra loro e in ogni linguaggio fuoriusciva da quel punto.</p>
+      <p begin="00:40:35,167" end="00:40:38,033">SUSAN: Guardavo nell'ambiente circostante mentre provavo ad</p>
+      <p begin="00:40:38,100" end="00:40:43,300">assorbire tutto per capire, ma c'erano tutte queste</p>
+      <p begin="00:40:43,367" end="00:40:50,133">macchine o strutture o cose che non avevo mai visto prima</p>
+      <p begin="00:40:50,200" end="00:40:53,433">e non avevo idea di cosa fossero e mi sentivo una primitiva</p>
+      <p begin="00:40:53,500" end="00:40:54,833">in un laboratorio di informatica.</p>
+      <p begin="00:40:54,900" end="00:40:57,833">Non ci capivo niente ma sapevo nella mia consapevolezza</p>
+      <p begin="00:40:57,900" end="00:41:04,800">intellettuale che quella era una civilt&#224; o una forma di vita, o qualsiasi cosa fosse,</p>
+      <p begin="00:41:04,867" end="00:41:09,600">molto avanzata, qualsiasi cosa fossero, erano molto pi&#249; avanzati rispetto a</p>
+      <p begin="00:41:09,667" end="00:41:13,100">ci&#242; che sappiamo qui sulla terra.</p>
+      <p begin="00:41:15,700" end="00:41:20,667">STONE: C'&#232; uno stato particolare, che io chiamo i cavallucci</p>
+      <p begin="00:41:20,733" end="00:41:27,567">in cui ci sono cavallucci che vibrano e si incastrano a reticolo</p>
+      <p begin="00:41:27,633" end="00:41:30,867">cos&#236; li vedo, questo &#232; ci&#242; che mi sembrano.</p>
+      <p begin="00:41:30,933" end="00:41:36,467">Si incastrano a formare una struttura visuale che sembra</p>
+      <p begin="00:41:36,533" end="00:41:41,067">infinita e all'improvviso sei all'interno, all'esterno</p>
+      <p begin="00:41:41,133" end="00:41:49,467">all'interno di ogni lato per cui diventa meno possibile usare,</p>
+      <p begin="00:41:49,533" end="00:41:52,267">sai, le parole cominciano a sfuggirti.</p>
+      <p begin="00:41:54,433" end="00:41:57,700">SPIROS: La trama dello spazio sembrava molto simile a una</p>
+      <p begin="00:41:57,767" end="00:41:59,767">mattonella Messicana animata.</p>
+      <p begin="00:41:59,833" end="00:42:04,200">Sembrava essere cromaticamente molto vivida dal punto di vista del Technicolor</p>
+      <p begin="00:42:04,267" end="00:42:07,167">ma anche molto argilloso e terrestre, sai come</p>
+      <p begin="00:42:07,233" end="00:42:09,967">di terracotta...</p>
+      <p begin="00:42:10,033" end="00:42:13,567">che punta verso la terra pur non essendo davvero di terra.</p>
+      <p begin="00:42:16,167" end="00:42:17,367">WEISIZ: Non c'era un "Io".</p>
+      <p begin="00:42:17,433" end="00:42:20,700">C'era solo questo senso di un essere testimoni sospesi in un</p>
+      <p begin="00:42:20,767" end="00:42:26,633">incredibile spazio a forma di volta come una cattedrale fatta di vetro</p>
+      <p begin="00:42:26,700" end="00:42:31,133">colorato di colori inimmaginabili, di un'incredibile brillantezza</p>
+      <p begin="00:42:31,200" end="00:42:35,333">e colorata saturazione, questi stupefacenti disegni in questo</p>
+      <p begin="00:42:35,400" end="00:42:37,133">duomo, questo gigantesco duomo.</p>
+      <p begin="00:42:37,200" end="00:42:44,733">Sembrava della grandezza di un piccolo pianeta e c'erano questi</p>
+      <p begin="00:42:44,800" end="00:42:47,033">esseri alati.</p>
+      <p begin="00:42:47,100" end="00:42:49,833">Non ricordo con esattezza le loro sembianze, ma erano come</p>
+      <p begin="00:42:49,900" end="00:42:54,433">angeli, simili agli angeli, che stavano volando</p>
+      <p begin="00:42:54,500" end="00:42:57,667">maestosamente in quello spazio: ma c'era qualcosa riguardo</p>
+      <p begin="00:42:57,733" end="00:42:59,933">alla qualit&#224; del loro volo che li rendeva unici.</p>
+      <p begin="00:43:00,000" end="00:43:02,033">Non avevo mai visto niente del genere.</p>
+      <p begin="00:43:02,100" end="00:43:05,733">Era come, non so...era come avere questo senso di essere in un altro</p>
+      <p begin="00:43:05,800" end="00:43:08,467">reame.</p>
+      <p begin="00:43:08,533" end="00:43:12,467">Il mio intuito era...a un certo punto c'era quest'implicita sensazione</p>
+      <p begin="00:43:12,533" end="00:43:17,167">che fosse il regno divino, "Questo &#232; il regno divino", e non era</p>
+      <p begin="00:43:17,233" end="00:43:20,867">un pensiero ma un'implicito</p>
+      <p begin="00:43:20,933" end="00:43:22,667">risoluto riconoscimento.</p>
+      <p begin="00:43:22,733" end="00:43:27,267">SUSAN: Era tutto molto molto impersonale, fino a quando arrivai nello</p>
+      <p begin="00:43:27,333" end="00:43:33,067">spazio e l&#236; realizzai che ero nel luogo in cui le anime</p>
+      <p begin="00:43:33,133" end="00:43:38,200">aspettano di rinascere, ed io ero l&#236; e sapevo di esserci stata cos&#236; tante volte</p>
+      <p begin="00:43:38,267" end="00:43:43,100">nel passato lo riconobbi, dopodich&#233; in me si fece strada</p>
+      <p begin="00:43:43,167" end="00:43:44,700">quest'incredibile pace trascendente.</p>
+      <p begin="00:43:44,767" end="00:43:49,067">Mai nella mia vita ho provato questo senso di pace.</p>
+      <p begin="00:43:49,133" end="00:43:52,600">Tutto era stato denudato, ogni speranza, ogni paura,</p>
+      <p begin="00:43:52,667" end="00:43:57,967">ogni attaccamento al mondo materiale era stato completamente</p>
+      <p begin="00:43:58,033" end="00:43:58,967">portato via da me.</p>
+      <p begin="00:43:59,033" end="00:44:05,467">Ero libera di essere l'essenza di un'anima.</p>
+      <p begin="00:44:07,467" end="00:44:12,533">WEISZ: Dopo che l'effetto del farmaco cominci&#242; a diminuire si pales&#242; questa familiare</p>
+      <p begin="00:44:12,600" end="00:44:15,300">sensazione di tornare indietro nel corpo.</p>
+      <p begin="00:44:15,367" end="00:44:18,133">Ricordo che quella era la parte di quasi tutte quelle</p>
+      <p begin="00:44:18,200" end="00:44:22,833">esperienze, come se ci si riunisse alla consapevolezza</p>
+      <p begin="00:44:22,900" end="00:44:26,633">sensoriale o come un senso di fisicit&#224; e di</p>
+      <p begin="00:44:26,700" end="00:44:28,533">essere pi&#249; sostanziali, dopodich&#233; ho detto, "Oh, eccomi</p>
+      <p begin="00:44:28,600" end="00:44:31,833">sono in un corpo e sto bene".</p>
+      <p begin="00:44:31,900" end="00:44:37,100">PATRICIO: A quel punto Laura rimuove le bende dagli occhi, e con gli</p>
+      <p begin="00:44:37,167" end="00:44:43,900">occhi ancora socchiusi, chiedo quanto tempo sono stato via perch&#233;</p>
+      <p begin="00:44:43,967" end="00:44:48,600">avevo bisogno di sapere, e Rick se ne viene con "Circa 15 minuti".</p>
+      <p begin="00:44:53,300" end="00:44:58,633">Per un momento rimasi scioccato, ero della serie..</p>
+      <p begin="00:44:58,700" end="00:45:03,467">cercavo di fare mente locale perch&#233; dovevo fare i conti con</p>
+      <p begin="00:45:03,533" end="00:45:09,467">la dissonanza cognitiva dell'esperienza.</p>
+      <p begin="00:45:09,533" end="00:45:13,467">Ero stato via 15 minuti.</p>
+      <p begin="00:45:13,533" end="00:45:21,100">Mille anni di esperienza in 15 minuti.</p>
+      <p begin="00:45:26,467" end="00:45:29,800">Beh, &#232; riduttivo dire che fu un'esperienza profonda.</p>
+      <p begin="00:45:29,867" end="00:45:32,233">Fu...fu profonda.</p>
+      <p begin="00:45:33,667" end="00:45:37,567">CYNTHIA: E' incredibile, &#232; incredibile cosa riesce a vivere</p>
+      <p begin="00:45:37,633" end="00:45:43,067">un essere umano in un letto d'ospedale!</p>
+      <p begin="00:45:43,133" end="00:45:46,200">Cio&#232; loro possono esplorare l'intero universo,</p>
+      <p begin="00:45:46,267" end="00:45:48,900">vita, morte, e tutto il resto.</p>
+      <p begin="00:45:48,967" end="00:45:53,267">STONE: Questa non &#232; una cosa ricreativa,</p>
+      <p begin="00:45:53,333" end="00:45:56,933">e credo che nessuno dovrebbe prenderla alla leggera.</p>
+      <p begin="00:45:57,000" end="00:45:59,333">Ti cambia la vita.</p>
+      <p begin="00:45:59,400" end="00:46:05,233">Probabilmente ti scuote abbastanza per realizzare che devi essere</p>
+      <p begin="00:46:05,300" end="00:46:09,233">consapevole del fatto che non sai nulla e che quello &#232; solo l'inizio</p>
+      <p begin="00:46:09,300" end="00:46:11,233">in cui cominci a capirci qualcosa.</p>
+      <p begin="00:46:11,300" end="00:46:17,433">SUSAN: Quello che vediamo qui &#232; una piccolissima parte di ci&#242; che &#232; reale.</p>
+      <p begin="00:46:17,500" end="00:46:21,333">Ero molto frustrata perch&#233; naturalmente non c'&#232; modo</p>
+      <p begin="00:46:21,400" end="00:46:32,033">di provare che dove ero andata era lo spazio profondo o che avevo incontrato</p>
+      <p begin="00:46:32,100" end="00:46:36,533">altre entit&#224;, altre forme di vita nell'universo.</p>
+      <p begin="00:46:36,600" end="00:46:38,967">A un certo punto forse la nostra civilt&#224; diverr&#224;</p>
+      <p begin="00:46:39,033" end="00:46:43,667">abbastanza avanzata e potremo liberarci di questi fardelli fatti di</p>
+      <p begin="00:46:43,733" end="00:46:47,567">pensieri impossibili, del fatto che si pensa che queste cose siano impossibili e capiremo</p>
+      <p begin="00:46:47,633" end="00:46:51,033">che tutto ci&#242; che esiste,</p>
+      <p begin="00:46:51,100" end="00:46:54,233">esiste nel momento in cui siamo in grado di vederlo.</p>
+      <p begin="00:46:54,300" end="00:46:58,833">DR. STRASSMAN: Ho completato gli studi nel '95,</p>
+      <p begin="00:46:58,900" end="00:47:01,367">avevo bisogno di una pausa di un paio di anni.</p>
+      <p begin="00:47:01,433" end="00:47:06,033">Ero consapevole del crescente senso di disagio per ci&#242; che</p>
+      <p begin="00:47:06,100" end="00:47:09,800">stavo facendo in quanto incapace di spiegarlo.</p>
+      <p begin="00:47:09,867" end="00:47:13,967">Mi preoccupavo di fornire un modello e una spiegazione di ci&#242;</p>
+      <p begin="00:47:14,033" end="00:47:20,000">che stava succedendo e di ci&#242; che facevo, e dato che portavo queste persone</p>
+      <p begin="00:47:20,067" end="00:47:25,267">al limite mi sembrava anche doveroso in un certo senso,</p>
+      <p begin="00:47:25,333" end="00:47:28,600">mi sentivo anche un po' irresponsabile</p>
+      <p begin="00:47:28,667" end="00:47:31,600">a spingere le persone gi&#249; da un precipizio come quello senza sapere realmente</p>
+      <p begin="00:47:31,667" end="00:47:34,500">cos'era e allo stesso tempo accettare, comprendere</p>
+      <p begin="00:47:34,567" end="00:47:39,900">e sentirmi a mio agio con quel modello.</p>
+      <p begin="00:47:39,967" end="00:47:44,333">Penso che ci&#242; che cominci&#242; a palesarsi dopo che mi ero fermato da un po'</p>
+      <p begin="00:47:44,400" end="00:47:46,333">con gli studi era che mi trovavo davvero al cospetto di</p>
+      <p begin="00:47:46,400" end="00:47:48,600">fenomeni spirituali.</p>
+      <p begin="00:47:48,667" end="00:47:51,633">ROGAN: Cosa ci suggeriscono queste esperienze sulla natura della realt&#224;,</p>
+      <p begin="00:47:51,700" end="00:47:55,100">sulla natura della mente o di quella particolare abilit&#224; del nostro cervello di</p>
+      <p begin="00:47:55,167" end="00:47:59,833">passare velocemente a queste realt&#224; alternative?</p>
+      <p begin="00:47:59,900" end="00:48:02,700">Facciamo un passo indietro e consideriamo come queste esperienze</p>
+      <p begin="00:48:02,767" end="00:48:06,033">ci educhino su noi stessi, sulla nostra coscienza</p>
+      <p begin="00:48:06,100" end="00:48:08,367">e sulla simbiosi di queste medesime.</p>
+      <p begin="00:48:09,067" end="00:48:11,000">DR. STRASSMAN: Cominci&#242; a sembrarmi che ci&#242; che</p>
+      <p begin="00:48:11,067" end="00:48:17,767">stava accadendo con la DMT, in particolare in relazione ad alcuni di questi</p>
+      <p begin="00:48:17,833" end="00:48:22,467">resoconti di individui che entravano realt&#224; parallele o alternative o indipendenti</p>
+      <p begin="00:48:22,533" end="00:48:25,267">reami paralleli di esistenza,</p>
+      <p begin="00:48:25,333" end="00:48:29,500">che era proprio ci&#242; che la loro coscienza stava facendo.</p>
+      <p begin="00:48:31,533" end="00:48:33,867">La chimica del cervello, che &#232; l'organo della</p>
+      <p begin="00:48:33,933" end="00:48:37,967">coscienza, veniva modificata dalla DMT in maniera tale che erano</p>
+      <p begin="00:48:38,033" end="00:48:41,067">in grado di ricevere informazioni che non siamo in grado</p>
+      <p begin="00:48:41,133" end="00:48:43,367">di ricevere normalmente.</p>
+      <p begin="00:48:43,433" end="00:48:46,067">JOEL BAKST: Si ci sono esperienze con la DMT</p>
+      <p begin="00:48:46,133" end="00:48:49,867">e con l'Ayahuasca e entrambe hanno la loro funzione,</p>
+      <p begin="00:48:49,933" end="00:48:54,800">ma a condizione che consideriamo che cosa ci permettono di vedere.</p>
+      <p begin="00:48:54,867" end="00:48:58,867">DR. MCKENNA: Si strappa via il meccanismo di filtraggio per</p>
+      <p begin="00:48:58,933" end="00:49:02,800">qualche minuto e in quel lasso di tempo vieni immerso in</p>
+      <p begin="00:49:02,867" end="00:49:10,300">questa specie di sfera di dati grezzi, di input sensoriali,</p>
+      <p begin="00:49:10,367" end="00:49:12,700">di ricordi e associazioni.</p>
+      <p begin="00:49:12,767" end="00:49:16,900">Sembra che il cervello crei la realt&#224; proprio da queste cose;</p>
+      <p begin="00:49:16,967" end="00:49:20,700">quello che stai vivendo, quello che hai vissuto e il modo in cui</p>
+      <p begin="00:49:20,767" end="00:49:26,200">associ e sintetizzi insieme queste cose per raccontarti</p>
+      <p begin="00:49:26,267" end="00:49:29,733">essenzialmente una storia su ci&#242; che sta succedendo, su dove sei</p>
+      <p begin="00:49:29,800" end="00:49:31,700">nello spazio e nel tempo.</p>
+      <p begin="00:49:37,267" end="00:49:39,033">DR. NEWBERG: E' il cervello che ci aiuta a elaborare tutta</p>
+      <p begin="00:49:39,100" end="00:49:41,800">l'informazione creando per noi una rappresentazione di cosa sia</p>
+      <p begin="00:49:41,867" end="00:49:44,133">il nostro mondo, ma al contempo siamo intrappolati nel nostro cervello.</p>
+      <p begin="00:49:44,200" end="00:49:47,033">Tuttavia nelle esperienze spirituali in cui le persone sentono</p>
+      <p begin="00:49:47,100" end="00:49:50,133">di andare oltre s&#233; stesse e certi tipi di esperienze</p>
+      <p begin="00:49:50,200" end="00:49:53,300">psichedeliche nelle quali si vivono incredibili fenomeni sensoriali</p>
+      <p begin="00:49:53,367" end="00:49:56,533">e di altro tipo, le persone hanno davvero la percezione di</p>
+      <p begin="00:49:56,600" end="00:49:58,633">uscire dal proprio cervello.</p>
+      <p begin="00:49:58,700" end="00:50:02,400">Dobbiamo fare attenzione a cosa accade dentro loro</p>
+      <p begin="00:50:02,467" end="00:50:04,933">quando hanno questo genere di esperienza per provare a capire il funzionamento</p>
+      <p begin="00:50:05,000" end="00:50:07,733">fisiologico e trarne un senso</p>
+      <p begin="00:50:07,800" end="00:50:09,767">in base alla prospettiva soggettiva cos&#236; come</p>
+      <p begin="00:50:09,833" end="00:50:11,033">a quella oggettiva.</p>
+      <p begin="00:50:11,100" end="00:50:13,467">Non penso si possa semplicemente spiegare</p>
+      <p begin="00:50:13,533" end="00:50:15,367">in base alle nostre conoscenze scientifiche.</p>
+      <p begin="00:50:15,433" end="00:50:17,233">DR. STRASSMAN:All'inizio quando sentivo</p>
+      <p begin="00:50:17,300" end="00:50:21,033">di questi resoconti li interpretavo come aberrazioni</p>
+      <p begin="00:50:21,100" end="00:50:25,967">cerebrali o psicologiche o comunque in un modo simile, ero dell'idea che ci fosse</p>
+      <p begin="00:50:26,033" end="00:50:29,433">una parte del cervello designata...che fosse responsabile</p>
+      <p begin="00:50:29,500" end="00:50:33,600">della comparsa del fenomeno alieno.</p>
+      <p begin="00:50:34,600" end="00:50:38,467">DR. BARKER: Questo non &#232; un fenomeno nuovo: negli stati</p>
+      <p begin="00:50:38,533" end="00:50:43,100">alterati queste entit&#224; sono state riscontrate per molto tempo</p>
+      <p begin="00:50:43,167" end="00:50:45,367">in tante culture durante i millenni.</p>
+      <p begin="00:50:45,433" end="00:50:50,067">Aiutanti, spiriti, assistenti, angeli, queste differenti</p>
+      <p begin="00:50:50,133" end="00:50:54,067">entit&#224; sono molto comuni nell'esperienza umana degli</p>
+      <p begin="00:50:54,133" end="00:50:59,467">stati alterati cos&#236; come nella mitologia stessa.</p>
+      <p begin="00:51:02,367" end="00:51:04,667">DR. NICHOLS: Non penso sia fuori dal campo delle</p>
+      <p begin="00:51:04,733" end="00:51:06,700">possibilit&#224; che la gente in qualche modo interagisse con qualche</p>
+      <p begin="00:51:06,767" end="00:51:09,400">qualche forma di intelligenza o con esseri senzienti o con qualcosa che</p>
+      <p begin="00:51:09,467" end="00:51:12,700">esiste ad un livello che non appartiene a questo piano</p>
+      <p begin="00:51:12,767" end="00:51:14,000">tridimensionale fisico.</p>
+      <p begin="00:51:14,067" end="00:51:15,933">RUSHKOFF: Io la vedo dalla prospettiva di..</p>
+      <p begin="00:51:16,000" end="00:51:19,433">"Ok, ti sta curando la droga?"</p>
+      <p begin="00:51:19,500" end="00:51:25,700">"Ti sta aiutando, ti sta fornendo gli strumenti?"</p>
+      <p begin="00:51:25,767" end="00:51:28,833">"Cosa stai guadagnando dall'esperienza?"</p>
+      <p begin="00:51:28,900" end="00:51:32,333">Ci&#242; che ottieni penso debba essere qualcosa pi&#249; di:</p>
+      <p begin="00:51:32,400" end="00:51:35,933">"Ci sono entit&#224; l&#236; fuori".</p>
+      <p begin="00:51:36,000" end="00:51:42,800">I migliori esploratori psichedelici sono coloro che capiscono che anche</p>
+      <p begin="00:51:42,867" end="00:51:48,133">le verit&#224; che vedono in una esperienza non sono verit&#224;,</p>
+      <p begin="00:51:48,200" end="00:51:52,667">ma nuovi modelli, nuovi "cosa sarebbe se", punti di riferimento alternativi.</p>
+      <p begin="00:51:52,733" end="00:52:00,233">BAKST: Fino a quando non vi sar&#224; una mappa e una chiara metodologia,</p>
+      <p begin="00:52:00,300" end="00:52:05,067">un individuo avr&#224; semplicemente una serie di esperienze differenti.</p>
+      <p begin="00:52:05,133" end="00:52:08,767">Questo ventaglio di esperienze, come</p>
+      <p begin="00:52:08,833" end="00:52:12,633">le esperienze NDE, cio&#232; di pre-morte, di adduzioni aliene,</p>
+      <p begin="00:52:12,700" end="00:52:18,267">di incontri alieni, di estasi sessuale, credo siano</p>
+      <p begin="00:52:18,333" end="00:52:25,467">tutte esperienze di tipo frattale.</p>
+      <p begin="00:52:25,533" end="00:52:29,700">Se comprendiamo il concetto di geometria frattale, non importa quanto</p>
+      <p begin="00:52:29,767" end="00:52:36,000">piccolo sia, contiene tutto ci&#242; che c'&#232; nel frattale</p>
+      <p begin="00:52:36,067" end="00:52:41,400">pi&#249; grande e perci&#242; rende profondamente valide tutte queste</p>
+      <p begin="00:52:41,467" end="00:52:43,900">diverse esperienze.</p>
+      <p begin="00:52:43,967" end="00:52:47,767">DR. STRASSMAN: Per screditare il fenomeno come una mera allucinazione</p>
+      <p begin="00:52:47,833" end="00:52:50,800">o immaginazione, penso sia pi&#249; utile osservare il</p>
+      <p begin="00:52:50,867" end="00:52:52,000">meccanismo d'azione.</p>
+      <p begin="00:52:52,067" end="00:52:55,500">Se &#232; reale allora come funziona?</p>
+      <p begin="00:52:55,567" end="00:52:59,100">DAVIS: Ci sono fenomeni straordinariamente regolari</p>
+      <p begin="00:52:59,167" end="00:53:02,000">che accompagnano queste esperienze e che sono chiaramente</p>
+      <p begin="00:53:02,067" end="00:53:06,400">connesse in vari modi alle questioni umane pi&#249; grandi nell'ambito del</p>
+      <p begin="00:53:06,467" end="00:53:09,300">misticismo, dell'esperienza religiosa o dell'incontro con</p>
+      <p begin="00:53:09,367" end="00:53:14,900">altre entit&#224;, ed eccole qui, e se non si va l&#236;</p>
+      <p begin="00:53:14,967" end="00:53:18,300">e si considera questo materiale all'interno del</p>
+      <p begin="00:53:18,367" end="00:53:22,800">contesto neuroscientifico si lascia un'enorme lacuna.</p>
+      <p begin="00:53:22,867" end="00:53:24,533">Bisogna considerare questo materiale nel modo in cui</p>
+      <p begin="00:53:24,600" end="00:53:27,133">si considerano i sogni e nel modo in cui si tiene in considerazione</p>
+      <p begin="00:53:27,200" end="00:53:30,167">ogni tipo di risposta psicoattiva.</p>
+      <p begin="00:53:31,567" end="00:53:34,133">DR. STRASSMAN: E' utile considerare la DMT come una sorta di modello</p>
+      <p begin="00:53:34,200" end="00:53:37,667">di mediazione tra la nostra coscienza e</p>
+      <p begin="00:53:37,733" end="00:53:43,000">la coscienza delle realt&#224; incorporee.</p>
+      <p begin="00:53:43,933" end="00:53:47,867">DR. ABRAHAM: Con la DMT non ci sono parole adeguate, proverei piuttosto, in un secondo momento,</p>
+      <p begin="00:53:47,933" end="00:53:52,767">a racchiudere l'esperienza in un vocabolario matematico.</p>
+      <p begin="00:53:52,833" end="00:53:59,233">Mi sono specializzato nella metafora della vibrazione e di come le vibrazioni</p>
+      <p begin="00:53:59,300" end="00:54:04,367">nei liquidi creano forme nei liquidi, questa sarebbe la relazione</p>
+      <p begin="00:54:04,433" end="00:54:06,367">chiave tra il regno spirituale</p>
+      <p begin="00:54:06,433" end="00:54:07,567">e quello ordinario.</p>
+      <p begin="00:54:07,633" end="00:54:12,633">Questa &#232; il mondo che venne aperto con la DMT.</p>
+      <p begin="00:54:13,967" end="00:54:15,700">DR. NEWBERG: L'uso delle droghe psichedeliche o di altri tipi</p>
+      <p begin="00:54:15,767" end="00:54:19,067">di sostanze farmacologiche pu&#242; aiutare a entrare in uno stato in cui</p>
+      <p begin="00:54:19,133" end="00:54:22,000">le persone sentono di raggiungere un pi&#249; profondo senso della realt&#224;,</p>
+      <p begin="00:54:22,067" end="00:54:25,300">un livello pi&#249; intimo della realt&#224;, nel quale</p>
+      <p begin="00:54:25,367" end="00:54:28,167">ottengono una grande quantit&#224; di comprensione e conoscenza dei modi in cui</p>
+      <p begin="00:54:28,233" end="00:54:31,000">funziona il mondo e di come, in qualit&#224; di esseri umani, ci</p>
+      <p begin="00:54:31,067" end="00:54:32,800">relazioniamo al mondo.</p>
+      <p begin="00:54:32,867" end="00:54:37,567">DR. ABRAHAM: La DMT mi sembra, per come l'ho vissuta io,</p>
+      <p begin="00:54:37,633" end="00:54:44,000">un passo avanti in pi&#249; rispetto all'LSD, i funghi, il Peyote e cos&#236; via.</p>
+      <p begin="00:54:44,067" end="00:54:49,033">E' istruttivo, pi&#249; favorevole all'evoluzione futura</p>
+      <p begin="00:54:49,100" end="00:54:52,833">e alla creazione di un futuro ed &#233; di per s&#233; un</p>
+      <p begin="00:54:52,900" end="00:54:55,733">mistero pi&#249; grande.</p>
+      <p begin="00:54:55,800" end="00:55:01,133">Come pu&#242; questa piccola molecola produrre qualcosa che possiede</p>
+      <p begin="00:55:01,200" end="00:55:03,100">un'intelligenza?</p>
+      <p begin="00:55:03,167" end="00:55:07,100">E' a tutti gli effetti un portale verso un'altra realt&#224;.</p>
+      <p begin="00:55:09,800" end="00:55:11,600">DR. NEWBERG: Quindi, qual'&#232; la natura della realt&#224; e</p>
+      <p begin="00:55:11,667" end="00:55:14,333">di che natura &#232; il nostro modo di viverla come esseri umani?</p>
+      <p begin="00:55:14,400" end="00:55:17,033">Possiamo comprenderla meglio?</p>
+      <p begin="00:55:17,100" end="00:55:20,533">Siamo capaci di comprendere la realt&#224; ad un livello</p>
+      <p begin="00:55:20,600" end="00:55:25,267">pi&#249; profondo e cosa dovremmo fare per essere preparati per tutto questo?</p>
+      <p begin="00:55:25,333" end="00:55:27,433">DR. STRASSMAN: Sembrerebbe proprio che ci siano universi paralleli;</p>
+      <p begin="00:55:27,500" end="00:55:29,633">o quantomeno questa &#232; una teoria nella fisica contemporanea.</p>
+      <p begin="00:55:29,700" end="00:55:33,467">Vi &#232; la materia oscura, che rappresenta gran parte</p>
+      <p begin="00:55:33,533" end="00:55:37,167">della materia presente nell'universo, forse il 95% o anche pi&#249;.</p>
+      <p begin="00:55:37,233" end="00:55:41,033">Per quanto sia un' idea radicale, in qualche modo &#232; una conseguenza logica</p>
+      <p begin="00:55:41,100" end="00:55:44,667">quella di usare il cervello, invece di una macchina, per vedere</p>
+      <p begin="00:55:44,733" end="00:55:47,267">pi&#249; di ci&#242; che normalmente vediamo con il cervello.</p>
+      <p begin="00:55:47,333" end="00:55:52,233">DR. ABRAHAM: Ci sono campi rimasti inesplorati,</p>
+      <p begin="00:55:52,300" end="00:55:55,733">che non hanno nulla a che vedere con ci&#242; che &#232; stato scoperto</p>
+      <p begin="00:55:55,800" end="00:55:57,767">fin ora.</p>
+      <p begin="00:55:57,833" end="00:56:02,400">Il campo gravitazionale era sconosciuto prima dell 1604...</p>
+      <p begin="00:56:05,033" end="00:56:08,900">il campo elettromagnetico era sconosciuto fino al 1830</p>
+      <p begin="00:56:08,967" end="00:56:13,300">o gi&#249; di l&#236;, tutti questi cosiddetti campi fondamentali di</p>
+      <p begin="00:56:13,367" end="00:56:17,600">fisica matematica sono scoperte recenti.</p>
+      <p begin="00:56:17,667" end="00:56:21,500">L'energia oscura &#232; una scoperta ancora pi&#249; recente e pi&#249; in l&#224; ci saranno</p>
+      <p begin="00:56:21,567" end="00:56:28,000">probabilmente altre scoperte che andranno oltre il cosmo stesso,</p>
+      <p begin="00:56:28,067" end="00:56:30,800">come ad esempio le dimensioni superiori.</p>
+      <p begin="00:56:30,867" end="00:56:32,400">LEANNA SLANDISH: Ancora adesso non riesco ad avere un</p>
+      <p begin="00:56:32,467" end="00:56:37,533">concetto di Dio, ma credo che ci siano livelli superiori,</p>
+      <p begin="00:56:37,600" end="00:56:41,333">livelli trascendenti di realt&#224; e solo ora sto cominciando a</p>
+      <p begin="00:56:41,400" end="00:56:47,033">credere che il cervello non &#232; la fonte della coscienza,</p>
+      <p begin="00:56:47,100" end="00:56:50,933">non &#232; ci&#242; che siamo ma sia pi&#249; simile ad un sintonizzatore radio</p>
+      <p begin="00:56:51,000" end="00:56:54,267">per qualcosa di decisamente pi&#249; grande.</p>
+      <p begin="00:56:56,000" end="00:56:57,333">DR. NEWBERG: Queste esperienze sono spirituali</p>
+      <p begin="00:56:57,400" end="00:57:00,833">o invece sono solo generate da processi</p>
+      <p begin="00:57:00,900" end="00:57:04,700">fisiologici o ancora &#232; il cervello stesso che risponde a qualcosa che</p>
+      <p begin="00:57:04,767" end="00:57:07,733">accade e che il fatto che qualcuno possa trovare il modo</p>
+      <p begin="00:57:07,800" end="00:57:11,567">di trasformare l'attivit&#224; cerebrale in esperienze spirituali,</p>
+      <p begin="00:57:11,633" end="00:57:14,533">non che questo diminuisca necessariamente</p>
+      <p begin="00:57:14,600" end="00:57:19,633">la realt&#224; o la concretezza di ci&#242; che queste esperienze sono davvero.</p>
+      <p begin="00:57:19,700" end="00:57:22,767">Se la farmacologia o la psicofarmacologia delle</p>
+      <p begin="00:57:22,833" end="00:57:26,433">esperienze psichedeliche si rivelassero essere essenzialmente comparabili</p>
+      <p begin="00:57:26,500" end="00:57:29,467">alle esperienze religiose o spirituali, ci&#242; ci aiuterebbe</p>
+      <p begin="00:57:29,533" end="00:57:33,167">a capire in che zona del cervello</p>
+      <p begin="00:57:33,233" end="00:57:34,933">si verificano nel cervello.</p>
+      <p begin="00:57:35,000" end="00:57:38,133">DR. GRIFFITHS: Sono abbastanza convinto che</p>
+      <p begin="00:57:38,200" end="00:57:42,167">stiamo sondando le basi biologiche della morale</p>
+      <p begin="00:57:42,233" end="00:57:43,867">e del comportamento etico.</p>
+      <p begin="00:57:43,933" end="00:57:49,000">Penso che queste fondamentali esperienze religiose siano</p>
+      <p begin="00:57:49,067" end="00:57:53,767">i basamenti delle religioni mondiali.</p>
+      <p begin="00:57:54,667" end="00:57:58,100">BAKST: La ricerca, la conoscenza e la speculazione sulla</p>
+      <p begin="00:57:58,167" end="00:58:07,467">ghiandola pineale e sulla DMT rappresenta in effetti la mano di Dio</p>
+      <p begin="00:58:07,533" end="00:58:14,500">che interagisce con la nostra evoluzione naturale per stimolare</p>
+      <p begin="00:58:14,567" end="00:58:20,367">e accelerare il processo di redenzione individuale e</p>
+      <p begin="00:58:20,433" end="00:58:24,433">di illuminazione globale.</p>
+      <p begin="00:58:24,500" end="00:58:26,400">DR. SLANDISH: Per merito della mia esperienza con l'Ayahuasca,</p>
+      <p begin="00:58:26,467" end="00:58:30,233">mi considero una persona spirituale.</p>
+      <p begin="00:58:30,300" end="00:58:33,800">Conosco cose che non avrei mai conosciuto altrimenti.</p>
+      <p begin="00:58:36,700" end="00:58:40,133">DR. ABRAHAM: Queste esperienze sono cos&#236; simili per un sacco</p>
+      <p begin="00:58:40,200" end="00:58:43,800">di gente differente, sono cos&#236; facilmente acquisite e le</p>
+      <p begin="00:58:43,867" end="00:58:48,333">informazioni arrivano con cos&#236; poco sforzo che &#232; una specie di</p>
+      <p begin="00:58:48,400" end="00:58:52,733">miracolo, &#232; un modo miracoloso di trascendere la realt&#224;</p>
+      <p begin="00:58:52,800" end="00:58:56,633">ordinaria per ottenere un suggerimento di cosa sia</p>
+      <p begin="00:58:56,700" end="00:58:59,667">necessario per sopravvivere.</p>
+      <p begin="00:58:59,733" end="00:59:02,367">ROGAN: Partendo da nuove forme di trattamento medico per arrivare a una migliore</p>
+      <p begin="00:59:02,433" end="00:59:05,567">comprensione dell'universo, fino a rivelazioni spirituali</p>
+      <p begin="00:59:05,633" end="00:59:08,967">che cambiano la vita, questi strumenti naturali ci permettono</p>
+      <p begin="00:59:09,033" end="00:59:10,867">di cercare una consapevolezza maggiore.</p>
+      <p begin="00:59:10,933" end="00:59:14,367">Strumenti che potrebbero influenzare positivamente la vita sul nostro pianeta.</p>
+      <p begin="00:59:14,433" end="00:59:19,300">Cerchiamo di rispondere alla domanda del Dr. Strassman: "Se cos&#236; fosse, cosa ce ne facciamo?"</p>
+      <p begin="00:59:20,233" end="00:59:24,367">BASKT: A causa del collasso della coscienza,</p>
+      <p begin="00:59:24,433" end="00:59:28,567">la conoscenza scientifica e quella spirituale si sono divise.</p>
+      <p begin="00:59:28,633" end="00:59:32,067">Entrambi questi approcci devono tornare assieme, in altre parole</p>
+      <p begin="00:59:32,133" end="00:59:34,700">unire scienza e tecnologia con una prospettiva religiosa</p>
+      <p begin="00:59:34,767" end="00:59:37,000">tradizionale non &#232; un extra.</p>
+      <p begin="00:59:37,067" end="00:59:43,200">E' parte del processo di evoluzione dell'umanit&#224;</p>
+      <p begin="00:59:43,267" end="00:59:46,700">al prossimo stadio.</p>
+      <p begin="00:59:46,767" end="00:59:50,600">Come troviamo la disposizione giusta per gli psichedelici</p>
+      <p begin="00:59:50,667" end="00:59:51,800">nel futuro?</p>
+      <p begin="00:59:51,867" end="00:59:54,100">Assumendo che gli psichedelici saranno parte del futuro umano,</p>
+      <p begin="00:59:54,167" end="00:59:57,500">al momento sono ancora generalmente repressi,</p>
+      <p begin="00:59:57,567" end="00:59:59,267">soppressi e illegali.</p>
+      <p begin="00:59:59,333" end="01:00:02,300">Se ci&#242; dovesse cambiare, come faremmo a costruire</p>
+      <p begin="01:00:02,367" end="01:00:09,700">un tipo di sistema che consenta un'esplorazione razionale</p>
+      <p begin="01:00:09,767" end="01:00:11,400">e matura degli psichedelici?</p>
+      <p begin="01:00:11,467" end="01:00:18,133">NARBY: Penso che l'intera questione riguardi il mostrare alla scienza</p>
+      <p begin="01:00:18,200" end="01:00:23,033">la pertinenza di questi insoliti reami, e anche che non &#232;</p>
+      <p begin="01:00:23,100" end="01:00:26,833">solo roba da pazzi, da non prendere in considerazione,</p>
+      <p begin="01:00:26,900" end="01:00:30,300">o non degna nemmeno di interesse o illegittima.</p>
+      <p begin="01:00:30,367" end="01:00:34,333">In realt&#224; proprio il fatto che sia oltre i limiti</p>
+      <p begin="01:00:34,400" end="01:00:37,900">rende la faccenda interessante a priori, ma non &#232; nostra intenzione disfarci</p>
+      <p begin="01:00:37,967" end="01:00:40,300">dell'inessenziale buttando via anche l'essenziale, quindi penso che</p>
+      <p begin="01:00:40,367" end="01:00:44,400">sia molto importante avere fiducia nella scienza.</p>
+      <p begin="01:00:47,800" end="01:00:49,033">DR; MCKENNA: Cosa significa tutto questo?</p>
+      <p begin="01:00:49,100" end="01:00:54,833">Perch&#233; c'&#232; una parte del cervello che sembra essere,</p>
+      <p begin="01:00:54,900" end="01:00:58,933">come dire, un rivelatore divino?</p>
+      <p begin="01:00:59,000" end="01:01:03,333">Qual'&#232; il vantaggio evolutivo di avere una parte</p>
+      <p begin="01:01:03,400" end="01:01:09,467">del cervello che sembra stimolare e mediare esperienze</p>
+      <p begin="01:01:09,533" end="01:01:11,633">di tipo trascendentale?</p>
+      <p begin="01:01:11,700" end="01:01:15,433">BAKST: La cabala ci dice che il corpo pineale</p>
+      <p begin="01:01:15,500" end="01:01:20,567">&#232; in realt&#224; il punto da cui le dimensioni superiori</p>
+      <p begin="01:01:20,633" end="01:01:25,600">penetrano la nostra dimensione inferiore, ed &#232; situata</p>
+      <p begin="01:01:25,667" end="01:01:30,100">esattamente al centro del cervello.</p>
+      <p begin="01:01:30,167" end="01:01:33,000">DR. SLANDISH: Mi ricordo di ci&#242; che scriveva Cartesio quando accennava al fatto</p>
+      <p begin="01:01:33,067" end="01:01:37,567">che era l'interfaccia tra la dimensione</p>
+      <p begin="01:01:37,633" end="01:01:43,567">spirituale e la dimensione materiale, e ricordo di averla considerata</p>
+      <p begin="01:01:43,633" end="01:01:48,900">un'idea sciocca della nostra storia e adesso invece mi sembra</p>
+      <p begin="01:01:48,967" end="01:01:52,500">un'idea alquanto interessante.</p>
+      <p begin="01:01:52,567" end="01:01:58,100">BAKST: Ci&#242; che cerchiamo l&#224; fuori in realt&#224; &#232; qui.</p>
+      <p begin="01:01:58,167" end="01:02:02,100">E' la via d'accesso, &#232; il portale.</p>
+      <p begin="01:02:02,167" end="01:02:04,633">DR. GOLDSMITH: Quindi, noi ci concentriamo sull'effetto trasformativo degli</p>
+      <p begin="01:02:04,700" end="01:02:07,733">psichedelici, ma &#232; anche vero il contrario e cio&#232; che</p>
+      <p begin="01:02:07,800" end="01:02:12,033">&#232; necessario trasformarsi per contemplare le esperienze psichedeliche.</p>
+      <p begin="01:02:12,100" end="01:02:16,033">E' uno dei paradossi pi&#249; ingannevoli del postmodernismo che</p>
+      <p begin="01:02:16,100" end="01:02:20,800">gli psichedelici richiedono e producono un effetto trasformativo.</p>
+      <p begin="01:02:20,867" end="01:02:23,700">HANCOK: Abbiamo troncato la nostra connessione con lo spirito,</p>
+      <p begin="01:02:23,767" end="01:02:25,633">questo &#232; ci&#242; che ha fatto la nostra societ&#224;.</p>
+      <p begin="01:02:25,700" end="01:02:28,233">Ha tentato di convincerci che il mondo materiale sia</p>
+      <p begin="01:02:28,300" end="01:02:32,567">l'unico esistente, e l'unico modo che abbiamo per rifarci &#232;</p>
+      <p begin="01:02:32,633" end="01:02:36,833">di riconnetterci con lo spirito e credo fermamente che abbiamo bisogno</p>
+      <p begin="01:02:36,900" end="01:02:39,933">dell'aiuto delle piante per fare ci&#242;.</p>
+      <p begin="01:02:42,733" end="01:02:46,967">KAT: Parte del nostro lavoro riguarda rispettare questi farmaci e</p>
+      <p begin="01:02:47,033" end="01:02:51,867">cambiare la cultura a tal punto che le persone che ne fanno uso</p>
+      <p begin="01:02:51,933" end="01:02:57,167">vengano rispettate e ben reputate, non tutti hanno bisogno di farne uso</p>
+      <p begin="01:02:57,233" end="01:03:01,767">non tutti dovrebbero o vogliono farne uso, ma non ci si pu&#242; limitare a</p>
+      <p begin="01:03:01,833" end="01:03:06,967">vederla cos&#236;, perci&#242; bisogna coinvolgere la ricerca in quanto</p>
+      <p begin="01:03:07,033" end="01:03:12,067">&#232; l'unico mezzo col quale la nostra societ&#224; riduzionista &#232; in grado di dare validit&#224; alle cose.</p>
+      <p begin="01:03:12,133" end="01:03:14,600">DR. GROB: Col passare degli anni e con l'opportunit&#224;</p>
+      <p begin="01:03:14,667" end="01:03:17,067">di una riflessione pi&#249; sottile, penso ci sia un crescente</p>
+      <p begin="01:03:17,133" end="01:03:22,567">apprezzamento, e che ci sia da guadagnare dallo studio</p>
+      <p begin="01:03:22,633" end="01:03:26,500">di questi composti, e che ci sia molto che possiamo imparare e che</p>
+      <p begin="01:03:26,567" end="01:03:31,567">potrebbero esserci modelli di trattamento in particolare per i</p>
+      <p begin="01:03:31,633" end="01:03:35,300">pazienti che non riscontrano benefici con i trattamenti</p>
+      <p begin="01:03:35,367" end="01:03:38,600">tradizionali, e che invece potrebbero trovare grande giovamento nel modello psichedelico</p>
+      <p begin="01:03:38,667" end="01:03:42,800">se utilizzato in modo ottimale.</p>
+      <p begin="01:03:42,867" end="01:03:44,533">DR. SLANDISH: Penso che la cosa pi&#249; importante e diretta</p>
+      <p begin="01:03:44,600" end="01:03:49,533">che possiamo fare adesso sia di</p>
+      <p begin="01:03:49,600" end="01:03:53,300">chiederci e risponderci riguardo a se l'Ayahuasca potrebbe</p>
+      <p begin="01:03:53,367" end="01:03:56,533">aiutare le persone che abusano di droga e alcool.</p>
+      <p begin="01:03:56,600" end="01:04:03,733">Detto questo sappiamo che la DMT e alcaloidi simili hanno un</p>
+      <p begin="01:04:03,800" end="01:04:06,500">significativo effetto sugli stessi recettori che sono</p>
+      <p begin="01:04:06,567" end="01:04:11,933">coinvolti nella depressione, e molti di coloro che usano</p>
+      <p begin="01:04:12,000" end="01:04:16,633">droga e alcool, a mio avviso, tentano di auto curarsi proprio da</p>
+      <p begin="01:04:16,700" end="01:04:20,067">una profonda depressione o dall'ansia.</p>
+      <p begin="01:04:20,133" end="01:04:23,367">DR. GROB: Ho avuto il permesso, negli ultimi anni,</p>
+      <p begin="01:04:23,433" end="01:04:26,367">di utilizzare psilocibina, che &#232; l'alcaloide attivo nei</p>
+      <p begin="01:04:26,433" end="01:04:30,433">funghi allucinogeni, nel trattamento di pazienti</p>
+      <p begin="01:04:30,500" end="01:04:33,533">con il cancro ad uno stadio avanzato che soffrono d'ansia: noi trattiamo</p>
+      <p begin="01:04:33,600" end="01:04:35,667">l'ansia non il cancro.</p>
+      <p begin="01:04:35,733" end="01:04:40,133">Ora, la psilocibina &#232; O-fosforil-4-idrossi-N.N dimetiltriptamina</p>
+      <p begin="01:04:40,200" end="01:04:43,533">quindi, da un punto di vista della struttura</p>
+      <p begin="01:04:43,600" end="01:04:48,600">chimica , &#233; molto simile alla DMT.</p>
+      <p begin="01:04:49,433" end="01:04:52,333">DR. NICHOLS: Ultimamente ci&#242; che mi interessa &#232; vedere</p>
+      <p begin="01:04:52,400" end="01:04:54,700">applicate queste cose nel modo in cui venivano usate tradizionalmente,</p>
+      <p begin="01:04:54,767" end="01:04:59,167">per guarire la gente, aiutarla e aiutarla adesso a</p>
+      <p begin="01:04:59,233" end="01:05:01,800">scendere a patti con la morte.</p>
+      <p begin="01:05:01,867" end="01:05:06,300">STONE: Cambia completamente la tua relazione con la tua morte,</p>
+      <p begin="01:05:06,367" end="01:05:07,900">la tua morte imminente.</p>
+      <p begin="01:05:07,967" end="01:05:13,000">Che tu ci creda o meno non morirai, e con questo strumento</p>
+      <p begin="01:05:13,067" end="01:05:18,900">che ti fa andare oltre, alcune delle paure di quel tipo</p>
+      <p begin="01:05:18,967" end="01:05:21,567">scompaiono.</p>
+      <p begin="01:05:24,167" end="01:05:27,900">DR. SLANDISH: Ora comincio a chiedermi se la coscienza</p>
+      <p begin="01:05:27,967" end="01:05:32,433">possa davvero sopravvivere alla morte biologica: forse il modello</p>
+      <p begin="01:05:32,500" end="01:05:36,333">su cui abbiamo lavorato in psichiatria e farmacologia</p>
+      <p begin="01:05:36,400" end="01:05:40,900">comportamentale &#232; sbagliato ed &#232; tutto il contrario,</p>
+      <p begin="01:05:40,967" end="01:05:43,733">cio&#232; la coscienza &#232; l'elemento principale nell'universo</p>
+      <p begin="01:05:43,800" end="01:05:46,533">mentre la materia deriva da essa.</p>
+      <p begin="01:05:46,600" end="01:05:50,133">DR. GROB: L'utilizzo di sostanze come la DMT o il 5-metossi-DMT,</p>
+      <p begin="01:05:50,200" end="01:05:55,133">potrebbe davvero aiutarci attraverso l'esercizio di un'esperienza</p>
+      <p begin="01:05:55,200" end="01:05:57,633">transitoria di morte.</p>
+      <p begin="01:05:57,700" end="01:06:02,200">Fin ora abbiamo osservato effetti molto positivi in riferimento</p>
+      <p begin="01:06:02,267" end="01:06:04,267">alla natura di tali esperienze durante la sessione e negli effetti</p>
+      <p begin="01:06:04,333" end="01:06:08,767">seguenti sulla regolazione dell'umore e sul controllo dell'ansia,</p>
+      <p begin="01:06:08,833" end="01:06:12,033">sulla percezione del dolore e sulla qualit&#224; complessiva della vita dei</p>
+      <p begin="01:06:12,100" end="01:06:13,767">pazienti affetti da cancro.</p>
+      <p begin="01:06:13,833" end="01:06:16,767">In linea di massima i nostri soggetti stanno abbastanza bene nel</p>
+      <p begin="01:06:16,833" end="01:06:19,233">tempo che rimane loro a disposizione.</p>
+      <p begin="01:06:22,100" end="01:06:24,133">DR. NICHOLS: Per coloro che trovano un compromesso,</p>
+      <p begin="01:06:24,200" end="01:06:26,667">una parte di esso riguarda il riconoscimento che gli psichedelici, aprono</p>
+      <p begin="01:06:26,733" end="01:06:29,967">uno spazio di cui non erano consapevoli che in un certo senso conferisce loro</p>
+      <p begin="01:06:30,033" end="01:06:34,667">una visione di cosa potrebbe essere dopo la morte, cos&#236; come una migliore</p>
+      <p begin="01:06:34,733" end="01:06:37,133">prospettiva su ci&#242; che hanno ottenuto</p>
+      <p begin="01:06:37,200" end="01:06:41,533">in vita, un miglior sentimento riguardo a ci&#242; che hanno fatto nelle loro vite.</p>
+      <p begin="01:06:43,667" end="01:06:45,600">DR. ABRAHAM: Penso che chiunque faccia viaggi psichedelici,</p>
+      <p begin="01:06:45,667" end="01:06:49,767">meditazione e cos&#236; via, attinga pi&#249; o meno dallo</p>
+      <p begin="01:06:49,833" end="01:06:53,067">stesso mondo superiore, dal quale assorbire alcune informazioni</p>
+      <p begin="01:06:53,133" end="01:06:57,400">in modo che sia possibile svilupparle ed integrarle</p>
+      <p begin="01:06:57,467" end="01:07:00,000">ad un approccio basato sul metodo scientifico,</p>
+      <p begin="01:07:00,067" end="01:07:05,167">e cos&#236; facendo sia incrementata la nostra intelligenza e capacit&#224;</p>
+      <p begin="01:07:05,233" end="01:07:07,300">di sopravvivenza sul pianeta Terra.</p>
+      <p begin="01:07:07,367" end="01:07:10,100">Siamo una specie morente, viviamo su un pianeta morente,</p>
+      <p begin="01:07:10,167" end="01:07:15,433">stiamo uccidendo il pianeta, la malattia di cui soffriamo &#232; estremamente seria.</p>
+      <p begin="01:07:15,500" end="01:07:19,333">Pertanto, siamo alla disperata ricerca di nuove informazioni,</p>
+      <p begin="01:07:19,400" end="01:07:24,233">di idee che possano farci trascendere, dobbiamo evolvere</p>
+      <p begin="01:07:24,300" end="01:07:28,833">e penso che la nostra evoluzione intellettuale possa affermarsi</p>
+      <p begin="01:07:28,900" end="01:07:31,933">grazie ai pionieri psichedelici.</p>
+      <p begin="01:07:32,000" end="01:07:35,433">RUSHKOFF: E' cos&#236; semplice cambiare il mondo, questo &#232; il tipo</p>
+      <p begin="01:07:35,500" end="01:07:42,633">di cose che &#232; possibile vedere con gli psichedelici se non rimani</p>
+      <p begin="01:07:42,700" end="01:07:51,267">intrappolato nella bellezza e nello stupore dell'esperienza psichedelica</p>
+      <p begin="01:07:51,333" end="01:07:53,167">stessa.</p>
+      <p begin="01:07:53,233" end="01:07:59,067">E' come guardare attraverso il lampadario della realt&#224; da un</p>
+      <p begin="01:07:59,133" end="01:08:01,533">punto d'osservazione diverso.</p>
+      <p begin="01:08:01,600" end="01:08:05,267">Puoi proiettarti in quei cristalli in un altro modo</p>
+      <p begin="01:08:05,333" end="01:08:12,933">ed &#232; bellissimo, ma ok, poi devi tornare, devi tornare.</p>
+      <p begin="01:08:15,233" end="01:08:17,967">DR. STRASSMAN: Penso che se dovessi tornare a dare psichedelici</p>
+      <p begin="01:08:18,033" end="01:08:21,767">alla gente, in particolare la DMT, non lo farei in veste di</p>
+      <p begin="01:08:21,833" end="01:08:26,033">studioso della chimica del cervello curioso di vedere cosa succede.</p>
+      <p begin="01:08:26,100" end="01:08:31,800">Credo che una delle cose che ho imparato nella ricerca sia che</p>
+      <p begin="01:08:31,867" end="01:08:34,000">non voglio solo somministrare droghe per vedere che accade,</p>
+      <p begin="01:08:34,067" end="01:08:36,800">&#232; un po'.. non so se insensibile sia la parola giusta</p>
+      <p begin="01:08:36,867" end="01:08:39,000">ma questa &#232; la prima che mi viene in mente.</p>
+      <p begin="01:08:39,067" end="01:08:44,100">Penso che se si volesse davvero aprire le persone</p>
+      <p begin="01:08:44,167" end="01:08:48,267">si debba farlo con uno scopo che vada oltre la curiosit&#224; scientifica,</p>
+      <p begin="01:08:48,333" end="01:08:51,900">vorrei essere d'aiuto invece che semplicemente</p>
+      <p begin="01:08:51,967" end="01:08:54,167">intelligente o capace.</p>
+      <p begin="01:08:54,233" end="01:08:57,900">DAVIS: Per me &#232; una lama a doppio taglio in quanto</p>
+      <p begin="01:08:57,967" end="01:09:01,500">simultaneamente apre la strada al mondo divino, al mondo dei</p>
+      <p begin="01:09:01,567" end="01:09:05,000">messaggi, degli spiriti, il mondo delle entit&#224; e</p>
+      <p begin="01:09:05,067" end="01:09:11,033">allo stesso tempo pone quel materiale a verifica</p>
+      <p begin="01:09:11,100" end="01:09:15,233">della neurologia, della sociologia, e della realt&#224; in continua</p>
+      <p begin="01:09:15,300" end="01:09:20,233">costruzione, e la saggezza che ne viene fuori &#232;</p>
+      <p begin="01:09:20,300" end="01:09:25,633">una mistura molto intricata di autentiche esperienze religiose con gli dei,</p>
+      <p begin="01:09:25,700" end="01:09:31,133">di messaggi, di segni distinti, con una specie di straordinario</p>
+      <p begin="01:09:31,200" end="01:09:33,400">specchio della mente.</p>
+      <p begin="01:09:33,467" end="01:09:37,233">HANCOCK: La curiosit&#224;, forse l'unicit&#224; degli uomini</p>
+      <p begin="01:09:37,300" end="01:09:42,667">&#232; che vivono in entrambi i regni, abbiamo la capacit&#224; di vivere</p>
+      <p begin="01:09:42,733" end="01:09:47,133">esperienze spirituali e la capacit&#224; di vivere</p>
+      <p begin="01:09:47,200" end="01:09:50,067">esperienze fisiche.</p>
+      <p begin="01:09:50,133" end="01:09:55,267">L'agenda del mondo spirituale, se ce ne fosse una,</p>
+      <p begin="01:09:55,333" end="01:10:00,067">&#232; di permetterci di raggiungere il nostro pieno potenziale, di consegnarci</p>
+      <p begin="01:10:00,133" end="01:10:05,233">il nostro pieno potenziale, e forse le scelte che stiamo facendo</p>
+      <p begin="01:10:05,300" end="01:10:08,767">proprio ora come civilt&#224; e come societ&#224; si ripercuotono</p>
+      <p begin="01:10:08,833" end="01:10:12,367">molto al di l&#224; di noi stessi.</p>
+      <p begin="01:10:12,433" end="01:10:16,400">DR. MCKENNA: Penso che la DMT sia un potente promemoria del fatto che vi &#232;</p>
+      <p begin="01:10:16,467" end="01:10:21,700">molto pi&#249; nella realt&#224;, nell'universo, in noi stessi,</p>
+      <p begin="01:10:21,767" end="01:10:25,467">nella biosfera, in qualsiasi cosa, che c'&#232; molto di pi&#249;</p>
+      <p begin="01:10:25,533" end="01:10:27,067">di quanto possiamo immaginare.</p>
+      <p begin="01:10:35,867" end="01:10:38,000">ROGAN: Sembra proprio che la nostra realt&#224; non sia l'unica.</p>
+      <p begin="01:10:38,067" end="01:10:40,700">Occasionalmente alcune crepe si rivelano, come se volessero</p>
+      <p begin="01:10:40,767" end="01:10:42,467">farsi scoprire.</p>
+      <p begin="01:10:42,533" end="01:10:45,400">Come umani siamo creature assetate di conoscenza.</p>
+      <p begin="01:10:45,467" end="01:10:48,600">Spendiamo tempo, denaro, e infinita energia nella sua ricerca</p>
+      <p begin="01:10:48,667" end="01:10:53,533">nelle scuole, nelle chiese, nel lavoro, e nella tecnologia.</p>
+      <p begin="01:10:53,600" end="01:10:58,133">La conoscenza &#232; potere, e dunque la nostra pi&#249; grande ricerca.</p>
+      <p begin="01:10:58,200" end="01:11:02,033">La Dimetiltriptamina, una molecola con un nome complesso e</p>
+      <p begin="01:11:02,100" end="01:11:06,233">la semplice capacit&#224; di aprire le porte a un'altra dimensione</p>
+      <p begin="01:11:06,300" end="01:11:11,000">e forse, e dico forse, alla nostra futura evoluzione.</p>
+    </div>
+  </body>
+
+</tt>
