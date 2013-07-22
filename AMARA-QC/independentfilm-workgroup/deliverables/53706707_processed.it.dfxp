@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="it">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:01:22.100" end="00:01:23.133">Riley.</p>
+      <p begin="00:01:25.567" end="00:01:27.767">Hedda, quel vestito ti sta una favola.</p>
+      <p begin="00:01:27.833" end="00:01:29.233">Beh, &#232; piaciuto parecchio in municipio!</p>
+      <p begin="00:01:29.300" end="00:01:30.967">S&#236;, fa sempre il suo effetto</p>
+      <p begin="00:01:31.033" end="00:01:32.700">quando un prete veste un Pucci tarocco.</p>
+      <p begin="00:01:32.767" end="00:01:34.567">Che ti aspettavi? Drag queen del Vaticano?</p>
+      <p begin="00:01:34.633" end="00:01:36.400">No, ma che ne ha detto lo sposo?</p>
+      <p begin="00:01:36.467" end="00:01:38.433">Perch&#233; credi che la stiano spedendo fino in Vermont?</p>
+      <p begin="00:01:38.500" end="00:01:39.533">Precisamente.</p>
+      <p begin="00:01:39.600" end="00:01:40.667">Riley!</p>
+      <p begin="00:01:43.900" end="00:01:46.067">Ragazzi, questa &#232; la mia dolce met&#224;, Riley.</p>
+      <p begin="00:01:46.133" end="00:01:48.267">Abbiamo letto tutto di te sul blog di Markus.</p>
+      <p begin="00:01:48.333" end="00:01:49.733">Ah, come va quello sfogo sulla pelle?</p>
+      <p begin="00:01:49.800" end="00:01:51.733">Giusto! &#200; andato via alla fine?</p>
+      <p begin="00:01:51.800" end="00:01:53.500">Markus dice di avere il blocco dello scrittore</p>
+      <p begin="00:01:53.567" end="00:01:55.100">ma non fa altro che scrivere blog, blog e altri blog.</p>
+      <p begin="00:01:55.167" end="00:01:56.633">Non sapevo che avessi il blocco dello scrittore!</p>
+      <p begin="00:01:56.700" end="00:01:58.300">Solo perch&#233; non l'ha ancora scritto sul suo blog.</p>
+      <p begin="00:01:58.367" end="00:01:59.500">Sono solo un po' bloccato sul mio nuovo romanzo.</p>
+      <p begin="00:01:59.567" end="00:02:00.800">Ah, di cosa parla?</p>
+      <p begin="00:02:00.867" end="00:02:03.633">Di una coppia gay che ha un figlio biologico.</p>
+      <p begin="00:02:03.700" end="00:02:04.733">Un horror, quindi?</p>
+      <p begin="00:02:05.700" end="00:02:07.500">Riesci a immaginare se avessimo dei bambini</p>
+      <p begin="00:02:07.567" end="00:02:09.500">cosa staremmo facendo ora?</p>
+      <p begin="00:02:09.567" end="00:02:11.067">Carpooling?</p>
+      <p begin="00:02:13.633" end="00:02:15.433">Hai parlato del mio sfogo sul blog?</p>
+      <p begin="00:02:15.500" end="00:02:16.600">Scusami, dolcezza.</p>
+      <p begin="00:02:16.667" end="00:02:17.633">Tesoro.</p>
+      <p begin="00:02:28.167" end="00:02:29.133">Ehi Zeus.</p>
+      <p begin="00:02:30.300" end="00:02:31.600">Accetti monetine?</p>
+      <p begin="00:02:32.567" end="00:02:34.267">Tu, zoccoletta da quattro soldi.</p>
+      <p begin="00:02:34.333" end="00:02:37.533">Sodomiti, per una volta sto parlando di me!</p>
+      <p begin="00:02:37.600" end="00:02:39.500">Per prima cosa voglio ringraziare manhunt.net</p>
+      <p begin="00:02:39.567" end="00:02:42.267">per aver sponsorizzato il mio ricevimento di nozze.</p>
+      <p begin="00:02:42.333" end="00:02:44.033">Benvenuti!</p>
+      <p begin="00:02:46.467" end="00:02:47.867">Sapete, i miei parenti volevano che</p>
+      <p begin="00:02:47.933" end="00:02:50.700">facessi una cerimonia tradizionale.</p>
+      <p begin="00:02:50.767" end="00:02:51.933">Pronto?!</p>
+      <p begin="00:02:52.000" end="00:02:53.600">Voi siete la mia famiglia!</p>
+      <p begin="00:02:53.667" end="00:02:55.267">Voi mi siete rimasti vicino nel bene e nel male:</p>
+      <p begin="00:02:55.333" end="00:02:57.967">Grassezza, magrezza, una terribile dipendenza</p>
+      <p begin="00:02:58.033" end="00:02:59.967">da borsette orrendamente costose.</p>
+      <p begin="00:03:00.033" end="00:03:02.200">Ma ora ho Michael con me!</p>
+      <p begin="00:03:02.267" end="00:03:03.667">Dov'&#232; Michael?</p>
+      <p begin="00:03:04.700" end="00:03:05.833">Dov'&#232; il mio uomo?</p>
+      <p begin="00:03:05.900" end="00:03:07.567">Ridatemi il mio uomo!</p>
+      <p begin="00:03:07.633" end="00:03:10.233">Ah, eccoti qui!</p>
+      <p begin="00:03:10.300" end="00:03:12.167">Molti di voi staranno pensando che</p>
+      <p begin="00:03:12.233" end="00:03:13.900">non mi rivedrete mai pi&#249; da domani.</p>
+      <p begin="00:03:13.967" end="00:03:15.667">Che sparir&#242; come tutte</p>
+      <p begin="00:03:15.733" end="00:03:18.067">le "fag hags" della vostra adolescenza.</p>
+      <p begin="00:03:18.133" end="00:03:19.700">Beh, avete ragione.</p>
+      <p begin="00:03:19.767" end="00:03:21.500">Finalmente ho trovato un uomo che ama me</p>
+      <p begin="00:03:21.567" end="00:03:23.133">e la mia vagina.</p>
+      <p begin="00:03:24.533" end="00:03:28.300">Ho detto che ama la mia vagina!</p>
+      <p begin="00:03:28.367" end="00:03:29.567">E presto la sfonder&#224;</p>
+      <p begin="00:03:29.633" end="00:03:31.400">dietro quella staccionata!</p>
+      <p begin="00:03:34.467" end="00:03:36.067">Ti vogliamo bene Audrey!</p>
+      <p begin="00:03:36.133" end="00:03:37.400">Oh, anch'io vi voglio bene.</p>
+      <p begin="00:03:39.533" end="00:03:42.167">Sapete che sono rimasta pi&#249; a lungo che ho potuto</p>
+      <p begin="00:03:42.233" end="00:03:43.233">coi miei ragazzi.</p>
+      <p begin="00:03:44.933" end="00:03:47.300">Pi&#249; a lungo di quanto qualunque "fag hag" abbia mai fatto.</p>
+      <p begin="00:03:48.567" end="00:03:49.833">Beh,</p>
+      <p begin="00:03:49.900" end="00:03:52.033">qualunque tranne Violet.</p>
+      <p begin="00:03:52.100" end="00:03:54.600">Lancia quel bouquet, forza!</p>
+      <p begin="00:03:54.667" end="00:03:58.000">Il bouquet sarebbe tuo, Violet, se ne avessi uno.</p>
+      <p begin="00:04:07.333" end="00:04:09.533">&#200; di turno al salone, stasera.</p>
+      <p begin="00:04:09.600" end="00:04:10.900">Ma siete ancora insieme?</p>
+      <p begin="00:04:10.967" end="00:04:12.900">Certo che s&#236;, Darian &#232; perfetto.</p>
+      <p begin="00:04:12.967" end="00:04:14.367">Sai, penso di starmi innamorando di-</p>
+      <p begin="00:04:14.433" end="00:04:16.233">A quanto pare il cazzo di Dan &#232; talmente grosso</p>
+      <p begin="00:04:16.300" end="00:04:17.733">che l'unico modo per farselo stare in bocca</p>
+      <p begin="00:04:17.800" end="00:04:20.200">&#232; succhiarlo quando &#232; ancora moscio.</p>
+      <p begin="00:04:20.267" end="00:04:21.733">Quello &#232; Dan la Lattina?</p>
+      <p begin="00:04:23.300" end="00:04:24.267">Gi&#224;.</p>
+      <p begin="00:04:25.267" end="00:04:27.200">E come la mettiamo con Darian?</p>
+      <p begin="00:04:27.267" end="00:04:30.233">Oh, Darian e Luke hanno un accordo.</p>
+      <p begin="00:04:32.433" end="00:04:33.700">Ahi ahi, terzo incomodo.</p>
+      <p begin="00:04:37.000" end="00:04:38.000">Dribblato!</p>
+      <p begin="00:04:41.000" end="00:04:42.267">Luke potr&#224; avere pi&#249; esperienza,</p>
+      <p begin="00:04:42.333" end="00:04:43.900">ma il suo avversario &#232; tenace.</p>
+      <p begin="00:04:43.967" end="00:04:45.767">&#200; uno scontro all'ultima chiappa.</p>
+      <p begin="00:04:45.833" end="00:04:47.633">E chi perde meglio finisce per rimanere "a cavallo"!</p>
+      <p begin="00:04:47.700" end="00:04:49.200">Ehi bellezza!</p>
+      <p begin="00:04:49.267" end="00:04:52.367">Zeus, vecchio animale! Ma guardati!</p>
+      <p begin="00:04:52.433" end="00:04:54.300">Oh, adoro quando fai cos&#236;!</p>
+      <p begin="00:04:54.367" end="00:04:56.600">Allora, ho sentito che tu e Luke state unendo le forze.</p>
+      <p begin="00:04:56.667" end="00:04:58.933">Oh s&#236;. Dio, adoro quel ragazzo.</p>
+      <p begin="00:04:59.000" end="00:05:00.833">Mi ha dato la sua intera rubrica email, sta contattando degli sponsor.</p>
+      <p begin="00:05:00.900" end="00:05:03.100">Oh, i tuoi profitti saranno salvi.</p>
+      <p begin="00:05:03.167" end="00:05:04.233">Tatuaggio nuovo?</p>
+      <p begin="00:05:04.300" end="00:05:06.433">S&#236;, dai un'occhiata.</p>
+      <p begin="00:05:06.500" end="00:05:09.567">Positivo all'HIV da dieci anni, e sono ancora qui.</p>
+      <p begin="00:05:09.633" end="00:05:11.133">Non devi per forza marchiarti, eh.</p>
+      <p begin="00:05:11.200" end="00:05:12.200">Voglio solo far vedere a tutti</p>
+      <p begin="00:05:12.267" end="00:05:13.833">che c'&#232; vita "dopo".</p>
+      <p begin="00:05:13.900" end="00:05:15.200">Beh, io sar&#242; con te in salute</p>
+      <p begin="00:05:15.267" end="00:05:17.167">e in malattia, contaci.</p>
+      <p begin="00:05:17.233" end="00:05:18.233">Ti amo.</p>
+      <p begin="00:05:18.300" end="00:05:19.333">Paparazzi!</p>
+      <p begin="00:05:19.400" end="00:05:20.500">Per la prossima rivista</p>
+      <p begin="00:05:20.567" end="00:05:21.733">niente pi&#249; foto!</p>
+      <p begin="00:05:23.000" end="00:05:24.233">Rovinerai la loro reputazione.</p>
+      <p begin="00:05:24.300" end="00:05:26.000">Ti imploro, niente foto!</p>
+      <p begin="00:05:26.067" end="00:05:27.833">Davvero, niente pi&#249; foto.</p>
+      <p begin="00:05:28.933" end="00:05:30.467">Devo andare! Ci vediamo!</p>
+      <p begin="00:05:30.533" end="00:05:32.833">D'accordo, meglio andare anche noi.</p>
+      <p begin="00:05:32.900" end="00:05:33.667">Buona notte.</p>
+      <p begin="00:05:33.733" end="00:05:34.700">Hey, voi due!</p>
+      <p begin="00:05:50.767" end="00:05:51.833">Ehi bello!</p>
+      <p begin="00:05:51.900" end="00:05:53.467">E quella gonna?</p>
+      <p begin="00:05:54.400" end="00:05:55.367">Violet?</p>
+      <p begin="00:05:56.633" end="00:05:58.533">Ehi calma, ho quasi fatto.</p>
+      <p begin="00:05:58.600" end="00:06:00.400">Ti aspetto dietro il cespuglio.</p>
+      <p begin="00:06:00.467" end="00:06:01.567">Ok.</p>
+      <p begin="00:06:01.633" end="00:06:02.867">E' la mia compagna di stanza.</p>
+      <p begin="00:06:05.133" end="00:06:06.600">Eh s&#236;, sai com'&#232;,</p>
+      <p begin="00:06:06.667" end="00:06:07.633">&#232; un po' strano, in effetti.</p>
+      <p begin="00:06:07.700" end="00:06:08.667">Ci sta guardando?</p>
+      <p begin="00:06:08.733" end="00:06:09.767">E' innocua.</p>
+      <p begin="00:06:11.067" end="00:06:12.733">Fag hags, Ges&#249;!</p>
+      <p begin="00:06:12.800" end="00:06:14.133">Ehi!</p>
+      <p begin="00:06:14.200" end="00:06:15.167">Porta rispetto.</p>
+      <p begin="00:06:16.267" end="00:06:17.500">E' l'ultima.</p>
+      <p begin="00:06:36.767" end="00:06:38.200">Benvenuti a Frisky Friends,</p>
+      <p begin="00:06:38.267" end="00:06:40.067">dove chi &#232; da solo trova compagnia!</p>
+      <p begin="00:06:40.133" end="00:06:42.433">Hai tre nuovi Frisky Friends!</p>
+      <p begin="00:06:44.867" end="00:06:47.400">Salome, a sentirti sei identica a mia madre.</p>
+      <p begin="00:06:47.467" end="00:06:49.033">Io e mamma adoriamo fare lunghe scampagnate</p>
+      <p begin="00:06:49.100" end="00:06:50.333">Messaggio cancellato..</p>
+      <p begin="00:06:50.400" end="00:06:52.167">Messaggio successivo.</p>
+      <p begin="00:06:52.233" end="00:06:53.667">Ciao Salome, sto cercando una relazione seria</p>
+      <p begin="00:06:53.733" end="00:06:55.367">e a lungo termine con</p>
+      <p begin="00:06:55.433" end="00:06:58.367">Messaggio cancellato. Messaggio successivo.</p>
+      <p begin="00:06:58.433" end="00:07:00.033">E' il postino.</p>
+      <p begin="00:07:00.100" end="00:07:01.300">Muoio dalla voglia di bollente</p>
+      <p begin="00:07:01.367" end="00:07:02.800">prima di incontrarci.</p>
+      <p begin="00:07:10.433" end="00:07:12.200">Signor Postino.</p>
+      <p begin="00:07:12.267" end="00:07:13.267">Sono Salome.</p>
+      <p begin="00:07:14.633" end="00:07:16.133">C'&#232; della posta per me?</p>
+      <p begin="00:07:16.200" end="00:07:19.500">Un altro grande pacco.</p>
+      <p begin="00:07:19.567" end="00:07:21.133">Cosa indossi?</p>
+      <p begin="00:07:21.200" end="00:07:23.600">Solo due gocce di Chanel numero 5.</p>
+      <p begin="00:07:31.067" end="00:07:32.167">Sei sempre libera, oggi?</p>
+      <p begin="00:07:34.700" end="00:07:35.800">Ti va di fare un giro?</p>
+      <p begin="00:07:41.567" end="00:07:43.133">Andiamo a Coney Island</p>
+      <p begin="00:07:43.200" end="00:07:44.633">e facciamo un giro sul Ciclone.</p>
+      <p begin="00:07:45.700" end="00:07:46.700">Oh s&#236;,</p>
+      <p begin="00:07:47.600" end="00:07:48.567">facciamolo.</p>
+      <p begin="00:07:58.067" end="00:08:00.033">Allora, com'&#232; stato il ricevimento di Audrey?</p>
+      <p begin="00:08:00.100" end="00:08:01.267">Era cos&#236; felice.</p>
+      <p begin="00:08:02.433" end="00:08:03.433">Avrei voluto che fossi l&#236;</p>
+      <p begin="00:08:03.500" end="00:08:04.700">per vedere la sua faccia.</p>
+      <p begin="00:08:04.767" end="00:08:05.933">Questo &#232; l'unico inconveniente</p>
+      <p begin="00:08:06.000" end="00:08:07.000">di gestire una mia attivit&#224;.</p>
+      <p begin="00:08:07.067" end="00:08:08.967">Non ho molto tempo libero.</p>
+      <p begin="00:08:09.033" end="00:08:10.567">Ho un'attivit&#224; mia</p>
+      <p begin="00:08:11.733" end="00:08:12.900">e penso ci sia un p&#242; pi&#249; di margine</p>
+      <p begin="00:08:12.967" end="00:08:14.733">per le feste a base di sesso erranti.</p>
+      <p begin="00:08:16.967" end="00:08:18.267">Sto aprendo una filiale,</p>
+      <p begin="00:08:18.333" end="00:08:20.100">posso usare la tua boutique per il mio</p>
+      <p begin="00:08:20.167" end="00:08:21.800">'Lazy Tops and Power Bottoms party'?</p>
+      <p begin="00:08:21.867" end="00:08:23.133">Dopo l'arrivo della polizia, i miei ospiti se ne sono andati</p>
+      <p begin="00:08:23.200" end="00:08:24.167">sai...</p>
+      <p begin="00:08:27.767" end="00:08:28.733">Cosa?</p>
+      <p begin="00:08:29.967" end="00:08:30.900">Ti hanno fatto di nuovo un succhiotto.</p>
+      <p begin="00:08:30.967" end="00:08:32.267">Oh, non &#232; vero!</p>
+      <p begin="00:08:32.333" end="00:08:34.100">Con chi eri ieri notte?</p>
+      <p begin="00:08:34.167" end="00:08:35.500">Ovviamente con un principiante.</p>
+      <p begin="00:08:36.400" end="00:08:38.367">Aspetta, fammi capire.</p>
+      <p begin="00:08:39.433" end="00:08:40.633">Hai visto due persone</p>
+      <p begin="00:08:40.700" end="00:08:42.900">impegnate l'una con l'altra,</p>
+      <p begin="00:08:42.967" end="00:08:44.767">hai rimorchiato un tizio a caso</p>
+      <p begin="00:08:44.833" end="00:08:46.367">e poi ti sei infilato nel letto con me?</p>
+      <p begin="00:08:46.433" end="00:08:47.933">Mi sono fatto una doccia prima.</p>
+      <p begin="00:08:49.300" end="00:08:50.800">E dai D!</p>
+      <p begin="00:08:50.867" end="00:08:52.533">Ehi, ho subito un trauma da pene</p>
+      <p begin="00:08:53.800" end="00:08:55.433">Allora, perch&#233; sei venuto qui?</p>
+      <p begin="00:08:55.500" end="00:08:58.500">Perch&#233; volevo dormire con te.</p>
+      <p begin="00:08:58.567" end="00:09:00.333">Ma hai fatto sesso con un'altra persona.</p>
+      <p begin="00:09:00.400" end="00:09:03.067">Non &#232; la stessa cosa. Lo sai.</p>
+      <p begin="00:09:03.133" end="00:09:04.167">Sei una brutta persona, esattamente come lo sono io.</p>
+      <p begin="00:09:04.233" end="00:09:05.367">Ero.</p>
+      <p begin="00:09:05.433" end="00:09:06.500">Ci siamo incontrati in un 'glory hole'.</p>
+      <p begin="00:09:06.567" end="00:09:07.933">Lo so dove ci siamo incontrati.</p>
+      <p begin="00:09:10.533" end="00:09:12.233">Non posso andare avanti cos&#236;.</p>
+      <p begin="00:09:14.567" end="00:09:15.800">Aspetta un secondo...</p>
+      <p begin="00:09:15.867" end="00:09:17.900">Non puoi andare avanti cos&#236;?</p>
+      <p begin="00:09:17.967" end="00:09:19.867">Darian, abbiamo un accordo.</p>
+      <p begin="00:09:19.933" end="00:09:22.733">Bene, ti chiedo di fare un accordo diverso.</p>
+      <p begin="00:09:22.800" end="00:09:23.933">Se non puoi rispettare quell'accordo,</p>
+      <p begin="00:09:24.000" end="00:09:25.433">non ci sto pi&#249;.</p>
+      <p begin="00:09:25.500" end="00:09:28.467">Darian, dai. Sai che io</p>
+      <p begin="00:09:28.533" end="00:09:29.500">Sai che io</p>
+      <p begin="00:09:34.233" end="00:09:36.633">Hai presente gli impala? In Africa?</p>
+      <p begin="00:09:36.700" end="00:09:37.833">Sai che hanno tipo venti</p>
+      <p begin="00:09:37.900" end="00:09:39.700">partner sessuali alla volta?</p>
+      <p begin="00:09:39.767" end="00:09:41.000">E la cosa straordinaria &#232; che nessun impala</p>
+      <p begin="00:09:41.067" end="00:09:42.533">si infastidisce o si arrabbia</p>
+      <p begin="00:09:42.600" end="00:09:45.133">o dice che non si pu&#242; pi&#249; fare.</p>
+      <p begin="00:09:45.200" end="00:09:46.167">Hai ragione!</p>
+      <p begin="00:09:47.600" end="00:09:49.000">Ora vado a farmi una doccia.</p>
+      <p begin="00:09:49.067" end="00:09:50.933">Quando esco,</p>
+      <p begin="00:09:51.000" end="00:09:52.467">voglio trovare le mie chiavi sul tavolo e avere te fuori di qui,</p>
+      <p begin="00:09:52.533" end="00:09:53.500">e voglio che tu non ti faccia mai pi&#249; rivedere</p>
+      <p begin="00:09:53.567" end="00:09:55.633">qui attorno.</p>
+      <p begin="00:09:55.700" end="00:09:56.667">E' finita!</p>
+      <p begin="00:10:02.467" end="00:10:03.700">Ma io ti amo.</p>
+      <p begin="00:10:05.733" end="00:10:08.733">Ciao, hai un minuto per pensare al futuro, oggi?</p>
+      <p begin="00:10:12.533" end="00:10:14.400">Salve Signore,</p>
+      <p begin="00:10:14.467" end="00:10:15.833">ha un minuto per pensare al futuro, oggi?</p>
+      <p begin="00:10:15.900" end="00:10:17.967">No, mi dispiace, non intendo avere figli.</p>
+      <p begin="00:10:21.433" end="00:10:23.333">Sei il mio postino?</p>
+      <p begin="00:10:23.400" end="00:10:24.433">Belle calze!</p>
+      <p begin="00:10:24.500" end="00:10:26.433">Salome? Sei tu.</p>
+      <p begin="00:10:26.500" end="00:10:28.567">Il mio marito gay ucciderebbe per quei polpacci!</p>
+      <p begin="00:10:28.633" end="00:10:30.000">Per favore. Siamo in pubblico.</p>
+      <p begin="00:10:30.067" end="00:10:31.733">Oh, tesoro, questo &#232; New York...</p>
+      <p begin="00:10:31.800" end="00:10:33.067">succede di tutto per strada.</p>
+      <p begin="00:10:33.133" end="00:10:34.067">Allora, il cinese va bene, vero?</p>
+      <p begin="00:10:34.133" end="00:10:35.100">Non posso.</p>
+      <p begin="00:10:36.367" end="00:10:37.667">C'&#232; stata una volta in cui mi &#232; venuto un mal di pancia spaventoso</p>
+      <p begin="00:10:37.733" end="00:10:39.100">dopo un piatto di maiale mu shu.</p>
+      <p begin="00:10:39.167" end="00:10:40.100">Capito, dove vuoi che andiamo?</p>
+      <p begin="00:10:40.167" end="00:10:41.567">No, non posso.</p>
+      <p begin="00:10:42.733" end="00:10:44.233">Io passo.</p>
+      <p begin="00:10:45.367" end="00:10:47.200">Tu passi?</p>
+      <p begin="00:10:47.267" end="00:10:48.267">So di aver mentito, su Frisky Friends,</p>
+      <p begin="00:10:48.333" end="00:10:49.867">ma sono stato onesto,</p>
+      <p begin="00:10:49.933" end="00:10:51.167">voglio dire, ti ho dato le mie vere statistiche.</p>
+      <p begin="00:10:51.233" end="00:10:52.600">Salome</p>
+      <p begin="00:10:52.667" end="00:10:54.300">so che pu&#242; sembrare una frase fatta,</p>
+      <p begin="00:10:54.367" end="00:10:55.767">ma non sei tu,</p>
+      <p begin="00:10:55.833" end="00:10:56.600">sono io.</p>
+      <p begin="00:10:56.667" end="00:10:57.633">Davvero.</p>
+      <p begin="00:11:03.933" end="00:11:05.267">Questi erano per te.</p>
+      <p begin="00:11:18.800" end="00:11:20.733">ma io ho esperienza,</p>
+      <p begin="00:11:20.800" end="00:11:22.033">sono stata sulle a Parigi, Milano,</p>
+      <p begin="00:11:22.100" end="00:11:23.633">Londra!</p>
+      <p begin="00:11:23.700" end="00:11:25.767">Indossavo solo delle coppette copri-capezzoli.</p>
+      <p begin="00:11:25.833" end="00:11:27.533">Ecco, vedi?</p>
+      <p begin="00:11:27.600" end="00:11:29.067">Tutto il mio guardaroba &#232; griffato.</p>
+      <p begin="00:11:29.133" end="00:11:31.600">Anche quelle erano coppette copri-capezzolo firmate.</p>
+      <p begin="00:11:31.667" end="00:11:32.733">Bradleigh, per favore,</p>
+      <p begin="00:11:32.800" end="00:11:34.233">ho bisogno di spazio sul giornale, aiutami!</p>
+      <p begin="00:11:34.300" end="00:11:35.533">Per favore.</p>
+      <p begin="00:11:35.600" end="00:11:36.500">In nome della passione che ci accumunava</p>
+      <p begin="00:11:36.567" end="00:11:37.833">quando eravamo ragazzi?</p>
+      <p begin="00:11:39.533" end="00:11:41.767">Larice, mi stai minacciando?</p>
+      <p begin="00:11:43.867" end="00:11:44.967">S&#236;.</p>
+      <p begin="00:11:47.433" end="00:11:49.800">Allora hai visto le bozze.</p>
+      <p begin="00:11:49.867" end="00:11:51.167">La nuova collezione di Bradleigh era ispirata</p>
+      <p begin="00:11:51.233" end="00:11:52.267">agli ultimi dinosauri ritrovati</p>
+      <p begin="00:11:52.333" end="00:11:53.567">in Argentina.</p>
+      <p begin="00:11:54.733" end="00:11:56.033">Perfetto! Fammi sapere quando</p>
+      <p begin="00:11:56.100" end="00:11:58.900">vuoi una botta.</p>
+      <p begin="00:11:58.967" end="00:11:59.933">Okay.</p>
+      <p begin="00:12:02.967" end="00:12:04.300">Oh, no, basta!</p>
+      <p begin="00:12:04.367" end="00:12:06.067">Cos'&#232; che non va in me, Riley?</p>
+      <p begin="00:12:06.133" end="00:12:07.333">Perch&#233; continui a dirlo?</p>
+      <p begin="00:12:07.400" end="00:12:08.500">Niente?</p>
+      <p begin="00:12:08.567" end="00:12:10.167">Non sei tu, &#232; lui.</p>
+      <p begin="00:12:11.367" end="00:12:15.167">Sei circondato da uomini che ti amano.</p>
+      <p begin="00:12:15.233" end="00:12:17.067">Amore?</p>
+      <p begin="00:12:17.133" end="00:12:19.400">Merito qualcuno che ami me e la mia figa,</p>
+      <p begin="00:12:19.467" end="00:12:21.033">come Audrey.</p>
+      <p begin="00:12:21.100" end="00:12:22.300">Mi ascolti?</p>
+      <p begin="00:12:22.367" end="00:12:23.467">Um, ti ascolto.</p>
+      <p begin="00:12:24.867" end="00:12:26.133">Donna, lo farei se potessi.</p>
+      <p begin="00:12:26.200" end="00:12:27.100">Ho gli strumenti.</p>
+      <p begin="00:12:27.167" end="00:12:28.133">Non ora, Donna.</p>
+      <p begin="00:12:28.200" end="00:12:29.533">Ho ancora il mio imene.</p>
+      <p begin="00:12:33.233" end="00:12:34.567">Ci&#242; di cui hai bisogno, Violet,</p>
+      <p begin="00:12:34.633" end="00:12:36.800">&#232; la tua versione maschile.</p>
+      <p begin="00:12:36.867" end="00:12:37.933">Un'amica dei gay.</p>
+      <p begin="00:12:38.000" end="00:12:39.000">Un metrosessuale?</p>
+      <p begin="00:12:39.067" end="00:12:40.633">No, no, no, no, no.</p>
+      <p begin="00:12:40.700" end="00:12:42.500">Un metrosessuale ti depisterebbe.</p>
+      <p begin="00:12:42.567" end="00:12:43.833">Cos'&#232; Salome?</p>
+      <p begin="00:12:45.167" end="00:12:46.533">Vado a pranzo,</p>
+      <p begin="00:12:46.600" end="00:12:48.433">in realt&#224; non a pranzo.</p>
+      <p begin="00:12:48.500" end="00:12:49.733">Sto uscendo da un'acqua di lusso.</p>
+      <p begin="00:12:49.800" end="00:12:51.000">Violet pu&#242; stare all'accoglienza?</p>
+      <p begin="00:12:51.067" end="00:12:52.100">Un secondo...</p>
+      <p begin="00:12:52.167" end="00:12:53.933">L'amica di un gay &#232; speciale.</p>
+      <p begin="00:12:54.000" end="00:12:55.400">Esce con i gay perch&#233; gli piace</p>
+      <p begin="00:12:55.467" end="00:12:56.800">la loro energia e le loro attenzioni,</p>
+      <p begin="00:12:56.867" end="00:12:58.600">proprio come a te.</p>
+      <p begin="00:12:58.667" end="00:13:01.633">Esiste davvero questo genere di persone?</p>
+      <p begin="00:13:01.700" end="00:13:02.867">Non credo.</p>
+      <p begin="00:13:06.867" end="00:13:08.300">Posso avere una carota?</p>
+      <p begin="00:13:09.367" end="00:13:10.600">Non importa,</p>
+      <p begin="00:13:10.667" end="00:13:12.133">forse non dovrei.</p>
+      <p begin="00:13:24.433" end="00:13:26.100">Il mio fottuto ragazzo mi ha lasciato.</p>
+      <p begin="00:13:26.167" end="00:13:27.400">Oh, no!</p>
+      <p begin="00:13:27.467" end="00:13:30.167">Sono felicissimo di non essermi mai ufficialmente trasferito da lui,</p>
+      <p begin="00:13:30.233" end="00:13:33.133">cos&#236; adesso non posso dire di essere stato ufficialmente sbattuto fuori, no?</p>
+      <p begin="00:13:33.200" end="00:13:34.800">Tesoro, cos'&#232; successo?</p>
+      <p begin="00:13:34.867" end="00:13:35.900">Improvvisamente, dopo tre mesi, Darian</p>
+      <p begin="00:13:35.967" end="00:13:38.267">non &#232; pi&#249; una puttana.</p>
+      <p begin="00:13:38.333" end="00:13:40.033">Cosa vuole? La monogamia?</p>
+      <p begin="00:13:40.100" end="00:13:41.167">Mi sa che mi devo</p>
+      <p begin="00:13:41.233" end="00:13:42.500">levare qualcosa col laser.</p>
+      <p begin="00:13:42.567" end="00:13:43.700">Lo so.</p>
+      <p begin="00:13:44.733" end="00:13:46.200">Oh, mio Dio, Luke.</p>
+      <p begin="00:13:46.267" end="00:13:47.367">Penso sia arrivato il momento che noi...</p>
+      <p begin="00:13:47.433" end="00:13:49.400">Per favore, non dirlo.</p>
+      <p begin="00:13:49.467" end="00:13:51.200">cresciamo.</p>
+      <p begin="00:13:51.267" end="00:13:52.900">Posso sentirlo dire da tutti, ma non da te.</p>
+      <p begin="00:13:52.967" end="00:13:54.467">Ma, forse &#232; il momento.</p>
+      <p begin="00:13:55.800" end="00:13:57.233">Non capisco qual'&#232; il problema.</p>
+      <p begin="00:13:57.300" end="00:13:58.833">Ho giocato un p&#242; in giro,</p>
+      <p begin="00:13:58.900" end="00:14:00.600">ma questo cosa c'entra con Darian?</p>
+      <p begin="00:14:00.667" end="00:14:02.300">Tu lo sai che darei il cuore,</p>
+      <p begin="00:14:02.367" end="00:14:04.167">un polmone e ci&#242; che resta del mio fegato</p>
+      <p begin="00:14:04.233" end="00:14:06.267">per avere una possibilit&#224; con un uomo come Darian.</p>
+      <p begin="00:14:06.333" end="00:14:08.333">Significa che tu sai di essere molto fortunato.</p>
+      <p begin="00:14:08.400" end="00:14:10.200">Posso dirti cosa mi &#232; successo?</p>
+      <p begin="00:14:10.267" end="00:14:12.933">Oggi mi sono visto a pranzo con un amico arrapato.</p>
+      <p begin="00:14:14.733" end="00:14:16.733">E non mi ha sopportato nemmeno per due minuti,</p>
+      <p begin="00:14:16.800" end="00:14:18.867">cio&#232;, mi ha lasciato per strada,</p>
+      <p begin="00:14:18.933" end="00:14:20.500">ci credi?</p>
+      <p begin="00:14:20.567" end="00:14:23.033">Non merito nemmeno uno schifoso pranzo.</p>
+      <p begin="00:14:23.100" end="00:14:24.867">Quale amico arrapato?</p>
+      <p begin="00:14:24.933" end="00:14:26.733">Come si chiama e dove vive?</p>
+      <p begin="00:14:26.800" end="00:14:28.433">Perch&#233;, cosa vuoi fare?</p>
+      <p begin="00:14:28.500" end="00:14:29.733">Picchiarlo.</p>
+      <p begin="00:14:31.533" end="00:14:33.300">Non &#232; solo un postino, &#232; anche un gemelli.</p>
+      <p begin="00:14:33.367" end="00:14:34.567">Avresti immaginato che sarei caduto cos&#236; in basso?</p>
+      <p begin="00:14:34.633" end="00:14:36.400">Un gemelli!</p>
+      <p begin="00:14:36.467" end="00:14:37.800">S&#236;, ti sei evitato una bella rottura.</p>
+      <p begin="00:14:37.867" end="00:14:39.700">E forse era bipolare. Tutti i gemini sono bipolari.</p>
+      <p begin="00:14:39.767" end="00:14:40.733">Ciao baby!</p>
+      <p begin="00:14:42.833" end="00:14:43.933">Bello vederti.</p>
+      <p begin="00:14:45.333" end="00:14:47.000">Guarda che culo in quei jeans.</p>
+      <p begin="00:14:47.067" end="00:14:48.333">Grazie.</p>
+      <p begin="00:14:48.400" end="00:14:49.800">Ho cancellato tutta la lista.</p>
+      <p begin="00:14:49.867" end="00:14:50.733">Ogni ultima regina sar&#224;</p>
+      <p begin="00:14:50.800" end="00:14:52.067">utile.</p>
+      <p begin="00:14:52.133" end="00:14:53.833">E la nostra madre regina?</p>
+      <p begin="00:14:53.900" end="00:14:55.933">Certo! Ne ho gi&#224; prese alcune</p>
+      <p begin="00:14:56.000" end="00:14:57.367">dell'ultima stagione di Bradleigh per l'asta silenziosa.</p>
+      <p begin="00:14:57.433" end="00:14:58.500">Farei di tutto per</p>
+      <p begin="00:14:58.567" end="00:15:00.200">liberarmi dal marchio dell'AIDS!</p>
+      <p begin="00:15:00.267" end="00:15:02.167">Dovresti buttarla sul palco,</p>
+      <p begin="00:15:02.233" end="00:15:03.567">le tornerebbe in mente il tip tap che faceva al liceo.</p>
+      <p begin="00:15:03.633" end="00:15:04.467">Faccio un medio Shim-Sham-Shimmy.</p>
+      <p begin="00:15:04.533" end="00:15:05.800">Oh, davvero?</p>
+      <p begin="00:15:05.867" end="00:15:07.433">Vediamo come ti muovi, baby.</p>
+      <p begin="00:15:07.500" end="00:15:08.567">Oh, no, nessuno vuole vedere come mi muovo io</p>
+      <p begin="00:15:08.633" end="00:15:09.667">quando possiamo guardare i tuoi.</p>
+      <p begin="00:15:09.733" end="00:15:10.933">Oh, non &#232; giusto.</p>
+      <p begin="00:15:11.000" end="00:15:12.700">No, non &#232; affatto giusto!</p>
+      <p begin="00:15:15.200" end="00:15:16.967">Okay,</p>
+      <p begin="00:15:17.033" end="00:15:18.900">la prossima volta</p>
+    </div>
+  </body>
+
+</tt>

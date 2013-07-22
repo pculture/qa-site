@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="fi">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:14.800" end="00:00:18.067">N&#228;in kaupungin kaukaisuudessa,</p>
+      <p begin="00:00:18.133" end="00:00:20.567">se oli tumman vihre&#228; ja valot v&#228;lkkyiv&#228;t</p>
+      <p begin="00:00:20.633" end="00:00:22.667">ja pilvet lipuivat sen ylitse.</p>
+      <p begin="00:00:22.733" end="00:00:25.733">T&#228;m&#228; kaikki alkoi valtavien geometristen kuvioiden j&#228;lkeen</p>
+      <p begin="00:00:25.800" end="00:00:29.867">jotka olivat niin nopeita liikkeiss&#228;&#228;n</p>
+      <p begin="00:00:29.933" end="00:00:31.767">ettei niit&#228; ei pysty kuvailemaan kenellekk&#228;&#228;n</p>
+      <p begin="00:00:31.833" end="00:00:32.633">Sen j&#228;lkeen kun n&#228;m&#228; olivat hidastaneet vauhtinsa,</p>
+      <p begin="00:00:32.700" end="00:00:35.833">n&#228;in kaupungin kaukaisuudessa.</p>
+      <p begin="00:00:35.900" end="00:00:38.867">Katselin sit&#228; ja sitten sellainen valopallo</p>
+      <p begin="00:00:38.933" end="00:00:40.933">menee suoraan ohitseni. Aivan edess&#228;ni.</p>
+      <p begin="00:00:41.000" end="00:00:41.933">Mik&#228; se oli?</p>
+      <p begin="00:00:42.000" end="00:00:45.467">Se ei pelottanut minua, paitsi ett&#228; se oli tosi l&#228;hell&#228;.</p>
+      <p begin="00:00:45.533" end="00:00:47.633">T&#228;m&#228;n j&#228;lkeen aloin katsella ymp&#228;rilleni. On kuin olet</p>
+      <p begin="00:00:47.700" end="00:00:51.633">t&#228;llaisessa paikassa ja sitten mietit "Miksi olen t&#228;&#228;ll&#228;?"</p>
+      <p begin="00:00:51.700" end="00:00:54.500">Sitten huomaan ett&#228; siell&#228; oli my&#246;s nainen minun oikealla puolella.</p>
+      <p begin="00:00:54.567" end="00:00:58.900">Sill&#228; oli todella pitk&#228; nen&#228; ja vihre&#228; iho.</p>
+      <p begin="00:00:58.967" end="00:01:01.467">H&#228;n py&#246;ritti sellaista valitsinta. Huomasin ett&#228; h&#228;n s&#228;&#228;teli</p>
+      <p begin="00:01:01.533" end="00:01:06.800">kaukaisuudessa olevan kaupungin valoja yl&#246;s ja alas.</p>
+      <p begin="00:01:06.867" end="00:01:10.100">Heti kun huomasin h&#228;net, nainen huomasi ett&#228; katselen h&#228;nt&#228;</p>
+      <p begin="00:01:10.167" end="00:01:12.367">ja h&#228;n kysyi "Mit&#228; muuta sin&#228; haluat?"</p>
+      <p begin="00:01:12.433" end="00:01:16.667">Ja min&#228; sanoin "Mit&#228; muuta sinulla on?"</p>
+      <p begin="00:01:33.667" end="00:01:38.533">T&#228;m&#228; tarina kertoo DMT:st&#228; tai dimetyylitryptamiinista.</p>
+      <p begin="00:01:38.600" end="00:01:40.933">Yksinkertainen yhdiste, jota l&#246;ytyy kaikkialta luonnosta,</p>
+      <p begin="00:01:41.000" end="00:01:45.333">jolla on syv&#228;llinen vaikutus ihmisen tietoisuuteen.</p>
+      <p begin="00:01:45.400" end="00:01:47.500">Yksi asia joka on minua suuresti kiinnostanut,</p>
+      <p begin="00:01:47.567" end="00:01:52.433">sen lis&#228;ksi millaisia vaikutuksia sill&#228; on,</p>
+      <p begin="00:01:52.500" end="00:01:56.633">on se ett&#228; se on niin yksinkertainen molekyyli.</p>
+      <p begin="00:01:56.700" end="00:01:59.600">DMT on lyhenne sanasta dimetyylitryptamiini.</p>
+      <p begin="00:01:59.667" end="00:02:01.933">N,N-dimetyylitryptamiini</p>
+      <p begin="00:02:02.000" end="00:02:06.633">Jos todella tarkastelee DMT:n rengasmaista rakennetta,</p>
+      <p begin="00:02:06.700" end="00:02:09.367">siin&#228; on oikeastaan vain nelj&#228; kohtaa</p>
+      <p begin="00:02:09.433" end="00:02:11.033">joihin voi liitt&#228; joitan.</p>
+      <p begin="00:02:11.100" end="00:02:13.833">Voit tehd&#228; esim. dietyleeni- tai dipropyyli-.</p>
+      <p begin="00:02:13.900" end="00:02:16.467">On olemassa my&#246;s muun tyyppisi&#228; hiiliketjuja joita voi yhdist&#228;&#228;</p>
+      <p begin="00:02:16.533" end="00:02:20.867">t&#228;h&#228;n p&#228;&#228;h&#228;n, jolloin saadaan aktiivisia yhdisteit&#228;,</p>
+      <p begin="00:02:20.933" end="00:02:25.167">mutta niiden vaikutus on erinlainen kuin DMT:n</p>
+      <p begin="00:02:25.233" end="00:02:30.233">Biosynteesin kannalta se on vain kahden askeleen p&#228;&#228;ss&#228; tryptofaanista.</p>
+      <p begin="00:02:30.300" end="00:02:34.267">Kahden pienen askeleen p&#228;&#228;ss&#228; tryptofaanista.</p>
+      <p begin="00:02:34.333" end="00:02:39.533">Tryptofaani on tietenkin aminohappo ja sit&#228; on kaikkialla.</p>
+      <p begin="00:02:39.600" end="00:02:44.567">Kaikissa organismeissa on tryptofaania ja kaikki organismit</p>
+      <p begin="00:02:44.633" end="00:02:50.767">omaavat kaksi avain entsyymi&#228;, jotka johtavat DMT:n syntesoimiseen.</p>
+      <p begin="00:02:50.833" end="00:02:53.600">N&#228;m&#228; entsyymit ovat ikivanhoja ja</p>
+      <p begin="00:02:53.667" end="00:02:55.200">niit&#228; on kaikkialla.</p>
+      <p begin="00:02:55.267" end="00:02:59.200">Ne ovat osa tavallista metabolista j&#228;rjestelm&#228;&#228;,</p>
+      <p begin="00:02:59.267" end="00:03:03.767">joten teoriassa mik&#228; vain voi syntetisoida DMT:t&#228;.</p>
+    </div>
+  </body>
+
+</tt>

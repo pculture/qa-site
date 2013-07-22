@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="es">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:02.000" end="00:00:05.033">(&#9834; Titileo, m&#250;sica de instrumentos de cuerda &#9834;)</p>
+      <p begin="00:00:22.567" end="00:00:26.633">(Ni&#241;os conversando)</p>
+      <p begin="00:00:26.833" end="00:00:28.167">No tenemos televisi&#243;n en esta casa,</p>
+      <p begin="00:00:28.233" end="00:00:30.833">todos tenemos computadores.</p>
+      <p begin="00:00:30.900" end="00:00:32.700">Mi hija y mi hijo tienen tres y dos a&#241;os, respectivamente,</p>
+      <p begin="00:00:32.767" end="00:00:34.367">cada uno tiene su propio computador</p>
+      <p begin="00:00:34.433" end="00:00:37.200">y se ubican al lado del computador de mam&#225;.</p>
+      <p begin="00:00:37.267" end="00:00:41.733">Mi peque&#241;a hija es realmente muy lista.</p>
+      <p begin="00:00:41.800" end="00:00:43.933">Sabe usar una computadora muy bien,</p>
+      <p begin="00:00:44.000" end="00:00:47.033">navega por internet y usa Photoshop,</p>
+      <p begin="00:00:47.100" end="00:00:49.067">usa Word. S&#243;lo tiene tres a&#241;os</p>
+      <p begin="00:00:49.133" end="00:00:51.233">y sabe leer, escribir y usar una computadora</p>
+      <p begin="00:00:51.300" end="00:00:53.067">como un adulto, es asombrosa.</p>
+      <p begin="00:00:53.133" end="00:00:54.367">No plane&#233; ser madre soltera.</p>
+      <p begin="00:00:54.433" end="00:00:56.733">ni estar atrapada en medio del desierto</p>
+      <p begin="00:00:56.800" end="00:00:57.800">donde no conozco a nadie,</p>
+      <p begin="00:00:57.867" end="00:00:59.167">es como si todo sehubiera ido por un agujero.</p>
+      <p begin="00:00:59.233" end="00:01:02.667">(disparos)</p>
+      <p begin="00:01:02.733" end="00:01:05.900">As&#237; que en ese momento dije debemos arrestarlo,</p>
+      <p begin="00:01:05.967" end="00:01:09.033">as&#237; que lo arrestamos y &#233;l llor&#243; como un beb&#233;.</p>
+      <p begin="00:01:09.100" end="00:01:11.033">"&#161;No puedo regresar a la c&#225;rcel! &#161;Ahhhhhhhh!"</p>
+      <p begin="00:01:11.100" end="00:01:13.033">y llor&#243; como un beb&#233;.</p>
+      <p begin="00:01:13.100" end="00:01:14.100">Yo dije est&#225; bien.</p>
+      <p begin="00:01:14.167" end="00:01:16.400">Le di la oportunidad de hacer peque&#241;os pagos</p>
+      <p begin="00:01:16.467" end="00:01:18.667">razonables, de los cuales no pag&#243; ninguno,</p>
+      <p begin="00:01:18.733" end="00:01:20.100">le advert&#237; que si no pagaba</p>
+      <p begin="00:01:20.167" end="00:01:21.867">Iba a venir y llevarme el auto de su abuela.</p>
+      <p begin="00:01:21.933" end="00:01:24.200">Eso fue lo que &#233;l nosforz&#243; a hacer, y el d&#237;a que</p>
+      <p begin="00:01:24.267" end="00:01:27.133">me llev&#233; este auto, su peque&#241;aabuela o madre de 87 a&#241;os</p>
+      <p begin="00:01:27.200" end="00:01:29.000">estaba all&#237; afuera con su caminador</p>
+      <p begin="00:01:29.067" end="00:01:30.367">mirando como nos llev&#225;bamos su auto.</p>
+      <p begin="00:01:30.433" end="00:01:31.767">Y fue una de las cosas m&#225;s duras</p>
+      <p begin="00:01:31.833" end="00:01:33.233">que tuve que hacer alguna vez, &#191;pero sabes?</p>
+      <p begin="00:01:33.300" end="00:01:33.700">Los negocios son negocios.</p>
+      <p begin="00:01:33.767" end="00:01:34.800">(disparo)</p>
+      <p begin="00:01:37.533" end="00:01:40.033">As&#237; que, ahora la arcilla est&#225; bien acondicionada,</p>
+      <p begin="00:01:40.100" end="00:01:41.967">est&#225; lista para ser trabajada.</p>
+      <p begin="00:01:42.033" end="00:01:45.033">Nos vamos a hacer una base,</p>
+      <p begin="00:01:45.100" end="00:01:47.133">y despu&#233;s, el entrar&#225; en acci&#243;n.</p>
+      <p begin="00:01:47.200" end="00:01:50.767">Vere si puede encontrar novia.</p>
+      <p begin="00:01:50.833" end="00:01:53.800">Dado que &#233;l est&#225; atravesando por este procedimiento quir&#250;rgico radical,</p>
+      <p begin="00:01:53.867" end="00:01:56.200">para reinstalar su pene.</p>
+      <p begin="00:01:56.267" end="00:01:58.100">imagina lo feliz que estar&#225; cuando despierte</p>
+      <p begin="00:01:58.167" end="00:02:00.933">y descubra que, tiene un pene nuevamente.</p>
+      <p begin="00:02:01.000" end="00:02:02.933">Vaya, sabes que eso es,</p>
+      <p begin="00:02:03.000" end="00:02:04.367">ese es un gran d&#237;a en la vida de un coyote.</p>
+      <p begin="00:02:04.433" end="00:02:05.367">&#191;&#161;Eh!?</p>
+      <p begin="00:02:05.433" end="00:02:07.233">Y supe que, obtener esta oportunidad de estar</p>
+      <p begin="00:02:07.300" end="00:02:10.067">en un show central, sab&#237;a que mi vida entera,</p>
+      <p begin="00:02:10.133" end="00:02:13.300">como, una vez que partiera a Los &#193;ngeles, una vez que pudiera entrar en un</p>
+      <p begin="00:02:13.367" end="00:02:16.933">reality show, y tener la oportunidadde mostrarle a la gente</p>
+      <p begin="00:02:17.000" end="00:02:19.100">acerca de m&#237;, que eso ser&#237;a la gran oportunidad</p>
+      <p begin="00:02:19.167" end="00:02:20.200">necesito avanzar con la corriente.</p>
+      <p begin="00:02:20.267" end="00:02:22.333">s&#243;lo necesito esa &#250;nica oportunidad de estar ah&#237;.</p>
+      <p begin="00:02:22.400" end="00:02:24.333">&#161;No! Lo que pasa es como, es como,</p>
+      <p begin="00:02:24.400" end="00:02:26.133">como que, est&#225;s intentando entrar en &#233;l como doble.</p>
+      <p begin="00:02:26.200" end="00:02:28.100">Y t&#250;, es mejor si es algo s&#243;lido.</p>
+      <p begin="00:02:28.167" end="00:02:29.500">Esa es la realidad.</p>
+      <p begin="00:02:29.567" end="00:02:30.767">No, no estoy bromeando.</p>
+      <p begin="00:02:30.833" end="00:02:35.000">Pero, uno as&#237;, despu&#233;s no, va r&#225;pido.</p>
+      <p begin="00:02:35.067" end="00:02:36.000">(Risas)</p>
+      <p begin="00:02:36.067" end="00:02:39.133">Y &#233;l viene de, por supuesto la,</p>
+      <p begin="00:02:39.200" end="00:02:41.200">historia del Antiguo Testamento, la historia de Jos&#233;.</p>
+      <p begin="00:02:41.267" end="00:02:45.333">y es algo as&#237; como una adaptaci&#243;n moderna de eso.</p>
+      <p begin="00:02:45.400" end="00:02:46.800">(conversaci&#243;n inteligible)</p>
+      <p begin="00:02:46.867" end="00:02:47.867">Eso es asombroso,</p>
+      <p begin="00:02:47.933" end="00:02:50.200">eso es asombroso y que Dios te bendiga y te cuide.</p>
+      <p begin="00:02:51.533" end="00:02:53.300">Definitivamente a&#250;n estoy creciendo espiritualmente.</p>
+      <p begin="00:02:53.367" end="00:02:55.133">No creo que jam&#225;s dejes de crecer.</p>
+      <p begin="00:02:55.200" end="00:02:58.300">Siempre hay posibilidad de acercarse m&#225;s a Dios</p>
+      <p begin="00:02:58.367" end="00:03:01.100">y cosas que aprender sobre &#201;l y...</p>
+      <p begin="00:03:03.200" end="00:03:05.333">maneras de cambiar tu vida y mejorar.</p>
+      <p begin="00:03:06.833" end="00:03:08.033">Esto es un desastre.</p>
+      <p begin="00:03:08.100" end="00:03:08.867">T&#250; eres un desastre.</p>
+      <p begin="00:03:08.933" end="00:03:09.767">Esto es un desastre.</p>
+      <p begin="00:03:09.833" end="00:03:10.767">(Risas)</p>
+      <p begin="00:03:10.833" end="00:03:11.833">Pero as&#237; es como son los gnocchis.</p>
+      <p begin="00:03:11.900" end="00:03:13.200">Un poco desastrosos.</p>
+      <p begin="00:03:13.267" end="00:03:16.367">Es como me dijo una vez un tipo, cuando estaba pintando.</p>
+      <p begin="00:03:16.433" end="00:03:19.333">Es as&#237; como t&#250;, como eram&#225;s b&#225;sica y luego comenz&#243;.</p>
+      <p begin="00:03:19.400" end="00:03:21.067">Bueno, no era m&#225;s basica,era solo una pintura que hice</p>
+      <p begin="00:03:21.133" end="00:03:22.833">y luego un d&#237;a la saqu&#233; y comenc&#233;</p>
+      <p begin="00:03:22.900" end="00:03:25.000">a pintar todas estas otras cosas</p>
+      <p begin="00:03:25.067" end="00:03:26.833">y luego comenz&#243; con los rojos y...</p>
+      <p begin="00:03:26.900" end="00:03:29.267">No, no recuerdo como era antes,</p>
+      <p begin="00:03:29.333" end="00:03:31.200">no puedo recordarlo, es muy dif&#237;cil mantener</p>
+      <p begin="00:03:31.267" end="00:03:32.433">unida a una banda y solo quiero tocar</p>
+      <p begin="00:03:32.500" end="00:03:35.533">con ciertos tipos con los que de verdad me encanta tocar.</p>
+      <p begin="00:03:35.600" end="00:03:36.567">Porque todo viene junto,</p>
+      <p begin="00:03:36.633" end="00:03:38.033">es como un teatro de verano, ya sabes.</p>
+      <p begin="00:03:38.100" end="00:03:39.300">&#161;Vaya!</p>
+      <p begin="00:03:39.367" end="00:03:42.300">Tengo un granero y tengo que, tengo que,</p>
+      <p begin="00:03:42.367" end="00:03:44.933">tengo los instrumentos, &#161;pondremos en marcha nuestro show!</p>
+      <p begin="00:03:45.000" end="00:03:45.933">Ya sabes lo que quiero decir.</p>
+      <p begin="00:03:46.000" end="00:03:47.833">A&#250;n tiene eso, ese elemento.</p>
+      <p begin="00:03:47.900" end="00:03:51.467">Esto es, eh, una de las series de Chinatown.</p>
+      <p begin="00:03:51.533" end="00:03:55.067">De mi ciudad natal. Despu&#233;s de que cerr&#243; el molino.</p>
+      <p begin="00:03:55.133" end="00:03:56.800">Es decir, bastante cerrado.</p>
+      <p begin="00:03:56.867" end="00:03:57.833">&#191;Qu&#233; te regal&#243; el a&#241;o pasado</p>
+      <p begin="00:03:57.900" end="00:03:59.167">para tu cumplea&#241;os la T&#237;a Lynny?</p>
+      <p begin="00:03:59.233" end="00:04:00.833">Creo que un disfraz de Power Ranger.</p>
+      <p begin="00:04:00.900" end="00:04:02.333">&#191;Te regal&#243; qu&#233;? No, &#161;no fue eso!</p>
+      <p begin="00:04:02.400" end="00:04:05.133">No te di&#243; un disfraz de Power Ranger,eso fue para Halloween.</p>
+      <p begin="00:04:05.200" end="00:04:06.467">Te di&#243; una guitarra el&#233;ctrica...</p>
+      <p begin="00:04:06.533" end="00:04:07.967">una guitarra 'l&#233;ctrica...</p>
+      <p begin="00:04:08.033" end="00:04:10.267">&#161;Una guitarra el&#233;ctrica de verdad!</p>
+      <p begin="00:04:10.333" end="00:04:12.233">&#191;Por qu&#233;? Porque le dijiste a t&#237;a Lynny que quer&#237;as</p>
+      <p begin="00:04:12.300" end="00:04:13.933">ser cuando grande una estrella de rock.</p>
+      <p begin="00:04:14.200" end="00:04:16.800">Sabes, si veo a una chica linda</p>
+      <p begin="00:04:16.867" end="00:04:18.467">&#161;solo quiero abrazarla!</p>
+      <p begin="00:04:18.533" end="00:04:19.533">(Risas)</p>
+      <p begin="00:04:19.600" end="00:04:22.167">Bueno, amo a esta de aqu&#237;, te lo digo.</p>
+      <p begin="00:04:22.233" end="00:04:23.967">Yo actualmente contacto alas mujeres y los hombres</p>
+      <p begin="00:04:24.033" end="00:04:26.233">de la industria del sexo y de la industria de la pornograf&#237;a</p>
+      <p begin="00:04:26.300" end="00:04:29.033">y me encanta sacarlos del pozo,</p>
+      <p begin="00:04:29.100" end="00:04:30.567">del pozo de la industria de la pornograf&#237;a.</p>
+      <p begin="00:04:32.433" end="00:04:37.000">Tiene 1800 pies cuadrados y la casa de hu&#233;spedes</p>
+      <p begin="00:04:37.067" end="00:04:39.433">tiene aproximadamente 600 pies cuadrados.</p>
+      <p begin="00:04:39.500" end="00:04:41.467">Esa peque&#241;a &#225;rea del garaje, no lo s&#233;.</p>
+      <p begin="00:04:41.533" end="00:04:45.433">Uhm, me tom&#243; cerca de un a&#241;o ponerme seria</p>
+      <p begin="00:04:45.500" end="00:04:50.233">sobre estudiar y me tom&#243; tres veces</p>
+      <p begin="00:04:50.300" end="00:04:52.267">aprobar el examen, pero lo hice y,</p>
+      <p begin="00:04:52.333" end="00:04:55.200">(respiraci&#243;n profunda), aqu&#237; estoy.</p>
+      <p begin="00:04:55.267" end="00:04:56.200">(Ri&#233;ndo)</p>
+      <p begin="00:04:56.267" end="00:04:57.867">Entr&#233; a bienes ra&#237;ces,</p>
+      <p begin="00:04:57.933" end="00:04:59.633">He estado ah&#237; durante cinco a&#241;os.</p>
+      <p begin="00:05:02.600" end="00:05:03.200">S&#237;p</p>
+      <p begin="00:05:03.267" end="00:05:04.867">Negro y suave.</p>
+      <p begin="00:05:04.933" end="00:05:06.367">No, a &#233;l le gusta el negro intenso.</p>
+      <p begin="00:05:06.433" end="00:05:07.433">Pesado oscuro.</p>
+      <p begin="00:05:07.500" end="00:05:11.533">Cuando estoy en casa, correteo por all&#237; sin maquillaje,</p>
+      <p begin="00:05:11.600" end="00:05:13.533">un par de pantalones de ejercicio, a pies descalzos, una camiseta</p>
+      <p begin="00:05:13.600" end="00:05:16.133">y generalmente estoy en cavando en el patio.</p>
+      <p begin="00:05:16.200" end="00:05:17.400">Porque me gusta plantar cosas.</p>
+      <p begin="00:05:17.467" end="00:05:20.933">Me gusta cultivar cosas. O decorar mi casa.</p>
+      <p begin="00:05:21.000" end="00:05:25.633">Me gusta hacer las cosas manuales, como,ya sabes, no lo s&#233;,</p>
+      <p begin="00:05:25.700" end="00:05:28.100">&#161;S&#233; que no parezco una diosa casera!</p>
+      <p begin="00:05:28.167" end="00:05:31.267">Pero, me gusta hacer cosas para la casa</p>
+      <p begin="00:05:31.333" end="00:05:35.933">y me encanta cocinar. Y soy muy buena cocinando.</p>
+      <p begin="00:05:36.000" end="00:05:40.133">Tuve unas muy malas</p>
+      <p begin="00:05:40.200" end="00:05:43.067">y terribles noticias en abril.</p>
+      <p begin="00:05:43.133" end="00:05:47.467">Me diagnosticaron la tercera fase del c&#225;ncer de melanoma.</p>
+      <p begin="00:05:47.533" end="00:05:49.567">As&#237; que los cuatro o cinco meses pasados</p>
+      <p begin="00:05:49.633" end="00:05:52.333">He estado lidiando con eso y con la quimioterapia.</p>
+      <p begin="00:05:52.400" end="00:05:55.367">Me recomendaron un an&#225;lisis minuciosode los ganglios linf&#225;ticos</p>
+      <p begin="00:05:55.433" end="00:05:59.000">y despu&#233;s estar con una fuerte dosis de interfer&#243;n,</p>
+      <p begin="00:05:59.067" end="00:06:00.933">que ser&#237;a intravenosa,</p>
+      <p begin="00:06:01.000" end="00:06:02.867">que me dar&#237;an cinco veces a la semana,</p>
+      <p begin="00:06:02.933" end="00:06:05.400">durante el primer mes y luego de eso,</p>
+      <p begin="00:06:05.467" end="00:06:09.433">tres veces a la semana, durante once meses,</p>
+      <p begin="00:06:09.500" end="00:06:11.300">por el resto del a&#241;o.</p>
+      <p begin="00:06:11.367" end="00:06:14.667">Y, uhm, ha sido dif&#237;cil.</p>
+      <p begin="00:06:15.333" end="00:06:17.100">De hecho, es genial por aqu&#237;, porque,</p>
+      <p begin="00:06:17.167" end="00:06:19.267">&#191;cu&#225;ntas estrellas porno viven aqu&#237;? lo s&#233;...</p>
+      <p begin="00:06:19.333" end="00:06:20.267">Hay m&#225;s,</p>
+      <p begin="00:06:20.333" end="00:06:21.967">vienen m&#225;s en camino, Sunset,</p>
+      <p begin="00:06:22.033" end="00:06:25.033">Houston, Taylor Saint-Claire reci&#233;n se mudaron ac&#225;.</p>
+      <p begin="00:06:25.100" end="00:06:26.433">&#191;Qu&#233; es, qu&#233; pas&#243; con...?</p>
+      <p begin="00:06:26.500" end="00:06:28.900">ella era muy candente, pero yo la amaba.</p>
+      <p begin="00:06:28.967" end="00:06:30.300">&#191;Qu&#233; le paso a...?</p>
+      <p begin="00:06:30.367" end="00:06:32.100">Oh, demonios, no conozco sus nombres.</p>
+      <p begin="00:06:32.167" end="00:06:33.267">De verdad soy malo en esto,</p>
+      <p begin="00:06:33.333" end="00:06:36.100">Recuerdas sus pechos. S&#237;.</p>
+      <p begin="00:06:36.167" end="00:06:38.333">Oh Dios, ella era... ah, eso no hace ninguna diferencia.</p>
+      <p begin="00:06:38.400" end="00:06:41.667">Ella vivi&#243; aqu&#237; durante mucho tiempo, ella era muy candente.</p>
+      <p begin="00:06:41.733" end="00:06:43.633">(conversaci&#243;n ininteligible)</p>
+      <p begin="00:06:43.700" end="00:06:45.167">Oh s&#237;, ella acaba de mudarse fuera de la ciudad,</p>
+      <p begin="00:06:45.233" end="00:06:46.900">s&#237;, acaba de mudarse fuera de la ciudad,</p>
+      <p begin="00:06:46.967" end="00:06:48.933">Y esa es la &#250;nica cosa que me perd&#237; en la vida.</p>
+      <p begin="00:06:49.000" end="00:06:50.933">He hecho casi todo lo que quer&#237;a.</p>
+      <p begin="00:06:51.000" end="00:06:53.300">Quise tener hijos, no tuve la oportunidad de</p>
+      <p begin="00:06:53.367" end="00:06:56.400">conocer a la mujer adecuada en el momento adecuado,</p>
+      <p begin="00:06:56.467" end="00:06:58.033">as&#237; que me perd&#237; un poco eso,</p>
+      <p begin="00:06:58.100" end="00:07:02.667">pero eh, nadie obtiene todo, hay otros hombres</p>
+      <p begin="00:07:02.733" end="00:07:04.500">que tienen hijos geniales y aman cada minuto con ellos</p>
+      <p begin="00:07:04.567" end="00:07:06.667">que desean ser yo, a modo de fantas&#237;a,</p>
+      <p begin="00:07:06.733" end="00:07:09.633">pero nadie obtiene todo lo que quiere.</p>
+      <p begin="00:07:09.700" end="00:07:20.567">Despu&#233;s de que termina la pornograf&#237;a</p>
+      <p begin="00:07:20.633" end="00:07:22.500">Comenc&#233; a modelar en noveno grado.</p>
+      <p begin="00:07:22.567" end="00:07:24.233">Mi mam&#225; me coloc&#243; en una escuela de modelaje,</p>
+      <p begin="00:07:24.300" end="00:07:26.100">me gradu&#233;,</p>
+      <p begin="00:07:26.167" end="00:07:28.633">comenc&#233; a hacer concursos de belleza,</p>
+      <p begin="00:07:28.700" end="00:07:32.433">b&#250;squedas de modelos y concursos de bikini.</p>
+      <p begin="00:07:32.500" end="00:07:38.633">As&#237; que, estuve expuesta a, no tantocomo la industria para adultos,</p>
+      <p begin="00:07:38.700" end="00:07:41.967">pero sab&#237;a que pod&#237;a hacer dinero con mi cuerpo.</p>
+      <p begin="00:07:42.033" end="00:07:44.033">Ten&#237;a una compa&#241;era de habitaci&#243;n en ese momento,</p>
+      <p begin="00:07:44.100" end="00:07:47.700">ella era bailarina y conoc&#237;a a un agente,</p>
+      <p begin="00:07:47.767" end="00:07:49.400">su nombre era Jim Salf.</p>
+      <p begin="00:07:49.467" end="00:07:53.033">Me dijo, "oye, hay un productor que vi&#243; tu fotograf&#237;a</p>
+      <p begin="00:07:53.100" end="00:07:54.600">y quiere que vayas a hacer una pel&#237;cula</p>
+      <p begin="00:07:54.667" end="00:07:55.733">&#191;c&#243;mo te gustar&#237;a hacer una pel&#237;cula?"</p>
+      <p begin="00:07:55.800" end="00:07:59.533">Y dije, "bueno, nunca he hecho una pel&#237;cula antes</p>
+      <p begin="00:07:59.600" end="00:08:01.733">pero claro, puedo hacerlo, no hay problema".</p>
+      <p begin="00:08:01.800" end="00:08:04.167">Fui, me hice trenzas como Bo Derek</p>
+      <p begin="00:08:04.233" end="00:08:06.667">en ese moment e hice mi primera escena.</p>
+      <p begin="00:08:06.733" end="00:08:08.500">Fue un tr&#237;o.</p>
+      <p begin="00:08:08.567" end="00:08:11.533">Nunca hab&#237;a estado con una mujer,</p>
+      <p begin="00:08:11.600" end="00:08:13.200">no sab&#237;a que hacer con una mujer,</p>
+      <p begin="00:08:13.267" end="00:08:16.500">no ten&#237;a idea de lo que hac&#237;a.</p>
+      <p begin="00:08:16.567" end="00:08:18.400">Pero al momento que esas luces me enfocaron,</p>
+      <p begin="00:08:18.467" end="00:08:20.767">juro que ah&#237; es donde deb&#237;a estar.</p>
+      <p begin="00:08:20.833" end="00:08:23.567">Todos dec&#237;an hazlo, hazlo, hazlo.</p>
+      <p begin="00:08:23.633" end="00:08:25.433">Y mientras m&#225;s haces, m&#225;s dinero puedes ganar</p>
+      <p begin="00:08:25.500" end="00:08:29.267">bailando en el circuito de danza,las revistas que puedes hacer,</p>
+      <p begin="00:08:29.333" end="00:08:32.200">mientras m&#225;s expuesta est&#225;s, puedes,</p>
+      <p begin="00:08:32.267" end="00:08:34.267">es decir, Dios, tengo una l&#237;nea de juguetes sexuales,</p>
+      <p begin="00:08:34.333" end="00:08:36.767">ahora queremos hacer una figura de acci&#243;n tuya.</p>
+      <p begin="00:08:36.833" end="00:08:37.767">&#161;Est&#225; bien!</p>
+      <p begin="00:08:37.833" end="00:08:40.567">Es decir, &#161;todo eso era genial!</p>
+      <p begin="00:08:40.633" end="00:08:43.433">Ya sabes, &#161;inscr&#237;beme! &#161;seguro!</p>
+      <p begin="00:08:43.500" end="00:08:47.167">Yo me estaba divirtiendo, es decir, hab&#237;a fan&#225;ticos</p>
+      <p begin="00:08:47.233" end="00:08:51.100">alineados por kil&#243;metros y kil&#243;metros, que volaron,</p>
+      <p begin="00:08:51.167" end="00:08:53.467">quiero decir, algunas personas llegaron desde Polonia y Berl&#237;n,</p>
+      <p begin="00:08:53.533" end="00:08:56.700">y ahora que lo pienso cuando fui a Polonia,</p>
+      <p begin="00:08:56.767" end="00:08:59.700">para firmar aut&#243;grafos y otras cosas,</p>
+      <p begin="00:08:59.767" end="00:09:02.433">&#161;cuando baj&#233; del avi&#243;n necesit&#233; un guardaespaldas!</p>
+      <p begin="00:09:02.500" end="00:09:08.733">para una estrella porno ser tan grande en todo el mundo,</p>
+      <p begin="00:09:08.800" end="00:09:12.133">era incre&#237;ble, me sent&#237;a como</p>
+      <p begin="00:09:12.200" end="00:09:13.533">&#161;que fuera una super estrella!</p>
+      <p begin="00:09:13.600" end="00:09:16.633">Hab&#237;a gente golpe&#225;ndose.</p>
+      <p begin="00:09:16.700" end="00:09:19.067">&#161;&#161;Ac&#225; est&#225; Houston!!</p>
+      <p begin="00:09:19.133" end="00:09:25.100">(aplausos)</p>
+      <p begin="00:09:25.167" end="00:09:27.233">Sal&#237; sobre el Dalai Lama en el peri&#243;dico,</p>
+      <p begin="00:09:27.300" end="00:09:30.567">Yo era el titular.Eso es incre&#237;ble.</p>
+      <p begin="00:09:30.633" end="00:09:35.133">Todav&#237;a estaba bajo contrato, estuve con Metro Productions</p>
+      <p begin="00:09:35.200" end="00:09:37.733">por unos cuantos a&#241;osy ellos fueron los que tambi&#233;n produjeron</p>
+      <p begin="00:09:37.800" end="00:09:41.067">la Houston 500, el gang-bang m&#225;s grande del mundo.</p>
+      <p begin="00:09:41.133" end="00:09:45.600">En ese momento cuando firm&#233; por primera vez con Metro,</p>
+      <p begin="00:09:45.667" end="00:09:50.233">supe que inmediatamente que iba a tomar</p>
+      <p begin="00:09:50.300" end="00:09:54.233">el t&#237;tulo de Jasmine Saint-Clair y hacer este gang-bang.</p>
+      <p begin="00:09:54.300" end="00:09:56.733">As&#237; que, al firmar mi contrato con Metro,</p>
+      <p begin="00:09:56.800" end="00:09:59.833">Yo ya sab&#237;a que iba a hacer eso,</p>
+      <p begin="00:09:59.900" end="00:10:03.733">as&#237; que, no estaba, no estaba buscando las cosas,</p>
+      <p begin="00:10:03.800" end="00:10:07.467">Oh tengo que ser m&#225;s loca y salvaje,</p>
+      <p begin="00:10:07.533" end="00:10:11.200">ya saben, honestamente todo vino a m&#237; naturalmente.</p>
+      <p begin="00:10:11.267" end="00:10:13.533">Igual, es decir, me hice una labioplastia</p>
+      <p begin="00:10:13.600" end="00:10:16.233">y eso fue antes de que muchas mujeres incluso supieran</p>
+      <p begin="00:10:16.300" end="00:10:18.400">que pod&#237;an reducir sus labios vaginales,</p>
+      <p begin="00:10:18.467" end="00:10:21.733">si es que tienen grandes labios vaginales, ya saben,</p>
+      <p begin="00:10:21.800" end="00:10:24.667">cuando me hice eso fue como, oh, no fue pan comido.</p>
+      <p begin="00:10:24.733" end="00:10:28.133">Voy a revestirlo de plexigl&#225;s y lo subastar&#233;.</p>
+      <p begin="00:10:28.200" end="00:10:29.167">Los recortes.</p>
+      <p begin="00:10:29.233" end="00:10:31.700">Quiero decir, es s&#243;lo que las cosas s&#243;lo me llegaron,</p>
+      <p begin="00:10:31.767" end="00:10:34.833">era s&#243;lo una puta de publicidad.</p>
+      <p begin="00:10:34.900" end="00:10:36.400">Y era buena en eso.</p>
+      <p begin="00:10:36.467" end="00:10:39.700">Hab&#237;a invertido mi dinero, me compr&#233; una casa,</p>
+      <p begin="00:10:39.767" end="00:10:43.733">as&#237; como, puse mucho dinero en fondos mutuos</p>
+      <p begin="00:10:43.800" end="00:10:47.500">y hace muchos a&#241;os cuando el mercado de valores se desplom&#243;</p>
+      <p begin="00:10:47.567" end="00:10:51.367">perd&#237; casi todos mis ahorros.</p>
+      <p begin="00:10:51.433" end="00:10:52.800">Y eso me doli&#243;.</p>
+      <p begin="00:10:52.867" end="00:10:55.400">Um, pero todav&#237;a tengo mi casa que tuve en los &#193;ngeles,</p>
+      <p begin="00:10:55.467" end="00:10:59.100">um, y luego cuando las cosas se pusieron duras por supuesto lo vend&#237;,</p>
+      <p begin="00:10:59.167" end="00:11:01.200">no por razones financieras, sino que quer&#237;a</p>
+      <p begin="00:11:01.267" end="00:11:02.767">salir de la industria.</p>
+      <p begin="00:11:03.500" end="00:11:05.800">Soy profesor de estudios de la comunicaci&#243;n</p>
+      <p begin="00:11:05.867" end="00:11:07.467">y Psicolog&#237;a en la UCLA.</p>
+      <p begin="00:11:07.533" end="00:11:13.633">Estudio una variedad de temas, pero una de las principales &#225;reas</p>
+      <p begin="00:11:13.700" end="00:11:16.500">que estudio es la pornograf&#237;a.</p>
+      <p begin="00:11:16.567" end="00:11:20.233">Soy Faith y desde 1984 he hecho unos 600 pel&#237;culas.</p>
+      <p begin="00:11:20.300" end="00:11:22.400">Unas mil escenas, dar o recibir</p>
+      <p begin="00:11:22.467" end="00:11:25.300">Um, he ganado varias docenas de premios por actuar</p>
+      <p begin="00:11:25.367" end="00:11:28.800">en presentaciones de sexo, favorita de los fans, esto y aquello.</p>
+      <p begin="00:11:28.867" end="00:11:33.233">Yo creo que puede ser este a&#241;o por mejor papel no-sexual</p>
+      <p begin="00:11:33.300" end="00:11:36.467">porque tambi&#233;n estuve como personaje ocasional</p>
+      <p begin="00:11:36.533" end="00:11:39.433">que no implica tener relaciones sexuales.</p>
+      <p begin="00:11:39.500" end="00:11:41.500">Escribo mucho sobre la industria del sexo</p>
+      <p begin="00:11:41.567" end="00:11:46.700">desde el ot&#241;o de 1995 hasta el oto&#241;o de 2007.</p>
+      <p begin="00:11:46.767" end="00:11:50.133">"La historia de X: cien a&#241;os de sexo en pel&#237;culas"</p>
+      <p begin="00:11:50.200" end="00:11:51.767">es el nombre de mi primer libro.</p>
+      <p begin="00:11:51.833" end="00:11:53.767">He estado en la industria del entretenimiento para adultos</p>
+      <p begin="00:11:53.833" end="00:11:57.200">durante b&#225;sicamente 35, 36 a&#241;os, en cada puesto.</p>
+      <p begin="00:11:57.267" end="00:11:59.867">Empec&#233; como escritor, me convirt&#237; en actor,</p>
+      <p begin="00:11:59.933" end="00:12:04.600">Director, agente y ahora soy algo as&#243; como Pap&#225; Oso</p>
+      <p begin="00:12:04.667" end="00:12:06.767">para la industria del entretenimiento para adultos, protegiendo</p>
+      <p begin="00:12:06.833" end="00:12:10.633">el bienestar para adultos, que dirijo y, cuido a los demasiado viejos</p>
+      <p begin="00:12:10.700" end="00:12:12.333">a delincuentes juveniles y a lo que me refiero como</p>
+      <p begin="00:12:12.400" end="00:12:15.400">el Parque de los condenados, que es la industria del porno.</p>
+      <p begin="00:12:15.467" end="00:12:17.867">Lo que les damos en la industria del entretenimiento para adultos</p>
+      <p begin="00:12:17.933" end="00:12:21.233">por un breve momento brillante es la inmortalidad,</p>
+      <p begin="00:12:21.300" end="00:12:22.767">la validez y la credibilidad.</p>
+      <p begin="00:12:22.833" end="00:12:26.267">Cada uno de nosotros, no importa cu&#225;n insignificante</p>
+      <p begin="00:12:26.333" end="00:12:28.633">pensemos que somos, quiere ser reconocido</p>
+      <p begin="00:12:28.700" end="00:12:30.667">en un momento u otro de nuestras vidas,</p>
+      <p begin="00:12:30.733" end="00:12:32.667">y cuando vas a esas convenciones, la gente se alinea</p>
+      <p begin="00:12:32.733" end="00:12:34.567">en tu stand como si estuvieran firmas</p>
+      <p begin="00:12:34.633" end="00:12:36.600">de atletas profesionales.</p>
+      <p begin="00:12:36.667" end="00:12:40.567">Mis padres se divorciaron.Mi pap&#225; nos llev&#243; lejos</p>
+      <p begin="00:12:40.633" end="00:12:42.633">de nuestra madre y huy&#243; con nosotros.</p>
+      <p begin="00:12:42.700" end="00:12:44.467">Se convirti&#243; en un alcoh&#243;lico.</p>
+      <p begin="00:12:44.533" end="00:12:45.867">Entonces me mud&#233; con mi mam&#225;</p>
+      <p begin="00:12:45.933" end="00:12:49.567">y la relaci&#243;n familiar cambi&#243;</p>
+      <p begin="00:12:49.633" end="00:12:51.233">Me sent&#237;a algo perdida.</p>
+      <p begin="00:12:51.300" end="00:12:55.833">Trabaj&#233; en un empleo com&#250;n en una oficina,</p>
+      <p begin="00:12:55.900" end="00:12:59.533">durante cinco a&#241;os, pero mientras hac&#237;a esas cosas</p>
+      <p begin="00:12:59.600" end="00:13:02.667">Encontr&#233; tambi&#233;n, un sitio web de modelaje</p>
+      <p begin="00:13:02.733" end="00:13:05.267">y puse mis fotos en el sitio web,</p>
+      <p begin="00:13:05.333" end="00:13:08.533">y entonces, yo todav&#237;a trabajaba en la oficina</p>
+      <p begin="00:13:08.600" end="00:13:13.767">pero personas me enviaron correos electr&#243;nicos sobre hacer sesiones fotogr&#225;ficas.</p>
+      <p begin="00:13:13.833" end="00:13:16.433">Y pens&#233; que ser&#237;a genial hacerlo,</p>
+      <p begin="00:13:16.500" end="00:13:20.300">cosas con bikini, a pesar de que nunca</p>
+      <p begin="00:13:20.367" end="00:13:23.333">me paseaba en bikinis, pens&#233; que ser&#237;a</p>
+      <p begin="00:13:23.400" end="00:13:25.233">algo genial.</p>
+      <p begin="00:13:25.300" end="00:13:29.667">As&#237;, finalmente, tom&#233; un trabajo, haciendo</p>
+      <p begin="00:13:29.733" end="00:13:31.767">ya saben, s&#243;lo me ped&#237;an</p>
+      <p begin="00:13:31.833" end="00:13:33.767">para hacer desnudos y eventualmente s&#243;lo lo hice.</p>
+      <p begin="00:13:33.833" end="00:13:38.333">Fui a mi primera sesi&#243;n, en una habitaci&#243;n de hotel,</p>
+      <p begin="00:13:38.400" end="00:13:41.433">y s&#243;lo deb&#237;a hacer topless,</p>
+      <p begin="00:13:41.500" end="00:13:44.567">y fue realmente atemorizante.</p>
+      <p begin="00:13:44.633" end="00:13:45.533">Um...</p>
+      <p begin="00:13:48.300" end="00:13:49.467">Fue raro.</p>
+      <p begin="00:13:49.967" end="00:13:52.667">Bien desde entonces me met&#237; en el negocio,</p>
+      <p begin="00:13:52.733" end="00:13:55.667">Siempre recib&#237; e-mails, que dec&#237;an</p>
+      <p begin="00:13:55.733" end="00:13:57.400">que no parece muy c&#243;moda,</p>
+      <p begin="00:13:57.467" end="00:13:59.967">y creo que es la inocencia,</p>
+      <p begin="00:14:00.033" end="00:14:04.433">que atrajo una gran cantidad de mis fans,</p>
+      <p begin="00:14:04.500" end="00:14:06.933">es que yo no luc&#237;a totalmente c&#243;moda en cualquier cosa que hiciera,</p>
+      <p begin="00:14:07.000" end="00:14:08.533">y aunque estuviera hablando no miraba</p>
+      <p begin="00:14:08.600" end="00:14:10.800">totalmente c&#243;moda y nunca mir&#233; segura,</p>
+      <p begin="00:14:10.867" end="00:14:13.867">no hablaba mucho, yo no</p>
+      <p begin="00:14:13.933" end="00:14:17.333">exageraba los ruidos o cualquier otra cosa.</p>
+      <p begin="00:14:17.400" end="00:14:23.000">No s&#233;, me comenc&#233; a sentir realmente deprimida sobre eso.</p>
+      <p begin="00:14:23.067" end="00:14:23.933">Honestamente.</p>
+      <p begin="00:14:24.000" end="00:14:27.733">Y, entonces toqu&#233; fondo</p>
+      <p begin="00:14:27.800" end="00:14:30.833">emocionalmente, cuando me molest&#233;</p>
+      <p begin="00:14:30.900" end="00:14:34.467">y fui al ba&#241;o y tir&#233; un vaso</p>
+      <p begin="00:14:34.533" end="00:14:37.833">en el suelo y luego un solo llor&#233;</p>
+      <p begin="00:14:37.900" end="00:14:42.267">y me tir&#233; al piso y comenc&#233;</p>
+      <p begin="00:14:42.333" end="00:14:44.533">a aplastar el vidrio con mis mu&#241;ecas y la sangre</p>
+      <p begin="00:14:44.600" end="00:14:46.800">s&#243;lo empez&#243; a ir a por todas partes y...</p>
+      <p begin="00:14:48.000" end="00:14:50.533">No s&#233;, s&#243;lo perd&#237; un poco esa esperanza.</p>
+      <p begin="00:14:50.767" end="00:14:53.433">Tengo un acosador, comenz&#243;</p>
+      <p begin="00:14:53.500" end="00:14:54.900">a enviarme correos odiosos.</p>
+      <p begin="00:14:54.967" end="00:14:57.333">&#201;l es ateo, o lo era m&#225;s o menos,</p>
+      <p begin="00:14:57.400" end="00:14:59.567">menospreciaba mis creencias</p>
+      <p begin="00:14:59.633" end="00:15:02.000">y trataba de hacerme debatir con el.</p>
+      <p begin="00:15:02.067" end="00:15:04.667">Se obsesion&#243; conmigo</p>
+      <p begin="00:15:04.733" end="00:15:08.000">y se enamor&#243; de mi.</p>
+      <p begin="00:15:08.067" end="00:15:10.633">Y entonces yo le dije que nunca saldr&#237;a con &#233;l.</p>
+      <p begin="00:15:10.700" end="00:15:12.700">Yo no te conozco, no s&#233; donde vives,</p>
+      <p begin="00:15:12.767" end="00:15:14.833">Eres demasiado joven, bla bla bla.</p>
+      <p begin="00:15:14.900" end="00:15:17.667">Y se volvi&#243; loco</p>
+      <p begin="00:15:17.733" end="00:15:18.800">(risa nerviosa)</p>
+      <p begin="00:15:18.867" end="00:15:20.500">Lo que me empuj&#243; al borde</p>
+      <p begin="00:15:20.567" end="00:15:22.800">me dijo que iba, que quer&#237;a</p>
+      <p begin="00:15:22.867" end="00:15:24.500">golpear mi cabeza en el concreto</p>
+      <p begin="00:15:24.567" end="00:15:26.467">hasta que mi cerebro se derramara.</p>
+      <p begin="00:15:26.533" end="00:15:28.867">Y luego matar a mi gato y cosas as&#237;.</p>
+      <p begin="00:15:28.933" end="00:15:32.033">Algunos fans me hab&#237;an contactaron el a&#241;o pasado, m&#225;s o menos,</p>
+      <p begin="00:15:32.100" end="00:15:34.700">y me comentaban que estaban orando por m&#237;</p>
+      <p begin="00:15:34.767" end="00:15:36.833">y que ellos ya no ve&#237;an porno</p>
+      <p begin="00:15:36.900" end="00:15:39.567">y, sabes, luego tuve otro tipo dici&#233;ndome</p>
+      <p begin="00:15:39.633" end="00:15:41.333">tienes que poner una advertencia en tu sitio de Internet</p>
+      <p begin="00:15:41.400" end="00:15:42.633">porque los ni&#241;os pueden ver esto</p>
+      <p begin="00:15:42.700" end="00:15:44.300">mi hijo de catorce a&#241;os encontr&#243; esto y entonces...</p>
+      <p begin="00:15:44.367" end="00:15:45.633">Todo tipo de personas,</p>
+      <p begin="00:15:45.700" end="00:15:48.800">envi&#225;ndome estos correos electr&#243;nicos, mensajes al azar y...</p>
+      <p begin="00:15:48.867" end="00:15:51.500">y por supuesto me gustar&#237;a,</p>
+      <p begin="00:15:51.567" end="00:15:53.000">Siempre he sido amable</p>
+      <p begin="00:15:53.067" end="00:15:56.933">con lo que me dijeran, pero hab&#237;a algunos,</p>
+      <p begin="00:15:57.000" end="00:15:58.700">ya me hab&#237;a endurecido,</p>
+      <p begin="00:15:58.767" end="00:16:00.600">al mismo tiempo, porque</p>
+      <p begin="00:16:00.667" end="00:16:03.067">no puedo hacer otra cosa, esto es en lo que soy buena.</p>
+      <p begin="00:16:03.133" end="00:16:04.900">Esto es todo, que yo sepa.</p>
+      <p begin="00:16:04.967" end="00:16:09.100">Y yo lo cre&#237; de en ese momento.</p>
+      <p begin="00:16:09.167" end="00:16:10.933">No tuve a nadie que</p>
+      <p begin="00:16:11.000" end="00:16:13.433">me estuviera diciendo eres mejor que eso.</p>
+      <p begin="00:16:13.500" end="00:16:15.467">As&#237;, um...(risa nerviosa)</p>
+      <p begin="00:16:16.500" end="00:16:18.967">Algunas estrellas para adultos "hallan a Dios" y lo dejan,</p>
+      <p begin="00:16:19.033" end="00:16:21.733">pero son personas que necesitaban,</p>
+      <p begin="00:16:21.800" end="00:16:24.567">que deb&#237;an desaparecer de todos modos y no ten&#237;an</p>
+      <p begin="00:16:24.633" end="00:16:25.967">la fuerza personal para hacerlo y as&#237; que lo hacen</p>
+      <p begin="00:16:26.033" end="00:16:28.567">buscan afuera algo que les ayude a salir.</p>
+      <p begin="00:16:28.633" end="00:16:29.933">Hay un mont&#243;n de gente en el negocio</p>
+      <p begin="00:16:30.000" end="00:16:31.867">que realmente no deber&#237;a estar aqu&#237;, porque tienen</p>
+      <p begin="00:16:31.933" end="00:16:35.067">conflictos sobre, si yo hab&#237;a sido criada</p>
+      <p begin="00:16:35.133" end="00:16:38.133">para estar avergonzada de mi cuerpo y a sentirme mal</p>
+      <p begin="00:16:38.200" end="00:16:40.700">sobre los hombres y sus deseos horribles,</p>
+      <p begin="00:16:40.767" end="00:16:44.933">pero hice porno por otras razones,eventualmente esas dos cosas</p>
+      <p begin="00:16:45.000" end="00:16:46.800">van a co-, las ruedas se van a salir del autob&#250;s.</p>
+      <p begin="00:16:46.867" end="00:16:49.033">Puedo s&#243;lo negarlo, la gente trata de negarlo,</p>
+      <p begin="00:16:49.100" end="00:16:51.533">rellenar sus sentimientos, con medicamentos</p>
+      <p begin="00:16:51.600" end="00:16:53.600">y alcohol o lo que sea que se metan</p>
+      <p begin="00:16:53.667" end="00:16:55.633">y despu&#233;s de un semestre, un a&#241;o, cinco a&#241;os,</p>
+      <p begin="00:16:55.700" end="00:16:58.000">diez a&#241;os, finalmente dices &#191;sabes qu&#233;?</p>
+      <p begin="00:16:58.067" end="00:16:59.133">Ya no puedo hacerlo.</p>
+      <p begin="00:16:59.200" end="00:17:02.000">Porque para la religi&#243;n y para la religi&#243;n occidental especialmente,</p>
+      <p begin="00:17:02.067" end="00:17:04.000">especialmente el cristianismo dice te amo,</p>
+      <p begin="00:17:04.067" end="00:17:05.833">Yo te perdono, puedes venir a casa ahora.</p>
+      <p begin="00:17:05.900" end="00:17:08.633">Y no te echar&#233;.</p>
+      <p begin="00:17:08.700" end="00:17:12.100">As&#237; que es incre&#237;blemente poderosa e incre&#237;blemente potente</p>
+      <p begin="00:17:12.167" end="00:17:15.767">tener alguien finalmente que te diga no me averg&#252;enzo de ti.</p>
+      <p begin="00:17:15.833" end="00:17:16.800">Te quiero.</p>
+      <p begin="00:17:16.867" end="00:17:18.900">Eres Bienvenido aqu&#237;.</p>
+      <p begin="00:17:18.967" end="00:17:20.433">&#161; Suscr&#237;banme!</p>
+      <p begin="00:17:20.500" end="00:17:21.767">Cuando est&#225;s involucrado en esta industria</p>
+      <p begin="00:17:21.833" end="00:17:23.167">pierdes tu humanidad.</p>
+      <p begin="00:17:23.233" end="00:17:25.067">Ya no eres tratado como un ser humano</p>
+      <p begin="00:17:25.133" end="00:17:28.167">por el ochenta por ciento de la gente por ah&#237;.</p>
+      <p begin="00:17:28.233" end="00:17:29.967">Ahora, ahora eres escoria.</p>
+      <p begin="00:17:30.033" end="00:17:33.167">Tal vez quieran hacer ciertas cosas contigo.</p>
+      <p begin="00:17:33.233" end="00:17:35.067">Pero entonces, todav&#237;a eres escoria.</p>
+      <p begin="00:17:35.133" end="00:17:37.633">Y, como si, pueden estar muy emocionados de tener</p>
+      <p begin="00:17:37.700" end="00:17:39.733">un encuentro contigo, pero cuando se salen,</p>
+      <p begin="00:17:39.800" end="00:17:41.733">cuando te sales van a querer quemar las s&#225;banas</p>
+      <p begin="00:17:41.800" end="00:17:44.967">Me met&#237; en el porno por accidente.</p>
+      <p begin="00:17:45.033" end="00:17:47.133">No era algo que planeaba hacer,</p>
+      <p begin="00:17:47.200" end="00:17:50.633">probablemente, era la cosa que menos</p>
+      <p begin="00:17:50.700" end="00:17:52.467">Pens&#233; que podr&#237;a hacer.</p>
+      <p begin="00:17:52.533" end="00:17:53.867">Cantaba en bandas despu&#233;s de que</p>
+      <p begin="00:17:53.933" end="00:17:55.800">el b&#233;isbol no funcion&#243;,</p>
+      <p begin="00:17:55.867" end="00:17:58.800">yo sab&#237;a que pod&#237;a cantar, as&#237; que empec&#233; a cantar en bandas de rock.</p>
+      <p begin="00:17:58.867" end="00:18:01.767">Y por supuesto como todos los musicos</p>
+      <p begin="00:18:01.833" end="00:18:04.400">tienes que hacer un poco de masa adicional al lado.</p>
+      <p begin="00:18:04.467" end="00:18:07.733">En realidad, mi primer trabajo desnudo fue como modelo de desnudo art&#237;stico</p>
+      <p begin="00:18:07.800" end="00:18:10.567">para clases de arte de la universidad y cosas as&#237;.</p>
+      <p begin="00:18:10.633" end="00:18:12.733">Realmente era un poco t&#237;mido, pero no sobre mi cuerpo</p>
+      <p begin="00:18:12.800" end="00:18:15.500">pr&#225;cticamente al hablar, era un poco t&#237;mido al hablar.</p>
+      <p begin="00:18:15.567" end="00:18:16.733">pero s&#237; me desnudaba delante de la gente</p>
+      <p begin="00:18:16.800" end="00:18:19.100">as&#237; que hice eso y una pareja de chicas en una de las clases</p>
+      <p begin="00:18:19.167" end="00:18:22.000">me pidieron tomar algunas fotos m&#237;as y lo hicieron y...</p>
+      <p begin="00:18:22.067" end="00:18:23.900">salieron bastante bien y me dijeron que pod&#237;an enviarlas</p>
+      <p begin="00:18:23.967" end="00:18:26.133">a algunas revistas, les dije que no me importaba, que hicieran lo que quiera.</p>
+      <p begin="00:18:26.200" end="00:18:27.433">Y las ech&#233; hacia fuera y y lo siguiente que s&#233;</p>
+      <p begin="00:18:27.500" end="00:18:30.667">es que recib&#237; una carta de Playgirl, pero High Society</p>
+      <p begin="00:18:30.733" end="00:18:33.800">dijeron que les gustar&#237;a hacer una cosa de chico/chica, dije que estaba bien.</p>
+      <p begin="00:18:33.867" end="00:18:35.767">As&#237; que eso fue lo primero que hice.</p>
+      <p begin="00:18:35.833" end="00:18:37.400">Y ten&#237;an una editora y al final</p>
+      <p begin="00:18:37.467" end="00:18:38.633">de la sesi&#243;n ella va</p>
+      <p begin="00:18:38.700" end="00:18:40.900">not&#233; que estaba encarg&#225;ndose bastante bien del negocio</p>
+      <p begin="00:18:40.967" end="00:18:43.033">&#191;alguna vez pens&#243; en hacer una pel&#237;cula porno?</p>
+      <p begin="00:18:43.100" end="00:18:44.800">porque tengo algunas conexiones.</p>
+      <p begin="00:18:44.867" end="00:18:47.200">Y nunca lo pens&#233;, no.</p>
+      <p begin="00:18:47.267" end="00:18:50.800">Ella va y dice creo que puedo conseguirte 250 d&#243;lares.</p>
+      <p begin="00:18:50.867" end="00:18:53.067">&#161;250 d&#243;lares!</p>
+      <p begin="00:18:53.133" end="00:18:54.933">En 1978 era buen dinero,</p>
+      <p begin="00:18:55.000" end="00:18:57.467">&#161;eso es lo que me ganaba en una semana!</p>
+      <p begin="00:18:57.533" end="00:18:59.667">As&#237; que le dije, bueno que voy a probar, sabes.</p>
+      <p begin="00:18:59.733" end="00:19:02.700">As&#237; que lo hice, supongo que era bueno</p>
+      <p begin="00:19:02.767" end="00:19:04.033">porque me siguieron llamando.</p>
+      <p begin="00:19:04.100" end="00:19:06.600">Eso es m&#225;s o menos como comenc&#233;.</p>
+      <p begin="00:19:06.667" end="00:19:08.933">Yo, yo sol&#237;a decir que es como pedir prestado el cuerpo de alguien</p>
+      <p begin="00:19:09.000" end="00:19:10.067">para masturbarme con el.</p>
+      <p begin="00:19:10.133" end="00:19:11.767">Perd&#243;n, si no est&#225;s ocupado te importa</p>
+      <p begin="00:19:11.833" end="00:19:13.867">&#191;Si me masturb&#243; en tu co&#241;o?</p>
+      <p begin="00:19:13.933" end="00:19:17.067">Es un algo as&#237;, lo que no es malo,</p>
+      <p begin="00:19:17.133" end="00:19:20.833">Me refiero a que ustedes saben, mejor que masturbarse uno, pero...</p>
+      <p begin="00:19:20.900" end="00:19:22.567">Cuando empec&#233; a producir j&#243;venes promesas</p>
+      <p begin="00:19:22.633" end="00:19:24.833">recibo esta carta en el correo y lo abro</p>
+      <p begin="00:19:24.900" end="00:19:28.533">y veo a esta incre&#237;blemente, bella,</p>
+      <p begin="00:19:28.600" end="00:19:31.067">chica rubia muy joven,</p>
+      <p begin="00:19:31.133" end="00:19:33.967">con hermosas tetas naturales,</p>
+      <p begin="00:19:34.033" end="00:19:36.733">carita de ni&#241;a y quiere saber</p>
+      <p begin="00:19:36.800" end="00:19:39.600">si puedo ayudarla a que entre en el negocio del porno.</p>
+      <p begin="00:19:39.667" end="00:19:41.567">Nombre de la chica era Jenna Jameson.</p>
+      <p begin="00:19:41.633" end="00:19:42.933">Recuerdo decir esto, es decir, Santo Cielo,</p>
+      <p begin="00:19:43.000" end="00:19:44.000">si consigo a esta chica que grabe para m&#237;</p>
+      <p begin="00:19:44.067" end="00:19:45.700">vamos a vender algunas cintas.</p>
+      <p begin="00:19:45.767" end="00:19:47.033">Le dije que bueno si no quieres hacer a chicos</p>
+      <p begin="00:19:47.100" end="00:19:48.500">Voy a dejar que escojas a cualquier chica que desees</p>
+      <p begin="00:19:48.567" end="00:19:51.700">si quieres hacer eso.Y le gustaban las chicas.</p>
+      <p begin="00:19:51.767" end="00:19:53.833">as&#237; que ella escogi&#243; esta chica con la que yo estaba trabajando</p>
+      <p begin="00:19:53.900" end="00:19:56.533">ese d&#237;a estaba haciendo su primera pel&#237;cula, Kylie Ireland,</p>
+      <p begin="00:19:56.600" end="00:19:58.567">as&#237; que Kylie y Jenna hac&#237;an lo suyo juntos</p>
+      <p begin="00:19:58.633" end="00:20:03.533">y todo iba bien y tomaron</p>
+      <p begin="00:20:03.600" end="00:20:05.267">una pausa y mientras ellos estaban acostadas ah&#237;...</p>
+      <p begin="00:20:05.333" end="00:20:07.700">Creo que dije algo as&#237;,</p>
+      <p begin="00:20:07.767" end="00:20:10.200">vaya, Jenna, se ve que tienes un sabroso co&#241;o.</p>
+      <p begin="00:20:10.267" end="00:20:13.567">Y creo que ella dijo, bien, &#191;por qu&#233; no vienes</p>
+      <p begin="00:20:13.633" end="00:20:14.600">y lo saboreas?.</p>
+      <p begin="00:20:14.667" end="00:20:16.167">Fui...</p>
+      <p begin="00:20:16.233" end="00:20:18.100">Bueno, yo estaba haciendo la c&#225;mara pero se la di</p>
+      <p begin="00:20:18.167" end="00:20:23.133">a mi ayudante, Bob agarra esto, comienza a grabar</p>
+      <p begin="00:20:23.200" end="00:20:25.167">As&#237; llego ah&#237; y empiezo a bajar</p>
+      <p begin="00:20:25.233" end="00:20:27.700">y comienza a dar chillidos, vaya que gritos ten&#237;a</p>
+      <p begin="00:20:27.767" end="00:20:30.200">y supuse que le gust&#243; un poco</p>
+      <p begin="00:20:30.267" end="00:20:32.933">y parec&#237;a que se estaba exitando y todo es bueno</p>
+      <p begin="00:20:33.000" end="00:20:35.633">y dije, estoy tan caliente ahora.</p>
+      <p begin="00:20:35.700" end="00:20:37.233">Y les dije, chicas &#191;quisieran tal vez,</p>
+      <p begin="00:20:37.300" end="00:20:38.867">darme una mamada doble o algo?</p>
+      <p begin="00:20:38.933" end="00:20:42.567">Y dijeron, seguro, podemos hacer eso, yo dec&#237;a...</p>
+      <p begin="00:20:42.633" end="00:20:43.800">&#161;Gracias, gracias!</p>
+      <p begin="00:20:43.867" end="00:20:48.100">Y lo hicieron y fue as&#237; y una semana despu&#233;s</p>
+      <p begin="00:20:48.167" end="00:20:50.133">ella me llam&#243; y dijo sabes qu&#233;</p>
+      <p begin="00:20:50.200" end="00:20:51.800">no estabas tan mal, creo que probablemente podr&#237;a hacer</p>
+      <p begin="00:20:51.867" end="00:20:54.200">una chico-chica contigo y el resto es</p>
+      <p begin="00:20:54.267" end="00:20:55.867">historia despu&#233;s de eso.</p>
+      <p begin="00:20:55.933" end="00:20:58.600">Grabando "It's a Daddy Thing" n&#250;mero tres!</p>
+      <p begin="00:20:58.667" end="00:21:00.533">Anciano, &#161;puedes hacer una reaparici&#243;n!</p>
+      <p begin="00:21:00.600" end="00:21:01.567">&#161; s&#237;!</p>
+      <p begin="00:21:01.633" end="00:21:03.867">all&#237;, &#161;a&#250;n sin viagra!</p>
+      <p begin="00:21:03.933" end="00:21:08.000">Um, y, sabes, es genial hacer lo tuyo,</p>
+      <p begin="00:21:08.067" end="00:21:10.800">te vas a casa, llegas, te relajas, pero</p>
+      <p begin="00:21:10.867" end="00:21:12.867">Yo soy la clase de hombre un poco cari&#241;oso,</p>
+      <p begin="00:21:12.933" end="00:21:15.100">y extra&#241;o un poco esa parte y por eso</p>
+      <p begin="00:21:15.167" end="00:21:16.600">me gusta tener una relaci&#243;n,</p>
+      <p begin="00:21:16.667" end="00:21:19.000">cuando esto ocurre, sabes.</p>
+      <p begin="00:21:19.067" end="00:21:22.000">Y sabes por ejemplo eh, Tera Patrick,</p>
+      <p begin="00:21:22.067" end="00:21:23.567">no s&#243;lo fue incre&#237;ble en la cama</p>
+      <p begin="00:21:23.633" end="00:21:26.233">pero s&#243;lo, s&#243;lo me gust&#243;.</p>
+      <p begin="00:21:26.300" end="00:21:28.933">Y, eso eso, sentido del humor y la locura,</p>
+      <p begin="00:21:29.000" end="00:21:31.933">un poco diferente, ya sabes.</p>
+      <p begin="00:21:32.000" end="00:21:35.767">Por lo tanto, no hab&#237;a salido con nadie en tanto tiempo cuando me encontr&#233; con ella</p>
+      <p begin="00:21:35.833" end="00:21:38.267">hab&#237;a olvidado c&#243;mo hacerlo y eh</p>
+      <p begin="00:21:38.333" end="00:21:40.333">Le ped&#237; que fueramos a cenar dos veces</p>
+      <p begin="00:21:40.400" end="00:21:42.000">y fuimos a cenar y pasamos un buen rato</p>
+      <p begin="00:21:42.067" end="00:21:45.133">pero la dej&#233; en su casa sin haberle preguntado</p>
+      <p begin="00:21:45.200" end="00:21:46.900">si pod&#237;a entrar.</p>
+      <p begin="00:21:46.967" end="00:21:50.300">Y no lo s&#233;, eh, podr&#237;a haberlo hecho,</p>
+      <p begin="00:21:50.367" end="00:21:51.800">ella podr&#237;a haber cre&#237;do que yo era raro.</p>
+      <p begin="00:21:51.867" end="00:21:55.133">Ya hab&#237;a tenido sexo con ella un par de veces, en c&#225;mara,</p>
+      <p begin="00:21:55.200" end="00:21:56.267">y ella podr&#237;a haber pensado que eso era raro,</p>
+      <p begin="00:21:56.333" end="00:21:58.400">no quise seguir y terminar la cita,</p>
+      <p begin="00:21:58.467" end="00:22:00.700">pero estaba demostr&#225;ndole que no estaba ah&#237;</p>
+      <p begin="00:22:00.767" end="00:22:05.100">por el sexo y quiz&#225;s no fue una buena jugada</p>
+      <p begin="00:22:05.167" end="00:22:06.833">porque si dejas a una bella mujer como ella</p>
+      <p begin="00:22:06.900" end="00:22:08.467">sola por demasiado tiempo, alguien m&#225;s va a llegar</p>
+      <p begin="00:22:08.533" end="00:22:10.067">y alguien m&#225;s lleg&#243; y</p>
+      <p begin="00:22:10.133" end="00:22:11.300">eso fue todo.</p>
+      <p begin="00:22:11.367" end="00:22:13.933">Lo logr&#243; hoy, ella es Tera Patrick</p>
+      <p begin="00:22:14.000" end="00:22:14.933">Hola</p>
+      <p begin="00:22:16.000" end="00:22:17.467">Tera es reconocida en el negocio</p>
+      <p begin="00:22:17.533" end="00:22:20.000">y no ha trabajado a menudo siquiera.</p>
+      <p begin="00:22:20.067" end="00:22:20.967">Aparentemente.</p>
+      <p begin="00:22:22.800" end="00:22:23.800">Uhm.</p>
+      <p begin="00:22:24.467" end="00:22:26.233">Me estaba relajando justo ahora.</p>
+      <p begin="00:22:26.300" end="00:22:28.233">Uno de mi favorito de todos los tiempos.</p>
+      <p begin="00:25:05.167" end="00:25:06.100">(risas)</p>
+      <p begin="00:25:37.633" end="00:25:38.700">(risas)</p>
+      <p begin="00:26:11.600" end="00:26:12.533">(risas)</p>
+      <p begin="00:26:47.367" end="00:26:48.500">(risas) s&#237;.</p>
+      <p begin="00:27:51.633" end="00:27:52.700">Yo quiero hacer eso.</p>
+      <p begin="00:28:45.300" end="00:28:48.167">Y todos trabajamos con mutuamente un poco.</p>
+      <p begin="00:31:51.700" end="00:31:52.867">&#201;l &#191;qu&#233;?!</p>
+      <p begin="00:31:53.933" end="00:31:54.700">Gah!</p>
+      <p begin="00:31:55.400" end="00:31:56.200">Ow!</p>
+      <p begin="00:31:56.767" end="00:31:57.200">(gritando)</p>
+      <p begin="00:31:57.267" end="00:31:58.700">D&#233;jalo solo!</p>
+      <p begin="00:31:58.767" end="00:31:59.833">Dije d&#233;jenlo solo!</p>
+      <p begin="00:31:59.900" end="00:32:00.633">(chillando)</p>
+      <p begin="00:32:00.700" end="00:32:02.867">Ow!Ah, oh uh!</p>
+      <p begin="00:32:04.933" end="00:32:07.400">Mi tobillo!&#161;Ay, mi tobillo!</p>
+      <p begin="00:32:07.933" end="00:32:09.633">Yo era terrible en el sexo.</p>
+      <p begin="00:33:06.233" end="00:33:07.167">Una verdadera delicia.</p>
+      <p begin="00:33:07.233" end="00:33:08.567">Nos hicimos amigos en ese momento.</p>
+      <p begin="00:33:08.633" end="00:33:10.300">Yo no le dije a mis padres que estaba haciendo esto.</p>
+      <p begin="00:33:29.600" end="00:33:31.567">No sucedi&#243;.</p>
+      <p begin="00:34:29.333" end="00:34:30.800">Sucedi&#243; por casualidad.</p>
+      <p begin="00:35:47.467" end="00:35:48.800">Y lo cre&#243; con la ciudad del pecado,</p>
+      <p begin="00:36:55.967" end="00:36:58.367">hacer un ejemplo de m&#237; con el sistema judicial.</p>
+      <p begin="00:38:44.000" end="00:38:46.100">porque siempre sol&#237;an ir noche aficionado de reloj.</p>
+      <p begin="00:41:13.267" end="00:41:14.200">Arrrrg! Arr!</p>
+      <p begin="00:41:14.267" end="00:41:15.533">&#161; Su&#233;ltame!</p>
+      <p begin="00:41:21.100" end="00:41:21.533">BOFETADA!</p>
+      <p begin="00:41:21.600" end="00:41:22.200">Ow!</p>
+      <p begin="00:41:22.267" end="00:41:25.200">&#9834;</p>
+      <p begin="00:42:19.267" end="00:42:20.200">No s&#233; cu&#225;nto es,</p>
+      <p begin="00:42:20.267" end="00:42:22.300">tal vez como 50, 60 mil en un mes.</p>
+      <p begin="00:42:27.300" end="00:42:28.633">Gan&#233; otros 21 mil.</p>
+      <p begin="00:42:43.000" end="00:42:44.200">Es lo que siempre dije.</p>
+      <p begin="00:42:44.267" end="00:42:47.367">(ri&#233;ndose nerviosa)</p>
+      <p begin="00:42:47.967" end="00:42:49.167">Nadie entra en este negocio</p>
+      <p begin="00:43:04.000" end="00:43:05.167">Las putas son putas.</p>
+      <p begin="00:44:14.433" end="00:44:17.100">con el</p>
+      <p begin="00:46:11.033" end="00:46:12.467">Hola no hacemos esto no m&#225;s!</p>
+      <p begin="00:46:43.267" end="00:46:44.000">No...</p>
+      <p begin="00:47:21.867" end="00:47:22.900">Woohoo!</p>
+      <p begin="00:49:33.267" end="00:49:37.600">,</p>
+      <p begin="00:50:06.700" end="00:50:10.000">y s&#243;lo agarr&#233; el trapo y me fui.</p>
+      <p begin="00:50:35.133" end="00:50:36.667">un ambiente familiar que ofrecen.</p>
+      <p begin="00:50:41.100" end="00:50:42.233">Chica, te quiero!</p>
+      <p begin="00:50:42.300" end="00:50:44.067">Todo el mundo es muy cari&#241;oso y la raz&#243;n por qu&#233;</p>
+      <p begin="00:50:44.133" end="00:50:47.100">son tan cari&#241;osos es porque esa es su familia.</p>
+      <p begin="00:50:47.167" end="00:50:49.533">Um, son, sobre todo en mi d&#237;a, estamos marginados.</p>
+      <p begin="00:50:49.600" end="00:50:52.700">De hecho, yo todav&#237;a tengo cicatrices de intentos de suicidio.</p>
+      <p begin="00:50:52.767" end="00:50:54.367">Y yo--</p>
+      <p begin="00:50:54.433" end="00:50:56.233">Dije que no me importa, no quiero vivir m&#225;s.</p>
+      <p begin="00:50:56.300" end="00:51:00.167">Y tom&#243; como treinta p&#237;ldoras de prescripci&#243;n y EH,</p>
+      <p begin="00:51:00.233" end="00:51:03.500">No muero, pero yo sab&#237;a que quer&#237;a, malo,</p>
+      <p begin="00:51:03.567" end="00:51:05.500">y recuerdo llorando a Dios,</p>
+      <p begin="00:51:05.567" end="00:51:08.033">borracho de mi culo en Jack Daniels,</p>
+      <p begin="00:51:08.100" end="00:51:10.600">pensando si usted me get outta esto que va a servir</p>
+      <p begin="00:51:10.667" end="00:51:13.200">con toda mi vida, juro a Dios que voy a hacer lo que quieras!</p>
+      <p begin="00:51:13.267" end="00:51:14.500">S&#243;lo get me outta esto.</p>
+      <p begin="00:51:15.300" end="00:51:16.700">Es decir, personas que son bien ajustado</p>
+      <p begin="00:51:16.767" end="00:51:20.000">y tienen habilidades para la vida buena y que est&#225;n haciendo algo</p>
+      <p begin="00:51:20.067" end="00:51:22.400">significativo y constructivo con sus vidas,</p>
+      <p begin="00:51:22.467" end="00:51:25.067">no est&#225;n en la industria para comenzar con</p>
+      <p begin="00:51:25.133" end="00:51:27.167">las personas que est&#225;n en la industria son realmente rotas</p>
+      <p begin="00:51:27.233" end="00:51:30.533">trenzado almas sin un mont&#243;n de grandes habilidades</p>
+      <p begin="00:51:30.600" end="00:51:33.333">y EH, sabes que est&#225;n turbulentos almas.</p>
+      <p begin="00:51:33.400" end="00:51:35.167">Por lo tanto, siempre van a ser</p>
+      <p begin="00:51:35.233" end="00:51:37.133">girando y girando en el viento.</p>
+      <p begin="00:51:37.467" end="00:51:39.067">Hab&#237;amos pasado mucho tiempo en la iglesia.</p>
+      <p begin="00:51:39.133" end="00:51:42.433">Realmente convenc&#237; a mi mam&#225; para mandarme a Christian School</p>
+      <p begin="00:51:42.500" end="00:51:46.733">cuando ten&#237;a 14 a&#241;os, encontr&#243; una manera de recoger los fondos,</p>
+      <p begin="00:51:46.800" end="00:51:52.033">y me fui y estuve muy involucrado en mi iglesia,</p>
+      <p begin="00:51:52.100" end="00:51:52.800">sin ella.</p>
+      <p begin="00:51:52.867" end="00:51:54.467">Sabe usted, era justo, era yo</p>
+      <p begin="00:51:54.533" end="00:51:56.267">y mis amigos y que era c&#243;mo</p>
+      <p begin="00:51:56.333" end="00:51:58.367">Crec&#237; y ya saben,</p>
+      <p begin="00:51:58.433" end="00:52:01.033">todo eso cambi&#243; cuando ten&#237;a 16 a&#241;os.</p>
+      <p begin="00:52:01.100" end="00:52:02.033">(risas)</p>
+      <p begin="00:52:02.100" end="00:52:03.600">Pas&#233; la noche en casa de una novia,</p>
+      <p begin="00:52:03.667" end="00:52:07.400">y ella era una madre adolescente y casado,</p>
+      <p begin="00:52:07.467" end="00:52:12.000">y su marido, me drogaron. Con &#225;cido.</p>
+      <p begin="00:52:12.067" end="00:52:13.700">Y yo, en aquel momento que tuve,</p>
+      <p begin="00:52:13.767" end="00:52:15.400">Incluso no hab&#237;a permanecido hasta m&#225;s all&#225; de diez.</p>
+      <p begin="00:52:15.467" end="00:52:18.033">As&#237;, EH, yo no, yo no estaba bien versado</p>
+      <p begin="00:52:18.100" end="00:52:19.367">en el mundo de la droga.</p>
+      <p begin="00:52:19.433" end="00:52:22.100">Y que cambi&#243; todo para m&#237;.</p>
+      <p begin="00:52:22.167" end="00:52:24.433">Hice lo mejor que pude para escuela graduados secundaria</p>
+      <p begin="00:52:24.500" end="00:52:26.600">tan r&#225;pido como pude y y moverse hacia fuera.</p>
+      <p begin="00:52:26.667" end="00:52:28.433">Yo estaba sin la casa por diecisiete a&#241;os.</p>
+      <p begin="00:52:28.500" end="00:52:30.300">Yo sab&#237;a que algunas personas en la industria pornogr&#225;fica</p>
+      <p begin="00:52:30.367" end="00:52:32.600">y yo andaba con ellos y sigo siendo amigos con ellos ahora,</p>
+      <p begin="00:52:32.667" end="00:52:34.400">No les culpo para pasar el rato conmigo</p>
+      <p begin="00:52:34.467" end="00:52:36.767">cuando yo era joven causa eran demasiado j&#243;venes, por lo que--</p>
+      <p begin="00:52:36.833" end="00:52:37.767">(risas)</p>
+      <p begin="00:52:37.833" end="00:52:41.567">Se reunieron unas estrellas porno y, s&#243;lo--</p>
+      <p begin="00:52:42.167" end="00:52:43.333">Baj&#243; en amor con ellos.</p>
+      <p begin="00:52:43.400" end="00:52:47.167">Yo andaba con ellos hasta que fui durante dieciocho a&#241;os,</p>
+      <p begin="00:52:47.233" end="00:52:50.267">hice mi primera pel&#237;cula, y, Sabe usted,</p>
+      <p begin="00:52:50.333" end="00:52:51.433">fue a partir de ah&#237;.</p>
+      <p begin="00:52:51.500" end="00:52:54.800">Bueno, el primer a&#241;o que estuve en la industria para adultos,</p>
+      <p begin="00:52:54.867" end="00:52:57.633">y estaba haciendo pel&#237;culas que he trabajado para cada empresa</p>
+      <p begin="00:52:57.700" end="00:52:58.900">bajo el sol.</p>
+      <p begin="00:52:58.967" end="00:53:01.333">Sabe usted el m&#225;s sucio de las clases m&#225;s sucias de las empresas,</p>
+      <p begin="00:53:01.400" end="00:53:03.733">hacer cosas locas.</p>
+      <p begin="00:53:03.800" end="00:53:08.467">He trabajado para nadie, yo podr&#237;a, para hacer dinero.</p>
+      <p begin="00:53:08.533" end="00:53:11.767">Le dije a mi mam&#225; y ella voltea hacia fuera.</p>
+      <p begin="00:53:11.833" end="00:53:15.333">Ella no estaba feliz sobre &#233;l, pero finalmente cuando yo,</p>
+      <p begin="00:53:15.400" end="00:53:17.800">ya saben, form&#243; una carrera, y firm&#233; con vivo,</p>
+      <p begin="00:53:17.867" end="00:53:19.733">y los cuadros eran m&#225;s bonito,</p>
+      <p begin="00:53:19.800" end="00:53:25.567">y el metraje fue menos asqueroso, ha ha ha ha!</p>
+      <p begin="00:53:25.633" end="00:53:29.367">&#191;Um, lleg&#243; a un acuerdo y usted sabe, lo que ella va a hacer?</p>
+      <p begin="00:53:29.433" end="00:53:30.633">Es lo que es.</p>
+      <p begin="00:53:32.700" end="00:53:35.200">Ser una ni&#241;a viva es, Sabe usted,</p>
+      <p begin="00:53:35.267" end="00:53:38.833">es lo que quiere ser actriz de cada industria para adultos.</p>
+      <p begin="00:53:38.900" end="00:53:41.733">Sabe usted de Vivid lo mejor m&#225;s grande</p>
+      <p begin="00:53:41.800" end="00:53:44.633">y la empresa m&#225;s conocida en el mundo.</p>
+      <p begin="00:53:44.700" end="00:53:45.700">Tienen las chicas m&#225;s guapas,</p>
+      <p begin="00:53:45.767" end="00:53:47.167">tienen los mejores fot&#243;grafos.</p>
+      <p begin="00:53:47.233" end="00:53:50.233">Um, tienen la mejor prensa.</p>
+      <p begin="00:53:50.300" end="00:53:53.333">Y, (respiraci&#243;n profunda), es s&#237;, tiene,</p>
+      <p begin="00:53:53.400" end="00:53:55.533">es una serie de clase alta de las ni&#241;as.</p>
+      <p begin="00:53:55.600" end="00:53:57.667">Me gustar&#237;a pensar--me refiero, por supuesto, usted sabe,</p>
+      <p begin="00:53:57.733" end="00:53:58.733">es como la clase alta como va a hacer.</p>
+      <p begin="00:53:58.800" end="00:54:00.567">(risas)</p>
+      <p begin="00:54:00.633" end="00:54:04.167">Um, es un ingreso estable, as&#237; que no s&#233; si</p>
+      <p begin="00:54:04.233" end="00:54:06.867">Necesariamente, pensaba que era mejor que nadie,</p>
+      <p begin="00:54:06.933" end="00:54:10.100">pero yo sab&#237;a que me met&#237;a a la prensa que yo quer&#237;a,</p>
+      <p begin="00:54:10.167" end="00:54:13.667">por lo tanto, yo estaba feliz.Sabes.</p>
+      <p begin="00:54:14.200" end="00:54:16.333">Tom&#233; muy en serio mis pel&#237;culas.</p>
+      <p begin="00:54:16.400" end="00:54:17.867">Estudi&#233; mis scripts.</p>
+      <p begin="00:54:19.333" end="00:54:20.600">La mitad del tiempo no apedreado,</p>
+      <p begin="00:54:20.667" end="00:54:23.233">Cuando hice el di&#225;logo, pero tom&#233; mi actuar</p>
+      <p begin="00:54:23.300" end="00:54:25.133">muy en serio porque era la &#250;nica vez que</p>
+      <p begin="00:54:25.200" end="00:54:26.600">Nunca iba a llegar a hacer cualquier acci&#243;n.</p>
+      <p begin="00:54:26.667" end="00:54:30.800">Por lo tanto, lo tom&#233; en serio!Y me encant&#243;!</p>
+      <p begin="00:54:30.867" end="00:54:35.733">Y um, pens&#233; que era bueno pero, sabes--</p>
+      <p begin="00:54:35.800" end="00:54:38.433">Suena tan clich&#233; decir</p>
+      <p begin="00:54:38.500" end="00:54:41.500">Tom&#233; el actuar en mi pel&#237;cula porno seriamente.</p>
+      <p begin="00:54:41.567" end="00:54:42.667">Pero, pero lo hice.</p>
+      <p begin="00:54:42.733" end="00:54:46.400">Y que era mi parte favorita, era la actuaci&#243;n.</p>
+      <p begin="00:54:48.433" end="00:54:49.733">Y a veces el sexo.</p>
+      <p begin="00:54:50.200" end="00:54:51.633">(risas)</p>
+      <p begin="00:54:53.700" end="00:54:55.733">Usted puede usar drogas y partido y bebida,</p>
+      <p begin="00:54:55.800" end="00:54:59.300">no importa qu&#233; opci&#243;n de carrera tiene, pero,</p>
+      <p begin="00:54:59.367" end="00:55:02.267">(respiraci&#243;n profunda), s&#237;, usted est&#225; abierto</p>
+      <p begin="00:55:02.333" end="00:55:04.700">a la vida del partido mucho m&#225;s.</p>
+      <p begin="00:55:04.767" end="00:55:06.367">Es decir, que colgar hacia fuera con rockstars,</p>
+      <p begin="00:55:06.433" end="00:55:10.600">Sabes que siempre hay partes porno para ir a, um--</p>
+      <p begin="00:55:12.200" end="00:55:17.367">Por supuesto, luchando como un adicto, aprovech&#243;</p>
+      <p begin="00:55:17.433" end="00:55:18.900">de todo lo que estaba all&#237;, sabes,</p>
+      <p begin="00:55:18.967" end="00:55:20.900">todo el alcohol, todos--</p>
+      <p begin="00:55:20.967" end="00:55:23.200">todos de las drogas, hice em todos!</p>
+      <p begin="00:55:23.267" end="00:55:24.933">(risas)</p>
+      <p begin="00:55:25.400" end="00:55:26.333">Um--</p>
+      <p begin="00:55:26.400" end="00:55:29.167">No es un negocio seguro en</p>
+      <p begin="00:55:29.233" end="00:55:30.500">Si usted desea permanecer limpio.</p>
+      <p begin="00:55:31.933" end="00:55:33.233">No es seguro.</p>
+      <p begin="00:55:34.500" end="00:55:36.233">Um, y no estoy diciendo esto</p>
+      <p begin="00:55:36.300" end="00:55:37.700">para hacerte sentir l&#225;stima por m&#237; ni nada</p>
+      <p begin="00:55:37.767" end="00:55:39.533">pero tuve una ni&#241;ez muy dura,</p>
+      <p begin="00:55:39.600" end="00:55:42.733">y um, creo que me perd&#237; muy durante muchos a&#241;os.</p>
+      <p begin="00:55:42.800" end="00:55:46.200">Um, no sab&#237;a qui&#233;n era yo, como mucha gente.</p>
+      <p begin="00:55:46.267" end="00:55:52.433">Um, tuve una comprensi&#243;n muy deformada de lo que el amor era.</p>
+      <p begin="00:55:52.500" end="00:55:57.333">Y um, creo que debido a la falta de amor en mi vida o una,</p>
+      <p begin="00:55:57.400" end="00:56:00.367">la incapacidad para determinar qu&#233; realmente es el amor</p>
+      <p begin="00:56:00.433" end="00:56:04.500">Vi atenci&#243;n sexual, como el amor.</p>
+      <p begin="00:56:04.567" end="00:56:06.733">Y cuando ha sufrido muchos abusos sexuales en su vida</p>
+      <p begin="00:56:06.800" end="00:56:09.500">es comprensible creo por qu&#233; se sentir&#237;a as&#237;.</p>
+      <p begin="00:56:10.467" end="00:56:12.567">Tratando de decirle...</p>
+      <p begin="00:56:12.633" end="00:56:14.533">&#191;en qu&#233; momento tom&#233; la decisi&#243;n</p>
+      <p begin="00:56:14.600" end="00:56:17.433">para ser que Tiffany millones no es algo pude responder</p>
+      <p begin="00:56:17.500" end="00:56:19.800">realmente en una sola frase aseada.</p>
+      <p begin="00:56:19.867" end="00:56:21.867">Resulta de una combinaci&#243;n de cosas.</p>
+      <p begin="00:56:22.900" end="00:56:26.633">Esencialmente la raz&#243;n que llev&#243; incluso a</p>
+      <p begin="00:56:26.700" end="00:56:28.433">ese negocio era empezar porque era</p>
+      <p begin="00:56:28.500" end="00:56:32.900">una sola madre, como mucha gente y um,</p>
+      <p begin="00:56:32.967" end="00:56:37.333">Yo viv&#237;a en el sur de California, no tenia ninguna familia,</p>
+      <p begin="00:56:37.400" end="00:56:38.933">Yo no sab&#237;a que muchas personas,</p>
+      <p begin="00:56:39.000" end="00:56:40.600">su padre no era ayudarme con ella,</p>
+      <p begin="00:56:40.667" end="00:56:43.533">y daba bastante miedo de ser madre soltera honestamente,</p>
+      <p begin="00:56:43.600" end="00:56:45.767">y as&#237;, quiero decir que me imagin&#233;, sabes</p>
+      <p begin="00:56:45.833" end="00:56:48.767">Yo ten&#237;a una opci&#243;n: pod&#237;a trabajar ocho horas al d&#237;a,</p>
+      <p begin="00:56:48.833" end="00:56:51.767">y conmutar una o dos horas de trayecto en la autopista,</p>
+      <p begin="00:56:51.833" end="00:56:54.367">hacer, siete ocho d&#243;lares la hora,</p>
+      <p begin="00:56:54.433" end="00:56:56.933">s&#243;lo para pagar la mitad de eso en impuestos,</p>
+      <p begin="00:56:57.000" end="00:56:59.767">cuidado infantil y mi hija contigo s&#233;</p>
+      <p begin="00:56:59.833" end="00:57:01.767">el cielo sabe que durante el d&#237;a,</p>
+      <p begin="00:57:01.833" end="00:57:05.233">o pude volver a entrar en la industria del entretenimiento para adultos</p>
+      <p begin="00:57:05.300" end="00:57:07.400">porque yo hab&#237;a sido un a&#241;os stripper antes.</p>
+      <p begin="00:57:07.467" end="00:57:09.567">Y entonces pens&#233;, siempre hab&#237;a sido de un ventilador</p>
+      <p begin="00:57:09.633" end="00:57:12.233">de pel&#237;culas para adultos ya tantas veces habr&#237;a mirado</p>
+      <p begin="00:57:12.300" end="00:57:14.833">en esas pel&#237;culas y EH, yo hab&#237;a pensado en hombre,</p>
+      <p begin="00:57:14.900" end="00:57:17.567">Sabe usted qu&#233; pod&#237;a hacer eso y yo podr&#237;amos hacerlo mejor.</p>
+      <p begin="00:57:17.633" end="00:57:19.967">Sabes. Y pens&#233; bien diablos, por qu&#233; no?</p>
+      <p begin="00:57:20.033" end="00:57:21.767">Quiero decir que yo no tengo un hombre en mi vida</p>
+      <p begin="00:57:21.833" end="00:57:25.267">Sal&#237; de su padre, y EH, definitivamente necesitaba el dinero,</p>
+      <p begin="00:57:25.333" end="00:57:27.833">pero que realmente s&#243;lo brinda me una oportunidad,</p>
+      <p begin="00:57:27.900" end="00:57:30.967">trabajar lo menos posible para obtener todo el dinero posible</p>
+      <p begin="00:57:31.033" end="00:57:32.633">para ser la causa de mi hija, eso es todo</p>
+      <p begin="00:57:32.700" end="00:57:35.967">Ten&#237;a muchas ganas de que quer&#237;a a mi hija para tener una gran vida,</p>
+      <p begin="00:57:36.033" end="00:57:37.867">y un hogar seguro, en un buen barrio,</p>
+      <p begin="00:57:37.933" end="00:57:39.467">buen cuidado de los ni&#241;os, y quer&#237;a</p>
+      <p begin="00:57:39.533" end="00:57:40.967">a pasar tanto tiempo con ella como pude.</p>
+      <p begin="00:57:41.033" end="00:57:43.767">Y trabajando en la industria del cine para adultos me permiti&#243;</p>
+      <p begin="00:57:43.833" end="00:57:47.267">para trabajar un d&#237;a o dos a la semana y estar con mi hija</p>
+      <p begin="00:57:47.333" end="00:57:48.700">el resto de la semana y ganar m&#225;s dinero</p>
+      <p begin="00:57:48.767" end="00:57:50.033">que las personas que trabajaron, Sabe usted,</p>
+      <p begin="00:57:50.100" end="00:57:52.300">cinco d&#237;as a la semana, ocho horas al d&#237;a.</p>
+      <p begin="00:57:52.367" end="00:57:54.533">&#191;Qu&#233; hacer en las pel&#237;culas porno no es sexo.</p>
+      <p begin="00:57:54.600" end="00:57:55.967">Quiero decir que s&#233; que est&#225; siendo penetrado,</p>
+      <p begin="00:57:56.033" end="00:57:57.467">pero es as&#237;, usted sabe.</p>
+      <p begin="00:57:57.533" end="00:57:58.467">Es como esto.</p>
+      <p begin="00:57:58.533" end="00:57:59.667">Quiero decir que es lo que se siente.</p>
+      <p begin="00:57:59.733" end="00:58:03.700">Es algo um, ocupando un abismo en su cuerpo.</p>
+      <p begin="00:58:03.767" end="00:58:05.833">Realmente, Es as&#237;.</p>
+      <p begin="00:58:05.900" end="00:58:07.967">Es as&#237; que es lo que podr&#237;a ser as&#237;.</p>
+      <p begin="00:58:08.033" end="00:58:09.533">EH, EH, no hay ninguna emoci&#243;n</p>
+      <p begin="00:58:09.600" end="00:58:11.667">no hay ninguna sensaci&#243;n, um, Sabe usted,</p>
+      <p begin="00:58:11.733" end="00:58:15.033">Sabes, tendr&#233; que decir esta divertida historia poco!</p>
+      <p begin="00:58:15.100" end="00:58:16.700">&#191;tengo tantos fans suben a m&#237;</p>
+      <p begin="00:58:16.767" end="00:58:18.500">en aut&#243;grafos fichajes independientemente y dime que</p>
+      <p begin="00:58:18.567" end="00:58:20.333">Yo era su estrella porno favorita,</p>
+      <p begin="00:58:20.400" end="00:58:22.000">porque todas las otras chicas estaban fingiendo</p>
+      <p begin="00:58:22.067" end="00:58:23.600">y yo fui la que conoc&#237;an,</p>
+      <p begin="00:58:23.667" end="00:58:26.367">hombre, que era de verdad. (risas)</p>
+      <p begin="00:58:26.433" end="00:58:28.500">Y EH, y te puedo decir que cuando una mujer de fingiendo</p>
+      <p begin="00:58:28.567" end="00:58:30.067">y yo estar riendo!</p>
+      <p begin="00:58:30.667" end="00:58:33.400">Ver mi cara.Ver mi cara.</p>
+      <p begin="00:58:35.933" end="00:58:38.100">(gritando)</p>
+      <p begin="00:58:38.400" end="00:58:39.800">Porque ser&#237;a como--</p>
+      <p begin="00:58:39.867" end="00:58:41.533">Soy el mayor falso maldito que nunca conociste!</p>
+      <p begin="00:58:41.600" end="00:58:44.333">Quiero decir que soy bueno, por eso me pagan mucho dinero.</p>
+      <p begin="00:58:44.400" end="00:58:45.967">Incluso cuando estaba en el negocio,</p>
+      <p begin="00:58:46.033" end="00:58:49.833">No pruebo de todas las actividades ajenas.</p>
+      <p begin="00:58:49.900" end="00:58:51.667">Um, creo que fui a varios partidos s&#243;lo</p>
+      <p begin="00:58:51.733" end="00:58:53.033">porque hab&#237;a comida gratis y boozes,</p>
+      <p begin="00:58:53.100" end="00:58:54.733">y me gustar&#237;a ir y yo comer y cosas</p>
+      <p begin="00:58:54.800" end="00:58:56.067">y entonces todo el mundo ir&#237;a a los eventos</p>
+      <p begin="00:58:56.133" end="00:58:58.533">y ser&#237;a como no, estoy yendo a casa y va a la cama.</p>
+      <p begin="00:58:58.600" end="00:58:59.533">(risas)</p>
+      <p begin="00:58:59.600" end="00:59:00.867">Siempre he sido temprano a la cama, temprano para levantarse.</p>
+      <p begin="00:59:00.933" end="00:59:03.567">Yo nunca quise ser parte de esa escena y um,</p>
+      <p begin="00:59:03.633" end="00:59:04.900">incluso cuando estaba trabajando en el cine</p>
+      <p begin="00:59:04.967" end="00:59:06.900">Me sent&#237; siempre un poco como una mosca en la pared.</p>
+      <p begin="00:59:06.967" end="00:59:08.833">Como s&#233; que mi cuerpo estaba implicado,</p>
+      <p begin="00:59:08.900" end="00:59:10.500">porque, obviamente, yo estuve ah&#237;.</p>
+      <p begin="00:59:10.567" end="00:59:12.600">Pero siempre tuve esa sensaci&#243;n extra&#241;a</p>
+      <p begin="00:59:12.667" end="00:59:13.900">este verdadero sentimiento de desconexi&#243;n.</p>
+      <p begin="00:59:13.967" end="00:59:15.767">Como si yo fuera buscarlos aqu&#237;.</p>
+      <p begin="00:59:15.833" end="00:59:18.467">Cuando mi padre muri&#243; en el 94, uh como dije</p>
+      <p begin="00:59:18.533" end="00:59:19.967">me dej&#243; un mont&#243;n de dinero,</p>
+      <p begin="00:59:20.033" end="00:59:22.033">y de repente me di cuenta de que estoy libre.</p>
+      <p begin="00:59:22.100" end="00:59:23.900">No tengo que ser ella ya.</p>
+      <p begin="00:59:23.967" end="00:59:26.000">Y yo me alej&#233;.Y eso fue todo.</p>
+      <p begin="00:59:26.900" end="00:59:29.067">Nadie pone una pistola a la cabeza de nadie para ello.</p>
+      <p begin="00:59:29.133" end="00:59:31.400">Si usted no est&#225; advertido sobre lo que va a pasar</p>
+      <p begin="00:59:31.467" end="00:59:33.000">entonces la persona que no advierto es la persona que de</p>
+      <p begin="00:59:33.067" end="00:59:35.500">culpable en ese respeto, pero est&#225;n haciendo</p>
+      <p begin="00:59:35.567" end="00:59:37.733">para &#250;nico lo que no se niegan.</p>
+      <p begin="00:59:37.800" end="00:59:40.733">Eso absoluto deseo de muerte, para el reconocimiento,</p>
+      <p begin="00:59:40.800" end="00:59:42.500">validaci&#243;n y credibilidad.</p>
+      <p begin="00:59:42.567" end="00:59:44.667">Y son bienvenidos, pero eventualmente</p>
+      <p begin="00:59:44.733" end="00:59:47.733">su pasado alcanzar&#225;n a ellos y tienen</p>
+      <p begin="00:59:47.800" end="00:59:50.867">ser consciente del hecho de que X es para siempre.</p>
+      <p begin="00:59:52.067" end="00:59:56.367">Cuando me met&#237; en el negocio, um, yo ten&#237;a una meta.</p>
+      <p begin="00:59:56.433" end="00:59:58.933">Era mi objetivo "rota hacia fuera". (risas)</p>
+      <p begin="00:59:59.000" end="01:00:02.100">Pero yo ten&#237;a un objetivo, ser</p>
+      <p begin="01:00:02.167" end="01:00:06.900">y jubilados, veintis&#233;is, en los &#250;ltimos veintisiete.</p>
+      <p begin="01:00:06.967" end="01:00:08.467">Um--</p>
+      <p begin="01:00:09.833" end="01:00:11.567">Y estaba, por veinticuatro.</p>
+      <p begin="01:00:13.167" end="01:00:17.967">No dejo el negocio porque EH, quer&#237;a.</p>
+      <p begin="01:00:18.033" end="01:00:20.167">He dejado la causa del negocio que sent&#237; que ten&#237;a que.</p>
+      <p begin="01:00:20.233" end="01:00:22.500">Que es lo correcto a hacer.</p>
+      <p begin="01:00:22.567" end="01:00:28.433">En 04 de noviembre de 1984, fue el primer titular,</p>
+      <p begin="01:00:28.500" end="01:00:30.600">en el San Francisco Chronicle,</p>
+      <p begin="01:00:30.667" end="01:00:34.000">en cuanto a la transmisi&#243;n heterosexual del SIDA.</p>
+      <p begin="01:00:34.633" end="01:00:37.033">Un buen amigo m&#237;o, que era un matem&#225;tico</p>
+      <p begin="01:00:37.100" end="01:00:39.433">hab&#237;a le&#237;do el mismo art&#237;culo que hice y &#233;l se apoder&#243;</p>
+      <p begin="01:00:39.500" end="01:00:41.167">a mi casa en la tarde y me dijo</p>
+      <p begin="01:00:41.233" end="01:00:44.600">"Yo he hecho algunos c&#225;lculos basados en los n&#250;meros,</p>
+      <p begin="01:00:44.667" end="01:00:45.967">divulga aqu&#237; en la historia.</p>
+      <p begin="01:00:46.033" end="01:00:48.533">Y est&#225;s en el lugar equivocado en el momento equivocado.</p>
+      <p begin="01:00:48.600" end="01:00:50.667">Quiero dejar."</p>
+      <p begin="01:00:50.733" end="01:00:52.467">Tuve tres trabajos que se alinearon para diciembre,</p>
+      <p begin="01:00:52.533" end="01:00:55.100">mi esposa dijo que no quiere hacerlo.</p>
+      <p begin="01:00:55.167" end="01:00:56.733">Y mi pensamiento fue mirada, s&#243;lo lo est&#225;n intentando</p>
+      <p begin="01:00:56.800" end="01:00:58.800">para vender peri&#243;dicos, eso es lo que hacen peri&#243;dicos,</p>
+      <p begin="01:00:58.867" end="01:01:01.667">asusta, y as&#237; que no creo que el peligro es</p>
+      <p begin="01:01:01.733" end="01:01:04.600">real y yo voy a seguir adelante y hacer estos trabajos.</p>
+      <p begin="01:01:04.667" end="01:01:06.167">As&#237; que sali&#243; y lo hice los tres puestos de trabajo.</p>
+      <p begin="01:01:06.233" end="01:01:09.000">Y cuando llegu&#233; a casa y nos va a ir</p>
+      <p begin="01:01:09.067" end="01:01:11.533">a la cama, esa noche, ella me dijo</p>
+      <p begin="01:01:11.600" end="01:01:12.933">"&#191;Crees que deber&#237;amos?"</p>
+      <p begin="01:01:14.533" end="01:01:16.867">&#191;Debe? &#191;Qu&#233; debe?&#191;Tener relaciones sexuales?</p>
+      <p begin="01:01:16.933" end="01:01:19.700">"s&#237;, &#191;crees que deber&#237;amos tener sexo?"</p>
+      <p begin="01:01:20.167" end="01:01:22.433">Y dije: &#191;qu&#233; hablas?</p>
+      <p begin="01:01:22.500" end="01:01:24.100">Y ella dijo, y puedo cotizarle literales,</p>
+      <p begin="01:01:24.167" end="01:01:25.533">Me acord&#233; de esto todo este tiempo.</p>
+      <p begin="01:01:25.600" end="01:01:29.433">Ella dijo "no crees que ser&#237;a prudente,</p>
+      <p begin="01:01:29.500" end="01:01:33.733">Si uno de nosotros segu&#237;a vivo, para criar a los hijos?"</p>
+      <p begin="01:01:35.800" end="01:01:37.133">Pchew!</p>
+      <p begin="01:01:38.133" end="01:01:39.967">Era un muro de ladrillo.</p>
+      <p begin="01:01:40.033" end="01:01:43.933">Alguien me hab&#237;a ofrecido un trato de DVD y yo--</p>
+      <p begin="01:01:44.000" end="01:01:45.467">Yo sab&#237;a que CD-ROMS no hacer el bien,</p>
+      <p begin="01:01:45.533" end="01:01:46.567">Sab&#237;a que los discos l&#225;ser no hacer el bien,</p>
+      <p begin="01:01:46.633" end="01:01:48.067">y pens&#233;, EH, esta cosa de DVD,</p>
+      <p begin="01:01:48.133" end="01:01:51.800">sea lo que sea, no reemplazar&#225; a video, por lo que firm&#233;</p>
+      <p begin="01:01:51.867" end="01:01:53.600">sin tener un abogado mire ni nada,</p>
+      <p begin="01:01:53.667" end="01:01:58.500">y cuando el DVD empez&#243; tomando el relevo de videos,</p>
+      <p begin="01:01:58.567" end="01:02:00.000">Mir&#233; el contrato y descubri&#243; ahora</p>
+      <p begin="01:02:00.067" end="01:02:04.000">tienen mi DVD derechos, tambi&#233;n ten&#237;a los derechos en internet,</p>
+      <p begin="01:02:04.067" end="01:02:06.133">y la empresa no era muy buena.</p>
+      <p begin="01:02:07.567" end="01:02:09.900">Y una vez que me di cuenta que no iba a ganar mucho dinero</p>
+      <p begin="01:02:09.967" end="01:02:12.967">Me qued&#233; con Evil Angel mi distribuidor,</p>
+      <p begin="01:02:13.033" end="01:02:14.567">durante el tiempo que he podido, entonces cuando dejaron de</p>
+      <p begin="01:02:14.633" end="01:02:15.733">haciendo videos era &#233;l.</p>
+      <p begin="01:02:15.800" end="01:02:18.500">Los que hacen bien, salen porque quieren ser</p>
+      <p begin="01:02:18.567" end="01:02:20.200">no porque ten&#237;an que salir.</p>
+      <p begin="01:02:20.267" end="01:02:24.000">Y, han hecho su paz con lo que hicieron,</p>
+      <p begin="01:02:24.067" end="01:02:26.200">y que muestra en su cojinete,</p>
+      <p begin="01:02:26.267" end="01:02:28.567">y la forma en que se encuentran, en el mundo.</p>
+      <p begin="01:02:28.967" end="01:02:31.600">El dinero que ahorrar fue realmente r&#225;pido.</p>
+      <p begin="01:02:31.667" end="01:02:35.667">Um, y entonces yo estaba solo, raspado.</p>
+      <p begin="01:02:35.733" end="01:02:41.000">Y fue, um, fue la comunidad cristiana que</p>
+      <p begin="01:02:41.067" end="01:02:43.600">realmente vino junto a m&#237; y me ayud&#243; a salir.</p>
+      <p begin="01:02:43.667" end="01:02:44.833">Habr&#225; tiempos cuando era,</p>
+      <p begin="01:02:44.900" end="01:02:46.867">no sab&#237;a c&#243;mo iba a pagar mi alquiler,</p>
+      <p begin="01:02:46.933" end="01:02:50.867">y, cualquiera, era simplemente personas que no saben,</p>
+      <p begin="01:02:50.933" end="01:02:54.100">simplemente personas que han le&#237;do mi historia, que quer&#237;an ayudar.</p>
+      <p begin="01:02:54.300" end="01:02:56.667">Cuando dej&#233; el negocio vend&#237; mi casa</p>
+      <p begin="01:02:56.733" end="01:03:02.733">en Los Angeles, um, yo primero-me retir&#233; y entonces,</p>
+      <p begin="01:03:02.800" end="01:03:06.033">um, me he decidido, tengo que salir de L.A.</p>
+      <p begin="01:03:06.100" end="01:03:08.733">Necesitaba salir de L.A.</p>
+      <p begin="01:03:08.800" end="01:03:13.633">Es decir, dondequiera que iba, McDonald ' s drive-thru,</p>
+      <p begin="01:03:13.700" end="01:03:18.100">um, clubes nocturnos, la sala de cine, el parque,</p>
+      <p begin="01:03:18.167" end="01:03:21.567">Universales Studios, quiero decir, lo que sea,</p>
+      <p begin="01:03:21.633" end="01:03:24.067">No, he podido ir a ninguna parte.Quiero decir que no s&#233;</p>
+      <p begin="01:03:24.133" end="01:03:26.067">&#191;c&#243;mo estas grandes celebridades lidiar con todo.</p>
+      <p begin="01:03:26.133" end="01:03:27.067">Me refiero a que deben ha-</p>
+      <p begin="01:03:27.133" end="01:03:28.200">Tienen que tener por supuesto guardaespaldas</p>
+      <p begin="01:03:28.267" end="01:03:31.700">y cosas as&#237; causa no ten&#237;a guardaespaldas</p>
+      <p begin="01:03:31.767" end="01:03:33.867">y no pod&#237;a manejarlo.</p>
+      <p begin="01:03:33.933" end="01:03:36.767">Es imposible llevar una vida de l de la norma, despu&#233;s de que salga de &#233;l.</p>
+      <p begin="01:03:36.833" end="01:03:39.133">Esto es para siempre. Esta es la carta escarlata.</p>
+      <p begin="01:03:39.200" end="01:03:41.533">Y &#233;l, nunca se va, va tratando con el,</p>
+      <p begin="01:03:41.600" end="01:03:44.633">las repercusiones de este para siempre.</p>
+      <p begin="01:03:44.700" end="01:03:46.233">&#191;Qu&#233;, (suspiro),</p>
+      <p begin="01:03:46.300" end="01:03:49.200">lo que suele suceder es que te a&#237;sla.</p>
+      <p begin="01:03:49.267" end="01:03:54.733">Y as&#237;, desarrollar un, un temor,</p>
+      <p begin="01:03:54.800" end="01:03:56.900">de haber sido rechazada una y otra y otra vez</p>
+      <p begin="01:03:56.967" end="01:03:59.633">y as&#237; pones paredes entre usted y otras personas,</p>
+      <p begin="01:03:59.700" end="01:04:02.933">aislarte y no unirse a comunidades,</p>
+      <p begin="01:04:03.000" end="01:04:05.800">y, cuando est&#233; aislada es menos probable</p>
+      <p begin="01:04:05.867" end="01:04:06.933">a sufrir el rechazo.</p>
+      <p begin="01:04:07.000" end="01:04:09.133">Pero tambi&#233;n est&#225;s aislado y living on the edge</p>
+      <p begin="01:04:09.200" end="01:04:12.267">por lo tanto, um, nunca puede obtener lejos de esto,</p>
+      <p begin="01:04:12.333" end="01:04:14.133">no hay ninguna soluci&#243;n.</p>
+      <p begin="01:04:14.200" end="01:04:18.933">Para pasar de ser EH, una estrella de cine,</p>
+      <p begin="01:04:19.000" end="01:04:21.667">a zippo durante la noche, la cabeza de alfiler</p>
+      <p begin="01:04:21.733" end="01:04:24.633">era igual, devastador a mi ego.</p>
+      <p begin="01:04:25.833" end="01:04:28.067">Si usted est&#225; buscando una larga carrera en el negocio del porno</p>
+      <p begin="01:04:28.133" end="01:04:31.133">usted probablemente est&#225; buscando en el lugar equivocado.</p>
+      <p begin="01:04:31.200" end="01:04:36.567">&#191;EH, la ni&#241;a promedio, podr&#237;a ser buena para, dos a&#241;os?</p>
+      <p begin="01:04:36.633" end="01:04:40.867">Tapas de dos a tres a&#241;os para la muchacha promedio.</p>
+      <p begin="01:04:40.933" end="01:04:43.933">Si tienes suerte y eres una de las pocas superestrellas,</p>
+      <p begin="01:04:44.000" end="01:04:45.767">no muy muchas de las personas, est&#225; bien, entonces haz EH,</p>
+      <p begin="01:04:45.833" end="01:04:47.767">Sabe usted, seis siete a&#241;os. Ocho a&#241;os.</p>
+      <p begin="01:04:47.833" end="01:04:50.100">Y si juegas tus cartas,</p>
+      <p begin="01:04:50.167" end="01:04:52.967">y hacer su derecho de lo financiero, entonces puedes,</p>
+      <p begin="01:04:53.033" end="01:04:55.800">ya sabes, hacer algo de dinero e inst&#225;lese.</p>
+      <p begin="01:04:56.900" end="01:04:58.400">En general creo que me alegro de que lo hice.</p>
+      <p begin="01:04:58.467" end="01:05:00.767">Me refiero a la &#250;nica cosa que no me gusta es que,</p>
+      <p begin="01:05:00.833" end="01:05:02.800">lo que realmente quer&#237;a hacer es actuar y ser</p>
+      <p begin="01:05:02.867" end="01:05:06.233">en comedias y tv y me siento como que me retiene.</p>
+      <p begin="01:05:06.300" end="01:05:08.067">Pero no s&#233; si s&#243;lo hubiera pegado</p>
+      <p begin="01:05:08.133" end="01:05:09.733">con la ruta normal si tengo EH,</p>
+      <p begin="01:05:09.800" end="01:05:11.000">termin&#243; haci&#233;ndolo a tv</p>
+      <p begin="01:05:11.067" end="01:05:12.900">Qui&#233;n sabe que podr&#237;a, tal vez todav&#237;a ser</p>
+      <p begin="01:05:12.967" end="01:05:14.433">en la Florida va a castings,</p>
+      <p begin="01:05:14.500" end="01:05:16.233">tal vez yo nunca hubiera salido aqu&#237;.</p>
+      <p begin="01:05:16.300" end="01:05:18.067">As&#237;, y he conseguido hacer un mont&#243;n de pel&#237;culas de Cinemax</p>
+      <p begin="01:05:18.133" end="01:05:20.133">que son muy divertido y todas esas cosas</p>
+      <p begin="01:05:20.200" end="01:05:22.767">He llegado a hacer debido a probablemente el porno.</p>
+      <p begin="01:05:22.833" end="01:05:24.767">As&#237; que en general creo que me alegro de que lo hice.</p>
+      <p begin="01:05:24.833" end="01:05:26.900">Um, EH, es parte de la raz&#243;n que ella estamos en Utah</p>
+      <p begin="01:05:26.967" end="01:05:28.933">porque porno es ilegal aqu&#237;, tan EH,</p>
+      <p begin="01:05:29.000" end="01:05:31.067">realmente ayuda a me impedir que reconoce.</p>
+      <p begin="01:05:31.133" end="01:05:33.333">Eso y los kilitos de m&#225;s de cuarenta gan&#233;!</p>
+      <p begin="01:05:33.400" end="01:05:36.933">Pero um, ahora que estoy perdiendo ese peso, um,</p>
+      <p begin="01:05:37.000" end="01:05:38.867">bien yo tambi&#233;n cort&#243; mi cabello por lo tambi&#233;n ayuda.</p>
+      <p begin="01:05:38.933" end="01:05:40.200">Pero um.</p>
+      <p begin="01:05:40.267" end="01:05:41.767">s&#237;, todo el mundo ha sido genial</p>
+      <p begin="01:05:41.833" end="01:05:43.933">um, si encuentra con qui&#233;n yo soy.</p>
+      <p begin="01:05:44.000" end="01:05:45.267">Han sido realmente buenos sobre &#233;l.</p>
+      <p begin="01:05:45.333" end="01:05:47.000">Cuando llev&#233; a Katty a su nueva guarder&#237;a</p>
+      <p begin="01:05:47.067" end="01:05:50.333">y preguntaron, si tuve um, hacer referencia a nombres como,</p>
+      <p begin="01:05:50.400" end="01:05:51.933">qui&#233;n llamar si algo le sucede a Katty dije</p>
+      <p begin="01:05:52.000" end="01:05:53.833">Yo no s&#233; de nadie aqu&#237;, no tengo ninguna referencia, perd&#243;n,</p>
+      <p begin="01:05:53.900" end="01:05:55.833">y pens&#243; que era un poco sospechosa,</p>
+      <p begin="01:05:55.900" end="01:05:57.300">as&#237; que ella me mir&#243; para arriba en l&#237;nea,</p>
+      <p begin="01:05:57.367" end="01:06:01.367">Yo le hab&#237;a dado el nombre Asia lim&#243;n, um,</p>
+      <p begin="01:06:01.433" end="01:06:03.100">y de ese nombre se las arregl&#243; para averiguar</p>
+      <p begin="01:06:03.167" end="01:06:04.467">que estaba y as&#237; al d&#237;a siguiente ella va,</p>
+      <p begin="01:06:04.533" end="01:06:06.833">EH, sabes que hice googlear un poco sobre ti.</p>
+      <p begin="01:06:06.900" end="01:06:10.133">Y me qued&#233; como Ugh!(risa nerviosa)</p>
+      <p begin="01:06:10.200" end="01:06:13.233">Miss Morm&#243;n mam&#225; de cuatro que hizo googlear un poco en Asia.</p>
+      <p begin="01:06:13.300" end="01:06:15.533">Parec&#237;a, por lo que, a&#250;n as&#237; va a ver a mi hijo?</p>
+      <p begin="01:06:17.200" end="01:06:19.467">Bueno, ya sabes, como lamentablemente EH,</p>
+      <p begin="01:06:19.533" end="01:06:22.167">una de las razones que me gusta, el hecho de que Vince Neal</p>
+      <p begin="01:06:22.233" end="01:06:24.267">me tiene juega su torneo ben&#233;fico para su hija</p>
+      <p begin="01:06:24.333" end="01:06:25.933">para c&#225;ncer y material, para ni&#241;os</p>
+      <p begin="01:06:26.000" end="01:06:27.767">y EH, jugu&#233; en el pa&#237;s</p>
+      <p begin="01:06:27.833" end="01:06:30.033">Torneo ben&#233;fico de premios de la Academia de m&#250;sica Country</p>
+      <p begin="01:06:30.100" end="01:06:32.767">Este a&#241;o y algunos otros torneos de caridad</p>
+      <p begin="01:06:32.833" end="01:06:36.167">causar es uno de las &#250;nicas maneras, que puede dar a la gente del porno</p>
+      <p begin="01:06:36.233" end="01:06:40.333">a obras de caridad, lamentablemente en este mundo hip&#243;crita,</p>
+      <p begin="01:06:40.400" end="01:06:42.800">muchas organizaciones ben&#233;ficas no quiere aceptar el dinero</p>
+      <p begin="01:06:42.867" end="01:06:44.167">de personas est&#225;n en el negocio del sexo.</p>
+      <p begin="01:06:44.233" end="01:06:47.100">"Eww, el negocio del sexo no podemos hacer."</p>
+      <p begin="01:06:47.167" end="01:06:48.933">Pol&#237;ticos, por el contrario,</p>
+      <p begin="01:06:49.000" end="01:06:51.000">que nos hacen ver limpio como el infierno,</p>
+      <p begin="01:06:51.067" end="01:06:52.233">no hay problema en tomar su dinero.</p>
+      <p begin="01:06:52.300" end="01:06:54.900">EH, empresarios sin escr&#250;pulos</p>
+      <p begin="01:08:16.633" end="01:08:18.233">Espera, &#191;c&#243;mo se dice?</p>
+      <p begin="01:08:18.300" end="01:08:18.933">(inaudible)&#191;Sin precedentes?</p>
+      <p begin="01:08:19.000" end="01:08:20.033">&#191;Sin precedentes?Suena raro.</p>
+      <p begin="01:08:20.100" end="01:08:21.000">Est&#225; bien. (risas)</p>
+      <p begin="01:08:53.633" end="01:08:55.133">porque esto va a ser enorme.</p>
+      <p begin="01:10:13.000" end="01:10:16.000">.</p>
+      <p begin="01:11:02.533" end="01:11:03.467">"&#191;Puedo ayudarle?"</p>
+      <p begin="01:11:50.167" end="01:11:51.633">Me ense&#241;&#243; a quererme.</p>
+      <p begin="01:12:33.233" end="01:12:34.167">Ha!</p>
+      <p begin="01:15:57.400" end="01:15:58.567">Ella me salv&#243; la vida.</p>
+      <p begin="01:16:00.833" end="01:16:04.267">.</p>
+      <p begin="01:16:45.300" end="01:16:46.233">(risas) Oooo!</p>
+      <p begin="01:16:49.800" end="01:16:50.567">Um.</p>
+      <p begin="01:16:50.633" end="01:16:51.800">De nada.</p>
+      <p begin="01:16:53.300" end="01:16:54.267">Es interesante.</p>
+      <p begin="01:18:13.333" end="01:18:14.500">No voy a llorar!</p>
+      <p begin="01:18:15.500" end="01:18:16.667">Voy a empezar a llorar.</p>
+      <p begin="01:18:26.567" end="01:18:28.067">(risas) Papi.&#191;D&#243;nde est&#225; pap&#225;?</p>
+      <p begin="01:18:29.400" end="01:18:30.500">&#191;D&#243;nde est&#225; pap&#225;?</p>
+      <p begin="01:18:30.567" end="01:18:31.700">En las nubes.</p>
+      <p begin="01:18:41.367" end="01:18:43.600">A veces...(ininteligible)</p>
+      <p begin="01:18:51.467" end="01:18:53.467">que estamos aqu&#237; hoy.</p>
+      <p begin="01:18:53.533" end="01:18:56.667">Hab&#237;a algo &#250;nico vital sobre Buck Adams que</p>
+      <p begin="01:18:56.733" end="01:18:58.700">podr&#237;a alegrar el momento m&#225;s oscuro,</p>
+      <p begin="01:18:58.767" end="01:19:01.767">y poner una sonrisa en la cara de la situaci&#243;n de la carne.</p>
+      <p begin="01:19:45.600" end="01:19:47.467">Houston.</p>
+      <p begin="01:22:06.867" end="01:22:08.533">wwheeeeuuuheehehehuh.</p>
+      <p begin="01:22:22.900" end="01:22:24.000">(ri&#233;ndose)</p>
+      <p begin="01:23:41.067" end="01:23:43.567">Estoy feliz.</p>
+    </div>
+  </body>
+
+</tt>
