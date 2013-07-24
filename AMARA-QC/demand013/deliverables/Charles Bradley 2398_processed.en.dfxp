@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:18.598" end="00:00:22.177">[announcer] One, two. One, two, three, four.</p>
+      <p begin="00:00:22.255" end="00:00:23.496">&#9834; [music starting] &#9834;</p>
+      <p begin="00:00:23.558" end="00:00:25.665">If you enjoy James Brown music,</p>
+      <p begin="00:00:25.665" end="00:00:27.557">you're gonna have a good time tonight.</p>
+      <p begin="00:00:27.557" end="00:00:29.731">We are tonight celebrating Black Velvet</p>
+      <p begin="00:00:29.731" end="00:00:33.816">James Brown, Jr.'s 62nd birthday.</p>
+      <p begin="00:00:33.816" end="00:00:35.870" region="top">Whoo, 62! </p>
+      <p begin="00:00:36.439" end="00:00:38.487" region="top">So right about now, put your hands together, </p>
+      <p begin="00:00:38.487" end="00:00:39.718" region="top">because we got a young man </p>
+      <p begin="00:00:39.718" end="00:00:41.503" region="top">who's coming to the stage, </p>
+      <p begin="00:00:41.503" end="00:00:43.646">who's been on the David Letterman Show,</p>
+      <p begin="00:00:43.646" end="00:00:45.731">put your hands together and meet and greet</p>
+      <p begin="00:00:45.731" end="00:00:49.913">Black Velvet, James Brown, Jr!</p>
+      <p begin="00:00:49.913" end="00:00:52.226">[audience applause]</p>
+      <p begin="00:00:52.226" end="00:00:53.898">&#9834; [It's a Man's Man's Man's World playing] &#9834;</p>
+      <p begin="00:00:53.898" end="00:00:59.189">&#9834; It's a man's world. &#9834;</p>
+      <p begin="00:00:59.189" end="00:01:05.490">&#9834; But I would be nothing, nothing ... &#9834;</p>
+      <p begin="00:01:05.490" end="00:01:06.648">- [Charles] I've been playing James Brown</p>
+      <p begin="00:01:06.648" end="00:01:13.882">since I was 14 years old.</p>
+      <p begin="00:01:13.882" end="00:01:16.398">&#9834; [song ending] &#9834;</p>
+      <p begin="00:01:16.398" end="00:01:17.857">[audience applauding]</p>
+      <p begin="00:01:17.857" end="00:01:21.189">[female audience shouting]</p>
+      <p begin="00:01:21.189" end="00:01:25.774">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:01:25.774" end="00:01:29.677">But now I wanna do Charles Bradley.</p>
+      <p begin="00:01:29.677" end="00:01:52.332" region="top">&#9834; [music playing] &#9834; </p>
+      <p begin="00:01:52.486" end="00:01:54.356" region="top">My first album original </p>
+      <p begin="00:01:54.356" end="00:01:58.013" region="top">is coming out January 25th. </p>
+      <p begin="00:01:58.013" end="00:02:01.149">I've been struggling for over 42 years</p>
+      <p begin="00:02:01.149" end="00:02:03.640">trying to make it in the industry</p>
+      <p begin="00:02:03.640" end="00:02:04.606">and at age the of 62,</p>
+      <p begin="00:02:04.606" end="00:02:06.648">I'm just beginning to find my way through.</p>
+      <p begin="00:02:08.956" end="00:02:10.939">I never made enough money</p>
+      <p begin="00:02:10.939" end="00:02:13.794">to support myself in music</p>
+      <p begin="00:02:13.794" end="00:02:15.857">but I'm hoping that this album will</p>
+      <p begin="00:02:15.857" end="00:02:17.304">make a turning point for me,</p>
+      <p begin="00:02:17.304" end="00:02:20.111">that I can support myself in music.</p>
+      <p begin="00:02:25.168" end="00:02:26.690">Hey, man.</p>
+      <p begin="00:02:26.690" end="00:02:28.659">I'm gonna give you water, okay?</p>
+      <p begin="00:02:28.659" end="00:02:30.004">Hey, man.</p>
+      <p begin="00:02:30.004" end="00:02:31.432">That's my bird.</p>
+      <p begin="00:02:31.432" end="00:02:32.401">Make me mad.</p>
+      <p begin="00:02:32.494" end="00:02:33.628">I get mad, I get away from it.</p>
+      <p begin="00:02:33.628" end="00:02:35.364">I go in the back room, close the door,</p>
+      <p begin="00:02:35.364" end="00:02:37.170">and let him scream all he wanna.</p>
+      <p begin="00:02:37.861" end="00:02:38.897">And I have my little stable place,</p>
+      <p begin="00:02:38.897" end="00:02:40.429">it's not what I want,</p>
+      <p begin="00:02:40.429" end="00:02:43.035">but thank God I got a roof over my head.</p>
+      <p begin="00:02:44.056" end="00:02:45.363">When I go in my little apartment</p>
+      <p begin="00:02:45.363" end="00:02:46.945">and lock my door,</p>
+      <p begin="00:02:46.945" end="00:02:48.565">I'm in peace.</p>
+      <p begin="00:02:48.565" end="00:02:50.325">But going into the projects,</p>
+      <p begin="00:02:50.325" end="00:02:53.051">going into the elevator,</p>
+      <p begin="00:02:53.051" end="00:02:54.732">getting in there,</p>
+      <p begin="00:02:54.732" end="00:02:56.118">that's where the trouble start.</p>
+      <p begin="00:02:56.118" end="00:02:56.898">You never know</p>
+      <p begin="00:02:56.898" end="00:02:59.744">what gonna happen in those things.</p>
+      <p begin="00:02:59.744" end="00:03:00.482">The guy downstairs,</p>
+      <p begin="00:03:00.482" end="00:03:02.183">his name is Alfred,</p>
+      <p begin="00:03:02.183" end="00:03:03.772">very good guy, don't bother nobody.</p>
+      <p begin="00:03:03.772" end="00:03:04.598">Church guy.</p>
+      <p begin="00:03:04.598" end="00:03:06.544">They shoot up his place.</p>
+      <p begin="00:03:06.544" end="00:03:07.565">He showed me all the holes</p>
+      <p begin="00:03:07.565" end="00:03:09.038">where they shoot up in the place.</p>
+      <p begin="00:03:09.038" end="00:03:09.820">I said, "Wow, man."</p>
+      <p begin="00:03:09.820" end="00:03:10.550">I said,</p>
+      <p begin="00:03:10.550" end="00:03:12.823">"Uh, I couldn't live on the first floor."</p>
+      <p begin="00:03:12.823" end="00:03:14.391">[Charles] When it get too</p>
+      <p begin="00:03:14.391" end="00:03:16.092">crazy at the projects,</p>
+      <p begin="00:03:16.092" end="00:03:17.808">I go to my Mom's house</p>
+      <p begin="00:03:17.808" end="00:03:19.537">and I sleep in her basement.</p>
+      <p begin="00:03:31.862" end="00:03:33.477">So I come here</p>
+      <p begin="00:03:33.477" end="00:03:35.794">and this is where I crash.</p>
+      <p begin="00:03:35.794" end="00:03:37.051">Until the next day,</p>
+      <p begin="00:03:37.051" end="00:03:38.838">I go take care of their errands,</p>
+      <p begin="00:03:38.838" end="00:03:39.884">take care of everything</p>
+      <p begin="00:03:39.884" end="00:03:43.414">to keep the roof over both our heads.</p>
+      <p begin="00:03:43.707" end="00:03:47.142">I like to roll a little of this</p>
+      <p begin="00:03:47.142" end="00:03:48.735">in a little ball.</p>
+      <p begin="00:03:51.471" end="00:03:52.319">Just put these in.</p>
+      <p begin="00:03:55.486" end="00:03:56.661">[Charles] Hey, how's that rice?</p>
+      <p begin="00:03:56.829" end="00:03:58.127">- Let me see?</p>
+      <p begin="00:03:59.894" end="00:04:01.813">Just a little bit more.</p>
+      <p begin="00:04:01.951" end="00:04:04.880">- I came from family of eight.</p>
+      <p begin="00:04:04.942" end="00:04:07.772">Um, main goal is watching over,</p>
+      <p begin="00:04:07.772" end="00:04:11.547">is my mom and do the best I can.</p>
+      <p begin="00:04:12.454" end="00:04:14.409" region="top">- It's my baby boy, </p>
+      <p begin="00:04:14.409" end="00:04:16.520" region="top">and I love him. </p>
+      <p begin="00:04:16.626" end="00:04:18.297" region="top">[Mom] He wash my clothes. </p>
+      <p begin="00:04:18.467" end="00:04:19.955" region="top">He clean this house. </p>
+      <p begin="00:04:19.955" end="00:04:20.684" region="top">Valentine's Day, </p>
+      <p begin="00:04:20.684" end="00:04:23.291" region="top">he bought me a box of candy. </p>
+      <p begin="00:04:23.291" end="00:04:24.646" region="top">As sweet as that candy is, </p>
+      <p begin="00:04:24.646" end="00:04:26.621" region="top">is how sweet my baby is. </p>
+      <p begin="00:04:26.621" end="00:04:27.567">- [Charles] I just making</p>
+      <p begin="00:04:27.567" end="00:04:28.723">her life peaceful</p>
+      <p begin="00:04:28.723" end="00:04:29.698">and</p>
+      <p begin="00:04:29.698" end="00:04:31.440">so, where she cannot worry about</p>
+      <p begin="00:04:31.440" end="00:04:33.038">the bills and everything.</p>
+      <p begin="00:04:33.038" end="00:04:34.952">I took that upon my shoulder</p>
+      <p begin="00:04:34.952" end="00:04:35.913">and I really,</p>
+      <p begin="00:04:35.913" end="00:04:37.553">I didn't know what I was getting myself into.</p>
+      <p begin="00:04:37.553" end="00:04:38.963">But now, I'm in it.</p>
+      <p begin="00:04:38.963" end="00:04:39.802">I won't change it.</p>
+      <p begin="00:04:39.802" end="00:04:41.689">So only thing I can do is try</p>
+      <p begin="00:04:41.719" end="00:04:42.685">make something to work</p>
+      <p begin="00:04:42.685" end="00:04:44.012">where I can make a decent income</p>
+      <p begin="00:04:44.012" end="00:04:46.923">where I can live and let live.</p>
+      <p begin="00:04:46.923" end="00:04:49.739">And that's all I, I can ask for life now.</p>
+      <p begin="00:04:49.847" end="00:04:56.578">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:04:56.578" end="00:05:00.314">&#9834; Round and round we go again.</p>
+      <p begin="00:05:00.314" end="00:05:04.916">&#9834; Where it stop, nobody knows.&#9834;</p>
+      <p begin="00:05:04.916" end="00:05:08.256">&#9834; It's a cold, cold world. &#9834;</p>
+      <p begin="00:05:08.656" end="00:05:12.156">&#9834; It's a cold, cold world. &#9834;</p>
+      <p begin="00:05:13.939" end="00:05:15.856">&#9834; How can we stop the changes &#9834;</p>
+      <p begin="00:05:15.856" end="00:05:20.897">&#9834; going on in America today?&#9834;</p>
+      <p begin="00:05:30.701" end="00:05:34.686">&#9834; Ohhh, ohhh, ohhh &#9834;</p>
+      <p begin="00:05:41.124" end="00:05:43.231">&#9834; Go back. &#9834;</p>
+      <p begin="00:05:43.231" end="00:05:46.939">&#9834; Go back to the Golden Rule. &#9834;</p>
+      <p begin="00:05:46.939" end="00:05:48.645">&#9834; Oh. Ah. Uh. &#9834;</p>
+      <p begin="00:05:49.105" end="00:05:50.612">&#9834; Go back. &#9834;</p>
+      <p begin="00:05:50.612" end="00:05:55.148">&#9834; Go back to the Golden Rule. &#9834;</p>
+      <p begin="00:05:55.148" end="00:05:57.856">&#9834; Bring it all down. &#9834;</p>
+      <p begin="00:05:57.856" end="00:06:12.221">&#9834; [Music] &#9834;</p>
+      <p begin="00:06:12.221" end="00:06:13.064">- That's a song</p>
+      <p begin="00:06:13.064" end="00:06:15.023">from the new record, No Time For Dreaming.</p>
+      <p begin="00:06:15.023" end="00:06:16.148">Charles Bradley</p>
+      <p begin="00:06:16.148" end="00:06:18.023">and the Menahan Street Band.</p>
+      <p begin="00:06:18.023" end="00:06:18.731">I can't believe</p>
+      <p begin="00:06:18.731" end="00:06:20.064">you just came outta nowhere</p>
+      <p begin="00:06:20.064" end="00:06:22.273">as a virtual unknown to us.</p>
+      <p begin="00:06:22.273" end="00:06:24.473">[radio DJ] Have you recorded before?</p>
+      <p begin="00:06:24.596" end="00:06:25.890">- No.</p>
+      <p begin="00:06:25.890" end="00:06:28.431">And it's my first time really, coming out.</p>
+      <p begin="00:06:28.431" end="00:06:30.707">- I know you've been performing.</p>
+      <p begin="00:06:30.707" end="00:06:31.509">- Yes.</p>
+      <p begin="00:06:31.539" end="00:06:32.776">- As Black Velvet.</p>
+      <p begin="00:06:32.776" end="00:06:33.649">-[Charles] Yes.</p>
+      <p begin="00:06:33.649" end="00:06:34.939">- So now you're performing as-</p>
+      <p begin="00:06:34.939" end="00:06:36.666">as Charles Bradley?</p>
+      <p begin="00:06:36.666" end="00:06:37.677">- Yeah, yeah.</p>
+      <p begin="00:06:37.677" end="00:06:38.898">- [radio DJ] Well, you certainly have a great band</p>
+      <p begin="00:06:38.898" end="00:06:40.478">backing you here.</p>
+      <p begin="00:06:40.478" end="00:06:41.265">And of course,</p>
+      <p begin="00:06:41.265" end="00:06:42.898">with the folks over at Daptone,</p>
+      <p begin="00:06:42.898" end="00:06:44.058">you know,</p>
+      <p begin="00:06:44.058" end="00:06:45.131">what a great crew they are.</p>
+      <p begin="00:06:45.131" end="00:06:46.789">And you've seen</p>
+      <p begin="00:06:46.789" end="00:06:48.866">what's happened with Sharon Jones, who,- [Charles] Yes, yes.</p>
+      <p begin="00:06:48.866" end="00:06:50.928">you know, just like you,</p>
+      <p begin="00:06:50.928" end="00:06:52.469">went from complete obscurity to</p>
+      <p begin="00:06:52.484" end="00:06:55.048">who knows what kinda heights you could scale.</p>
+      <p begin="00:06:55.048" end="00:06:56.455">[radio DJ] So that's,</p>
+      <p begin="00:06:56.455" end="00:06:58.647">that's got to be an exciting moment for you?</p>
+      <p begin="00:06:58.647" end="00:07:01.398">- I think God just answered my prayer,</p>
+      <p begin="00:07:01.398" end="00:07:03.440">you know, it just like really,</p>
+      <p begin="00:07:03.440" end="00:07:05.606">I asked myself why it took so long,</p>
+      <p begin="00:07:05.606" end="00:07:07.023">but you can't question God</p>
+      <p begin="00:07:07.023" end="00:07:08.981">when he wanna do things.</p>
+      <p begin="00:07:08.981" end="00:07:12.542">So at my late age, it just started coming.</p>
+      <p begin="00:07:12.664" end="00:07:13.482">- [radio DJ] What's next?</p>
+      <p begin="00:07:13.482" end="00:07:14.939">I mean, are you thinking big?</p>
+      <p begin="00:07:14.939" end="00:07:16.706">- I'm thinking the sky's the limit.</p>
+      <p begin="00:07:16.706" end="00:07:18.981">- Congratulations to you on this great record.</p>
+      <p begin="00:07:18.981" end="00:07:20.296">No matter what happens with it,</p>
+      <p begin="00:07:20.296" end="00:07:22.189">it's a fine piece of work.</p>
+      <p begin="00:07:22.189" end="00:07:24.498">[radio DJ] Charles Bradley on WFUV.</p>
+      <p begin="00:07:24.667" end="00:07:27.897">&#9834; [Music] &#9834;</p>
+      <p begin="00:07:27.897" end="00:07:33.231">&#9834; This world going up in flames. &#9834;</p>
+      <p begin="00:07:33.231" end="00:07:38.647">&#9834; And nobody wanna take the blame. &#9834;</p>
+      <p begin="00:07:38.647" end="00:07:43.821">&#9834; Don't tell me how to live my life. &#9834;</p>
+      <p begin="00:07:43.821" end="00:07:49.276">&#9834; When you never felt the pain. &#9834;</p>
+      <p begin="00:07:49.276" end="00:07:55.314">&#9834; Ohhh. Ahhh. Ohhh &#9834;</p>
+      <p begin="00:07:55.314" end="00:07:57.856">&#9834;Ohhh.&#9834;</p>
+      <p begin="00:07:57.856" end="00:08:00.569">&#9834; Don't they see me cry? &#9834;</p>
+      <p begin="00:08:00.569" end="00:08:02.400" region="top">&#9834; Ohhh... &#9834; </p>
+      <p begin="00:08:02.400" end="00:08:04.315" region="top">&#9834; [music fading] &#9834; </p>
+      <p begin="00:08:04.315" end="00:08:05.564" region="top">- I don't know how many artists </p>
+      <p begin="00:08:05.564" end="00:08:07.230" region="top">have ever been 62 years old </p>
+      <p begin="00:08:07.230" end="00:08:08.955" region="top">and released their debut record. </p>
+      <p begin="00:08:09.722" end="00:08:11.458" region="top">He may be the first. </p>
+      <p begin="00:08:12.284" end="00:08:14.441" region="top">- The guy is just getting it, </p>
+      <p begin="00:08:14.441" end="00:08:16.440" region="top">getting it going, as far as I'm concerned. </p>
+      <p begin="00:08:16.440" end="00:08:18.715" region="top">-He's worked very hard for a long time. </p>
+      <p begin="00:08:18.838" end="00:08:20.357" region="top">And I'd hope that- </p>
+      <p begin="00:08:20.357" end="00:08:21.981" region="top">that enough people can hear him sing, </p>
+      <p begin="00:08:21.981" end="00:08:22.647">so that-</p>
+      <p begin="00:08:22.647" end="00:08:23.856">that he can make the kind of life for himself</p>
+      <p begin="00:08:23.856" end="00:08:26.382">that he wants and take care of his family.</p>
+      <p begin="00:08:26.382" end="00:08:27.118">&#9834; [music starting] &#9834;</p>
+      <p begin="00:08:27.118" end="00:08:30.190">&#9834; Uh. Yeah. &#9834;</p>
+      <p begin="00:08:30.190" end="00:08:32.606">&#9834; I'm talking to you girl. &#9834;</p>
+      <p begin="00:08:32.606" end="00:08:34.023">&#9834; Yeah. &#9834;</p>
+      <p begin="00:08:34.023" end="00:08:36.874">&#9834; Only you ... &#9834;</p>
+      <p begin="00:08:36.874" end="00:08:37.814">[Charles] I went to Gabe</p>
+      <p begin="00:08:37.814" end="00:08:39.981">'cause I thought that he knew what he was doing.</p>
+      <p begin="00:08:39.981" end="00:08:41.606">And I felt that he can give me a helping hand</p>
+      <p begin="00:08:41.606" end="00:08:44.148">where I can get out to the music industry.</p>
+      <p begin="00:08:44.148" end="00:08:48.040">All I knew how to do is get on stage and to perform.</p>
+      <p begin="00:08:48.163" end="00:08:51.585">- If you're into funk and soul music or Afrobeat and you live in New York,</p>
+      <p begin="00:08:51.693" end="00:08:54.500">Gabe Roth is the guy that you want behind the board.</p>
+      <p begin="00:08:54.638" end="00:08:57.170">This is the guy that you want pushing you in the direction,</p>
+      <p begin="00:08:57.170" end="00:08:59.238">because their records were phenomenal.</p>
+      <p begin="00:09:00.453" end="00:09:03.229">-I just started making the kind of records that I like listening to.</p>
+      <p begin="00:09:03.305" end="00:09:04.772">I think a lot of those soul records have a</p>
+      <p begin="00:09:04.772" end="00:09:09.833">certain sincerity to 'em that I always liked.</p>
+      <p begin="00:09:10.585" end="00:09:12.171">One morning, and I think it was pretty early,</p>
+      <p begin="00:09:12.279" end="00:09:13.711">it was like nine or ten in the morning,</p>
+      <p begin="00:09:13.742" end="00:09:15.837">I get a knock on my door and it was Charles.</p>
+      <p begin="00:09:15.975" end="00:09:18.373">[Gabe] And he said, I heard you were looking for singers.</p>
+      <p begin="00:09:18.480" end="00:09:20.107">Well, I heard you were looking for me.</p>
+      <p begin="00:09:20.706" end="00:09:22.528">I had no idea what he was talking about.</p>
+      <p begin="00:09:22.528" end="00:09:24.940">So, he shows me this video tape of him singing these James Brown songs.</p>
+      <p begin="00:09:24.940" end="00:09:26.217">And he sounds great, you know?</p>
+      <p begin="00:09:26.970" end="00:09:30.349">- Gabe Roth from Daptone Records brought him down to a rehearsal</p>
+      <p begin="00:09:30.349" end="00:09:31.839">in Staten Island that we were having.</p>
+      <p begin="00:09:31.839" end="00:09:33.895">And Gabe wanted us to record with a singer.</p>
+      <p begin="00:09:33.925" end="00:09:36.036">So Charles was a singer that they had yet to find a band</p>
+      <p begin="00:09:36.036" end="00:09:37.425">with on Daptone</p>
+      <p begin="00:09:37.425" end="00:09:39.467">but they had -- Charleshad captured their attention.</p>
+      <p begin="00:09:39.559" end="00:09:43.219">- I just figured, you know, see how Charles works with them, you know?</p>
+      <p begin="00:09:43.342" end="00:09:46.813" region="top">&#9834; Stop. &#9834; </p>
+      <p begin="00:09:46.813" end="00:09:51.190" region="top">&#9834; Stop it, baby. &#9834; </p>
+      <p begin="00:09:51.190" end="00:09:55.356">&#9834; Ohhh. &#9834;</p>
+      <p begin="00:09:55.356" end="00:09:59.065">&#9834; I'm feeling awful, baby. &#9834;</p>
+      <p begin="00:09:59.065" end="00:10:01.356">&#9834; And I'm locked up in cage ..." &#9834;</p>
+      <p begin="00:10:01.356" end="00:10:06.054">- I played with Tommy's, ah, band that he had over-over at Staten Island.</p>
+      <p begin="00:10:06.502" end="00:10:09.026">I just went over there one day and they was rehearsing.</p>
+      <p begin="00:10:09.026" end="00:10:11.023">They was jamming and they were sitting, telling me,</p>
+      <p begin="00:10:11.023" end="00:10:14.315">"Hey man, sing on this, sing on this,sing on this."</p>
+      <p begin="00:10:14.315" end="00:10:18.065">And I mean, I'm liking the music, I never -- the lyrics were just</p>
+      <p begin="00:10:18.065" end="00:10:19.648">popping in my head.</p>
+      <p begin="00:10:19.648" end="00:10:23.563">- So, that all worked out well. And we recorded those songs</p>
+      <p begin="00:10:23.563" end="00:10:26.814">with Bradley at Daptone and, uh, they were good songs</p>
+      <p begin="00:10:26.814" end="00:10:28.606">but they just didn't take off.</p>
+      <p begin="00:10:28.606" end="00:10:30.701">And then we kinda went in different directions.</p>
+      <p begin="00:10:31.407" end="00:10:37.708">- Two years went by and I was, um,doing James Brown in small clubs.</p>
+      <p begin="00:10:37.862" end="00:10:42.737">And then I got a call to come round, do a show with Sharon Jones.</p>
+      <p begin="00:10:42.922" end="00:10:45.474">- So we rehearsed, we played the show, great.</p>
+      <p begin="00:10:45.597" end="00:10:47.601">Me and Charles see each other for the first time in a couple years,</p>
+      <p begin="00:10:47.709" end="00:10:52.637">and, uh, you know, we catch up a little bit and I say, "Hey Charles, you know,</p>
+      <p begin="00:10:52.637" end="00:10:55.106">I'm working on some music, so how about you come over one night</p>
+      <p begin="00:10:55.106" end="00:10:56.481">and we give it a shot."</p>
+      <p begin="00:10:56.481" end="00:10:58.464">And he said, "Yeah Tommy, of course, you know."</p>
+      <p begin="00:10:58.464" end="00:11:01.047">We magically recorded two songs in one night.</p>
+      <p begin="00:11:01.047" end="00:11:03.401">One which was, The World's Going Up in Flames,</p>
+      <p begin="00:11:03.509" end="00:11:05.590">and one which was, In You, I Found a Love.</p>
+      <p begin="00:11:05.590" end="00:11:09.423">And Charles was right here and I was right here, pressing record,</p>
+      <p begin="00:11:09.546" end="00:11:12.938">and we, you know, we wrote it together, and, uh, and that was it.</p>
+      <p begin="00:11:13.046" end="00:11:15.861">I mean the music was laid down but he was just coming out</p>
+      <p begin="00:11:15.861" end="00:11:19.267">with lyrics off the cuff, and I was just, uh, putting it in the right place.</p>
+      <p begin="00:11:19.420" end="00:11:36.136" region="top">&#9834; [music starting] &#9834; </p>
+      <p begin="00:11:39.794" end="00:11:41.893" region="top">Okay, we haven't played so many shows with Charles up to this point. </p>
+      <p begin="00:11:41.893" end="00:11:47.471">We played a couple live performances,I think for -- for Charles is, you know,</p>
+      <p begin="00:11:47.486" end="00:11:51.231">he's -- he just wants -- he wants to get across, and he wants to,</p>
+      <p begin="00:11:51.231" end="00:11:54.710">uh, you know, he wants to reach every single person in the audience.</p>
+      <p begin="00:11:54.864" end="00:11:59.115">So, what you -- what we rehearse and what goes down on stage</p>
+      <p begin="00:11:59.115" end="00:12:00.196">is two different things.</p>
+      <p begin="00:12:00.196" end="00:12:03.233">I mean, the band's gonna be tight,and the only thing we try to rehearse</p>
+      <p begin="00:12:03.340" end="00:12:05.931">with Charles is to let Charles lead the band.</p>
+      <p begin="00:12:06.699" end="00:12:09.625">&#9834; [band rehearsing] &#9834;</p>
+      <p begin="00:12:09.763" end="00:12:12.314">- Bam, bam, bam, bam.</p>
+      <p begin="00:12:14.036" end="00:12:15.986">- Three, four.</p>
+      <p begin="00:12:16.167" end="00:12:34.814">&#9834; [Band practicing] &#9834;</p>
+      <p begin="00:12:34.814" end="00:12:40.272">&#9834; In you, I found love. &#9834;</p>
+      <p begin="00:12:40.272" end="00:12:44.689">&#9834; That makes me feel so real. &#9834;</p>
+      <p begin="00:12:44.689" end="00:12:47.272">&#9834; Oh, baby. &#9834;</p>
+      <p begin="00:12:47.272" end="00:12:54.685">&#9834; Sometimes, when I'm sleeping at night, &#9834;</p>
+      <p begin="00:12:54.685" end="00:13:02.190">&#9834; I wake up and you're nowhere to be found. &#9834;</p>
+      <p begin="00:13:02.190" end="00:13:09.982">&#9834; You said you loved me and you'll always be around. &#9834;</p>
+      <p begin="00:13:09.982" end="00:13:14.190">&#9834; In you, I thought I ... &#9834;</p>
+      <p begin="00:13:14.190" end="00:13:17.233">- The new music, for once, is me.</p>
+      <p begin="00:13:17.233" end="00:13:20.690">It's things that I have experienced and I have went through, heartaches</p>
+      <p begin="00:13:20.690" end="00:13:23.231">and pains.</p>
+      <p begin="00:13:23.231" end="00:13:27.148">&#9834; I don't want to be a fool no more. &#9834;</p>
+      <p begin="00:13:27.148" end="00:13:33.272">&#9834; [music stopping] &#9834;</p>
+      <p begin="00:13:33.272" end="00:13:36.153">- Yeah, Bradley. You waited twice for the horns.</p>
+      <p begin="00:13:36.153" end="00:13:37.762">- You told me that...</p>
+      <p begin="00:13:37.884" end="00:13:38.606">- Yes, that's perfect.</p>
+      <p begin="00:13:38.606" end="00:13:42.280">[band applauding]</p>
+      <p begin="00:13:42.395" end="00:13:43.157">- I'd like to say goodnight.</p>
+      <p begin="00:13:43.157" end="00:13:45.494">We can always do this sometime.</p>
+      <p begin="00:13:45.602" end="00:13:48.195">It was - it was a real party, Tommy</p>
+      <p begin="00:13:48.348" end="00:13:49.895">- All right, man and--</p>
+      <p begin="00:13:50.003" end="00:13:51.200">- that was excellent.</p>
+      <p begin="00:13:51.308" end="00:13:52.520">- Tommy again, thank you.</p>
+      <p begin="00:13:52.643" end="00:13:53.518">You know I love you.</p>
+      <p begin="00:13:53.625" end="00:13:54.759">Thank you bro.</p>
+      <p begin="00:13:54.913" end="00:13:56.732">Bye.</p>
+      <p begin="00:13:57.269" end="00:14:01.100">I ain't closed the door.</p>
+      <p begin="00:14:06.494" end="00:14:12.441">[Car passing by]</p>
+      <p begin="00:14:12.441" end="00:14:13.670">[Mom] Nine and a half.</p>
+      <p begin="00:14:13.670" end="00:14:14.937">[Charles] Mother, come on now.</p>
+      <p begin="00:14:14.937" end="00:14:18.030">You, you said nine, you said eight, eight and a half.</p>
+      <p begin="00:14:18.091" end="00:14:18.953">I get eight.</p>
+      <p begin="00:14:18.953" end="00:14:21.000">Now you want nine, you want nine and a half.</p>
+      <p begin="00:14:21.000" end="00:14:23.303">What's wrong with this shoes, right there?</p>
+      <p begin="00:14:26.022" end="00:14:27.590">Mother, you're gonna drive me crazy.</p>
+      <p begin="00:14:29.314" end="00:14:31.157">[shuffling sounds]</p>
+      <p begin="00:14:32.587" end="00:14:34.637">[Charles] Oh, Jesus.</p>
+      <p begin="00:14:34.683" end="00:14:37.318">It's hard sometime.</p>
+      <p begin="00:14:37.318" end="00:14:40.564">It's very hard, 'cause I can, like, everything now is really</p>
+      <p begin="00:14:40.564" end="00:14:42.606">depending on me.</p>
+      <p begin="00:14:42.606" end="00:14:45.079">But if I put her in a home, she would die.</p>
+      <p begin="00:14:45.079" end="00:14:46.208">And I know that.</p>
+      <p begin="00:14:46.930" end="00:14:48.918" region="top">[Mom] I had a stroke one time. </p>
+      <p begin="00:14:49.531" end="00:14:51.981" region="top">And I had many heart attacks. </p>
+      <p begin="00:14:52.043" end="00:14:53.351" region="top">[Sales Clerk] Enjoy the rest of your day. </p>
+      <p begin="00:14:53.351" end="00:14:56.938" region="top">[Mom] But that heart attack come when my-my step-daddy died </p>
+      <p begin="00:14:56.938" end="00:15:05.475" region="top">and my grandmother died,and, uh, when, when my husband </p>
+      <p begin="00:15:05.475" end="00:15:06.859" region="top">died. </p>
+      <p begin="00:15:09.133" end="00:15:13.238">[Charles] She said, "Son, let me spend my last days in the house."</p>
+      <p begin="00:15:13.577" end="00:15:16.007">I said, "Okay, mom, I'll do that."</p>
+      <p begin="00:15:16.222" end="00:15:19.888">But she don't know I have no life.</p>
+      <p begin="00:15:20.487" end="00:15:22.262">My life is her.</p>
+      <p begin="00:15:22.646" end="00:15:28.172">For me to be with someone, I don't even know how to do it.</p>
+      <p begin="00:15:28.418" end="00:16:12.972">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:16:12.972" end="00:16:17.475" region="top">- When Charles' mother first left Florida to go to New York, </p>
+      <p begin="00:16:17.583" end="00:16:22.942" region="top">Charles was only eight months of age,eight months old. </p>
+      <p begin="00:16:24.309" end="00:16:29.934">And she stayed away so long thatwhen she came back for the first time</p>
+      <p begin="00:16:29.934" end="00:16:32.268">he didn't recognize her, he didn't know she was his mother.</p>
+      <p begin="00:16:33.127" end="00:16:36.107">He thought that his grandmother, really was his mother.</p>
+      <p begin="00:16:37.844" end="00:16:40.406" region="top">- I came to New York to better myself for all of us. </p>
+      <p begin="00:16:41.651" end="00:16:45.602" region="top">Me and my husband were separated,and I wanted to better myself, and I did. </p>
+      <p begin="00:16:45.602" end="00:16:49.235" region="top">I bought the home, 843 Willoughby Avenue. </p>
+      <p begin="00:16:49.327" end="00:16:51.182">Uh-huh.</p>
+      <p begin="00:16:51.397" end="00:17:01.042">- She abandoned, actually in a way,her children to follow a man</p>
+      <p begin="00:17:02.255" end="00:17:05.661">who had a wife that she was very crazy about.</p>
+      <p begin="00:17:07.350" end="00:17:09.771">Otherwise, she probably never would have gone to New York.</p>
+      <p begin="00:17:09.909" end="00:17:14.409">[Charles] Oh, I was about the age of seven to eight years old when I was <span tts:textDecoration="underline">.</span></p>
+      <p begin="00:17:14.409" end="00:17:17.101">Our mother, when she came out, she-she told my grandmother,</p>
+      <p begin="00:17:17.178" end="00:17:19.065">"I want him to to come back and live with me."</p>
+      <p begin="00:17:19.065" end="00:17:22.060">My grandmother said, "No, let them stay here 'cause they are better off.</p>
+      <p begin="00:17:22.152" end="00:17:25.091">They'll get a better education if they stay down here with me."</p>
+      <p begin="00:17:25.321" end="00:17:27.013">So my mother says, "No."</p>
+      <p begin="00:17:27.151" end="00:17:29.341">So my grandmother said, "No, you're not taking them."</p>
+      <p begin="00:17:29.434" end="00:17:31.115">So, my mother stole us.</p>
+      <p begin="00:17:31.223" end="00:17:33.141" region="top">- They were mine. </p>
+      <p begin="00:17:33.141" end="00:17:35.824" region="top">So I figured, I got 'em. I mean, I created 'em. </p>
+      <p begin="00:17:35.976" end="00:17:40.564" region="top">So, then I'm gonna bring all my creations back to New York with me. </p>
+      <p begin="00:17:40.671" end="00:17:41.666">Mm-hm.</p>
+      <p begin="00:17:43.187" end="00:17:44.735">That's what I did.</p>
+      <p begin="00:17:46.272" end="00:17:50.473">- I really hate to say this, but I think, at that time it was hard to find jobs,</p>
+      <p begin="00:17:50.626" end="00:17:55.829" region="top">so there was only one way is you have some kind of dependents </p>
+      <p begin="00:17:56.612" end="00:17:59.480">that you can get some welfare.</p>
+      <p begin="00:17:59.865" end="00:18:02.949">And I feel like that's what she was doing</p>
+      <p begin="00:18:02.957" end="00:18:04.985">to get the welfare by having those kid there.</p>
+      <p begin="00:18:06.091" end="00:18:10.640">- During his infancy, now he was the, the favorite child.</p>
+      <p begin="00:18:10.763" end="00:18:15.566">He received all the, the-the loving and caring from his older brothers and sisters</p>
+      <p begin="00:18:15.688" end="00:18:18.257">and his grandmother and his uncles and all of us,</p>
+      <p begin="00:18:18.257" end="00:18:20.269">because he was the baby.</p>
+      <p begin="00:18:20.269" end="00:18:24.774">- Uh, when Charles went to New York, I think that's when he lost all of that.</p>
+      <p begin="00:18:30.722" end="00:18:31.815">- I was living with my Mom,</p>
+      <p begin="00:18:31.815" end="00:18:35.195">and I was afraid that she was gonna hurt me, so I left.</p>
+      <p begin="00:18:35.195" end="00:18:37.338">We couldn't see eye to eye.</p>
+      <p begin="00:18:37.338" end="00:18:38.877">See, I was getting blamed for everything.</p>
+      <p begin="00:18:38.877" end="00:18:40.386">So I was very bitter.</p>
+      <p begin="00:18:41.047" end="00:18:44.306">And it seemed like everything was rationed to us,</p>
+      <p begin="00:18:44.429" end="00:18:47.122">and I was in a basement worser than this one.</p>
+      <p begin="00:18:47.122" end="00:18:51.033">You know, it was just sand basement, it was no concrete basement.</p>
+      <p begin="00:18:51.357" end="00:18:52.953">Fifteen watt bulb light.</p>
+      <p begin="00:18:53.060" end="00:18:54.846">And I said "No, I can't take this."</p>
+      <p begin="00:18:54.875" end="00:18:56.614">I said, "I don't want it, I'm going."</p>
+      <p begin="00:18:56.784" end="00:18:57.868">So I left.</p>
+      <p begin="00:18:58.606" end="00:19:03.755">[Sound of a subway train passing]</p>
+      <p begin="00:19:03.755" end="00:19:05.908">I was fourteen years old.</p>
+      <p begin="00:19:07.077" end="00:19:08.742">My home was the subway train.</p>
+      <p begin="00:19:08.834" end="00:19:11.421">That's where I'd go to keep warm.</p>
+      <p begin="00:19:12.712" end="00:19:16.708">I'd get on the subway train some nights, or winter nights, cold.</p>
+      <p begin="00:19:17.077" end="00:19:19.169">Riding the A train back up and down.</p>
+      <p begin="00:19:19.307" end="00:19:21.507">The police, pop, pop, pop, hit the darn thing real hard</p>
+      <p begin="00:19:21.645" end="00:19:23.222">and say, "Kids, you need to get off."</p>
+      <p begin="00:19:23.760" end="00:19:30.099">I'd go across the, the platform, getanother train going back. I sleep.</p>
+      <p begin="00:19:30.299" end="00:19:34.108">Get me a little corner and get astick and knock the thing real hard.</p>
+      <p begin="00:19:34.246" end="00:19:35.369">It penetrate through my head.</p>
+      <p begin="00:19:35.569" end="00:19:38.730">He said, "Kids, get up. Kids, get up."</p>
+      <p begin="00:19:38.898" end="00:19:46.182">So, I just keep going different routes toget a night's sleep before daylight come.</p>
+      <p begin="00:19:48.110" end="00:19:52.264">And I see for myself, what's going down, because everybody back in those days</p>
+      <p begin="00:19:52.387" end="00:19:55.620">was getting high, using the hard drugs.</p>
+      <p begin="00:19:55.728" end="00:19:58.566">I'd watch them holding upwhile they're shooting up</p>
+      <p begin="00:19:58.566" end="00:19:59.981">and they try to give it to me,</p>
+      <p begin="00:19:59.981" end="00:20:02.340">I got scared and I was afraid of needles.</p>
+      <p begin="00:20:02.340" end="00:20:03.815">I said, "No, no, no, no."</p>
+      <p begin="00:20:03.984" end="00:20:05.814">So that's when I headed to Jobs Corps.</p>
+      <p begin="00:20:05.937" end="00:20:09.304">And I tried to get my mother to sign me to go to Job Corps.</p>
+      <p begin="00:20:09.411" end="00:20:11.641">And she was mad with me, she wouldn't sign.</p>
+      <p begin="00:20:11.764" end="00:20:13.872">So I got my sister to forge her name.</p>
+      <p begin="00:20:14.334" end="00:20:15.814">And, um, I learned to cook.</p>
+      <p begin="00:20:15.922" end="00:20:17.869">I cooked for two years.</p>
+      <p begin="00:20:17.992" end="00:20:20.739">I was a cook trainee up in Bar Harbor, Maine.</p>
+      <p begin="00:20:20.739" end="00:20:23.420">And that's when I really started doing James Brown on the Job Corps.</p>
+      <p begin="00:20:23.604" end="00:20:26.562">But they said, "Man, you see that new guy that came in?</p>
+      <p begin="00:20:26.700" end="00:20:29.924">He looks just like that guy they call, James Brown."</p>
+      <p begin="00:20:33.216" end="00:20:35.603">And they got me fired up one day, they gave me some gin.</p>
+      <p begin="00:20:35.603" end="00:20:37.796">In the Job Corp, you were sneaky, you were supposed to sneak it in there.</p>
+      <p begin="00:20:38.496" end="00:20:40.932">They gave me some gin, got me really high,</p>
+      <p begin="00:20:41.056" end="00:20:43.260">and they gave me the microphone and they say, "Sing."</p>
+      <p begin="00:20:43.398" end="00:20:44.575">And I went crazy.</p>
+      <p begin="00:20:44.714" end="00:20:47.981">So then they told me to go -- they took me to a girls' Job Corps</p>
+      <p begin="00:20:47.981" end="00:20:50.106">center to perform.</p>
+      <p begin="00:20:50.106" end="00:20:51.856">I said, "How many peoples it's gonna be?"</p>
+      <p begin="00:20:51.963" end="00:20:53.423">They said twenty or thirty peoples.</p>
+      <p begin="00:20:53.515" end="00:20:54.968">I said, "Okay."</p>
+      <p begin="00:20:55.291" end="00:20:57.836">And they called me on stage.</p>
+      <p begin="00:20:58.143" end="00:20:59.906">And I look out that stage.</p>
+      <p begin="00:21:00.014" end="00:21:02.116">And I saw all those peoples, and I froze.</p>
+      <p begin="00:21:02.223" end="00:21:02.856">I said,</p>
+      <p begin="00:21:02.856" end="00:21:06.856">"Uh-uh, I ain't going out there. Not me, not me"</p>
+      <p begin="00:21:06.856" end="00:21:11.931">So, this guy named Moody came behind me and gave me a push.</p>
+      <p begin="00:21:12.024" end="00:21:13.485">I see all the peoples was happy.</p>
+      <p begin="00:21:13.608" end="00:21:14.662">They love me.</p>
+      <p begin="00:21:14.753" end="00:21:16.620">They love me giving them my heart.</p>
+      <p begin="00:21:17.050" end="00:21:20.808">And I said, "Wow, this where I want to be at."</p>
+      <p begin="00:21:20.931" end="00:21:22.559">And I never stopped.</p>
+      <p begin="00:21:25.694" end="00:21:28.613" region="top">Our plans was when we got out of Job Corps </p>
+      <p begin="00:21:28.613" end="00:21:30.662" region="top">we was gonna get together and continue the music. </p>
+      <p begin="00:21:30.662" end="00:21:33.909" region="top">My band got drafted into the Vietnam War. </p>
+      <p begin="00:21:33.909" end="00:21:39.781" region="top">And, um, they went on to war and I went,completed my training at Job Corps. </p>
+      <p begin="00:21:46.106" end="00:21:48.189">[keys jingling]</p>
+      <p begin="00:21:48.189" end="00:21:51.514">[female voice humming]</p>
+      <p begin="00:21:51.514" end="00:21:55.802">- I wanna taste it when you open, uh, the beer that is a pumpkin.</p>
+      <p begin="00:21:56.130" end="00:21:56.778">- [Tommy] Oh, yeah.</p>
+      <p begin="00:21:56.778" end="00:21:57.977">- I gotta taste that.</p>
+      <p begin="00:21:57.977" end="00:21:59.500">- We can open it now.</p>
+      <p begin="00:21:59.500" end="00:22:01.232">- A pumpkin beer. I never heard of pumpkin beer.</p>
+      <p begin="00:22:01.232" end="00:22:02.766">- [Tommy] Oh, yeah. We can drink some of that.</p>
+      <p begin="00:22:02.966" end="00:22:03.960">- I sure wanna taste that.</p>
+      <p begin="00:22:04.805" end="00:22:05.937">[Charles] Okay.</p>
+      <p begin="00:22:07.044" end="00:22:09.612">-Oh my God, this is delicious.</p>
+      <p begin="00:22:09.857" end="00:22:10.707">-[Charles] That's, uh, pumpkin?</p>
+      <p begin="00:22:10.799" end="00:22:12.987">- Seriously, this is unbelievable.</p>
+      <p begin="00:22:12.987" end="00:22:13.820">-[Charles] That's a pumpkin?</p>
+      <p begin="00:22:13.820" end="00:22:14.439">-[Tommy] Yo!</p>
+      <p begin="00:22:14.439" end="00:22:15.980">-That's the pumpkin?</p>
+      <p begin="00:22:15.980" end="00:22:18.882">-[Tommy] It is like effect in some people</p>
+      <p begin="00:22:18.882" end="00:22:20.274">You like it, now?</p>
+      <p begin="00:22:20.274" end="00:22:21.356">-[Charles] No.-[Tommy] You don't like it?</p>
+      <p begin="00:22:21.356" end="00:22:22.231">-I just don't like it.</p>
+      <p begin="00:22:22.231" end="00:22:23.419">- I think it's delicious.</p>
+      <p begin="00:22:23.419" end="00:22:25.763">- I'm gonna taste the pumpkin in there.</p>
+      <p begin="00:22:25.948" end="00:22:28.121">-Working with Charles Bradley, as opposed to working with</p>
+      <p begin="00:22:28.121" end="00:22:29.731">Sharon or Lee or somebody,</p>
+      <p begin="00:22:29.731" end="00:22:32.884">the other singers from New Yorkthat I've so often worked with,</p>
+      <p begin="00:22:32.884" end="00:22:35.785">you know, Charles has got the craziest stories.</p>
+      <p begin="00:22:35.981" end="00:22:37.624">Craziest stories.</p>
+      <p begin="00:22:37.624" end="00:22:41.604">So, you know as a songwriter, I just sit around with him,</p>
+      <p begin="00:22:41.711" end="00:22:44.372">and, and I hear Charles tell these stories and you're just like,</p>
+      <p begin="00:22:44.479" end="00:22:47.427">you know, we gotta write a song about that, man.</p>
+      <p begin="00:22:47.427" end="00:22:50.022">So usually before we do the vocals on the track,</p>
+      <p begin="00:22:50.022" end="00:22:53.774">[Tommy] I'll play Charles' song and just ask him if he likes it, first of all.</p>
+      <p begin="00:22:53.912" end="00:22:57.171">Then, I'll sing him my ideas, you know, to tell him how I think it should go.</p>
+      <p begin="00:22:57.340" end="00:23:00.984">And not that he disregards my ideas,but he's just got his own ideas</p>
+      <p begin="00:23:00.984" end="00:23:04.021">and he just instantly starts expressing them.</p>
+      <p begin="00:23:04.175" end="00:23:06.664">He'll just start singing, and then we'll kind of stop</p>
+      <p begin="00:23:06.772" end="00:23:08.789">and just get away from it for a second and just talk.</p>
+      <p begin="00:23:08.789" end="00:23:09.897">And you just start--</p>
+      <p begin="00:23:09.897" end="00:23:13.940">you talk with Charles long enough and a story comes out about something.</p>
+      <p begin="00:23:13.940" end="00:23:18.192">[Tommy]That without me asking him, he'll start singing about what we just-</p>
+      <p begin="00:23:18.192" end="00:23:19.148">what we just spoke about.</p>
+      <p begin="00:23:19.148" end="00:23:22.728">And then I'll grab a pencil and paper,and let him kind of freestyle</p>
+      <p begin="00:23:22.728" end="00:23:24.481">over the track, over and over again.</p>
+      <p begin="00:23:24.481" end="00:23:27.660">And then we'll go back and that will become a song slowly, you know,</p>
+      <p begin="00:23:27.660" end="00:23:29.297">over the course of a couple of hours.</p>
+      <p begin="00:23:29.404" end="00:23:32.915">But, um, it's his stories that I'm always trying to translate into song, you know.</p>
+      <p begin="00:23:33.038" end="00:23:38.301">&#9834; [music] &#9834;</p>
+      <p begin="00:23:38.455" end="00:23:43.687" region="top">-[Charles] I went to California in 1977, searching for my dreams, music. </p>
+      <p begin="00:23:44.824" end="00:23:46.897">I was bouncing into different bands,</p>
+      <p begin="00:23:46.897" end="00:23:50.763">like they'll say, "Man, we'll pay you $400to do this tonight, the show tonight.</p>
+      <p begin="00:23:50.870" end="00:23:53.934">And this guy paid this, paid me to do this tonight.</p>
+      <p begin="00:23:54.056" end="00:23:55.711">That's how I was doing out there.</p>
+      <p begin="00:23:56.050" end="00:24:00.454">And at that time, I don't know why, I got sick.</p>
+      <p begin="00:24:00.592" end="00:24:05.166">I called my Mom, and she says,"Son, come on back home."</p>
+      <p begin="00:24:07.840" end="00:24:11.200">Mom is getting old and then, she been through a lot.</p>
+      <p begin="00:24:11.292" end="00:24:15.229">And I, it's not for me to crucify her for what she did in her life.</p>
+      <p begin="00:24:16.228" end="00:24:20.245" region="top">So I came back to New York in '94. </p>
+      <p begin="00:24:21.383" end="00:24:24.682" region="top">I was sick as a dog, I was close to death. </p>
+      <p begin="00:24:25.359" end="00:24:27.773" region="top">They took me to Woodhull Hospital. </p>
+      <p begin="00:24:28.173" end="00:24:31.954" region="top">[Charles] I'm allergic to penicillin and they was feeding me penicillin. </p>
+      <p begin="00:24:32.231" end="00:24:34.758" region="top">And my body had shut down. </p>
+      <p begin="00:24:35.880" end="00:24:38.623" region="top">I had gave up totally. </p>
+      <p begin="00:24:40.437" end="00:24:48.072">Then my brother Joseph, he came, um, he came to the hospital to see me.</p>
+      <p begin="00:24:48.579" end="00:24:51.388">And he reached over and he kissed me.</p>
+      <p begin="00:24:51.388" end="00:24:53.483">He said, "Charles, no, no."</p>
+      <p begin="00:24:53.667" end="00:24:55.286">He whispered in my ear.</p>
+      <p begin="00:24:55.471" end="00:25:00.903">He said, "Bro, if you don't want to livefor yourself, please live for me."</p>
+      <p begin="00:25:00.996" end="00:25:02.225">He said, "Charles, I love you."</p>
+      <p begin="00:25:02.670" end="00:25:04.053">"You're my heart."</p>
+      <p begin="00:25:04.314" end="00:25:08.028">I said, I said, "Joe, I'll fight. I'll fight."</p>
+      <p begin="00:25:08.151" end="00:25:14.063">&#9834; [piano music playing] &#9834;</p>
+      <p begin="00:25:14.063" end="00:25:17.156">My brother just told me he said, "Charles,now do something that you wanna do."</p>
+      <p begin="00:25:18.350" end="00:25:19.732">"Follow your dreams."</p>
+      <p begin="00:25:19.732" end="00:25:21.207">"You love music, do it."</p>
+      <p begin="00:25:21.207" end="00:25:23.004">And I said, "Joe, I'd like to be something like you."</p>
+      <p begin="00:25:23.034" end="00:25:24.772">He said, "No brother, you can't be me."</p>
+      <p begin="00:25:24.895" end="00:25:26.311">"Don't ever want to be me. Be you."</p>
+      <p begin="00:25:26.449" end="00:25:30.046" region="top">- [Mom] Oh, that was his buddy. </p>
+      <p begin="00:25:30.522" end="00:25:32.542" region="top">He Joe. He was crazy about Charles. </p>
+      <p begin="00:25:32.665" end="00:25:36.410" region="top">He told Charles, "Whatever you do, do it good brother, and stick with it." </p>
+      <p begin="00:25:36.517" end="00:25:38.122" region="top">"Don't let nobody talk you out of it." </p>
+      <p begin="00:25:38.429" end="00:25:41.125" region="top">He told that before he died. </p>
+      <p begin="00:25:41.170" end="00:25:44.809" region="top">He said, "Don't nobody talk you out of it." </p>
+      <p begin="00:25:44.855" end="00:26:00.797">&#9834; [piano music continues to play] &#9834;</p>
+      <p begin="00:26:00.967" end="00:26:03.075">-[Charles] He said, "'Cause I can't do it, like you do it."</p>
+      <p begin="00:26:03.151" end="00:26:05.257">'Cause I remember when I was a kid when I was in Florida.</p>
+      <p begin="00:26:05.441" end="00:26:09.208">Joseph was going to piano schooland how I learned these little things,</p>
+      <p begin="00:26:09.361" end="00:26:11.442">I'm playing the piano, by watching him.</p>
+      <p begin="00:26:12.150" end="00:26:14.901">He never learned about his -- tuned it myself.</p>
+      <p begin="00:26:15.638" end="00:26:18.235">He said, "Follow your dreams and your music."</p>
+      <p begin="00:26:18.235" end="00:26:22.413">And he said, "Take one of these rooms in this house and fix it up</p>
+      <p begin="00:26:22.550" end="00:26:25.656">as your room and have people come out here for rehearsal."</p>
+      <p begin="00:26:25.779" end="00:26:27.075">And that's what I did.</p>
+      <p begin="00:26:27.581" end="00:26:29.736">Joe was like a father and a brother.</p>
+      <p begin="00:26:29.829" end="00:26:32.154">He was a beautiful brother.</p>
+      <p begin="00:26:32.273" end="00:26:37.726">[slicing/chopping sound]</p>
+      <p begin="00:26:37.726" end="00:26:39.212">- [Mom] So, where the fruits at?</p>
+      <p begin="00:26:42.731" end="00:26:47.423">[cooking/frying sound]</p>
+      <p begin="00:26:47.423" end="00:26:48.356">-[Charles] Is that enough?</p>
+      <p begin="00:26:48.356" end="00:26:49.518">-[female voice] A Little bit more.</p>
+      <p begin="00:26:49.657" end="00:26:50.985">- [Tutor] Yeah, sit down, Charles and eat.</p>
+      <p begin="00:26:50.985" end="00:26:52.988">- [Charles] I can make us some breakfast.</p>
+      <p begin="00:26:52.988" end="00:26:54.188">- I'm not hungry, but you eat.</p>
+      <p begin="00:26:54.326" end="00:26:57.892">And then we'll startslowly talking about what you did.</p>
+      <p begin="00:26:58.000" end="00:26:59.752">- Okay I'm gonna leave this right here for you.</p>
+      <p begin="00:26:59.844" end="00:27:00.569">- That's fine.</p>
+      <p begin="00:27:00.677" end="00:27:01.924">I'm tutoring Charles.</p>
+      <p begin="00:27:02.047" end="00:27:05.692" region="top">I would say he's probably at like a kindergarten or first grade </p>
+      <p begin="00:27:05.830" end="00:27:08.303" region="top">reading level and reading comprehension level. </p>
+      <p begin="00:27:08.548" end="00:27:14.017">- Other writers interested in my story.</p>
+      <p begin="00:27:14.017" end="00:27:15.504">- Okay, so you sounded it out.</p>
+      <p begin="00:27:15.504" end="00:27:17.492">Did you understand everything that you read?</p>
+      <p begin="00:27:19.586" end="00:27:23.065">- Um, yes and no.</p>
+      <p begin="00:27:23.065" end="00:27:25.347">-Yes and no.</p>
+      <p begin="00:27:25.422" end="00:27:26.195">- Charles?</p>
+      <p begin="00:27:26.195" end="00:27:26.758">- Hm?</p>
+      <p begin="00:27:26.758" end="00:27:28.169" region="top">- The lunch was delicious. </p>
+      <p begin="00:27:28.277" end="00:27:29.655">- Thank you, Momma.</p>
+      <p begin="00:27:30.301" end="00:27:35.613">- I think his number one goal is for him to be able to write his lyrics</p>
+      <p begin="00:27:35.613" end="00:27:38.419">down fast when they're coming into his head,</p>
+      <p begin="00:27:38.419" end="00:27:41.632">because he's got a lot of words up there that he wants to get on paper,</p>
+      <p begin="00:27:41.740" end="00:27:43.643">but he doesn't really know how to do it.</p>
+      <p begin="00:27:43.689" end="00:27:45.148">- You didn't spell, An it right.-Okay.</p>
+      <p begin="00:27:45.454" end="00:27:46.173">- Oh, two N's?</p>
+      <p begin="00:27:46.712" end="00:27:48.454">- Just one N. No, D.</p>
+      <p begin="00:27:48.577" end="00:27:49.567">- Oh, N.</p>
+      <p begin="00:27:49.567" end="00:27:52.181">- 'Cause AND is like when you put two things together like...</p>
+      <p begin="00:27:52.780" end="00:27:53.549">- Right, okay.</p>
+      <p begin="00:27:53.656" end="00:27:54.984">- Fish AND chips.</p>
+      <p begin="00:27:55.230" end="00:27:56.720">- Okay. I'll miss you.</p>
+      <p begin="00:27:56.890" end="00:27:59.253">- Bye Charles. I'll see you next week.</p>
+      <p begin="00:27:59.421" end="00:28:00.489">Thank you.</p>
+      <p begin="00:28:00.520" end="00:28:29.100" region="top">&#9834; [music starts playing] &#9834; </p>
+      <p begin="00:28:29.299" end="00:28:29.949">-[Barber] Come on in.</p>
+      <p begin="00:28:30.785" end="00:28:34.463">- [young boss] You got it? Yo! You could read it later. Wrap it up.</p>
+      <p begin="00:28:34.648" end="00:28:36.289">- No. Get the fuck outta here-Get started.</p>
+      <p begin="00:28:37.827" end="00:28:39.783">[young boss] You know I own you. You know I'm the boss.</p>
+      <p begin="00:28:40.675" end="00:28:42.986">- [Laughing] I bet you wish you was.</p>
+      <p begin="00:28:43.001" end="00:28:44.430">- Thank you, Mr. Brown.</p>
+      <p begin="00:28:45.537" end="00:28:50.271">- Charles used to wear his James Brown wig all the time, right?</p>
+      <p begin="00:28:50.363" end="00:28:51.999">All the time.</p>
+      <p begin="00:28:52.091" end="00:28:54.526">And as the record close to a near, it's like, "Charles you know,</p>
+      <p begin="00:28:54.588" end="00:28:57.027">you got to present yourself as Charles Bradley."</p>
+      <p begin="00:28:57.027" end="00:28:58.601">And he had a hard time.</p>
+      <p begin="00:28:58.601" end="00:29:01.161">I mean, he wanted to come out with the cape and the James Brown thing.</p>
+      <p begin="00:29:01.161" end="00:29:02.042">And just be that.</p>
+      <p begin="00:29:02.042" end="00:29:04.069">'Cause that's what he's used to getting up on stage and doing.</p>
+      <p begin="00:29:04.114" end="00:29:06.171">And we did not want that, you know.</p>
+      <p begin="00:29:06.171" end="00:29:08.160">And we just wanted Charles to be Charles.</p>
+      <p begin="00:29:08.251" end="00:29:10.430">And it took a lot of convincing for Charles to do that.</p>
+      <p begin="00:29:10.430" end="00:29:18.361">[small motorized tools working][sounds of traffic]</p>
+      <p begin="00:29:18.361" end="00:29:21.326">- Charles has a record coming out January 25th.</p>
+      <p begin="00:29:21.449" end="00:29:24.315">So, now starts the promotion leading up to the record coming out.</p>
+      <p begin="00:29:24.423" end="00:29:28.316">- [Charles] I'm going on tour with Sharon Jones to open up for her.</p>
+      <p begin="00:29:29.398" end="00:29:34.684">Sharon Jones is giving me a chanceto expose some of my music,</p>
+      <p begin="00:29:34.853" end="00:29:37.284">to let the world know who Charles Bradley is.</p>
+      <p begin="00:29:38.146" end="00:29:41.843">- It's real exciting for us as a label to be able to present these kind of</p>
+      <p begin="00:29:41.951" end="00:29:46.670">package deal, packages and Charles is the perfect guy to add</p>
+      <p begin="00:29:46.777" end="00:29:50.159">to any of the shows and get his name out on the heels of so many other bands that</p>
+      <p begin="00:29:50.159" end="00:29:51.985">have had success up to now.</p>
+      <p begin="00:29:52.201" end="00:29:54.391">- If we go some place and we are ableto have a thousand people come down</p>
+      <p begin="00:29:54.483" end="00:29:57.759">to see Sharon, to be able to put him in front of that audience is...</p>
+      <p begin="00:29:57.882" end="00:30:00.427">is a huge head start.</p>
+      <p begin="00:30:01.135" end="00:30:03.405">So far you know, the Sharon Jonesand Dap-Kings has been</p>
+      <p begin="00:30:03.513" end="00:30:07.071">our most prolific artists, and our most successful artists.</p>
+      <p begin="00:30:07.193" end="00:30:10.309">Artists, been around the longest,toured the most, and by far sold,</p>
+      <p begin="00:30:10.417" end="00:30:12.039">you know, ten times as many records.</p>
+      <p begin="00:30:12.273" end="00:30:21.215">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:30:21.215" end="00:30:24.261">- Didn't put out a proper show in about a year or so, you know,</p>
+      <p begin="00:30:24.384" end="00:30:26.398">to also put that in context,</p>
+      <p begin="00:30:26.398" end="00:30:38.773">he hasn't played a lot of gigs as Charles Bradley.</p>
+      <p begin="00:30:38.773" end="00:30:41.191">- Working with Bradley live is a little stressful,</p>
+      <p begin="00:30:41.268" end="00:30:44.356">because he can kind of go off in a song anytime.</p>
+      <p begin="00:30:50.903" end="00:30:56.423">- [Charles] America. We gotta make this room, a better place.</p>
+      <p begin="00:30:56.746" end="00:30:59.297">Come on, bring it all in.</p>
+      <p begin="00:31:00.024" end="00:31:02.353">&#9834; No time for dreaming &#9834;</p>
+      <p begin="00:31:02.353" end="00:31:04.279">&#9834; [back-up singers] Dreaming, dreaming.&#9834;</p>
+      <p begin="00:31:04.279" end="00:31:05.290">&#9834; Gotta get on up.&#9834;</p>
+      <p begin="00:31:05.290" end="00:31:06.220">&#9834; [back-up singers] Get up &#9834;</p>
+      <p begin="00:31:06.220" end="00:31:08.876">&#9834; Gotta do your thing, oooooh... &#9834;</p>
+      <p begin="00:31:09.060" end="00:31:11.261">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:31:11.261" end="00:31:13.275">&#9834; [back-up singers] Dreaming, dreaming.&#9834;</p>
+      <p begin="00:31:13.275" end="00:31:14.189">&#9834; Gotta get on up, &#9834;</p>
+      <p begin="00:31:14.189" end="00:31:14.940">[back-up singers] Get up. &#9834;</p>
+      <p begin="00:31:14.940" end="00:31:16.356">&#9834; Gotta do your thing. &#9834;</p>
+      <p begin="00:31:16.356" end="00:31:17.731">&#9834;[back-up singers] Do your thing. &#9834;</p>
+      <p begin="00:31:17.731" end="00:31:20.147">&#9834; Sleep while your sleeping. &#9834;</p>
+      <p begin="00:31:20.147" end="00:31:22.189">&#9834; Tired of slowly creeping. &#9834;</p>
+      <p begin="00:31:22.189" end="00:31:23.439">&#9834; Wake up!&#9834;</p>
+      <p begin="00:31:23.439" end="00:31:26.523">&#9834; Before it's too late. &#9834;</p>
+      <p begin="00:31:26.523" end="00:31:29.065">&#9834; Try a little harder! &#9834;</p>
+      <p begin="00:31:29.065" end="00:31:31.065">&#9834; Stop wasting over yonder. &#9834;</p>
+      <p begin="00:31:31.065" end="00:31:32.481">&#9834; Wake up! &#9834;</p>
+      <p begin="00:31:32.481" end="00:31:33.773">&#9834; You'll get your break. &#9834;</p>
+      <p begin="00:31:33.773" end="00:31:35.397">&#9834; Huh! &#9834;</p>
+      <p begin="00:31:35.397" end="00:31:37.648">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:31:37.648" end="00:31:39.481">&#9834; [back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:31:39.481" end="00:31:40.635">&#9834; Gotta get on up. &#9834;</p>
+      <p begin="00:31:40.635" end="00:31:41.458">&#9834; [back-up singers] Get up! &#9834;</p>
+      <p begin="00:31:41.458" end="00:31:42.898">&#9834; Gotta do your thing. &#9834;</p>
+      <p begin="00:31:42.898" end="00:31:44.610">&#9834; [back-up singers] Ohhh...&#9834;</p>
+      <p begin="00:31:44.610" end="00:31:46.470">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:31:46.470" end="00:31:48.385">&#9834;[back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:31:48.385" end="00:31:49.449">&#9834; Gotta get on up. &#9834;</p>
+      <p begin="00:31:49.449" end="00:31:50.263">&#9834; [back-up singers] Get up. &#9834;</p>
+      <p begin="00:31:50.263" end="00:31:51.348">&#9834; Gotta do your thing &#9834;</p>
+      <p begin="00:31:51.348" end="00:31:52.270">&#9834; [back-up singers] And do your thing. &#9834;</p>
+      <p begin="00:31:52.270" end="00:31:53.272">&#9834; Hey...&#9834;</p>
+      <p begin="00:31:53.272" end="00:32:00.649">&#9834; [instrumental music playing] &#9834;</p>
+      <p begin="00:32:00.649" end="00:32:01.786">&#9834; Hey...&#9834;</p>
+      <p begin="00:32:01.786" end="00:32:03.523">&#9834; [instrumental music playing] &#9834;</p>
+      <p begin="00:32:03.523" end="00:32:05.065">&#9834; Gotta &#9834;</p>
+      <p begin="00:32:05.065" end="00:32:08.398">&#9834; give &#9834;</p>
+      <p begin="00:32:08.398" end="00:32:11.147">&#9834; Yeah &#9834;</p>
+      <p begin="00:32:11.147" end="00:32:12.816">&#9834; No time for dreaming. &#9834;</p>
+      <p begin="00:32:12.816" end="00:32:14.898">&#9834; [back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:32:14.898" end="00:32:16.064">&#9834; Gotta get on up. &#9834;</p>
+      <p begin="00:32:16.064" end="00:32:16.757">&#9834; [back-up singers] Get up. &#9834;</p>
+      <p begin="00:32:16.757" end="00:32:18.273">&#9834; Gotta do your thing &#9834;</p>
+      <p begin="00:32:18.273" end="00:32:19.060">&#9834; [back-up singers] Ohhh...&#9834;</p>
+      <p begin="00:32:19.060" end="00:32:21.856">&#9834; Huh! No time for dreaming. &#9834;</p>
+      <p begin="00:32:21.856" end="00:32:23.564">&#9834; [back-up singers] Dreaming, dreaming. &#9834;</p>
+      <p begin="00:32:23.564" end="00:32:25.064">&#9834; Gotta get on up &#9834;</p>
+      <p begin="00:32:25.064" end="00:32:25.781">&#9834; [back-up singers] Get up. &#9834;</p>
+      <p begin="00:32:25.781" end="00:32:26.940">&#9834; Gotta do your thing &#9834;</p>
+      <p begin="00:32:26.940" end="00:32:29.420">&#9834; [back-up singers] Do your thing. &#9834;</p>
+      <p begin="00:32:29.605" end="00:32:34.357">&#9834; No time for dreaming.&#9834;</p>
+      <p begin="00:32:34.357" end="00:32:37.788">&#9834; You got to get on up &#9834;</p>
+      <p begin="00:32:37.788" end="00:32:41.481">&#9834; And do your thing. &#9834;</p>
+      <p begin="00:32:41.481" end="00:32:42.729">&#9834; [music fading] &#9834;</p>
+      <p begin="00:32:42.729" end="00:32:43.815">[audience applauding]</p>
+      <p begin="00:32:43.815" end="00:32:45.948">- [audience member] I love you.</p>
+      <p begin="00:32:45.948" end="00:32:49.733">- I love you, too. I love you, too.</p>
+      <p begin="00:32:49.733" end="00:32:50.941">-[audience member] love you, Charles.</p>
+      <p begin="00:32:50.941" end="00:32:52.481">-[Charles] I love you, too</p>
+      <p begin="00:32:52.481" end="00:32:54.898">[audience cheering/applauding]</p>
+      <p begin="00:32:54.898" end="00:32:59.175">- put your hands together and give it for Charles Bradley.</p>
+      <p begin="00:33:00.465" end="00:33:04.611">Show some love for Mr. Charles Bradley.</p>
+      <p begin="00:33:05.702" end="00:33:08.440">- Okay. Your smarter. Your smarter.</p>
+      <p begin="00:33:08.547" end="00:33:09.536">- It was better than last night,wasn't it?</p>
+      <p begin="00:33:09.629" end="00:33:10.467">- Yes, it was.</p>
+      <p begin="00:33:10.467" end="00:33:11.582">-[Tommy] It was better.-[Charles] Killed it</p>
+      <p begin="00:33:11.643" end="00:33:12.547">- So we won.</p>
+      <p begin="00:33:12.640" end="00:33:13.484">- It was.</p>
+      <p begin="00:33:13.607" end="00:33:14.606">- Just how long?</p>
+      <p begin="00:33:14.606" end="00:33:16.479">- I know I made a few mistakes tonight.</p>
+      <p begin="00:33:16.617" end="00:33:18.817">But I'm getting better and I feel it.</p>
+      <p begin="00:33:18.940" end="00:33:20.945">The audience didn't see it, but I know it.</p>
+      <p begin="00:33:21.067" end="00:33:22.843">And Tom, he know about it.</p>
+      <p begin="00:33:23.150" end="00:33:26.075">So, the last one I was good on.</p>
+      <p begin="00:33:26.475" end="00:33:29.629">And there's something I'm wonderingwhen I made a mistake on,</p>
+      <p begin="00:33:29.736" end="00:33:32.112">but I'm get better on it.And I promise you that.</p>
+      <p begin="00:33:32.374" end="00:33:35.633">- We can't believe that they didn't put you on more.</p>
+      <p begin="00:33:35.633" end="00:33:36.930">We wanted more of you.</p>
+      <p begin="00:33:36.930" end="00:33:39.906">Why didn't you come back on in the end?</p>
+      <p begin="00:33:40.520" end="00:33:41.523">Tell her.</p>
+      <p begin="00:33:41.523" end="00:33:42.481">[Charles mumbling]</p>
+      <p begin="00:33:42.481" end="00:33:44.547">- I don't care, we want more.</p>
+      <p begin="00:33:44.639" end="00:33:46.375">More of Chuckie.</p>
+      <p begin="00:33:46.883" end="00:33:48.282">- Thank you, my man.</p>
+      <p begin="00:33:48.359" end="00:33:49.283">Thank you for that.</p>
+      <p begin="00:33:49.360" end="00:33:50.674">You, you got the juices flowing for all of us.</p>
+      <p begin="00:33:50.782" end="00:33:51.543">Thank you.</p>
+      <p begin="00:33:51.635" end="00:33:53.595">- You just blew the roof off the place.</p>
+      <p begin="00:33:53.780" end="00:33:56.638">- Unbelievable. You're gonna be like huge, man.</p>
+      <p begin="00:33:56.838" end="00:33:59.019">- I don't understand what people mean about, "divas," you know,</p>
+      <p begin="00:33:59.142" end="00:34:01.688">'cause that, "diva" word can be -- sometimes can be wrong.</p>
+      <p begin="00:34:01.749" end="00:34:02.817">- No, but it's right for you.</p>
+      <p begin="00:34:02.817" end="00:34:05.626">- Diva means, you know, you just...-It all depends.</p>
+      <p begin="00:34:05.750" end="00:34:06.906">- Yeah.</p>
+      <p begin="00:34:07.182" end="00:34:09.314">- But it's coming from love, you gotta consider the source.</p>
+      <p begin="00:34:09.314" end="00:34:10.412">-This one is yours.</p>
+      <p begin="00:34:10.412" end="00:34:11.313">- "Consider the source."</p>
+      <p begin="00:34:11.313" end="00:34:12.398">-You have a good week.</p>
+      <p begin="00:34:12.398" end="00:34:15.463">- You didn't say, "To Charles." You didn't say, "To Charles."</p>
+      <p begin="00:34:15.463" end="00:34:18.399">-"Charles," how do you spell "Bradley?"</p>
+      <p begin="00:34:18.399" end="00:34:19.903">- Bradley, B-R-A-D-L-E-Y.</p>
+      <p begin="00:34:19.903" end="00:34:22.058">- ...L- E-Y.</p>
+      <p begin="00:34:22.165" end="00:34:22.905">- Cool. Now I got it.</p>
+      <p begin="00:34:23.012" end="00:34:24.081">- You got the sparks.</p>
+      <p begin="00:34:27.523" end="00:34:28.490">- I love you, Sharon.</p>
+      <p begin="00:34:28.598" end="00:34:29.627">- I love you, too.</p>
+      <p begin="00:34:29.704" end="00:34:33.089" region="top">- You, you have found a real friend in me and I wish the best for you. </p>
+      <p begin="00:34:33.089" end="00:34:35.461">- I wish the best for you, best for us.</p>
+      <p begin="00:34:35.553" end="00:34:39.892">- If I don't, if I don't see you at the top, I will see you in heaven.</p>
+      <p begin="00:34:40.075" end="00:34:41.898">- Oh, you're gonna see me, you'll see me on the top</p>
+      <p begin="00:34:41.898" end="00:34:43.315">and you're gonna see me in heaven.</p>
+      <p begin="00:34:43.315" end="00:34:45.487">You'll see me while I'll be down here too.</p>
+      <p begin="00:34:45.595" end="00:34:46.333">- I love you, Sharon.</p>
+      <p begin="00:34:46.441" end="00:34:47.667">- Love you too, Charles.</p>
+      <p begin="00:34:47.939" end="00:35:07.523">[Instrumental music playing]</p>
+      <p begin="00:35:07.523" end="00:35:09.732">-Poughkeepsie</p>
+      <p begin="00:35:10.945" end="00:35:15.023">- I'm gonna stop by and visit some old friends I haven't seen in many years.</p>
+      <p begin="00:35:15.023" end="00:35:17.439">[doorbell chime]</p>
+      <p begin="00:35:17.439" end="00:35:23.189">[door opening][people greeting each other with laughter]</p>
+      <p begin="00:35:23.189" end="00:35:25.378">-[Charles] I said, "God, I hope they're still here."</p>
+      <p begin="00:35:25.378" end="00:35:27.105">- Yeah, we're still here, Bro.</p>
+      <p begin="00:35:27.105" end="00:35:30.516">- [Charles] Wow, this house smells good!</p>
+      <p begin="00:35:30.516" end="00:35:33.007">-What's going on, buddy? How are you feeling?</p>
+      <p begin="00:35:33.007" end="00:35:34.486">- It's been years. Look at you.</p>
+      <p begin="00:35:34.486" end="00:35:36.138">- Oh, yeah. You look well, man.</p>
+      <p begin="00:35:36.138" end="00:35:37.649">- God, you look good too.</p>
+      <p begin="00:35:37.649" end="00:35:39.897">Is that Jackie coming down?</p>
+      <p begin="00:35:39.897" end="00:35:42.106">Ah! Look at Jackie!</p>
+      <p begin="00:35:42.106" end="00:35:44.528">How you doing?</p>
+      <p begin="00:35:46.248" end="00:35:47.233" region="top">I know this guy -- </p>
+      <p begin="00:35:47.233" end="00:35:51.462" region="top">I know Ernie Washington since 1968. </p>
+      <p begin="00:35:51.462" end="00:35:52.939" region="top">- You know what, she was looking for now? </p>
+      <p begin="00:35:52.939" end="00:35:53.504" region="top">-[Charles] Um? </p>
+      <p begin="00:35:53.504" end="00:35:54.668" region="top">-You remember when you used to wear a cape? </p>
+      <p begin="00:35:54.668" end="00:35:57.022">- [Ernie] You were singing one of James Brown's songs,</p>
+      <p begin="00:35:57.022" end="00:35:59.106">and you'd throw that cape off.-[Charles] Oh, my God.</p>
+      <p begin="00:35:59.106" end="00:36:02.676">And I don't know if one of us went and picked the cape up</p>
+      <p begin="00:36:02.676" end="00:36:04.944">and lay it back on your shoulder or what.</p>
+      <p begin="00:36:05.067" end="00:36:05.969">- Yes, I remember that.</p>
+      <p begin="00:36:05.969" end="00:36:06.939">- Yeah.</p>
+      <p begin="00:36:06.939" end="00:36:07.859">- Yes, I remember that.</p>
+      <p begin="00:36:07.859" end="00:36:09.211">- That's right.</p>
+      <p begin="00:36:09.288" end="00:36:11.218">You never would know, you went that far, huh?</p>
+      <p begin="00:36:11.341" end="00:36:14.390">- God. You know, I thank God I didn't, I didn't give up.</p>
+      <p begin="00:36:14.498" end="00:36:15.390">- Thank God.</p>
+      <p begin="00:36:15.498" end="00:36:16.525">- Let me speak to Tom.</p>
+      <p begin="00:36:16.602" end="00:36:22.058">Tell Tom that to put Mr. and Mrs. Washington on the guest list.</p>
+      <p begin="00:36:22.535" end="00:36:23.645">I found my friends.</p>
+      <p begin="00:36:23.860" end="00:36:25.335">They are totally my family.</p>
+      <p begin="00:36:25.504" end="00:36:29.562">We keep in touch, I mean, we goaway for so far long but eventually,</p>
+      <p begin="00:36:29.670" end="00:36:30.597">I'm gonna find them back.</p>
+      <p begin="00:36:30.597" end="00:36:31.169">- That's right.</p>
+      <p begin="00:36:31.169" end="00:36:32.002">- You know that, Jackie.</p>
+      <p begin="00:36:32.002" end="00:36:33.435">- Yeah, we've been friends for a long, long time.</p>
+      <p begin="00:36:33.435" end="00:36:34.822">- Yes, yes, God yes.</p>
+      <p begin="00:36:35.760" end="00:36:38.185">I get goosebumps even thinking about that.</p>
+      <p begin="00:36:38.309" end="00:36:40.342">I'll see you guys, I'll see you tonight.</p>
+      <p begin="00:36:40.342" end="00:36:42.104">- [Ernie] Take care, and I'll see you tonight.</p>
+      <p begin="00:36:42.104" end="00:36:43.482">- All right, bye.</p>
+      <p begin="00:36:44.988" end="00:36:48.910">Oh my God, that's memory lane.</p>
+      <p begin="00:36:52.244" end="00:36:53.608">On South Road,</p>
+      <p begin="00:36:53.608" end="00:36:59.502">I was standing in a house over there and we had a heavy snowstorm.</p>
+      <p begin="00:36:59.502" end="00:37:00.565">I called in sick.</p>
+      <p begin="00:37:00.565" end="00:37:03.818">I didn't wanna go in because I wasn't able to go through all that snow.</p>
+      <p begin="00:37:03.818" end="00:37:06.731">So he said, "Well, you call in sick again,you don't come in,</p>
+      <p begin="00:37:06.731" end="00:37:08.689">don't bother coming in no more."</p>
+      <p begin="00:37:08.689" end="00:37:11.465">And I said, well I don't wanna lose my job,</p>
+      <p begin="00:37:11.478" end="00:37:13.527">I got my apartment, got bills, gotta pay rent.</p>
+      <p begin="00:37:13.540" end="00:37:16.782">So I got out and I got on the road and started hitchhiking.</p>
+      <p begin="00:37:16.796" end="00:37:18.889">Hitchhiking, hitchhiking.</p>
+      <p begin="00:37:18.920" end="00:37:21.078">Then all of a sudden, I saw this guy stop.</p>
+      <p begin="00:37:21.186" end="00:37:22.608">Picked me up, got in the car.</p>
+      <p begin="00:37:22.700" end="00:37:26.993">After he drove about a mile or two miles and there was a StateTrooper</p>
+      <p begin="00:37:26.993" end="00:37:29.633">on the side behind him. And put the siren on and pulled him aside.</p>
+      <p begin="00:37:29.633" end="00:37:34.785">One of them came up to me and said, "Can I see your identification?"</p>
+      <p begin="00:37:35.753" end="00:37:37.353">Well, who's the guy next to you?</p>
+      <p begin="00:37:37.353" end="00:37:39.148">I said, "Now that's not my information to give you,</p>
+      <p begin="00:37:39.148" end="00:37:40.314">you have to get that information from him."</p>
+      <p begin="00:37:40.314" end="00:37:43.514">And so he grabbed me, called me a, "Wise Nigger."</p>
+      <p begin="00:37:43.698" end="00:37:45.440">And he grabbed me and throwed me against the car,</p>
+      <p begin="00:37:45.440" end="00:37:47.023">put the handcuffs on me.</p>
+      <p begin="00:37:47.023" end="00:37:49.201">He said, "I'd take you to the woods and bust your brains out.</p>
+      <p begin="00:37:49.355" end="00:37:51.486">When I ask you a question, don't act wise with me."</p>
+      <p begin="00:37:51.624" end="00:37:55.210">And I stayed there and then his partner came over and said, "Hey man."</p>
+      <p begin="00:37:55.333" end="00:37:57.660">Took him to the side, said something to him.</p>
+      <p begin="00:37:58.479" end="00:38:01.095">And then his partner, he kind of apologized to me.</p>
+      <p begin="00:38:01.326" end="00:38:04.372">Took the handcuffs off me and told me get in the car and go ahead.</p>
+      <p begin="00:38:04.510" end="00:38:05.545">And I left.</p>
+      <p begin="00:38:07.082" end="00:38:08.565">And I went into this little pizza shop.</p>
+      <p begin="00:38:08.565" end="00:38:10.481">Tiny pizza shop.</p>
+      <p begin="00:38:10.481" end="00:38:12.003">I was sitting down, I said, "God, I can't take this much."</p>
+      <p begin="00:38:12.003" end="00:38:13.548">"I'm at the end of my rope."</p>
+      <p begin="00:38:14.485" end="00:38:20.014">I was trying to think of a way to get outthis body without--if I can do it fast</p>
+      <p begin="00:38:20.183" end="00:38:24.430">without hurting and make sureI don't make a mistake and,</p>
+      <p begin="00:38:24.614" end="00:38:26.583">and live only to be suffering.</p>
+      <p begin="00:38:26.766" end="00:38:31.446">I said, I know a bus--if a truck hit me I know I'm gone, a car hit me I may live.</p>
+      <p begin="00:38:31.569" end="00:38:33.858">And I was trying to get, to build the nerve to do it.</p>
+      <p begin="00:38:34.792" end="00:38:38.448">And then all a sudden, this guy came in and he put some money in the jukebox</p>
+      <p begin="00:38:38.633" end="00:38:42.718">and he played this one song, Take It to the Limit One More Time.</p>
+      <p begin="00:38:43.701" end="00:38:46.110">Seemed to me that was God talking to me,</p>
+      <p begin="00:38:46.217" end="00:38:51.578">I was at the end of my rope.When I heard that song, I started crying.</p>
+      <p begin="00:38:51.793" end="00:38:54.606">And even the guy in the pizza shop said,</p>
+      <p begin="00:38:54.606" end="00:38:56.898">"It's all right, young man. It's all right."</p>
+      <p begin="00:38:56.898" end="00:38:59.642">And I got up and walked out and I went on the road.</p>
+      <p begin="00:39:02.273" end="00:39:21.525">&#9834; [music starting to play] &#9834;</p>
+      <p begin="00:39:21.525" end="00:39:25.873">&#9834; Ai-ai...&#9834;</p>
+      <p begin="00:39:25.873" end="00:39:29.981">&#9834; Loving you baby &#9834;</p>
+      <p begin="00:39:29.981" end="00:39:36.609">&#9834; Oh, I can't get enough of you baby &#9834;</p>
+      <p begin="00:39:36.609" end="00:39:41.148">&#9834; Can't get enough of you &#9834;</p>
+      <p begin="00:39:41.148" end="00:39:47.042">&#9834; I was crying when I felt your love &#9834;</p>
+      <p begin="00:39:49.624" end="00:39:53.559">&#9834; This time I know it's for real, baby. &#9834;</p>
+      <p begin="00:39:53.743" end="00:40:00.168">&#9834; I... &#9834;</p>
+      <p begin="00:40:00.168" end="00:40:06.592">&#9834; [instrumental music playing] &#9834;</p>
+      <p begin="00:40:07.945" end="00:40:09.191">&#9834; Bring it down, fellas. &#9834;</p>
+      <p begin="00:40:10.359" end="00:40:15.137">Ladies and gentlemen, may ever who you are.</p>
+      <p begin="00:40:17.764" end="00:40:26.432">I live here about, I came here about--Poughkeepsie, about 1968.</p>
+      <p begin="00:40:27.644" end="00:40:31.400">And I lived here for 9 years.</p>
+      <p begin="00:40:33.028" end="00:40:36.258">You know, this is like home to me.</p>
+      <p begin="00:40:36.489" end="00:40:38.304">So, I'm giving you my love.</p>
+      <p begin="00:40:39.487" end="00:40:42.825">You know, bring it down a little somethin' fellas.</p>
+      <p begin="00:40:44.101" end="00:40:47.728">And I work in a little townthey call <span tts:textDecoration="underline">.</span></p>
+      <p begin="00:40:48.696" end="00:40:54.232">I worked in a little center, I was cook for 3500 peoples a day.</p>
+      <p begin="00:40:55.322" end="00:40:57.778">There's a friend in here, two friends that I know that,</p>
+      <p begin="00:40:57.871" end="00:41:00.501">that when I came here they was with me.</p>
+      <p begin="00:41:01.237" end="00:41:05.171">And his name is Mr. and Mrs. Ernest Washington.</p>
+      <p begin="00:41:05.310" end="00:41:08.053">Ernest Washington, I can't see you now, where you at?</p>
+      <p begin="00:41:08.238" end="00:41:11.580">But, thank you brother for the ride.</p>
+      <p begin="00:41:12.379" end="00:41:14.494">Thank you, Jackie.</p>
+      <p begin="00:41:15.662" end="00:41:18.652">Thank you for being my friend through the years.</p>
+      <p begin="00:41:18.791" end="00:41:20.549">And all of you out there.</p>
+      <p begin="00:41:20.764" end="00:41:24.014">&#9834; I love you.&#9834;</p>
+      <p begin="00:41:24.168" end="00:41:29.064">&#9834; Yeah... &#9834;</p>
+      <p begin="00:41:29.064" end="00:41:33.148">&#9834; I love you.&#9834;</p>
+      <p begin="00:41:33.148" end="00:41:35.066">&#9834; Would you see it? &#9834;</p>
+      <p begin="00:41:35.066" end="00:41:37.023">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:41:37.023" end="00:41:40.483">&#9834; Ooo....&#9834;</p>
+      <p begin="00:41:40.483" end="00:42:00.871">Thank you, Ladies and Gentlemen, I love you.</p>
+      <p begin="00:42:00.871" end="00:42:02.929">- I saw you on YouTube, too.</p>
+      <p begin="00:42:04.282" end="00:42:07.347">That's how I knew the greatness of Charles Bradley.</p>
+      <p begin="00:42:08.346" end="00:42:09.537">- Thank you so much.</p>
+      <p begin="00:42:09.675" end="00:42:10.973">It was a great night.</p>
+      <p begin="00:42:12.234" end="00:42:13.502">- It really was.</p>
+      <p begin="00:42:13.702" end="00:42:15.437">- And you made it extra special.</p>
+      <p begin="00:42:15.535" end="00:42:17.065">- It's special, very special.</p>
+      <p begin="00:42:17.172" end="00:42:18.403">Thank you so much.</p>
+      <p begin="00:42:18.495" end="00:42:19.142">- God bless you.</p>
+      <p begin="00:42:19.234" end="00:42:20.145">- Thank you.</p>
+      <p begin="00:42:20.549" end="00:42:22.075">- That is our nephew, Cain.</p>
+      <p begin="00:42:22.213" end="00:42:23.615">- Thank you for coming for coming to Poughkeepsie.</p>
+      <p begin="00:42:23.723" end="00:42:25.633">You really blessed Poughkeepsie tonight.</p>
+      <p begin="00:42:25.772" end="00:42:26.637">- Thank you.</p>
+      <p begin="00:42:26.760" end="00:42:28.311">- Take care.</p>
+      <p begin="00:42:28.449" end="00:42:30.680">- Thanks for coming backfor one night.</p>
+      <p begin="00:42:31.664" end="00:42:33.826">- I got a touchy moment, one moment.</p>
+      <p begin="00:42:33.964" end="00:42:36.174">When I got down and started talking to some peoples.</p>
+      <p begin="00:42:36.450" end="00:42:37.576">Got touching.</p>
+      <p begin="00:42:37.792" end="00:42:39.868">So I said, Leave it alone, Charles.It's getting too deep now."</p>
+      <p begin="00:42:40.007" end="00:42:40.931">"Get off it."</p>
+      <p begin="00:42:41.084" end="00:42:43.548">I got back up 'cause it started getting touchy.</p>
+      <p begin="00:42:43.733" end="00:42:48.291">But that was the beautiful thing about you see, Ernest Washington and Jackie.</p>
+      <p begin="00:42:48.444" end="00:42:49.536">Oh, man.</p>
+      <p begin="00:42:49.752" end="00:42:53.583">Wow, this the first time they really saw me in many years.</p>
+      <p begin="00:42:58.106" end="00:43:05.552" region="top">[police siren wailing] </p>
+      <p begin="00:43:05.552" end="00:43:08.395">- [Charles] This is the house my brother was killed in.</p>
+      <p begin="00:43:10.807" end="00:43:13.857">That's why I don't like tocome on this block no more.</p>
+      <p begin="00:43:13.857" end="00:43:19.140" region="top">- He came downstairs and, uh, he saw me crying. </p>
+      <p begin="00:43:19.140" end="00:43:20.394" region="top">He said, "Mom what's wrong?" </p>
+      <p begin="00:43:20.394" end="00:43:22.287" region="top">I said, "Just go next door." </p>
+      <p begin="00:43:22.287" end="00:43:24.545" region="top">"Charles, your brother is dead." </p>
+      <p begin="00:43:26.759" end="00:43:28.678" region="top">He said, "No, Mama, can't be." </p>
+      <p begin="00:43:28.678" end="00:43:30.120" region="top">I said, "Yes, he is." </p>
+      <p begin="00:43:30.120" end="00:43:33.543" region="top">So there was probably a whole block was </p>
+      <p begin="00:43:33.561" end="00:43:35.631">filled with policemans with rifles and guns.</p>
+      <p begin="00:43:35.649" end="00:43:37.980">I look out the window, and I see all this polices,</p>
+      <p begin="00:43:38.072" end="00:43:40.303">and the firetrucks, ambulance outside.</p>
+      <p begin="00:43:40.395" end="00:43:44.409">So I came outside and I said, I just gotta go to see this myself.</p>
+      <p begin="00:43:44.532" end="00:43:49.761">'Cause I saw this thing says Morgue,and when it says Morgue, what I did,</p>
+      <p begin="00:43:50.744" end="00:43:54.315">I just, um, came out to go to my brother's house</p>
+      <p begin="00:43:54.315" end="00:43:56.231">and the detective wouldn't let me in there.</p>
+      <p begin="00:43:56.231" end="00:43:58.368">I told him that's my brother and you cannot stop me.</p>
+      <p begin="00:43:58.537" end="00:43:59.937">So I pushed my way in.</p>
+      <p begin="00:44:00.230" end="00:44:03.376">But I wish to God that I would've never would've did it.</p>
+      <p begin="00:44:04.084" end="00:44:06.846" region="top">- And they had the boy in the back of the car. </p>
+      <p begin="00:44:06.969" end="00:44:09.982" region="top">I said,"Give me your gun, Mr. Policeman." </p>
+      <p begin="00:44:10.136" end="00:44:12.809" region="top">I, I said, "I'll blow his damn brains out right through." </p>
+      <p begin="00:44:12.809" end="00:44:14.282" region="top">He said "I can't do that." </p>
+      <p begin="00:44:14.282" end="00:44:19.148" region="top">I said, "Good thing you can't because I'll put every damn bullet in his head." </p>
+      <p begin="00:44:19.204" end="00:44:23.138" region="top">He robbed my son and got his money. </p>
+      <p begin="00:44:23.184" end="00:44:25.743" region="top">I said, "I'll kill his ass." </p>
+      <p begin="00:44:25.743" end="00:44:29.273" region="top">And I meant it, too. Yes, sir. </p>
+      <p begin="00:44:30.716" end="00:44:32.199" region="top">I love my baby. </p>
+      <p begin="00:44:32.199" end="00:44:33.481" region="top">Mm-hm. </p>
+      <p begin="00:44:33.481" end="00:44:34.611" region="top">I love my baby. </p>
+      <p begin="00:44:34.611" end="00:44:36.166" region="top">Sleep on, son. Take your rest. </p>
+      <p begin="00:44:37.305" end="00:44:38.628" region="top">God love you, but Momma. </p>
+      <p begin="00:44:38.766" end="00:44:43.453" region="top">I mean, Momma love you, but Godloves you best and give you eternal rest. </p>
+      <p begin="00:44:44.123" end="00:44:46.497" region="top">One day I will meet you on the throne. </p>
+      <p begin="00:44:46.790" end="00:44:48.730" region="top">Yes. Yes I will, son. </p>
+      <p begin="00:44:49.975" end="00:44:55.265">- I think, uh, Charles depended on Joseph just like, eh, mother depended on him.</p>
+      <p begin="00:44:57.416" end="00:45:00.968">Charles, uh, nearly went out of his mind when Joseph got killed.</p>
+      <p begin="00:45:02.904" end="00:45:07.861">I mean, for awhile they say he was gonna go crazy about it.</p>
+      <p begin="00:45:10.365" end="00:45:13.134">- [Charles] And I really like to find the truth of why he got killed.</p>
+      <p begin="00:45:13.242" end="00:45:14.838">He was too young.</p>
+      <p begin="00:45:15.990" end="00:45:18.695">He was 48 years old.</p>
+      <p begin="00:45:20.155" end="00:45:26.429">&#9834; [music playing] &#9834;</p>
+      <p begin="00:45:26.629" end="00:45:28.001">-[Tommy] There's a mic for you right here.</p>
+      <p begin="00:45:29.645" end="00:45:33.024">Do you just wanna try that one or do you wanna play something else?</p>
+      <p begin="00:45:33.024" end="00:45:35.840">-Yeah, we can come back...</p>
+      <p begin="00:45:35.840" end="00:45:38.446">You always, you go like that.</p>
+      <p begin="00:45:38.599" end="00:45:41.448">- [Tommy] You wanna do Heartaches and Pain?</p>
+      <p begin="00:45:46.023" end="00:46:00.236">&#9834; [Band starts playing] &#9834;</p>
+      <p begin="00:46:00.266" end="00:46:02.216">- Heartaches and Pain is by far the deepest song</p>
+      <p begin="00:46:02.241" end="00:46:04.341">on the Charles Bradley record.</p>
+      <p begin="00:46:04.366" end="00:46:09.386">and, uh, it was probably, uh, the third song that we had written together.</p>
+      <p begin="00:46:09.509" end="00:46:13.648">Charles tells me the story about hisbrother, and Charles says to me,</p>
+      <p begin="00:46:13.786" end="00:46:17.426">"I want to write a song about my brother Joseph."</p>
+      <p begin="00:46:17.565" end="00:46:20.878">I said, "Okay, I will help you do it." You know, as a friend.</p>
+      <p begin="00:46:21.460" end="00:46:22.672">And, ah, I said, "You know that song</p>
+      <p begin="00:46:22.672" end="00:46:24.311">you've been playing on the piano your whole life?</p>
+      <p begin="00:46:25.578" end="00:46:27.315">That's gonna be the music to the song.</p>
+      <p begin="00:46:27.515" end="00:46:30.436">Brought Charles in and added a couple things to his piano thing,</p>
+      <p begin="00:46:30.436" end="00:46:31.693">a couple chord progressions, whatever.</p>
+      <p begin="00:46:31.693" end="00:46:33.691">And, "Hey, Charles, this is the song for your brother."</p>
+      <p begin="00:46:34.030" end="00:46:36.965">And you know, he did his thing and hestarted screaming, running around,</p>
+      <p begin="00:46:37.042" end="00:46:39.617">"This is beautiful, this is beautiful. Oh, my God, oh my God."</p>
+      <p begin="00:46:39.894" end="00:46:45.722">And then we started working on it and it was hard, man. It was really hard.</p>
+      <p begin="00:46:45.876" end="00:46:54.119">That is a very personal, deep, deep, dark,haunting story about Charles' brother,</p>
+      <p begin="00:46:54.241" end="00:46:56.249">an older brother that, that he admired and loved,</p>
+      <p begin="00:46:56.388" end="00:46:58.325">that needed to tell.</p>
+      <p begin="00:46:58.479" end="00:47:22.415">&#9834; [Charles Bradley singing] &#9834;</p>
+      <p begin="00:47:25.488" end="00:47:31.443">- So the mortgage is hard on me,and I don't think it's fair to me.</p>
+      <p begin="00:47:31.612" end="00:47:34.314">Never missed a payment, 'cause they told me if I miss a payment,</p>
+      <p begin="00:47:34.437" end="00:47:36.800">they gonna up to 18% on my interest rate.</p>
+      <p begin="00:47:36.938" end="00:47:39.208">I've been trying to get it remortaged, remortgaged.</p>
+      <p begin="00:47:39.347" end="00:47:41.233">They tell me I don't make enough money.</p>
+      <p begin="00:47:41.479" end="00:47:45.977">I said, "Well, how I don't make enough money</p>
+      <p begin="00:47:46.070" end="00:47:48.446">and I'm paying all this mortgage, highmortgage I'm going out?"</p>
+      <p begin="00:47:48.615" end="00:47:52.645">'Cause I going out to earn pennies, every little penny, and keep this going.</p>
+      <p begin="00:47:53.213" end="00:47:55.065">- When Joseph got killed</p>
+      <p begin="00:47:55.065" end="00:48:02.079">and Charles went on, took on full theduty of taking care of what mother needs,</p>
+      <p begin="00:48:02.079" end="00:48:02.848">'cause none of 'em wanted to do it,</p>
+      <p begin="00:48:03.555" end="00:48:07.024">Charles is giving a lot of his personal money,</p>
+      <p begin="00:48:07.106" end="00:48:10.224">he puts it into the house to help her to stay there.</p>
+      <p begin="00:48:10.532" end="00:48:16.602">- He's in the process, I would say, almostbuying this darn house for his mother.</p>
+      <p begin="00:48:17.524" end="00:48:22.555">And-and his older sibling that lives there in the house.</p>
+      <p begin="00:48:22.894" end="00:48:24.602">Don't want him there.</p>
+      <p begin="00:48:24.710" end="00:48:36.196">And so he is largely responsible fortaking care of all of my sisters affairs.</p>
+      <p begin="00:48:40.362" end="00:48:44.309">&#9834; [Cell phone ringtone] &#9834;</p>
+      <p begin="00:48:45.374" end="00:48:46.622">- Hello.</p>
+      <p begin="00:48:47.467" end="00:48:48.748">- Yes?</p>
+      <p begin="00:48:50.423" end="00:48:52.195">- Oh, how, how you doing, Paul?</p>
+      <p begin="00:48:53.609" end="00:48:58.919">She's, if I, if she don't be able to do, be able to do the learn, the remodel,</p>
+      <p begin="00:48:59.057" end="00:49:02.006">refinance the house,then she will have to wait</p>
+      <p begin="00:49:02.174" end="00:49:05.162">for two months til income tax come.</p>
+      <p begin="00:49:05.485" end="00:49:08.718">Income tax coming, she would like me to give up my apartment,</p>
+      <p begin="00:49:08.718" end="00:49:10.509">but I don't want to give up my apartment, you know.</p>
+      <p begin="00:49:10.509" end="00:49:13.281">And then I'd have to move over to my mama's house.</p>
+      <p begin="00:49:14.582" end="00:49:17.779">Yeah, cause like this apartment that I was talking about,</p>
+      <p begin="00:49:17.902" end="00:49:19.608">is the only place I have to run to whenever I get depressed</p>
+      <p begin="00:49:19.608" end="00:49:24.313">and there's only pieces of me in here.</p>
+      <p begin="00:49:24.313" end="00:49:27.156">But whatever you decide is 'cause I know you're trying to help me.</p>
+      <p begin="00:49:27.249" end="00:49:28.439">and I appreciate that.</p>
+      <p begin="00:49:29.024" end="00:49:29.815">All right, Paul.</p>
+      <p begin="00:49:29.892" end="00:49:30.490">Thank you, Paul.</p>
+      <p begin="00:49:30.567" end="00:49:31.243">Okay.</p>
+      <p begin="00:49:33.441" end="00:49:34.808">What's left for me to do?</p>
+      <p begin="00:49:34.900" end="00:49:36.112">It's my life.</p>
+      <p begin="00:49:36.343" end="00:49:37.280">Take my life away.</p>
+      <p begin="00:49:37.403" end="00:49:40.031">Sometimes I do ask God just call me home.</p>
+      <p begin="00:49:40.138" end="00:49:44.715">Because everyday I get out and Ifight and fight to keep the honesty,</p>
+      <p begin="00:49:44.869" end="00:49:48.319">the decency of a human being walking the planet and loving</p>
+      <p begin="00:49:48.442" end="00:49:52.139">everybody as God asks you to love everybody.</p>
+      <p begin="00:49:52.862" end="00:49:56.353">But today, they look it as a weakness,I think.</p>
+      <p begin="00:49:56.923" end="00:50:02.073">How much more can one give before they find love on the planet?</p>
+      <p begin="00:50:02.196" end="00:50:04.273">How much more can you give?</p>
+      <p begin="00:50:04.566" end="00:50:09.178">I say, "Father, whatever the time or the hour you want me,</p>
+      <p begin="00:50:09.363" end="00:50:11.079">I'm ready to go."</p>
+      <p begin="00:50:11.692" end="00:50:14.225">That's the way I feel about life.</p>
+      <p begin="00:50:19.774" end="00:50:23.076">And before I leave this worldI said I let the world know</p>
+      <p begin="00:50:23.553" end="00:50:25.421">they can't change me.</p>
+      <p begin="00:50:25.560" end="00:50:27.874">I don't give a dog about what you give me,</p>
+      <p begin="00:50:27.981" end="00:50:33.094">ain't no money on this earth can take love that I have for God in my heart.</p>
+      <p begin="00:50:33.633" end="00:50:35.358">I love everybody.</p>
+      <p begin="00:50:35.496" end="00:50:38.056">I never do nobody no harm.</p>
+      <p begin="00:50:39.208" end="00:50:42.785">All I try to do is walk my straight life.</p>
+      <p begin="00:50:42.831" end="00:50:45.973">&#9834; [music starts playing] &#9834;</p>
+      <p begin="00:50:46.511" end="00:50:51.747">&#9834; Why is it so hard? &#9834;</p>
+      <p begin="00:50:52.069" end="00:51:01.791">&#9834; To make it in America.&#9834;</p>
+      <p begin="00:51:01.791" end="00:51:03.755">&#9834; So I said to myself, &#9834;</p>
+      <p begin="00:51:03.755" end="00:51:07.568">&#9834; I, I gotta move away from here.&#9834;</p>
+      <p begin="00:51:08.027" end="00:51:12.685">- Me and Homer were traveling in Europewith Sharon Jones and the Dap-Kings.</p>
+      <p begin="00:51:12.704" end="00:51:15.512">And we had hung out one night and met some girls in Paris.</p>
+      <p begin="00:51:15.512" end="00:51:16.588">So these girls were just like,</p>
+      <p begin="00:51:16.588" end="00:51:21.939">"Hey, you know, is Sharon Jones as big in America as she is in France?"</p>
+      <p begin="00:51:22.077" end="00:51:24.201">And you know, we're just like, no, no.</p>
+      <p begin="00:51:24.293" end="00:51:25.456">Nobody knows about Sharon Jones.</p>
+      <p begin="00:51:25.563" end="00:51:27.924">This is years ago, no one knows about Sharon Jones in America.</p>
+      <p begin="00:51:27.970" end="00:51:30.751">It's like we play around Brooklyn, and we play in small clubs,</p>
+      <p begin="00:51:30.751" end="00:51:34.022">but at the time, we were playing like theaters in Paris and such and</p>
+      <p begin="00:51:34.022" end="00:51:36.939">it was just a bigger thing in Europe.</p>
+      <p begin="00:51:36.939" end="00:51:40.601">So that led to us just kind of writing this little tune that night called:</p>
+      <p begin="00:51:40.601" end="00:51:44.510">Why Is It So Hard To Make It In America?</p>
+      <p begin="00:51:44.664" end="00:51:49.563">The second that Charles sang, Why Is It So Hard To Make It In America?</p>
+      <p begin="00:51:49.687" end="00:51:53.809">the song's meaning completely changed.</p>
+      <p begin="00:51:53.961" end="00:51:56.073">&#9834; [music continues to play] &#9834;</p>
+      <p begin="00:51:56.073" end="00:52:07.939">&#9834; Why is so hard to make it in America?&#9834;</p>
+      <p begin="00:52:07.939" end="00:52:11.023">&#9834; I try &#9834;</p>
+      <p begin="00:52:11.023" end="00:52:26.648">&#9834; So hard, now, to make it in America. &#9834;</p>
+      <p begin="00:52:26.648" end="00:52:30.815">&#9834; Why?&#9834;</p>
+      <p begin="00:52:30.815" end="00:52:33.273">&#9834; Tell me. &#9834;</p>
+      <p begin="00:52:33.273" end="00:52:40.398">&#9834; We gotta make a change in America. &#9834;</p>
+      <p begin="00:52:40.398" end="00:52:44.064">&#9834;Help me somebody.&#9834;</p>
+      <p begin="00:52:44.064" end="00:52:49.523">&#9834; Ohhh...&#9834;</p>
+      <p begin="00:52:49.523" end="00:52:57.877">&#9834;[music ends]&#9834;</p>
+      <p begin="00:52:57.877" end="00:52:58.815">- Come here.</p>
+      <p begin="00:52:58.815" end="00:52:59.734">-Come here.</p>
+      <p begin="00:52:59.734" end="00:53:00.321">Come on.</p>
+      <p begin="00:53:00.659" end="00:53:02.053">Come here, Nicky.</p>
+      <p begin="00:53:02.253" end="00:53:03.446">You don't want to come now, okay.</p>
+      <p begin="00:53:03.569" end="00:53:05.126">You don't want to. I'll respect you're wishes.</p>
+      <p begin="00:53:05.287" end="00:53:06.755">Okay, I'll leave you alone.</p>
+      <p begin="00:53:06.755" end="00:53:10.560">You know, I had him ever since, since I was living in San Francisco.</p>
+      <p begin="00:53:10.668" end="00:53:12.544">I went to, um, a bird show.</p>
+      <p begin="00:53:12.759" end="00:53:16.621">I wasn't looking to buy a bird,'cause when I was a kid</p>
+      <p begin="00:53:16.759" end="00:53:21.241">I had me a pet chicken and that was my pet.</p>
+      <p begin="00:53:21.471" end="00:53:25.009">And I raised it from a little billy, from a little biddy it was yellow</p>
+      <p begin="00:53:25.271" end="00:53:27.425">and he turned to be a beautiful hen.</p>
+      <p begin="00:53:27.564" end="00:53:30.195">And he used to sleep with me and he was a beautiful hen.</p>
+      <p begin="00:53:30.825" end="00:53:35.676">Then one day, I had him about at least two years.</p>
+      <p begin="00:53:35.875" end="00:53:40.550">And my aunt came over one day,I came out my chicken would always be,</p>
+      <p begin="00:53:40.657" end="00:53:44.870">at the front of the driveway lookingfor me, for me to grab him.</p>
+      <p begin="00:53:45.189" end="00:53:47.205">And he wasn't there that day.</p>
+      <p begin="00:53:47.359" end="00:53:49.789">And I said, "Where's my chicken?"</p>
+      <p begin="00:53:49.804" end="00:53:51.854">Nobody know my chicken at.</p>
+      <p begin="00:53:51.992" end="00:53:53.916">Aunt Lily, "Where my chicken?"</p>
+      <p begin="00:53:53.916" end="00:53:57.079">She said, "Boy these chickens are so tame."</p>
+      <p begin="00:53:57.172" end="00:53:58.873">I said, "Where my chicken?"</p>
+      <p begin="00:53:59.026" end="00:54:01.973">She said, "Well, I'm roasting this chicken in the oven."</p>
+      <p begin="00:54:02.189" end="00:54:04.429">And I look in the oven, that was my chicken.</p>
+      <p begin="00:54:04.598" end="00:54:06.705">And I took that chicken out.</p>
+      <p begin="00:54:06.858" end="00:54:10.502">I dug a hole and buried him in the hole and put a cross on it.</p>
+      <p begin="00:54:10.640" end="00:54:12.909">And I started crying.</p>
+      <p begin="00:54:13.094" end="00:54:15.509">My grandmother came,and she said,</p>
+      <p begin="00:54:15.509" end="00:54:17.283">"Lily, that's that boy's chicken."</p>
+      <p begin="00:54:17.283" end="00:54:18.890">She say, "You shouldn't have killed him."</p>
+      <p begin="00:54:18.890" end="00:54:20.361">She said, "I didn't know."</p>
+      <p begin="00:54:20.530" end="00:54:24.091">So they give me six bidies and I say, "I don't want no six bidies,</p>
+      <p begin="00:54:24.183" end="00:54:25.844">I want my chicken back."</p>
+      <p begin="00:54:25.952" end="00:54:30.565">So what got me so hooked onto this bird, I say, "One of these days,</p>
+      <p begin="00:54:30.719" end="00:54:32.597">I'm gonna get me one of those birds."</p>
+      <p begin="00:54:33.672" end="00:54:37.292">&#9834; [Cell phone ringtone] &#9834;</p>
+      <p begin="00:54:37.430" end="00:54:38.725">Oh, sorry.</p>
+      <p begin="00:54:39.724" end="00:54:40.582">- Okay.</p>
+      <p begin="00:54:40.690" end="00:54:42.593">I definitely, I definitely gonna get it.</p>
+      <p begin="00:54:43.161" end="00:54:44.857">All right, Tommy.</p>
+      <p begin="00:54:46.179" end="00:54:47.661">Page 6?</p>
+      <p begin="00:54:48.090" end="00:54:49.407">Oh, okay, Tommy.</p>
+      <p begin="00:54:51.343" end="00:54:52.554">Okay, Tommy.</p>
+      <p begin="00:54:53.230" end="00:54:55.087">And see, I owe so much.</p>
+      <p begin="00:54:55.194" end="00:54:58.159">You guys are -- oh, Tommy.</p>
+      <p begin="00:54:58.313" end="00:54:59.172">I'll see you.</p>
+      <p begin="00:54:59.387" end="00:55:00.907">You and your bad self.</p>
+      <p begin="00:55:02.274" end="00:55:03.584">All right, Tommy.</p>
+      <p begin="00:55:03.722" end="00:55:08.780">Tommy said they got me in The Post on page six.</p>
+      <p begin="00:55:09.411" end="00:55:13.961">Oh Lord, have mercy.</p>
+      <p begin="00:55:14.683" end="00:55:16.330">What can I say?</p>
+      <p begin="00:55:17.314" end="00:55:32.629">&#9834;[music starts playing]&#9834;</p>
+      <p begin="00:55:32.629" end="00:55:34.453">You got The,The Post?</p>
+      <p begin="00:55:34.668" end="00:55:35.880">You got The Post?</p>
+      <p begin="00:55:36.909" end="00:55:40.304">Oh. They don't have The Post.</p>
+      <p begin="00:55:40.565" end="00:56:06.476">[Speaking/greeting neighbors]</p>
+      <p begin="00:56:06.691" end="00:56:07.852">Ah! Shoot.</p>
+      <p begin="00:56:10.542" end="00:56:12.261">Oh! My God.</p>
+      <p begin="00:56:12.772" end="00:56:15.878">[Charles Bradley laughing]</p>
+      <p begin="00:56:15.878" end="00:56:20.281">Yes! Oh! My God.</p>
+      <p begin="00:56:20.404" end="00:56:21.751">Look at this.</p>
+      <p begin="00:56:21.874" end="00:56:24.898">Shoot. They got me in the paper.</p>
+      <p begin="00:56:25.696" end="00:56:26.645">- Oh my goodness.</p>
+      <p begin="00:56:26.707" end="00:56:28.424">- Oh, man what are you doing?</p>
+      <p begin="00:56:28.531" end="00:56:30.509">- [Charles] That's me right there.</p>
+      <p begin="00:56:32.569" end="00:56:38.661">I thank God for this. Oh! My God!</p>
+      <p begin="00:56:39.045" end="00:56:43.175">- This guy has been, he's been doing a lot of struggling within itself,</p>
+      <p begin="00:56:43.299" end="00:56:46.276">but he's gonna be okay today, he's gonna be okay.</p>
+      <p begin="00:56:46.399" end="00:56:48.674">We, we've been talking for years.</p>
+      <p begin="00:56:48.997" end="00:56:51.107">And I look at him and I say to myself,</p>
+      <p begin="00:56:51.799" end="00:56:53.647">"He's gonna be there after he prays."</p>
+      <p begin="00:56:53.770" end="00:56:54.596">- He in the paper?</p>
+      <p begin="00:56:54.704" end="00:56:55.214">- Yeah.</p>
+      <p begin="00:56:55.337" end="00:56:56.177">- He's in the paper?</p>
+      <p begin="00:56:56.269" end="00:56:57.156">- Yeah.</p>
+      <p begin="00:56:57.755" end="00:57:00.112">- I'm sitting here talking and you in the paper?</p>
+      <p begin="00:57:00.189" end="00:57:01.164">- Yeah, right there.</p>
+      <p begin="00:57:01.287" end="00:57:02.729">- My lord.</p>
+      <p begin="00:57:03.790" end="00:57:05.993">I'm about to hurt you, you coulda knocked on my door and told me that.</p>
+      <p begin="00:57:06.086" end="00:57:08.580">-I just found out not too long ago myself.</p>
+      <p begin="00:57:08.703" end="00:57:11.655">- I told you, I told you, baby.</p>
+      <p begin="00:57:13.592" end="00:57:15.099">You know I love you.</p>
+      <p begin="00:57:15.744" end="00:57:16.770">- You told me.</p>
+      <p begin="00:57:16.893" end="00:57:17.721">- I told you.</p>
+      <p begin="00:57:17.828" end="00:57:19.020">- It's happening.</p>
+      <p begin="00:57:19.936" end="00:57:25.026">- I told you, keep the faith and never stop believing that you're already there.</p>
+      <p begin="00:57:25.472" end="00:57:26.505">What are you worry about?</p>
+      <p begin="00:57:26.811" end="00:57:28.626">You've been there and it's already done.</p>
+      <p begin="00:57:28.626" end="00:57:29.713">- Congratulations.</p>
+      <p begin="00:57:29.790" end="00:57:30.771">-[neighbor] God has been good.</p>
+      <p begin="00:57:30.786" end="00:57:33.972">And if you cry, it's a good crywhen you do hold you head up.</p>
+      <p begin="00:57:34.095" end="00:57:35.424">because he has you still.</p>
+      <p begin="00:57:37.006" end="00:57:38.981">- I love you brother and I won't forget.</p>
+      <p begin="00:57:39.160" end="00:57:46.393">&#9834; [music starts palying] &#9834;</p>
+      <p begin="00:57:46.730" end="00:57:50.874">Tonight is my first night, me only on stage, Charles Bradley.</p>
+      <p begin="00:57:53.949" end="00:57:58.145">My chance has finally come and I'm hoping everybody out there</p>
+      <p begin="00:57:58.252" end="00:58:01.853">will come out to show me their support.</p>
+      <p begin="00:58:06.207" end="00:58:08.030">This is one of my best friends.</p>
+      <p begin="00:58:08.322" end="00:58:09.714">- You all right?</p>
+      <p begin="00:58:09.991" end="00:58:11.631">- You're coming tonight.</p>
+      <p begin="00:58:11.754" end="00:58:14.531">You know you, you always tell me you are gonna come in our show.</p>
+      <p begin="00:58:15.653" end="00:58:19.160">This is the place where before they fixed it up,</p>
+      <p begin="00:58:19.314" end="00:58:23.303">I lived in here for about, God,about two and a half years.</p>
+      <p begin="00:58:23.488" end="00:58:26.357">It was abandoned and it now it's a church.</p>
+      <p begin="00:58:26.726" end="00:58:29.089">The guy that owned it sold it, and they fixed it up.</p>
+      <p begin="00:58:29.765" end="00:58:32.276">Well that's, that's, that, this was home one time,</p>
+      <p begin="00:58:32.414" end="00:58:37.219">and this guy Jose, he is the one that really gave me</p>
+      <p begin="00:58:37.343" end="00:58:40.594">electricity from his place, kept me going.</p>
+      <p begin="00:58:40.855" end="00:58:42.988">That's why we're so close friends today.</p>
+      <p begin="00:58:43.188" end="00:58:48.326">&#9834; [music playing] &#9834;</p>
+      <p begin="00:58:48.434" end="00:58:53.005" region="top">Tonight is the night that I truly find, do I keep going? </p>
+      <p begin="00:58:53.189" end="00:58:54.711" region="top">Do I have it? </p>
+      <p begin="00:58:55.847" end="00:58:57.409" region="top">That's what I'm looking for. </p>
+      <p begin="00:59:00.590" end="00:59:01.742">You like rhythm and blues?</p>
+      <p begin="00:59:01.742" end="00:59:02.603">- Do I?</p>
+      <p begin="00:59:02.603" end="00:59:03.774">- Please come and join tonight.- [female passer-by] Alright.</p>
+      <p begin="00:59:03.774" end="00:59:05.299">-[Charles] I'm gonna be doing some good music for you.</p>
+      <p begin="00:59:05.572" end="00:59:07.632">- And I hope I can make you feel some good memories.</p>
+      <p begin="00:59:07.740" end="00:59:09.309">- Okay. Thank you so much.</p>
+      <p begin="00:59:09.401" end="00:59:10.435">- What's your name?</p>
+      <p begin="00:59:10.557" end="00:59:11.343">- Andrea.</p>
+      <p begin="00:59:11.450" end="00:59:12.290">- My sister name Andrea Laura.</p>
+      <p begin="00:59:12.398" end="00:59:13.329">- Look at that.</p>
+      <p begin="00:59:13.375" end="00:59:14.235">- Oh.</p>
+      <p begin="00:59:14.374" end="00:59:15.418">- What, what's her middle name?</p>
+      <p begin="00:59:15.525" end="00:59:17.141">- it is Andrea Laura Bradley.</p>
+      <p begin="00:59:17.141" end="00:59:19.633">- I'm Andrea Lauren. Shut up.</p>
+      <p begin="00:59:20.033" end="00:59:21.562">- See there. We're meant to meet.</p>
+      <p begin="00:59:21.700" end="00:59:22.723">- Yeah. And I love purple.</p>
+      <p begin="00:59:22.830" end="00:59:23.706">- Oh! My God.</p>
+      <p begin="00:59:23.782" end="00:59:24.362">- This is a good day.</p>
+      <p begin="00:59:24.438" end="00:59:25.555">- God bless you, sweetheart.</p>
+      <p begin="00:59:26.876" end="00:59:32.314">I've been struggling for my music over 47 years and hoping</p>
+      <p begin="00:59:32.467" end="00:59:34.949">that this will be the thing for me.</p>
+      <p begin="00:59:35.195" end="00:59:39.598">I hope this is my chance to present thisto the world and hope the world likes it.</p>
+      <p begin="00:59:41.165" end="00:59:44.583" region="top">- Most people could have just given upand you know, not done anything. </p>
+      <p begin="00:59:44.721" end="00:59:45.813" region="top">Just settle into a job. </p>
+      <p begin="00:59:45.936" end="00:59:48.016" region="top">And, you know, he's just been plugging away doing music. </p>
+      <p begin="00:59:48.692" end="00:59:52.100">- It's hard enough for people in their 30s to launch a career.</p>
+      <p begin="00:59:52.315" end="00:59:55.096">Someone in their 60s, it's almost insane.</p>
+      <p begin="00:59:55.542" end="00:59:56.494">- Excellent. Sounds good.</p>
+      <p begin="00:59:56.586" end="00:59:58.062">- You guys like rhythm and blues?</p>
+      <p begin="00:59:58.154" end="00:59:59.880">- We already got our tickets.- We're going.</p>
+      <p begin="00:59:59.880" end="01:00:01.252">-Ah, c'mon.</p>
+      <p begin="01:00:01.282" end="01:00:02.274">[clapping sound]</p>
+      <p begin="01:00:02.274" end="01:00:08.383">&#9834; [music continues to play]&#9834;</p>
+      <p begin="01:00:08.383" end="01:00:13.423">[Charles] I'm gonna see if I can findsomething to, um, add to my jumpsuit,</p>
+      <p begin="01:00:13.423" end="01:00:16.484">and spice it up a little bit for my album release.</p>
+      <p begin="01:00:18.696" end="01:00:22.570">That is beautiful, that is beautiful too, that's really...</p>
+      <p begin="01:00:22.740" end="01:00:23.441">- Thank you, boss.</p>
+      <p begin="01:00:23.472" end="01:00:24.464">- Okay, boss.</p>
+      <p begin="01:00:24.664" end="01:00:25.718">- Have a good day.</p>
+      <p begin="01:00:25.826" end="01:00:26.726">- Thank you.</p>
+      <p begin="01:00:30.599" end="01:00:33.112">- What I do when I see something thatI like</p>
+      <p begin="01:00:33.112" end="01:00:36.106">and it costs a lot of money and I can't afford it</p>
+      <p begin="01:00:36.106" end="01:00:40.856">and I see something in a second-hand thrift store that I like,</p>
+      <p begin="01:00:40.856" end="01:00:42.624">I say, "That material is nice."</p>
+      <p begin="01:00:42.624" end="01:00:46.148">So I get that, and then I find two and two together, put it together.</p>
+      <p begin="01:00:46.148" end="01:00:47.907">And maybe it's not look like</p>
+      <p begin="01:00:47.907" end="01:00:50.904">but it's gonna give me the same quality I'm looking for.</p>
+      <p begin="01:00:50.904" end="01:00:54.332">That piece on the back of it, is a piece of <span tts:textDecoration="underline">.</span></p>
+      <p begin="01:00:57.927" end="01:01:03.518">This piece right here, this is the piece that I just bought me a t-shirt,</p>
+      <p begin="01:01:03.595" end="01:01:08.657">cut it out, put it back there just to make it look different.</p>
+      <p begin="01:01:10.347" end="01:01:12.034">I'm sewing on a collar.</p>
+      <p begin="01:01:12.204" end="01:01:16.000">It's like a hand, hand collar to give it a little pizazz</p>
+      <p begin="01:01:16.123" end="01:01:18.829">And Ill get time to put it on the, on the legs.</p>
+      <p begin="01:01:23.824" end="01:01:26.831">- [Tommy] I just hope it's a decent nightsome people turn out,</p>
+      <p begin="01:01:26.938" end="01:01:29.619">and you know he's got a room to performto and feels good about the record</p>
+      <p begin="01:01:29.619" end="01:01:31.481">'cause we feel good about it.</p>
+      <p begin="01:01:31.481" end="01:01:35.814" region="top">[subway train running] </p>
+      <p begin="01:01:35.814" end="01:01:40.901" region="top">[honking/traffic sound] </p>
+      <p begin="01:01:40.901" end="01:01:46.078">- Wow, wow, sold out.</p>
+      <p begin="01:01:48.690" end="01:01:49.649">My God...</p>
+      <p begin="01:01:49.649" end="01:01:51.118">- [announcer] That's right I am talking about.</p>
+      <p begin="01:01:51.118" end="01:01:52.898">No time for dreaming, please welcome</p>
+      <p begin="01:01:52.898" end="01:01:59.231">for the goodness' sake, Mr. Charles Bradley.</p>
+      <p begin="01:01:59.231" end="01:02:02.098">- Put it this way, I was in the guest list and working for the label.</p>
+      <p begin="01:02:02.098" end="01:02:05.624">And friends that play in the band and I had to wait outside like,</p>
+      <p begin="01:02:05.624" end="01:02:08.213">I don't know, 25 minutes beforeI could even get in the door.</p>
+      <p begin="01:02:08.335" end="01:02:09.810">It was sold out.</p>
+      <p begin="01:02:09.917" end="01:02:14.106">&#9834; [band playing] &#9834;</p>
+      <p begin="01:02:14.106" end="01:02:33.702">[audience cheering]</p>
+      <p begin="01:02:33.702" end="01:02:36.754">Ladies and gentlemans, I've got a special lady in the house.</p>
+      <p begin="01:02:36.754" end="01:02:38.095">I think it's Momma.</p>
+      <p begin="01:02:38.172" end="01:02:40.478">My Momma's in the house someplace.</p>
+      <p begin="01:02:40.731" end="01:02:43.321">[audience cheering]</p>
+      <p begin="01:02:43.321" end="01:02:44.706">Momma.</p>
+      <p begin="01:02:45.474" end="01:02:46.978">Momma.</p>
+      <p begin="01:02:48.224" end="01:02:50.440">Look around in the, in the, in the rear over there.</p>
+      <p begin="01:02:50.440" end="01:02:52.274">I think that's my Momma over there.</p>
+      <p begin="01:02:52.412" end="01:02:56.278">But ladies and gentlemans, she gave me the start.</p>
+      <p begin="01:02:56.492" end="01:03:05.232">&#9834; [band start playing] &#9834;</p>
+      <p begin="01:03:05.232" end="01:03:15.732">&#9834; Ohhh...&#9834;</p>
+      <p begin="01:03:15.732" end="01:03:17.439">&#9834; Go back &#9834;</p>
+      <p begin="01:03:17.439" end="01:03:21.067">&#9834; Go back to the golden rule &#9834;</p>
+      <p begin="01:03:21.067" end="01:03:23.773">&#9834;[back-up singers] Golden rule...&#9834;</p>
+      <p begin="01:03:23.773" end="01:03:25.563">&#9834; Go back &#9834;</p>
+      <p begin="01:03:25.563" end="01:03:28.970">&#9834; Go back to the golden rule &#9834;</p>
+      <p begin="01:03:28.970" end="01:03:32.857">&#9834;[back-up singers] Golden rule...&#9834;</p>
+      <p begin="01:03:32.857" end="01:03:38.337">You know, let me say a few words right now.</p>
+      <p begin="01:03:39.076" end="01:03:45.794">You. You, you made me to be the person I am.</p>
+      <p begin="01:03:46.469" end="01:03:48.994">Thank you. Thank you.</p>
+      <p begin="01:03:50.315" end="01:03:57.769">I thank you and I hope to God that I cankeep giving you love, decency and honesty.</p>
+      <p begin="01:03:57.984" end="01:04:12.106">&#9834; [music playing] &#9834;</p>
+      <p begin="01:04:12.106" end="01:04:17.815">&#9834;Owww...&#9834;</p>
+      <p begin="01:04:17.815" end="01:04:21.482">&#9834; What I'm gonna do?&#9834;</p>
+      <p begin="01:04:21.482" end="01:04:25.148">&#9834; What I'm gonna say?&#9834;</p>
+      <p begin="01:04:25.148" end="01:04:30.775">&#9834; Owww...&#9834;</p>
+      <p begin="01:04:30.775" end="01:04:44.273">[audience applauding]</p>
+      <p begin="01:04:44.273" end="01:04:47.581">What love can I ask for around me right now?</p>
+      <p begin="01:04:47.965" end="01:04:49.334">Tell me God ain't real.</p>
+      <p begin="01:04:49.334" end="01:04:52.975">With this love that I feel around me,</p>
+      <p begin="01:04:53.067" end="01:04:54.607">will make me reach in my heart</p>
+      <p begin="01:04:54.607" end="01:04:56.147">and give everybody a little piece that say, "I love you."</p>
+      <p begin="01:04:56.824" end="01:04:58.289">- It's one of my special shows of the year.</p>
+      <p begin="01:04:59.149" end="01:05:02.801">It changed my life. Changed my life.</p>
+      <p begin="01:05:02.908" end="01:05:04.264">- It's infectious.</p>
+      <p begin="01:05:04.957" end="01:05:07.221">You know, he's just in love with what he's doing.</p>
+      <p begin="01:05:07.298" end="01:05:08.841">He's in love with his audience.</p>
+      <p begin="01:05:08.964" end="01:05:10.186">How can you not enjoy it?</p>
+      <p begin="01:05:10.509" end="01:05:13.501">- When he says I love you guys, you feel it.</p>
+      <p begin="01:05:13.717" end="01:05:14.710">- Amazing.</p>
+      <p begin="01:05:14.818" end="01:05:18.614">I brought my friend from Italy and he, what do you think?</p>
+      <p begin="01:05:18.783" end="01:05:19.914">- Amazing.</p>
+      <p begin="01:05:20.652" end="01:05:22.853">- [Charles] I think it was too small a place</p>
+      <p begin="01:05:22.915" end="01:05:24.158">for the people that came there.</p>
+      <p begin="01:05:24.220" end="01:05:28.789">'Cause a lot of people was turned down and it hurted me to see that.</p>
+      <p begin="01:05:28.973" end="01:05:32.548">But for the joy, the love that peoples gave me, that was them.</p>
+      <p begin="01:05:32.855" end="01:05:34.052">Oh! My God!</p>
+      <p begin="01:05:34.251" end="01:05:35.743">They wanted more from me.</p>
+      <p begin="01:05:35.882" end="01:05:38.454">And I felt that I look in the traces of their faces,</p>
+      <p begin="01:05:38.577" end="01:05:41.365">Oh my, oh my God, it was a tear-dropper...</p>
+      <p begin="01:05:41.599" end="01:06:07.230" region="top">&#9834; [The World (Is Going Up In Flames) ] &#9834; </p>
+      <p begin="01:06:07.446" end="01:06:09.054">Lord! have mercy.</p>
+      <p begin="01:06:15.272" end="01:06:19.652">Wah!</p>
+      <p begin="01:06:19.652" end="01:06:22.898">- I knew the record was gonna doreal well, but I didn't know how quickly.</p>
+      <p begin="01:06:23.712" end="01:06:25.356">People don't really know him that well</p>
+      <p begin="01:06:25.356" end="01:06:27.898">and it's sales for a guy that's just putting out his first LP,</p>
+      <p begin="01:06:27.898" end="01:06:29.106">that not too many people know about.</p>
+      <p begin="01:06:29.106" end="01:06:31.606">I mean, it's unbelievable.</p>
+      <p begin="01:06:31.606" end="01:06:38.006">&#9834; [music continues to play] &#9834;</p>
+      <p begin="01:06:38.144" end="01:06:41.147">- We're like, really against the odds to be able to think that,</p>
+      <p begin="01:06:41.147" end="01:06:44.815">yes, a 62 year old black man from Woodstock, Brooklyn,</p>
+      <p begin="01:06:44.815" end="01:06:47.023">is gonna have his first record</p>
+      <p begin="01:06:47.023" end="01:06:51.649">and within the first couple of weeks, sell more than most records</p>
+      <p begin="01:06:51.649" end="01:06:54.815">are selling in a year, at this point.</p>
+      <p begin="01:06:54.815" end="01:06:59.740">&#9834; [music continues to play] &#9834;</p>
+      <p begin="01:06:59.894" end="01:07:01.336">- I don't think it's a done deal.</p>
+      <p begin="01:07:01.444" end="01:07:02.611">I don't think it's easy.</p>
+      <p begin="01:07:02.749" end="01:07:04.531">I think a lot more people are gonna buy his record.</p>
+      <p begin="01:07:04.638" end="01:07:06.600">He's gonna sing a lot more shows.</p>
+      <p begin="01:07:06.708" end="01:07:08.046">He's gonna make a lot more records.</p>
+      <p begin="01:07:08.154" end="01:07:10.785">You know, it's a long, it's a long path, you know.</p>
+      <p begin="01:07:10.938" end="01:07:12.437">And he's a late starter.</p>
+      <p begin="01:07:16.269" end="01:07:19.810">- It's above any of our expectationsalready, I think the record's got wheels.</p>
+      <p begin="01:07:19.949" end="01:07:21.169">I don't think it's stopping now.</p>
+      <p begin="01:07:21.292" end="01:07:23.320">I don't think we have seenthe biggest sales yet.</p>
+      <p begin="01:07:27.483" end="01:07:31.099">Ahhh!</p>
+      <p begin="01:07:31.099" end="01:07:33.163">- Lord have mercy.</p>
+      <p begin="01:07:33.270" end="01:07:34.228" region="top">- Yeah. </p>
+      <p begin="01:07:34.351" end="01:07:35.653" region="top">- Oh, God! </p>
+      <p begin="01:07:38.542" end="01:07:42.885">- We're leaving to go to Europe to do some touring over there and I hope that</p>
+      <p begin="01:07:43.038" end="01:07:46.506">the real Europe will love what I'm doing, what I'm giving to them.</p>
+      <p begin="01:07:47.474" end="01:07:52.143">Now, it's clean as a baby's tail.</p>
+      <p begin="01:07:53.157" end="01:07:54.678">- So, how long you be gone, baby?</p>
+      <p begin="01:07:55.046" end="01:07:56.012">- Three weeks, Momma.</p>
+      <p begin="01:07:56.012" end="01:07:56.694">- Three weeks, baby?</p>
+      <p begin="01:07:56.694" end="01:07:57.467">- Yeah.</p>
+      <p begin="01:07:57.467" end="01:07:58.829">- Oh, I'm gonna miss you, son.</p>
+      <p begin="01:07:58.829" end="01:08:00.821">- Uh-uh. You live right here.</p>
+      <p begin="01:08:00.943" end="01:08:02.699">Every three days, I'm gonna call you.</p>
+      <p begin="01:08:02.837" end="01:08:03.792">- Okay, darling.</p>
+      <p begin="01:08:09.216" end="01:08:11.334">- I'm a bad boy.</p>
+      <p begin="01:08:11.473" end="01:08:12.972">You ain't got no water to throw on me now.</p>
+      <p begin="01:08:13.388" end="01:08:15.196">You ain't got no water to throw on me now.</p>
+      <p begin="01:08:19.091" end="01:08:21.038">You ain't got no water. I can tickle you.</p>
+      <p begin="01:08:23.349" end="01:08:24.756">I can tickle you now.</p>
+      <p begin="01:08:24.756" end="01:08:35.407">&#9834; [music starts palying] &#9834;</p>
+      <p begin="01:08:35.591" end="01:08:37.695">And like, my mom said today,</p>
+      <p begin="01:08:38.017" end="01:08:41.128">she never believed that I would, I would get this level.</p>
+      <p begin="01:08:57.676" end="01:09:02.683">I wanna see how far canI make myself go in life.</p>
+      <p begin="01:09:03.789" end="01:09:09.016">See can I go further than any of my family members ever been.</p>
+      <p begin="01:09:09.431" end="01:09:11.976">And say, I took me there.</p>
+      <p begin="01:09:13.283" end="01:09:15.306">You all peoples out there, watch out.</p>
+      <p begin="01:09:15.429" end="01:09:18.713">An old man's coming up before you, and I'd do your job better.</p>
+      <p begin="01:09:18.896" end="01:09:20.670">If you don't, I'm gonna do it for you.</p>
+      <p begin="01:10:17.569" end="01:10:19.785">- Do you want to work on that song from last week?</p>
+      <p begin="01:10:19.923" end="01:10:21.003">- Which one?</p>
+      <p begin="01:10:21.141" end="01:10:22.635">- I Thank You.</p>
+      <p begin="01:10:22.759" end="01:10:48.002">&#9834; [I Thank You playing] &#9834;</p>
+      <p begin="01:10:48.141" end="01:10:50.704">- He really gettin' the really nitty gritty.</p>
+      <p begin="01:10:50.826" end="01:10:59.981">&#9834; [I Thank You continues playing] &#9834;</p>
+      <p begin="01:10:59.981" end="01:11:02.794">Ahh!</p>
+      <p begin="01:11:02.794" end="01:11:04.567">So, that's the way I am.</p>
+      <p begin="01:11:17.167" end="01:11:19.988">Woo.</p>
+      <p begin="01:11:20.440" end="01:11:53.746">&#9834; [I Thank You continues playing] &#9834;</p>
+      <p begin="01:11:53.746" end="01:11:55.763">- 'Cause when I leave this world, this world owe me nothing.</p>
+      <p begin="01:11:55.902" end="01:11:57.423">- Well, gimme back my dollar now.</p>
+      <p begin="01:12:00.067" end="01:12:01.636">- Get off me.</p>
+      <p begin="01:12:01.762" end="01:12:03.463">- Man, gimme back my dollar.</p>
+      <p begin="01:12:04.481" end="01:12:13.267">&#9834; [I Thank You continues playing] &#9834;</p>
+      <p begin="01:12:13.267" end="01:12:14.327">- Oh, my passport, wait a minute.</p>
+      <p begin="01:12:14.465" end="01:12:35.156">&#9834; [I Thank You continues playing] &#9834;</p>
+      <p begin="01:12:35.295" end="01:12:37.234">- Save your lobster every now.</p>
+      <p begin="01:12:38.863" end="01:12:41.744">- Jimmy, you don't eat lobster, you always give it to me.</p>
+      <p begin="01:12:41.913" end="01:12:43.208">- I'll start eating tonight.</p>
+      <p begin="01:12:43.423" end="01:13:05.159">&#9834; [I Thank You continues playing] &#9834;</p>
+      <p begin="01:13:05.406" end="01:13:09.310">- You sure said fast, that's my quarter. I saw it.</p>
+      <p begin="01:13:09.417" end="01:13:10.476">- I picked it up.</p>
+      <p begin="01:13:10.629" end="01:14:03.410">&#9834; [I Thank You continues playing] &#9834;</p>
+    </div>
+  </body>
+
+</tt>

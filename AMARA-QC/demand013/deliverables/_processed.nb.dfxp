@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:31,985" end="00:00:50,359">&#9834; [musikk] &#9834;</p>
+      <p begin="00:00:50,359" end="00:00:52,756">- [kvinne] Jeg tror det er umulig &#229; overvurdere-</p>
+      <p begin="00:00:52,756" end="00:00:55,048">-viktigheten til Vidal Sassoon.</p>
+      <p begin="00:00:55,048" end="00:00:56,186">- [mann] Han er sannsynligvis en av de st&#248;rste,-</p>
+      <p begin="00:00:56,186" end="00:00:59,853">-hvis ikke den st&#248;rste fris&#248;ren som noen gang har levd.</p>
+      <p begin="00:00:59,853" end="00:01:04,909">- [mann] Med r&#229;tt talent, driv og ambisjoner og rent t&#230;l-</p>
+      <p begin="00:01:04,909" end="00:01:07,526">-og jeg gir ikke opp.</p>
+      <p begin="00:01:07,526" end="00:01:11,081">Han lagde noe som forbl&#248;ffet verden.</p>
+      <p begin="00:01:11,081" end="00:01:14,174">- [kvinne] Det var en mann med en utrolig innovativ id&#233;-</p>
+      <p begin="00:01:14,174" end="00:01:16,025">-som har t&#229;lt tidens tann.</p>
+      <p begin="00:01:16,025" end="00:01:17,702">- [vert] V&#229;r neste gjest ble ber&#248;mt-</p>
+      <p begin="00:01:17,702" end="00:01:20,286">-for &#229; ha skapt "The Shape", "The Five-point", "The Bob",-</p>
+      <p begin="00:01:20,286" end="00:01:21,951">-og mange, mange flere.</p>
+      <p begin="00:01:21,951" end="00:01:24,527">- De var frisyrene som f&#248;rte han-</p>
+      <p begin="00:01:24,527" end="00:01:30,445">-p&#229; vei til &#229; lage en internasjonal bedrift av flere millioner dollar.</p>
+      <p begin="00:01:30,445" end="00:01:33,285">- [mann] Han er en internasjonal kjendis som revolusjonerte-</p>
+      <p begin="00:01:33,285" end="00:01:35,762">-m&#229;ten kvinner i hele verden s&#229; ut-</p>
+      <p begin="00:01:35,762" end="00:01:38,195">-og hvordan de s&#229; p&#229; seg selv p&#229; innsiden.</p>
+      <p begin="00:01:38,195" end="00:01:40,460">- [mann] Vidal var etablert-</p>
+      <p begin="00:01:40,460" end="00:01:44,282">-som en ledende person innen frisyrer i verden.</p>
+      <p begin="00:01:44,282" end="00:01:48,659">- [mann] Den st&#248;rste arven i moderne h&#229;rfrisering-</p>
+      <p begin="00:01:48,659" end="00:01:50,217">-er navnet Vidal Sassoon.</p>
+      <p begin="00:01:50,217" end="00:01:53,196">- [mann] Han betyr mye innen h&#229;rfrisering.</p>
+      <p begin="00:01:53,196" end="00:01:54,953">- [kvinne] Jeg tror hvis du drar til Japan og sp&#248;r de-</p>
+      <p begin="00:01:54,953" end="00:01:56,391">-hvilke fris&#248;rer de kjenner,-</p>
+      <p begin="00:01:56,391" end="00:01:59,002">-da ville de svart: "Vidal Sassoon". De kjenner til navnet.</p>
+      <p begin="00:01:59,002" end="00:02:01,558">- [mann] Det er som &#229; v&#230;re en bokser i Muhammed Alis navn-</p>
+      <p begin="00:02:01,558" end="00:02:05,662">-eller som &#229; v&#230;re en fysiker som jobber sammen med Einstein-</p>
+      <p begin="00:02:05,662" end="00:02:07,483">-fordi han var s&#229; god.</p>
+      <p begin="00:02:07,483" end="00:02:10,644">- [kvinne] N&#229;r vi tenker p&#229; Sassoon, tenker vi ogs&#229; p&#229; frigj&#248;relse.</p>
+      <p begin="00:02:10,644" end="00:02:13,737">- [mann] Han utsondrer en viss magi rundt seg.</p>
+      <p begin="00:02:13,737" end="00:02:16,302">- [mann] Hvis jeg var dronningen av England, da ville jeg ha sl&#229;tt han til ridder.</p>
+      <p begin="00:02:16,302" end="00:02:18,743">- [mann] Han er myteomspunnet.</p>
+      <p begin="00:02:18,743" end="00:02:23,287">- [mann] Jeg har hatt med mange &#229; gj&#248;re i livet mitt, men for meg s&#229; er han den rette personen.</p>
+      <p begin="00:02:23,287" end="00:02:25,120">Han er Messias.</p>
+      <p begin="00:02:25,120" end="00:02:30,236">- [Vidal Sassoon] Hvis du ikke ser bra ut, s&#229; ser ikke vi bra ut.</p>
+      <p begin="00:02:30,236" end="00:03:12,076">&#9834; [musikk] &#9834;</p>
+      <p begin="00:03:24,600" end="00:03:32,490">- [Vidal Sassoon] Jeg sitter her og reflekterer i en alder av 81 &#229;r.</p>
+      <p begin="00:03:32,490" end="00:03:35,614">Hvem ville trodd at for 67 &#229;r siden,-</p>
+      <p begin="00:03:35,614" end="00:03:42,717">-i en alder av 14, skulle jeg v&#230;re p&#229; &#248;stsiden av London.</p>
+      <p begin="00:03:42,717" end="00:03:44,201">En "sjampo-gutt".</p>
+      <p begin="00:03:44,201" end="00:03:49,585">Og s&#229; sitter jeg her, over 67 &#229;r siden.</p>
+      <p begin="00:03:49,585" end="00:03:53,439">Og jeg lurer p&#229; hvordan det kunne skje.</p>
+      <p begin="00:03:53,439" end="00:03:56,202">Hvordan kunne s&#229; mye eventyr skje?</p>
+      <p begin="00:03:56,202" end="00:04:01,067">&#9834; [musikk] &#9834;</p>
+      <p begin="00:04:01,067" end="00:04:03,735">- [Vidal Sassoon] Jeg g&#229;r tilbake i tid og tenker-</p>
+      <p begin="00:04:03,735" end="00:04:08,485">-p&#229; spenningen, kreativiteten og folk jeg m&#248;tte.</p>
+      <p begin="00:04:08,485" end="00:04:26,257">[folk snakker]</p>
+      <p begin="00:04:26,257" end="00:04:29,096">- [Michael Gordon] Vi skal sette opp veggen-</p>
+      <p begin="00:04:29,096" end="00:04:30,890">-fordi Vidal kommer hit for &#229; se p&#229; den.</p>
+      <p begin="00:04:30,890" end="00:04:33,264">Jeg har kjent Vidal i 15 &#229;r-</p>
+      <p begin="00:04:33,264" end="00:04:35,163">-og ser p&#229; ham som en god venn.</p>
+      <p begin="00:04:35,163" end="00:04:38,777">Jeg har alltid v&#230;rt i den stillingen hvor jeg var den eldre som snakket til andre mennesker.</p>
+      <p begin="00:04:38,777" end="00:04:40,867">S&#229; det &#229; ha noen som man respekterer s&#229; mye-</p>
+      <p begin="00:04:40,867" end="00:04:44,502">-og som har hatt en stor p&#229;virkning p&#229; folks liv som en venn-</p>
+      <p begin="00:04:44,502" end="00:04:46,653">-er veldig fantastisk.</p>
+      <p begin="00:04:46,653" end="00:04:49,202">Jeg inns&#229; at vi hadde mye til felles etter hvert som jeg ble kjent med ham.</p>
+      <p begin="00:04:49,202" end="00:04:52,674">Vi var begge fris&#248;rer. Det var s&#229;nn vi startet i London.</p>
+      <p begin="00:04:52,674" end="00:04:55,907">Vi gikk over til &#229; eie produktselskap.</p>
+      <p begin="00:04:55,907" end="00:04:58,034">Jeg inns&#229; at-</p>
+      <p begin="00:04:58,034" end="00:05:01,434">-ingen har dokumentert hans utmerkelser og liv.</p>
+      <p begin="00:05:01,434" end="00:05:06,049">S&#229; jeg tenkte at en bok var helt n&#248;dvendig.</p>
+      <p begin="00:05:06,049" end="00:05:08,228">Jeg f&#248;lte at det var veldig viktig &#229; dokumentere.</p>
+      <p begin="00:05:08,228" end="00:05:11,589">Han har hatt en enorm p&#229;virkning p&#229; verden.</p>
+      <p begin="00:05:11,589" end="00:05:13,339">Han endret m&#229;ten kvinner s&#229; ut.</p>
+      <p begin="00:05:13,339" end="00:05:16,714">&#9834; [musikk] &#9834;</p>
+      <p begin="00:05:16,714" end="00:05:19,710">Det var s&#229;nn b&#248;ker ble til ukeblader.</p>
+      <p begin="00:05:19,710" end="00:05:21,688">Man la de p&#229; gulvet eller p&#229; veggen.</p>
+      <p begin="00:05:21,688" end="00:05:23,969">Man lagde et layout.</p>
+      <p begin="00:05:23,969" end="00:05:27,546">Jeg tror han blir r&#248;rt n&#229;r han ser dette.</p>
+      <p begin="00:05:27,546" end="00:05:31,291">Det fantes intervjuer p&#229; 3-4 timer.</p>
+      <p begin="00:05:31,291" end="00:05:33,125">Forskjellige steder; forskjellige tider.</p>
+      <p begin="00:05:33,125" end="00:05:37,399">Det f&#248;rste stedet hvor vi intervjuet ham var i hans hjem i Beverly Hills.</p>
+      <p begin="00:05:37,399" end="00:05:49,441">[fuglesang] [rennende vann]</p>
+      <p begin="00:05:49,441" end="00:05:53,729">- S&#229; du ble f&#248;dt i 1928, i Shepherds Bush?</p>
+      <p begin="00:05:53,729" end="00:05:57,017">- Da jeg var rundt 2-3 &#229;r gammel-</p>
+      <p begin="00:05:57,017" end="00:05:58,868">-ble min mor kastet ut.</p>
+      <p begin="00:05:58,868" end="00:06:03,549">Husk at det var i 1928 jeg ble f&#248;dt.</p>
+      <p begin="00:06:03,549" end="00:06:08,931">I 1930-31 kom den store depresjonen.</p>
+      <p begin="00:06:08,931" end="00:06:12,086">Min far forlot oss. Jeg hadde en yngre bror.</p>
+      <p begin="00:06:12,086" end="00:06:14,454">Og i motsetning til i dag, hvor vi er multikulturell,-</p>
+      <p begin="00:06:15,954" end="00:06:17,954">-s&#229; stod vi ut siden vi var j&#248;der.</p>
+      <p begin="00:06:17,954" end="00:06:20,638">Vi trengte et sted &#229; bo.</p>
+      <p begin="00:06:20,638" end="00:06:25,826">S&#229; hun appellerte til de j&#248;diske myndighetene om &#229; ta oss til dette barnehjemmet.</p>
+      <p begin="00:06:25,826" end="00:06:31,106">Jeg tilbrakte tiden der fra jeg var 5 til 11 &#229;r-</p>
+      <p begin="00:06:31,106" end="00:06:34,849">-og jeg sang i synagoge-koret.</p>
+      <p begin="00:06:34,849" end="00:06:53,465">&#9834; [musikk] &#9834;</p>
+      <p begin="00:06:53,465" end="00:06:58,092">[humrer]</p>
+      <p begin="00:06:58,092" end="00:07:03,711">For 72 &#229;r siden satt jeg her.</p>
+      <p begin="00:07:03,711" end="00:07:05,786">Jeg var korgutt.</p>
+      <p begin="00:07:05,786" end="00:07:11,596">Dirigenten slo meg p&#229; h&#229;nden av og til.</p>
+      <p begin="00:07:11,596" end="00:07:13,507">[latter]</p>
+      <p begin="00:07:13,507" end="00:07:16,998">Fordi vi var noen uskikkelige gutter noen ganger.</p>
+      <p begin="00:07:16,998" end="00:07:21,015">Men det var sjarmerende tjenester. De var varme og behagelige.</p>
+      <p begin="00:07:21,461" end="00:07:25,497">Akkurat n&#229;...</p>
+      <p begin="00:07:25,497" end="00:07:28,241">Jeg vet ikke om jeg gjorde det da. Jeg var altfor ung.</p>
+      <p begin="00:07:28,241" end="00:07:31,463">Men akkurat n&#229; f&#248;ler jeg meg spirituell.</p>
+      <p begin="00:07:31,463" end="00:07:38,840">Jeg f&#248;ler en viss fred her og dette er en fantastisk synagoge.</p>
+      <p begin="00:07:38,840" end="00:07:43,751">Det har ikke endret seg. Jeg kan ikke komme p&#229; noe som har endret seg.</p>
+      <p begin="00:07:43,751" end="00:07:48,110">For &#229; gi deg noen toner av det vi brukte &#229; synge...</p>
+      <p begin="00:07:48,110" end="00:07:50,265">Vi brukte &#229; synge <span tts:fontStyle="italic">Hallelujah, Hallelujah</span>.</p>
+      <p begin="00:07:50,265" end="00:07:53,585">Og melodien var<br/>&#9834; [Hallelujah] &#9834;</p>
+      <p begin="00:07:53,585" end="00:07:55,728">&#9834; [Hallelujah] &#9834;</p>
+      <p begin="00:07:55,728" end="00:08:08,647">[synging fortsetter]</p>
+      <p begin="00:08:08,647" end="00:08:10,601">Det jeg savner mest av alt er min mor.</p>
+      <p begin="00:08:10,601" end="00:08:17,957">De tillot meg bare &#229; se henne &#233;n gang per m&#229;ned.</p>
+      <p begin="00:08:17,957" end="00:08:20,979">Jeg r&#248;mte fra barnehjemmet.</p>
+      <p begin="00:08:20,979" end="00:08:25,381">Jeg dro til min far som er mye n&#230;rmere enn &#248;stsiden hvor min mor bodde.</p>
+      <p begin="00:08:25,381" end="00:08:30,142">Han tok meg med tilbake til barnehjemmet s&#229; fort han kunne.</p>
+      <p begin="00:08:30,142" end="00:08:33,861">Og jeg kunne se at de fantes ingen medf&#248;lelse eller kj&#230;rlighet.</p>
+      <p begin="00:08:33,861" end="00:08:39,741">Man kunne se da han ga meg til myndighetene og gikk videre-</p>
+      <p begin="00:08:39,741" end="00:08:42,659">-at han allerede begynt &#229; tenkt p&#229; noe helt annet.</p>
+      <p begin="00:08:42,659" end="00:08:45,330">Han s&#229; ikke p&#229; meg en gang.</p>
+      <p begin="00:08:45,330" end="00:08:52,534">Og i det &#248;yeblikket mistet jeg all kj&#230;rlighet jeg hadde for ham.</p>
+      <p begin="00:08:52,534" end="00:08:55,314">Jeg s&#229; ham aldri igjen.</p>
+      <p begin="00:08:55,945" end="00:08:59,089">- [Betty Sassoon] Jeg fikk to vakre s&#248;nner.</p>
+      <p begin="00:08:59,089" end="00:09:00,734">Og jeg har alltid f&#248;lt-</p>
+      <p begin="00:09:00,734" end="00:09:05,987">-at jeg ville at s&#248;nnene mine skulle vokse opp og v&#230;re stolte av moren sin.</p>
+      <p begin="00:09:05,987" end="00:09:08,415">Og tro det hjalp meg mye.</p>
+      <p begin="00:09:08,415" end="00:09:12,657">- Hvis du hadde &#248;nsket noe for meg i fremtiden, hva ville det v&#230;re?</p>
+      <p begin="00:09:12,657" end="00:09:14,457">- Herregud, og dette er sannheten...</p>
+      <p begin="00:09:14,457" end="00:09:19,299">Jeg hadde &#248;nsket at du var lykkelig, fordi du fortjener det.</p>
+      <p begin="00:09:19,299" end="00:09:21,967">Hvis det er noen som fortjener det, s&#229; er det deg fordi du har v&#230;rt...</p>
+      <p begin="00:09:21,967" end="00:09:24,010">For meg...</p>
+      <p begin="00:09:24,010" end="00:09:27,559">Det er sant. Den beste s&#248;nnen en mor kan ha.</p>
+      <p begin="00:09:27,559" end="00:09:34,672">Og jeg tror Gud har velsignet meg med en slik s&#248;nn.</p>
+      <p begin="00:09:34,672" end="00:09:36,727">- [Vidal] Livet hennes var smertefullt.</p>
+      <p begin="00:09:36,727" end="00:09:40,618">Mitt var annerledes. Jeg visste ikke noe annet. Barnehjemmet, og s&#229; br&#248;t krigen ut.</p>
+      <p begin="00:09:40,618" end="00:09:45,086">- [Churchill] Vi kan fortsette helt til slutten. Vi kan kjempe i Frankrike.</p>
+      <p begin="00:09:45,086" end="00:09:47,132">Vi kan kjempe p&#229; alle verdens hav.</p>
+      <p begin="00:09:47,132" end="00:09:49,235">- [Vidal] Og s&#229; ble vi alle plutselig plukket opp.</p>
+      <p begin="00:09:49,235" end="00:09:52,978">Alle barna i London ble sendt p&#229; landet.</p>
+      <p begin="00:09:52,978" end="00:09:55,983">Hvor vi bodde med kyr og sauer for noen &#229;r.</p>
+      <p begin="00:09:55,983" end="00:09:58,041">Og selvf&#248;lgelig hyggelige folk som tok av oss.</p>
+      <p begin="00:09:58,041" end="00:10:01,628">Jeg kom tilbake til London da jeg var 14 &#229;r, og krigen varte enn&#229;.</p>
+      <p begin="00:10:01,628" end="00:10:05,563">Og vi sov i krisesenteret som alle andre gjorde.</p>
+      <p begin="00:10:05,563" end="00:10:10,167">Og <span tts:fontStyle="italic">Luftwaffe</span> bombet Londons gater hver natt.</p>
+      <p begin="00:10:10,167" end="00:10:12,416">Arkitekturen endret seg hele tiden.</p>
+      <p begin="00:10:12,416" end="00:10:15,878">- [Churchill] Vi skal forsvare &#248;ya v&#229;r for enhver pris.</p>
+      <p begin="00:10:15,878" end="00:10:18,199">- [Vidal] Jeg jobbet med &#229; lage hansker.</p>
+      <p begin="00:10:18,199" end="00:10:20,008">Jeg kuttet sm&#229; biter-</p>
+      <p begin="00:10:20,008" end="00:10:23,186">-som de brukte &#229; sy sammen hanskene med.</p>
+      <p begin="00:10:23,186" end="00:10:24,884">Jeg hadde alltid en saks i h&#229;nden.</p>
+      <p begin="00:10:24,884" end="00:10:27,522">Unntatt for tre m&#229;neder i London.</p>
+      <p begin="00:10:27,522" end="00:10:31,381">De trengte budbringere som hadde sykler-</p>
+      <p begin="00:10:31,381" end="00:10:35,729">-for &#229; levere beskjeder fra byen.</p>
+      <p begin="00:10:35,729" end="00:10:39,898">Moren min giftet seg igjen med Nathan Goldberg.</p>
+      <p begin="00:10:39,898" end="00:10:43,809">Flott fyr.Han skaffet meg en sykkel s&#229;nn at jeg fikk jobben.</p>
+      <p begin="00:10:43,809" end="00:10:45,058">Jobben var fascinerende-</p>
+      <p begin="00:10:45,058" end="00:10:48,877">-fordi gatene var &#248;delagt og bygninger hadde rast ned.</p>
+      <p begin="00:10:48,877" end="00:10:53,360">Jeg var 14 &#229;r og syklet rundt omkring og hadde det artig.</p>
+      <p begin="00:10:53,360" end="00:10:54,377">[eksplosjoner]</p>
+      <p begin="00:10:54,377" end="00:10:56,643">Man begynte &#229; f&#248;le seg som en krigshelt.</p>
+      <p begin="00:10:56,643" end="00:10:58,151">[folk jubler]</p>
+      <p begin="00:10:58,151" end="00:11:01,205">- [Churchill]</p>
+      <p begin="00:11:01,205" end="00:11:03,686"/>
+      <p begin="00:11:03,686" end="00:11:08,047"/>
+      <p begin="00:11:08,047" end="00:11:11,124"/>
+      <p begin="00:11:11,124" end="00:11:11,995"/>
+      <p begin="00:11:11,995" end="00:11:14,574"/>
+      <p begin="00:11:14,574" end="00:11:16,489"/>
+      <p begin="00:11:16,489" end="00:11:18,957"/>
+      <p begin="00:11:18,957" end="00:11:21,463"/>
+      <p begin="00:11:21,463" end="00:11:24,410"/>
+      <p begin="00:11:24,410" end="00:11:26,513"/>
+      <p begin="00:11:26,513" end="00:11:28,050"/>
+      <p begin="00:11:28,050" end="00:11:30,013"/>
+      <p begin="00:11:30,013" end="00:11:32,720"/>
+      <p begin="00:11:32,720" end="00:11:38,118"/>
+      <p begin="00:11:38,118" end="00:11:40,768"/>
+      <p begin="00:11:40,768" end="00:11:43,511"/>
+      <p begin="00:11:43,511" end="00:11:49,200"/>
+      <p begin="00:11:49,200" end="00:11:51,946"/>
+      <p begin="00:11:51,946" end="00:11:53,557"/>
+      <p begin="00:11:53,557" end="00:11:55,944"/>
+      <p begin="00:11:55,944" end="00:11:58,832"/>
+      <p begin="00:11:58,832" end="00:12:03,948"/>
+      <p begin="00:12:03,948" end="00:12:06,317"/>
+      <p begin="00:12:06,317" end="00:12:14,434"/>
+      <p begin="00:12:14,434" end="00:12:17,436"/>
+      <p begin="00:12:17,436" end="00:12:19,401"/>
+      <p begin="00:12:19,401" end="00:12:23,412"/>
+      <p begin="00:12:23,412" end="00:12:26,277"/>
+      <p begin="00:12:26,277" end="00:12:27,959"/>
+      <p begin="00:12:27,959" end="00:12:34,267"/>
+      <p begin="00:12:34,267" end="00:12:37,698"/>
+      <p begin="00:12:37,698" end="00:12:42,458"/>
+      <p begin="00:12:42,458" end="00:12:44,594"/>
+      <p begin="00:12:44,594" end="00:12:47,409"/>
+      <p begin="00:12:47,409" end="00:12:50,212"/>
+      <p begin="00:12:50,212" end="00:12:54,182"/>
+      <p begin="00:12:54,182" end="00:12:59,224"/>
+      <p begin="00:12:59,224" end="00:13:03,688"/>
+      <p begin="00:13:03,688" end="00:13:09,231"/>
+      <p begin="00:13:09,231" end="00:13:12,976"/>
+      <p begin="00:13:12,976" end="00:13:15,669"/>
+      <p begin="00:13:15,669" end="00:13:21,561"/>
+      <p begin="00:13:21,561" end="00:13:25,296"/>
+      <p begin="00:13:25,296" end="00:13:27,392"/>
+      <p begin="00:13:27,392" end="00:13:29,620"/>
+      <p begin="00:13:29,620" end="00:13:31,345"/>
+      <p begin="00:13:31,345" end="00:13:34,012"/>
+      <p begin="00:13:34,012" end="00:13:36,001"/>
+      <p begin="00:13:36,001" end="00:13:37,751"/>
+      <p begin="00:13:37,751" end="00:13:41,885"/>
+      <p begin="00:13:41,885" end="00:13:46,683"/>
+      <p begin="00:13:46,683" end="00:13:49,327"/>
+      <p begin="00:13:49,327" end="00:13:51,415"/>
+      <p begin="00:13:51,415" end="00:13:52,249"/>
+      <p begin="00:13:52,249" end="00:13:53,516"/>
+      <p begin="00:13:53,516" end="00:13:56,299"/>
+      <p begin="00:13:56,299" end="00:13:58,428"/>
+      <p begin="00:13:58,428" end="00:13:59,928"/>
+      <p begin="00:13:59,928" end="00:14:02,466"/>
+      <p begin="00:14:02,466" end="00:14:08,353"/>
+      <p begin="00:14:09,769" end="00:14:12,789"/>
+      <p begin="00:14:12,789" end="00:14:14,432"/>
+      <p begin="00:14:14,432" end="00:14:17,282"/>
+      <p begin="00:14:17,282" end="00:14:19,308"/>
+      <p begin="00:14:19,308" end="00:14:21,211"/>
+      <p begin="00:14:21,211" end="00:14:24,211"/>
+      <p begin="00:14:24,211" end="00:14:28,183"/>
+      <p begin="00:14:28,183" end="00:14:31,069"/>
+      <p begin="00:14:31,069" end="00:14:34,878"/>
+      <p begin="00:14:34,878" end="00:14:37,878"/>
+      <p begin="00:14:37,878" end="00:14:40,041"/>
+      <p begin="00:14:40,041" end="00:14:42,718"/>
+      <p begin="00:14:42,718" end="00:14:45,114"/>
+      <p begin="00:14:45,114" end="00:14:48,064"/>
+      <p begin="00:14:48,064" end="00:14:51,696"/>
+      <p begin="00:14:51,696" end="00:14:56,563"/>
+      <p begin="00:14:56,563" end="00:15:02,279"/>
+      <p begin="00:15:02,279" end="00:15:04,469"/>
+      <p begin="00:15:04,469" end="00:15:07,541"/>
+      <p begin="00:15:07,541" end="00:15:09,745"/>
+      <p begin="00:15:09,745" end="00:15:14,544"/>
+      <p begin="00:15:14,544" end="00:15:15,730"/>
+      <p begin="00:15:15,730" end="00:15:17,620"/>
+      <p begin="00:15:17,620" end="00:15:22,509"/>
+      <p begin="00:15:22,509" end="00:15:27,975"/>
+      <p begin="00:15:27,975" end="00:15:32,141"/>
+      <p begin="00:15:32,141" end="00:15:35,555"/>
+      <p begin="00:15:35,555" end="00:15:39,223"/>
+      <p begin="00:15:41,978" end="00:15:44,451"/>
+      <p begin="00:15:44,451" end="00:15:47,677"/>
+      <p begin="00:15:47,677" end="00:15:49,984"/>
+      <p begin="00:15:49,984" end="00:15:54,014"/>
+      <p begin="00:15:54,014" end="00:15:58,638"/>
+      <p begin="00:15:58,638" end="00:16:02,608"/>
+      <p begin="00:16:02,608" end="00:16:05,397"/>
+      <p begin="00:16:05,397" end="00:16:07,830"/>
+      <p begin="00:16:07,830" end="00:16:12,320"/>
+      <p begin="00:16:12,320" end="00:16:15,979"/>
+      <p begin="00:16:15,979" end="00:16:21,691"/>
+      <p begin="00:16:21,691" end="00:16:27,833"/>
+      <p begin="00:16:30,172" end="00:16:36,645"/>
+      <p begin="00:16:36,645" end="00:16:38,450"/>
+      <p begin="00:16:38,450" end="00:16:41,149"/>
+      <p begin="00:16:41,149" end="00:16:44,749"/>
+      <p begin="00:16:44,749" end="00:16:47,201"/>
+      <p begin="00:16:47,201" end="00:16:51,725"/>
+      <p begin="00:16:51,725" end="00:16:55,799"/>
+      <p begin="00:16:55,799" end="00:16:58,911"/>
+      <p begin="00:16:58,911" end="00:17:00,298"/>
+      <p begin="00:17:00,298" end="00:17:02,007"/>
+      <p begin="00:17:02,007" end="00:17:03,070"/>
+      <p begin="00:17:03,070" end="00:17:04,554"/>
+      <p begin="00:17:04,554" end="00:17:07,641"/>
+      <p begin="00:17:07,641" end="00:17:09,694"/>
+      <p begin="00:17:11,632" end="00:17:14,040"/>
+      <p begin="00:17:14,040" end="00:17:16,519"/>
+      <p begin="00:17:16,519" end="00:17:20,008"/>
+      <p begin="00:17:20,008" end="00:17:21,701"/>
+      <p begin="00:17:21,701" end="00:17:26,407"/>
+      <p begin="00:17:26,407" end="00:17:29,391"/>
+      <p begin="00:17:29,391" end="00:17:33,459"/>
+      <p begin="00:17:33,459" end="00:17:40,729"/>
+      <p begin="00:17:40,729" end="00:17:44,053"/>
+      <p begin="00:17:44,053" end="00:17:45,988"/>
+      <p begin="00:17:45,988" end="00:17:49,261"/>
+      <p begin="00:17:49,261" end="00:17:51,393"/>
+      <p begin="00:17:51,393" end="00:17:56,689"/>
+      <p begin="00:17:56,689" end="00:18:03,366"/>
+      <p begin="00:18:03,366" end="00:18:09,027"/>
+      <p begin="00:18:09,027" end="00:18:13,079"/>
+      <p begin="00:18:13,079" end="00:18:17,681"/>
+      <p begin="00:18:17,681" end="00:18:19,453"/>
+      <p begin="00:18:19,453" end="00:18:24,865"/>
+      <p begin="00:18:24,865" end="00:18:28,763"/>
+      <p begin="00:18:28,763" end="00:18:31,393"/>
+      <p begin="00:18:31,393" end="00:18:33,393"/>
+      <p begin="00:18:33,393" end="00:18:35,687"/>
+      <p begin="00:18:35,687" end="00:18:37,161"/>
+      <p begin="00:18:37,161" end="00:18:37,977"/>
+      <p begin="00:18:37,977" end="00:18:39,153"/>
+      <p begin="00:18:39,153" end="00:18:40,860"/>
+      <p begin="00:18:40,860" end="00:18:43,803"/>
+      <p begin="00:18:43,803" end="00:18:45,093"/>
+      <p begin="00:18:45,093" end="00:18:48,004"/>
+      <p begin="00:18:48,004" end="00:18:51,631"/>
+      <p begin="00:18:51,631" end="00:18:54,693"/>
+      <p begin="00:18:54,693" end="00:18:58,998"/>
+      <p begin="00:18:58,998" end="00:19:01,137"/>
+      <p begin="00:19:01,137" end="00:19:04,162"/>
+      <p begin="00:19:04,162" end="00:19:09,925"/>
+      <p begin="00:19:09,925" end="00:19:12,781"/>
+      <p begin="00:19:12,781" end="00:19:17,854"/>
+      <p begin="00:19:17,854" end="00:19:19,870"/>
+      <p begin="00:19:22,271" end="00:19:27,147"/>
+      <p begin="00:19:27,147" end="00:19:32,630"/>
+      <p begin="00:19:32,630" end="00:19:35,571"/>
+      <p begin="00:19:35,571" end="00:19:37,856"/>
+      <p begin="00:19:37,856" end="00:19:44,572"/>
+      <p begin="00:19:44,572" end="00:19:48,748"/>
+      <p begin="00:19:48,748" end="00:19:52,526"/>
+      <p begin="00:19:52,526" end="00:19:59,626"/>
+      <p begin="00:19:59,626" end="00:20:03,569"/>
+      <p begin="00:20:03,569" end="00:20:08,170"/>
+      <p begin="00:20:08,170" end="00:20:11,879"/>
+      <p begin="00:20:11,879" end="00:20:14,551"/>
+      <p begin="00:20:14,551" end="00:20:19,668"/>
+      <p begin="00:20:19,668" end="00:20:23,523"/>
+      <p begin="00:20:23,523" end="00:20:25,159"/>
+      <p begin="00:20:25,159" end="00:20:25,941"/>
+      <p begin="00:20:25,941" end="00:20:26,924"/>
+      <p begin="00:20:26,924" end="00:20:28,485"/>
+      <p begin="00:20:28,485" end="00:20:31,148"/>
+      <p begin="00:20:31,148" end="00:20:36,676"/>
+      <p begin="00:20:36,676" end="00:20:39,361"/>
+      <p begin="00:20:39,361" end="00:20:40,846"/>
+      <p begin="00:20:40,846" end="00:20:43,846"/>
+      <p begin="00:20:43,846" end="00:20:46,520"/>
+      <p begin="00:20:46,520" end="00:20:49,217"/>
+      <p begin="00:20:49,217" end="00:20:53,905"/>
+      <p begin="00:20:53,905" end="00:20:57,641"/>
+      <p begin="00:20:57,641" end="00:21:00,376"/>
+      <p begin="00:21:00,376" end="00:21:05,508"/>
+      <p begin="00:21:05,508" end="00:21:09,625"/>
+      <p begin="00:21:09,625" end="00:21:11,495"/>
+      <p begin="00:21:11,495" end="00:21:14,095"/>
+      <p begin="00:21:14,095" end="00:21:17,327"/>
+      <p begin="00:21:17,327" end="00:21:22,048"/>
+      <p begin="00:21:22,048" end="00:21:26,076"/>
+      <p begin="00:21:26,076" end="00:21:27,317"/>
+      <p begin="00:21:27,317" end="00:21:30,129"/>
+      <p begin="00:21:30,129" end="00:21:34,827"/>
+      <p begin="00:21:34,827" end="00:21:39,583"/>
+      <p begin="00:21:39,583" end="00:21:42,931"/>
+      <p begin="00:21:42,931" end="00:21:44,984"/>
+      <p begin="00:21:44,984" end="00:21:48,909"/>
+      <p begin="00:21:48,909" end="00:21:53,098"/>
+      <p begin="00:21:53,098" end="00:21:56,775"/>
+      <p begin="00:21:56,775" end="00:21:58,049"/>
+      <p begin="00:21:58,049" end="00:22:03,174"/>
+      <p begin="00:22:03,174" end="00:22:06,102"/>
+      <p begin="00:22:06,102" end="00:22:15,048"/>
+      <p begin="00:22:15,048" end="00:22:19,745"/>
+      <p begin="00:22:19,745" end="00:22:24,929"/>
+      <p begin="00:22:24,929" end="00:22:29,413"/>
+      <p begin="00:22:29,413" end="00:22:32,982"/>
+      <p begin="00:22:32,982" end="00:22:34,622"/>
+      <p begin="00:22:34,622" end="00:22:39,795"/>
+      <p begin="00:22:39,795" end="00:22:47,256"/>
+      <p begin="00:22:47,256" end="00:22:49,529"/>
+      <p begin="00:22:49,529" end="00:22:51,420"/>
+      <p begin="00:22:51,420" end="00:22:54,850"/>
+      <p begin="00:22:54,850" end="00:22:59,654"/>
+      <p begin="00:22:59,654" end="00:23:01,014"/>
+      <p begin="00:23:01,014" end="00:23:02,306"/>
+      <p begin="00:23:02,306" end="00:23:04,913"/>
+      <p begin="00:23:04,913" end="00:23:07,729"/>
+      <p begin="00:23:07,729" end="00:23:12,095"/>
+      <p begin="00:23:12,095" end="00:23:14,060"/>
+      <p begin="00:23:14,060" end="00:23:20,213"/>
+      <p begin="00:23:20,213" end="00:23:22,760"/>
+      <p begin="00:23:22,760" end="00:23:26,054"/>
+      <p begin="00:23:26,054" end="00:23:28,475"/>
+      <p begin="00:23:28,475" end="00:23:30,083"/>
+      <p begin="00:23:30,083" end="00:23:33,949"/>
+      <p begin="00:23:33,949" end="00:23:37,575"/>
+      <p begin="00:23:37,575" end="00:23:59,664"/>
+      <p begin="00:23:59,664" end="00:24:02,686"/>
+      <p begin="00:24:02,686" end="00:24:04,252"/>
+      <p begin="00:24:04,252" end="00:24:07,240"/>
+      <p begin="00:24:07,240" end="00:24:18,351"/>
+      <p begin="00:24:18,351" end="00:24:25,313"/>
+      <p begin="00:24:25,313" end="00:24:27,834"/>
+      <p begin="00:24:27,834" end="00:24:31,469"/>
+      <p begin="00:24:31,469" end="00:24:48,163"/>
+      <p begin="00:24:48,163" end="00:24:50,492"/>
+      <p begin="00:24:50,492" end="00:24:56,368"/>
+      <p begin="00:24:56,368" end="00:24:57,675"/>
+      <p begin="00:24:57,675" end="00:24:59,408"/>
+      <p begin="00:24:59,408" end="00:25:02,147"/>
+      <p begin="00:25:05,564" end="00:25:11,201"/>
+      <p begin="00:25:11,201" end="00:25:13,487"/>
+      <p begin="00:25:13,487" end="00:25:29,481"/>
+      <p begin="00:25:29,481" end="00:25:34,113"/>
+      <p begin="00:25:34,113" end="00:25:36,642"/>
+      <p begin="00:25:36,642" end="00:25:40,065"/>
+      <p begin="00:25:40,065" end="00:25:41,679"/>
+      <p begin="00:25:41,679" end="00:25:44,224"/>
+      <p begin="00:25:44,224" end="00:25:48,896"/>
+      <p begin="00:25:48,896" end="00:25:53,910"/>
+      <p begin="00:25:53,910" end="00:26:00,516"/>
+      <p begin="00:26:00,516" end="00:26:02,668"/>
+      <p begin="00:26:02,668" end="00:26:05,759"/>
+      <p begin="00:26:05,759" end="00:26:08,498"/>
+      <p begin="00:26:08,498" end="00:26:11,229"/>
+      <p begin="00:26:11,229" end="00:26:14,435"/>
+      <p begin="00:26:14,435" end="00:26:18,857"/>
+      <p begin="00:26:18,857" end="00:26:22,614"/>
+      <p begin="00:26:22,614" end="00:26:26,908"/>
+      <p begin="00:26:26,908" end="00:26:31,686"/>
+      <p begin="00:26:32,655" end="00:26:34,509"/>
+      <p begin="00:26:34,509" end="00:26:36,449"/>
+      <p begin="00:26:36,449" end="00:26:39,442"/>
+      <p begin="00:26:39,442" end="00:26:42,138"/>
+      <p begin="00:26:42,138" end="00:26:46,908"/>
+      <p begin="00:26:46,908" end="00:26:49,808"/>
+      <p begin="00:26:49,808" end="00:26:52,640"/>
+      <p begin="00:26:52,640" end="00:26:57,435"/>
+      <p begin="00:26:57,435" end="00:27:00,939"/>
+      <p begin="00:27:00,939" end="00:27:04,107"/>
+      <p begin="00:27:04,107" end="00:27:05,972"/>
+      <p begin="00:27:05,972" end="00:27:08,799"/>
+      <p begin="00:27:08,799" end="00:27:11,104"/>
+      <p begin="00:27:11,104" end="00:27:15,200"/>
+      <p begin="00:27:15,200" end="00:27:18,664"/>
+      <p begin="00:27:18,664" end="00:27:20,684"/>
+      <p begin="00:27:20,684" end="00:27:21,775"/>
+      <p begin="00:27:21,775" end="00:27:22,897"/>
+      <p begin="00:27:22,897" end="00:27:25,693"/>
+      <p begin="00:27:25,693" end="00:27:29,095"/>
+      <p begin="00:27:29,095" end="00:27:32,267"/>
+      <p begin="00:27:32,267" end="00:27:35,397"/>
+      <p begin="00:27:35,397" end="00:27:37,767"/>
+      <p begin="00:27:37,767" end="00:27:39,608"/>
+      <p begin="00:27:39,608" end="00:27:40,985"/>
+      <p begin="00:27:40,985" end="00:27:42,035"/>
+      <p begin="00:27:42,035" end="00:27:45,346"/>
+      <p begin="00:27:45,346" end="00:27:48,346"/>
+      <p begin="00:27:48,346" end="00:27:50,307"/>
+      <p begin="00:27:50,307" end="00:27:53,210"/>
+      <p begin="00:27:53,210" end="00:27:56,226"/>
+      <p begin="00:27:57,410" end="00:27:59,159"/>
+      <p begin="00:27:59,159" end="00:28:02,682"/>
+      <p begin="00:28:02,682" end="00:28:05,706"/>
+      <p begin="00:28:06,116" end="00:28:08,469"/>
+      <p begin="00:28:08,469" end="00:28:10,709"/>
+      <p begin="00:28:10,709" end="00:28:12,749"/>
+      <p begin="00:28:12,749" end="00:28:15,789"/>
+      <p begin="00:28:15,789" end="00:28:17,125"/>
+      <p begin="00:28:17,125" end="00:28:23,929"/>
+      <p begin="00:28:23,929" end="00:28:28,452"/>
+      <p begin="00:28:28,452" end="00:28:32,865"/>
+      <p begin="00:28:32,865" end="00:28:35,469"/>
+      <p begin="00:28:35,469" end="00:28:39,071"/>
+      <p begin="00:28:39,071" end="00:28:41,375"/>
+      <p begin="00:28:41,375" end="00:28:46,073"/>
+      <p begin="00:28:46,073" end="00:28:47,665"/>
+      <p begin="00:28:47,665" end="00:28:52,768"/>
+      <p begin="00:28:52,768" end="00:28:55,211"/>
+      <p begin="00:28:55,211" end="00:28:56,840"/>
+      <p begin="00:28:56,840" end="00:28:59,860"/>
+      <p begin="00:28:59,860" end="00:29:05,292"/>
+      <p begin="00:29:05,292" end="00:29:07,953"/>
+      <p begin="00:29:07,953" end="00:29:10,581"/>
+      <p begin="00:29:10,581" end="00:29:15,651"/>
+      <p begin="00:29:15,651" end="00:29:18,348"/>
+      <p begin="00:29:18,348" end="00:29:26,334"/>
+      <p begin="00:29:26,334" end="00:29:30,829"/>
+      <p begin="00:29:30,829" end="00:29:34,954"/>
+      <p begin="00:29:34,954" end="00:29:36,954"/>
+      <p begin="00:29:36,954" end="00:29:39,087"/>
+      <p begin="00:29:39,087" end="00:29:41,385"/>
+      <p begin="00:29:41,385" end="00:29:44,433"/>
+      <p begin="00:29:44,433" end="00:29:48,091"/>
+      <p begin="00:29:48,091" end="00:29:50,162"/>
+      <p begin="00:29:50,162" end="00:29:54,899"/>
+      <p begin="00:29:54,899" end="00:29:58,156"/>
+      <p begin="00:29:58,156" end="00:29:59,166"/>
+      <p begin="00:29:59,166" end="00:30:00,153"/>
+      <p begin="00:30:00,153" end="00:30:02,648"/>
+      <p begin="00:30:02,648" end="00:30:05,546"/>
+      <p begin="00:30:05,546" end="00:30:07,492"/>
+      <p begin="00:30:07,492" end="00:30:09,334"/>
+      <p begin="00:30:09,334" end="00:30:14,394"/>
+      <p begin="00:30:14,394" end="00:30:15,776"/>
+      <p begin="00:30:15,776" end="00:30:19,595"/>
+      <p begin="00:30:19,595" end="00:30:23,117"/>
+      <p begin="00:30:23,117" end="00:30:24,740"/>
+      <p begin="00:30:24,740" end="00:30:26,770"/>
+      <p begin="00:30:26,770" end="00:30:29,294"/>
+      <p begin="00:30:29,294" end="00:30:31,084"/>
+      <p begin="00:30:31,084" end="00:30:32,625"/>
+      <p begin="00:30:32,625" end="00:30:34,715"/>
+      <p begin="00:30:34,715" end="00:30:37,542"/>
+      <p begin="00:30:37,542" end="00:30:39,645"/>
+      <p begin="00:30:39,645" end="00:30:43,332"/>
+      <p begin="00:30:43,332" end="00:30:46,540"/>
+      <p begin="00:30:46,540" end="00:30:49,580"/>
+      <p begin="00:30:51,733" end="00:30:54,816"/>
+      <p begin="00:30:54,816" end="00:31:00,494"/>
+      <p begin="00:31:00,494" end="00:31:02,359"/>
+      <p begin="00:31:02,359" end="00:31:04,120"/>
+      <p begin="00:31:04,120" end="00:31:05,827"/>
+      <p begin="00:31:05,827" end="00:31:07,752"/>
+      <p begin="00:31:07,752" end="00:31:08,894"/>
+      <p begin="00:31:08,894" end="00:31:09,664"/>
+      <p begin="00:31:09,664" end="00:31:12,768"/>
+      <p begin="00:31:12,768" end="00:31:13,701"/>
+      <p begin="00:31:13,701" end="00:31:15,717"/>
+      <p begin="00:31:15,717" end="00:31:17,875"/>
+      <p begin="00:31:17,875" end="00:31:21,861"/>
+      <p begin="00:31:21,861" end="00:31:27,482"/>
+      <p begin="00:31:27,482" end="00:31:33,492"/>
+      <p begin="00:31:33,492" end="00:31:37,751"/>
+      <p begin="00:31:37,751" end="00:31:40,751"/>
+      <p begin="00:31:40,751" end="00:31:44,445"/>
+      <p begin="00:31:44,445" end="00:31:45,645"/>
+      <p begin="00:31:45,645" end="00:31:47,908"/>
+      <p begin="00:31:47,908" end="00:31:49,674"/>
+      <p begin="00:31:49,674" end="00:31:50,773"/>
+      <p begin="00:31:50,773" end="00:31:51,763"/>
+      <p begin="00:31:51,763" end="00:31:54,412"/>
+      <p begin="00:31:54,412" end="00:31:56,987"/>
+      <p begin="00:31:56,987" end="00:31:58,114"/>
+      <p begin="00:31:58,114" end="00:32:00,983"/>
+      <p begin="00:32:00,983" end="00:32:05,468"/>
+      <p begin="00:32:05,468" end="00:32:12,525"/>
+      <p begin="00:32:12,525" end="00:32:16,450"/>
+      <p begin="00:32:16,450" end="00:32:19,399"/>
+      <p begin="00:32:19,399" end="00:32:20,694"/>
+      <p begin="00:32:20,694" end="00:32:21,739"/>
+      <p begin="00:32:21,739" end="00:32:22,597"/>
+      <p begin="00:32:22,597" end="00:32:24,188"/>
+      <p begin="00:32:24,188" end="00:32:25,088"/>
+      <p begin="00:32:25,088" end="00:32:27,463"/>
+      <p begin="00:32:27,463" end="00:32:30,118"/>
+      <p begin="00:32:30,118" end="00:32:33,699"/>
+      <p begin="00:32:33,699" end="00:32:35,782"/>
+      <p begin="00:32:35,782" end="00:32:38,924"/>
+      <p begin="00:32:38,924" end="00:32:41,857"/>
+      <p begin="00:32:41,857" end="00:32:44,429"/>
+      <p begin="00:32:44,429" end="00:32:47,519"/>
+      <p begin="00:32:47,519" end="00:32:49,093"/>
+      <p begin="00:32:49,093" end="00:32:54,044"/>
+      <p begin="00:32:54,044" end="00:32:57,776"/>
+      <p begin="00:32:57,796" end="00:33:00,740"/>
+      <p begin="00:33:00,740" end="00:33:03,402"/>
+      <p begin="00:33:03,402" end="00:33:04,828"/>
+      <p begin="00:33:04,828" end="00:33:09,726"/>
+      <p begin="00:33:09,726" end="00:33:13,211"/>
+      <p begin="00:33:13,211" end="00:33:17,009"/>
+      <p begin="00:33:17,009" end="00:33:21,332"/>
+      <p begin="00:33:21,332" end="00:33:24,111"/>
+      <p begin="00:33:24,111" end="00:33:30,156"/>
+      <p begin="00:33:30,156" end="00:33:33,892"/>
+      <p begin="00:33:33,892" end="00:33:36,296"/>
+      <p begin="00:33:36,296" end="00:33:37,741"/>
+      <p begin="00:33:37,741" end="00:33:39,993"/>
+      <p begin="00:33:39,993" end="00:33:42,892"/>
+      <p begin="00:33:42,892" end="00:33:48,291"/>
+      <p begin="00:33:48,291" end="00:33:50,148"/>
+      <p begin="00:33:50,148" end="00:33:52,013"/>
+      <p begin="00:33:52,013" end="00:33:55,212"/>
+      <p begin="00:33:55,212" end="00:33:59,817"/>
+      <p begin="00:33:59,817" end="00:34:02,454"/>
+      <p begin="00:34:02,454" end="00:34:04,394"/>
+      <p begin="00:34:04,394" end="00:34:07,625"/>
+      <p begin="00:34:07,625" end="00:34:10,409"/>
+      <p begin="00:34:10,409" end="00:34:12,422"/>
+      <p begin="00:34:12,422" end="00:34:13,597"/>
+      <p begin="00:34:13,597" end="00:34:14,663"/>
+      <p begin="00:34:14,663" end="00:34:18,565"/>
+      <p begin="00:34:18,565" end="00:34:20,726"/>
+      <p begin="00:34:20,726" end="00:34:22,761"/>
+      <p begin="00:34:22,761" end="00:34:24,962"/>
+      <p begin="00:34:24,962" end="00:34:27,309"/>
+      <p begin="00:34:27,309" end="00:34:33,958"/>
+      <p begin="00:34:33,958" end="00:34:38,023"/>
+      <p begin="00:34:38,023" end="00:34:41,230"/>
+      <p begin="00:34:41,230" end="00:34:45,411"/>
+      <p begin="00:34:45,411" end="00:34:47,902"/>
+      <p begin="00:34:47,902" end="00:34:50,074"/>
+      <p begin="00:34:50,074" end="00:34:53,626"/>
+      <p begin="00:34:53,626" end="00:34:56,183"/>
+      <p begin="00:34:56,183" end="00:34:58,542"/>
+      <p begin="00:34:58,542" end="00:35:00,548"/>
+      <p begin="00:35:00,548" end="00:35:02,500"/>
+      <p begin="00:35:02,500" end="00:35:10,974"/>
+      <p begin="00:35:10,974" end="00:35:16,965"/>
+      <p begin="00:35:16,965" end="00:35:20,799"/>
+      <p begin="00:35:20,799" end="00:35:24,007"/>
+      <p begin="00:35:24,007" end="00:35:27,309"/>
+      <p begin="00:35:27,309" end="00:35:29,531"/>
+      <p begin="00:35:29,531" end="00:35:36,016"/>
+      <p begin="00:35:36,016" end="00:35:41,262"/>
+      <p begin="00:35:41,262" end="00:35:44,205"/>
+      <p begin="00:35:44,205" end="00:35:48,610"/>
+      <p begin="00:35:48,610" end="00:35:51,780"/>
+      <p begin="00:35:51,780" end="00:35:56,521"/>
+      <p begin="00:35:56,521" end="00:35:58,741"/>
+      <p begin="00:35:58,741" end="00:36:00,156"/>
+      <p begin="00:36:00,156" end="00:36:04,853"/>
+      <p begin="00:36:04,853" end="00:36:08,651"/>
+      <p begin="00:36:08,651" end="00:36:12,132"/>
+      <p begin="00:36:12,132" end="00:36:16,437"/>
+      <p begin="00:36:16,437" end="00:36:20,047"/>
+      <p begin="00:36:20,047" end="00:36:22,971"/>
+      <p begin="00:36:22,971" end="00:36:26,596"/>
+      <p begin="00:36:26,596" end="00:36:30,207"/>
+      <p begin="00:36:30,207" end="00:36:32,095"/>
+      <p begin="00:36:32,095" end="00:36:34,699"/>
+      <p begin="00:36:34,699" end="00:36:39,538"/>
+      <p begin="00:36:39,538" end="00:36:42,031"/>
+      <p begin="00:36:42,031" end="00:36:46,090"/>
+      <p begin="00:36:46,090" end="00:36:49,357"/>
+      <p begin="00:36:49,357" end="00:36:51,047"/>
+      <p begin="00:36:51,047" end="00:36:54,083"/>
+      <p begin="00:36:54,083" end="00:36:56,422"/>
+      <p begin="00:36:56,422" end="00:36:59,642"/>
+      <p begin="00:37:00,401" end="00:37:04,876"/>
+      <p begin="00:37:04,876" end="00:37:07,830"/>
+      <p begin="00:37:07,830" end="00:37:09,762"/>
+      <p begin="00:37:09,762" end="00:37:12,712"/>
+      <p begin="00:37:12,712" end="00:37:16,385"/>
+      <p begin="00:37:16,385" end="00:37:18,790"/>
+      <p begin="00:37:18,790" end="00:37:20,325"/>
+      <p begin="00:37:20,325" end="00:37:23,269"/>
+      <p begin="00:37:23,269" end="00:37:27,793"/>
+      <p begin="00:37:27,793" end="00:37:33,145"/>
+      <p begin="00:37:33,145" end="00:37:34,674"/>
+      <p begin="00:37:34,674" end="00:37:36,953"/>
+      <p begin="00:37:36,953" end="00:37:41,681"/>
+      <p begin="00:37:41,681" end="00:37:43,041"/>
+      <p begin="00:37:43,041" end="00:37:45,110"/>
+      <p begin="00:37:45,110" end="00:37:50,341"/>
+      <p begin="00:37:50,378" end="00:37:53,116"/>
+      <p begin="00:37:53,116" end="00:37:56,951"/>
+      <p begin="00:37:56,951" end="00:37:59,641"/>
+      <p begin="00:37:59,641" end="00:38:01,742"/>
+      <p begin="00:38:01,742" end="00:38:04,512"/>
+      <p begin="00:38:04,512" end="00:38:07,099"/>
+      <p begin="00:38:07,099" end="00:38:08,686"/>
+      <p begin="00:38:08,686" end="00:38:10,162"/>
+      <p begin="00:38:10,162" end="00:38:12,429"/>
+      <p begin="00:38:12,429" end="00:38:16,730"/>
+      <p begin="00:38:16,730" end="00:38:18,491"/>
+      <p begin="00:38:18,491" end="00:38:20,578"/>
+      <p begin="00:38:20,578" end="00:38:22,378"/>
+      <p begin="00:38:22,378" end="00:38:24,783"/>
+      <p begin="00:38:24,783" end="00:38:28,235"/>
+      <p begin="00:38:28,235" end="00:38:30,286"/>
+      <p begin="00:38:30,286" end="00:38:32,561"/>
+      <p begin="00:38:32,561" end="00:38:37,595"/>
+      <p begin="00:38:40,979" end="00:38:44,811"/>
+      <p begin="00:38:44,811" end="00:38:45,808"/>
+      <p begin="00:38:45,808" end="00:38:49,576"/>
+      <p begin="00:38:49,576" end="00:38:53,085"/>
+      <p begin="00:38:53,085" end="00:38:54,613"/>
+      <p begin="00:38:54,613" end="00:38:57,920"/>
+      <p begin="00:38:57,920" end="00:39:03,643"/>
+      <p begin="00:39:03,643" end="00:39:06,683"/>
+      <p begin="00:39:06,683" end="00:39:10,701"/>
+      <p begin="00:39:10,701" end="00:39:14,008"/>
+      <p begin="00:39:14,008" end="00:39:16,862"/>
+      <p begin="00:39:16,862" end="00:39:21,153"/>
+      <p begin="00:39:22,290" end="00:39:30,506"/>
+      <p begin="00:39:32,583" end="00:39:40,375"/>
+      <p begin="00:39:40,375" end="00:39:49,692"/>
+      <p begin="00:39:49,692" end="00:39:55,903"/>
+      <p begin="00:39:55,903" end="00:40:00,477"/>
+      <p begin="00:40:00,477" end="00:40:04,813"/>
+      <p begin="00:40:04,813" end="00:40:06,946"/>
+      <p begin="00:40:06,946" end="00:40:12,301"/>
+      <p begin="00:40:12,301" end="00:40:14,915"/>
+      <p begin="00:40:14,915" end="00:40:16,909"/>
+      <p begin="00:40:16,909" end="00:40:20,842"/>
+      <p begin="00:40:20,842" end="00:40:25,251"/>
+      <p begin="00:40:25,251" end="00:40:30,159"/>
+      <p begin="00:40:30,159" end="00:40:35,413"/>
+      <p begin="00:40:35,413" end="00:40:40,784"/>
+      <p begin="00:40:40,784" end="00:40:47,184"/>
+      <p begin="00:40:47,184" end="00:40:48,456"/>
+      <p begin="00:40:48,456" end="00:40:49,581"/>
+      <p begin="00:40:49,581" end="00:40:53,406"/>
+      <p begin="00:40:53,406" end="00:40:56,392"/>
+      <p begin="00:40:56,392" end="00:40:59,756"/>
+      <p begin="00:40:59,756" end="00:41:05,375"/>
+      <p begin="00:41:05,375" end="00:41:08,711"/>
+      <p begin="00:41:08,711" end="00:41:13,258"/>
+      <p begin="00:41:13,258" end="00:41:16,939"/>
+      <p begin="00:41:16,939" end="00:41:19,860"/>
+      <p begin="00:41:19,860" end="00:41:21,460"/>
+      <p begin="00:41:21,460" end="00:41:22,848"/>
+      <p begin="00:41:22,848" end="00:41:25,513"/>
+      <p begin="00:41:25,513" end="00:41:29,586"/>
+      <p begin="00:41:29,586" end="00:41:33,187"/>
+      <p begin="00:41:33,187" end="00:41:37,160"/>
+      <p begin="00:41:37,160" end="00:41:38,273"/>
+      <p begin="00:41:38,273" end="00:41:39,419"/>
+      <p begin="00:41:39,419" end="00:41:42,976"/>
+      <p begin="00:41:42,976" end="00:41:47,666"/>
+      <p begin="00:41:47,666" end="00:41:55,176"/>
+      <p begin="00:41:55,176" end="00:41:58,187"/>
+      <p begin="00:41:58,187" end="00:41:59,166"/>
+      <p begin="00:41:59,166" end="00:42:00,301"/>
+      <p begin="00:42:00,301" end="00:42:02,840"/>
+      <p begin="00:42:02,840" end="00:42:04,241"/>
+      <p begin="00:42:04,241" end="00:42:05,529"/>
+      <p begin="00:42:05,529" end="00:42:07,051"/>
+      <p begin="00:42:07,051" end="00:42:08,932"/>
+      <p begin="00:42:08,932" end="00:42:13,342"/>
+      <p begin="00:42:13,342" end="00:42:15,192"/>
+      <p begin="00:42:15,192" end="00:42:21,621"/>
+      <p begin="00:42:21,621" end="00:42:24,415"/>
+      <p begin="00:42:24,415" end="00:42:27,176"/>
+      <p begin="00:42:27,176" end="00:42:29,595"/>
+      <p begin="00:42:29,595" end="00:42:33,098"/>
+      <p begin="00:42:33,098" end="00:42:34,899"/>
+      <p begin="00:42:34,899" end="00:42:40,041"/>
+      <p begin="00:42:40,041" end="00:42:45,258"/>
+      <p begin="00:42:45,258" end="00:42:47,898"/>
+      <p begin="00:42:47,898" end="00:42:49,258"/>
+      <p begin="00:42:49,258" end="00:42:50,792"/>
+      <p begin="00:42:50,792" end="00:42:52,607"/>
+      <p begin="00:42:52,607" end="00:42:56,087"/>
+      <p begin="00:42:56,087" end="00:42:59,925"/>
+      <p begin="00:42:59,925" end="00:43:02,971"/>
+      <p begin="00:43:02,971" end="00:43:04,877"/>
+      <p begin="00:43:04,877" end="00:43:06,452"/>
+      <p begin="00:43:06,452" end="00:43:07,513"/>
+      <p begin="00:43:07,513" end="00:43:09,678"/>
+      <p begin="00:43:09,678" end="00:43:13,585"/>
+      <p begin="00:43:13,585" end="00:43:15,686"/>
+      <p begin="00:43:15,686" end="00:43:16,713"/>
+      <p begin="00:43:16,713" end="00:43:18,685"/>
+      <p begin="00:43:18,685" end="00:43:21,527"/>
+      <p begin="00:43:21,527" end="00:43:23,599"/>
+      <p begin="00:43:23,599" end="00:43:26,154"/>
+      <p begin="00:43:26,154" end="00:43:28,363"/>
+      <p begin="00:43:28,363" end="00:43:31,697"/>
+      <p begin="00:43:31,697" end="00:43:34,599"/>
+      <p begin="00:43:34,599" end="00:43:36,554"/>
+      <p begin="00:43:36,554" end="00:43:38,782"/>
+      <p begin="00:43:38,782" end="00:43:39,978"/>
+      <p begin="00:43:39,978" end="00:43:40,816"/>
+      <p begin="00:43:40,816" end="00:43:41,909"/>
+      <p begin="00:43:41,909" end="00:43:44,186"/>
+      <p begin="00:43:44,186" end="00:43:45,081"/>
+      <p begin="00:43:45,081" end="00:43:47,081"/>
+      <p begin="00:43:47,081" end="00:43:48,515"/>
+      <p begin="00:43:48,515" end="00:43:49,342"/>
+      <p begin="00:43:49,342" end="00:43:50,292"/>
+      <p begin="00:43:50,292" end="00:43:51,679"/>
+      <p begin="00:43:51,679" end="00:43:53,018"/>
+      <p begin="00:43:53,018" end="00:45:03,025"/>
+      <p begin="00:45:03,025" end="00:45:06,617"/>
+      <p begin="00:45:06,617" end="00:45:08,285"/>
+      <p begin="00:45:08,285" end="00:45:10,950"/>
+      <p begin="00:45:10,950" end="00:45:12,950"/>
+      <p begin="00:45:13,007" end="00:45:14,665"/>
+      <p begin="00:45:14,665" end="00:45:17,564"/>
+      <p begin="00:45:17,564" end="00:45:21,642"/>
+      <p begin="00:45:21,642" end="00:45:23,878"/>
+      <p begin="00:45:23,878" end="00:45:25,452"/>
+      <p begin="00:45:25,452" end="00:45:27,513"/>
+      <p begin="00:45:27,513" end="00:45:29,291"/>
+      <p begin="00:45:29,291" end="00:45:31,188"/>
+      <p begin="00:45:31,188" end="00:45:32,363"/>
+      <p begin="00:45:32,363" end="00:45:34,586"/>
+      <p begin="00:45:34,586" end="00:45:35,445"/>
+      <p begin="00:45:35,445" end="00:45:36,329"/>
+      <p begin="00:45:36,329" end="00:45:39,222"/>
+      <p begin="00:45:39,222" end="00:45:45,140"/>
+      <p begin="00:45:45,140" end="00:45:46,639"/>
+      <p begin="00:45:46,639" end="00:45:48,521"/>
+      <p begin="00:45:48,521" end="00:45:50,465"/>
+      <p begin="00:45:50,465" end="00:45:54,009"/>
+      <p begin="00:45:54,009" end="00:45:55,570"/>
+      <p begin="00:45:55,570" end="00:45:56,889"/>
+      <p begin="00:45:56,889" end="00:45:58,984"/>
+      <p begin="00:45:58,984" end="00:46:00,071"/>
+      <p begin="00:46:00,071" end="00:46:01,603"/>
+      <p begin="00:46:01,603" end="00:46:02,372"/>
+      <p begin="00:46:02,372" end="00:46:12,162"/>
+      <p begin="00:46:12,162" end="00:46:14,573"/>
+      <p begin="00:46:14,573" end="00:46:18,135"/>
+      <p begin="00:46:18,135" end="00:46:19,646"/>
+      <p begin="00:46:19,646" end="00:46:22,657"/>
+      <p begin="00:46:22,657" end="00:46:25,362"/>
+      <p begin="00:46:25,362" end="00:46:27,290"/>
+      <p begin="00:46:27,290" end="00:46:32,661"/>
+      <p begin="00:46:32,661" end="00:46:35,945"/>
+      <p begin="00:46:35,945" end="00:46:39,988"/>
+      <p begin="00:46:39,988" end="00:46:44,074"/>
+      <p begin="00:46:44,074" end="00:46:47,762"/>
+      <p begin="00:46:47,762" end="00:46:51,344"/>
+      <p begin="00:46:51,344" end="00:46:55,101"/>
+      <p begin="00:46:55,101" end="00:46:59,282"/>
+      <p begin="00:46:59,282" end="00:47:02,429"/>
+      <p begin="00:47:02,429" end="00:47:06,243"/>
+      <p begin="00:47:06,243" end="00:47:07,582"/>
+      <p begin="00:47:07,582" end="00:47:09,388"/>
+      <p begin="00:47:09,388" end="00:47:11,388"/>
+      <p begin="00:47:11,388" end="00:47:15,502"/>
+      <p begin="00:47:15,502" end="00:47:19,683"/>
+      <p begin="00:47:19,683" end="00:47:23,088"/>
+      <p begin="00:47:23,088" end="00:47:25,620"/>
+      <p begin="00:47:25,620" end="00:47:29,359"/>
+      <p begin="00:47:29,359" end="00:47:32,135"/>
+      <p begin="00:47:32,135" end="00:47:33,441"/>
+      <p begin="00:47:33,441" end="00:47:34,933"/>
+      <p begin="00:47:34,933" end="00:47:38,416"/>
+      <p begin="00:47:38,416" end="00:47:39,620"/>
+      <p begin="00:47:39,620" end="00:47:42,928"/>
+      <p begin="00:47:42,928" end="00:47:46,678"/>
+      <p begin="00:47:46,678" end="00:47:53,205"/>
+      <p begin="00:47:53,205" end="00:47:56,756"/>
+      <p begin="00:47:56,756" end="00:47:58,770"/>
+      <p begin="00:47:58,770" end="00:48:03,722"/>
+      <p begin="00:48:03,722" end="00:48:07,696"/>
+      <p begin="00:48:07,696" end="00:48:12,092"/>
+      <p begin="00:48:12,092" end="00:48:14,200"/>
+      <p begin="00:48:14,200" end="00:48:16,768"/>
+      <p begin="00:48:16,768" end="00:48:20,554"/>
+      <p begin="00:48:20,554" end="00:48:23,886"/>
+      <p begin="00:48:23,886" end="00:48:27,246"/>
+      <p begin="00:48:27,246" end="00:48:32,882"/>
+      <p begin="00:48:32,882" end="00:48:35,876"/>
+      <p begin="00:48:35,876" end="00:48:36,882"/>
+      <p begin="00:48:36,882" end="00:48:38,301"/>
+      <p begin="00:48:38,301" end="00:48:42,855"/>
+      <p begin="00:48:42,855" end="00:48:46,961"/>
+      <p begin="00:48:46,961" end="00:48:49,810"/>
+      <p begin="00:48:49,810" end="00:48:52,722"/>
+      <p begin="00:48:52,722" end="00:48:54,865"/>
+      <p begin="00:48:54,865" end="00:48:58,081"/>
+      <p begin="00:48:58,081" end="00:49:01,909"/>
+      <p begin="00:49:01,909" end="00:49:04,464"/>
+      <p begin="00:49:04,464" end="00:49:07,264"/>
+      <p begin="00:49:07,264" end="00:49:13,957"/>
+      <p begin="00:49:13,957" end="00:49:17,958"/>
+      <p begin="00:49:17,958" end="00:49:19,495"/>
+      <p begin="00:49:19,495" end="00:49:23,342"/>
+      <p begin="00:49:23,342" end="00:49:26,153"/>
+      <p begin="00:49:26,153" end="00:49:29,918"/>
+      <p begin="00:49:29,918" end="00:49:33,451"/>
+      <p begin="00:49:33,451" end="00:49:39,331"/>
+      <p begin="00:49:39,331" end="00:49:43,175"/>
+      <p begin="00:49:43,175" end="00:49:44,798"/>
+      <p begin="00:49:44,798" end="00:49:45,850"/>
+      <p begin="00:49:45,850" end="00:49:48,697"/>
+      <p begin="00:49:48,697" end="00:49:52,958"/>
+      <p begin="00:49:52,958" end="00:49:54,242"/>
+      <p begin="00:49:54,242" end="00:50:00,430"/>
+      <p begin="00:50:00,430" end="00:50:01,968"/>
+      <p begin="00:50:01,968" end="00:50:04,125"/>
+      <p begin="00:50:04,125" end="00:50:06,818"/>
+      <p begin="00:50:06,818" end="00:50:08,524"/>
+      <p begin="00:50:08,524" end="00:50:10,985"/>
+      <p begin="00:50:10,985" end="00:50:12,197"/>
+      <p begin="00:50:12,197" end="00:50:13,641"/>
+      <p begin="00:50:13,641" end="00:50:15,283"/>
+      <p begin="00:50:15,283" end="00:50:18,479"/>
+      <p begin="00:50:18,479" end="00:50:23,956"/>
+      <p begin="00:50:23,956" end="00:50:28,522"/>
+      <p begin="00:50:28,522" end="00:50:30,719"/>
+      <p begin="00:50:30,719" end="00:50:31,593"/>
+      <p begin="00:50:31,593" end="00:50:33,031"/>
+      <p begin="00:50:33,031" end="00:50:33,959"/>
+      <p begin="00:50:33,959" end="00:50:35,748"/>
+      <p begin="00:50:35,748" end="00:50:36,710"/>
+      <p begin="00:50:36,710" end="00:50:37,898"/>
+      <p begin="00:50:37,898" end="00:50:39,734"/>
+      <p begin="00:50:39,734" end="00:50:42,179"/>
+      <p begin="00:50:42,179" end="00:50:43,959"/>
+      <p begin="00:50:43,959" end="00:50:44,997"/>
+      <p begin="00:50:44,997" end="00:50:47,884"/>
+      <p begin="00:50:47,884" end="00:50:53,986"/>
+      <p begin="00:50:53,986" end="00:50:54,949"/>
+      <p begin="00:50:54,949" end="00:51:02,343"/>
+      <p begin="00:51:02,343" end="00:51:07,163"/>
+      <p begin="00:51:07,163" end="00:51:11,197"/>
+      <p begin="00:51:11,197" end="00:51:13,418"/>
+      <p begin="00:51:13,418" end="00:51:17,999"/>
+      <p begin="00:51:17,999" end="00:51:23,175"/>
+      <p begin="00:51:23,175" end="00:51:25,361"/>
+      <p begin="00:51:25,361" end="00:51:29,589"/>
+      <p begin="00:51:29,589" end="00:51:30,448"/>
+      <p begin="00:51:30,448" end="00:51:32,408"/>
+      <p begin="00:51:32,408" end="00:51:35,773"/>
+      <p begin="00:51:35,773" end="00:51:55,228"/>
+      <p begin="00:51:55,228" end="00:51:57,189"/>
+      <p begin="00:51:57,189" end="00:52:01,273"/>
+      <p begin="00:52:02,457" end="00:52:06,445"/>
+      <p begin="00:52:06,445" end="00:52:09,923"/>
+      <p begin="00:52:09,923" end="00:52:12,378"/>
+      <p begin="00:52:12,378" end="00:52:14,781"/>
+      <p begin="00:52:14,781" end="00:52:16,201"/>
+      <p begin="00:52:16,201" end="00:52:18,733"/>
+      <p begin="00:52:18,733" end="00:52:22,214"/>
+      <p begin="00:52:22,214" end="00:52:25,918"/>
+      <p begin="00:52:25,918" end="00:52:27,257"/>
+      <p begin="00:52:27,257" end="00:52:30,341"/>
+      <p begin="00:52:30,341" end="00:52:34,577"/>
+      <p begin="00:52:34,577" end="00:52:36,404"/>
+      <p begin="00:52:36,404" end="00:53:00,083"/>
+      <p begin="00:53:00,083" end="00:53:03,393"/>
+      <p begin="00:53:03,393" end="00:53:08,989"/>
+      <p begin="00:53:08,989" end="00:53:12,527"/>
+      <p begin="00:53:12,527" end="00:53:15,106"/>
+      <p begin="00:53:15,106" end="00:53:19,581"/>
+      <p begin="00:53:19,581" end="00:53:23,438"/>
+      <p begin="00:53:23,438" end="00:53:26,408"/>
+      <p begin="00:53:26,408" end="00:53:29,356"/>
+      <p begin="00:53:29,356" end="00:53:31,942"/>
+      <p begin="00:53:31,942" end="00:53:33,942"/>
+      <p begin="00:53:33,942" end="00:53:37,079"/>
+      <p begin="00:53:37,079" end="00:53:39,963"/>
+      <p begin="00:53:39,963" end="00:53:42,140"/>
+      <p begin="00:53:42,140" end="00:53:44,310"/>
+      <p begin="00:53:44,310" end="00:53:47,517"/>
+      <p begin="00:53:47,517" end="00:53:48,990"/>
+      <p begin="00:53:48,990" end="00:53:50,639"/>
+      <p begin="00:53:50,639" end="00:53:51,907"/>
+      <p begin="00:53:51,907" end="00:53:57,398"/>
+      <p begin="00:53:57,398" end="00:54:01,700"/>
+      <p begin="00:54:01,700" end="00:54:05,553"/>
+      <p begin="00:54:05,553" end="00:54:11,834"/>
+      <p begin="00:54:11,834" end="00:54:17,143"/>
+      <p begin="00:54:17,143" end="00:54:20,138"/>
+      <p begin="00:54:20,138" end="00:54:20,920"/>
+      <p begin="00:54:20,920" end="00:54:26,653"/>
+      <p begin="00:54:26,653" end="00:54:29,164"/>
+      <p begin="00:54:29,164" end="00:54:33,457"/>
+      <p begin="00:54:33,457" end="00:54:34,755"/>
+      <p begin="00:54:34,755" end="00:54:37,038"/>
+      <p begin="00:54:37,038" end="00:54:39,745"/>
+      <p begin="00:54:39,745" end="00:54:42,162"/>
+      <p begin="00:54:42,162" end="00:54:46,389"/>
+      <p begin="00:54:46,389" end="00:54:48,100"/>
+      <p begin="00:54:48,100" end="00:54:51,325"/>
+      <p begin="00:54:51,325" end="00:54:52,625"/>
+      <p begin="00:54:52,625" end="00:54:53,799"/>
+      <p begin="00:54:53,799" end="00:54:55,581"/>
+      <p begin="00:54:55,581" end="00:54:57,375"/>
+      <p begin="00:54:57,375" end="00:55:00,956"/>
+      <p begin="00:55:00,956" end="00:55:03,078"/>
+      <p begin="00:55:03,078" end="00:55:06,523"/>
+      <p begin="00:55:08,662" end="00:55:10,363"/>
+      <p begin="00:55:10,363" end="00:55:15,197"/>
+      <p begin="00:55:15,197" end="00:55:17,901"/>
+      <p begin="00:55:17,901" end="00:55:25,148"/>
+      <p begin="00:55:25,148" end="00:55:28,399"/>
+      <p begin="00:55:28,399" end="00:55:33,695"/>
+      <p begin="00:55:33,695" end="00:55:36,853"/>
+      <p begin="00:55:36,853" end="00:55:38,220"/>
+      <p begin="00:55:38,220" end="00:55:40,413"/>
+      <p begin="00:55:40,413" end="00:55:42,061"/>
+      <p begin="00:55:42,061" end="00:55:48,986"/>
+      <p begin="00:55:48,986" end="00:55:51,606"/>
+      <p begin="00:55:51,606" end="00:55:54,221"/>
+      <p begin="00:55:54,221" end="00:55:55,648"/>
+      <p begin="00:55:55,648" end="00:55:59,608"/>
+      <p begin="00:55:59,608" end="00:56:02,479"/>
+      <p begin="00:56:02,479" end="00:56:06,088"/>
+      <p begin="00:56:06,088" end="00:56:07,843"/>
+      <p begin="00:56:07,843" end="00:56:12,624"/>
+      <p begin="00:56:12,624" end="00:56:15,579"/>
+      <p begin="00:56:15,579" end="00:56:20,534"/>
+      <p begin="00:56:20,534" end="00:56:23,290"/>
+      <p begin="00:56:23,290" end="00:56:24,365"/>
+      <p begin="00:56:24,365" end="00:56:26,445"/>
+      <p begin="00:56:26,445" end="00:56:28,444"/>
+      <p begin="00:56:28,444" end="00:56:34,445"/>
+      <p begin="00:56:34,445" end="00:56:36,071"/>
+      <p begin="00:56:36,071" end="00:56:41,007"/>
+      <p begin="00:56:41,007" end="00:56:43,812"/>
+      <p begin="00:56:43,812" end="00:56:47,173"/>
+      <p begin="00:56:47,173" end="00:56:50,187"/>
+      <p begin="00:56:50,187" end="00:56:53,434"/>
+      <p begin="00:56:54,819" end="00:57:05,249"/>
+      <p begin="00:57:05,249" end="00:57:09,030"/>
+      <p begin="00:57:09,030" end="00:57:11,912"/>
+      <p begin="00:57:11,912" end="00:57:14,150"/>
+      <p begin="00:57:14,150" end="00:57:16,781"/>
+      <p begin="00:57:16,781" end="00:57:20,467"/>
+      <p begin="00:57:20,467" end="00:57:25,145"/>
+      <p begin="00:57:25,145" end="00:57:27,624"/>
+      <p begin="00:57:27,624" end="00:57:32,225"/>
+      <p begin="00:57:32,225" end="00:57:36,922"/>
+      <p begin="00:57:36,922" end="00:57:39,228"/>
+      <p begin="00:57:39,228" end="00:57:43,966"/>
+      <p begin="00:57:43,966" end="00:57:49,076"/>
+      <p begin="00:57:49,076" end="00:58:00,812"/>
+      <p begin="00:58:00,812" end="00:58:07,604"/>
+      <p begin="00:58:07,604" end="00:58:12,410"/>
+      <p begin="00:58:12,410" end="00:58:17,579"/>
+      <p begin="00:58:17,579" end="00:58:20,104"/>
+      <p begin="00:58:20,104" end="00:58:21,930"/>
+      <p begin="00:58:21,930" end="00:58:25,127"/>
+      <p begin="00:58:25,127" end="00:58:28,417"/>
+      <p begin="00:58:28,417" end="00:58:31,434"/>
+      <p begin="00:58:31,434" end="00:58:34,380"/>
+      <p begin="00:58:34,380" end="00:58:38,185"/>
+      <p begin="00:58:38,185" end="00:58:44,194"/>
+      <p begin="00:58:44,194" end="00:58:47,267"/>
+      <p begin="00:58:47,267" end="00:58:53,458"/>
+      <p begin="00:58:53,458" end="00:58:54,530"/>
+      <p begin="00:58:54,530" end="00:58:56,702"/>
+      <p begin="00:58:56,702" end="00:58:59,939"/>
+      <p begin="00:58:59,939" end="00:59:02,342"/>
+      <p begin="00:59:02,342" end="00:59:05,864"/>
+      <p begin="00:59:05,864" end="00:59:09,496"/>
+      <p begin="00:59:09,496" end="00:59:12,864"/>
+      <p begin="00:59:12,864" end="00:59:17,611"/>
+      <p begin="00:59:17,611" end="00:59:19,457"/>
+      <p begin="00:59:19,457" end="00:59:21,100"/>
+      <p begin="00:59:21,100" end="00:59:22,594"/>
+      <p begin="00:59:22,594" end="00:59:23,385"/>
+      <p begin="00:59:23,385" end="00:59:24,497"/>
+      <p begin="00:59:24,497" end="00:59:25,265"/>
+      <p begin="00:59:25,265" end="00:59:26,398"/>
+      <p begin="00:59:26,398" end="00:59:27,445"/>
+      <p begin="00:59:27,445" end="00:59:28,708"/>
+      <p begin="00:59:28,708" end="00:59:29,697"/>
+      <p begin="00:59:29,697" end="00:59:30,984"/>
+      <p begin="00:59:30,984" end="00:59:33,165"/>
+      <p begin="00:59:33,165" end="00:59:34,412"/>
+      <p begin="00:59:34,412" end="00:59:36,425"/>
+      <p begin="00:59:36,425" end="00:59:39,877"/>
+      <p begin="00:59:39,877" end="00:59:41,616"/>
+      <p begin="00:59:41,616" end="00:59:43,588"/>
+      <p begin="00:59:43,588" end="00:59:44,571"/>
+      <p begin="00:59:44,571" end="00:59:47,281"/>
+      <p begin="00:59:47,281" end="00:59:53,368"/>
+      <p begin="00:59:53,368" end="00:59:55,157"/>
+      <p begin="00:59:55,157" end="00:59:59,713"/>
+      <p begin="00:59:59,713" end="01:00:02,038"/>
+      <p begin="01:00:02,038" end="01:00:05,174"/>
+      <p begin="01:00:05,174" end="01:00:08,761"/>
+      <p begin="01:00:08,761" end="01:00:10,560"/>
+      <p begin="01:00:10,560" end="01:00:12,740"/>
+      <p begin="01:00:12,740" end="01:00:15,295"/>
+      <p begin="01:00:15,295" end="01:00:16,583"/>
+      <p begin="01:00:16,583" end="01:00:20,776"/>
+      <p begin="01:00:20,776" end="01:00:22,843"/>
+      <p begin="01:00:22,843" end="01:00:24,444"/>
+      <p begin="01:00:24,444" end="01:00:25,649"/>
+      <p begin="01:00:25,649" end="01:00:27,649"/>
+      <p begin="01:00:27,649" end="01:00:34,392"/>
+      <p begin="01:00:34,392" end="01:00:38,162"/>
+      <p begin="01:00:38,162" end="01:00:39,662"/>
+      <p begin="01:00:39,662" end="01:00:41,678"/>
+      <p begin="01:00:41,678" end="01:00:54,617"/>
+      <p begin="01:00:54,617" end="01:00:58,566"/>
+      <p begin="01:00:58,566" end="01:01:00,663"/>
+      <p begin="01:01:00,663" end="01:01:03,789"/>
+      <p begin="01:01:03,789" end="01:01:09,261"/>
+      <p begin="01:01:09,261" end="01:01:14,015"/>
+      <p begin="01:01:14,015" end="01:01:20,676"/>
+      <p begin="01:01:20,676" end="01:01:24,255"/>
+      <p begin="01:01:24,255" end="01:01:27,222"/>
+      <p begin="01:01:27,222" end="01:01:28,778"/>
+      <p begin="01:01:28,778" end="01:01:30,419"/>
+      <p begin="01:01:30,419" end="01:01:32,745"/>
+      <p begin="01:01:32,745" end="01:01:37,152"/>
+      <p begin="01:01:37,152" end="01:01:38,776"/>
+      <p begin="01:01:38,776" end="01:01:40,332"/>
+      <p begin="01:01:40,332" end="01:01:45,544"/>
+      <p begin="01:01:45,544" end="01:01:47,406"/>
+      <p begin="01:01:47,406" end="01:01:52,216"/>
+      <p begin="01:01:52,216" end="01:02:01,925"/>
+      <p begin="01:02:01,925" end="01:02:05,664"/>
+      <p begin="01:02:05,664" end="01:02:11,222"/>
+      <p begin="01:02:11,222" end="01:02:16,778"/>
+      <p begin="01:02:16,778" end="01:02:19,256"/>
+      <p begin="01:02:19,256" end="01:02:21,945"/>
+      <p begin="01:02:21,945" end="01:02:25,588"/>
+      <p begin="01:02:25,588" end="01:02:29,292"/>
+      <p begin="01:02:29,292" end="01:02:31,452"/>
+      <p begin="01:02:31,452" end="01:02:36,619"/>
+      <p begin="01:02:36,619" end="01:02:41,500"/>
+      <p begin="01:02:41,500" end="01:02:44,719"/>
+      <p begin="01:02:44,719" end="01:02:47,668"/>
+      <p begin="01:02:47,668" end="01:02:51,409"/>
+      <p begin="01:02:51,409" end="01:02:53,608"/>
+      <p begin="01:02:53,608" end="01:02:55,509"/>
+      <p begin="01:02:55,509" end="01:02:58,148"/>
+      <p begin="01:02:58,148" end="01:02:59,687"/>
+      <p begin="01:02:59,687" end="01:03:01,402"/>
+      <p begin="01:03:01,402" end="01:03:02,564"/>
+      <p begin="01:03:02,564" end="01:03:04,751"/>
+      <p begin="01:03:04,751" end="01:03:06,706"/>
+      <p begin="01:03:06,706" end="01:03:07,966"/>
+      <p begin="01:03:07,966" end="01:03:10,471"/>
+      <p begin="01:03:10,471" end="01:03:16,130"/>
+      <p begin="01:03:16,130" end="01:03:21,377"/>
+      <p begin="01:03:21,377" end="01:03:25,994"/>
+      <p begin="01:03:25,994" end="01:03:28,986"/>
+      <p begin="01:03:28,986" end="01:03:30,709"/>
+      <p begin="01:03:30,709" end="01:03:32,427"/>
+      <p begin="01:03:32,427" end="01:03:35,612"/>
+      <p begin="01:03:35,612" end="01:03:39,991"/>
+      <p begin="01:03:39,991" end="01:03:42,959"/>
+      <p begin="01:03:42,959" end="01:03:44,728"/>
+      <p begin="01:03:44,728" end="01:03:45,943"/>
+      <p begin="01:03:45,943" end="01:03:49,535"/>
+      <p begin="01:03:49,535" end="01:03:51,716"/>
+      <p begin="01:03:51,716" end="01:03:55,144"/>
+      <p begin="01:03:55,144" end="01:03:58,148"/>
+      <p begin="01:03:58,148" end="01:04:05,013"/>
+      <p begin="01:04:05,013" end="01:04:08,011"/>
+      <p begin="01:04:08,011" end="01:04:09,819"/>
+      <p begin="01:04:09,819" end="01:04:12,575"/>
+      <p begin="01:04:12,575" end="01:04:14,282"/>
+      <p begin="01:04:14,282" end="01:04:18,569"/>
+      <p begin="01:04:18,569" end="01:04:21,041"/>
+      <p begin="01:04:21,041" end="01:04:24,821"/>
+      <p begin="01:04:24,821" end="01:04:26,231"/>
+      <p begin="01:04:26,231" end="01:04:27,397"/>
+      <p begin="01:04:27,397" end="01:04:28,911"/>
+      <p begin="01:04:28,911" end="01:04:34,043"/>
+      <p begin="01:04:34,043" end="01:04:38,423"/>
+      <p begin="01:04:38,423" end="01:04:40,076"/>
+      <p begin="01:04:40,076" end="01:04:41,942"/>
+      <p begin="01:04:41,942" end="01:04:48,408"/>
+      <p begin="01:04:48,408" end="01:04:50,838"/>
+      <p begin="01:04:50,838" end="01:04:53,693"/>
+      <p begin="01:04:53,693" end="01:04:56,556"/>
+      <p begin="01:04:56,556" end="01:04:59,586"/>
+      <p begin="01:04:59,586" end="01:05:02,987"/>
+      <p begin="01:05:02,987" end="01:05:05,620"/>
+      <p begin="01:05:05,620" end="01:05:08,885"/>
+      <p begin="01:05:08,885" end="01:05:11,714"/>
+      <p begin="01:05:11,898" end="01:05:14,513"/>
+      <p begin="01:05:14,513" end="01:05:17,732"/>
+      <p begin="01:05:17,732" end="01:05:19,220"/>
+      <p begin="01:05:19,220" end="01:05:22,278"/>
+      <p begin="01:05:22,278" end="01:05:27,470"/>
+      <p begin="01:05:29,314" end="01:05:33,347"/>
+      <p begin="01:05:33,509" end="01:05:39,435"/>
+      <p begin="01:05:39,435" end="01:05:42,028"/>
+      <p begin="01:05:42,028" end="01:05:50,871"/>
+      <p begin="01:05:50,871" end="01:05:54,393"/>
+      <p begin="01:05:54,393" end="01:05:56,691"/>
+      <p begin="01:05:56,691" end="01:05:59,359"/>
+      <p begin="01:05:59,359" end="01:06:03,651"/>
+      <p begin="01:06:03,651" end="01:06:06,934"/>
+      <p begin="01:06:06,934" end="01:06:12,130"/>
+      <p begin="01:06:12,130" end="01:06:14,626"/>
+      <p begin="01:06:14,626" end="01:06:19,706"/>
+      <p begin="01:06:19,706" end="01:06:24,178"/>
+      <p begin="01:06:24,178" end="01:06:26,926"/>
+      <p begin="01:06:26,926" end="01:06:28,570"/>
+      <p begin="01:06:28,570" end="01:06:33,594"/>
+      <p begin="01:06:33,594" end="01:06:37,557"/>
+      <p begin="01:06:37,557" end="01:06:40,033"/>
+      <p begin="01:06:40,033" end="01:06:44,139"/>
+      <p begin="01:06:44,139" end="01:06:48,319"/>
+      <p begin="01:06:48,319" end="01:06:50,546"/>
+      <p begin="01:06:50,546" end="01:06:52,010"/>
+      <p begin="01:06:52,010" end="01:06:55,240"/>
+      <p begin="01:06:55,240" end="01:06:58,069"/>
+      <p begin="01:06:58,069" end="01:07:03,474"/>
+      <p begin="01:07:03,474" end="01:07:06,101"/>
+      <p begin="01:07:06,101" end="01:07:09,229"/>
+      <p begin="01:07:09,229" end="01:07:13,170"/>
+      <p begin="01:07:13,170" end="01:07:16,268"/>
+      <p begin="01:07:16,268" end="01:07:20,535"/>
+      <p begin="01:07:20,535" end="01:07:28,851"/>
+      <p begin="01:07:28,851" end="01:07:33,625"/>
+      <p begin="01:07:33,625" end="01:07:36,720"/>
+      <p begin="01:07:36,720" end="01:07:38,215"/>
+      <p begin="01:07:38,215" end="01:07:39,092"/>
+      <p begin="01:07:39,139" end="01:07:41,653"/>
+      <p begin="01:07:41,653" end="01:07:43,147"/>
+      <p begin="01:07:43,147" end="01:07:46,342"/>
+      <p begin="01:07:46,342" end="01:07:47,769"/>
+      <p begin="01:07:47,769" end="01:07:49,000"/>
+      <p begin="01:07:49,000" end="01:07:54,085"/>
+      <p begin="01:07:54,085" end="01:08:01,035"/>
+      <p begin="01:08:01,035" end="01:08:04,653"/>
+      <p begin="01:08:04,653" end="01:08:07,278"/>
+      <p begin="01:08:07,278" end="01:08:09,844"/>
+      <p begin="01:08:09,844" end="01:08:10,967"/>
+      <p begin="01:08:10,967" end="01:08:15,012"/>
+      <p begin="01:08:15,012" end="01:08:17,048"/>
+      <p begin="01:08:17,048" end="01:08:18,189"/>
+      <p begin="01:08:18,189" end="01:08:18,992"/>
+      <p begin="01:08:18,992" end="01:08:20,484"/>
+      <p begin="01:08:20,484" end="01:08:23,188"/>
+      <p begin="01:08:23,188" end="01:08:24,201"/>
+      <p begin="01:08:24,201" end="01:08:27,656"/>
+      <p begin="01:08:27,656" end="01:08:31,256"/>
+      <p begin="01:08:31,256" end="01:08:38,840"/>
+      <p begin="01:08:38,840" end="01:08:44,029"/>
+      <p begin="01:08:44,029" end="01:08:47,492"/>
+      <p begin="01:08:47,492" end="01:08:49,988"/>
+      <p begin="01:08:49,988" end="01:08:52,868"/>
+      <p begin="01:08:52,868" end="01:08:54,740"/>
+      <p begin="01:08:54,740" end="01:08:56,290"/>
+      <p begin="01:08:56,290" end="01:08:57,733"/>
+      <p begin="01:08:57,733" end="01:09:01,014"/>
+      <p begin="01:09:01,014" end="01:09:04,014"/>
+      <p begin="01:09:04,014" end="01:09:06,078"/>
+      <p begin="01:09:06,078" end="01:09:07,426"/>
+      <p begin="01:09:07,426" end="01:09:10,225"/>
+      <p begin="01:09:10,225" end="01:09:17,777"/>
+      <p begin="01:09:17,777" end="01:09:20,953"/>
+      <p begin="01:09:20,953" end="01:09:22,307"/>
+      <p begin="01:09:22,307" end="01:09:25,216"/>
+      <p begin="01:09:25,216" end="01:09:31,010"/>
+      <p begin="01:09:31,010" end="01:09:33,631"/>
+      <p begin="01:09:33,631" end="01:09:37,017"/>
+      <p begin="01:09:37,017" end="01:09:41,981"/>
+      <p begin="01:09:41,981" end="01:09:44,653"/>
+      <p begin="01:09:44,653" end="01:09:47,520"/>
+      <p begin="01:09:47,520" end="01:09:50,277"/>
+      <p begin="01:09:50,277" end="01:09:56,678"/>
+      <p begin="01:09:56,678" end="01:10:00,943"/>
+      <p begin="01:10:03,297" end="01:10:13,204"/>
+      <p begin="01:10:19,020" end="01:10:25,646"/>
+      <p begin="01:10:27,400" end="01:10:31,937"/>
+      <p begin="01:10:31,937" end="01:10:37,291"/>
+      <p begin="01:10:37,291" end="01:10:39,918"/>
+      <p begin="01:10:39,918" end="01:10:42,918"/>
+      <p begin="01:10:42,918" end="01:10:47,429"/>
+      <p begin="01:10:50,306" end="01:10:56,158"/>
+      <p begin="01:10:56,158" end="01:11:00,168"/>
+      <p begin="01:11:00,168" end="01:11:04,017"/>
+      <p begin="01:11:04,017" end="01:11:10,211"/>
+      <p begin="01:11:10,211" end="01:11:13,409"/>
+      <p begin="01:11:13,409" end="01:11:21,101"/>
+      <p begin="01:11:21,101" end="01:11:24,634"/>
+      <p begin="01:11:24,634" end="01:11:28,251"/>
+      <p begin="01:11:28,251" end="01:11:33,176"/>
+      <p begin="01:11:33,176" end="01:11:36,591"/>
+      <p begin="01:11:36,591" end="01:11:39,620"/>
+      <p begin="01:11:39,620" end="01:11:44,911"/>
+      <p begin="01:11:44,911" end="01:11:49,273"/>
+      <p begin="01:11:49,273" end="01:11:55,472"/>
+      <p begin="01:11:55,472" end="01:12:00,045"/>
+      <p begin="01:12:00,045" end="01:12:03,474"/>
+      <p begin="01:12:03,474" end="01:12:06,785"/>
+      <p begin="01:12:06,785" end="01:12:09,341"/>
+      <p begin="01:12:09,341" end="01:12:15,543"/>
+      <p begin="01:12:15,543" end="01:12:19,015"/>
+      <p begin="01:12:19,015" end="01:12:29,976"/>
+      <p begin="01:12:29,976" end="01:12:32,592"/>
+      <p begin="01:12:32,592" end="01:12:37,256"/>
+      <p begin="01:12:37,256" end="01:12:39,743"/>
+      <p begin="01:12:39,743" end="01:12:46,337"/>
+      <p begin="01:12:46,337" end="01:13:04,984"/>
+      <p begin="01:13:04,984" end="01:13:13,022"/>
+      <p begin="01:13:13,022" end="01:13:18,700"/>
+      <p begin="01:13:18,700" end="01:13:24,767"/>
+      <p begin="01:13:24,767" end="01:13:32,098"/>
+      <p begin="01:13:32,098" end="01:13:40,606"/>
+      <p begin="01:13:40,791" end="01:13:47,271"/>
+      <p begin="01:13:47,271" end="01:13:55,081"/>
+      <p begin="01:13:56,696" end="01:14:02,144"/>
+      <p begin="01:14:02,144" end="01:14:15,727"/>
+      <p begin="01:14:19,943" end="01:14:27,161"/>
+      <p begin="01:14:27,161" end="01:14:43,409"/>
+      <p begin="01:14:43,409" end="01:14:49,359"/>
+      <p begin="01:14:49,359" end="01:14:52,554"/>
+      <p begin="01:14:52,554" end="01:14:54,328"/>
+      <p begin="01:14:54,328" end="01:14:56,037"/>
+      <p begin="01:14:56,037" end="01:14:59,905"/>
+      <p begin="01:14:59,905" end="01:15:03,804"/>
+      <p begin="01:15:03,804" end="01:15:07,674"/>
+      <p begin="01:15:07,674" end="01:15:14,483"/>
+      <p begin="01:15:14,483" end="01:15:17,554"/>
+      <p begin="01:15:17,554" end="01:15:21,191"/>
+      <p begin="01:15:21,191" end="01:15:32,186"/>
+      <p begin="01:15:32,186" end="01:15:36,877"/>
+      <p begin="01:15:36,877" end="01:15:39,708"/>
+      <p begin="01:15:39,708" end="01:15:44,765"/>
+      <p begin="01:15:44,765" end="01:15:54,329"/>
+      <p begin="01:15:54,329" end="01:15:57,704"/>
+      <p begin="01:15:57,704" end="01:16:03,899"/>
+      <p begin="01:16:03,899" end="01:16:07,392"/>
+      <p begin="01:16:07,392" end="01:16:13,795"/>
+      <p begin="01:16:13,795" end="01:16:16,705"/>
+      <p begin="01:16:16,705" end="01:16:18,705"/>
+      <p begin="01:16:18,705" end="01:16:24,894"/>
+      <p begin="01:16:24,894" end="01:16:29,130"/>
+      <p begin="01:16:29,130" end="01:16:32,710"/>
+      <p begin="01:16:32,710" end="01:16:36,935"/>
+      <p begin="01:16:36,935" end="01:16:43,434"/>
+      <p begin="01:16:43,434" end="01:16:47,509"/>
+      <p begin="01:16:47,509" end="01:16:50,509"/>
+      <p begin="01:16:50,509" end="01:16:59,794"/>
+      <p begin="01:16:59,794" end="01:17:01,932"/>
+      <p begin="01:17:01,932" end="01:17:04,818"/>
+      <p begin="01:17:04,818" end="01:17:06,144"/>
+      <p begin="01:17:06,144" end="01:17:10,792"/>
+      <p begin="01:17:10,792" end="01:17:12,519"/>
+      <p begin="01:17:12,519" end="01:17:14,742"/>
+      <p begin="01:17:14,742" end="01:17:20,133"/>
+      <p begin="01:17:20,133" end="01:17:23,216"/>
+      <p begin="01:17:23,216" end="01:17:31,017"/>
+      <p begin="01:17:31,017" end="01:17:32,862"/>
+      <p begin="01:17:32,862" end="01:17:37,187"/>
+      <p begin="01:17:37,187" end="01:17:39,878"/>
+      <p begin="01:17:39,878" end="01:17:43,018"/>
+      <p begin="01:17:43,018" end="01:17:47,328"/>
+      <p begin="01:17:47,328" end="01:17:51,825"/>
+      <p begin="01:17:51,825" end="01:17:53,262"/>
+      <p begin="01:17:53,262" end="01:17:55,684"/>
+      <p begin="01:17:55,684" end="01:17:59,436"/>
+      <p begin="01:17:59,436" end="01:18:03,014"/>
+      <p begin="01:18:03,014" end="01:18:06,988"/>
+      <p begin="01:18:06,988" end="01:18:13,107"/>
+      <p begin="01:18:13,107" end="01:18:16,417"/>
+      <p begin="01:18:16,417" end="01:18:21,373"/>
+      <p begin="01:18:21,373" end="01:18:23,452"/>
+      <p begin="01:18:23,452" end="01:18:28,887"/>
+      <p begin="01:18:28,887" end="01:18:31,654"/>
+      <p begin="01:18:31,654" end="01:18:36,645"/>
+      <p begin="01:18:36,645" end="01:18:41,308"/>
+      <p begin="01:18:41,308" end="01:18:46,595"/>
+      <p begin="01:18:46,595" end="01:18:49,202"/>
+      <p begin="01:18:49,202" end="01:18:53,362"/>
+      <p begin="01:18:53,362" end="01:18:56,054"/>
+      <p begin="01:18:56,054" end="01:19:01,035"/>
+      <p begin="01:19:01,035" end="01:19:04,778"/>
+      <p begin="01:19:04,778" end="01:19:10,574"/>
+      <p begin="01:19:11,548" end="01:19:14,269"/>
+      <p begin="01:19:14,269" end="01:19:17,398"/>
+      <p begin="01:19:17,398" end="01:19:25,874"/>
+      <p begin="01:19:29,720" end="01:19:34,947"/>
+      <p begin="01:19:34,947" end="01:19:39,378"/>
+      <p begin="01:19:39,378" end="01:19:43,407"/>
+      <p begin="01:19:43,407" end="01:19:46,517"/>
+      <p begin="01:19:46,517" end="01:19:49,949"/>
+      <p begin="01:19:49,949" end="01:19:54,420"/>
+      <p begin="01:19:54,420" end="01:20:00,434"/>
+      <p begin="01:20:03,204" end="01:20:07,408"/>
+      <p begin="01:20:07,408" end="01:20:09,955"/>
+      <p begin="01:20:09,955" end="01:20:15,595"/>
+      <p begin="01:20:15,595" end="01:20:18,356"/>
+      <p begin="01:20:18,356" end="01:20:21,054"/>
+      <p begin="01:20:21,054" end="01:20:23,599"/>
+      <p begin="01:20:23,599" end="01:20:25,501"/>
+      <p begin="01:20:25,501" end="01:20:31,898"/>
+      <p begin="01:20:31,898" end="01:20:34,917"/>
+      <p begin="01:20:34,917" end="01:20:38,507"/>
+      <p begin="01:20:38,507" end="01:20:42,790"/>
+      <p begin="01:20:44,359" end="01:20:49,905"/>
+      <p begin="01:20:49,905" end="01:20:52,889"/>
+      <p begin="01:20:52,889" end="01:20:56,403"/>
+      <p begin="01:20:56,403" end="01:21:00,448"/>
+      <p begin="01:21:00,448" end="01:21:03,258"/>
+      <p begin="01:21:03,258" end="01:21:07,322"/>
+      <p begin="01:21:07,322" end="01:21:11,433"/>
+      <p begin="01:21:11,433" end="01:21:13,371"/>
+      <p begin="01:21:13,371" end="01:21:17,627"/>
+      <p begin="01:21:17,627" end="01:21:20,477"/>
+      <p begin="01:21:20,477" end="01:21:22,596"/>
+      <p begin="01:21:22,596" end="01:21:25,596"/>
+      <p begin="01:21:25,596" end="01:21:34,110"/>
+      <p begin="01:21:34,110" end="01:21:36,051"/>
+      <p begin="01:21:36,051" end="01:21:39,973"/>
+      <p begin="01:21:41,404" end="01:21:49,757"/>
+      <p begin="01:21:50,017" end="01:21:56,895"/>
+      <p begin="01:21:56,895" end="01:22:00,598"/>
+      <p begin="01:22:00,598" end="01:22:05,361"/>
+      <p begin="01:22:05,361" end="01:22:06,681"/>
+      <p begin="01:22:06,681" end="01:22:08,831"/>
+      <p begin="01:22:08,831" end="01:22:09,690"/>
+      <p begin="01:22:09,690" end="01:22:10,990"/>
+      <p begin="01:22:10,990" end="01:22:13,198"/>
+      <p begin="01:22:13,198" end="01:22:14,548"/>
+      <p begin="01:22:14,548" end="01:22:16,662"/>
+      <p begin="01:22:16,662" end="01:22:19,224"/>
+      <p begin="01:22:19,224" end="01:22:20,335"/>
+      <p begin="01:22:20,335" end="01:22:21,878"/>
+      <p begin="01:22:21,878" end="01:22:24,008"/>
+      <p begin="01:22:24,008" end="01:22:39,190"/>
+      <p begin="01:22:39,190" end="01:22:40,841"/>
+      <p begin="01:22:40,841" end="01:22:45,706"/>
+      <p begin="01:22:45,706" end="01:22:50,715"/>
+      <p begin="01:22:50,715" end="01:22:54,211"/>
+      <p begin="01:22:54,211" end="01:23:02,292"/>
+      <p begin="01:23:02,292" end="01:23:11,636"/>
+      <p begin="01:23:11,636" end="01:23:16,156"/>
+      <p begin="01:23:16,156" end="01:23:22,710"/>
+      <p begin="01:23:22,710" end="01:23:28,053"/>
+      <p begin="01:23:28,053" end="01:23:32,337"/>
+      <p begin="01:23:32,337" end="01:23:36,738"/>
+      <p begin="01:23:36,738" end="01:23:40,073"/>
+      <p begin="01:23:40,073" end="01:23:43,740"/>
+      <p begin="01:23:43,740" end="01:23:48,892"/>
+      <p begin="01:23:50,400" end="01:23:55,542"/>
+      <p begin="01:23:55,542" end="01:24:02,229"/>
+      <p begin="01:24:02,229" end="01:24:06,720"/>
+      <p begin="01:24:06,720" end="01:24:11,650"/>
+      <p begin="01:24:11,650" end="01:24:33,383"/>
+      <p begin="01:24:33,383" end="01:24:36,670"/>
+      <p begin="01:24:36,670" end="01:24:42,255"/>
+      <p begin="01:24:42,255" end="01:24:45,553"/>
+      <p begin="01:24:45,553" end="01:24:50,012"/>
+      <p begin="01:24:50,012" end="01:24:54,495"/>
+      <p begin="01:24:54,495" end="01:25:00,241"/>
+      <p begin="01:25:00,241" end="01:25:14,970"/>
+      <p begin="01:25:14,970" end="01:25:19,704"/>
+      <p begin="01:25:19,704" end="01:25:21,387"/>
+      <p begin="01:25:21,387" end="01:25:27,544"/>
+      <p begin="01:25:27,544" end="01:25:31,622"/>
+      <p begin="01:25:31,622" end="01:25:34,062"/>
+      <p begin="01:25:34,062" end="01:25:42,740"/>
+      <p begin="01:25:42,740" end="01:25:48,198"/>
+      <p begin="01:25:48,198" end="01:25:51,950"/>
+      <p begin="01:25:51,950" end="01:25:55,389"/>
+      <p begin="01:25:55,389" end="01:25:59,044"/>
+      <p begin="01:25:59,044" end="01:26:05,713"/>
+      <p begin="01:26:05,713" end="01:26:12,679"/>
+      <p begin="01:26:12,679" end="01:26:18,795"/>
+      <p begin="01:26:18,795" end="01:26:21,493"/>
+      <p begin="01:26:21,493" end="01:26:32,677"/>
+      <p begin="01:26:32,677" end="01:26:36,963"/>
+      <p begin="01:26:36,963" end="01:26:39,963"/>
+      <p begin="01:26:39,963" end="01:26:44,742"/>
+      <p begin="01:26:44,742" end="01:26:50,932"/>
+      <p begin="01:26:50,932" end="01:26:54,012"/>
+      <p begin="01:26:54,012" end="01:26:57,815"/>
+      <p begin="01:26:57,815" end="01:27:03,962"/>
+      <p begin="01:27:03,962" end="01:27:09,279"/>
+      <p begin="01:27:09,279" end="01:27:15,749"/>
+      <p begin="01:27:15,749" end="01:27:18,920"/>
+      <p begin="01:27:18,920" end="01:27:22,920"/>
+    </div>
+  </body>
+
+</tt>

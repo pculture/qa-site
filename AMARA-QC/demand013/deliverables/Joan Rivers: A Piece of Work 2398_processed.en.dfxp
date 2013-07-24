@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00.000" end="00:00:00.000">[music]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- We welcome, Ms. Joan Rivers!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[applause]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- You know, you're going to be<br/>a big star.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Here's my dappy, little friend,<br/>Joan Rivers!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[screaming]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[applause]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Joan Rivers, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">the groundbreaking <br/>female comedian</p>
+      <p begin="00:00:00.000" end="00:00:00.000">paves the way for women <br/>everywhere ---</p>
+      <p begin="00:00:00.000" end="00:00:00.000">now iI know who is gay<br/>and who isn't gay --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">can we talk to you?</p>
+    </div>
+    <div>
+      <p begin="00:00:00.000" end="00:00:00.000">[applause]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- The Grammy goes to...<br/>Joan Rivers!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[applause]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Here's Joan Rivers!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- and I'm very, very late.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I hope you had a few drinks<br/>cuz you're gonna need them.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Welcome, Ms. Joan Rivers!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[applause]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- This is my career.<br/>How depressing is this?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Forty years in <br/>the fucking business</p>
+      <p begin="00:00:00.000" end="00:00:00.000">and this is where you end up.<br/>[audience laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Just to show you...<br/>[audience laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">My daughter and I are very close;<br/>very, very close.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But I brought her up all wrong.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">I brought her up to have morals.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">She turned down doing <br/>Playboy magazine cover,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">how about that?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Four hundred thousand dollars,<br/>naked to the waist.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Turned it fuckin' down<br/>and calls me up for approval.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">For approval!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Mother, I turned down<br/>Playboy. What do you think?"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And you know, what do I think?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm very proud of you, Melissa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What do I think?<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">What do I think,<br/>you stupid, fucking cunt!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What do I think?<br/>[audience laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I think you should ask<br/>200,000 more <br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">and show your pussy! <br/>That's what I think!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[audience applause and laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm a 75 year old woman<br/>I'll be playing the drums in Queens!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What do I think?<br/>[audience laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm on a fucking red carpet<br/>in the hot sun<br/><br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">talking to these assholes<br/>where are you from?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Got a lucky charm.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">Who the fuck are you?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[audience applause and laughter]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Not good. This is not good.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">We have no Vegas, no giant club date.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kathy Griffin's taken all <br/>those away.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I have the play, which is<br/>not going to give me any money.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Can we get club dates?<br/>Can't Billy get club dates?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And this is not a full book.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Like a little date here and there.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Yeah.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Sure.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- These were the good years.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- These were the good years.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- See this is the kind of a book I like.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Now that's a good page.<br/>You know what I mean?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ten o'clock, eleven o'clock.<br/>Twelve thirty, this and that.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's happiness.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Last year was a very difficult year.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I was playing Here We Go,<br/>the Bronx at 4:30 in the afternoon.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That was a real good one.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'll show you fear.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's fear.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">If my book ever looked like this,<br/>it would mean that nobody wants me,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That everything I ever tried to do<br/>in life didn't work.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Nobody cared and I've been <br/>totally forgotten.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- When you say Joan, get out your <br/>calendar she says hold on on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">let me put my sunglasses on<br/>because the white of the page</p>
+      <p begin="00:00:00.000" end="00:00:00.000">hurts my eyes.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So, that's a joke. <br/>So we used to laugh at that.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Hold on, let me get my sunglasses."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay, what day?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You look handsome.<br/>Yeah right.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Billy looks good and he can't<br/>stand it. I can't.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Why not?<br/>My career is in the toliet </p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's me.<br/>My career is in the toilet</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nothing is going right,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">that's right</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Nothing.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Why?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Why not?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I don't know it's like<br/>ya know?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's what I always <br/>tell them.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That still gets me.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Billy Sabbath is a big<br/>part of my life</p>
+      <p begin="00:00:00.000" end="00:00:00.000">a huge part of my life.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He knows my history<br/>there are so few people</p>
+      <p begin="00:00:00.000" end="00:00:00.000">that you can say, do you<br/>remember Bernie Billstein</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and we both laugh<br/>and laugh.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Joan is a chronic<br/>workaholic.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-one job a day is not <br/>enough it's almost like</p>
+      <p begin="00:00:00.000" end="00:00:00.000">an addict.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Sadly, but she's a <br/>work addict</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-so it's not enough no <br/>matter how much you</p>
+      <p begin="00:00:00.000" end="00:00:00.000">give her it doesn't<br/>fill up that need to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-be working.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Now this is Joslin Picket,<br/>this is my assistant</p>
+      <p begin="00:00:00.000" end="00:00:00.000">who is not going to <br/>show you how busy I am.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Anybody call?<br/>No.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's not about whether<br/>the talent is good</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it's about whether<br/>they're hot.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">There are times in <br/>people's careers</p>
+      <p begin="00:00:00.000" end="00:00:00.000">that you just can't <br/>get it going.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Careers do that, you're<br/>hot, you're not, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you're in a slump<br/>you're not.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Nothing is happening<br/>right now, so she </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-needs some heat.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Steve Laean's office.<br/>Jennifer Mowen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hi Billy Sabbath.<br/>-and Joan Rivers.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hi Joan Rivers, hold<br/>on just a moment.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Hello. <br/>I's get through</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-faster if I was<br/>Kathy Griffin.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Hello. Hi.<br/>Let's hear about Harrod's</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-which is May 18th which the<br/>weekend before Memorial Day.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I just think it's<br/>wrong.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's not vacation,<br/>the kids are still</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in school. <br/>I want a letter from</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-from them saying we<br/>acknowledge the worst</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-weekend, one of the<br/>worst weekends of the<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-year. <br/>And i really don't </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-need at this age, when<br/>I'm a comedy icon</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I don't need to walk<br/>into a room and have</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it half full and <br/>then have the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Harris people go<br/>cluck, cluck, cluck.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Right now they see her<br/>as a plastic surgery</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-freak who's past due<br/>her, you know, her</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-sell by date. <br/>Who's finished.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But God help the next<br/>Queen of Comedy</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-because this one is<br/>not abdicating.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Never will. There will<br/>be nail marks on that</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-red carpet before she<br/>abdicates. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">So good luck to the<br/>next Queen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Happy Birthday to you.<br/>Happy Birthday to you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Age is the one mountain<br/>that you can't overcome.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's a youth society and<br/>nobody wants you. Your too</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-old, you're too old. <br/>If one more woman </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-comedian comes to me<br/>and says to me, you opened</p>
+      <p begin="00:00:00.000" end="00:00:00.000">the doors for me and you<br/>want to say, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-go fuck yourself. <br/>I'm still opening the</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-doors. <br/>Thank you very much.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You are a Barnard College<br/>graduate ? Yes.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And your father's a <br/>doctor. Yes. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">You live, where? <br/>Scarsdale?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">In Large Mouth.<br/>In Large Mouth.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And your mother is a?<br/>A mother.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Just a mother. <br/>[audience laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">How do they look upon<br/>this, what you're doing?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What it is that you do?<br/>Frightened.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[audience laughs]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well now they are very<br/>show biz.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And my mother and I<br/>are thinking of doing</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a sister act. But ummm<br/>[audience laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The audience here really<br/>liked ya and good luck</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to ya. <br/>[clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan here is a script<br/>for the TV pilot, you</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-wanted to look at.<br/>Ok, do you know where</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I am in this?<br/>[phone ringing].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I see no Joan on page 2,<br/>I see no Joan on page 3.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I see no Joan on page 4.<br/>[laughs].<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">I have worked with her<br/>for about 15 years, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I think, somewhere in<br/>there, so I definately</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-have gone through kind<br/>of the ups and downs, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you know with her career.<br/>When I started it was </p>
+      <p begin="00:00:00.000" end="00:00:00.000">definitely kind of a<br/>lower point,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-her daytime talk show,<br/>was cancelled at the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-same time her play,<br/>Sally Mar which ran on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Broad Way. That shut<br/>down. Everything was</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kind of closing at that<br/>point.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So of course Joan<br/>being Joan started </p>
+      <p begin="00:00:00.000" end="00:00:00.000">to reinvent herself.<br/>No, I ain't seeing me.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This year is no <br/>different.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan is looking at<br/>new projects, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-new ways to get out<br/>there.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">She's got 2 new books<br/>coming out.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">A new play that she's<br/>really worked very hard</p>
+      <p begin="00:00:00.000" end="00:00:00.000">for the past couple <br/>of years.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And Celebrity Apprentice,<br/>she's booked to be on the</p>
+      <p begin="00:00:00.000" end="00:00:00.000">next series of <br/>Celebrity Apprentice.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So she's hoping one of<br/>them hits and puts her</p>
+      <p begin="00:00:00.000" end="00:00:00.000">back on top.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I can't find me<br/>anywhere.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[horns blowing].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What we are planning is<br/>the cut-off date for</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the Tony Nominations<br/>is somewhere in April,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-so we have to open<br/>somewhere in April.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The next few months<br/>I am really focusing</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-just on my play.<br/>It means a great deal</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to me because it tells<br/>my life story.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So she calls me up <br/>and she goes</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Billy its Joan, listen<br/>I wrote a script a</p>
+      <p begin="00:00:00.000" end="00:00:00.000">couple of years ago,<br/>it's in the drawer.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I actually saw a reading <br/>of it a year earlier </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and I enjoyed it. <br/>So I said I think</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you should do it.<br/>Hi Joanie.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hi Billy boy.<br/>[kissing].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[background conversations]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Schmidtie, how you doing?<br/>Schmidt Schmidt, Schmidt</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The name of the show is<br/>Joan Rivers - </p>
+      <p begin="00:00:00.000" end="00:00:00.000">A Work in Progress by<br/>A Life in Progress.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Episodes from her life.<br/>How she got to where she</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is now. We're going to<br/>take this to the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Edmonds Festival, and<br/>then we're going to do</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it in London's Glittering<br/>West End. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">The ultimate goal, I think<br/>Joan wants to play it</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in her home town. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I have very few hairs left<br/>on my head and each one has</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a name, like last week<br/>we Shiva for Bernice.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">We buried Bernice.<br/>We cremated Bernice.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah cremated Bernice.<br/>I hope that the play</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is a huge success. <br/>I think the play will</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-remind them I am an<br/>actress, I'm a writer.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And if we get great<br/>reviews, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it will open up a million other <br/>things.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">One of my earliest<br/>memories must have been</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-top 6 years old, my <br/>mother took me to see</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Paul Ropes in Longfellow and<br/>I remember smelling the smells</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-of the theater and I<br/>thought, this is where</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I belong. <br/>I was in every school</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-play. I was in <br/>everything that you could</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-do in college. I was never a<br/>discussion in my own head</p>
+      <p begin="00:00:00.000" end="00:00:00.000">of where I was going.<br/>I was always acting.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I was always going to <br/>be an actress.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You were straight acting<br/>or comedy, or --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">No, no comedy never.<br/>I just knew that I </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-could work the comedian<br/>at night and make money to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-make the rounds as an<br/>actress. And that's the</p>
+      <p begin="00:00:00.000" end="00:00:00.000">only reason I went <br/>into comedy.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Sometimes I sit at <br/>home and I think to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-myself, Joan, yes <br/>your're a diva, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you're a diva. <br/>Penthouse, limos,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-furs, woof, woof.<br/>But a diva can get</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-lonely. And I say this<br/>to my staff. I say, staff</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughter].<br/>I don't learn their</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-names like you people<br/>they come, they go.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Sometimes I say to them<br/>staff, I'm lonely.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Who's going to fuck<br/>me tonight?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughter].<br/>Yes, yes, yes,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-this is delicious, huh?<br/>This is Kevin who runs</p>
+      <p begin="00:00:00.000" end="00:00:00.000">my house also, without<br/>asking me anything.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Thank God. That is<br/>Debbie, his wife,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-over there who is really<br/>the brains behind Kevin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-just thought you should<br/>know. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's bacon, you idiot.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This is my apartment and it's<br/>very grand. This is how</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Marie Antoinette would <br/>have lived if she had </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-had money.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You try to explain to <br/>people before you go to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-nobody lives like this.<br/>Maybe the Queen of England.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-but besides that, nobody<br/>lives like this.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I live very very very <br/>well. That's to start</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-with. I enjoy my<br/>creature comforts and</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I know I have to work for<br/>it. I could stop and live</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-carefully, but that's <br/>ridiculous, I don't want</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to live carefully. So I<br/>would rather work and live</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the way I live at one<br/>whole time.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">When I hear the numbers<br/>from her accountant, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you know behind our client's<br/>back everyone is whispering</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-so they called and said<br/>Billy, you got a pull </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-another rabbit out of the<br/>hat. How many rabbits would</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you like out of the hat?<br/>I don't have that many more</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-rabbits in my hat. <br/>When I first hit on </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-The Carson Show, years<br/>ago, my manager was a man</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-named Jack Rollins and he<br/>said you're going to be</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-an industry. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">When people hit, they <br/>become industries and</p>
+      <p begin="00:00:00.000" end="00:00:00.000">that's really it, I'm a<br/>small industry.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Checks for you to sign.<br/>Oh good, okay.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I have an agent, I have <br/>a manager, I have a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-business manager, <br/>a PR lady, 2 assistants,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">and a lawyer. <br/>Don't forget the lawyers. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">There are then,<br/>relatives that I'm</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-totally supporting.<br/>Certain friends, most</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-people that work with me<br/>if they have children</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I send the children to <br/>private schools.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It goes on, on, on, on<br/>and on.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm dancing as fast as<br/>I can. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Are you on speaker?<br/>I am.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So where do we start?<br/>Joan they want you for</p>
+      <p begin="00:00:00.000" end="00:00:00.000">125,000 dollars for 3 days, <br/>where you can </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-tie it in and sell your<br/>jewelry. Should I sign it?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yes I'd love to, because<br/>I'm very short on money.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Trust me, we need it.<br/>Okay. Okay. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">How about bump up the <br/>offer and you'll do your</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-comedy. <br/>Yeah, bump up the offer</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and they get Joan <br/>on stage.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Bump up the offer some<br/>more and they get Joan </p>
+      <p begin="00:00:00.000" end="00:00:00.000">doing survival lecture and<br/>on stage. Bump up the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-offer some more and they also<br/>get the red carpet lecture.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The survival lecture. And<br/>don't forget just the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">125 grand worth of charm.<br/>[laughs]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[bird singing].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You know the dates we are <br/>hosting QVC, right Billy?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Pretty much. Yeah.<br/>Let me ask you last </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-thing. Do you think it's<br/>in bad taste to say that</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Obama's wife, who I think is<br/>so shiek, Michelle, that she</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is, remember the old days<br/>the Kennedy Era there was</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the Jackie O? <br/>Well in the Obama Era</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it's going to be Blackie O.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh no. Okay just thought<br/>it was a great joke.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">These are all my jokes.<br/>These are jokes over the</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-last 30 years.<br/>Every time I write a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-joke, I try to remember to<br/>put it on a card. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Why should a woman cook?<br/>So her husband can say</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-my wife makes a delicious<br/>cake to some hooker.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].<br/>And you wonder why I'm still</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-working at this age.<br/>People think it comes so</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-easily, they have no idea<br/>what you're doing is a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-terrifically difficult thing<br/>to do and I prepare like a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-crazy lady. <br/>I mean here I am, everything</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is just everywhere you <br/>look, there are jokes.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-jokes to be filed, jokes<br/>to be written, jokes that</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I thought of something.<br/>I mean my life is just</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-jokes. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Vagina farts are so loud, my <br/>gynecologist wears ear plugs.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Are gay men proud of their<br/>excessive body hair, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-like Madonna's daughter.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Amazing race, Mel Gibson <br/>chasing Jews into </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the showers.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">As some of you can tell now,<br/>I'm 7 1/2 months pregnant.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and you want to know the<br/>truth?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">At night when I'm undressed<br/>and my husband looks at me </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and mentally dresses me.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">When I started comedy I was<br/>very wild for the time,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-but different times.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The last line of my original<br/>act was "This business it's</p>
+      <p begin="00:00:00.000" end="00:00:00.000">all about casting characters.<br/>So I just want you to know my</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-name is Joan Rivers and I<br/>put out.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And you would hear the <br/>audience, such a sweet</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-little silly line from a <br/>girl who is 28 years old</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you know,dressed up trying<br/>to look nice. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Half of them laughed, Jack<br/>Lemon saw me and walked out.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He said that's disgusting. <br/>So for my time I was very</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-shocking. I remember I had<br/>a joke about abortions when you</p>
+      <p begin="00:00:00.000" end="00:00:00.000">weren't supposed to even say<br/>the word on television.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I have a friend who just got<br/>married. The woman is </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-32 years old, she had 14<br/>appendectomies, if you know</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-what I'm telling you.<br/>You know,back and forth</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to Puerto Rico, she never <br/>stopped flying. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">She walked down the aisle in <br/>white. Every usher went --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">My manager took me out and said<br/>to me, Joaniah, you're going</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-into places you shouldn't <br/>go. It's not right.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Women shouldn't talk about that.<br/>I remember thinking you are </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-so wrong. <br/>This exactly what we should</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-be talking about.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">My daughter loves me very <br/>very much. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I was there when she gave<br/>birth, uck.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">In California they bring the<br/>parents in to see the birth.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Uck, uck, uck. <br/>My day having a child</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-was better. <br/>They knocked you out with</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the first pain. They woke<br/>you up in the hair dresser's</p>
+      <p begin="00:00:00.000" end="00:00:00.000">show, you knew nothing, it<br/>was so much better.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ms. Rivers you had a girl.<br/>Good, good, good. [laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Is she normal? Yeah. Good. <br/>Is she white? Yeah. Good.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughing and clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The marriage continues.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I went to see her live one time.<br/>The shit that came out of her</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-mouth was so shocking<br/>and so funny, she was</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-doing something, no other<br/>woman was doing.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You know, I wouldn't be doing<br/>this if it wasn't for Joan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Much in the way that she<br/>acknowledges Phyllis Diller</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-paved the way for her. And <br/>before her was Moms Mabley,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I get it, there is a handful<br/>of women in modern history</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that have done this. <br/>Just a handful. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I was so angry about --<br/>Thank you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Thank you, thank you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">While we're on the subject<br/>let me talk to you about </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-sex over 60, after 60, the body<br/>drops. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">My body, yeah, and it's not<br/>just the breasts.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Vaginas drop. <br/>Six years ago I woke up</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-one morning and I said,<br/>why am I wearing a</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-bunny slipper <br/>and why is it gray.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Brilliant.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I went to the dermatologist<br/>so please excuse the way <br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I look.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I shot filled with everything.<br/>I said I needed ______.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Where did you go?<br/>She just went crazy.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Lost her way.<br/>And she said here </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-go to rehearsal.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay, thank you Pat.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">My mother told me <br/>looks don't count.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">She told me this a lot.<br/>Saturday nights, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in our kitchen <br/>while I was growing up.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">My mother used to look at<br/>me and say [laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Looks don't count. Now get<br/>out of my sight, you big lump.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].<br/>And my mother lied because --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's very scary when you see<br/>yourself totally without any</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-makeup, it's really --<br/>it gives me the willies.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Who is that person?<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">So I get up in the morning<br/>and the first thing I do is</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is I get into makeup.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Now I was never the natural<br/>beauty.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">No man has ever ever told me<br/>I'm beautiful.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">They say to me you look great,<br/>you look this, your terrific.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But no man has ever said,<br/>on my God you're so beautiful.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah. Bring them right in.<br/>Yeah. Good. Yeah, good.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay, let's do tools. <br/>Yeah, that's great.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah, good.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">People want to look at <br/>pretty women.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Nobody wants an old<br/>woman.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So I started with the <br/>plastic surgery,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-little bits and tweaks.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And then I got very angry,<br/>because nobody </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-would admit it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I really became a big<br/>advocate of it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And then I became the poster<br/>girl for it. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And then I became the <br/>joke of it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah, that's it.<br/>Good.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So how did you come up with<br/>the title?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mel LaRue told that to me, <br/>Yeah. At a party.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah. Do you remember having<br/>a discussion before we went </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-on the air today?<br/>right.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I said if you don't feel good<br/>about yourself on the inside</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-plastic surgery will not help<br/>at all. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And in fact, can make things<br/>worse. <br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">Because then you think people<br/>aren't really appreciating </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the real me.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well who is the real me?<br/>Tell me --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You are the real me.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">We want to be loved for our sense<br/>of humor, for our soul, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">for our sweetness, <br/>for our vulnerability,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">for our intelligence. Yes?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I just want to be loved.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music.]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I met Edgar. <br/>I had been on the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Carson Show. <br/>Edgar called and he said</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to Johnnie, who do you know<br/>who is a good writer?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And Carson said there was a<br/>girl writer on last week.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You should look her up.<br/>I met him, I married him</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-four years later.<br/>Was I madly in love </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-with him? No.<br/>Was it a good marriage?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yes.<br/>I thought marriage was </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-going to be hugging and<br/>kissing like in the movies.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You walk hand in hand, over<br/>the hill into the sunset.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You know what's on the other<br/>side of that hill?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Filthy dishes, that's what.<br/>And socks. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">How the last show last night?<br/>Very good as a matter of fact.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Good.<br/>Without Edgar I could never</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-have done it.<br/>We worked together.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">We worked on projects together<br/>so it was a family business.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Any woman that has a child <br/>and doesn't yell</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is a fool, don;t you think?<br/>Didn't you yell?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Why not? No.<br/>It's your one chance to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-be noticed. <br/>When I was having my</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-kid, you should<br/>[screams}.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughter].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And that was just during<br/>conception.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I was dying to be a mother.<br/>I couldn't wait to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a mother. <br/>And I really worked very </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-hard to be there for her.<br/>Of course, I'm sure she</p>
+      <p begin="00:00:00.000" end="00:00:00.000">felt very deserted as a <br/>child, but I was there as</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-much as I could be and<br/>I made sure we were a</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-family unit and she it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What was it like living with <br/>a legend?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Like yeah, it was hilarious<br/>when I was getting grounded.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Which is why I always say <br/>to people, you don't </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-realize how in these very<br/>extraordinary abnormal</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-circumstances what a<br/>normal world my parents</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-created. <br/>And that's a testiment</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to them.<br/>It's funny because she</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-refers to her career as<br/>"THE" career, and it dawned</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-on me one day, I had<br/>a sibling. We all were</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-on "The Career" as if <br/>it was a totally separate </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-entity in the room.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Melissa, what was your mom's<br/>reaction when you told her</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you wanted to go into<br/>show business?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well what was the saying,<br/>supportive, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-yet not encouraging. <br/>Yeah, and still am.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Which is a little late in<br/>the game to be supportive</p>
+      <p begin="00:00:00.000" end="00:00:00.000">and not encouraging.<br/>It's such a hard </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-business, what I tried<br/>to do was protect her.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This is the one business<br/>in the world, it is total</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-rejection. I'm 75 and I'm<br/>still rejected.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This business you are mud<br/>your whole life.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[applause].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Josie Josie, you there?<br/>Yes. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Have you heard from Billy?<br/>I haven't I have gotten </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-no calls back.<br/>All right, can you</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-send him an email? <br/>I really want him there </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to see the play before we<br/>go to Edinborough.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I mean there's Edinborough,<br/>there's London, my God.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He's gotta see the play.<br/>Okay, I'll email him as well.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So that's my manager Billy, <br/>who I adore, disappears</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-all the time.<br/>3 years ago it was very</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-very bad and I almost<br/>fired him then and then</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-your it's God, it's you <br/>know.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I've known Billy, it's <br/>gotta be about 35 years.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I could open the drawer <br/>here somewhere and you'll</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-find pictures of Billy.<br/>Here look, young Billy.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Young Joan and Edgar in <br/>the background. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Billy is part of my life and<br/>I want to see him now, because</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-we are doing the play and I<br/>need another pair of eyes,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I need another brain. I need<br/>his input desperately.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Welcome, welcome, welcome.<br/>To what will be Joan River's</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-A Work in Progress, by<br/>a life in progress.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay, here we go.<br/>I am thrilled to be</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-here. I just don't want<br/>this to be about me, me,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-me, me me. Hey Joan.<br/>Not yet honey.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Again, you 2 back, <br/>go back.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Anyhow, line, now where <br/>was I?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughing and clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Bill Cosby, who is a very <br/>good friend of mine was on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the Tonight Show and the<br/>comic that was on with Bill</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-absolutely bombed and Bill, God<br/>bless him went over to the</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-director and he said listen<br/>why don't you use Joan Rivers</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-she can't be any worse<br/>than the guy that was on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-tonight.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And that's how they put<br/>me on the next night.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And it was one of those<br/>nights. Do you know like</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-when everything goes right?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">When the stars are in <br/>alignment and the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-audience we just <br/>connected.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And Carson at the end of<br/>the act, after 9 years</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-of working bungalow<br/>colonies,and </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-strips joints and working<br/>in Greenwich Village </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in clubs where you pass<br/>the hat and the hat </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-wouldn't come back. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">On the air, Carson said <br/>to me you're going to be</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a star. <br/>I looked behind me,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-who the hell is he<br/>talking to.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And it was absolutely <br/>magical between </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the 2 of us, absolutely<br/>magical.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Don't you think men <br/>really like intelligence</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-more when it comes<br/>right down to it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ahh please, are we <br/>going to go back </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to that? Are you kidding?<br/>Sure, it's a brain, you </p>
+      <p begin="00:00:00.000" end="00:00:00.000">know. <br/>No man has ever </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-put his hand up a<br/>woman's dress</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-looking for library<br/>card.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Everyone watched the <br/>Carson Show.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And when Carson said to<br/>me you're going to be a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-star, my life changed.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And as they say at Cape<br/>Canaveral, she took off</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-like a rocket.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The Tonight Show was a <br/>pinnacle for Joan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And the more guest <br/>appearances she got,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-either guesting with <br/>Johnny or guest hosting</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-for Johnny, the bigger<br/>and stronger the career</p>
+      <p begin="00:00:00.000" end="00:00:00.000">was going and building up<br/>and up. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And then eventually they <br/>made her the permanent </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-guest host of <br/>The Tonight Show</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-which was a big thing.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">After 20 years on The <br/>Tonight Show, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Fox came and offered me<br/>my own show </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and Edgar would be<br/>the producer. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Of course we said yes.<br/>The first person I called</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-was Johnny Carson.<br/>He slammed the phone down.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I called him again, slammed it down<br/>again and never spoke to me </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-again. Ever.<br/>I think he was </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-furious, I think he felt<br/>betrayed. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I was now a competitor. <br/>He literally had me</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-black listed and to this<br/>day I have not been on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-NBC late night, ever.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">As she drove off the NBC<br/>lot, she lost her confidence.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh my God, what have I done.<br/>It was such a bad period.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The Fox show even before we<br/>went on the air, was just </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a nightmare. Edgar did not<br/>like Ruben Murdock </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and Barry Gillette and from<br/>the day we walked in.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">There were fights. <br/>About everything.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">About whichever Coke<br/>machine or a Pepsi </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-machine, M&amp;Ms or Hershey<br/>Kisses. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Finally they called me in<br/>on a Thursday night and </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-they said you've got to<br/>fire Edgar. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I couldn't do it. <br/>I couldn't ahhh, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I couldn't do it. <br/>I couldn't do it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The woman who asked, "Can<br/>we talk?" Joan Rivers is</p>
+      <p begin="00:00:00.000" end="00:00:00.000">apparently through as <br/>permanent host of her</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-late night talk show.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">From there, Edgar imploded,<br/>absolutely imploded.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He didn't have Joan's <br/>strength, he didn't </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-have it. <br/>I had a call from</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Gavin DeBecker, who is the<br/>security company. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">He had terrible news. Yes.<br/>Edgar killed himself in<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Philadelphia. <br/>He left us high and dry.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Everything went to <br/>smithereens. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And he left me with no <br/>career and a lot of debts.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Because he wasn't a good<br/>businessman, and ahhh</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a lot of tough times. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I walked past Edgar's <br/>pictures, I feel such</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-sadness, such darkness.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">First off, Mother I'm very<br/>very angry at you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Since Daddy died, you have <br/>not spent one minute at home.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Melissa and I, we started <br/>immediately going into </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-therapy, separately and<br/>together.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And then we did something<br/>which sounds so sick.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">We did a movie about<br/>Edgar's suicide where</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-we played ourselves.<br/>Are you angry about </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-something?<br/>I'm angry about a lot of<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-things, okay?<br/>Okay.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It sounds so stupid and<br/>corny, but I think by</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-walking through it again<br/>it absolutely mended us.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Totally mended the <br/>relationship.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Don't ask, I have to go<br/>to another doctor to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-figure that one out.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Thank you, thank you. <br/>Have some fun. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Thank you. Thanks again.<br/>[laughing].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan. Get off your knees.<br/>Oh Joan, I worship you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Get off your knees. <br/>Joan, Joan, Oh My God.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan Rivers everybody.<br/>[clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Billy sent me this for<br/>Opening Night.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Wait, wait.<br/>Polly wants a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-fucking cracker. <br/>Give Polly a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-fucking cracker now.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Old lady on the cover.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Young people, young festival,<br/>young ideas, old lady.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Get ready. Hottest ticket, isn't that <br/>great? </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And the front page.<br/>[cheering and clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The play went beyond my<br/>wildest dreams </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in Edinborough. <br/>We had great reviews,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the audience adored it.<br/>But who knows what's going</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to happen in London.<br/>It can turn on a dime.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[sirens].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Where are we? <br/>The signage is going up.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Look your canopy <br/>is going up.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh isn't that sweet.<br/>All right.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This is where we'll make<br/>the decision to whether</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-or not I'm going to <br/>try to bring it to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-New York. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh if the reviews are bad,<br/>we're dead. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">We finished it and it was<br/>wonderful, but it will</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-not go to New York.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan this is _________<br/>Design. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I got a soft pink, I don't care<br/>what it says.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan didn't want to open the<br/>play in New York or LA<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-because even if it's<br/>great, they will not </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-give her the Kudos<br/>that it's great.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Because of who she is.<br/>There is nothing she</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-can do that will be<br/>industry embraced.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">How much does it hold?<br/>Ahhh 393. So it's 400.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah, 400.<br/>I've never in the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-critics drawing. <br/>I've always been</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-considered a comic and a<br/>Bushboy Comic </p>
+      <p begin="00:00:00.000" end="00:00:00.000">or a Vegas Comic.<br/>There is always an</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-adjective before my name,<br/>and it's never a nice</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-adjective. <br/>I go back to Fun City </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-which was my first play<br/>in 1973 and they were very</p>
+      <p begin="00:00:00.000" end="00:00:00.000">harsh to it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It was horrible and I will <br/>not go throug that again.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I moved us out of <br/>New York.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I said when that play closed<br/>we moved right after Fun City.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I just think they are not <br/>going to like us. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And I didn't spend all this<br/>time and all this energy to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">have us close and it breaks<br/>my heart to see it die here.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It won't die here. <br/>That's only that's </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-killing me.<br/>I was thinking.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You're not going to lose it.<br/>We won't let this go.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And I know it's your work<br/>of love.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I really think it's good.<br/>Okay, onwards and upwards.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hello press, be kind.<br/>Thank you. Hello.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Very nervous, I don't want<br/>to go 3 nights.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I think you should celebrate<br/>second nights, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-when you're a success.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I think anyone who celebrates<br/>opening nights is a fool</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-because you're not, opening<br/>night is your walk to the</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-execution. So I will be<br/>very very happy tomorrow</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-if all goes well and very smug.<br/>I will throw some diva scence</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-when I know I have <br/>the power.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Right now I don't know if<br/>I have the power.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Is that enough glitter?<br/>Yes, oh God yes.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Plenty. Plenty of glitter.<br/>[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh shut that stupid bitch up.<br/>[applause and shouting].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">At the end of the show <br/>Johnny Carson, on the air</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-turned to me and said,<br/>you're going to be a star.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Vaginas drop, I did not<br/>know this.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm 75 years old and I tell<br/>you I haven't peaked.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And is why I'm going to go<br/>out that door, the door after</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that, and the door after<br/>that and the door after</p>
+      <p begin="00:00:00.000" end="00:00:00.000">that and the door after that.<br/>And I invite all of you,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-come with me. Thank you.<br/>[applause and clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Whoa, okay. That was pretty<br/>extraordinary. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">All stood up, <br/>right at the end.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">In America, if it goes out<br/>in America, but you do </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-stand up all the time in<br/>shows whether, you know,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-like you're supposed to or<br/>something.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Here they don't. <br/>Except for this show.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What is it? Not a triumph<br/>until we read it </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in the papers.<br/>Nice triumph. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">We love you so much.<br/>Thank you very much.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Sorry. You're not bothering<br/>me. All the love that we</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-have here for you.<br/>We'll feel it tomorrow</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-after the reviews.<br/>Such a nice audience.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Thank you. Now let me ask<br/>you, when will we find out</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-about the reviews?<br/>Tomorrow, first thing</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I'm pretty sure they <br/>fantastic.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What does it say? <br/>Comedy, tragedy,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-surgery and Rivers isn't<br/>going quietly.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The energy dips slightly<br/>towards the end, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that is understandable<br/>given the star's age.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">They only gave me 3 <br/>stars out of 5. Okay.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Let's square.<br/>All this play acting</p>
+      <p begin="00:00:00.000" end="00:00:00.000">is an excuse for a night<br/>of me, me, Joan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">She is not short on <br/>self-pity and a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-passage about her <br/>relationship with her</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-daughter is pretty low<br/>grade smultz, mind you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You know.<br/>So wrong.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Exactly, it ends in a joke<br/>you ass. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Exactly, that's why it was<br/>just not getting it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Longer exposure to her<br/>even in a small theater </p>
+      <p begin="00:00:00.000" end="00:00:00.000">betrays a husky weakness of<br/>voice that some may find</p>
+      <p begin="00:00:00.000" end="00:00:00.000">monotonous. <br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">But I'm thinking I don't <br/>want to take this to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">New York while we're sitting<br/>in a taxi in New York in </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-6 months, and hear this<br/>and see this again.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yeah. <br/>I'm not a ______</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I don't know.<br/>[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I am not going to walk in<br/>to New York City and </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-be hurt the way Fun City<br/>hurt me. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">My acting is my one <br/>scared thing in my life</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and I will not have anyone<br/>hurt me with that.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You can say I'm not a good<br/>comedian, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-does't bother me.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You say you didn't like me<br/>as an actress, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it's killing me. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And I don't want that in<br/>New York, but I know I'm</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-an actress.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's all about acting, the <br/>career is an actress'</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-career. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And I play a comedian. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">So it's over, it's over. <br/>No one will ever take me</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-seriously as an actress.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[footsteps].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Don't be down-hearted. <br/>Are you down-hearted?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm not down -- I'm just --<br/>it's not what I thought was</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-going to happen. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I thought what was going to <br/>happen was we were going to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-sail in from Edinborough<br/>everyone was going to love it</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and we were going to pick up<br/>a producer and then move it </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-forward and change it.<br/>But not like and of course</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-there is no Billy around. <br/>Billy is never around for </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-trouble.<br/>Yeah.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This isn't trouble, but <br/>you know.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Any how. <br/>[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The play if over and it hurts<br/>very much, but I gotta take</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a deep breath and start<br/>again.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[airplane].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It wouldn't kill you to get<br/>me another commercial.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Just remember when they come in<br/>and ask for a man, I can be</p>
+      <p begin="00:00:00.000" end="00:00:00.000">very butch.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So she will do anything and<br/>really get into it, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-like she loves it.<br/>Okay.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay, if nobody has anything<br/>else, I'm very depressed.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Bye Steve. Bye.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I don't want to retire, <br/>I don't want to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-go sit in the sun, <br/>I don't want to learn</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to garden, <br/>I paint, who cares?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hello Emily Hoe. <br/>A pleasure to meet you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Explain to us what you are<br/>offering.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yes, Platinum Rye is hired <br/>by the ad agencies to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-plug in celebrities to <br/>different endorsement</p>
+      <p begin="00:00:00.000" end="00:00:00.000">possibilities. Yes.<br/>And they want to have</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a meeting with Joan and<br/>where can we put her in.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I will do anything. <br/>I will knock my teeth out,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and do dentasure or <br/>whatever it is.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I mean, she's done -<br/>I will wear a diaper,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I don't give a shit.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joan has a _______<span tts:textDecoration="underline"> a<br/></span>_______ focus to succeed. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">And works at it every day.<br/>I remember once meeting with</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Richard Pryor. And I sat<br/>with him, spent an hour with</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I said, okay Richard what<br/>we're going to do this,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-we're going to do this,<br/>we;re going to do that,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and we're going to plan <br/>on this and we're going to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-do that and he looked<br/>at me and he says, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Larry that's all right,<br/>but what the fuck do </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-we do Monday.<br/>That's where Joan is.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What the fuck do we <br/>do Monday.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">What is this?<br/>That's my thing </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I've been reading.<br/>I am holding</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-____ of all the people for<br/>the celebrity apprentice </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that we pulled off of <br/>the Internet. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Randy R-a-n-d-e. <br/>Turn ons taking in a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-good movie while spending<br/>time with loved ones</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and my beautiful puppy,<br/>Mercedes. Awwww.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Turn offs negative people who<br/>are unkind and have no</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-respect for others.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs]. <br/>Well she's going to</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-hate me.<br/>Yeah, exactly.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm doing Celebrity<br/>Apprentice because </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-it's face time on NBC and<br/>NBC has not let me be on NBC</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-since the Carson show.<br/>I didn't want her to do it</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I thought it was F Class<br/>people, but it is face time,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-prime time network.<br/>I think they would be</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-stupid to put me off the <br/>first 4 shows, so I may be</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-very free the second half<br/>of October.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I think they are not going<br/>to throw me off in the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-beginning I'm the only one<br/>that kinda that has a name,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-even though Donald says<br/>these international </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-known entrepreneurial <br/>celebrities.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">They had Paul Newman. <br/>You know Billy I'm going </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to say that in the Press<br/>Release that I was told</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Paul Newman was going to <br/>be here. [laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm very excited about <br/>Celebrity Apprentice </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-because Melissa, my daughter<br/>is going to be on the show</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-with me. <br/>Which means we will</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-have a lot of time to<br/>spend together.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Have you had your hair done yet?<br/>No.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Jesus fucking Christ <br/>Melissa, why?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's fine. <br/>We've got 40 minutes,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that's more than enough.<br/>That's more than enough.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">No it's not.<br/>For my hair it is.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Melissa red-eyed in from LA<br/>this morning and we started</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-taping Celebrity Apprentice <br/>tonight. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">You've got to stop smoking <br/>immediately.I went to a pulmonary guy </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-today. Am I boring you?<br/>No, no, i'm listening.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm down to like 2 for<br/>a day.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm telling you --<br/>I know, be supporive</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that I'm down to that.<br/>He said women reaction</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-differently to cigarettes<br/>than men</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm down to like <br/>2 or 3 a day.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He said more woman are dying<br/>of lung cancer than</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-breast cancer. <br/>And nobody's discussing</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">So that's very interesting<br/>I'm down to about 2 or 3 </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a day. So --<br/>Yeah, I'm just telling</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you, you're really loading<br/>the gun.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm just saying, I know.<br/>I'm just saying I know.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm just saying, be <br/>supportive, I've gotten</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-down to that.<br/>He scared the be jesus<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-out of me.<br/>Great pressure is</p>
+      <p begin="00:00:00.000" end="00:00:00.000">what if she gets voted off<br/>ahead of me?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's going to be traumatic.<br/>I would rather I get voted</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-off ahead of her.<br/>I know, that I will always</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-hold back, I know that and<br/>so ahhh cuz I don't want</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-ever to come out brighter<br/>than Melissa and smarter </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-than Melissa.<br/>I just don't --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I don't compete with her<br/>at that level.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I believe that _______<br/>and even if I did win</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-she'd say she held back, but<br/>I don't think she really could.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay, see ya later. <br/>In the business you've </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-have to put yourself<br/>first, you have to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-protect yourself. <br/>And my mother will tell</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you she only wants me to<br/>win and then she'll do </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-something without even<br/>realizing it that is very</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-destructive.<br/>And I think it's a very </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-tough dynamic, because I<br/>think it's completely</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-subconscious with her.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Open that.<br/>It's a very nice</p>
+      <p begin="00:00:00.000" end="00:00:00.000">goodie bag.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I feel very out of place, <br/>I'm the oldest by far.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">They were all talking and chatting<br/>and for a long time I stood by</p>
+      <p begin="00:00:00.000" end="00:00:00.000">myself. <br/>I feel very isolated.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well I see you also bring a<br/>lot of that on yourself. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">You don't make, like tonight<br/>you don't make any effort</p>
+      <p begin="00:00:00.000" end="00:00:00.000">to be like welcoming. <br/>I stood there.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well no I'm saying you were on<br/>your Blackberry so fast, and I</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tried to introduce you to people<br/>and you were already Oh hi,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">because you get so shy and that's<br/>people don't know about you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hell I wouldn't walk over to<br/>you. Well they didn't.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But you set it up for that,<br/>you don't realize it, that</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you do that sort of thing.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Stand ups are innately <br/>insecure. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">If you would stand on a stage<br/>by themselves and say laugh</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-laugh at me, laugh with me<br/>I don't care and I think that</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-is sort of the nature<br/>of the beast</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Overall it's just my perception<br/>of growing up comedians</p>
+      <p begin="00:00:00.000" end="00:00:00.000">they are all very damaged,<br/>and they need that</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-reassurance, it's all a<br/>cover.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music.]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's been a blood bath.<br/>They don't play fair,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-they cheat.<br/>So Melissa is filed </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-on Tuesday and I now Joan<br/>was very upset.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">She is a snake.<br/>Annie Duke was on the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-team with Melissa and <br/>absolutely conspired to get </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Melissa fired. <br/>Annie Douch, that fucking</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-moron. <br/>Would you know grab onto<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-my log. Yup.<br/>And onto my trailer,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Anne Douch, that moron she<br/>should kiss my ass. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">She should kiss my Jewish ass.<br/>But not with those nonkosher</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-lips.<br/>Not with those big, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-that's it.<br/>She should kiss my Jewish</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-ass, but not with those<br/>big pig lips.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's too rough?<br/>So tell me, you didn't</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-think it was going to <br/>get vicious? </p>
+      <p begin="00:00:00.000" end="00:00:00.000">No, I just thought it <br/>was at least going to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-be moderately fair.<br/>And my concern is how</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I will be portrayed. <br/>Because I'm more of a </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-of an image issue than<br/>you do. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">So that's a little<br/>unsettling.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It, you're going to look<br/>very angry, they already</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-said, when you left you<br/>really called them all</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-kinds of names. Um-hmmm.<br/>So that's there.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But you all --<br/>Why don't they cut it</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to show that I was telling<br/>the truth.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh they are not going to cut<br/>it to show that you were</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-telling the truth, because<br/>they don't care, they are </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-going to show that you left<br/>pissed off. -pissed off.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But you also came back and<br/>you also worked and </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you also -- <br/>that's all right.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">But I'm just saying --<br/>I mean it makes you more</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-interesting Melissa, <br/>frankly.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000"/>
+      <p begin="00:00:00.000" end="00:00:00.000">You have done really an amazing<br/>job. But Melissa, you're fired.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Whore, pit vipers. <br/>I want my and I want it<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">now. I'm not leaving<br/>without it.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It makes me very upset to <br/>see her that hurt.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It wasn't even her -- it was<br/>the frustration of the lies.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's such a cruel business.<br/>Sometimes I just want to say</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-why in God's name are you <br/>opening yourself up to </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-such punishment?<br/>Mine is not a choice. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mine is ahhh -- it's like<br/>people always say are</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you in the business?<br/>Ask a nun why she's a nun.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's my drive, at 4 in the<br/>morning. I have no choice.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And that's where I was from<br/>the time I could figure it out.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">No question where I was <br/>going, there was not drugs,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-no sex, there was no<br/>anything, nothing til I</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-got my job. <br/>That's where I was going.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Go away.<br/>[sirens].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">We're having it's going to be<br/>a long evening.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">We're doing 2 shows tonight.<br/>Joan Rivers, autograph?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Sure, oh my goodness yes,<br/>of course. I love you.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">Every Wednesday night when I'm<br/>in New York</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I work at some tiny little<br/>club where I can practice</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-my act. <br/>I just talk about anything</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and everything that <br/>annoys me. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Thank you. <br/>You don't get the </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-recognition you deserve.<br/>Damn right William.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Okay see, I have a fan.<br/>And William, the minute<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">-your not angry about things.<br/>The minute you're not upset</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-about things.<br/>What are you talking about?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh my grandson he's so cute.<br/>That's not my comedy.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm furious about <br/>everything.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Good things don't always<br/>happen to good people,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-and I'm very angry about it.<br/>But I didn't have the anger</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-wouldn't be a comedian.<br/>Angry fuels the comedy.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughter].<br/>I hate everybody.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I hate old people. <br/>I hate ugly children.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I hate fat people.<br/>I hated shyness. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I hate whiners.<br/>I hate dead people.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I even have the 3 wise men<br/>who I hate.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">I love anal sex, because<br/>you can do other things,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you know. <br/>it's like, you can iron,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-you can read a book.<br/>[laughing and clapping].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Get your emails on the <br/>Blackberry. {laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[music.].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well right now, we are getting<br/>a 17 foot table up the stairs.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">These two guys just walked it<br/>up 7 flights and right here.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Today is Thanksgiving, <br/>favorite time of the year.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Favorite time of the year.<br/>Lucy and Cooper come of course.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">And then I invite my friends,<br/>and many of them are strays,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-they are single woman or my<br/>neighbors from downstairs.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">It's sad. Why is that?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I don't know, sad that you <br/>seem to have fewer friends</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-in New York.<br/>And ahhh, I know when</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-something wonderful happens<br/>there maybe 3 people </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I'll call. <br/>Maybe 15 years ago there</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-would have been 6 people<br/>I call. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">So many people are dying,<br/>my God. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">They'd better eat fast<br/>tonight.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh it's cold. <br/>Every Thanksgiving</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-I bring meals from<br/>God's Love We Deliver</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-to people who absolutely <br/>too ill to go out.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This year I asked my <br/>grandson Cooper to come</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-with me. <br/>If can stop at an</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-electronic store, his<br/>PSP is broken.<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">And if you're very good I'll<br/>buy a new one for your birthday.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Well my friend had 3 of them<br/>and he gave me one.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">That's very nice.<br/>Well --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Is this the one he gave<br/>you? Yes.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Does he have a single<br/>grandfather?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Flip your hands.<br/>You have great hands Cooper..</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Why?<br/>[laughs]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">At God's Love we deliver.<br/>When I started out and I'm<br/></p>
+      <p begin="00:00:00.000" end="00:00:00.000">on the board, we would give<br/>AIDS patients that were going</p>
+      <p begin="00:00:00.000" end="00:00:00.000">we would give them food.<br/>And now AIDS is chronic</p>
+      <p begin="00:00:00.000" end="00:00:00.000">and I'm still delivering the fucking<br/>food, I'm so pissed.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Do you know what it's like?<br/>Thanksgiving morning, ding dong</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the guys opens the door,<br/>you again?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">[laughs}</p>
+      <p begin="00:00:00.000" end="00:00:00.000">This is the 3rd fucking<br/>Thanksgiving in a row,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-buddy. <br/>Mr. ______ leave it over there.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm on my way to the gym.<br/>The gym?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">You're going to die today<br/>AIDS or me, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm not sure which.<br/>[laughs].</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh look, she's got our<br/>awww. How nice --</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hi. I'm Joan Rivers. <br/>My I come in?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm Joan Rivers, this is my<br/>grandson Cooper.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Oh wow. Nice to see you.<br/>Joan Rivers, the Joan Rivers</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I pay the bills. <br/>You have entertained </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-me for years, Miss Rivers.<br/>I'm so glad.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I'm a photographer.<br/>And you can see there is</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on here. That's wonderful.<br/>Right there, I photographed</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-the same drugstore for <br/>20 years. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Every time they change the<br/>price of cigarettes. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">{laughs].<br/>How brilliant is that? </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Where was it shown, Life<br/>Magazine. I have taken over</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-a 1000 photos so, you<br/>might even know my work.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Look up flowbox.com.<br/>Thank you, thank you.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">I can't wait to get out of<br/>here and get home and</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-look you up.<br/>flow box baby.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">The name is Flo Box.<br/>What happened that caused</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-your eye sight to fail?<br/>I believe it's connected</p>
+    </div>
+  </body>
+
+</tt>

@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00.000" end="00:00:00.000">Yleisin tapa luopua vallastaan on&lt;br /&gt;kuvitella, ettei</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sit&#228; koskaan ollutkaan.&lt;br /&gt;-Alice Walker</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Amerikkalaiset teinit kuluttavat</p>
+      <p begin="00:00:00.000" end="00:00:00.000">31 tuntia viikossa televisiota katsellen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">17 tuntia viikossa musiikkia kuunnellen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">3 tuntia viikossa elokuvia katsellen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">4 tuntia viikossa lehti&#228; lukien</p>
+      <p begin="00:00:00.000" end="00:00:00.000">10 tuntia viikossa netiss&#228; surffaten</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se tekee yhteens&#228; 10 tuntia ja 45 minuuttia&lt;br /&gt; median kulutusta yhdess&#228; p&#228;iv&#228;ss&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;Media on sek&#228; viesti, &lt;br /&gt;ett&#228; viestij&#228;.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja sen voima vain kasvaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;Ihmiset oppivat mediasta&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuin mist&#228; tahansa muusta yksitt&#228;isest&#228;&lt;br /&gt;tietol&#228;hteest&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Joten, jos haluamme ymm&#228;rt&#228;&#228;&lt;br /&gt;mit&#228; on meneill&#228;&#228;n&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">2000-luvun yhteiskunnassamme,&lt;br /&gt;t&#228;ytyy meid&#228;n ymm&#228;rt&#228;&#228; mediaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;Jos mietimme &lt;br /&gt;mediaa ja teknologiaa,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">huomaamme niiden tuottavan sis&#228;lt&#246;&#228; &lt;br /&gt;joka muovaa yhteiskuntaamme.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Ne muovaavat poltiikkaa..&lt;br /&gt;Ne muovaavat ilmaisuamme.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Huomattavimmin ne muokkaavat&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;lasten aivoja, el&#228;m&#228;&#228; &lt;br /&gt;ja tunteita.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Jos minulta kysyt&#228;&#228;n, on olemassa&lt;br /&gt;noin miljardi ihmist&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jotka k&#228;ytt&#228;v&#228;t interneti&#228;&lt;br /&gt;joka ikinen p&#228;iv&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Vastaavanlaisia lukuja ei ole esiintynyt&lt;br /&gt;mediassa koskaan aiemmin.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;Nykylapset el&#228;v&#228;t &lt;br /&gt;&lt;/i&gt;Facebookin&lt;i&gt; ja puhelinten keskell&#228;.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Mediamuotojen laajuus tarkoittaa,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ett&#228; nuo vaikutteet&lt;br /&gt;heijastuvat lapseesi 24/7&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja sellaiset rajoitukset joita&lt;br /&gt;meille asetettiin samassa i&#228;ss&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">eiv&#228;t ole en&#228;&#228; olemassa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Tyt&#246;t vastaanottavat&lt;br /&gt;viestin eritt&#228;in varhaisessa i&#228;ss&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ett&#228; ulkon&#228;k&#246;&lt;br /&gt;on heid&#228;n t&#228;rkein ominaisuutensa.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ett&#228; heid&#228;n ihmisarvonsa&lt;br /&gt;on riippuvainen siit&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Ja pojat ymm&#228;rt&#228;v&#228;t, ett&#228;&lt;br /&gt;ulkon&#228;k&#246; on tyt&#246;ss&#228; t&#228;rkeint&#228;.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Saamme vaikutteita mainoksista.&lt;br /&gt;Saamme vaikutteita elokuvista.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Saamme vaikutteita televisiosta, &lt;br /&gt;videopeleist&#228;, kaikkialta ymp&#228;rilt&#228;mme&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Naisen teoilla tai saavutuksilla&lt;br /&gt;ei ole mit&#228;&#228;n merkityst&#228;.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Heid&#228;n arvonsa riippuu t&#228;ysin&lt;br /&gt;heid&#228;n ulkon&#228;&#246;st&#228;&#228;n.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &#196;lykk&#228;it&#228; naisiakaan&lt;br /&gt;ei arvosteta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kaikkia kiinnostaa ulkon&#228;k&#246;, &lt;br /&gt;eiv&#228;tk&#228; aivot.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Kaikki n&#228;kiv&#228;t kuuluisan&lt;br /&gt;kuvan viime viikonlopulta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Hillarysta, joka n&#228;ytti uupuneelta,&lt;br /&gt;ja ainakin 92-vuotiaalta."</p>
+      <p begin="00:00:00.000" end="00:00:00.000"> - "Rintaimplantit --&lt;br /&gt;otitko ne vai et?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Uutinen sinusta on ymp&#228;ri netti&#228; &lt;br /&gt;ja valtavirtamediaa."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Uskoakseni, jos kysyisit&lt;br /&gt;Nancy Pelosisilta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">t&#228;m&#228; ei my&#246;nt&#228;isi plastiikkakirurgiaa."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;Se, ett&#228; media on&lt;br /&gt;niin rajoittava ja halventava&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;maamme vahvimpia &lt;br /&gt;naisia kohtaan,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">niin mit&#228; se kertoo &lt;br /&gt;median kyvyist&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ottaa kuka tahansa amerikkalainen &lt;br /&gt;nainen vakavasti?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Media kohtelee &lt;br /&gt;naisia surkeasti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja se on kamalaa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">enk&#228; tied&#228; miten selvi&#228;mme siit&#228;.&lt;br /&gt;En tied&#228; miten kohoamme paremmiksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; T&#228;risen, t&#228;risen &#9834; &lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Ne sy&#246;v&#228;t minut el&#228;v&#228;lt&#228;&#9834; &lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Jos haparoin, jos haparoin &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Ne sy&#246;v&#228;t minut el&#228;v&#228;lt&#228;&#9834; &lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Kuuletko syd&#228;meni &lt;br /&gt;hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Auttakaa olen elossa kuulen syd&#228;meni&lt;br /&gt;hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; Vaikeaa olla pehme&#228;,&lt;br /&gt;&lt;i&gt;hankalaa olla hell&#228;&#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Tule, mittaa pulssini,&lt;br /&gt;tahti on karkuri junassa &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Auttakaa olen elossa kuulen syd&#228;meni&lt;br /&gt;hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;&#9834; Auttakaa olen elossa kuulen syd&#228;meni&lt;br /&gt;hakkaavan kuin vasaran &#9834;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Neiti edustaja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;El&#228;m&#228;ss&#228; on &lt;br /&gt;sellaisia hetki&#228; &lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;joina alkaa n&#228;hd&#228; asioita selke&#228;mmin.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Kun sain tiet&#228;&#228; olevani raskaana&lt;br /&gt;el&#228;m&#228;ni muuttui selke&#228;ksi.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Ymp&#228;rilleni katsellessa&lt;br/&gt;minua kuitenkin pelottaa.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">En osannut kuvitella&lt;br/&gt;tytt&#228;reni kasvavan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">henkisesti tasapainoiseksi,&lt;/br&gt;modernissa yhteiskunnassamme.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Niinp&#228; olen p&#228;&#228;tt&#228;nyt tehd&#228;&lt;br/&gt;t&#228;st&#228; paikasta h&#228;nelle paremman.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja tied&#228;n, ett&#228; minun t&#228;ytyy&lt;br/&gt;aloittaa omasta el&#228;m&#228;st&#228;ni.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Virheet, jotka olen tehnyt&lt;br/&gt;ja ansat, joihin olen langennut.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Sill&#228; vaikka olen&lt;br/&gt;etuoikeutetussa asemassa,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;en ole immuuni kulttuurimme&lt;br/&gt;naisille aiheuttamalle vahingolle.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Kun olin nuori tytt&#246;, tunsin&lt;br/&gt;oloni turvalliseksi.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Mutta kuten yleens&#228; k&#228;y,&lt;br/&gt;asiat muuttuivat ajan kuluessa.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;V&#228;h&#228;n ennen kun t&#228;ytin seitsem&#228;n,&lt;i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;isosiskoni Stacy&lt;br/&gt;menehtyi onnettomuudessa.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Syyt&#228;n itse&#228;ni t&#228;m&#228;n kuolemasta.&lt;/br&gt;Ja syyllisyyden vuoksi,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yritin olla kaksi tyt&#228;rt&#228;,&lt;/br&gt;yhdess&#228; paketissa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kanavoin tuskani&lt;br/&gt;koulu- ja urheilumenestykseen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mutta riippumatta siit&#228;, miten&lt;br/&gt;yritin, en riitt&#228;nyt.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Minusta tuli &#228;&#228;rimm&#228;isen herkk&#228;&lt;br/&gt;ryhm&#228;paineelle.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja median pommittama&lt;br/&gt;kuva,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kertoi minulle, ettei &#228;lykkyys&lt;br/&gt;tai muut saavutukset ole tarpeeksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Naisena oleminen tarkoitti jatkuvaa&lt;br/&gt;kauneuden tavoittelua</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja miehilt&#228; hyv&#228;ksynn&#228;n hakemista.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja kun luottamani tuttu&lt;br/&gt;ja sittemmin valmentajani,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">k&#228;ytti haavoittuvaisuuttani hyv&#228;kseen&lt;br/&gt;ja teki v&#228;&#228;rin minua kohtaan,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">olin peloissani ja h&#228;pesin.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Min&#228; piilouduin kuoreeni.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Itsetuntoni oli pohjalukemissa.&lt;br/&gt;Sairastuin my&#246;s sy&#246;mish&#228;iri&#246;&#246;n</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joka vei el&#228;m&#228;st&#228;ni kaksi vuotta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Vaati paljon rakkautta ja tukea&lt;br/&gt;ennen kuin palasin voimiini.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Vaikka kokemukseni on yksil&#246;llinen,&lt;br/&gt;ovat tuntemukseni aivan liian yleisi&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Teini-ik&#228;isen tyt&#246;n el&#228;m&#228; on vaikeaa,&lt;br/&gt;mutta nyt media levitt&#228;&#228;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;naisista rajoittunutta kuvaa&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja tunkeutuu jokaiseen&lt;br/&gt;kulttuurimme kolkkaan.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Onko ihmek&#228;&#228;n ett&#228; tyt&#246;t tuntevat&lt;br/&gt;itsens&#228; avuttomiksi?&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">53% 13-vuotiaista tyt&#246;ist&#228;&lt;br/&gt;on tyytym&#228;tt&#246;mi&#228; vartaloonsa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Luku kasvaa 78% 17 ik&#228;vuoteen menness&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">65% naisista ja tyt&#246;ist&#228;&lt;br/&gt;on sy&#246;mish&#228;iri&#246;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">17% teini-ik&#228;isist&#228; viiltelee&lt;br/&gt;tai satuttaa itse&#228;&#228;n muuten</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Masennuksen m&#228;&#228;r&#228;&lt;br/&gt;tytt&#246;jen ja naisten keskuudessa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on tuplaantunut vuodesta 2000 vuoteen 2010</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Haluan tytt&#228;reni kasvavan&lt;br/&gt;erilaisessa maailmassa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Paljon on muututtava.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- N&#228;emme niin paljon negatiivisuutta&lt;br/&gt;mediassa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisia ja n&#228;iden&lt;br/&gt;ulkon&#228;k&#246;&#228; kohtaan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja se on ik&#228;&#228;n kuin kuva&lt;br/&gt;paineesta jonka koemme</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vastataksemme miesten ideaalia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">On olemassa "t&#228;ydellinen nainen"&lt;br/&gt;joka n&#228;ytt&#228;&#228; tietylt&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja koska kaikki eiv&#228;t n&#228;yt&#228; silt&#228;,&lt;br/&gt;paineet kasvavat.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Muistan viidennell&#228; luokalla,&lt;/br&gt;kuinka murehdin painoani.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja nyt yhdeks&#228;nnell&#228; luokalla,&lt;br/&gt;murehdin sit&#228; yh&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Ollessani pienikokoinen,&lt;br/&gt;ihmiset vanhassa koulussani</p>
+      <p begin="00:00:00.000" end="00:00:00.000">k&#228;skiv&#228;t minun menn&#228; oksentamaan,&lt;br/&gt;tai sy&#246;m&#228;&#228;n roskaruokaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ihmiset luulivat, ett&#228;&lt;br/&gt;minulla oli anoreksia tai jotain.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Niinp&#228; s&#246;in paljon, jotta&lt;br/&gt;ihmiset uskoisivat,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ettei minulla ollut sy&#246;mish&#228;iri&#246;t&#228;.&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Suoristan hiuksiani vain,&lt;br/&gt;jotta kuuluisin joukkoon,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sill&#228; hiukseni ovat luonnonkiharat.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Minulla on yst&#228;vi&#228;, jotka&lt;br/&gt;esimerkiksi v&#228;lituntien aikana</p>
+      <p begin="00:00:00.000" end="00:00:00.000">menev&#228;t vessaan ja&lt;br/&gt;lis&#228;ilev&#228;t valtavasti meikki&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sek&#228; laittavat hiuksiaan ja,&lt;br/&gt;tied&#228;th&#228;n, laittautuvat,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vaikka koulussa ollaan oppimassa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Mik&#228; on tarpeeksi?&lt;br/&gt;Minulla on pikkusisko</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja h&#228;n...</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> H&#228;n satuttaa itse&#228;&#228;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> H&#228;n viiltelee koska&lt;br/&gt;h&#228;nt&#228; kiusataan koulussa</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> koska h&#228;nell&#228; ei ole&lt;br/&gt;t&#228;ydellist&#228; vartaloa</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Se on vaikeaa katsottavaa</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Mit&#228; voin tehd&#228; jotta pikkusiskoni&lt;br/&gt;v&#228;lttyy median vaikutuksilta?</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Miten kauan kuluu, ennen kuin&lt;br/&gt;joku tekee jotain?</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Miten kauan kuluu, ennen kuin&lt;br/&gt;joku tekee jotain?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;K&#228;sitys kauneudesta&lt;br/&gt;on jyrkempi&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja mahdottomampi kuin koskaan ennen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Ennen vanhaan, t&#228;ydellisyys&lt;br/&gt;saavutettiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kosmetiikan ja retusoinnin avulla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Mutta onko mahdollista, ett&#228; ihanteemme&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;on t&#228;ydellinen&lt;br/&gt;tietokoneiden vuoksi?&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000"/>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Et koskaan n&#228;e valokuvaa&lt;br/&gt;kauniina pidetyst&#228; naisesta&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ilman, ett&#228; kuvaa olisi muokattu niin,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ett&#228; nainen n&#228;ytt&#228;&#228; aivan&lt;br/&gt;t&#228;ydelliselt&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Tytt&#246;j&#228; rohkaistaan&lt;br/&gt;tavoittelemaan t&#228;ydellisyytt&#228;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;yh&#228; nuorempina ja nuorempina.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He p&#228;&#228;tyv&#228;t vertaamaan itse&#228;&#228;n&lt;br/&gt;t&#228;ysin luonnottomaan standardiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja huomaavat haluavansa&lt;br/&gt;n&#228;ytt&#228;&#228; samalta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Ei my&#246;sk&#228;&#228;n yll&#228;t&#228;,&lt;br/&gt;ett&#228; nuoret miehet joille&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">n&#228;ytet&#228;&#228;n valokuvia huippumalleista,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;tuomitsevat oikeita naisia&lt;br/&gt;paljon jyrkemmin.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;T&#228;rkeint&#228; on ymm&#228;rt&#228;&#228;,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;kuinka t&#228;m&#228; kaikki vaikuttaa&lt;br/&gt;meihin alitajuntaisesti&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja kuinka haitallista se on,&lt;br/&gt;ja kuinka suureksi osaksi&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;emme ole tietoisia siit&#228;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja niinp&#228; meid&#228;n tulee kiinnitt&#228;&#228;&lt;br/&gt;enemm&#228;n huomiota niihin.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Keskim&#228;&#228;rin lapsi kehittyy&lt;br/&gt;18-24 ik&#228;vuosiin asti.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Aivot eiv&#228;t saavuta&lt;br/&gt;t&#228;ytt&#228; kehityst&#228;&#228;n</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ennen kahdenkymmenen rajapyykki&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joten ajatus, ett&#228; kaiken ik&#228;iset&lt;br/&gt;lapset ovat samalla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">henkisell&#228; ja &#228;lyllisell&#228; tasolla&lt;br/&gt;kuin aikuiset, on p&#228;&#228;t&#246;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Heill&#228; on erilaiset&lt;br/&gt;kyvyt tulkita.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Heill&#228; on erilaiset&lt;br/&gt;emotionaaliset kyvyt.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja he ovat paljon heikommalla&lt;br/&gt;yhteiskunnassamme.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Minua huolestuttaa, kuinka&lt;br/&gt;paljon tytt&#228;reni kokevat paineita</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yhteiskunnassa, johon kuuluu</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;anoreksisia n&#228;yttelij&#246;it&#228; ja malleja&lt;br/&gt;sek&#228; televisiot&#228;hti&#228;.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Meid&#228;t ehdollistetaan ajattelemaan,&lt;br/&gt;ett&#228; t&#228;lt&#228; naisten tulee n&#228;ytt&#228;&#228;.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Tavallisen kokoiset ihmisetkin&lt;br/&gt;k&#228;rsiv&#228;t v&#228;&#228;ristyneest&#228; kehonkuvasta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun tein ensimm&#228;ist&#228;&lt;br/&gt;televisio-ohjelmaani &lt;i&gt;All American Girli&#228;&lt;/i&gt;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joka oli ensimm&#228;inen Aasia-Amerikka-&lt;br/&gt;tv-ohjelma,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">minulla oli paljon ongelmia&lt;br/&gt;tv-yhti&#246;n kanssa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sill&#228; he kertoivat minulle jatkuvasti,&lt;br/&gt;ett&#228; olin liian lihava.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Laihduin anoreksian partaalle&lt;br/&gt;yritt&#228;ess&#228;ni </p>
+      <p begin="00:00:00.000" end="00:00:00.000">pit&#228;&#228; ty&#246;ni&lt;br/&gt;jonka todella halusin pit&#228;&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja lopulta he peruuttivat&lt;br/&gt;koko ohjelman.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja korvasivat sen Drew Careylla&lt;br/&gt;t&#228;m&#228;n laihuuden vuoksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Yksi medialukutaidon&lt;br/&gt;n&#228;k&#246;kulma</p>
+      <p begin="00:00:00.000" end="00:00:00.000">j&#228;&#228; mielest&#228;ni monelta&lt;br/&gt;t&#228;ysin huomaamatta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nimitt&#228;in median talouspolitiikka.&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Useimmat mediat saavat voittonsa&lt;br/&gt;mainostajilta.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Niinp&#228; sis&#228;ll&#246;n, joka ei ole mainosta&lt;/br&gt;mutta esiintyy silti mediassa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">t&#228;ytyy tukea mainosten sanomaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kaikkien tulisi oppia&lt;br/&gt;mist&#228; mediassa on oikein kyse.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He haluavat sinun haluavan&lt;br/&gt;olla jotain muuta kuin itsesi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Suuri osa mainoksista&lt;br/&gt;t&#228;ht&#228;&#228; ihmisten tunteisiin,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yritt&#228;en saada n&#228;m&#228; ep&#228;varmoiksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Miehet ovat usein huolissaan&lt;br/&gt;n&#228;iden valta-asemasta ja statuksesta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja tahtovat n&#228;ytt&#228;&#228;&lt;br/&gt;vaikutusvaltaisilta.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Ainakin auton tulisi olla edustava,&lt;br/&gt;naiset taas eiv&#228;t ole tarpeeksi kauniita.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-&lt;i&gt;Ja siksi n&#228;et&lt;br/&gt;kaikkialla samoja vartalotyyppej&#228;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">uudelleen ja uudelleen,&lt;br/&gt;sill&#228; nuo vartalotyypit</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;luovat tarpeen&lt;br/&gt;kaikille kauneustuotteille&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja mahdollistavat t&#228;ydellisyyden&lt;br/&gt;takaa-ajon.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se on valtavan voittoisaa&lt;br/&gt;kaikille mediatuottajille</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja mainostajille.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Mainostajat k&#228;yttiv&#228;t&lt;br/&gt;$235,6 miljoonaa vuonna 2009</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Maailman valtioista 80% BKT&lt;br/&gt;on paljon pienempi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Amerikkalaiset naiset kuluttavat&lt;br/&gt;paljon enemm&#228;n rahaa ulkon&#228;k&#246;&#246;ns&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">saavuttaakseen median luoman&lt;br/&gt;ulkon&#228;k&#246;ihanteen, kuin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">he k&#228;ytt&#228;v&#228;t koulutukseensa,&lt;br/&gt;joka hy&#246;dytt&#228;isi n&#228;it&#228; paljon enemm&#228;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja niinp&#228; t&#228;m&#228;&lt;br/&gt;v&#228;lineistetty voimaantuminen&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;l&#228;hinn&#228; heikent&#228;&#228; naisten asemaa.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Amerikkalainen nainen k&#228;ytt&#228;&#228;&lt;br/&gt;keskim&#228;&#228;rin 12000-15000 dollaria vuodessa</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> kauneudenhoitotuotteisiin ja -palveluihin.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Kauneusleikkausten m&#228;&#228;r&#228;&lt;br/&gt;nuorten keskuudessa</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> alle 19-vuotiailla on yli&lt;br/&gt;kolminkertaistunut vuodesta 1997</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Kasvojenkohotus maksaa keskim&#228;&#228;rin&lt;br/&gt;11 429 dollaria</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Samalla summalla opiskelisi &lt;br/&gt; viisi vuotta kansanopistossa</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> tai kaksi vuotta valtion yliopistossa&lt;br/&gt;tai vuoden Kalifornian yliopistossa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-&lt;i&gt; Tytt&#246;j&#228; ei pelk&#228;st&#228;&#228;n &lt;br/&gt; n&#228;hd&#228; objekteina,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vaan he my&#246;s n&#228;kev&#228;t itsens&#228; sellaisina.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- &lt;i&gt;Amerikan psykologian liitto&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;on viime vuosina huomannut&lt;br/&gt;itsens&#228; esineellist&#228;misest&#228;&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;syntyneen epidemian.&lt;br/&gt;Kansallisen ongelman.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Mit&#228; enemm&#228;n naiset ja tyt&#246;t&lt;br/&gt;esineellist&#228;v&#228;t itse&#228;&#228;n,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sit&#228; todenn&#228;k&#246;isemmin heill&#228; on&lt;br/&gt;masennus tai sy&#246;mish&#228;iri&#246;it&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Heill&#228; on heikko itsetunto.&lt;br/&gt;Heill&#228; ei ole kunnianhimoa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Heid&#228;n kognitiiviset toimintonsa&lt;br/&gt;ovat heikentyneet.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Heid&#228;n kouluarvosanansa ovat matalampia.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Miten t&#228;m&#228; yhdistyy&lt;br/&gt;naisiin ja johtajuuteen?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Naiset jotka esineellist&#228;v&#228;t itse&#228;&#228;n&lt;br/&gt;ovat poliittisesti v&#228;hemm&#228;n aktiivisia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Poliittinen aktiivisuus tarkoittaa,&lt;br/&gt;ett&#228; ihmisten sanomalla on v&#228;li&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja he tuntevat muutoksen olevan&lt;br/&gt;mahdollista politiikan avulla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Jos meill&#228; on kokonainen sukupolvi&lt;br/&gt;nuorisoa, jotka ajattelevat&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ett&#228; naisten esineellistys on normaali&lt;br/&gt;asia ja ihan okei,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">meill&#228; on sukupolvi naisia, jotka&lt;br/&gt;eiv&#228;t koskaan etene huipulle</p>
+      <p begin="00:00:00.000" end="00:00:00.000">eiv&#228;tk&#228; koe tarpeelliseksi &#228;&#228;nest&#228;&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;-T&#228;m&#228; on vaarallinen asia.&lt;i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Jos media viestii tyt&#246;ille,&lt;br/&gt;ett&#228; vain heid&#228;n vartalonsa on arvokas,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;aihettaa t&#228;m&#228;&lt;br/&gt;riitt&#228;m&#228;tt&#246;myyden tunteita&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja est&#228;&#228; heit&#228;&lt;br/&gt;tekem&#228;st&#228; muutoksia&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja pyrkim&#228;st&#228; johtajiksi.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Yhdysvaltain asukkaista&lt;br/&gt;51% on naisia</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Kongressissa heit&#228; on kuitenkin&lt;br/&gt;vain 17%</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Vuoden 2010 v&#228;livaalit&lt;br/&gt;olivat ensimm&#228;inen kerta</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> sitten vuoden 1979, kun&lt;br/&gt;yht&#228;k&#228;&#228;n naista ei valittu kongressiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> T&#228;ll&#228; vauhdilla naiset eiv&#228;t&lt;br/&gt;saavuta tasa-arvoa yli 500 vuoteen</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Vain 34 naista on koskaan&lt;br/&gt;toiminut kuvern&#246;&#246;rin&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> verrattuna 2319 mieheen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- T&#228;ss&#228; me olemme. Valtavan&lt;br/&gt;voimakas demokraattinen yhteiskunta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">emmek&#228; n&#228;yt&#228; esimerkki&#228;&lt;br/&gt;muulle maailmalle.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> 67 maassa on ollut naispresidentti&lt;br/&gt;tai naisp&#228;&#228;ministeri</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Yhdysvalloissa ei yht&#228;k&#228;&#228;n</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Lains&#228;&#228;d&#228;nt&#246;elimiss&#228; naisia on enemm&#228;n&lt;br/&gt;yli 87 muussa maassa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-&lt;i&gt; Jos ihmiset tiet&#228;isiv&#228;t,&lt;br/&gt;ett&#228; Kuubassa, Kiinassa, Irakissa&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja Afganistanissa on enemm&#228;n naisia&lt;br/&gt;hallituksessa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuin Yhdysvalloissa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">monet ihmiset pettyisiv&#228;t.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Ei ihme, ett&#228; maamme&lt;br/&gt;on ongelmissa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">olemme valinneet kansalliset&lt;br/&gt;johtajamme 6% joukosta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Ilman useampia naisia&lt;br/&gt;politiikassa, meill&#228; ei ole</p>
+      <p begin="00:00:00.000" end="00:00:00.000">demokraattista oikeutta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Jokin poliittisissa instituutioissamme&lt;br/&gt;on eritt&#228;in pieless&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Est&#228;mme t&#228;rkeit&#228;&lt;br/&gt;&#228;&#228;ni&#228;, joita todella tarvitaan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuulumasta julkisessa keskustelussa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Washington on yh&#228; eritt&#228;in&lt;br/&gt;miespanoitteinen, eik&#228; ollut outoa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">olla ainut nainen huoneessa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joskus se hankaloitti asioita,&lt;br/&gt;kun lakipyk&#228;l&#228;&#228; yritettiin muuttaa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;ja Capitol Hillist&#228; painostettiin.&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&lt;i&gt;Muistan Karen Hughsonin&lt;br/&gt;menneen presidentin luo sanoen,&lt;/i&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Et voi tehd&#228; noin. Sin&#228; et tied&#228;,&lt;br/&gt;millaista oli olla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nainen yliopistossa ennen lain voimaantuloa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun t&#228;ytyi myyd&#228; leivoksia&lt;br/&gt;rahoittaakseen joukkueen matkan."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Yksikin p&#228;&#228;t&#246;ksentekoelin jossa&lt;br/&gt;p&#228;&#228;t&#246;ksentekoon ei osallistu</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yksik&#228;&#228;n nainen,&lt;br/&gt;tulee tekem&#228;&#228;n v&#228;&#228;ri&#228; p&#228;&#228;t&#246;ksi&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Koska heill&#228; ei ole&lt;br/&gt;naisen n&#228;k&#246;kantaa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisen tietoja,&lt;br/&gt;naisen kokemuksia...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "On j&#228;rkytt&#228;v&#228;&#228;, ett&#228; yh&#228; t&#228;n&#228;kin p&#228;iv&#228;n&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Amerikkalaisen naisen dollari&lt;br/&gt;on vain 77 sentti&#228;."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Yhdeks&#228;ss&#228; osavaltiossa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">hyv&#228;ksik&#228;yt&#246;n urhit, menneet&lt;br/&gt;ja nykyiset,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">voivat menett&#228;&#228; oikeuden terveydenhuollon&lt;br/&gt;vakuutukseen, sill&#228; hyv&#228;ksik&#228;ytt&#246;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">katsotaan riskej&#228; kohottavaksi tekij&#228;ksi."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Menemme naistenhuoneeseen,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">republikaaninaiset ja demokraattinaiset,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja py&#246;rittelemme silmi&#228;mme heille&lt;br/&gt;sen sijaan, ett&#228; olisimme tekem&#228;ss&#228; jotain.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja republikaaninainen sanoi,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">taistellessamme terveydenhuollon&lt;br/&gt;kuluista,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Jos l&#228;hett&#228;isimme miehet kotiin,&lt;br/&gt;saisimme t&#228;m&#228;n tehty&#228; yht&#228; nopeasti."</p>
+      <p begin="00:00:00.000" end="00:00:00.000"/>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Yhdysvallat on yksi harvoista &lt;br/&gt;teollisuusmaista,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jossa ei tunneta perhevapaan k&#228;sitett&#228;."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Jos naiset eiv&#228;t&lt;br/&gt;puhuisi n&#228;ist&#228; ongelmista,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">eiv&#228;tk&#228; tulisi esiin,&lt;br&gt;varmistaen asioiden k&#228;sittelyn</p>
+      <p begin="00:00:00.000" end="00:00:00.000">lains&#228;&#228;d&#228;nn&#246;ss&#228;,&lt;br/&gt;mit&#228;&#228;n ei tapahtuisi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Jos me emme toimisi,&lt;br/&gt;kuka toimisi?"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Naiset ovat luoneet parhaat politiikat Yhdysvalloissa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kaikissa osavaltioissa ja yhteis&#246;iss&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Elinkustannuskampanja, pienyritykset,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">turvallisuus, kaikki mik&#228; tarvitsi &lt;br/&gt;erilaista ajattelua</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on ollut naisten tekem&#228;&#228;, joten meid&#228;n&lt;br/&gt; t&#228;ytyy ottaa heid&#228;t p&#228;&#228;t&#246;stentekoon.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kaksi asiaa t&#228;ytyy tapahtua,&lt;br/&gt; jotta naiset</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja v&#228;hemmist&#246;t p&#228;&#228;sev&#228;t &lt;br/&gt;seuraavalle tasolle.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ensiksi t&#228;ytyy olla ehdokkaita,&lt;br/&gt; ihmisi&#228;, jotka</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ovat halukkaita ehdokkaiksi. &lt;br/&gt;T&#228;ytyy olla my&#246;s psykologistavalmiutta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Voiko amerikkalainen n&#228;hd&#228; naisen&lt;br/&gt; tai mustan siin&#228; asemassa?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Luulen, ett&#228; naisten suhteen&lt;br/&gt;meill&#228; on viel&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jonkin verran tekemist&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Tiesin sukupolvellani olevan&lt;br/&gt;yh&#228; esteit&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mutta halusin tiet&#228;&#228;,oliko&lt;br/&gt;tilanne parempi nuorille naisjohtajille. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joten vietin aikaa erityisten&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nuoren naisen kanssa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nimelt&#228;&#228;n Devanshi Patel,&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joka tahtoo luoda uran</p>
+      <p begin="00:00:00.000" end="00:00:00.000">valtionvirassa. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Tervetuloa kuulemaan &lt;br/&gt;Silicon Valleyn lakiehdotusta...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Pyrin valtionvirkaan ensimm&#228;i-&lt;br/&gt;sen kerran 4:ll&#228; luokalla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Luokkatovereideni kanssa&lt;br/&gt;teimme julisteita ja s&#246;p&#246;j&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sloganeita ja kampanjoimme&lt;br/&gt;ymp&#228;ri koulua.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">H&#228;visin muutamalla &#228;&#228;nell&#228;. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Uskon jokaisella olevan missio,&lt;br/&gt;t&#228;m&#228; oli minun teht&#228;v&#228;ni.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Asetuessani ehdolle&lt;br/&gt;en hakenut kakkossijoja, vaan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">aina johtajanpaikkaa. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Devanshi sanoi halunneensa&lt;br/&gt;johtaa jo 5:ll&#228; luokalla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mutta kysyin h&#228;nelt&#228;&lt;br/&gt;, tiesik&#246; h&#228;n mik&#228; pon johtaja?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">H&#228;n vastasi sen olevan helppoa&lt;br/&gt;,h&#228;n vain palvelee ihmisi&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Johtaja on ihmisi&#228; varten.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Rakastan Hallituksen nuoriso-&lt;br/&gt;ohjelmaa. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Paras tapa minulle antaa&lt;br/&gt;on olla ehdokkaana nuorisokuvern&#246;&#246;riksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Miten hoitaisitte Kalifornian&lt;br/&gt;kriisi&#228;?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Leikkaisin tarpeettonmia &lt;br/&gt;kustannuksia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kun olin ehdolla, minulle &lt;br/&gt;huomauteltiin paljon, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuten "H&#228;n puhuu hyvin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naiseksi, h&#228;n on fiksu naiseksi."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Pari kertaa yst&#228;vieni puhuessa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuulijat keskittyiv&#228;t heid&#228;n&lt;br/&gt;vartaloihinsa ja ulkon&#228;k&#246;&#246;n,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">siihen, mit&#228; heill&#228; oli&lt;br/&gt;yll&#228;&#228;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top">Devanshi h&#228;visi mieskanditaatille&lt;br/&gt;tullen toiseksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- H&#228;n sanoi "&#196;iti, n&#228;ytt&#228;&#228;&lt;br/&gt;kuin </p>
+      <p begin="00:00:00.000" end="00:00:00.000">olen uusi Hillary Clinton."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Pojat tukivat poikia, tyt&#246;t&lt;br/&gt;tukivat poikia. Usein tytt&#246;jen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">oli vaikea &#228;&#228;nest&#228;&#228; tytt&#246;&#228;&lt;br/&gt;, sill&#228; tyt&#246;t ovat kriittisi&#228; toisilleen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top">65% nurisokuvern&#246;&#246;rivaaleissa&lt;br/&gt;&#228;&#228;nest&#228;neist&#228; Kaliformiassa on tytt&#246;j&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834;music &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Devanshin tarina sai minut&lt;br/&gt;miettim&#228;&#228;n, kuinka aikaisin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kohtaa syv&#228;n sukupuolten&lt;br/&gt;vlisen eron. Jos asiat eiv&#228;t muutu</p>
+      <p begin="00:00:00.000" end="00:00:00.000">niin paljon kuin toivoisimme.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun minusta tuli San &lt;br/&gt;Franciscon kuvern&#246;&#246;ri, laitoin naisen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">poliisip&#228;&#228;llik&#246;ksi ja naisen&lt;br/&gt;palop&#228;&#228;llik&#246;ksi. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kun he olivat lavalla kanssani,&lt;br/&gt; </p>
+      <p begin="00:00:00.000" end="00:00:00.000">media kyseli, miss&#228; &lt;br/&gt;poliisip&#228;&#228;llikk&#246; oli?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">T&#228;ss&#228; on poliisip&#228;&#228;llikk&#246;,&lt;br/&gt;ja t&#228;ss&#228; palop&#228;&#228;llikk&#246;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ihmiset ajattelivat minun &lt;br/&gt;haluavan ilmaista jotain suurta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun todellisuudessa vain&lt;br/&gt;palkkasin kaksi p&#228;tevint&#228; kanditaattia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Suurin vastustus tuli,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tuli naisilta ja niilt&#228;,&lt;br/&gt;joista tuntui, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tapuhtui liikaa, liian aikaisin&lt;br/&gt;ja liian nopeasti.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He eiv&#228;t olisi kyseenalaistaneet&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jos kyseess&#228; olisi ollut mies.&lt;br/&gt;-Pienet pojat ja tyt&#246;t</p>
+      <p begin="00:00:00.000" end="00:00:00.000">7 vuotiaina haluavat aikuisina&lt;br/&gt; USA:n presidenteiksi yht&#228; paljon.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">,noin 30%.a. Mutta kun kysyt&lt;br/&gt;samaa heid&#228;n olessa 15 vuotiaita,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">huomaat valtavan eron syntyneen.&lt;br/&gt;Niinp&#228; meill&#228; on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sukupuolisesti jakautunut politiikka, &lt;br/&gt;jossa miehet johtavat.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Naisia ei kannusteta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">pyrkim&#228;&#228;n vaikutusvaltaisille&lt;br/&gt;paikoille.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Et voi saavuttaa jotain,&lt;br/&gt;mit&#228; et n&#228;e. -Maria Weright Edelman</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Luulen, ett&#228; mit&#228; tapahtuu</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on, ett&#228; ei ole naisjohtajia&lt;br/&gt;ja tyt&#246;t eiv&#228;t n&#228;e</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ett&#228; voisivat olla johtajia. Se&lt;br/&gt;on mit&#228; n&#228;emme.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se inspiroi ideoitasi, siit&#228;&lt;br/&gt;mik&#228; on sinulle mahdollista.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">maailmassa. - Olen erimielt&#228;&lt;br/&gt;Saran kanssa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta n&#228;hdess&#228;ni h&#228;net &lt;br/&gt;korokkeella </p>
+      <p begin="00:00:00.000" end="00:00:00.000">nuoren perheens&#228; ja pienen&lt;br/&gt;lapsensa kanssa oli kaunista ja </p>
+      <p begin="00:00:00.000" end="00:00:00.000">ajattelin, ehk&#228; voisin my&#246;s yritt&#228;&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">68% katsojista hyv&#228;ksyy&lt;br/&gt;todenn&#228;k&#246;isemmin naisperesidentin. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun on mahdollista n&#228;hd&#228; &lt;br/&gt;naisjohtajia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">todellisuudessa ja televisio-&lt;br/&gt;ruudulla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on naisille suurta. &lt;br/&gt;Koska ei ole</p>
+      <p begin="00:00:00.000" end="00:00:00.000">niin monta naista johto-&lt;br/&gt;paikoilla, joten</p>
+      <p begin="00:00:00.000" end="00:00:00.000">se laajuntuu ja ongelmat&lt;br/&gt;selvi&#228;v&#228;t,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on tekemist&#228; Hollywoodin&lt;br/&gt;kanssa, elokuvien tekotavan kanssa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Komediat, tv-showt, joissa&lt;br/&gt;ihmiset ovat</p>
+      <p begin="00:00:00.000" end="00:00:00.000">katsojina. &lt;br/&gt;- On joitain</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tv-esimerkkej&#228;, jotka esiin-&lt;br/&gt;tuovat voimakkaita naisia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta yleens&#228;, tilanne &lt;br/&gt;Hollywoodissa on melko</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top">mustavalkoinen. &lt;br/&gt; Peruttu yhden jakson j&#228;lkeen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- P&#228;&#228;tin aloittaa ammattimaisen&lt;br/&gt;n&#228;yttelemisen 28 vuoden i&#228;ss&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Toivoin l&#246;yt&#228;v&#228;ni mielen-&lt;br/&gt;kiintoisia rooleja.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ensimm&#228;inen kosketus todellisuuden&lt;br/&gt;kanssa oli, ett&#228; minua neuvottiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">valehtelemaan ik&#228;ni</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja poistamaan Standford ja Yale&lt;br/&gt;CV:st&#228;ni, sill&#228; ne saattaisivat olla haitaksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">En tehnyt kumpaakaan,&lt;br/&gt;mutta itsetuntoni</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sai aimo kolauksen. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Toinen pudotus todellisuuteen,&lt;br/&gt;oli</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ett&#228; tarjolla oli v&#228;h&#228;n mielen-&lt;br/&gt;kiintoisia rooleja.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Minun ei olisi pit&#228;nyt&lt;br/&gt;h&#228;mm&#228;sty&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kun todella katsot millaisia&lt;br/&gt;elokuvia Hollywoodissa tehd&#228;&#228;n,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">samat strereotypiat toistuvat&lt;br/&gt;uudelleen ja uudelleen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+    </div>
+    <div>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; Niin se menee &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; aseet ja tyt&#246;t &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; ohjaavat kaikkea &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; pojat ja &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; valinnat maailmassa &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; kaikki... &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; kaikki... &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; aika kuluu, haluan vain...&#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; olla... &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; toteutuuko se koskaan...&#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; Onko se koskaan tarpeeksi?&#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Naiset eiv&#228;t ole koskaan &lt;br/&gt;protagonisteja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Jos he ovat protagonisteja,&lt;br/&gt;kyse on draamasta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">, jossa nainen on miehen&lt;br/&gt;per&#228;ss&#228;, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">t&#228;rke&#228;t roolit ovat miehi&#228;&lt;br/&gt;varten.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">T&#228;m&#228; on kohtalosi, olet&lt;br/&gt;voimakas, johtaja...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tyt&#246;lle n&#228;in ei sanottaisi.&lt;br/&gt;Mik&#228; hulluinta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">se tuntuu meist&#228; normaalilta,&lt;br/&gt;emme kyseenalaista sit&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Emme sano, "Miksei tytt&#246;&lt;br/&gt;voi olla suojelija,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">miksei tytt&#246; voi olla voimakas?"</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> Vain 16% elokuvien protago-&lt;br/&gt;nisteista on naisia </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Teen t&#228;t&#228; jatkuvasti, "Asiat&lt;br/&gt;paranevat, asiat paranevat"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta ne eiv&#228;t parane. &lt;br/&gt;- Keskiverto</p>
+      <p begin="00:00:00.000" end="00:00:00.000">elokuvat kertovat miesten el&#228;m&#228;st&#228;&lt;br/&gt;ja py&#246;riv&#228;t miesten ymp&#228;rill&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja sitten on ns. tytt&#246;leffoja,&lt;br/&gt;jotka kertovat nasiten el&#228;m&#228;st&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kun katsot niit&#228; hieman&lt;br/&gt;tarkemmin, huomaat niiden</p>
+      <p begin="00:00:00.000" end="00:00:00.000">py&#246;riv&#228;n miesten ymp&#228;rill&#228;,&lt;br/&gt;sen ymp&#228;rill&#228; kuinka saada mies,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuinka saada rakkautta, p&#228;&#228;st&#228;&lt;br/&gt;naimisiin, tulla raskaaksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- On minun vikani, ett&#228; olen&lt;br/&gt;yksin Yst&#228;v&#228;np&#228;iv&#228;n&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">l&#228;heisin suhteeni on mustikan&lt;br/&gt;kanssa. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Just. &lt;br/&gt;- 1930-2005 v&#228;lill&#228; oli vain</p>
+      <p begin="00:00:00.000" end="00:00:00.000">30 naisprotagonistia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">piirretyiss&#228; elokuvissa. &lt;br/&gt;Kaikki he</p>
+      <p begin="00:00:00.000" end="00:00:00.000">, paitsi yksi, etsiv&#228;t&lt;br/&gt;romanssia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kulttuurisesti, naiset &lt;br/&gt;kasvatetaan olemaan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ep&#228;varmoja ja aina etsim&#228;&#228;n&lt;br/&gt; tilaisuutta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun ritari tulee ratsullaan&lt;br/&gt;pelastamaan ja tarjoamaan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">meille apua. &lt;br/&gt;- Mit&#228; tulee naisjohtajiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">, n&#228;emme mediassa &lt;br/&gt;vittumaisen pomon, joka on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">uhrannut perheens&#228; ja rakkauden&lt;br/&gt;p&#228;&#228;st&#228;kseen asemaansa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Sanoin itselleni, ota kiinni&lt;br/&gt;mahdollisuudesta ja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">palkkaa se &#228;lyk&#228;s lihava tytt&#246;.&lt;br/&gt;-Koko elokuva kertoo</p>
+      <p begin="00:00:00.000" end="00:00:00.000">saada h&#228;net kerj&#228;&#228;m&#228;&#228;n ja &lt;br/&gt;t&#228;m&#228; tapahtuu alaisen toimesta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joka on mies. T&#228;m&#228; imago ei</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tue naisten asemaa johtajana.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Meill&#228; oli paljon enemm&#228;n mielen-&lt;br/&gt;kiintoisia hahmoja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">20-,30-,40-luvuilla kuin&lt;br/&gt;meill&#228; on nyky&#228;&#228;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Moni nainen oli hyvin &lt;br/&gt;inhimillenen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He saattoivat olla kohtalokkaita,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja samalla &#228;itej&#228; ja &lt;br/&gt;viettelij&#228;tt&#228;ri&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja me hyv&#228;ksyimme sen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">He olivat monipuolisia&lt;br/&gt;ihmisolentoja.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Nyky&#228;&#228;n haluamme luokitella ihmiset.&lt;br/&gt;-Naisella on kaksi mahdollisuutta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">noita tai seksik&#228;s kisu. &lt;br/&gt;- Osuit oikeaan sisko.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Me miehet emme ymm&#228;rr&#228;&lt;br/&gt; hahmoja, eiv&#228;t ole kuten me</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja emme ole halukkaita&lt;br/&gt;asettumaan hahmon kenkiin.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja naiset opettavat meit&#228;. Emme&lt;br/&gt;kuvaile naisia useinkaan ihmisi&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nykyisin teemme enemm&#228;nkin sarja-&lt;br/&gt;kuvia, mik&#228; on harmillista.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Miss&#228; tahansa massamedissa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nainen n&#228;ytet&#228;&#228;n laajasti&lt;br/&gt;seksiobjektina.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Rock- videoilla, rap- ja hip hop&lt;br/&gt;-videoilla, ja kaikilla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">elokuvien kassamagneeteissa&lt;br/&gt; naiset ovat vartaloita,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">nuorille mieskatsojille. &lt;br/&gt;- Uskon, ett&#228; naisia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">k&#228;ytet&#228;&#228;n seksiobjekteina,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tai haluan kohteena. Mutta &lt;br/&gt;asiaan pit&#228;isi saada muutos, koska</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisissa on paljon juutakin,&lt;br/&gt;kuin vain vartalo.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Me kasvatamme pojat uskomaan, ett&#228;&lt;br/&gt;miehen&#228; oleminen tarkoittaa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">voimakas ja vallassa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#196;lykk&#228;&#228;mpi kuin naiset, &lt;br/&gt;parempi kuin naiset,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">meid&#228;n tarpeemme tulevat tyydy-&lt;br/&gt;tetyiksi suhteissa ensin. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se ei ole geneiss&#228;, vaan&lt;br/&gt;opittua k&#228;yt&#246;st&#228;. -Et usko, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">minusta on kirurgiksi? Minusta on.&lt;br/&gt;-Olet kova pala. -Niin olen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Et kest&#228; ensimm&#228;ist&#228;k&#228;&#228;n vuotta.&lt;br/&gt;- N&#228;emme my&#246;s</p>
+      <p begin="00:00:00.000" end="00:00:00.000">uusia inkarnaatioita voimakkaista&lt;br/&gt;naisista,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jotka johtavat toimintaleffan &lt;br/&gt;tarinaa. Mutta toisaalta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuorit pois pari kerrosta ja&lt;br/&gt; huomaat, ett&#228; oikeasti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">se on h&#228;m&#228;yst&#228;. Kutsun t&#228;t&#228; &lt;br/&gt;arkkityyppi nukeksi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; Kuka ei kuiskaa...&#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Mik&#228; pamaus</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Vaikka h&#228;n tekeekin asioita &lt;br/&gt;itsen&#228;isesti,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;n on pitk&#228;lti objekti, ja </p>
+      <p begin="00:00:00.000" end="00:00:00.000">on olemassa mieskatsojia varten.&lt;br/&gt;- Lastenelokuvissa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naishahmot, puheutuvat&lt;br/&gt;paljastavia vaatteita,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ihan kuten aikuisten elokuvissa,&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mik&#228; on kauhistuttavaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Elokuvissa on nykyisin enemm&#228;n &lt;br/&gt;v&#228;kivaltaa, seksi&#228; ja h&#228;vytt&#246;myyksi&#228; </p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuin 10 vuotta sitten. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Hollywoodissa tapahtuva&lt;br/&gt;seksuaalisoituminen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">koskettaa meit&#228; kaikkia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mukaan lukien identiteetti&#228;&#228;n&lt;br/&gt;etsiv&#228;t nuoret tyt&#246;t.</p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top">Yli 20%.a nuorista harrastaa&lt;br/&gt;seksi&#228; alle 14 vuotiaina.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Jos viesti on, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naiset ovat objekteja,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ett&#228; se on heid&#228;n tarkoitus.&lt;br/&gt;Se on hyvin hankala ja vaativa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">viesti nuorille naisille, jotka&lt;br/&gt;kuvittelevat sen olevan heid&#228;n tie</p>
+      <p begin="00:00:00.000" end="00:00:00.000">valtaan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Tied&#228;th&#228;n ne, jotka sanovat&lt;br/&gt;Madonnan olevan voimakas</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja Angelina Jolie. Mutta&lt;br/&gt;heid&#228;n vartalot ovat samanlaiset.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kun ajattelet asiaa, Hillary Clinton&lt;br/&gt;on todella voimakas, ulkoministeri.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja naisjohtajat. On paljon vaiku-&lt;br/&gt;tusvaltaisia naisia, mutta heit&#228; ei n&#228;e</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mediassa. Et saa veisti&#228;,&lt;br/&gt;ett&#228; seksuaalisuuden k&#228;ytt&#246; ei ole</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tarpeen vallan saamiseksi.&lt;br/&gt;- Miesvaltainen systeemi on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on patriarkaalinen ja n&#228;kee&lt;br/&gt;naiset synnytt&#228;jin&#228;- ja piste. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se rajoittaa heid&#228;n arvoaan&lt;br/&gt; aikaan, jolloin he</p>
+      <p begin="00:00:00.000" end="00:00:00.000">seksuaalisesti aktiivisia, &lt;br/&gt;lis&#228;&#228;ntymiskykyisi&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sen j&#228;lkeen heid&#228;n arvonsa&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">laskee kertaheitolla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Mit&#228; n&#228;emme TV:ss&#228;, on ett&#228;&lt;br/&gt;suurin osa naishahmoista</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ovat 20-30-kymppisi&#228;.&lt;br/&gt;-Se on valtava</p>
+      <p begin="00:00:00.000" end="00:00:00.000">todellisuuden v&#228;&#228;rist&#228;minen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja se todella muokkaa olettamuksiamme. </p>
+      <p begin="00:00:00.000" end="00:00:00.000" region="top"> 13-39 vuotiaat naiset&lt;br/&gt;muodostavat 39%:a kansasta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">siit&#228; huolimatta 72%.a on naisia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yli 40 vuotiaat naiset ovat 47%a kansasta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; music &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun nainen t&#228;ytt&#228;&#228; 40,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;nen on yksinkertaisesti ment&#228;v&#228;...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">...pois.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Er&#228;&#228;n&#228; p&#228;iv&#228;n&#228; &lt;br/&gt;sain puhelinsoiton,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jollaisia olin kuullut toisten&lt;br/&gt; saavan. En ollut ottanut sit&#228; todesta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja sen esitti minulle managerini&lt;br/&gt;,osasi on varmistettu</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta, voisitko harkita&lt;br/&gt;laittavasi v&#228;h&#228;n botoxia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tai kollageenia. En tiennyt&lt;br/&gt;mit&#228; se oli.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Miten niin botoxia tai kollageenia?&lt;br/&gt;Muistan kuinka</p>
+      <p begin="00:00:00.000" end="00:00:00.000">makasin tuolissa lihavan,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kaljun miehen alla, &lt;br/&gt;joka ruiskutti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">neuloja verta vuotavaan otsaani, &lt;br/&gt;ja min&#228; itkin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">syyllisyytt&#228; tuntien. Muistan &lt;br/&gt;maanneeni siell&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tuolissa ja ajetelleeni,&lt;br/&gt;jotain t&#228;&#228;ll&#228; on vialla,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">se sai minut todella tuntemaan&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">v&#228;hemm&#228;n henkisesti ehj&#228;ksi,&lt;br/&gt;v&#228;hemm&#228;n</p>
+      <p begin="00:00:00.000" end="00:00:00.000">rehelliseksi naiseksi. Minusta&lt;br/&gt;tuntui ett&#228; huijasin ja valehtelin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">t&#228;m&#228; juttu kasvoillani. Ehk&#228; se</p>
+      <p begin="00:00:00.000" end="00:00:00.000">toimi, en tied&#228;, mutta&lt;br/&gt;p&#228;&#228;tin olla tekem&#228;tt&#228; sit&#228; uudestaan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja &#228;itini oli raivoissaan&lt;br/&gt;kuullessaan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun h&#228;n kuuli, ett&#228; he &lt;br/&gt;erottivat minut Monsuunista, h&#228;n sanoi, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Sano niille paskiaisille,&lt;br/&gt; ett&#228; ottavat penisimplantit."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- T&#228;m&#228; ei ole uutta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">aloitin bisneksess&#228; jo&lt;br/&gt;50-luvulla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ensimm&#228;isess&#228; elokuvassani esitin&lt;br/&gt;cheer a leaderia ja Jack Warner</p>
+      <p begin="00:00:00.000" end="00:00:00.000">oli Warner Brothersilta ja &lt;br/&gt;h&#228;n sanoi haluavansa minun k&#228;ytt&#228;v&#228;n </p>
+      <p begin="00:00:00.000" end="00:00:00.000">tekotissej&#228; ja ohjaajani, Josh &lt;br/&gt;Slogan pyysi minua irrottamaan </p>
+      <p begin="00:00:00.000" end="00:00:00.000">takahampaani. En ollut riitt&#228;v&#228;n&lt;br/&gt;hyv&#228; omana itsen&#228;ni.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Uskon todella, ett&#228; tosi-TV&lt;br/&gt; nykyajan on vastareaktio </p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisten oikeuksia vastaan. - T&#228;m&#228; blondi&lt;br/&gt;, meid&#228;n pit&#228;&#228; huolehtia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;nen vartalosta. - Minusta yksi &lt;br/&gt;pahimmista strereotypioista on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tosi-TV:ss&#228; on, ett&#228;&lt;br/&gt; naiset ovat koristeita.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Naiset ovat typeri&#228;, naisia pidet&#228;&#228;n onnen onkijoina,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisia pidet&#228;&#228;n vittumaisina, &lt;br/&gt;manipoloijina,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ep&#228;luotettavina. Erityisesti&lt;br/&gt;muiden naisten puolelta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Sin&#228; olet tyhm&#228;"&lt;br/&gt;- "Minusta n&#228;yt&#228;t haahkalta" </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Ly&#246; minua narttu!"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Saatanan huora!" - Viittaus &lt;br/&gt;siihen, ett&#228; naiset ovat </p>
+      <p begin="00:00:00.000" end="00:00:00.000">luonnostaan vihollisia, kilpaillen&lt;br/&gt; siit&#228; kuka on kaunein,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tai jonkin rakkauden kohde,&lt;br/&gt;on niin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vastakkaista naisiin &lt;br/&gt;tosiel&#228;m&#228;ss&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"valitse minut, valitse minut&lt;br/&gt;,sano kuinka kaunis olen..."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- On todella ep&#228;tasa-arvoinen &lt;br/&gt;valta-asetelma. Tytt&#246;jen vartalot</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ovat arvostelun kohteena, &lt;br/&gt;ovatko ne hyv&#228;ksytt&#228;vi&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">haluttavia, ei haluttavia. &lt;br/&gt;Siihen liittyy paljon</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tytt&#246;jen vallan riist&#228;mist&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">N&#228;m&#228; showt ovat viimeisen&lt;br/&gt;vuosikymmen aikana yritt&#228;neet</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tuoda esiin maailmaa, jossa&lt;br/&gt;nasiten ainoa mahdollisuus on </p>
+      <p begin="00:00:00.000" end="00:00:00.000">matkia 50-luvun mallien femi-&lt;br/&gt;niinisyytt&#228;, jolloin naisten ainoa valta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">oli kauneus, naisella ei ollut &lt;br/&gt;valinnavaraa, eik&#228; h&#228;nen pit&#228;nyt sit&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">halutakkaan. miehill&#228; puolestaan&lt;br/&gt; oli vaastuulliset taakkansa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja he olivat hurmaavia prinssej&#228;,&lt;br/&gt;jotka veiv&#228;t naisilta jalat alta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja eliv&#228;t onnellisina el&#228;m&#228;n-&lt;br/&gt;s&#228; loppuun saakka. Mies tarjosi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">taloudellisen turvan. - Kukaan&lt;br/&gt; ei voita t&#228;ll&#228; tyylill&#228;, </p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta, erityisesti naiset h&#228;vi&#228;v&#228;t, kun heid&#228;n oletetaan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">n&#228;ytt&#228;v&#228;n Miss USA:lta, hararstavan&lt;br/&gt;seksi&#228; kuten Samantha </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Sinkkuel&#228;m&#228;&#228;-sarjassa ja &lt;br/&gt;ajattelevan kuin June Cleaver.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Ja t&#228;ss&#228; jotain, jonka</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tunnen koskettavan viel&#228;kin&lt;br/&gt;enemm&#228;n. Uutisia katsoessa niin moni</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisjurnalisti on seksualisoitu,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">N&#228;m&#228; ovat </p>
+      <p begin="00:00:00.000" end="00:00:00.000">CBS iltauutiset Katie &lt;br/&gt;Couricin kanssa </p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Hyv&#228;&#228; iltaa kaikille, olen iloinen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">voidessani ola kanssanne t&#228;n&#228;&#228;n."&lt;br/&gt;-Katie Couric oli ensimm&#228;inen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kansallinen kokemuksemme, &lt;br/&gt;jossa n&#228;imme naisen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joka ei viihdytt&#228;nyt meit&#228;, vaan&lt;br/&gt;joka</p>
+      <p begin="00:00:00.000" end="00:00:00.000">toi meill&#228; tietoa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Iltauutisia olivat hallinneet&lt;br/&gt;valkoiset miehet. Heill&#228; oli</p>
+      <p begin="00:00:00.000" end="00:00:00.000">hyvin samanlaiset kasvot ja taustat.&lt;br/&gt; Ajattelin t&#228;m&#228;n olevan mahdollisuus</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sekoittaa pakkaa hieman. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ajattelin, ett&#228; &lt;br/&gt;on t&#228;rke&#228;&#228; n&#228;ytt&#228;&#228; naisen voivan olla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yht&#228; itsevarma kuin mies,&lt;br/&gt; ja t&#228;rke&#228;ss&#228; asemassa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-Muistan ajat, jolloin toimittajat&lt;br/&gt;soittelivat ja sanoivat "Teill&#228; on </p>
+      <p begin="00:00:00.000" end="00:00:00.000">ensimm&#228;inen naisankuuri, mit&#228;&lt;br/&gt;mielt&#228; olet asiasta?"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Tietysti he kysyiv&#228;t ensin, &lt;br/&gt;"N&#228;ytt&#228;&#228;k&#246; h&#228;n mielest&#228;si liikaa s&#228;&#228;ri&#228;?"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Tai "Oliko valkoinen huono&lt;br/&gt;v&#228;rivalinta?"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ne olivat kaikki huomioita,&lt;br/&gt;jotka liittyiv&#228;t h&#228;nen ulkon&#228;k&#246;&#246;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ei todella sis&#228;lt&#246;&#246;n. Mutta&lt;br/&gt;ymm&#228;rr&#228;n sen, koska</p>
+      <p begin="00:00:00.000" end="00:00:00.000">olemme teinipoikakansa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">emme tied&#228;, mit&#228; tehd&#228; &lt;br/&gt;naiselle, joka istuu</p>
+      <p begin="00:00:00.000" end="00:00:00.000">edess&#228;mme, joten katsomme h&#228;nen&lt;br/&gt;s&#228;&#228;ri&#228;&#228;n, tissej&#228;&#228;n, hiuksiaan,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mit&#228; tahansa. Ja ehk&#228; jotenkin&lt;br/&gt;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuulemme my&#246;s mit&#228; h&#228;n sanoo.&lt;br/&gt;- Siit&#228; l&#228;htien, kun olen ollut mediassa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ensimm&#228;isest&#228; aamuohjelmasta l&#228;htien,&lt;br/&gt;jossa olin mukana </p>
+      <p begin="00:00:00.000" end="00:00:00.000">lis&#228;maustetytt&#246;n&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Mukana on ollut aina &lt;br/&gt;tasaisesti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kriittist&#228; postia, vihapostia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kun tulin tunnetummaksi,&lt;br/&gt; ja palautteen m&#228;&#228;r&#228; kasvoi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Vihaan sinua" homofobisen &lt;br/&gt;postin m&#228;&#228;r&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">inhoan milt&#228; n&#228;yt&#228;t, tapan sinut,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja muun uhkailupostin m&#228;&#228;r&#228; on &lt;br/&gt;pysynyt samana</p>
+      <p begin="00:00:00.000" end="00:00:00.000">aina, sen osuus on&lt;br/&gt;aina ollut 40 %:a palautteesta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Melkein kaikki vihaposti on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sukupuoleen liittyv&#228;&#228;. Kenell&#228;&lt;br/&gt;on aikaa, se todella</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ihmetytt&#228;&#228;. Miten joku, joka ei&lt;br/&gt;osaa edes kirjoittaa kunnolla k&#228;ytt&#228;&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">siihen aikaa? "Kerro minulle&lt;br/&gt; mit&#228; ojottelet?".</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Milt&#228; n&#228;yt&#228;nk&#228;&#228;n!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Naiset saavat osakseen &lt;br/&gt;paljon kytt&#228;&#228;mist&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joka ylitt&#228;&#228; reilusti &lt;br/&gt;miehiin kohdistuvan huomion.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">En koskaan n&#228;e juoruja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tai joutulehti&#228;, joissa &lt;br/&gt;kerrotaan Bryan Williamsin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yksityisel&#228;m&#228;st&#228;. Katie &lt;br/&gt;Couricin </p>
+      <p begin="00:00:00.000" end="00:00:00.000">pukeutumisesta ja miesyst&#228;vist&#228;&lt;br/&gt; tehd&#228;&#228;n etusivun uutisia. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Uskon, ett&#228; aina kun kaksi &lt;br/&gt;naista ty&#246;skentelee</p>
+      <p begin="00:00:00.000" end="00:00:00.000">samanlaisissa asemissa, siin&#228;&lt;br/&gt;on automaattisesti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kissatappelun ainesta. Diana ja &lt;br/&gt;minut laitettiin vastakkain</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ihan kuin olisimme olleet&lt;br/&gt;painiottelussa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Et koskaan n&#228;hnyt vastaavaa&lt;br/&gt; Tom Brooken</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja Peter Janetsin kohdalla. &lt;br/&gt;- "Otetaanpa punalakkiset pojat ja..." </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-"Okei okei..." - "Okei, hyv&#228;..."&lt;br/&gt;- Joskus katson</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kaapelikanavien uutisia ja n&#228;en&lt;br/&gt; naisten k&#228;ytt&#228;v&#228;n hyvin avonaisia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">paitoja, paljon meikki&#228;&lt;br/&gt; ja heid&#228;n hiukset</p>
+      <p begin="00:00:00.000" end="00:00:00.000">heid&#228;n hiukset on sekaisin ja &lt;br/&gt;n&#228;ytt&#228;&#228; silt&#228; kuin he </p>
+      <p begin="00:00:00.000" end="00:00:00.000">ty&#246;skentelisiv&#228;t coctail-tarjoilijoina,&lt;br/&gt;eiv&#228;tk&#228; uutistenlukijoina.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se on todella h&#228;mment&#228;v&#228;&lt;br/&gt; viesti.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Tervetuloa taas! N&#228;yt&#228;n teille&lt;br/&gt;kuvan ja saatte arvata onko nainen </p>
+      <p begin="00:00:00.000" end="00:00:00.000">uutistenlukija vai &lt;br/&gt;Hootersin tarjoilija. Valmiina...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Paikallisuutisten ankkurit &lt;br/&gt;n&#228;ytt&#228;v&#228;t ihan</p>
+      <p begin="00:00:00.000" end="00:00:00.000">papparaiselta ja t&#228;m&#228;n uudelta&lt;br/&gt;vaimolta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- TV on hyvin visuaalinen media ja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">on hienoinen ero n&#228;ytt&#228;&#228; &lt;br/&gt;miellytt&#228;v&#228;lt&#228; ja vieh&#228;tt&#228;v&#228;lt&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta samalla ammattimaiselta.&lt;br/&gt;Katson taaksep&#228;in ja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">huomaan, ett&#228; vanhoissa haas-&lt;br/&gt;tatteluissani hameeni oli liian</p>
+      <p begin="00:00:00.000" end="00:00:00.000">lyhyt. Joskus murehdin, ett&#228; &lt;br/&gt;min&#228; aloitin t&#228;m&#228;n s&#228;&#228;ri-jutun.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ett&#228; min&#228;...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Aoloitin t&#228;m&#228;n ulkon&#228;k&#246;trendin&lt;br/&gt;....en tied&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">On niin paljon painetta, n&#228;ytt&#228;&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tietynlaiselta. Kun olen TV:ss&#228;,&lt;br/&gt;en koskaan yrit&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">pukeutua seksikk&#228;&#228;sti. En halua </p>
+      <p begin="00:00:00.000" end="00:00:00.000">harhauttaa ihmisi&#228; asiasta. &lt;br/&gt;- Haluan, ett&#228; keskitytte sanomaani</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Teen paljon ty&#246;t&#228; showni eteen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joillekin tulen aina olemaan&lt;br/&gt; liian &#228;ll&#246; televisioon.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se on okei. Mutta jos selvi&#228;t&lt;br/&gt;alusta, se pysyy samana.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">koko l&#228;hetyksen ajan. - Uskon&lt;br/&gt;sen olevan vaikeaa naisille,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">t&#228;n&#228;&#228;n.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Keksittyminen naisten ulkon&#228;k&#246;&#246;n&lt;br/&gt;vaikuttaa enemm&#228;n kuin vain</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisiin ruudussa. Se vaikuttaa &lt;br/&gt;naisten kykyihin osallistua</p>
+      <p begin="00:00:00.000" end="00:00:00.000">poliittiseen prosessiin. Ironisesti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mit&#228; enemm&#228;n valtaa nainen saa,&lt;br/&gt;sit&#228; voimakkaampaa on selk&#228;&#228;n puukotus</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja t&#228;m&#228; ilmi&#246; n&#228;kyy</p>
+      <p begin="00:00:00.000" end="00:00:00.000">median tavassa ep&#228;kunnioittaa &lt;br/&gt;naisjohtajiamme.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"H&#228;n on vastustamattoman s&#246;p&#246;,&lt;br/&gt;se tapa jolla h&#228;n</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;n on vet&#228;v&#228;..."Sarah Palin&lt;br/&gt;n&#228;ytt&#228;&#228; tosi kuumalta tuossa hatussa..."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"H&#228;n juuri sanoi ett&#228;...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">..h&#228;n ei tied&#228; kuinka autot&lt;br/&gt;toimivat, hullua!!"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"Sin&#228; ja Sarah Palin olette&lt;br/&gt;hyv&#228;nn&#228;k&#246;isi&#228; naisia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vieh&#228;tt&#228;vi&#228; nuoria, tavallaan&lt;br/&gt;nuoria</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisia. - "Keycan laittaa&lt;br/&gt;Yhdysvaltain korkeimman oikeuden </p>
+      <p begin="00:00:00.000" end="00:00:00.000">... laitetaanpa asia niin, &lt;br/&gt;ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">emme halua h&#228;nen tapaista&lt;br/&gt;naamaa 5 dollarin seteliimme."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "... ja h&#228;nen klubi, haluan&lt;br/&gt;h&#228;net takaisin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Clevelandiin siivoamaan&lt;br/&gt;kokoustemme j&#228;lkeen." </p>
+      <p begin="00:00:00.000" end="00:00:00.000">-"Cynthia McKitty, entinen Georgian&lt;br/&gt;kuvern&#246;&#246;ri oli yksi vihainen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">musta akka! "- "Katso noita&lt;br/&gt;paskoja, jotka tekev&#228;t</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisjohtajia demokraattiseen&lt;br/&gt; puolueeseen."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Muistatko sen ruman Madeleine&lt;br/&gt;Allbrightin, spykopaatti..."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">"H&#228;n oli ulkoministeri Clintonin&lt;br/&gt;kaudella, lihava &#228;&#228;li&#246;..."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Nyt meill&#228; on se noiduttu&lt;br/&gt;akka l&#228;nnest&#228;..."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Luulen, ett&#228; jos Rosy pystyisi&lt;br/&gt;viel&#228; ihmism&#228;isiin ilmeisiin,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;n n&#228;ytt&#228;isi h&#228;pe&#228;v&#228;lt&#228;." - "Mancy ...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ota kasvojenkohotus nainen,&lt;br/&gt;muuten on aika kummaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">n&#228;hd&#228; nainen poliittisessa virassa."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- " Se on Moi Moi Maucelle!"</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- "Hillary Clintonin rahoitus ei &lt;br/&gt;ole parempi kuin Dumbon isot korvat."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">-"Kun h&#228;n korottaa &#228;&#228;nens&#228;,&lt;br/&gt;kuten monella naisella on tapana</p>
+      <p begin="00:00:00.000" end="00:00:00.000">...kuten sanon, se tekee sinusta&lt;br/&gt;niin t&#246;ker&#246;n..."-"Joo, joo...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">...tied&#228;tk&#246;...&lt;br/&gt;- ...ett&#228; amerikkalaiset..." </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Otat naisen ja olet&lt;br/&gt;maailman voimakkain...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">...mik&#228;s siin&#228;?. - Tarkoitat...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">PMS oireita ja mielialan&lt;br/&gt;vaihteluita.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Ei luultavasti ole voimakkaampaa&lt;br/&gt;vaikutusta, kuin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">miten n&#228;emme vallan kuin tapa,&lt;br/&gt;jolla media esitt&#228;&#228; vallan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja media esitt&#228;&#228; miesten &lt;br/&gt;m&#228;&#228;ritt&#228;v&#228;n vallan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se on ollut niin meid&#228;n ja&lt;br/&gt;edelt&#228;vien sukupolvien ajan.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun maan korkeimmassa virassa&lt;br/&gt; olevan naisen lehdist&#246;tilaisuudet</p>
+      <p begin="00:00:00.000" end="00:00:00.000">keskittyv&#228;t</p>
+      <p begin="00:00:00.000" end="00:00:00.000">esimerkiksi siihen,milt&#228; naiset&lt;br/&gt; n&#228;ytt&#228;v&#228;t, sen sijaan, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mit&#228; he ovat tehneet tai &lt;br/&gt;heid&#228;n asemaansa, sen t&#228;ytyy</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vaikuttaa kuulijakuntaan, siin&#228;&lt;br/&gt;miten he arvioivat n&#228;it&#228; naisia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se trivialisoi heid&#228;t ja&lt;br/&gt;saa heid&#228;t n&#228;ytt&#228;m&#228;&#228;n heikommilta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Vuoden 1984 demokraattien &lt;br/&gt;kansallisessa kokouksessa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun farrow oli ehdokkaana, &lt;br/&gt;h&#228;net esiteltiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">televisiossa ensimm&#228;isen&#228; ensim-&lt;br/&gt;m&#228;isen&#228; naisvarapresidenttiehdokkaana.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kokoa 6. Joten t&#228;m&#228; ei ole</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mit&#228;&#228;n uutta. - Kollegani teki &lt;br/&gt;tutkimuksen katsomalla Elisabethin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vaalikamppailua. - H&#228;n oli &lt;br/&gt;tulossa toiseksi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Iowassa, Gerge Bushin j&#228;lkeen,&lt;br/&gt;ja oli</p>
+      <p begin="00:00:00.000" end="00:00:00.000">paljon enemm&#228;n palstatilaa&lt;br/&gt;h&#228;nen ulkon&#228;&#246;st&#228;&#228;n kuin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">siit&#228; mit&#228; h&#228;n puhui. - Kun olin ehdolla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kongressiin, kampanjoin super-&lt;br/&gt;marketeissa ja naiset tulivat</p>
+      <p begin="00:00:00.000" end="00:00:00.000">luokseni ja halasivat, ja &lt;br/&gt;sanoivat, &#228;l&#228; huolehdi, et n&#228;yt&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">oikeasti niin lihavalta kuin &lt;br/&gt;n&#228;yt&#228;t TV:ss&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Viikkoa ennen vaaleja er&#228;s&lt;br/&gt;mies tuli luokseni sanoen, "N&#228;yt&#228;t hyv&#228;lt&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta, en voi &#228;&#228;enst&#228;&#228; sinua&lt;br/&gt;kongressiin, lapsen vahdiksi voisin palkata."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun ensimm&#228;isen kerran tavoittelin&lt;br/&gt;valtionvirkaa, mist&#228; on jo 20 vuotta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">vaikka nuorimmaiseni oli &lt;br/&gt;viimeisell&#228; luokalla lukiossa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">useimmin esitetty kysymys oli,&lt;br/&gt;kuka hoitaisi lapsianne?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se oli tietysti sellainen kysymys,&lt;br/&gt; jota miehelt&#228; ei kysytt&#228;si</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun h&#228;n on ehdolla. - Kun&lt;br/&gt;katsot naisia, jotka ovat ehdolla</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Jos katsot ehdolla olevien&lt;br/&gt;naisten titteleit&#228;...</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jos lehdist&#228; poistaa tittelin&lt;br/&gt;ja viitta heihin Rouvina</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Rouva Clinton. - Se on tapa &lt;br/&gt;v&#228;h&#228;tell&#228; saavutuksia.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; musiikkia &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">4 vuoden Puhemiehen uransa aikana&lt;br/&gt; Nancy Pelosi oli 0 kertaa lehtien kannessa </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- On olemassa sellainen juttu&lt;br/&gt;kuin puolueellinen media. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Esimerkiksi, media kirjoittaa&lt;br/&gt;samalla tavalla miehest&#228; ja naisesta,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Senaattori X-nainen valitti,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">...ja samasta asiasta, &lt;br/&gt;Senaattori Y</p>
+      <p begin="00:00:00.000" end="00:00:00.000">totesi. Eli miehet toteavat</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja naiset saavat negatiivisen&lt;br/&gt; sanan, "valittaa".</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Naisia kuvaillaan 2 kertaa &lt;br/&gt;todenn&#228;k&#246;isemmin tunteikkaiksi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuin miehi&#228;. Kuvaamalla naiset&lt;br/&gt;tunteekkaammiksi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuin miehet, vahvistamme stere-&lt;br/&gt;otypiaa siit&#228;, ett&#228; naiset</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ovat emotionaalisempia. He ovat&lt;br/&gt; irrationaalisia, eiv&#228;t hallitse kriisej&#228;,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">siksi heid&#228;n ei pit&#228;isi olla, &lt;br/&gt;johto asemissa. - Muistan monta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kertaa, kun kampanjan aikana&lt;br/&gt;ihmiset kysyiv&#228;t olenko tarpeeksi kova</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tullakseni p&#228;&#228;komentajaksi. Tied&#228;n&lt;br/&gt;monta miest&#228; jotka eiv&#228;t ole tarpeeksi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kovia. Mutta sellaisia ei kysell&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Varmista, ett&#228; n&#228;ill&#228; &lt;br/&gt;lapsilla on </p>
+      <p begin="00:00:00.000" end="00:00:00.000">kunnon amerikkalianen unelma,&lt;br/&gt;kuten minulla oli.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">se on t&#228;rke&#228;&#228;. - Vau, &lt;br/&gt;mit&#228; luulette</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Nancy Palosin tehneen?</p>
+      <p begin="00:00:00.000" end="00:00:00.000">H&#228;nen olisi sanottu olevan &lt;br/&gt;ep&#228;tasapinoinen ja kyvyt&#246;n,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tervetulos amerikkaan!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Nainen valta-asemassa n&#228;hd&#228;&#228;n&lt;br/&gt;usein negatiivisesti.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Yhdist&#228;mme yleens&#228; pahimmat &lt;br/&gt;valtaan liityv&#228;t asiat</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisiin, jotka etsiv&#228;t valtaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Yksi tavoista,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">jolla media toimi,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">oli puhua Hillaryn tavoitteista&lt;br/&gt;ik&#228;&#228;n kuin ne olisivat olleet pahoja. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun Barack Obama puhuu, &lt;br/&gt;mies ottaa </p>
+      <p begin="00:00:00.000" end="00:00:00.000">maalin tuluvaisuudestta. Kun &lt;br/&gt;Hillary puhuu, mies</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuulee "Vie roskat ulos!"&lt;br/&gt;-Kun h&#228;n reagoi kuten reagoi</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;n vain katsoo ja</p>
+      <p begin="00:00:00.000" end="00:00:00.000">n&#228;ytt&#228;&#228; silt&#228; kuin h&#228;n&lt;br/&gt;olisi jokaisen ensimm&#228;inen vaimo.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- En tied&#228; mit&#228; Hillarysta&lt;br/&gt;sanotaan.- En tied&#228;, mutta</p>
+      <p begin="00:00:00.000" end="00:00:00.000">tuo oli niin kuvaavaa. &lt;br/&gt;- Hyvin sanottu.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Kun h&#228;n tulee televisioon,&lt;br/&gt;ristin haluamatta jalkani.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Tied&#228;n! - Ahdistelijat&lt;br/&gt; seurasivat Hillarya</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sanoen "Silit&#228; paitani..."</p>
+      <p begin="00:00:00.000" end="00:00:00.000">&#9834; melua &#9834;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- H&#228;nt&#228; kutsuttiin yhten&#228;&#228;n&lt;br/&gt;nartuksi ja valtamedia</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- H&#228;n on nartun stereotyyppi. &lt;br/&gt;- Niin, tied&#228;t mit&#228; tarkoitan!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Vanha Bob p&#228;rj&#228;si hyvin helmikuussa,&lt;br/&gt; koska se oli mustan historian kuukausi. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ja nyt kaikki voivat hyvin,&lt;br/&gt;sill&#228; on valkoisen nartun kuukausi.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- H&#228;n tiesi miten n&#228;ytt&#228;&#228; nartulta.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">H&#228;n yritt&#228;&#228;, muttei pysty.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- H&#228;nen saavutuksensa kyseenalaistettiin&lt;br/&gt; jatkuvasti. - Ei unohdetta, ja ole suora</p>
+      <p begin="00:00:00.000" end="00:00:00.000">syy, miksi h&#228;n on senaattori ja&lt;br/&gt;presedenttikandidaatti on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">koska h&#228;n p&#228;&#228;si otsikkoihin&lt;br/&gt;miehens&#228; uskottomuuden seurauksena.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Tuppaamme unohtamaan, ettei&lt;br/&gt; h&#228;n voittanut paljolla. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Sarah Palin edustaa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">toisenlaista imagoa. H&#228;n on &lt;br/&gt;ensimm&#228;inen kansallinen korkeantason</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naiskandidaatti, joka esiintyi &lt;br/&gt;hyvin feminiinisesti.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Tosi naisena. - H&#228;n on amerikkalainen&lt;br/&gt;unelma, naiset haluavat olla kuten</p>
+      <p begin="00:00:00.000" end="00:00:00.000">h&#228;n, miehet haluavat s&#228;nkyyn h&#228;nen&lt;br/&gt; kanssaan- Min&#228; haluan h&#228;net s&#228;nkyyni!</p>
+      <p begin="00:00:00.000" end="00:00:00.000">H&#228;nest&#228; oli kuvia jalkojen v&#228;list&#228; &lt;br/&gt;republikaanien kokouksessa. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">H&#228;nest&#228; tehtiin pornoa ja kohdeltiin alentavasti. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">- En halua sanoa, ett&#228; &lt;br/&gt;h&#228;n on lutka</p>
+      <p begin="00:00:00.000" end="00:00:00.000">mutta, viime y&#246;n&#228; stripparini&lt;br/&gt;tekonimi oli Sarah Palin.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Annas kun kerron teille jotain&lt;br/&gt;Sarah Palinista.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- H&#228;n on hyv&#228;&#228; viihdett&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Joten Hillary yritti olla&lt;br/&gt; maskuliininen ja naisellinen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja h&#228;visi. Sarah Palin &lt;br/&gt;esiintyi eritavalla,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">hyperfeminiinisesti, ja h&#228;net&lt;br/&gt; hakattiin pahoin ja h&#228;v&#228;istiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">sukupuoleen kohdistuvilla tavoilla.&lt;br/&gt;- T&#228;n&#228; iltana olemme ylitt&#228;m&#228;ss&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">puoluerajoja puuttuaksemme &lt;br/&gt;seksistisiin kampajan aikana esintyneisiin ilkeyksiin</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Ep&#228;kohta, jonka kuuleminen &lt;br/&gt;yll&#228;tt&#228; minut.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Ihmisi&#228; &#228;kisti kiinnostaa.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Reportterit ja kommentaattorit, lopettakaa&lt;br/&gt;halventavien ilmausten k&#228;ytt&#228;minen,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kuten n&#228;tti, vieh&#228;tt&#228;v&#228;, kaunis. &lt;br/&gt; - Barbimainen,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">seisokin kutistaja. </p>
+      <p begin="00:00:00.000" end="00:00:00.000">[tapatuksia]</p>
+      <p begin="00:00:00.000" end="00:00:00.000">- Minun huoleni on nyt, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">miljoonat ihmiset katsovat Sarah&lt;br/&gt;Palinia, Hillary Clintonia,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisia politiikassa. Miljoonat&lt;br/&gt;nuoret naiset</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ovat katsoneet sit&#228;, ja viesti&lt;br/&gt;jonka he ovat saaneet ei ole opettava</p>
+      <p begin="00:00:00.000" end="00:00:00.000">k&#228;sittelem&#228;&#228;n t&#228;ll&#228;isia hyv&#228;ksi-&lt;br/&gt;k&#228;ytt&#246;j&#228;. - Meit&#228; ei kohdella</p>
+      <p begin="00:00:00.000" end="00:00:00.000">samoin, kun emme saa samaa mahdol-&lt;br/&gt;lisuutta, se on ihmisarvoa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">alentavaa. Kun ihmiset katsovat &lt;br/&gt;sinua eritavoin, koska olet nainen.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Joka sattuu olevaan vaikutusten&lt;br/&gt;alaisena</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joku joka olisi mies, olisi&lt;br/&gt;luonnollisesti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja ihmiset eiv&#228;t kyseenalistaisi&lt;br/&gt;kykyj&#228;si.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Se on yksinkertaisesti ihmisarvoa&lt;br/&gt;alentavaa. -Naisten voimaistaminen yleisesti </p>
+      <p begin="00:00:00.000" end="00:00:00.000">pelottaa miehi&#228;, koska heist&#228;&lt;br/&gt;tuntuu, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">voimakas nainen alistaa miest&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">yritt&#228;ess&#228;n nousta. &lt;br/&gt;- Kuten naiset</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ovat haastaneet meisten vallan&lt;br/&gt;niin liikeel&#228;m&#228;ss&#228;, ammatillisesti</p>
+      <p begin="00:00:00.000" end="00:00:00.000">koulutuksessa, politiikassa ja &lt;br/&gt;muissa sosiaalisissa yhteyksiss&#228;.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Naisten imago on</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kultturissamme aiheuttanut heid&#228;n &lt;br/&gt;vallan v&#228;henemisen</p>
+      <p begin="00:00:00.000" end="00:00:00.000">he ovat v&#228;hemm&#228;n vaarallisia, he&lt;br/&gt;ovat seksiobjekteja,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">ja siksi heilt&#228; on otettu pois&lt;br/&gt;tietty&#228; valtaa,</p>
+      <p begin="00:00:00.000" end="00:00:00.000">joka on osa kokonaisena ihmisen&#228; &lt;br/&gt;olemista. En usko, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">n&#228;m&#228; asiat ovat sattumaa. Uskon, ett&#228;</p>
+      <p begin="00:00:00.000" end="00:00:00.000">naisilta on symbolisesti riistetty&lt;br/&gt;valtaa</p>
+      <p begin="00:00:00.000" end="00:00:00.000">kun naiset ovat haastaneet &lt;br/&gt;miesten vallan ruohonjuuritasolla.</p>
+      <p begin="00:00:00.000" end="00:00:00.000">Kongressissa on v&#228;hiten naisia&lt;br/&gt;30 vuoteen. - N&#228;ytt&#228;&#228; silt&#228;, ett&#228;</p>
+    </div>
+  </body>
+
+</tt>

@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:31,985" end="00:00:50,359">[]</p>
+      <p begin="00:00:50,359" end="00:00:52,756">- Eu acho que &#233; imposs&#237;vel<br/>superestimar</p>
+      <p begin="00:00:52,756" end="00:00:55,048">a import&#226;ncia de Vidal Sassoon.</p>
+      <p begin="00:00:55,048" end="00:00:56,186">- Ele &#233; provavelmente um dos maiores,</p>
+      <p begin="00:00:56,186" end="00:00:59,853">se n&#227;o o maior cabeleireiro<br/>que j&#225; viveu.</p>
+      <p begin="00:00:59,853" end="00:01:04,909">- Com talento natural e motiva&#231;&#227;o<br/>e ambi&#231;&#227;o e pura coragem</p>
+      <p begin="00:01:04,909" end="00:01:07,526">e eu n&#227;o irei desistir.</p>
+      <p begin="00:01:07,526" end="00:01:11,081">Ele construiu algo que tomou o mundo<br/>de assalto.</p>
+      <p begin="00:01:11,081" end="00:01:14,174">- Era um homem com <br/>uma excelente ideia inovadora</p>
+      <p begin="00:01:14,174" end="00:01:16,025">que venceu o teste do tempo.</p>
+      <p begin="00:01:16,025" end="00:01:17,702">- Nosso pr&#243;ximo convidado<br/>se tornou famoso</p>
+      <p begin="00:01:17,702" end="00:01:20,286">por ter criado o The Shape,<br/>o The Five-point, o The Bob,</p>
+      <p begin="00:01:20,286" end="00:01:21,951">e muitos, muitos outros</p>
+      <p begin="00:01:21,951" end="00:01:24,527">- Eles foram os estilos que o lan&#231;aram</p>
+      <p begin="00:01:24,527" end="00:01:30,445">no caminho de criar uma empresa<br/>internacional multimilion&#225;ria.</p>
+      <p begin="00:01:30,445" end="00:01:33,285">- Bom, ele &#233; realmente uma celebridade<br/>internacional que revolucionou</p>
+      <p begin="00:01:33,285" end="00:01:35,762">a forma que as mulheres do mundo<br/>se pareciam por fora</p>
+      <p begin="00:01:35,762" end="00:01:38,195">e como elas se enxergavam<br/>por dentro.</p>
+      <p begin="00:01:38,195" end="00:01:40,460">- Vidal completamente se firmou</p>
+      <p begin="00:01:40,460" end="00:01:44,282">como a principal pessoa em<br/>cabelos no mundo.</p>
+      <p begin="00:01:44,282" end="00:01:48,659">- Provavelmente o maior legado<br/>no ramo de cabeleireiros atual</p>
+      <p begin="00:01:48,659" end="00:01:50,217">&#233; o nome Vidal Sassoon.</p>
+      <p begin="00:01:50,217" end="00:01:53,196">- Ele &#233; como, eu suponho, como um<br/>grande neg&#243;cio no ramo de cabeleireiros.</p>
+      <p begin="00:01:53,196" end="00:01:54,953">- Eu penso que se voc&#234; fosse ao Jap&#227;o<br/>e perguntasse a eles</p>
+      <p begin="00:01:54,953" end="00:01:56,391">que cabeleireiros voc&#234;s conhecem?</p>
+      <p begin="00:01:56,391" end="00:01:59,002">Eles iriam dizer, "Vidal Sassoon."<br/>Eles conheceriam o nome.</p>
+      <p begin="00:01:59,002" end="00:02:01,558">- &#201; como ser um boxeador<br/>no tempo de Muhammad Ali</p>
+      <p begin="00:02:01,558" end="00:02:05,662">ou ser um f&#237;sico<br/>e trabalhar ao lado de Einstein</p>
+      <p begin="00:02:05,662" end="00:02:07,483">porque ele era t&#227;o bom assim.</p>
+      <p begin="00:02:07,483" end="00:02:10,644">- N&#243;s pensamos em Sassoon,<br/>n&#243;s tamb&#233;m pensamos em libera&#231;&#227;o.</p>
+      <p begin="00:02:10,644" end="00:02:13,737">- Ele simplesmente parece exalar<br/>essa magia ao redor dele.</p>
+      <p begin="00:02:13,737" end="00:02:16,302">- Se eu fosse a Rainha da Inglaterra,<br/>eu o faria cavaleiro.</p>
+      <p begin="00:02:16,302" end="00:02:18,743">- Muito sobre Sasson &#233; um mito.</p>
+      <p begin="00:02:18,743" end="00:02:23,287">- Eu enfrentei v&#225;rias pessoas incr&#237;veis<br/>no meu tempo, mas para mim, ele &#233; o cara.</p>
+      <p begin="00:02:23,287" end="00:02:25,120">Sim, ele &#233; o Messias.</p>
+      <p begin="00:02:25,120" end="00:02:30,236">- Se voc&#234; n&#227;o ficar bem,<br/>n&#243;s n&#227;o ficaremos bem.</p>
+      <p begin="00:02:30,236" end="00:03:12,076">[]</p>
+      <p begin="00:03:24,600" end="00:03:32,490">- Sabe, eu estou sentado aqui<br/>realmente refletindo aos 81 anos.</p>
+      <p begin="00:03:32,490" end="00:03:35,614">Quem iria sonhar que<br/>sessenta e sete anos atr&#225;s,</p>
+      <p begin="00:03:35,614" end="00:03:42,717">com a idade de catorze, l&#225; estava eu<br/>no lado leste de Londres.</p>
+      <p begin="00:03:42,717" end="00:03:44,201">Um "menino do shampoo"</p>
+      <p begin="00:03:44,201" end="00:03:49,585">E ent&#227;o sentando aqui,<br/>mais de sessenta anos depois.</p>
+      <p begin="00:03:49,585" end="00:03:53,439">E eu estou pensando,<br/>"Como tudo isso aconteceu?"</p>
+      <p begin="00:03:53,439" end="00:03:56,202">Como &#233; que tanta aventura aconteceu?</p>
+      <p begin="00:03:56,202" end="00:04:01,067">[]</p>
+      <p begin="00:04:01,067" end="00:04:03,735">Voltar todos esses anos,<br/>pense</p>
+      <p begin="00:04:03,735" end="00:04:08,485">a empolga&#231;&#227;o, a criatividade,<br/>as pessoas que voc&#234; conheceu.</p>
+      <p begin="00:04:08,485" end="00:04:26,257">[]</p>
+      <p begin="00:04:26,257" end="00:04:29,096">- Ent&#227;o vamos em frente e<br/>come&#231;ar a montar a parede</p>
+      <p begin="00:04:29,096" end="00:04:30,890">porque o Vidal est&#225; chegando para v&#234;-la.</p>
+      <p begin="00:04:30,890" end="00:04:33,264">Eu conhe&#231;o o Vidal<br/>por cerca de quinze anos</p>
+      <p begin="00:04:33,264" end="00:04:35,163">e eu o considero um grande amigo.</p>
+      <p begin="00:04:35,163" end="00:04:38,777">Eu sempre estive na posi&#231;&#227;o<br/>de mais velho falando &#224;s outras pessoas.</p>
+      <p begin="00:04:38,777" end="00:04:40,867">Ent&#227;o, tendo algu&#233;m que voc&#234;<br/>respeita imensamente</p>
+      <p begin="00:04:40,867" end="00:04:44,502">e que tem um tamanho impacto<br/>na vida das pessoas como amigo</p>
+      <p begin="00:04:44,502" end="00:04:46,653">&#233; maravilhoso.</p>
+      <p begin="00:04:46,653" end="00:04:49,202">Quanto mais eu pude conhec&#234;-lo,<br/>eu descobri que t&#237;nhamos muito em comum.</p>
+      <p begin="00:04:49,202" end="00:04:52,674">Ambos somos cabeleireiros.<br/>Assim foi como come&#231;amos em Londres.</p>
+      <p begin="00:04:52,674" end="00:04:55,907">Ambos mudando para criar<br/>empresas de produtos.</p>
+      <p begin="00:04:55,907" end="00:04:58,034">Eu descobri que, na verdade,</p>
+      <p begin="00:04:58,034" end="00:05:01,434">ningu&#233;m tinha realmente registrado<br/>suas conquistas, sua vida.</p>
+      <p begin="00:05:01,434" end="00:05:06,049">Ent&#227;o, eu pensei que um livro<br/>era absolutamente necess&#225;rio.</p>
+      <p begin="00:05:06,049" end="00:05:08,228">Eu senti que era algo realmente<br/>importante de se registrar.</p>
+      <p begin="00:05:08,228" end="00:05:11,589">Ele teve um impacto no mundo <br/>que nenhum cabeleireiro jamais teve.</p>
+      <p begin="00:05:11,589" end="00:05:13,339">Ele mudou o visual das mulheres.</p>
+      <p begin="00:05:13,339" end="00:05:16,714">[]</p>
+      <p begin="00:05:16,714" end="00:05:19,710">Essa &#233; a forma que livros costumavam<br/>ser feitos para as livrarias.</p>
+      <p begin="00:05:19,710" end="00:05:21,688">Voc&#234; os coloca no ch&#227;o ou na parede.</p>
+      <p begin="00:05:21,688" end="00:05:23,969">Voc&#234; faz um layout.</p>
+      <p begin="00:05:23,969" end="00:05:27,546">Eu acho que ele ficar&#225;<br/>tocado ao ver isso.</p>
+      <p begin="00:05:27,546" end="00:05:31,291">Houve s&#233;ries de entrevistas<br/>de 3 a 4 horas.</p>
+      <p begin="00:05:31,291" end="00:05:33,125">Lugares diferentes,<br/>hor&#225;rios diferentes.</p>
+      <p begin="00:05:33,125" end="00:05:37,399">O primeiro lugar onde entrevistamos ele<br/>foi na sua casa em Beverly Hills.</p>
+      <p begin="00:05:37,399" end="00:05:49,441">[]</p>
+      <p begin="00:05:49,441" end="00:05:53,729">- Ent&#227;o, voc&#234; nasceu em 1928,<br/>na Shepherds Bush?</p>
+      <p begin="00:05:53,729" end="00:05:57,017">- Quando eu tinha, talvez, 2 1/2 a 3,</p>
+      <p begin="00:05:57,017" end="00:05:58,868">minha m&#227;e foi despejada.</p>
+      <p begin="00:05:58,868" end="00:06:03,549">Voc&#234; deve lembrar,<br/>foi em 1928 que eu nasci.</p>
+      <p begin="00:06:03,549" end="00:06:08,931">Ent&#227;o nos anos 30, 31,<br/>a Depress&#227;o estava presente.</p>
+      <p begin="00:06:08,931" end="00:06:12,086">Meu pai nos deixou.<br/>Eu tinha um irm&#227;o menor.</p>
+      <p begin="00:06:12,086" end="00:06:14,454">E diferente de hoje,<br/>onde somos multi-culturais,</p>
+      <p begin="00:06:15,954" end="00:06:17,954">sendo judeu,<br/>nos destac&#225;vamos mais naqueles dias.</p>
+      <p begin="00:06:17,954" end="00:06:20,638">N&#243;s precis&#225;vamos de algum<br/>lugar para viver.</p>
+      <p begin="00:06:20,638" end="00:06:25,826">Ent&#227;o, ela apelou as autoridades judias<br/>para nos levar para esse orfanato aqui.</p>
+      <p begin="00:06:25,826" end="00:06:31,106">E eu fiquei dos cinco aos onze<br/>no orfanato,</p>
+      <p begin="00:06:31,106" end="00:06:34,849">e cantava no coral da sinagoga.</p>
+      <p begin="00:06:34,849" end="00:06:53,465">[]</p>
+      <p begin="00:06:53,465" end="00:06:58,092">Hummm</p>
+      <p begin="00:06:58,092" end="00:07:03,711">Setenta e dois anos atr&#225;s,<br/>isso &#233; onde eu costumava sentar.</p>
+      <p begin="00:07:03,711" end="00:07:05,786">Eu era um garoto de coral.</p>
+      <p begin="00:07:05,786" end="00:07:11,596">O maestro do coral, ele<br/>dava tapa nas m&#227;os de vez em quando.</p>
+      <p begin="00:07:11,596" end="00:07:13,507">[]</p>
+      <p begin="00:07:13,507" end="00:07:16,998">Porque, voc&#234; sabe, &#233;ramos crian&#231;as<br/>e &#233;ramos sem-vergonha as vezes.</p>
+      <p begin="00:07:16,998" end="00:07:21,015">Mas eram cultos encantadores.<br/>Eles eram muito calorosos, muito gentis.</p>
+      <p begin="00:07:21,461" end="00:07:25,497">Agora, neste momento,</p>
+      <p begin="00:07:25,497" end="00:07:28,241">Eu n&#227;o sei se eu era ent&#227;o - <br/>Eu era muito novo.</p>
+      <p begin="00:07:28,241" end="00:07:31,463">Mas agora, estou me sentindo<br/>totalmente espiritual.</p>
+      <p begin="00:07:31,463" end="00:07:38,840">H&#225; um sentimento de paz aqui e &#233; <br/>uma sinagoga com um formato maravilhoso.</p>
+      <p begin="00:07:38,840" end="00:07:43,751">Ela n&#227;o mudou.<br/>N&#227;o posso pensar em nada que tenha mudado.</p>
+      <p begin="00:07:43,751" end="00:07:48,110">Para te dar um trechinho<br/>de algo que costum&#225;vamos cantar,</p>
+      <p begin="00:07:48,110" end="00:07:50,265">costum&#225;vamos cantar<br/>Aleluia, Aleluia.</p>
+      <p begin="00:07:50,265" end="00:07:53,585">E a can&#231;&#227;o era <br/>Aleluia</p>
+      <p begin="00:07:53,585" end="00:07:55,728">Aleluia</p>
+      <p begin="00:07:55,728" end="00:08:08,647">[]</p>
+      <p begin="00:08:08,647" end="00:08:10,601">O que eu mais sinto saudade <br/>&#233; da minha m&#227;e.</p>
+      <p begin="00:08:10,601" end="00:08:17,957">Eles somente me permitiam v&#234;-la<br/>uma vez por m&#234;s.</p>
+      <p begin="00:08:17,957" end="00:08:20,979">Eu fugi do orfanato.</p>
+      <p begin="00:08:20,979" end="00:08:25,381">Fui at&#233; meu pai que era bem mais perto<br/>do que o leste onde minha m&#227;e vivia.</p>
+      <p begin="00:08:25,381" end="00:08:30,142">Ele me levou de volta para o orfanato<br/>o mais r&#225;pido que ele p&#244;de.</p>
+      <p begin="00:08:30,142" end="00:08:33,861">E eu pude ver que<br/>n&#227;o havia ali nenhum carinho ou amor.</p>
+      <p begin="00:08:33,861" end="00:08:39,741">Podia dizer que enquanto ele ia embora,<br/>quando me entregou as autoridades,</p>
+      <p begin="00:08:39,741" end="00:08:42,659">ele j&#225; tinha alguma outra<br/>coisa na sua mente.</p>
+      <p begin="00:08:42,659" end="00:08:45,330">Ele nem me olhou.</p>
+      <p begin="00:08:45,330" end="00:08:52,534">Acho que naquele momento eu perdi<br/>qualquer amor que eu tive por ele.</p>
+      <p begin="00:08:52,534" end="00:08:55,314">Nunca mais o vi.</p>
+      <p begin="00:08:55,945" end="00:08:59,089">- Veja,<br/>eu tive dois filhos lindos.</p>
+      <p begin="00:08:59,089" end="00:09:00,734">E eu sempre tive o sentimento</p>
+      <p begin="00:09:00,734" end="00:09:05,987">de que queria que meus filhos crescessem<br/>para serem muito orgulhosos de sua m&#227;e.</p>
+      <p begin="00:09:05,987" end="00:09:08,415">E eu acho que isso me ajudou bastante.</p>
+      <p begin="00:09:08,415" end="00:09:12,657">- Se tem alguma coisa que voc&#234; desejaria<br/>para mim no futuro, o que seria?</p>
+      <p begin="00:09:12,657" end="00:09:14,457">- Ah Meu Deus, e isso &#233; a verdade...</p>
+      <p begin="00:09:14,457" end="00:09:19,299">Eu desejaria felicidade na sua vida<br/>porque voc&#234; merece, filho.</p>
+      <p begin="00:09:19,299" end="00:09:21,967">Se algu&#233;m merece,<br/>&#233; voc&#234; porque voc&#234; tem sido...</p>
+      <p begin="00:09:21,967" end="00:09:24,010">para mim...</p>
+      <p begin="00:09:24,010" end="00:09:27,559">Por favor, &#233; verdadeiramente o melhor<br/>filho que uma m&#227;e poderia ter.</p>
+      <p begin="00:09:27,559" end="00:09:34,672">E eu penso que sou aben&#231;oada<br/>por Deus por ter tal filho.</p>
+      <p begin="00:09:34,672" end="00:09:36,727">- A vida dela foi sofrida.</p>
+      <p begin="00:09:36,727" end="00:09:40,618">A minha foi diferente. N&#227;o conhecia nada.<br/>O orfanato e ent&#227;o a guerra come&#231;ou.</p>
+      <p begin="00:09:40,618" end="00:09:45,086">- N&#243;s podemos ir at&#233; o fim.<br/>N&#243;s podemos lutar na Fran&#231;a.</p>
+      <p begin="00:09:45,086" end="00:09:47,132">N&#243;s podemos lutar nos mares e oceanos.</p>
+      <p begin="00:09:47,132" end="00:09:49,235">- E ent&#227;o de repente,<br/>fomos todos levados.</p>
+      <p begin="00:09:49,235" end="00:09:52,978">Todas as crian&#231;as de Londres<br/>e enviados para o interior.</p>
+      <p begin="00:09:52,978" end="00:09:55,983">Onde n&#243;s vivemos com vacas e ovelhas<br/>pelos pr&#243;ximos anos.</p>
+      <p begin="00:09:55,983" end="00:09:58,041">E claro, pessoas bem legais <br/>que nos receberam.</p>
+      <p begin="00:09:58,041" end="00:10:01,628">Eu voltei para Londres com quatorze<br/>e a guerra ainda continuava.</p>
+      <p begin="00:10:01,628" end="00:10:05,563">E n&#243;s &#237;amos dormir no abrigo<br/>assim como todo mundo.</p>
+      <p begin="00:10:05,563" end="00:10:10,167">E a Luftwaffe estava rearrumando<br/>as ruas de Londres toda noite</p>
+      <p begin="00:10:10,167" end="00:10:12,416">A arquitetura estava mudando<br/>constantemente.</p>
+      <p begin="00:10:12,416" end="00:10:15,878">- N&#243;s havemos de defender <br/>nossa ilha custe o que custar.</p>
+      <p begin="00:10:15,878" end="00:10:18,199">- Eu tinha um emprego <br/>como cortador de luvas</p>
+      <p begin="00:10:18,199" end="00:10:20,008">Eu cortava pequenas tiras</p>
+      <p begin="00:10:20,008" end="00:10:23,186">que eles iriam costurar <br/>juntas com as luvas.</p>
+      <p begin="00:10:23,186" end="00:10:24,884">Parecia que eu sempre tinha<br/>um par de tesouras na m&#227;o.</p>
+      <p begin="00:10:24,884" end="00:10:27,522">A n&#227;o ser por tr&#234;s<br/>meses em Londres.</p>
+      <p begin="00:10:27,522" end="00:10:31,381">Eles precisavam de meninos mensageiros<br/>que tivessem bicicletas</p>
+      <p begin="00:10:31,381" end="00:10:35,729">para levar mensagens <br/>da cidade para o campo.</p>
+      <p begin="00:10:35,729" end="00:10:39,898">Minha m&#227;e se casou com Nathan G.,<br/>Nathan Goldberg</p>
+      <p begin="00:10:39,898" end="00:10:43,809">Grande cara. Me deu uma<br/>bicicleta e peguei o emprego.</p>
+      <p begin="00:10:43,809" end="00:10:45,058">O emprego era fascinante</p>
+      <p begin="00:10:45,058" end="00:10:48,877">porque as ruas estavam bloqueadas<br/>e as constru&#231;&#245;es derrubadas.</p>
+      <p begin="00:10:48,877" end="00:10:53,360">E eu estava pilotando uma bicicleta<br/>aos catorze, realmente me divertindo.</p>
+      <p begin="00:10:53,360" end="00:10:54,377">[]</p>
+      <p begin="00:10:54,377" end="00:10:56,643">Sabe, voc&#234; come&#231;a a se sentir<br/>que nem um her&#243;i de guerra.</p>
+      <p begin="00:10:56,643" end="00:10:58,151">[]</p>
+      <p begin="00:10:58,151" end="00:11:01,205">- ...e nas ruas, <br/>n&#243;s lutaremos nos montes.</p>
+      <p begin="00:11:01,205" end="00:11:03,686">N&#243;s nunca iremos<br/>nos render.</p>
+      <p begin="00:11:03,686" end="00:11:08,047">Minha m&#227;e sempre estava preocupada,<br/>dizendo "Voc&#234; tem que aprender um of&#237;cio!"</p>
+      <p begin="00:11:08,047" end="00:11:11,124">Ela disse "Bem, eu tive<br/>uma premoni&#231;&#227;o,"</p>
+      <p begin="00:11:11,124" end="00:11:11,995">"O que &#233; isso m&#227;e?"</p>
+      <p begin="00:11:11,995" end="00:11:14,574">Ela disse, <br/>"Voc&#234; ir&#225; ser um cabeleireiro."</p>
+      <p begin="00:11:14,574" end="00:11:16,489">Eu disse, <br/>"Eu vou ser o qu&#234;?"</p>
+      <p begin="00:11:16,489" end="00:11:18,957">Ela disse,<br/>"Um cabeleireiro."</p>
+      <p begin="00:11:18,957" end="00:11:21,463">Ent&#227;o ela me levou pela m&#227;o.</p>
+      <p begin="00:11:21,463" end="00:11:24,410">A um homem chamado Adolph Cohen,<br/>Na Rua White Chapel.</p>
+      <p begin="00:11:24,410" end="00:11:26,513">Agora, White Chapel<br/>&#233; o cora&#231;&#227;o do sub&#250;rbio.</p>
+      <p begin="00:11:26,513" end="00:11:28,050">E ali estava este maravilhoso<br/>homenzinho.</p>
+      <p begin="00:11:28,050" end="00:11:30,013">Ele n&#227;o devia ter<br/>mais de um metro e meio.</p>
+      <p begin="00:11:30,013" end="00:11:32,720">Ele perguntava sobre<br/>uma centena de guinnes.</p>
+      <p begin="00:11:32,720" end="00:11:38,118">Agora isso era cem libras<br/>e cem shillings naqueles tempos.</p>
+      <p begin="00:11:38,118" end="00:11:40,768">O que &#233; um valor imposs&#237;vel.</p>
+      <p begin="00:11:40,768" end="00:11:43,511">Minha m&#227;e disse, <br/>"N&#243;s n&#227;o temos cem bot&#245;es."</p>
+      <p begin="00:11:43,511" end="00:11:49,200">Eu estava sorrindo porque estava aliviado<br/>que eu n&#227;o seria um cabeleireiro.</p>
+      <p begin="00:11:49,200" end="00:11:51,946">Ent&#227;o eu fui at&#233; a porta <br/>e abri ela pra minha m&#227;e</p>
+      <p begin="00:11:51,946" end="00:11:53,557">e apressei ela a passar.</p>
+      <p begin="00:11:53,557" end="00:11:55,944">E eu tirava o bon&#233;. <br/>Ele nos seguiu at&#233; fora.</p>
+      <p begin="00:11:55,944" end="00:11:58,832">Ele disse "Voc&#234; parece at&#233; ter<br/>boas maneiras, garoto."</p>
+      <p begin="00:11:58,832" end="00:12:03,948">"Comece Segunda." Ele olhou para minha<br/>m&#227;e e disse, "Vamos esquecer a taxa."</p>
+      <p begin="00:12:03,948" end="00:12:06,317">Ent&#227;o meu treinamento<br/>n&#227;o custou nada.</p>
+      <p begin="00:12:06,317" end="00:12:14,434">[]</p>
+      <p begin="00:12:14,434" end="00:12:17,436">Eu fui um aprendiz por dois anos<br/>com o Adolph</p>
+      <p begin="00:12:17,436" end="00:12:19,401">Homem extraordin&#225;rio.</p>
+      <p begin="00:12:19,401" end="00:12:23,412">Cal&#231;as passadas toda manh&#227;.<br/>Unhas limpas. Sapatos limpos.</p>
+      <p begin="00:12:23,412" end="00:12:26,277">Meio de uma guerra -- <br/>como isso era poss&#237;vel?</p>
+      <p begin="00:12:26,277" end="00:12:27,959">Ele era um met&#243;dico!</p>
+      <p begin="00:12:27,959" end="00:12:34,267">E eu acho que isso tinha um<br/>efeito enorme no meu sentido de como</p>
+      <p begin="00:12:34,267" end="00:12:37,698">n&#243;s dever&#237;amos progredir<br/>em nosso of&#237;cio.</p>
+      <p begin="00:12:37,698" end="00:12:42,458">- Eles n&#227;o conseguem deixar de se<br/>impressionar com ele mesmo aos 80 anos.</p>
+      <p begin="00:12:42,458" end="00:12:44,594">E ele &#233; um homem<br/>que leu muito.</p>
+      <p begin="00:12:44,594" end="00:12:47,409">Ele realmente sabe<br/>um monte de coisas.</p>
+      <p begin="00:12:47,409" end="00:12:50,212">Ele estudou bastante.<br/>Educado por si pr&#243;prio.</p>
+      <p begin="00:12:50,212" end="00:12:54,182">Vamos dizer que come&#231;ou aos catorze,<br/>no Adolph Cohen, entende o que digo?</p>
+      <p begin="00:12:54,182" end="00:12:59,224">Ele &#233; completamente e com certeza<br/>provavelmente um dos maiores exemplos,</p>
+      <p begin="00:12:59,224" end="00:13:03,688">especialmente no nosso neg&#243;cio de um<br/>homem que por si mesmo se tornou grande.</p>
+      <p begin="00:13:03,688" end="00:13:09,231">- Voc&#234; deve lembrar que eu vivi em um<br/>tempo onde havia muita m&#225; inten&#231;&#227;o.</p>
+      <p begin="00:13:09,231" end="00:13:12,976">Voc&#234; sabe, com o fascismo<br/>e sendo uma crian&#231;a judia</p>
+      <p begin="00:13:12,976" end="00:13:15,669">e se metendo em todo tipo<br/>de problema nessa &#225;rea.</p>
+      <p begin="00:13:15,669" end="00:13:21,561">N&#243;s vimos os filmes do livro de Auschwitz.<br/>Sabe, e no bunker eles acharam</p>
+      <p begin="00:13:21,561" end="00:13:25,296">sessenta mil pares de sapatos de<br/>crian&#231;a mas nenhuma crian&#231;a.</p>
+      <p begin="00:13:25,296" end="00:13:27,392">- Mosley saiu da pris&#227;o<br/>com todos os fascistas</p>
+      <p begin="00:13:27,392" end="00:13:29,620">e eles come&#231;aram a colocar<br/>seus uniformes de novo.</p>
+      <p begin="00:13:29,620" end="00:13:31,345">Eles est&#227;o fazendo<br/>exatamente a mesma coisa.</p>
+      <p begin="00:13:31,345" end="00:13:34,012">N&#227;o tem como voc&#234; conseguir<br/>lidar com eles no n&#237;vel intelectual</p>
+      <p begin="00:13:34,012" end="00:13:36,001">e sair falando o que pensa.</p>
+      <p begin="00:13:36,001" end="00:13:37,751">Era uma guerra de rua.</p>
+      <p begin="00:13:37,751" end="00:13:41,885">E um grupo de ex-trabalhadores<br/>come&#231;aram um grupo anti-fascista</p>
+      <p begin="00:13:41,885" end="00:13:46,683">e eu juro, dentro de um ano<br/>as ruas estavam livres de fascistas.</p>
+      <p begin="00:13:46,683" end="00:13:49,327">- Jovens como eu,<br/>n&#243;s nos juntamos.</p>
+      <p begin="00:13:49,327" end="00:13:51,415">E nos era dada toda<br/>a informa&#231;&#227;o.</p>
+      <p begin="00:13:51,415" end="00:13:52,249">Onde eles estariam.</p>
+      <p begin="00:13:52,249" end="00:13:53,516">Onde eles teriam suas reuni&#245;es.</p>
+      <p begin="00:13:53,516" end="00:13:56,299">N&#243;s fizemos algum dano.</p>
+      <p begin="00:13:56,299" end="00:13:58,428">- E ent&#227;o o assalto de Mosley</p>
+      <p begin="00:13:58,428" end="00:13:59,928">foi para Londres para<br/>organizar um rally em Dalston.</p>
+      <p begin="00:13:59,928" end="00:14:02,466">Cenas de muitos protestos de Mosley<br/>no per&#237;odo antes da guerra.</p>
+      <p begin="00:14:02,466" end="00:14:08,353">- Havia sempre esse sentimento de ter<br/>que provar alguma coisa para mim mesmo.</p>
+      <p begin="00:14:09,769" end="00:14:12,789">Era algo muito pessoal.</p>
+      <p begin="00:14:12,789" end="00:14:14,432">[]</p>
+      <p begin="00:14:14,432" end="00:14:17,282">Ah, uma vez eu vim do trabalho<br/>machucado em um lado.</p>
+      <p begin="00:14:17,282" end="00:14:19,308">Algu&#233;m tinha me acertado<br/>com um anel.</p>
+      <p begin="00:14:19,308" end="00:14:21,211">Quando eu entrei,<br/>um cliente disse,</p>
+      <p begin="00:14:21,211" end="00:14:24,211">"Meu Deus! O que<br/>aconteceu com o seu rosto?"</p>
+      <p begin="00:14:24,211" end="00:14:28,183">Eu disse nada cara, eu simplesmente<br/>tropecei sobre um quadril e...</p>
+      <p begin="00:14:28,183" end="00:14:31,069">- Depois do Holocausto voc&#234; n&#227;o<br/>poderia simplesmente se sentar em casa</p>
+      <p begin="00:14:31,069" end="00:14:34,878">e permitir que estes viados fiquem<br/>correndo ao redor de Londres gritando</p>
+      <p begin="00:14:34,878" end="00:14:37,878">"N&#243;s temos que nos<br/>livrar desses Judeus."</p>
+      <p begin="00:14:37,878" end="00:14:40,041">Eles j&#225; tinham se livrado<br/>de seis milh&#245;es.</p>
+      <p begin="00:14:40,041" end="00:14:42,718">- Em Maio de 1948,<br/>um novo estado judeu, Israel,</p>
+      <p begin="00:14:42,718" end="00:14:45,114">nasceu em um banhod<br/>e sangue.</p>
+      <p begin="00:14:45,114" end="00:14:48,064">tropas judaicas cercaram for&#231;as<br/>da cidade de Haifa</p>
+      <p begin="00:14:48,064" end="00:14:51,696">na primeira de uma s&#233;rie de batalhas<br/>que ir&#227;o reverberar atrav&#233;s dos anos</p>
+      <p begin="00:14:51,696" end="00:14:56,563">- Eu achava o conceito de <br/>ir para Israel t&#227;o fascinante.</p>
+      <p begin="00:14:56,563" end="00:15:02,279">Que pus meu nome e gastei provavelmente<br/>um dos melhores anos da minha vida</p>
+      <p begin="00:15:02,279" end="00:15:04,469">Eu me encontrei ali<br/>como um ser humano.</p>
+      <p begin="00:15:04,469" end="00:15:07,541">Quero dizer, eu n&#227;o pensava<br/>na grande trag&#233;dia da guerra.</p>
+      <p begin="00:15:07,541" end="00:15:09,745">Eu simplesmente pensava, como uma<br/>crian&#231;a que era uma aventura.</p>
+      <p begin="00:15:09,745" end="00:15:14,544">[]</p>
+      <p begin="00:15:14,544" end="00:15:15,730">Se tornou um estado em Maio de 48,</p>
+      <p begin="00:15:15,730" end="00:15:17,620">Eu n&#227;o cheguei l&#225; at&#233; Julho.</p>
+      <p begin="00:15:17,620" end="00:15:22,509">[]</p>
+      <p begin="00:15:22,509" end="00:15:27,975">N&#243;s est&#225;vamos em Palmark<br/>que era uma pris&#227;o de 4 pavilh&#245;es.</p>
+      <p begin="00:15:27,975" end="00:15:32,141">Tempos dif&#237;ceis quando camaradas<br/>eram ou mortos ou feridos.</p>
+      <p begin="00:15:32,141" end="00:15:35,555">Foi uma experi&#234;ncia fascinante<br/>estar com essas pessoas</p>
+      <p begin="00:15:35,555" end="00:15:39,223">e vivenciar o que vivenciei ali.</p>
+      <p begin="00:15:41,978" end="00:15:44,451">Antes de ir para Israel,<br/>eu n&#227;o sabia quem eu era.</p>
+      <p begin="00:15:44,451" end="00:15:47,677">Como um judeu, voc&#234; &#233; a minoria<br/>em qualquer pa&#237;s europeu.</p>
+      <p begin="00:15:47,677" end="00:15:49,984">Foi a primeira vez <br/>que eu pude realmente dizer</p>
+      <p begin="00:15:49,984" end="00:15:54,014">Eu achei um senso de dignidade<br/>como ser humano.</p>
+      <p begin="00:15:54,014" end="00:15:58,638">&#201; um acontecimento bastante espiritual<br/>estar no deserto.</p>
+      <p begin="00:15:58,638" end="00:16:02,608">E o deserto tem um jeito<br/>de fazer voc&#234; se dobrar a sua vontade.</p>
+      <p begin="00:16:02,608" end="00:16:05,397">Olhando as estrelas na noite,<br/>voc&#234; volta e meia se pergunta</p>
+      <p begin="00:16:05,397" end="00:16:07,830">o que voc&#234; vai fazer com a sua vida.</p>
+      <p begin="00:16:07,830" end="00:16:12,320">Quero dizer, a &#250;nica coisa que eu sabia<br/>como fazer era ser cabelereiro.</p>
+      <p begin="00:16:12,320" end="00:16:15,979">E naquele tempo eu n&#227;o era muito,<br/>muito bom naquilo.</p>
+      <p begin="00:16:15,979" end="00:16:21,691">Se eu tenho que ser cabeleireiro, porque<br/>eu n&#227;o tenho outra forma de ganhar a vida,</p>
+      <p begin="00:16:21,691" end="00:16:27,833">o of&#237;cio tinha que mudar <br/>ou eu tinha.</p>
+      <p begin="00:16:30,172" end="00:16:36,645">[]</p>
+      <p begin="00:16:36,645" end="00:16:38,450">- [Gordon] Quando ele voltou de Israel,</p>
+      <p begin="00:16:38,450" end="00:16:41,149">e foi estudar no, naquele momento,<br/>melhor cabeleireiro,</p>
+      <p begin="00:16:41,149" end="00:16:44,749">nosso famoso cabeleireiro em Londres,<br/>seu nome era Raymond,</p>
+      <p begin="00:16:44,749" end="00:16:47,201">conhecido com carinho por "Teasy-Weasy."</p>
+      <p begin="00:16:47,201" end="00:16:51,725">Ele foi l&#225; para lutar,<br/>e ele voltou para lutar de novo.</p>
+      <p begin="00:16:51,725" end="00:16:55,799">Ele estava lutando contra<br/>o que era o padr&#227;o.</p>
+      <p begin="00:16:55,799" end="00:16:58,911">E apesar do fato de que<br/>era ele contra o mundo</p>
+      <p begin="00:16:58,911" end="00:17:00,298">ele estava decidido a faz&#234;-lo.</p>
+      <p begin="00:17:00,298" end="00:17:02,007">Ele queria mudar o ramo de cabeleireiro.</p>
+      <p begin="00:17:02,007" end="00:17:03,070">Tudo estava mudando.</p>
+      <p begin="00:17:03,070" end="00:17:04,554">Cabelos tinham que mudar.</p>
+      <p begin="00:17:04,554" end="00:17:07,641">Aconteceu que ele era a pessoa<br/>obcecada com isso.</p>
+      <p begin="00:17:07,641" end="00:17:09,694">Ent&#227;o, era de fato sua pr&#243;pria guerra.</p>
+      <p begin="00:17:11,632" end="00:17:14,040">- [Apresentador] Nenhuma men&#231;&#227;o a arte<br/>poderia ser completa sem a refer&#234;ncia</p>
+      <p begin="00:17:14,040" end="00:17:16,519">ao estudo secular da cultura da beleza.</p>
+      <p begin="00:17:16,519" end="00:17:20,008">E o nome que se tornou sin&#244;nimo<br/>com o preparo de lindas mulheres,</p>
+      <p begin="00:17:20,008" end="00:17:21,701">cabelereiro Raymond.</p>
+      <p begin="00:17:21,701" end="00:17:26,407">- Bom, ele era mais do que um personagem.</p>
+      <p begin="00:17:26,407" end="00:17:29,391">Ele n&#227;o tinha vergonha.</p>
+      <p begin="00:17:29,391" end="00:17:33,459">Ele faria coisas <br/>que eram t&#227;o ultrajantes.</p>
+      <p begin="00:17:33,459" end="00:17:40,729">Agora, ele uma vez andou a pista de Ascot durante a Semana de Ascot em um pijama rosa.</p>
+      <p begin="00:17:40,729" end="00:17:44,053">Claro ele estava em todos<br/>os jornais.</p>
+      <p begin="00:17:44,053" end="00:17:45,988">Ele fazia coisas como isso.</p>
+      <p begin="00:17:45,988" end="00:17:49,261">- [Raymond] Bom, eu estou usando<br/>o que eu chamo de azul conservador.</p>
+      <p begin="00:17:49,261" end="00:17:51,393">E &#233; em um estilo de reg&#234;ncia.</p>
+      <p begin="00:17:51,393" end="00:17:56,689">Eu acho que homens est&#227;o de luto <br/>desde a morte do Pr&#237;ncipe Albert.</p>
+      <p begin="00:17:56,689" end="00:18:03,366">Atrav&#233;s dos anos sendo mon&#243;tono<br/>e eles seriam o que eu, como eu nomearia,</p>
+      <p begin="00:18:03,366" end="00:18:09,027">as borboletas estavam saindo do<br/>casulo entre os repolhos.</p>
+      <p begin="00:18:09,027" end="00:18:13,079">- Homem maravilhoso!<br/>E ele tinha um pequeno par de tesouras.</p>
+      <p begin="00:18:13,079" end="00:18:17,681">E ele aparou o cabelo, deu forma a ele,<br/>deu &#226;ngulo ao cabelo,</p>
+      <p begin="00:18:17,681" end="00:18:19,453">e ele conseguiu trabalhos maravilhosos, maravilhosos.</p>
+      <p begin="00:18:19,453" end="00:18:24,865">Eu quero dizer, ele vinha com as tesouras,<br/>as estrelas, o cabelo, o pacote completo.</p>
+      <p begin="00:18:24,865" end="00:18:28,763">Quero dizer quando ele andava pelo sal&#227;o<br/>ningu&#233;m olhava outra pessoa.</p>
+      <p begin="00:18:28,763" end="00:18:31,393">Era simplesmente puro carisma<br/>e o que ele podia fazer</p>
+      <p begin="00:18:31,393" end="00:18:33,393">com um par de tesouras era tremendo.</p>
+      <p begin="00:18:33,393" end="00:18:35,687">Ele me ensinou como cortar cabelos.</p>
+      <p begin="00:18:35,687" end="00:18:37,161">Somente um par de tesouras.</p>
+      <p begin="00:18:37,161" end="00:18:37,977">Sem tesouras para volume.</p>
+      <p begin="00:18:37,977" end="00:18:39,153">Sem l&#226;minas.</p>
+      <p begin="00:18:39,153" end="00:18:40,860">Somente um par de tesouras.</p>
+      <p begin="00:18:40,860" end="00:18:43,803">Ent&#227;o eu tinha que colocar a geometria nisso.</p>
+      <p begin="00:18:43,803" end="00:18:45,093">Isso foi depois.</p>
+      <p begin="00:18:45,093" end="00:18:48,004">- [Harold Leighton] Havia essa<br/>mudan&#231;a acontecendo</p>
+      <p begin="00:18:48,004" end="00:18:51,631">E Vidal estava fazendo coisas<br/>que eles n&#227;o estavam fazendo.</p>
+      <p begin="00:18:51,631" end="00:18:54,693">Raymond estava cortando perfeito.</p>
+      <p begin="00:18:54,693" end="00:18:58,998">Mas eu acho que depois que o <br/>Vidal saiu do Raymond</p>
+      <p begin="00:18:58,998" end="00:19:01,137">e foi para a Rua Bond,</p>
+      <p begin="00:19:01,137" end="00:19:04,162">ele estava cortando ainda mais perfeito.</p>
+      <p begin="00:19:04,162" end="00:19:09,925">- O cabelo &#233; o maior elogio da natureza<br/>e o tratamento desse elogio</p>
+      <p begin="00:19:09,925" end="00:19:12,781">est&#225; em nossas m&#227;os.</p>
+      <p begin="00:19:12,781" end="00:19:17,854">Assim como na alta costura, <br/>o corte &#233; o elemento mais importante</p>
+      <p begin="00:19:17,854" end="00:19:19,870">em decidir estilo.</p>
+      <p begin="00:19:22,271" end="00:19:27,147">Cortar cabelo significa simplesmente design.</p>
+      <p begin="00:19:27,147" end="00:19:32,630">E esse sentimento pelo design<br/>deve vir de dentro.</p>
+      <p begin="00:19:32,630" end="00:19:35,571">Sabe, quando eu comecei<br/>meu pequeno</p>
+      <p begin="00:19:35,571" end="00:19:37,856">Era meu pequeno<br/>estabelecimento na Rua Bond.</p>
+      <p begin="00:19:37,856" end="00:19:44,572">Rua New Bond 108 em 1954, <br/>tinha 65 metros quadrados.</p>
+      <p begin="00:19:44,572" end="00:19:48,748">e no primeiro dia<br/>n&#243;s tivemos cerca de tr&#234;s clientes</p>
+      <p begin="00:19:48,748" end="00:19:52,526">Era como, voc&#234; sabe,<br/>n&#243;s crescemos bem, bem devagar.</p>
+      <p begin="00:19:52,526" end="00:19:59,626">Mas eu decidi ent&#227;o,<br/>que se fosse pra estar no ramo de cabeleireiro</p>
+      <p begin="00:19:59,626" end="00:20:03,569">no longo prazo, eu queria mudar as coisas.</p>
+      <p begin="00:20:03,569" end="00:20:08,170">Eu n&#227;o tinha um desenho<br/>de que cabelo seria,</p>
+      <p begin="00:20:08,170" end="00:20:11,879">mas eu tinha uma imagem definitiva<br/>do que cabelo n&#227;o deveria ser.</p>
+      <p begin="00:20:11,879" end="00:20:14,551">- [Maurice Tidy] Grandes pessoas sabem<br/>quem viria na &#233;poca.</p>
+      <p begin="00:20:14,551" end="00:20:19,668">O tipo de trabalho pelo qual<br/>somos conhecidos, n&#227;o existia.</p>
+      <p begin="00:20:19,668" end="00:20:23,523">Naquela &#233;poca, est&#225;vamos fazendo mais,<br/>eu diria, um mais tradicional</p>
+      <p begin="00:20:23,523" end="00:20:25,159">lado dos penteados.</p>
+      <p begin="00:20:25,159" end="00:20:25,941">Voc&#234; define o cabelo</p>
+      <p begin="00:20:25,941" end="00:20:26,924">Voc&#234; o arrepia.</p>
+      <p begin="00:20:26,924" end="00:20:28,485">E o coloca no lugar.</p>
+      <p begin="00:20:28,485" end="00:20:31,148">E se n&#227;o ficasse por uma semana<br/>voc&#234; estava encrencado.</p>
+      <p begin="00:20:31,148" end="00:20:36,676">- [Lawrence Taylor] Em 54 ele<br/>estava realmente come&#231;ando a experimentar</p>
+      <p begin="00:20:36,676" end="00:20:39,361">e a olhar para onde<br/>sua dire&#231;&#227;o estava indo.</p>
+      <p begin="00:20:39,361" end="00:20:40,846">Alguns dias, se o corte n&#227;o<br/>estava dando certo,</p>
+      <p begin="00:20:40,846" end="00:20:43,846">ele jogaria a escova e pente<br/>no ar,</p>
+      <p begin="00:20:43,846" end="00:20:46,520">E deixaria o edif&#237;cio<br/>e n&#227;o o ver&#237;amos de novo.</p>
+      <p begin="00:20:46,520" end="00:20:49,217">Ele era louco, na verdade.</p>
+      <p begin="00:20:49,217" end="00:20:53,905">Ele era louco, oh, ele era louco<br/>quando clientes tocavam seus cabelos.</p>
+      <p begin="00:20:53,905" end="00:20:57,641">Se eles iriam toc&#225;-lo e dizer,<br/>"Oh isso parece bom."</p>
+      <p begin="00:20:57,641" end="00:21:00,376">Mas antes de que eles conseguissem<br/>extrair aquele penteado legal</p>
+      <p begin="00:21:00,376" end="00:21:05,508">Vidal iria emagar entre os dedos<br/>com um pente</p>
+      <p begin="00:21:05,508" end="00:21:09,625">ent&#227;o quando o cliente ganha um tapa<br/>nos dedos.</p>
+      <p begin="00:21:09,625" end="00:21:11,495">Era um tapa nos dedos.</p>
+      <p begin="00:21:11,495" end="00:21:14,095">-[Vidal] Eu era um menino travesso.</p>
+      <p begin="00:21:14,095" end="00:21:17,327">Quando estava frustrado sobre o trabalho.</p>
+      <p begin="00:21:17,327" end="00:21:22,048">Eu uma vez joguei minha tesoura no ar<br/>e ela ficou presa no teto.</p>
+      <p begin="00:21:22,048" end="00:21:26,076">Ent&#227;o, tomei isso como um press&#225;gio<br/>e fui a Paris por duas semanas.</p>
+      <p begin="00:21:26,076" end="00:21:27,317">Mas ent&#227;o voltou.</p>
+      <p begin="00:21:27,317" end="00:21:30,129">Mas foi a &#250;nica vez que fiz aquilo.</p>
+      <p begin="00:21:30,129" end="00:21:34,827">Outras vezes, eu largava a escova<br/>e sa&#237;a para uma caminhada,</p>
+      <p begin="00:21:34,827" end="00:21:39,583">voltava meia hora depois<br/>tendo conversado comigo mesmo.</p>
+      <p begin="00:21:39,583" end="00:21:42,931">E pra mim, estar acima disso<br/>era ser o melhor que eu podia</p>
+      <p begin="00:21:42,931" end="00:21:44,984">no que eu fazia.</p>
+      <p begin="00:21:44,984" end="00:21:48,909">E quando isso n&#227;o estava indo bem,<br/>era frustrante.</p>
+      <p begin="00:21:48,909" end="00:21:53,098">Houveram vezes no fim do dia,<br/>quando isso n&#227;o era um bom dia.</p>
+      <p begin="00:21:53,098" end="00:21:56,775">E eu n&#227;o tinha a quem recorrer porque<br/>est&#225;vamos tentando fazer algo</p>
+      <p begin="00:21:56,775" end="00:21:58,049">totalmente diferente.</p>
+      <p begin="00:21:58,049" end="00:22:03,174">E eu sentava no fim do dia<br/>frequentemente ouvindo Miles Davis,</p>
+      <p begin="00:22:03,174" end="00:22:06,102">Kind of Blue ou Marvelous Eight.</p>
+      <p begin="00:22:06,102" end="00:22:15,048">[]</p>
+      <p begin="00:22:15,048" end="00:22:19,745">E sentava sozinho e refletia,<br/>"Como voc&#234; muda algo?"</p>
+      <p begin="00:22:19,745" end="00:22:24,929">Mas quando voc&#234; encontrou algo.</p>
+      <p begin="00:22:24,929" end="00:22:29,413">De repente, eu n&#227;o sei,<br/>Voc&#234; se ilumina como um farol</p>
+      <p begin="00:22:29,413" end="00:22:32,982">voc&#234; meio que --existia um senso de...</p>
+      <p begin="00:22:32,982" end="00:22:34,622">Isso &#233; novo.</p>
+      <p begin="00:22:34,622" end="00:22:39,795">Isso vai, isso vai ser especial.</p>
+      <p begin="00:22:39,795" end="00:22:47,256">Est&#225;vamos chamando a aten&#231;&#227;o das pessoas<br/>que queriam ver, "Quem &#233; esse cara?"</p>
+      <p begin="00:22:47,256" end="00:22:49,529">que se recusa a pentear para tr&#225;s.</p>
+      <p begin="00:22:49,529" end="00:22:51,420">E n&#227;o iria fazer sequer o que<br/>n&#243;s o ped&#237;amos para fazer.</p>
+      <p begin="00:22:51,420" end="00:22:54,850">Ele te diz que vai fazer o que <br/>ele acha bom pra voc&#234;.</p>
+      <p begin="00:22:54,850" end="00:22:59,654">Eu n&#227;o queria fazer penteados<br/>da forma que eram feitos.</p>
+      <p begin="00:22:59,654" end="00:23:01,014">Eu simplesmente n&#227;o queria<br/>fazer isso</p>
+      <p begin="00:23:01,014" end="00:23:02,306">Eu n&#227;o faria.</p>
+      <p begin="00:23:02,306" end="00:23:04,913">[]</p>
+      <p begin="00:23:04,913" end="00:23:07,729">Se eu n&#227;o pudesse mudar as coisas<br/>nos penteados</p>
+      <p begin="00:23:07,729" end="00:23:12,095">para o que eu considero<br/>uma forma de arte diferente.</p>
+      <p begin="00:23:12,095" end="00:23:14,060">Veja, fazer penteados era <br/>uma forma de arte.</p>
+      <p begin="00:23:14,060" end="00:23:20,213">Digo, pessoas como Alexander ou Raymond,<br/>eles faziam um trabalho maravilhoso.</p>
+      <p begin="00:23:20,213" end="00:23:22,760">Esse trabalho maravilhoso<br/>sendo feito em Londres.</p>
+      <p begin="00:23:22,760" end="00:23:26,054">Mas, quando eu olho para a arquitetura.</p>
+      <p begin="00:23:26,054" end="00:23:28,475">A estrutura dos edif&#237;cios.</p>
+      <p begin="00:23:28,475" end="00:23:30,083">Eles estavam acontecendo no mundo todo.</p>
+      <p begin="00:23:30,083" end="00:23:33,949">E voc&#234; viu um visual totalmente<br/>diferente em forma.</p>
+      <p begin="00:23:33,949" end="00:23:37,575">Meu senso para cabeleireiro<br/>definitivamente precisava mudar.</p>
+      <p begin="00:23:37,575" end="00:23:59,664">[]</p>
+      <p begin="00:23:59,664" end="00:24:02,686">Os grandes arquitetos, <br/>foi de onde eu vim.</p>
+      <p begin="00:24:02,686" end="00:24:04,252">Isso foi minha inspira&#231;&#227;o.</p>
+      <p begin="00:24:04,252" end="00:24:07,240">A Arquitetura Bauhaus.</p>
+      <p begin="00:24:07,240" end="00:24:18,351">[]</p>
+      <p begin="00:24:18,351" end="00:24:25,313">Para mim, cabelo, significava geometria,<br/>&#226;ngulos das estruturas &#243;sseas.</p>
+      <p begin="00:24:25,313" end="00:24:27,834">Cortar formas irregulares.</p>
+      <p begin="00:24:27,834" end="00:24:31,469">enquanto se adequasse aquele rosto<br/>e aquela estrutura &#243;ssea.</p>
+      <p begin="00:24:31,469" end="00:24:48,163">[]</p>
+      <p begin="00:24:48,163" end="00:24:50,492">Ent&#227;o, significava em ess&#234;ncia,<br/>se afastar da moda antiga.</p>
+      <p begin="00:24:50,492" end="00:24:56,368">Eu digo moda antiga mas muito bonita.</p>
+      <p begin="00:24:56,368" end="00:24:57,675">N&#227;o posso derrub&#225;-la.</p>
+      <p begin="00:24:57,675" end="00:24:59,408">Eram penteados lindos.</p>
+      <p begin="00:24:59,408" end="00:25:02,147">Mas n&#227;o eram pra mim.</p>
+      <p begin="00:25:05,564" end="00:25:11,201">Eu queria eliminar o sup&#233;rfluo<br/>e chegar aos &#226;ngulos b&#225;sicos</p>
+      <p begin="00:25:11,201" end="00:25:13,487">de corte e forma.</p>
+      <p begin="00:25:13,487" end="00:25:29,481">[]</p>
+      <p begin="00:25:29,481" end="00:25:34,113">Levou nove anos. De 54 a 63.</p>
+      <p begin="00:25:34,113" end="00:25:36,642">Levou nove anos.</p>
+      <p begin="00:25:36,642" end="00:25:40,065">E foram provavelmente os mais<br/>excitantes nove anos</p>
+      <p begin="00:25:40,065" end="00:25:41,679">da minha vida criativa.</p>
+      <p begin="00:25:41,679" end="00:25:44,224">E eu n&#227;o sei como chegamos l&#225;.</p>
+      <p begin="00:25:44,224" end="00:25:48,896">Porque houveram tantos<br/>momentos dif&#237;ceis, solit&#225;rios.</p>
+      <p begin="00:25:48,896" end="00:25:53,910">quando eu sentava no meu apartamento<br/>e pensava "Estou perdendo tempo."</p>
+      <p begin="00:25:53,910" end="00:26:00,516">- Elaine, minha primeira esposa, comandava tudo e <br/>era absolutamente incr&#237;vel e maravilhosa.</p>
+      <p begin="00:26:00,516" end="00:26:02,668">-Elaine, que querida.</p>
+      <p begin="00:26:02,668" end="00:26:05,759">Eu tinha 28, ela tinha 21.</p>
+      <p begin="00:26:05,759" end="00:26:08,498">Foi a coisa mais importante<br/>da minha vida, neste sentido.</p>
+      <p begin="00:26:08,498" end="00:26:11,229">N&#227;o o pr&#243;prio sal&#227;o, o trabalho.</p>
+      <p begin="00:26:11,229" end="00:26:14,435">Foi a coisa mais importante<br/>da minha vida</p>
+      <p begin="00:26:14,435" end="00:26:18,857">Eu era t&#227;o ocupado com meu trabalho,<br/>que ela se apaixonou pelo instrutor de ski.</p>
+      <p begin="00:26:18,857" end="00:26:22,614">porque eu costumava praticar <br/>ski aqu&#225;tico.</p>
+      <p begin="00:26:22,614" end="00:26:26,908">E na an&#225;lise final,<br/>eu achei muito melhor</p>
+      <p begin="00:26:26,908" end="00:26:31,686">duas pessoas serem felizes<br/>do que tr&#234;s infelizes.</p>
+      <p begin="00:26:32,655" end="00:26:34,509">- [Gordon] Ele se recriou.</p>
+      <p begin="00:26:34,509" end="00:26:36,449">Ele queria ser um sucesso.</p>
+      <p begin="00:26:36,449" end="00:26:39,442">Ele tentou entrar no Raymond<br/>algumas vezes.</p>
+      <p begin="00:26:39,442" end="00:26:42,138">Ele entrava com seu sotaque leste londrino.</p>
+      <p begin="00:26:42,138" end="00:26:46,908">E a recepcionista, com seu olhar imperial<br/>olhou ele e disse.</p>
+      <p begin="00:26:46,908" end="00:26:49,808">"Filho, voc&#234; deveria ir e aprender<br/>como se fala ingl&#234;s primeiro."</p>
+      <p begin="00:26:49,808" end="00:26:52,640">Quero dizer, voc&#234; pode imaginar<br/>o que se sente quando se &#233; recusado</p>
+      <p begin="00:26:52,640" end="00:26:57,435">porque voc&#234; n&#227;o consegue falar<br/>sua l&#237;ngua apropriadamente?</p>
+      <p begin="00:26:57,435" end="00:27:00,939">Quero dizer, voc&#234; toma isso como um tapa<br/>na sua cara ou ele fez,</p>
+      <p begin="00:27:00,939" end="00:27:04,107">"Ah! Entendo.<br/>Eu preciso ir e aprender ingl&#234;s."</p>
+      <p begin="00:27:04,107" end="00:27:05,972">Ent&#227;o ele fez isso.</p>
+      <p begin="00:27:05,972" end="00:27:08,799">- [Christopher Brooker] Ele era<br/>uma pessoa comum</p>
+      <p begin="00:27:08,799" end="00:27:11,104">vindo de um come&#231;o muito humilde.</p>
+      <p begin="00:27:11,104" end="00:27:15,200">- [Mulher] Mas voc&#234; eliminou outras coisas,<br/>voc&#234; n&#227;o tem nenhum sotaque cockney.</p>
+      <p begin="00:27:15,200" end="00:27:18,664">Voc&#234; n&#227;o saberia somente olhando para voc&#234;<br/>a forma que voc&#234; se veste, os amigos que voc&#234; tem.</p>
+      <p begin="00:27:18,664" end="00:27:20,684">que voc&#234; alguma vez veio de L.A.<br/>ou voc&#234; foi l&#225;.</p>
+      <p begin="00:27:20,684" end="00:27:21,775">Voc&#234; trabalhou nisso?</p>
+      <p begin="00:27:21,775" end="00:27:22,897">- [Vidal] Havia muito trabalho<br/>a ser feito.</p>
+      <p begin="00:27:22,897" end="00:27:25,693">Voc&#234; sai da escola aos quatorze.</p>
+      <p begin="00:27:25,693" end="00:27:29,095">Oi querido! Voc&#234; falando um pouco disso<br/>assim, voc&#234; sabe, voc&#234; pegou toda essa</p>
+      <p begin="00:27:29,095" end="00:27:32,267">coisa cockney meio<br/>que escondida e tal.</p>
+      <p begin="00:27:32,267" end="00:27:35,397">Eu estou tentando conseguir um emprego<br/>com um sotaque cockney quando eu era crian&#231;a.</p>
+      <p begin="00:27:35,397" end="00:27:37,767">Ningu&#233;m iria me contratar em Mayfair<br/>e pessoas costumavam dizer,</p>
+      <p begin="00:27:37,767" end="00:27:39,608">"Bom, fa&#231;a aulas de dic&#231;&#227;o."</p>
+      <p begin="00:27:39,608" end="00:27:40,985">- Voc&#234; fez?</p>
+      <p begin="00:27:40,985" end="00:27:42,035">- Claro que eu fiz.</p>
+      <p begin="00:27:42,035" end="00:27:45,346">Eu fui at&#233; a Iris Warren e ela disse,</p>
+      <p begin="00:27:45,346" end="00:27:48,346">"Eu trabalho com atores<br/>n&#227;o cabeleireiros."</p>
+      <p begin="00:27:48,346" end="00:27:50,307">Eu disse, "Tudo bem, obrigado."</p>
+      <p begin="00:27:50,307" end="00:27:53,210">Ela disse, "N&#227;o, n&#227;o! Esteja no The Old Vic.</p>
+      <p begin="00:27:53,210" end="00:27:56,226">Quinta feira, as duas horas.</p>
+      <p begin="00:27:57,410" end="00:27:59,159">Eu apareci no The Old Vic.</p>
+      <p begin="00:27:59,159" end="00:28:02,682">Ela disse, "Suba no palco"</p>
+      <p begin="00:28:02,682" end="00:28:05,706">"Voc&#234; v&#234; alguma coisa l&#225;<br/>que voc&#234; consiga ler no p&#243;dio?</p>
+      <p begin="00:28:06,116" end="00:28:08,469">Eu disse, "Sim."</p>
+      <p begin="00:28:08,469" end="00:28:10,709">Ela disse, "Recite."</p>
+      <p begin="00:28:10,709" end="00:28:12,749">Somente aquela palavra.</p>
+      <p begin="00:28:12,749" end="00:28:15,789">E ali havia algo para eu ler.</p>
+      <p begin="00:28:15,789" end="00:28:17,125">Ent&#227;o, eu recitei.</p>
+      <p begin="00:28:17,125" end="00:28:23,929">E ela disse, "Meu Deus! Est&#225; horr&#237;vel!<br/>Mas eu acho que eu posso fazer algo com voc&#234;."</p>
+      <p begin="00:28:23,929" end="00:28:28,452">Ent&#227;o por tr&#234;s anos, quando eu estava na cidade,<br/>n&#227;o fazendo shows,</p>
+      <p begin="00:28:28,452" end="00:28:32,865">Eu ia para a Iris Warren.<br/>Ela estava trabalhando nas vogais.</p>
+      <p begin="00:28:32,865" end="00:28:35,469">E isso funciona, isso ajuda.</p>
+      <p begin="00:28:35,469" end="00:28:39,071">N&#227;o era somente a proje&#231;&#227;o da voz.</p>
+      <p begin="00:28:39,071" end="00:28:41,375">Era quando mant&#234;-la baixa.</p>
+      <p begin="00:28:41,375" end="00:28:46,073">Quando trazer o p&#250;blico<br/>e quando modular sua voz.</p>
+      <p begin="00:28:46,073" end="00:28:47,665">Era totalmente fascinante.</p>
+      <p begin="00:28:47,665" end="00:28:52,768">Me dava o sentido de qualquer jeito<br/>de que eu podia falar para uma multid&#227;o</p>
+      <p begin="00:28:52,768" end="00:28:55,211">e os envolver no que eu estava dizendo,</p>
+      <p begin="00:28:55,211" end="00:28:56,840">e faz&#234;-los entender.</p>
+      <p begin="00:28:56,840" end="00:28:59,860">E isso se provou incrivelmente importante.</p>
+      <p begin="00:28:59,860" end="00:29:05,292">Se eu tivesse ido para a faculdade,<br/>Eu definitivamente teria sido um arquiteto.</p>
+      <p begin="00:29:05,292" end="00:29:07,953">Esse teria sido meu sonho,<br/>me tornar um arquiteto.</p>
+      <p begin="00:29:07,953" end="00:29:10,581">Mil novecentos e cinquenta e quatro,<br/>n&#243;s trabalh&#225;vamos em um pequeno sal&#227;o.</p>
+      <p begin="00:29:10,581" end="00:29:15,651">Eu tinha 26 anos, e depois de dois anos,<br/>se tornou muito pequeno.</p>
+      <p begin="00:29:15,651" end="00:29:18,348">Era um trabalho<br/>no terceiro andar virtualmente.</p>
+      <p begin="00:29:18,348" end="00:29:26,334">Ent&#227;o n&#243;s nos mudamos para um sal&#227;o muito maior<br/>na Bond Street, final elegante como eles dizem.</p>
+      <p begin="00:29:26,334" end="00:29:30,829">Primeiro n&#243;s fizemos um sal&#227;o branco<br/>com uma boutique p</p>
+      <p begin="00:29:30,829" end="00:29:34,954">E ent&#227;o depois, n&#243;s mudamos o sal&#227;o inteiro<br/>em marrom.</p>
+      <p begin="00:29:34,954" end="00:29:36,954">com somente barras de a&#231;o na frente.</p>
+      <p begin="00:29:36,954" end="00:29:39,087">Parecia um sal&#227;o de cabeleireiros.</p>
+      <p begin="00:29:39,087" end="00:29:41,385">Parecia uma galeria de arte moderna.</p>
+      <p begin="00:29:41,385" end="00:29:44,433">[]</p>
+      <p begin="00:29:44,433" end="00:29:48,091">Como n&#243;s est&#225;vamos mudando tudo<br/>havia mudan&#231;a de sal&#227;o tamb&#233;m.</p>
+      <p begin="00:29:48,091" end="00:29:50,162">Ent&#227;o n&#243;s mudamos o visual do sal&#227;o.</p>
+      <p begin="00:29:50,162" end="00:29:54,899">- Havia suas fotos incr&#237;veis na parede<br/>como uma cole&#231;&#227;o de fotografias</p>
+      <p begin="00:29:54,899" end="00:29:58,156">As mesas eram bem modernas.</p>
+      <p begin="00:29:58,156" end="00:29:59,166">Tudo era moderno.</p>
+      <p begin="00:29:59,166" end="00:30:00,153">Estava aberto.</p>
+      <p begin="00:30:00,153" end="00:30:02,648">Voc&#234; podia ver da rua<br/>para dentro do sal&#227;o.</p>
+      <p begin="00:30:02,648" end="00:30:05,546">Agora, nos dias atuais, isso &#233; muito incomum.</p>
+      <p begin="00:30:05,546" end="00:30:07,492">Que as pessoas pudessem ver<br/>seus cabelos sendo feitos.</p>
+      <p begin="00:30:07,492" end="00:30:09,334">foi uma revolu&#231;&#227;o.</p>
+      <p begin="00:30:09,334" end="00:30:14,394">- E as pessoas estavam andando ao redor<br/>com um tipo de burburinho.</p>
+      <p begin="00:30:14,394" end="00:30:15,776">Um clique.</p>
+      <p begin="00:30:15,776" end="00:30:19,595">E, isso criou<br/>um som de empolga&#231;&#227;o.</p>
+      <p begin="00:30:19,595" end="00:30:23,117">- E havia ali um mezanino<br/>com todas essas mulheres em p&#233;.</p>
+      <p begin="00:30:23,117" end="00:30:24,740">Centenas de pessoas ali.</p>
+      <p begin="00:30:24,740" end="00:30:26,770">Era muito dif&#237;cil at&#233; chegar<br/>na recepcionista.</p>
+      <p begin="00:30:26,770" end="00:30:29,294">porque havia simplesmente<br/>tantas pessoas no sal&#227;o.</p>
+      <p begin="00:30:29,294" end="00:30:31,084">- Havia um alvoro&#231;o no sal&#227;o.</p>
+      <p begin="00:30:31,084" end="00:30:32,625">Voc&#234; ouvia o fechar das tesouras.</p>
+      <p begin="00:30:32,625" end="00:30:34,715">Voc&#234; ouvia - n&#227;o muita conversa acontecendo.</p>
+      <p begin="00:30:34,715" end="00:30:37,542">N&#227;o era como um lugar de muita fofoca</p>
+      <p begin="00:30:37,542" end="00:30:39,645">Era como um tanto intenso.</p>
+      <p begin="00:30:39,645" end="00:30:43,332">- Nesse sal&#227;o de classe<br/>garotos vindos de Stretton nos sub&#250;rbios</p>
+      <p begin="00:30:43,332" end="00:30:46,540">davam aos seus clientes h&#225; muito <br/>sofredores n&#227;o o que eles queriam</p>
+      <p begin="00:30:46,540" end="00:30:49,580">mas o que Vidal Sassoon <br/>acreditava que eles deveriam ter.</p>
+      <p begin="00:30:51,733" end="00:30:54,816">- Voc&#234; n&#227;o vai cortar o meu cabelo pra frente,<br/>voc&#234; vai?</p>
+      <p begin="00:30:54,816" end="00:31:00,494">- [Vidal] Bem, Lynda, quando voc&#234; entrou,<br/>eu percebi que seu cabelo estava para tr&#225;s.</p>
+      <p begin="00:31:00,494" end="00:31:02,359">- Sim, eu gosto para tr&#225;s,<br/>&#233; mais lisonjeiro.</p>
+      <p begin="00:31:02,359" end="00:31:04,120">Eu prefiro que ele venha de tr&#225;s.</p>
+      <p begin="00:31:04,120" end="00:31:05,827">- Porque voc&#234; que ele penteado para tr&#225;s?<br/>Me d&#234; uma &#250;nica boa raz&#227;o.</p>
+      <p begin="00:31:05,827" end="00:31:07,752">- Bom, ele me d&#225; volume aqui em cima.</p>
+      <p begin="00:31:07,752" end="00:31:08,894">- Ent&#227;o, tudo que voc&#234; est&#225; se preocupando<br/>&#233; com a altura dele na verdade.</p>
+      <p begin="00:31:08,894" end="00:31:09,664">- Sim.</p>
+      <p begin="00:31:09,664" end="00:31:12,768">- N&#227;o o fato que ele vai pra tr&#225;s<br/>ou para frente mas a altura.</p>
+      <p begin="00:31:12,768" end="00:31:13,701">- &#201; o que eu sempre tive<br/>ele penteado para tr&#225;s.</p>
+      <p begin="00:31:13,701" end="00:31:15,717">- Ahh, n&#243;s n&#227;o fazemos o que voc&#234; sempre teve.</p>
+      <p begin="00:31:15,717" end="00:31:17,875">Escute-me por um momento.</p>
+      <p begin="00:31:17,875" end="00:31:21,861">Quando voc&#234; entrou, porque seu cabelo<br/>estava para tr&#225;s e cresce para frente</p>
+      <p begin="00:31:21,861" end="00:31:27,482">o que voc&#234; estava conseguindo era uma parte,<br/>mas uma parte n&#227;o-intencional</p>
+      <p begin="00:31:27,482" end="00:31:33,492">Meu sentimento &#233; que se seu cabelo<br/>for penteado no sentido que ele cresce</p>
+      <p begin="00:31:33,492" end="00:31:37,751">Escute.<br/>Se for penteado do leigo que ele cresce</p>
+      <p begin="00:31:37,751" end="00:31:40,751">e voc&#234; tiver a altura colocada nele</p>
+      <p begin="00:31:40,751" end="00:31:44,445">em todo o cabelo,<br/>voc&#234; vai conseguir um penteado bem mais</p>
+      <p begin="00:31:44,445" end="00:31:45,645">definido e melhor.</p>
+      <p begin="00:31:45,645" end="00:31:47,908">Voc&#234; vai conseguir toda a altura que precisa<br/>e o formato da sua cabe&#231;a</p>
+      <p begin="00:31:47,908" end="00:31:49,674">vai parecer melhor.</p>
+      <p begin="00:31:49,674" end="00:31:50,773">Tente dessa forma.</p>
+      <p begin="00:31:50,773" end="00:31:51,763">- Tudo bem.</p>
+      <p begin="00:31:51,763" end="00:31:54,412">- O que eu preciso &#233; cortar de um jeito.</p>
+      <p begin="00:31:54,412" end="00:31:56,987">Mas se voc&#234; sentir que voc&#234; ainda n&#227;o gostou,<br/>volte.</p>
+      <p begin="00:31:56,987" end="00:31:58,114">Voc&#234; pode ter de volta.</p>
+      <p begin="00:31:58,114" end="00:32:00,983">- Vidal entrou no sal&#227;o<br/>e estar&#225; trabalhando</p>
+      <p begin="00:32:00,983" end="00:32:05,468">e haver&#225; bastante burburinho acontecendo<br/>mas, ele entraria e de repente</p>
+      <p begin="00:32:05,468" end="00:32:12,525">haveria um tanto de correria at&#233; que<br/>ele diga, "Primeiro cliente sentado"</p>
+      <p begin="00:32:12,525" end="00:32:16,450">E seu assistente estava ali<br/>com suas tesouras e seus pentes</p>
+      <p begin="00:32:16,450" end="00:32:19,399">e ent&#227;o o tempo iria<br/>iria entrar em compasso de novo</p>
+      <p begin="00:32:19,399" end="00:32:20,694">enquanto ele ia fazendo.</p>
+      <p begin="00:32:20,694" end="00:32:21,739">Tudo certo, ele est&#225; dentro.</p>
+      <p begin="00:32:21,739" end="00:32:22,597">Ele est&#225; estabelecido.</p>
+      <p begin="00:32:22,597" end="00:32:24,188">Ele est&#225; frisando.<br/>N&#243;s estamos no jogo.</p>
+      <p begin="00:32:24,188" end="00:32:25,088">N&#243;s estamos ok de volta.</p>
+      <p begin="00:32:25,088" end="00:32:27,463">- [Cliente] Voc&#234; sempre insiste em dar<br/>as pessoas o que voc&#234; acha que &#233; certo</p>
+      <p begin="00:32:27,463" end="00:32:30,118">ao inv&#233;s do que eles pediram?</p>
+      <p begin="00:32:30,118" end="00:32:33,699">- Bom, o trabalho &#233; t&#233;cnico,<br/>mas de outro lado</p>
+      <p begin="00:32:33,699" end="00:32:35,782">&#233; insitintivo tamb&#233;m.</p>
+      <p begin="00:32:35,782" end="00:32:38,924">E se seu instintos est&#227;o te dizendo que<br/>o que voc&#234; est&#225; fazendo &#233; errado</p>
+      <p begin="00:32:38,924" end="00:32:41,857">ent&#227;o voc&#234; n&#227;o deve fazer porque<br/>voc&#234; ir&#225; fazer um p&#233;ssimo trabalho disso.</p>
+      <p begin="00:32:41,857" end="00:32:44,429">Eu acho que isso &#233; verdade em tudo.</p>
+      <p begin="00:32:44,429" end="00:32:47,519">- [Cliente] Demora bastante tempo para crescerm<br/>certamente se algu&#233;m reclamar</p>
+      <p begin="00:32:47,519" end="00:32:49,093">voc&#234; realmente tem problemas.</p>
+      <p begin="00:32:49,093" end="00:32:54,044">- Ummm, isso &#233; verdade. Quero dizer, acho que<br/>as pessoas que est&#227;o tentando</p>
+      <p begin="00:32:54,044" end="00:32:57,776">fazer algo um pouco diferente<br/>mais frequentemente ficam em apuros</p>
+      <p begin="00:32:57,796" end="00:33:00,740">Se voc&#234; n&#227;o est&#225; tentando jogar salvo<br/>todo o tempo, no outro lado,</p>
+      <p begin="00:33:00,740" end="00:33:03,402">voc&#234; ir&#225; ser mais progressivo <br/>e fazer mais.</p>
+      <p begin="00:33:03,402" end="00:33:04,828">Eu acho que funciona dessa forma.</p>
+      <p begin="00:33:04,828" end="00:33:09,726">- Sua criatividade estava em um n&#237;vel &#233;pico.</p>
+      <p begin="00:33:09,726" end="00:33:13,211">Era somente -- tudo que ele fazia,<br/>toda se&#231;&#227;o que ele pensava</p>
+      <p begin="00:33:13,211" end="00:33:17,009">era um peda&#231;o de arte em movimento.</p>
+      <p begin="00:33:17,009" end="00:33:21,332">- Era como escutar m&#250;sica ou<br/>voc&#234; sabe, ter uma boa refei&#231;&#227;o.</p>
+      <p begin="00:33:21,332" end="00:33:24,111">Voc&#234; sabe, voc&#234; sabe, ou vendo o <br/>trabalho do Vidal</p>
+      <p begin="00:33:24,111" end="00:33:30,156">Havia ali algo m&#225;gico sobre como<br/>o Vidal era porque ele dan&#231;aria.</p>
+      <p begin="00:33:30,156" end="00:33:33,892">- A maioria das pessoas quando cortam cabelo.<br/>eles cortam com seu pente e tesouras.</p>
+      <p begin="00:33:33,892" end="00:33:36,296">Vidal cortava com todo seu corpo.</p>
+      <p begin="00:33:36,296" end="00:33:37,741">- Ele se movia.</p>
+      <p begin="00:33:37,741" end="00:33:39,993">Ele iria suar, ele faria caretas.</p>
+      <p begin="00:33:39,993" end="00:33:42,892">Ele cortaria cabelo com tesourada, tesourada<br/>tesourada!</p>
+      <p begin="00:33:42,892" end="00:33:48,291">- Vidal estava em seus costumeiros chinelos<br/>de couro, com suas cal&#231;as apertadas.</p>
+      <p begin="00:33:48,291" end="00:33:50,148">Ele estava dan&#231;ando em volta da cadeira.</p>
+      <p begin="00:33:50,148" end="00:33:52,013">Ele estava fazendo caretas.</p>
+      <p begin="00:33:52,013" end="00:33:55,212">- [Cliente] Voc&#234; tem algum tipo particular<br/>de estilo que voc&#234; coloca a cada ano</p>
+      <p begin="00:33:55,212" end="00:33:59,817">eou &#233; somente algo que cabe em qualquer um?</p>
+      <p begin="00:33:59,817" end="00:34:02,454">- Bom, essa &#233; dif&#237;cil de responder.</p>
+      <p begin="00:34:02,454" end="00:34:04,394">Eu acho que a cada ano n&#243;s tentamos<br/>trazer alguma coisa nova</p>
+      <p begin="00:34:04,394" end="00:34:07,625">N&#243;s tentamos inovar alguma coisa<br/>um pouco diferente.</p>
+      <p begin="00:34:07,625" end="00:34:10,409">- [Cliente] Sim, isso &#233; algo bom para<br/>algu&#233;m da minha idade ou mais velho.</p>
+      <p begin="00:34:10,409" end="00:34:12,422">Mas o que acontece para algu&#233;m<br/>20 anos mais velho?</p>
+      <p begin="00:34:12,422" end="00:34:13,597">N&#227;o pode funcionar para todos.</p>
+      <p begin="00:34:13,597" end="00:34:14,663">[]</p>
+      <p begin="00:34:14,663" end="00:34:18,565">O VMA, no entanto -- cada linha,<br/>seja cabelo ou roupas.</p>
+      <p begin="00:34:18,565" end="00:34:20,726">[]</p>
+      <p begin="00:34:20,726" end="00:34:22,761">Um cliente iria pegar alguma coisa dali.</p>
+      <p begin="00:34:22,761" end="00:34:24,962">H&#225; sempre alguma coisa que <br/>eles podem pegar dali.</p>
+      <p begin="00:34:24,962" end="00:34:27,309">Mesmo que eles n&#227;o tenham os<br/>direitos de fato.</p>
+      <p begin="00:34:27,309" end="00:34:33,958">- [Cliente] Deve haver ent&#227;o um bocado que<br/>saiu ruim daqui nesse caso.</p>
+      <p begin="00:34:33,958" end="00:34:38,023">- Vou deixar voc&#234; mastigar essa e <br/>n&#227;o vou responder essa.</p>
+      <p begin="00:34:38,023" end="00:34:41,230">- [Cliente] Espero que voc&#234; n&#227;o esteja cortando<br/>demais s&#243; por vingan&#231;a.</p>
+      <p begin="00:34:41,230" end="00:34:45,411">- Vidal fazia todo mundo ficar nervoso,<br/>especialmente eu.</p>
+      <p begin="00:34:45,411" end="00:34:47,902">Eu sentiria suor instantaneamente<br/>saindo de todo meu corpo.</p>
+      <p begin="00:34:47,902" end="00:34:50,074">E voc&#234; sabe, suas m&#227;os <br/>iriam come&#231;ar a tremer.</p>
+      <p begin="00:34:50,074" end="00:34:53,626">- N&#243;s &#233;ramos ditos para nunca chamar<br/>as cliente de "madame".</p>
+      <p begin="00:34:53,626" end="00:34:56,183">Sempre cham&#225;-las de "madam."</p>
+      <p begin="00:34:56,183" end="00:34:58,542">N&#243;s &#233;ramos ditos para sempre abrir<br/>a porta para o cliente.</p>
+      <p begin="00:34:58,542" end="00:35:00,548">N&#243;s eramos ditos para chamar<br/>o taxi para o cliente.</p>
+      <p begin="00:35:00,548" end="00:35:02,500">N&#243;s &#233;ramos ditos para pegar<br/>almo&#231;o para o cliente.</p>
+      <p begin="00:35:02,500" end="00:35:10,974">- Ele n&#227;o toleraria nada, nada<br/>que n&#227;o fosse perfeito.</p>
+      <p begin="00:35:10,974" end="00:35:16,965">Se voc&#234; olhasse s&#243; em parte, &#233; isso, voc&#234;<br/>somente -- voc&#234; fosse -- voc&#234; estava fora.</p>
+      <p begin="00:35:16,965" end="00:35:20,799">Se voc&#234; n&#227;o tivesse limpado seus sapatos no dia,<br/>cara! voc&#234; sabia que era isso, voc&#234; estava fora.</p>
+      <p begin="00:35:20,799" end="00:35:24,007">voc&#234; n&#227;o estava ali,<br/>voc&#234; somente estava fora.</p>
+      <p begin="00:35:24,007" end="00:35:27,309">- E ali estava eu fazendo esse corte<br/>e tirando cabelo.</p>
+      <p begin="00:35:27,309" end="00:35:29,531">e eu podia sentir ele atr&#225;s de mim.</p>
+      <p begin="00:35:29,531" end="00:35:36,016">E n&#227;o somente podia sentir ele atr&#225;s, mas<br/>eu podia ouvir ele cortando, cortando, cortando.</p>
+      <p begin="00:35:36,016" end="00:35:41,262">Enquanto eu estava cortando ele estava <br/>cortando, cortando, cortando, cortando.</p>
+      <p begin="00:35:41,262" end="00:35:44,205">E isso estava me tirando do s&#233;rio.</p>
+      <p begin="00:35:44,205" end="00:35:48,610">- Eu me lembro, uma vez, ele me mandou pra casa<br/>porque meus sapatos n&#227;o estavam polidos.</p>
+      <p begin="00:35:48,610" end="00:35:51,780">Ele era, voc&#234; sabe, ele era bem rigoroso.</p>
+      <p begin="00:35:51,780" end="00:35:56,521">Toda vez que eu o ajudei,<br/>se eu ficasse distra&#237;do por um segundo</p>
+      <p begin="00:35:56,521" end="00:35:58,741">ele iria pegar seu pente,<br/>ele ia dar um tapa na minha m&#227;o</p>
+      <p begin="00:35:58,741" end="00:36:00,156">e dizer "fique atento."</p>
+      <p begin="00:36:00,156" end="00:36:04,853">- Bom, para o Vidal checar seu corte<br/>era o fim da vida.</p>
+      <p begin="00:36:04,853" end="00:36:08,651">Porque voc&#234; sabia, ele iria achar<br/>alguma coisa de errado com isso.</p>
+      <p begin="00:36:08,651" end="00:36:12,132">Porque ningu&#233;m podia fazer um corte<br/>com a perfei&#231;&#227;o do Vidal.</p>
+      <p begin="00:36:12,132" end="00:36:16,437">Ent&#227;o ele iria pegar o cabelo.</p>
+      <p begin="00:36:16,437" end="00:36:20,047">E ele iria checar esse corte, e iria dizer<br/>"Voc&#234; tem que fazer isso certo."</p>
+      <p begin="00:36:20,047" end="00:36:22,971">e voc&#234; tem que puxar esse cabelo,<br/>voc&#234; tem que tirar a tens&#227;o do cabelo."</p>
+      <p begin="00:36:22,971" end="00:36:26,596">"Mova seu corpo, Corte de novo."</p>
+      <p begin="00:36:26,596" end="00:36:30,207">- Mas voc&#234; sabe quando - a coisa &#233;,<br/>voc&#234; sabia quando ele era r&#237;digo</p>
+      <p begin="00:36:30,207" end="00:36:32,095">quando sua voz tinha baixado.</p>
+      <p begin="00:36:32,095" end="00:36:34,699">Ele tem esse tipo de coisa sussurrante.</p>
+      <p begin="00:36:34,699" end="00:36:39,538">E era um coisa "Eu n&#227;o acho que <br/>&#233; certo para aqui".</p>
+      <p begin="00:36:39,538" end="00:36:42,031">"Voc&#234; n&#227;o parece entender isso."</p>
+      <p begin="00:36:42,031" end="00:36:46,090">"Ent&#227;o eu sugiro que voc&#234; v&#225; por ali<br/>e n&#227;o volte mais aqui."</p>
+      <p begin="00:36:46,090" end="00:36:49,357">Mas no minuto que a voz dele tinha baixado,<br/>voc&#234; sabia que era s&#233;rio.</p>
+      <p begin="00:36:49,357" end="00:36:51,047">- Eu sabia que est&#225;vamos chegando ali.</p>
+      <p begin="00:36:51,047" end="00:36:54,083">N&#243;s n&#227;o t&#237;nhamos chego,<br/>mas est&#225;vamos chegando l&#225;.</p>
+      <p begin="00:36:54,083" end="00:36:56,422">Eu recebi uma liga&#231;&#227;o de uma <br/>empresa de produ&#231;&#227;o de filmes.</p>
+      <p begin="00:36:56,422" end="00:36:59,642">Eu cortaria o cabelo da Nancy Kwan.</p>
+      <p begin="00:37:00,401" end="00:37:04,876">[]</p>
+      <p begin="00:37:04,876" end="00:37:07,830">E ela tinha rec&#233;m feito um grande filme<br/>com o Willian Holden</p>
+      <p begin="00:37:07,830" end="00:37:09,762">que tinha sido um enorme sucesso.</p>
+      <p begin="00:37:09,762" end="00:37:12,712">Ela entrou, garota linda.</p>
+      <p begin="00:37:12,712" end="00:37:16,385">Com 1.2 metros de cabelo pelas suas costas.</p>
+      <p begin="00:37:16,385" end="00:37:18,790">O produtor dela, o agente dela --<br/>era todo o time.</p>
+      <p begin="00:37:18,790" end="00:37:20,325">N&#243;s fomos para o 2o. andar.</p>
+      <p begin="00:37:20,325" end="00:37:23,269">E eu comecei a me aventurar<br/>nessa cabe&#231;a de cabe&#231;o.</p>
+      <p begin="00:37:23,269" end="00:37:27,793">E eu vi trazendo a parte de <br/>tr&#225;s um pouco pra cima</p>
+      <p begin="00:37:27,793" end="00:37:33,145">E mantendo o comprimento dos lados.</p>
+      <p begin="00:37:33,145" end="00:37:34,674">N&#227;o 1.2 metros.</p>
+      <p begin="00:37:34,674" end="00:37:36,953">Mas mantendo o comprimento dos lados.</p>
+      <p begin="00:37:36,953" end="00:37:41,681">Voc&#234; conseguia um &#243;timo &#226;ngulo dos lados<br/>e ela poderia chacoalhar ele.</p>
+      <p begin="00:37:41,681" end="00:37:43,041">N&#227;o iria cair.</p>
+      <p begin="00:37:43,041" end="00:37:45,110">Bom, ela estava petrificada.</p>
+      <p begin="00:37:45,110" end="00:37:50,341">Ela jogou xadrez com seu agente enquanto<br/>tudo acontecia -- ela n&#227;o podia olhar.</p>
+      <p begin="00:37:50,378" end="00:37:53,116">E eu estou vendo alguma coisa.</p>
+      <p begin="00:37:53,116" end="00:37:56,951">E eu disse para meu assistente, eu disse.<br/>- Voc&#234; poderia por favor trazer o Terry Stone</p>
+      <p begin="00:37:56,951" end="00:37:59,641">no telefone.</p>
+      <p begin="00:37:59,641" end="00:38:01,742">Ent&#227;o Terry entra na linha.</p>
+      <p begin="00:38:01,742" end="00:38:04,512">Terry, eu acho que temos algo.</p>
+      <p begin="00:38:04,512" end="00:38:07,099">Eu estou trabalhando na Nancy Kwan agora.</p>
+      <p begin="00:38:07,099" end="00:38:08,686">Eu gostaria de trazer ela nesta noite.</p>
+      <p begin="00:38:08,686" end="00:38:10,162">N&#243;s podemos trabalhar de noite?</p>
+      <p begin="00:38:10,162" end="00:38:12,429">Ele disse, "Sim."</p>
+      <p begin="00:38:12,429" end="00:38:16,730">E o sentido arquitetural <br/>dom que est&#225;vamos fazendo</p>
+      <p begin="00:38:16,730" end="00:38:18,491">trazendo um ponto.</p>
+      <p begin="00:38:18,491" end="00:38:20,578">Era o que importava.</p>
+      <p begin="00:38:20,578" end="00:38:22,378">Fazer um ponto.</p>
+      <p begin="00:38:22,378" end="00:38:24,783">E saiu tudo perfeitamente.</p>
+      <p begin="00:38:24,783" end="00:38:28,235">Quero dizer, aquela imagem foi para<br/>a Vogue americana, a Vogue brit&#226;nica</p>
+      <p begin="00:38:28,235" end="00:38:30,286">para a Vogue italiana.</p>
+      <p begin="00:38:30,286" end="00:38:32,561">Foi primeiro para todas as Vogues,<br/>depois os jornais pegaram a foto.</p>
+      <p begin="00:38:32,561" end="00:38:37,595">Eu sabia ent&#227;o,<br/>n&#243;s estamos no caminho de algo.</p>
+      <p begin="00:38:40,979" end="00:38:44,811">- [homem falando] Eu acho que o five-point,<br/>era parte do corte de cabelo mais famoso.</p>
+      <p begin="00:38:44,811" end="00:38:45,808">mais fotografado.</p>
+      <p begin="00:38:45,808" end="00:38:49,576">A modelo do corte five-point era<br/>Grace Coddington</p>
+      <p begin="00:38:49,576" end="00:38:53,085">que chegou a se tornar Diretora Criativa<br/>na Vogue americana</p>
+      <p begin="00:38:53,085" end="00:38:54,613">e tem sido por um bom tempo.</p>
+      <p begin="00:38:54,613" end="00:38:57,920">- [Grace] Naquele tempo, eu tinha o cabelo <br/>um pouco maior do que agora.</p>
+      <p begin="00:38:57,920" end="00:39:03,643">Vidal era tipo, super suave<br/>e tinha essa voz gentil</p>
+      <p begin="00:39:03,643" end="00:39:06,683">e - umm - ele meio que me fez sentar</p>
+      <p begin="00:39:06,683" end="00:39:10,701">E eu acho que ele gostou do meu cabelo<br/>porque ele come&#231;ou a cort&#225;-lo</p>
+      <p begin="00:39:10,701" end="00:39:14,008">Havia bastante alegria por um momento.</p>
+      <p begin="00:39:14,008" end="00:39:16,862">Especialmente, voc&#234; sabe, quando <br/>o corte five-point realmente funcionou.</p>
+      <p begin="00:39:16,862" end="00:39:21,153">E Clare Rendlesham deu todo um <br/>meio singular em dois tempos.</p>
+      <p begin="00:39:22,290" end="00:39:30,506">E -- esses momentos excitantes mas o<br/>caminho poderia ter sido terrivelmente frustrante.</p>
+      <p begin="00:39:32,583" end="00:39:40,375">O corte five-point, para mim, foi o &#225;pice<br/>de 9 anos de trabalho que resultaram nisso.</p>
+      <p begin="00:39:40,375" end="00:39:49,692">Era o &#250;ltimo corte geom&#233;trico<br/>que na ess&#234;ncia cobria toda a cabe&#231;a</p>
+      <p begin="00:39:49,692" end="00:39:55,903">porque voc&#234; tem que criar os pontos,<br/>ali, dependendo da estrutura &#243;ssea</p>
+      <p begin="00:39:55,903" end="00:40:00,477">onde eles estavam no indiv&#237;duio<br/>que voc&#234; estava trabalhando</p>
+      <p begin="00:40:00,477" end="00:40:04,813">e voc&#234; acha o ponto atr&#225;s da<br/>cabe&#231;a e os outros dois --</p>
+      <p begin="00:40:04,813" end="00:40:06,946">de modo que voc&#234; tem realmente cinco pontos.</p>
+      <p begin="00:40:06,946" end="00:40:12,301">- Ent&#227;o eu lembro sentindo atr&#225;s e <br/>sentindo que &#233; cortado</p>
+      <p begin="00:40:12,301" end="00:40:14,915">na -- na linha do cabelo.</p>
+      <p begin="00:40:14,915" end="00:40:16,909">Era bastante revolucion&#225;rio.</p>
+      <p begin="00:40:16,909" end="00:40:20,842">E estava meio que terminado e ele disse.<br/>- Se levante, okay. D&#234; uma chacoalhada.</p>
+      <p begin="00:40:20,842" end="00:40:25,251">e era shh.... voc&#234; sabe<br/>e era extraordin&#225;rio.</p>
+      <p begin="00:40:25,251" end="00:40:30,159">- A coisa sobre isso era, <br/>que o cabelo, por si s&#243;, quando voc&#234; penteava</p>
+      <p begin="00:40:30,159" end="00:40:35,413">de qualquer modo ou voc&#234; passar seus dedos <br/>por ele, ele deveria voltar perfeitamente.</p>
+      <p begin="00:40:35,413" end="00:40:40,784">O corte five-point era essencialmente<br/>um formato geom&#233;trico.</p>
+      <p begin="00:40:40,784" end="00:40:47,184">[]</p>
+      <p begin="00:40:47,184" end="00:40:48,456">Ele me deu a oportunidade.</p>
+      <p begin="00:40:48,456" end="00:40:49,581">Eu quero dizer, ele me colocou ali.</p>
+      <p begin="00:40:49,581" end="00:40:53,406">Voc&#234; sabe, era ele e <br/>Mary Quant, tamb&#233;m.</p>
+      <p begin="00:40:53,406" end="00:40:56,392">E eles s&#227;o tipo sin&#244;nimos realmente<br/>naquele momento.</p>
+      <p begin="00:40:56,392" end="00:40:59,756">Voc&#234; sabe eu penso que a mini-saia<br/>est&#225; muito conectada</p>
+      <p begin="00:40:59,756" end="00:41:05,375">ao Vidal e como ele a via.</p>
+      <p begin="00:41:05,375" end="00:41:08,711">- [Gordon] Mary Quaint foi creditada como a<br/>criadora da mini-saia.</p>
+      <p begin="00:41:08,711" end="00:41:13,258">E sua manifesta&#231;&#227;o prol&#237;fica de designs.</p>
+      <p begin="00:41:13,258" end="00:41:16,939">O interessante sobre Mary e Vidal<br/>era que eles coloboravam.</p>
+      <p begin="00:41:16,939" end="00:41:19,860">Ela estava andando pela Rua Bond e <br/>aconteceu dela olhar na pequena janela dela</p>
+      <p begin="00:41:19,860" end="00:41:21,460">e havia ali uma foto<br/>de um corte de cabelo</p>
+      <p begin="00:41:21,460" end="00:41:22,848">e ela adorou.</p>
+      <p begin="00:41:22,848" end="00:41:25,513">Ela subiu as escadas com seu marido,<br/>ela disse.</p>
+      <p begin="00:41:25,513" end="00:41:29,586">"Eu sabia ent&#227;o que eu <br/>queria que ele cortasse meu cabelo."</p>
+      <p begin="00:41:29,586" end="00:41:33,187">- Voc&#234; veio em 1957 com o Alexander.</p>
+      <p begin="00:41:33,187" end="00:41:37,160">Bom, ele era um dos grandes<br/>personagens do Funky Green.</p>
+      <p begin="00:41:37,160" end="00:41:38,273">Ele era maravilhoso.</p>
+      <p begin="00:41:38,273" end="00:41:39,419">- [Mary] Ele foi.</p>
+      <p begin="00:41:39,419" end="00:41:42,976">- Ele realmente era uma figura.<br/>Incr&#237;vel.</p>
+      <p begin="00:41:42,976" end="00:41:47,666">E eu n&#227;o sei porqu&#234;,<br/>n&#227;o era um costume meu</p>
+      <p begin="00:41:47,666" end="00:41:55,176">mas a primeira vez que eu cortei seu cabelo<br/>e cortei sua orelha.</p>
+      <p begin="00:41:55,176" end="00:41:58,187">- E voc&#234; teve todo o seu pessoal assistindo.</p>
+      <p begin="00:41:58,187" end="00:41:59,166">- E o sangue estava...</p>
+      <p begin="00:41:59,166" end="00:42:00,301">- Estava cortado por todo lado.</p>
+      <p begin="00:42:00,301" end="00:42:02,840">- Era sangue voando<br/>pra todo lado.</p>
+      <p begin="00:42:02,840" end="00:42:04,241">- E voc&#234; estava fingindo...</p>
+      <p begin="00:42:04,241" end="00:42:05,529">- Que nada tinha acontecido,</p>
+      <p begin="00:42:05,529" end="00:42:07,051">-...que voc&#234; n&#227;o tinha notado,<br/>que voc&#234; estava cortado.</p>
+      <p begin="00:42:07,051" end="00:42:08,932">- Eu amei.</p>
+      <p begin="00:42:08,932" end="00:42:13,342">- E Alexander disse,<br/>"Ah, voc&#234; cobra extra por isso?"</p>
+      <p begin="00:42:13,342" end="00:42:15,192">[]</p>
+      <p begin="00:42:15,192" end="00:42:21,621">- O jornal Times escreveu um artigo<br/>com nove fotos de como Mary Quant</p>
+      <p begin="00:42:21,621" end="00:42:24,415">mudou os anos 60.</p>
+      <p begin="00:42:24,415" end="00:42:27,176">E eu fui sortudo o bastante<br/>para estar l&#225;</p>
+      <p begin="00:42:27,176" end="00:42:29,595">para -- espero que voc&#234; fa&#231;a isso Mary.</p>
+      <p begin="00:42:29,595" end="00:42:33,098">- E Vidal Sasoon<br/>mudou cabelos para sempre.</p>
+      <p begin="00:42:33,098" end="00:42:34,899">- [Mary] Voc&#234; superou nisso.</p>
+      <p begin="00:42:34,899" end="00:42:40,041">[]</p>
+      <p begin="00:42:40,041" end="00:42:45,258">- [Vidal] Eu lembro,<br/>N&#227;o era s&#243; o seu ateli&#234; na Kings Road</p>
+      <p begin="00:42:45,258" end="00:42:47,898">Toda a Kings Road era o seu ateli&#234;.</p>
+      <p begin="00:42:47,898" end="00:42:49,258">Voc&#234; se lembra daquela vez?</p>
+      <p begin="00:42:49,258" end="00:42:50,792">- [Mary] A Kings Road era a passarela.</p>
+      <p begin="00:42:50,792" end="00:42:52,607">- [Vidal] Ah! Era maravilhoso.</p>
+      <p begin="00:42:52,607" end="00:42:56,087">- [Mary] Eu tinha um exemplar da revista Time<br/>de um lado, e da revista Elle do outro,</p>
+      <p begin="00:42:56,087" end="00:42:59,925">E os fot&#243;grafos estavam fotografando<br/>uns aos outros pela estrada.</p>
+      <p begin="00:42:59,925" end="00:43:02,971">- [Vidal] Quase, &#233;.<br/>- [Mary] Com toda a emo&#231;&#227;o, &#233;.</p>
+      <p begin="00:43:02,971" end="00:43:04,877">- Mas nos anos 60,</p>
+      <p begin="00:43:04,877" end="00:43:06,452">existia uma mistura.</p>
+      <p begin="00:43:06,452" end="00:43:07,513">- [Mary] Sim.</p>
+      <p begin="00:43:07,513" end="00:43:09,678">- Vidal] N&#227;o eram s&#243; as celebridades.</p>
+      <p begin="00:43:09,678" end="00:43:13,585">Todos tiveram que vir a Londres<br/>para serem criativos.</p>
+      <p begin="00:43:13,585" end="00:43:15,686">Tanto atores quanto fot&#243;grafos.</p>
+      <p begin="00:43:15,686" end="00:43:16,713">- [Mary] Certo.</p>
+      <p begin="00:43:16,713" end="00:43:18,685">- [Vidal] Voc&#234; sabe, qualquer --<br/>o mais brilhante.</p>
+      <p begin="00:43:18,685" end="00:43:21,527">Ent&#227;o Londres tornou-se um<br/>caldeir&#227;o maravilhoso.</p>
+      <p begin="00:43:21,527" end="00:43:23,599">- [Mary] De tudo para todos.</p>
+      <p begin="00:43:23,599" end="00:43:26,154">- [Apresentador] Uma jovem que<br/>mudou as ideias de como se vestir.</p>
+      <p begin="00:43:26,154" end="00:43:28,363">A vis&#227;o das roupas das<br/>novas gera&#231;&#245;es</p>
+      <p begin="00:43:28,363" end="00:43:31,697">atrav&#233;s do mundo Ocidental,<br/>Mary Quant.</p>
+      <p begin="00:43:31,697" end="00:43:34,599">A artista nela sentiu que milh&#245;es<br/>de meninas</p>
+      <p begin="00:43:34,599" end="00:43:36,554">desejam algo totalmente diferente.</p>
+      <p begin="00:43:36,554" end="00:43:38,782">Sendo uma delas, ela fez.</p>
+      <p begin="00:43:38,782" end="00:43:39,978">- Tudo mudou.</p>
+      <p begin="00:43:39,978" end="00:43:40,816">- Tudo mudou.</p>
+      <p begin="00:43:40,816" end="00:43:41,909">- O poder.</p>
+      <p begin="00:43:41,909" end="00:43:44,186">- A meritocracia era a juventude.</p>
+      <p begin="00:43:44,186" end="00:43:45,081">- &#201;.</p>
+      <p begin="00:43:45,081" end="00:43:47,081">- [Vidal] Juventude, criatividade,<br/>excita&#231;&#227;o.</p>
+      <p begin="00:43:47,081" end="00:43:48,515">- [Mary] Eles chamaram isso de<br/>"terremoto-jovem."</p>
+      <p begin="00:43:48,515" end="00:43:49,342">- [Vidal] &#201;.</p>
+      <p begin="00:43:49,342" end="00:43:50,292">[]</p>
+      <p begin="00:43:50,292" end="00:43:51,679">- E voc&#234; era o cabe&#231;a do terremoto.</p>
+      <p begin="00:43:51,679" end="00:43:53,018">- Terremotinho.</p>
+      <p begin="00:43:53,018" end="00:45:03,025">[]</p>
+      <p begin="00:45:03,025" end="00:45:06,617">- Voc&#234; estava dizendo ao p&#250;blico,<br/>que voc&#234; n&#227;o tinha feito isso antes.</p>
+      <p begin="00:45:06,617" end="00:45:08,285">Isso &#233; novo, tente.</p>
+      <p begin="00:45:08,285" end="00:45:10,950">- Era um pouco dif&#237;cil se eu me lembro<br/>porque naqueles dias,</p>
+      <p begin="00:45:10,950" end="00:45:12,950">todo mundo tinha uma coisa<br/>com cabelo.</p>
+      <p begin="00:45:13,007" end="00:45:14,665">Quero dizer todas as modelos<br/>tinham</p>
+      <p begin="00:45:14,665" end="00:45:17,564">E n&#243;s tivemos um trabalho terr&#237;vel<br/>persuadindo essas meninas ricas.</p>
+      <p begin="00:45:17,564" end="00:45:21,642">Quero dizer, as melhores que vale a pena<br/>ter todo esse cabelo lindo cortado</p>
+      <p begin="00:45:21,642" end="00:45:23,878">nesse extraordin&#225;rio corte five-point.</p>
+      <p begin="00:45:23,878" end="00:45:25,452">At&#233; as 3 horas da manh&#227;,<br/>n&#243;s fomos incapazes de trabalhar</p>
+      <p begin="00:45:25,452" end="00:45:27,513">para qualquer outra pessoa.</p>
+      <p begin="00:45:27,513" end="00:45:29,291">[]</p>
+      <p begin="00:45:29,291" end="00:45:31,188">- Eu amo essa imagem.</p>
+      <p begin="00:45:31,188" end="00:45:32,363">- N&#227;o vamos fechar isso.</p>
+      <p begin="00:45:32,363" end="00:45:34,586">- N&#227;o, n&#227;o vamos fechar.<br/>Eu adoro.</p>
+      <p begin="00:45:34,586" end="00:45:35,445">- Peggy Moffitt.</p>
+      <p begin="00:45:35,445" end="00:45:36,329">- Peggy Moffitt.<br/>- &#201;.</p>
+      <p begin="00:45:36,329" end="00:45:39,222">- E ela era uma excelente menina, <br/>n&#227;o era?</p>
+      <p begin="00:45:39,222" end="00:45:45,140">- Peggy podia - umm -- e fez<br/>todo tipo de estilo de cabelo.</p>
+      <p begin="00:45:45,140" end="00:45:46,639">- &#201;.</p>
+      <p begin="00:45:46,639" end="00:45:48,521">- E se ela estivesse vestindo suas roupas,<br/>seria ainda mais --</p>
+      <p begin="00:45:48,521" end="00:45:50,465">voc&#234; n&#227;o a veria por 10 minutos</p>
+      <p begin="00:45:50,465" end="00:45:54,009">porque ela estaria no espelho<br/>fazendo todo tipo de movimento estranho.</p>
+      <p begin="00:45:54,009" end="00:45:55,570">Movimentos de dan&#231;a.</p>
+      <p begin="00:45:55,570" end="00:45:56,889">- Novos movimentos. Novos movimentos<br/>para um novo vestido.</p>
+      <p begin="00:45:56,889" end="00:45:58,984">- E ela ficaria em frente da c&#226;mera....<br/>Uau!</p>
+      <p begin="00:45:58,984" end="00:46:00,071">- Sim, sim.</p>
+      <p begin="00:46:00,071" end="00:46:01,603">- Era m&#225;gico.</p>
+      <p begin="00:46:01,603" end="00:46:02,372">- Sim.</p>
+      <p begin="00:46:02,372" end="00:46:12,162">[]</p>
+      <p begin="00:46:12,162" end="00:46:14,573">- Voc&#234; n&#227;o via ningu&#233;m que podia cortar cabelo<br/>como isso.</p>
+      <p begin="00:46:14,573" end="00:46:18,135">Quero dizer, voc&#234; corta cabelo<br/>como cortamos roupa.</p>
+      <p begin="00:46:18,135" end="00:46:19,646">Voc&#234; poderia cortar isso reto.</p>
+      <p begin="00:46:19,646" end="00:46:22,657">Voc&#234;s todos disseram, corte cruzado.</p>
+      <p begin="00:46:22,657" end="00:46:25,362">E o mais excitante, claro, <br/>um corte cruzador.</p>
+      <p begin="00:46:25,362" end="00:46:27,290">E voc&#234; corta o cabelo atrav&#233;s.</p>
+      <p begin="00:46:27,290" end="00:46:32,661">Eu acho que &#233; assim que voc&#234; chegou<br/>a um corte diamante incr&#237;vel.</p>
+      <p begin="00:46:32,661" end="00:46:35,945">- [Prof. Cox] O nome Sassoon &#233; importante<br/>porque associamos a ele</p>
+      <p begin="00:46:35,945" end="00:46:39,988">com uma incr&#237;vel mudan&#231;a em cultura<br/>que estava acontecendo no inicio do anos 60.</p>
+      <p begin="00:46:39,988" end="00:46:44,074">Quando voc&#234; v&#234; algu&#233;m vestido em um<br/>traje Quant com um fant&#225;stico</p>
+      <p begin="00:46:44,074" end="00:46:47,762">corte five-point Sassoon,<br/>voc&#234; n&#227;o sabe se elas eram Condessas.</p>
+      <p begin="00:46:47,762" end="00:46:51,344">Voc&#234; n&#227;o saber se elas eram, voc&#234; sabe -- <br/>algu&#233;m que trabalhava no sal&#227;o.</p>
+      <p begin="00:46:51,344" end="00:46:55,101">Era realmente uma mudan&#231;a dram&#225;tica em como <br/>as pessoas pensavam sobre a Gra-Bretanha.</p>
+      <p begin="00:46:55,101" end="00:46:59,282">Voc&#234; sabe, n&#227;o era mais essa <br/>elitizada, tipo de sociedade orientada a classes.</p>
+      <p begin="00:46:59,282" end="00:47:02,429">E eu acho tamb&#233;m o que realmente mudou a forma <br/>que as mulheres pensavam sobre si mesmas.</p>
+      <p begin="00:47:02,429" end="00:47:06,243">porque mulheres n&#227;o foram somente liberadas<br/>tipo sexualmente e societ&#225;riamente</p>
+      <p begin="00:47:06,243" end="00:47:07,582">voc&#234; sabe, nos anos 60.</p>
+      <p begin="00:47:07,582" end="00:47:09,388">Elas tamb&#233;m foram liberadas<br/>atrav&#233;s de suas roupas</p>
+      <p begin="00:47:09,388" end="00:47:11,388">e muito particularmente atrav&#233;s de seus cortes.</p>
+      <p begin="00:47:11,388" end="00:47:15,502">Elas n&#227;o tinham mais que ir<br/>para o sal&#227;o toda semana</p>
+      <p begin="00:47:15,502" end="00:47:19,683">para ter seu cabelo cortado e colocado<br/>e mudado e penteado para tr&#225;s.</p>
+      <p begin="00:47:19,683" end="00:47:23,088">Elas poderiam ir, voc&#234; sabe, para<br/>um sal&#227;o Sassoon maravilhoso.</p>
+      <p begin="00:47:23,088" end="00:47:25,620">que era cheio de uma energia incr&#237;vel.</p>
+      <p begin="00:47:25,620" end="00:47:29,359">E elas poderiam ter um corte<br/>que elas poderiam usar para sair.</p>
+      <p begin="00:47:29,359" end="00:47:32,135">lavar uma vez por semana, duas vezes<br/>por semana.</p>
+      <p begin="00:47:32,135" end="00:47:33,441">Voc&#234; sabe, fazer tudo em casa.</p>
+      <p begin="00:47:33,441" end="00:47:34,933">E iria parecer fant&#225;stico.</p>
+      <p begin="00:47:34,933" end="00:47:38,416">- E ent&#227;o, claro no S&#225;bado, <br/>ele estaria de folga de tarde.</p>
+      <p begin="00:47:38,416" end="00:47:39,620">Mas ainda estaria no neg&#243;cio.</p>
+      <p begin="00:47:39,620" end="00:47:42,928">Mas ele estava acostumado a trabalhar fisicamente,<br/>absulutamente seu melhor todos faziam</p>
+      <p begin="00:47:42,928" end="00:47:46,678">numa clientela quatro dias por semana<br/>naqueles anos.</p>
+      <p begin="00:47:46,678" end="00:47:53,205">[]</p>
+      <p begin="00:47:53,205" end="00:47:56,756">- Melhor que o div&#227; de um psic&#243;logo.</p>
+      <p begin="00:47:56,756" end="00:47:58,770">Eu venho aqui de Chelsea<br/>s&#225;bado a tarde</p>
+      <p begin="00:47:58,770" end="00:48:03,722">depois de trabalhar com as mulheres todas a semana<br/>era exatamente o que eu precisava.</p>
+      <p begin="00:48:03,722" end="00:48:07,696">Eu lembro, como crian&#231;a, eu tenho ido por<br/>65 anos quando eu tinha quatorze</p>
+      <p begin="00:48:07,696" end="00:48:12,092">A primeira vez que eu fui para Chelsea<br/>e eu estava parado bem ali atr&#225;s</p>
+      <p begin="00:48:12,092" end="00:48:14,200">porque nesses dias n&#227;o haviam cadeiras.</p>
+      <p begin="00:48:14,200" end="00:48:16,768">Era somente alguns<br/>nesse lado do ch&#227;o.</p>
+      <p begin="00:48:16,768" end="00:48:20,554">Quando n&#243;s -- o neg&#243;cio cresceu um pouco,<br/>eu consegui meu primeiro ticket de temporada.</p>
+      <p begin="00:48:20,554" end="00:48:23,886">Voc&#234; nunca vai adivinhar o quanto custava --<br/>oito libras!</p>
+      <p begin="00:48:23,886" end="00:48:27,246">Era direto no fim.</p>
+      <p begin="00:48:27,246" end="00:48:32,882">Futebol em um sentido &#233; um misto <br/>entre xadres e bal&#233;.</p>
+      <p begin="00:48:32,882" end="00:48:35,876">Os jogadores tem que ter esse<br/>tipo f&#237;sico maravilhoso.</p>
+      <p begin="00:48:35,876" end="00:48:36,882">Enquanto eles jogam.</p>
+      <p begin="00:48:36,882" end="00:48:38,301">Enquanto eles se movem.</p>
+      <p begin="00:48:38,301" end="00:48:42,855">Tamb&#233;m, o esp&#237;rito de equipe.<br/>Poque &#233; isso que tent&#225;vamos fazer aqui.</p>
+      <p begin="00:48:42,855" end="00:48:46,961">Criar uma grande equipe que eventualmente<br/>se tornou internacional</p>
+      <p begin="00:48:46,961" end="00:48:49,810">e fazia coisas excitantes.</p>
+      <p begin="00:48:49,810" end="00:48:52,722">N&#243;s come&#231;amos a falar sobre equipes.</p>
+      <p begin="00:48:52,722" end="00:48:54,865">Pense em um time de futebol.</p>
+      <p begin="00:48:54,865" end="00:48:58,081">N&#243;s t&#237;nhamos um t&#233;cnico chamado Zola.</p>
+      <p begin="00:48:58,081" end="00:49:01,909">Ele era o motor e ele <br/>trouxe o padr&#227;o</p>
+      <p begin="00:49:01,909" end="00:49:04,464">do estilho de jogo de todos os outros.</p>
+      <p begin="00:49:04,464" end="00:49:07,264">Era tudo que eu era. Eu era o motor.</p>
+      <p begin="00:49:07,264" end="00:49:13,957">Eu era o motor que criou uma equipe que<br/>eventualmente - &#233; um trabalho excelente.</p>
+      <p begin="00:49:13,957" end="00:49:17,958">Isso quanto eu fui para Nova Iorque<br/>eles n&#227;o sentiram minha falta.</p>
+      <p begin="00:49:17,958" end="00:49:19,495">&#201; tipo um trabalho excelente.</p>
+      <p begin="00:49:19,495" end="00:49:23,342">Eles n&#227;o precisavam de mim<br/>e eu acho que essa &#233; a ess&#234;ncia</p>
+      <p begin="00:49:23,342" end="00:49:26,153">de sempre criar talentos ao seu redor.</p>
+      <p begin="00:49:26,153" end="00:49:29,918">Eu tinha uma equipe extraordin&#225;ria.</p>
+      <p begin="00:49:29,918" end="00:49:33,451">Voc&#234; sabe, tinha o Roger Thompson. <br/>Havia o Christopher Brooker.</p>
+      <p begin="00:49:33,451" end="00:49:39,331">Havia Joshua Galvin... ahh<br/>Trevor Sorbie, Leonard.</p>
+      <p begin="00:49:39,331" end="00:49:43,175">Eles fizeram um grande nome<br/>para eles mesmos de qualquer modo.</p>
+      <p begin="00:49:43,175" end="00:49:44,798">Essa &#233; minha equipe.</p>
+      <p begin="00:49:44,798" end="00:49:45,850">Toda a ess&#234;ncia.</p>
+      <p begin="00:49:45,850" end="00:49:48,697">O entusiasmo de nossa criatividade.</p>
+      <p begin="00:49:48,697" end="00:49:52,958">E eu digo "nossa" porque<br/>sempre &#233; trabalho de equipe.</p>
+      <p begin="00:49:52,958" end="00:49:54,242">Sim, eu liderei.</p>
+      <p begin="00:49:54,242" end="00:50:00,430">Mas era nosso entusiasmo,<br/>nossa criatividade era as mudan&#231;as.</p>
+      <p begin="00:50:00,430" end="00:50:01,968">Essas mudan&#231;as maravilhosas.</p>
+      <p begin="00:50:01,968" end="00:50:04,125">N&#243;s &#233;ramos, n&#243;s est&#225;vamos na nona nuvem.</p>
+      <p begin="00:50:04,125" end="00:50:06,818">- Voc&#234; iniciou sua, sua escola. Ent&#227;o?</p>
+      <p begin="00:50:06,818" end="00:50:08,524">- Bom eu...</p>
+      <p begin="00:50:08,524" end="00:50:10,985">- O que eu pensei que era a coisa mais<br/>generosa que eu j&#225; tinha ouvido.</p>
+      <p begin="00:50:10,985" end="00:50:12,197">N&#227;o, era...</p>
+      <p begin="00:50:12,197" end="00:50:13,641">- [Mary] E voc&#234; os ensinou como cortar.</p>
+      <p begin="00:50:13,641" end="00:50:15,283">- Bom, isso era a coisa inteligente.</p>
+      <p begin="00:50:15,283" end="00:50:18,479">Olhe. Se voc&#234; simplesmente fazer algo, Mary.</p>
+      <p begin="00:50:18,479" end="00:50:23,956">E voc&#234; &#233; uma maravilha de cinco anos, <br/>e tchau, voc&#234; j&#225; era.</p>
+      <p begin="00:50:23,956" end="00:50:28,522">Mas se as pessoas sentirem que vale a pena<br/>n&#227;o somente v&#227;o copiar.</p>
+      <p begin="00:50:28,522" end="00:50:30,719">mas eles v&#227;o querer aprender como fazer isso.</p>
+      <p begin="00:50:30,719" end="00:50:31,593">- &#201;.</p>
+      <p begin="00:50:31,593" end="00:50:33,031">- Ent&#227;o, voc&#234; abre uma academia.</p>
+      <p begin="00:50:33,031" end="00:50:33,959">- &#201;.</p>
+      <p begin="00:50:33,959" end="00:50:35,748">E ent&#227;o eles v&#234;sm <br/>de diversos pa&#237;ses diferentes.</p>
+      <p begin="00:50:35,748" end="00:50:36,710">- Aham.</p>
+      <p begin="00:50:36,710" end="00:50:37,898">- E voc&#234; aprende --</p>
+      <p begin="00:50:37,898" end="00:50:39,734">- E particularmente Jap&#227;o e a &#193;sia Oriental.</p>
+      <p begin="00:50:39,734" end="00:50:42,179">- Mas tamb&#233;m de toda a Europa, &#193;frica.</p>
+      <p begin="00:50:42,179" end="00:50:43,959">- De todo lugar.</p>
+      <p begin="00:50:43,959" end="00:50:44,997">- &#201;, de todo lugar.</p>
+      <p begin="00:50:44,997" end="00:50:47,884">E de repente voc&#234; est&#225; abrindo<br/>mais e mais academias.</p>
+      <p begin="00:50:47,884" end="00:50:53,986">e voc&#234; est&#225; ensinando seus m&#233;todos<br/>e para mim isso &#233; tudo que isso significa.</p>
+      <p begin="00:50:53,986" end="00:50:54,949">Se algu&#233;m dissesse.</p>
+      <p begin="00:50:54,949" end="00:51:02,343">"Qual era a coisa n&#250;mero um<br/>em ess&#234;ncia que voc&#234; deixou para tr&#225;s?"</p>
+      <p begin="00:51:02,343" end="00:51:07,163">Era ensinar aos outros para que eles<br/>pudessem pegar seu trabalho e desenvolver.</p>
+      <p begin="00:51:07,163" end="00:51:11,197">- De repente, a palavra estava se espalhando<br/>entre os cabeleireiros</p>
+      <p begin="00:51:11,197" end="00:51:13,418">que isso era revolucion&#225;rio.</p>
+      <p begin="00:51:13,418" end="00:51:17,999">- [Vidal] A energia emanando daquele<br/>lugar era bastante extraordin&#225;rio</p>
+      <p begin="00:51:17,999" end="00:51:23,175">e isso levou a impress&#227;o de<br/>algo internacional.</p>
+      <p begin="00:51:23,175" end="00:51:25,361">Assim que n&#243;s abrimos a escola</p>
+      <p begin="00:51:25,361" end="00:51:29,589">e n&#243;s t&#237;nhamos todas essas pessoas<br/>vindo do Jap&#227;o, Alemanha,</p>
+      <p begin="00:51:29,589" end="00:51:30,448">voc&#234; escolhe.</p>
+      <p begin="00:51:30,448" end="00:51:32,408">E ent&#227;o claro Nova Iorque aconteceu.</p>
+      <p begin="00:51:32,408" end="00:51:35,773">E, ahh -- Eu vim para a Am&#233;rica.</p>
+      <p begin="00:51:35,773" end="00:51:55,228">[]</p>
+      <p begin="00:51:55,228" end="00:51:57,189">- [Vidal] Nova Iorque, Hotel Pierre.</p>
+      <p begin="00:51:57,189" end="00:52:01,273">Aprendizes estavam vindo de todos os lugares,<br/>pa&#237;ses diferentes.</p>
+      <p begin="00:52:02,457" end="00:52:06,445">E eu vi essas tr&#234;s meninas,<br/>e trabalhei nelas um dia antes.</p>
+      <p begin="00:52:06,445" end="00:52:09,923">e cortei os cabelos e cortei no formato<br/>que eu queria.</p>
+      <p begin="00:52:09,923" end="00:52:12,378">Domingo, a imprensa apareceu.</p>
+      <p begin="00:52:12,378" end="00:52:14,781">A imprensa n&#227;o aparece no domingo.</p>
+      <p begin="00:52:14,781" end="00:52:16,201">A imprensa apareceu.</p>
+      <p begin="00:52:16,201" end="00:52:18,733">E eles estavam tirando fotos que nem louco.</p>
+      <p begin="00:52:18,733" end="00:52:22,214">No dia seguinte, havia<br/>cinco jornais em Nova Iorque.</p>
+      <p begin="00:52:22,214" end="00:52:25,918">n&#243;s est&#225;vamos na primeira p&#225;gina<br/>das suas p&#225;ginas de beleza.</p>
+      <p begin="00:52:25,918" end="00:52:27,257">Era selvagem.</p>
+      <p begin="00:52:27,257" end="00:52:30,341">E de repente, n&#243;s estavamos em Nova Iorque, <br/>na cidade de Nova Iorque</p>
+      <p begin="00:52:30,341" end="00:52:34,577">onde um grande sal&#227;o na Madison Avenue.</p>
+      <p begin="00:52:34,577" end="00:52:36,404">[]</p>
+      <p begin="00:52:36,404" end="00:53:00,083">[]</p>
+      <p begin="00:53:00,083" end="00:53:03,393">Vivi em Nova Iorque por 10 anos.</p>
+      <p begin="00:53:03,393" end="00:53:08,989">Lindamente, viajei com somente uma mala<br/>porque t&#237;nhamos um pequeno lugar em Londres</p>
+      <p begin="00:53:08,989" end="00:53:12,527">Um pequeno apartamento <br/>e um pequeno em Nova Iorque</p>
+      <p begin="00:53:12,527" end="00:53:15,106">Ent&#227;o eu ia e voltava.</p>
+      <p begin="00:53:15,106" end="00:53:19,581">Minha vida no momento &#233; viajando tanto<br/>o que eu acho muito empolgante.</p>
+      <p begin="00:53:19,581" end="00:53:23,438">Depois que eu estive, vamos dizer, dois meses<br/>em Londres trabalhando, eu tinha a vontade de ver</p>
+      <p begin="00:53:23,438" end="00:53:26,408">como as coisas iam em Nova Iorque e eu<br/>ia at&#233; l&#225; e fazia algum trabalho a mais.</p>
+      <p begin="00:53:26,408" end="00:53:29,356">Ent&#227;o, se voc&#234; me pergunta, <br/>eu gostaria de viver na vida de andarilho?</p>
+      <p begin="00:53:29,356" end="00:53:31,942">Eu n&#227;o gostaria de viver</p>
+      <p begin="00:53:31,942" end="00:53:33,942">em um s&#243; lugar <br/>por muito tempo nesse momento.</p>
+      <p begin="00:53:33,942" end="00:53:37,079">- O que aconteceu na Am&#233;rica &#233; que<br/>n&#243;s &#233;ramos os Beatles.</p>
+      <p begin="00:53:37,079" end="00:53:39,963">N&#243;s &#233;ramos os Beatles dos cabeleireiros<br/>na Madison Avenue.</p>
+      <p begin="00:53:39,963" end="00:53:42,140">- E eles pegaram essa<br/>equipe para Nova Iorque.</p>
+      <p begin="00:53:42,140" end="00:53:44,310">o que foi revolucion&#225;rio<br/>em Nova Iorque naquele tempo.</p>
+      <p begin="00:53:44,310" end="00:53:47,517">Porque -- Deus os aben&#231;oes -- voc&#234; sabe,<br/>os Americanos estavam um pouco atr&#225;s</p>
+      <p begin="00:53:47,517" end="00:53:48,990">com seus estilos de cabelo.</p>
+      <p begin="00:53:48,990" end="00:53:50,639">Mas eles estavam pelo mundo.</p>
+      <p begin="00:53:50,639" end="00:53:51,907">Eles n&#227;o tinham sacado ainda.</p>
+      <p begin="00:53:51,907" end="00:53:57,398">E aquela equipe, parecendo os Beatles<br/>e as mini-saias das garotas at&#233; aqui</p>
+      <p begin="00:53:57,398" end="00:54:01,700">&#233; o que realmente &#233;, voc&#234; sabe,<br/>a palavra nas ruas.</p>
+      <p begin="00:54:01,700" end="00:54:05,553">S&#243; acontecia aquilo por a&#237;<br/>por volta dos anos 60.</p>
+      <p begin="00:54:05,553" end="00:54:11,834">A maioria dos nossos caras eram heterossexuais,<br/>e eu tive que ter reuni&#245;es de equipe</p>
+      <p begin="00:54:11,834" end="00:54:17,143">porqu&#234;, eu disse, "Escutem amigos,<br/>somos profissionais!"</p>
+      <p begin="00:54:17,143" end="00:54:20,138">Voc&#234;s precisam parar de<br/>dormir com os clientes!"</p>
+      <p begin="00:54:20,138" end="00:54:20,920">Quero dizer, voc&#234;s<br/>precisam lembrar.</p>
+      <p begin="00:54:20,920" end="00:54:26,653">Eram os dias de extraordin&#225;ria<br/>liberdade sexual</p>
+      <p begin="00:54:26,653" end="00:54:29,164">Quero dizer, a penicilina curava tudo.</p>
+      <p begin="00:54:29,164" end="00:54:33,457">- [Grace] Era o sal&#227;o mais quente,<br/>todos os cabeleireiros eram --</p>
+      <p begin="00:54:33,457" end="00:54:34,755">eram muito bonitos</p>
+      <p begin="00:54:34,755" end="00:54:37,038">meio que como o filme Shampoo,<br/>voc&#234; sabe.</p>
+      <p begin="00:54:37,038" end="00:54:39,745">Eram todas as m&#227;os em<br/>todos os lugares</p>
+      <p begin="00:54:39,745" end="00:54:42,162">Vidal sempre tinha namoradas bonitas,<br/>eu lembro.</p>
+      <p begin="00:54:42,162" end="00:54:46,389">e elas tinham sempre, claro,<br/>cabelos atraentes.</p>
+      <p begin="00:54:46,389" end="00:54:48,100">- Era uma &#233;poca maravilhosa.</p>
+      <p begin="00:54:48,100" end="00:54:51,325">- Vidal tinha se tornado<br/>uma celebridade.</p>
+      <p begin="00:54:51,325" end="00:54:52,625">Ele estava sempre em talk shows.</p>
+      <p begin="00:54:52,625" end="00:54:53,799">Ele esteve no Mike Douglas</p>
+      <p begin="00:54:53,799" end="00:54:55,581">Ele estava no Today Show.</p>
+      <p begin="00:54:55,581" end="00:54:57,375">Ele estava no Tonight Show.</p>
+      <p begin="00:54:57,375" end="00:55:00,956">Ele era o convidado misterioso<br/>em What's My Line.</p>
+      <p begin="00:55:00,956" end="00:55:03,078">- Agora vamos conhecer<br/>nosso primeiro participante.</p>
+      <p begin="00:55:03,078" end="00:55:06,523">Voc&#234; vai entrar e se<br/>cadastrar, por favor?</p>
+      <p begin="00:55:08,662" end="00:55:10,363">Senhor X.</p>
+      <p begin="00:55:10,363" end="00:55:15,197">E n&#243;s deixaremos o p&#250;blico no teatro<br/>e o p&#250;blico em casa saber exatamente</p>
+      <p begin="00:55:15,197" end="00:55:17,901">qual o seu nome e qual o seu papel?</p>
+      <p begin="00:55:17,901" end="00:55:25,148">[]</p>
+      <p begin="00:55:25,148" end="00:55:28,399">- Voc&#234; representa a moda<br/>masculina na Inglaterra?</p>
+      <p begin="00:55:28,399" end="00:55:33,695">- Voc&#234; tem -- voc&#234; tem algo a ver<br/>com manipula&#231;&#227;o de tecidos?</p>
+      <p begin="00:55:33,695" end="00:55:36,853">- Sr. X, voc&#234; tem algo a ver com cabelo?</p>
+      <p begin="00:55:36,853" end="00:55:38,220">- Sim.</p>
+      <p begin="00:55:38,220" end="00:55:40,413">- [Mulher] Ah! &#233; o Sasson!</p>
+      <p begin="00:55:40,413" end="00:55:42,061">- Sim, fala de quem!</p>
+      <p begin="00:55:42,061" end="00:55:48,986">[]</p>
+      <p begin="00:55:48,986" end="00:55:51,606">- Na verdade eu n&#227;o vim<br/>para trabalhar dessa vez</p>
+      <p begin="00:55:51,606" end="00:55:54,221">mas para casar com uma<br/>garota americana.</p>
+      <p begin="00:55:54,221" end="00:55:55,648">- Ahhhh.</p>
+      <p begin="00:55:55,648" end="00:55:59,608">- Nos mudamos provavelmente<br/>nesse ver&#227;o de 68.</p>
+      <p begin="00:55:59,608" end="00:56:02,479">N&#243;s &#237;amos e volt&#225;vamos<br/>por algum tempo.</p>
+      <p begin="00:56:02,479" end="00:56:06,088">Mas isso por um ano e meio<br/>depois que nos casamos</p>
+      <p begin="00:56:06,088" end="00:56:07,843">ent&#227;o nos mudamos para<br/>Nova Iorque.</p>
+      <p begin="00:56:07,843" end="00:56:12,624">E ent&#227;o Catya, nossa filha,<br/>nasceu em 1968,</p>
+      <p begin="00:56:12,624" end="00:56:15,579">todas as crian&#231;as nasceram<br/>em Nova Iorque.</p>
+      <p begin="00:56:15,579" end="00:56:20,534">[]</p>
+      <p begin="00:56:20,534" end="00:56:23,290">N&#243;s vivemos em um<br/>pequeno apartamento.</p>
+      <p begin="00:56:23,290" end="00:56:24,365">Era um tempo interessante.</p>
+      <p begin="00:56:24,365" end="00:56:26,445">Vidal foi um -- ele foi um bom pai.</p>
+      <p begin="00:56:26,445" end="00:56:28,444">E ele costumava chegar em<br/>casa no meio do dia</p>
+      <p begin="00:56:28,444" end="00:56:34,445">e ele pegava uma das crian&#231;as<br/>para lev&#225;-las nos ombros</p>
+      <p begin="00:56:34,445" end="00:56:36,071">at&#233; o Central Park, sabe,</p>
+      <p begin="00:56:36,071" end="00:56:41,007">e ele estava muito envolvido<br/>em ser pai.</p>
+      <p begin="00:56:41,007" end="00:56:43,812">- Eu estava em Nova Iorque<br/>at&#233; os meus 3 anos</p>
+      <p begin="00:56:43,812" end="00:56:47,173">e ele costumava levar eu<br/>e minha irm&#227; pra fora</p>
+      <p begin="00:56:47,173" end="00:56:50,187">e me jogar nos ombros<br/>e correr pela cidade.</p>
+      <p begin="00:56:50,187" end="00:56:53,434">Foi uma de minhas<br/>primeiras mem&#243;rias.</p>
+      <p begin="00:56:54,819" end="00:57:05,249">- Cara bonito, magro, fan&#225;tico por<br/>sa&#250;de, um super her&#243;i em forma.</p>
+      <p begin="00:57:05,249" end="00:57:09,030">- [Mulher] A vida de um cabeleireiro<br/>n&#227;o &#233; s&#243; babados e perfumes e meio mil</p>
+      <p begin="00:57:09,030" end="00:57:11,912">escorregaram em um bolso apertado.</p>
+      <p begin="00:57:11,912" end="00:57:14,150">No mundo de Vidal Sasson,<br/>a outra melhor coisa</p>
+      <p begin="00:57:14,150" end="00:57:16,781">para um belo cabelo &#233;<br/>um corpo bem cuidado.</p>
+      <p begin="00:57:16,781" end="00:57:20,467">- Sempre tirava um tempo<br/>para cuidar da sa&#250;de, sempre.</p>
+      <p begin="00:57:20,467" end="00:57:25,145">- [Se seu corpo n&#227;o est&#225; bem,<br/>sua mente vai reagir.</p>
+      <p begin="00:57:25,145" end="00:57:27,624">Se sua mente n&#227;o est&#225; bem,<br/>seu corpo vai reagir.</p>
+      <p begin="00:57:27,624" end="00:57:32,225">Veja, voc&#234; precisa trabalhar essencialmente<br/>em desenvolver a mente se voc&#234; puder.</p>
+      <p begin="00:57:32,225" end="00:57:36,922">Outra coisa que eu me arrependo &#233; n&#227;o ter<br/>4 anos de uma boa faculdade para expandir</p>
+      <p begin="00:57:36,922" end="00:57:39,228">a mente que aprenderia<br/>muito mais.</p>
+      <p begin="00:57:39,228" end="00:57:43,966">Mas fisicamente, eu sempre nadava,<br/>Eu era -- ter certeza de que a malhar.</p>
+      <p begin="00:57:43,966" end="00:57:49,076">Fazia massagem e isso funcionou porque<br/>eu podia trabalhar 14 horas por dia</p>
+      <p begin="00:57:49,076" end="00:58:00,812">[]</p>
+      <p begin="00:58:00,812" end="00:58:07,604">Eu acho que em qualquer ind&#250;stria ou<br/>artesanato, arte, voc&#234; precisa gastar tempo</p>
+      <p begin="00:58:07,604" end="00:58:12,410">se quer ficar melhor<br/>que o normal</p>
+      <p begin="00:58:12,410" end="00:58:17,579">N&#227;o &#233; algo das nove as cinco.<br/>Podia ser 14 horas por dia.</p>
+      <p begin="00:58:17,579" end="00:58:20,104">No momento voc&#234; termina com<br/>suas modelos e seu passatempo</p>
+      <p begin="00:58:20,104" end="00:58:21,930">e ent&#227;o vai trabalhar no<br/>dia seguinte.</p>
+      <p begin="00:58:21,930" end="00:58:25,127">Eu era cuidadoso com a comida.</p>
+      <p begin="00:58:25,127" end="00:58:28,417">Eu me exercitava.Sempre.</p>
+      <p begin="00:58:28,417" end="00:58:31,434">&#201; importante esticar as costas</p>
+      <p begin="00:58:31,434" end="00:58:34,380">O mais que voc&#234; puder.</p>
+      <p begin="00:58:34,380" end="00:58:38,185">Esticar, esticar, esticar.</p>
+      <p begin="00:58:38,185" end="00:58:44,194">&#201; um sentimento maravilhoso,<br/>ter agilidade</p>
+      <p begin="00:58:44,194" end="00:58:47,267">n&#227;o como na sua juventude l&#243;gico.</p>
+      <p begin="00:58:47,267" end="00:58:53,458">Mas no entanto, ter a agilidade de se<br/>mover como uma pessoa jovem.</p>
+      <p begin="00:58:53,458" end="00:58:54,530">E eu amava isso.</p>
+      <p begin="00:58:54,530" end="00:58:56,702">Eu acho que esticar<br/>&#233; maravilhoso.</p>
+      <p begin="00:58:56,702" end="00:58:59,939">Eu comecei a fazer Pilates<br/>h&#225; uns 25 anos,</p>
+      <p begin="00:58:59,939" end="00:59:02,342">e algumas esticadas<br/>vem do Pilates.</p>
+      <p begin="00:59:02,342" end="00:59:05,864">A coisa toda &#233; fascinante,<br/>porque na Calif&#243;rnia agora,</p>
+      <p begin="00:59:05,864" end="00:59:09,496">O Hospital Ortop&#233;dico est&#225; usando<br/>isso para trabalhar com as crian&#231;as,</p>
+      <p begin="00:59:09,496" end="00:59:12,864">usando isso nas crian&#231;as<br/>que tem doen&#231;as musculares.</p>
+      <p begin="00:59:12,864" end="00:59:17,611">Ent&#227;o &#233; curativo, dan&#231;as.<br/>Funciona para todos.</p>
+      <p begin="00:59:17,611" end="00:59:19,457">- Ah! Mal posso esperar voc&#234;<br/>demonstrar.</p>
+      <p begin="00:59:19,457" end="00:59:21,100">- L&#225; vamos n&#243;s.</p>
+      <p begin="00:59:21,100" end="00:59:22,594">[]</p>
+      <p begin="00:59:22,594" end="00:59:23,385">- Assim?</p>
+      <p begin="00:59:23,385" end="00:59:24,497">- &#201;.</p>
+      <p begin="00:59:24,497" end="00:59:25,265">Tipo assim.</p>
+      <p begin="00:59:25,265" end="00:59:26,398">- Agora pegue a mola.</p>
+      <p begin="00:59:26,398" end="00:59:27,445">- Agora, onde voc&#234; estava olhando.</p>
+      <p begin="00:59:27,445" end="00:59:28,708">- O teto.</p>
+      <p begin="00:59:28,708" end="00:59:29,697">L&#225; vai voc&#234;.</p>
+      <p begin="00:59:29,697" end="00:59:30,984">Agora volte.</p>
+      <p begin="00:59:30,984" end="00:59:33,165">Agora, voc&#234; deveria estar sentado<br/>mais pra frente.</p>
+      <p begin="00:59:33,165" end="00:59:34,412">Aqui vamos n&#243;s.</p>
+      <p begin="00:59:34,412" end="00:59:36,425">Agora, deite-se.</p>
+      <p begin="00:59:36,425" end="00:59:39,877">Agora se levante<br/>e levante sua pernas.</p>
+      <p begin="00:59:39,877" end="00:59:41,616">Agora levante seu corpo.</p>
+      <p begin="00:59:41,616" end="00:59:43,588">- N&#227;o existe uma forma<br/>mais f&#225;cil de se exercitar?</p>
+      <p begin="00:59:43,588" end="00:59:44,571">[]</p>
+      <p begin="00:59:44,571" end="00:59:47,281">- Quando eu estava cansado demais<br/>como deveria ficar,</p>
+      <p begin="00:59:47,281" end="00:59:53,368">Eu ia a lugares como o Great Shot Hole<br/>e ficava por l&#225; uns 10 dias</p>
+      <p begin="00:59:53,368" end="00:59:55,157">e fazia o tratamento todo.</p>
+      <p begin="00:59:55,157" end="00:59:59,713">Eu encontrei pessoa incriveis l&#225;,<br/>e quem estava l&#225; sen&#227;o o Gore Vidal.</p>
+      <p begin="00:59:59,713" end="01:00:02,038">Segunda de manh&#227; voc&#234; esteja l&#225;<br/>para seu tratamento as oito,</p>
+      <p begin="01:00:02,038" end="01:00:05,174">e eles disseram, "Sr Vidal,<br/>seu tratamento est&#225; pronto."</p>
+      <p begin="01:00:05,174" end="01:00:08,761">Ent&#227;o eu contemplo e fa&#231;o meu tratamento<br/>e eu escuto essa voz dizendo.</p>
+      <p begin="01:00:08,761" end="01:00:10,560">"Voc&#234; sempre est&#225; atrasado?"</p>
+      <p begin="01:00:10,560" end="01:00:12,740">Quando eles descobriram <br/>o que estava acontecendo.</p>
+      <p begin="01:00:12,740" end="01:00:15,295">Eles descobriram que eu tinha o <br/>enema de Gore Vidal.</p>
+      <p begin="01:00:15,295" end="01:00:16,583">[]</p>
+      <p begin="01:00:16,583" end="01:00:20,776">Essencialmente, conhecendo seu corpo &#233; ter<br/>a sensa&#231;&#227;o de equil&#237;brio do seu corpo.</p>
+      <p begin="01:00:20,776" end="01:00:22,843">Coloque suas pernas para cima.</p>
+      <p begin="01:00:22,843" end="01:00:24,444">Deixe-ase reta.</p>
+      <p begin="01:00:24,444" end="01:00:25,649">[]</p>
+      <p begin="01:00:25,649" end="01:00:27,649">Dobre para dentro. Fora.</p>
+      <p begin="01:00:27,649" end="01:00:34,392">Uma perna para fora e l&#225; vamos<br/>n&#243;s de novo.</p>
+      <p begin="01:00:34,392" end="01:00:38,162">- Quantos anos voc&#234; tem?</p>
+      <p begin="01:00:38,162" end="01:00:39,662">- Cinquenta e cinco.</p>
+      <p begin="01:00:39,662" end="01:00:41,678">- Que corpo.</p>
+      <p begin="01:00:41,678" end="01:00:54,617">[]</p>
+      <p begin="01:00:54,617" end="01:00:58,566">- na Rua Bone, antes que cheg&#225;ssemos --<br/>quero dizer, depois do hor&#225;rio.</p>
+      <p begin="01:00:58,566" end="01:01:00,663">alguns desses meninos<br/>iam descendo as escadas.</p>
+      <p begin="01:01:00,663" end="01:01:03,789">Voc&#234; sabe, voc&#234; tem Peter O'Toole,<br/>que viria para um corte, voc&#234; sabe.</p>
+      <p begin="01:01:03,789" end="01:01:09,261">Quando o Roman Polanski estava na cidade,<br/>ele vinha para um corte.</p>
+      <p begin="01:01:09,261" end="01:01:14,015">- Polanski estava fazendo um filme em Londres<br/>com essa Catherine Deneuve.</p>
+      <p begin="01:01:14,015" end="01:01:20,676">[]</p>
+      <p begin="01:01:20,676" end="01:01:24,255">Roman disse. "Eu gostaria de usar o<br/>terra&#231;o do seu sal&#227;o."</p>
+      <p begin="01:01:24,255" end="01:01:27,222">Ele disse,<br/>"Eu s&#243; preciso dele para o fim de semana"</p>
+      <p begin="01:01:27,222" end="01:01:28,778">Bom, ele ficou cinco dias.</p>
+      <p begin="01:01:28,778" end="01:01:30,419">Os clientes amaram.</p>
+      <p begin="01:01:30,419" end="01:01:32,745">Havia a Catherine Deneuve<br/>sendo filmada no terra&#231;o.</p>
+      <p begin="01:01:32,745" end="01:01:37,152">N&#243;s est&#225;vamos trabalhando ali embaixo<br/>com nossos clientes.</p>
+      <p begin="01:01:37,152" end="01:01:38,776">E claro, foi empolgante.</p>
+      <p begin="01:01:38,776" end="01:01:40,332">Eles acharam isso fascinante.</p>
+      <p begin="01:01:40,332" end="01:01:45,544">E eu acho que ele pensou que me devia uma<br/>porque mais ou menos seis meses depois.</p>
+      <p begin="01:01:45,544" end="01:01:47,406">ele me ligou e disse,</p>
+      <p begin="01:01:47,406" end="01:01:52,216">"Ei, voc&#234; gostaria de vir fazer o cabelo<br/>da Mia Farrow para o Beb&#234; de Rosemary?"</p>
+      <p begin="01:01:52,216" end="01:02:01,925">[]</p>
+      <p begin="01:02:01,925" end="01:02:05,664">Foi uma baita cena aquele corte.</p>
+      <p begin="01:02:05,664" end="01:02:11,222">Lote da Paramount, cen&#225;rio 13<br/>eles colocaram um ringue de boxe</p>
+      <p begin="01:02:11,222" end="01:02:16,778">Eu a levei do seu camarim<br/>para o ringue de boxe.</p>
+      <p begin="01:02:16,778" end="01:02:19,256">[]</p>
+      <p begin="01:02:19,256" end="01:02:21,945">Antes que soub&#233;ssemos o que estava <br/>acontecendo, eu estava cortando seu cabelo.</p>
+      <p begin="01:02:21,945" end="01:02:25,588">A imprensa se amontoando no ringue.</p>
+      <p begin="01:02:25,588" end="01:02:29,292">Havia um cara debaixo da cadeira<br/>nos fotografando.</p>
+      <p begin="01:02:29,292" end="01:02:31,452">Eles estavam em todos os lugares.</p>
+      <p begin="01:02:31,452" end="01:02:36,619">Roman estava l&#225; e de repente Mia<br/>olha para a imprensa e diz,</p>
+      <p begin="01:02:36,619" end="01:02:41,500">"O que voc&#234;s est&#227;o fazendo aqui<br/>fotografando um corte de cabelo?"</p>
+      <p begin="01:02:41,500" end="01:02:44,719">Enquanto os nativos Americanos<br/>est&#227;o sofrendo</p>
+      <p begin="01:02:44,719" end="01:02:47,668">esse tipo de coisa pol&#237;tica<br/>estava acontecendo.</p>
+      <p begin="01:02:47,668" end="01:02:51,409">Eu estou cortando o cabelo dela, eu disse<br/>"Isso &#233; completamente louco."</p>
+      <p begin="01:02:51,409" end="01:02:53,608">Isso foi para o filme.</p>
+      <p begin="01:02:53,608" end="01:02:55,509">- Meu Deus!</p>
+      <p begin="01:02:55,509" end="01:02:58,148">- &#201; o Vidal Sassoon. Ele est&#225; bem dentro.</p>
+      <p begin="01:02:58,148" end="01:02:59,687">- O que tem de errado com voc&#234;?</p>
+      <p begin="01:02:59,687" end="01:03:01,402">- Eu pare&#231;o t&#227;o ruim assim?</p>
+      <p begin="01:03:01,402" end="01:03:02,564">- &#201; horr&#237;vel!</p>
+      <p begin="01:03:02,564" end="01:03:04,751">- Foi maluco, absolutamente maluco.</p>
+      <p begin="01:03:04,751" end="01:03:06,706">Mas era Hollywood.</p>
+      <p begin="01:03:06,706" end="01:03:07,966">N&#227;o h&#225; d&#250;vidas quanto a isso.</p>
+      <p begin="01:03:07,966" end="01:03:10,471">N&#227;o teria ocorrido daquele jeito<br/>em qualquer outro lugar</p>
+      <p begin="01:03:10,471" end="01:03:16,130">Eu imagino o que ele fez. Trouxe o nome<br/>para a Am&#233;rica em geral.</p>
+      <p begin="01:03:16,130" end="01:03:21,377">Mas &#233; como sempre, posso melhorar em cima disso<br/>ou o que eu farei em seguida.</p>
+      <p begin="01:03:21,377" end="01:03:25,994">Eu sou imediatamente atra&#237;do e fascinado<br/>por cabelos maravilhosos</p>
+      <p begin="01:03:25,994" end="01:03:28,986">e pessoas que os t&#234;m.</p>
+      <p begin="01:03:28,986" end="01:03:30,709">N&#243;s chamamos isso de "Sassooning".</p>
+      <p begin="01:03:30,709" end="01:03:32,427">Sou Vidal Sassoon.</p>
+      <p begin="01:03:32,427" end="01:03:35,612">E se voc&#234; n&#227;o fica bem,<br/>n&#243;s n&#227;o ficamos bem.</p>
+      <p begin="01:03:35,612" end="01:03:39,991">- Vidal disse. "Eu quero descobrir<br/>uma forma de ganhar a vida..."</p>
+      <p begin="01:03:39,991" end="01:03:42,959">"enquanto as outras pessoas est&#227;o dormindo."</p>
+      <p begin="01:03:42,959" end="01:03:44,728">O &#243;bvio era produtos.</p>
+      <p begin="01:03:44,728" end="01:03:45,943">[]</p>
+      <p begin="01:03:45,943" end="01:03:49,535">- Bem simples, n&#243;s achamos que h&#225;<br/>quatro passos para o cabelo bonito.</p>
+      <p begin="01:03:49,535" end="01:03:51,716">- Eu conheci um cara chamado Don Sullivan.</p>
+      <p begin="01:03:51,716" end="01:03:55,144">e n&#243;s conversamos sobre criar<br/>uma empresa de produtos.</p>
+      <p begin="01:03:55,144" end="01:03:58,148">Falando simples, falando diferente.</p>
+      <p begin="01:03:58,148" end="01:04:05,013">Eu estava empolgado sobre as embalagens<br/>assim como sobre os produtos.</p>
+      <p begin="01:04:05,013" end="01:04:08,011">Mas isso mudou a ind&#250;stria.</p>
+      <p begin="01:04:08,011" end="01:04:09,819">Seu modo de trabalhar<br/>e seu modo de pensar.</p>
+      <p begin="01:04:09,819" end="01:04:12,575">- Se n&#243;s pensarmos em todos esses cabelereiros<br/>que trazem produtos hoje em dia</p>
+      <p begin="01:04:12,575" end="01:04:14,282">eles tem que lembrar<br/>que ele foi realmente o primeiro.</p>
+      <p begin="01:04:14,282" end="01:04:18,569">Voc&#234; sabe, ele tinha essa empresa de produtos<br/>internacional de bilh&#245;es de d&#243;lares</p>
+      <p begin="01:04:18,569" end="01:04:21,041">que, de novo, em si pr&#243;pria,<br/>tinha bastante vis&#227;o.</p>
+      <p begin="01:04:21,041" end="01:04:24,821">[]</p>
+      <p begin="01:04:24,821" end="01:04:26,231">- [Vidal] Os sal&#245;es estavam crescendo</p>
+      <p begin="01:04:26,231" end="01:04:27,397">As escolas estavam crescendo.</p>
+      <p begin="01:04:27,397" end="01:04:28,911">A Inglaterra estava crescendo.</p>
+      <p begin="01:04:28,911" end="01:04:34,043">A Europa estava crescendo.</p>
+      <p begin="01:04:34,043" end="01:04:38,423">Nosso maior sucesso<br/>era no Jap&#227;o, China</p>
+      <p begin="01:04:38,423" end="01:04:40,076">Eles amavam.</p>
+      <p begin="01:04:40,076" end="01:04:41,942">Eles absolutamente amavam.</p>
+      <p begin="01:04:41,942" end="01:04:48,408">[]</p>
+      <p begin="01:04:48,408" end="01:04:50,838">? &#201; realmente bom olhar o seu melhor ?</p>
+      <p begin="01:04:50,838" end="01:04:53,693">? Mais lindo a cada dia ?</p>
+      <p begin="01:04:53,693" end="01:04:56,556">? Com cabelos sedosos, sexy, brilhosos ?</p>
+      <p begin="01:04:56,556" end="01:04:59,586">? No jeito de Vidal Sassoon. ?</p>
+      <p begin="01:04:59,586" end="01:05:02,987">? Porque se voc&#234; n&#227;o ficar bem,<br/>n&#243;s n&#227;o ficaremos bem.. ?</p>
+      <p begin="01:05:02,987" end="01:05:05,620">? N&#243;s temos orgulho em voc&#234; ?</p>
+      <p begin="01:05:05,620" end="01:05:08,885">? Se voc&#234; n&#227;o ficar bem,<br/>n&#243;s n&#227;o ficaremos bem.. ?</p>
+      <p begin="01:05:08,885" end="01:05:11,714">? Vidal Sassoon ?</p>
+      <p begin="01:05:11,898" end="01:05:14,513">- [Beverly Sassoon] Parece que <br/>aconteceu da noite pro dia mas n&#227;o.</p>
+      <p begin="01:05:14,513" end="01:05:17,732">Demorou bastante para<br/>lan&#231;ar os produtos</p>
+      <p begin="01:05:17,732" end="01:05:19,220">e construir a empresa.</p>
+      <p begin="01:05:19,220" end="01:05:22,278">N&#243;s eventualmente nos mudamos<br/>de Nova Iorque para a Calif&#243;rnia</p>
+      <p begin="01:05:22,278" end="01:05:27,470">e n&#243;s ach&#225;vamos que talvez fosse um<br/>estilo de vida mais f&#225;cil para as crian&#231;as.</p>
+      <p begin="01:05:29,314" end="01:05:33,347">Eu estava preocupada sobre isso porque<br/>eu cresci l&#225;.</p>
+      <p begin="01:05:33,509" end="01:05:39,435">E eu vi um monte de casamentos<br/>acabarem, e eu n&#227;o sei.</p>
+      <p begin="01:05:39,435" end="01:05:42,028">Voc&#234; n&#227;o pode culpar Los Angeles<br/>mas eu tinha um medo.</p>
+      <p begin="01:05:42,028" end="01:05:50,871">[]</p>
+      <p begin="01:05:50,871" end="01:05:54,393">- [Vidal] Ocorreu muito tranquilamente<br/>por um tempo.</p>
+      <p begin="01:05:54,393" end="01:05:56,691">N&#243;s est&#225;vamos fazendo coisas que eram<br/>bastante extraordin&#225;rias.</p>
+      <p begin="01:05:56,691" end="01:05:59,359">Quero dizer, n&#243;s t&#237;nhamos o livro mais vendido.<br/>Para sua Beleza e Sa&#250;de.</p>
+      <p begin="01:05:59,359" end="01:06:03,651">Era o n&#250;mero tr&#234;s no pa&#237;s.<br/>o livro.</p>
+      <p begin="01:06:03,651" end="01:06:06,934">Era um dos primeiros do seu estilo.</p>
+      <p begin="01:06:06,934" end="01:06:12,130">Beverly era muito boa com ioga e essas<br/>maravilhosas imagens dela fazendo ioga.</p>
+      <p begin="01:06:12,130" end="01:06:14,626">Porque eu sempre gostei de exerc&#237;cio.</p>
+      <p begin="01:06:14,626" end="01:06:19,706">N&#243;s &#233;ramos sempre muito afins de comidas<br/>que nos mantivessem saud&#225;veis.</p>
+      <p begin="01:06:19,706" end="01:06:24,178">E nosso estilo de vida<br/>n&#243;s mostramos isso em nosso livro.</p>
+      <p begin="01:06:24,178" end="01:06:26,926">As pessoas parecem gostar disso.</p>
+      <p begin="01:06:26,926" end="01:06:28,570">As pessoas queriam compr&#225;-lo.</p>
+      <p begin="01:06:28,570" end="01:06:33,594">Ele vendeu 300.000 c&#243;pias<br/>no primeiro ano de fato.</p>
+      <p begin="01:06:33,594" end="01:06:37,557">e em 18 meses<br/>400.000 c&#243;pias foram vendidas.</p>
+      <p begin="01:06:37,557" end="01:06:40,033">Bastante extraordin&#225;rio para um livro<br/>de sa&#250;de.</p>
+      <p begin="01:06:40,033" end="01:06:44,139">- Eles v&#227;o co-apresentar um show inteiro<br/>sobre beleza e sa&#250;de hoje.</p>
+      <p begin="01:06:44,139" end="01:06:48,319">Aqui est&#227;o duas pessoas que suas vidas juntas<br/>fazem deles realmente pessoas maravilhosas.</p>
+      <p begin="01:06:48,319" end="01:06:50,546">Vidal e Beverly Sassoon.</p>
+      <p begin="01:06:50,546" end="01:06:52,010">Por favor recebam eles.</p>
+      <p begin="01:06:52,010" end="01:06:55,240">[]</p>
+      <p begin="01:06:55,240" end="01:06:58,069">- Ela era excelente na televis&#227;o.</p>
+      <p begin="01:06:58,069" end="01:07:03,474">Quando n&#243;s and&#225;vamos o pa&#237;s com um livro,<br/>ela ela bastante boa.</p>
+      <p begin="01:07:03,474" end="01:07:06,101">Ela realmente sabia o que fazia.</p>
+      <p begin="01:07:06,101" end="01:07:09,229">- [Beverly] Havia essa esta&#231;&#227;o de televis&#227;o<br/>que estava planejando</p>
+      <p begin="01:07:09,229" end="01:07:13,170">uma semana de programa&#231;&#227;o de TV<br/>e toda noite</p>
+      <p begin="01:07:13,170" end="01:07:16,268">eles teriam um casal diferente.</p>
+      <p begin="01:07:16,268" end="01:07:20,535">[]</p>
+      <p begin="01:07:20,535" end="01:07:28,851">- Quarta-Feira &#233; Vidal Sassoon e <br/>Beverly Sassoon.</p>
+      <p begin="01:07:28,851" end="01:07:33,625">Seus apresentadores hoje a noite no<br/>Segunda a Sexta show.</p>
+      <p begin="01:07:33,625" end="01:07:36,720">[]</p>
+      <p begin="01:07:36,720" end="01:07:38,215">- Isso &#233; --</p>
+      <p begin="01:07:38,215" end="01:07:39,092">- Boa noite.</p>
+      <p begin="01:07:39,139" end="01:07:41,653">- Esta ser&#225; uma noite divertida<br/>Eu tenho um bom pressentimento sobre isso.</p>
+      <p begin="01:07:41,653" end="01:07:43,147">- Vai em frente--voc&#234; tem algo...</p>
+      <p begin="01:07:43,147" end="01:07:46,342">- O que voc&#234;s acham, pessoal?<br/>Este &#233; o pijama do George Hamilton.</p>
+      <p begin="01:07:46,342" end="01:07:47,769">- Ha ha ha!</p>
+      <p begin="01:07:47,769" end="01:07:49,000">[]</p>
+      <p begin="01:07:49,000" end="01:07:54,085">- N&#243;s gostamos disso. Fizemos v&#225;rios, v&#225;rios<br/>epis&#243;dios. Teve bastante sucesso.</p>
+      <p begin="01:07:54,085" end="01:08:01,035">- Seu novo dia. &#201; o seu novo dia...."</p>
+      <p begin="01:08:01,035" end="01:08:04,653">- Me ofereceram um show.<br/>Eu fiz duzentos deles.</p>
+      <p begin="01:08:04,653" end="01:08:07,278">- Com algum convidados maravilhosos.</p>
+      <p begin="01:08:07,278" end="01:08:09,844">- Aqui ele &#233; o apresentador do Seu Novo Dia,<br/>Vidal Sassoon.</p>
+      <p begin="01:08:09,844" end="01:08:10,967">- Qual &#233; a sua pergunta?</p>
+      <p begin="01:08:10,967" end="01:08:15,012">- Ah. qual &#233; o pre&#231;o de um <br/>corte de Vidal Sassoon?</p>
+      <p begin="01:08:15,012" end="01:08:17,048">- Um Vidal Sassoon...Vi...</p>
+      <p begin="01:08:17,048" end="01:08:18,189">- Eu gostaria de perguntar.</p>
+      <p begin="01:08:18,189" end="01:08:18,992">[]</p>
+      <p begin="01:08:18,992" end="01:08:20,484">- Pulando e se mantendo a salvo.</p>
+      <p begin="01:08:20,484" end="01:08:23,188">- Voc&#234; sabe que eu n&#227;o perderia uma oportunidade<br/>de testar isso por aqui.</p>
+      <p begin="01:08:23,188" end="01:08:24,201">Aqui vai.</p>
+      <p begin="01:08:24,201" end="01:08:27,656">[]</p>
+      <p begin="01:08:27,656" end="01:08:31,256">[]</p>
+      <p begin="01:08:31,256" end="01:08:38,840">- Eu estava tendo um baile exceto<br/>eu estava negligenciando o que eu tinha come&#231;ado.</p>
+      <p begin="01:08:38,840" end="01:08:44,029">Os produtos estavam indo mas n&#227;o<br/>havia ningu&#233;m os promovendo.</p>
+      <p begin="01:08:44,029" end="01:08:47,492">E eu tinha que fazer uma grande decis&#227;o<br/>depois de duzentos shows.</p>
+      <p begin="01:08:47,492" end="01:08:49,988">Eu n&#227;o podia, n&#227;o podia abandonar minha <br/>pr&#243;pria empresa.</p>
+      <p begin="01:08:49,988" end="01:08:52,868">[]</p>
+      <p begin="01:08:52,868" end="01:08:54,740">- Obrigado Vidal.</p>
+      <p begin="01:08:54,740" end="01:08:56,290">- Voc&#234; mudou, Vidal.</p>
+      <p begin="01:08:56,290" end="01:08:57,733">- Obrigado Vidal.</p>
+      <p begin="01:08:57,733" end="01:09:01,014">- Porque voc&#234; est&#225; usando mais<br/>produtos de cabelo</p>
+      <p begin="01:09:01,014" end="01:09:04,014">&#201; dif&#237;cil fazer seu cabelo ficar<br/>bem limpo e sexy.</p>
+      <p begin="01:09:04,014" end="01:09:06,078">Nova f&#243;rmula de sal&#227;o avan&#231;ada.</p>
+      <p begin="01:09:06,078" end="01:09:07,426">- [Todos] Obrigado Vidal.</p>
+      <p begin="01:09:07,426" end="01:09:10,225">- Se voc&#234; n&#227;o ficar bem,<br/>n&#243;s n&#227;o ficaremos bem.</p>
+      <p begin="01:09:10,225" end="01:09:17,777">- Eu acho que se mudar de Nova Iorque para LA<br/>foi muito bom para nossos produtos.</p>
+      <p begin="01:09:17,777" end="01:09:20,953">mas n&#227;o foi uma boa jogada<br/>no sentido familiar.</p>
+      <p begin="01:09:20,953" end="01:09:22,307">[]</p>
+      <p begin="01:09:22,307" end="01:09:25,216">- E para hoje, no setor vermelho,<br/>criador de estilo internacional</p>
+      <p begin="01:09:25,216" end="01:09:31,010">aqui est&#225; ele Sr. Vidal Sassoon,<br/>e sua esposa Beverly Sassoon.</p>
+      <p begin="01:09:31,010" end="01:09:33,631">- Eu acho que finalmente atingiu ela.</p>
+      <p begin="01:09:33,631" end="01:09:37,017">A falta da sua pr&#243;pria identidade.</p>
+      <p begin="01:09:37,017" end="01:09:41,981">Se tormou um pouquinho demais para<br/>ela emocionalmente.</p>
+      <p begin="01:09:41,981" end="01:09:44,653">- [Beverly] Eu sou bastante<br/>n&#227;o-confrontacional. Eu n&#227;o gosto disso.</p>
+      <p begin="01:09:44,653" end="01:09:47,520">Se eu tivesse aprendido isso ent&#227;o.</p>
+      <p begin="01:09:47,520" end="01:09:50,277">Eu teria sido capaz de lidar com alguns <br/>dos comportamentos do Vidal.</p>
+      <p begin="01:09:50,277" end="01:09:56,678">e alguns dos -- bom, eu percebia como<br/>raiva direcionada para mim.</p>
+      <p begin="01:09:56,678" end="01:10:00,943">Mas isso eventualmente foi o que me afastou.</p>
+      <p begin="01:10:03,297" end="01:10:13,204">- Eu acho que um dos per&#237;odos mais dif&#237;ceis<br/>para mim pessoalmente foi o div&#243;rcio.</p>
+      <p begin="01:10:19,020" end="01:10:25,646">N&#243;s temos tr&#234;s filhos em Nova Iorque,<br/>adotamos David em Los Angeles.</p>
+      <p begin="01:10:27,400" end="01:10:31,937">Adotando David -- ele tinha tr&#234;s anos.</p>
+      <p begin="01:10:31,937" end="01:10:37,291">Eu acho que meu passado tinha algo<br/>a ver com isso.</p>
+      <p begin="01:10:37,291" end="01:10:39,918">Crescendo em um orfanato.</p>
+      <p begin="01:10:39,918" end="01:10:42,918">Seria muito legal n&#227;o seria<br/>se voc&#234; pegasse uma crian&#231;a pequena</p>
+      <p begin="01:10:42,918" end="01:10:47,429">colocasse ela com a nossa fam&#237;lia.</p>
+      <p begin="01:10:50,306" end="01:10:56,158">O div&#243;rcio realmente me afetou<br/>e afetou meu julgamento</p>
+      <p begin="01:10:56,158" end="01:11:00,168">Eu tomei decis&#245;es que eu n&#227;o teria tomado</p>
+      <p begin="01:11:00,168" end="01:11:04,017">se eu n&#227;o estivesse no estado<br/>que eu estava naquele momento.</p>
+      <p begin="01:11:04,017" end="01:11:10,211">Porque se e tivesse que fazer tudo de novo,<br/>eu n&#227;o teria sido seduzido</p>
+      <p begin="01:11:10,211" end="01:11:13,409">a vender a empresa de produtos.</p>
+      <p begin="01:11:13,409" end="01:11:21,101">[]</p>
+      <p begin="01:11:21,101" end="01:11:24,634">- [Gordon] Vidal foi absolutamente<br/>o criador</p>
+      <p begin="01:11:24,634" end="01:11:28,251">da linha de produtos pra cabelo<br/>aprovada pelas celebridades.</p>
+      <p begin="01:11:28,251" end="01:11:33,176">Ele n&#227;o queria que virasse uma<br/>bagun&#231;a, mas virou muito r&#225;pido.</p>
+      <p begin="01:11:33,176" end="01:11:36,591">A procura era t&#227;o grande<br/>que era incontrol&#225;vel.</p>
+      <p begin="01:11:36,591" end="01:11:39,620">Ent&#227;o, ele foi nessa e n&#227;o contra isso.<br/>Ele n&#227;o podia lutar contra isso.</p>
+      <p begin="01:11:39,620" end="01:11:44,911">- Ent&#227;o uma empresa veio junto.<br/>N&#227;o estou mencionando nomes aqui.</p>
+      <p begin="01:11:44,911" end="01:11:49,273">Mas uma empresa veio junto --<br/>Era Richardson Vicks na verdade.</p>
+      <p begin="01:11:49,273" end="01:11:55,472">E com todos tipos de promessas,<br/>estamos virando internacionais.</p>
+      <p begin="01:11:55,472" end="01:12:00,045">Voc&#234; &#233; a nossa &#250;nica linha,<br/>e n&#243;s assumiremos.</p>
+      <p begin="01:12:00,045" end="01:12:03,474">Ent&#227;o, sabe, saia e fa&#231;a shows<br/>em diferentes pa&#237;ses e...</p>
+      <p begin="01:12:03,474" end="01:12:06,785">Eles realmente me animaram.</p>
+      <p begin="01:12:06,785" end="01:12:09,341">E n&#243;s fomos com Richardson-Vicks.</p>
+      <p begin="01:12:09,341" end="01:12:15,543">Ap&#243;s um ano e meio,<br/>eles se venderam para o Proctor e Gamble.</p>
+      <p begin="01:12:15,543" end="01:12:19,015">Ent&#227;o todas suas fantasias<br/>terminaram.</p>
+      <p begin="01:12:19,015" end="01:12:29,976">[]</p>
+      <p begin="01:12:29,976" end="01:12:32,592">Voc&#234; n&#227;o pode passar a vida.</p>
+      <p begin="01:12:32,592" end="01:12:37,256">N&#227;o pode, &#233; imposs&#237;vel passar<br/>a vida num conto de fadas.</p>
+      <p begin="01:12:37,256" end="01:12:39,743">Algo que s&#243; acontece e<br/>&#233; t&#227;o maravilhoso,</p>
+      <p begin="01:12:39,743" end="01:12:46,337">&#233; t&#227;o maravilhoso, assim, os problemas<br/>vem e voc&#234; tem que se manter.</p>
+      <p begin="01:12:46,337" end="01:13:04,984">[]</p>
+      <p begin="01:13:04,984" end="01:13:13,022">Umm, eu acho -- Eu sei na verdade<br/>porque aconteceu de novo</p>
+      <p begin="01:13:13,022" end="01:13:18,700">esse Ano novo -- Nunca vou<br/>aproveitar um dia de Ano Novo.</p>
+      <p begin="01:13:18,700" end="01:13:24,767">E vou andar e me perder em algum<br/>lugar e voltar em 2 de Janeiro.</p>
+      <p begin="01:13:24,767" end="01:13:32,098">Cinco anos atr&#225;s, v&#233;spera de Ano Novo,<br/>minha filha Catya, minha filha mais velha,</p>
+      <p begin="01:13:32,098" end="01:13:40,606">Que era absolutamente adorada e muito<br/>especial pra mim -- ela entrou em overdose,</p>
+      <p begin="01:13:40,791" end="01:13:47,271">e foi o pior momento.</p>
+      <p begin="01:13:47,271" end="01:13:55,081">Me chamaram no dia de Ano Novo e disseram<br/>que ela faleceu naquela noite, antes de...</p>
+      <p begin="01:13:56,696" end="01:14:02,144">Muitos pais j&#225; passaram por isso<br/>e eles sabem o sentimento.</p>
+      <p begin="01:14:02,144" end="01:14:15,727">[]</p>
+      <p begin="01:14:19,943" end="01:14:27,161">&#201; dif&#237;cil passar por isso sabe.</p>
+      <p begin="01:14:27,161" end="01:14:43,409">[]</p>
+      <p begin="01:14:43,409" end="01:14:49,359">- [Gordon] Eu acho que voc&#234; est&#225; come&#231;ando<br/>a ver os cortes de cabelo de novo.</p>
+      <p begin="01:14:49,359" end="01:14:52,554">N&#243;s tivemos de dez a vinte anos<br/>de longos, longos cabelos.</p>
+      <p begin="01:14:52,554" end="01:14:54,328">N&#227;o fica bem em todo mundo.</p>
+      <p begin="01:14:54,328" end="01:14:56,037">Sasson sabia disso.</p>
+      <p begin="01:14:56,037" end="01:14:59,905">As pessoas percebem que<br/>existem formas fabulosas</p>
+      <p begin="01:14:59,905" end="01:15:03,804">que as fazem parecer e sentir-se bem<br/>e que s&#227;o muito f&#225;ceis de cuidar.</p>
+      <p begin="01:15:03,804" end="01:15:07,674">Ent&#227;o, eu acho, &#233; na realidade muito<br/>moderno, &#233; sobre design.</p>
+      <p begin="01:15:07,674" end="01:15:14,483">O efeito Sassoon foi t&#227;o longe na<br/>geometria disso que voc&#234; provavelmente</p>
+      <p begin="01:15:14,483" end="01:15:17,554">teria dito, que que foi na realidade<br/>o Ipod daquele tempo;</p>
+      <p begin="01:15:17,554" end="01:15:21,191">Foi a Apple --<br/>Foi design, design, design.</p>
+      <p begin="01:15:21,191" end="01:15:32,186">[]</p>
+      <p begin="01:15:32,186" end="01:15:36,877">- Todo cabeleireiro deve<br/>algo a esse cara.</p>
+      <p begin="01:15:36,877" end="01:15:39,708">N&#227;o &#233; s&#243; pelo corte geom&#233;trico<br/>que temos de agradec&#234;-lo</p>
+      <p begin="01:15:39,708" end="01:15:44,765">s&#227;o os cortes de hoje em dia<br/>que temos de agradec&#234;-lo.</p>
+      <p begin="01:15:44,765" end="01:15:54,329">- Vidal Sasson &#233; meio que um projeto<br/>para mim de algum tipo de corte moderno.</p>
+      <p begin="01:15:54,329" end="01:15:57,704">Ent&#227;o, as imagens que eu vi quando<br/>entrei no sal&#227;o da primeira vez.</p>
+      <p begin="01:15:57,704" end="01:16:03,899">As fotos na parede ainda s&#227;o uma parte<br/>do meu tipo de biblioteca.</p>
+      <p begin="01:16:03,899" end="01:16:07,392">- Ele revolucionou n&#227;o<br/>s&#243; os penteados, mas a moda.</p>
+      <p begin="01:16:07,392" end="01:16:13,795">- Eu acho que &#233; reconhecido o qu&#227;o importante<br/>Vidal tem sido para a hist&#243;ria da moda.</p>
+      <p begin="01:16:13,795" end="01:16:16,705">que em si a influ&#234;ncia<br/>dessa moda</p>
+      <p begin="01:16:16,705" end="01:16:18,705">e a pessoa com o penteado</p>
+      <p begin="01:16:18,705" end="01:16:24,894">e a maquiagem tiveram uma enorme<br/>influencia na arquitetura e design em geral.</p>
+      <p begin="01:16:24,894" end="01:16:29,130">m&#243;veis, filmes, todo nosso<br/>mundo visual.</p>
+      <p begin="01:16:29,130" end="01:16:32,710">E aqui est&#225; um cabeleireiro que fez<br/>algo incrivelmente importante.</p>
+      <p begin="01:16:32,710" end="01:16:36,935">- Voc&#234; sabe que esses penteados<br/>s&#227;o &#237;cones porque ainda vivem.</p>
+      <p begin="01:16:36,935" end="01:16:43,434">T&#227;o incr&#237;vel que sejam t&#227;o relevantes agora<br/>quanto eram quando foram criados.</p>
+      <p begin="01:16:43,434" end="01:16:47,509">- Isso come&#231;ou uma revolu&#231;&#227;o<br/>e aquilo levou</p>
+      <p begin="01:16:47,509" end="01:16:50,509">a real revolu&#231;&#227;o<br/>que deixou o cabelo ser.</p>
+      <p begin="01:16:50,509" end="01:16:59,794">Cada bob de cabelo &#233; feito<br/>no esp&#237;rito de Sasson.</p>
+      <p begin="01:16:59,794" end="01:17:01,932">- Em todos os pa&#237;ses,<br/>eles queriam saber</p>
+      <p begin="01:17:01,932" end="01:17:04,818">sobre Vidal Sassoon em<br/>termos de cabelo atualmente.</p>
+      <p begin="01:17:04,818" end="01:17:06,144">Eles se sentiam completamente<br/>confort&#225;veis</p>
+      <p begin="01:17:06,144" end="01:17:10,792">com aquela coisa Peggy Moffitt<br/>que tinha tanto do Vidal.</p>
+      <p begin="01:17:10,792" end="01:17:12,519">Mas ele pensam nisso<br/>agora mesmo.</p>
+      <p begin="01:17:12,519" end="01:17:14,742">Eles n&#227;o, eles n&#227;o<br/>olham para tr&#225;s.</p>
+      <p begin="01:17:14,742" end="01:17:20,133">- As formas vem e v&#227;o, mas<br/>o que ele fez pelas mulheres,</p>
+      <p begin="01:17:20,133" end="01:17:23,216">a forma como provavelmente<br/>libertou as mulheres</p>
+      <p begin="01:17:23,216" end="01:17:31,017">&#233; como algo maior do que<br/>ser s&#243; um cabeleireiro.</p>
+      <p begin="01:17:31,017" end="01:17:32,862">- Ah nossa!</p>
+      <p begin="01:17:32,862" end="01:17:37,187">[]</p>
+      <p begin="01:17:37,187" end="01:17:39,878">- Oi, Voc&#234;s s&#227;o ador&#225;veis,<br/>todos voc&#234;s.</p>
+      <p begin="01:17:39,878" end="01:17:43,018">- Obrigado.</p>
+      <p begin="01:17:43,018" end="01:17:47,328">- &#201; um &#243;timo corte de cabelo.<br/>&#201; parece fant&#225;stico.</p>
+      <p begin="01:17:47,328" end="01:17:51,825">- Ador&#225;vel. Balance.</p>
+      <p begin="01:17:51,825" end="01:17:53,262">- Balance.</p>
+      <p begin="01:17:53,262" end="01:17:55,684">- Ele tinha a mais incr&#237;vel<br/>consci&#234;ncia pol&#237;tica</p>
+      <p begin="01:17:55,684" end="01:17:59,436">de todos que conheci.</p>
+      <p begin="01:17:59,436" end="01:18:03,014">Ele ama a ideia de generosidade<br/>na comunidade.</p>
+      <p begin="01:18:03,014" end="01:18:06,988">Ele ama a ideia de dar algo<br/>de volta.</p>
+      <p begin="01:18:06,988" end="01:18:13,107">- Estamos envolvidos em algo<br/>realmente excitante em Nova Orleans.</p>
+      <p begin="01:18:13,107" end="01:18:16,417">Eu acho que a alma da<br/>Am&#233;rica est&#225; em perigo</p>
+      <p begin="01:18:16,417" end="01:18:21,373">Existem tantas &#225;reas que<br/>onde a ganancia tomou conta,</p>
+      <p begin="01:18:21,373" end="01:18:23,452">onde erros foram cometidos.</p>
+      <p begin="01:18:23,452" end="01:18:28,887">O que aconteceu em Nova<br/>Orleans &#233; um total desrespeito</p>
+      <p begin="01:18:28,887" end="01:18:31,654">com os instintos humanos b&#225;sicos.</p>
+      <p begin="01:18:31,654" end="01:18:36,645">Duzentas e setenta e cinco mil<br/>pessoas exterminadas.</p>
+      <p begin="01:18:36,645" end="01:18:41,308">Se casas, embaixo d'&#225;gua.<br/>Eliminados.</p>
+      <p begin="01:18:41,308" end="01:18:46,595">O governos diz que n&#227;o estamos no<br/>neg&#243;cio imobili&#225;rio, que ultraje.</p>
+      <p begin="01:18:46,595" end="01:18:49,202">Fiquei com tanta raiva disso!</p>
+      <p begin="01:18:49,202" end="01:18:53,362">Eu disse, "Olha, vamos trazer o oficio<br/>de cabeleireiro por tr&#225;s disso."</p>
+      <p begin="01:18:53,362" end="01:18:56,054">- Bom ele deu tanto pelos<br/>cabeleireiros do mundo</p>
+      <p begin="01:18:56,054" end="01:19:01,035">aquele Hairdressers Unlocking Hope <br/>foi uma forma de lhe darem suporte.</p>
+      <p begin="01:19:01,035" end="01:19:04,778">E com a ajuda deles, ele<br/>conseguiu construir 23 casa.</p>
+      <p begin="01:19:04,778" end="01:19:10,574">- Isso n&#227;o &#233; caridade. Isso &#233; o sentimento pelos<br/>nossos companheiros que est&#227;o necessitados.</p>
+      <p begin="01:19:11,548" end="01:19:14,269">- Filantropia de um ponto<br/>de vista individual</p>
+      <p begin="01:19:14,269" end="01:19:17,398">Eu acho que &#233;<br/>absolutamente essencial.</p>
+      <p begin="01:19:17,398" end="01:19:25,874">Isso tamb&#233;m te d&#225; uma espiritualidade<br/>que n&#227;o consigo ter nas religi&#245;es mais.</p>
+      <p begin="01:19:29,720" end="01:19:34,947">- Agora se voc&#234; leu a vida de Vidal,<br/>seria lido como se fosse dif&#237;cil.</p>
+      <p begin="01:19:34,947" end="01:19:39,378">Ele tomou o que foi apresentado<br/>e usou para motivar a si mesmo.</p>
+      <p begin="01:19:39,378" end="01:19:43,407">Com certeza, ele era determinado<br/>a ser grandioso em algo.</p>
+      <p begin="01:19:43,407" end="01:19:46,517">Isso tamb&#233;m<br/>&#233; parte de seu legado.</p>
+      <p begin="01:19:46,517" end="01:19:49,949">Que voc&#234; pode de fato crescer<br/>em momentos dif&#237;ceis.</p>
+      <p begin="01:19:49,949" end="01:19:54,420">Voc&#234; pode criar um caminho<br/>que n&#227;o foi criado.</p>
+      <p begin="01:19:54,420" end="01:20:00,434">Voc&#234; pode criar algo novo em qualquer<br/>campo e ajudar as pessoas.</p>
+      <p begin="01:20:03,204" end="01:20:07,408">- Ele pergunta as vezes, se eu<br/>acho ele uma boa pessoa.</p>
+      <p begin="01:20:07,408" end="01:20:09,955">"Voc&#234; acha que<br/>sou uma boa pessoa?"</p>
+      <p begin="01:20:09,955" end="01:20:15,595">E eu acho frequentemente<br/>que isso vem de sua inf&#226;ncia</p>
+      <p begin="01:20:15,595" end="01:20:18,356">porque sei que crian&#231;as<br/>costumam culpar a si mesmas</p>
+      <p begin="01:20:18,356" end="01:20:21,054">quando seus pais<br/>se separam.</p>
+      <p begin="01:20:21,054" end="01:20:23,599">E eles costumam se culpar<br/>por tudo que acontece a eles</p>
+      <p begin="01:20:23,599" end="01:20:25,501">quando s&#227;o pequenos.</p>
+      <p begin="01:20:25,501" end="01:20:31,898">E eu acho que dentro dele, ele<br/>se culpa pelo div&#243;rcio de seus pais.</p>
+      <p begin="01:20:31,898" end="01:20:34,917">E ele at&#233; pensou que precisou<br/>ir ao orfanato</p>
+      <p begin="01:20:34,917" end="01:20:38,507">por ser um garoto mau.</p>
+      <p begin="01:20:38,507" end="01:20:42,790">E n&#227;o tenho certeza se ele passou<br/>por cima disso completamente.</p>
+      <p begin="01:20:44,359" end="01:20:49,905">- Eu conheci Ronnie,<br/>eu tinha 62.</p>
+      <p begin="01:20:49,905" end="01:20:52,889">E ela tinha 30 e alguma coisa.</p>
+      <p begin="01:20:52,889" end="01:20:56,403">Tinha algo sobre ela que <br/>era dif&#237;cil de descrever.</p>
+      <p begin="01:20:56,403" end="01:21:00,448">Tinha um fasc&#237;nio,<br/>fiquei fascinado desde ent&#227;o.</p>
+      <p begin="01:21:00,448" end="01:21:03,258">Antes de conhecer Ronnie,<br/>tinha desistido das mulheres.</p>
+      <p begin="01:21:03,258" end="01:21:07,322">Estar com uma permanentemente,<br/>nunca aconteceria.</p>
+      <p begin="01:21:07,322" end="01:21:11,433">Estava bem mais focado<br/>nos meus filhos, meu trabalho.</p>
+      <p begin="01:21:11,433" end="01:21:13,371">Ela veio e minha vida mudou.</p>
+      <p begin="01:21:13,371" end="01:21:17,627">- Agora o imp&#233;rio dele se estica pelo<br/>globo, mas e sobre o romance?</p>
+      <p begin="01:21:17,627" end="01:21:20,477">Bom, teve muito disso na sua<br/>carreira glamourosa</p>
+      <p begin="01:21:20,477" end="01:21:22,596">mas foi s&#243; com sua esposa atual,<br/>Ronnie,</p>
+      <p begin="01:21:22,596" end="01:21:25,596">que ele acredita ter encontrado<br/>a pessoa certa.</p>
+      <p begin="01:21:25,596" end="01:21:34,110">- Ronnie por uma mente boa<br/>e um fasc&#237;nio por coisas novas</p>
+      <p begin="01:21:34,110" end="01:21:36,051">fez minha vida muito<br/>mais interessante</p>
+      <p begin="01:21:36,051" end="01:21:39,973">n&#227;o h&#225; duvidas sobre isso.</p>
+      <p begin="01:21:41,404" end="01:21:49,757">- Eu fiz dele e sua fam&#237;lia um lar<br/>e ele expandiu meus horizontes</p>
+      <p begin="01:21:50,017" end="01:21:56,895">Ele me mostrou mais do mundo<br/>e o que uma &#250;nica pessoa</p>
+      <p begin="01:21:56,895" end="01:22:00,598">pode fazer pelo mundo.</p>
+      <p begin="01:22:00,598" end="01:22:05,361">[]</p>
+      <p begin="01:22:05,361" end="01:22:06,681">- [Vidal] O que voc&#234; tem a&#237;?</p>
+      <p begin="01:22:06,681" end="01:22:08,831">- [Gordon] Esse &#233; o livro.</p>
+      <p begin="01:22:08,831" end="01:22:09,690">[]</p>
+      <p begin="01:22:09,690" end="01:22:10,990">- O livro?</p>
+      <p begin="01:22:10,990" end="01:22:13,198">- Isso &#233; essencialmente sua<br/>forma de vida na parede.</p>
+      <p begin="01:22:13,198" end="01:22:14,548">- N&#227;o sei se quero ver isso.</p>
+      <p begin="01:22:14,548" end="01:22:16,662">[]</p>
+      <p begin="01:22:16,662" end="01:22:19,224">- N&#243;s vivemos isso, ent&#227;o<br/>voc&#234; deve reviver isso.</p>
+      <p begin="01:22:19,224" end="01:22:20,335">- [Vidal] Nossa!</p>
+      <p begin="01:22:20,335" end="01:22:21,878">- [Gordon] &#201; impressionante,<br/>n&#227;o &#233;?</p>
+      <p begin="01:22:21,878" end="01:22:24,008">- [Vidal] &#201;, realmente &#233;.</p>
+      <p begin="01:22:24,008" end="01:22:39,190">[]</p>
+      <p begin="01:22:39,190" end="01:22:40,841">- [Gordon] Voc&#234; chega num ponto</p>
+      <p begin="01:22:40,841" end="01:22:45,706">da sua vida e percebe que<br/>cada dia &#233; um dia especial</p>
+      <p begin="01:22:45,706" end="01:22:50,715">porque voc&#234; entende que<br/>tem menos deles pela frente.</p>
+      <p begin="01:22:50,715" end="01:22:54,211">E eu acho que ele tem consci&#234;ncia disso.</p>
+      <p begin="01:22:54,211" end="01:23:02,292">[]</p>
+      <p begin="01:23:02,292" end="01:23:11,636">[]</p>
+      <p begin="01:23:11,636" end="01:23:16,156">- [Vidal] Eles n&#227;o venceram a It&#225;lia<br/>em 88 anos.</p>
+      <p begin="01:23:16,156" end="01:23:22,710">Ent&#227;o &#233; extraordin&#225;rio se eles fizerem isso.</p>
+      <p begin="01:23:22,710" end="01:23:28,053">Sim! Eles conseguiram. Eu estou satisfeito<br/>porque eles merecem.</p>
+      <p begin="01:23:28,053" end="01:23:32,337">Que fortuito ser capaz<br/>de tocar o visual humano.</p>
+      <p begin="01:23:32,337" end="01:23:36,738">Ser intoxicado por um of&#237;cio<br/>que muda constantemente</p>
+      <p begin="01:23:36,738" end="01:23:40,073">Para considerar que tal cresceu<br/>de forma humana</p>
+      <p begin="01:23:40,073" end="01:23:43,740">que molda, cria, moda espont&#226;nea.</p>
+      <p begin="01:23:43,740" end="01:23:48,892">Por estar involvido na poesia da mudan&#231;a<br/>que foram os anos 60.</p>
+      <p begin="01:23:50,400" end="01:23:55,542">Ent&#227;o, do meu ponto de vista,<br/>se voc&#234; trouxer de volta o esp&#237;rito.</p>
+      <p begin="01:23:55,542" end="01:24:02,229">Aquele sentido de prop&#243;sito<br/>e as vit&#243;rias dos anos 60.</p>
+      <p begin="01:24:02,229" end="01:24:06,720">n&#243;s estar&#237;amos bem melhor.</p>
+      <p begin="01:24:06,720" end="01:24:11,650">- [Apresentador] Senhoras e senhores,<br/>Sr. Vidal Sassoon.</p>
+      <p begin="01:24:11,650" end="01:24:33,383">[]</p>
+      <p begin="01:24:33,383" end="01:24:36,670">- Voc&#234; sabe estou sentado aqui refletindo.</p>
+      <p begin="01:24:36,670" end="01:24:42,255">Realmente pensando<br/>como tudo isso aconteceu?</p>
+      <p begin="01:24:42,255" end="01:24:45,553">Como &#233; que tanta aventura aconteceu?</p>
+      <p begin="01:24:45,553" end="01:24:50,012">Voltando todos esses anos,<br/>voc&#234; pensa na empolga&#231;&#227;o,</p>
+      <p begin="01:24:50,012" end="01:24:54,495">na criatividade, nas pessoas que voc&#234; conheceu.</p>
+      <p begin="01:24:54,495" end="01:25:00,241">A sensa&#231;&#227;o extraordin&#225;ria<br/>de solid&#227;o algumas vezes.</p>
+      <p begin="01:25:00,241" end="01:25:14,970">A maioria das minhas ideias progressistas<br/>no trabalho e atitude eu estive sozinho.</p>
+      <p begin="01:25:14,970" end="01:25:19,704">Eu posso lembrar um Ano Novo<br/>no liceu, isso foi incr&#237;vel.</p>
+      <p begin="01:25:19,704" end="01:25:21,387">Era um sal&#227;o de dan&#231;a.</p>
+      <p begin="01:25:21,387" end="01:25:27,544">Eu estava em cima olhando do terra&#231;o,<br/>todos os foli&#245;es se divertindo.</p>
+      <p begin="01:25:27,544" end="01:25:31,622">Eu estava olhando para baixo em talvez<br/>mil ou mais pessoas.</p>
+      <p begin="01:25:31,622" end="01:25:34,062">Eu n&#227;o me sentia parte da multid&#227;o.</p>
+      <p begin="01:25:34,062" end="01:25:42,740">Em minha pr&#243;pria solid&#227;o, havia sempre<br/>uma sensa&#231;&#227;o de que eu queria ser um vencedor.</p>
+      <p begin="01:25:42,740" end="01:25:48,198">Mas numa an&#225;lise final,<br/>quando tudo j&#225; foi dito,</p>
+      <p begin="01:25:48,198" end="01:25:51,950">Meu cora&#231;&#227;o estava no cabelo.</p>
+      <p begin="01:25:51,950" end="01:25:55,389">Sempre esteve, ainda est&#225;.</p>
+      <p begin="01:25:55,389" end="01:25:59,044">Voc&#234; sabe que amanh&#227; ser&#225; um dia<br/>que nunca aconteceu para mim antes.</p>
+      <p begin="01:25:59,044" end="01:26:05,713">De fato, indo para o Pal&#225;cio<br/>ver os companheiros da Rainha.</p>
+      <p begin="01:26:05,713" end="01:26:12,679">Quanto mais eu penso sobre isso, mais eu<br/>penso que eu realmente perten&#231;o ao of&#237;cio.</p>
+      <p begin="01:26:12,679" end="01:26:18,795">Ele realmente pertence a todas essas pessoas<br/>que me ajudaram tanto.</p>
+      <p begin="01:26:18,795" end="01:26:21,493">no desenvolvimento do nosso of&#237;cio.</p>
+      <p begin="01:26:21,493" end="01:26:32,677">[]</p>
+      <p begin="01:26:32,677" end="01:26:36,963">- Eu rio e digo para mim mesmo.</p>
+      <p begin="01:26:36,963" end="01:26:39,963">"Deus, eu queria ter tido<br/>a segunda id&#233;ia original."</p>
+      <p begin="01:26:39,963" end="01:26:44,742">Eu adoraria ver alguma pessoa jovem<br/>com bastante energia,</p>
+      <p begin="01:26:44,742" end="01:26:50,932">criar algo novo,<br/>criar algo diferente.</p>
+      <p begin="01:26:50,932" end="01:26:54,012">Quando todo mundo te diz,<br/>os que duvidam te dizem.</p>
+      <p begin="01:26:54,012" end="01:26:57,815">"N&#227;o pode ser feito" voc&#234; sabe,<br/>"Voc&#234; vai falir"</p>
+      <p begin="01:26:57,815" end="01:27:03,962">ou "Todo tipo de trag&#233;dia ir&#225;<br/>vir em sua dire&#231;&#227;o." Baboseira.</p>
+      <p begin="01:27:03,962" end="01:27:09,279">Se voc&#234; puder chegar a raiz de quem voc&#234; &#233;<br/>o Deus que voc&#234; &#233;</p>
+      <p begin="01:27:09,279" end="01:27:15,749">e fazer algo acontecer a partir disso --<br/>em qualquer segmento.</p>
+      <p begin="01:27:15,749" end="01:27:18,920">Meu sentimento &#233; de que<br/>voc&#234; vai se surpreender.</p>
+      <p begin="01:27:18,920" end="01:27:22,920">[]</p>
+    </div>
+  </body>
+
+</tt>

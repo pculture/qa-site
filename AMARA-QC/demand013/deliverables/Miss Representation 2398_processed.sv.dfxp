@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:00.000" end="00:00:22.909" region="top"> Det vanligaste s&#228;ttet folk ger upp <br/>sin makt &#228;r genom att tro</p>
+      <p begin="00:00:22.909" end="00:00:25.909" region="top"> att de inte har n&#229;gon.<br/>-Alice Walker</p>
+      <p begin="00:00:28.472" end="00:00:30.891" region="top"> Amerikanska ton&#229;ringar spenderar</p>
+      <p begin="00:00:31.758" end="00:00:33.608" region="top"> 31 timmar i vecka p&#229; TV tittande</p>
+      <p begin="00:00:34.683" end="00:00:37.674" region="top"> 17 timmar i veckan p&#229; lyssna p&#229; musik</p>
+      <p begin="00:00:38.511" end="00:00:40.897" region="top"> 3 timmar i veckan p&#229; se p&#229; filmer</p>
+      <p begin="00:00:41.832" end="00:00:44.525" region="top"> 4 timmar i veckan p&#229; l&#228;sa tidningar</p>
+      <p begin="00:00:45.633" end="00:00:47.802" region="top"> 10 timmar i veckan online</p>
+      <p begin="00:00:48.189" end="00:00:51.340" region="top"> Det &#228;r 10 timmar och 45 minuter <br/>media konsumtion per dag</p>
+      <p begin="00:00:56.979" end="00:00:59.363">-"Media &#228;r budskapet och budb&#228;raren.</p>
+      <p begin="00:01:00.769" end="00:01:03.151">som blir alltmer kraftfull</p>
+      <p begin="00:01:05.983" end="00:01:06.759">-"Folk l&#228;r sig mer fr&#229;n media</p>
+      <p begin="00:01:06.759" end="00:01:08.689">&#228;n n&#229;gon annan informationsk&#228;lla.</p>
+      <p begin="00:01:08.901" end="00:01:10.314">S&#229; om du vill veta vad som f&#246;rseg&#229;r</p>
+      <p begin="00:01:10.405" end="00:01:14.236">i v&#229;rat samh&#228;lle under 2000 talet, <br/>s&#229; m&#229;ste vi f&#246;rst&#229; oss p&#229; media</p>
+      <p begin="00:01:15.364" end="00:01:17.220">-"Om du funderar &#246;ver media och teknologi</p>
+      <p begin="00:01:17.389" end="00:01:20.444">s&#229; leverar de material som <br/>formar v&#229;rt samh&#228;lle.</p>
+      <p begin="00:01:20.639" end="00:01:23.559">-"De formar v&#229;r politik. De formar den <br/>nationella avhandlingen.</p>
+      <p begin="00:01:23.836" end="00:01:25.303">-"Mestadelds s&#229; formar de</p>
+      <p begin="00:01:25.303" end="00:01:27.681">barnens hj&#228;rnor, liv och k&#228;nslor.</p>
+      <p begin="00:01:28.288" end="00:01:30.486">-" Om du fr&#229;gar mig s&#229; anv&#228;nder &#246;ver<br/>en miljard m&#228;nniskor</p>
+      <p begin="00:01:30.486" end="00:01:32.811">internet varenda dag.</p>
+      <p begin="00:01:32.835" end="00:01:36.378">-"Det &#228;r en gr&#228;ns som inte har existerat<br/>f&#246;rut inom media.</p>
+      <p begin="00:01:37.081" end="00:01:39.604">-Dagens barn lever p&#229; Facebook<br/>och mobil telefoner.</p>
+      <p begin="00:01:39.927" end="00:01:41.462">M&#229;ngfald av platformen betyder</p>
+      <p begin="00:01:41.462" end="00:01:44.165">att de bilder som projiceras har en<br/>p&#229;verkan p&#229; dina barn dygnet runt</p>
+      <p begin="00:01:44.165" end="00:01:46.977">och de begr&#228;nsningar som existerade<br/>n&#228;r vi v&#228;xte upp</p>
+      <p begin="00:01:46.977" end="00:01:48.428">finns helt enkelt inte idag.</p>
+      <p begin="00:01:49.014" end="00:01:51.334">-"Tjejer f&#229;r budskapet fr&#229;n en v&#228;ldigt<br/>tidig &#229;lder</p>
+      <p begin="00:01:51.334" end="00:01:54.002">att det som &#228;r mest viktigt &#228;r hur<br/>de ser ut. </p>
+      <p begin="00:01:54.002" end="00:01:56.919">Deras v&#228;rde h&#228;nger p&#229; det.</p>
+      <p begin="00:01:57.097" end="00:02:00.498">Och pojkarna f&#229;r budskapet att det &#228;r<br/>detta som &#228;r viktigt hos flickor.</p>
+      <p begin="00:02:00.758" end="00:02:02.995">Vi f&#229;r det fr&#229;n reklam. Vi f&#229;r<br/>det fr&#229;n film.</p>
+      <p begin="00:02:02.995" end="00:02:06.476">Vi f&#229;r det fr&#229;n tv serier, tv spel,<br/>vart &#228;n du tittar.</p>
+      <p begin="00:02:08.046" end="00:02:11.709">S&#229; det spelar ingen roll vad en kvinna<br/>g&#246;r eller vad hon &#229;stadkommer.</p>
+      <p begin="00:02:11.867" end="00:02:14.458">Deras v&#228;rde h&#228;nger fortfarande p&#229; hur<br/>de ser ut.</p>
+      <p begin="00:02:15.823" end="00:02:19.079">-"Det finns ingen uppskattning f&#246;r<br/>intellektuella kvinnor.</p>
+      <p begin="00:02:19.247" end="00:02:22.020">Det handlar bara om kroppen<br/>och inte om hj&#228;rnan.</p>
+      <p begin="00:02:22.091" end="00:02:25.313">-"Alla s&#229;g den k&#228;nda bilden som<br/>togs i helgen</p>
+      <p begin="00:02:25.343" end="00:02:29.113">av Hilary som s&#229;g s&#229; gr&#228;slig ut,<br/>hon s&#229;g ut att vara 92 &#229;r gammal."</p>
+      <p begin="00:02:29.308" end="00:02:31.562">-"Br&#246;stimplantat, har du skaffat det<br/>eller inte?</p>
+      <p begin="00:02:31.562" end="00:02:35.198">F&#246;r att det &#228;r enbart vad det handlar om<br/>dig p&#229; internet och media. </p>
+      <p begin="00:02:35.398" end="00:02:37.558">-"Jag tror &#228;ven om du torterade<br/>Nancy Pelosi,</p>
+      <p begin="00:02:37.558" end="00:02:39.513">s&#229; skulle hon inte medge till<br/>plastikkirurgi."</p>
+      <p begin="00:02:39.513" end="00:02:44.143">-"Faktum &#228;r den att media &#228;r s&#229;<br/>begr&#228;nsad och neds&#228;ttande</p>
+      <p begin="00:02:44.143" end="00:02:47.705">mot de m&#228;ktigaste kvinnorna<br/>i landet,</p>
+      <p begin="00:02:47.836" end="00:02:50.041">s&#229; vad s&#228;ger det om medias f&#246;rm&#229;ga</p>
+      <p begin="00:02:50.041" end="00:02:52.433">att ta n&#229;gon kvinna i Amerika<br/>p&#229; allvar?"</p>
+      <p begin="00:02:53.019" end="00:02:54.258">-"Media behandlar kvinnor som skit</p>
+      <p begin="00:02:54.258" end="00:02:56.418">och det &#228;r hemskt.</p>
+      <p begin="00:02:56.418" end="00:02:58.744">Jag vet inte hur vi &#246;verlever det. Jag vet<br/>inte hur vi h&#246;jer oss &#246;ver det.</p>
+      <p begin="00:02:59.413" end="00:03:01.515"/>
+      <p begin="00:03:05.789" end="00:03:09.059"/>
+      <p begin="00:03:13.625" end="00:03:16.875"/>
+      <p begin="00:03:21.794" end="00:03:25.924"/>
+      <p begin="00:03:29.621" end="00:03:33.422"/>
+      <p begin="00:03:38.079" end="00:03:43.330"/>
+      <p begin="00:03:43.750" end="00:03:47.150"/>
+      <p begin="00:03:47.700" end="00:03:53.130"/>
+      <p begin="00:03:54.827" end="00:04:00.430"/>
+      <p begin="00:04:02.527" end="00:04:08.076"/>
+      <p begin="00:04:09.933" end="00:04:16.274"/>
+      <p begin="00:04:16.996" end="00:04:20.342"/>
+      <p begin="00:04:21.047" end="00:04:23.840"/>
+      <p begin="00:04:25.147" end="00:04:28.729"/>
+      <p begin="00:04:28.973" end="00:04:33.979"/>
+      <p begin="00:04:34.300" end="00:04:37.908" region="top"> Miss Representation</p>
+      <p begin="00:04:42.665" end="00:04:43.896">-"Det finns stunder i livet</p>
+      <p begin="00:04:43.896" end="00:04:46.391">n&#228;r du b&#246;rjar se saker och ting<br/>med klara &#246;gon.</p>
+      <p begin="00:04:47.846" end="00:04:52.712">N&#228;r jag fick reda p&#229; att jag v&#228;ntade min<br/>dotter, hamnade allt i fokus. </p>
+      <p begin="00:04:55.480" end="00:04:59.297">Men jag tittade mig omkring och var<br/>riktigt r&#228;dd f&#246;r hennes skull.</p>
+      <p begin="00:04:59.939" end="00:05:02.170">Jag kunde inte f&#246;rest&#228;lla mig att min <br/>dotter skulle v&#228;xa upp</p>
+      <p begin="00:05:02.222" end="00:05:06.881">och bli emotionellt h&#228;lsosam och uppfylld,<br/>med tanke p&#229; v&#229;r moderna kultur.</p>
+      <p begin="00:05:07.688" end="00:05:11.546">S&#229; jag blev tvingad till att f&#246;rst&#229; mig p&#229;<br/>allt detta f&#246;r hennes skull</p>
+      <p begin="00:05:12.352" end="00:05:15.525">och jag vet att jag m&#229;ste b&#246;rja med att<br/>titta p&#229; mitt eget liv.</p>
+      <p begin="00:05:16.168" end="00:05:20.367">De misstag som jag gjort och<br/>de f&#228;llor jag har hamnat i.</p>
+      <p begin="00:05:21.458" end="00:05:24.027">F&#246;r att &#228;ven fast jag hade m&#229;nga f&#246;rm&#229;ner,</p>
+      <p begin="00:05:24.447" end="00:05:29.468">s&#229; har jag inte varit imun mot att ta<br/>skada av vad v&#229;r kultur g&#246;r mot kvinnor.</p>
+      <p begin="00:05:31.145" end="00:05:34.945">N&#228;r jag var en liten flicka s&#229; k&#228;nde jag<br/>mig s&#228;ker i min roll i denna v&#228;rld. </p>
+      <p begin="00:05:36.228" end="00:05:40.281">Men som med alla flickor s&#229; f&#246;r&#228;ndrades<br/>saker och ting n&#228;r jag blev &#228;ldre.</p>
+      <p begin="00:05:42.889" end="00:05:45.486">Ett par dagar innan min 7 &#229;rs<br/>f&#246;delsedag</p>
+      <p begin="00:05:45.486" end="00:05:49.110">s&#229; dog min &#228;ldre syster Stacy<br/>i en olycka.</p>
+      <p begin="00:05:50.902" end="00:05:55.594">Jag klandrar mig sj&#228;lv f&#246;r hennes d&#246;d<br/>och utav skuld och sorg</p>
+      <p begin="00:05:55.981" end="00:05:58.606">s&#229; f&#246;rs&#246;kte jag vara tv&#229; d&#246;ttrar<br/>ist&#228;llet f&#246;r en.</p>
+      <p begin="00:06:01.712" end="00:06:05.381">Jag fick utlopp av min sm&#228;rta genom att<br/>vara fr&#228;mst inom idrotten och skolan.</p>
+      <p begin="00:06:06.889" end="00:06:11.281">Men hur mycket jag &#228;n f&#246;rs&#246;kte s&#229;<br/>k&#228;ndes det fortfarande otillr&#228;ckligt.</p>
+      <p begin="00:06:13.522" end="00:06:16.603">Jag blev alltmer mottaglig f&#246;r grupptryck</p>
+      <p begin="00:06:16.674" end="00:06:18.651">och bombardemang av mediebudskap </p>
+      <p begin="00:06:18.696" end="00:06:23.075">som sa till mig att vara stark, smart<br/>och framg&#229;ngsrik inte var tillr&#228;ckligt.</p>
+      <p begin="00:06:24.363" end="00:06:28.991">F&#246;r att vara en kvinna &#228;r att st&#228;ndigt<br/>str&#228;va efter en ouppn&#229;elig sk&#246;nhetsideal </p>
+      <p begin="00:06:29.506" end="00:06:31.932">och ett godk&#228;nnande i m&#228;nnens &#246;gon.</p>
+      <p begin="00:06:33.838" end="00:06:36.289">S&#229; n&#228;r en p&#229;litlig person som sedan<br/>blev tr&#228;nare,</p>
+      <p begin="00:06:36.350" end="00:06:39.747">drog nytta av min s&#229;rbarhet och<br/>f&#246;rgrep sig p&#229; mig.</p>
+      <p begin="00:06:40.310" end="00:06:42.305">Jag var s&#229; r&#228;dd och skamsen.</p>
+      <p begin="00:06:43.029" end="00:06:44.616">Jag st&#228;ngdes av helt och h&#229;llet.</p>
+      <p begin="00:06:45.859" end="00:06:50.214">Min sj&#228;lvk&#228;nsla gick i botten och jag<br/>utvecklade en &#228;tst&#246;rning</p>
+      <p begin="00:06:50.322" end="00:06:52.903">som konsumerade tv&#229; &#229;r av mitt liv.</p>
+      <p begin="00:06:54.889" end="00:06:58.800">Det kr&#228;vdes en hel del k&#228;rlek och st&#246;d<br/>f&#246;r att hitta min styrka igen.</p>
+      <p begin="00:07:00.131" end="00:07:05.706">&#196;ven fast min upplevelse &#228;r unik s&#229;<br/>&#228;r min kamp allt f&#246;r vanlig.</p>
+      <p begin="00:07:06.704" end="00:07:11.009">Det &#228;r alltid sv&#229;rt att vara en<br/>ton&#229;rsflicka men nu sprider media</p>
+      <p begin="00:07:11.038" end="00:07:13.086">en s&#229; begr&#228;nsad bild av kvinnor</p>
+      <p begin="00:07:13.086" end="00:07:16.118">att det tr&#228;nger igenom varje aspekt<br/>av v&#229;r kultur.</p>
+      <p begin="00:07:17.085" end="00:07:20.630">&#196;r det s&#229; konstigt att ton&#229;rsflickor<br/>k&#228;nner sig mer maktl&#246;sa nu &#228;n n&#229;gonsin?</p>
+      <p begin="00:07:21.277" end="00:07:25.286">53% av 13 &#229;riga flickor &#228;r inte n&#246;jda med<br/>sina kroppar.</p>
+      <p begin="00:07:25.609" end="00:07:30.081">Den siffran h&#246;js till 78% n&#228;r de &#228;r 17 &#229;r.</p>
+      <p begin="00:07:30.705" end="00:07:36.603">65% av kvinnor och flickor lider av en<br/>&#228;tst&#246;rning.</p>
+      <p begin="00:07:36.954" end="00:07:42.138">17% av ton&#229;ringar sk&#228;r sig sj&#228;lva<br/>eller lider av sj&#228;lvskadebeteenden.</p>
+      <p begin="00:07:42.174" end="00:07:45.235">Antalet deprimerade flickor och<br/>kvinnor har</p>
+      <p begin="00:07:45.235" end="00:07:48.850">dubblats mellan &#229;ren 2000 och 2010.</p>
+      <p begin="00:07:50.510" end="00:07:54.014">Jag vill ha en annorlunda v&#228;rld f&#246;r min<br/>dotter och hennes generation.</p>
+      <p begin="00:07:55.066" end="00:07:57.135">Men mycket m&#229;ste &#228;ndras f&#246;rst.</p>
+      <p begin="00:08:00.238" end="00:08:03.526">-"Vi ser s&#229; mycket negativitet i media</p>
+      <p begin="00:08:03.546" end="00:08:06.388">riktat mot kvinnor och deras utseende.</p>
+      <p begin="00:08:06.456" end="00:08:08.905">Det &#228;r bara en representation av trycket<br/>som vi k&#228;nner av</p>
+      <p begin="00:08:08.967" end="00:08:11.271">att anpassa oss till m&#228;nnens ideal.</p>
+      <p begin="00:08:11.546" end="00:08:16.450">Det finns ett koncept om att<br/>kvinnor ska se ut p&#229; ett visst s&#228;tt</p>
+      <p begin="00:08:16.854" end="00:08:20.110">och p&#229; grund av att kvinnor inte kan n&#229;<br/>upp till idealet s&#229; blir de granskade.</p>
+      <p begin="00:08:20.472" end="00:08:23.368">-"Jag kommer ih&#229;g n&#228;r jag gick i femman,<br/>jag var orolig &#246;ver min vikt.</p>
+      <p begin="00:08:23.412" end="00:08:25.862">Jag g&#229;r nu i nian och jag oroar mig<br/>fortfarande &#246;ver min vikt.</p>
+      <p begin="00:08:25.907" end="00:08:28.818">"F&#246;r mig, vara en liten person i min<br/>gamla skola</p>
+      <p begin="00:08:28.854" end="00:08:32.275">s&#229; sa de saker som, "G&#229; spy"<br/>eller typ "G&#229; &#228;t en hamburgare".</p>
+      <p begin="00:08:32.337" end="00:08:35.339">F&#246;r att folk trodde att jag var<br/>anorektiker eller n&#229;got s&#229;dant.</p>
+      <p begin="00:08:35.407" end="00:08:39.210">S&#229; jag brukade &#228;ta en hel del<br/>f&#246;r att folk skulle tro</p>
+      <p begin="00:08:39.393" end="00:08:41.495">att jag inte hade en &#228;tst&#246;rning.</p>
+      <p begin="00:08:41.603" end="00:08:44.391">-"Jag r&#228;tar ut mitt h&#229;r bara f&#246;r att<br/>jag ska kunna passa in</p>
+      <p begin="00:08:44.391" end="00:08:46.546">n&#228;r jag har naturligt krulligt h&#229;r.</p>
+      <p begin="00:08:46.609" end="00:08:50.981">-"Jag har n&#228;ra v&#228;nner som mellan rasterna</p>
+      <p begin="00:08:51.016" end="00:08:54.215">g&#229;r iv&#228;g till toan och l&#228;gger p&#229;<br/>fem kilo smink,</p>
+      <p begin="00:08:54.422" end="00:08:57.805">kammar h&#229;ret och bara allm&#228;nt fixar<br/>till sig.</p>
+      <p begin="00:08:57.937" end="00:08:59.503">Man &#228;r i skolan f&#246;r att l&#228;ra sig.</p>
+      <p begin="00:08:59.639" end="00:09:02.575">-"N&#228;r ska det vara nog? F&#246;r att<br/>jag har en lilla syster</p>
+      <p begin="00:09:03.880" end="00:09:04.955">och hon h&#229;ller p&#229;...</p>
+      <p begin="00:09:08.663" end="00:09:10.732" region="top"> Hon sk&#228;r sig sj&#228;lv.</p>
+      <p begin="00:09:11.280" end="00:09:14.332" region="top"> Hon sk&#228;r sig sj&#228;lv f&#246;r att<br/>hon blev retad i skolan</p>
+      <p begin="00:09:14.332" end="00:09:16.291" region="top"> p&#229; grund av att hon inte har den<br/>perfekta kroppen.</p>
+      <p begin="00:09:17.934" end="00:09:20.110" region="top"> Det &#228;r sv&#229;rt f&#246;r mig &#229; titta p&#229;.</p>
+      <p begin="00:09:20.422" end="00:09:23.924" region="top"> Vad kan jag g&#246;ra f&#246;r att min lilla syster<br/>inte ska g&#246;ra sig illa p&#229; grund av media?</p>
+      <p begin="00:09:25.067" end="00:09:27.987" region="top"> Hur l&#229;ng tid ska det ta innan n&#229;gon<br/>tar st&#228;llning mot det h&#228;r?</p>
+      <p begin="00:09:29.333" end="00:09:33.054" region="top"> Hur l&#229;ng tid ska det ta innan n&#229;gon<br/>tar st&#228;llning mot detta?</p>
+      <p begin="00:09:34.262" end="00:09:37.085">-"Sk&#246;nhetsidealet &#228;r mer extrem</p>
+      <p begin="00:09:37.085" end="00:09:39.112">och ouppn&#229;elig &#228;n vad det n&#229;gonsin<br/>har varit.</p>
+      <p begin="00:09:39.762" end="00:09:41.877">F&#246;rut kunde man uppn&#229; perfektion</p>
+      <p begin="00:09:41.877" end="00:09:44.131">genom kosmetik och airbrushing.</p>
+      <p begin="00:09:44.131" end="00:09:46.787">Men dagsl&#228;get, &#228;r det ens m&#246;jligt att<br/>uppn&#229; det perfekta sk&#246;nhetsidealet</p>
+      <p begin="00:09:46.817" end="00:09:49.755">p&#229; grund av datorer?</p>
+      <p begin="00:09:49.878" end="00:09:51.441"/>
+      <p begin="00:09:51.858" end="00:09:54.125">Du kommer aldrig f&#229; se ett foto p&#229; en<br/>kvinna som anses vara vacker</p>
+      <p begin="00:09:54.125" end="00:09:56.000">som inte har blivit digitalt redigerad </p>
+      <p begin="00:09:56.000" end="00:09:58.676">f&#246;r att kunna uppn&#229; en absolut<br/>m&#228;nsklig perfektion.</p>
+      <p begin="00:09:59.036" end="00:10:01.911">Tjejer har blivit uppmuntrade till att<br/>uppn&#229; det idealet</p>
+      <p begin="00:10:02.002" end="00:10:04.492">i en alltmer yngre &#229;lder.</p>
+      <p begin="00:10:04.586" end="00:10:08.336">Det slutar med att de j&#228;mf&#246;r sig sj&#228;lva<br/>med en om&#246;jlig standard</p>
+      <p begin="00:10:08.480" end="00:10:11.275">och resultatet av det blir att de<br/>f&#246;rs&#246;ker uppn&#229; den.</p>
+      <p begin="00:10:11.862" end="00:10:15.039">Det &#228;r inte heller &#246;verraskande att<br/>unga m&#228;n som blir visade </p>
+      <p begin="00:10:15.039" end="00:10:17.082">massa foton p&#229; supermodeller</p>
+      <p begin="00:10:17.082" end="00:10:19.072">g&#229;r sedan och d&#246;mmer kvinnor<br/>mycket h&#229;rdare.</p>
+      <p begin="00:10:20.671" end="00:10:24.661">Det viktigaste att f&#246;rst&#229; om alla<br/>dessa bilder</p>
+      <p begin="00:10:24.743" end="00:10:27.869">och hur de p&#229;verkar oss p&#229; det s&#228;ttet<br/>&#228;r huvudsakligen undermedvetet</p>
+      <p begin="00:10:27.956" end="00:10:30.915">och mestadels &#228;r det detta<br/>som &#228;r skadligt.</p>
+      <p begin="00:10:30.915" end="00:10:32.748">Vi &#228;r inte riktigt medvetna om det </p>
+      <p begin="00:10:32.768" end="00:10:36.102">och det &#228;r d&#228;rf&#246;r vi m&#229;ste medvetet<br/>uppm&#228;rksamma dessa bilder. </p>
+      <p begin="00:10:36.529" end="00:10:39.897">-"Det genomsnittliga barnet utvecklas<br/>fr&#229;n 18 till 24 &#229;r</p>
+      <p begin="00:10:39.981" end="00:10:41.650">och en fullst&#228;ndig utveckling av hj&#228;rnan<br/>sker inte tills </p>
+      <p begin="00:10:41.650" end="00:10:43.485">du &#228;r i tidig tjugo&#229;rs&#229;lder.</p>
+      <p begin="00:10:44.132" end="00:10:48.970">S&#229; tanken bakom att alla barn runt &#229;tta,<br/>tio och femton &#229;r ligger p&#229; samma niv&#229;</p>
+      <p begin="00:10:48.970" end="00:10:53.078">intellektuellt och emotionellt som en<br/>vuxen &#228;r helt galet.</p>
+      <p begin="00:10:53.278" end="00:10:55.060">De har helt olika tolkningsf&#246;rm&#229;gor.</p>
+      <p begin="00:10:55.060" end="00:10:57.153">De har helt olika emotionella f&#246;rm&#229;gor</p>
+      <p begin="00:10:57.153" end="00:10:59.310">och de &#228;r v&#228;ldigt utsatta i samh&#228;llet.</p>
+      <p begin="00:10:59.674" end="00:11:04.360">Jag oroar mig &#246;ver hur mycket<br/>press min dotter k&#228;nner</p>
+      <p begin="00:11:05.301" end="00:11:07.416">i ett samh&#228;lle som har </p>
+      <p begin="00:11:07.416" end="00:11:12.047">anorektiska sk&#229;despelare, modeller<br/>och tv stj&#228;rnor.</p>
+      <p begin="00:11:12.416" end="00:11:15.731">Vi blir betingade att tro att detta<br/>&#228;r hur kvinnor ska se ut.</p>
+      <p begin="00:11:15.958" end="00:11:23.407">S&#229; &#228;ven medelm&#229;ttiga m&#228;nniskor<br/>lider av Dysmorfofobi.</p>
+      <p begin="00:11:23.645" end="00:11:26.223">-"N&#228;r jag var med i min f&#246;rsta tv show,<br/>All American Girl</p>
+      <p begin="00:11:26.223" end="00:11:29.438">som var den f&#246;rsta asiat amerikanska<br/>familjeprogrammet p&#229; TV</p>
+      <p begin="00:11:29.438" end="00:11:32.155">Jag hade en del problem med<br/>TV bolaget</p>
+      <p begin="00:11:32.216" end="00:11:34.599">f&#246;r att dem konstant sa att jag var<br/>f&#246;r fet.</p>
+      <p begin="00:11:36.095" end="00:11:39.002">Jag blev en anorektiker f&#246;r att<br/>jag f&#246;rs&#246;kte</p>
+      <p begin="00:11:39.094" end="00:11:42.813">beh&#229;lla det h&#228;r jobbet som<br/>jag verkligen ville ha kvar.</p>
+      <p begin="00:11:42.833" end="00:11:45.514">Det slutade med att de la ner serien</p>
+      <p begin="00:11:46.588" end="00:11:50.033">och ersatte den med Drew Carey Show<br/>eftersom han var s&#229; smal.</p>
+      <p begin="00:11:50.186" end="00:11:53.015"/>
+      <p begin="00:11:56.120" end="00:11:57.623">-"En aspekt utav mediakunskaps<br/>utbildningen</p>
+      <p begin="00:11:57.623" end="00:11:59.213">som jag tror m&#229;nga inte k&#228;nner till</p>
+      <p begin="00:11:59.213" end="00:12:01.145">&#228;r att medias ekonomi politik.</p>
+      <p begin="00:12:04.613" end="00:12:07.358">De flesta medier f&#229;r sina int&#228;kter<br/>fr&#229;n reklam</p>
+      <p begin="00:12:07.358" end="00:12:09.582">s&#229; allt som inte &#228;r reklam</p>
+      <p begin="00:12:09.582" end="00:12:11.326">m&#229;ste st&#246;dja reklambranschen.</p>
+      <p begin="00:12:11.449" end="00:12:14.665">-"Akka m&#229;ste f&#229; reda p&#229; vad<br/>media egentligen handlar om.</p>
+      <p begin="00:12:14.921" end="00:12:19.054">Det handlar verkligen bara om att dem vill<br/>att du ska vara n&#229;gon som du inte &#228;r. </p>
+      <p begin="00:12:19.565" end="00:12:21.502">-"En hel del reklam g&#229;r ut p&#229; att<br/>f&#246;rs&#246;ka f&#229; folk</p>
+      <p begin="00:12:21.502" end="00:12:23.851">att k&#228;nna sig oroliga och os&#228;kra.</p>
+      <p begin="00:12:23.851" end="00:12:26.728">F&#246;r m&#228;n finns mycket oro kring<br/>status och makt</p>
+      <p begin="00:12:26.728" end="00:12:29.797">och att utstr&#229;la makt.</p>
+      <p begin="00:12:29.797" end="00:12:34.374">-"K&#246;r &#229;tminstone en kraftfull bil f&#246;r en<br/>kvinna som du inte &#228;r tillr&#228;ckligt fin f&#246;r</p>
+      <p begin="00:12:34.821" end="00:12:37.108">Det &#228;r d&#228;rf&#246;r ni ser samma kroppstyper</p>
+      <p begin="00:12:37.108" end="00:12:39.592">om och om igen. F&#246;r att det &#228;r<br/>dessa kroppar</p>
+      <p begin="00:12:39.592" end="00:12:41.824">som genererar all k&#246;p av dessa<br/>sk&#246;nhetsprodukter</p>
+      <p begin="00:12:41.824" end="00:12:44.984">och &#228;r d&#228;rmed en meningsl&#246;s str&#228;van<br/>efter den idealiserade kroppen.</p>
+      <p begin="00:12:45.181" end="00:12:47.962">Denna str&#228;van &#228;r en enormt stor<br/>vinst f&#246;r mediebranschen</p>
+      <p begin="00:12:47.962" end="00:12:49.351">och alla annons&#246;rer.</p>
+      <p begin="00:12:49.351" end="00:12:54.925">Reklambranschen $235.6 miljarder<br/>&#229;r 2009 </p>
+      <p begin="00:12:55.262" end="00:13:00.015">80% av v&#228;rldens l&#228;nder har ett l&#228;gre BNP</p>
+      <p begin="00:13:00.153" end="00:13:02.773">Amerikanska kvinnor spenderar mycket<br/>mer pengar p&#229; sk&#246;nhet</p>
+      <p begin="00:13:02.773" end="00:13:05.106">i str&#228;van efter dessa ideal och myter &#228;n</p>
+      <p begin="00:13:05.106" end="00:13:08.650">deras egna utbildningar, som skulle vara<br/>mycket mer v&#228;lg&#246;rande i det l&#229;nga loppet.</p>
+      <p begin="00:13:08.840" end="00:13:11.111">S&#229; under den ganska s&#229; utrustade <br/>egenmakten</p>
+      <p begin="00:13:11.111" end="00:13:13.049">blir kvinnor helt maktl&#246;sa.</p>
+      <p begin="00:13:14.062" end="00:13:17.482">Kvinnor i USA spenderar $12,000 till<br/>$15,000 per &#229;r</p>
+      <p begin="00:13:17.482" end="00:13:20.116">p&#229; sk&#246;nhetsprodukter och<br/>salong utgifter.</p>
+      <p begin="00:13:20.359" end="00:13:24.068">Antalet sk&#246;nhetsingrepp gjorda p&#229;<br/>dagens ungdom</p>
+      <p begin="00:13:24.068" end="00:13:26.413">under 19 &#229;r har &#246;kat trefaldigt<br/>fr&#229;n &#229;r 1997 till 2007.</p>
+      <p begin="00:13:27.227" end="00:13:31.401">Den genomsnittliga kostnaden f&#246;r<br/>ett ansiktslyft &#228;r $11,429</p>
+      <p begin="00:13:31.516" end="00:13:34.830">Det &#228;r tillr&#228;ckligt f&#246;r att betala<br/>5 &#229;rs utbildning p&#229; Comunity Collage.</p>
+      <p begin="00:13:34.830" end="00:13:38.769">2 &#229;rs utbildning p&#229; valfri h&#246;gskola. 1 &#229;rs<br/>utbildning p&#229; University of California.</p>
+      <p begin="00:13:39.300" end="00:13:42.494">-"Inte nog med att tjejer ses som<br/>objekt av andra.</p>
+      <p begin="00:13:42.509" end="00:13:44.887">De l&#228;r sig &#228;ven att se sig<br/>sj&#228;lva som objekt.</p>
+      <p begin="00:13:45.555" end="00:13:47.496">-"The American Psychological Association</p>
+      <p begin="00:13:47.496" end="00:13:50.611">har f&#229;tt reda p&#229; senare &#229;r att<br/>sj&#228;lvobjektifiering</p>
+      <p begin="00:13:50.611" end="00:13:53.972">har kommit att bli en nationell epidemi.<br/>Ett nationellt problem.</p>
+      <p begin="00:13:55.834" end="00:13:59.194">Ju mer kvinnor och flickor<br/>objektifierar sig sj&#228;lva</p>
+      <p begin="00:13:59.194" end="00:14:02.714">desto st&#246;rre chans har de att bli<br/>deprimerade och utveckla &#228;tst&#246;rningar.</p>
+      <p begin="00:14:02.714" end="00:14:06.351">De har ett l&#228;gre sj&#228;lvf&#246;rtroende.<br/>De har l&#228;gre ambitioner.</p>
+      <p begin="00:14:06.351" end="00:14:08.537">De har en l&#228;gre kognitiv funktion.</p>
+      <p begin="00:14:08.537" end="00:14:10.639">De har ett l&#228;gre betygssnitt.</p>
+      <p begin="00:14:11.192" end="00:14:13.211">Hur kopplar det h&#228;r ihop kvinnor<br/>och ledarskap?</p>
+      <p begin="00:14:13.503" end="00:14:17.757">Kvinnor som objektifierar sig sj&#228;lva<br/>har en l&#228;gre politisk effektivitet. </p>
+      <p begin="00:14:18.209" end="00:14:22.113">Politisk effektivitet &#228;r id&#233;n bakom att<br/>din r&#246;st betyder n&#229;got inom politiken</p>
+      <p begin="00:14:22.188" end="00:14:24.229">och att du kan &#228;ndra saker<br/>inom politiken.</p>
+      <p begin="00:14:24.936" end="00:14:28.463">S&#229; om vi har en hel generation<br/>unga m&#228;nniskor</p>
+      <p begin="00:14:28.481" end="00:14:33.067">som tycker att objektifiering av kvinnor<br/>&#228;r en del av spelet, att det &#228;r normalt</p>
+      <p begin="00:14:33.163" end="00:14:36.793">s&#229; kommer vi att ha en hel generation<br/>kvinnor som inte deltar</p>
+      <p begin="00:14:36.793" end="00:14:38.275">och en mindre chans att de ens r&#246;star.</p>
+      <p begin="00:14:42.796" end="00:14:44.743">-"Det h&#228;r &#228;r en farlig bransch.</p>
+      <p begin="00:14:46.377" end="00:14:50.820">Om media s&#228;nder ut budskap till tjejer<br/>om att det &#228;r kroppen som &#228;r v&#228;rd n&#229;got</p>
+      <p begin="00:14:51.586" end="00:14:54.222">kommer det att f&#229; dem att<br/>k&#228;nna sig maktl&#246;sa</p>
+      <p begin="00:14:54.562" end="00:14:57.007">och det distraherar dem fr&#229;n att<br/>g&#246;ra n&#229;gon skillnad</p>
+      <p begin="00:14:57.215" end="00:14:58.554">och bli ledare.</p>
+      <p begin="00:14:58.706" end="00:15:01.674" region="top"> 51% av USA:s befolkning best&#229;r<br/>av kvinnor.</p>
+      <p begin="00:15:01.950" end="00:15:05.267" region="top"> Trots detta s&#229; best&#229;r kongressen bara av<br/>17% kvinnor.</p>
+      <p begin="00:15:07.020" end="00:15:10.700" region="top"> Valet &#229;r 2010 &#228;r f&#246;rsta g&#229;ngen</p>
+      <p begin="00:15:11.151" end="00:15:15.255" region="top"> kvinnor inte har gjort n&#229;gra framsteg<br/>i kongressen sedan 1979.</p>
+      <p begin="00:15:15.819" end="00:15:19.480" region="top"> I denna takt kommer kvinnor inte<br/>kunna n&#229; j&#228;mlikhet f&#246;rens om 500 &#229;r.</p>
+      <p begin="00:15:19.880" end="00:15:23.697" region="top"> Endast 34 kvinnor har varit guven&#246;r</p>
+      <p begin="00:15:25.778" end="00:15:28.037" region="top"> j&#228;mf&#246;rt med 2319 m&#228;n</p>
+      <p begin="00:15:28.108" end="00:15:32.307">-" H&#228;r st&#229;r vi. Detta massivt kraftulla<br/>demokratiska samh&#228;lle</p>
+      <p begin="00:15:32.307" end="00:15:37.056">och vi utformar inte en b&#228;ttre balans<br/>f&#246;r resten av v&#228;rlden.</p>
+      <p begin="00:15:37.795" end="00:15:42.457" region="top"> 67 l&#228;nder har haft kvinnliga presidenter<br/>eller premi&#228;rministrar.</p>
+      <p begin="00:15:44.122" end="00:15:49.393" region="top"> USA &#228;r inte en av dem</p>
+      <p begin="00:15:50.484" end="00:15:53.489" region="top"> USA &#228;r plats 88 i v&#228;rlden n&#228;r det g&#228;ller<br/>kvinnor inom den nationella lagstiftningen</p>
+      <p begin="00:15:53.581" end="00:15:56.654">-"Om bara folk visste att<br/>Kuba, Kina, Irak</p>
+      <p begin="00:15:56.654" end="00:15:59.814">och Afghanistan har fler kvinnor<br/>i regeringen</p>
+      <p begin="00:15:59.814" end="00:16:01.157">&#228;n USA,</p>
+      <p begin="00:16:01.157" end="00:16:03.463">d&#229; skulle i alla fall n&#229;gra<br/>personer bli uppr&#246;rda.</p>
+      <p begin="00:16:03.551" end="00:16:05.605">-"Inte undra p&#229; att vi sitter i klistret,</p>
+      <p begin="00:16:05.605" end="00:16:09.508">vi har valt nationens ledarskap<br/>fr&#229;n 6% av landet.</p>
+      <p begin="00:16:13.411" end="00:16:17.315">-"Utan kvinnor inom politik<br/>s&#229; har vi helt enkelt inte</p>
+      <p begin="00:16:17.315" end="00:16:18.963">demokratisk legitimitet.</p>
+      <p begin="00:16:18.963" end="00:16:22.324">N&#229;got ser ut att vara ett grundl&#228;ggande<br/>fel utan v&#229;ra politiska instutioner.</p>
+      <p begin="00:16:22.746" end="00:16:25.263">-"Vi undanh&#229;ller r&#246;ster som beh&#246;vs<br/>s&#229; snabbt som m&#246;jligt</p>
+      <p begin="00:16:25.263" end="00:16:28.645">i offentliga forum fr&#229;n att n&#229; fram.</p>
+      <p begin="00:16:28.777" end="00:16:32.054">-"Washington &#228;r fortfarande ganska manligt<br/>och det &#228;r inte konstigt</p>
+      <p begin="00:16:32.054" end="00:16:34.927">att g&#229; in i ett rum och vara den enda<br/>kvinna d&#228;r.</p>
+      <p begin="00:16:35.540" end="00:16:40.500">Ibland beh&#246;vdes de n&#228;r de f&#246;rs&#246;kte<br/>&#228;ndra Title IX</p>
+      <p begin="00:16:40.500" end="00:16:43.957">och en del press fr&#229;n<br/>Capitol Hill.</p>
+      <p begin="00:16:43.957" end="00:16:47.230">Jag kommer ih&#229;g n&#228;r Karen Hughson<br/>gick fram till presidenten och sa</p>
+      <p begin="00:16:47.595" end="00:16:50.891">"Du kan inte g&#246;ra s&#229;. Bara f&#246;r att<br/>du vet inte hur det var</p>
+      <p begin="00:16:50.891" end="00:16:54.845">att vara en kvinna i universitetet<br/>innan Title IX</p>
+      <p begin="00:16:54.845" end="00:16:59.923">n&#228;r man var tvungen att baka och s&#228;lja<br/>f&#246;r att kunna &#229;ka n&#229;gonstans med laget.</p>
+      <p begin="00:17:00.346" end="00:17:03.131">-"Om du har n&#229;gon typ av besluts r&#229;d</p>
+      <p begin="00:17:03.159" end="00:17:07.148">och det inte finns n&#229;gra kvinnor med<br/>s&#229; kommer de att ta fel beslut.</p>
+      <p begin="00:17:07.187" end="00:17:09.357">F&#246;r att de har inte en kvinnas perspektiv,</p>
+      <p begin="00:17:09.419" end="00:17:12.717">en kvinnas insikt,<br/>en kvinnas erfarenhet.</p>
+      <p begin="00:17:13.132" end="00:17:15.455">-" Det &#228;r en absolut skandal att</p>
+      <p begin="00:17:15.455" end="00:17:22.228">Amerikas kvinnor forts&#228;tter att tj&#228;na<br/>77 cent f&#246;r varje dollar de tj&#228;nar."</p>
+      <p begin="00:17:22.591" end="00:17:25.620">-"I nio stater, i Columbias distrikt</p>
+      <p begin="00:17:26.138" end="00:17:31.022">har kvinnor som &#228;r offer f&#246;r misshandel<br/>eller har varit offer f&#246;r misshandel</p>
+      <p begin="00:17:31.157" end="00:17:33.827">kan bli nekade sjukf&#246;rs&#228;kring<br/>f&#246;r att misshandel</p>
+      <p begin="00:17:33.958" end="00:17:37.088">kan klassas som ett redan existerande<br/>tillst&#229;nd."</p>
+      <p begin="00:17:37.380" end="00:17:38.844">-"Vi g&#229;r p&#229; damernas</p>
+      <p begin="00:17:38.844" end="00:17:42.186">Republikanska kvinnor och<br/>Demokrat kvinnorna,</p>
+      <p begin="00:17:42.186" end="00:17:44.008">vi bara himlar med &#246;gonen &#229;t dem<br/>ist&#228;llet f&#246;r att vara d&#228;r ute.</p>
+      <p begin="00:17:44.008" end="00:17:46.358">Republikan kvinnan sa,</p>
+      <p begin="00:17:46.358" end="00:17:48.084">n&#228;r vi slogs om lagf&#246;rslaget<br/>ang&#229;ende sjukf&#246;rs&#228;kring,</p>
+      <p begin="00:17:48.084" end="00:17:51.396">"Om vi skickar hem m&#228;nnen s&#229; kan vi<br/>f&#229; det h&#228;r snabbt &#246;verst&#246;kat."</p>
+      <p begin="00:17:51.596" end="00:17:54.086"/>
+      <p begin="00:17:55.103" end="00:17:57.530">USA &#228;r det fr&#228;msta i-landet</p>
+      <p begin="00:17:57.530" end="00:18:00.025">utan betald sjukf&#246;rs&#228;kring."</p>
+      <p begin="00:18:00.108" end="00:18:02.926">-"Om inte kvinnor tog upp<br/>dessa &#228;mnen </p>
+      <p begin="00:18:02.926" end="00:18:07.026">och inte var front och center<br/>i att se till att de &#228;r p&#229; fronten</p>
+      <p begin="00:18:07.119" end="00:18:09.986">av en lagstiftningsagenda<br/>s&#229; skulle det inte ens ha skett..</p>
+      <p begin="00:18:10.024" end="00:18:12.109">Jag k&#228;nner att om det inte vore f&#246;r oss,<br/>vem skulle ha gjort det?"</p>
+      <p begin="00:18:12.267" end="00:18:16.405">-Kvinnor har faktiskt skapat mest <br/>allm&#228;n ordning i Amerika,</p>
+      <p begin="00:18:16.455" end="00:18:18.730">i varje stat och samh&#228;lle i detta land.</p>
+      <p begin="00:18:18.730" end="00:18:21.735">I levnadsl&#246;n kampanjerna,<br/>Micro-Enterprise, s&#228;kerhet,</p>
+      <p begin="00:18:21.735" end="00:18:25.011">allt som beh&#246;vde ett annorlunda t&#228;nk<br/>hade kvinnorna redan gjort</p>
+      <p begin="00:18:25.072" end="00:18:27.080">s&#229; vi m&#229;ste f&#229; dem till makten.</p>
+      <p begin="00:18:27.520" end="00:18:29.996">-"Tv&#229; saker m&#229;ste ske n&#228;r<br/>du pratar om</p>
+      <p begin="00:18:29.996" end="00:18:33.572">kvinnor g&#229;r till n&#228;sta steg eller<br/>minoriteter g&#229;r vidare till n&#228;sta steg.</p>
+      <p begin="00:18:33.954" end="00:18:35.882">F&#246;rst m&#229;ste vi ha kandidaterna</p>
+      <p begin="00:18:35.973" end="00:18:38.128">Du m&#229;ste ha personer som<br/>som &#228;r i poolen</p>
+      <p begin="00:18:38.128" end="00:18:40.074">och h&#228;rifr&#229;n dras positionerna.</p>
+      <p begin="00:18:40.302" end="00:18:43.161">Men du m&#229;ste ocks&#229; ha en form av<br/>psykologiskt genombrott</p>
+      <p begin="00:18:44.390" end="00:18:50.254">eller kan en amerikan see en kvinna<br/>f&#246;dd Afro-Amerikan i den positionen?</p>
+      <p begin="00:18:50.362" end="00:18:54.213">Jag tror att kvinnor har<br/>en bit kvar att g&#229;.</p>
+      <p begin="00:18:56.546" end="00:18:59.643">-"Jag visste att dessa hinder fortfarande<br/>fanns fr&#229;n min generation,</p>
+      <p begin="00:18:59.789" end="00:19:02.473">men jag ville ta reda p&#229; om<br/>saker var b&#228;ttre</p>
+      <p begin="00:19:02.473" end="00:19:04.787">f&#246;r en ung kvinna som s&#246;ker<br/>ledarskap positioner.</p>
+      <p begin="00:19:05.557" end="00:19:09.252">S&#229; jag spenderade tid med en exceptionell<br/>ung kvinna vid namnet, Devanshi Patel, </p>
+      <p begin="00:19:09.749" end="00:19:12.302">som dr&#246;mmer om att ha en<br/>karri&#228;r inom statstj&#228;nsten.</p>
+      <p begin="00:19:12.949" end="00:19:14.634">-"V&#228;lkommen till Bill Hearing.</p>
+      <p begin="00:19:14.634" end="00:19:16.728">Inatt &#228;r det Bill Hearing natten f&#246;r</p>
+      <p begin="00:19:16.728" end="00:19:20.118">The Central Silicon Valley YMCA<br/>Youth and Government Delegation".</p>
+      <p begin="00:19:20.489" end="00:19:24.351">F&#246;rsta g&#229;ngen jag deltog i ett val<br/>gick jag i fyran.</p>
+      <p begin="00:19:25.026" end="00:19:27.344">Mina f&#246;r&#228;ldrars utm&#228;rkelse med mig.<br/>Vi gjorde alla dessa reklamblad</p>
+      <p begin="00:19:27.344" end="00:19:31.133">med alla dessa s&#246;ta slogan och<br/>vi kampanjade &#246;ver hela skolan</p>
+      <p begin="00:19:31.260" end="00:19:35.220">jag l&#229;g faktiskt efter med en handfull<br/>av r&#246;ster.</p>
+      <p begin="00:19:35.707" end="00:19:37.198">Jag tror att alla &#228;r f&#246;dda med n&#229;got</p>
+      <p begin="00:19:37.198" end="00:19:39.651">som de m&#229;ste g&#246;ra och det h&#228;r var<br/>min grej.</p>
+      <p begin="00:19:39.751" end="00:19:42.401">Varje g&#229;ng jag kunde delta i ett val<br/>gav jag mitt allt.</p>
+      <p begin="00:19:42.401" end="00:19:44.938">Jag deltog aldrig i kampen om vice<br/>president. Det var alltid president valet.</p>
+      <p begin="00:19:45.335" end="00:19:47.681">-"Jag fr&#229;gade henne en dag.<br/>Jag tror hon gick i femte klass.</p>
+      <p begin="00:19:47.734" end="00:19:50.249">Jag sa, "Devanshi, du har alltid<br/>velat bli en ledare,</p>
+      <p begin="00:19:50.249" end="00:19:52.243">men vet du vad en ledare &#228;r?</p>
+      <p begin="00:19:52.631" end="00:19:55.401">Hon sa, "Det &#228;r v&#228;ldigt enkelt mamma.<br/>De &#228;r bara folkets tj&#228;nstem&#228;n. </p>
+      <p begin="00:19:56.938" end="00:19:58.933">Ledare &#228;r bara folkets tj&#228;nstem&#228;n."</p>
+      <p begin="00:19:59.493" end="00:20:02.219">-"Jag &#228;lskade Ungdom och Regerings <br/>programmet.</p>
+      <p begin="00:20:02.255" end="00:20:05.784">Det b&#228;sta s&#228;ttet f&#246;r mig &#229; ge tillbaka<br/>&#228;r att delta i Ungdom programmet.</p>
+      <p begin="00:20:06.417" end="00:20:08.912">-"Hur skulle du har l&#246;st Californiens<br/>budget kris?</p>
+      <p begin="00:20:08.912" end="00:20:10.070">Vi b&#246;rjar med fr&#246;ken Patel.</p>
+      <p begin="00:20:10.394" end="00:20:12.034">-"Jag skulle ha slopat on&#246;diga utgifter</p>
+      <p begin="00:20:12.086" end="00:20:14.610">Du vet, n&#228;r jag deltog i valet<br/>s&#229; var det en del</p>
+      <p begin="00:20:14.779" end="00:20:18.550">om inte ut&#229;triktad sexism, s&#229; fanns<br/>det sm&#229; kommentarer h&#228;r och d&#228;r s&#229; som,</p>
+      <p begin="00:20:18.643" end="00:20:20.456">"&#197;h hon pratar bra f&#246;r att vara kvinna.</p>
+      <p begin="00:20:20.478" end="00:20:22.329">Hon &#228;r smart f&#246;r en kvinna."</p>
+      <p begin="00:20:22.621" end="00:20:24.988">Det fanns ocks&#229; ett par &#246;gonblick<br/>med mina v&#228;nner,</p>
+      <p begin="00:20:24.988" end="00:20:28.007">n&#228;r de skulle tala inf&#246;r en stor<br/>grupp m&#228;nniskor</p>
+      <p begin="00:20:28.027" end="00:20:30.847">s&#229; var det enda folk kunde fokusera p&#229;<br/>var deras kroppar,</p>
+      <p begin="00:20:30.847" end="00:20:33.208">hur de s&#229;g ut och hur<br/>de var kl&#228;dda.</p>
+      <p begin="00:20:33.299" end="00:20:35.511">Jag t&#228;nkte f&#246;r mig sj&#228;lv,<br/>"Vi &#228;r b&#228;ttre &#228;n s&#229;h&#228;r."</p>
+      <p begin="00:20:35.511" end="00:20:41.983" region="top"> Devanish f&#246;rlorade valet mot en utav<br/>hennes manliga medt&#228;vlande.</p>
+      <p begin="00:20:42.717" end="00:20:48.561">-"Hon sa, "Mamma, det verkar<br/>som att jag &#228;r som Hilary Clinton."</p>
+      <p begin="00:20:48.819" end="00:20:50.028">-"Killar kommer att r&#246;sta p&#229; killar"</p>
+      <p begin="00:20:50.028" end="00:20:51.882">Ibland r&#246;star tjejer p&#229; killar,<br/>men vissa g&#229;nger</p>
+      <p begin="00:20:51.882" end="00:20:55.004">har tjejer sv&#229;rare att r&#246;sta p&#229; <br/>tjejer f&#246;r att</p>
+      <p begin="00:20:55.004" end="00:20:57.537">jag k&#228;nner att tjejer &#228;r h&#229;rda<br/>mot varandra.</p>
+      <p begin="00:20:57.829" end="00:21:00.777" region="top"> 65% av de 2000 ungdomar som r&#246;stade i<br/>Californiens KFUM</p>
+      <p begin="00:21:00.777" end="00:21:04.915">Ungdom och Regerings programmet &#228;r tjejer.</p>
+      <p begin="00:21:06.170" end="00:21:08.796">-"Devanshis historia har f&#229;tt mig att<br/>t&#228;nka p&#229; hur tidigt</p>
+      <p begin="00:21:08.796" end="00:21:11.131">flickor bem&#246;ter k&#246;nsf&#246;rdommar.</p>
+      <p begin="00:21:11.473" end="00:21:14.642">Och hur lite saker har f&#246;r&#228;ndrats<br/>&#228;ven fast vi vill tro det motsatta.</p>
+      <p begin="00:21:16.761" end="00:21:19.047">-"En utav de f&#246;rsta saker jag gjorde<br/>n&#228;r jag blev borgm&#228;stare i San Francisco</p>
+      <p begin="00:21:19.063" end="00:21:22.688">var att utse en kvinnlig polischef och<br/>en kvinnlig brandchef.</p>
+      <p begin="00:21:23.615" end="00:21:27.230">N&#228;r b&#229;da d&#246;k upp p&#229; podiet n&#228;r det skett<br/>en olycka var det mycket media p&#229; plats</p>
+      <p begin="00:21:27.230" end="00:21:29.494">som tittade och fr&#229;gade, "S&#229; vart<br/>&#228;r polischefen?"</p>
+      <p begin="00:21:29.589" end="00:21:30.946">"Hon st&#229;r precis h&#228;r".</p>
+      <p begin="00:21:30.946" end="00:21:32.610">"Och vart st&#229;r branchefen d&#229;?"<br/>"Hon st&#229;r ocks&#229; h&#228;r".<br/></p>
+      <p begin="00:21:32.610" end="00:21:35.473">Folk trodde att jag f&#246;rs&#246;kte bevisa<br/>n&#229;got stort</p>
+      <p begin="00:21:35.473" end="00:21:40.282">n&#228;r jag faktist utsedde de tv&#229; fr&#228;msta<br/>kandidaterna f&#246;r jobbet.</p>
+      <p begin="00:21:40.461" end="00:21:44.804">Den st&#246;rsta oppositionen kom otroligt<br/>nog fr&#229;n kvinnor.</p>
+      <p begin="00:21:45.228" end="00:21:48.213">De som k&#228;nner att det var f&#246;r mycket<br/>f&#246;r snabbt.</p>
+      <p begin="00:21:48.321" end="00:21:51.030">De skulle aldrig ha ifr&#229;gasatt detta<br/>om de hade varit m&#228;n.</p>
+      <p begin="00:21:52.329" end="00:21:53.405">-"Sm&#229; pojkar och sm&#229; flickor</p>
+      <p begin="00:21:53.405" end="00:21:54.486">n&#228;r de &#228;r sju &#229;r,</p>
+      <p begin="00:21:54.486" end="00:21:57.148">lika m&#229;nga vill bli USAs president</p>
+      <p begin="00:21:57.164" end="00:21:58.966">n&#228;r de v&#228;xer upp, ungef&#228;r 30%.</p>
+      <p begin="00:21:59.274" end="00:22:02.226">Men om du fr&#229;gar samma fr&#229;ga<br/>n&#228;r de har fyllt 15 &#229;r</p>
+      <p begin="00:22:02.241" end="00:22:04.156">s&#229; kommer du se en enormt stor lucka.</p>
+      <p begin="00:22:04.176" end="00:22:06.247">S&#229; vi har denna k&#246;nsbundna socialisering,</p>
+      <p begin="00:22:06.247" end="00:22:08.348">d&#228;r politik anses vara f&#246;r m&#228;n.</p>
+      <p begin="00:22:08.348" end="00:22:10.571">Ledarskap &#228;r en maskulin str&#228;van</p>
+      <p begin="00:22:10.671" end="00:22:15.109">och kvinnor &#228;r avskr&#228;ckta fr&#229;n att<br/>fullf&#246;lja amibiti&#246;sa positioner.</p>
+      <p begin="00:22:17.247" end="00:22:23.780" region="top"> Du kan inte vara n&#229;got du inte kan se.<br/>-Marian Wright Edelman</p>
+      <p begin="00:22:24.248" end="00:22:26.900">-"Jag tror att det som h&#228;nder om man<br/>inte har kvinnor d&#228;r</p>
+      <p begin="00:22:27.042" end="00:22:30.721">s&#229; tror tjejer att man inte kan bli det.</p>
+      <p begin="00:22:30.821" end="00:22:35.841">S&#229; det &#228;r verkligen vad du ser som<br/>inspirerar dina id&#233;er </p>
+      <p begin="00:22:35.841" end="00:22:37.770">till vad som &#228;r m&#246;jligt i denna v&#228;rld.</p>
+      <p begin="00:22:37.861" end="00:22:40.331">-"Jag h&#229;ller inte med allt som<br/>Sarah Palin st&#229;r f&#246;r </p>
+      <p begin="00:22:40.331" end="00:22:43.514">men n&#228;r jag ser henne st&#229; d&#228;r p&#229; scen<br/>med hennes unga familj</p>
+      <p begin="00:22:43.514" end="00:22:46.135">och hennes lilla bebis var bara vackert.</p>
+      <p begin="00:22:46.135" end="00:22:48.755">Jag t&#228;nkte f&#246;r mig sj&#228;lv, "Vet du vad?<br/>Jag kanske ska ge detta en chans ocks&#229;."</p>
+      <p begin="00:22:49.578" end="00:22:54.445" region="top"> 68% av tittarna &#228;r mer ben&#228;gna till att<br/>acceptera en kvinnlig president.</p>
+      <p begin="00:22:54.721" end="00:22:58.402">-"Att ha denna m&#246;jlighet att se en kvinna,<br/>att se en kvinnlig ledare,</p>
+      <p begin="00:22:58.440" end="00:23:01.352">att se kvinnlig ledarskap i verkligheten<br/>och p&#229; sk&#228;rmen</p>
+      <p begin="00:23:01.352" end="00:23:04.708">och p&#229; TV &#228;r enormt stort f&#246;r kvinnor.<br/>Enormt stort.</p>
+      <p begin="00:23:04.708" end="00:23:08.214">F&#246;r att vi har inte s&#229; m&#229;nga kvinnor<br/>i en ledande roll.</p>
+      <p begin="00:23:08.214" end="00:23:10.916">S&#229; hur saker och ting tas hand om<br/>&#228;r till en viss del</p>
+      <p begin="00:23:10.916" end="00:23:14.327">och hur problem blir l&#246;sta har med<br/>Hollywood att g&#246;ra.</p>
+      <p begin="00:23:14.592" end="00:23:17.738">Filmerna som g&#246;rs. Dokument&#228;rerna<br/>och TV serierna.</p>
+      <p begin="00:23:17.777" end="00:23:21.714">B&#246;rja med hur folk &#228;r och<br/>tittar p&#229; TV.</p>
+      <p begin="00:23:23.703" end="00:23:26.398">-"Det finns en del exempel p&#229;<br/>filmer och TV serier</p>
+      <p begin="00:23:26.398" end="00:23:28.298">som avbildar m&#228;ktiga kvinnor.</p>
+      <p begin="00:23:28.629" end="00:23:32.617">Men generellt s&#228;tt s&#229; &#228;r den sidan<br/>r&#228;tt dyster.</p>
+      <p begin="00:23:32.965" end="00:23:35.988" region="top"> Las ner efter en s&#228;song</p>
+      <p begin="00:23:36.209" end="00:23:39.827">Jag best&#228;mmde mig f&#246;r att fullf&#246;lja<br/>sk&#229;despeleri n&#228;r jag var 28 &#229;r.</p>
+      <p begin="00:23:40.151" end="00:23:42.721">Jag var hoppfull att jag kunde hitta<br/>komplicerade roller att spela.</p>
+      <p begin="00:23:43.676" end="00:23:46.939">Min f&#246;rsta verklighetsbild var av min<br/>agent som ville att jag lj&#246;g om min &#229;lder</p>
+      <p begin="00:23:46.984" end="00:23:50.259">och ta bort min Stanford MBA fr&#229;n<br/>mitt CV</p>
+      <p begin="00:23:50.259" end="00:23:51.885">f&#246;r att de kunde framst&#229; som<br/>hotfullt.</p>
+      <p begin="00:23:52.695" end="00:23:54.426">S&#229; jag gjorde varken de ena eller andra.</p>
+      <p begin="00:23:54.426" end="00:23:56.608">Men mitt sj&#228;lvf&#246;rtroende var r&#228;tt omskakad</p>
+      <p begin="00:23:57.852" end="00:24:00.833">Min andra verklighetsstund var n&#228;r jag<br/>fick reda p&#229; att det fanns f&#229;</p>
+      <p begin="00:24:00.833" end="00:24:03.530">typer av roller f&#246;r mig &#229; ans&#246;ka.</p>
+      <p begin="00:24:04.428" end="00:24:06.017">Jag borde inte ha blivit &#246;verraskad.</p>
+      <p begin="00:24:06.309" end="00:24:07.965">Men n&#228;r du verkligen tar en titt<br/>p&#229; Hollywood</p>
+      <p begin="00:24:07.965" end="00:24:09.838">och p&#229; filmer som blir gjorda,</p>
+      <p begin="00:24:09.838" end="00:24:11.591">ser du samma stereotyper g&#229;ng p&#229; g&#229;ng.</p>
+      <p begin="00:24:11.591" end="00:24:14.913"/>
+      <p begin="00:24:16.501" end="00:24:20.187"/>
+      <p begin="00:24:23.384" end="00:24:25.569"/>
+      <p begin="00:24:25.941" end="00:24:28.479"/>
+      <p begin="00:24:28.787" end="00:24:33.214"/>
+      <p begin="00:24:34.108" end="00:24:36.262"/>
+      <p begin="00:24:36.507" end="00:24:42.720"/>
+      <p begin="00:24:43.330" end="00:24:45.741"/>
+      <p begin="00:24:45.793" end="00:24:48.857"/>
+      <p begin="00:24:48.919" end="00:24:51.153"/>
+      <p begin="00:24:51.161" end="00:24:54.339"/>
+      <p begin="00:24:57.971" end="00:25:00.119"/>
+      <p begin="00:25:00.620" end="00:25:02.718"/>
+      <p begin="00:25:03.112" end="00:25:05.282"/>
+      <p begin="00:25:05.411" end="00:25:08.276">-"En kvinna har aldrig huvudrollen,<br/>de &#228;r dem som,</p>
+      <p begin="00:25:08.280" end="00:25:12.138">om de skulle vara huvudpersonen s&#229; &#228;r det<br/>en drama som handlar om att</p>
+      <p begin="00:25:12.138" end="00:25:13.815">f&#229; en kille eller n&#229;got s&#229;dant.</p>
+      <p begin="00:25:13.815" end="00:25:16.427">Det handlar aldrig om att hitta ditt &#246;de,</p>
+      <p begin="00:25:16.427" end="00:25:17.656">det &#228;r om hur de stannade f&#246;r killen.</p>
+      <p begin="00:25:17.656" end="00:25:21.024">Som i Star Trek till exempel, det h&#228;r &#228;r<br/>ditt &#246;de och du vet,</p>
+      <p begin="00:25:21.024" end="00:25:22.478">att vara m&#228;ktig,<br/>att vara kapten.</p>
+      <p begin="00:25:22.478" end="00:25:26.401">Men de skulle inte s&#228;ga det om tjejer.<br/>S&#229; vad som blir konstigt d&#228;r &#228;r</p>
+      <p begin="00:25:26.401" end="00:25:30.135">det verkar vara normalt f&#246;r oss.<br/>Att vi aldrig ifr&#229;gas&#228;tter det.</p>
+      <p begin="00:25:30.171" end="00:25:33.102">Vi s&#228;ger inte, "&#197;h varf&#246;r har inte en<br/>kvinna huvudrollen h&#228;r?</p>
+      <p begin="00:25:33.118" end="00:25:34.506">Varf&#246;r kan inte en tjej vara m&#228;ktig?"</p>
+      <p begin="00:25:35.428" end="00:25:39.617" region="top"> Endast 16% av huvudroller spelas<br/>av kvinnor</p>
+      <p begin="00:25:39.829" end="00:25:42.275">-"Jag h&#246;r det hela tiden, det h&#229;ller p&#229;<br/>bli b&#228;ttre.</p>
+      <p begin="00:25:42.295" end="00:25:46.339">Jag menar saker h&#229;ller p&#229; bli b&#228;ttre. Men<br/>samtidigt s&#229; sker ingen f&#246;r&#228;ndring.</p>
+      <p begin="00:25:46.614" end="00:25:49.795">-"De k&#228;nda filmerna har genuina historier<br/>kring m&#228;n och deras liv</p>
+      <p begin="00:25:49.891" end="00:25:53.372">som handlar om m&#228;n. Sen s&#229; har vi en<br/>under katergori</p>
+      <p begin="00:25:53.372" end="00:25:55.831">kallad, Chic Flicks (Tjej Filmer) som<br/>kretsar runt tjejers liv.</p>
+      <p begin="00:25:55.831" end="00:25:59.471">N&#228;r du tar en n&#228;rmare titt s&#229; inser du att</p>
+      <p begin="00:25:59.471" end="00:26:01.858">de generellt handlar de ocks&#229; om m&#228;ns liv.</p>
+      <p begin="00:26:01.858" end="00:26:03.632">De f&#246;rs&#246;ker f&#229; tag i en man</p>
+      <p begin="00:26:03.632" end="00:26:06.986">f&#246;rs&#246;ker hitta k&#228;rlek, f&#246;rs&#246;ker gifta sig<br/>och bli gravid.</p>
+      <p begin="00:26:07.001" end="00:26:10.501">-"Det &#228;r mitt fel att jag &#228;r ensam p&#229;<br/>Alla Hj&#228;rtans Dag.</p>
+      <p begin="00:26:10.501" end="00:26:14.362">Mitt n&#228;rmaste f&#246;rh&#229;llande &#228;r med min<br/>Blackberry."</p>
+      <p begin="00:26:14.362" end="00:26:16.369">-"Juste"<br/>-"Jag tackar gud att den vibrerar."</p>
+      <p begin="00:26:17.006" end="00:26:20.365">-"Mellan 1937 och 2005</p>
+      <p begin="00:26:20.365" end="00:26:25.382">fanns det bara 13 kvinnliga huvudroller<br/>i animerade filmer.</p>
+      <p begin="00:26:25.751" end="00:26:30.482">Alla utom en hade en aspiration att<br/>hitta k&#228;rlek.</p>
+      <p begin="00:26:30.987" end="00:26:33.713">-"Som en kultur har kvinnor blivit<br/>uppvuxna med att vara</p>
+      <p begin="00:26:33.713" end="00:26:36.740">ganska s&#229; grundl&#228;ggande os&#228;ker<br/>och alltid h&#229;lla ett &#246;ga p&#229; n&#228;r</p>
+      <p begin="00:26:36.740" end="00:26:39.767">riddaren p&#229; h&#228;sten ska komma och r&#228;dda<br/>oss och ta hand om oss.</p>
+      <p begin="00:26:43.252" end="00:26:46.460">-"N&#228;r det kommer till kvinnliga ledare<br/>inom underh&#229;llningsmedia</p>
+      <p begin="00:26:46.460" end="00:26:50.986">s&#229; ser vi den outh&#228;rdliga chefen som har<br/>uppoffrat familj och k&#228;rlek</p>
+      <p begin="00:26:50.986" end="00:26:52.771">f&#246;r att n&#229; d&#228;r hon st&#229;r nu.</p>
+      <p begin="00:26:52.782" end="00:26:58.671">-"Jag sa till mig sj&#228;lv, 'Ta en chans.<br/>Anst&#228;ll det smarta, feta tjejen.</p>
+      <p begin="00:26:59.378" end="00:27:02.082">-"Hela filmen handlar om att visa henne<br/>hur v&#228;rdel&#246;s hon &#228;r.</p>
+      <p begin="00:27:02.082" end="00:27:05.385">Detta g&#246;rs oftast av n&#229;gon som &#228;r <br/>under henne. En underordnad,</p>
+      <p begin="00:27:05.385" end="00:27:08.876">oftast en man s&#229; den bilden<br/>b&#229;dar inget gott</p>
+      <p begin="00:27:08.876" end="00:27:12.403">n&#228;r det kommer till id&#233;er av kvinnor<br/>som hamnar i ledarskap.</p>
+      <p begin="00:27:12.823" end="00:27:15.864">-"Vi hade m&#229;nga fler intressanta<br/>karakt&#228;rer i filmer</p>
+      <p begin="00:27:15.864" end="00:27:18.623">under 20, 30 och 40-talet &#228;n<br/>vad vi har nu.</p>
+      <p begin="00:27:18.623" end="00:27:22.809">Vi till&#228;t kvinnor f&#246;rkroppsliga<br/>alla de mots&#228;gelser</p>
+      <p begin="00:27:22.809" end="00:27:24.651">som existerade f&#246;rut i en individ.</p>
+      <p begin="00:27:24.651" end="00:27:27.273">De kunde vara den "d&#246;dliga kvinnan"</p>
+      <p begin="00:27:27.273" end="00:27:30.208">och sedan v&#228;nda om till att bli en moder.</p>
+      <p begin="00:27:30.208" end="00:27:32.723">Till att bli en f&#246;rf&#246;rerska .</p>
+      <p begin="00:27:32.723" end="00:27:36.242">F&#246;r att sedan bli ett helgon och<br/>vi accepterade detta.</p>
+      <p begin="00:27:37.287" end="00:27:38.971">De var komplexa individer.</p>
+      <p begin="00:27:38.982" end="00:27:41.729">Nu gillar vi verkligen att<br/>kategorisera folk.</p>
+      <p begin="00:27:41.729" end="00:27:44.713">-"De enda tv&#229; valen f&#246;r en kvinna &#228;r:<br/>h&#228;xa eller en sexig katt.</p>
+      <p begin="00:27:44.780" end="00:27:46.851">-"&#197;h syster, nu sa du en hel del."</p>
+      <p begin="00:27:47.301" end="00:27:50.539">-"Som m&#228;n g&#246;r vi det f&#246;r att<br/>vi inte f&#246;rst&#229;r oss p&#229; karakt&#228;rer</p>
+      <p begin="00:27:50.539" end="00:27:53.397">som inte &#228;r oss sj&#228;lva men vi &#228;r &#228;nd&#229;<br/>villiga att s&#228;tta oss sj&#228;lva</p>
+      <p begin="00:27:53.397" end="00:27:57.503">i skinnet p&#229; karakt&#228;rerna och kvinnor,<br/>tror jag skr&#228;mmer oss.</p>
+      <p begin="00:27:58.091" end="00:28:00.091">Vi brukar inte skriva kvinnor som<br/>m&#228;nskliga individer.</p>
+      <p begin="00:28:00.299" end="00:28:02.005">Det vi g&#246;r nu &#228;r tecknat,</p>
+      <p begin="00:28:02.300" end="00:28:03.588">och det &#228;r riktigt synd.</p>
+      <p begin="00:28:04.834" end="00:28:07.552">-"I all media som finns d&#228;r ute</p>
+      <p begin="00:28:07.552" end="00:28:11.576">kan man se en accepterad och bred bild<br/>av kvinnor som sexobjekt.</p>
+      <p begin="00:28:11.916" end="00:28:16.014">I rock videor, rap, hip hop videor, i alla<br/>sommarfilmer.</p>
+      <p begin="00:28:16.075" end="00:28:20.368">Kvinnor &#228;r helt enkelt bara rekvesita <br/>f&#246;r unga m&#228;n att titta p&#229;.</p>
+      <p begin="00:28:21.044" end="00:28:23.233">-"Jag tror att n&#228;r de l&#228;gger in rollen</p>
+      <p begin="00:28:23.233" end="00:28:28.156">s&#229; anv&#228;nds kvinnan oftast som sexobjekt <br/>eller ett &#229;tr&#229;v&#228;rd objekt f&#246;r m&#228;n</p>
+      <p begin="00:28:28.156" end="00:28:29.642">och jag tycker att det b&#246;r &#228;ndras</p>
+      <p begin="00:28:29.642" end="00:28:32.949">f&#246;r att det finns en hel del till kvinnor<br/>&#228;n bara kroppen.</p>
+      <p begin="00:28:34.274" end="00:28:37.005">-"Vi h&#229;ller p&#229; att socialisera pojkar till<br/>att tro att vara en man</p>
+      <p begin="00:28:37.005" end="00:28:39.378">&#228;r att vara m&#228;ktig och i kontroll</p>
+      <p begin="00:28:39.378" end="00:28:40.178"/>
+      <p begin="00:28:40.178" end="00:28:40.887"/>
+      <p begin="00:28:40.887" end="00:28:41.611"/>
+      <p begin="00:28:41.611" end="00:28:43.029">-"Brianna".</p>
+      <p begin="00:28:43.915" end="00:28:45.679">Att vara smartare &#228;n en kvinna eller<br/>att vara b&#228;ttre &#228;n en kvinna</p>
+      <p begin="00:28:45.679" end="00:28:47.931">eller att v&#229;ra beg&#228;r kommer f&#246;rst i ett<br/>f&#246;rh&#229;llande med en kvinna,</p>
+      <p begin="00:28:47.931" end="00:28:51.989">det &#228;r inte genetiskt f&#246;rutsatt. Det &#228;r<br/>ett inl&#228;rt beteende.</p>
+      <p begin="00:28:52.085" end="00:28:54.749">-"Tror du inte att jag kan bli en kirurg?<br/>Jag kan bli en kirurg."</p>
+      <p begin="00:28:54.888" end="00:28:56.845">-"Kirurgi &#228;r f&#246;r de inbitna.<br/>-"Jag &#228;r inbiten"</p>
+      <p begin="00:28:56.879" end="00:28:59.254">-"Du kommer inte klara av f&#246;rsta<br/>&#229;ret s&#246;tnos."</p>
+      <p begin="00:29:00.130" end="00:29:02.694">-"Vi kan &#228;ven se en ny inkarnation<br/>av detta,</p>
+      <p begin="00:29:02.694" end="00:29:05.121">d&#228;r kvinnar ser ut att ha befogenhet.</p>
+      <p begin="00:29:05.224" end="00:29:07.634">De h&#229;ller upp historien, de &#228;r<br/>action hj&#228;ltinnan. </p>
+      <p begin="00:29:07.634" end="00:29:11.582">Men &#229;terigen n&#228;r du tar en n&#228;rmare titt<br/>s&#229; ser du att</p>
+      <p begin="00:29:11.582" end="00:29:13.553">det inte handlar om deras inverkan.</p>
+      <p begin="00:29:13.553" end="00:29:15.986">Jag kallar denna arketyp f&#246;r den<br/>stridande sexleksaken.</p>
+      <p begin="00:29:15.986" end="00:29:17.239"/>
+      <p begin="00:29:17.285" end="00:29:19.714"/>
+      <p begin="00:29:19.746" end="00:29:20.720"/>
+      <p begin="00:29:21.012" end="00:29:22.510">-"Det d&#228;r &#228;r en riktigt tuff brud."</p>
+      <p begin="00:29:23.512" end="00:29:27.172">-"F&#246;r att &#228;ven om hon g&#246;r dessa saker<br/>p&#229; egen hand</p>
+      <p begin="00:29:27.623" end="00:29:31.903">s&#229; &#228;r hon v&#228;ldigt objektifierad och hon<br/>existerar bara f&#246;r de manliga &#229;sk&#229;darna.</p>
+      <p begin="00:29:33.425" end="00:29:37.062">-"&#196;ven i barnfilmer s&#229; &#228;r kvinnors<br/>karakt&#228;rer densamma</p>
+      <p begin="00:29:37.066" end="00:29:43.072">Att b&#228;ra sexiga kl&#228;der som i vuxenfilmer,<br/>som &#228;r helt f&#246;rf&#228;rligt.</p>
+      <p begin="00:29:43.678" end="00:29:47.946" region="top"> "Ratings Creep" visar att filmer</p>
+      <p begin="00:29:47.946" end="00:29:50.771" region="top"> inneh&#229;ller mer v&#229;ld, sex och svordommar<br/>&#228;n f&#246;r 10 &#229;r sen.</p>
+      <p begin="00:29:52.535" end="00:29:57.145">-"Den hyper sexualisering som f&#246;rseg&#229;r<br/>i Hollywood &#228;r giftig.</p>
+      <p begin="00:29:57.180" end="00:30:01.227">Det r&#229;der inga tvivel om att det p&#229;verkar<br/>oss alla</p>
+      <p begin="00:30:02.318" end="00:30:05.256">inklusive unga flickor som f&#246;rs&#246;ker<br/>hitta sin identitet.</p>
+      <p begin="00:30:06.290" end="00:30:10.754" region="top"> Mer &#228;n 20% av ton&#229;rsflickor har haft sex<br/>innan de fyllt 14</p>
+      <p begin="00:30:11.946" end="00:30:15.664">-"Om budskapet &#228;r att kvinnor ska<br/>objektifieras,</p>
+      <p begin="00:30:15.710" end="00:30:17.786">att huvudsaken &#228;r att de &#228;r ett objekt</p>
+      <p begin="00:30:17.786" end="00:30:22.217">s&#229; &#228;r det ett v&#228;ldigt h&#229;rt och utmanande<br/>budskap f&#246;r unga kvinnor.</p>
+      <p begin="00:30:22.264" end="00:30:25.080">Att tro att det &#228;r deras v&#228;g till makt.</p>
+      <p begin="00:30:25.727" end="00:30:28.125" region="top"> Laurence Fishburnes dotter sl&#228;ppte<br/>en sexvideo f&#246;r hon s&#229;g</p>
+      <p begin="00:30:28.125" end="00:30:30.379" region="top"> hur k&#228;nd Kim Kardashian blev.</p>
+      <p begin="00:30:30.610" end="00:30:32.734">-"Alla s&#228;ger att, Madonna &#228;r<br/>oerh&#246;rt befogen</p>
+      <p begin="00:30:32.755" end="00:30:36.761">eller Angelina Jolie, men de har alla<br/>exakt samma definition av sexualitet.</p>
+      <p begin="00:30:36.965" end="00:30:38.331">Jag menar, om du verkligen t&#228;nker p&#229;<br/>saken,</p>
+      <p begin="00:30:38.331" end="00:30:41.459">Hilary Clinton &#228;r en v&#228;ldigt m&#228;ktig<br/>kvinna eller hur?</p>
+      <p begin="00:30:41.459" end="00:30:43.426">eller om du t&#228;nker p&#229; kvinnliga chefer,</p>
+      <p begin="00:30:43.426" end="00:30:46.271">det finns v&#228;ldigt m&#229;nga olika<br/>m&#228;ktiga kvinnor i olika positioner</p>
+      <p begin="00:30:46.271" end="00:30:48.126">men du ser inte dem bli representerade.</p>
+      <p begin="00:30:48.126" end="00:30:50.650">Du f&#229;r aldrig budskapet om att du inte<br/>beh&#246;ver anv&#228;nda din sexualitet</p>
+      <p begin="00:30:50.650" end="00:30:52.580">f&#246;r att n&#229; makt i denna v&#228;rld.</p>
+      <p begin="00:30:53.231" end="00:30:55.708">-"Ett manligt dominant system,<br/>v&#229;r patriarkaliska system</p>
+      <p begin="00:30:55.708" end="00:30:58.422">v&#228;rderar kvinnor som barn omh&#228;ndertagare.</p>
+      <p begin="00:30:58.441" end="00:31:03.940">S&#229; det begr&#228;nsar deras v&#228;rden fram tills<br/>de &#228;r sexuellt aktiva</p>
+      <p begin="00:31:03.940" end="00:31:08.888">och blir mycket mindre v&#228;rda efter det.</p>
+      <p begin="00:31:10.265" end="00:31:11.980">-"Vad vi ser p&#229; TV</p>
+      <p begin="00:31:11.980" end="00:31:16.711">&#228;r att majoriteten av kvinnliga karakt&#228;rer<br/>&#228;r i 20 eller 30 &#229;rs &#229;ldern.</p>
+      <p begin="00:31:16.711" end="00:31:21.598">Det &#228;r en otroligt missvisande bild<br/>av verkligheten.</p>
+      <p begin="00:31:21.634" end="00:31:24.406">Det f&#246;rvr&#228;nger verkligen v&#229;r uppfattning.</p>
+      <p begin="00:31:24.813" end="00:31:29.037" region="top"> Kvinnor i ton&#229;ren, 20 till 30 &#229;r utg&#246;r<br/>39% av populationen</p>
+      <p begin="00:31:29.037" end="00:31:33.073" region="top"> men representerar 71% av kvinnor p&#229; TV</p>
+      <p begin="00:31:34.400" end="00:31:38.931" region="top"> Kvinnor som &#228;r 40 &#229;r och &#228;ldre utg&#246;r<br/>47% av befolkningen</p>
+      <p begin="00:31:39.318" end="00:31:42.143" region="top"> men representerar bara 26% av kvinnor<br/>p&#229; TV</p>
+      <p begin="00:31:42.547" end="00:31:46.775">Det &#228;r ungef&#228;r som att n&#228;r de<br/>n&#229;r 39 eller 40 &#229;r</p>
+      <p begin="00:31:46.775" end="00:31:49.599">s&#229; m&#229;ste de g&#229; vidare.</p>
+      <p begin="00:31:55.571" end="00:31:58.784">-"En dag fick jag ett samtal som jag hade<br/>h&#246;rt andra ocks&#229; f&#229;tt</p>
+      <p begin="00:31:58.799" end="00:32:00.772">och det var att jag skulle f&#229; medverka i<br/>en serie</p>
+      <p begin="00:32:00.772" end="00:32:03.267">och det framf&#246;rdes till mig av mina<br/>chefer.</p>
+      <p begin="00:32:03.267" end="00:32:06.999">-"Daphne din roll &#228;r s&#228;krad. Men du b&#246;r<br/>t&#228;nka p&#229; att</p>
+      <p begin="00:32:06.999" end="00:32:09.129">g&#246;r lite Botox eller kollagen<br/>eller n&#229;got?"</p>
+      <p begin="00:32:10.124" end="00:32:11.873">Precis som dem hade jag inte heller<br/>n&#229;gon aning vad det var.</p>
+      <p begin="00:32:11.873" end="00:32:14.586">"Vad menar du med Botox eller<br/>kollagen eller n&#229;got?</p>
+      <p begin="00:32:14.586" end="00:32:22.689">Jag kommer ih&#229;g n&#228;r jag satt i stolen och<br/>den h&#228;r feta skalliga mannen injicerade</p>
+      <p begin="00:32:22.971" end="00:32:27.508">mig och jag b&#246;rjade bl&#246;da fr&#229;n pannan och<br/>jag b&#246;rjade gr&#229;ta</p>
+      <p begin="00:32:27.508" end="00:32:29.934">och jag k&#228;nde mig skyldig till att gr&#229;ta.</p>
+      <p begin="00:32:30.561" end="00:32:33.274">Jag kommer ih&#229;g n&#228;r jag l&#229;g i stolen<br/>och t&#228;nkte</p>
+      <p begin="00:32:33.330" end="00:32:35.130">-"Det &#228;r n&#229;got som inte st&#228;mmer h&#228;r."</p>
+      <p begin="00:32:35.261" end="00:32:42.321">Det fick verkligen mig &#229; k&#228;nna som en<br/>mindre spirituell person,</p>
+      <p begin="00:32:42.788" end="00:32:45.662">en kvinna utan integritet.</p>
+      <p begin="00:32:45.794" end="00:32:49.313">Det k&#228;ndes som att jag fuskade och lj&#246;g<br/>med allt detta i mitt ansikte.</p>
+      <p begin="00:32:50.738" end="00:32:52.310">S&#229; jag kanske borde sluta jobba,<br/>jag vet inte.</p>
+      <p begin="00:32:52.310" end="00:32:55.423">Men jag har best&#228;mt mig f&#246;r att inte g&#246;ra<br/>om det.</p>
+      <p begin="00:32:57.802" end="00:32:59.409">Min mamma var ursinnig. Vill du veta<br/>vad min mamma,</p>
+      <p begin="00:32:59.409" end="00:33:01.090">en hippie fr&#229;n Vermont sa?</p>
+      <p begin="00:33:01.926" end="00:33:04.485">-"Du kan s&#228;ga till de j&#228;vlarna att skaffa<br/>sig sj&#228;lva penisimplantat.</p>
+      <p begin="00:33:04.611" end="00:33:06.255"/>
+      <p begin="00:33:08.479" end="00:33:12.967">-"Det h&#228;r &#228;r inget nytt, jag b&#246;rjade i<br/>branschen p&#229; 50-talet.</p>
+      <p begin="00:33:13.465" end="00:33:15.851">I min f&#246;rsta film s&#229; spelade jag<br/>en cheerleader</p>
+      <p begin="00:33:15.851" end="00:33:18.415">och Jack Warner var huvudchefen i<br/>Warner Brothers</p>
+      <p begin="00:33:18.415" end="00:33:21.227">och han beg&#228;rde att jag <br/>skulle g&#229; omkring med falska</p>
+      <p begin="00:33:21.227" end="00:33:25.715">och min direkt&#246;r, Josh Logan, fr&#229;gade mig<br/>om jag kunde dra ut mina bakt&#228;nder.</p>
+      <p begin="00:33:26.102" end="00:33:28.528">Hur jag var,<br/>var inte tillr&#228;ckligt.</p>
+      <p begin="00:33:40.371" end="00:33:42.553">-"Jag tror verkligen att<br/>reality-TV<br/></p>
+      <p begin="00:33:42.584" end="00:33:45.613">&#228;r nutidens kulturella motreaktion mot<br/>kvinnors r&#228;ttigheter."</p>
+      <p begin="00:33:46.267" end="00:33:47.249">-"Fr&#246;ken Blondie..."</p>
+      <p begin="00:33:47.376" end="00:33:49.369" region="top"> Vi m&#229;ste se efter hennes<br/>kropp ocks&#229;.</p>
+      <p begin="00:33:49.450" end="00:33:50.976" region="top"> Hon &#228;r lite tjock.</p>
+      <p begin="00:33:51.355" end="00:33:54.954">-"Jag tror att ett utav de v&#228;rsta<br/>stereotypen som finns i reality-TV</p>
+      <p begin="00:33:54.954" end="00:33:58.879">&#228;r att kvinnor &#228;r d&#228;r som dekoration.<br/>Kvinnor existerar f&#246;r att vara bl&#229;sta.</p>
+      <p begin="00:33:58.932" end="00:34:03.167">Kvinnor anses vara guldgr&#228;vare.<br/>Kvinnor anses vara sj&#228;lvsv&#229;ldiga, elaka</p>
+      <p begin="00:34:03.167" end="00:34:07.505">manipulativa, h&#228;mndlystna och op&#229;litliga,<br/>speciellt av andra kvinnor.</p>
+      <p begin="00:34:07.545" end="00:34:10.578">-"Du &#228;r en riktig och du &#228;r<br/>en dum blondin."</p>
+      <p begin="00:34:11.045" end="00:34:12.480">-"Jag tycker att du ser ut som ett luder."</p>
+      <p begin="00:34:13.233" end="00:34:14.834">-"&#214;rfila mig d&#229;, hynda."<br/>-"Annars?"</p>
+      <p begin="00:34:15.447" end="00:34:17.088">-"Din mammaknullande hora!"</p>
+      <p begin="00:34:17.442" end="00:34:21.475">-"Id&#233;n om att kvinnor &#228;r naturliga<br/>fiender och t&#228;vlar f&#246;r</p>
+      <p begin="00:34:21.475" end="00:34:26.423">att vinna ett pris f&#246;r att vara vackrast<br/>eller att vinna n&#229;gons k&#228;rlek</p>
+      <p begin="00:34:26.630" end="00:34:30.880">&#228;r s&#229; motsatt till kvinnor i verkligheten.</p>
+      <p begin="00:34:31.041" end="00:34:34.228">-"Sn&#228;lla v&#228;lj mig, v&#228;lj mig, v&#228;lj mig. Se<br/>hur vacker jag &#228;r."</p>
+      <p begin="00:34:35.059" end="00:34:37.523">-"Det existerar verkligen en obalans<br/>i relationer h&#228;r,</p>
+      <p begin="00:34:37.537" end="00:34:39.822">d&#228;r tjejer visas upp f&#246;r deras kroppar<br/>och pojkarna</p>
+      <p begin="00:34:39.822" end="00:34:41.437">f&#229;r makten att medla och bed&#246;mma,</p>
+      <p begin="00:34:41.437" end="00:34:43.723">vare sig deras kroppas &#228;r acceptabla<br/>eller inte,</p>
+      <p begin="00:34:43.723" end="00:34:45.289">&#229;tr&#229;v&#228;rda eller ej.</p>
+      <p begin="00:34:45.289" end="00:34:46.760">S&#229; jag tror att det &#228;r det &#228;r en hel del</p>
+      <p begin="00:34:46.760" end="00:34:50.490">som s&#228;tter kvinnor i en underl&#228;gsen sits.</p>
+      <p begin="00:34:50.903" end="00:34:53.696">-"Under de senaste deceniumet har dessa<br/>program </p>
+      <p begin="00:34:53.696" end="00:34:57.996">portr&#228;tterat en bild f&#246;r v&#228;rlden d&#228;r<br/>kvinnor enbart har valen</p>
+      <p begin="00:34:57.996" end="00:35:01.976">liknande en 1950 &#229;rs model av kvinnlighet,<br/>d&#228;r de endast har tillg&#229;ng till</p>
+      <p begin="00:35:01.976" end="00:35:05.189">deras sk&#246;nhet i vilken kvinnan inte hade<br/>n&#229;got s&#228;g</p>
+      <p begin="00:35:05.189" end="00:35:09.041">men skulle inte ens vilja ha d&#228;r m&#228;n<br/>bar b&#246;rdan</p>
+      <p begin="00:35:09.041" end="00:35:11.471">f&#246;r att verka som den charmiga prinsen.</p>
+      <p begin="00:35:11.471" end="00:35:15.014">Som sedan kommer &#229; skjutsar bort kvinnan<br/>f&#246;r att sedan leva lyckliga livet ut</p>
+      <p begin="00:35:15.058" end="00:35:17.508">och efter det m&#229;ste f&#246;rse dem med<br/>finansiell s&#228;kerhet.</p>
+      <p begin="00:35:17.922" end="00:35:23.055">Ingen vinner enligt denna model,<br/>speciellt kvinnor f&#246;rlorar mest,</p>
+      <p begin="00:35:23.055" end="00:35:26.242">f&#246;r att de v&#228;ntas se ut som Fr&#246;ken USA,<br/>ha sex</p>
+      <p begin="00:35:26.242" end="00:35:29.029">som Samantha i Sex and the City<br/>och t&#228;nka som June Cleaver.</p>
+      <p begin="00:35:34.242" end="00:35:37.400">-"Det &#228;r n&#229;got jag finner mer nedsl&#229;ende.</p>
+      <p begin="00:35:37.935" end="00:35:39.348">N&#228;r jag ser p&#229; nyheter.</p>
+      <p begin="00:35:39.487" end="00:35:43.720">S&#229; m&#229;nga kvinnliga journalister blir<br/>objektifierade eller sexualiserade.</p>
+      <p begin="00:35:45.961" end="00:35:51.505">-"Det h&#228;r &#228;r CBS kv&#228;llsnyheter<br/>med Katie Couric.</p>
+      <p begin="00:35:54.001" end="00:35:56.755">-"Hej allihopp. Jag &#228;r glad<br/>att vara med er ikv&#228;ll."</p>
+      <p begin="00:35:57.067" end="00:36:00.415">-"Katie Couric var nationens<br/>f&#246;rsta experiment</p>
+      <p begin="00:36:00.415" end="00:36:04.858">vi alla kunde se. Kvinnan som inte<br/>underh&#246;ll oss,</p>
+      <p begin="00:36:04.858" end="00:36:07.064">men vars n&#228;rvaro och presentation</p>
+      <p begin="00:36:07.064" end="00:36:09.655">var viktig f&#246;r all information som<br/>vi beh&#246;vde.</p>
+      <p begin="00:36:09.686" end="00:36:12.495">-"De tre st&#246;rsta nyhetss&#228;ndarna hade<br/>blivit</p>
+      <p begin="00:36:12.495" end="00:36:14.517">dominerade av vita m&#228;n.</p>
+      <p begin="00:36:14.537" end="00:36:16.982">De hade v&#228;ldigt liknande ansikten</p>
+      <p begin="00:36:16.982" end="00:36:19.871">och hade f&#246;r det mesta v&#228;ldigt<br/>liknande bakgrunder.</p>
+      <p begin="00:36:20.003" end="00:36:23.170">Jag t&#228;nkte att detta var chansen att <br/>r&#246;ra till det hela lite grann.</p>
+      <p begin="00:36:23.340" end="00:36:26.543">Jag tyckte att det var ett viktigt budskap<br/>att en kvinna kunde vara lika sj&#228;lvs&#228;ker</p>
+      <p begin="00:36:26.589" end="00:36:30.650">som en man i en viktig och m&#228;ktig roll.</p>
+      <p begin="00:36:30.860" end="00:36:32.071">-"Jag kommer ih&#229;g att f&#246;rr i tiden</p>
+      <p begin="00:36:32.071" end="00:36:34.133">n&#228;r jag brukade f&#229; samtal fr&#229;n<br/>reportrar om</p>
+      <p begin="00:36:34.133" end="00:36:35.752">att vi fick v&#229;r f&#246;rsta kvinnliga <br/>nyhetsankare."</p>
+      <p begin="00:36:35.752" end="00:36:37.093">-"Vad tycker om du om det?"</p>
+      <p begin="00:36:38.261" end="00:36:40.874">Oundvikligt, det f&#246;rsta dem fr&#229;gade var,</p>
+      <p begin="00:36:40.874" end="00:36:42.130">-"Vad s&#228;ger du om benen?"</p>
+      <p begin="00:36:42.130" end="00:36:44.079">"Tyckte du att hon visade<br/>benen f&#246;r mycket?.</p>
+      <p begin="00:36:44.547" end="00:36:47.343">Eller, vad tycker du om den d&#228;r vinter<br/>vita, var inte det ett stort misstag?"</p>
+      <p begin="00:36:47.343" end="00:36:50.911">Det var bara observationer av hennes<br/>yttre</p>
+      <p begin="00:36:50.911" end="00:36:52.892">och inget om vad hon i<br/>sj&#228;lva verket sa.</p>
+      <p begin="00:36:52.892" end="00:36:55.388">Men det &#228;r som jag brukar s&#228;ga,</p>
+      <p begin="00:36:55.388" end="00:36:57.779">"Vi &#228;r en nation av ton&#229;rspojkar".</p>
+      <p begin="00:36:57.779" end="00:37:01.051">Vi vet inte riktigt vad vi ska g&#246;ra<br/>av kvinnan</p>
+      <p begin="00:37:01.051" end="00:37:04.572">som sitter framf&#246;r oss, vi tittar p&#229;<br/>hennes ben, br&#246;st,</p>
+      <p begin="00:37:04.572" end="00:37:08.368">h&#229;r eller vad som helst och n&#229;gonstans<br/>l&#228;ngre ner p&#229; v&#228;gen</p>
+      <p begin="00:37:08.420" end="00:37:11.776">s&#229; kanske vi lyssnar p&#229; vad<br/>hon har att s&#228;ga.</p>
+      <p begin="00:37:11.927" end="00:37:13.732">-"&#196;nda sen jag var med i media,</p>
+      <p begin="00:37:13.732" end="00:37:16.385">&#228;nda sen mitt f&#246;rsta morgonprogram</p>
+      <p begin="00:37:16.385" end="00:37:20.124">i Holyoke, Massachusetts, var jag bara<br/>en medhj&#228;lpare.</p>
+      <p begin="00:37:21.646" end="00:37:24.263">Det har varit en konstant,</p>
+      <p begin="00:37:24.747" end="00:37:28.005">jag vet inte ens om jag kan kalla det<br/>f&#246;r kritik. Det &#228;r helt enkelt hatpost.</p>
+      <p begin="00:37:28.341" end="00:37:31.771">Ju mer jag etablerar mig desto mer<br/>omd&#246;men f&#229;r jag</p>
+      <p begin="00:37:31.771" end="00:37:34.953">och antalet, "Jag hatar dig din homofob."</p>
+      <p begin="00:37:36.351" end="00:37:39.237">"Jag hatar ditt utseende.<br/>Jag kommer d&#246;da dig."</p>
+      <p begin="00:37:39.990" end="00:37:43.569">S&#229;dana hotfulla e-post, har i princip</p>
+      <p begin="00:37:43.569" end="00:37:44.896">legat p&#229; samma skala.</p>
+      <p begin="00:37:44.896" end="00:37:50.038">Det &#228;r alltid 14% av alla omd&#246;men<br/>och det &#228;r alltid hatpost </p>
+      <p begin="00:37:50.250" end="00:37:54.704">som ber&#246;r k&#246;nsroller och sexualitet.<br/>Jag menar vem bryr sig </p>
+      <p begin="00:37:54.704" end="00:37:57.397">om vad du t&#228;nker och om du verkligen<br/>&#228;r s&#229; d&#229;lig p&#229; att stava,</p>
+      <p begin="00:37:57.397" end="00:38:00.371">ska du verkligen ta dig<br/>tiden att meddela mig</p>
+      <p begin="00:38:00.371" end="00:38:04.450">vad du "tykker" om mitt utseende?</p>
+      <p begin="00:38:06.421" end="00:38:10.716">-"Det &#228;r en granskningsprocess som<br/>kvinnorna f&#229;r genomg&#229;</p>
+      <p begin="00:38:11.344" end="00:38:15.149">som f&#246;rbiser den granskningsprocess<br/>som m&#228;nnen f&#229;r.</p>
+      <p begin="00:38:15.313" end="00:38:20.416">Jag l&#228;ser aldrig rubriker</p>
+      <p begin="00:38:20.540" end="00:38:24.914">om Brian Williams privatliv men<br/>&#228;nd&#229; kan man se rubriker om Katie Couric,</p>
+      <p begin="00:38:24.914" end="00:38:30.405">om vad hon har p&#229; sig eller vem hon<br/>dejtar. </p>
+      <p begin="00:38:31.179" end="00:38:33.841">-"Jag tror att alltid n&#228;r det &#228;r<br/>tv&#229; kvinnor som jobbar</p>
+      <p begin="00:38:33.841" end="00:38:39.496">inom samma omr&#229;de, &#228;r det<br/>alltid en kamp om f&#246;rstaplatsen."</p>
+      <p begin="00:38:39.726" end="00:38:43.024">Diane Sawyer och jag sattes<br/>mot varandra som om </p>
+      <p begin="00:38:43.024" end="00:38:46.216">vi skulle delta i en lerbrottningsmatch<br/>p&#229; helgerna.</p>
+      <p begin="00:38:46.427" end="00:38:50.579">Det kunde du aldrig se med Tom Brokaw<br/>och Peter Jennings.</p>
+      <p begin="00:38:51.017" end="00:38:53.374">-"S&#228;tt ig&#229;ng det &#228;r med de gl&#246;dheta<br/>grabbarna i bl&#229;tt som"</p>
+      <p begin="00:38:53.374" end="00:38:54.611">-"Jag har det h&#228;r."</p>
+      <p begin="00:38:54.611" end="00:38:55.424">-"Okej, bra".</p>
+      <p begin="00:38:55.424" end="00:38:57.749">-"Ibland tittar jag p&#229; nyheter<br/>p&#229; kabel TV.</p>
+      <p begin="00:38:57.749" end="00:39:02.880">Jag ser kvinnorna ha djupa urringningar<br/>och mycket smink</p>
+      <p begin="00:39:02.975" end="00:39:06.972">och deras h&#229;r &#228;r helt fixade s&#229;<br/>att det ser ut som om de</p>
+      <p begin="00:39:06.972" end="00:39:10.652">jobbar som en bartender ist&#228;llet f&#246;r<br/>en nyhetsankare.</p>
+      <p begin="00:39:11.328" end="00:39:14.043">Det &#228;r bara en v&#228;ldigt blandade budskap.</p>
+      <p begin="00:39:14.457" end="00:39:15.623">-"Vi ska spela ett spel.</p>
+      <p begin="00:39:15.623" end="00:39:17.153">Jag ska visa er ett foto av en kvinna.</p>
+      <p begin="00:39:17.153" end="00:39:18.348">Och ni ska gissa om hon &#228;r</p>
+      <p begin="00:39:18.348" end="00:39:21.690">en professionell nyhetsankare eller<br/>en servitris p&#229; Hooters.</p>
+      <p begin="00:39:21.690" end="00:39:23.098">&#196;r ni redo? D&#229; k&#246;r vi."</p>
+      <p begin="00:39:23.990" end="00:39:25.621">-"Dem lokala nyhetsankarna ser ut som<br/>n&#229;gons</p>
+      <p begin="00:39:25.621" end="00:39:29.004">farfars andra fru."</p>
+      <p begin="00:39:30.550" end="00:39:32.914">-"TV &#228;r uppenbarligen ett visuelt<br/>medium</p>
+      <p begin="00:39:32.914" end="00:39:35.803">och det spelar roll hur du ser ut.<br/>Det handlar om att</p>
+      <p begin="00:39:35.803" end="00:39:40.754">se b&#229;de tillfredst&#228;llande attraktiv ut<br/>och samtidigt se professionell ut.</p>
+      <p begin="00:39:41.222" end="00:39:43.928">Jag kan titta p&#229; de intervjuer som jag <br/>hade n&#228;r jag med i Today's Show och t&#228;nka</p>
+      <p begin="00:39:43.928" end="00:39:46.269">"Jisses, min kjol &#228;r alldeles f&#246;r kort."</p>
+      <p begin="00:39:46.899" end="00:39:50.432">Ibland oroar jag mig f&#246;r att det var jag<br/>som startade detta med mina ben och allt,</p>
+      <p begin="00:39:52.199" end="00:39:57.031">att jag har startat denna trend av<br/>att se ut som, du vet...</p>
+      <p begin="00:39:57.295" end="00:39:58.233">Jag vet inte."</p>
+      <p begin="00:39:58.627" end="00:40:02.732">-"Det &#228;r alldeles f&#246;r mycket press p&#229;<br/>att se ut p&#229; ett visst s&#228;tt.</p>
+      <p begin="00:40:03.201" end="00:40:08.233">N&#228;r jag &#228;r p&#229; TV f&#246;rs&#246;ker jag aldrig <br/>kl&#228; mig utmanande.</p>
+      <p begin="00:40:08.704" end="00:40:11.398">Jag vill inte distrahera tittarna fr&#229;n<br/>historian som jag ber&#228;ttar."</p>
+      <p begin="00:40:11.759" end="00:40:13.262">-"Jag vill att du fokuserar p&#229;<br/>det jag s&#228;ger.</p>
+      <p begin="00:40:13.262" end="00:40:15.308">Det &#228;r en hel del ord i mitt program<br/>och jag jobbar riktigt h&#229;rt</p>
+      <p begin="00:40:15.308" end="00:40:17.711">f&#246;r att f&#229; dem i r&#228;tt ordning.</p>
+      <p begin="00:40:18.186" end="00:40:19.295">I vissas &#246;gon kommer jag f&#246;rbli</p>
+      <p begin="00:40:19.295" end="00:40:22.153">en hemsk &#229;syn f&#246;r att f&#229; vara med p&#229; TV<br/>och det &#228;r lugnt f&#246;r mig.</p>
+      <p begin="00:40:22.153" end="00:40:25.393">Men om du kan f&#246;rbise det<br/>s&#229; kommer det alltid detsamma</p>
+      <p begin="00:40:25.525" end="00:40:27.023">f&#246;r resten av min tid p&#229; TV.</p>
+      <p begin="00:40:27.121" end="00:40:29.532">-"Jag tror att det &#228;r riktigt sv&#229;rt f&#246;r<br/>kvinnor idag."</p>
+      <p begin="00:40:33.064" end="00:40:35.133">-"Betoningen p&#229; kvinnors utseende<br/>p&#229;verkar </p>
+      <p begin="00:40:35.133" end="00:40:37.367">fler &#228;n de p&#229; TV.</p>
+      <p begin="00:40:38.013" end="00:40:42.363">Det p&#229;verkar &#228;ven de kvinnor som<br/>f&#246;rs&#246;ker delta i den politiska debatten.</p>
+      <p begin="00:40:43.805" end="00:40:49.236">Ironiskt nog s&#229; ju mer makt kvinnor f&#229;r<br/>dest&#229; h&#229;rdare sl&#229;ss det tillbaka.</p>
+      <p begin="00:40:49.895" end="00:40:51.933">Detta fenomen &#228;r mest uppenbart</p>
+      <p begin="00:40:51.933" end="00:40:55.415">i media d&#228;r de &#228;r respektl&#246;sa<br/>mot v&#229;ra kvinnliga ledare.</p>
+      <p begin="00:40:57.194" end="00:40:59.373">-"Hon &#228;r oemotst&#229;ndligt s&#246;t.<br/>Om du f&#246;rst&#229;r vad jag menar.</p>
+      <p begin="00:40:59.373" end="00:41:02.720">S&#228;ttet hon representerar sig sj&#228;lv, <br/>hon &#228;r tydligen en attraktiv kvinna."</p>
+      <p begin="00:41:02.720" end="00:41:04.747">-"Sarah Palin ser riktigt het ut<br/>i den hatten.</p>
+      <p begin="00:41:04.747" end="00:41:10.154">Hon &#228;r bara ledsen &#246;ver att hon<br/>inte vet hur bilar fungerar.</p>
+      <p begin="00:41:10.154" end="00:41:12.809">&#197;&#229;&#229;, det &#228;r galet. Har du sett henne<br/>i hatten?"</p>
+      <p begin="00:41:13.242" end="00:41:16.856">B&#229;de du och Sarah Palin &#228;r <br/>kvinnor som ser bra ut.</p>
+      <p begin="00:41:16.860" end="00:41:20.030">Jag menar, du &#228;r attraktiv, ung,<br/>relativt ung kvinna.</p>
+      <p begin="00:41:20.347" end="00:41:22.432">-"Kagan ska visa<br/>H&#246;gsta domstolen</p>
+      <p begin="00:41:22.432" end="00:41:25.374">som om det vore n&#229;got om den<br/>utn&#228;mdes utseende.<br/></p>
+      <p begin="00:41:25.374" end="00:41:26.948">L&#229;t oss bara s&#228;ga att hon inte &#228;r den<br/>typen av ansikte</p>
+      <p begin="00:41:26.948" end="00:41:28.614">du skulle vilja se p&#229; en<br/>fem dollar sedel."</p>
+      <p begin="00:41:29.163" end="00:41:31.603">-"Jag tror jag ska skicka Sotomayor<br/>och hennes klubb</p>
+      <p begin="00:41:31.603" end="00:41:33.218">ett g&#228;ng dammsugare</p>
+      <p begin="00:41:33.218" end="00:41:35.172">s&#229; de kan hj&#228;lpas &#229;t att st&#228;da efter sig <br/>sj&#228;lva n&#228;r de &#228;r klara med sina m&#246;ten."</p>
+      <p begin="00:41:35.775" end="00:41:38.757">-"Cynthia McKinney, f&#246;redetta <br/>kongressledare i Georgia</p>
+      <p begin="00:41:38.757" end="00:41:40.643">var en annan arg och svart kvinna."</p>
+      <p begin="00:41:40.643" end="00:41:42.988">-"Titta p&#229; dessa fula hyndor som</p>
+      <p begin="00:41:42.988" end="00:41:46.288">&#228;r en del av det kvinnliga ledarskapet<br/>inom det demokratiska partiet."</p>
+      <p begin="00:41:46.288" end="00:41:48.690">Du vet den fula haggan Madeleine Albright<br/>kommer du ih&#229;g henne? </p>
+      <p begin="00:41:48.705" end="00:41:52.138">Ett psykfall. Hon var statssekreterare<br/>under Clinton, kommer du ih&#229;g det?</p>
+      <p begin="00:41:52.138" end="00:41:53.627">Som en fet idiot."</p>
+      <p begin="00:41:53.997" end="00:41:57.592">-"Och nu har vi den onda h&#228;xan fr&#229;n v&#228;st,<br/>den d&#228;r Nancy Pelosi."</p>
+      <p begin="00:41:57.628" end="00:42:00.811">-"Jag tror &#228;ven fast Pelosi inte kunde<br/>visa n&#229;gra ansiktsuttryck,</p>
+      <p begin="00:42:00.811" end="00:42:02.472">s&#229; skulle vi se hur hon sk&#228;mmdes." </p>
+      <p begin="00:42:02.490" end="00:42:05.345">-"Nancy Pelosi, den--<br/>G&#229; g&#246;r ett till ansiktslyft.</p>
+      <p begin="00:42:05.345" end="00:42:08.054">En annan anledning till varf&#246;r det &#228;r<br/>s&#229; ovanligt.</p>
+      <p begin="00:42:08.054" end="00:42:10.549">Den sista kvinnan v&#228;rdig nog att<br/>f&#229; delta i en politisk--"</p>
+      <p begin="00:42:10.564" end="00:42:14.430">-"Hej d&#229; Nancy Pelosi."</p>
+      <p begin="00:42:15.434" end="00:42:17.832">-"Och Hilary Rodham Clinton, ers l&#229;rhet &#228;r<br/>inte b&#228;ttre &#228;n</p>
+      <p begin="00:42:17.832" end="00:42:19.465">Dumbo med de stora &#246;ronen."</p>
+      <p begin="00:42:19.538" end="00:42:22.794">-"N&#228;r hon h&#246;jer r&#246;sten och n&#228;r<br/>en del kvinnor h&#246;jer r&#246;sten,</p>
+      <p begin="00:42:22.794" end="00:42:26.678">det &#228;r som jag brukar s&#228;ga, det n&#229;r<br/>en gr&#228;ns. F&#246;rst&#229;r du vad jag menar?"</p>
+      <p begin="00:42:26.678" end="00:42:29.159">med varje make i Amerika har h&#246;rt talas<br/>om det."</p>
+      <p begin="00:42:29.220" end="00:42:32.278">-"Du f&#229;r en kvinna i det ovala kontoret,<br/>den m&#228;ktigaste personen i v&#228;rlden,</p>
+      <p begin="00:42:32.278" end="00:42:34.590">vad finns det f&#246;r nackdelar?"</p>
+      <p begin="00:42:34.818" end="00:42:37.180">-"Du menar f&#246;rutom PMS och<br/>hum&#246;rsv&#228;ngningar."</p>
+      <p begin="00:42:39.645" end="00:42:42.261">-"Det finns nog inte n&#229;got som &#228;r<br/>mer kraftfullt</p>
+      <p begin="00:42:42.261" end="00:42:45.920">i vad vi anser vara makt &#228;n hur media<br/>behandlar makt.</p>
+      <p begin="00:42:46.074" end="00:42:50.114">Media behandlar makt som &#228;r<br/>definierad av m&#228;n</p>
+      <p begin="00:42:50.206" end="00:42:53.737">och f&#246;r att det har varit s&#229;<br/>genom hela v&#229;r generation</p>
+      <p begin="00:42:53.737" end="00:42:56.339">och det &#228;r p&#229; grund av folk som<br/>fanns f&#246;rut.</p>
+      <p begin="00:42:56.518" end="00:42:59.097">-"N&#228;r media representerar kvinnor som </p>
+      <p begin="00:42:59.097" end="00:43:01.957">deltar i presidentsvalet s&#229; hamnar fokus<br/>expempel</p>
+      <p begin="00:43:01.957" end="00:43:06.464">hur de ser ut ist&#228;llet f&#246;r vad de<br/>de har &#229;stakommit med</p>
+      <p begin="00:43:06.497" end="00:43:10.222">i deras positioner. Det p&#229;verkar<br/>s&#228;kerligen publiken</p>
+      <p begin="00:43:10.222" end="00:43:12.797">i hur de bed&#246;mmer dessa kvinnor.</p>
+      <p begin="00:43:12.986" end="00:43:15.293">En av sakerna som h&#228;nder &#228;r<br/>att dem blir bagatelliserade.</p>
+      <p begin="00:43:15.389" end="00:43:17.697">De f&#229;r kvinnor att se mindre m&#228;ktiga ut.</p>
+      <p begin="00:43:18.122" end="00:43:20.798">-"Under den nationella demokratiska<br/>konventionen &#229;r 1984</p>
+      <p begin="00:43:20.819" end="00:43:22.907">n&#228;r Geraldine Ferraro deltog</p>
+      <p begin="00:43:22.922" end="00:43:25.367">blev hon introducerad &#229;&#168;TV som</p>
+      <p begin="00:43:25.367" end="00:43:29.155">"Den f&#246;rsta kvinnliga vice presidents<br/>kanditaten. Storlek sex!"<br/></p>
+      <p begin="00:43:30.437" end="00:43:32.360">S&#229; detta &#228;r inget nytt. </p>
+      <p begin="00:43:32.754" end="00:43:35.631">-"Min kollega f&#246;rde en studie d&#228;r<br/>man tittade p&#229; Elizabeth Dole</p>
+      <p begin="00:43:35.631" end="00:43:39.275">och n&#228;r hon deltog i presidentsvalet,<br/>hon h&#246;ll p&#229; komma tv&#229; i Iowa</p>
+      <p begin="00:43:39.275" end="00:43:43.655">efter George Bush och det var mycket<br/>mer publicitet kring</p>
+      <p begin="00:43:43.655" end="00:43:48.918">hennes utseende &#228;n vad hon<br/>faktiskt pratade om.</p>
+      <p begin="00:43:49.996" end="00:43:52.223">-"N&#228;r jag deltog i kongressvalet,<br/>f&#246;rde jag en kampanj</p>
+      <p begin="00:43:52.223" end="00:43:56.781">utanf&#246;r matbutiker och en kvinna kom fram<br/>till mig och lade armarna runt mig,</p>
+      <p begin="00:43:56.817" end="00:43:59.959">hon viskade i mitt &#246;ra, "Oroa dig inte, du<br/>ser inte ens i n&#228;rhet fet ut</p>
+      <p begin="00:43:59.959" end="00:44:03.335">som du g&#246;r p&#229; TV". En vecka innan valet,</p>
+      <p begin="00:44:03.335" end="00:44:06.018">kom en man fram till mig och han sa, "Du<br/>verkar vara underbar</p>
+      <p begin="00:44:06.018" end="00:44:08.820">men jag k&#228;nner inte att jag kan l&#228;gga min<br/>r&#246;st p&#229; dig i kongressvalet.</p>
+      <p begin="00:44:08.820" end="00:44:10.702">Eftersom jag k&#228;nner att jag kan<br/>anst&#228;lla dig till &#229; bli min barnvakt"</p>
+      <p begin="00:44:10.932" end="00:44:13.602">-"N&#228;r jag f&#246;r f&#246;rsta g&#229;ngen deltog<br/>i regeringsvalet, som nu &#228;r</p>
+      <p begin="00:44:13.602" end="00:44:17.653">&#246;ver 20 &#229;r sedan, &#228;ven fast min yngsta<br/>gick i h&#246;gstadiet,</p>
+      <p begin="00:44:17.653" end="00:44:19.666">de fr&#229;gor jag fick mest var,</p>
+      <p begin="00:44:19.666" end="00:44:21.782">"Vem ska ta hand om dina barn?"</p>
+      <p begin="00:44:21.983" end="00:44:24.021">Och sj&#228;lvklart &#228;r det en s&#229;dan fr&#229;ga</p>
+      <p begin="00:44:24.021" end="00:44:27.654">som inte jag tror en man blir fr&#229;gad<br/>n&#228;r han deltar i valet.</p>
+      <p begin="00:44:27.919" end="00:44:29.474">-"Om du tittar p&#229; kvinnor som deltog i<br/>valet</p>
+      <p begin="00:44:29.474" end="00:44:32.325">som hade &#228;rofyllda titlar s&#229; som,<br/>Senator Clinton,</p>
+      <p begin="00:44:32.360" end="00:44:37.475">om media dumpar titeln Senator<br/>och h&#228;nvisar henne som Fr&#246;ker Clinton,</p>
+      <p begin="00:44:37.588" end="00:44:40.380">&#228;r det ett s&#228;tt f&#246;r media att f&#246;rsvaga <br/>vad hon har &#229;stadkommit."</p>
+      <p begin="00:44:40.679" end="00:44:44.679" region="top"> I John Boehners f&#246;rsta fyra veckor som<br/>talesman f&#246;r Vita Huset</p>
+      <p begin="00:44:44.679" end="00:44:48.715" region="top"> var han p&#229; f&#246;rsta sidan av de<br/>fem st&#246;rsta veckotidningarna.</p>
+      <p begin="00:44:48.847" end="00:44:50.637" region="top"> De fyra f&#246;rsta veckorna f&#246;r Nancy<br/>Pelosi som talesman f&#246;r Vita Huset</p>
+      <p begin="00:44:50.637" end="00:44:52.377" region="top"> var hon inte p&#229; framsidan av en enda<br/>veckotidning.</p>
+      <p begin="00:44:52.531" end="00:44:55.122">-"Media &#228;r partiska.</p>
+      <p begin="00:44:55.122" end="00:45:00.130">Till exempel, media skriver p&#229; samma<br/>s&#228;tt om en man och kvinna.</p>
+      <p begin="00:45:01.185" end="00:45:04.323">Senator X &#228;r en kvinna, hon klagade p&#229;--</p>
+      <p begin="00:45:04.503" end="00:45:09.090">och i samma veva skrivs det, Senator Y<br/>sade--</p>
+      <p begin="00:45:09.651" end="00:45:11.600">S&#229; mannen kommer att f&#229; "sade"</p>
+      <p begin="00:45:11.600" end="00:45:15.545">och kvinnan kommer att f&#229; det<br/>negativa verbet, klaga."</p>
+      <p begin="00:45:16.414" end="00:45:20.431">-"Det &#228;r dubbelt s&#229; troligt att kvinnor<br/>beskrivs som k&#228;nsliga gentemot m&#228;n.</p>
+      <p begin="00:45:20.627" end="00:45:26.206">N&#228;r vi avbildar en kvinna som mer k&#228;nslig<br/>&#228;n en man s&#229; f&#246;revigar vi stereotypen</p>
+      <p begin="00:45:26.206" end="00:45:28.415">att kvinnor &#228;r mer k&#228;nsliga. D&#228;rf&#246;r &#228;r de<br/>irrationella.</p>
+      <p begin="00:45:28.415" end="00:45:30.244">Det handlar om att de inte kan ta hand<br/>om en kris</p>
+      <p begin="00:45:30.244" end="00:45:32.501">och b&#246;r d&#228;rf&#246;r inte hamna i<br/>en ledarskapsposition.</p>
+      <p begin="00:45:32.850" end="00:45:36.245">-"Jag kommer ih&#229;g att m&#229;nga g&#229;nger under<br/>kampanjen</p>
+      <p begin="00:45:36.245" end="00:45:39.467">att folk fr&#229;gade, "&#196;r hon tuff nog &#229;<br/>vara &#246;verbef&#228;llshavare?".</p>
+      <p begin="00:45:39.467" end="00:45:42.677">Jag k&#228;nner till m&#229;nga m&#228;n som inte &#228;r<br/>tuffa nog f&#246;r att vara &#246;verbef&#228;llshavare</p>
+      <p begin="00:45:42.872" end="00:45:44.880">och ingen har st&#228;llt den fr&#229;gan.</p>
+      <p begin="00:45:44.880" end="00:45:50.237">-"G&#246;ra det s&#228;kert f&#246;r dessa barn att ha<br/>en chans att n&#229; den Amerikanska dr&#246;mmen...</p>
+      <p begin="00:45:50.237" end="00:45:54.714">...&#229;h gud, det &#228;r viktigt."</p>
+      <p begin="00:45:54.936" end="00:45:57.639">-"K&#228;ra n&#229;n. Vad tror du att de hade gjort<br/>med Nancy Pelosi</p>
+      <p begin="00:45:57.639" end="00:46:01.353">om hon inte hade blivit arg? De hade sagt<br/>att hon labil,</p>
+      <p begin="00:46:01.358" end="00:46:05.557">att hon inte kunde sk&#246;ta jobbet. Ja du,<br/>v&#228;lkommen till America."</p>
+      <p begin="00:46:08.668" end="00:46:12.357">-"En m&#228;ktig kvinnan ses ofta som<br/>negativt.</p>
+      <p begin="00:46:12.910" end="00:46:17.892">Vi associerar alla d&#229;liga aspekter av makt<br/>och l&#228;gger &#246;ver det</p>
+      <p begin="00:46:17.953" end="00:46:21.164">p&#229; en kvinna som f&#246;rs&#246;ker uppn&#229; makt.</p>
+      <p begin="00:46:21.751" end="00:46:23.266">-"En stor roll som</p>
+      <p begin="00:46:23.266" end="00:46:28.317">media spelade var att huvudsakligen<br/>prata om</p>
+      <p begin="00:46:28.317" end="00:46:31.221">Hilary Clintons ambitioner som om<br/>det vore n&#229;got negativt."</p>
+      <p begin="00:46:34.126" end="00:46:37.031">-"N&#228;r Barack Obama pratar s&#229;<br/>h&#246;r m&#228;n, "Str&#228;va fram&#229;t",</p>
+      <p begin="00:46:37.434" end="00:46:41.650">och n&#228;r Hilary Clinton pratar s&#229;<br/>h&#246;r m&#228;n, "Ta ut soporna."</p>
+      <p begin="00:46:41.853" end="00:46:45.289">-"N&#228;r hon reagerar som hon g&#246;r mot Obama,<br/>med en blick,</p>
+      <p begin="00:46:45.289" end="00:46:46.677">en blick riktad mot honom,</p>
+      <p begin="00:46:46.677" end="00:46:49.956">som ser ut som att allas f&#246;rsta fruar<br/>g&#246;r utanf&#246;r domstolen."</p>
+      <p begin="00:46:49.956" end="00:46:51.561">-"Tuck, jag vet inte riktigt<br/>vad de f&#246;rs&#246;ker med.</p>
+      <p begin="00:46:51.561" end="00:46:52.870">Men vad tror du att de s&#228;ger om Hillary?"</p>
+      <p begin="00:46:52.870" end="00:46:57.227">-"Jag vet inte, men det var perfekt,<br/>skulle en kille ha sagt."</p>
+      <p begin="00:46:57.227" end="00:47:00.839">-"N&#228;r hon &#228;r p&#229; TV s&#229; korsar jag<br/>mina ben ofrivilligt."</p>
+      <p begin="00:47:00.893" end="00:47:02.122">-"Det vet jag att du g&#246;r."</p>
+      <p begin="00:47:02.398" end="00:47:06.551">-"Hillary Clinton hade h&#228;cklare som<br/>f&#246;ljde henne och sa, "Stryk min skjorta".</p>
+      <p begin="00:47:06.714" end="00:47:09.215">-"Och vissa tror att<br/>"Stryck min skjorta!"</p>
+      <p begin="00:47:09.215" end="00:47:13.258">-"Att vi g&#229;r runt och s&#228;ger,<br/>"Stryk min skjorta! Stryk min skjorta!"</p>
+      <p begin="00:47:13.389" end="00:47:16.615">-"Hon kallades frekvent f&#246;r satmara i<br/>den breda median."</p>
+      <p begin="00:47:16.828" end="00:47:20.324">-"Hon &#228;r den stereotypiska satmaran<br/>om du f&#246;rst&#229;r vad jag menar?"</p>
+      <p begin="00:47:20.472" end="00:47:24.066">-"Obama gjorde bra ifr&#229;n sig i Februar<br/>p&#229; grund av svartas historias m&#229;nad</p>
+      <p begin="00:47:24.164" end="00:47:27.581">och nu g&#246;r Hillary b&#228;ttre ifr&#229;n sig n&#228;r<br/>det &#228;r vita satmara m&#229;naden eller hur?"</p>
+      <p begin="00:47:28.418" end="00:47:30.473">-"Om hon visste hur de fick henne att se<br/>ut, dum och sj&#228;lvsv&#229;ldig,</p>
+      <p begin="00:47:32.528" end="00:47:34.584">s&#229; skulle hon ha stoppat det. Men<br/>hon kan inte h&#229;lla det tillbaka eller hur?</p>
+      <p begin="00:47:34.671" end="00:47:36.777">-"Hennes meriter blev st&#228;ndigt<br/>ifr&#229;gasatta.</p>
+      <p begin="00:47:36.777" end="00:47:40.187">-"L&#229;t oss inte gl&#246;mma och jag kommer att<br/>vara brutal. Anledningen till att hon &#228;r</p>
+      <p begin="00:47:40.187" end="00:47:43.320">USAs senator, anledningen till att hon &#228;r<br/>presidentskanditat, anledningen till att</p>
+      <p begin="00:47:43.320" end="00:47:45.006">hon &#228;r ledande i valet &#228;r p&#229; grund av att<br/>hennes make strulade runt. Ja men..."</p>
+      <p begin="00:47:45.006" end="00:47:47.956">-"Det &#228;r s&#229; hon blev senator i New York.<br/>Vi fors&#228;tter att gl&#246;mma det.</p>
+      <p begin="00:47:47.956" end="00:47:49.409">Hon vann inte p&#229; grund av sina meriter."</p>
+      <p begin="00:47:52.421" end="00:47:55.047">-"Sarah Palin presenterar en helt annan<br/>bild.</p>
+      <p begin="00:47:55.047" end="00:47:59.271">Hon var den f&#246;rsta kvinnliga<br/>h&#246;gprofilskanditaten,</p>
+      <p begin="00:47:59.327" end="00:48:04.659">som presenterade sig sj&#228;lv v&#228;ldigt<br/>feminint, som en "&#228;kta kvinna".</p>
+      <p begin="00:48:04.999" end="00:48:07.070">-"Hon &#228;r den Amerikanska dr&#246;mmen.<br/>Kvinnor vill vara som henne.</p>
+      <p begin="00:48:07.070" end="00:48:10.301">M&#228;n vill para sig med henne. Jag vill<br/>l&#228;gga henne intill mig i s&#228;ngen."</p>
+      <p begin="00:48:12.245" end="00:48:15.652">-"Det fanns bilder som tagits av<br/>mellan hennes ben,</p>
+      <p begin="00:48:15.652" end="00:48:17.678">som fotograferades av det republikanska<br/>partiet.</p>
+      <p begin="00:48:17.890" end="00:48:21.738">-"Kort sagt s&#229; blev hon<br/>objektifierad.</p>
+      <p begin="00:48:21.998" end="00:48:25.368">-"Jag vill inte s&#228;ga att hon &#228;r bl&#229;st,<br/>men ig&#229;r natt</p>
+      <p begin="00:48:25.368" end="00:48:28.057">s&#229; hette tjejen som strippade f&#246;r mig<br/>Sarah Palin."</p>
+      <p begin="00:48:28.444" end="00:48:31.445">-"H&#246;rru, l&#229;t mig s&#228;ga en sak<br/>om Sarah Palin,</p>
+      <p begin="00:48:31.507" end="00:48:35.098">hon &#228;r riktigt bra runkmaterial."</p>
+      <p begin="00:48:35.330" end="00:48:37.825">-" S&#229; Hillary Clinton f&#246;rs&#246;kte vara<br/>maskulin</p>
+      <p begin="00:48:37.825" end="00:48:40.463">och feminin och hon f&#246;rlorade.</p>
+      <p begin="00:48:40.672" end="00:48:45.203">Sarah Palin utstr&#229;lar en annan bild,<br/>ska vi s&#228;ga, hyper feminitet</p>
+      <p begin="00:48:45.248" end="00:48:48.438">och hon blir helt &#246;verk&#246;rd och f&#246;rnedrad<br/>p&#229; k&#246;nsbundna s&#228;tt. </p>
+      <p begin="00:48:49.929" end="00:48:54.994">-"Men ikv&#228;ll korsar vi partiernas linjer<br/>f&#246;r att betona en v&#228;ldigt ful roll </p>
+      <p begin="00:48:55.025" end="00:48:58.044">d&#228;r sexism spelar i kampanjen."</p>
+      <p begin="00:48:58.255" end="00:49:03.090">-"Ett problem som jag &#228;r uppriktigt sagt<br/>r&#228;tt &#246;verraskad att h&#246;ra folk bryr sig."</p>
+      <p begin="00:49:03.090" end="00:49:05.542"/>
+      <p begin="00:49:06.550" end="00:49:09.214">"Reportrar m&#229;ste sluta anv&#228;nda ord som</p>
+      <p begin="00:49:09.214" end="00:49:13.348">f&#246;rsvagar oss s&#229; som, vacker, attraktiv,<br/>elegant--"</p>
+      <p begin="00:49:13.369" end="00:49:17.823">-"Rovgirig, slug, st&#229;nd f&#246;rminskare.</p>
+      <p begin="00:49:17.923" end="00:49:22.189"/>
+      <p begin="00:49:23.169" end="00:49:27.079">-"Jag oroar mig &#246;ver att det finns<br/>miljoner m&#228;nniskor som tittar<br/></p>
+      <p begin="00:49:27.079" end="00:49:30.711">Sarah Palin, Hillary Clinton...<br/>Jag kan prata f&#246;r en hel del kvinnor</p>
+      <p begin="00:49:30.711" end="00:49:33.121">som &#228;r i New Jerseys politk. Det &#228;r<br/>finns miljoner m&#228;nniskor som</p>
+      <p begin="00:49:33.121" end="00:49:36.091">tittar och budskapet som de f&#229;r &#228;r inte </p>
+      <p begin="00:49:36.091" end="00:49:40.187">uppmuntrande att st&#229; ut med detta<br/>misshandel.</p>
+      <p begin="00:49:40.479" end="00:49:44.034">-"N&#228;r du inte blir behandlad lika s&#229; blir<br/>de dehumaniserade.</p>
+      <p begin="00:49:44.078" end="00:49:47.270">N&#228;r du inte blir tilldelad samma m&#246;jlighet<br/>blir du dehumaniserad.</p>
+      <p begin="00:49:47.354" end="00:49:50.472">N&#228;r folk tittar p&#229; dig annorlunda f&#246;r <br/>att du r&#229;kar vara kvinna</p>
+      <p begin="00:49:50.472" end="00:49:53.119">och du r&#229;kar vara i en position som har<br/>en sorts inflytande som n&#229;gon som &#228;r</p>
+      <p begin="00:49:55.247" end="00:49:57.531">man skulle naturligt ha baserat tradition<br/>eller historia</p>
+      <p begin="00:49:59.625" end="00:50:02.873">och folk st&#228;ller fr&#229;gor ang&#229;ende dina&lt;br /&gt;kvalifikationer, det &#228;r dehumaniserande.</p>
+      <p begin="00:50:03.542" end="00:50:06.120">-"Generellt s&#228;tt s&#229; brukar kvinnor med<br/>makt hota m&#228;n f&#246;r att de k&#228;nner</p>
+      <p begin="00:50:09.370" end="00:50:12.721">att en kvinna med makt bara &#228;r en<br/>underordnad till mannen.</p>
+      <p begin="00:50:12.967" end="00:50:16.634">till skillnad fr&#229;n att f&#246;rs&#246;ka h&#246;ja sig<br/>sj&#228;lv.</p>
+      <p begin="00:50:16.997" end="00:50:20.187">-"Under tiden kvinnan har f&#246;rs&#246;kt<br/>utmana m&#228;nnens makt inom aff&#228;rer,</p>
+      <p begin="00:50:20.187" end="00:50:22.338">olika jobb, studier, </p>
+      <p begin="00:50:22.338" end="00:50:26.463">inom politik och andra aspekter av livet,</p>
+      <p begin="00:50:28.150" end="00:50:30.266">s&#229; har bilden av kvinnan som &#246;verfl&#246;dats<br/>inom deras kultur </p>
+      <p begin="00:50:30.266" end="00:50:33.187">har visat att kvinnor tar upp<br/>mindre plats.</p>
+      <p begin="00:50:33.187" end="00:50:36.021">De &#228;r mindre hotfulla. Mer sexualiserade.</p>
+      <p begin="00:50:36.218" end="00:50:39.704">och d&#228;rf&#246;r har en viss m&#228;ngd<br/>makt fr&#229;ntagits,</p>
+      <p begin="00:50:39.704" end="00:50:41.632">som &#228;r makt f&#246;r att vara en<br/>hel m&#228;nniska.</p>
+      <p begin="00:50:43.507" end="00:50:46.844">Jag tror inte att dessa saker &#228;r<br/>slumpm&#228;ssiga. Jag tror att s&#228;ttet</p>
+      <p begin="00:50:46.844" end="00:50:51.005">symboliken har utspelat sig har varit<br/>att ta makten ifr&#229;n kvinnor,</p>
+      <p begin="00:50:51.005" end="00:50:54.296">medan kvinnor har utmanat m&#228;ns makt<br/>i verkligheten.</p>
+      <p begin="00:50:58.022" end="00:51:00.542">-"Det verkar som att vi har blivit<br/>bed&#246;vade mot det f&#246;r&#246;diska s&#228;tt</p>
+      <p begin="00:51:00.574" end="00:51:04.045">media har h&#229;llt tillbaka kvinnor, n&#228;r de<br/>blir f&#246;rvr&#228;ngda."</p>
+      <p begin="00:51:06.332" end="00:51:10.167">-"Jag kan inte sluta fundera &#246;ver vilka<br/>det &#228;r som &#228;r bakom scenen</p>
+      <p begin="00:51:10.167" end="00:51:13.089">som tar dessa viktiga beslut om vad<br/>vi ser.</p>
+      <p begin="00:51:14.346" end="00:51:18.225">Och vad de har f&#246;r konsekvenser f&#246;r<br/>min dotter och hennes generation?"</p>
+      <p begin="00:51:43.560" end="00:51:45.539">-"Media har alltid varit </p>
+      <p begin="00:51:45.539" end="00:51:47.917">&#246;verv&#228;ldigande i m&#228;ns h&#228;nder. "</p>
+      <p begin="00:51:48.496" end="00:51:53.430" region="top"> Kvinnor &#228;ger endast 5.8% av alla <br/>television stationer och 6% av radio.</p>
+      <p begin="00:51:53.466" end="00:51:57.225">-"N&#228;r du g&#229;r upp i rankingen i media, s&#229;<br/>finns det mindre och mindre kvinnor</p>
+      <p begin="00:51:57.225" end="00:52:00.413">och f&#228;rgade m&#228;nniskor i alla sammanhang.</p>
+      <p begin="00:52:00.413" end="00:52:02.253" region="top"> Kvinnor har endast 3% av maktpositionen<br/>inom telekommunikation, underh&#229;llning,</p>
+      <p begin="00:52:02.253" end="00:52:04.272">publicering och reklam.</p>
+      <p begin="00:52:04.272" end="00:52:07.623">-"Det betyder att 97% av allt du vet om<br/>dig sj&#228;lv</p>
+      <p begin="00:52:07.623" end="00:52:10.688">och ditt land och din v&#228;rld, kommer fr&#229;n<br/>en mans perspektiv.</p>
+      <p begin="00:52:10.734" end="00:52:13.547">Det betyder inte att det &#228;r fel, men i<br/>en demokrati</p>
+      <p begin="00:52:13.547" end="00:52:16.877">n&#228;r du talar om j&#228;mlikhet och<br/>full medverkan</p>
+      <p begin="00:52:16.877" end="00:52:19.036">s&#229; har du halva populationen,</p>
+      <p begin="00:52:19.036" end="00:52:21.296">men &#228;n halva populationen<br/>som inte deltar."</p>
+      <p begin="00:52:21.537" end="00:52:26.119">-"M&#229;nga &#229;r sedan, Sa jag, "Varf&#246;r skapar<br/>vi bara inte v&#229;rt eget n&#228;tverk,</p>
+      <p begin="00:52:26.119" end="00:52:31.551">ist&#228;llet f&#246;r att f&#246;rs&#246;ka f&#229; v&#229;ra historier<br/>ber&#228;ttade p&#229; andras n&#228;tverk?"</p>
+      <p begin="00:52:31.551" end="00:52:36.042">S&#229; vi kom fram till en id&#233;. Vi gick till<br/>olika distribut&#246;rer,</p>
+      <p begin="00:52:36.042" end="00:52:39.272">&#228;ven till uts&#228;ndningsn&#228;tet, kabel TV bolag<br/>med mera,</p>
+      <p begin="00:52:39.272" end="00:52:42.814">la upp f&#246;rslaget, och en person sa <br/>till mig,</p>
+      <p begin="00:52:42.814" end="00:52:44.832">"Varf&#246;r beh&#246;ver vi ett till<br/>kvinnon&#228;tverk?</p>
+      <p begin="00:52:44.832" end="00:52:47.676">Vi har redan en. Vi har livstid."</p>
+      <p begin="00:52:48.330" end="00:52:54.307" region="top"> Samtidigt som det finns<br/>22 ESPN sport kanaler.</p>
+      <p begin="00:52:54.662" end="00:52:58.079">-"Det finns en ganska s&#229; genomgripande<br/>k&#228;nsla av f&#246;rnekelse</p>
+      <p begin="00:52:58.079" end="00:53:02.728">n&#228;r det kommer till status hos kvinnor<br/>som jobbar inom TV och film.</p>
+      <p begin="00:53:03.371" end="00:53:07.507">Peter Bart skrev en kolumn i Variety, d&#228;r<br/>han pratar om glastak<br/></p>
+      <p begin="00:53:07.547" end="00:53:09.887">och att de inte l&#228;ngre existerar.</p>
+      <p begin="00:53:09.964" end="00:53:13.759">Att s&#228;tta ut s&#229;dan information &#228;r<br/>riktigt besv&#228;rande.</p>
+      <p begin="00:53:14.195" end="00:53:16.593" region="top"> Kvinnor utg&#246;r endast 16% av alla<br/>f&#246;rfattare, direkt&#246;rer och producenter,</p>
+      <p begin="00:53:16.593" end="00:53:20.089" region="top"> filmfotografer och redakt&#246;rer.</p>
+      <p begin="00:53:20.599" end="00:53:24.840" region="top"> Endast 7% av direkt&#246;rer och 10% av<br/>skribenter i filmer &#228;r kvinnor.</p>
+      <p begin="00:53:25.138" end="00:53:27.420">-"Under s&#229; l&#229;ng tid har industrin varit<br/>dominerad</p>
+      <p begin="00:53:27.420" end="00:53:30.198">av m&#228;n som v&#228;grar l&#228;mna."</p>
+      <p begin="00:53:31.520" end="00:53:34.671">-"Folk som anst&#228;ller andra brukar anst&#228;lla<br/>folk som &#228;r sig sj&#228;lv lika."</p>
+      <p begin="00:53:34.671" end="00:53:36.553">-"Detta har en p&#229;verkan p&#229; anst&#228;llningen.<br/>Det p&#229;verkar nyheter, direkt&#246;rer,</p>
+      <p begin="00:53:36.910" end="00:53:40.178">-"Detta har en p&#229;verkan p&#229; anst&#228;llningen.<br/>Det p&#229;verkar nyheter, direkt&#246;rer,</p>
+      <p begin="00:53:40.178" end="00:53:43.103">journalister, folk som t&#228;cker nyheter,</p>
+      <p begin="00:53:43.103" end="00:53:45.087">och vem t&#228;cker nyheterna?</p>
+      <p begin="00:53:45.261" end="00:53:49.785">Det &#228;r s&#229; m&#229;nga faktorer som avg&#246;r<br/>vad f&#246;r nyheter som s&#228;nds.</p>
+      <p begin="00:53:50.373" end="00:53:55.046" region="top"> Den genomsnittliga siffran f&#246;r nyheter<br/>om kvinnor och flickor &#228;r mindre &#228;n 20%</p>
+      <p begin="00:53:55.307" end="00:53:59.931">-"N&#228;r n&#229;gon grupp blir utel&#228;mnad i media</p>
+      <p begin="00:54:00.047" end="00:54:04.552">s&#229; m&#229;ste de undra, "S&#229; hur p&#229;verkar<br/>detta v&#229;r kultur?"</p>
+      <p begin="00:54:04.593" end="00:54:07.232">Det finns faktist ett akedemiskt<br/>term f&#246;r det.</p>
+      <p begin="00:54:07.476" end="00:54:09.678">Det kallas f&#246;r symbolisk f&#246;rintelse. </p>
+      <p begin="00:54:10.801" end="00:54:16.528"/>
+      <p begin="00:54:26.357" end="00:54:31.222">-"Hela Hollywood &#228;r styrt via<br/>ett antagande,</p>
+      <p begin="00:54:31.222" end="00:54:36.391">att kvinnor tittar p&#229; historier om m&#228;n men<br/>m&#228;n tittar inte p&#229; historier om kvinnor.</p>
+      <p begin="00:54:37.082" end="00:54:45.506">Alla beslut som tas &#228;r baserade p&#229;<br/>denna fakta</p>
+      <p begin="00:54:45.506" end="00:54:49.307">som ingen har bevisat &#228;r sann.</p>
+      <p begin="00:54:49.423" end="00:54:52.476">Jag tycker att det &#228;r ett hemst &#229;tal av<br/>v&#229;rt sammh&#228;lle om vi antar </p>
+      <p begin="00:54:52.476" end="00:54:57.394">att halva populationen inte &#228;r<br/>intresserade av den andra halvan."</p>
+      <p begin="00:54:58.795" end="00:55:01.796">-"De f&#246;rsta manus som jag sj&#228;lv skrev,</p>
+      <p begin="00:55:01.796" end="00:55:06.053">hade en kvinna i huvudrollen och folk<br/>kommer att titta</p>
+      <p begin="00:55:06.053" end="00:55:08.845">"Det finns knappast n&#229;gon tillg&#228;nglig<br/>kvinnlig sk&#229;despelerska."</p>
+      <p begin="00:55:08.849" end="00:55:12.786">S&#229; de kan inte fors&#228;tta filma. S&#229; d&#229; m&#229;ste<br/>det bli en riktigt l&#229;g budget film</p>
+      <p begin="00:55:12.786" end="00:55:16.619">annars tj&#228;nar vi inget och ingen<br/>kommer att dyka upp f&#246;r att se den.</p>
+      <p begin="00:55:16.619" end="00:55:22.401">S&#229; till slut skrev jag den l&#228;gsta budget<br/>filmen jag n&#229;gonsin kunnat.</p>
+      <p begin="00:55:22.468" end="00:55:25.757">Jag skrev filmen "Tretton" tillsammans<br/>med en tretton&#229;ring</p>
+      <p begin="00:55:25.942" end="00:55:28.723">och det handlade om folk med<br/>l&#229;ga inkomster.</p>
+      <p begin="00:55:28.723" end="00:55:30.911">De bar mina kl&#228;der. Vi filmade i mitt hus.</p>
+      <p begin="00:55:30.911" end="00:55:34.161">Vi anv&#228;nde min bil. Vi gjorde klart filmen<br/>och gick vidare</p>
+      <p begin="00:55:34.161" end="00:55:38.119">till Sundance som sedan vann priser och<br/>distribuerades internationellt.</p>
+      <p begin="00:55:38.119" end="00:55:41.598">Jag tror att Twilight gick igenom samma<br/>process som oss.</p>
+      <p begin="00:55:41.815" end="00:55:46.765">Tv&#229; stora bolag nekade filmen. Men <br/>till slut, visade ett nystartat bolag mig</p>
+      <p begin="00:55:46.765" end="00:55:50.968">projektet och det f&#246;rvandlades till<br/></p>
+      <p begin="00:55:50.968" end="00:55:55.036">en halv miljard dollar hittills. S&#229; det<br/>&#228;r bevisad i teori </p>
+      <p begin="00:55:55.036" end="00:55:58.349">att flickor och kvinnor ville inte g&#229; se<br/>en film,</p>
+      <p begin="00:55:58.349" end="00:56:02.355">men &#228;nd&#229; s&#229; var det folkmassor som d&#246;k<br/>upp f&#246;r att se den om och om igen.</p>
+      <p begin="00:56:02.355" end="00:56:05.272">De k&#246;pte DVD filmen och de k&#246;pte<br/>till och med &#246;rngott.</p>
+      <p begin="00:56:06.986" end="00:56:10.577">Men det finns en baksida till det vilket<br/>&#228;r ganska f&#246;rv&#229;nande f&#246;r mig.</p>
+      <p begin="00:56:10.577" end="00:56:14.211">I de tv&#229; andra 'Twilight'<br/>s&#229; anst&#228;llde de killar.</p>
+      <p begin="00:56:14.387" end="00:56:17.990">De s&#246;kte aldrig en kvinnlig direkt&#246;r.</p>
+      <p begin="00:56:17.990" end="00:56:22.964">Jag har s&#246;kt efter jobb d&#228;r jag och min<br/>agent har blivit tillsagda,</p>
+      <p begin="00:56:22.964" end="00:56:25.807">"&#197;h nej, vi tror att en kille b&#246;r<br/>regissera det h&#228;r"</p>
+      <p begin="00:56:25.955" end="00:56:28.737">Och jag t&#228;nker f&#246;r mig sj&#228;lv, "Okej kan<br/>en man regissera,</p>
+      <p begin="00:56:28.737" end="00:56:30.651">Sex and the City, Sisterhood of the<br/>Traveling Pants,</p>
+      <p begin="00:56:30.651" end="00:56:34.536">Miley Cyrus filmen?" Ingen st&#228;ller<br/>dessa fr&#229;gor.</p>
+      <p begin="00:56:34.725" end="00:56:38.571">Men jag, en framg&#229;ngsrik kvinnlig regiss&#246;r<br/>kan inte regissera en film</p>
+      <p begin="00:56:38.571" end="00:56:40.325">som b&#246;r g&#246;ras av en man.</p>
+      <p begin="00:56:40.509" end="00:56:42.102">-"Men ingen s&#228;ger, "Jag kommer inte<br/>anst&#228;lla en kvinnlig regiss&#246;r."</p>
+      <p begin="00:56:42.102" end="00:56:46.181">I deras lista finns det bara 25 namn och<br/>ingen av dessa &#228;r kvinnor.</p>
+      <p begin="00:56:46.181" end="00:56:49.547">Det som h&#228;nder &#228;r att, dessa studio<br/>chefer som,</p>
+      <p begin="00:56:49.829" end="00:56:53.564">eller folk som mig, skribenter,<br/>producenter eller regiss&#246;rer,</p>
+      <p begin="00:56:53.870" end="00:56:57.506">vi ser v&#228;rlden p&#229; ett speciellt s&#228;tt</p>
+      <p begin="00:56:57.557" end="00:57:02.208">och vi s&#228;ger inte emot s&#229; mycket<br/>s&#229; vi bara replikerar v&#228;rlden</p>
+      <p begin="00:57:02.208" end="00:57:08.315">som vi v&#228;xte upp i utan att fr&#229;ga<br/>varf&#246;r vi g&#246;r det.</p>
+      <p begin="00:57:08.777" end="00:57:11.341">-"Vad &#228;r det f&#246;rsta som de s&#228;ger till folk<br/>n&#228;r de</p>
+      <p begin="00:57:11.341" end="00:57:14.423">&#228;r i en manus skrivande klass?<br/>Skapa det du vet. </p>
+      <p begin="00:57:14.602" end="00:57:16.728">N&#228;r du har st&#246;rre m&#229;ngfald bakom scenen,</p>
+      <p begin="00:57:16.728" end="00:57:20.224">du f&#229;r inte bara mer kvinnliga<br/>karakt&#228;rer p&#229; duken</p>
+      <p begin="00:57:20.228" end="00:57:22.637">men ocks&#229; andra typer av kvinnliga roller.</p>
+      <p begin="00:57:22.834" end="00:57:26.601">Du f&#229;r mer kraftfulla och<br/>multidimensionella kvinnliga karakt&#228;rer.</p>
+      <p begin="00:57:26.786" end="00:57:29.400">-"Du skulle ha sett hur m&#228;nnen<br/>tittade p&#229; mig."</p>
+      <p begin="00:57:29.579" end="00:57:33.107">-"De uppt&#228;ckte att jag var or&#228;dd!"</p>
+      <p begin="00:57:33.351" end="00:57:35.869">-"Det &#228;r d&#228;rf&#246;r det &#228;r s&#229; viktigt<br/>f&#246;r kvinnor</p>
+      <p begin="00:57:35.869" end="00:57:38.951">att skriva deras egna historier. Verkligen<br/>jobba p&#229; dessa historier,</p>
+      <p begin="00:57:38.951" end="00:57:42.147">skriva ner dem, regissera dem och ge dem<br/>till folk</p>
+      <p begin="00:57:42.147" end="00:57:47.623">s&#229; att de verkligen blir emotionellt<br/>p&#229;verkade f&#246;r att n&#228;r min mamma ber&#228;ttar </p>
+      <p begin="00:57:47.623" end="00:57:48.733">en historia eller min mormor ber&#228;ttar<br/>en historia s&#229; blir jag gripen.</p>
+      <p begin="00:57:48.813" end="00:57:50.859"/>
+      <p begin="00:57:50.859" end="00:57:54.512">-"Ingen utav oss hade n&#229;gon id&#233; vad f&#246;r<br/>respons vi skulle f&#229;</p>
+      <p begin="00:57:54.512" end="00:57:56.985">f&#246;r Thelma och Lousie. En g&#229;ng s&#229; stannade<br/>jag vid ett r&#246;dljus</p>
+      <p begin="00:57:57.493" end="00:58:00.207">och jag h&#246;rde n&#229;gon tuta, jag tittade ut</p>
+      <p begin="00:58:00.222" end="00:58:03.466">och d&#228;r var en bill full med kvinnor<br/>som ploppade ut genom f&#246;nstren</p>
+      <p begin="00:58:03.466" end="00:58:06.849">och soltaket och skrek, "Whoo-hoo!"</p>
+      <p begin="00:58:06.899" end="00:58:10.080">Jag har verkligen aldrig n&#229;gonsin f&#229;tt</p>
+      <p begin="00:58:10.080" end="00:58:13.178">en s&#229;dan reaktion till n&#229;gon<br/>av mina filmer."</p>
+      <p begin="00:58:13.837" end="00:58:18.956">Min n&#228;sta film som jag var med i var<br/>A League of Their Own, d&#228;r jag hade</p>
+      <p begin="00:58:18.956" end="00:58:23.299">13 eller 15 &#229;riga flickor som kom fram<br/>till mig med samma reaktion,</p>
+      <p begin="00:58:23.299" end="00:58:25.377">"&#197;h gud. Du har ingen aning hur det<br/>f&#246;r&#228;ndrade mitt liv.</p>
+      <p begin="00:58:25.377" end="00:58:27.638">Jag b&#246;rjade med idrott n&#228;r jag<br/>s&#229;g den filmen."</p>
+      <p begin="00:58:27.638" end="00:58:34.036">-"Det slog mig verkligen hur f&#229;<br/>m&#246;jligheter vi kvinnor f&#229;r att ge</p>
+      <p begin="00:58:34.036" end="00:58:36.362">en s&#229;dan upplevelse av att titta p&#229; film."</p>
+      <p begin="00:58:36.685" end="00:58:39.337">-"Media kan bli ett instrument som<br/>f&#246;r&#228;ndrar saker och ting.</p>
+      <p begin="00:58:40.673" end="00:58:45.618">Den kan uppr&#228;tth&#229;lla det of&#246;r&#228;ndrat <br/>tillst&#229;nd och reflectera vyer av samh&#228;llet</p>
+      <p begin="00:58:46.006" end="00:58:51.095">eller s&#229; kan det f&#246;rhoppningsvis v&#228;cka<br/>folk och f&#229; dem att &#228;ndra sina tankar.</p>
+      <p begin="00:58:51.938" end="00:58:55.239">Jag tror att det beror p&#229; vem det &#228;r<br/>som styr planet."</p>
+      <p begin="00:58:59.934" end="00:59:02.428">."Jag vill inte att den ska bli<br/>underv&#228;rderad, all denna framg&#229;ng</p>
+      <p begin="00:59:02.428" end="00:59:04.346">som kvinnor har &#229;stadkommit med<br/>i Amerika.</p>
+      <p begin="00:59:06.798" end="00:59:10.435">Men om vi tar en n&#228;rmare titt p&#229; hur<br/>historia har blivit inspelad,</p>
+      <p begin="00:59:10.918" end="00:59:14.399">s&#229; ser vi tydligt hur stor roll media<br/>har haft</p>
+      <p begin="00:59:14.466" end="00:59:16.157">i defineringen av oss sj&#228;lva."</p>
+      <p begin="00:59:17.330" end="00:59:20.469">-"Patriarkat &#228;r Amerikas<br/>standardinst&#228;llning,</p>
+      <p begin="00:59:20.746" end="00:59:24.736">d&#228;r m&#228;n h&#229;ller makt positionerna</p>
+      <p begin="00:59:25.721" end="00:59:29.208">och kvinnor ofta &#228;r behandlade som<br/>andra klass medborgare.</p>
+      <p begin="00:59:29.400" end="00:59:32.089">Det har alltid blivit struligt i det<br/>Amerikanska samh&#228;llet</p>
+      <p begin="00:59:32.536" end="00:59:34.590">n&#228;r kvinnor har kommit till makten.</p>
+      <p begin="00:59:34.755" end="00:59:37.100"/>
+      <p begin="00:59:39.167" end="00:59:42.631">Under andra v&#228;rldskriget, blev 6 miljoner<br/>kvinnor </p>
+      <p begin="00:59:42.668" end="00:59:46.064">tagna till fabriker p&#229; grund av<br/>m&#228;ns fr&#229;nvaro.</p>
+      <p begin="00:59:46.064" end="00:59:50.821">N&#228;r kriget b&#246;rjade lida mot sitt slut,<br/>ville 80% ha kvar sina jobb.</p>
+      <p begin="00:59:51.209" end="00:59:56.006">Tv&#229; dagar efter att soldaterna kom<br/>hem efter vinsten i Civic,</p>
+      <p begin="00:59:56.100" end="00:59:59.819">blev 800,000 kvinner avskedade fr&#229;n<br/>flygindustrin</p>
+      <p begin="00:59:59.935" end="01:00:02.265">och andra fabriker gjorde samma sak.</p>
+      <p begin="01:00:02.668" end="01:00:07.077">Vi beh&#246;ver en stor media kampanj f&#246;r att<br/>f&#229; dessa kvinnor tillbaka i hemmet.</p>
+      <p begin="01:00:07.077" end="01:00:10.120" region="top"> Newsweek skrev &#229;r 1947, "F&#246;r Amerikanen<br/>g&#229;r inte kvinnor, b&#246;cker och bebisar ihop.</p>
+      <p begin="01:00:10.151" end="01:00:11.779" region="top"> B&#228;sts&#228;ljande Modern Women<br/>uttalar f&#246;ljade,</p>
+      <p begin="01:00:11.779" end="01:00:13.577">"En sj&#228;lvst&#228;ndig kvinna &#228;r en mots&#228;gelse<br/>i sig." </p>
+      <p begin="01:00:13.654" end="01:00:16.763">En av de mest effektiva s&#228;tten att g&#246;ra<br/>detta p&#229; var genom TV.</p>
+      <p begin="01:00:16.819" end="01:00:19.400">S&#229; TV var en del av domesticeringen. </p>
+      <p begin="01:00:19.400" end="01:00:22.229" region="top"> &#197;r 1948 hade 1 miljon hem TV<br/>apparater i USA</p>
+      <p begin="01:00:22.229" end="01:00:23.981" region="top"> 1948 Father Knows Best</p>
+      <p begin="01:00:25.686" end="01:00:29.887">-"Vi hade ett tv program som var sponsrat<br/>av handelsvaror.</p>
+      <p begin="01:00:30.036" end="01:00:33.467">De gl&#228;nsande apparater som June Cleaver<br/>brukade anv&#228;nda i k&#246;ket.</p>
+      <p begin="01:00:33.505" end="01:00:36.728">Dessa varor var l&#228;nkade till<br/>det goda livet.</p>
+      <p begin="01:00:37.068" end="01:00:41.427">Kvinnor skyndade sig till varuhus i deras<br/>nya bilar och lastade p&#229;.</p>
+      <p begin="01:00:41.687" end="01:00:44.884">Vad de inte visste var att de faktiskt<br/>gjorde detta p&#229; grund av</p>
+      <p begin="01:00:44.884" end="01:00:47.198">den starka statliga ordern.</p>
+      <p begin="01:00:47.505" end="01:00:51.010">Begreppet var kopplat till Kapitalism,</p>
+      <p begin="01:00:51.010" end="01:00:55.164">som v&#229;r regering st&#246;dde. P&#229; s&#229; s&#228;tt<br/>undviker de kommunism.</p>
+      <p begin="01:00:55.164" end="01:00:58.350" region="top"> 1959 blev CBS den st&#246;rsta reklam<br/>bolaget p&#229; TV</p>
+      <p begin="01:00:58.350" end="01:01:01.946">-"S&#229; man kan verkligen se kopplingen<br/>mellan TV och</p>
+      <p begin="01:01:02.078" end="01:01:06.365">det kapitalistiska trycket, och v&#229;r<br/>regering som matar in kapitalism."</p>
+      <p begin="01:01:06.934" end="01:01:09.102"/>
+      <p begin="01:01:10.534" end="01:01:13.633">-"Spola nu fram tills n&#228;r vi</p>
+      <p begin="01:01:13.685" end="01:01:16.012"/>
+      <p begin="01:01:16.012" end="01:01:17.985"/>
+      <p begin="01:01:17.985" end="01:01:19.887"/>
+      <p begin="01:01:19.887" end="01:01:21.820"/>
+      <p begin="01:01:21.820" end="01:01:23.532"/>
+      <p begin="01:01:23.532" end="01:01:24.314"/>
+      <p begin="01:01:24.314" end="01:01:25.791"/>
+      <p begin="01:01:25.791" end="01:01:27.735"/>
+      <p begin="01:01:27.735" end="01:01:29.685"/>
+      <p begin="01:01:29.685" end="01:01:31.831"/>
+      <p begin="01:01:31.831" end="01:01:33.405"/>
+      <p begin="01:01:33.513" end="01:01:37.757">Kvinnan gick fr&#229;n att vara tillg&#228;nglig<br/>till instutioner f&#246;r h&#246;gre utbildning.</p>
+      <p begin="01:01:37.872" end="01:01:41.644">Inte till&#229;ten att delta i de mest v&#228;lk&#228;nda<br/>yrkena,</p>
+      <p begin="01:01:41.644" end="01:01:44.054">inom ett decenium.</p>
+      <p begin="01:01:44.512" end="01:01:46.999">Kvinnor tj&#228;nade enormt mycket makt.</p>
+      <p begin="01:01:46.999" end="01:01:48.054"/>
+      <p begin="01:01:48.054" end="01:01:49.765"/>
+      <p begin="01:01:49.765" end="01:01:51.749"/>
+      <p begin="01:01:51.749" end="01:01:53.185"/>
+      <p begin="01:01:53.185" end="01:01:54.097"/>
+      <p begin="01:01:54.097" end="01:01:55.757"/>
+      <p begin="01:01:55.757" end="01:01:57.691"/>
+      <p begin="01:01:57.691" end="01:01:59.753"/>
+      <p begin="01:01:59.753" end="01:02:01.879"/>
+      <p begin="01:02:01.879" end="01:02:03.841"/>
+      <p begin="01:02:05.201" end="01:02:09.263">S&#229; kommer vi 80-talets<br/>verklighetsbild.</p>
+      <p begin="01:02:09.410" end="01:02:13.204">Det fanns en stor v&#228;lfinansierad <br/>budskapsmaskin </p>
+      <p begin="01:02:13.204" end="01:02:17.964">av konservativa bankirer och<br/>de-immunisering av ordet 'liberal'.</p>
+      <p begin="01:02:18.218" end="01:02:21.826">Om du tog upp en motsatt syn, New World,<br/>en n&#228;sta icke Amerikans syn.</p>
+      <p begin="01:02:21.926" end="01:02:26.544">Vilka var m&#229;ltavlorna f&#246;r denna<br/>media maskin?</p>
+      <p begin="01:02:26.737" end="01:02:31.005">Kvinnor&#246;relsen och feminister f&#246;r att<br/>de ans&#229;gs vara</p>
+      <p begin="01:02:31.005" end="01:02:34.924">det st&#246;rsta hotet mot den sociala<br/>ordningen i Amerika under den tiden."</p>
+      <p begin="01:02:36.368" end="01:02:40.208" region="top"> Den feministiska agendan handlar inte<br/>om j&#228;mlikhet f&#246;r kvinnor. Det handlar om</p>
+      <p begin="01:02:40.208" end="01:02:43.726" region="top"> en socialistisk, anti familj politisk<br/>r&#246;relse</p>
+      <p begin="01:02:43.726" end="01:02:45.645" region="top"> som uppmuntrar kvinnor att ha</p>
+      <p begin="01:02:45.645" end="01:02:47.564" region="top"> makar, d&#246;da sina barn, ut&#246;va h&#228;xkonst,<br/>f&#246;rst&#246;ra kapitalismen</p>
+      <p begin="01:02:47.564" end="01:02:51.162" region="top"> och bli lesbiska" - Pat Roberton</p>
+      <p begin="01:02:51.162" end="01:02:54.622" region="top"> Kvinnors frig&#246;relse &#228;r ett &#246;verfall mot<br/>den Amerikanska kvinnans roll,</p>
+      <p begin="01:02:54.622" end="01:02:57.453" region="top"> som en hustru och mor till familjen</p>
+      <p begin="01:02:57.453" end="01:03:00.838" region="top"> som &#228;r grunden till enheten i samh&#228;llet.<br/>-Phyllis Schlafy</p>
+      <p begin="01:03:01.744" end="01:03:05.349" region="top"> "Amerikas nedg&#229;ng i v&#228;rldsmakten &#228;r ett<br/>direkt resultat av feministisk</p>
+      <p begin="01:03:05.349" end="01:03:07.379" region="top"> r&#246;relse f&#246;r reproduktiv frihet</p>
+      <p begin="01:03:07.379" end="01:03:09.701" region="top"> och j&#228;mlikhet." - The Christian Voice</p>
+      <p begin="01:03:10.776" end="01:03:16.694" region="top"> &#197;r 1982 b&#246;rjade The Equal Rights<br/>Amendment tappa bekr&#228;ftelse</p>
+      <p begin="01:03:16.786" end="01:03:20.828">-"Varje g&#229;ng du str&#228;var fram&#229;t i en kultur<br/>kommer det bli ett bakslag</p>
+      <p begin="01:03:20.828" end="01:03:23.682">som kommer att f&#246;rs&#246;ka g&#229; tillbaka<br/>eller f&#246;rs&#246;ka stoppa processen.</p>
+      <p begin="01:03:23.718" end="01:03:26.275">S&#229; det &#228;r en st&#228;ndig kamp mellan att<br/>f&#246;rs&#246;ka str&#228;va fram&#229;t</p>
+      <p begin="01:03:26.275" end="01:03:30.371">och avancera de m&#228;nskliga projekten,<br/>s&#229; som, lycka, j&#228;mst&#228;lldhet,</p>
+      <p begin="01:03:30.371" end="01:03:31.873">r&#228;ttvisa och allt annat.</p>
+      <p begin="01:03:31.873" end="01:03:34.328">Samtidigt som du f&#246;rs&#246;ker underh&#229;lla </p>
+      <p begin="01:03:34.328" end="01:03:38.090">en redan existerande maktstruktur d&#228;r<br/>sp&#228;nningen alltid &#228;r h&#246;g. </p>
+      <p begin="01:03:40.237" end="01:03:43.131">-"I b&#246;rjan p&#229; 80-talet under president<br/>Reagans order, </p>
+      <p begin="01:03:43.244" end="01:03:46.034">b&#246;rjave vi att avreglera media industrin i<br/>USA.</p>
+      <p begin="01:03:50.048" end="01:03:54.746">Samma m&#228;nniskor som v&#228;rderade<br/>familjelivet,</p>
+      <p begin="01:03:55.038" end="01:03:58.229">det var samma m&#228;nniskor som avreglerade<br/>media industrin."</p>
+      <p begin="01:03:58.889" end="01:04:01.412">Ordf&#246;rande f&#246;r FCC, Mark Fowler,</p>
+      <p begin="01:04:01.412" end="01:04:04.370">h&#228;nvisade till att TV apparaten</p>
+      <p begin="01:04:04.370" end="01:04:09.103">bara var en till h&#229;rdvara och d&#228;rf&#246;r<br/>skulle regleras</p>
+      <p begin="01:04:09.103" end="01:04:12.478">eller inte bli reglerade p&#229; samma s&#228;tt som<br/>br&#246;drostar och diskmaskiner,</p>
+      <p begin="01:04:12.478" end="01:04:15.745">men vi pratar om bilder och budskap som<br/>formar</p>
+      <p begin="01:04:15.745" end="01:04:18.204">hela v&#229;rt samh&#228;lle och kultur.</p>
+      <p begin="01:04:18.712" end="01:04:20.862">S&#229; att avreglera dessa strukturer</p>
+      <p begin="01:04:20.862" end="01:04:25.490">som &#246;vervakar det, ledde till en hel del<br/>konsekvenser som inte s&#229;gs komma</p>
+      <p begin="01:04:25.490" end="01:04:27.552">n&#228;r det g&#228;llde budskap och bilder<br/>f&#246;r unga,</p>
+      <p begin="01:04:27.552" end="01:04:29.338">speciellt f&#246;r tjejer och unga kvinnor.</p>
+      <p begin="01:04:29.820" end="01:04:31.848">Det du s&#229;g var mer och mer<br/>inneh&#229;ll,</p>
+      <p begin="01:04:31.848" end="01:04:35.765">f&#228;rre och f&#228;rre begr&#228;nsningar p&#229;<br/>inneh&#229;llet och en standard som sj&#246;nk.</p>
+      <p begin="01:04:36.499" end="01:04:38.915">S&#229; n&#228;r det kom till Telecomm Act &#229;r 1996</p>
+      <p begin="01:04:38.915" end="01:04:42.591">hade du chansen att omreglera</p>
+      <p begin="01:04:42.591" end="01:04:45.753">media industrin. Men faktum &#228;r den<br/>att inget h&#228;nde.</p>
+      <p begin="01:04:46.913" end="01:04:51.219">Vi har enorma f&#246;retag som<br/>kontrollerar TV,</p>
+      <p begin="01:04:51.219" end="01:04:55.214">radio, kabel TV, nyhetstidningar,<br/>biografer, teatrar och n&#246;jesparker.</p>
+      <p begin="01:04:55.296" end="01:04:59.639">Stor del makt i detta land och det mesta<br/>gytter</p>
+      <p begin="01:04:59.639" end="01:05:03.578">som opererar med ett &#246;ga &#246;ppet och<br/>&#228;r fokuserade p&#229; en sak</p>
+      <p begin="01:05:03.578" end="01:05:06.295">ist&#228;llet f&#246;r en r&#228;ttvis och<br/>balanserad rapport.</p>
+      <p begin="01:05:06.549" end="01:05:08.876">-"P&#229; Fox News har du Bill O'Reilly,</p>
+      <p begin="01:05:08.876" end="01:05:14.065">som utvecklar en hel strategi som g&#229;r ut<br/>p&#229; att enbart visa sensationella nyheter</p>
+      <p begin="01:05:14.065" end="01:05:18.622">bara f&#246;r att s&#228;lja oss saker och sedan<br/>alla de stora nyhets utloppen</p>
+      <p begin="01:05:18.622" end="01:05:22.909">p&#229; kavel TV f&#246;rs&#246;ker t&#228;vla med varandra,<br/>s&#229; den som f&#229;r skrika h&#246;gst</p>
+      <p begin="01:05:22.909" end="01:05:26.524">f&#246;rblir standarden f&#246;r nyhets ut&#246;varna."</p>
+      <p begin="01:05:26.928" end="01:05:29.805">-"Jag skulle kunna leverera samma manus<br/>med samma grafik</p>
+      <p begin="01:05:29.805" end="01:05:32.748">i samma studio med samma kl&#228;der</p>
+      <p begin="01:05:32.748" end="01:05:34.452">men p&#229; tv&#229; olika dagar.</p>
+      <p begin="01:05:34.452" end="01:05:36.787">Jag skulle kunna leverera det s&#229;h&#228;r eller,<br/>"Jag skulle kunna leverera det s&#229;h&#228;r!</p>
+      <p begin="01:05:36.787" end="01:05:39.737">Och om jag levererar det s&#229;h&#228;r s&#229; kommer<br/>jag f&#229; dubbelt s&#229; m&#229;nga tittare.</p>
+      <p begin="01:05:40.203" end="01:05:41.780">Okej, s&#229; det &#228;r d&#228;rf&#246;r folk skriker.</p>
+      <p begin="01:05:41.780" end="01:05:43.869">-"Jag vet att den kommentaren &#228;r sexistisk<br/>Det &#228;r det verkligen."</p>
+      <p begin="01:05:43.869" end="01:05:45.510">-"men det ligger sanning i det."</p>
+      <p begin="01:05:45.643" end="01:05:51.602">-"Den &#246;kande d&#246;mmandet i Amerika &#228;r<br/>en kraftig tillsats till sexism</p>
+      <p begin="01:05:51.685" end="01:05:53.542">och &#228;r partisk i media.</p>
+      <p begin="01:05:53.542" end="01:05:59.420">Ocks&#229; f&#246;rvirring av vad som &#228;r fakta och<br/>vad som &#228;r tanke.</p>
+      <p begin="01:05:59.856" end="01:06:02.577">-"Du har mindre minuter dedikerade till</p>
+      <p begin="01:06:02.577" end="01:06:07.881">en str&#228;van efter stark, sj&#228;lvst&#228;ndig,<br/>l&#229;ngsiktigt unders&#246;kande journalistik. </p>
+      <p begin="01:06:08.068" end="01:06:12.179">Mer minuter dedikerat varje &#229;r till<br/>k&#228;ndis nyheter och skvaller.</p>
+      <p begin="01:06:12.285" end="01:06:13.825">Varf&#246;r?<br/>F&#246;r att det &#228;r billigt.</p>
+      <p begin="01:06:14.022" end="01:06:19.057">Femton &#229;r sedan skulle det vara osannolikt<br/>f&#246;r Britney Spears underkl&#228;der</p>
+      <p begin="01:06:19.057" end="01:06:21.503">att hamna p&#229; f&#246;rsta rubrikerna hos CNN.</p>
+      <p begin="01:06:21.758" end="01:06:23.359">-"Jag vill b&#246;rja med Paris Hilton<br/>historien</p>
+      <p begin="01:06:23.359" end="01:06:25.089">-"Nej, vet du vad?"<br/>"Vet du vad som f&#246;rseg&#229;r med Paris?"</p>
+      <p begin="01:06:25.089" end="01:06:27.641">-"Det vet min producent ocks&#229;, Andy Jones<br/>lyssnar inte p&#229; mig.</p>
+      <p begin="01:06:27.641" end="01:06:29.486">Han har utsett oss ledningen.<br/>Lyssna, jag tror bara inte p&#229; </p>
+      <p begin="01:06:29.486" end="01:06:31.900">att t&#228;cka den historian, speciellt inte<br/>som en huvudrubrik.</p>
+      <p begin="01:06:31.900" end="01:06:34.082">Inom nyheterna n&#228;r du har "dagens nyheter"</p>
+      <p begin="01:06:34.082" end="01:06:37.438">-"Kan vi visa lite bilder av Paris?<br/>"Nej! Nej, det kan vi inte"</p>
+      <p begin="01:06:37.438" end="01:06:38.495">-"Vi har Paris g&#229;ende fr&#229;n f&#228;ngelse<br/>ig&#229;r kv&#228;ll."</p>
+      <p begin="01:06:38.495" end="01:06:40.953">-"S&#229; nej, Jag t&#228;nker g&#246;ra nyheter nu."</p>
+      <p begin="01:06:40.953" end="01:06:43.475">-"Jag har inte kastat det. D&#228;r &#228;r hon".<br/>"Kolla p&#229; den struttan."</p>
+      <p begin="01:06:43.475" end="01:06:46.219">-"&#197;h titta p&#229; henne. Hon &#228;r s&#229; &#246;dmjuk."<br/>"Som en reformerad kvinna."</p>
+      <p begin="01:06:46.219" end="01:06:48.079">-"Jag hon blev reformerad."<br/>"Hon &#228;r blyg."</p>
+      <p begin="01:06:48.079" end="01:06:50.078">-"Okej, till nyheterna nu."<br/>"f&#246;r att hon hittade Jesus."</p>
+      <p begin="01:06:50.570" end="01:06:52.870">-"Bara m&#229;nader efter n&#228;r Telecomm '96<br/>hade godk&#228;nnts,</p>
+      <p begin="01:06:52.870" end="01:06:56.412">Debuterade b&#229;de Access Hollywood<br/>och E! news.</p>
+      <p begin="01:06:56.512" end="01:07:00.379">De &#228;r de tv&#229; mest fett skamliga,<br/>informationsk&#228;llor</p>
+      <p begin="01:07:00.379" end="01:07:05.494">vi har idag, d&#228;r de f&#246;ljer kvinnor som<br/>&#228;ter muffins</p>
+      <p begin="01:07:05.494" end="01:07:09.264">som sedan blir incirklade med grafik och<br/>pekar p&#229; dem &#229; s&#228;ger,</p>
+      <p begin="01:07:09.264" end="01:07:13.100">"Bebismage? &#196;r de gravida? Nej. F&#246;rl&#229;t.<br/>Hon &#229;t just en bakelse.</p>
+      <p begin="01:07:13.100" end="01:07:16.752">"Efter att s&#229;ngerskan har framf&#246;rt i<br/>hennes erk&#228;nda Daisy Duke jeans shorts</p>
+      <p begin="01:07:16.752" end="01:07:21.316">och visat en o&#246;nskad putmage. Folket<br/>tvingades till att se Jess rips,</p>
+      <p begin="01:07:21.316" end="01:07:23.102">'Hon &#228;r inte gravid'"</p>
+      <p begin="01:07:23.673" end="01:07:27.330">-"Denna bem&#228;rkelse att media f&#246;retag<br/>bara ger oss vad vi beg&#228;r.</p>
+      <p begin="01:07:27.330" end="01:07:29.929">Nej. De ger oss vad media f&#246;retagen vill.</p>
+      <p begin="01:07:29.929" end="01:07:31.814">De ger oss vad annons&#246;rerna vill och de</p>
+      <p begin="01:07:31.814" end="01:07:36.173">paketerar det p&#229; ett s&#228;tt som f&#229;r det<br/>att l&#229;ta som att det &#228;r v&#229;rt fel."</p>
+      <p begin="01:07:38.429" end="01:07:41.127">-"Det &#228;r f&#246;rsta g&#229;ngen i m&#228;nsklig<br/>historia som</p>
+      <p begin="01:07:41.127" end="01:07:45.577">marknadsf&#246;rare har dikterat v&#229;ra<br/>kulturella normer och v&#228;rden.</p>
+      <p begin="01:07:45.577" end="01:07:48.759">Det har gjort det m&#246;jligt genom<br/>avreglering inom reklambranschen</p>
+      <p begin="01:07:48.759" end="01:07:50.817">som skedde under 70 och 80-talet.</p>
+      <p begin="01:07:51.077" end="01:07:54.060" region="top"> &#197;r 1980 f&#246;rsvagade kongressen <br/>Federal Trade Commission</p>
+      <p begin="01:07:54.060" end="01:07:57.303" region="top"> f&#246;r att stoppa "or&#228;ttvis"marknadsf&#246;ring.</p>
+      <p begin="01:07:57.350" end="01:08:00.517">F&#246;r att sedan forts&#228;tta avreglera i b&#246;rjan<br/>av 90-talet.</p>
+      <p begin="01:08:00.517" end="01:08:05.451" region="top"> &#197;r 1990 studier visar att en stadig &#246;kning<br/>av tydliga sexuella bilder inom reklam.</p>
+      <p begin="01:08:05.621" end="01:08:07.745">-"Det h&#228;r handlar bara om<br/>kapitalism. </p>
+      <p begin="01:08:07.745" end="01:08:10.715">TV industrin &#228;r riktad mot m&#228;n<br/>mellan 18 och 34 &#229;r</p>
+      <p begin="01:08:10.715" end="01:08:14.623">f&#246;r att det &#228;r sv&#229;rare att f&#229; m&#228;n att<br/>titta p&#229; TV.</p>
+      <p begin="01:08:14.712" end="01:08:20.465">Kvinnor tittar p&#229; TV s&#229; att annons&#246;rerna<br/>kan uppmuntra n&#228;tverken till att</p>
+      <p begin="01:08:20.465" end="01:08:25.512">komma p&#229; program f&#246;r m&#228;n mellan 18 och<br/>34 &#229;r s&#229; de kan s&#228;lja dem deras produkter.</p>
+      <p begin="01:08:25.749" end="01:08:27.381">-"H&#228;rligt"<br/>-"Hat!"</p>
+      <p begin="01:08:27.381" end="01:08:29.889">-"Mer fyllning."<br/>-"Underbar smak!"</p>
+      <p begin="01:08:29.889" end="01:08:35.260">Utnyttjande av kvinnors kroppar s&#228;ljer<br/>produkter, tidningar osv.</p>
+      <p begin="01:08:35.260" end="01:08:39.119">-"Kan du &#246;ppna den h&#228;r?"<br/>-"Sj&#228;lvklart."</p>
+      <p begin="01:08:42.730" end="01:08:46.799"/>
+      <p begin="01:08:46.800" end="01:08:49.971">Det har varit vissa diskussioner om att<br/>annons&#246;rerna</p>
+      <p begin="01:08:49.971" end="01:08:53.414">&#228;r sj&#228;lva m&#228;n mellan 18 och 34 &#229;r.</p>
+      <p begin="01:08:53.952" end="01:08:57.660">De s&#228;ger att det &#228;r s&#229;dana<br/>program de vill ha.</p>
+      <p begin="01:08:58.143" end="01:09:00.726">Om du visar en kvinna l&#228;ttkl&#228;dd</p>
+      <p begin="01:09:00.726" end="01:09:04.792">kanske finns det en chans att f&#229; fler<br/>tittare till programmet.</p>
+      <p begin="01:09:05.035" end="01:09:07.052">-"Just nu &#228;r anonns&#246;rerna verkligen</p>
+      <p begin="01:09:07.052" end="01:09:10.485">det b&#228;sta s&#228;ttet att st&#246;tta ett<br/>f&#246;retag p&#229; internet.</p>
+      <p begin="01:09:10.657" end="01:09:12.659">-"Klicka p&#229; mig och l&#229;t<br/>f&#246;rest&#228;llningen b&#246;rja."</p>
+      <p begin="01:09:12.974" end="01:09:16.267">Ibland &#228;r det som lockar flest &#246;gon<br/></p>
+      <p begin="01:09:16.267" end="01:09:20.113">&#228;r n&#229;got som kan vara lite<br/>mer oanst&#228;ndigt.</p>
+      <p begin="01:09:20.113" end="01:09:22.619"/>
+      <p begin="01:09:22.619" end="01:09:24.549">-"P&#229; den gamla tiden brukade <br/>det finnas n&#229;got som hette</p>
+      <p begin="01:09:24.549" end="01:09:26.755">familjetimmen, som var frivillig<br/>&#246;verenskommelse</p>
+      <p begin="01:09:26.755" end="01:09:29.596">med de tre uts&#228;ndningsn&#228;tverken.<br/>Kommer du ih&#229;g dem dagarna? </p>
+      <p begin="01:09:29.808" end="01:09:33.276">N&#228;r du inte kunde s&#228;nda n&#229;got oanst&#228;ndigt<br/>f&#246;r barn och familjer</p>
+      <p begin="01:09:33.276" end="01:09:37.080">f&#246;re klockan 21:00, i geng&#228;ld f&#246;r de<br/>fria stunderna</p>
+      <p begin="01:09:37.080" end="01:09:40.290">s&#229; k&#228;nde dem att de hade ett stort<br/>intresse f&#246;r allm&#228;nheten.<br/></p>
+      <p begin="01:09:40.290" end="01:09:42.641">Det &#228;r faktiskt verkst&#228;lld av<br/>Federal Communications Commission,</p>
+      <p begin="01:09:42.641" end="01:09:46.334">FCC. Som inte finns idag. Punkt slut.</p>
+      <p begin="01:09:46.334" end="01:09:48.939">Idag &#228;r det som vilda v&#228;stern. <br/>Det &#228;r fritt fram f&#246;r alla. </p>
+      <p begin="01:09:48.939" end="01:09:52.261">Det finns ingen vett bland folk som styr<br/>media och teknologi industrin.</p>
+      <p begin="01:09:52.323" end="01:09:55.061">Undantaget &#228;r kanske &#228;ldre programf&#246;retag</p>
+      <p begin="01:09:55.061" end="01:09:56.453">som kommer ih&#229;g de gamla<br/>goda tiderna</p>
+      <p begin="01:09:56.453" end="01:09:58.463">d&#228;r de hade en skyldighet gentemot<br/>allm&#228;nheten.</p>
+      <p begin="01:09:58.816" end="01:10:02.831" region="top"> "Idag har vi ingen skyldighet till att<br/>g&#246;ra historia eller skapa konst.</p>
+      <p begin="01:10:02.831" end="01:10:05.293" region="top"> Vi har ingen skyldighet att g&#246;ra ett<br/>uttalande.</p>
+      <p begin="01:10:05.293" end="01:10:08.470" region="top"> Att tj&#228;na pengar &#228;r det enda objektivet.<br/>-Michael Eisner</p>
+      <p begin="01:10:09.146" end="01:10:11.559">-"Det &#228;r en myt att vi lever i,<br/></p>
+      <p begin="01:10:11.559" end="01:10:15.498">under och med en media som &#228;r demoratisk."</p>
+      <p begin="01:10:16.127" end="01:10:18.252">-"N&#228;r det kommer till politiken i det h&#228;r</p>
+      <p begin="01:10:18.252" end="01:10:22.947">s&#229; har lagstiftare varit fr&#229;nvarande<br/>de senaste 25 &#229;ren.</p>
+      <p begin="01:10:23.034" end="01:10:24.451">Ute ur bilden.</p>
+      <p begin="01:10:24.451" end="01:10:26.116" region="top"> &#197;r 1972 rapporterar h&#228;lsoministern</p>
+      <p begin="01:10:26.116" end="01:10:27.964" region="top"> att det finns en koppling mellan<br/>v&#229;ld p&#229; TV och aggressivt beteende.</p>
+      <p begin="01:10:28.040" end="01:10:29.847" region="top"> &#197;r 1976 meddelar<br/>American Medical Association</p>
+      <p begin="01:10:29.847" end="01:10:31.661" region="top"> att v&#229;ld p&#229; TV &#228;r en "h&#228;lsofara"</p>
+      <p begin="01:10:31.677" end="01:10:33.855" region="top"> &#197;r 1982 s&#228;ger National Institute of Mental<br/>Healt att det finns en klar koppling</p>
+      <p begin="01:10:33.855" end="01:10:36.145" region="top"> mellan v&#229;ld p&#229; TV och aggression.</p>
+      <p begin="01:10:36.145" end="01:10:38.175" region="top"> &#197;r 1985 visar American Psychological<br/>Association</p>
+      <p begin="01:10:38.175" end="01:10:40.004" region="top"> visar en koppling mellan v&#229;ld p&#229; <br/>TV och v&#229;ld i verkligheten</p>
+      <p begin="01:10:40.004" end="01:10:41.492" region="top"> &#197;r 1992 visar<br/>American Psychological Association</p>
+      <p begin="01:10:41.508" end="01:10:43.089" region="top"> efterlyser federal policy f&#246;r att skydda<br/>samh&#228;llet</p>
+      <p begin="01:10:43.089" end="01:10:44.735" region="top"> n&#228;r forskningen om v&#229;ld ignoreras</p>
+      <p begin="01:10:44.735" end="01:10:47.331" region="top"> &#197;r 2004 finner<br/>The Centers for Disease Control</p>
+      <p begin="01:10:47.331" end="01:10:49.421" region="top"> att v&#229;ld inom media &#246;kar<br/>v&#229;ld i verkligheten</p>
+      <p begin="01:10:49.421" end="01:10:53.447" region="top"> &#197;r 2007 rekommenderar FCC enh&#228;lligt att<br/>kongressen ska reglera TV v&#229;ldet</p>
+      <p begin="01:10:53.493" end="01:10:55.875" region="top"> &#197;r 2007 h&#229;ller kongressen i<br/>ett speciellt m&#246;te om</p>
+      <p begin="01:10:55.875" end="01:10:59.349" region="top"> kvinnors sexualisering i musikvideor</p>
+      <p begin="01:10:59.379" end="01:11:02.530" region="top"> &#197;r 2009 visar studier att indirekt<br/>exponering av sex inom video och tv-spel</p>
+      <p begin="01:11:02.530" end="01:11:05.956" region="top"> &#228;r kopplat till m&#228;ns accepterande av<br/>v&#229;ldt&#228;ktsmyter och sexuellt ofredande</p>
+      <p begin="01:11:06.017" end="01:11:10.182" region="top"> Trots allt detta,<br/>har inte n&#229;gon f&#246;r&#228;ndring skett</p>
+      <p begin="01:11:10.524" end="01:11:12.687">-"Du har en situation d&#228;r lagstiftarna</p>
+      <p begin="01:11:12.687" end="01:11:15.419">som du hoppas p&#229; representerar<br/>den breda allm&#228;nheten</p>
+      <p begin="01:11:15.419" end="01:11:18.376">&#228;r i mening,<br/>jag hatar att &#246;ver betona det men </p>
+      <p begin="01:11:18.376" end="01:11:20.628">&#228;r till det mesta &#228;gda av media<br/>industrin.</p>
+      <p begin="01:11:20.837" end="01:11:23.522">F&#246;r att deras framtid som politiker<br/>h&#228;nger p&#229;</p>
+      <p begin="01:11:23.522" end="01:11:26.668">vad media t&#228;cker och deras tillg&#229;ng<br/>till att k&#246;pa tid</p>
+      <p begin="01:11:26.668" end="01:11:28.823">hos dessa media stationer n&#228;r det<br/>&#228;r med i valet. </p>
+      <p begin="01:11:31.545" end="01:11:34.343">Media har inte h&#229;llts skyldiga av v&#229;ra<br/>f&#246;rtroendevalda<br/></p>
+      <p begin="01:11:34.343" end="01:11:37.264">och det &#228;r inte ett liberalt eller<br/>konservativt problem, </p>
+      <p begin="01:11:37.268" end="01:11:39.886">det &#228;r ett Amerikanskt problem.</p>
+      <p begin="01:11:40.104" end="01:11:41.785">-"Utan media</p>
+      <p begin="01:11:41.785" end="01:11:43.368">som &#228;r offentligt ansvariga,</p>
+      <p begin="01:11:43.368" end="01:11:46.682">det du f&#229;r &#228;r inte bara brett och inneh&#229;ll<br/>partisk,</p>
+      <p begin="01:11:46.994" end="01:11:51.204"> men ocks&#229; en helt otillg&#228;nglig<br/>offentlig samtal.</p>
+      <p begin="01:11:51.435" end="01:11:52.981">-"Under m&#229;nga &#229;r har media industrin</p>
+      <p begin="01:11:52.981" end="01:11:55.992">g&#246;mt sig bakom censur st&#228;mpeln.</p>
+      <p begin="01:11:56.194" end="01:11:59.064">Det &#228;r inte censur att s&#228;ga<br/>att media bolag</p>
+      <p begin="01:11:59.064" end="01:12:02.842">som producerar bilder eller hemsidor<br/>som &#228;r kr&#228;nkande</p>
+      <p begin="01:12:02.842" end="01:12:05.628">och riktigt oanst&#228;ndiga. Det &#228;r k&#228;rnan<br/>i yttrandefrihet. </p>
+      <p begin="01:12:05.832" end="01:12:10.163">Men i en v&#228;rld d&#228;r det finns miljontals<br/>kanaler, f&#246;rs&#246;ker folk</p>
+      <p begin="01:12:10.163" end="01:12:12.926">g&#246;ra mer shockerande saker f&#246;r att<br/>bryta sig igenom all denna r&#246;ra.</p>
+      <p begin="01:12:12.962" end="01:12:14.847">Oftast genom att visa v&#229;ldsamma bilder</p>
+      <p begin="01:12:14.847" end="01:12:18.107">eller sexuellt ofredande bilder eller<br/>kr&#228;nkande bilder</p>
+      <p begin="01:12:18.107" end="01:12:19.942">f&#246;r att de vet att de kommer att<br/>f&#229; din uppm&#228;rksamhet.</p>
+      <p begin="01:12:20.138" end="01:12:24.482">Problemet &#228;r den att barn &#228;r utsatta<br/>f&#246;r detta utan n&#229;gon som helst medling."</p>
+      <p begin="01:12:30.641" end="01:12:34.934">-"Dessa bilder &#228;r en del av det kulturella<br/>klimat d&#228;r kvinnan</p>
+      <p begin="01:12:34.934" end="01:12:37.248">ses som ett objekt.</p>
+      <p begin="01:12:37.248" end="01:12:42.104">Att f&#246;rvandla m&#228;nniskan till ett objekt<br/>&#228;r alltid de f&#246;rsta stegen</p>
+      <p begin="01:12:42.104" end="01:12:44.483">mot att r&#228;ttf&#228;rdiga v&#229;ld mot den personen.</p>
+      <p begin="01:12:56.100" end="01:12:59.906" region="top"> 13 &#229;rig flicka blev gruppv&#229;ldtagen<br/>av tre klasskamrater</p>
+      <p begin="01:12:59.906" end="01:13:03.244" region="top"> 7 &#229;rig flicka blev v&#229;ldtagen p&#229; skolbussen<br/>av en ton&#229;ring</p>
+      <p begin="01:13:03.244" end="01:13:07.083" region="top"> Tv&#229; &#229;rig flicka blev v&#229;ldtagen p&#229; SeaWorld</p>
+      <p begin="01:13:21.253" end="01:13:25.022" region="top"> 1 av 4 tjejer upplever v&#229;ld<br/>n&#228;r de &#228;r p&#229; dejt</p>
+      <p begin="01:13:26.267" end="01:13:30.762" region="top"> 1 av 4 tjejer blir misshandlade av sin<br/>partner n&#229;gon g&#229;ng</p>
+      <p begin="01:13:30.762" end="01:13:35.403" region="top"> 1 av 6 kvinnor har &#246;verlevt v&#229;ldt&#228;ckt<br/>eller f&#246;rs&#246;k till v&#229;ldt&#228;ckt</p>
+      <p begin="01:13:35.617" end="01:13:41.174" region="top"> 15% av v&#229;ldt&#228;cktsoffer &#228;r under<br/>12 &#229;r</p>
+      <p begin="01:13:42.480" end="01:13:44.588" region="top"> V&#229;lt&#228;cktsoffer &#228;r mer ben&#228;gna att lida<br/>av depression</p>
+      <p begin="01:13:44.588" end="01:13:48.438" region="top"> V&#229;ld, alkhohol och droger begrundar<br/>sj&#228;lvmord</p>
+      <p begin="01:13:53.142" end="01:13:56.349">-"Om oddsen &#228;r emot unga kvinnor</p>
+      <p begin="01:13:57.328" end="01:14:00.878">hur ska de n&#229; upp till deras potential<br/>och bli ledare?</p>
+      <p begin="01:14:03.849" end="01:14:07.587">Vi kan inte ignorera hur media p&#229;verkar<br/>v&#229;r kultur</p>
+      <p begin="01:14:08.246" end="01:14:11.918">och skadar b&#229;de v&#229;ra d&#246;tter och s&#246;ner.</p>
+      <p begin="01:14:14.024" end="01:14:19.035" region="top"> 1 av 18 m&#228;n i USA &#228;r bakom galler<br/>eller &#246;vervakade</p>
+      <p begin="01:14:19.251" end="01:14:21.509">-"Vi m&#229;ste hj&#228;lpa v&#229;ra pojkar n&#228;r de<br/>v&#228;ldigt unga.</p>
+      <p begin="01:14:21.509" end="01:14:24.295">Fem eller sex &#229;r, precis innan de<br/>b&#246;rjar skolan.</p>
+      <p begin="01:14:24.295" end="01:14:29.030">Hj&#228;lpa dem att inte skildra deras hj&#228;rnor<br/>fr&#229;n deras hj&#228;rtan</p>
+      <p begin="01:14:29.030" end="01:14:32.131">och inte bli k&#228;nslom&#228;ssigt kall</p>
+      <p begin="01:14:32.131" end="01:14:35.536">och k&#228;nna att de inte kan visa sina<br/>k&#228;nslor eller gr&#229;ta.</p>
+      <p begin="01:14:35.536" end="01:14:38.904">Att de inte kan uttrycka k&#228;rlek."</p>
+      <p begin="01:14:39.851" end="01:14:42.111">Om en man blir l&#228;rd till att tro<br/>att han &#228;r smartare &#228;n en kvinna,</p>
+      <p begin="01:14:42.111" end="01:14:43.479">att han ska ha mer pengar &#228;n en kvinna,</p>
+      <p begin="01:14:43.479" end="01:14:45.430">och att han ska ha mer respekt &#228;n<br/>en kvinna</p>
+      <p begin="01:14:45.430" end="01:14:47.044">s&#229; st&#228;mmer det inte &#246;verens med<br/>verkligheten</p>
+      <p begin="01:14:47.044" end="01:14:50.927">f&#246;r att hans chef kan vara en kvinna eller<br/>s&#229; kan hans l&#228;kare vara en kvinna.</p>
+      <p begin="01:14:50.927" end="01:14:52.910">En kvinna kanske tj&#228;nar mer &#228;n honom.</p>
+      <p begin="01:14:52.910" end="01:14:55.005">Tjejen som sitter bredvid i klassrummet<br/>kanske &#228;r smartare &#228;n honom."</p>
+      <p begin="01:14:55.005" end="01:14:56.919">Vad betyder det att vara man?</p>
+      <p begin="01:14:57.131" end="01:15:04.078">-"Om killar inte visar sina maskulina<br/>sidor s&#229; blir de kritiserade</p>
+      <p begin="01:15:05.400" end="01:15:10.472">och de blir betraktade som en<br/>mindre man."</p>
+      <p begin="01:15:10.539" end="01:15:12.239">-"S&#229; hur f&#246;rv&#228;ntar vi oss att v&#229;ra<br/>s&#246;ner</p>
+      <p begin="01:15:12.239" end="01:15:14.472">ska v&#228;xa upp till att bli m&#228;n<br/>av integritet och handling</p>
+      <p begin="01:15:14.472" end="01:15:18.289">och att vara socialt r&#228;ttvisa och behandla<br/>kvinnor med respekt,</p>
+      <p begin="01:15:18.289" end="01:15:20.622">att s&#228;ga ifr&#229;n n&#228;r de ser en kvinna blir<br/>respektl&#246;st behandlad,<br/></p>
+      <p begin="01:15:20.622" end="01:15:22.330">om de inte ser sina pappor g&#246;ra n&#229;got,</p>
+      <p begin="01:15:22.330" end="01:15:24.152">om de inte ser m&#228;n i samh&#228;llet<br/>g&#246;ra n&#229;got &#229;t saken</p>
+      <p begin="01:15:24.152" end="01:15:28.563">s&#229; &#228;r det inte r&#228;ttvist att l&#228;gga &#246;ver<br/>det p&#229; pojkar eller unga m&#228;n.</p>
+      <p begin="01:15:28.563" end="01:15:30.977">&#196;ven fast det inte r&#229;der n&#229;gra tvivel<br/>om att de &#228;r en del av l&#246;sningen.</p>
+      <p begin="01:15:30.977" end="01:15:32.715">Det handlar om vuxna m&#228;n."</p>
+      <p begin="01:15:32.895" end="01:15:35.928">-"Jag &#228;r definitivt inte f&#246;r</p>
+      <p begin="01:15:36.428" end="01:15:40.896">av att vara en &#246;ver maskulin eller<br/>kvinnofientlig stereotyp.</p>
+      <p begin="01:15:43.033" end="01:15:48.287">Det s&#228;tter en del press p&#229; mig<br/>n&#228;r jag har sl&#228;ktingar som v&#228;xer upp</p>
+      <p begin="01:15:48.287" end="01:15:53.299">med detta fenomen och f&#246;rs&#246;ker s&#228;tta<br/>mig p&#229; samma v&#228;g</p>
+      <p begin="01:15:53.299" end="01:15:54.685">men jag &#228;r inte redo f&#246;r det."</p>
+      <p begin="01:15:54.785" end="01:15:57.787">-"Jag kommer ih&#229;g n&#228;r jag satt ner<br/>och diskuterade detta med en kvinna</p>
+      <p begin="01:15:57.787" end="01:16:00.872">som var mycket klokare &#228;n mig,<br/>historier som delades.</p>
+      <p begin="01:16:00.872" end="01:16:05.003">"&#197;h vad hemskt det &#228;r f&#246;r kvinnor i<br/>Amerika, hon bara tittade p&#229; mig</p>
+      <p begin="01:16:05.003" end="01:16:06.657">och lyssnade ett tag innan hon sa,</p>
+      <p begin="01:16:06.657" end="01:16:07.692">"Jadu Cory, jag m&#229;ste s&#228;ga dig att</p>
+      <p begin="01:16:07.692" end="01:16:09.851">jag faktiskt tycker att det &#228;r riktigt<br/>illa f&#246;r f&#246;r m&#228;n i Amerika."</p>
+      <p begin="01:16:09.851" end="01:16:11.608">Jag sa, "Vad menar du?"<br/>Hon b&#246;rjade prata med mig</p>
+      <p begin="01:16:11.608" end="01:16:15.461">och verkligen betonade hur emotionellt </p>
+      <p begin="01:16:15.461" end="01:16:17.459">f&#246;rstoppade m&#228;n hade l&#228;rts att vara<br/>fr&#229;n en v&#228;ldigt tidig &#229;lder,</p>
+      <p begin="01:16:18.689" end="01:16:23.494">hur vi inte har l&#228;rt oss att uttrycka<br/>oss p&#229; ett h&#228;lsosamt s&#228;tt.</p>
+      <p begin="01:16:23.494" end="01:16:28.364">Det manifesterar sig oftast i en hemsk<br/>och v&#229;ldsam v&#228;g.</p>
+      <p begin="01:16:28.509" end="01:16:32.452">Hon pratade om ett sj&#228;lsligt l&#228;kande<br/>killar beh&#246;ver."</p>
+      <p begin="01:16:43.636" end="01:16:45.320">-"Jag har f&#246;rs&#246;kt f&#246;rest&#228;lla mig</p>
+      <p begin="01:16:45.320" end="01:16:47.967">en b&#228;tre v&#228;rld f&#246;r min dotters generation.</p>
+      <p begin="01:16:49.078" end="01:16:51.242">Jag b&#246;rjar f&#229; vissa id&#233;er.</p>
+      <p begin="01:16:51.869" end="01:16:53.843">"Antalet h&#246;gt uppsata kvinnor &#228;r</p>
+      <p begin="01:16:53.843" end="01:16:56.508">fortfarande v&#228;ldigt l&#229;gt i v&#229;rt land."</p>
+      <p begin="01:16:57.288" end="01:16:59.963">Vi m&#229;ste hitta ett s&#228;tt att &#228;ndra<br/>denna kultur.</p>
+      <p begin="01:17:00.892" end="01:17:03.560">Vi m&#229;ste skifta v&#229;r fokus fr&#229;n<br/>det negativa</p>
+      <p begin="01:17:03.560" end="01:17:07.263">till ett socialt ansvarstagande.<br/>Vi m&#229;ste utmana</p>
+      <p begin="01:17:07.263" end="01:17:09.691">media hopgyttringen att v&#228;rdera kvinnor</p>
+      <p begin="01:17:09.691" end="01:17:12.947">men &#228;n bara deras unga &#229;lder, sk&#246;nhet<br/>och sexualitet.</p>
+      <p begin="01:17:13.319" end="01:17:15.889">Vi m&#229;ste h&#229;lla dessa f&#246;retag<br/>ansvariga.</p>
+      <p begin="01:17:17.108" end="01:17:18.283">Vi m&#229;ste uppmuntra kvinnor</p>
+      <p begin="01:17:18.283" end="01:17:21.611">att uppt&#228;cka deras sanna kraft s&#229; de kan<br/>bli ledare</p>
+      <p begin="01:17:22.127" end="01:17:23.872">och vi m&#229;ste verkligen st&#246;tta dem<br/>&#228;ngs v&#228;gen.</p>
+      <p begin="01:17:24.180" end="01:17:28.100" region="top"> 70% av kvinnor i arbetslivet &#228;r m&#246;drar</p>
+      <p begin="01:17:28.100" end="01:17:32.357" region="top"> &#228;nd&#229; sa har vi inte betald<br/>familjeunderh&#229;ll, barnbidrag eller OB.</p>
+      <p begin="01:17:32.434" end="01:17:37.307">Det ultimate &#228;r att leva efter den vision<br/>vi har av vad en kvinna kan bli.</p>
+      <p begin="01:17:37.398" end="01:17:40.904" region="top"> Var f&#246;r&#228;ndringen du vill se i denna v&#228;rld.</p>
+      <p begin="01:17:40.904" end="01:17:43.933" region="top"> -Mahatma Gandhi</p>
+      <p begin="01:17:44.324" end="01:17:47.635">"Vi g&#246;r ett stort misstag n&#228;r vi s&#228;ger<br/>att man m&#229;ste hitta</p>
+      <p begin="01:17:47.635" end="01:17:49.635">en f&#246;rebild som efterliknar en sj&#228;lv.</p>
+      <p begin="01:17:50.556" end="01:17:55.403">Om min gode v&#228;n Sally Ride, den f&#246;rsta<br/>kvinnliga astronauten hade v&#228;ntat</p>
+      <p begin="01:17:55.403" end="01:18:00.086">p&#229; en kvinnlig astronaut f&#246;rebild hade hon<br/>aldrig blivit det.</p>
+      <p begin="01:18:00.620" end="01:18:03.744">S&#229; jag tror starkt p&#229; att f&#246;rs&#246;ka hitta<br/>f&#246;reblider</p>
+      <p begin="01:18:03.744" end="01:18:05.481">vart du &#228;n kan.</p>
+      <p begin="01:18:05.481" end="01:18:08.801">I folk som inspirerar dig och stimulerar<br/>dig p&#229; ett s&#228;tt som du vill."</p>
+      <p begin="01:18:09.446" end="01:18:10.872">-"N&#228;r jag v&#228;xte upp, fanns det ingen</p>
+      <p begin="01:18:10.872" end="01:18:12.509">som s&#229;g ut som mig p&#229; TV</p>
+      <p begin="01:18:12.625" end="01:18:15.503">s&#229; jag kunde aldrig dr&#246;mma om att<br/>f&#229; vara p&#229; TV.</p>
+      <p begin="01:18:15.644" end="01:18:20.233">Jag &#246;nskar jag kunde s&#228;ga, "Ja men det<br/>fanns en del kvinnliga f&#246;rebilder f&#246;rut."</p>
+      <p begin="01:18:20.233" end="01:18:22.311">Men sanningen &#228;r att det inte fanns<br/>n&#229;gra.</p>
+      <p begin="01:18:22.311" end="01:18:27.585">Flera &#229;r senare, var Connie Chung<br/>p&#229; TV f&#246;r att rapportera om Watergate</p>
+      <p begin="01:18:27.953" end="01:18:30.272">och jag skulle ha sagt till henne,<br/>"Du &#228;r min f&#246;rebild Connie."</p>
+      <p begin="01:18:30.272" end="01:18:32.601">Hon sa till mig,<br/>"Men Jan, jag &#228;r inte s&#229; gammal.</p>
+      <p begin="01:18:32.750" end="01:18:35.131">"Jag sa, "Jod&#229;, du &#228;r ett &#229;r &#228;ldre &#228;n<br/>mig, Connie</p>
+      <p begin="01:18:35.131" end="01:18:36.486">och det &#228;r tillr&#228;ckligt f&#246;r mig."</p>
+      <p begin="01:18:36.777" end="01:18:39.426">-"N&#228;r det kommer till f&#246;rebilder p&#229;<br/>nyheterna</p>
+      <p begin="01:18:39.452" end="01:18:41.812">&#228;r sj&#228;lvklart, Barbra Walters, <br/>Lesley Stahl</p>
+      <p begin="01:18:41.812" end="01:18:44.350">och tro det eller ej, Mary Tyler Moore.</p>
+      <p begin="01:18:44.482" end="01:18:47.828">Under min uppv&#228;xt tittade jag p&#229;<br/>programmen och betoningen p&#229; kvinnor</p>
+      <p begin="01:18:47.828" end="01:18:51.610">som gjorde sin egen grej och<br/>jobbade p&#229; en TV station.</p>
+      <p begin="01:18:51.610" end="01:18:54.435">Jag tror att det p&#229;verkade mig<br/>v&#228;ldigt mycket."</p>
+      <p begin="01:18:54.839" end="01:18:56.134">-"En av de saker som &#246;verraskade mig</p>
+      <p begin="01:18:56.134" end="01:19:00.870">var antalet kvinnor i ledarskap<br/>p&#229; TV</p>
+      <p begin="01:19:00.870" end="01:19:02.335">som str&#228;ckte sig ut till mig och fr&#229;gade,</p>
+      <p begin="01:19:02.335" end="01:19:04.717">"F&#229;r jag bjuda ut dig p&#229; frukost?"<br/>"Kan jag bjuda ut dig p&#229; lunch?"</p>
+      <p begin="01:19:04.717" end="01:19:07.067">"Kan jag se till att du har mitt nummer<br/>eller e-post adress</p>
+      <p begin="01:19:07.067" end="01:19:11.912">s&#229; om n&#229;got dyker upp--" och det <br/>var verkligen inte en k&#246;nsbunden maffia</p>
+      <p begin="01:19:11.912" end="01:19:15.971">i media utan det var en &#246;ver<br/>anstr&#228;ngning</p>
+      <p begin="01:19:15.971" end="01:19:20.797">f&#246;r att b&#229;de v&#228;lkommna mig och se till<br/>att kvinnor som hade varit innan mig,</p>
+      <p begin="01:19:20.797" end="01:19:23.674">som hade f&#229;tt k&#228;mpa f&#246;r den plats de har<br/>idag, &#228;r glada f&#246;r min skull</p>
+      <p begin="01:19:23.674" end="01:19:25.460">och ville vara en resurs f&#246;r mig</p>
+      <p begin="01:19:25.663" end="01:19:28.322">Det fanns en f&#246;rv&#228;ntan att jag skulle vara<br/>en resurs f&#246;r andra kvinnor."</p>
+      <p begin="01:19:30.271" end="01:19:33.687">-"Kvinnor som &#228;r varandras mentorer<br/>kan vara rikigt drivande.</p>
+      <p begin="01:19:35.210" end="01:19:38.837">Jag fick l&#228;ra k&#228;nne en ung beg&#229;vad<br/>kvinna vid namnet, Jessica Shambora.</p>
+      <p begin="01:19:39.478" end="01:19:43.380">Jessica t&#228;ckte en ber&#228;ttelse f&#246;r<br/>tidskriften Fortune om mentorskap.</p>
+      <p begin="01:19:43.649" end="01:19:45.419">Det f&#246;rmedlar verkligen en po&#228;ng.</p>
+      <p begin="01:19:45.663" end="01:19:47.203">-" Jag ville bara introducera mig<br/>till er.</p>
+      <p begin="01:19:47.203" end="01:19:51.870">-"Jag &#228;r Jessica Shambora och jag &#228;r h&#228;r<br/>f&#246;r att t&#228;cka kv&#228;llens evenemang."</p>
+      <p begin="01:19:51.870" end="01:19:55.798">Mini mentorskap &#228;r ett program som<br/>ett par kvinnor</p>
+      <p begin="01:19:55.798" end="01:20:00.492">fr&#229;n Fortunes m&#228;ktigate kvinnor<br/>har kommit p&#229;, f&#246;r att n&#229; ut</p>
+      <p begin="01:20:00.492" end="01:20:04.710">till en stor grupp unga kvinnor som<br/>verkligen &#228;r ute efter mentorskap</p>
+      <p begin="01:20:04.710" end="01:20:07.672">och f&#229; v&#228;gledning fr&#229;n framg&#229;ngsrika<br/>kvinnor.</p>
+      <p begin="01:20:07.754" end="01:20:09.857">De kommer att vara ungef&#228;r en<br/>snabb dejtingskv&#228;ll."</p>
+      <p begin="01:20:09.857" end="01:20:13.065">Men ist&#228;llet f&#246;r att dejta s&#229;<br/>handlar det om mentorskap."</p>
+      <p begin="01:20:13.132" end="01:20:14.787">-"Det viktigaste som b&#246;r driva<br/>beslutsamhet,</p>
+      <p begin="01:20:14.787" end="01:20:15.984">speciellt n&#228;r du &#228;r ung</p>
+      <p begin="01:20:15.984" end="01:20:18.151">&#228;r n&#228;r ditt hj&#228;rta att rusa."</p>
+      <p begin="01:20:18.151" end="01:20:20.166">-"Slutligen handlar det om</p>
+      <p begin="01:20:20.166" end="01:20:25.012">att du vill bli s&#229; bra som du kan<br/>s&#229; att dem inte kan ignorerar dig l&#228;ngre."</p>
+      <p begin="01:20:25.898" end="01:20:28.095">-"St&#228;ng av din TV och b&#246;rja l&#228;sa."</p>
+      <p begin="01:20:28.095" end="01:20:30.876">En timmes realitytv kan vara roligt.</p>
+      <p begin="01:20:31.385" end="01:20:34.627">Fyra timmar &#228;r destruktivt.</p>
+      <p begin="01:20:34.678" end="01:20:37.461">-"Var &#228;rlig mot dig sj&#228;lv. L&#228;r k&#228;nna<br/>den nu &#228;r.</p>
+      <p begin="01:20:37.494" end="01:20:41.843">Ta reda p&#229; vad som &#228;r b&#228;st f&#246;r dig.<br/>Tro p&#229; dig sj&#228;lv</p>
+      <p begin="01:20:41.843" end="01:20:43.843">ch f&#246;rs&#246;k inte vara n&#229;gon annan.</p>
+      <p begin="01:20:43.887" end="01:20:45.724">-"Tony Snows sista dag, n&#228;r han l&#228;mnade<br/>vita huset</p>
+      <p begin="01:20:45.724" end="01:20:48.728">och jag h&#246;ll p&#229; att ta &#246;ver som den<br/>officiella sekreteraren f&#246;r vita huset,</p>
+      <p begin="01:20:48.728" end="01:20:51.338">kom han in till mitt kontor och sa</p>
+      <p begin="01:20:51.338" end="01:20:53.968">"Du &#228;r b&#228;ttre p&#229; det h&#228;r<br/>&#228;n du tror."</p>
+      <p begin="01:20:55.043" end="01:20:57.808">-" Jag hoppas att du kommer ih&#229;g <br/>att du vill hj&#228;lpa</p>
+      <p begin="01:20:57.808" end="01:20:59.932">n&#228;sta generation av kvinnor.</p>
+      <p begin="01:21:00.147" end="01:21:03.712">Vi kvinnor m&#229;ste sluta<br/>kritisera varandra ang&#229;ende</p>
+      <p begin="01:21:03.712" end="01:21:07.020">de beslut och livsbeslut som tas<br/>och ist&#228;llet s&#228;ga</p>
+      <p begin="01:21:07.020" end="01:21:10.300">"Halleluja syster, vad du &#228;n best&#228;mmer<br/>dig f&#246;r s&#229; &#228;r jag d&#228;r f&#246;r &#229; st&#246;tta dig."</p>
+      <p begin="01:21:10.300" end="01:21:13.743"/>
+      <p begin="01:21:15.389" end="01:21:18.444">-"Om inte kvinnor st&#228;ller upp f&#246;r<br/>varandra</p>
+      <p begin="01:21:18.444" end="01:21:20.138">s&#229; kommer inte n&#229;gon annan g&#246;ra det, <br/>ingen kommer att se efter</p>
+      <p begin="01:21:20.138" end="01:21:22.794">kvinnors intresse f&#246;rutom kvinnor."</p>
+      <p begin="01:21:24.856" end="01:21:29.328">-"Om kvinnor spenderade mer tid hj&#228;lpa en<br/>sjuk granne</p>
+      <p begin="01:21:29.328" end="01:21:32.494">eller delta i volont&#228;rarbete, eller<br/>fokuserade mer p&#229;</p>
+      <p begin="01:21:32.494" end="01:21:35.756">hur de ska l&#246;sa n&#229;gra av v&#228;rldens<br/>problem,</p>
+      <p begin="01:21:35.756" end="01:21:39.704">om de spenderade en tiondel av vad de<br/>l&#228;gger p&#229; att t&#228;nka</p>
+      <p begin="01:21:39.704" end="01:21:44.625">om deras vikt, s&#229; tror jag att vi hade<br/>l&#246;st alla v&#228;rldens problem</p>
+      <p begin="01:21:44.625" end="01:21:45.884">inom ett par m&#229;nader."</p>
+      <p begin="01:21:46.293" end="01:21:48.735">-"Vi &#228;r bara h&#228;r f&#246;r ett litet &#246;gonblick.</p>
+      <p begin="01:21:48.900" end="01:21:52.571">Det som &#228;r mest viktigt &#228;r vad vi<br/>g&#246;r med tiden."</p>
+      <p begin="01:21:52.927" end="01:21:55.708">-"Vi har enormt mycket kraft. 86% av</p>
+      <p begin="01:21:55.708" end="01:22:00.147">alla k&#246;p som g&#246;rs i landet &#228;r av kvinnor.</p>
+      <p begin="01:22:00.423" end="01:22:04.788">L&#229;t oss anv&#228;nda det till att inte k&#246;pa<br/>bilagor</p>
+      <p begin="01:22:04.788" end="01:22:07.828">och till att inte st&#246;dja TV programmen.</p>
+      <p begin="01:22:07.828" end="01:22:09.374">En konsuments r&#246;st &#228;r kanske</p>
+      <p begin="01:22:09.374" end="01:22:12.379">den viktigaste r&#246;ste som vi har,</p>
+      <p begin="01:22:12.379" end="01:22:16.036">mer &#228;n en medborgares r&#246;st i valet."</p>
+      <p begin="01:22:17.786" end="01:22:20.776">-"Kvinnor i America skulle bli<br/>mer motiverade</p>
+      <p begin="01:22:20.776" end="01:22:24.591">av att se unga kvinnor som delar med<br/>sin erfarenhet n&#228;r det kommer till</p>
+      <p begin="01:22:24.591" end="01:22:30.920">att uppfostra en familj, prata med de och <br/>f&#229; de att identifiera sig med sina dr&#246;mmar</p>
+      <p begin="01:22:31.326" end="01:22:33.675">-"Vi skapar nya leder och de kommer</p>
+      <p begin="01:22:33.675" end="01:22:37.474">inte att se ut som de alltid har gjort.<br/>En &#228;ldre vit man.</p>
+      <p begin="01:22:37.671" end="01:22:41.267">De kommer att se ut som en kvinna och<br/>och folk fr&#229;n andra etniska bakgrunder.</p>
+      <p begin="01:22:41.267" end="01:22:45.768">Det &#228;r den sanna reflektionen av denna<br/>nation och v&#228;rld.</p>
+      <p begin="01:22:46.885" end="01:22:48.878">-"Jag fick det h&#228;r brevet en dag."</p>
+      <p begin="01:22:48.878" end="01:22:52.874">"Fr&#246;ken Wilson, inser du att det aldrig<br/>har funnits en kvinnlig president?"</p>
+      <p begin="01:22:52.874" end="01:22:56.787">Hon sa, "Jag kommer bli en m&#228;ktig ledare.<br/>Jag spelar piano,</p>
+      <p begin="01:22:56.787" end="01:23:01.572">jag g&#246;r min matematik och mitt namn &#228;r<br/>Alexandra som betyder ledare."</p>
+      <p begin="01:23:04.010" end="01:23:07.037">-"Titta p&#229; de &#246;gonen. &#197;h &#228;lskling.<br/>Oj oj oj.</p>
+      <p begin="01:23:07.069" end="01:23:07.884">-"Hej."</p>
+      <p begin="01:23:07.884" end="01:23:08.838"/>
+      <p begin="01:23:08.838" end="01:23:10.775">-"Hej."</p>
+      <p begin="01:23:12.110" end="01:23:13.962">-"&#197;h hon ler."</p>
+      <p begin="01:23:15.606" end="01:23:20.878">Den 18:e September 2009 b&#246;rjade jag min<br/>resa in i moderskapet.</p>
+      <p begin="01:23:22.586" end="01:23:24.622">Min make och jag har samma &#246;nskem&#229;l</p>
+      <p begin="01:23:24.622" end="01:23:27.857">f&#246;r Montana som vilken f&#246;r&#228;lder<br/>som helst som har barn.</p>
+      <p begin="01:23:28.594" end="01:23:32.129">Vi vill att hon ska f&#246;lja sina passioner<br/>i liver</p>
+      <p begin="01:23:32.882" end="01:23:35.076">och att verkligen inse att det<br/>som &#228;r viktigt</p>
+      <p begin="01:23:35.076" end="01:23:37.711">&#228;r vem hon &#228;r p&#229; insidan.</p>
+      <p begin="01:23:38.729" end="01:23:41.679">Det &#228;r kritiskt f&#246;r oss att alla flickor<br/>som v&#228;xer upp i denna v&#228;rld</p>
+      <p begin="01:23:41.679" end="01:23:43.802">d&#228;r deras r&#246;ster betyder n&#229;got,</p>
+      <p begin="01:23:43.933" end="01:23:47.294">d&#228;r v&#229;r kultur omfamnar m&#229;ngfalden</p>
+      <p begin="01:23:47.294" end="01:23:50.786">och d&#228;r alla &#228;r givna samma<br/>m&#246;jligheter att lyckas i livet.</p>
+      <p begin="01:23:53.267" end="01:23:55.773">Jag fors&#228;tter att komma tillbaka<br/>till mina yngre dagar.</p>
+      <p begin="01:23:56.602" end="01:24:00.907">Det &#228;r ofta vi kvinnor inte k&#228;nner igen<br/>v&#229;r egen inre styrka.</p>
+      <p begin="01:24:03.230" end="01:24:08.921">Jag vet att vi inte kan l&#229;ta n&#229;gon eller<br/>n&#229;got ta v&#229;r styrka fr&#229;n oss.</p>
+      <p begin="01:24:13.000" end="01:24:15.177">-"Vad s&#228;ger du Montana?"</p>
+      <p begin="01:24:16.511" end="01:24:18.111">-"&#196;r du redo?"</p>
+      <p begin="01:24:20.953" end="01:24:24.900" region="top"> G&#229; med i r&#246;relsen<br/>www.missrepresentation.rog.</p>
+      <p begin="01:24:25.299" end="01:24:27.747">-"Om vi verkligen vill &#228;ndra saker<br/>runt omkring oss sj&#228;lv</p>
+      <p begin="01:24:27.747" end="01:24:29.655">s&#229; &#228;r det h&#228;r n&#229;got du kan g&#246;ra.</p>
+      <p begin="01:24:30.521" end="01:24:33.343" region="top"> SMSa REPRESENT till 313131</p>
+      <p begin="01:24:33.411" end="01:24:36.160">M&#228;t ditt v&#228;rde med vad du har &#229;stadkommit <br/>och inte men hur du ser ut.</p>
+      <p begin="01:24:36.340" end="01:24:39.746">Om b&#229;de du och jag, varje g&#229;ng<br/>vi g&#229;r f&#246;rbi en spegel</p>
+      <p begin="01:24:39.746" end="01:24:42.270">ser ner p&#229; hur vi ser ut, eller<br/>klagar p&#229; v&#229;rt beteende,</p>
+      <p begin="01:24:42.270" end="01:24:46.759">kom ih&#229;g att det finns en flicka d&#228;r ute<br/>som ser detta och l&#228;r sig</p>
+      <p begin="01:24:47.082" end="01:24:49.648">-"Reflektera &#246;ver hur du<br/>bidrar till sexism."</p>
+      <p begin="01:24:49.848" end="01:24:53.596">-"Jag r&#228;knar med mig sj&#228;lv i detta.<br/>Vi granskar kvinnor.</p>
+      <p begin="01:24:53.673" end="01:24:56.223">"Gud vad gammal hon har blivit, titta<br/>hur gr&#229; hon hon har blivit.</p>
+      <p begin="01:24:56.223" end="01:24:57.482">Vad &#228;r det hon har p&#229; sig?"</p>
+      <p begin="01:24:57.695" end="01:25:01.259">Jag tror att som kvinna, s&#229; m&#229;ste<br/>vi stoppa detta destruktiva betteende</p>
+      <p begin="01:25:01.259" end="01:25:05.389">som vi uts&#228;tter varandra f&#246;r<br/>och slutligen oss sj&#228;lva.</p>
+      <p begin="01:25:05.660" end="01:25:08.529">-"St&#246;d media som st&#246;djer framg&#229;ngsrika<br/>kvinnor."</p>
+      <p begin="01:25:09.043" end="01:25:13.530">-"Vi beh&#246;ver starka kvinnliga f&#246;rebilder<br/>i media som har &#229;stadkommit med n&#229;got,</p>
+      <p begin="01:25:13.687" end="01:25:16.004">f&#246;r att de gjort ett bra jobb<br/>och inte f&#246;r att</p>
+      <p begin="01:25:16.004" end="01:25:20.142">de har den mest l&#228;ckra kroppen eller<br/>&#228;r den sexigaste kvinnan &#229;r 2010.</p>
+      <p begin="01:25:20.369" end="01:25:22.027">De &#228;r dem b&#228;sta filantroper.</p>
+      <p begin="01:25:22.064" end="01:25:25.467">De &#228;r b&#228;st inom medicinska omr&#229;den och<br/>inte f&#246;r hur de ser ut,</p>
+      <p begin="01:25:25.467" end="01:25:27.462">utan vilka de &#228;r p&#229; insidan."</p>
+      <p begin="01:25:28.521" end="01:25:32.543">-"Bojkotta tidningar, TV program och<br/>filmer som nedv&#228;rderar kvinnor.</p>
+      <p begin="01:25:33.370" end="01:25:36.545">-"S&#228;g vad du har p&#229; huvudet och kritisera<br/>media industrin n&#228;r du tror</p>
+      <p begin="01:25:36.545" end="01:25:38.639">att de g&#246;r n&#229;got som &#228;r oanst&#228;nding f&#246;r<br/>dina barn,</p>
+      <p begin="01:25:38.639" end="01:25:42.810">det &#228;r inte bara din r&#228;ttighet som en<br/>Amerikan, som en f&#246;r&#228;lder,</p>
+      <p begin="01:25:42.810" end="01:25:45.828">utan ocks&#229; helt &#246;vernst&#228;mmande<br/>med f&#246;rsta till&#228;gget.</p>
+      <p begin="01:25:46.541" end="01:25:48.925">-"G&#229; och se filmer som &#228;r skrivna<br/>och regisserade av kvinnor."</p>
+      <p begin="01:25:49.410" end="01:25:53.883">-"Det &#228;r viktigast att g&#229; p&#229; premi&#228;r dagen</p>
+      <p begin="01:25:54.683" end="01:25:57.106">f&#246;r att det &#228;r dessa siffror som <br/>Hollywood har koll p&#229;.</p>
+      <p begin="01:25:57.526" end="01:26:00.260">-"Skriv dina egna ber&#228;ttelser och skapa<br/>din egen media</p>
+      <p begin="01:26:00.260" end="01:26:03.205">om m&#228;ktiga kvinnor i en icke traditionell<br/>roll.</p>
+      <p begin="01:26:03.568" end="01:26:05.758">-"N&#228;r min dotter var nio &#229;r, skrev hon<br/>en litet manus</p>
+      <p begin="01:26:05.758" end="01:26:07.995">och hon filmade det med v&#229;r lilla<br/>video kamera.</p>
+      <p begin="01:26:07.995" end="01:26:11.512">Hennes kompisar medverkade och de<br/>hade s&#229; roligt,</p>
+      <p begin="01:26:11.512" end="01:26:14.674">detta l&#228;r dem att media bara<br/>&#228;r en konstruktion.</p>
+      <p begin="01:26:14.827" end="01:26:15.937">De b&#246;rjar att f&#246;rst&#229;</p>
+      <p begin="01:26:15.937" end="01:26:17.983">att dessa historier som blir ber&#228;ttade kan<br/>de sj&#228;lva komma p&#229;</p>
+      <p begin="01:26:17.983" end="01:26:20.706">med sina egna historier som de kan ber&#228;tta<br/>som kan vara</p>
+      <p begin="01:26:20.706" end="01:26:22.732">statsfientliga historier eller<br/>motst&#229;ndskraftiga ber&#228;ttelser."</p>
+      <p begin="01:26:23.007" end="01:26:25.936">-"L&#228;r de som &#228;r omkring dig att<br/>kritiskt titta p&#229; media."</p>
+      <p begin="01:26:26.099" end="01:26:31.128">-"En av de saker jag g&#246;r med mina barn<br/>&#228;r n&#228;r vi tittar p&#229; dessa program</p>
+      <p begin="01:26:31.128" end="01:26:35.104">brukar jag s&#228;ga, "Har du lagt m&#228;rke till<br/>att det bara &#228;r en kvinna i gruppen?"</p>
+      <p begin="01:26:35.172" end="01:26:39.427">"Vad skulle h&#228;nda om den karakt&#228;ren<br/>varit en tjej ist&#228;llet?</p>
+      <p begin="01:26:39.503" end="01:26:43.560">"Varf&#246;r har hon p&#229; sig de d&#228;r n&#228;r hon<br/>f&#246;rs&#246;ker r&#228;dda n&#229;gon?"</p>
+      <p begin="01:26:44.266" end="01:26:47.256">-"Fr&#229;ga din skola om de kan starta en<br/>mediakunskaps kurs</p>
+      <p begin="01:26:47.256" end="01:26:49.074">med fokus p&#229; k&#246;nsroller."</p>
+      <p begin="01:26:49.429" end="01:26:53.884">-"Mediakunskap &#228;r lika viktigt som<br/>att l&#228;ra sig l&#228;sa och skriva.</p>
+      <p begin="01:26:54.023" end="01:26:57.506">V&#229;rt ansar b&#246;r vara, "Vems perspektiv<br/>f&#246;rs&#246;ker p&#229;verka denna historia?"</p>
+      <p begin="01:26:57.744" end="01:27:00.630">"Det finns alltid tv&#229; sidor av ett mynt." </p>
+      <p begin="01:27:00.993" end="01:27:03.012">"H&#229;ller vi p&#229; bli lurade h&#228;r?"</p>
+      <p begin="01:27:03.223" end="01:27:05.110">-"Var inte r&#228;dd f&#246;r att utmana din v&#228;nner</p>
+      <p begin="01:27:05.110" end="01:27:08.031">om du h&#246;r de s&#228;ga n&#229;got nedv&#228;rderande<br/>om kvinnor.</p>
+      <p begin="01:27:08.243" end="01:27:12.638">-"King sa det v&#228;ldigt v&#228;ltaligt, "Dagens<br/>problem &#228;r inte de giftiga orden</p>
+      <p begin="01:27:12.638" end="01:27:14.542">och de onda handlingarna eller<br/>onda m&#228;nniskor,</p>
+      <p begin="01:27:14.542" end="01:27:17.834">det &#228;r den fasav&#228;ckande tystnaden och<br/>passivitet fr&#229;n de goda m&#228;nniskorna. "</p>
+      <p begin="01:27:18.031" end="01:27:21.052">-"Hitta h&#228;lsosamma f&#246;rebilder<br/>och var en mentor till andra."</p>
+      <p begin="01:27:21.744" end="01:27:25.419">-"Uppmuntra kvinnor till ledarskap<br/>och st&#246;tta dem l&#228;ngs v&#228;gen."</p>
+      <p begin="01:27:25.771" end="01:27:29.799">-"Om vi ser kvinnor som &#228;r bra<br/>i olika yrken s&#229; som, politiska jobb</p>
+      <p begin="01:27:29.799" end="01:27:32.872">hundf&#229;ngare, medlem i skolverket,</p>
+      <p begin="01:27:32.872" end="01:27:36.845">eller sitta i kongressen s&#229; m&#229;ste <br/>det g&#246;ras nu.</p>
+      <p begin="01:27:37.400" end="01:27:40.812">-"Vad &#228;n kvinnor best&#228;mmer sig f&#246;r att <br/>g&#246;ra m&#229;ste de g&#246;ra dubbelt s&#229; bra som m&#228;n</p>
+      <p begin="01:27:40.812" end="01:27:43.507">f&#246;r att r&#228;knas som att ha<br/>gjort h&#228;lften av jobbet.</p>
+      <p begin="01:27:43.699" end="01:27:46.569">-"Lyckligtvis &#228;r det inte allt f&#246;r sv&#229;rt."</p>
+      <p begin="01:27:48.388" end="01:27:51.102" region="top"> Miss Representation skulle inte<br/>vara m&#246;jlig</p>
+      <p begin="01:27:51.102" end="01:27:53.514" region="top"> om inte kvinnor hade trott p&#229;<br/>varandra.</p>
+      <p begin="01:27:53.806" end="01:27:57.321" region="top"> Tack Regina f&#246;r din tillit p&#229; mig<br/>och v&#229;rt lag.</p>
+      <p begin="01:27:57.977" end="01:28:02.962" region="top"> M&#229; vi alla g&#246;ra det m&#246;jligt f&#246;r andra<br/>kvinnor och flickor till en prioritet.</p>
+    </div>
+  </body>
+
+</tt>
