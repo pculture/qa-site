@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:26.558" end="00:00:34.334">&#9834; [music] &#9834;</p>
+      <p begin="00:00:34.334" end="00:00:35.817">[people talking]</p>
+      <p begin="00:00:35.817" end="00:00:38.851">Okay. So...</p>
+      <p begin="00:00:41.088" end="00:00:43.085">-That's part of the scene<br/>isn't it, the wind?</p>
+      <p begin="00:00:43.085" end="00:00:45.124">- Why don't you fix the scarf around him<br/>a little bit more.</p>
+      <p begin="00:00:45.124" end="00:00:46.368">- That's gonna do it.</p>
+      <p begin="00:00:46.368" end="00:00:48.300">- What is this movie about?</p>
+      <p begin="00:00:48.300" end="00:00:55.147">I think this movie is about a personal me<br/>that doesn't exist.</p>
+      <p begin="00:00:55.147" end="00:00:58.170">And an entangled me, which is everybody.</p>
+      <p begin="00:00:58.170" end="00:01:01.926">Your body is biological but also<br/>a field of energy and information.</p>
+      <p begin="00:01:01.926" end="00:01:03.246">- And so, you just have this aura?</p>
+      <p begin="00:01:03.246" end="00:01:04.245">-Yes.</p>
+      <p begin="00:01:04.245" end="00:01:07.066">- I am that.<br/>You are that.</p>
+      <p begin="00:01:07.066" end="00:01:12.624">All this is that.<br/>That alone is.</p>
+      <p begin="00:01:12.624" end="00:01:13.656">- Can we go eat?</p>
+      <p begin="00:01:13.656" end="00:01:15.124">-Yes.</p>
+      <p begin="00:01:15.124" end="00:01:20.298">&#9834; [music] &#9834;</p>
+      <p begin="00:01:20.298" end="00:01:23.664">The basic quest always is,<br/>"Who am I?"</p>
+      <p begin="00:01:23.664" end="00:01:25.331">"How do you define, 'I'?"</p>
+      <p begin="00:01:25.331" end="00:01:28.212">The real "I," was never born<br/>and never dies.</p>
+      <p begin="00:01:28.212" end="00:01:33.285">It has no definition in space,<br/>no boundaries in time.</p>
+      <p begin="00:01:33.285" end="00:01:38.438">It's eternal, it is unborn<br/>and it does not die.</p>
+      <p begin="00:01:38.438" end="00:01:43.819">I don't think of myself<br/>as a traditional Indian Guru,</p>
+      <p begin="00:01:43.819" end="00:01:48.194">I think of myself more<br/>as an explorer of consciousness,</p>
+      <p begin="00:01:48.194" end="00:01:52.777">just like Edmund Hillary<br/>was exploring Mount Everest.</p>
+      <p begin="00:01:52.777" end="00:01:57.323">Jacques Cousteau was exploring<br/>the depths of the ocean.</p>
+      <p begin="00:01:57.323" end="00:02:01.196">- He may not think of himself<br/>as a Guru but millions of others do.</p>
+      <p begin="00:02:01.857" end="00:02:03.529">[audience clapping]</p>
+      <p begin="00:02:03.529" end="00:02:05.064">Here's how that happened.</p>
+      <p begin="00:02:05.064" end="00:02:07.297">Born and raised in India.</p>
+      <p begin="00:02:07.297" end="00:02:10.330">Graduated medical school<br/>head of his class.</p>
+      <p begin="00:02:10.330" end="00:02:15.312">Newly married US immigrant.<br/>Has kids. Not around much.</p>
+      <p begin="00:02:15.312" end="00:02:18.032">Hard worker, hard partier.</p>
+      <p begin="00:02:18.032" end="00:02:22.560">Realizes, his life isn't<br/>on the right track. Changes course.</p>
+      <p begin="00:02:22.560" end="00:02:23.998">Fringe medicine man.</p>
+      <p begin="00:02:23.998" end="00:02:27.652">- He is a poet, a prophet<br/>of alternative medicine...</p>
+      <p begin="00:02:27.652" end="00:02:28.998">- Bestselling author.</p>
+      <p begin="00:02:28.998" end="00:02:32.159">[T.V. clips]</p>
+      <p begin="00:02:32.159" end="00:02:33.800">- Guru to the stars.</p>
+      <p begin="00:02:33.800" end="00:02:36.998">- My name is Lady Gaga<br/>and the most influential person</p>
+      <p begin="00:02:36.998" end="00:02:38.797">in my life is Deepak Chopra.</p>
+      <p begin="00:02:38.797" end="00:02:43.354">- Sparkly glasses, red sneakers,<br/>all of the above.</p>
+      <p begin="00:02:43.354" end="00:02:44.595">- Hi, Mister Chopra.</p>
+      <p begin="00:02:44.595" end="00:02:45.594">- None of the above.</p>
+      <p begin="00:02:45.594" end="00:02:48.027">- Doctor Chopra.</p>
+      <p begin="00:02:54.240" end="00:02:57.445">- My entire life, people have been asking<br/>the same questions,</p>
+      <p begin="00:02:57.445" end="00:02:59.820">"What's it like to be<br/>Deepak Chopra's son?"</p>
+      <p begin="00:02:59.820" end="00:03:02.317">"Are you spiritual like him?"</p>
+      <p begin="00:03:02.317" end="00:03:04.675">"What was it like growing up with him<br/>as a dad?"</p>
+      <p begin="00:03:04.675" end="00:03:10.478">They don't usually ask about me,<br/>Gotham, they ask about him, Deepak.</p>
+      <p begin="00:03:10.478" end="00:03:13.200">Sometimes I can barely tell where he ends</p>
+      <p begin="00:03:13.200" end="00:03:15.251">and I begin.</p>
+      <p begin="00:03:15.251" end="00:03:21.057">So right now, we're a few hours away<br/>from leaving for Thailand.</p>
+      <p begin="00:03:21.057" end="00:03:22.495">Are you gonna miss me when I go?</p>
+      <p begin="00:03:22.495" end="00:03:23.549">-Yeah.</p>
+      <p begin="00:03:23.549" end="00:03:24.590">Go where?</p>
+      <p begin="00:03:24.590" end="00:03:25.938">-To Thailand.</p>
+      <p begin="00:03:25.938" end="00:03:27.063">- Oh.</p>
+      <p begin="00:03:27.063" end="00:03:30.113">- Putting together<br/>all the camera equipment right now.</p>
+      <p begin="00:03:30.113" end="00:03:33.376">And making sure we have everything<br/>that we need.</p>
+      <p begin="00:03:33.376" end="00:03:35.498">He's coming, too.</p>
+      <p begin="00:03:35.498" end="00:03:39.933">The only way to catch my dad is<br/>to catch up with him.</p>
+      <p begin="00:03:39.933" end="00:03:43.525">He is being ordained as a Buddhist Monk.</p>
+      <p begin="00:03:43.525" end="00:03:46.124">The plan is rendezvous with my dad<br/>in Bangkok.</p>
+      <p begin="00:03:46.124" end="00:03:50.876">And faithfully document the latest chapter<br/>of the Chopra saga, it's a sure fire hit.</p>
+      <p begin="00:03:50.876" end="00:03:54.732">Logline, a guru in his twilight years<br/>embarks on a year long journey</p>
+      <p begin="00:03:54.732" end="00:03:58.296">with his wayward son,<br/>to discover the true identity</p>
+      <p begin="00:03:58.296" end="00:04:00.436">of something or the other.</p>
+      <p begin="00:04:00.436" end="00:04:04.415">The DVD goes in the Self Help aisle<br/>of the book store.</p>
+      <p begin="00:04:04.415" end="00:04:09.617">Then the audio book, podcast,<br/>of course, my dad doesn't know it yet,</p>
+      <p begin="00:04:09.617" end="00:04:12.842">but that's not the film<br/>I'm planning on making.</p>
+      <p begin="00:04:16.992" end="00:04:20.183">I've always known that<br/>the world's perception of my father</p>
+      <p begin="00:04:20.183" end="00:04:23.906">doesn't necessarily align with mine.<br/>Is that really a surprise?</p>
+      <p begin="00:04:23.906" end="00:04:27.960">Does anyone see their dad as some sort<br/>of spiritual holy man?</p>
+      <p begin="00:04:27.960" end="00:04:32.540">Thirty-six years in, I still<br/>can't really tell you who my father is.</p>
+      <p begin="00:04:33.109" end="00:04:37.056">Does that say something about him or me?</p>
+      <p begin="00:04:37.056" end="00:04:40.976">I guess the film is the thing<br/>where I figure it all out.</p>
+      <p begin="00:04:41.607" end="00:05:06.971">&#9834; [music] &#9834;</p>
+      <p begin="00:05:06.971" end="00:05:09.384">- What is a human being?</p>
+      <p begin="00:05:09.384" end="00:05:12.156">Why are we here?</p>
+      <p begin="00:05:12.156" end="00:05:16.026">Do we have a soul?<br/>Does God exist?</p>
+      <p begin="00:05:16.026" end="00:05:19.081">What happens to us after we die?</p>
+      <p begin="00:05:19.081" end="00:05:22.633">These are questions that have been<br/>asked for centuries and I think,</p>
+      <p begin="00:05:22.633" end="00:05:26.965">it's in a sense, almost arrogant of me</p>
+      <p begin="00:05:26.965" end="00:05:30.961">to suggest that I can answer<br/>these questions,</p>
+      <p begin="00:05:30.961" end="00:05:37.574">that I can transcend to a higher truth<br/>where I can understand my own identity.</p>
+      <p begin="00:05:40.033" end="00:05:44.025">- My father has been on the road non-stop<br/>for most of my life.</p>
+      <p begin="00:05:44.025" end="00:05:47.979">So it's fitting we begin the story<br/>as tourists in a strange world.</p>
+      <p begin="00:05:47.979" end="00:05:51.014">When your dad informs you of his plans<br/>to become a monk,</p>
+      <p begin="00:05:51.014" end="00:05:53.492">don't try to make sense of it,</p>
+      <p begin="00:05:53.492" end="00:05:55.490">you just roll the cameras<br/>and try to keep up.</p>
+      <p begin="00:05:56.750" end="00:05:59.212">- Okay, you can't just keep<br/>filming randomly.</p>
+      <p begin="00:05:59.212" end="00:06:05.370">Dad's a monk but he apparently paid<br/>for the souvenir shopping, photo ops,</p>
+      <p begin="00:06:05.370" end="00:06:11.104">five star hotels and all paid for<br/>by wealthy Thai benefactor.</p>
+      <p begin="00:06:11.104" end="00:06:17.098">What do you think about spiritual silence<br/>that starts at the Peninsula Hotel?</p>
+      <p begin="00:06:17.098" end="00:06:20.711">-I think it's a good prelude<br/>to be comfortable</p>
+      <p begin="00:06:20.711" end="00:06:22.709">before you're uncomfortable.</p>
+      <p begin="00:06:34.221" end="00:06:36.955">For about twenty years,<br/>I've had the romantic notion</p>
+      <p begin="00:06:36.955" end="00:06:40.905">of being ordained as a Buddhist Monk.</p>
+      <p begin="00:06:41.981" end="00:06:47.333">And I've been ready to embark<br/>on a different plain of existence.</p>
+      <p begin="00:06:48.747" end="00:06:51.479">- Do you miss the family?</p>
+      <p begin="00:06:52.402" end="00:06:55.742">No. It's too early actually.</p>
+      <p begin="00:06:55.742" end="00:06:58.469">It's part of a much bigger story, Gotham.</p>
+      <p begin="00:06:58.469" end="00:07:01.005">You have to leave your family,<br/>you have to leave your body,</p>
+      <p begin="00:07:01.005" end="00:07:04.711">you have to leave your mind,<br/>you have to leave your personality,</p>
+      <p begin="00:07:04.711" end="00:07:07.175">you have to leave your children,<br/>you have to leave your grandchildren,</p>
+      <p begin="00:07:07.175" end="00:07:09.209">you have to leave the world.</p>
+      <p begin="00:07:09.209" end="00:07:11.630">It's as if you never existed.</p>
+      <p begin="00:07:12.323" end="00:07:16.356">- Detachment from family<br/>has been a lifelong specialty of my Dad's.</p>
+      <p begin="00:07:16.356" end="00:07:20.097">And following him down this river<br/>feels just like growing up with him,</p>
+      <p begin="00:07:20.097" end="00:07:22.457">if you wanna find him anywhere,</p>
+      <p begin="00:07:22.457" end="00:07:24.534">if you want any sort<br/>of engagements whatsoever,</p>
+      <p begin="00:07:24.534" end="00:07:28.925">you have to follow him into his work.<br/>That means a lot of traveling.</p>
+      <p begin="00:07:28.925" end="00:07:34.172">Or listening to him talk for ages<br/>on the subject of... whatever.</p>
+      <p begin="00:07:34.388" end="00:07:37.989">It also meant being raised<br/>in front of cameras.</p>
+      <p begin="00:07:37.989" end="00:07:41.277">Being publicly groomed<br/>to inherit the keys to the kingdom</p>
+      <p begin="00:07:41.277" end="00:07:44.810">and never getting away from the spotlight<br/>long enough to figure out what I wanted</p>
+      <p begin="00:07:44.810" end="00:07:45.864">for myself.</p>
+      <p begin="00:07:45.864" end="00:07:50.314">- Gotham Chopra is anxious to sing<br/>the songs his father taught him.</p>
+      <p begin="00:07:50.314" end="00:07:52.937">His father, of course, is Deepak Chopra.</p>
+      <p begin="00:07:52.937" end="00:07:55.357">- The son of privilege<br/>has come out with a book of his own...</p>
+      <p begin="00:07:55.357" end="00:07:58.502">- I think I'll be very soon,<br/>I'll be overshadowed by him.</p>
+      <p begin="00:07:58.502" end="00:08:03.082">- I think the character in this book<br/>is very much an heir to something</p>
+      <p begin="00:08:03.082" end="00:08:05.566">and I think nobody knows<br/>exactly what it is.</p>
+      <p begin="00:08:05.566" end="00:08:07.135">The truth is, I did know.</p>
+      <p begin="00:08:07.135" end="00:08:10.079">I was inheriting a personality<br/>that wasn't my own.</p>
+      <p begin="00:08:10.079" end="00:08:13.065">Thoughts I didn't create,<br/>books that were hardly original</p>
+      <p begin="00:08:13.065" end="00:08:14.716">and products that I didn't really buy.</p>
+      <p begin="00:08:14.716" end="00:08:17.321">- If you have weaknesses,<br/>that doesn't make you flawed,</p>
+      <p begin="00:08:17.321" end="00:08:19.017">it makes you complete.</p>
+      <p begin="00:08:19.017" end="00:08:20.065">- In other words...</p>
+      <p begin="00:08:20.065" end="00:08:21.236">- In other words...</p>
+      <p begin="00:08:21.236" end="00:08:24.216">- To stay detached<br/>and not have expectations.</p>
+      <p begin="00:08:24.216" end="00:08:26.404">I wanted to talk to the world<br/>in my own voice.</p>
+      <p begin="00:08:26.404" end="00:08:29.926">I want you to come back, Gotham,<br/>one day and will tell all of the secrets</p>
+      <p begin="00:08:29.926" end="00:08:32.158">about having a father who has<br/>all of the secrets--</p>
+      <p begin="00:08:32.158" end="00:08:33.750">- That's an hour long show.</p>
+      <p begin="00:08:33.750" end="00:08:34.754">[laughter]</p>
+      <p begin="00:08:34.754" end="00:08:36.935">I wanted to use cameras<br/>to cut through all the theory.</p>
+      <p begin="00:08:36.935" end="00:08:37.935">- Hey, Gotham.</p>
+      <p begin="00:08:37.935" end="00:08:40.200">- Hey, Crystal. Well, you know,<br/>we've been trying to get into Chechnya</p>
+      <p begin="00:08:40.200" end="00:08:42.248">for months to cover the war...</p>
+      <p begin="00:08:42.248" end="00:08:45.565">Learn to listen,<br/>rather than talk all the time.</p>
+      <p begin="00:08:49.088" end="00:08:50.146">- Yes, you're right...</p>
+      <p begin="00:08:50.146" end="00:08:52.462">- Yeah, that was shooting.</p>
+      <p begin="00:08:52.462" end="00:08:55.627">About three soldiers<br/>are critically wounded.</p>
+      <p begin="00:08:55.627" end="00:08:59.085">And when I got out on my own<br/>and saw the world unfiltered,</p>
+      <p begin="00:08:59.085" end="00:09:00.661">it was a mess.</p>
+      <p begin="00:09:00.661" end="00:09:03.722">Seemingly beyond fixing<br/>with spiritual teachings,</p>
+      <p begin="00:09:03.722" end="00:09:06.240">I questioned what I'd been told<br/>for so many years.</p>
+      <p begin="00:09:06.240" end="00:09:07.877">How does that happen?</p>
+      <p begin="00:09:07.877" end="00:09:09.699">I mean where does that shift in focus--?</p>
+      <p begin="00:09:09.699" end="00:09:11.647">- I think you know because I told you</p>
+      <p begin="00:09:11.647" end="00:09:13.645">when you were five years old<br/>how that happens.</p>
+      <p begin="00:09:13.645" end="00:09:16.632">But all these years later,<br/>I still don't get it.</p>
+      <p begin="00:09:16.632" end="00:09:20.554">And he still believes<br/>there's a grand design to it all.</p>
+      <p begin="00:09:20.554" end="00:09:23.237">Is this part of the spiritual experience?</p>
+      <p begin="00:09:23.237" end="00:09:26.798">- I see all experience as spiritual<br/>if you get down to it.</p>
+      <p begin="00:09:26.798" end="00:09:31.691">One of Buddha's basic tenets<br/>is impermanence in time, which means</p>
+      <p begin="00:09:31.691" end="00:09:35.195">none of these people that you see,<br/>or anything that you see,</p>
+      <p begin="00:09:35.195" end="00:09:38.867">these shops that you see<br/>or the automobiles that you see,</p>
+      <p begin="00:09:38.867" end="00:09:43.139">not single one of them will be<br/>alive in a hundred years.</p>
+      <p begin="00:09:43.139" end="00:09:45.181">- Are you ever at a loss for words?</p>
+      <p begin="00:09:45.181" end="00:09:50.832">- No, actually, I am at a loss for words<br/>all the time because I'm trying to express</p>
+      <p begin="00:09:50.832" end="00:09:53.793">the ineffable, which is beyond expression.</p>
+      <p begin="00:09:53.793" end="00:09:59.144">This is a dream, like a wistful smoke<br/>lost into the air.</p>
+      <p begin="00:10:12.286" end="00:10:14.081">[crowd cheering]</p>
+      <p begin="00:10:14.081" end="00:10:16.652">- Who's idea was this?</p>
+      <p begin="00:10:16.652" end="00:10:19.014">- Not mine, yours, I guess.</p>
+      <p begin="00:10:19.014" end="00:10:25.300">- Can't be all this monasteries<br/>and monkhood and monk jobs,</p>
+      <p begin="00:10:25.300" end="00:10:27.745">it's Muai Thai.<br/>We're in Thailand.</p>
+      <p begin="00:10:27.912" end="00:10:30.751">- It was interesting<br/>watching the Muai Thai,</p>
+      <p begin="00:10:30.751" end="00:10:33.475">it reminded of my days<br/>in the emergency room.</p>
+      <p begin="00:10:33.475" end="00:10:38.213">Where I couldn't get enough of gory,<br/>blood shot people.</p>
+      <p begin="00:10:38.213" end="00:10:41.620">I couldn't wait<br/>for the next trauma patient</p>
+      <p begin="00:10:41.620" end="00:10:45.616">to arrive so I could practice<br/>my surgical skills.</p>
+      <p begin="00:10:46.462" end="00:10:49.350">I would enjoy the bleeding,<br/>I hate to say it,<br/></p>
+      <p begin="00:10:49.350" end="00:10:51.292">I would enjoy people's suffering.</p>
+      <p begin="00:10:51.292" end="00:10:53.340">[bell rings]</p>
+      <p begin="00:10:55.094" end="00:11:01.211">&#9834; [music] &#9834;</p>
+      <p begin="00:11:01.211" end="00:11:05.907">In my understanding of the world,<br/>it's set up for maximum diversity</p>
+      <p begin="00:11:05.907" end="00:11:09.823">right here in this city, you have<br/>maximum diversity, </p>
+      <p begin="00:11:09.823" end="00:11:12.293">from the sacred to the profane.</p>
+      <p begin="00:11:12.293" end="00:11:16.095">The so-called, "Sinners,"<br/>to the so called, "Saints."</p>
+      <p begin="00:11:16.095" end="00:11:18.700">The divine and the diabolical.</p>
+      <p begin="00:11:18.700" end="00:11:24.218">I find that the more you embrace<br/>the ambiguity of your existence,</p>
+      <p begin="00:11:24.218" end="00:11:29.774">the more you understand the creativity<br/>of the universe.</p>
+      <p begin="00:11:29.774" end="00:11:32.835">- My Dad is a master<br/>at wrapping philosophical poetry</p>
+      <p begin="00:11:32.835" end="00:11:36.248">around terrible visions<br/>of human depravity.</p>
+      <p begin="00:11:36.248" end="00:11:39.454">That detached curiosity is the trade mark<br/>that's made him the best-selling</p>
+      <p begin="00:11:39.454" end="00:11:41.775">inspiration to millions.</p>
+      <p begin="00:11:41.775" end="00:11:45.913">Or in the eyes of Bill O'Reilly,<br/>in fair and bound pundits at Fox news,</p>
+      <p begin="00:11:45.913" end="00:11:47.943">an ideal target for ridicule.</p>
+      <p begin="00:11:47.943" end="00:11:49.143">- Time now for, Pinheads and Patriots.</p>
+      <p begin="00:11:49.143" end="00:11:51.066">On the Pinhead front, Deepak Chopra...</p>
+      <p begin="00:11:51.066" end="00:11:53.681">- So in the Huffington Post,<br/>Deepak Chopra published another</p>
+      <p begin="00:11:53.681" end="00:11:55.130">Anti-American scream.</p>
+      <p begin="00:11:55.130" end="00:11:56.305">- He's blaming America.</p>
+      <p begin="00:11:56.305" end="00:11:57.321">- That's not what he was doing.</p>
+      <p begin="00:11:57.321" end="00:12:00.579">- Yes, excuse me, the exact quote was,<br/>"He blamed America."</p>
+      <p begin="00:12:00.579" end="00:12:02.291">- Just a quick question, those glasses,</p>
+      <p begin="00:12:02.291" end="00:12:04.289">that's like from<br/>the Elton John collection.</p>
+      <p begin="00:12:04.289" end="00:12:07.572">- What's with the holy man, wearing<br/>the overly current eye wear?</p>
+      <p begin="00:12:07.572" end="00:12:10.884">Him showing up in those glasses,<br/>is like, Gandhi with an ankle bracelet.</p>
+      <p begin="00:12:10.884" end="00:12:12.889">- If your son, right over here, Gotham,</p>
+      <p begin="00:12:12.889" end="00:12:16.485">was killed, all right,<br/>by a terrorist, all right,</p>
+      <p begin="00:12:16.485" end="00:12:19.429">you're still gonna say,<br/>"No tough interrogation, none."</p>
+      <p begin="00:12:19.429" end="00:12:21.645">- I don't believe in __.</p>
+      <p begin="00:12:21.645" end="00:12:25.522">- Like I said, detachment has been<br/>a lifelong specialty of my Dads.</p>
+      <p begin="00:12:25.522" end="00:12:27.952">The only thing he can't seem<br/>to totally give up</p>
+      <p begin="00:12:27.952" end="00:12:34.353">is the compulsive drive to keep talking,<br/>traveling, writing, e-mailing</p>
+      <p begin="00:12:34.353" end="00:12:36.811">and lately, tweeting.</p>
+      <p begin="00:12:36.811" end="00:12:41.080">In my dad's version of this film,<br/>he's left all the noise behind,</p>
+      <p begin="00:12:41.080" end="00:12:42.704">given up his Blackberry</p>
+      <p begin="00:12:42.704" end="00:12:47.403">for a silent retreat and meditation<br/>on the true identity of Deepak.</p>
+      <p begin="00:12:47.403" end="00:12:52.010">In my version, things aren't so simple,<br/>the noise lingers.</p>
+      <p begin="00:12:56.399" end="00:12:59.002">Five days in this city<br/>are too much for me,</p>
+      <p begin="00:12:59.002" end="00:13:02.329">teenagers sell their bodies<br/>in the open air markets.</p>
+      <p begin="00:13:02.329" end="00:13:05.979">The mobs yell endlessly for blood<br/>in dank stadiums.</p>
+      <p begin="00:13:05.979" end="00:13:09.964">The arteries of the urban sprawl<br/>are choked with traffic.</p>
+      <p begin="00:13:10.794" end="00:13:13.507">Papa sees this sweltering metropolis</p>
+      <p begin="00:13:13.507" end="00:13:17.004">as a poetic celebration<br/>of human diversity.</p>
+      <p begin="00:13:17.004" end="00:13:20.719">I'm starting to wonder if he'll see<br/>this film the same way.</p>
+      <p begin="00:13:20.719" end="00:13:24.005">As with everything else,<br/>he weaves his cosmic poetry around</p>
+      <p begin="00:13:24.005" end="00:13:26.602">the frames of the film<br/>we've begun shooting.</p>
+      <p begin="00:13:26.602" end="00:13:28.791">Right now, he wants this movie</p>
+      <p begin="00:13:28.791" end="00:13:31.788">to be a meditation<br/>on the contradictions of life.</p>
+      <p begin="00:13:31.788" end="00:13:35.760">But the biggest contradiction<br/>I am seeing, is in him.</p>
+      <p begin="00:13:36.909" end="00:13:41.747">The Spiritual Guru who grows restless<br/>without his followers.</p>
+      <p begin="00:13:48.281" end="00:13:51.672">You seem more contemplative than usual.</p>
+      <p begin="00:13:51.672" end="00:13:55.074">Is it because you're not<br/>on the Blackberry,</p>
+      <p begin="00:13:55.074" end="00:13:58.071">not Twittering,<br/>what is about this place...</p>
+      <p begin="00:13:58.071" end="00:14:01.552">- I think the fact that I'm not on the<br/>Blackberry, not twittering,</p>
+      <p begin="00:14:01.552" end="00:14:09.498">not on Facebook, not having to see e-mails<br/>sometimes makes you realize</p>
+      <p begin="00:14:09.498" end="00:14:14.077">how futile all that is anyway.<br/>If I have one flaw it's impatience.</p>
+      <p begin="00:14:14.077" end="00:14:17.429">And right now, I have nothing to do.</p>
+      <p begin="00:14:17.429" end="00:14:20.487">- In the absence of the Blackberry,<br/>the re-tweets, Facebook updates,</p>
+      <p begin="00:14:20.487" end="00:14:23.683">notes from publishers and reminders<br/>from his assistant,</p>
+      <p begin="00:14:23.683" end="00:14:26.649">my Dad preoccupied his time<br/>with a new hobby,</p>
+      <p begin="00:14:26.649" end="00:14:29.995">constructing elaborate new scenes<br/>in this film.</p>
+      <p begin="00:14:29.995" end="00:14:32.287">You already know<br/>the ending for the film, right?</p>
+      <p begin="00:14:32.287" end="00:14:33.565">- Yeah.</p>
+      <p begin="00:14:33.565" end="00:14:36.028">- Tell it to us.</p>
+      <p begin="00:14:36.028" end="00:14:40.221">- So right this moment there are<br/>little cells that you can hardly see.</p>
+      <p begin="00:14:42.472" end="00:14:47.932">These cells are going to your lungs,<br/>absorbing the oxygen from the atmosphere.</p>
+      <p begin="00:14:47.932" end="00:14:53.550">Your body is performing hundreds<br/>of thousands of activities per second.</p>
+      <p begin="00:14:54.288" end="00:14:58.538">The neurons are firing electrical storms<br/>though synaptic networks,</p>
+      <p begin="00:14:58.538" end="00:15:01.333">which is making me possible<br/>to speak to you.</p>
+      <p begin="00:15:01.333" end="00:15:07.048">This ground that I stand on is spinning<br/>at about a quarter of mile per second</p>
+      <p begin="00:15:07.048" end="00:15:11.501">and it's moving around the sun at<br/>18 and half miles per second.</p>
+      <p begin="00:15:15.189" end="00:15:17.998">I think the real me<br/>is this endless process.</p>
+      <p begin="00:15:19.791" end="00:15:21.270">I am the photons.</p>
+      <p begin="00:15:21.270" end="00:15:25.836">I am the movement of the Earth,<br/>I am the spiraling of the stars,</p>
+      <p begin="00:15:25.836" end="00:15:29.312">I am the universe and so are you.</p>
+      <p begin="00:15:29.312" end="00:15:34.206">And when we recognize that,<br/>then we have conquered death</p>
+      <p begin="00:15:34.206" end="00:15:37.780">and gone beyond the illusion<br/>of beginning and ending.</p>
+      <p begin="00:15:40.009" end="00:15:46.243">I think that should be the ending<br/>with special effects, the Earth spinning,</p>
+      <p begin="00:15:46.243" end="00:15:50.012">moving across intergalactic space-time.</p>
+      <p begin="00:15:50.012" end="00:15:51.961">- Am I the director<br/>or are you the director?</p>
+      <p begin="00:15:51.961" end="00:15:58.236">- Well, when I recognize that you<br/>and I are just differentiated aspects</p>
+      <p begin="00:15:58.236" end="00:16:03.013">of the same being, it doesn't matter who<br/>the director, who the protagonist,</p>
+      <p begin="00:16:03.013" end="00:16:08.244">who the antagonist, who the villain,<br/>who the hero, who the choreographer is.</p>
+      <p begin="00:16:08.244" end="00:16:10.988">It's the same consciousness playing<br/>different roles.</p>
+      <p begin="00:16:10.988" end="00:16:14.420">- Cool, then I have final prep<br/>and we have that on tape.</p>
+      <p begin="00:16:14.420" end="00:16:18.178">- I don't think that's gonna be,<br/>I guess.</p>
+      <p begin="00:16:19.165" end="00:16:20.964">Okay, let's go.</p>
+      <p begin="00:16:23.857" end="00:16:33.921">&#9834; [violin music] &#9834;</p>
+      <p begin="00:16:33.921" end="00:16:36.395">I was thinking actually,<br/>the last scene being me walking</p>
+      <p begin="00:16:36.395" end="00:16:42.594">off into that forest because<br/>this is actually very spectacular.</p>
+      <p begin="00:16:42.594" end="00:16:43.682">- Let's do it.</p>
+      <p begin="00:16:43.682" end="00:16:46.716">- Okay, rolling.</p>
+      <p begin="00:16:46.716" end="00:16:51.606">- Label me, define me, describe me,<br/>analyze me, evaluate me.</p>
+      <p begin="00:16:51.606" end="00:16:53.150">Nail me down in a box of...</p>
+      <p begin="00:16:53.150" end="00:16:55.402">- Hey, Papa.</p>
+      <p begin="00:16:58.441" end="00:17:00.238">Which way is Burma?</p>
+      <p begin="00:17:00.238" end="00:17:03.065">- I think he's probably<br/>gonna get there soon.</p>
+      <p begin="00:17:06.465" end="00:17:09.559">- Papa is starting to get tired<br/>of my needling him about his addictions</p>
+      <p begin="00:17:09.559" end="00:17:11.285">to non-spiritual things.</p>
+      <p begin="00:17:11.285" end="00:17:14.243">Are you shopping?</p>
+      <p begin="00:17:14.243" end="00:17:17.288">Perhaps he knows I have no intentions<br/>of leaving the Ritzy accommodations</p>
+      <p begin="00:17:17.288" end="00:17:22.251">out of the story. No chance of embracing<br/>his numerous ideas for the film.</p>
+      <p begin="00:17:22.251" end="00:17:26.820">I think the story begins<br/>about the year 1952.</p>
+      <p begin="00:17:26.820" end="00:17:29.445">Maybe he suspects that I have no plans<br/>to turn off the camera</p>
+      <p begin="00:17:29.445" end="00:17:34.251">the next few days when inevitably<br/>he'll get even more restless.</p>
+      <p begin="00:17:34.251" end="00:17:38.452">Yup, time to check out of the Peninsula<br/>and into the middle of nowhere.</p>
+      <p begin="00:17:38.877" end="00:17:41.135">Oh yeah.</p>
+      <p begin="00:17:43.157" end="00:17:46.805">This is the hut where my Dad's gonna be</p>
+      <p begin="00:17:46.805" end="00:17:50.801">for his pre-ordainment<br/>for the next few days.</p>
+      <p begin="00:17:50.801" end="00:17:55.484">I am, at the moment, thinking<br/>about how fast I can possibly get back</p>
+      <p begin="00:17:55.484" end="00:17:58.912">to Bangkok and the Peninsula Hotel.</p>
+      <p begin="00:18:03.662" end="00:18:07.631">- It's pretty good.<br/>It's not bad, huh?</p>
+      <p begin="00:18:07.631" end="00:18:09.412">- It's not the Peninsula.</p>
+      <p begin="00:18:09.412" end="00:18:15.455">- I like it though.<br/>Plenty of time to be mindful of awareness.</p>
+      <p begin="00:18:17.118" end="00:18:19.554">[doorlock banging]</p>
+      <p begin="00:18:19.713" end="00:18:21.536" region="top"> Soap is...</p>
+      <p begin="00:18:21.536" end="00:18:22.526" region="top"> - An indulgence.</p>
+      <p begin="00:18:22.526" end="00:18:25.476" region="top"> - ...is not good for the ecosystem.</p>
+      <p begin="00:18:25.476" end="00:18:29.337">- Within an hour, my Dad was on the hunt<br/>for an indulgence that's never far</p>
+      <p begin="00:18:29.337" end="00:18:33.110">from his reach back at home.</p>
+      <p begin="00:18:34.547" end="00:18:38.276">- So, before I settle down,</p>
+      <p begin="00:18:38.276" end="00:18:42.779">I'm just wondering<br/>if I can have a last cup of coffee.</p>
+      <p begin="00:18:42.779" end="00:18:44.766">- Oh, sure, sure, sure. I'll ask them.</p>
+      <p begin="00:18:44.766" end="00:18:47.763">But they'll let you have coffee<br/>all the time.</p>
+      <p begin="00:18:47.763" end="00:18:48.762">- They do?</p>
+      <p begin="00:18:48.762" end="00:18:51.373">- Yeah, as long as you don't eat<br/>heavy food.</p>
+      <p begin="00:18:51.373" end="00:18:53.169">Until then, you get coffee<br/>and you get fruits.</p>
+      <p begin="00:18:53.169" end="00:18:54.187">- Where?</p>
+      <p begin="00:18:54.187" end="00:18:56.402">- I'll have to ask,<br/>probably somewhere there.</p>
+      <p begin="00:18:56.402" end="00:18:59.517">- Can you please find out, just in case<br/>I kinda freak out or something.</p>
+      <p begin="00:18:59.517" end="00:19:03.209">[laughing]</p>
+      <p begin="00:19:03.209" end="00:19:08.363">- We can hide you some canned coffee.</p>
+      <p begin="00:19:08.363" end="00:19:11.144">- I don't wanna break the rules.</p>
+      <p begin="00:19:11.144" end="00:19:14.290">I think I've had enough of indulgence.</p>
+      <p begin="00:19:14.290" end="00:19:18.372">You know, strictly speaking,<br/>I should give up my Blackberry, too.</p>
+      <p begin="00:19:18.372" end="00:19:19.371">- You should.</p>
+      <p begin="00:19:19.371" end="00:19:20.963">- Yeah.</p>
+      <p begin="00:19:25.253" end="00:19:27.451">- Oh yeah. This is it.</p>
+      <p begin="00:19:27.451" end="00:19:29.568">- This is where I'll be.</p>
+      <p begin="00:19:29.568" end="00:19:33.219">- By now, Papa is well aware<br/>that the cameras are rolling all the time.</p>
+      <p begin="00:19:33.219" end="00:19:35.946">And he probably knows I'm aiming<br/>to get him with his guard down.</p>
+      <p begin="00:19:36.557" end="00:19:40.287">I also keep the cameras running<br/>because there's nothing else to do.</p>
+      <p begin="00:19:40.287" end="00:19:44.433">But in the process, I'm starting<br/>to notice something about us.</p>
+      <p begin="00:19:44.433" end="00:19:46.962">We follow the same script as always,</p>
+      <p begin="00:19:46.962" end="00:19:51.713">the dutiful teacher takes the floor,<br/>the wayward student rolls his eyes.</p>
+      <p begin="00:19:51.713" end="00:19:55.497">Even as the monk handbook calls<br/>for meditation on the moment that is now,</p>
+      <p begin="00:19:55.497" end="00:19:59.765">old rivalries boils up from the life<br/>we supposedly left back at home.</p>
+      <p begin="00:19:59.765" end="00:20:03.647">- I'm not in the world, the world is me.<br/>I'm not in the body, the body is me.</p>
+      <p begin="00:20:03.647" end="00:20:06.057">I'm not in the mind,<br/>the mind is in me.</p>
+      <p begin="00:20:06.057" end="00:20:08.228">I am the creator of the mind,<br/>the body and the world.</p>
+      <p begin="00:20:08.228" end="00:20:13.165">Now you say that to somebody like<br/>Michael Shermer, he pulls his head out</p>
+      <p begin="00:20:13.165" end="00:20:16.297">but he has no idea<br/>what he's talking about.</p>
+      <p begin="00:20:17.987" end="00:20:21.435">As usual, Papa's present<br/>but not entirely.</p>
+      <p begin="00:20:21.435" end="00:20:25.055">He's still irritated about a particularly<br/>contentious Nightline debate</p>
+      <p begin="00:20:25.055" end="00:20:26.522">that happened months ago.</p>
+      <p begin="00:20:26.522" end="00:20:28.287">- He just sort of, "Wows" people<br/>with the language</p>
+      <p begin="00:20:28.287" end="00:20:31.489">but what does it really mean to say,<br/>there's "Quantum consciousness?"</p>
+      <p begin="00:20:31.489" end="00:20:32.497">- When you say,<br/>"I'm skeptical about this,"</p>
+      <p begin="00:20:32.497" end="00:20:35.164">who's the "I" that's skeptical?</p>
+      <p begin="00:20:35.164" end="00:20:37.732">Is it your network or is it you?</p>
+      <p begin="00:20:37.732" end="00:20:41.123">- And I'm not pointing this out<br/>because I have a bone to pick with him,</p>
+      <p begin="00:20:41.123" end="00:20:43.154">I'm pointing it out<br/>because it's the truth.</p>
+      <p begin="00:20:43.154" end="00:20:45.544">- I want you to keep that thing</p>
+      <p begin="00:20:45.544" end="00:20:47.542">with Michael Shermer<br/>tearing his hair apart.</p>
+      <p begin="00:20:47.542" end="00:20:51.042">Nothing I enjoy more.</p>
+      <p begin="00:20:51.042" end="00:20:53.952">- Aren't you supposed to feel detached<br/>from that right now?</p>
+      <p begin="00:20:53.952" end="00:20:56.544">- I'm not.</p>
+      <p begin="00:20:56.544" end="00:21:00.079">- It's not so much that I disapprove<br/>of this experiment in monkhood,</p>
+      <p begin="00:21:00.079" end="00:21:03.263">but I've always seen this stark contrast<br/>between the stoic philosopher, Deepak,</p>
+      <p begin="00:21:03.263" end="00:21:07.555">that is celebrated by the world<br/>and the guy I know as my Dad.</p>
+      <p begin="00:21:07.555" end="00:21:09.709">The guy who turns<br/>any mundane question</p>
+      <p begin="00:21:09.709" end="00:21:11.927">into a talking point for a new book.</p>
+      <p begin="00:21:11.927" end="00:21:15.131" region="top"> - You know, less than 24 hours ago<br/>we were at the Peninsula...</p>
+      <p begin="00:21:15.131" end="00:21:18.096" region="top"> We had a nice breakfast,<br/>we went down to the spa...</p>
+      <p begin="00:21:18.096" end="00:21:21.400" region="top"> Can you talk about the contrast?</p>
+      <p begin="00:21:21.400" end="00:21:23.500">- Well, all experiences by contrast,</p>
+      <p begin="00:21:23.500" end="00:21:27.334">if you didn't know what hot was,<br/>you wouldn't know cold.</p>
+      <p begin="00:21:27.334" end="00:21:30.824">If you didn't know what pleasure was,<br/>you wouldn't know pain.</p>
+      <p begin="00:21:30.824" end="00:21:37.301">But that pleasure, pain, the sacred,<br/>the profane, the divine, the diabolical,</p>
+      <p begin="00:21:37.301" end="00:21:43.065">this is the contained conflict,<br/>which we call evolution.</p>
+      <p begin="00:21:43.065" end="00:21:48.103">In the absence of that,<br/>life is stale, mummified, static.</p>
+      <p begin="00:21:52.820" end="00:21:54.294">[men chanting]</p>
+      <p begin="00:21:54.294" end="00:21:56.424">- The monks gives thanks for food<br/>donated to them</p>
+      <p begin="00:21:56.424" end="00:21:58.848">by the surrounding villages.</p>
+      <p begin="00:21:58.848" end="00:22:04.618">Their newest disciples pays respect<br/>then joins me for lunch in the commissary.</p>
+      <p begin="00:22:04.618" end="00:22:08.076">It's become clear to me that<br/>all of this is just exotic scenery</p>
+      <p begin="00:22:08.076" end="00:22:12.128">to document the familiar patterns<br/>of the Dad that I've known for years.</p>
+      <p begin="00:22:12.128" end="00:22:17.301">[snoring]</p>
+      <p begin="00:22:17.301" end="00:22:20.613" region="top">- He's a...meditating.</p>
+      <p begin="00:22:20.613" end="00:22:23.797">Like every son, I became frustrated<br/>when my father thinks</p>
+      <p begin="00:22:23.797" end="00:22:26.272">he has nothing left to learn.</p>
+      <p begin="00:22:26.272" end="00:22:30.863">- I think the intellectual understanding<br/>of some of these abbots is not as</p>
+      <p begin="00:22:30.863" end="00:22:38.241">deep as mine in all fairness<br/>but on the other hand,</p>
+      <p begin="00:22:38.241" end="00:22:41.238">there is a certain elegance<br/>in their simplicity</p>
+      <p begin="00:22:41.238" end="00:22:43.585">that is very attractive.</p>
+      <p begin="00:22:45.547" end="00:22:49.943">It's not getting away from it all<br/>but getting in touch with it all.</p>
+      <p begin="00:22:49.943" end="00:22:52.499">I think once you've experienced<br/>that kind of solitude</p>
+      <p begin="00:22:52.499" end="00:22:56.030">you can take it with you<br/>where ever you go.</p>
+      <p begin="00:23:09.973" end="00:23:15.842">The idea of impermanence actually<br/>allows you to go into a deeper reality.</p>
+      <p begin="00:23:15.842" end="00:23:18.509">The dream comes and goes from where?</p>
+      <p begin="00:23:18.509" end="00:23:22.374">Where does the dream arise?<br/>Where is it conceived?</p>
+      <p begin="00:23:22.374" end="00:23:24.894">And that part is transcendent.</p>
+      <p begin="00:23:24.894" end="00:23:29.007">It's beyond space, time<br/>and causality.</p>
+      <p begin="00:23:29.007" end="00:23:32.127">- I had this one recurring dream<br/>when I was a kid.</p>
+      <p begin="00:23:32.127" end="00:23:35.486">I must have been about... I don't know,<br/>6 years old.</p>
+      <p begin="00:23:35.486" end="00:23:41.487">In school, one of the other kids<br/>called me a name, it was a racist name.</p>
+      <p begin="00:23:41.487" end="00:23:44.340">I can't remember the exact term<br/>but I remember the feeling.</p>
+      <p begin="00:23:46.269" end="00:23:50.536">I went to my Dad, "Why do you think<br/>he said that, papa?"</p>
+      <p begin="00:23:50.536" end="00:23:53.856">He shrugged his shoulders,<br/>"Don't worry about it,</p>
+      <p begin="00:23:55.003" end="00:23:59.311">that boy is just expressing<br/>his own insecurity over his identity,</p>
+      <p begin="00:23:59.311" end="00:24:02.824">he's not self aware.<br/>He's confusing the role player</p>
+      <p begin="00:24:02.824" end="00:24:07.376">with the role underneath.<br/>That's what most people do."</p>
+      <p begin="00:24:07.376" end="00:24:13.934">I just sort of stared at him unbelievably,<br/>why did he say that? What did he mean?</p>
+      <p begin="00:24:13.934" end="00:24:16.662">Did he really mean it?</p>
+      <p begin="00:24:16.662" end="00:24:18.751">I think sometimes<br/>I still stare at him that way</p>
+      <p begin="00:24:18.751" end="00:24:24.498">wondering if I do it for long enough<br/>whether I'll ever fully understand him.</p>
+      <p begin="00:24:27.877" end="00:24:47.021">&#9834; [music] &#9834;</p>
+      <p begin="00:24:47.021" end="00:24:49.200">- So Papa, what's today?</p>
+      <p begin="00:24:49.200" end="00:24:53.430">- Today is the ordainment.</p>
+      <p begin="00:24:53.430" end="00:24:58.124">Head shaving, ride on that elephant,<br/>the initiation of the monk.</p>
+      <p begin="00:24:58.124" end="00:25:01.710">I think most significant to me is,<br/>"What does it mean?"</p>
+      <p begin="00:25:01.710" end="00:25:05.629">And the key is gonna make that<br/>a lifestyle,</p>
+      <p begin="00:25:05.629" end="00:25:10.285">'cause I live in choiceless awareness,<br/>which would be great to go</p>
+      <p begin="00:25:10.285" end="00:25:11.696">with the flow.</p>
+      <p begin="00:25:11.696" end="00:25:14.304">So, no outcomes what so ever.</p>
+      <p begin="00:25:14.304" end="00:25:16.702">No, New York Times Bestseller.</p>
+      <p begin="00:25:16.702" end="00:25:24.379">Craving, no desire to make a movie,<br/>no desire to do this or that.</p>
+      <p begin="00:25:24.379" end="00:25:27.791">- And are you ready<br/>to get your head shaved?</p>
+      <p begin="00:25:27.791" end="00:25:31.305">- Yeah, I need a hair cut anyway,<br/>it's kinda getting itchy so might as well</p>
+      <p begin="00:25:31.305" end="00:25:34.973">get the head shaved<br/>and start all over again.</p>
+      <p begin="00:25:34.973" end="00:25:36.376">- Eyebrows? Just the eyebrows?</p>
+      <p begin="00:25:36.376" end="00:25:40.583">- Whatever they want,<br/>I mean choiceless awareness, remember?</p>
+      <p begin="00:25:40.583" end="00:25:43.595">- You've made the choice to still hang on<br/>to your Blackberry, huh?</p>
+      <p begin="00:25:43.595" end="00:25:50.585">- I'm sending pictures home to Mom... and,<br/>yeah, I think it's a moment worth sharing.</p>
+      <p begin="00:25:55.067" end="00:25:57.693">Impermanence is not something<br/>to be afraid of.</p>
+      <p begin="00:25:57.693" end="00:26:01.334">It's the evolution,<br/>it's never ending horizon.</p>
+      <p begin="00:26:01.334" end="00:26:07.240">And there's evolution of physical form,<br/>there's evolution of the mind</p>
+      <p begin="00:26:07.240" end="00:26:10.228">and then there's evolution<br/>of consciousness</p>
+      <p begin="00:26:10.228" end="00:26:13.225">and that should transcend<br/>limited identities</p>
+      <p begin="00:26:13.225" end="00:26:18.600">for bigger and bigger and bigger<br/>and ultimately for the universe.</p>
+      <p begin="00:26:18.600" end="00:26:19.968">[men chanting]</p>
+      <p begin="00:26:19.968" end="00:26:21.797">In the beginning at least.</p>
+      <p begin="00:26:21.797" end="00:27:40.697">&#9834; [music] &#9834;</p>
+      <p begin="00:27:40.697" end="00:27:41.744">- How do you feel?</p>
+      <p begin="00:27:41.744" end="00:27:42.974">- How do I feel?</p>
+      <p begin="00:27:42.974" end="00:27:49.555">I feel... a little...<br/>strangely confused actually</p>
+      <p begin="00:27:49.555" end="00:27:54.273">because if you take away<br/>the usual labels, then what's left?</p>
+      <p begin="00:27:54.498" end="00:27:59.498">I mean, I certainly don't look the same,<br/>right now.</p>
+      <p begin="00:27:59.498" end="00:28:01.597">Do I feel the same?<br/>No, I don't feel the same.</p>
+      <p begin="00:28:01.597" end="00:28:08.556">So, I'm asking myself, "Who am I?"<br/>And I have no idea.</p>
+      <p begin="00:28:08.556" end="00:28:11.612">I'm looking forward to Krishu<br/>being in New York</p>
+      <p begin="00:28:11.612" end="00:28:14.048">and I think I'll take him to Starbucks.</p>
+      <p begin="00:28:14.048" end="00:28:15.754">- So you still have a Starbucks craving?</p>
+      <p begin="00:28:15.754" end="00:28:19.263">I want to take Krishu to Starbucks<br/>and buy him banana cake</p>
+      <p begin="00:28:19.263" end="00:28:23.400">because last time I took Krishu<br/>to Starbucks and we had banana cake</p>
+      <p begin="00:28:23.400" end="00:28:26.081">he talked about it for a long time</p>
+      <p begin="00:28:26.081" end="00:28:28.079">and I want to see<br/>the expression on his face.</p>
+      <p begin="00:28:30.254" end="00:28:32.695">- Did I give you your Blackberry back?</p>
+      <p begin="00:28:32.695" end="00:28:34.494">- Yes, you did.</p>
+      <p begin="00:28:34.494" end="00:28:37.470">Send me a text before you leave<br/>so I know you left.</p>
+      <p begin="00:28:37.470" end="00:28:39.932">Okay, see you.</p>
+      <p begin="00:28:39.932" end="00:28:40.882">- See you in New York.</p>
+      <p begin="00:28:40.882" end="00:28:42.039">- Yeah, thank you.</p>
+      <p begin="00:28:42.039" end="00:28:46.693">&#9834; [music] &#9834;</p>
+      <p begin="00:28:52.678" end="00:28:55.443">- So how does it feel to be back<br/>from Thailand?</p>
+      <p begin="00:28:55.443" end="00:29:00.384">- Now that I've come back,<br/>there's definitely a subtle shift.</p>
+      <p begin="00:29:00.384" end="00:29:04.204">You know, you realize that everything<br/>is a dream, that was a dream</p>
+      <p begin="00:29:04.204" end="00:29:08.112">and now, we are in another dream<br/>and your audience is visiting me</p>
+      <p begin="00:29:08.112" end="00:29:09.830">in my dream right now.</p>
+      <p begin="00:29:09.830" end="00:29:12.925">The outcome is not as important<br/>as it used to be.</p>
+      <p begin="00:29:12.925" end="00:29:16.002">Will I still look at the New York Times<br/>Best Seller list?</p>
+      <p begin="00:29:16.002" end="00:29:20.602">Probably, but will it make a difference?<br/>Not as it did before.</p>
+      <p begin="00:29:20.602" end="00:29:24.291">When the time is right,<br/>whatever I'm doing,</p>
+      <p begin="00:29:24.291" end="00:29:27.288">I'll be there<br/>and I'll be present.</p>
+      <p begin="00:29:29.195" end="00:29:31.535">- Okay, great.</p>
+      <p begin="00:29:34.545" end="00:29:37.189">- We are two minutes away<br/>and you do know</p>
+      <p begin="00:29:37.189" end="00:29:41.426"> that my son is coming<br/>with a camera, right? He told you?</p>
+      <p begin="00:29:42.686" end="00:29:47.104">Yeah, yeah, but they'll let him in, right?</p>
+      <p begin="00:29:47.104" end="00:29:49.518">I'm launching my book,</p>
+      <p begin="00:29:49.518" end="00:29:53.514">"Muhammad: A Story<br/>of the Last Prophet" today.</p>
+      <p begin="00:29:53.514" end="00:29:56.132">We're going to CNN now to do<br/>The Morning Show</p>
+      <p begin="00:29:56.132" end="00:30:00.528">and then an interview with<br/>USA Today and Tonight.</p>
+      <p begin="00:30:00.528" end="00:30:02.800">- And just like that,<br/>we're back in the hustle.</p>
+      <p begin="00:30:02.800" end="00:30:06.165">The world of monkhood<br/>and monastery is half a world away.</p>
+      <p begin="00:30:06.165" end="00:30:08.400">I'm not sure what to make of all that.</p>
+      <p begin="00:30:08.400" end="00:30:10.367">No time to even figure it out.</p>
+      <p begin="00:30:10.367" end="00:30:13.154">So you wanna know something<br/>about journalists?</p>
+      <p begin="00:30:13.154" end="00:30:18.656">They want to know some of the facts,<br/>they don't wanna know the truth.</p>
+      <p begin="00:30:18.656" end="00:30:21.726">But they're always interested<br/>in a good story.</p>
+      <p begin="00:30:21.726" end="00:30:24.657">I need to go quickly to the bathroom,<br/>can I?</p>
+      <p begin="00:30:24.657" end="00:30:28.735">[female reporter speaking]</p>
+      <p begin="00:30:29.631" end="00:30:32.804">I know where it is,<br/>right here, right?</p>
+      <p begin="00:30:32.804" end="00:30:36.557">- We have two minutes<br/>until we go live on air,</p>
+      <p begin="00:30:36.557" end="00:30:40.052">so I can catch up with my e-mails.</p>
+      <p begin="00:30:40.052" end="00:30:42.775" region="top"> - Are you nervous you're about<br/>to go on air?</p>
+      <p begin="00:30:42.775" end="00:30:45.591">- Gotham, I haven't felt nervous<br/>since I was 14 years of age.</p>
+      <p begin="00:30:45.591" end="00:30:46.641">Okay.</p>
+      <p begin="00:30:46.641" end="00:30:48.422">- [female reporter] Good morning<br/>live in New York, on the day</p>
+      <p begin="00:30:48.422" end="00:30:52.091">that his new book comes out, why did you<br/>and your publisher make that choice?</p>
+      <p begin="00:30:52.091" end="00:30:53.253">- Well, thanks.</p>
+      <p begin="00:30:53.253" end="00:30:55.721">Well, there's a lot of buzz<br/>on the internet,</p>
+      <p begin="00:30:55.721" end="00:30:57.719">on Twitter, on Facebook,</p>
+      <p begin="00:30:57.719" end="00:31:01.671">a lot of conversations going on<br/>in places like Saudi Arabia,</p>
+      <p begin="00:31:01.671" end="00:31:04.069">it's getting a lot of attention.</p>
+      <p begin="00:31:04.069" end="00:31:06.366">The book is getting a lot of attention.</p>
+      <p begin="00:31:06.366" end="00:31:13.337">A few people are worried that in fact<br/>it may inflame tensions, I don't think so.</p>
+      <p begin="00:31:13.337" end="00:31:17.416">- Tensions are swirling<br/>as the 9th anniversary of 9/11 draws near.</p>
+      <p begin="00:31:17.416" end="00:31:22.537">The self help Guru, Deepak Chopra,<br/>steps in with a fictionalized biography</p>
+      <p begin="00:31:22.537" end="00:31:24.775">of the Prophet Muhammad.</p>
+      <p begin="00:31:24.775" end="00:31:26.259">- Book sellers were nervous about that?</p>
+      <p begin="00:31:26.259" end="00:31:27.307">- Yes.</p>
+      <p begin="00:31:27.307" end="00:31:29.442">- The path of monkhood was meant to<br/>embrace detachment,</p>
+      <p begin="00:31:29.442" end="00:31:33.380">which in my father's eyes apparently means<br/>detachment from the controversy</p>
+      <p begin="00:31:33.380" end="00:31:35.810">around his latest publication.</p>
+      <p begin="00:31:35.810" end="00:31:41.822">The fact was things were boiling over<br/>on CNN, NBC, ABC and of course Fox News.</p>
+      <p begin="00:31:41.822" end="00:31:43.774">- What did you say about Fox,<br/>that we wanna...</p>
+      <p begin="00:31:43.774" end="00:31:50.249">- Fox and your self have whole heartedly<br/>cheered on the disastrous war in Iraq.</p>
+      <p begin="00:31:50.249" end="00:31:51.875">So I can understand why you continue </p>
+      <p begin="00:31:51.875" end="00:31:54.982">to mount a rear guard--<br/>- Deepak, I don't understand...</p>
+      <p begin="00:31:54.982" end="00:31:57.394">Wait, wait... Hang on a second.</p>
+      <p begin="00:31:57.394" end="00:32:01.432">- I'm excited all the time<br/>to talk about anything.</p>
+      <p begin="00:32:05.247" end="00:32:06.948">- Here's the truth about growing up<br/>chasing my Dad </p>
+      <p begin="00:32:06.948" end="00:32:08.910">through a life<br/>of haphazardly orchestrated</p>
+      <p begin="00:32:08.910" end="00:32:14.393">speaking tours, media junkets,<br/>public spectacle of televised debates.</p>
+      <p begin="00:32:14.393" end="00:32:16.429">When people approach him,<br/>he knows all the appropriate humble things</p>
+      <p begin="00:32:16.429" end="00:32:19.915">to say<br/>but the more closely I follow him,</p>
+      <p begin="00:32:19.915" end="00:32:25.192">the more I see that he's driven<br/>by an insatiable hunger to be relevant.</p>
+      <p begin="00:32:26.751" end="00:32:29.186">And where are we going now?</p>
+      <p begin="00:32:29.186" end="00:32:32.181">- We're going to the first official launch</p>
+      <p begin="00:32:32.183" end="00:32:35.178">of "Muhhamad:<br/>A Story of the Last Prophet".</p>
+      <p begin="00:32:35.178" end="00:32:37.250">- So what are you going to be<br/>talking about tonight or what is the...?</p>
+      <p begin="00:32:37.250" end="00:32:39.291">- Guess what?<br/>Jesus Christ.</p>
+      <p begin="00:32:39.328" end="00:32:41.262">[chuckles]</p>
+      <p begin="00:32:41.262" end="00:32:44.295">- Just a little about Deepak's background,<br/>as you probably know,</p>
+      <p begin="00:32:44.295" end="00:32:49.854">he has written over 50 books,<br/>translated into 35 languages...</p>
+      <p begin="00:32:49.992" end="00:32:51.344">[Audience applause]</p>
+      <p begin="00:32:51.344" end="00:32:52.959">There he is.</p>
+      <p begin="00:32:52.959" end="00:32:58.154">[Audience clapping]</p>
+      <p begin="00:32:58.154" end="00:33:02.426">- Thank you, again.</p>
+      <p begin="00:33:04.473" end="00:33:06.365">- So how's life?</p>
+      <p begin="00:33:06.365" end="00:33:08.867">[audience responding]</p>
+      <p begin="00:33:08.867" end="00:33:10.392">- What's up?</p>
+      <p begin="00:33:10.392" end="00:33:13.004">[audience chuckling]</p>
+      <p begin="00:33:13.004" end="00:33:18.549">First of all, thank you very much<br/>for being here.</p>
+      <p begin="00:33:18.549" end="00:33:24.243">This is my first event with "Muhhamad:<br/>The Story of the Last Prophet".</p>
+      <p begin="00:33:24.243" end="00:33:25.308">- How do you feel that that went?</p>
+      <p begin="00:33:25.308" end="00:33:26.990">- I think it was spectacular.</p>
+      <p begin="00:33:26.990" end="00:33:27.989">- Yeah?</p>
+      <p begin="00:33:27.989" end="00:33:29.905">- I loved it. You can feel the energy<br/>in the room, right?</p>
+      <p begin="00:33:29.905" end="00:33:31.030">Yeah?</p>
+      <p begin="00:33:33.628" end="00:33:36.962">- We're gonna start the line right here<br/>and if everyone, please,</p>
+      <p begin="00:33:36.962" end="00:33:43.414">in an orderly fashion,<br/>will single file go down this side</p>
+      <p begin="00:33:43.414" end="00:33:46.612">and then we'll run the line out the door.</p>
+      <p begin="00:33:46.612" end="00:33:50.079">Everybody please single file.</p>
+      <p begin="00:33:52.715" end="00:33:54.835">- We have to keep moving, huh?</p>
+      <p begin="00:33:57.149" end="00:33:59.696">- It's clear that my Dad has settled<br/>comfortably back into the role</p>
+      <p begin="00:33:59.696" end="00:34:01.670">that's expected of him.</p>
+      <p begin="00:34:01.670" end="00:34:03.189">And while he seems<br/>to genuinely believe his journey</p>
+      <p begin="00:34:03.189" end="00:34:08.328">to monkhood changed him, it appears to me,<br/>his concerns about the critical receptions</p>
+      <p begin="00:34:08.328" end="00:34:12.895">of his latest book are a present as ever.</p>
+      <p begin="00:34:12.895" end="00:34:17.333">I followed him to Thailand, curious to see<br/>if his ordainment would truly change him,</p>
+      <p begin="00:34:17.333" end="00:34:20.847">for now, I can't really say it did.</p>
+      <p begin="00:34:21.810" end="00:34:23.436">Are we late?</p>
+      <p begin="00:34:23.436" end="00:34:27.371">- Are we late?<br/>Every moment we are closer to death.</p>
+      <p begin="00:34:27.371" end="00:34:30.305">- You seem very impatient.</p>
+      <p begin="00:34:30.305" end="00:34:32.275">- Time is precious.</p>
+      <p begin="00:34:32.275" end="00:34:46.091">&#9834; [music] &#9834;</p>
+      <p begin="00:34:46.091" end="00:34:50.247">- City to city.<br/>Country to country.</p>
+      <p begin="00:34:50.247" end="00:34:54.019">The blur of images begins to feel familiar<br/>like the hazy memory </p>
+      <p begin="00:34:54.019" end="00:34:58.234">of growing up with him on the road.<br/>You start to get lost,</p>
+      <p begin="00:34:58.234" end="00:35:00.292">unsure of where you really are.</p>
+      <p begin="00:35:00.292" end="00:35:04.549">You go to sleep in one city<br/>and wake up in another.</p>
+      <p begin="00:35:05.190" end="00:35:07.452">- So, where are we?</p>
+      <p begin="00:35:07.452" end="00:35:10.149">- We're in Tokyo,<br/>how many times do you ask me that?</p>
+      <p begin="00:35:10.149" end="00:35:13.601">It's obvious isn't it where we are?</p>
+      <p begin="00:35:16.388" end="00:35:20.237">Papa's receiving a prestigious<br/>Japanese peace award.</p>
+      <p begin="00:35:20.237" end="00:35:23.351">The family's tagging along<br/>and making a vacation out of it.</p>
+      <p begin="00:35:23.351" end="00:35:25.832">- Can you also teach me how to do Origami?</p>
+      <p begin="00:35:25.832" end="00:35:27.991">- Yes. I'm trying to figure out<br/>how to make the elephant.</p>
+      <p begin="00:35:27.991" end="00:35:31.810">- This is familiar territory.<br/>Bored in the Green Room.</p>
+      <p begin="00:35:31.810" end="00:35:35.548">Weird foods at awkward banquets.<br/>I know this drill.</p>
+      <p begin="00:35:35.548" end="00:35:38.179">And now I'm making Krishu do it too.</p>
+      <p begin="00:35:38.179" end="00:35:39.570">Welcome to the world kid,<br/>where the line </p>
+      <p begin="00:35:39.570" end="00:35:44.716">between business and family<br/>is permanently blurry.</p>
+      <p begin="00:35:55.238" end="00:35:57.669">What do you think<br/>the film should really be about?</p>
+      <p begin="00:35:57.669" end="00:36:00.231">What it should be about<br/>or what I hope it's about,</p>
+      <p begin="00:36:00.231" end="00:36:04.681">I think Papa lives in a world,<br/>in which he's the center of the universe</p>
+      <p begin="00:36:04.681" end="00:36:07.380">and everything revolves around him,</p>
+      <p begin="00:36:07.380" end="00:36:10.564">and so I think it's whether he is<br/>on a journey to become a monk</p>
+      <p begin="00:36:10.564" end="00:36:13.275">but can't let go of his Blackberry.</p>
+      <p begin="00:36:13.275" end="00:36:19.375">I hope at the end of the film,<br/>people take away the humanity of him</p>
+      <p begin="00:36:19.375" end="00:36:21.225">and themselves.</p>
+      <p begin="00:36:21.225" end="00:36:23.469">- He thinks it should be about<br/>consciousness.</p>
+      <p begin="00:36:23.469" end="00:36:26.249">- Yeah, of course, because<br/>that is his passion.</p>
+      <p begin="00:36:26.249" end="00:36:28.669">So obviously he wants a film<br/>about consciousness.</p>
+      <p begin="00:36:37.196" end="00:36:40.973">- Papa, can you tell us where we are?</p>
+      <p begin="00:36:40.973" end="00:36:43.505">- Gotham...</p>
+      <p begin="00:36:43.505" end="00:36:45.100">- Just one question.</p>
+      <p begin="00:36:45.100" end="00:36:46.550">- We're in Tokyo, I think.</p>
+      <p begin="00:36:46.550" end="00:36:49.127">- Why?</p>
+      <p begin="00:36:49.127" end="00:36:51.145">- Family holiday.</p>
+      <p begin="00:36:53.057" end="00:36:56.264">- Well then, why are you doing your work?</p>
+      <p begin="00:36:56.264" end="00:36:59.159">- Because I have to prepare for this.</p>
+      <p begin="00:36:59.159" end="00:37:00.879">- Krishnu, what are you doing?</p>
+      <p begin="00:37:00.879" end="00:37:02.425">- Watching TV.</p>
+      <p begin="00:37:02.425" end="00:37:03.928">- What are you watching?</p>
+      <p begin="00:37:03.928" end="00:37:07.207">- Kung Fu Panda.</p>
+      <p begin="00:37:07.207" end="00:37:10.394">- He's totally kind of, in many ways,<br/>self involved.</p>
+      <p begin="00:37:10.394" end="00:37:13.691">I think the most important<br/>thing for him is to communicate</p>
+      <p begin="00:37:13.691" end="00:37:16.566">and to be heard.</p>
+      <p begin="00:37:16.566" end="00:37:21.150">If he didn't have an audience,<br/>it would be a complete problem for him.</p>
+      <p begin="00:37:21.513" end="00:37:24.105">- The constant adoration of my Dad<br/>is something the family </p>
+      <p begin="00:37:24.105" end="00:37:28.880">has gotten used to over time<br/>but never fully comfortable with.</p>
+      <p begin="00:37:28.880" end="00:37:31.522">- She realized the importance<br/>of your existence</p>
+      <p begin="00:37:31.522" end="00:37:34.519">and the work that you do is so amazing.</p>
+      <p begin="00:37:34.519" end="00:37:37.584">Everybody is waiting for you<br/>and wanting your knowledge</p>
+      <p begin="00:37:37.584" end="00:37:41.672">and wisdom to be spread around the world<br/>and she feels that so much.</p>
+      <p begin="00:37:41.672" end="00:37:43.903">- It's a wonderful place to be.</p>
+      <p begin="00:37:43.903" end="00:37:45.307">- Thank you.</p>
+      <p begin="00:37:45.307" end="00:37:47.730">- He's perfected the role<br/>of being the object</p>
+      <p begin="00:37:47.730" end="00:37:49.998">of their devotion<br/>becoming the teacher</p>
+      <p begin="00:37:49.998" end="00:37:55.923">everyone wants him to be but sometimes,<br/>I sense he's doing the same thing with us.</p>
+      <p begin="00:37:55.923" end="00:37:59.644">With his grandchildren,<br/>he's playing the role</p>
+      <p begin="00:37:59.644" end="00:38:02.641">expected but his mind is somewhere else.</p>
+      <p begin="00:38:02.653" end="00:38:05.086">[Krishnu crying]</p>
+      <p begin="00:38:05.086" end="00:38:11.470">- Rita can you say yes to<br/>Danny DeVito's invitation... for me?</p>
+      <p begin="00:38:15.483" end="00:38:18.043">- Show Dada what type of train is this.</p>
+      <p begin="00:38:18.043" end="00:38:19.855">- Bullet.</p>
+      <p begin="00:38:21.175" end="00:38:24.427">- I love you.</p>
+      <p begin="00:38:24.810" end="00:38:26.316">- You love Dada?</p>
+      <p begin="00:38:26.316" end="00:38:30.042">- Say it's okay because Dada has<br/>enough love for the both of you.</p>
+      <p begin="00:38:30.042" end="00:38:31.537">- Okay, let's... you know,</p>
+      <p begin="00:38:31.537" end="00:38:36.780">let's ask Gotham to use one camera<br/>every second.</p>
+      <p begin="00:38:36.780" end="00:38:39.838">- Do you think there's a part of him now<br/>that's more in touch</p>
+      <p begin="00:38:39.838" end="00:38:43.245"> with what's important to him than before?</p>
+      <p begin="00:38:43.245" end="00:38:47.626">- He is much more at, you know,<br/>comfortable with himself now.</p>
+      <p begin="00:38:47.626" end="00:38:51.612">Maybe when you and Mallika were small,<br/>he was still trying to prove himself.</p>
+      <p begin="00:38:51.612" end="00:38:54.070">Now, he's proved<br/>whatever he needs to prove.</p>
+      <p begin="00:38:54.070" end="00:38:58.044">And so that's completely taken<br/>out of the way, so he doesn't need</p>
+      <p begin="00:38:58.044" end="00:39:01.777">to put his energy into proving himself.</p>
+      <p begin="00:39:01.777" end="00:39:05.771">- He may not need<br/>to prove anything but I do. </p>
+      <p begin="00:39:05.771" end="00:39:08.520">For a long time, I wanted to replace<br/>the sea of adoring faces </p>
+      <p begin="00:39:08.520" end="00:39:11.165">and constant applause with some humility.</p>
+      <p begin="00:39:11.165" end="00:39:14.359">The proverbial, "Bigger picture."</p>
+      <p begin="00:39:14.359" end="00:39:19.076">But now something&#146;s changing,<br/>I've turned the cameras on my own family.</p>
+      <p begin="00:39:19.076" end="00:39:22.127">Opening up our lives<br/>to be viewed by the world.</p>
+      <p begin="00:39:22.127" end="00:39:25.112">Just as my father did before me.</p>
+      <p begin="00:39:25.112" end="00:39:27.606">How much of this story<br/>is actually about us?</p>
+      <p begin="00:39:27.606" end="00:39:29.358">About me?</p>
+      <p begin="00:39:29.358" end="00:39:32.502">Fragments stretched over decades<br/>about a father who wasn't there</p>
+      <p begin="00:39:32.502" end="00:39:38.133">to the Guru who was, to my trying<br/>to reconcile what the world sees in my dad</p>
+      <p begin="00:39:38.133" end="00:39:40.217">that maybe I can't.</p>
+      <p begin="00:39:40.217" end="00:39:48.708">&#9834; [music] &#9834;</p>
+      <p begin="00:39:48.708" end="00:39:53.706">&#9834; My heart is on fire &#9834;</p>
+      <p begin="00:39:53.706" end="00:39:57.908">&#9834; In my madness I roam the desert &#9834;</p>
+      <p begin="00:39:57.908" end="00:40:04.924">&#9834; The flames of my passion<br/>devour the wind and the sky &#9834;</p>
+      <p begin="00:40:04.924" end="00:40:07.701">&#9834; I try to remember in my heart &#9834;</p>
+      <p begin="00:40:07.701" end="00:40:11.156">&#9834; What I dreamt about at night &#9834;</p>
+      <p begin="00:40:11.156" end="00:40:16.054">&#9834; before I became aware<br/>of this morning of life &#9834;</p>
+      <p begin="00:40:16.054" end="00:40:18.974">&#9834; I found my dreams... &#9834;</p>
+      <p begin="00:40:18.974" end="00:40:23.327">- So here we are in Sedona.<br/>Sedona is known for Vortexes.</p>
+      <p begin="00:40:23.327" end="00:40:27.979">And of course, the plural of "Vortex"<br/>is "Vortices" but in Sedona,</p>
+      <p begin="00:40:27.979" end="00:40:31.072">they're called "Vortexes"<br/>and we tap into that energy</p>
+      <p begin="00:40:31.072" end="00:40:34.188">and through the guidance<br/>and leadership of Deepak Chopra,</p>
+      <p begin="00:40:34.188" end="00:40:37.271">we weave the stillness and sounds<br/>and we connect to nature</p>
+      <p begin="00:40:37.271" end="00:40:39.032">and we connect to this energy.</p>
+      <p begin="00:40:39.032" end="00:40:47.945">- Move with the grass. Beautiful.<br/>Lift your face to the sky.</p>
+      <p begin="00:40:47.945" end="00:40:51.683">- In a place where people<br/>from all over the world can tap into</p>
+      <p begin="00:40:51.683" end="00:40:58.222">this dialogue of Adanta, of consciousness,<br/>of healing, of love, of expansion.</p>
+      <p begin="00:40:58.222" end="00:41:07.245">[audience applauding]</p>
+      <p begin="00:41:07.245" end="00:41:09.068">- So, hows life?</p>
+      <p begin="00:41:09.068" end="00:41:11.383">[audience laughing]</p>
+      <p begin="00:41:11.383" end="00:41:12.806">- What's up?</p>
+      <p begin="00:41:12.806" end="00:41:14.337">[audience laughing]</p>
+      <p begin="00:41:14.337" end="00:41:19.069">This week get into habit of "Being."</p>
+      <p begin="00:41:19.069" end="00:41:23.293">The art of being is called,"Raja Yoga."</p>
+      <p begin="00:41:23.293" end="00:41:27.802">- Do you think people grasp<br/>a lot of what he's talking about?</p>
+      <p begin="00:41:27.802" end="00:41:31.751">I mean does a lot of he's talking about<br/>go over their heads? Fly by people?</p>
+      <p begin="00:41:31.751" end="00:41:34.956">- You know, I think we all have had<br/>the experience of sitting in the audience</p>
+      <p begin="00:41:34.956" end="00:41:40.386">and Deepak speaks,and you go...</p>
+      <p begin="00:41:40.386" end="00:41:43.200">- A self-image is<br/>our personal history</p>
+      <p begin="00:41:43.200" end="00:41:47.993">which is composed of memories<br/>of things that no longer exist.</p>
+      <p begin="00:41:47.993" end="00:41:50.168">- And then you leave,<br/>and then you say,</p>
+      <p begin="00:41:50.168" end="00:41:52.134">"I just had the most<br/>transformational..."</p>
+      <p begin="00:41:52.134" end="00:41:54.483">I don't know,<br/>I can't even describe it.</p>
+      <p begin="00:41:54.483" end="00:41:56.273">Like, really?<br/>what did he say?</p>
+      <p begin="00:41:56.273" end="00:42:00.419">Like... I don't have a clue.</p>
+      <p begin="00:42:00.419" end="00:42:05.009">- Creativity, higher guidance transcends.</p>
+      <p begin="00:42:05.009" end="00:42:07.730">Go over this many times.<br/>This is the practice.</p>
+      <p begin="00:42:07.730" end="00:42:10.449">If you do this, this week,<br/>along with your meditation</p>
+      <p begin="00:42:10.449" end="00:42:13.909">and everything else that we're doing--<br/>yoga, breathing, </p>
+      <p begin="00:42:13.909" end="00:42:18.397">then actually-- thanks for coming<br/>and go home.</p>
+      <p begin="00:42:18.397" end="00:42:20.151">[audience laughing]</p>
+      <p begin="00:42:20.151" end="00:42:24.808">[applause]</p>
+      <p begin="00:42:26.411" end="00:42:29.179">There is a phenomenon called<br/>the "New Age."</p>
+      <p begin="00:42:29.179" end="00:42:33.613">The New Age phenomenon is looking<br/>for the paranormal, </p>
+      <p begin="00:42:33.613" end="00:42:41.274">is looking for spirituality.<br/>A lot of it is hype.</p>
+      <p begin="00:42:41.274" end="00:42:43.584">Maybe some of this activity<br/>that happened here</p>
+      <p begin="00:42:43.584" end="00:42:45.300">doesn't excite me.</p>
+      <p begin="00:42:45.300" end="00:42:48.477">But on the other hand,<br/>I'm really sensitive to people's needs,</p>
+      <p begin="00:42:48.477" end="00:42:52.247">and people have a variety of this.</p>
+      <p begin="00:42:56.061" end="00:42:59.120">- I'm living in a world<br/>that sees itself in my father.</p>
+      <p begin="00:42:59.120" end="00:43:01.261">The reality of his life gets lost<br/>in the picture </p>
+      <p begin="00:43:01.261" end="00:43:03.744">his audiences constructed of it.</p>
+      <p begin="00:43:03.744" end="00:43:06.832">It's as if, he actually loved doing yoga.</p>
+      <p begin="00:43:06.832" end="00:43:09.285">As if he were strict vegetarian.</p>
+      <p begin="00:43:09.285" end="00:43:12.515">As if he had time for anything<br/>besides these 60 odd books </p>
+      <p begin="00:43:12.515" end="00:43:15.619">he's written about life.</p>
+      <p begin="00:43:15.619" end="00:43:18.188">As a young man, he did promote yoga.</p>
+      <p begin="00:43:18.188" end="00:43:21.363">He was a disciple<br/>of Maharishi Mahesh Yogi.</p>
+      <p begin="00:43:21.363" end="00:43:24.183">He became Maharishi's protegee<br/>and took the lead</p>
+      <p begin="00:43:24.183" end="00:43:26.909">translating Maharishi's ideas<br/>and making them accessible</p>
+      <p begin="00:43:26.909" end="00:43:29.016">to western audience.</p>
+      <p begin="00:43:29.016" end="00:43:31.327">So, did the Beatles.</p>
+      <p begin="00:43:31.327" end="00:43:35.817">But time's changed. My Dad grew beyond<br/>the teachings of Maharishi</p>
+      <p begin="00:43:35.817" end="00:43:39.184">because he didn't want to be<br/>the same type of guru.</p>
+      <p begin="00:43:39.184" end="00:43:41.577">He did't want to repeat the familiar tale<br/>of the holy men</p>
+      <p begin="00:43:41.577" end="00:43:43.948">descending from the mountain top.</p>
+      <p begin="00:43:43.948" end="00:43:48.839">Your act of recognition, devotion<br/>and fading into obscurity.</p>
+      <p begin="00:43:48.839" end="00:43:52.475">So, rather than adopt to one code,<br/>he adopted many.</p>
+      <p begin="00:43:52.475" end="00:43:56.021">He allowed people to use his ideas<br/>however they wanted.</p>
+      <p begin="00:43:56.021" end="00:43:57.843">Who's he to argue with them?</p>
+      <p begin="00:43:57.843" end="00:44:01.831">- Why should we be embarrassed<br/>about selling knowledge or wisdom?</p>
+      <p begin="00:44:01.831" end="00:44:07.019">In fact, I think the day will come<br/>where we can already equal</p>
+      <p begin="00:44:07.019" end="00:44:08.711">the Age of Enlightenment</p>
+      <p begin="00:44:08.711" end="00:44:12.147">where the only products and services<br/>that will be of value</p>
+      <p begin="00:44:12.147" end="00:44:16.050">will be those that empower people<br/>have them transform,</p>
+      <p begin="00:44:16.050" end="00:44:19.188">help them enhance their self-esteem<br/>and make them happy.</p>
+      <p begin="00:44:19.188" end="00:44:20.692">This is what we're doing.</p>
+      <p begin="00:44:20.692" end="00:44:22.521">- In his eyes,<br/>these people are responsible</p>
+      <p begin="00:44:22.521" end="00:44:24.519">for their own happiness.</p>
+      <p begin="00:44:24.519" end="00:44:28.630">He's just the catalyst<br/>in the form of a book,</p>
+      <p begin="00:44:28.630" end="00:44:30.628">or a workshop, or a video.</p>
+      <p begin="00:44:30.628" end="00:44:34.139">And once I looked beyond the crystals<br/>and the scented candles</p>
+      <p begin="00:44:34.139" end="00:44:37.939">and all the things that have always<br/>seemed kind of funny to me,</p>
+      <p begin="00:44:37.939" end="00:44:42.027">he has an ability to move people<br/>in a way that I find admirable.</p>
+      <p begin="00:44:42.027" end="00:44:46.508">- For me, seduction of spirit<br/>is just the ultimate.</p>
+      <p begin="00:44:46.508" end="00:44:51.184">I want this course to help me know<br/>what my Dharma is, what is my purpose.</p>
+      <p begin="00:44:51.184" end="00:44:56.077">- He is very grounded,<br/>and he's actually so warm</p>
+      <p begin="00:44:56.077" end="00:44:57.839">and I feel like he's a teddy bear.</p>
+      <p begin="00:44:57.839" end="00:45:01.871">I just want to keep hiding him.<br/>[laughs]</p>
+      <p begin="00:45:01.871" end="00:45:06.797">- I just continue to be impressed<br/>with each new book that he releases</p>
+      <p begin="00:45:06.797" end="00:45:11.511">and I think it is my crux in life<br/>to share that with the people.</p>
+      <p begin="00:45:11.511" end="00:45:15.420">- I can honestly say I can't recall a time<br/>when my father made me cry.</p>
+      <p begin="00:45:15.420" end="00:45:18.781">What is the root of this deep devotion?</p>
+      <p begin="00:45:18.781" end="00:45:21.556">You can trace it all back<br/>to a singular moment in time</p>
+      <p begin="00:45:21.556" end="00:45:24.856">when Oprah Winfrey put my Dad<br/>into the mainstream.</p>
+      <p begin="00:45:24.856" end="00:45:28.517">- I decided to invite my first guess<br/>on the show after getting a phone call</p>
+      <p begin="00:45:28.517" end="00:45:31.042">from Michael Jackson.</p>
+      <p begin="00:45:31.042" end="00:45:34.062">He was calling to let me know<br/>that I absolutely had to have</p>
+      <p begin="00:45:34.062" end="00:45:36.560">Dr. Deepak Chopra on the show.</p>
+      <p begin="00:45:36.560" end="00:45:38.368">- Michael convinced Oprah to listen.</p>
+      <p begin="00:45:38.368" end="00:45:39.954">Oprah convinced others to listen.</p>
+      <p begin="00:45:39.954" end="00:45:42.458">- So how evangelical are you, then?<br/>That's really the issue.</p>
+      <p begin="00:45:42.458" end="00:45:44.253">- Not at all evangelical, please.</p>
+      <p begin="00:45:44.253" end="00:45:46.066">- How do you control<br/>every cell in your body?</p>
+      <p begin="00:45:46.066" end="00:45:49.131">- See, because in less than a year,<br/>you replace your entire body</p>
+      <p begin="00:45:49.131" end="00:45:50.841">down to the last atom.</p>
+      <p begin="00:45:50.841" end="00:45:54.647">Which means that right now,<br/>what you're seeing is my 1993 model.</p>
+      <p begin="00:45:54.647" end="00:45:59.849">And the body I had last year is gone.</p>
+      <p begin="00:45:59.849" end="00:46:02.415">- Over time, his ideas started<br/>to really take hold.</p>
+      <p begin="00:46:02.415" end="00:46:05.712">First, to the special interests,<br/>to celebrity dabblers </p>
+      <p begin="00:46:05.712" end="00:46:07.667">then to the mainstream.</p>
+      <p begin="00:46:07.667" end="00:46:13.643">- People will spend a lifetime<br/>become seminar junkies.</p>
+      <p begin="00:46:13.643" end="00:46:20.357">They will be able to report every book<br/>in the world that they have read.</p>
+      <p begin="00:46:20.357" end="00:46:25.616">They will be able to write books,<br/>and yet their life can be a mess.</p>
+      <p begin="00:46:25.616" end="00:46:35.193">&#9834; [music] &#9834;</p>
+      <p begin="00:46:35.193" end="00:46:38.962">- Michael Jackson<br/>was an early Deepak adopter.</p>
+      <p begin="00:46:38.962" end="00:46:41.401">He loved my Dad.</p>
+      <p begin="00:46:41.401" end="00:46:44.098">Through my father, I got to know<br/>Michael well.</p>
+      <p begin="00:46:44.098" end="00:46:47.891">We became friends, brothers almost.</p>
+      <p begin="00:46:47.891" end="00:46:51.372">I visited Neverland and got to see<br/>firsthand the triumphs,</p>
+      <p begin="00:46:51.372" end="00:46:56.495">the torture, the tragedy,<br/>and eventually the truth.</p>
+      <p begin="00:46:56.495" end="00:47:01.356">That my Dad who might be able<br/>to mesmerize millions with his teachings</p>
+      <p begin="00:47:01.356" end="00:47:04.818">couldn't save some of those<br/>closest to us.</p>
+      <p begin="00:47:06.881" end="00:47:09.837">- When we come back, we'll meet<br/>two people including a physician</p>
+      <p begin="00:47:09.837" end="00:47:12.692">who says Dr. Chopra's technique's<br/>cured them in advanced cancer.</p>
+      <p begin="00:47:12.692" end="00:47:13.842">Stay with us.</p>
+      <p begin="00:47:13.842" end="00:47:16.344">- Eventually, there comes a point<br/>we have to ask,</p>
+      <p begin="00:47:16.344" end="00:47:20.712">how much of what we discover,<br/>what we teach, what we reflect on</p>
+      <p begin="00:47:20.712" end="00:47:24.313">and document through the years,<br/>how much of it makes a difference?</p>
+      <p begin="00:47:24.313" end="00:47:28.737">The idealism of youth never seems<br/>to outlast time.</p>
+      <p begin="00:47:28.737" end="00:47:32.328">- So, tell me how you met.<br/>You sought my Dad out, is that right?</p>
+      <p begin="00:47:32.328" end="00:47:35.092">- Yeah, well, I mean your Dad's<br/>reputation preceded him.</p>
+      <p begin="00:47:35.092" end="00:47:40.836">Up until that time,there was kind<br/>of a meditation spiritual world on one end</p>
+      <p begin="00:47:40.836" end="00:47:41.919">and a scientific world<br/>on the other end.</p>
+      <p begin="00:47:41.919" end="00:47:43.608">Your dad helped to bring them together.</p>
+      <p begin="00:47:43.608" end="00:47:47.329">- Joining our panel is Dr. David Simon,<br/>a neurologist who up until a year ago</p>
+      <p begin="00:47:47.329" end="00:47:49.909">thought that Dr. Chopra's methods<br/>couldn't work.</p>
+      <p begin="00:47:49.909" end="00:47:51.861">You were a skeptic.<br/>You are now involved actively</p>
+      <p begin="00:47:51.861" end="00:47:53.747">with Dr. Chopra, right?</p>
+      <p begin="00:47:53.747" end="00:48:00.780">- I mean we nurtured each other<br/>by exploring various models</p>
+      <p begin="00:48:00.780" end="00:48:02.859">of what is consciousness.</p>
+      <p begin="00:48:02.859" end="00:48:04.775">And you know, that's why<br/>it's such a paradox</p>
+      <p begin="00:48:04.775" end="00:48:08.407">that a few months ago,<br/>I'm in New York</p>
+      <p begin="00:48:08.407" end="00:48:13.071">and I got a text from David and it says,<br/>"Please call me."</p>
+      <p begin="00:48:13.071" end="00:48:15.842">"I have sad news for you."</p>
+      <p begin="00:48:26.035" end="00:48:29.008">So, I immediately<br/>picked up the phone and called </p>
+      <p begin="00:48:29.008" end="00:48:30.308">because that's kind of alarming.</p>
+      <p begin="00:48:30.308" end="00:48:36.523">- I know that was. I always worry<br/>when you give me these messages.</p>
+      <p begin="00:48:36.523" end="00:48:38.207">- So, what happened? He says, </p>
+      <p begin="00:48:38.207" end="00:48:41.505">You know, I was having<br/>little visual defects</p>
+      <p begin="00:48:41.505" end="00:48:44.438">and I decided to go<br/>and get a CAT scan</p>
+      <p begin="00:48:44.438" end="00:48:47.172">and I diagnosed my own brain tumor.</p>
+      <p begin="00:48:49.597" end="00:48:51.556">I have gliobastoma. </p>
+      <p begin="00:48:55.691" end="00:48:57.651">It's you know, one of those moments<br/>you never forget in your life</p>
+      <p begin="00:48:57.651" end="00:48:59.889">because I said, of all the people, David.</p>
+      <p begin="00:48:59.889" end="00:49:02.709">I mean, we've been documenting<br/>mind, body and soul forever</p>
+      <p begin="00:49:02.709" end="00:49:07.556">and you know, if there's anyone<br/>who has done everything right--</p>
+      <p begin="00:49:07.556" end="00:49:09.584">this is the mystery of our existence.</p>
+      <p begin="00:49:09.584" end="00:49:13.412">- So, what do you say to people--<br/>our audience watching TV who have cancer?</p>
+      <p begin="00:49:13.412" end="00:49:14.469">What will you say to them?</p>
+      <p begin="00:49:14.469" end="00:49:17.952">- I say that become a participant<br/>in all alternatives </p>
+      <p begin="00:49:17.952" end="00:49:24.661">and do not, do not discount<br/>some of the really miraculous things</p>
+      <p begin="00:49:24.661" end="00:49:26.616">that are happening in modern medicine.</p>
+      <p begin="00:49:26.616" end="00:49:27.927">[applause]</p>
+      <p begin="00:49:27.927" end="00:49:29.779">- We'd kind of joke about it,<br/>laugh about it--</p>
+      <p begin="00:49:29.779" end="00:49:33.271">what is the meaning of death.</p>
+      <p begin="00:49:33.271" end="00:49:38.736">I think this particular conversation<br/>should be seen by anyone who's gonna die.</p>
+      <p begin="00:49:38.736" end="00:49:42.413">- Which is everyone.<br/>[laughs]</p>
+      <p begin="00:49:42.413" end="00:49:44.946">- It's a must-see for anyone<br/>who's gonna die.</p>
+      <p begin="00:49:44.946" end="00:49:48.863">I mean he's got a diagnosis<br/>but we're all on death row.</p>
+      <p begin="00:49:48.863" end="00:49:53.343">The only uncertainty is the method<br/>of execution and the length of reprieve.</p>
+      <p begin="00:49:53.343" end="00:49:56.248">- It seems maybe a little morbid<br/>but I'm kind of curious about it</p>
+      <p begin="00:49:56.248" end="00:49:58.340">what's my death going to be like?</p>
+      <p begin="00:49:58.340" end="00:50:02.710">Is there any sense of individuality<br/>that's gonna prevail </p>
+      <p begin="00:50:02.710" end="00:50:05.332">or is it all goes back into Universe?</p>
+      <p begin="00:50:05.332" end="00:50:11.318">I mean I have to say that<br/>because I've had your dad in my mind</p>
+      <p begin="00:50:11.318" end="00:50:13.613">for so long, that sometimes<br/>I don't really know</p>
+      <p begin="00:50:13.613" end="00:50:15.830">where I end and where he begins.</p>
+      <p begin="00:50:15.830" end="00:50:16.872">- I love you, David.</p>
+      <p begin="00:50:16.872" end="00:50:18.888">- I love you too, Deepak.</p>
+      <p begin="00:50:18.888" end="00:50:22.664">I'll try to stay around with you<br/>as long as possible.</p>
+      <p begin="00:50:26.613" end="00:50:30.586">- We're back in New York City.<br/>Death is on my dad's mind.</p>
+      <p begin="00:50:30.586" end="00:50:33.698">Time no longer seems so abstract.</p>
+      <p begin="00:50:33.698" end="00:50:37.877">I sense in him a desperation to reach<br/>more people with his message.</p>
+      <p begin="00:50:37.877" end="00:50:40.255">His message is changing.</p>
+      <p begin="00:50:40.255" end="00:50:44.078">No longer satisfied with New Age seminars<br/>and red rock deserts.</p>
+      <p begin="00:50:44.078" end="00:50:48.958">Now's the time for spiritual solutions<br/>in the real world.</p>
+      <p begin="00:50:49.241" end="00:50:51.899">- Wellness Radio<br/>with Deepak Chopra presents</p>
+      <p begin="00:50:51.899" end="00:50:54.804">"The Road to Global<br/>Nuclear Disarmament."</p>
+      <p begin="00:50:54.804" end="00:50:59.109">Featuring former CIA Operations Officer,<br/>Valerie Plame Wilson,</p>
+      <p begin="00:50:59.109" end="00:51:00.841">Her Majesty, Queen Noor of Jordan,</p>
+      <p begin="00:51:00.841" end="00:51:03.438">and Lawrence Bender, producer<br/>of "Countdown to Zero."</p>
+      <p begin="00:51:03.438" end="00:51:06.847">And now, your host, Deepak Chopra.</p>
+      <p begin="00:51:06.847" end="00:51:09.375">- You know, when I was growing up<br/>in the 1960s,</p>
+      <p begin="00:51:09.375" end="00:51:11.749">nuclear weapons was a topic.</p>
+      <p begin="00:51:11.749" end="00:51:15.109">Everybody knew about it.<br/>Schoolchildren were talking about it.</p>
+      <p begin="00:51:15.109" end="00:51:17.190">College students were talking<br/>about it.</p>
+      <p begin="00:51:17.190" end="00:51:19.759">We thought at that moment<br/>that you know, </p>
+      <p begin="00:51:19.759" end="00:51:22.742">with the great conversation<br/>going on in the world--</p>
+      <p begin="00:51:22.742" end="00:51:27.614">the peace movement,<br/>the anti-war movement in Vietnam,</p>
+      <p begin="00:51:27.614" end="00:51:30.407">the equality movement,<br/>the feminist movement--</p>
+      <p begin="00:51:30.407" end="00:51:33.750">they're all kind of coming together<br/>all at the same time.</p>
+      <p begin="00:51:33.750" end="00:51:37.221">And we thought, maybe in a few years,<br/>we'll be living in a different world.</p>
+      <p begin="00:51:37.221" end="00:51:42.275">And despite that,<br/>everything continued as it was.</p>
+      <p begin="00:51:42.275" end="00:51:46.989">The destruction of the environment,<br/>racism, ethnocentricism,</p>
+      <p begin="00:51:46.989" end="00:51:51.031">extreme nationalism; more war,<br/>more conflict.</p>
+      <p begin="00:51:51.031" end="00:51:55.442">And somehow,this whole business<br/>with nuclear weapons</p>
+      <p begin="00:51:55.442" end="00:51:58.533">kind of slipped<br/>from our awareness completely.</p>
+      <p begin="00:51:58.533" end="00:52:00.614">Hey, do you see that poster?<br/>You know who that is?</p>
+      <p begin="00:52:00.614" end="00:52:04.599">That man, who's doing this?<br/>Who is he?</p>
+      <p begin="00:52:04.599" end="00:52:05.978">- I don't know.</p>
+      <p begin="00:52:05.978" end="00:52:07.740">- His name is Puff Daddy.</p>
+      <p begin="00:52:10.167" end="00:52:11.983">You don't care, huh?</p>
+      <p begin="00:52:15.248" end="00:52:20.336">We have an amazing tendency<br/>to kind of fall asleep.</p>
+      <p begin="00:52:21.566" end="00:52:27.630">We have to keep moving.<br/>Okay, we can cross this.</p>
+      <p begin="00:52:27.630" end="00:52:30.436">If we manage to live through all this,<br/>someday we'll look back</p>
+      <p begin="00:52:30.436" end="00:52:35.807">at these times as a collective psychosis<br/>that engulfed the whole world.</p>
+      <p begin="00:52:35.807" end="00:52:37.609">[camera clicking]</p>
+      <p begin="00:52:37.609" end="00:52:39.689">- Thank you. Okay.</p>
+      <p begin="00:52:50.813" end="00:52:57.416">- This is a film about identity.<br/>The title should be "Infinite Being."</p>
+      <p begin="00:52:57.416" end="00:53:02.357">Actually, better than "Infinite Being" is,<br/>you know what a good title is?</p>
+      <p begin="00:53:02.357" end="00:53:04.004">Being.</p>
+      <p begin="00:53:07.084" end="00:53:08.594">- Being.</p>
+      <p begin="00:53:08.594" end="00:53:10.340">- That's it.</p>
+      <p begin="00:53:10.625" end="00:53:13.938">- Over time, I've come to appreciate<br/>how my Dad's mind never stops racing</p>
+      <p begin="00:53:13.938" end="00:53:16.056">from one idea to the next.</p>
+      <p begin="00:53:16.056" end="00:53:20.902">His ideas for the film are as scattered<br/>as his list of special projects.</p>
+      <p begin="00:53:20.902" end="00:53:24.267">A series of celebrity guru appearances<br/>injecting Dad's philosophy</p>
+      <p begin="00:53:24.267" end="00:53:27.035">about quantum physics<br/>into the mainstream.</p>
+      <p begin="00:53:27.035" end="00:53:33.625">- You're part of a matrix of information<br/>that exists in a space time geometry</p>
+      <p begin="00:53:33.625" end="00:53:35.646">at Planck scale.</p>
+      <p begin="00:53:35.646" end="00:53:38.059">- Will society ever embrace<br/>Planck scale geometry</p>
+      <p begin="00:53:38.059" end="00:53:41.027">the way they've embraced yoga?<br/>I doubt it.</p>
+      <p begin="00:53:41.027" end="00:53:43.486">But I've gotta give the guy<br/>credit for trying.</p>
+      <p begin="00:53:43.486" end="00:53:47.329">My father comes from a generation<br/>of dreamers.</p>
+      <p begin="00:53:47.329" end="00:53:49.158">And the older he gets,<br/>the more anxious he is</p>
+      <p begin="00:53:49.158" end="00:53:52.027">to get his message out<br/>to as many people as he can.</p>
+      <p begin="00:53:52.027" end="00:53:55.025">For him, that now means<br/>pure meditation workshops</p>
+      <p begin="00:53:55.025" end="00:53:58.182">with post-modern hippies<br/>and more TV pilots </p>
+      <p begin="00:53:58.182" end="00:53:59.547">with A-list celebrities.</p>
+      <p begin="00:53:59.547" end="00:54:01.491">- People have no choice.<br/>- This notions are becoming faster...</p>
+      <p begin="00:54:01.491" end="00:54:05.486">- The technology or the growth<br/>or the changes that we've experienced</p>
+      <p begin="00:54:05.486" end="00:54:09.365">have done nothing to make us better.</p>
+      <p begin="00:54:09.365" end="00:54:12.307">- You know, most people think<br/>of spiritual people like my father,</p>
+      <p begin="00:54:12.307" end="00:54:14.546">certainly Indian gurus<br/>and they think of Ashrams,</p>
+      <p begin="00:54:14.546" end="00:54:17.335">they think of removing yourself<br/>from the world.</p>
+      <p begin="00:54:17.335" end="00:54:20.392">But my Dad's lifestyle's kind of--<br/>I mean, yours is you live large</p>
+      <p begin="00:54:20.392" end="00:54:22.002">but his is kind of like that, too.</p>
+      <p begin="00:54:22.002" end="00:54:24.230">He loves New York. It's his Ashram.</p>
+      <p begin="00:54:24.230" end="00:54:26.118">- He's an urban yogi. </p>
+      <p begin="00:54:26.118" end="00:54:29.486">- That doesn't-- in the scripture,<br/>you don't want to argue</p>
+      <p begin="00:54:29.486" end="00:54:31.029">if whether he wants to go meditate.</p>
+      <p begin="00:54:31.029" end="00:54:32.210">Krishna says, "fuck that!"</p>
+      <p begin="00:54:32.210" end="00:54:34.088">You go out there<br/>and chop their heads off.</p>
+      <p begin="00:54:34.088" end="00:54:35.833">Right now, get to work.</p>
+      <p begin="00:54:35.833" end="00:54:36.874">- Meditate.</p>
+      <p begin="00:54:36.874" end="00:54:37.887">- Get out of here.</p>
+      <p begin="00:54:37.887" end="00:54:39.608">Krishna taught Ashnu<br/>on the battlefield.</p>
+      <p begin="00:54:39.608" end="00:54:43.104">- You are sharing with me and everybody<br/>on this planet right now.</p>
+      <p begin="00:54:43.104" end="00:54:44.920">- That is phenomenal. I love that.</p>
+      <p begin="00:54:44.920" end="00:54:46.947">- One bread, one bread...</p>
+      <p begin="00:54:46.947" end="00:54:49.365">- Your father has turned so many keys<br/>in so many's heads.</p>
+      <p begin="00:54:49.365" end="00:54:51.646">He is the person they look for<br/>to be saved.</p>
+      <p begin="00:54:51.646" end="00:54:54.936">Just as any great preacher<br/>or any great rabbi</p>
+      <p begin="00:54:54.936" end="00:54:59.006">has many followers in his congregation<br/>who is giving light.</p>
+      <p begin="00:55:00.957" end="00:55:04.649">Where there's lots of noise,<br/>he's trying to relieve the noise.</p>
+      <p begin="00:55:05.337" end="00:55:08.159">- Listening to Russell Simmons<br/>wax philosophical</p>
+      <p begin="00:55:08.159" end="00:55:10.867">about inner stillness is starting<br/>to make me feel old.</p>
+      <p begin="00:55:10.867" end="00:55:14.125">In fact the whole world seems<br/>to be good at moving too fast</p>
+      <p begin="00:55:14.125" end="00:55:15.815">for people to keep up.</p>
+      <p begin="00:55:15.815" end="00:55:19.267">While I've been out shooting a movie,<br/>my little boy has been growing up.</p>
+      <p begin="00:55:19.267" end="00:55:20.862">What did you say?</p>
+      <p begin="00:55:20.862" end="00:55:22.291">- Fuck!</p>
+      <p begin="00:55:22.291" end="00:55:24.658">- Soon, he'll grow beyond his toys.</p>
+      <p begin="00:55:24.658" end="00:55:29.158">- Without the co-existence<br/>of contained conflict, there's no movie.</p>
+      <p begin="00:55:29.158" end="00:55:31.128">Right?</p>
+      <p begin="00:55:31.128" end="00:55:36.239">- And my father wants to make sure<br/>he's listening, too.</p>
+      <p begin="00:55:36.592" end="00:55:41.850">Growing up, I played lots of video games,<br/>but not once with my Dad.</p>
+      <p begin="00:55:41.850" end="00:55:45.497">Of course now, he's using video games<br/>to navigate chakras,</p>
+      <p begin="00:55:45.497" end="00:55:50.838">because he wants to shape the minds<br/>of an audience he's never reached before.</p>
+      <p begin="00:55:50.838" end="00:55:54.285">- You just use your right hand.<br/>It's only set up for the right hand</p>
+      <p begin="00:55:54.285" end="00:55:56.819">right now.</p>
+      <p begin="00:55:56.819" end="00:56:00.601">It's interesting, this one.<br/>If you think too much about it,</p>
+      <p begin="00:56:00.601" end="00:56:01.841">it's very hard.</p>
+      <p begin="00:56:01.841" end="00:56:03.621">But if you just sort of let it go...</p>
+      <p begin="00:56:03.621" end="00:56:06.520">- If you think about anything, it's hard</p>
+      <p begin="00:56:08.837" end="00:56:11.293">- We're here at Curious Pictures<br/>and we've been working with Deepak</p>
+      <p begin="00:56:11.293" end="00:56:16.338">for the last 18 months on<br/>his new video game titled "Leela."</p>
+      <p begin="00:56:16.752" end="00:56:20.476">Deepak had this idea<br/>of basing all of the games</p>
+      <p begin="00:56:20.476" end="00:56:21.925">in the different Chakras.</p>
+      <p begin="00:56:21.925" end="00:56:24.160">We're sort of taking that<br/>into new territory </p>
+      <p begin="00:56:24.160" end="00:56:27.985">and interweaving game and play<br/>with traditional meditation.</p>
+      <p begin="00:56:27.985" end="00:56:30.445">- We teach our kids<br/>very little intelligence.</p>
+      <p begin="00:56:30.445" end="00:56:32.221">We just give them information.</p>
+      <p begin="00:56:32.221" end="00:56:36.449">And I think what we have to do is<br/>teach our kids to play in a way</p>
+      <p begin="00:56:36.449" end="00:56:38.409">in a way that activates that intelligence.</p>
+      <p begin="00:56:41.758" end="00:56:43.347">Beautiful.</p>
+      <p begin="00:56:46.015" end="00:56:47.046">- Great.</p>
+      <p begin="00:56:47.046" end="00:56:49.287">- Good job!</p>
+      <p begin="00:56:49.287" end="00:56:50.354">[chuckling]</p>
+      <p begin="00:56:50.354" end="00:56:52.548">Good stuff. I love it.</p>
+      <p begin="00:56:52.548" end="00:56:56.719">- Ironically in my Dad's world,<br/>there's little time for reflection.</p>
+      <p begin="00:56:56.719" end="00:57:00.350">An afternoon of video game development<br/>naturally leads into another project</p>
+      <p begin="00:57:00.350" end="00:57:03.823">he's gained affections for--<br/>this film.</p>
+      <p begin="00:57:03.823" end="00:57:06.093">Papa and I can argue all day long<br/>about the beginning...</p>
+      <p begin="00:57:06.093" end="00:57:07.976">- The first scene should be the woman.</p>
+      <p begin="00:57:07.976" end="00:57:09.005">- Then the ending.</p>
+      <p begin="00:57:09.005" end="00:57:11.317">- And the last scene<br/>should be the esplanade.</p>
+      <p begin="00:57:11.317" end="00:57:12.341">- Even the title.</p>
+      <p begin="00:57:12.341" end="00:57:13.714">- You know what you should call it?</p>
+      <p begin="00:57:13.714" end="00:57:15.953">I swear to God, it's a great title.</p>
+      <p begin="00:57:15.953" end="00:57:19.548">- "Ten to the Bottom<br/>Minus 43 Seconds."</p>
+      <p begin="00:57:19.548" end="00:57:21.048">[Gotham laughing]</p>
+      <p begin="00:57:21.048" end="00:57:24.124">I think "Ten to the Bot..."<br/>if you have just a symbol 10,</p>
+      <p begin="00:57:24.124" end="00:57:27.880">to the Bottom Minus 43 Seconds..<br/>- Why?</p>
+      <p begin="00:57:27.880" end="00:57:29.265">- People will say what the heck is that?</p>
+      <p begin="00:57:29.265" end="00:57:31.159">It would be intriguing, right?</p>
+      <p begin="00:57:31.159" end="00:57:32.696">- [Woman] Yeah.</p>
+      <p begin="00:57:32.856" end="00:57:37.725">- It's a very intriguing title.</p>
+      <p begin="00:57:37.725" end="00:57:41.090">- My Dad constantly dressed<br/>to an endless stream of people</p>
+      <p begin="00:57:41.090" end="00:57:42.762">who keep his ideas alive--</p>
+      <p begin="00:57:42.762" end="00:57:48.855">artists, scientists, critics<br/>and now me.</p>
+      <p begin="00:57:48.855" end="00:57:51.221">The last few months have become<br/>a blur of faces,</p>
+      <p begin="00:57:51.221" end="00:57:54.262">an endless mosaic of codes<br/>that makes up Deepak.</p>
+      <p begin="00:57:54.262" end="00:57:57.804">In his world, it all makes sense.</p>
+      <p begin="00:57:57.804" end="00:58:00.342">In past decades,<br/>Indian gurus dressed in robes,</p>
+      <p begin="00:58:00.342" end="00:58:03.797">curled their hair<br/>and spoke to loyal followers in Ashrams</p>
+      <p begin="00:58:03.797" end="00:58:06.912">at distant outposts on mountaintops.</p>
+      <p begin="00:58:06.912" end="00:58:08.999">Not exactly my Dad's plan.</p>
+      <p begin="00:58:08.999" end="00:58:12.212">He's become known for sparkly glasses<br/>and red sneakers.</p>
+      <p begin="00:58:12.212" end="00:58:15.196">And his Ashram, there's something<br/>called Deepak Homebase.</p>
+      <p begin="00:58:15.196" end="00:58:16.896">Tucked away on the second floor</p>
+      <p begin="00:58:16.896" end="00:58:19.893">of an iconic<br/>New York city furniture store.</p>
+      <p begin="00:58:19.893" end="00:58:23.810">His followers are trendy urbanites.</p>
+      <p begin="00:58:23.810" end="00:58:27.466">And of course, the scene<br/>is streamed across YouTube.</p>
+      <p begin="00:58:27.466" end="00:58:32.314">Here, my Dad's monkhood experience<br/>has found its larger meaning in life,</p>
+      <p begin="00:58:32.314" end="00:58:35.108">as a great story to tell<br/>over and over.</p>
+      <p begin="00:58:35.108" end="00:58:39.321">- I ate once a day, slept on the floor,<br/>walked barefoot</p>
+      <p begin="00:58:39.321" end="00:58:44.691">and was in meditation 24 hours<br/>on my death,</p>
+      <p begin="00:58:44.691" end="00:58:48.390">because that's the routine--<br/>you meditate on impermanence</p>
+      <p begin="00:58:48.390" end="00:58:53.313">and your physical death<br/>so you realize how precious life is.</p>
+      <p begin="00:58:53.313" end="00:58:54.572">- It sounds like hell, Deepak.<br/>I don't know what to say.</p>
+      <p begin="00:58:54.572" end="00:58:56.760">- It was amazing.</p>
+      <p begin="00:58:57.636" end="00:59:03.696">- Okay, so I think we should start soon.<br/>Let me find Paulette.</p>
+      <p begin="00:59:03.696" end="00:59:08.216">We have a good evening plan tonight.</p>
+      <p begin="00:59:08.216" end="00:59:11.312">- This is not Deepak Homebase.<br/>This is Homebase </p>
+      <p begin="00:59:11.312" end="00:59:14.329">and it is about the conversation.</p>
+      <p begin="00:59:14.329" end="00:59:19.586">It's how do we change the conversation<br/>in the world.</p>
+      <p begin="00:59:19.586" end="00:59:22.808">- Everyone watches and re-tweets<br/>and records as always.</p>
+      <p begin="00:59:22.808" end="00:59:25.847">Tonight, I'm showing footage<br/>from the last few months.</p>
+      <p begin="00:59:25.847" end="00:59:28.230">It was meant to decode<br/>the great mystery of Deepak Chopra,</p>
+      <p begin="00:59:28.230" end="00:59:33.588">but so far,<br/>has ended up just deepening it.</p>
+      <p begin="00:59:33.588" end="00:59:36.609">Papa showed no interest in seeing<br/>any of this footage,</p>
+      <p begin="00:59:36.609" end="00:59:38.583">and he makes no qualms<br/>about his distrust</p>
+      <p begin="00:59:38.583" end="00:59:40.826">for my method of storytelling.</p>
+      <p begin="00:59:40.826" end="00:59:44.560">- You know, I have to tell you<br/>that Gotham was not a good student.</p>
+      <p begin="00:59:44.560" end="00:59:48.004">When Gotham speaks,<br/>it's a different generation speaking.</p>
+      <p begin="00:59:51.368" end="00:59:53.909">- Are you always right?</p>
+      <p begin="00:59:53.909" end="00:59:57.708">- Am I always right?<br/>I tend to think that I am.</p>
+      <p begin="00:59:57.708" end="00:59:59.560">[laughter]</p>
+      <p begin="00:59:59.560" end="01:00:02.005">So, that's the movie.</p>
+      <p begin="01:00:04.151" end="01:00:06.818">- Of course, those who think<br/>they know Deepak are all excited.</p>
+      <p begin="01:00:06.818" end="01:00:09.199">Once again, he's met<br/>all their expectations,</p>
+      <p begin="01:00:09.199" end="01:00:13.113">spreading his wisdom<br/>in bite-sized elegance.</p>
+      <p begin="01:00:13.421" end="01:00:16.205">I may not have been a good student<br/>but I'm smart enough to know</p>
+      <p begin="01:00:16.205" end="01:00:18.640">something's missing in this picture.</p>
+      <p begin="01:00:18.640" end="01:00:21.710">That I'll never fully decode my Dad<br/>in this pieced fragments of projects,</p>
+      <p begin="01:00:21.710" end="01:00:24.236">random people and perpetual applause.</p>
+      <p begin="01:00:26.300" end="01:00:30.042">Time to leave this all behind.</p>
+      <p begin="01:00:30.042" end="01:00:52.890">&#9834; [music] &#9834;</p>
+      <p begin="01:00:52.890" end="01:00:55.143">After a year of chasing my Dad<br/>around the world,</p>
+      <p begin="01:00:55.143" end="01:00:57.204">I brought him to the edge of it.</p>
+      <p begin="01:00:57.204" end="01:01:00.575">Back to the place where<br/>this story really began.</p>
+      <p begin="01:01:00.575" end="01:01:03.124">India has always been<br/>a special place for me.</p>
+      <p begin="01:01:03.124" end="01:01:08.290">Everything that I am, was or ever will be<br/>came from here.</p>
+      <p begin="01:01:08.290" end="01:01:12.648">To complete this picture,<br/>I needed to break the cycle.</p>
+      <p begin="01:01:12.648" end="01:01:16.023">Remove us both from the distractions<br/>of our routines.</p>
+      <p begin="01:01:19.166" end="01:01:25.080">So Delhi train station, it's about 6 AM,<br/>we're getting on a train to...</p>
+      <p begin="01:01:25.080" end="01:01:26.309">- Where is our luggage?</p>
+      <p begin="01:01:26.309" end="01:01:29.459">- We are surrendering to the unknown.</p>
+      <p begin="01:01:29.459" end="01:01:32.532">We trust that it will come with us.</p>
+      <p begin="01:01:32.532" end="01:01:35.628">- If you don't believe in God,<br/>you'll have to believe over here</p>
+      <p begin="01:01:35.628" end="01:01:37.489">because only God could run this country.</p>
+      <p begin="01:01:37.489" end="01:01:46.065">&#9834; [music] &#9834;</p>
+      <p begin="01:01:46.065" end="01:01:49.780">- I bet you we have<br/>some of our books here.</p>
+      <p begin="01:01:49.780" end="01:01:52.155">- Deepak Chopra [Hindi]</p>
+      <p begin="01:01:56.615" end="01:02:00.156">- My books are popular here, too.</p>
+      <p begin="01:02:00.156" end="01:02:02.602">- Not as popular as "The Secret."</p>
+      <p begin="01:02:02.602" end="01:02:04.359">- Not as popular as "The Secret."</p>
+      <p begin="01:02:04.359" end="01:02:05.604">[train honking]</p>
+      <p begin="01:02:07.964" end="01:02:14.377">- So many people, so much going on.<br/>Like, it's as if by pure inertia,</p>
+      <p begin="01:02:14.377" end="01:02:19.187">it's moving forward<br/>but there's no order to it.</p>
+      <p begin="01:02:41.382" end="01:02:44.162">- But in the deeper domain,<br/>there is no distance </p>
+      <p begin="01:02:44.162" end="01:02:46.625">in either time or in space.<br/>It's fascinating.</p>
+      <p begin="01:02:46.625" end="01:02:48.092">- Kind of a mind fog.</p>
+      <p begin="01:02:48.092" end="01:02:49.091">- Huh?</p>
+      <p begin="01:02:49.091" end="01:02:50.165">- That's a mind fog.</p>
+      <p begin="01:02:50.165" end="01:02:51.634">- It's not.</p>
+      <p begin="01:02:51.634" end="01:03:13.913">&#9834; [music] &#9834;</p>
+      <p begin="01:03:20.858" end="01:03:24.142">- Haridwar translates to Gateway to God.</p>
+      <p begin="01:03:24.142" end="01:03:29.017">In the culture of my ancestors,<br/>tradition brings families to this city</p>
+      <p begin="01:03:29.017" end="01:03:30.990">at pivotal phases of their lives.</p>
+      <p begin="01:03:30.990" end="01:03:34.183">When you're here, the identity<br/>of your family</p>
+      <p begin="01:03:34.183" end="01:03:36.468">is recorded into a book.</p>
+      <p begin="01:03:36.468" end="01:03:40.607">Somewhere in these narrow alleyways<br/>lies a record of my family's history, too.</p>
+      <p begin="01:03:40.607" end="01:03:44.652">A literal code of ancestry twisting<br/>through countless generations </p>
+      <p begin="01:03:44.652" end="01:03:47.209">of birth, life and death.</p>
+      <p begin="01:03:50.692" end="01:03:55.468">So, where are we going now?<br/>Who are we following?</p>
+      <p begin="01:03:55.468" end="01:03:59.516">- This guy, he's gonna show us...<br/>you know.</p>
+      <p begin="01:03:59.516" end="01:04:02.908">- Who our ancestors are?<br/>[chuckling]</p>
+      <p begin="01:04:02.908" end="01:04:06.267">- These lanes have been like this<br/>for thousands of years.</p>
+      <p begin="01:04:07.255" end="01:04:13.654">He's learned it, too,<br/>the things he knows.</p>
+      <p begin="01:04:13.654" end="01:04:16.539">Not hundred percent sure though.</p>
+      <p begin="01:04:16.539" end="01:04:19.536">- The alleyways of Hardiwar<br/>tangle into a neverending maze.</p>
+      <p begin="01:04:19.536" end="01:04:22.107">After a while, you lose yourself<br/>in all of it--</p>
+      <p begin="01:04:22.107" end="01:04:26.294">a blur of humanity<br/>as old as time itself.</p>
+      <p begin="01:04:26.294" end="01:04:33.324">&#9834; [music] &#9834;</p>
+      <p begin="01:04:33.324" end="01:04:36.710">- I think I've been here. Deja vu.</p>
+      <p begin="01:04:36.710" end="01:04:38.654">- In this life or...?</p>
+      <p begin="01:04:39.825" end="01:04:41.652">- He has it.</p>
+      <p begin="01:04:42.482" end="01:04:49.584">- We already tracked like six generations<br/>and seen the handwriting in there.</p>
+      <p begin="01:04:49.584" end="01:04:52.875">Now, we could go back but then<br/>it doesn't mean anything after a while,</p>
+      <p begin="01:04:52.875" end="01:04:55.159">who these people are.</p>
+      <p begin="01:04:55.159" end="01:04:59.522">- The language is changing.<br/>So, there is English, Hindi, Urdu,</p>
+      <p begin="01:04:59.522" end="01:05:06.540">the addition of my son,<br/>who has now Chinese talk</p>
+      <p begin="01:05:06.540" end="01:05:08.669">and has a Chinese middle name.</p>
+      <p begin="01:05:08.669" end="01:05:10.889">It's going to be a pretty wild turn.</p>
+      <p begin="01:05:10.889" end="01:05:15.544">- [Reading names]</p>
+      <p begin="01:05:15.544" end="01:05:17.610">You may see this and remember<br/>your ancestors.</p>
+      <p begin="01:05:17.610" end="01:05:21.479">Sanjid, Amitav,<br/>and your grandparents.</p>
+      <p begin="01:05:21.479" end="01:05:24.547">[Reading names].</p>
+      <p begin="01:05:24.547" end="01:05:26.706">Look at these records and go back.</p>
+      <p begin="01:05:26.706" end="01:05:30.026">And visit the playgrounds<br/>of your ancestors.</p>
+      <p begin="01:05:30.026" end="01:05:32.669">And now, if you go back,<br/>that scrolls all the way.</p>
+      <p begin="01:05:33.760" end="01:05:35.214">So, this is it.</p>
+      <p begin="01:05:35.214" end="01:05:38.176">- So this is what we came to find<br/>and we found it.</p>
+      <p begin="01:05:38.936" end="01:05:42.667">A letter to Krishu.<br/>Words feel infinitely larger</p>
+      <p begin="01:05:42.667" end="01:05:44.766">when you know your children<br/>will see them.</p>
+      <p begin="01:05:44.766" end="01:05:47.339">How do you communicate everything<br/>you say to them,</p>
+      <p begin="01:05:47.339" end="01:05:50.237">tell them about, warn them about?</p>
+      <p begin="01:05:50.237" end="01:05:54.999">How do you decode for them that<br/>which has taken generations to form</p>
+      <p begin="01:05:54.999" end="01:06:00.803">in changing languages, in books,<br/>in films?</p>
+      <p begin="01:06:00.803" end="01:06:04.762">One day in the future,<br/>my son will walk these lanes.</p>
+      <p begin="01:06:04.762" end="01:06:07.309">He'll hear the echoes of his ancestors.</p>
+      <p begin="01:06:07.309" end="01:06:12.823">And he'll search for answers<br/>about his father, about himself.</p>
+      <p begin="01:06:15.658" end="01:06:19.847">How important is your family to you?</p>
+      <p begin="01:06:19.847" end="01:06:23.632">My family is important.<br/>But you know, as I'm growing older,</p>
+      <p begin="01:06:23.632" end="01:06:26.320">the only people that I'm really<br/>attached to </p>
+      <p begin="01:06:26.320" end="01:06:28.521">is my grandchildren, right now.</p>
+      <p begin="01:06:28.521" end="01:06:30.735">You're both grown up<br/>and you're on your own</p>
+      <p begin="01:06:30.735" end="01:06:32.684">and you know...</p>
+      <p begin="01:06:32.840" end="01:06:35.679">- Do you really think you are<br/>changing the world?</p>
+      <p begin="01:06:35.679" end="01:06:38.774">- Me personally, no.<br/>But the world is changing</p>
+      <p begin="01:06:38.774" end="01:06:43.814">and I'm part of what you call<br/>a transition team,</p>
+      <p begin="01:06:43.814" end="01:06:45.305">a midwife.</p>
+      <p begin="01:06:45.305" end="01:06:49.691">- Yeah, but Papa, there's no question,<br/>I mean, we've seen it the last few months.</p>
+      <p begin="01:06:49.691" end="01:06:51.841">We've seen it my whole life.</p>
+      <p begin="01:06:51.841" end="01:06:56.228">I mean, people are moved by you<br/>or they follow you.</p>
+      <p begin="01:06:56.228" end="01:06:58.530">I mean, they do.<br/>At least in their eyes,</p>
+      <p begin="01:06:58.530" end="01:07:02.586">you are changing them.<br/>I mean, you know that.</p>
+      <p begin="01:07:02.586" end="01:07:04.204">You must sense that.</p>
+      <p begin="01:07:04.204" end="01:07:07.084">- Yeah, it did come up,<br/>at least I have seen their lives.</p>
+      <p begin="01:07:07.084" end="01:07:09.454">And they're probably ready<br/>to change anyway </p>
+      <p begin="01:07:09.454" end="01:07:15.680">and I happened to come along<br/>in their life in the form of a book.</p>
+      <p begin="01:07:15.680" end="01:07:19.066">It's all kind of strange.</p>
+      <p begin="01:07:19.066" end="01:07:20.499">- There's no ego in it?</p>
+      <p begin="01:07:20.499" end="01:07:22.450">- None whatsoever.</p>
+      <p begin="01:07:22.450" end="01:07:24.094">- Yeah, right.<br/>[chuckles]</p>
+      <p begin="01:07:24.094" end="01:07:26.440">- No, seriously none, whatsoever.</p>
+      <p begin="01:07:26.440" end="01:07:30.391">- Ahuh. Do you contemplate your death?</p>
+      <p begin="01:07:30.391" end="01:07:34.445">- Yeah, I'm very aware of my death.<br/>I'm 64, yeah.</p>
+      <p begin="01:07:34.445" end="01:07:38.364">I mean, on the other hand,<br/>life is unpredictable, you know.</p>
+      <p begin="01:07:38.364" end="01:07:43.485">Who would've thought that David Simon<br/>would be having a brain cancer?</p>
+      <p begin="01:07:43.485" end="01:07:50.133">You know, he's much younger than I am.<br/>But now looks like he might go before me.</p>
+      <p begin="01:07:50.748" end="01:07:53.557">I'm at peace with death, totally.</p>
+      <p begin="01:07:53.603" end="01:08:05.183">&#9834; [music] &#9834;</p>
+      <p begin="01:08:05.183" end="01:08:08.807">Even though I brought<br/>Daddy's and Mommy's ashes here,</p>
+      <p begin="01:08:08.807" end="01:08:12.912">and immersed them somewhere<br/>in one of these huts,</p>
+      <p begin="01:08:12.912" end="01:08:18.414">I want you to know that you don't<br/>have to do that when you bring my ashes.</p>
+      <p begin="01:08:18.414" end="01:08:23.379">And I don't think Mom cares, either.<br/>I would just, you know,</p>
+      <p begin="01:08:23.379" end="01:08:30.882">take the body to a crematorium,<br/>wherever we are, New York or California</p>
+      <p begin="01:08:30.882" end="01:08:34.608">and throw the ashes<br/>in the backyard or maybe...</p>
+      <p begin="01:08:34.608" end="01:08:35.818">- The Hudson.</p>
+      <p begin="01:08:35.818" end="01:08:38.090">- Maybe the Hudson or wherever.</p>
+      <p begin="01:08:38.090" end="01:08:43.575">- You don't want to be dispatched here<br/>into the Ganges or...?</p>
+      <p begin="01:08:43.575" end="01:08:47.842">- No, it's just-- first of all,<br/>it's a big hassle for you to do that.</p>
+      <p begin="01:08:47.842" end="01:08:52.796">I don't wanna inconvenience anyone.<br/>And the second is, you know,</p>
+      <p begin="01:08:52.796" end="01:08:55.344">it doesn't really make a difference.</p>
+      <p begin="01:08:55.344" end="01:08:57.683">- Alright, it's a deal.</p>
+      <p begin="01:08:57.683" end="01:09:01.063">- Good. You don't have to bother<br/>with the hassle.</p>
+      <p begin="01:09:01.063" end="01:09:32.614">&#9834; [music] &#9834;</p>
+      <p begin="01:09:32.614" end="01:09:35.570">- Someday, my father<br/>will pass from this world.</p>
+      <p begin="01:09:35.570" end="01:09:41.021">He'll be mourned, celebrated,<br/>commemorated and criticized.</p>
+      <p begin="01:09:41.021" end="01:09:45.225">When that time comes, I would say<br/>I understood him as best as I could.</p>
+      <p begin="01:09:45.225" end="01:09:51.226">&#9834; [music] &#9834;</p>
+      <p begin="01:09:51.226" end="01:09:55.255">It's inevitable that his life,<br/>his teachings, the empire he's built</p>
+      <p begin="01:09:55.255" end="01:09:57.560">and all the followers with it<br/>will slowly drift away </p>
+      <p begin="01:09:57.560" end="01:09:59.434">down the river of time.</p>
+      <p begin="01:09:59.434" end="01:10:03.167">Yet now, I realized, he will not<br/>really have gone anywhere.</p>
+      <p begin="01:10:03.167" end="01:10:07.235">I've been trying to break the code<br/>that can't be found within his body.</p>
+      <p begin="01:10:07.235" end="01:10:10.244">It can't be completed in one time<br/>or one place.</p>
+      <p begin="01:10:10.244" end="01:10:13.782">You can't find all the parts of it<br/>in one book or one movie,</p>
+      <p begin="01:10:13.782" end="01:10:16.659">one monk, one student or one child.</p>
+      <p begin="01:10:16.659" end="01:10:19.436">Everywhere I look, I see my Dad.</p>
+      <p begin="01:10:19.436" end="01:10:22.309">He wants me to see the world<br/>through his eyes</p>
+      <p begin="01:10:22.309" end="01:10:27.478">and every once in a while,<br/>you know what? I actually do.</p>
+      <p begin="01:10:27.478" end="01:10:30.165">What is this movie about?<br/>You keep asking what is it about,</p>
+      <p begin="01:10:30.165" end="01:10:31.651">what is it about?<br/>What is it about to you?</p>
+      <p begin="01:10:31.651" end="01:10:37.588">- Yeah, I think the basic quest<br/>always is, "Who am I?"</p>
+      <p begin="01:10:37.588" end="01:10:39.383">How do you define I?</p>
+      <p begin="01:10:39.383" end="01:10:42.875">When you die, who dies?</p>
+      <p begin="01:10:42.875" end="01:10:49.436">When you say, "Who's calling?"<br/>I say, "It's I, Deepak."</p>
+      <p begin="01:10:49.436" end="01:10:53.980">I think the real question is,<br/>who are you asking the question of?</p>
+      <p begin="01:10:53.980" end="01:10:57.907">Who am I? Who am I? Where do I exist?</p>
+      <p begin="01:10:57.907" end="01:11:02.104">Where's the boundary<br/>between me and that abyss?</p>
+      <p begin="01:11:02.104" end="01:11:05.351">Where do I begin and where do I end?</p>
+      <p begin="01:11:05.351" end="01:11:07.138">Did I begin with the Big Bang?</p>
+      <p begin="01:11:07.138" end="01:11:09.171">Or when my parents<br/>looked at each other</p>
+      <p begin="01:11:09.171" end="01:11:10.504">and fell in love?</p>
+      <p begin="01:11:10.504" end="01:11:13.192">Or when I was conceived,<br/>or I was born?</p>
+      <p begin="01:11:13.192" end="01:11:15.847">If you go inside my body<br/>with a surgical scalpel,</p>
+      <p begin="01:11:15.847" end="01:11:19.606">or a CAT scan or an MRI,<br/>you won't find me there,</p>
+      <p begin="01:11:19.606" end="01:11:20.605">because I'm not there.</p>
+      <p begin="01:11:20.605" end="01:11:23.467">Where's the I<br/>that really exists everywhere?</p>
+      <p begin="01:11:23.467" end="01:11:28.224">Is not the sun, and this light<br/>and this atmosphere</p>
+      <p begin="01:11:28.224" end="01:11:32.674">as vital to my existence<br/>as my heart, liver and bone?</p>
+      <p begin="01:11:32.674" end="01:11:35.978">Times Square is in me.<br/>India is in me.</p>
+      <p begin="01:11:35.978" end="01:11:39.415">You are in me.<br/>The whole Universe is in me.</p>
+      <p begin="01:11:39.415" end="01:11:43.244">You are a relationship.<br/>We are all a relationship.</p>
+      <p begin="01:11:43.244" end="01:11:45.471">We are inseparably interconnected.</p>
+      <p begin="01:11:45.471" end="01:11:48.600">Our souls are entangled,<br/>we're part of a matrix</p>
+      <p begin="01:11:48.600" end="01:11:52.263">in that entanglement<br/>which is not only across space</p>
+      <p begin="01:11:52.263" end="01:11:53.931">but across time.</p>
+      <p begin="01:11:53.931" end="01:11:54.930">Do we have a soul? </p>
+      <p begin="01:11:54.930" end="01:11:55.929">Do we have a soul?</p>
+      <p begin="01:11:55.929" end="01:11:57.263">Do we have a soul?</p>
+      <p begin="01:11:57.263" end="01:11:58.272">Does God exist?</p>
+      <p begin="01:11:58.272" end="01:11:59.271">Does God exist.</p>
+      <p begin="01:11:59.271" end="01:12:00.441">Does God exist?</p>
+      <p begin="01:12:00.441" end="01:12:02.028">What happens to us after we die?</p>
+      <p begin="01:12:02.028" end="01:12:04.988">I think what we've seen<br/>in the last few months</p>
+      <p begin="01:12:04.988" end="01:12:07.277">is a journey across time.</p>
+      <p begin="01:12:07.277" end="01:12:10.273">There is definitely some continuity there.</p>
+      <p begin="01:12:10.273" end="01:12:13.289">You know, our minds<br/>are part theirs.</p>
+      <p begin="01:12:13.289" end="01:12:15.485">In a sense, we're all a mirror<br/>of each other.</p>
+      <p begin="01:12:15.485" end="01:12:20.531">You and I are just<br/>differentiated aspects of the same being.</p>
+      <p begin="01:12:20.531" end="01:12:24.092">We are the same being<br/>in different disguises.</p>
+      <p begin="01:12:24.092" end="01:12:27.152">The real "I" was never born<br/>and doesn't die</p>
+      <p begin="01:12:27.152" end="01:12:31.731">and it's not your personal,<br/>physical body or even your personality.</p>
+      <p begin="01:12:31.731" end="01:12:36.437">It has no definition in space,<br/>no boundaries in time.</p>
+      <p begin="01:12:36.437" end="01:12:40.809">It's eternal, it is unborn<br/>and it does not die.</p>
+      <p begin="01:12:42.577" end="01:12:43.694">- We're done?</p>
+      <p begin="01:12:43.694" end="01:12:45.397">- Done.</p>
+      <p begin="01:12:49.509" end="01:12:53.475">I've said what I need to say<br/>and I did it well, so I'm happy.</p>
+      <p begin="01:13:13.541" end="01:13:17.537">&#9834; [music] &#9834;</p>
+    </div>
+  </body>
+
+</tt>
