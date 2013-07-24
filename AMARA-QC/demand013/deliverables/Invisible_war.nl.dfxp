@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" 
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+    xml:lang="en">
+
+  <head>
+    <styling>
+      <style textStyle="italic" xml:id="emphasis"/>
+      <style fontWeight="bold" xml:id="strong"/>
+      <style textDecoration="underline" xml:id="underlined"/>
+    </styling>
+    <layout>
+        <region xml:id="top" 
+                tts:backgroundColor="transparent" 
+                tts:showBackground="whenActive"
+                tts:extent="100% 100%"
+                tts:origin="0% 0%"
+                tts:textAlign='center'/> 
+    </layout>
+
+  </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:16,983" end="00:00:21,539" region="top"> Alle cijfers in deze film zijn van <br/>overheidsstudies van de V.S.</p>
+      <p begin="00:00:42,386" end="00:00:48,278"/>
+      <p begin="00:00:48,723" end="00:00:50,037"/>
+      <p begin="00:00:50,037" end="00:00:55,037">De laatste nieuwste wapens en <br/>de vechtkunst van de Amerikaanse soldaat</p>
+      <p begin="00:00:55,037" end="00:01:00,741">staan over heel de wereld klaar <br/>om dit land te verdedigen.</p>
+      <p begin="00:01:00,741" end="00:01:04,240">U, het Amerikaanse volk,<br/>tegen agressie.</p>
+      <p begin="00:01:04,581" end="00:01:06,753">dit is het groter geheel.</p>
+      <p begin="00:01:06,844" end="00:01:11,616">Om te tonen dat u behoort tot het groter<br/>geheel, is hier Sergeant Stuart Queen.</p>
+      <p begin="00:01:13,316" end="00:01:16,262">- Het voorrecht om de Verenigde Staten <br/>te dienen in uniform,</p>
+      <p begin="00:01:16,277" end="00:01:18,417">is niet langer beperkt tot mannen.</p>
+      <p begin="00:01:18,569" end="00:01:20,730"/>
+      <p begin="00:01:20,884" end="00:01:32,066"/>
+      <p begin="00:01:32,128" end="00:01:34,823">De waarde gegeven <br/>door het vrouwelijk legerkorps</p>
+      <p begin="00:01:34,823" end="00:01:36,621">aan nauwgezette verzorging en<br/>vrouwelijke gratie</p>
+      <p begin="00:01:36,621" end="00:01:39,090">is &#233;&#233;n van de eerste lessen <br/>die ik geleerd heb bij de aanwerving.</p>
+      <p begin="00:01:41,829" end="00:01:43,777">Er waren eisen <br/>die het nodig achten dat ze</p>
+      <p begin="00:01:43,792" end="00:01:45,928">een perfect fysieke gezondheid<br/>en uithoudingsvermogen hadden.</p>
+      <p begin="00:01:45,928" end="00:01:48,407">- Dames, tellen.<br/>- &#233;&#233;n, twee, drie, vier...</p>
+      <p begin="00:01:48,407" end="00:01:50,457">&#233;&#233;n, twee, drie, vier.</p>
+      <p begin="00:01:51,805" end="00:01:53,890">Ik weet zeker dat u allen<br/>gehoord heeft van het gezegde,</p>
+      <p begin="00:01:53,890" end="00:01:58,274">"Er is een goede manier en slechte manier <br/>en de manier van het leger."</p>
+      <p begin="00:01:58,274" end="00:02:00,407">De plicht roept jou en mij</p>
+      <p begin="00:02:00,407" end="00:02:04,331">we hebben een afspraak met het lot</p>
+      <p begin="00:02:04,331" end="00:02:05,608">Klaar....</p>
+      <p begin="00:02:05,608" end="00:02:07,560">de WAC&#180;s zijn klaar</p>
+      <p begin="00:02:07,560" end="00:02:09,000">Hun pols is constant</p>
+      <p begin="00:02:09,000" end="00:02:11,934">Een wereld om te bevrijden</p>
+      <p begin="00:02:11,995" end="00:02:13,415">In dienst</p>
+      <p begin="00:02:13,415" end="00:02:15,959">we zijn er in met hart en ziel</p>
+      <p begin="00:02:15,959" end="00:02:19,639">Overwinning is onze enige doel</p>
+      <p begin="00:02:19,639" end="00:02:20,440">Wij zijn op zoek naar</p>
+      <p begin="00:02:20,440" end="00:02:21,656">Computer specialisten</p>
+      <p begin="00:02:21,656" end="00:02:22,904">Vliegtuig technici</p>
+      <p begin="00:02:22,904" end="00:02:24,392">Loodgieters...Timmerlieden...</p>
+      <p begin="00:02:24,392" end="00:02:26,695">Elektriciens...Art illustrators...</p>
+      <p begin="00:02:26,695" end="00:02:27,847">Statistici...</p>
+      <p begin="00:02:27,847" end="00:02:30,183">Luchtverkeersleiders...<br/>Veiligheidspolitie...</p>
+      <p begin="00:02:30,183" end="00:02:32,769">Automonteurs...Brandweermannen...</p>
+      <p begin="00:02:37,093" end="00:02:37,972">Kijk omhoog</p>
+      <p begin="00:02:37,972" end="00:02:41,085">Wij kijken op naar de luchtmacht</p>
+      <p begin="00:02:41,085" end="00:02:42,728">2-1-2 radar contact</p>
+      <p begin="00:02:42,728" end="00:02:44,957">Draai rechts richting &#233;&#233;n-vijf-nul</p>
+      <p begin="00:02:44,957" end="00:02:47,781">Met de mist-gebonden helikopter<br/>luisterend naar elk woord dat je zegt,</p>
+      <p begin="00:02:47,881" end="00:02:52,290">maakt het niet uit of je een man <br/>of vrouw bent, alleen dat je goed bent.</p>
+      <p begin="00:02:52,290" end="00:02:53,474">- Langzaam opkomend....</p>
+      <p begin="00:02:53,474" end="00:02:56,153">Wees alles wat je kan zijn ...<br/><span tts:fontStyle="italic">Zijn dat alles wat je kan...</span></p>
+      <p begin="00:02:56,153" end="00:02:57,692">- Bedankt voor uw hulp.<br/>- Roger.</p>
+      <p begin="00:02:57,707" end="00:03:01,553">Omdat we je nodig hebben in het leger</p>
+      <p begin="00:03:02,061" end="00:03:03,892"/>
+      <p begin="00:03:04,357" end="00:03:06,061">Ik vlieg momenteel <br/>in een helikopter.</p>
+      <p begin="00:03:06,061" end="00:03:07,414"/>
+      <p begin="00:03:07,414" end="00:03:11,394">Bekritiseer jezelf niet. Het is veel werk,<br/>maar het is zeker de moeite waard.</p>
+      <p begin="00:03:14,477" end="00:03:18,441" region="top"> De onzichtbare oorlog</p>
+      <p begin="00:03:23,334" end="00:03:41,931"/>
+      <p begin="00:03:41,931" end="00:03:43,773">Ik zag gewoon altijd <br/>de films van het leger</p>
+      <p begin="00:03:43,788" end="00:03:45,676">en ik wist gewoon dat ik dat was.</p>
+      <p begin="00:03:45,676" end="00:03:47,900">Dat is wat ik wilde doen. <br/>Dat is wat ik wilde zijn.</p>
+      <p begin="00:03:53,108" end="00:03:57,510">Er was een wachtlijst voor de Marine <br/>van meer dan een jaar</p>
+      <p begin="00:03:57,510" end="00:03:59,395">en ik wist dat ik niet <br/>zolang wilde wachten.</p>
+      <p begin="00:03:59,395" end="00:04:02,406">Ik had een vriend die me <br/>over de Kustwacht vertelde</p>
+      <p begin="00:04:02,406" end="00:04:05,078">en ik ging naar de Kustwacht en<br/>ze zeiden dat ze me konden aannemen</p>
+      <p begin="00:04:05,078" end="00:04:09,103">binnen een maand, dus ik zei: <br/>"Oke, Stuur me maar op weg."</p>
+      <p begin="00:04:13,686" end="00:04:17,877">- Ik had unief geprobeerd en<br/>ik had een goede baan</p>
+      <p begin="00:04:17,877" end="00:04:21,189">op een wijngaard in Oost-Texas.<br/>Ik kocht mijn eigen huisje.</p>
+      <p begin="00:04:21,189" end="00:04:23,820">Het leger was iets wat <br/>ik altijd al wilde doen.</p>
+      <p begin="00:04:23,820" end="00:04:26,233">Ik kom uit een militaire familie.<br/>Ik werd altijd geleerd</p>
+      <p begin="00:04:26,233" end="00:04:29,215">dat het de plicht is van elke burger <br/>om toe te treden in het leger.</p>
+      <p begin="00:04:29,443" end="00:04:32,067">Als je kunt, zou je moeten gaan. <br/>Dus, ik wilde gaan</p>
+      <p begin="00:04:32,067" end="00:04:34,324">en toetreden en een carri&#232;re beginnen.</p>
+      <p begin="00:04:34,324" end="00:04:37,000"/>
+      <p begin="00:04:37,550" end="00:04:41,303">ik sloot me aan <br/>bij de luchtmacht. Ik was 17 jaar.</p>
+      <p begin="00:04:42,028" end="00:04:46,493">Ik had een vriend die me aanmoedigde<br/>om te gaan, dus dat deed ik.</p>
+      <p begin="00:04:46,541" end="00:04:48,584">Mijn moeder ondertekende,<br/>gaf me toestemming om te gaan.</p>
+      <p begin="00:04:50,010" end="00:04:51,197">Toen ik op <br/>de middelbare school zat,</p>
+      <p begin="00:04:51,213" end="00:04:53,754">Was ik onder de indruk van <br/>de mariniers die ik ontmoet had.</p>
+      <p begin="00:04:53,754" end="00:04:55,723">Er was een luitenant-kolonel <br/>die rondjes liep</p>
+      <p begin="00:04:55,723" end="00:04:57,995">rond het veld na de voetbal training.</p>
+      <p begin="00:04:57,995" end="00:05:00,641">En, hij zei, "Je zou perfect zijn <br/>voor de Marine</p>
+      <p begin="00:05:00,641" end="00:05:04,458">want je bent echt fit en slim <br/>en dat is wat de Marine nodig heeft."</p>
+      <p begin="00:05:04,458" end="00:05:07,050">Het professionalisme, de kameraadschap,</p>
+      <p begin="00:05:07,050" end="00:05:09,062">Alles eraan inspireerde me.</p>
+      <p begin="00:05:11,576" end="00:05:16,025">- Toen ik afstudeerde van het middelbaar, <br/>vertrok ik naar Orlando, Florida,</p>
+      <p begin="00:05:16,025" end="00:05:18,527">wat de eerste keer was dat ik ooit<br/>op een vliegtuig was in mijn hele leven.</p>
+      <p begin="00:05:18,527" end="00:05:19,708"/>
+      <p begin="00:05:20,864" end="00:05:23,240">In eerste instantie was het gewoon <br/>om de wereld te zien</p>
+      <p begin="00:05:23,240" end="00:05:24,858">want ik kom uit een heel klein stadje.</p>
+      <p begin="00:05:25,032" end="00:05:28,128">Ik had een beurs van de universiteit<br/>om basketbal te gaan spelen</p>
+      <p begin="00:05:28,344" end="00:05:33,108">maar ik verkoos om in het leger te gaan.</p>
+      <p begin="00:05:34,498" end="00:05:36,866">Dus, dat is waar ik voor koos.</p>
+      <p begin="00:05:38,294" end="00:05:41,490">- Ik kom uit een lange lijn<br/>van militaire lineage.</p>
+      <p begin="00:05:41,718" end="00:05:45,074">Iemand uit elke generatie <br/>aan beide zijden van de familie,</p>
+      <p begin="00:05:45,074" end="00:05:50,274">helemaal terug tot aan de revolutionaire<br/>oorlog, hadden gediend in het leger.</p>
+      <p begin="00:05:50,341" end="00:05:52,117">Ik koos voor de Marine omdat</p>
+      <p begin="00:05:52,117" end="00:05:53,971">niemand in mijn familie <br/>dat ooit gedaan had.</p>
+      <p begin="00:05:55,447" end="00:05:57,885">- Ik hou er van om elke dag <br/>het uniform aan te trekken</p>
+      <p begin="00:05:57,885" end="00:06:01,475">en weet je, gewoon naar buiten gaan<br/>en alles geven.</p>
+      <p begin="00:06:02,927" end="00:06:05,758">Het is een erg trots gevoel.</p>
+      <p begin="00:06:06,726" end="00:06:09,075">1, 1000... 2, 1000 3, 1000</p>
+      <p begin="00:06:09,075" end="00:06:09,947">Hij is me er &#233;&#233;ntje...</p>
+      <p begin="00:06:09,947" end="00:06:12,178">- Ik zou heropvoedingskamp altijd <br/>opnieuw en opnieuw gedaan hebben.</p>
+      <p begin="00:06:12,178" end="00:06:17,151">Het was geweldig, de kameraadschap, <br/>de discipline, alles wat ik leerde.</p>
+      <p begin="00:06:18,015" end="00:06:20,524">Wie ik wilde worden.<br/>Dat is wat ze je daar leerden.</p>
+      <p begin="00:06:21,455" end="00:06:24,690">- Uiteraard was het anders om een douche<br/>te nemen met 80 verschillende mensen</p>
+      <p begin="00:06:24,690" end="00:06:30,175">opeens, want ik was vrij verlegen. <br/>Maar, gewoon een geweldige ervaring.</p>
+      <p begin="00:06:30,175" end="00:06:36,301">Ik was een 4-0 zeiler. Elk verslag dat <br/>over mij gedaan was, was uitstekend.</p>
+      <p begin="00:06:36,770" end="00:06:40,286">Ik wist wat ik moest doen in mijn werk.<br/>Ik was een geweldig team-leider.</p>
+      <p begin="00:06:41,563" end="00:06:43,644">Ik heb echt genoten <br/>van de hele uitdaging.</p>
+      <p begin="00:06:43,835" end="00:06:46,934">Ik ontving verscheidene <br/>verschillende awards en kudos.</p>
+      <p begin="00:06:47,431" end="00:06:49,273">Het waren voornamelijk mannen.</p>
+      <p begin="00:06:49,273" end="00:06:52,809">Ik hield ervan dat ik me kon inmengen <br/>tussen de jongens en hun kon bijhouden</p>
+      <p begin="00:06:52,809" end="00:06:54,402">en zo hard kon werken zoals zij deden.</p>
+      <p begin="00:06:54,402" end="00:06:57,078"/>
+      <p begin="00:06:57,461" end="00:06:59,899">- De Zeemacht academie <br/>was een uitdaging.</p>
+      <p begin="00:07:00,095" end="00:07:02,265">Het onderwijs was eerste klas.</p>
+      <p begin="00:07:02,388" end="00:07:05,837">In mijn laatste jaar,werd ik geselecteerd <br/>om bij de top 30 leiders te zijn</p>
+      <p begin="00:07:05,857" end="00:07:07,967">door de rang officieren van de compagnie.</p>
+      <p begin="00:07:09,219" end="00:07:13,055">- Na basistraining, ging ik naar<br/>de Marine Beveiligingsgroep in Alaska.</p>
+      <p begin="00:07:13,641" end="00:07:18,368">Ik herinner me dat ik aankwam, een parka<br/>gekregen, ge&#239;nstalleerd op mijn kamer.</p>
+      <p begin="00:07:18,388" end="00:07:21,540">En toen nam hij me mee naar de bar,<br/>die in onze kazerne was</p>
+      <p begin="00:07:21,540" end="00:07:25,618">en ging zitten aan een tafel waar ik <br/>het was en zo&#381;n 10 andere jongens.</p>
+      <p begin="00:07:26,771" end="00:07:32,271">En weet je, ik voelde me als <br/>een stuk vlees op dat moment.</p>
+      <p begin="00:07:32,848" end="00:07:35,677">En ik wilde nooit omkeren en<br/>zoveel achterlaten in mijn leven.</p>
+      <p begin="00:07:36,145" end="00:07:37,189">Maar ik kon het niet.</p>
+      <p begin="00:07:41,621" end="00:07:42,466">- H&#233;, mama.</p>
+      <p begin="00:07:42,466" end="00:07:43,275"/>
+      <p begin="00:07:43,275" end="00:07:45,330">-Ga hem pakken deze keer.</p>
+      <p begin="00:07:45,330" end="00:07:47,154">- Ok&#233;.<br/>- Pak hem, pak hem.</p>
+      <p begin="00:07:49,553" end="00:07:50,835">- H&#233;, geef me die bal.</p>
+      <p begin="00:07:50,835" end="00:07:53,280">- Geef het aan hem in Derby stijl. <br/>Pak hem.</p>
+      <p begin="00:07:53,280" end="00:07:54,339"/>
+      <p begin="00:07:54,339" end="00:07:58,931">- Ik ontmoette Kori <br/>op 17 december 2007.</p>
+      <p begin="00:07:58,931" end="00:08:01,879">Ik stond op wacht toen <br/>ze aankwam aan het station</p>
+      <p begin="00:08:01,879" end="00:08:05,499">en ze overdonderde me gewoon<br/>toen ze binnenliep.</p>
+      <p begin="00:08:05,499" end="00:08:09,000">- Koekjes, toch?<br/>Is het goed dat je besteld hebt?</p>
+      <p begin="00:08:09,000" end="00:08:11,059">Ok&#233;. Bedankt.</p>
+      <p begin="00:08:11,059" end="00:08:13,320">- De commandant vertelde ons<br/>dat ze zou komen</p>
+      <p begin="00:08:13,320" end="00:08:18,441">en er waren wat problemen, <br/>maar geen van de bemanning wist precies</p>
+      <p begin="00:08:18,441" end="00:08:22,535">wat er gebeurd was. En ik kwam het<br/>niet te weten voor lange tijd.</p>
+      <p begin="00:08:22,535" end="00:08:24,040">- Voor mammie?<br/>Waar is het hart?</p>
+      <p begin="00:08:24,040" end="00:08:30,313">- Hij hield van zijn baan. En het was <br/>alsof hij het opgaf voor mij.</p>
+      <p begin="00:08:30,313" end="00:08:32,488">- Ze hield meer van de Kustwacht <br/>dan ik dat deed.</p>
+      <p begin="00:08:32,488" end="00:08:34,713">Ze wilde carri&#232;re maken,</p>
+      <p begin="00:08:34,713" end="00:08:38,277">maar te zien hoe ze behandeld werd, <br/>had ik geen zin om te blijven.</p>
+      <p begin="00:08:38,277" end="00:08:42,306">Ik deed het en dan deed ik <br/>mijn extra jaar en ik stapte eruit.</p>
+      <p begin="00:08:42,306" end="00:08:44,684">Ik kon niet geloven <br/>wat er gebeurd was met haar,</p>
+      <p begin="00:08:44,684" end="00:08:47,034">en wat ze doorstaan had.</p>
+      <p begin="00:08:49,535" end="00:08:53,033">- Ik was gestationeerd<br/>aan de Saginaw rivier, Michigan.</p>
+      <p begin="00:08:53,236" end="00:08:58,206">Ik was de enige vrouw in mijn sectie.<br/>Ik had een chef.</p>
+      <p begin="00:08:58,905" end="00:09:01,772">Het kwam tot een punt waar ik <br/>oproepen kreeg om drie uur &#381;s ochtends</p>
+      <p begin="00:09:01,843" end="00:09:04,082">en hij zou dronken in een bar zijn en <br/>me zeggen hem te komen halen.</p>
+      <p begin="00:09:04,452" end="00:09:08,413">En ik zei, "Ik kan niet, ik lig in bed," <br/>en hij zou me vervolgens bedreigen.</p>
+      <p begin="00:09:10,012" end="00:09:13,690">Ik kwam binnen van de trainig <br/>en hij lag te slapen in mijn bed.</p>
+      <p begin="00:09:15,294" end="00:09:17,231">Toen gingen we naar &#233;&#233;n<br/>van de hogere</p>
+      <p begin="00:09:17,231" end="00:09:21,798">bevelhebbers in lijn, dat waren <br/>allemaal zijn drinkmakkers,</p>
+      <p begin="00:09:21,798" end="00:09:24,369">en ze vertelde me dat enkel <br/>omdat ik iemand niet graag had,</p>
+      <p begin="00:09:24,438" end="00:09:26,800">ze me niet gingen overschakelen<br/>uit de buurt van deze kerel.</p>
+      <p begin="00:09:29,106" end="00:09:32,975">Het was's avonds, rond tapuur, <br/>en hij had de deur ontgrendeld</p>
+      <p begin="00:09:33,045" end="00:09:35,815">en hij was binnengekomen, <br/>en hij had een erectie</p>
+      <p begin="00:09:35,815" end="00:09:37,815">en hij probeerde me zover <br/>te krijgen hem aan te raken.</p>
+      <p begin="00:09:38,485" end="00:09:40,714">Ik nam mijn rechterhand en <br/>ik duwde hem in de borst</p>
+      <p begin="00:09:41,185" end="00:09:44,785">en begon te roepen zodat de andere <br/>jongens me konden horen, "H&#233;, h&#233;, h&#233;."</p>
+      <p begin="00:09:45,285" end="00:09:50,280">Hij sloeg me overlangs <br/>aan de linkse kant van mijn gezicht.</p>
+      <p begin="00:09:51,365" end="00:09:56,065">Ik herinner me dat ik de kast vasthield,<br/>denkend, "wat is er net gebeurd?"</p>
+      <p begin="00:09:58,065" end="00:09:59,905">En mijn gezicht deed zo pijn.</p>
+      <p begin="00:10:03,772" end="00:10:05,839">En toen we naar de bevelhebber gingen,</p>
+      <p begin="00:10:05,839" end="00:10:08,208">ik en die onderofficier<br/>die mijn gezicht had gezien,</p>
+      <p begin="00:10:09,843" end="00:10:13,947">ze lieten het gewoon wachten, <br/>want ze wilden geen problemen.</p>
+      <p begin="00:10:16,317" end="00:10:19,687">Een paar weken later, had ik <br/>de sleutel nodig om op te ruimen</p>
+      <p begin="00:10:20,320" end="00:10:21,843">dus ik klopte op zijn deur <br/>en hij zei,</p>
+      <p begin="00:10:21,843" end="00:10:23,098">'Ok&#233;, ja. Kom binnen. <br/>Hij is hier."</p>
+      <p begin="00:10:23,098" end="00:10:25,191">En ik zei: "Nee, Nee, Nee,<br/>ik wacht hier wel."</p>
+      <p begin="00:10:26,468" end="00:10:28,528">En hij schreeuwde tegen me en <br/>hij deed me binnen komen,</p>
+      <p begin="00:10:28,528" end="00:10:30,130">en hij pakte mijn arm</p>
+      <p begin="00:10:38,171" end="00:10:40,877"/>
+      <p begin="00:10:56,825" end="00:10:59,127">en hij verkrachtte me op zijn ligplaats.</p>
+      <p begin="00:11:01,131" end="00:11:04,671">- Alles veranderde volledig</p>
+      <p begin="00:11:05,032" end="00:11:07,031">de dag dat ik werd verkracht.</p>
+      <p begin="00:11:07,041" end="00:11:10,225">- Ik kwam aan in februari en tegen april</p>
+      <p begin="00:11:10,225" end="00:11:12,472">was ik gedrogeerd en <br/>verkracht voor de eerste keer.</p>
+      <p begin="00:11:12,610" end="00:11:16,876">- Ik had symptomen van <br/>een verkoudheid of longontsteking</p>
+      <p begin="00:11:17,144" end="00:11:21,721">en ze stuurden me om het na te kijken. <br/>Terwijl ik wachtte op het onderzoek,</p>
+      <p begin="00:11:22,682" end="00:11:24,551">kwam hij binnen en hielp hij zichzelf.</p>
+      <p begin="00:11:25,219" end="00:11:26,620">- Hij zei dat hij naar de badkamer ging</p>
+      <p begin="00:11:26,660" end="00:11:30,457">en hij kwam in mijn kamer <br/>en toen verkrachtte hij me.</p>
+      <p begin="00:11:30,457" end="00:11:31,693">- De hele tijd was ik aan het schreeuwen</p>
+      <p begin="00:11:31,693" end="00:11:37,467">en om hulp aan het roepen en tegen hem<br/>om te stoppen, niemand kwam aan de deur,</p>
+      <p begin="00:11:37,467" end="00:11:41,736">niemand kwam om me te helpen, <br/>kwam tot mijn redding of om het even wat.</p>
+      <p begin="00:11:42,207" end="00:11:47,177">- Ze hadden het zeer duidelijk gemaakt<br/>dat als ik iets zei,</p>
+      <p begin="00:11:47,747" end="00:11:51,678">ze me zouden vermoorden, je weet wel,<br/>en natuurlijk,</p>
+      <p begin="00:11:51,678" end="00:11:54,243">had ik niemand om mee te praten <br/>omdat de mensen die</p>
+      <p begin="00:11:54,243" end="00:11:57,387">me dit aandeden,de politie was.</p>
+      <p begin="00:11:58,418" end="00:12:04,234">- Het was mijn eerste keer ooit, <br/>en ik had een moeilijke tijd</p>
+      <p begin="00:12:04,235" end="00:12:07,227">mezelf te overtuigen <br/>dat ik nog een maagd was.</p>
+      <p begin="00:12:07,985" end="00:12:13,007">- Als dit met mij gebeurt, kan ik me <br/>voorstellen dat ik niet de enige ben,</p>
+      <p begin="00:12:13,567" end="00:12:17,872">waar ik later achterkwam, <br/>tijdens het claimproces, dat dit zo was.</p>
+      <p begin="00:12:18,579" end="00:12:26,717" region="top"> Meer dan 20% van de vrouwelijke <br/>veteranen zijn aangerand in hun dienst.</p>
+      <p begin="00:12:27,285" end="00:12:34,187">- Het is net na drie uur, en ik zie <br/>een schaduw over mijn lichaam.</p>
+      <p begin="00:12:34,556" end="00:12:38,625">- Voor ik het weet, word ik wakker <br/>en hij ligt bovenop mij.</p>
+      <p begin="00:12:38,765" end="00:12:42,596">- Hij duwde mijn benen uit elkaar <br/>en zet zichzelf bovenop mij</p>
+      <p begin="00:12:42,596" end="00:12:44,197">en begon aan mijn t-shirt te trekken.</p>
+      <p begin="00:12:44,197" end="00:12:47,336">- En ik word wakker <br/>en hij ligt bovenop mij.</p>
+      <p begin="00:12:48,936" end="00:12:50,806">Hij is al doorgedrongen tot mij.</p>
+      <p begin="00:12:51,106" end="00:12:56,516">- Ik was gedrogeerd. <br/>Ik herinner me de geluiden, de geur.</p>
+      <p begin="00:12:57,377" end="00:13:00,680">- Hij zette zijn vergrendelde en <br/>geladen 45 tegen mijn schedel</p>
+      <p begin="00:13:02,154" end="00:13:05,324">en vergrendelde de klep zodat <br/>ik wist dat er een kogel inzat.</p>
+      <p begin="00:13:05,385" end="00:13:08,360">- Alles wat ik kon doen was <br/>blijven concentreren op mijn ademhaling.</p>
+      <p begin="00:13:08,530" end="00:13:11,124">- Hij sloeg mijn hoofd <br/>tegen de betonnen muur</p>
+      <p begin="00:13:11,730" end="00:13:14,800">en had zeer gedwongen seks met mij.</p>
+      <p begin="00:13:14,830" end="00:13:18,732">- Ik ging gewoon naar mijn tent,<br/>trok de slaapzak over mijn hoofd</p>
+      <p begin="00:13:18,732" end="00:13:20,502">en huilde mezelf in slaap.</p>
+      <p begin="00:13:20,563" end="00:13:23,141">- Dus, binnen die termijn van twee weken,</p>
+      <p begin="00:13:23,441" end="00:13:26,017">verkrachtte hij me vijf keer.</p>
+      <p begin="00:13:26,017" end="00:13:32,018">- Toen wij getest werden, <br/>had ik trichomonas en gonorroe</p>
+      <p begin="00:13:32,511" end="00:13:34,018">en was ik zwanger.</p>
+      <p begin="00:13:35,788" end="00:13:40,225">- En hij deed het. Hij verkrachtte me.</p>
+      <p begin="00:13:45,726" end="00:13:48,028">-In 1991, in het getuigschrift <br/>van het Congres,</p>
+      <p begin="00:13:48,043" end="00:13:51,534">werd geschat dat 200.000 vrouwen seksueel <br/>waren aangerand tot nu toe</p>
+      <p begin="00:13:51,534" end="00:13:54,301">in het Amerikaanse leger. <br/>Als je er rekening mee houdt dat vrouwen</p>
+      <p begin="00:13:54,304" end="00:13:57,973">dit niet aangeven vanwege <br/>de extreme vergelding en dat was,</p>
+      <p begin="00:13:58,105" end="00:14:00,145">weet je, een tiental jaar geleden.</p>
+      <p begin="00:14:00,145" end="00:14:03,243">Zou ik durven zeggen dat je <br/>dat getal gemakkelijk kan verdubbelen</p>
+      <p begin="00:14:03,243" end="00:14:06,184">en het zijn waarschijnlijk ongeveer <br/>een half miljoen vrouwen die inmiddels</p>
+      <p begin="00:14:06,184" end="00:14:08,112">seksueel zijn aangerand <br/>in het Amerikaase leger.</p>
+      <p begin="00:14:08,112" end="00:14:10,758">- Nou, volgens het ministerie <br/>van defensie hebben</p>
+      <p begin="00:14:10,758" end="00:14:17,758">3230 vrouwen en mannen aanranding gemeld,<br/>in het afgelopen fiscale jaar 2009.</p>
+      <p begin="00:14:18,128" end="00:14:24,498">Maar ze hebben ook toegeven, D.v.D. zelf, <br/>dat 80% van de seksueel misbruikten</p>
+      <p begin="00:14:24,498" end="00:14:31,312">niets melden. Als je de berekening maakt,<br/>zijn er 16.150 leden van het leger</p>
+      <p begin="00:14:31,312" end="00:14:34,347">aangerand, wat een buitengewoon aantal is.</p>
+      <p begin="00:14:37,532" end="00:14:43,816"/>
+      <p begin="00:14:44,136" end="00:14:46,919"/>
+      <p begin="00:14:47,549" end="00:14:50,029">- We hebben meer in de auto's, Rob.</p>
+      <p begin="00:14:50,345" end="00:14:51,476"/>
+      <p begin="00:14:51,476" end="00:14:52,396">Er is hier ook een aantal.</p>
+      <p begin="00:14:52,396" end="00:14:55,430">Dit alles werd voorgeschreven <br/>in de laatste drie tot vier maanden.</p>
+      <p begin="00:14:55,870" end="00:14:58,365">Dit is Proxatine , dit is Seroquel,<br/>Seroquel...</p>
+      <p begin="00:14:58,965" end="00:15:01,640">Citolopram, dit is Xanax.</p>
+      <p begin="00:15:04,208" end="00:15:09,279">Ik ben het beu om die medicijnen te nemen.<br/>Ik wil gewoon dat de VA mijn kaak geneest.</p>
+      <p begin="00:15:11,878" end="00:15:13,747">Ik had de meest verschrikkelijke <br/>pijn in mijn gezicht,</p>
+      <p begin="00:15:15,082" end="00:15:17,951">dus ik ging naar de tandarts, <br/>omdat ik dacht dat het mijn tanden waren</p>
+      <p begin="00:15:17,951" end="00:15:21,521">of dat er iets mis was. <br/>De dokter kwam binnen na de radiografie</p>
+      <p begin="00:15:21,521" end="00:15:24,257">en vroeg me of ik <br/>een auto ongeluk had gehad.</p>
+      <p begin="00:15:24,257" end="00:15:27,627">Toen hij me in mijn gezicht sloeg,<br/>ontwrichtte hij mijn kaak</p>
+      <p begin="00:15:27,627" end="00:15:31,231">en het zond mijn beide kaakschijven <br/>naar voren in mijn gezicht dus ik heb</p>
+      <p begin="00:15:31,231" end="00:15:34,968">geen enkele schijven waar ze<br/>in mijn gezicht zouden moeten zijn.</p>
+      <p begin="00:15:34,968" end="00:15:38,105">Ze vertelden me dat ik waarschijnlijk<br/>een gedeeltelijke botvervanging nodig had.</p>
+      <p begin="00:15:38,105" end="00:15:41,375">Van waar mijn bot zo lang <br/>op mijn zenuwen had gelegen,</p>
+      <p begin="00:15:41,375" end="00:15:44,311">begint het eigenlijk te desintegreren.</p>
+      <p begin="00:15:44,311" end="00:15:51,118">Ik ben al op een dieet voor 5 jaar. Ik mag<br/>niet eten wat ik gewend ben.</p>
+      <p begin="00:15:51,118" end="00:15:57,958">Alles is aardappelpuree, Jell-o.</p>
+      <p begin="00:15:57,958" end="00:16:05,100"/>
+      <p begin="00:16:05,100" end="00:16:07,367">Nou, ik kan buitengaan in de zomer,</p>
+      <p begin="00:16:07,367" end="00:16:09,636">in de lente... als het warm is. <br/>Als het te koud buiten is,</p>
+      <p begin="00:16:09,636" end="00:16:13,573">is het meestal Rob en Shea <br/>die naar buiten gaan.</p>
+      <p begin="00:16:13,573" end="00:16:18,178">Als het echt koud, is het <br/>alsof mijn kaak gewoon vastzat.</p>
+      <p begin="00:16:18,178" end="00:16:19,880">Ik sta daar gewoon, <br/>te kijken vanuit het venster</p>
+      <p begin="00:16:19,880" end="00:16:27,220">en ik hoor de verhalen, <br/>wanneer zij binnenkomen.</p>
+      <p begin="00:16:27,220" end="00:16:30,524">- Het spijt ons,maar <br/>vanwege een grote hoeveelheid oproepen</p>
+      <p begin="00:16:30,524" end="00:16:35,896">en lange wachttijden, zijn wij niet<br/>in staat om uw oproep te beantwoordden.</p>
+      <p begin="00:16:35,896" end="00:16:37,831">- Gelieve aan de lijn te blijven,<br/>de oproepen worden beantwoord</p>
+      <p begin="00:16:37,831" end="00:16:42,402">in de ontvangen volgorde.</p>
+      <p begin="00:16:42,402" end="00:16:45,238">- 15 minuten kan u<br/>honderden besparen op autoverzekering.</p>
+      <p begin="00:16:45,238" end="00:16:47,908">-Het is de vakantie <br/>traditie van Saint Louis.</p>
+      <p begin="00:16:47,908" end="00:16:54,915"/>
+      <p begin="00:16:54,915" end="00:16:56,350">Hoi, dit is Stan.</p>
+      <p begin="00:16:56,350" end="00:16:59,786">- Hoi Stan, ik wilde alleen maar <br/>de status van mijn VA claim checken.</p>
+      <p begin="00:16:59,786" end="00:17:02,022">het is nog steeds op bestand <br/>voor toelating, laat me controleren.</p>
+      <p begin="00:17:02,022" end="00:17:02,756">- Ok&#233; --</p>
+      <p begin="00:17:02,756" end="00:17:04,591">- Het lijkt erop <br/>dat het een jaar oud is nu.</p>
+      <p begin="00:17:04,591" end="00:17:08,595">- Ja, dat iszo. Ok&#233;, is het nog steeds<br/>in behandeling?</p>
+      <p begin="00:17:08,595" end="00:17:12,366">Zei het in welke status het was?</p>
+      <p begin="00:17:12,366" end="00:17:17,337">- Nou, het lijkt erop dat ze <br/>alle informatie hebben die nodig is</p>
+      <p begin="00:17:17,337" end="00:17:20,507">maar het is nog steeds niet verplaatst <br/>naar de beoordelingsraad.</p>
+      <p begin="00:17:20,507" end="00:17:21,375">- Ok&#233;.</p>
+      <p begin="00:17:21,375" end="00:17:22,809">- Bedankt om te bellen mevrouw.<br/>Nog een prettige dag verder.</p>
+      <p begin="00:17:22,809" end="00:17:24,111">- U ook. Bedankt.</p>
+      <p begin="00:17:24,111" end="00:17:26,179">Dit is het spul dat ze me <br/>voor migraine voorschreven</p>
+      <p begin="00:17:26,179" end="00:17:28,281">hoewel ik geen migraine heb.</p>
+      <p begin="00:17:28,281" end="00:17:30,917">Dus, ik keek online <br/>en er zijn dus andere veteranen</p>
+      <p begin="00:17:30,917" end="00:17:35,022">op de leeftijd van 25 of zoiets,<br/>en ze stierven dus gewoon</p>
+      <p begin="00:17:35,022" end="00:17:36,690">omdat hun lichaam <br/>het niet kon verwerken</p>
+      <p begin="00:17:36,690" end="00:17:42,729">de mix van Seroquel, Gavapentin, <br/>een soort angst,</p>
+      <p begin="00:17:42,729" end="00:17:46,366">welke de Xanax was<br/>en er was iets anders,</p>
+      <p begin="00:17:46,366" end="00:17:48,635">een antidepressivum. <br/>Mengsels van dat spul</p>
+      <p begin="00:17:48,635" end="00:17:50,837">wat alles is wat ik hier ook heb</p>
+      <p begin="00:17:50,837" end="00:17:55,034">dat andere veteranen hebben genomen<br/>en ze zijn gestorven.</p>
+      <p begin="00:18:14,861" end="00:18:16,543"/>
+      <p begin="00:18:17,431" end="00:18:22,402">- H&#233;, meisje van me. H&#233;, h&#233;.<br/>- Zitten.</p>
+      <p begin="00:18:25,872" end="00:18:28,508">- Zowel mijn vader en mijn broer<br/>zijn vroegere mariniers</p>
+      <p begin="00:18:28,508" end="00:18:30,544">en nu nationale legerwachten.</p>
+      <p begin="00:18:30,544" end="00:18:34,448">Het is zoiets als, het zit in de familie<br/>en de in de voetsporen treden.</p>
+      <p begin="00:18:34,448" end="00:18:38,485">Ik was opgewonden<br/>en volledig opgewerkt over het gaan.</p>
+      <p begin="00:18:38,485" end="00:18:45,392">Mijn familie was trots op me.<br/>Mijn vader is mijn grootste held.</p>
+      <p begin="00:18:45,392" end="00:18:48,228">- Ik vertelde haar,<br/>ik zei, "U gaat verzorgd worden."</p>
+      <p begin="00:18:48,228" end="00:18:54,301">Ik denk dat &#233;&#233;n van de harde dingen die<br/>ik moeten aanvaarden heb, omdat</p>
+      <p begin="00:18:54,301" end="00:19:00,572">Ik vertelde haar dat het zo zou zijn. <br/>Het was februari, we kregen telefoon.</p>
+      <p begin="00:19:03,232" end="00:19:07,981" region="top"> Op 1 februari 2008, werd Hannah<br/>opgesloten in een hotelkamer</p>
+      <p begin="00:19:07,981" end="00:19:11,318" region="top">en verkracht door een collega rekruut. </p>
+      <p begin="00:19:11,318" end="00:19:13,187">- Zodra hij klaar was,</p>
+      <p begin="00:19:13,187" end="00:19:16,924">wreef hij zijn hand <br/>over mijn hele lichaam</p>
+      <p begin="00:19:16,924" end="00:19:21,728">en vertelde me, hij zei, <br/>"Ik bezit dit alles."</p>
+      <p begin="00:19:21,728" end="00:19:26,033">En ik was gewoon absoluut bang, <br/>wist niet wat te doen.</p>
+      <p begin="00:19:26,033" end="00:19:28,235">Ik belde mijn vader op.</p>
+      <p begin="00:19:28,235" end="00:19:29,936">- &#201;&#233;n van de eerste dingen die ze zei, <br/>was,</p>
+      <p begin="00:19:29,936" end="00:19:33,621">"Pap, ik ben niet langer een maagd."</p>
+      <p begin="00:19:37,344" end="00:19:43,635">En ik zei, "wat is er gebeurd?" <br/>En ze zei: "Ik werd verkracht."</p>
+      <p begin="00:19:45,452" end="00:19:49,756">En ik zei, "Hannah, je bent <br/>een maagd omdat</p>
+      <p begin="00:19:49,756" end="00:19:54,605">hij iets nam van jou dat je niet gaf."</p>
+      <p begin="00:19:54,605" end="00:19:56,374"/>
+      <p begin="00:19:59,399" end="00:20:02,235">Ik zei, "Dus denk nooit <br/>dat je dat niet bent."</p>
+      <p begin="00:20:04,371" end="00:20:07,874">- Mijn belangrijkste zenuwen in mijn rug<br/>waren gekneld op drie plaatsen</p>
+      <p begin="00:20:07,874" end="00:20:10,010">en mijn heupen waren gedraaid.</p>
+      <p begin="00:20:10,010" end="00:20:14,960">Ik kon nauwelijks lopen. Ik was <br/>ingestort van spierspasmen in mijn rug</p>
+      <p begin="00:20:14,960" end="00:20:18,446">omdat mijn rug gewond was geraakt<br/>tijdens de verkrachting.</p>
+      <p begin="00:20:22,489" end="00:20:24,925">- Mijn titel is <br/>directeur van militaire plannen</p>
+      <p begin="00:20:24,925" end="00:20:27,848">en personeelsbeleid voor de Zeemacht.</p>
+      <p begin="00:20:28,328" end="00:20:30,831">We hebben speciaal opgeleide <br/>rechter-advocaten.</p>
+      <p begin="00:20:30,831" end="00:20:34,935">Onze marine advocaten, <br/>in onze marine onderzoeksdienst,</p>
+      <p begin="00:20:34,935" end="00:20:38,472">die onderzoekers zijn alle <br/>specifiek getraind in aanranding.</p>
+      <p begin="00:20:38,472" end="00:20:41,441">Elk verslag van een aanranding<br/>wordt volledig onderzocht</p>
+      <p begin="00:20:41,441" end="00:20:43,210">in de marine van de Verenigde Staten.</p>
+      <p begin="00:20:43,210" end="00:20:44,544">- Zij losten het niet op.</p>
+      <p begin="00:20:44,544" end="00:20:47,814">Voor anderhalf jaar, <br/>spoorden ze getuigen op.</p>
+      <p begin="00:20:47,814" end="00:20:51,218">Ze hadden al die studenten daar<br/>en ze konden ze opgesloten houden</p>
+      <p begin="00:20:51,218" end="00:20:54,021">en zeggen: "Je staat op juridische wacht<br/>totdat ik een verklaring krijg."</p>
+      <p begin="00:20:54,021" end="00:20:58,258">En ze deden het niet. <br/>Hannah ging langs bij drie onderzoekers.</p>
+      <p begin="00:20:58,258" end="00:21:01,795">Het was van, "Ok&#233;, ik krijg deze zaak."<br/>Zo voelde het aan.</p>
+      <p begin="00:21:01,795" end="00:21:03,997">"Oh, dus ik krijg deze zaak.<br/>Ik moet dit oplossen."</p>
+      <p begin="00:21:03,997" end="00:21:07,034">"Welja, dit is iets van de marine.<br/>Daar heb ik geen tijd voor."</p>
+      <p begin="00:21:07,034" end="00:21:08,869">- Vrouwen stapten naar hun bevelhebbers</p>
+      <p begin="00:21:08,869" end="00:21:13,106">of hun onderofficieren om te zeggen<br/>dat ze aangerand waren of misbruikt</p>
+      <p begin="00:21:13,106" end="00:21:15,475">en ik denk dat ze <br/>het niet eens serieus namen.</p>
+      <p begin="00:21:15,475" end="00:21:18,745">Ik denk dat er dikwijls maar<br/>een vluchtig onderzoek gebeurde</p>
+      <p begin="00:21:18,745" end="00:21:21,616">en er werd hen gewoon gezegd<br/>er zich bij neer te leggen.</p>
+      <p begin="00:21:21,616" end="00:21:23,216">- Ik herinner me dat ik <br/>een jong dienstlid binnenbracht</p>
+      <p begin="00:21:23,216" end="00:21:26,853">die brutaal verkracht was, en ik bracht<br/>haar binnen om haar bevelhebber te zien</p>
+      <p begin="00:21:26,853" end="00:21:30,624">en probeerde te verzekeren dat <br/>dit jong meisje deftig verzorgd werd.</p>
+      <p begin="00:21:30,624" end="00:21:37,698">Die idioot, pakte haar aan voor het wenen,<br/>en zei haar om te stoppen met jammeren.</p>
+      <p begin="00:21:37,698" end="00:21:39,966">- Dikwijls werd <br/>de geloofwaardigheid van de getuige</p>
+      <p begin="00:21:39,966" end="00:21:42,536">in vraag gesteld. <br/>Had het potentiele slachtoffer,</p>
+      <p begin="00:21:42,536" end="00:21:44,840">had ze al zulke beweringen <br/>gedaan in het verleden?</p>
+      <p begin="00:21:44,840" end="00:21:47,574">Er was veel heksenjacht aan de gang.</p>
+      <p begin="00:21:47,574" end="00:21:51,278">- Ik was bevolen om een slachtoffer <br/>te adviseren over haar rechten</p>
+      <p begin="00:21:51,278" end="00:21:53,880">voor valse verklaringen, <br/>terwijl ik wist dat ze niet loog.</p>
+      <p begin="00:21:53,880" end="00:21:56,583">Ik werd gevraagd haar binnen te brengen <br/>en haar te wijzen op haar rechten</p>
+      <p begin="00:21:56,583" end="00:21:59,920">zoals een crimineel en haar<br/>te ondervragen over haar valse verklaring,</p>
+      <p begin="00:21:59,920" end="00:22:03,056">"tot ik de waarheid uit haar kreeg."</p>
+      <p begin="00:22:03,056" end="00:22:06,693">Als een vrouw een aanrandingsklacht doet,<br/>zijn er altijd mensen die vragen</p>
+      <p begin="00:22:06,693" end="00:22:09,429">wat ze daar deed, wat ze droeg,</p>
+      <p begin="00:22:09,429" end="00:22:11,832">of ze een vriend had of niet.</p>
+      <p begin="00:22:11,832" end="00:22:14,668">- Als er verkrachtingszaken binnenkwamen,<br/>werden ze nooit aan vrouwen gegeven.</p>
+      <p begin="00:22:14,668" end="00:22:16,303">De mannen namen deze altijd<br/>voor hun rekening.</p>
+      <p begin="00:22:16,303" end="00:22:17,237">- Waarom is dat?</p>
+      <p begin="00:22:17,237" end="00:22:19,673">- Omdat we te symphatiek waren.</p>
+      <p begin="00:22:19,673" end="00:22:20,974">- Is dat wat ze zeiden tegen jou?</p>
+      <p begin="00:22:20,974" end="00:22:22,109">- Uh-hmm.</p>
+      <p begin="00:22:22,109" end="00:22:26,747">"We zagen niet wat er aan de hand was,<br/>omdat we altijd de vrouwenkant kozen."</p>
+      <p begin="00:22:26,747" end="00:22:28,849">- Ik werd verteld dat ik <br/>een sociaal werkster zou moeten zijn.</p>
+      <p begin="00:22:28,849" end="00:22:31,785">Ik had niets te zoeken bij de politie.</p>
+      <p begin="00:22:31,785" end="00:22:37,491">Er was veel weerstand <br/>tegen het idee dat slachtoffers </p>
+      <p begin="00:22:37,491" end="00:22:41,637">enige vorm van gevoeligheid zou verschaft<br/>worden. Het was bijna om te lachen.</p>
+      <p begin="00:22:42,162" end="00:22:44,466">- We geven specifieke en continu training <br/>aan de marine onderzoeksdienst, de NCIS, </p>
+      <p begin="00:22:44,466" end="00:22:48,168">en de onderzoekers aan hoe op deze <br/>misdaden te reageren en te onderzoeken.</p>
+      <p begin="00:22:48,168" end="00:22:54,991">- Ze vertelden me dat ze <br/>mijn verkrachtingskit kwijt waren</p>
+      <p begin="00:23:00,213" end="00:23:03,750">en mijn verplegingsrapport en de foto&#180;s <br/>van de kneuzingen op mijn arm.</p>
+      <p begin="00:23:03,750" end="00:23:14,761">- Ze waren die dingen kwijt?</p>
+      <p begin="00:23:14,761" end="00:23:16,396">- Dat is wat ze me vertelden.<br/>Ze zeiden dat ze ze kwijt waren.</p>
+      <p begin="00:23:16,396" end="00:23:19,399">En ik ben ik, dus ik besloot <br/>om zelf wat te gaan graven</p>
+      <p begin="00:23:19,399" end="00:23:23,403">en ik sprak met het hoofdkwartier <br/>van de NCIS in Washington DC,</p>
+      <p begin="00:23:23,403" end="00:23:29,342">en ze hebben al het bewijs.</p>
+      <p begin="00:23:29,342" end="00:23:34,348">-Dus wat betekent dat?</p>
+      <p begin="00:23:34,348" end="00:23:35,949">- Omdat de zaak al gesloten is,</p>
+      <p begin="00:23:35,949" end="00:23:37,584">kunnen ze niets meer doen.</p>
+      <p begin="00:23:37,584" end="00:23:40,233">- Wat we opnieuw <br/>en opnieuw horen </p>
+      <p begin="00:23:43,090" end="00:23:45,692">van soldaten die verkracht zijn, is dat</p>
+      <p begin="00:23:45,692" end="00:23:48,795">hoe erg het is om verkracht te zijn, wat<br/>even erg is, zo niet zelfs nog erger,</p>
+      <p begin="00:23:48,795" end="00:23:53,867">was om professioneel wraak te ontvangen</p>
+      <p begin="00:23:53,867" end="00:23:57,700">in hun carriere, gewoonweg<br/>omdat ze verkracht waren.</p>
+      <p begin="00:23:57,700" end="00:24:01,333">- Als je iets meldt, kan je maar <br/>beter voorbereid zijn op de terugslag. </p>
+      <p begin="00:24:01,333" end="00:24:03,933">- Als een man wordt beschuldigd <br/>van verkrachting, is het opgezet spel. </p>
+      <p begin="00:24:03,933" end="00:24:07,267">De vrouw liegt.</p>
+      <p begin="00:24:07,267" end="00:24:10,533">- Ik kon dat melden, maar <br/>als ze erachter kwamen</p>
+      <p begin="00:24:10,533" end="00:24:12,300">dat wat ik zei niet waar was, <br/>zou ik in rang verlaagd worden.</p>
+      <p begin="00:24:12,300" end="00:24:16,200">- Je kon je graad verliezen, <br/>je kon je rang verliezen,</p>
+      <p begin="00:24:16,200" end="00:24:20,267">je kon je scholing verliezen,<br/>als je een vals verslag indiende.</p>
+      <p begin="00:24:20,267" end="00:24:23,133">Dus wil je een verslag indienen?</p>
+      <p begin="00:24:23,133" end="00:24:26,100">- Zelfs met de verkrachtingskit en alles,</p>
+      <p begin="00:24:26,100" end="00:24:29,800">met mijn vriend die hem betrapte tijdens<br/>de verkrachting, geloven ze me nog niet. </p>
+      <p begin="00:24:29,800" end="00:24:32,300">- Ik heb 2 verschillende keren <br/>gerapporteerd aan mijn sectieleider</p>
+      <p begin="00:24:32,300" end="00:24:36,533">en hij zei me dat hij<br/>er niks kon aan doen</p>
+      <p begin="00:24:36,533" end="00:24:40,900"><br/>omdat ik geen enkel bewijs had.</p>
+      <p begin="00:24:40,900" end="00:24:43,000">- Ze hebben me toen zelfs aangeklaagd<br/>voor overspel.</p>
+      <p begin="00:24:43,000" end="00:24:44,900">Ik was niet getrouwd. Hij wel.</p>
+      <p begin="00:24:44,900" end="00:24:50,200">- Ze brachten me voor <br/>mijn luitenant commandant.</p>
+      <p begin="00:24:50,200" end="00:24:52,400">Hij zei, "Denk je dat dit grappig is?"<br/>Ik zei, "Wat bedoelt u?"</p>
+      <p begin="00:24:52,400" end="00:24:55,867">Hij zo van, <br/>"Is dit allemaal een grap voor u?"</p>
+      <p begin="00:25:01,067" end="00:25:02,333">Ik zei, "wat bedoelt u?"</p>
+      <p begin="00:25:02,333" end="00:25:06,267">En hij zo van, " Je bent de derde meid al <br/>deze week om een verkrachting te melden."</p>
+      <p begin="00:25:06,267" end="00:25:10,440">"Zijn jullie jongens allemaal handlangers,<br/>denken jullie dat dit een spel is?"</p>
+      <p begin="00:25:15,367" end="00:25:18,533">- Het spijt ons, maar vanwege<br/>het hoge aantal oproepen</p>
+      <p begin="00:25:18,533" end="00:25:20,533">en ongewoon lange wachttijden,</p>
+      <p begin="00:25:20,533" end="00:25:24,433">kunnen raadsmannen uw oproep niet<br/>beantwoorden momenteel.</p>
+      <p begin="00:25:26,461" end="00:25:27,800">- Uw naam, aub?</p>
+      <p begin="00:25:27,800" end="00:25:29,933">- Het is Kori Danielle McDonald.</p>
+      <p begin="00:25:29,933" end="00:25:32,333">- Ok&#233;, ik heb <br/>hier een claim open</p>
+      <p begin="00:25:32,333" end="00:25:37,733">voor niet dienst gelinkte pensioens-<br/>ongeschiktheid, depressie, TMJ,</p>
+      <p begin="00:25:37,733" end="00:25:42,233">bilaterale schijf conditie, <br/>zenuwbeschadiging</p>
+      <p begin="00:25:42,233" end="00:25:45,733">Het is in de beslissingsraad <br/>van Cleveland.</p>
+      <p begin="00:25:46,700" end="00:25:49,167">- Ok&#233;, en hoe lang duurt dat normaal?</p>
+      <p begin="00:25:49,167" end="00:25:52,633">- Tussen de 102<br/>en 139 dagen. </p>
+      <p begin="00:25:52,633" end="00:25:53,432">- Echt waar?</p>
+      <p begin="00:25:53,432" end="00:25:55,867">- En dat is enkel <br/>een geschatte tijdsperiode.</p>
+      <p begin="00:25:55,867" end="00:26:00,767">- Honderdnegendertig dagen? <br/>Ik bedoel, dat is -- </p>
+      <p begin="00:26:00,767" end="00:26:02,633">Ik ben al 14 maanden aan het wachten.</p>
+      <p begin="00:26:02,633" end="00:26:07,100">Wat is daar verdomme aan de hand?<br/>Wat is er aan de hand met de VA?</p>
+      <p begin="00:26:07,100" end="00:26:12,167">Wat, mijn probleem is nieuw? <br/>En het is al 14 maanden?</p>
+      <p begin="00:26:12,167" end="00:26:16,200">Ik wil erom wedden als we daar persoonlijk<br/>waren, dat ze wel iets zouden moeten doen.</p>
+      <p begin="00:26:16,214" end="00:26:17,742"/>
+      <p begin="00:26:17,742" end="00:26:19,131"/>
+      <p begin="00:26:19,131" end="00:26:20,256"/>
+      <p begin="00:26:20,256" end="00:26:24,667">Ben je klaar? Zeg klaar. <br/>Weet je waar we naartoe gaan?</p>
+      <p begin="00:26:24,667" end="00:26:27,067">- Waar gaan we naartoe?</p>
+      <p begin="00:26:27,067" end="00:26:28,067">- Naar de kerk? </p>
+      <p begin="00:26:28,067" end="00:26:33,433">- Nee, naar de dokter. <br/>Waarom gaan we naar de dokter?</p>
+      <p begin="00:26:33,433" end="00:26:35,442">- Waar heeft mama pijn?</p>
+      <p begin="00:26:35,442" end="00:26:36,076">- Aan het gezicht.</p>
+      <p begin="00:26:37,346" end="00:26:38,300">- Mijn gezicht, inderdaad.</p>
+      <p begin="00:26:38,456" end="00:26:41,292">- Je moet de 75 Noord nemen.<br/>- De 75 Noord?</p>
+      <p begin="00:26:41,292" end="00:26:43,336">- Jep.</p>
+      <p begin="00:26:46,865" end="00:26:53,334">- Dit gaat overal met me mee, <br/>en dit gaat overal met me mee</p>
+      <p begin="00:26:53,334" end="00:26:55,532">Je hebt altijd bescherming van Jezus,<br/>maar soms</p>
+      <p begin="00:26:55,532" end="00:26:58,440">heb je net een beetje meer nodig.</p>
+      <p begin="00:27:00,065" end="00:27:01,247">- Dag.</p>
+      <p begin="00:27:01,247" end="00:27:02,968">- Ik zie je graag.</p>
+      <p begin="00:27:04,696" end="00:27:06,156">- Braaf zijn. <br/>- Mammie, mammie.</p>
+      <p begin="00:27:06,156" end="00:27:07,620">- Mammie is buiten in een minuutje, goed?</p>
+      <p begin="00:27:07,620" end="00:27:10,867">- Zeg dag tegen mama. <br/>- Dag dag.</p>
+      <p begin="00:27:12,149" end="00:27:13,895">Bij dokter afspraken,</p>
+      <p begin="00:27:13,895" end="00:27:18,039">kom ik naar iedere, gewoon voor het geval<br/>ze overstuur geraakt</p>
+      <p begin="00:27:18,039" end="00:27:22,129">en ze is al ongemakkelijk in de buurt <br/>van mannen. Dus ik heb mijn telefoon bij.</p>
+      <p begin="00:27:22,129" end="00:27:27,056">Ze heeft al, ik heb haar dit gezegd, <br/>een tekstberichtje op speed dial</p>
+      <p begin="00:27:27,056" end="00:27:28,948">als ze daar weg wil.</p>
+      <p begin="00:27:28,948" end="00:27:33,439"/>
+      <p begin="00:27:33,439" end="00:27:35,240">We zullen een grote verrassing<br/>voor je gaan halen.</p>
+      <p begin="00:27:35,240" end="00:27:37,496"/>
+      <p begin="00:27:39,630" end="00:27:42,001">- Komaan, hoe ging het? </p>
+      <p begin="00:27:43,567" end="00:27:45,629">- Euh, het ging goed. Ze --</p>
+      <p begin="00:27:45,629" end="00:27:46,936">- Mama....</p>
+      <p begin="00:27:46,936" end="00:27:52,996">- Ze hadden een rug r&#246;ntgen besteld<br/>i.p.v. een gezichtsr&#246;ntgen maar ... </p>
+      <p begin="00:27:53,041" end="00:27:55,818">Hier, hier heb je wat make-up.</p>
+      <p begin="00:27:55,818" end="00:27:58,787">Ze zouden --- Ze zouden moeten weten...</p>
+      <p begin="00:27:59,040" end="00:28:01,059">Ze zouden moeten weten <br/>wat er mis is met mij.</p>
+      <p begin="00:28:01,059" end="00:28:03,182">Gewoon mijn papieren lezen en<br/>dan zie je toch dat het mijn gezicht is.</p>
+      <p begin="00:28:03,182" end="00:28:05,339">Het is niet mijn rug, niet mijn benen,<br/>niet mijn armen, het is mijn gezicht.</p>
+      <p begin="00:28:05,431" end="00:28:07,844">- De mensen die je bewijs nodig hebben,<br/>weten niet eens </p>
+      <p begin="00:28:07,844" end="00:28:09,110">waar je zaak over gaat.</p>
+      <p begin="00:28:09,110" end="00:28:11,083">- Ik weet zelfs niet waarom we<br/>benzine geld verspillen, </p>
+      <p begin="00:28:11,083" end="00:28:13,090">de trip, eender wat.</p>
+      <p begin="00:28:13,090" end="00:28:18,475">Het was absoluut tijdsverspilling. <br/>Wat een goede Veteranen Dag, toch?</p>
+      <p begin="00:28:18,475" end="00:28:21,201">- Ja, het is een perfecte manier <br/>om die door te brengen.</p>
+      <p begin="00:28:21,201" end="00:28:23,759">- Ja, bekijk het maar.</p>
+      <p begin="00:28:27,082" end="00:28:28,704"/>
+      <p begin="00:28:30,997" end="00:28:35,318">- Ok&#233;, het is rond middernacht, 24 oktober</p>
+      <p begin="00:28:35,318" end="00:28:40,525">en Kori werd wakker, ikzelf en onze baby.</p>
+      <p begin="00:28:45,828" end="00:28:52,101">- Ze werd schreeuwend wakker.<br/>Het is nogal veel gebeurd.</p>
+      <p begin="00:28:52,138" end="00:28:53,834"/>
+      <p begin="00:28:53,834" end="00:28:55,876">-Ga, ga, ga.</p>
+      <p begin="00:28:55,876" end="00:28:57,119"/>
+      <p begin="00:28:57,119" end="00:28:59,756">-Oh! <br/>- Nog &#233;&#233;n.</p>
+      <p begin="00:28:59,756" end="00:29:03,517">- Het spijt me dat ik je wakker <br/>maakte, maar je vindt het leuk, niet?</p>
+      <p begin="00:29:03,517" end="00:29:05,671">-Nog meer doen. Nog meer doen.<br/>- Ja, laten we meer doen.</p>
+      <p begin="00:29:05,671" end="00:29:08,834">- Ik denk dat Kori het beter vindt, <br/>omdat het rustig is</p>
+      <p begin="00:29:08,834" end="00:29:14,158">en je weet niet wat <br/>je zal tegenkomen elke nacht.</p>
+      <p begin="00:29:14,173" end="00:29:19,618"/>
+      <p begin="00:29:19,711" end="00:29:25,423"/>
+      <p begin="00:29:25,423" end="00:29:28,038">Omdat het een afgelegen <br/>standplaats was,</p>
+      <p begin="00:29:28,061" end="00:29:33,238">hadden zij de leiding en wij waren,<br/>zoiets als vee eigenlijk, dus...</p>
+      <p begin="00:29:33,853" end="00:29:38,001">Dat was de 1ste keer dat ik gedrogeerd was<br/>en verkracht, ik was in een kamer</p>
+      <p begin="00:29:38,001" end="00:29:41,642">met enkele van mijn vrienden en ik had<br/>maar &#233;&#233;n of twee drankjes.</p>
+      <p begin="00:29:41,642" end="00:29:44,930">En ik legde me neer. En het was ineens,</p>
+      <p begin="00:29:44,930" end="00:29:50,785">ik voelde me niet lekker, en er werd<br/>een kussen in mijn gezicht geduwd </p>
+      <p begin="00:29:50,785" end="00:29:53,562">en mijn vriend verkrachtte me.</p>
+      <p begin="00:29:55,547" end="00:29:59,076">En dat ging herhaaldelijk door.</p>
+      <p begin="00:29:59,214" end="00:30:02,072">Je moest een operator bellen <br/>om een buitenlijn te krijgen.</p>
+      <p begin="00:30:02,072" end="00:30:05,821">Dus ze luisterden naar je gesprekken en <br/>dus werden ze gescreend.</p>
+      <p begin="00:30:05,821" end="00:30:12,359">Ik belde geregeld mijn pa en smeekte hem<br/>om me daar weg te halen.</p>
+      <p begin="00:30:12,790" end="00:30:15,961">Hij vroeg me altijd, <br/>"Schat, wat is er mis?"</p>
+      <p begin="00:30:15,961" end="00:30:18,257">En ik was dan zo van,<br/>"Ik kan je niet vertellen wat er mis is,"</p>
+      <p begin="00:30:18,257" end="00:30:21,332">omdat de mensen die mee luisterden<br/>naar onze telefoongesprekken,</p>
+      <p begin="00:30:21,332" end="00:30:25,321">dezelfde mensen waren <br/>die me pijn konden doen.</p>
+      <p begin="00:30:26,469" end="00:30:28,737">- De meeste zeden-<br/>delinquenten zijn jagers.</p>
+      <p begin="00:30:28,737" end="00:30:31,135">Net zoals elke jager, bestuderen ze<br/>hun prooi,</p>
+      <p begin="00:30:31,135" end="00:30:32,469">bestuderen ze hun bewegingen,</p>
+      <p begin="00:30:32,469" end="00:30:35,282">bestuderen ze hun gedrag, <br/>bestuderen ze de omgeving.</p>
+      <p begin="00:30:35,282" end="00:30:39,869">- Je hebt <br/>verkrachters die jagen op andere mensen. </p>
+      <p begin="00:30:39,869" end="00:30:44,739">Ze stalken hen, <br/>ze wachten tot het slachtoffer</p>
+      <p begin="00:30:44,739" end="00:30:48,930">op het zwakste punt is in tijd<br/>om hun misdaden te plegen.</p>
+      <p begin="00:30:48,930" end="00:30:50,636">Dikwijls is het slachtoffer iemand</p>
+      <p begin="00:30:50,636" end="00:30:53,974">waar de verdachte zeer bekend mee is</p>
+      <p begin="00:30:53,974" end="00:30:57,837">en ze zijn zich zeer bewust <br/>van wat er aan de hand is.</p>
+      <p begin="00:30:57,837" end="00:31:00,276">- De meeste zedendelinquenten<br/>hebben een verborgen persoonlijkheid</p>
+      <p begin="00:31:00,276" end="00:31:02,620">die niemand ooit ziet,<br/>behalve het slachtoffer.</p>
+      <p begin="00:31:02,620" end="00:31:05,605">Daarom als ze opgepakt worden,<br/>of iemand iets meldt,</p>
+      <p begin="00:31:05,605" end="00:31:07,016">zijn mensen geneigd dit niet te geloven</p>
+      <p begin="00:31:07,016" end="00:31:10,216">omdat ze niet <br/>de typische zedendelinquent zien.</p>
+      <p begin="00:31:10,216" end="00:31:12,596">Als het een officier is, is het <br/>een officier die gewoon</p>
+      <p begin="00:31:12,596" end="00:31:15,117">in het verleden, <br/>heeft gejaagd en ingelijfd is.</p>
+      <p begin="00:31:15,117" end="00:31:17,063">Ze zouden het &#233;&#233;n keer doen<br/>en er mee weg komen,</p>
+      <p begin="00:31:17,063" end="00:31:17,835">en dan zouden ze denken,</p>
+      <p begin="00:31:17,835" end="00:31:21,769">"Wow, dit is vrij gemakkelijk, <br/>dat ga ik nog eens proberen."</p>
+      <p begin="00:31:21,769" end="00:31:25,726">Vooral voor een dader met gezond verstand,</p>
+      <p begin="00:31:25,726" end="00:31:31,715">om te werken in een relatief <br/>gesloten systeem, zoals het leger</p>
+      <p begin="00:31:31,715" end="00:31:40,064">wordt het een uitstekend doelwit milieu<br/>voor een roofdier. </p>
+      <p begin="00:31:40,064" end="00:31:45,370" region="top"> Een marine onderzoek heeft bevonden dat<br/>15 % van de binnenkomende rekruten</p>
+      <p begin="00:31:45,370" end="00:31:51,169" region="top"> heeft geprobeerd of verkracht heeft,<br/>alvorens in het leger te gaan.</p>
+      <p begin="00:31:51,169" end="00:31:58,956" region="top"> Twee keer het percentage gelijk-<br/>waardig aan de burgerlijke bevolking.</p>
+      <p begin="00:31:58,956" end="00:32:05,659">- Wanneer ik ontslagen was, verhuisde ik<br/>naar Seattle waar het nog erger werd.</p>
+      <p begin="00:32:07,305" end="00:32:11,009">Ik begon alles te verliezen.</p>
+      <p begin="00:32:11,009" end="00:32:17,943">Ik was dakloos, er was verslaving, <br/>ik verkocht drugs, liep met een wapen.</p>
+      <p begin="00:32:19,297" end="00:32:23,781">- 40 % van de dakloze vrouwelijke <br/>veteranen zijn verkracht geweest</p>
+      <p begin="00:32:23,781" end="00:32:27,058">wanneer ze in dienst waren. <br/>Ze draaien in zo&#180;n depressie</p>
+      <p begin="00:32:27,058" end="00:32:30,542">en misbruik dat ze <br/>geen enkele job kunnen houden,</p>
+      <p begin="00:32:30,542" end="00:32:34,091">Ze kunnen hun leven niet oppakken,<br/>en ze eindigen op straat.</p>
+      <p begin="00:32:34,091" end="00:32:38,792"/>
+      <p begin="00:32:38,792" end="00:32:43,448">- Mijn partner, Amy, <br/>ik ontmoette haar een paar jaar geleden.</p>
+      <p begin="00:32:43,448" end="00:32:47,226">Ik ging wat proberen <br/>dingen te doen in de gymzaal.</p>
+      <p begin="00:32:47,226" end="00:32:49,699">En euh... </p>
+      <p begin="00:32:49,699" end="00:32:51,139">- Toen ik Trina <br/>voor het eerst zag,</p>
+      <p begin="00:32:51,139" end="00:32:57,173">Ik was in de gymzaal en ik keek rond<br/>en het was alsof het universum --</p>
+      <p begin="00:32:57,834" end="00:33:03,218">Alsof, "Oh!" En in mijn hoofd, <br/>was ik zo van, "Oh, daar ben je."</p>
+      <p begin="00:33:04,881" end="00:33:06,962">Nou, ik wist dat er <br/>iets "speciaals" was met haar.</p>
+      <p begin="00:33:06,962" end="00:33:08,580">- Wow!</p>
+      <p begin="00:33:08,580" end="00:33:09,811">- Zeker en vast.</p>
+      <p begin="00:33:09,811" end="00:33:14,611">- Toen we begonnen uit te gaan,<br/>was het moeilijk.</p>
+      <p begin="00:33:14,611" end="00:33:19,491">De grote horde nam PTSS niet serieus.</p>
+      <p begin="00:33:19,491" end="00:33:21,975">Het werd heel stresserend.</p>
+      <p begin="00:33:21,975" end="00:33:23,714"/>
+      <p begin="00:33:23,714" end="00:33:25,437">- Wat is dat?</p>
+      <p begin="00:33:25,437" end="00:33:27,924">- Een handelaar. <br/>- Handelaar?</p>
+      <p begin="00:33:29,308" end="00:33:32,076">Zoals een verkoper?<br/>- Ja.</p>
+      <p begin="00:33:32,076" end="00:33:35,651">- Niet , " Ik ben een verrader zoals jij,<br/>stomme verrader!" Niet zoals dat.</p>
+      <p begin="00:33:35,651" end="00:33:36,512"/>
+      <p begin="00:33:36,512" end="00:33:37,994">Ok&#233;.</p>
+      <p begin="00:33:37,994" end="00:33:39,170">Als ik ooit met iemand heb samengewoond,</p>
+      <p begin="00:33:39,170" end="00:33:42,902">was het enkel met die persoon. <br/>Dus toen ik verhuisde,</p>
+      <p begin="00:33:42,902" end="00:33:46,509">was het zo van, "Oh, mijn God", weet je,<br/>het was Amy --</p>
+      <p begin="00:33:46,509" end="00:33:48,081">- Ik ging niet gewoon bij Amy wonen,<br/>- Drie jongens...</p>
+      <p begin="00:33:48,081" end="00:33:50,791">Ik ging bij een hele familie wonen.</p>
+      <p begin="00:33:50,791" end="00:33:53,550">- En ik was zo van, <br/>"Oh, mijn God."</p>
+      <p begin="00:33:53,550" end="00:33:57,318">Dus ze waren gewend <br/>aan zo een open ruimte, </p>
+      <p begin="00:33:57,318" end="00:34:01,379">en met mijn PTSS, hadden we onze momenten.</p>
+      <p begin="00:34:01,379" end="00:34:03,442">- Ik vind het jammer <br/>dat ik Trina vroeger niet gekend heb.</p>
+      <p begin="00:34:03,458" end="00:34:04,828">- Ja.</p>
+      <p begin="00:34:04,843" end="00:34:11,605">toen ze nog in de fleur van haar leven was<br/>Nu is ze dikwijls nerveus en triest.</p>
+      <p begin="00:34:12,745" end="00:34:16,771" region="top"> Vrouwen die verkracht zijn in het leger<br/>hebben een graad van PTSS</p>
+      <p begin="00:34:16,771" end="00:34:21,248" region="top"> hoger dan mannen <br/>die in gevecht zijn geweest.</p>
+      <p begin="00:34:21,894" end="00:34:25,693">Ik ga -- <br/>Ik ga je beschermen, Mitch</p>
+      <p begin="00:34:25,693" end="00:34:28,059">Ceecee, kom. Laten we gaan.</p>
+      <p begin="00:34:29,337" end="00:34:32,334">-Dikwijls wanneer we weg zijn,<br/>iets aan het doen zijn, weet je,</p>
+      <p begin="00:34:32,334" end="00:34:37,052">Mitch zal komen checken en, "Oh, het is ok<br/>Trina. Het is allemaal in orde."</p>
+      <p begin="00:34:37,052" end="00:34:43,063">Ik apprecieer dat, weet je, <br/>maar het maakt me echt triest</p>
+      <p begin="00:34:43,063" end="00:34:50,784">dat er een 11-jarig jongetje omziet<br/>naar mijn welzijn. </p>
+      <p begin="00:34:50,784" end="00:34:57,787">Het doet pijn. Ik wil dat het weg gaat,<br/>weet je, maar het gaat niet weg.</p>
+      <p begin="00:35:04,248" end="00:35:06,445"/>
+      <p begin="00:35:06,445" end="00:35:20,719"/>
+      <p begin="00:35:20,719" end="00:35:22,090"/>
+      <p begin="00:35:22,090" end="00:35:24,076">- Ik denk de mannen<br/>die we aantrekken in het leger,</p>
+      <p begin="00:35:24,076" end="00:35:26,940">weet je, we hebben het Leger van &#201;&#233;n,<br/>Wees Alles Wat Je Kan Zijn,</p>
+      <p begin="00:35:26,940" end="00:35:29,186">al die thema&#180;s die we hadden <br/>doorheen de jaren</p>
+      <p begin="00:35:29,186" end="00:35:31,427">zijn zeer, zeer hevig mannelijk.</p>
+      <p begin="00:35:31,427" end="00:35:35,040">Mannelijkheid kan geen slachtoffer worden <br/>gemaakt, want als je een leider bent,</p>
+      <p begin="00:35:35,040" end="00:35:40,086">als je een mannelijk persoon bent, en je<br/>wordt slachtoffer gemaakt, dan ben je zwak</p>
+      <p begin="00:35:40,086" end="00:35:44,450">Het probleem is dat iedereen slachtoffer<br/>kan zijn van aanranding.</p>
+      <p begin="00:35:44,788" end="00:35:49,232">- Ik ging in dienst<br/>in 1972.</p>
+      <p begin="00:35:49,232" end="00:35:56,297">Het leger is een geweldige manier van <br/>leven. Ik zag de wereld, werd opgevoed.</p>
+      <p begin="00:35:56,297" end="00:36:02,619">Ik hield van het leger. Ik was 19 <br/>en ik ging naar de lunch helemaal alleen,</p>
+      <p begin="00:36:02,619" end="00:36:05,571">en voor ik het wist, <br/>lag ik op de grond,</p>
+      <p begin="00:36:05,571" end="00:36:09,699">en werd geslagen langs achter,<br/>en twee jongens hielden me vast,</p>
+      <p begin="00:36:09,699" end="00:36:14,384">en &#233;&#233;n jongen trok m&#180;n broek naar beneden.</p>
+      <p begin="00:36:14,384" end="00:36:21,063">En weet je, hij was bezig met zijn ding.</p>
+      <p begin="00:36:21,063" end="00:36:24,097">En ik spartelde, en ik werd geslagen</p>
+      <p begin="00:36:24,097" end="00:36:28,586">en werd gezegd te zwijgen<br/>of ze zouden me vermoorden.</p>
+      <p begin="00:36:28,586" end="00:36:33,938">En ik zie hoe het mijn leven heeft <br/>vernietigd, ik ben drie keer getrouwd.</p>
+      <p begin="00:36:33,938" end="00:36:40,284">Gelukkig heb ik nu een vrouw <br/>waar ik al 25 jaar mee getrouwd ben.</p>
+      <p begin="00:36:40,284" end="00:36:41,087">- Je vraagt je af</p>
+      <p begin="00:36:41,087" end="00:36:44,317">en je begint zowat, je weet wel<br/>ofwel afkomend </p>
+      <p begin="00:36:44,317" end="00:36:47,001">met redenen waarom de dingen zijn<br/>zoals ze zijn.</p>
+      <p begin="00:36:47,001" end="00:36:50,019">En lange tijd bleef ik denken,</p>
+      <p begin="00:36:50,019" end="00:36:53,809">Ik weet niet, er is iets anders.</p>
+      <p begin="00:36:54,655" end="00:36:57,759">- Ik had het in 30 jaar<br/>tegen niemand verteld.</p>
+      <p begin="00:36:57,759" end="00:37:01,027">Ik besloot om het te vertellen <br/>aan mijn vrouw.</p>
+      <p begin="00:37:01,027" end="00:37:04,321">Het was het meest angstige van mijn leven.<br/>Ik ging het mijn vrouw vertellen,</p>
+      <p begin="00:37:04,321" end="00:37:07,775">ze ging me verlaten, en ik ging me<br/>verloren voelen zonder haar.</p>
+      <p begin="00:37:07,775" end="00:37:11,969">Ik bedoel, eerlijk tegenover God, <br/>ik kon niet elke morgen opstaan</p>
+      <p begin="00:37:11,969" end="00:37:18,318">zonder dat mijn vrouw, begrijp je. <br/>En ik vertelde het haar. </p>
+      <p begin="00:37:18,339" end="00:37:22,759">- Ik voelde me geschokt, en triest en boos<br/>en weet je,</p>
+      <p begin="00:37:22,759" end="00:37:28,145">in de loop van de avond, kwamen er<br/>allerlei gevoelens naar boven</p>
+      <p begin="00:37:28,145" end="00:37:32,252">die waarschijnlijk al lang, heel lang, <br/>aan het sudderen waren.</p>
+      <p begin="00:37:32,611" end="00:37:37,250">- En ze omhelsde me, we zaten daar allebei<br/>en huilden.</p>
+      <p begin="00:37:37,250" end="00:37:43,631">Het was alsof dit groot gewicht <br/>van mijn schouders getild werd.</p>
+      <p begin="00:37:45,823" end="00:37:47,416">- Ik denk dat<br/>het belangrijk is om te erkennen</p>
+      <p begin="00:37:47,416" end="00:37:51,628">dat militair seksueel trauma <br/>niet beperkt is tot vrouwen,</p>
+      <p begin="00:37:51,628" end="00:37:54,510">en in feite, als je naar <br/>de totale aantallen kijkt,</p>
+      <p begin="00:37:54,510" end="00:37:59,064">vanwege de hoeveelheid mannen, <br/>in veel grotere aantallen dan vrouwen,</p>
+      <p begin="00:37:59,064" end="00:38:02,766">zijn de cijfers nog groter.</p>
+      <p begin="00:38:03,551" end="00:38:05,228">- Ik denk dat &#233;&#233;n<br/>van de laatste onderzoeken,</p>
+      <p begin="00:38:05,228" end="00:38:08,665">aangetoond heeft dat 1% van de mannen<br/>slachtoffer was geweest van aanranding</p>
+      <p begin="00:38:08,665" end="00:38:10,376">binnen het laatste jaar in het leger. </p>
+      <p begin="00:38:10,376" end="00:38:12,175">Dat komt neer op ongeveer 20 000.</p>
+      <p begin="00:38:12,175" end="00:38:14,463">- Je zou bekeken worden als 'buddy-fucker'</p>
+      <p begin="00:38:14,463" end="00:38:18,932">en dat is geen leuke term <br/>om met verbonden te zijn.</p>
+      <p begin="00:38:18,932" end="00:38:21,955">Het is gewoon &#233;&#233;n van die dingen<br/>waar je niet over praat,</p>
+      <p begin="00:38:21,955" end="00:38:26,082">of dat je onder niemand&#180;s aandacht brengt.<br/>Je houdt het gewoon voor jezelf.</p>
+      <p begin="00:38:26,082" end="00:38:30,467">- Het is echt, <br/>echt moeilijk om te vergeten.</p>
+      <p begin="00:38:30,467" end="00:38:35,386">Weet je, tot nu toe, nog steeds --<br/>ze zitten in mijn hoofd, begrijp je.</p>
+      <p begin="00:38:35,386" end="00:38:39,722">Ik kan hen horen lachen, <br/>ik kan hun gezichten zien, </p>
+      <p begin="00:38:39,722" end="00:38:42,634">Ik kan zien wat ze me aandoen.</p>
+      <p begin="00:38:44,935" end="00:38:50,552">- Ik voelde me bang en ik had schrik<br/>om het mijn vrienden te vertellen,</p>
+      <p begin="00:38:50,552" end="00:38:54,948">de mensen die me echt kenden, de waarheid<br/>over wat er gebeurd was. </p>
+      <p begin="00:38:54,948" end="00:38:57,543">- De schaamte, hoe erg het ook is <br/>voor vrouwen</p>
+      <p begin="00:38:57,543" end="00:39:01,706">het is zelfs erger voor mannen, het is<br/>allemaal verbonden met homofobie.</p>
+      <p begin="00:39:01,706" end="00:39:04,815">- De mensen die verkrachten, <br/>zijn geen homo&#180;s.</p>
+      <p begin="00:39:04,815" end="00:39:07,941">Dat is het probleem niet. Ze maken <br/>zich zorgen over homo&#180;s in het leger.</p>
+      <p begin="00:39:07,941" end="00:39:09,693">De homo&#180;s zijn niet de verkrachters.</p>
+      <p begin="00:39:09,693" end="00:39:12,505">Merendeels zijn dit heteroseksuele mannen.</p>
+      <p begin="00:39:12,505" end="00:39:14,358">- Het is geen zaak van seksuele ori&#235;ntatie</p>
+      <p begin="00:39:14,358" end="00:39:16,696">Het is gewoonweg een zaak <br/>van macht en geweld.</p>
+      <p begin="00:39:16,696" end="00:39:19,523">Mannelijke seksuele roofdieren, merendeels<br/>hebben zich gericht</p>
+      <p begin="00:39:19,523" end="00:39:23,829">op wie er te jagen valt, of dat nu <br/>mannen of vrouwen zijn.</p>
+      <p begin="00:39:23,829" end="00:39:25,777">- Wanneer ik zie, weet je,</p>
+      <p begin="00:39:25,777" end="00:39:31,398">dat er bewijs is dat er weer een vrouw<br/>seksueel is aangerand,</p>
+      <p begin="00:39:31,398" end="00:39:33,390">de vraag die ik me dan blijf stellen is,</p>
+      <p begin="00:39:33,390" end="00:39:36,381">"Wanneer komt er ooit een einde aan?"</p>
+      <p begin="00:39:36,811" end="00:39:37,984" region="top"> 1991 Marine Tailhook.</p>
+      <p begin="00:39:37,984" end="00:39:41,438">- Het laatste nieuws,<br/>de marine lijkt voor </p>
+      <p begin="00:39:41,438" end="00:39:44,973">een groot seksschandaal te staan.<br/>Details komen nog steeds binnen.</p>
+      <p begin="00:39:46,226" end="00:39:50,351">- Van ABC, is dit het Wereld <br/>Nieuws Vanavond met Peter Jennings. </p>
+      <p begin="00:39:50,351" end="00:39:53,010">- Goedenavond, we gaan vanavond beginnen<br/>om een menselijk gezicht te geven </p>
+      <p begin="00:39:53,010" end="00:39:56,328">aan de ergst zaak van seksuele intimidatie<br/>in de geschiedenis van de Marine.</p>
+      <p begin="00:39:56,328" end="00:39:59,877">Op een jaarlijks zeevliegenier conventie<br/>de Tailhook Connventie genoemd,</p>
+      <p begin="00:39:59,877" end="00:40:04,230">Hoofdofficieren weten dat sinds 1985<br/>de conventie ook ging over</p>
+      <p begin="00:40:04,230" end="00:40:07,704">de zogenaamde , 'handschoen', die <br/>diende voor het specifieke doel</p>
+      <p begin="00:40:07,704" end="00:40:10,426">om zich te richten op en <br/>seksueel molesteren van vrouwen.</p>
+      <p begin="00:40:12,039" end="00:40:14,212">- Ik stapte uit de lift<br/>op de derde verdieping.</p>
+      <p begin="00:40:14,212" end="00:40:17,281">Je zag misschien 200 mannen. </p>
+      <p begin="00:40:17,281" end="00:40:23,299">Ik was maar een paar stappen in de hal<br/>en ze sloten me helemaal in.</p>
+      <p begin="00:40:23,299" end="00:40:27,544">En toen gebeurde het heel snel,<br/>langs beide kanten en langs achteren,</p>
+      <p begin="00:40:27,544" end="00:40:31,509">kwamen mannen en begonnen<br/>in mijn hemd te tasten.</p>
+      <p begin="00:40:31,509" end="00:40:35,454">Ik werd neergeduwd op de vloer<br/>en iemand tastte onder mijn rok,</p>
+      <p begin="00:40:35,454" end="00:40:37,381">trok mijn ondergoed uit, en weet je</p>
+      <p begin="00:40:37,381" end="00:40:42,771">het waren zeker 30 &#225; 40 voeten van 200 man<br/>die mijn kleren probeerden uit te trekken,</p>
+      <p begin="00:40:42,771" end="00:40:45,977">alsof ik een waardevol doelwit was.</p>
+      <p begin="00:40:45,977" end="00:40:48,524">De volgende ochtend ontmoette ik<br/>mijn baas voor het ontbijt</p>
+      <p begin="00:40:48,524" end="00:40:51,486">en ik zeg, <br/>"Weet je wat daar nu gebeurd is?"</p>
+      <p begin="00:40:51,486" end="00:40:52,710">En hij zegt,</p>
+      <p begin="00:40:52,710" end="00:40:58,102">"Dat komt er van als je in hal wandelt<br/>vol met dronken vliegeniers.</p>
+      <p begin="00:40:58,102" end="00:41:02,417">En ik zei, "Ik denk het niet."</p>
+      <p begin="00:41:02,417" end="00:41:05,140">- Een onderzoek <br/>was eindelijk begonnen,</p>
+      <p begin="00:41:05,140" end="00:41:09,514">maar 1500 interviews later, rapporteerde<br/>de marine inspecteur</p>
+      <p begin="00:41:09,514" end="00:41:13,022">dat zijn onderzoekers <br/>tegen een muur aanliepen.</p>
+      <p begin="00:41:13,022" end="00:41:17,683">Een grote muur van stilte was opgegaan<br/>om de schuldigen te beschermen.</p>
+      <p begin="00:41:17,683" end="00:41:22,002" region="top"> 1996 Army Aberdeen Proving Ground</p>
+      <p begin="00:41:22,002" end="00:41:25,388">- Het leger van de VS <br/>probeert de reikwijdte vast te stellen</p>
+      <p begin="00:41:25,388" end="00:41:29,511">van een nieuw, groeiend verkrachtings-<br/>en seksueel intimidatie schandaal. </p>
+      <p begin="00:41:29,511" end="00:41:33,348">Het vond allemaal plaats in de leger <br/>basis in Aberdeen Proving Ground,</p>
+      <p begin="00:41:33,348" end="00:41:37,087">waar 30 vrouwen klacht hebben ingediend <br/>van seksuele avances </p>
+      <p begin="00:41:37,087" end="00:41:41,702">die liepen van ongewenste aanrakingen<br/>tot verkrachting en gedwongen sodomie.</p>
+      <p begin="00:41:41,702" end="00:41:44,287">- <br/>Aberdeen Proving Ground is een plaats</p>
+      <p begin="00:41:44,287" end="00:41:48,945">waar de onderofficieren de stagiairs aan<br/>het aanranden en het verkrachten waren </p>
+      <p begin="00:41:48,945" end="00:41:54,805">en de naam van de persoon die ze aan-<br/>gerand hadden, doorgaven aan andere NCO&#180;s.</p>
+      <p begin="00:41:54,805" end="00:41:57,564">- Dat is onacceptabel gedrag<br/>voor soldaten,</p>
+      <p begin="00:41:57,564" end="00:42:01,173">het is onacceptabel voor het leger<br/>en we hebben een nul tolerantie beleid.</p>
+      <p begin="00:42:01,493" end="00:42:05,737" region="top"> 2003 Luchtmacht, luchtmacht academie </p>
+      <p begin="00:42:05,737" end="00:42:07,857">- Twaalf jaar geleden,<br/>shockeerde het Tailhook seksschandaal</p>
+      <p begin="00:42:07,857" end="00:42:10,888">de Amerikaanse marine en nu <br/>biedt de luchtmacht het hoofd</p>
+      <p begin="00:42:10,888" end="00:42:13,376">aan wat misschien <br/>een nog groter probleem kan zijn --</p>
+      <p begin="00:42:13,376" end="00:42:17,099">verkrachting en ander seksueel misbruik <br/>op de luchtmacht academie</p>
+      <p begin="00:42:17,099" end="00:42:18,441">in Colorado Springs.</p>
+      <p begin="00:42:18,441" end="00:42:24,032">- 142 beschuldigingen van aanranding bij <br/>vrouwen zijn gemaakt in laatste 10 jaar.</p>
+      <p begin="00:42:24,032" end="00:42:27,613">- De hoogst geplaatste luchtmacht-<br/>generaals wisten van de ernstige problemen</p>
+      <p begin="00:42:27,613" end="00:42:31,412">van aanranding op de academie maar<br/>lieten na actie te ondernemen.</p>
+      <p begin="00:42:31,412" end="00:42:36,188">- We willen dit niet verzwijgen,<br/>we nemen het zeer ernstig,</p>
+      <p begin="00:42:36,188" end="00:42:37,665">we gaan het publiekelijk verkondigen.</p>
+      <p begin="00:42:37,665" end="00:42:40,526">- Verontwaardigde senators<br/>hebben de luchtmacht beschuldigd</p>
+      <p begin="00:42:40,526" end="00:42:42,746">van het negeren van aanrandingen <br/>op vrouwen.</p>
+      <p begin="00:42:42,746" end="00:42:49,385">- We hebben een duidelijk patroon van <br/>verslagen over aanranding</p>
+      <p begin="00:42:49,385" end="00:42:51,873">waar de reactie van de luchtmacht academie</p>
+      <p begin="00:42:51,873" end="00:42:54,427">lijkt te zijn <br/>het slachtoffer te verwijten.</p>
+      <p begin="00:42:54,427" end="00:42:57,509">- We zijn bezig <br/>die veranderingen in te stellen nu.</p>
+      <p begin="00:42:57,509" end="00:42:59,826">- Je bent bezig met die<br/>veranderingen nu in te stellen?</p>
+      <p begin="00:42:59,826" end="00:43:05,060">Blijkbaar hebben jij en ik en de<br/>secretaris een fundamenteel meningverschil</p>
+      <p begin="00:43:05,060" end="00:43:09,341" region="top"> Heden </p>
+      <p begin="00:43:11,616" end="00:43:12,498" region="top"> Hoorzitting Secretaris van Defensie</p>
+      <p begin="00:43:12,498" end="00:43:14,444">- Wat er dient te gebeuren<br/>en wat er zou moeten gebeuren,</p>
+      <p begin="00:43:14,444" end="00:43:17,249">betreft het probleem van aanranding<br/>binnen het leger,</p>
+      <p begin="00:43:17,249" end="00:43:21,648">vrouwen in het leger die veel<br/>moeilijkheden hebben ondervonden</p>
+      <p begin="00:43:21,648" end="00:43:24,204">verkrijgen die <br/>enig rechtvaardigheidsgevoel?</p>
+      <p begin="00:43:24,204" end="00:43:28,327">- Ik ga volledig akkoord met <br/>je bezorgdheid. We moeten --</p>
+      <p begin="00:43:28,327" end="00:43:33,502">we moeten een nultolerantie beleid hebben<br/>voor elk seksueel vergrijp in het leger.</p>
+      <p begin="00:43:33,502" end="00:43:39,951" region="top"> &#201;&#233;n mijl van het Kapitool in de V.S.<br/>Marine kazerne Washington DC.</p>
+      <p begin="00:43:39,951" end="00:43:41,997">- Op een kleine post<br/>in Washington DC,</p>
+      <p begin="00:43:41,997" end="00:43:47,608">leven Marine trots, geschiedenis en<br/>traditie voort. </p>
+      <p begin="00:43:47,608" end="00:43:49,048">Marine kazerne in de 8ste tot 9ste straat</p>
+      <p begin="00:43:49,048" end="00:43:51,801">is de oudste post in het korps<br/>en voor 100 jaar</p>
+      <p begin="00:43:51,801" end="00:43:55,185">sinds de vroege 1800&#180;s, <br/>was het het Marine korps hoofdkwartier.</p>
+      <p begin="00:43:55,201" end="00:43:59,800"/>
+      <p begin="00:44:00,662" end="00:44:04,052">- De Marine kazerne<br/>in Washington DC</p>
+      <p begin="00:44:04,052" end="00:44:09,118">is de meest prestigieuze eenheid<br/>in het Marine korps.</p>
+      <p begin="00:44:09,118" end="00:44:13,562">Dit is de eenheid waar de besten <br/>van de besten naartoe gaan.</p>
+      <p begin="00:44:13,562" end="00:44:18,761">Het is de showcase ceremoni&#235;le eenheid <br/>van het Marine korps.</p>
+      <p begin="00:44:18,761" end="00:44:24,639">Het dient presidenten en hoogwaardigheids-<br/>bekleders, beveiliging in het Witte Huis,</p>
+      <p begin="00:44:25,785" end="00:44:28,261">het Stille Dril Team.</p>
+      <p begin="00:44:28,261" end="00:44:31,289"/>
+      <p begin="00:44:31,719" end="00:44:36,434">- Na mijn inzet in Operatie Irak Vrijheid<br/>in 2008 / 2009,</p>
+      <p begin="00:44:36,434" end="00:44:39,912">beval mijn commando officier me aan<br/>voor de marine kazerne in Washington.</p>
+      <p begin="00:44:39,912" end="00:44:44,483">Ik was opgewonden. Het was de top<br/>wat betreft het marine korps.</p>
+      <p begin="00:44:44,483" end="00:44:47,444"/>
+      <p begin="00:44:47,444" end="00:44:50,651">- Ze bleef laat werken<br/>en dan reed ze naar huis</p>
+      <p begin="00:44:50,651" end="00:44:53,513">en ze belde me en ze zou <br/>in een soort van roes zijn</p>
+      <p begin="00:44:53,513" end="00:44:55,760">en ze praatte over hoe graag <br/>ze haar job deed.</p>
+      <p begin="00:44:55,760" end="00:45:03,839">Ze was een lief persoon <br/>die erg haar best deed om te slagen.</p>
+      <p begin="00:45:04,962" end="00:45:07,832">- &#201;&#233;n van de eerste dingen die mij <br/>verteld werden, wanneer ik incheckte was,</p>
+      <p begin="00:45:08,278" end="00:45:11,022">draag geen make-up want de mariniers<br/>zullen allemaal denken</p>
+      <p begin="00:45:11,022" end="00:45:12,767">dat je met hen in bed wil duiken.</p>
+      <p begin="00:45:12,767" end="00:45:15,136">En ik dacht, " Dat is gewoon belachelijk."</p>
+      <p begin="00:45:15,136" end="00:45:20,201">- De sfeer in de bar in de Marine kazerne <br/>in Washington was verschrikkelijk.</p>
+      <p begin="00:45:20,201" end="00:45:24,492">Mensen vroegen me welke seksuele diensten<br/>ik had gedaan om mijn orders te krijgen.</p>
+      <p begin="00:45:25,528" end="00:45:27,493">- Er was een meerdere <br/>in mijn commando,</p>
+      <p begin="00:45:27,493" end="00:45:29,466">die, toen hij de eerste keer met me sprak<br/>die toen zei, </p>
+      <p begin="00:45:29,466" end="00:45:35,349">"Vrouwelijke mariniers zijn hier enkel<br/>objecten voor de mariniers om te neuken. </p>
+      <p begin="00:45:35,349" end="00:45:37,830">- Dus, vanaf er een vrouw<br/>opdaagt op mijn werk,</p>
+      <p begin="00:45:37,830" end="00:45:39,640">wordt ze onmiddellijk besprongen.</p>
+      <p begin="00:45:39,640" end="00:45:43,387">Over alle nieuwe vrouwen wordt geroddeld,<br/>gezegd dat ze seks hebben gehad,</p>
+      <p begin="00:45:43,387" end="00:45:47,116">geslapen hebben met die en die.<br/>Blijkbaar heb ik met alle mannen geslapen,</p>
+      <p begin="00:45:47,116" end="00:45:50,393">en ik bedoel, ik heb dat niet gedaan.</p>
+      <p begin="00:45:50,393" end="00:45:52,780">- Ze werden geleidelijk aan<br/>erger en erger.</p>
+      <p begin="00:45:52,780" end="00:45:56,674">Ze stelden vast dat ik de seksuele<br/>intimidatie verwelkomde door</p>
+      <p begin="00:45:56,674" end="00:46:04,002">mijn gereguleerde uniformrok te dragen<br/>en rond te lopen in mijn loopshort.</p>
+      <p begin="00:46:04,002" end="00:46:07,565">Er waren verschillende vrouwelijke junior<br/>mariniers die wenend naar me toe kwamen,</p>
+      <p begin="00:46:07,565" end="00:46:11,980">terwijl ik daar zei dat ze te vernederd<br/>waren om te komen werken.</p>
+      <p begin="00:46:11,980" end="00:46:15,857" region="top"> In eenheden waar seksuele intimidatie <br/>is toegestaan, verdrievoudigt verkrachting</p>
+      <p begin="00:46:17,378" end="00:46:22,045"/>
+      <p begin="00:46:22,164" end="00:46:24,365">- &#201;&#233;n van de opdrachten<br/>bij de Marine kazerne in Washington,</p>
+      <p begin="00:46:24,365" end="00:46:26,839">was een ceremoni&#235;le dril.</p>
+      <p begin="00:46:27,162" end="00:46:29,159">De avondparades zijn wat</p>
+      <p begin="00:46:29,159" end="00:46:32,202">je ziet op het nieuws. Het geluidsdril <br/>peloton, de President,</p>
+      <p begin="00:46:32,202" end="00:46:34,653">iedereen gaat naar dat soort dingen.</p>
+      <p begin="00:46:37,376" end="00:46:43,251">- Na de parade, wordt van alle officiers <br/>vereist dat ze tot na middernacht blijven</p>
+      <p begin="00:46:43,251" end="00:46:47,056">en gaan drinken in het centrumhuis <br/>in de marine kazerne in Washington.</p>
+      <p begin="00:46:47,056" end="00:46:49,424">Dus we praten over woensdagnacht <br/>happy hours </p>
+      <p begin="00:46:49,424" end="00:46:52,820">die begonnen om drie <br/>en eindigden om twee uur &#180;s nachts.</p>
+      <p begin="00:46:52,820" end="00:46:54,895">- Het was een feest en drinkcultuur.</p>
+      <p begin="00:46:54,895" end="00:46:58,434">De sfeer draaide om uitgaan, feesten <br/>en drinken.</p>
+      <p begin="00:46:58,434" end="00:47:02,710">- Ik werd opgedragen te drinken<br/>de drankevenementen bij te wonen.</p>
+      <p begin="00:47:02,710" end="00:47:06,889">- Mijn baas zei zelfs <br/>dat ze verplicht waren voor mij.</p>
+      <p begin="00:47:06,889" end="00:47:09,128">Ze was zo van, "We doen <br/>ons beste werk op die evenementen."</p>
+      <p begin="00:47:09,128" end="00:47:12,899">- We gingen naar <br/>verscheidene pubs en bars en het doel was</p>
+      <p begin="00:47:12,899" end="00:47:17,221">om een shot te nemen in elk caf&#233;,<br/>op kosten van het marine korps.</p>
+      <p begin="00:47:17,221" end="00:47:18,315">- Je praat over drinkevenementen<br/>waar</p>
+      <p begin="00:47:18,315" end="00:47:22,296">andere meerderen aan het drinken zijn<br/>tot ze in hun broek plassen,</p>
+      <p begin="00:47:22,296" end="00:47:26,598">weet je, flauwvallen in tuinen.<br/>Dat is de norm.</p>
+      <p begin="00:47:26,598" end="00:47:30,266">- In een caf&#233;, had ik water,<br/>en er werd toch een shot besteld, </p>
+      <p begin="00:47:30,266" end="00:47:33,878">en me gezegd dat ik er twee moest drinken<br/>om dat goed te maken.</p>
+      <p begin="00:47:33,878" end="00:47:36,831" region="top"> 16 maart 2006.</p>
+      <p begin="00:47:36,831" end="00:47:38,882">Ik verliet het caf&#233; om een taxi te nemen.</p>
+      <p begin="00:47:38,882" end="00:47:41,016">Mijn compagnie commandant volgde me<br/>en zei,</p>
+      <p begin="00:47:41,016" end="00:47:43,317">"Ik moet je spreken over enkele dingen."</p>
+      <p begin="00:47:45,715" end="00:47:48,112">Dus we gingen de trap op naar zijn kantoor</p>
+      <p begin="00:47:48,112" end="00:47:49,734">Er was een klein beetje een strijd.</p>
+      <p begin="00:47:49,734" end="00:47:52,690">Hij probeerde een avance te maken<br/>en probeerde me te kussen.</p>
+      <p begin="00:47:52,690" end="00:47:56,991">Ik probeerde weg te komen en hij<br/>smeet de deur tegen mijn armen.</p>
+      <p begin="00:47:56,991" end="00:48:00,088">Ik viel op de grond en sloeg<br/>met mijn gezicht tegen zijn bureau.</p>
+      <p begin="00:48:00,088" end="00:48:03,657">En het volgende dat ik besefte was dat <br/>ik wakker geworden was met zijn short aan</p>
+      <p begin="00:48:03,657" end="00:48:07,261">met geen &#233;&#233;n van mijn kleren aan en <br/>met verschrikkelijke pijn.</p>
+      <p begin="00:48:07,261" end="00:48:10,518">Ik wist genoeg van mezelf<br/>om te weten dat er iets niet juist was</p>
+      <p begin="00:48:10,518" end="00:48:12,692">en ik voelde me volledig geschonden.</p>
+      <p begin="00:48:12,692" end="00:48:16,875" region="top"> De dag na het incident, <br/>opende NCIS een onderzoek.</p>
+      <p begin="00:48:16,875" end="00:48:22,398" region="top"> Het werd gesloten drie dagen later<br/>en er was geen actie ondernomen.</p>
+      <p begin="00:48:22,398" end="00:48:25,719" region="top"> Twee dagen later, startte <br/>de basis commandant zijn eigen onderzoek.</p>
+      <p begin="00:48:25,719" end="00:48:29,169">Op een zeker punt zei de kolonel,<br/>"Weet je, luitenant Helmer,</p>
+      <p begin="00:48:29,169" end="00:48:31,868">jongens, meisjes en alcohol<br/>gaan gewoon niet goed samen.</p>
+      <p begin="00:48:31,868" end="00:48:34,492">We zullen nooit echt weten wat <br/>er gebeurd is in dat kantoor.</p>
+      <p begin="00:48:34,492" end="00:48:37,721">Alleen jij en de majoor weten dat<br/>en hij praat er niet over.</p>
+      <p begin="00:48:37,721" end="00:48:41,597">Dus op dit punt is het onderzoek gesloten <br/>door tekort aan bewijs</p>
+      <p begin="00:48:41,597" end="00:48:45,089">en we hebben een nieuw onderzoek geopend<br/>tegen jou</p>
+      <p begin="00:48:45,089" end="00:48:49,515">voor onbetamelijk gedrag tegenover <br/>een officier en openbare dronkenschap.</p>
+      <p begin="00:48:52,785" end="00:48:56,142">Ik herinner me, we gingen naar het caf&#233;,</p>
+      <p begin="00:48:56,142" end="00:48:59,136">en er was een officier die zei dat hij<br/>shots voor ons zou kopen.</p>
+      <p begin="00:48:59,136" end="00:49:03,297">Nadien had ik enkele drankjes <br/>en dat is alles wat ik me herinner.</p>
+      <p begin="00:49:03,297" end="00:49:08,418" region="top"> Diezelfde officier stalkte haar en <br/>verkrachtte haar op 3 aparte gelegenheden.</p>
+      <p begin="00:49:08,418" end="00:49:12,034">Deze officier schepte op tegen<br/>zijn mede-officiersvrienden</p>
+      <p begin="00:49:12,034" end="00:49:18,173">dat hij me "genaaid" had. Ik werd naar <br/>het het kantoor van de majoor geroepen</p>
+      <p begin="00:49:18,173" end="00:49:22,276">en hij rekende me <br/>verbroedering en overspel aan.</p>
+      <p begin="00:49:22,276" end="00:49:25,519">Hij was getrouwd, ik niet en hij rekende<br/>mij aan voor overspel.</p>
+      <p begin="00:49:28,212" end="00:49:32,248">-Ik vertelde de XO van het batal-<br/>jon over de vernedering en de commentaren,</p>
+      <p begin="00:49:32,248" end="00:49:36,149">en hij zei, "Je moet doen <br/>wat een marine officier zou doen</p>
+      <p begin="00:49:36,149" end="00:49:39,820">en dat is het negeren <br/>en gewoon verdergaan."</p>
+      <p begin="00:49:41,698" end="00:49:46,978">- Ik lag wakker in bed, weet je wel,<br/>me afvragend wat ik kon doen</p>
+      <p begin="00:49:46,978" end="00:49:49,072">om haar te helpen eruit te geraken.</p>
+      <p begin="00:49:49,072" end="00:49:54,705" region="top"> Na een wekelijks drinkevenement<br/>in augustus 2010, werd Ariana verkracht</p>
+      <p begin="00:49:54,705" end="00:49:56,393">door een meerdere en zijn vriend.</p>
+      <p begin="00:49:56,393" end="00:50:00,920">Hij zei me als ik iemand iets vertelde, <br/>dat hij zijn vriend Marve</p>
+      <p begin="00:50:00,920" end="00:50:03,996">van Indiana me ging laten vermoorden<br/>en me ergens in een gracht ging gooien,</p>
+      <p begin="00:50:03,996" end="00:50:06,851">want zo lossen ze dingen op in Indiana.</p>
+      <p begin="00:50:08,666" end="00:50:12,325">- Ze ging in oorlog en <br/>gaf negen jaar van haar leven,</p>
+      <p begin="00:50:14,321" end="00:50:19,202">en voor hun om het te nemen <br/>en terug te komen en zeggen,</p>
+      <p begin="00:50:21,433" end="00:50:24,385">"Ja, ze noemden je een hoer,<br/>ja ze noemden je een slet,</p>
+      <p begin="00:50:24,385" end="00:50:27,281">ja, ze noemden je een wandelende matras,<br/>het is vastgelegd</p>
+      <p begin="00:50:27,281" end="00:50:31,602">opnieuw en opnieuw en opnieuw,<br/>maar je verdiende het</p>
+      <p begin="00:50:31,602" end="00:50:36,080">en toen je erover klaagde,<br/>verwelkomde je het. </p>
+      <p begin="00:50:36,080" end="00:50:40,905">- De daden van mijn meerderen, zowel<br/>tijdens de aanranding als daaropvolgend</p>
+      <p begin="00:50:40,905" end="00:50:45,086">de onderzoeken, hebben me <br/>echt vernietigd. </p>
+      <p begin="00:50:47,441" end="00:50:52,803">- Als je vrouw<br/>niet thuis komt --</p>
+      <p begin="00:50:54,699" end="00:50:59,182">doorzoek je het huis <br/>naar een zelfmoordbriefje</p>
+      <p begin="00:51:02,000" end="00:51:04,816">om de politie te bellen met &#233;&#233;n hand</p>
+      <p begin="00:51:04,816" end="00:51:09,532">terwijl je haar weerhoudt van zichzelf te <br/>doden met de andere hand.</p>
+      <p begin="00:51:14,985" end="00:51:17,781">- Ik denk hetgeen me <br/>het meest kwaad maakt</p>
+      <p begin="00:51:17,781" end="00:51:20,610">is niet eens de verkrachting zelf</p>
+      <p begin="00:51:20,610" end="00:51:25,135">het zijn de commandanten die medeplichtig<br/>waren om alles te verbergen wat gebeurd is</p>
+      <p begin="00:51:25,135" end="00:51:28,074" region="top"> De filmmakers contacteerden <br/>vijf vrouwelijke mariniers</p>
+      <p begin="00:51:28,074" end="00:51:35,023" region="top"> die aangerand zijn door een officier <br/>toen ze dienden in kazerne in Washington</p>
+      <p begin="00:51:35,023" end="00:51:44,148" region="top"> Vier van de vrouwen zijn onderzocht <br/>of gestraft nadat ze dit gemeld hadden.</p>
+      <p begin="00:51:44,148" end="00:51:52,232" region="top"> Geen enkele officier <br/>werd gestraft voor de aanranding.</p>
+      <p begin="00:51:52,232" end="00:51:56,139">- Dit is een organisatie die commandanten</p>
+      <p begin="00:51:56,139" end="00:51:57,948">een ongelooflijk gevoel van macht geeft.</p>
+      <p begin="00:51:57,948" end="00:52:03,138">En ik voelde het, als luitenant in Irak,<br/>het is angstig. Je benoemt de vervolging,</p>
+      <p begin="00:52:03,138" end="00:52:05,455">je benoemt de verdediging,<br/>je benoemt de onderzoeker,</p>
+      <p begin="00:52:05,455" end="00:52:09,570">je bent verantwoordelijk voor de politie,<br/>voor de gemeenschap.</p>
+      <p begin="00:52:09,570" end="00:52:13,560">Je bezit alles. Je bent rechter, <br/>je bent jury, je bent scherprechter.</p>
+      <p begin="00:52:13,560" end="00:52:17,665">- Meeste Amerikanen veronderstellen dat<br/>er toegang is tot een rechtssysteem,</p>
+      <p begin="00:52:17,665" end="00:52:21,421">zodat bvb. als je een burger bent, en je <br/>word verkracht, je de politie kan bellen</p>
+      <p begin="00:52:21,421" end="00:52:23,272">en dat je dan aanklagers hebt,</p>
+      <p begin="00:52:23,272" end="00:52:26,330">ofwel federale aanklagers, ofwel <br/>staatsaanklagers, lokale aanklagers,</p>
+      <p begin="00:52:26,330" end="00:52:31,093">die de dader tot rechtvaardigheid brengen.<br/>Het probleem met het leger is dat</p>
+      <p begin="00:52:31,093" end="00:52:34,634">in plaats daarvan, gaan ze <br/>naar hun commandostructuur.</p>
+      <p begin="00:52:34,634" end="00:52:37,879">- Nu in ons militair rechtssysteem,</p>
+      <p begin="00:52:37,879" end="00:52:43,906">is het de commandant die verantwoordelijk <br/>is voor de commandostructuur</p>
+      <p begin="00:52:43,906" end="00:52:47,521">van hoe het onderzoek verder loopt.</p>
+      <p begin="00:52:47,521" end="00:52:51,031">- Ik weet dat er vele malen in <br/>mijn carri&#232;re waren dat ik spijt had</p>
+      <p begin="00:52:51,031" end="00:52:56,094">dat een individueel commandant totale <br/>zeggenschap had over een zaak.</p>
+      <p begin="00:52:56,094" end="00:53:00,608">Meeste van hen hebben niet de oefening<br/>noch de opvoeding om te bepalen</p>
+      <p begin="00:53:00,608" end="00:53:04,484">wat er passend is en in een serieus <br/>misdrijf met strafrechtelijk onderzoek.</p>
+      <p begin="00:53:04,484" end="00:53:07,342">- Het probleem in het leger is <br/>dat de bijeengeroepen autoriteit</p>
+      <p begin="00:53:07,342" end="00:53:10,539">die niet wettelijk opgeleid is,<br/>de uiteindelijke beslissing maakt.</p>
+      <p begin="00:53:10,539" end="00:53:13,833"/>
+      <p begin="00:53:13,833" end="00:53:16,008">- Er was een verandering <br/>van bevel in mijn oud escadron</p>
+      <p begin="00:53:16,008" end="00:53:18,556">waar de jongen die me verkracht had,<br/>nog steeds gestationeerd was.</p>
+      <p begin="00:53:19,848" end="00:53:22,140">Hij had nog maar vier dagen het bevel,<br/>en hij besliste om de zaak stop te zetten.</p>
+      <p begin="00:53:22,509" end="00:53:26,367">en hij maakte de meer dan wettelijke <br/>beslissing om de zaak stop te zetten. </p>
+      <p begin="00:53:26,367" end="00:53:29,575">- Wat ik zag waren commandanten,<br/>en dit waren veld officieren,</p>
+      <p begin="00:53:29,575" end="00:53:34,042">luitenant-kolonels, kolonels<br/>die 20, 25 jaar in dienst waren,</p>
+      <p begin="00:53:34,042" end="00:53:41,199">dat zijn carri&#232;re officieren,<br/>en ze veegden alles onder de tapijt.</p>
+      <p begin="00:53:41,199" end="00:53:46,434">- Het laatste dat een compagnie commandant<br/>in het leger wil doen</p>
+      <p begin="00:53:46,434" end="00:53:50,090">is telefoneren naar zijn of haar bataljon<br/>commandant om te zeggen,</p>
+      <p begin="00:53:50,090" end="00:53:54,470">"Ik had een beschuldiging van<br/>verkrachting in mijn eenheid."</p>
+      <p begin="00:53:54,470" end="00:53:58,435">- Dit wordt in vele gevallen bekeken<br/>als een falen in leiding geven</p>
+      <p begin="00:53:58,435" end="00:54:02,437">dat dan hun carri&#232;re negatief beinvloedt.</p>
+      <p begin="00:54:02,437" end="00:54:05,214">- Soms zag je een jongen<br/>4 tot 5 jaar krijgen</p>
+      <p begin="00:54:05,214" end="00:54:07,537">voor het verkopen van een beetje drugs.</p>
+      <p begin="00:54:07,537" end="00:54:11,277">En dan zag je een jongen twee weken extra <br/>taken krijgen voor verkrachting</p>
+      <p begin="00:54:11,277" end="00:54:16,901">- Het leger verbergt zich achter de notie<br/>dat het heel, heel moeilijk is,</p>
+      <p begin="00:54:16,901" end="00:54:19,158">bijna onmogelijk om iemand<br/>te vervolgen voor verkrachting.</p>
+      <p begin="00:54:19,158" end="00:54:24,057">Als je kijkt naar de vervolgingscijfers in<br/>het rapport van 2010 van Dep. van Defensie</p>
+      <p begin="00:54:24,057" end="00:54:31,372">begin je met 2410 onbepaalde verslagen<br/>en 748 bepaalde verslagen.</p>
+      <p begin="00:54:31,372" end="00:54:35,885">Dat betekent dat ze 748 slachtoffers van<br/>aanranding gesluisd hebben</p>
+      <p begin="00:54:35,885" end="00:54:40,482">in een systeem dat <br/>geen berechting heeft of wat dan ook.</p>
+      <p begin="00:54:40,482" end="00:54:43,642">Dan neem je de 2410 die gemeld zijn,</p>
+      <p begin="00:54:43,642" end="00:54:47,910">en van die hebben ze <br/>3223 daders geidentificeerd.</p>
+      <p begin="00:54:47,910" end="00:54:51,393">Nu wat gebeurd er als <br/>je een dader stuurt om te gaan bevelen?</p>
+      <p begin="00:54:51,393" end="00:54:54,329">Nou, het commando heeft gewoon<br/>onbelemmerde discretie</p>
+      <p begin="00:54:54,329" end="00:54:56,360">om te doen wat ze ook maar willen.</p>
+      <p begin="00:54:56,360" end="00:54:58,355">En wat doen ze dan?</p>
+      <p begin="00:54:58,355" end="00:55:02,576">Eerst en vooral, laten ze er 910 vallen,<br/>ze doen gewoonweg niets.</p>
+      <p begin="00:55:02,576" end="00:55:06,306">Dan van de 1025 waarbij ze<br/>effectief actie ondernemen,</p>
+      <p begin="00:55:06,306" end="00:55:07,792">brengen ze hen voor de krijgsraad?</p>
+      <p begin="00:55:07,792" end="00:55:13,305">Nee. Alleen de helft , 529, worden <br/>effectief voor de krijgsraad gebracht.</p>
+      <p begin="00:55:13,305" end="00:55:17,596">De overige 256 worden onderworpen<br/>aan Artikel 15 Straffen,</p>
+      <p begin="00:55:17,596" end="00:55:19,975">109 aan administratieve ontslagen,</p>
+      <p begin="00:55:19,975" end="00:55:24,111">en 131 aan " andere <br/>ongunstige administratieve handelingen," </p>
+      <p begin="00:55:24,111" end="00:55:25,982">wat dat in godsnaam ook mag betekenen.</p>
+      <p begin="00:55:25,982" end="00:55:29,185">En dan van de veroordelingen <br/>waar ze effectief gevangenistijd kregen,</p>
+      <p begin="00:55:29,185" end="00:55:31,074">als je jezelf doorheen de cijfers werkt,</p>
+      <p begin="00:55:31,074" end="00:55:36,087">waar je naar kijkt, is <br/>dat van de 3223 daders,</p>
+      <p begin="00:55:36,087" end="00:55:41,094">enkel 175 gevangenistijd doen uiteindelijk</p>
+      <p begin="00:55:41,094" end="00:55:43,979">- Ik ben in congres <br/>gedurende zeven termijnen nu</p>
+      <p begin="00:55:43,979" end="00:55:48,197">en elke termijn hebben we vergaderingen<br/>met het Departement van Defensie</p>
+      <p begin="00:55:48,197" end="00:55:52,279">en ze komen binnen en ze bevestigen ons,<br/>we gaan serieus zijn. </p>
+      <p begin="00:55:52,279" end="00:55:56,427">We gaan dit oplossen, we gaan dit stoppen,<br/>nultolerantie.</p>
+      <p begin="00:55:56,427" end="00:56:02,809">De retoriek is niet worden omgezet in de <br/>realiteit van onze vrouwen te beschermen,</p>
+      <p begin="00:56:02,809" end="00:56:06,159">en in sommige gevallen <br/>mannen in ons leger.</p>
+      <p begin="00:56:06,159" end="00:56:08,788">- Ze waren zo van, we hebben <br/>dit SARC en SAPRO programma.</p>
+      <p begin="00:56:08,788" end="00:56:10,662">Het is, oh geweldig....</p>
+      <p begin="00:56:11,525" end="00:56:13,547">Wat doet dat?</p>
+      <p begin="00:56:13,547" end="00:56:18,126">Ze kunnen sterk aanraden <br/>aan het leger om iets te doen.</p>
+      <p begin="00:56:18,126" end="00:56:22,349">- Als een band van broeders<br/>en zusters, is het onze persoonlijke taak</p>
+      <p begin="00:56:22,349" end="00:56:24,367">om aanranding te voorkomen.</p>
+      <p begin="00:56:24,367" end="00:56:29,100">- Ze kunnen niet bevelen, ze kunnen niet<br/>handhaven, ze kunnen het niet ondersteunen</p>
+      <p begin="00:56:29,100" end="00:56:30,697">- In april van dit jaar, willen we </p>
+      <p begin="00:56:30,697" end="00:56:34,755">een sociaal marketing campagne doen,<br/>als deel van onze preventie strategie.</p>
+      <p begin="00:56:34,755" end="00:56:37,996">- Aanranding voorkomen<br/>is een deel van mijn plicht.</p>
+      <p begin="00:56:37,996" end="00:56:41,394">- Toen ik zag dat de date van<br/>mijn vriend dronken was, zei ik hem,</p>
+      <p begin="00:56:41,394" end="00:56:43,427">"Vraag haar als ze nuchter is."</p>
+      <p begin="00:56:43,427" end="00:56:45,875">- Het is belachelijk, weet je wel, <br/>het is het jaar 2011</p>
+      <p begin="00:56:45,875" end="00:56:49,400">en we hebben posters die zeggen, <br/>"Wacht totdat ze nuchter is."</p>
+      <p begin="00:56:49,400" end="00:56:54,425">Het is opmerkelijk dat dat toegestaan <br/>wordt in het leger van vandaag. </p>
+      <p begin="00:56:54,425" end="00:56:58,312">- We hebben training ingevoerd <br/>op elk niveau van de militaire dienst.</p>
+      <p begin="00:56:58,312" end="00:57:00,736">- Vanaf ze de dienst intreden <br/>in basistraining,</p>
+      <p begin="00:57:00,736" end="00:57:01,848">wordt ze dat mee gegeven.</p>
+      <p begin="00:57:01,848" end="00:57:06,560">Onze campagne bestaat <br/>uit een reeks posters die eigenlijk</p>
+      <p begin="00:57:06,560" end="00:57:10,655">werktuigen zijn en elke poster <br/>concentreert zich op iets anders.</p>
+      <p begin="00:57:10,655" end="00:57:14,969">- Je kan aanranding niet voorkomen<br/>met mooie posters.</p>
+      <p begin="00:57:14,969" end="00:57:19,161">Posters voorkomen niet dat <br/>seksuele roofdieren jagen op vrouwen</p>
+      <p begin="00:57:19,161" end="00:57:20,563">en mannen in het leger.</p>
+      <p begin="00:57:20,563" end="00:57:23,428">We hebben het over het binnenstormen <br/>van kamers in het midden van de nacht.</p>
+      <p begin="00:57:23,428" end="00:57:26,125">Geen enkele poster kan een crimineel<br/>voorkomen om een kamer binnen te stormen.</p>
+      <p begin="00:57:26,125" end="00:57:27,859">Dit zijn gewelddadige mensen.</p>
+      <p begin="00:57:27,859" end="00:57:30,418">- &#201;&#233;n van de dingen die we doen <br/>in onze preventie strategie</p>
+      <p begin="00:57:30,418" end="00:57:35,621">is focussen op toeschouwer interventie.<br/>En in die strategie en die training</p>
+      <p begin="00:57:35,621" end="00:57:38,938">vragen we van elke soldaat of matroos, <br/>vliegenier en marinier,</p>
+      <p begin="00:57:38,938" end="00:57:41,724">zich bewust te zijn van wat aanranding is,<br/>en hoe het te voorkomen.</p>
+      <p begin="00:57:41,724" end="00:57:45,005">- SARC is een grap.</p>
+      <p begin="00:57:45,005" end="00:57:47,858">De dingen die ze zeggen worden genegeerd,<br/>of er wordt om gelachen.</p>
+      <p begin="00:57:47,858" end="00:58:02,106"/>
+      <p begin="00:58:02,106" end="00:58:04,747">- Er is misschien een video of 20 slides.</p>
+      <p begin="00:58:04,747" end="00:58:07,515">Het is als zoveel militaire training</p>
+      <p begin="00:58:07,515" end="00:58:09,750">waar het &#233;&#233;n keer per jaar is, <br/>aanvinken van het vakje.</p>
+      <p begin="00:58:09,750" end="00:58:13,335"/>
+      <p begin="00:58:13,335" end="00:58:15,157">- SAPRO kan niets oplossen.</p>
+      <p begin="00:58:15,157" end="00:58:19,711">- Wandel jij alleen? - Ja, <br/>het is maar een stukje naar mijn kot.</p>
+      <p begin="00:58:19,711" end="00:58:20,926">- Ok&#233; dan.</p>
+      <p begin="00:58:20,926" end="00:58:23,836">- En al het geld lijkt<br/>naar reclame te gaan,</p>
+      <p begin="00:58:23,836" end="00:58:25,831">wat gewoon schering en inslag is<br/>met de beschuldiging van de slachtoffers.</p>
+      <p begin="00:58:25,831" end="00:58:27,562">- Hoe heet je? <br/>- H&#233;, stop.</p>
+      <p begin="00:58:27,562" end="00:58:29,222">- H&#233;, kom hier, kom hier. <br/>Ik wil even met je praten.</p>
+      <p begin="00:58:29,222" end="00:58:31,023">Ik wil gewoon praten met je.</p>
+      <p begin="00:58:31,023" end="00:58:32,551"/>
+      <p begin="00:58:32,551" end="00:58:33,561">- Whoa! Alles ok? </p>
+      <p begin="00:58:33,561" end="00:58:35,128">- Nee, daar was een kerel, <br/>hij greep me vast.</p>
+      <p begin="00:58:35,128" end="00:58:36,863">- Waarom ben je alleen? <br/>Waar is je buddy?</p>
+      <p begin="00:58:36,863" end="00:58:38,154">- Ik dacht niet <br/>dat ik er &#233;&#233;n nodig had.</p>
+      <p begin="00:58:38,154" end="00:58:40,515">Aanranding is te voorkomen.</p>
+      <p begin="00:58:40,515" end="00:58:42,332">Doe je je deel?</p>
+      <p begin="00:58:42,332" end="00:58:46,232">En dus die notie, weet je, dat in wezen<br/>iedereen een verkrachter kan zijn,</p>
+      <p begin="00:58:46,232" end="00:58:49,853">we moeten allemaal alert zijn, <br/>mist een kans</p>
+      <p begin="00:58:49,853" end="00:58:52,845">om echte stappen te ondernemen <br/>naar het voorkomen van verkrachting.</p>
+      <p begin="00:58:52,845" end="00:58:57,667">Als ze effectief systemen van <br/>toerekenbaarheid hadden die </p>
+      <p begin="00:58:57,667" end="00:59:01,577">daders vervolgden en gevangen nam, zou je </p>
+      <p begin="00:59:01,577" end="00:59:03,435">direct van veel verkrachtingen vanaf zijn </p>
+      <p begin="00:59:03,435" end="00:59:06,651">- Hoe zou je de typische <br/>zedendelinquent omschrijven?</p>
+      <p begin="00:59:06,651" end="00:59:09,399">- Nou, als ik de gegevens bekijk <br/>van het Departement van Defensie,</p>
+      <p begin="00:59:09,399" end="00:59:13,268">zijn het jonge mensen <br/>tussen de leeftijd van 18 tot 24, 25.</p>
+      <p begin="00:59:13,268" end="00:59:16,420">- Zou je durven zeggen dat <br/>de meeste van hen serieverkrachters zijn?</p>
+      <p begin="00:59:16,420" end="00:59:20,981">- Ik heb geen enkele gegevens om dat<br/>op &#233;&#233;n of andere manier vast te stellen.</p>
+      <p begin="00:59:20,981" end="00:59:23,890">- En welk percentage <br/>van de verkrachtingen denk je </p>
+      <p begin="00:59:23,890" end="00:59:26,508">wordt veroorzaakt <br/>door de serie roofdieren?</p>
+      <p begin="00:59:26,508" end="00:59:28,982">- Ik heb geen -- <br/>ik heb geen enkele cijfers.</p>
+      <p begin="00:59:28,982" end="00:59:32,521">Ik weet niet hoe -- ik denk niet <br/>dat we dat soort gegevens verzamelen.</p>
+      <p begin="00:59:32,521" end="00:59:34,778">- Er zijn studies geweest,</p>
+      <p begin="00:59:34,778" end="00:59:39,929">dat mensen die in het leger gaan 2 keer<br/>zoveel kans hebben al verkracht te hebben</p>
+      <p begin="00:59:39,929" end="00:59:42,430">als het inwonerequivalent <br/>in de niet-militaire wereld.</p>
+      <p begin="00:59:42,430" end="00:59:44,019">- Die studie ben ik me niet bewust van.</p>
+      <p begin="00:59:44,019" end="00:59:49,349">Mijn vakgebied concentreert zich vooral<br/>op preventie en slachtofferzorg.</p>
+      <p begin="00:59:49,349" end="00:59:54,711">- Maar zou preventie zich ook niet<br/>moeten concentreren op de daders?</p>
+      <p begin="00:59:54,711" end="01:00:01,985" region="top"> 31 juli 2008, Kaye Whitley <br/>is gedagvaard om te getuigen</p>
+      <p begin="01:00:01,985" end="01:00:03,606" region="top"> voor het Huis Subcomit&#233; voor Nationale<br/>Veiligheid en Buitenlandse Zaken. </p>
+      <p begin="01:00:03,606" end="01:00:07,240">Ik merk dat Dr. Kaye <br/>Whitley niet in haar stoel zit.</p>
+      <p begin="01:00:07,240" end="01:00:09,342">Is het onder uw leiding <br/>dat ze niet opdaagt</p>
+      <p begin="01:00:09,342" end="01:00:11,046">voor getuigenis deze ochtend?</p>
+      <p begin="01:00:11,046" end="01:00:12,210">- Ja, meneer.</p>
+      <p begin="01:00:12,210" end="01:00:13,426">- U hebt haar gedirigeerd <br/>om dit niet te doen?</p>
+      <p begin="01:00:13,426" end="01:00:14,416">- Dat deed ik.</p>
+      <p begin="01:00:14,416" end="01:00:16,914">- Hebt u een uitvoerend privilege <br/>om dat te handhaven?</p>
+      <p begin="01:00:16,914" end="01:00:17,946">- Nee meneer.</p>
+      <p begin="01:00:17,946" end="01:00:19,967">- U hebt haar dus ge&#239;nstrueerd <br/>om niet te komen?</p>
+      <p begin="01:00:19,967" end="01:00:21,563">Wat is uw reden daarvoor?</p>
+      <p begin="01:00:21,563" end="01:00:24,135">Als men vindt dat <br/>het antwoord van het departement</p>
+      <p begin="01:00:24,135" end="01:00:28,326">en de preventie maatregelen<br/>niet voldoen aan uw verwachtingen,</p>
+      <p begin="01:00:28,326" end="01:00:31,686">ligt de verantwoordelijkheid <br/>voor die tekortkoming bij mij.</p>
+      <p begin="01:00:31,686" end="01:00:33,564">- Dat is <br/>een belachelijk antwoord.</p>
+      <p begin="01:00:33,564" end="01:00:36,188">Wat probeert u te verbergen?</p>
+      <p begin="01:00:36,188" end="01:00:38,999">We herinneren ons allemaal Tailhook <br/>en het schandaal,</p>
+      <p begin="01:00:38,999" end="01:00:42,002">en hoe het leger <br/>dat probeerde in de doofpot te steken.</p>
+      <p begin="01:00:42,002" end="01:00:46,890">Ik weet niet wie u denkt dat u verkozen <br/>heeft om Congres van de V.S. te tarten.</p>
+      <p begin="01:00:46,890" end="01:00:49,387">We zijn een onafhankelijke tak <br/>van de overheid.</p>
+      <p begin="01:00:49,387" end="01:00:51,365">- Dus voor nu Mr. Dominguez, <br/>bent u ontslagen.</p>
+      <p begin="01:00:51,365" end="01:00:58,441"/>
+      <p begin="01:01:03,655" end="01:01:09,901">- De intimiteit is zeker aangetast.<br/>We hebben soms maanden geen seks.</p>
+      <p begin="01:01:09,901" end="01:01:13,767">Ik moet beginnen, als ik me comfortabel <br/>genoeg voel, als ik een goede dag heb,</p>
+      <p begin="01:01:13,767" end="01:01:18,638">als ik denk dat mijn man er knap uitziet<br/>die dag, dan moet ik initiatief nemen.</p>
+      <p begin="01:01:19,179" end="01:01:21,462">Wanneer hij me komt knuffelen,<br/>krimp ik soms ineen</p>
+      <p begin="01:01:21,462" end="01:01:23,726">en ik wil hem gewoon -- begrijp je,</p>
+      <p begin="01:01:23,726" end="01:01:26,910">hij zal het voelen en boos worden<br/>omdat hij niet --</p>
+      <p begin="01:01:26,910" end="01:01:29,298">"Waarom knuffel je me niet terug?" <br/>of zoiets.</p>
+      <p begin="01:01:29,298" end="01:01:32,469">- Ik doe dat nog steeds. <br/>Er zijn momenten dat ik --</p>
+      <p begin="01:01:32,469" end="01:01:33,996">- Ik hou er niet van dat <br/>hij me bij mijn heupen pakt.</p>
+      <p begin="01:01:33,996" end="01:01:40,478">- Ik begreep niet waarom, weet je, <br/>omdat ik zoiets had van, ik ben je man.</p>
+      <p begin="01:01:40,478" end="01:01:43,521">En ik begrijp het nu nog niet volledig.</p>
+      <p begin="01:01:43,521" end="01:01:46,312">- Ik zie het in mijn dromen.<br/>dat is wat je niet snapt,</p>
+      <p begin="01:01:46,312" end="01:01:48,854">Ik wil er niet over praten, en je weet dat</p>
+      <p begin="01:01:51,938" end="01:01:56,078">- Ja, maar dat is net zo moeilijk, <br/>ik weet niet --</p>
+      <p begin="01:01:56,078" end="01:01:58,746">Ik wil je helpen, <br/>maar ik weet niet, begrijp je?</p>
+      <p begin="01:01:58,746" end="01:02:00,061">- Wat?</p>
+      <p begin="01:02:00,061" end="01:02:01,987">- Wat? Ik veronderstel...</p>
+      <p begin="01:02:01,987" end="01:02:04,940">- Je kan me niet helpen. <br/>Dat is het nu net, je kan het niet.</p>
+      <p begin="01:02:04,940" end="01:02:06,589">- Soms denk ik, <br/>als ik seks met hem heb,</p>
+      <p begin="01:02:06,589" end="01:02:11,604">dat hij denkt aan hoe ik verkracht werd, <br/>is hij overstuur, is hij, weet je wel</p>
+      <p begin="01:02:11,604" end="01:02:17,327">omdat ik daar aan denk, en het gaat nooit <br/>niet door mijn hoofd.</p>
+      <p begin="01:02:17,327" end="01:02:20,984">Dat is waarom ik een tijdje geen seks wou.</p>
+      <p begin="01:02:20,984" end="01:02:22,723">- Wat als je in mijn plaats was?</p>
+      <p begin="01:02:22,723" end="01:02:28,527">- Het zou verschrikkelijk rot zijn. <br/>Ik zeg niet dat ik je niet apprecieer,</p>
+      <p begin="01:02:28,527" end="01:02:31,218">Ik bedoel, ik ben aan het wenen. Misschien<br/>op deze manier kan ik het je tonen Rob,</p>
+      <p begin="01:02:31,218" end="01:02:33,711">omdat het me wel overstuur maakt.</p>
+      <p begin="01:02:33,711" end="01:02:34,906"/>
+      <p begin="01:02:34,906" end="01:02:37,148">Zoals we toen bijna uit elkaar gingen<br/>om allerlei dingen</p>
+      <p begin="01:02:37,148" end="01:02:40,814">en ik voel dat ik <br/>er verantwoordelijk voor ben.</p>
+      <p begin="01:02:40,814" end="01:02:48,608">Ik weet niet wat te doen als <br/>ik Rob verlies. ... ik zou verloren zijn.</p>
+      <p begin="01:02:48,608" end="01:02:53,297">Hij is zowat mijn enige steun. <br/>Zoals mijn eigen bloed.</p>
+      <p begin="01:03:00,643" end="01:03:02,833">- Ik heb vrouwen geinterviewd <br/>in de burgerlijke wereld,</p>
+      <p begin="01:03:02,833" end="01:03:07,607">en verkrachting is een zeer, zeer<br/>traumatiserend iets om te gebeuren,</p>
+      <p begin="01:03:07,607" end="01:03:10,675">maar ik heb nooit geen trauma gezien,<br/>zoals ik dat gezien heb van vrouwen</p>
+      <p begin="01:03:10,675" end="01:03:14,557">die veteranen zijn die <br/>militair seksueel trauma geleden hebben.</p>
+      <p begin="01:03:14,557" end="01:03:16,602">- Ik kan me niet herinneren hoeveel keer</p>
+      <p begin="01:03:16,602" end="01:03:18,897">een jonge vrouwelijke marinier<br/>die verkracht was geweest</p>
+      <p begin="01:03:18,897" end="01:03:21,150">of aangerand, me heeft verteld<br/>dat ze naar die kerels keek</p>
+      <p begin="01:03:21,150" end="01:03:24,508">als haar broer of <br/>de verdachte als haar broer.</p>
+      <p begin="01:03:24,508" end="01:03:30,039">- Het is verwant met wat er gebeurd <br/>in een familie met incest.</p>
+      <p begin="01:03:30,039" end="01:03:35,348">Want weet je, in het leger, <br/>als we op ons best functioneren</p>
+      <p begin="01:03:35,348" end="01:03:39,710">in een samenhangende eenheid met broeders<br/>en zusters, weet je,</p>
+      <p begin="01:03:39,710" end="01:03:43,351">de band tussen broeders en zusters,<br/>ik bedoel, dat is familie.</p>
+      <p begin="01:03:43,351" end="01:03:48,569">Wanneer die band van vertrouwen <br/>geschonden wordt,</p>
+      <p begin="01:03:53,446" end="01:04:00,436">dringt die wond door tot in het uiterste <br/>deel van iemand&#180;s ziel, iemand&#180;s geest.</p>
+      <p begin="01:04:06,075" end="01:04:09,039">-Ik heb een map die ik bewaar.<br/>Met mijn brieven van heropvoedingskamp in,</p>
+      <p begin="01:04:09,039" end="01:04:14,491">van mijn mam, zus en mensen en.... </p>
+      <p begin="01:04:14,491" end="01:04:17,610">Ik was eens aan het snuffelen door mijn <br/>spullen en ik was zo van , "Wat is dit?"</p>
+      <p begin="01:04:17,610" end="01:04:25,819">Wanneer ik het opende, was ik van, <br/>"Oh mijn god, mijn zelfmoordbriefje."</p>
+      <p begin="01:04:25,819" end="01:04:30,539">Mam, het spijt me voor het verdriet<br/>dat je wel zult voelen.</p>
+      <p begin="01:04:30,539" end="01:04:32,554">Het is niet omdat ik <br/>er lichamelijk niet meer ben</p>
+      <p begin="01:04:32,554" end="01:04:35,193">dat ik er niet meer geestelijk zal zijn.</p>
+      <p begin="01:04:35,193" end="01:04:38,424">Ik geloof oprecht dat <br/>God me zal nemen zonder twijfel</p>
+      <p begin="01:04:38,424" end="01:04:42,182">zelfs al beroofde ik me van het leven.</p>
+      <p begin="01:04:42,182" end="01:04:44,264">Ik heb de meest gebroken gedachten,</p>
+      <p begin="01:04:44,264" end="01:04:46,294">dromen en fysieke pijn<br/>om me te herinneren aan</p>
+      <p begin="01:04:46,294" end="01:04:50,485">de verschrikkelijke dingen die met me <br/>gebeurd zijn, terwijl ik in dienst was.</p>
+      <p begin="01:04:50,485" end="01:04:53,016">Een moeder, broer, zus en man zouden<br/>nooit moeten leven</p>
+      <p begin="01:04:53,016" end="01:04:56,116">met de kennis van de verschrikkelijke <br/>dingen die me overkomen zijn.</p>
+      <p begin="01:04:56,116" end="01:05:01,227">Vind troost wetende dat het lichaam<br/>dat ik achterliet niet mijn ziel verteert.</p>
+      <p begin="01:05:01,227" end="01:05:04,327">Ik ben vrij nu, en ik ben niet bang.</p>
+      <p begin="01:05:04,327" end="01:05:07,655">Klaar om op te stijgen, Kori Danielle.</p>
+      <p begin="01:05:10,209" end="01:05:12,487">- Ik nam <br/>een heel flesje met pillen.</p>
+      <p begin="01:05:12,487" end="01:05:17,153">en werd wakker, vreemd genoeg, <br/>ik weet niet goed waarom.</p>
+      <p begin="01:05:17,153" end="01:05:21,151">Op dat moment in mijn leven,<br/>wou ik gewoon dat het voorbij was.</p>
+      <p begin="01:05:21,151" end="01:05:28,811">Ik denk dat ik 20, 21 was en toen, in <br/>het volgende jaar, probeerde ik nog eens.</p>
+      <p begin="01:05:28,811" end="01:05:30,141">- Ik ging naar de garage,</p>
+      <p begin="01:05:30,141" end="01:05:34,357">welke gescheiden was van het huis,<br/>en ik startte de auto.</p>
+      <p begin="01:05:34,357" end="01:05:37,061">Ik ging in de auto zitten <br/>en ik ging mezelf verstikken.</p>
+      <p begin="01:05:37,061" end="01:05:39,080">En wij hebben zo&#180;n kleine poedel, Blondie.</p>
+      <p begin="01:05:39,080" end="01:05:40,250">Ze ging door het kleine hondenluikje,</p>
+      <p begin="01:05:40,250" end="01:05:41,703">en ze was aan het krabben <br/>en huilen aan de deur.</p>
+      <p begin="01:05:41,703" end="01:05:45,464">Ik zei, "Zwijg godverdomme! <br/>Je gaat mijn vrouw wakker maken!"</p>
+      <p begin="01:05:45,464" end="01:05:48,386">Dus ik ging er uit, zette de auto af,<br/>en even dacht ik,</p>
+      <p begin="01:05:48,386" end="01:05:50,298">ik neem haar gewoon mee <br/>in de garage met mij.</p>
+      <p begin="01:05:50,298" end="01:05:53,597">Toen zei ik, "Waarom zou je <br/>een hond vermoorden? Dat is stom."</p>
+      <p begin="01:05:53,597" end="01:05:56,628">En toen drong het tot me door,<br/>"Waarom zou je zelfmoord willen plegen?"</p>
+      <p begin="01:05:56,628" end="01:05:59,659">- Ik dacht er vele malen aan en <br/>op zoveel verschillende manieren.</p>
+      <p begin="01:05:59,659" end="01:06:02,690">- Op een bepaald moment dacht ik,</p>
+      <p begin="01:06:02,690" end="01:06:05,953">om mezelf op te hangen aan de vlaggenmast,</p>
+      <p begin="01:06:05,953" end="01:06:08,016">met een bord aan mij, dat zei wat exact<br/>gebeurd was, om hem slecht te doen voelen.</p>
+      <p begin="01:06:08,016" end="01:06:16,038">- Ik ging een overdosis nemen<br/>met pijnmedicatie</p>
+      <p begin="01:06:16,038" end="01:06:19,574">en slaapmedicatie, en gewoon hopen<br/>dat ik in slaap zou vallen</p>
+      <p begin="01:06:19,574" end="01:06:23,930">en dat mijn lichaam zou stoppen,<br/>of iets zou doen.</p>
+      <p begin="01:06:29,329" end="01:06:31,597">Wanneer ik naar de dokter ging,<br/>ik had me ziek gevoeld,</p>
+      <p begin="01:06:31,597" end="01:06:36,268">en duizelig en misselijk,<br/>en ze namen een staal van mijn urine,</p>
+      <p begin="01:06:36,268" end="01:06:39,062">en ze vertelden me dat ik zwanger was.</p>
+      <p begin="01:06:39,062" end="01:06:42,188">En het was zo van, er zit <br/>een leven in daarbinnen, weet je wel.</p>
+      <p begin="01:06:42,188" end="01:06:44,105">Misschien zal haar leven beter zijn<br/>dan het mijne,</p>
+      <p begin="01:06:44,105" end="01:06:50,230">en ik moet daar voor zorgen.<br/>Dus ze is zeer speciaal.</p>
+      <p begin="01:06:53,415" end="01:06:57,575">- Soms <br/>vraagt het om een ander soort actie</p>
+      <p begin="01:06:57,575" end="01:07:05,299">om verandering tot stand te brengen,<br/>en soms is dat een gerechtszaak.</p>
+      <p begin="01:07:07,416" end="01:07:10,590">- Ik groeide op op leger-<br/>basissen. Mijn vader was in het leger.</p>
+      <p begin="01:07:10,590" end="01:07:12,623">Toen ik een kind was,<br/>wanneer we de telefoon opnamen,</p>
+      <p begin="01:07:12,623" end="01:07:14,922">moesten we zeggen, " Het kwartier<br/>van Kolonel Burke,"</p>
+      <p begin="01:07:14,922" end="01:07:16,107"/>
+      <p begin="01:07:16,107" end="01:07:17,577">en daarom,</p>
+      <p begin="01:07:17,577" end="01:07:23,000">begrijp ik het niveau van controle<br/>dat het leger uitoefent,</p>
+      <p begin="01:07:23,000" end="01:07:27,388">dat de meesten in het burgerlijk leven <br/>niet hebben.</p>
+      <p begin="01:07:27,388" end="01:07:29,832">De Feres Doctrine is <br/>een gerechtelijke doctrine</p>
+      <p begin="01:07:29,832" end="01:07:32,109">dat ontwikkeld was door<br/>het Hooggerechtshof dat zei,</p>
+      <p begin="01:07:32,109" end="01:07:37,692">als je in het leger zit, kan je niet<br/>vervolgen voor iets dat met je gebeurt</p>
+      <p begin="01:07:37,692" end="01:07:39,821">dat is bijkomstig bij je legerdienst.</p>
+      <p begin="01:07:39,821" end="01:07:42,359">Als de legerdokter <br/>een verkeerd lidmaat amputeert,</p>
+      <p begin="01:07:42,359" end="01:07:47,059">heb je pech, je kan hem niet vervolgen<br/>voor de schade die je berokkent is.</p>
+      <p begin="01:07:47,059" end="01:07:53,580">We dienden een proces in in het federale <br/>gerecht namens 16 mannen en vrouwen, </p>
+      <p begin="01:07:53,580" end="01:07:54,835">om te trachten <br/>voormalig secretaris Rumsfeld</p>
+      <p begin="01:07:57,346" end="01:07:59,230">en secretaris Gates te berechten. </p>
+      <p begin="01:08:02,369" end="01:08:07,914">- Ik hoorde van het proces en besloot<br/>om eraan deel te nemen</p>
+      <p begin="01:08:07,914" end="01:08:09,600">omdat ik niet wou dat een andere vrouw</p>
+      <p begin="01:08:09,600" end="01:08:12,886">zou moeten doorstaan wat ik heb doorstaan.</p>
+      <p begin="01:08:14,239" end="01:08:17,686" region="top"> - Hoe voelde je je emotioneel <br/>dat je dit deed?</p>
+      <p begin="01:08:17,686" end="01:08:21,969">- Oh, ik ben zo ziek geweest, <br/>gewoon ziek aan mijn maag.</p>
+      <p begin="01:08:21,969" end="01:08:25,366">En momenteel denk ik, ik ben gewoon zo van<br/>probeer er te zijn.</p>
+      <p begin="01:08:25,366" end="01:08:27,880">Ik verdoof mezelf om <br/>er gewoon naartoe te gaan.</p>
+      <p begin="01:08:27,880" end="01:08:33,490">En dan weet ik als ik daar ben,<br/>zou het -- ik weet het niet.</p>
+      <p begin="01:08:45,764" end="01:08:49,150">De rechtsspraak beweert <br/>dat ze toezicht houden op</p>
+      <p begin="01:08:49,150" end="01:08:54,547">een systeem dat de slachtoffers van hun <br/>grondwettelijke rechten ontneemt, </p>
+      <p begin="01:08:54,547" end="01:08:56,981">in het bijzonder beweren we <br/>dat ze hen ontdaan hebben van</p>
+      <p begin="01:08:56,981" end="01:09:00,595">een inhoudelijk eerlijk proces,<br/>een procedureel eerlijk proces,</p>
+      <p begin="01:09:00,595" end="01:09:03,302">gelijke bescherming en de rechten<br/>van het Eerste Amendement.</p>
+      <p begin="01:09:18,873" end="01:09:21,852">- Het maakte me ziek<br/>om ieders verhaal te zien.</p>
+      <p begin="01:09:21,852" end="01:09:25,685">Hoe ze eigenlijk echt met elkaar verbonden<br/>zijn. Elk verhaal heeft hoe dan ook -- </p>
+      <p begin="01:09:25,685" end="01:09:28,877">- Het is samenhangend, wat het leger doet<br/>met mensen zoals wij.</p>
+      <p begin="01:09:28,877" end="01:09:33,029">- Alle dingen die ze hebben opgezet,<br/>zijn eigenlijk allemaal bedoeld</p>
+      <p begin="01:09:33,029" end="01:09:37,572">om vrouwen te helpen omgaan<br/>met beter verkracht te worden,</p>
+      <p begin="01:09:37,572" end="01:09:39,746">dat is waar het om gaat.</p>
+      <p begin="01:09:42,855" end="01:09:46,184">- Ik ging in legerdienst in de helft<br/>van mijn laatste jaar middelbaar,</p>
+      <p begin="01:09:46,184" end="01:09:49,708">mijn land willen dienen <br/>en nieuwe dingen doen</p>
+      <p begin="01:09:49,708" end="01:09:52,877">en mezelf uitdagen op een andere manier.</p>
+      <p begin="01:09:54,131" end="01:09:55,942">Ik was ongeveer zeven of acht jaar<br/>in het leger</p>
+      <p begin="01:09:55,942" end="01:09:59,163">vooraleer er iets met mij gebeurde. </p>
+      <p begin="01:09:59,163" end="01:10:04,620">Ik werd verkracht door een andere <br/>CID agent die mijn meerdere was.</p>
+      <p begin="01:10:06,529" end="01:10:11,109">Ik werd gecontacteerd <br/>door een agent bij Fort Riley CID, </p>
+      <p begin="01:10:11,109" end="01:10:15,872">die zei dat ze de verdachte aan het onder-<br/>zoeken waren als een serie verkrachter</p>
+      <p begin="01:10:15,872" end="01:10:19,612">die verschillende militaire rechts-<br/>handhavingsvrouwen verkracht had.</p>
+      <p begin="01:10:19,612" end="01:10:23,989">- Ik dacht, daar was geen reden, weet je,<br/>dat hij niet veroordeeld zou worden.</p>
+      <p begin="01:10:23,989" end="01:10:25,601">Als ik een moeilijke tijd heb met iets,</p>
+      <p begin="01:10:25,601" end="01:10:28,439">is het over het feit dat ik <br/>een carri&#232;re heb van bijna 10 jaar</p>
+      <p begin="01:10:28,439" end="01:10:32,348">waarin ik investeerde, en ik gaf het op<br/>om een zedendelinquent aan te geven</p>
+      <p begin="01:10:32,348" end="01:10:36,328">die niet eens berecht werd,<br/>of geregistreerd werd,</p>
+      <p begin="01:10:36,328" end="01:10:39,901">en hij doet waarschijnlijk hetzelfde nu.</p>
+      <p begin="01:10:39,901" end="01:10:41,726">Ik had &#233;&#233;n vrouwelijke luitenant <br/>die me apart nam</p>
+      <p begin="01:10:41,726" end="01:10:44,822">en me zei, weet je, <br/>dat ze gehoord had van mijn zaak</p>
+      <p begin="01:10:44,822" end="01:10:48,012">ze dacht dat ze met me kon praten van <br/>&#233;&#233;n vrouwelijke marinier tot een andere,</p>
+      <p begin="01:10:48,012" end="01:10:48,982">en ze vertelde me,</p>
+      <p begin="01:10:48,982" end="01:10:52,824">"Nou, wat hij deed, was profiteren <br/>van een kans die jij hem gaf."</p>
+      <p begin="01:10:52,824" end="01:10:56,093">"Dat is niet hetzelfde als verkrachting, <br/>dat moet je weten."</p>
+      <p begin="01:10:56,093" end="01:10:59,830">Ik denk een maand na dat het gebeurd was,<br/>deden ze me gaan wandelen met hem,</p>
+      <p begin="01:10:59,830" end="01:11:02,390">En ik probeerde iedereen te laten pleiten <br/>voor mij om me niet te laten gaan</p>
+      <p begin="01:11:02,390" end="01:11:04,219">omdat ik gewoon niet aankon hem te zien.</p>
+      <p begin="01:11:04,219" end="01:11:06,627">Hun oplossing daarvoor was<br/>om hem voor me te laten lopen,</p>
+      <p begin="01:11:06,627" end="01:11:09,940">zodat ik hem heel de tijd kon zien. <br/>zodat ik wist waar hij was</p>
+      <p begin="01:11:09,940" end="01:11:11,557">en dat ik wist dat hij niks kon doen</p>
+      <p begin="01:11:11,557" end="01:11:13,093">omdat hij vlak voor mij liep.</p>
+      <p begin="01:11:13,093" end="01:11:15,571">En ik weet nog dat ik de hele tijd dacht,<br/>we waren in de heuvels,</p>
+      <p begin="01:11:15,571" end="01:11:17,707">in Kamp Pendleton,<br/>als het steiler was geweest,</p>
+      <p begin="01:11:17,707" end="01:11:20,295">dan zou ik gesprongen hebben.</p>
+      <p begin="01:11:20,295" end="01:11:22,291">- Er is geen ontsnappen aan, <br/>als je erover nadenkt,</p>
+      <p begin="01:11:22,291" end="01:11:25,934">de enige manier om te ontsnappen <br/>is zelfmoord of deserteren.</p>
+      <p begin="01:11:25,934" end="01:11:30,506">Dat zijn de enige twee opties: zelfmoord<br/>of deserteren of er mee omgaan.</p>
+      <p begin="01:11:30,506" end="01:11:35,363">- Momenteel apprecieer ik maar net</p>
+      <p begin="01:11:35,363" end="01:11:38,193">te leren appreci&#235;ren <br/>om terug een vrouw te zijn.</p>
+      <p begin="01:11:38,193" end="01:11:44,736">Dat is 11 jaar,<br/>en ik probeer er plezier om te hebben,</p>
+      <p begin="01:11:44,736" end="01:11:53,781">me niet forceren om plezier te hebben.<br/>Ik probeer heel erg om niet te wenen</p>
+      <p begin="01:11:53,781" end="01:11:56,501">maar het maakt me gewoon kwaad.</p>
+      <p begin="01:11:56,501" end="01:12:02,782">Te zien hoe jullie meiden moeten doorstaan<br/>wat ik doorstaan heb</p>
+      <p begin="01:12:02,782" end="01:12:04,754">zou me doen ontploffen.</p>
+      <p begin="01:12:04,754" end="01:12:08,041">- Hier zijn, wetende dat ik <br/>zelfmoord wil plegen,</p>
+      <p begin="01:12:08,041" end="01:12:11,889">ik ben niet alleen. Geslagen en verkracht<br/>worden, ik ben niet de enige. Alles --</p>
+      <p begin="01:12:11,889" end="01:12:15,551">de manier waarop ze me behandelden, hoe<br/>ze me deden voelen, ik ben niet de enige.</p>
+      <p begin="01:12:15,551" end="01:12:18,417">En we hebben jullie allemaal, <br/>met jullie kennis en alles</p>
+      <p begin="01:12:18,417" end="01:12:22,172">jullie gaan gewoon er tegen opstaan, <br/>dat is geweldig!</p>
+      <p begin="01:12:22,172" end="01:12:27,622">Dat is alles wat ik bedoel.</p>
+      <p begin="01:12:27,622" end="01:12:29,396">- Ik denk de vrouwen die naar voorkomen</p>
+      <p begin="01:12:29,396" end="01:12:31,917">in dit proces, zijn erg moedig,</p>
+      <p begin="01:12:31,917" end="01:12:37,143">omdat ze hun naam <br/>naar buiten brengen voor kritiek </p>
+      <p begin="01:12:37,143" end="01:12:40,168">ze brengen hun naam naar buiten <br/>om de geschiedenis in te gaan</p>
+      <p begin="01:12:40,168" end="01:12:43,787">als degene die verkracht zijn,</p>
+      <p begin="01:12:43,787" end="01:12:46,380">en dat is iets waar je niet <br/>mee door het leven wil gaan.</p>
+      <p begin="01:12:52,563" end="01:12:59,854"/>
+      <p begin="01:12:59,854" end="01:13:02,056">- Vandaag ben ik <br/>solidair met de moedige</p>
+      <p begin="01:13:02,056" end="01:13:05,154">vrouwen en mannen die gediend hebben<br/>in onze gewapende troepen.</p>
+      <p begin="01:13:05,154" end="01:13:08,162">De ge&#239;nspireerde aanklagers die u <br/>voor u ziet zijn een klein handvol</p>
+      <p begin="01:13:08,162" end="01:13:10,290">van de tienduizenden troepen en veteranen</p>
+      <p begin="01:13:10,290" end="01:13:13,139">die seksueel misbruikt zijn <br/>door hun mede dienstleden</p>
+      <p begin="01:13:13,139" end="01:13:16,261">terwijl ze onze natie verdedigden.<br/>Het wordt tijd om te erkennen</p>
+      <p begin="01:13:16,261" end="01:13:20,637">dat ons militair rechtssysteem kapot is <br/>als het over die zaken gaat.</p>
+      <p begin="01:13:20,637" end="01:13:21,969">- My name is Kori Cioca</p>
+      <p begin="01:13:21,969" end="01:13:24,408">en in mijn geval, was mijn commando<br/>niet bereid om mij te helpen.</p>
+      <p begin="01:13:24,408" end="01:13:29,440">Ik vroeg dikwijls hulp aan andere <br/>onderofficiers en ik werd hulp geweigerd</p>
+      <p begin="01:13:29,440" end="01:13:32,713">zelfs toen andere mannen zeiden, <br/>"A.u.b. hou hem weg van haar."</p>
+      <p begin="01:13:32,713" end="01:13:34,956">en het werd nog steeds toegelaten.</p>
+      <p begin="01:13:34,956" end="01:13:36,190">- Mijn naam is Sarah Albertson.</p>
+      <p begin="01:13:36,190" end="01:13:38,022">- Mensen zeiden me, <br/>"Ga hier niet publiek mee."</p>
+      <p begin="01:13:38,022" end="01:13:40,711">"Laat het niet aan het licht komen, want <br/>het zal het leger er slecht doen uitzien.</p>
+      <p begin="01:13:40,711" end="01:13:43,162">- Ik voel echt dat het <br/>mijn sociale verantwoordelijkheid is</p>
+      <p begin="01:13:43,162" end="01:13:46,704">om uit te komen over deze zaak,<br/>vooral aangezien mijn</p>
+      <p begin="01:13:46,704" end="01:13:51,481">onderzoek ervaring en <br/>het feit dat het militair rechtssysteem</p>
+      <p begin="01:13:51,481" end="01:13:55,355">toestaat zoveel delinquenten <br/>te laten ontsnappen aan gerechtigheid.</p>
+      <p begin="01:13:55,355" end="01:13:57,698"/>
+      <p begin="01:13:57,698" end="01:14:03,562"/>
+      <p begin="01:14:03,562" end="01:14:05,832">- Ze begint eindelijk te spelen <br/>met haar speelgoed.</p>
+      <p begin="01:14:05,832" end="01:14:07,653">- Ja, fantasiespel en zo.</p>
+      <p begin="01:14:08,376" end="01:14:11,646">- Maar het is alles wat je hen leert, <br/>als je het merkt, wanneer ze spelen.</p>
+      <p begin="01:14:11,646" end="01:14:13,353">Weet je wel, het is echt cool.</p>
+      <p begin="01:14:13,353" end="01:14:14,645">- Ja.</p>
+      <p begin="01:14:16,008" end="01:14:18,736">- Ik mis mijn kindje.</p>
+      <p begin="01:14:18,736" end="01:14:20,674">- Ik ook.</p>
+      <p begin="01:14:21,166" end="01:14:29,842"/>
+      <p begin="01:14:30,426" end="01:14:31,697">- Bedankt om ons te ontvangen.</p>
+      <p begin="01:14:31,697" end="01:14:34,585">- Natuurlijk. Bedankt om me <br/>een beetje te willen inlichten</p>
+      <p begin="01:14:34,585" end="01:14:36,336">over sommige ervaringen.</p>
+      <p begin="01:14:36,336" end="01:14:38,629">- Mijn naam is Regina Vazquez <br/>en ik heb eervol gediend</p>
+      <p begin="01:14:38,629" end="01:14:41,282">in het marine korps van de V.S. <br/>gedurende 4 jaar.</p>
+      <p begin="01:14:41,282" end="01:14:44,557">- Mijn naam is Kori Cioca en<br/>ik heb gediend in de Kustwacht van de V.S.</p>
+      <p begin="01:14:44,557" end="01:14:47,589">Ik ben lastiggevallen en aangerand.</p>
+      <p begin="01:14:47,589" end="01:14:49,568">- Ik ben administratief ontslagen <br/>met geen voordelen</p>
+      <p begin="01:14:49,568" end="01:14:51,792">na negen jaar en half in dienst te zijn.</p>
+      <p begin="01:14:51,792" end="01:14:53,534">- Vrouwen zouden die last <br/>niet hoeven te dragen.</p>
+      <p begin="01:14:53,534" end="01:14:57,308">Dat maakt geen deel uit van wat we doen<br/>om onze job goed te doen.</p>
+      <p begin="01:14:57,308" end="01:14:59,006">- We praten hier <br/>over criminele activiteiten.</p>
+      <p begin="01:14:59,006" end="01:15:04,393">We praten hier over een gemene aanval <br/>die crimineel is. Het is een aanslag.</p>
+      <p begin="01:15:04,393" end="01:15:06,713">Bijna geen &#233;&#233;n van de zaken<br/>is naar de krijgsraad gegaan,</p>
+      <p begin="01:15:06,713" end="01:15:11,405">van degene die wel gegaan zijn, resulteert<br/>bijna geen enkel in veroordeling.</p>
+      <p begin="01:15:11,405" end="01:15:13,609">- Het lijkt me dat al die keren</p>
+      <p begin="01:15:13,609" end="01:15:15,615">dat ik naar die dingen gekeken heb</p>
+      <p begin="01:15:15,615" end="01:15:19,997">dat het commando de &#233;ne is <br/>die zoveel oordeel heeft.</p>
+      <p begin="01:15:19,997" end="01:15:22,404">- Ik vind dat de advocaat <br/>eigenlijk een burger zou moeten zijn.</p>
+      <p begin="01:15:22,404" end="01:15:24,546">Niet iemand die in het leger werkt.</p>
+      <p begin="01:15:24,546" end="01:15:28,287">Ik vind dat we effectief eenheden zouden<br/>moeten hebben, burgerlijke eenheden.</p>
+      <p begin="01:15:28,287" end="01:15:32,875">- Het weent absoluut van binnen <br/>te bedenken dat dit al aan de gang is</p>
+      <p begin="01:15:32,875" end="01:15:37,318">voor zolang het al bezig is, <br/>en we hebben er nooit iets over gezegd.</p>
+      <p begin="01:15:37,318" end="01:15:39,773">- Alle mensen in het leger zouden<br/>moeten weten,</p>
+      <p begin="01:15:39,773" end="01:15:42,252">als je een dader van aanranding bent</p>
+      <p begin="01:15:42,252" end="01:15:45,335">tegen iemand anders in het leger, wee u.</p>
+      <p begin="01:15:45,335" end="01:15:47,511">Je gaat ter verantwoording<br/>worden geroepen.</p>
+      <p begin="01:15:49,245" end="01:15:52,427">- Als een CID agent, vond ik<br/>het ongelooflijk frustrerend</p>
+      <p begin="01:15:52,427" end="01:15:55,796">als ik toonde dat een overtreder <br/>een vergrijp had gepleegd,</p>
+      <p begin="01:15:55,796" end="01:15:58,358">en het werd naar een bevelhebber gebracht <br/>en die commandant</p>
+      <p begin="01:15:58,358" end="01:15:59,729">zou de beslissende autoriteit zijn.</p>
+      <p begin="01:15:59,729" end="01:16:01,586">Weet je, ik denk niet <br/>dat commandanten in staat zijn</p>
+      <p begin="01:16:01,586" end="01:16:05,134">een objectieve beslissing te nemen.</p>
+      <p begin="01:16:05,134" end="01:16:07,760">Ik vind niet dat het <br/>in hun handen zou moeten liggen.</p>
+      <p begin="01:16:07,760" end="01:16:10,115">- Dus u zou voorstellen om <br/>het oordeel van hen weg te nemen?</p>
+      <p begin="01:16:10,115" end="01:16:11,636">- Ja, absoluut.</p>
+      <p begin="01:16:11,636" end="01:16:12,615">- Congresvrouw Davis<br/>en ik</p>
+      <p begin="01:16:12,615" end="01:16:15,046">zitten beiden in <br/>het gewapende troepen comit&#233;.</p>
+      <p begin="01:16:15,046" end="01:16:16,983">- Er zijn een aantal kwesties</p>
+      <p begin="01:16:16,983" end="01:16:20,270">dat je vernoemde, <br/>die me terug willen laten gaan</p>
+      <p begin="01:16:20,270" end="01:16:22,346">en in het bijzonder nog eens <br/>een kijkje willen laten nemen.</p>
+      <p begin="01:16:22,346" end="01:16:24,397">- Op emotioneel, persoonlijk vlak,</p>
+      <p begin="01:16:24,397" end="01:16:28,083">wat er gebeurd nadat een misdaad <br/>zoals deze gepleegd is,</p>
+      <p begin="01:16:28,083" end="01:16:33,395">is moeilijk om dit te doorstaan, denk<br/>niet dat ik dat niet besef. Ik weet dat.</p>
+      <p begin="01:16:33,395" end="01:16:35,948">- Het feit dat je me je verhaal <br/>wil vertellen uit eerste hand,</p>
+      <p begin="01:16:35,948" end="01:16:37,549">maakt het veel makkelijker voor ons <br/>om terug te gaan</p>
+      <p begin="01:16:37,549" end="01:16:41,046">en te zeggen dat dit een beleid is <br/>dat we moeten veranderen.</p>
+      <p begin="01:16:41,046" end="01:16:43,701">Het maakt veel verschil wat je doet.</p>
+      <p begin="01:16:43,701" end="01:16:46,036">- We vinden zelden mensen zoals u, <br/>die opkomen voor ons,</p>
+      <p begin="01:16:46,036" end="01:16:48,760">en gewoon bedankt voor alles wat u doet.</p>
+      <p begin="01:16:48,760" end="01:16:50,267">. Het was heel fijn u allen te ontmoeten.</p>
+      <p begin="01:16:50,267" end="01:16:51,126">- Zeer aangenaam.</p>
+      <p begin="01:16:51,126" end="01:16:52,865">- Nog eens bedankt voor je dienst.</p>
+      <p begin="01:16:52,865" end="01:16:54,355">- Bedankt voor uw tijd.</p>
+      <p begin="01:16:54,355" end="01:16:57,669">- Mr. Speaker, vorig jaar, <br/>ontving het leger meer dan 3000 rapporten</p>
+      <p begin="01:16:57,669" end="01:17:01,681">over aanranding met betrekking tot <br/>andere leden in de dienst.</p>
+      <p begin="01:17:01,681" end="01:17:05,374">Deze week, vertellen 17 veteranen<br/>dat het leger deze zaken over aanranding</p>
+      <p begin="01:17:05,374" end="01:17:08,484">negeerde toen ze actief in dienst waren.</p>
+      <p begin="01:17:08,484" end="01:17:12,183">- Vandaag praat ik over matroos Kori Cioca</p>
+      <p begin="01:17:12,183" end="01:17:18,211">die diende in de Kustwacht <br/>van augustus 2005 tot juni 2007.</p>
+      <p begin="01:17:18,211" end="01:17:22,215">Ze lijdt nu aan PTSS en een abnormaal EEG</p>
+      <p begin="01:17:22,215" end="01:17:24,762">omwille van zenuwbeschadiging <br/>in haar gezicht.</p>
+      <p begin="01:17:24,762" end="01:17:29,435">Cioca vertelde later aan de pers,<br/>"Het was alsof het niet kon schelen."</p>
+      <p begin="01:17:29,435" end="01:17:33,030">"Het was niet belangrijk,<br/>het was niet belangrijk."</p>
+      <p begin="01:17:39,131" end="01:17:41,580">- We zijn aan het eten <br/>bij Bob Evans</p>
+      <p begin="01:17:41,580" end="01:17:44,753">en we horen toevallig dit meisje praten<br/>over zich klaar maken</p>
+      <p begin="01:17:44,753" end="01:17:48,563">om in het leger te gaan, dus ik ga er heen<br/>en probeer met haar te praten.</p>
+      <p begin="01:17:48,563" end="01:17:51,107">Heeft iemand je verteld waar <br/>je voor moet oppassen of zoiets?</p>
+      <p begin="01:17:51,107" end="01:17:52,216">- Mijn vriend <br/>zit in de marine.</p>
+      <p begin="01:17:52,216" end="01:17:53,666">- Dus hij weet <br/>hoe zwaar het is voor vrouwen.</p>
+      <p begin="01:17:53,666" end="01:17:56,205">- Ja, hij is <br/>enkele maanden in dienst nu.</p>
+      <p begin="01:17:56,205" end="01:17:58,191">- Dus, hoe voelt hij er zich bij <br/>dat je toetreedt?</p>
+      <p begin="01:17:58,191" end="01:17:59,968">Is hij niet bang <br/>dat de mannen iets zullen doen?</p>
+      <p begin="01:17:59,968" end="01:18:03,408">- Hij is een beetje bang<br/>maar weet dat ik voor mezelf kan zorgen.</p>
+      <p begin="01:18:03,408" end="01:18:05,433">- Oh, maar dat dacht ik ook,<br/>dus wees voorzichtig.</p>
+      <p begin="01:18:05,433" end="01:18:07,033">- Ja.</p>
+      <p begin="01:18:07,372" end="01:18:11,898">- Ik heb haar duidelijk gemaakt <br/>dat ze over de unief zou moeten nadenken</p>
+      <p begin="01:18:11,898" end="01:18:16,688">en een diploma behalen. Het zou haar <br/>heel wat problemen besparen.</p>
+      <p begin="01:18:16,688" end="01:18:18,779">Ik wou dat iemand mij dat verteld had.</p>
+      <p begin="01:18:18,779" end="01:18:21,277">Probeer je goed te houden, hoor je? <br/>Je kunt je nog steeds terugtrekken.</p>
+      <p begin="01:18:21,277" end="01:18:23,344">Je kan gewoon een burgerlijke job doen.</p>
+      <p begin="01:18:23,344" end="01:18:26,670">- Ja, dank je.<br/>Ik heb me nog niet ingeschreven.</p>
+      <p begin="01:18:26,670" end="01:18:29,706">- Ok, nou, wees gewoon voorzichtig.</p>
+      <p begin="01:18:33,510" end="01:18:36,764">- Mensen vragen me altijd,<br/>"Was het het waard om toe te treden?" </p>
+      <p begin="01:18:36,764" end="01:18:40,842">Het idee ervan is eervol.<br/>Je land dienen is geweldig.</p>
+      <p begin="01:18:40,842" end="01:18:43,716">Er zitten geweldige mensen bij,<br/>en dan zijn er mensen</p>
+      <p begin="01:18:43,716" end="01:18:46,740">die uiteindelijk je leven zullen ruineren.</p>
+      <p begin="01:18:49,522" end="01:18:52,218">- Onlangs nog, zag ik <br/>een meisje lopen langs de weg.</p>
+      <p begin="01:18:52,218" end="01:18:55,069">Ze leek als iemand <br/>van middelbare schoolleeftijd.</p>
+      <p begin="01:18:55,069" end="01:19:03,799">Ze droeg een USMC T-shirt, en ik dacht,<br/>als ze toetreedt,</p>
+      <p begin="01:19:03,799" end="01:19:09,812">dan zal ze verkrachting moeten aanvaarden<br/>en de vernietiging van haar leven.</p>
+      <p begin="01:19:09,812" end="01:19:12,988">Ik kan niet in goed vertrouwen,<br/>ik kan niet iemand aanbevelen</p>
+      <p begin="01:19:12,988" end="01:19:17,880">toe te treden op de manier <br/>hoe de organisatie nu opgezet is.</p>
+      <p begin="01:19:17,880" end="01:19:21,187">Ik wens dat niemand toe.</p>
+      <p begin="01:19:21,187" end="01:19:23,160">- Je kan vrouwen <br/>niet vragen toe te treden en dan zeggen,</p>
+      <p begin="01:19:23,160" end="01:19:27,232">"Oh trouwens, als je in &#233;&#233;n van deze <br/>verschrikkelijke situaties terechtkomt,</p>
+      <p begin="01:19:27,232" end="01:19:29,699">zijn we er niet om je steunen <br/>of om je te helpen.</p>
+      <p begin="01:19:29,699" end="01:19:32,686">- Wanneer ik nominaties deed <br/>voor de Luchtmacht Academie</p>
+      <p begin="01:19:32,686" end="01:19:35,683">was het moeilijk om <br/>met de ouders te praten en te zeggen,</p>
+      <p begin="01:19:35,683" end="01:19:39,441">"Maak u geen zorgen, als u haar naar hier <br/>stuurt. Ze zal niet verkracht worden."</p>
+      <p begin="01:19:39,441" end="01:19:42,083">- Nee, ik zou m'n dochter vertellen<br/>niet toe te treden in het leger.</p>
+      <p begin="01:19:42,590" end="01:19:45,995">Ze bieden goede dingen aan<br/>maar verkrachting hoort daar niet bij.</p>
+      <p begin="01:19:46,386" end="01:19:50,657">- Niet tijdens mijn leven. <br/>Ze treedt niet toe, nee.</p>
+      <p begin="01:19:50,657" end="01:19:55,080">- Ik zou doodsbang zijn als mijn dochter<br/>zou willen toetreden in het leger.</p>
+      <p begin="01:19:55,080" end="01:19:58,234">Ik zou serieus en lang met haar praten,<br/>en hopelijk zou ze --</p>
+      <p begin="01:19:58,234" end="01:20:01,633">het enige is, dat is waar ze <br/>naar zou luisteren.</p>
+      <p begin="01:20:01,633" end="01:20:05,294">- Zelfs maar &#233;&#233;n soldaat verliezen,<br/>nodeloos</p>
+      <p begin="01:20:05,294" end="01:20:08,347">omwille van militair seksueel trauma,<br/>is er &#233;&#233;n te veel.</p>
+      <p begin="01:20:09,511" end="01:20:11,120"/>
+      <p begin="01:20:12,813" end="01:20:14,651">- Ik ga de post halen.</p>
+      <p begin="01:20:14,651" end="01:20:15,537">- Ok.</p>
+      <p begin="01:20:15,537" end="01:20:17,658">- Vingers gekruist.</p>
+      <p begin="01:20:24,734" end="01:20:26,257">Hier is mijn lot.</p>
+      <p begin="01:20:34,502" end="01:20:38,948"/>
+      <p begin="01:20:47,136" end="01:20:49,592">- Wat staat er in?</p>
+      <p begin="01:20:49,592" end="01:20:50,471">- Uuuumm...</p>
+      <p begin="01:20:54,712" end="01:21:01,138">Effectief vanaf 20 oktober 2009.<br/>Mijn algeheel samengesteld cijfer is 70%.</p>
+      <p begin="01:21:03,785" end="01:21:07,986">Wacht. Angst i.v.m. dienst is afgewezen,</p>
+      <p begin="01:21:07,986" end="01:21:10,389">Schijf plaatsing i.v.m. dienst </p>
+      <p begin="01:21:10,389" end="01:21:14,478">en bilaterale schijf plaatsing <br/>is afgewezen.</p>
+      <p begin="01:21:16,671" end="01:21:20,067">Die klootzakken, man. Oh, mijn God.</p>
+      <p begin="01:21:22,103" end="01:21:23,605">- Mammie!</p>
+      <p begin="01:21:23,605" end="01:21:25,786">- Ik ben er direct, Shey.</p>
+      <p begin="01:21:26,124" end="01:21:29,949">Mijn gezicht heeft zelfs geen schijven,<br/>dat is wat de r&#246;ntgenfoto's tonen.</p>
+      <p begin="01:21:29,949" end="01:21:31,532">Dat is wat Dr. Carper&#180;s brief aantoont.</p>
+      <p begin="01:21:31,532" end="01:21:36,956">- Hoe kan je medisch weigeren om -- <br/>ik bedoel, als er rontgen foto's zijn?</p>
+      <p begin="01:21:39,830" end="01:21:41,466"/>
+      <p begin="01:21:41,466" end="01:21:42,758">- Wat?</p>
+      <p begin="01:21:42,758" end="01:21:44,127">- Wie komt er?</p>
+      <p begin="01:21:44,127" end="01:21:52,101"/>
+      <p begin="01:21:52,101" end="01:21:53,547">- Uh-huh, ik kom.</p>
+      <p begin="01:21:56,625" end="01:21:59,963">Als u niet akkoord gaat met de beslissing,<br/>moet u ons schrijven en zeggen waarom.</p>
+      <p begin="01:21:59,963" end="01:22:01,218">- Omdat je een lul bent.</p>
+      <p begin="01:22:01,218" end="01:22:03,199">- En je zou specifieke kwesties <br/>moeten identificeren.</p>
+      <p begin="01:22:03,199" end="01:22:04,719">- Je bent een idioot.</p>
+      <p begin="01:22:04,719" end="01:22:08,105">- Het bewijs dat herbekeken was,<br/>toonde aan dat je diende, whatever</p>
+      <p begin="01:22:08,105" end="01:22:09,542">wat minder dan de actieve diensteisen is</p>
+      <p begin="01:22:09,542" end="01:22:10,979">voor onbekwaamheidspensioen.</p>
+      <p begin="01:22:10,979" end="01:22:12,417">Maar het was niet jouw keuze.</p>
+      <p begin="01:22:12,417" end="01:22:14,274">- Ze gaan mij straffen<br/>voor wat zij gedaan hebben, </p>
+      <p begin="01:22:14,274" end="01:22:16,851">omdat ik twee maanden tekort kwam<br/>van de twee jaar.</p>
+      <p begin="01:22:19,973" end="01:22:22,604"/>
+      <p begin="01:22:22,604" end="01:22:25,501">Ik weet, ik denk er hetzelfde over, Shea.</p>
+      <p begin="01:22:39,431" end="01:22:41,842">- Het is leuk om <br/>u weer te zien en bedankt voor te komen.</p>
+      <p begin="01:22:41,842" end="01:22:45,553">U bent voorzien van highlights <br/>van de cijfers van het rapport</p>
+      <p begin="01:22:45,553" end="01:22:47,024">en ik zal die slides overlopen met u</p>
+      <p begin="01:22:47,024" end="01:22:50,259">dan speel ik <br/>een korte openbare dienst aankondiging af</p>
+      <p begin="01:22:50,259" end="01:22:52,567">en dan kunnen we ingaan op vragen.</p>
+      <p begin="01:22:52,567" end="01:22:54,525">Ik denk dat het preventie aspect <br/>van aanranding</p>
+      <p begin="01:22:54,525" end="01:22:56,483">in sommige gevallen teruggaat <br/>tot risicoreductie.</p>
+      <p begin="01:22:56,483" end="01:22:58,441">- Wat is risicoreductie?</p>
+      <p begin="01:22:58,441" end="01:23:00,618">- Risicoreducties zijn <br/>ideeen zoals tegen vrouwen zeggen --</p>
+      <p begin="01:23:00,618" end="01:23:04,799">als ze ergens naartoe gaan, samen,</p>
+      <p begin="01:23:04,799" end="01:23:06,895">neem altijd een buddy mee.</p>
+      <p begin="01:23:09,381" end="01:23:11,573">- Zijn er andere voorbeelden <br/>van risicoreductie?</p>
+      <p begin="01:23:11,573" end="01:23:17,402">- Dat is mij niet bekend, <br/>maar dat is niet mijn expertise.</p>
+      <p begin="01:23:17,402" end="01:23:23,377" region="top"> 1 augustus 2011, Majoor Generaal <br/>Mary Kay Hertog</p>
+      <p begin="01:23:23,377" end="01:23:25,552">vervangt Kaye Whitley als de Directeur<br/>van de Aanranding en Preventiedienst.</p>
+      <p begin="01:23:25,552" end="01:23:28,279">- Nou, ik wil<br/>verdergaan waar Dr. Whitley gestopt is.</p>
+      <p begin="01:23:28,279" end="01:23:34,397">Kijken waar onze focus ligt en <br/>dat is zowel op preventie als op reactie,</p>
+      <p begin="01:23:34,397" end="01:23:37,507">hebben we echt een goede job gedaan en <br/>het krediet daarvoor gaat naar Dr. Whitley</p>
+      <p begin="01:23:37,507" end="01:23:40,513">en haar staf die hieraan gewerkt heeft<br/>de laatste 5 tot 6 jaar.</p>
+      <p begin="01:23:40,513" end="01:23:42,367">- Ik denk dat het Departement van Defensie</p>
+      <p begin="01:23:42,367" end="01:23:46,619">nog niet echt heeft omarmd d<br/>at ze een aanrandingsprobleem hebben.</p>
+      <p begin="01:23:46,619" end="01:23:49,032">Dat het niet enkel een kwestie is <br/>van een culturele omgeving</p>
+      <p begin="01:23:49,032" end="01:23:51,596">of voor de mensen <br/>met risico op aanranding.</p>
+      <p begin="01:23:51,596" end="01:23:56,054">Nochtans het systeem zelf waardeert <br/>niet de rechten van het slachtoffer </p>
+      <p begin="01:23:56,054" end="01:23:57,654">en geeft hen niet de juiste bescherming.</p>
+      <p begin="01:23:57,654" end="01:23:59,431">- Weet je, ik heb de beschuldigingen <br/>ook gehoord,</p>
+      <p begin="01:23:59,431" end="01:24:02,512">dat bevelhebbers dit <br/>onder het tapijt vegen.</p>
+      <p begin="01:24:02,512" end="01:24:05,731">Nu, wat ik zou zeggen tegen de mensen <br/>die naar je toe zijn gekomen, is,</p>
+      <p begin="01:24:05,731" end="01:24:10,360">als je voelt dat je commandant negeert <br/>wat je hen gevraagd hebt te doen,</p>
+      <p begin="01:24:10,360" end="01:24:12,954">als ze niet voor je zorgen<br/>binnen die commandostructuur,</p>
+      <p begin="01:24:12,954" end="01:24:14,484">moet je naar het DvD gaan,</p>
+      <p begin="01:24:14,484" end="01:24:16,755">het Departement van Defensie<br/>Inspecteur Generaal.</p>
+      <p begin="01:24:16,755" end="01:24:18,843">De GAO, General Accounting Office,</p>
+      <p begin="01:24:18,843" end="01:24:28,333">heeft juist een studie gedaan, een rapport<br/>en weet je wat -- niet &#233;&#233;n, niet &#233;&#233;n zaak,</p>
+      <p begin="01:24:28,333" end="01:24:31,937">van de meer dan 2500, werd beoordeeld</p>
+      <p begin="01:24:31,937" end="01:24:34,022">en onderzocht door de Inspecteur Generaal,</p>
+      <p begin="01:24:34,022" end="01:24:37,798">en ernaar gevraagd, <br/>zei de Inspecteur Generaal, </p>
+      <p begin="01:24:37,798" end="01:24:40,506">"Nou, we hebben andere <br/>hogere prioriteiten."</p>
+      <p begin="01:24:40,506" end="01:24:44,142">- Wat je echt wilt, <br/>is dat er een systeem is verwant</p>
+      <p begin="01:24:44,142" end="01:24:47,618">aan een burgerlijk systeem<br/>waar je naar de politie gaat</p>
+      <p begin="01:24:47,618" end="01:24:52,920">en de misdaad wordt beoordeeld <br/>door een onpartijdig rechtssysteem.</p>
+      <p begin="01:24:52,920" end="01:24:54,684">- Als bevelhebber heb je geen favorieten.</p>
+      <p begin="01:24:54,684" end="01:24:56,778">Je moet evenredig zorg dragen <br/>voor elke persoon </p>
+      <p begin="01:24:56,778" end="01:24:59,600">in je organisatie. <br/>Dat is waar commandant zijn om draait.</p>
+      <p begin="01:24:59,600" end="01:25:02,109">- Dit zijn mensen zoals iedereen.</p>
+      <p begin="01:25:02,109" end="01:25:05,813">Je kan niet onpartijdig zijn <br/>als je al betrokken bent</p>
+      <p begin="01:25:05,813" end="01:25:07,787">met mensen in een andere omgeving. </p>
+      <p begin="01:25:07,787" end="01:25:10,246">- Ik zou een uitzondering maken<br/>met je karakterisatie</p>
+      <p begin="01:25:10,246" end="01:25:14,762">dat de regeling van de zaak <br/>gebaseerd is op de relatie</p>
+      <p begin="01:25:14,762" end="01:25:18,803">tussen de commandant en <br/>de vermeende dader.</p>
+      <p begin="01:25:18,988" end="01:25:23,494" region="top"> 33% van de vrouwelijke soldaten <br/>hebben hun verkrachting niet gemeld</p>
+      <p begin="01:25:23,494" end="01:25:26,096" region="top"> omdat de persoon die ingelicht moest <br/>worden een vriend was van de verkrachter.</p>
+      <p begin="01:25:26,096" end="01:25:28,367">- Ik ga met je praten met <br/>mijn voormalige commandant&#180;s pet op.</p>
+      <p begin="01:25:28,367" end="01:25:30,321">Er is absoluut geen belangenconflict.</p>
+      <p begin="01:25:30,321" end="01:25:31,967">Je doet wat het juiste is om te doen.</p>
+      <p begin="01:25:31,967" end="01:25:36,673" region="top"> 25% van de vrouwelijke soldaten <br/>hebben hun verkrachting niet gemeld</p>
+      <p begin="01:25:36,673" end="01:25:40,570" region="top"> omdat de persoon die ingelicht moet <br/>worden de verkrachter zelf is.</p>
+      <p begin="01:25:40,570" end="01:25:43,853">Je hebt andere wegen, en als je voelt</p>
+      <p begin="01:25:43,853" end="01:25:45,591">dat je niet adequaat verzorgd bent geweest</p>
+      <p begin="01:25:45,591" end="01:25:47,816">door je bevelhebber,<br/>stap dan naar je congresman,</p>
+      <p begin="01:25:47,816" end="01:25:50,437">of congresvrouw, dien een klacht in<br/>via die weg.</p>
+      <p begin="01:25:50,437" end="01:25:55,990">- Je kan niet naar je congreslid gaan om <br/>gerechtigheid te krijgen voor verkrachting</p>
+      <p begin="01:25:55,990" end="01:25:59,219">Ik bedoel, bedenk eens hoe gek dat is,<br/>beeld je eens in dat je tegen burgers zegt</p>
+      <p begin="01:25:59,219" end="01:26:02,177">"Oh, sorry dat je verkracht bent,<br/>ga maar praten met je congreslid."</p>
+      <p begin="01:26:02,177" end="01:26:05,297" region="top"> Veel van onze dichtstbijzijnde <br/>NATO bondgenoten staan niet langer toe</p>
+      <p begin="01:26:05,297" end="01:26:09,921" region="top"> aan commandanten om de vervolging <br/>te bepalen van aanrandingsgevallen. </p>
+      <p begin="01:26:09,921" end="01:26:12,471">- Als je iets zou kunnen zeggen <br/>tegen deze kerel,</p>
+      <p begin="01:26:12,471" end="01:26:15,506">wat zou je dan tegen hem zeggen?</p>
+      <p begin="01:26:15,506" end="01:26:26,689">- Ik weet niet. Ik denk niet <br/>dat het zijn leven heeft be&#239;nvloed.</p>
+      <p begin="01:26:26,689" end="01:26:29,808">En mensen van mijn oud eskadron <br/>waar ik mee gepraat heb</p>
+      <p begin="01:26:30,826" end="01:26:36,468">zien niks van het effect dat dit had <br/>op hem, en dat doet pijn,</p>
+      <p begin="01:26:36,468" end="01:26:41,473">omdat het elke dag een strijd is,<br/>en totaal veranderd heeft wie ik ben.</p>
+      <p begin="01:26:41,473" end="01:26:43,311"/>
+      <p begin="01:26:44,215" end="01:26:47,441">- Ik hoop echt dat hij van de Kustwacht-<br/>boot valt en dat ze hem nooit vinden.</p>
+      <p begin="01:26:47,441" end="01:26:49,090">Ik hoop daar echt op.</p>
+      <p begin="01:26:49,090" end="01:26:54,190">Of er is een ongeluk en hij wordt<br/>in stukjes gehakt door de propeller.</p>
+      <p begin="01:26:54,190" end="01:26:55,002">- Dat zou geweldig zijn.</p>
+      <p begin="01:26:55,002" end="01:26:56,505">- Dat zou geweldig zijn.</p>
+      <p begin="01:26:56,505" end="01:26:58,193">- Dat zou een spannende dag zijn.</p>
+      <p begin="01:26:58,193" end="01:26:59,909">- Dat zou het zijn. <br/>Ik zou waarschijnlijk vieren.</p>
+      <p begin="01:26:59,909" end="01:27:01,235">- Niet? <br/>- Ja.</p>
+      <p begin="01:27:01,235" end="01:27:04,419">- Ik hoop dat dit hun ook bereikt, <br/>weet je.</p>
+      <p begin="01:27:04,419" end="01:27:08,178">Ik hoop dat er ergens, <br/>iemand mijn gezicht ziet,</p>
+      <p begin="01:27:08,861" end="01:27:12,928">weet je wel, waar het ook is, <br/>en zo gaat van,</p>
+      <p begin="01:27:12,928" end="01:27:16,660">"Ik ken hen en ze hebben het over mij,"</p>
+      <p begin="01:27:16,660" end="01:27:19,786">omdat ze weten wat ze gedaan hebben, <br/>weet je wel.</p>
+      <p begin="01:27:19,786" end="01:27:24,233">En dan moeten ze alleen maar mompelen <br/>tegen een vriend die zegt,</p>
+      <p begin="01:27:24,233" end="01:27:26,694">"H&#233;, waren wij niet <br/>gestationeerd met haar?"</p>
+      <p begin="01:27:27,233" end="01:27:31,255">Weet je wel, en dan kunnen ze <br/>geen geheim meer zijn.</p>
+      <p begin="01:27:31,255" end="01:27:34,217">Dus hopelijk moeten ze er ook mee omgaan, <br/>weet je,</p>
+      <p begin="01:27:34,217" end="01:27:36,969">op &#233;&#233;n of andere manier.</p>
+      <p begin="01:27:37,753" end="01:27:42,054">- Meeste verkrachters zijn <br/>herhalende misdadigers.</p>
+      <p begin="01:27:42,054" end="01:27:46,804">Het is een misdaad die <br/>een obsessieve kwaliteit heeft</p>
+      <p begin="01:27:46,804" end="01:27:48,612">dus mensen doen het opnieuw en opnieuw.</p>
+      <p begin="01:27:48,612" end="01:27:51,283">De tragedie van dat is<br/>dat elk van die kerels</p>
+      <p begin="01:27:51,283" end="01:27:55,316">die vrijkomt, het opnieuw zal doen <br/>met andere vrouwen, opnieuw en opnieuw,</p>
+      <p begin="01:27:55,316" end="01:27:57,445">dikwijls voor jaren en jaren.</p>
+      <p begin="01:27:57,445" end="01:28:01,516">- De gemiddelde zedendelinquent maakt <br/>rond de 300 slachtoffers in zijn leven,</p>
+      <p begin="01:28:01,516" end="01:28:04,669">en de vaste meerderheid van deze daders<br/>wordt nooit opgepakt.</p>
+      <p begin="01:28:04,669" end="01:28:09,749">- Veel burgers zien het als een militair <br/>probleem, maar dat is het echt niet.</p>
+      <p begin="01:28:09,749" end="01:28:16,394">Omdat 5% of minder van <br/>de gemelde overtreders veroordeeld wordt,</p>
+      <p begin="01:28:16,394" end="01:28:20,716">beland geen van hen op de lijst van <br/>zedendelinquenten.</p>
+      <p begin="01:28:20,716" end="01:28:23,123">- Er is geen militaire lijst van zeden-<br/>delinquenten waar ik van op de hoogte ben,</p>
+      <p begin="01:28:23,123" end="01:28:26,763">als je veroordeeld wordt in het gerecht,<br/>een veroordeling voor een zedendelict</p>
+      <p begin="01:28:26,763" end="01:28:30,052">dan kom je op de nationale lijst.</p>
+      <p begin="01:28:30,052" end="01:28:31,704">- Voor elk zedendelict <br/>wat dan ook?</p>
+      <p begin="01:28:31,704" end="01:28:32,801">- Dat is juist.</p>
+      <p begin="01:28:32,801" end="01:28:37,144">- Dat is niet zo. Het hangt af van welk <br/>soort veroordeling ze gekregen hebben.</p>
+      <p begin="01:28:37,144" end="01:28:40,455">- Als ze meer dan een jaar krijgen,<br/>wordt het beschouwd als een zware misdaad.</p>
+      <p begin="01:28:40,455" end="01:28:42,259">Veel van deze zaken worden lager bepleit, </p>
+      <p begin="01:28:42,259" end="01:28:44,063">zodat het geen zware misdaden zijn.</p>
+      <p begin="01:28:44,063" end="01:28:45,867">Het leger veroordeelt niet graag mensen</p>
+      <p begin="01:28:45,867" end="01:28:49,657">en hen dan te houden als zware misdaden.</p>
+      <p begin="01:28:53,382" end="01:28:57,054">- Ik vraag me dikwijls af,<br/>"Waarom zouden ze stoppen?"</p>
+      <p begin="01:28:57,054" end="01:28:59,807">En als er niks is dat hen stopt,<br/>zoals opsluiting,</p>
+      <p begin="01:28:59,807" end="01:29:03,477">of een ander mega levensverandering,<br/>gaan ze gewoon voortdoen.</p>
+      <p begin="01:29:04,981" end="01:29:07,164">- Als je <br/>een seksueel roofdier</p>
+      <p begin="01:29:07,164" end="01:29:09,962">door het rechtssysteem stuurt en <br/>hem dan op de vingers tikt</p>
+      <p begin="01:29:09,962" end="01:29:13,188">alles wat je gedaan hebt, is het equi-<br/>valent van het catch en release programma.</p>
+      <p begin="01:29:13,759" end="01:29:15,482">Je hebt hen opgepakt, je hebt hen opgevoed</p>
+      <p begin="01:29:15,482" end="01:29:18,526">en je hebt hen losgelaten <br/>in thuisstad Amerika.</p>
+      <p begin="01:29:18,526" end="01:29:22,383">Hij weet veel meer van de wetshandhaving</p>
+      <p begin="01:29:22,383" end="01:29:25,376">van het rechtssysteem, <br/>dan hij deed toen hij net begon</p>
+      <p begin="01:29:25,376" end="01:29:27,750">wat hem tot een meer <br/>capabele crimineel maakt</p>
+      <p begin="01:29:27,750" end="01:29:29,731">en een veel gevaarlijkere crimineel.</p>
+      <p begin="01:29:29,731" end="01:29:32,898">- Hij gaat letterlijk jagen <br/>op vrouwen en mannen</p>
+      <p begin="01:29:32,898" end="01:29:36,219">in onze buurt door de V.S.</p>
+      <p begin="01:29:36,219" end="01:29:39,028">Als we niet zorgen <br/>voor de vrouwen en mannen in het leger,</p>
+      <p begin="01:29:39,028" end="01:29:40,541">zullen we hopelijk wel zorgen</p>
+      <p begin="01:29:40,541" end="01:29:45,654">voor de vrouwen en mannen, meisjes <br/>en jongens in onze buurt terug thuis.</p>
+      <p begin="01:29:45,654" end="01:29:55,352" region="top"> In december 2011 verwierp de Raad <br/>de overlevenden rechtszaak </p>
+      <p begin="01:29:55,352" end="01:30:01,513" region="top"> gesteld dat verkrachting een beroeps- <br/>risico is van de militaire dienst.</p>
+      <p begin="01:30:01,513" end="01:30:04,586" region="top"> Een beroep is ingediend.</p>
+      <p begin="01:30:16,229" end="01:30:17,519"/>
+      <p begin="01:30:17,519" end="01:30:19,184">- Daar ga je.</p>
+      <p begin="01:30:19,975" end="01:30:21,331">- Het gene <br/>dat mijn hart brak</p>
+      <p begin="01:30:21,331" end="01:30:24,020">meer dan alles in dit verhaal</p>
+      <p begin="01:30:24,020" end="01:30:28,660">waren de jonge vrouwen <br/>die met zulk idealisme gingen,</p>
+      <p begin="01:30:28,660" end="01:30:32,138">Ik wil mijn land dienen<br/>ik wil iets teruggeven.</p>
+      <p begin="01:30:32,138" end="01:30:37,921">Om een jong iemand zijn hoop en idealisme<br/>zien vernield worden op zo'n brute manier,</p>
+      <p begin="01:30:37,921" end="01:30:40,907">Ik denk dat we onze jonge mensen <br/>meer verschuldigd zijn dan dat.</p>
+      <p begin="01:30:42,793" end="01:30:44,564">- Stijgend, zijn vrouwen</p>
+      <p begin="01:30:44,564" end="01:30:48,061">enkele van de best getrainde professionals<br/>aan het worden in het leger.</p>
+      <p begin="01:30:48,061" end="01:30:50,554">Het zijn goede soldaten en we kunnen<br/>ons niet veroorloven ze kwijt te raken.</p>
+      <p begin="01:30:51,798" end="01:30:54,330">- Ja, ik ben blij dat ik dat<br/>nooit meer hoef te dragen.</p>
+      <p begin="01:30:54,330" end="01:30:58,724">- Mensen geloven diep in hun hart <br/>om hun land te dienen.</p>
+      <p begin="01:30:58,724" end="01:31:00,753">Ze zouden die kans moeten krijgen, <br/>met respect.</p>
+      <p begin="01:31:01,244" end="01:31:03,091"/>
+      <p begin="01:31:03,091" end="01:31:07,119">Weet je, het maakt deel uit <br/>van onze Amerikaanse manier.</p>
+      <p begin="01:31:07,119" end="01:31:08,545">- Vind je dat we <br/>een paars hart verdienen </p>
+      <p begin="01:31:08,545" end="01:31:11,270">omdat we gewond waren <br/>in een tijd van oorlog?</p>
+      <p begin="01:31:11,270" end="01:31:12,635">- Ze gaan er ons nooit &#233;&#233;n geven.</p>
+      <p begin="01:31:12,635" end="01:31:14,316">- Weet ik, ik zeg alleen maar <br/>dat er misschien een lint zou moeten zijn</p>
+      <p begin="01:31:14,316" end="01:31:16,076">voor vrouwen die --</p>
+      <p begin="01:31:16,076" end="01:31:17,418">- hun land gediend hebben --</p>
+      <p begin="01:31:17,418" end="01:31:19,218">- die het overleefd hebben, weet je wel.</p>
+      <p begin="01:31:19,218" end="01:31:20,710">- overleefd hebben.</p>
+      <p begin="01:31:20,710" end="01:31:24,246">- We hebben een goed leger, <br/>maar geen geweldig leger</p>
+      <p begin="01:31:24,246" end="01:31:30,552">en dit is een soort kwestie die het leger <br/>ervan weerhoudt om geweldig te zijn.</p>
+      <p begin="01:31:33,552" end="01:31:39,071">- We kunnen dit zien <br/>als een gedeelde uitdaging.</p>
+      <p begin="01:31:39,071" end="01:31:41,372">Het is niet enkel een vrouwenkwestie,<br/>het is niet iets</p>
+      <p begin="01:31:41,372" end="01:31:44,625">dat het leger moet mee omgaan,<br/>maar als een maatschappij,</p>
+      <p begin="01:31:44,625" end="01:31:47,769">zitten we er allemaal samen in.</p>
+      <p begin="01:31:49,401" end="01:31:51,210"/>
+      <p begin="01:31:57,480" end="01:31:59,812">Het is onze nationale plicht.</p>
+      <p begin="01:32:11,781" end="01:32:14,178" region="top"> Vijf jaar na haar aanval, probeert <br/>Kori nog altijd dekking te krijgen</p>
+      <p begin="01:32:14,178" end="01:32:19,098" region="top"> voor haar kaakchirurgie <br/>van de Veteranen Administratie.</p>
+      <p begin="01:32:19,098" end="01:32:25,660" region="top"> Haar belager zit nog steeds in de Kust <br/>wacht en woont in Charleston,Zuid Carolina</p>
+      <p begin="01:32:25,660" end="01:32:30,160" region="top"> Ariana volgt een Master opleiding in <br/>sociaal werk om overlevenden te helpen</p>
+      <p begin="01:32:30,160" end="01:32:32,567" region="top"> van militair seksueel misbruik. <br/>Haar aanvaller werd gedagvaard</p>
+      <p begin="01:32:32,567" end="01:32:38,372" region="top"> en schuldig bevonden aan overspel<br/>en onbeschofte taal.</p>
+      <p begin="01:32:38,372" end="01:32:45,336" region="top"> Elle werkt voor een bedrijf <br/>en woont in Zuid Carolina.</p>
+      <p begin="01:32:45,336" end="01:32:52,347" region="top"> Haar aanvaller is onlangs benoemd <br/>tot luitenant kolonel.</p>
+      <p begin="01:32:52,347" end="01:32:56,966" region="top"> Michael en zijn vrouw helpen mee <br/>bewustzijn te promoten</p>
+      <p begin="01:32:56,966" end="01:33:00,295" region="top"> van mannelijke militaire aanranding.</p>
+      <p begin="01:33:00,295" end="01:33:03,192" region="top"> Hij weet de identiteit <br/>van zijn aanvallers niet</p>
+      <p begin="01:33:03,192" end="01:33:06,089" region="top"> of waar ze vandaag zijn.</p>
+      <p begin="01:33:06,089" end="01:33:12,433" region="top"> Jessica en haar man en baby zoontje <br/>en voeden hem op in Virginia</p>
+      <p begin="01:33:12,433" end="01:33:15,324" region="top"> Haar aanvaller is nog in de luchtmacht <br/>en werd 'Vliegenier van het jaar'.</p>
+      <p begin="01:33:15,324" end="01:33:19,722" region="top"> tijdens haar verkrachtingsonderzoek.</p>
+      <p begin="01:33:19,722" end="01:33:22,570" region="top"> Hannah&#180;s vader, Jerry, <br/>keert terug van Irak</p>
+      <p begin="01:33:22,570" end="01:33:26,197" region="top"> na een jaar lange dienst. Haar belager<br/>is nog steeds in de Marine </p>
+      <p begin="01:33:26,197" end="01:33:30,922" region="top"> en drie uur van haar huis <br/>gestationeerd in Kentucky.</p>
+      <p begin="01:33:30,922" end="01:33:34,841" region="top"> Myla's aanvaller werd een toezichter<br/>bij een mega V.S. bedrijf.</p>
+      <p begin="01:33:34,841" end="01:33:38,331" region="top"> en randde <br/>een vrouwelijke werknemer aan.</p>
+      <p begin="01:33:38,331" end="01:33:44,673" region="top"> Hij is nooit veroordeeld <br/>en woont nu in Queens, New York.</p>
+      <p begin="01:33:49,472" end="01:33:51,800" region="top"> 7 mei 2013 </p>
+      <p begin="01:33:52,777" end="01:33:59,496" region="top"> Het Departement van Defensie heeft zijn<br/>jaarlijks aanrandingsrapport verkondigt.</p>
+      <p begin="01:33:59,496" end="01:34:07,589" region="top"> in 2012, zijn 26 000 vrouwen en<br/>mannen aangerand in het leger van de V.S.</p>
+      <p begin="01:34:07,589" end="01:34:12,679" region="top"> 35% stijging tegenover 2011</p>
+      <p begin="01:34:14,519" end="01:34:17,502" region="top"> Ga naar NotInvisible.org</p>
+      <p begin="01:34:17,502" end="01:34:24,416" region="top"> om te eisen van Washington om meer <br/>te doen om deze epidemie te stoppen.</p>
+      <p begin="01:34:24,459" end="01:34:27,836" region="top"> Doe mee aan de conversatie NotInvisible</p>
+      <p begin="01:34:31,213" end="01:34:34,592" region="top"> Wordt lid van de campagne om <br/>diegene te beschermen die ons beschermen.</p>
+      <p begin="01:34:34,592" end="01:34:41,805" region="top"> Laat hen weten <br/>dat ze niet onzichtbaar zijn.</p>
+      <p begin="01:34:41,805" end="01:34:46,247" region="top"> onzichtbaar.</p>
+      <p begin="01:34:46,366" end="01:34:50,366"/>
+    </div>
+  </body>
+
+</tt>
