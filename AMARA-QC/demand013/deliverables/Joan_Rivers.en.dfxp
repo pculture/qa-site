@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <tt xmlns="http://www.w3.org/ns/ttml" 
+        xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+        xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+        xml:lang="">
+
+    <head>
+        <styling>
+            <style textStyle="italic" xml:id="emphasis"/>
+            <style fontWeight="bold" xml:id="strong"/>
+            <style textDecoration="underline" xml:id="underlined"/>
+        </styling>
+        <layout>
+            <region xml:id="top" 
+                    tts:backgroundColor="transparent" 
+                    tts:showBackground="whenActive"
+                    tts:extent="100% 100%"
+                    tts:origin="0% 0%"
+                    tts:textAlign='center'/> 
+        </layout>
+    </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:34.915" end="00:00:56.593">&#9834; [music] &#9834;</p>
+      <p begin="00:00:56.593" end="00:00:58.325">We welcome, Ms. Joan Rivers!</p>
+      <p begin="00:00:58.325" end="00:00:59.375">[applause]</p>
+      <p begin="00:00:59.375" end="00:01:01.216">You know, you're going to be<br/>a big star.</p>
+      <p begin="00:01:01.216" end="00:01:05.456">Here's my dappy, little friend,<br/>Joan Rivers!</p>
+      <p begin="00:01:05.456" end="00:01:06.871">[screaming]</p>
+      <p begin="00:01:06.871" end="00:01:07.941">[applause]</p>
+      <p begin="00:01:07.941" end="00:01:10.163">[announcer] Joan Rivers,<br/>the groundbreaking female comedian</p>
+      <p begin="00:01:10.163" end="00:01:13.096">paves the way for women everywhere.</p>
+      <p begin="00:01:13.096" end="00:01:15.672">[Joan Rivers] You know, I know who is gay<br/>and who's not gay--can we talk to you?</p>
+      <p begin="00:01:15.672" end="00:01:21.328">[applause]</p>
+      <p begin="00:01:21.328" end="00:01:22.718">[male presenter] The Grammy goes to...</p>
+      <p begin="00:01:22.718" end="00:01:23.781">[female presenter] Joan Rivers!</p>
+      <p begin="00:01:23.781" end="00:01:26.243">[applause]</p>
+      <p begin="00:01:26.243" end="00:01:31.574">[announcer] Here's Joan Rivers!</p>
+      <p begin="00:01:35.353" end="00:01:38.231">Please don't, I'm very, very late.</p>
+      <p begin="00:01:38.231" end="00:01:57.229">&#9834; [music] &#9834;</p>
+      <p begin="00:01:57.229" end="00:01:59.854">[announcer] I hope you had a few drinks<br/>'cause you're gonna need them.</p>
+      <p begin="00:01:59.854" end="00:02:03.076">Will you welcome please,Ms. Joan Rivers!</p>
+      <p begin="00:02:03.076" end="00:02:06.898">[applause]</p>
+      <p begin="00:02:06.898" end="00:02:11.268">This is my career.<br/>I mean, how depressing is this?</p>
+      <p begin="00:02:11.268" end="00:02:12.564">[laughter]</p>
+      <p begin="00:02:12.564" end="00:02:15.737">Forty years in the fucking business<br/>and this is where you end up.</p>
+      <p begin="00:02:15.737" end="00:02:17.146">[audience laughter]</p>
+      <p begin="00:02:17.146" end="00:02:19.065">Just to show you...</p>
+      <p begin="00:02:19.065" end="00:02:25.308">[audience laughter]</p>
+      <p begin="00:02:25.308" end="00:02:27.546">My daughter and I are very close,<br/>very, very close.</p>
+      <p begin="00:02:27.546" end="00:02:29.812">But I brought her up all wrong.</p>
+      <p begin="00:02:29.812" end="00:02:31.322">I brought her up to have morals.</p>
+      <p begin="00:02:31.322" end="00:02:33.498">She turned down doing<br/>Playboy magazine cover,</p>
+      <p begin="00:02:33.498" end="00:02:34.490">how about that?</p>
+      <p begin="00:02:34.490" end="00:02:36.590">Four hundred thousand dollars,<br/>naked to the waist.</p>
+      <p begin="00:02:36.590" end="00:02:39.867">Turned it fuckin' down<br/>and calls me up for approval.</p>
+      <p begin="00:02:39.929" end="00:02:41.761">For approval!</p>
+      <p begin="00:02:41.761" end="00:02:44.730">"Mother, I turned down Playboy.<br/>What do you think?"</p>
+      <p begin="00:02:44.730" end="00:02:46.242">And you know--what do I think?</p>
+      <p begin="00:02:46.242" end="00:02:48.495">I'm very proud of you, Melissa.</p>
+      <p begin="00:02:48.495" end="00:02:50.075">What do I think?</p>
+      <p begin="00:02:50.075" end="00:02:52.088">What do I think,<br/>you stupid, fucking cunt!</p>
+      <p begin="00:02:52.088" end="00:02:53.360">What do I think?</p>
+      <p begin="00:02:53.360" end="00:02:54.360">[audience laughter]</p>
+      <p begin="00:02:54.360" end="00:02:56.535">I think you should ask 200,000 more<br/>and show your pussy! That's what I think!</p>
+      <p begin="00:02:56.535" end="00:02:59.539">[audience applause and laughter]</p>
+      <p begin="00:02:59.539" end="00:03:02.175">I'm a 75 year-old woman up here<br/>playing dumps in Queens!</p>
+      <p begin="00:03:02.175" end="00:03:04.294">What do I think?</p>
+      <p begin="00:03:04.294" end="00:03:05.293">[audience laughter]</p>
+      <p begin="00:03:05.293" end="00:03:07.502">I'm on a fucking red carpet<br/>in the hot sun</p>
+      <p begin="00:03:07.502" end="00:03:10.918">talking to these assholes,<br/>"Where are you from?"</p>
+      <p begin="00:03:10.918" end="00:03:13.064">"Got a lucky charm."</p>
+      <p begin="00:03:13.064" end="00:03:14.670">"Who the fuck are you?"</p>
+      <p begin="00:03:14.670" end="00:03:18.284">[audience applause and laughter]</p>
+      <p begin="00:03:18.284" end="00:03:32.100">&#9834; [music] &#9834;</p>
+      <p begin="00:03:32.233" end="00:03:36.332">[Joan] Not good. This is not good.</p>
+      <p begin="00:03:36.332" end="00:03:39.551">We have no Vegas, no giant club dates.</p>
+      <p begin="00:03:39.551" end="00:03:42.193">Kathy Griffin's taken all those away.</p>
+      <p begin="00:03:42.193" end="00:03:45.943">I have the play, which is<br/>not going to give me any money.</p>
+      <p begin="00:03:45.943" end="00:03:48.484">Can we get club dates?<br/>Can't Billy get club dates?</p>
+      <p begin="00:03:48.484" end="00:03:50.056">And this is not a full book.</p>
+      <p begin="00:03:50.056" end="00:03:51.341">Like a little date here and there.</p>
+      <p begin="00:03:51.341" end="00:03:52.642">Yeah.<br/>- Sure.</p>
+      <p begin="00:03:53.022" end="00:03:54.304">[Joan] These were the good years.</p>
+      <p begin="00:03:54.304" end="00:03:55.572">[Personal assistant] These were<br/>the good years.</p>
+      <p begin="00:03:55.572" end="00:03:57.667">See this is the kind of a book I like.</p>
+      <p begin="00:03:57.667" end="00:04:00.600">Now that's a good page.<br/>You know what I mean?</p>
+      <p begin="00:04:00.600" end="00:04:02.177">These are good pages.</p>
+      <p begin="00:04:02.177" end="00:04:05.643">Ten o'clock, eleven o'clock.<br/>Twelve thirty, this and that.</p>
+      <p begin="00:04:05.643" end="00:04:08.451">That's happiness.</p>
+      <p begin="00:04:08.451" end="00:04:12.319">Last year was a very difficult year.</p>
+      <p begin="00:04:12.319" end="00:04:16.963">I was playing, here we go,<br/>the Bronx at 4:30 in the afternoon.</p>
+      <p begin="00:04:19.042" end="00:04:23.005">That was a real good one.</p>
+      <p begin="00:04:23.005" end="00:04:24.969">I'll show you fear.</p>
+      <p begin="00:04:26.363" end="00:04:28.267">That's fear.</p>
+      <p begin="00:04:28.870" end="00:04:32.931">If my book ever looked like this,<br/>it would mean that nobody wants me,</p>
+      <p begin="00:04:32.931" end="00:04:37.027">That everything I ever tried to do<br/>in life didn't work.</p>
+      <p begin="00:04:37.027" end="00:04:41.860">Nobody cared and I've been<br/>totally forgotten.</p>
+      <p begin="00:04:41.860" end="00:04:44.895">When you say, "Joan, get out your<br/>calendar," she says, "Hold on on</p>
+      <p begin="00:04:44.895" end="00:04:49.233">let me put my sunglasses on<br/>because the white of the page</p>
+      <p begin="00:04:49.233" end="00:04:51.303">hurts my eyes."</p>
+      <p begin="00:04:51.303" end="00:04:54.248">So, that's a joke.<br/>So we used to laugh about that.</p>
+      <p begin="00:04:54.248" end="00:04:56.123">"Hold on, let me get my sunglasses."</p>
+      <p begin="00:04:56.123" end="00:04:57.636">"Okay, what day?"</p>
+      <p begin="00:04:58.415" end="00:04:59.661">You look handsome.</p>
+      <p begin="00:04:59.661" end="00:05:00.668">Yeah, right.</p>
+      <p begin="00:05:00.668" end="00:05:02.021">Billy looks good and he can't<br/>stand it.</p>
+      <p begin="00:05:02.021" end="00:05:03.020">I can't.</p>
+      <p begin="00:05:03.020" end="00:05:04.019">[female] Why not?</p>
+      <p begin="00:05:04.019" end="00:05:05.215">My career is in the toilet</p>
+      <p begin="00:05:05.215" end="00:05:07.328">That's me.<br/>[laughs]</p>
+      <p begin="00:05:07.328" end="00:05:09.641">My career is in the toilet<br/>nothing is going right,</p>
+      <p begin="00:05:09.641" end="00:05:10.960">That's right<br/>- Nothing.</p>
+      <p begin="00:05:10.960" end="00:05:11.959">[female] Why?</p>
+      <p begin="00:05:11.959" end="00:05:14.134">I don't know it's like, ya know?</p>
+      <p begin="00:05:14.134" end="00:05:15.232">[Joan] That's what I always tell them.</p>
+      <p begin="00:05:15.232" end="00:05:17.225">That still gets me.</p>
+      <p begin="00:05:17.225" end="00:05:21.974">[Joan] Billy Sammeth is a big part<br/>of my life, a huge part of my life.</p>
+      <p begin="00:05:21.974" end="00:05:24.609">He knows my history, you know<br/>there are so few people</p>
+      <p begin="00:05:24.609" end="00:05:28.037">that you can say, do you<br/>remember Bernie Brillstein</p>
+      <p begin="00:05:28.037" end="00:05:30.552">and we both laugh and laugh.</p>
+      <p begin="00:05:30.552" end="00:05:35.793">[Billy Sammeth]<br/>Joan is a chronic workaholic.</p>
+      <p begin="00:05:35.793" end="00:05:40.059">One job a day is not enough<br/>it's almost like an addict.</p>
+      <p begin="00:05:40.059" end="00:05:41.472">Sadly, but she's a work addict</p>
+      <p begin="00:05:41.472" end="00:05:44.144">so it's not enough, no matter<br/>how much you give her</p>
+      <p begin="00:05:44.144" end="00:05:46.942">it doesn't fill up that need to<br/>be working.</p>
+      <p begin="00:05:46.942" end="00:05:49.619">Now this is Jocelyn Pickett,<br/>this is my assistant</p>
+      <p begin="00:05:49.619" end="00:05:52.956">who is now going to show you busy I am.</p>
+      <p begin="00:05:52.956" end="00:05:53.991">Anybody call?</p>
+      <p begin="00:05:53.991" end="00:05:55.452">[together] No.</p>
+      <p begin="00:05:55.452" end="00:05:58.008">[Larry Thompson] It's not about<br/>whether the talent is good,</p>
+      <p begin="00:05:58.008" end="00:05:59.835">it's about whether they're hot.</p>
+      <p begin="00:05:59.835" end="00:06:06.133">There are times in people's careers<br/>that you just can't get it going.</p>
+      <p begin="00:06:06.133" end="00:06:11.079">Careers do that, you're hot, you're not,<br/>you're in a slump, you're not.</p>
+      <p begin="00:06:11.079" end="00:06:16.158">Nothing is happening right now,<br/>so she needs some heat.</p>
+      <p begin="00:06:16.158" end="00:06:17.935">[female] Steve LaVean's office.</p>
+      <p begin="00:06:17.935" end="00:06:18.934">Jennifer Mowen?</p>
+      <p begin="00:06:18.934" end="00:06:19.933">Hi, Billy Sabbath.</p>
+      <p begin="00:06:19.933" end="00:06:20.962">And Joan Rivers.</p>
+      <p begin="00:06:20.962" end="00:06:22.370">Hi, Joan Rivers, hold on just a moment.</p>
+      <p begin="00:06:22.370" end="00:06:23.369">Hello.</p>
+      <p begin="00:06:23.369" end="00:06:25.443" region="top"> I'd get through faster<br/>if I was Kathy Griffin.</p>
+      <p begin="00:06:25.443" end="00:06:27.042">[male voice] Hello.</p>
+      <p begin="00:06:27.042" end="00:06:28.041">Hi.</p>
+      <p begin="00:06:28.041" end="00:06:30.936">[Billy] I see her about Harrah's,<br/>which is May 18th,</p>
+      <p begin="00:06:30.936" end="00:06:33.536">which is the weekend before Memorial Day.</p>
+      <p begin="00:06:33.536" end="00:06:36.950">I just think it's wrong. It's not<br/>vacation, the kids are still in school.</p>
+      <p begin="00:06:36.950" end="00:06:42.101">I want a letter from them saying, we<br/>acknowledge the worst weekend,</p>
+      <p begin="00:06:42.101" end="00:06:44.151">one of the worst weekends of the year.</p>
+      <p begin="00:06:44.151" end="00:06:45.150">[male voice] Okay.</p>
+      <p begin="00:06:45.150" end="00:06:46.907">[Joan] And I really don't need<br/>at this age, where I'm a comedy icon,</p>
+      <p begin="00:06:46.907" end="00:06:52.297">I don't need to walk into a room<br/>and have it half full</p>
+      <p begin="00:06:52.297" end="00:06:56.011">and then have the Harrah's people go<br/>cluck, cluck, cluck.</p>
+      <p begin="00:06:56.011" end="00:06:58.947">[Billy] Right now they see her<br/>as a plastic surgery freak,</p>
+      <p begin="00:06:58.947" end="00:07:05.907">who's past due her, you know,<br/>her, "Sell by date," was finished.</p>
+      <p begin="00:07:05.907" end="00:07:09.902">But God help the next Queen of Comedy<br/>because this one is not abdicating.</p>
+      <p begin="00:07:09.902" end="00:07:11.158">Never will.</p>
+      <p begin="00:07:11.158" end="00:07:16.733">There'll be nail marks on that red carpet<br/>before she abdicates.</p>
+      <p begin="00:07:16.733" end="00:07:19.830">So good luck to the next Queen.</p>
+      <p begin="00:07:19.830" end="00:07:27.526">&#9834; [together] Happy Birthday to you<br/>Happy Birthday to you &#9834;</p>
+      <p begin="00:07:27.526" end="00:07:32.986">Age, it's the one mountain<br/>that you can't overcome.</p>
+      <p begin="00:07:32.986" end="00:07:36.839">It's a youth society and nobody wants you.</p>
+      <p begin="00:07:36.839" end="00:07:38.573">"Your too old, you're too old,<br/>you're too old."</p>
+      <p begin="00:07:40.301" end="00:07:43.903">If one more woman comedian comes up<br/>and says to me,</p>
+      <p begin="00:07:43.903" end="00:07:47.507">"You opened the doors for me," and you<br/>want to say,</p>
+      <p begin="00:07:47.507" end="00:07:51.993">"Go fuck yourself,<br/>I'm still opening the doors."</p>
+      <p begin="00:07:56.967" end="00:07:58.634">[host] You are a Barnard College graduate?<br/>- Yeah.</p>
+      <p begin="00:07:58.634" end="00:07:59.784">[host] And your father's a doctor?<br/>- Yes.</p>
+      <p begin="00:08:00.186" end="00:08:01.362">[host] You live, where? In Scarsdale?</p>
+      <p begin="00:08:01.362" end="00:08:02.438">In Larchmont.</p>
+      <p begin="00:08:02.438" end="00:08:04.565">[host] In Larchmont.<br/>And your mother is a...?</p>
+      <p begin="00:08:04.565" end="00:08:05.564">A mother.</p>
+      <p begin="00:08:05.564" end="00:08:06.563">[TV host] ...just a mother.</p>
+      <p begin="00:08:06.563" end="00:08:07.562">[audience laughs].</p>
+      <p begin="00:08:07.562" end="00:08:09.525">How do they look upon this,<br/>what you're doing, what it is you do?</p>
+      <p begin="00:08:09.525" end="00:08:10.524">Frightened.</p>
+      <p begin="00:08:10.524" end="00:08:11.610">[TV host] Are they?<br/>- A lot.</p>
+      <p begin="00:08:11.610" end="00:08:13.259">Well, now they are very show biz.</p>
+      <p begin="00:08:13.259" end="00:08:15.821">And my mother and I are thinking of doing<br/>a sister act. But um...</p>
+      <p begin="00:08:15.821" end="00:08:17.687">[audience laughs].</p>
+      <p begin="00:08:17.687" end="00:08:21.197">The audience here really liked you<br/>and good luck to you.</p>
+      <p begin="00:08:21.197" end="00:08:22.196">[audience clapping].</p>
+      <p begin="00:08:22.196" end="00:08:25.166">It's been very nice, thank you.</p>
+      <p begin="00:08:26.592" end="00:08:29.593">[Jocelyn] Joan, here is a script<br/>for the TV pilot you wanted to look at.</p>
+      <p begin="00:08:29.593" end="00:08:32.406">Ok, thank you. Do you know where<br/>I am in this?</p>
+      <p begin="00:08:32.406" end="00:08:35.425">[phone ringing].</p>
+      <p begin="00:08:35.425" end="00:08:40.729">I see no Joan on page 2,<br/>I see no Joan on page 3.</p>
+      <p begin="00:08:40.729" end="00:08:44.105">I see no Joan on page 4.</p>
+      <p begin="00:08:44.105" end="00:08:47.255">I have worked with her for about 15 years,<br/>I think, somewhere in there,</p>
+      <p begin="00:08:47.255" end="00:08:53.144">so I definitely have gone through kind<br/>of the ups and downs,</p>
+      <p begin="00:08:53.144" end="00:08:55.869">you know with her, with her career.</p>
+      <p begin="00:08:55.869" end="00:08:59.240">When I started it was definitely kind of a<br/>lower point,</p>
+      <p begin="00:08:59.240" end="00:09:03.420">Her daytime talk show was cancelled,<br/>at the same time her play,</p>
+      <p begin="00:09:03.420" end="00:09:07.106">"Sally Marr," which ran on Broad Way,<br/>that shut down.</p>
+      <p begin="00:09:07.106" end="00:09:10.573">Everything was kind of closing, you know,<br/>at that point.</p>
+      <p begin="00:09:10.573" end="00:09:16.147">So of course Joan, being Joan,<br/>then started to try and reinvent herself.</p>
+      <p begin="00:09:16.147" end="00:09:20.946">No, I ain't seeing me.</p>
+      <p begin="00:09:20.946" end="00:09:22.936">This year is no different.</p>
+      <p begin="00:09:22.936" end="00:09:25.933">Joan is looking at new projects,<br/>new ways to get out there.</p>
+      <p begin="00:09:25.933" end="00:09:28.159">And she's got two new books coming out.</p>
+      <p begin="00:09:28.159" end="00:09:32.737">A new play that she's really worked on<br/>very hard for the past couple of years.</p>
+      <p begin="00:09:32.737" end="00:09:34.184">And, "Celebrity Apprentice."</p>
+      <p begin="00:09:34.184" end="00:09:37.147">She's booked to be on the next series<br/>of, "Celebrity Apprentice."</p>
+      <p begin="00:09:37.147" end="00:09:41.478">So she's hoping one of them hits<br/>and puts her back on top.</p>
+      <p begin="00:09:42.405" end="00:09:45.543">I can't find me anywhere.</p>
+      <p begin="00:09:45.543" end="00:09:52.601">&#9834; [music] &#9834;</p>
+      <p begin="00:09:52.601" end="00:09:56.576">What we are planning is<br/>the cut-off date of the...</p>
+      <p begin="00:09:56.576" end="00:09:59.400">the Tony Nominations<br/>is somewhere in April,</p>
+      <p begin="00:09:59.400" end="00:10:04.989">so we have to open<br/>somewhere in April.</p>
+      <p begin="00:10:04.989" end="00:10:09.351">The next few months,<br/>I am really focusing just on my play.</p>
+      <p begin="00:10:09.351" end="00:10:14.012">It means a great deal to me<br/>because it tells my life story.</p>
+      <p begin="00:10:14.012" end="00:10:15.862">So she calls me up one day and she goes,</p>
+      <p begin="00:10:15.862" end="00:10:17.099">"Billy, its Joan, listen,</p>
+      <p begin="00:10:17.099" end="00:10:20.695">I wrote a script a couple of years ago,<br/>it's in the drawer."</p>
+      <p begin="00:10:20.695" end="00:10:24.998">Now, I actually saw a reading of it<br/>a year earlier and I enjoyed it.</p>
+      <p begin="00:10:24.998" end="00:10:26.797">So I said, "I think you should do it."</p>
+      <p begin="00:10:26.797" end="00:10:27.954">Hi Joanie.</p>
+      <p begin="00:10:27.954" end="00:10:29.639">Hi, Billy boy.</p>
+      <p begin="00:10:29.639" end="00:10:30.721">[muah, muah]</p>
+      <p begin="00:10:30.721" end="00:10:31.720">Hi, Billy.</p>
+      <p begin="00:10:31.720" end="00:10:32.978">This is Billy.</p>
+      <p begin="00:10:32.978" end="00:10:33.977">Hello, Sandra.</p>
+      <p begin="00:10:33.977" end="00:10:37.021">Hello, Schmidtzy, how you doing?</p>
+      <p begin="00:10:37.021" end="00:10:38.903">Schmidt Schmidt, Schmidt.</p>
+      <p begin="00:10:38.903" end="00:10:40.189">[together] Schmidtzy.</p>
+      <p begin="00:10:40.189" end="00:10:42.653">[Sean Foley] The name of the show is,</p>
+      <p begin="00:10:42.653" end="00:10:47.316">"Joan Rivers - A Work in Progress<br/>by A Life in Progress."</p>
+      <p begin="00:10:47.316" end="00:10:51.609">You know, episodes from her life.<br/>How she got to where she is now.</p>
+      <p begin="00:10:51.609" end="00:10:54.251">We're going to take this to the<br/>Edinburgh Festival,</p>
+      <p begin="00:10:54.251" end="00:10:57.852">and then we're going to do it<br/>in London's Glittering West End.</p>
+      <p begin="00:10:57.852" end="00:11:01.633">The ultimate goal, I think Joan wants<br/>to play it in her home town.</p>
+      <p begin="00:11:03.031" end="00:11:06.267">I have very few hairs left on my head<br/>and each one has a name.</p>
+      <p begin="00:11:06.267" end="00:11:09.759">They--"Last week we had the<br/>Sit Shiva for Bernice."</p>
+      <p begin="00:11:09.759" end="00:11:11.925">"And we buried Bernice." Or,<br/>"We cremated Bernice."</p>
+      <p begin="00:11:11.925" end="00:11:13.657">Yeah, "Cremated," I think is good.</p>
+      <p begin="00:11:13.657" end="00:11:15.114">"...last week."</p>
+      <p begin="00:11:15.114" end="00:11:19.774">I hope that the play is a huge success.<br/>I think the play will remind them,</p>
+      <p begin="00:11:19.774" end="00:11:23.770">I'm an actress, I'm a writer<br/>and if we get great reviews,</p>
+      <p begin="00:11:25.509" end="00:11:29.687">it will open up a million other things.</p>
+      <p begin="00:11:29.687" end="00:11:31.677">One of my earliest<br/>memories, I must have been</p>
+      <p begin="00:11:31.677" end="00:11:36.010">tops 6 years old, my mother took me<br/>to see Paul Robeson in Othello</p>
+      <p begin="00:11:36.010" end="00:11:39.813">and I remember smelling the smells<br/>of the theater and I thought,</p>
+      <p begin="00:11:39.813" end="00:11:42.201">this is where I belong.</p>
+      <p begin="00:11:44.279" end="00:11:48.557">I was in every school play. I was in<br/>everything you could do at college.</p>
+      <p begin="00:11:48.557" end="00:11:52.574">There was never a discussion<br/>in my own head of where I was going.</p>
+      <p begin="00:11:52.574" end="00:11:55.562">And I was always acting, always going to<br/>be an actress.</p>
+      <p begin="00:11:55.562" end="00:11:58.676">[female] Were you were straight acting<br/>or comedy, or...?</p>
+      <p begin="00:11:58.676" end="00:12:00.919">[Joan] No, no comedy never.</p>
+      <p begin="00:12:00.919" end="00:12:04.170">I just knew that I could work the<br/>comedian at night</p>
+      <p begin="00:12:04.170" end="00:12:06.951">and make money making rounds as an<br/>actress.</p>
+      <p begin="00:12:06.951" end="00:12:09.522">And that's the only reason<br/>I went into comedy.</p>
+      <p begin="00:12:09.522" end="00:12:12.404">Sometimes I sit at home<br/>and I think to myself,</p>
+      <p begin="00:12:12.404" end="00:12:21.200">"Joan, yes, you're a diva, you're a diva.<br/>Penthouse, limos, furs, woof, woof...</p>
+      <p begin="00:12:21.200" end="00:12:25.930">But a diva can get lonely. And I say this<br/>to my staff. I say, "Staff..."</p>
+      <p begin="00:12:25.930" end="00:12:28.838">[laughter]</p>
+      <p begin="00:12:28.838" end="00:12:33.246">I don't learn their names<br/>because they are like you people,</p>
+      <p begin="00:12:33.246" end="00:12:34.546">they come, they go.</p>
+      <p begin="00:12:34.546" end="00:12:36.617">Sometimes, I say to them,</p>
+      <p begin="00:12:36.617" end="00:12:42.611">"Staff, I'm lonely.<br/>Who's going to fuck me tonight?"</p>
+      <p begin="00:12:42.611" end="00:12:44.331">[laughter]</p>
+      <p begin="00:12:48.958" end="00:12:51.257">[dog barking]</p>
+      <p begin="00:12:51.257" end="00:12:55.429">Yes, yes, yes, this is delicious, huh?</p>
+      <p begin="00:12:55.429" end="00:13:01.829">This is Kevin who runs my house also,<br/>without asking me anything.</p>
+      <p begin="00:13:01.829" end="00:13:04.893">Thank God. That is Debbie,<br/>his wife, over there</p>
+      <p begin="00:13:04.886" end="00:13:06.891">who is really<br/>the brains behind Kevin.</p>
+      <p begin="00:13:06.891" end="00:13:08.755">I just thought you should know.[laughs].</p>
+      <p begin="00:13:08.755" end="00:13:10.739">That's true.</p>
+      <p begin="00:13:10.739" end="00:13:14.354">It's bacon, you idiot.</p>
+      <p begin="00:13:14.354" end="00:13:16.631">This is my apartment and it's very grand.</p>
+      <p begin="00:13:16.631" end="00:13:20.388">This is how Marie Antoinette would<br/>have lived if she had had money.</p>
+      <p begin="00:13:20.388" end="00:13:29.319">&#9834; [music] &#9834;</p>
+      <p begin="00:13:29.319" end="00:13:32.134">You try to explain to people<br/>before you go to her house,</p>
+      <p begin="00:13:32.134" end="00:13:35.653">what you're about to see,<br/>nobody lives like this,</p>
+      <p begin="00:13:35.653" end="00:13:40.468">maybe the Queen of England,<br/>but besides that, nobody lives like this.</p>
+      <p begin="00:13:40.468" end="00:13:43.635">I live very, very, very well.<br/>That's to start with.</p>
+      <p begin="00:13:43.635" end="00:13:47.570">I enjoy my creature comforts and<br/>I know I have to work for it.</p>
+      <p begin="00:13:47.570" end="00:13:49.543">I could stop and live carefully,</p>
+      <p begin="00:13:49.543" end="00:13:53.040">but that's ridiculous,<br/>I don't want to live carefully.</p>
+      <p begin="00:13:53.040" end="00:13:58.897">So I would rather work and live the way<br/>I live and have a wonderful time.</p>
+      <p begin="00:13:58.897" end="00:14:01.298">When I hear the numbers<br/>from her accountant,</p>
+      <p begin="00:14:01.298" end="00:14:06.284">because you know, behind our client's<br/>back, everyone is whispering,</p>
+      <p begin="00:14:06.284" end="00:14:07.582">so they call me and they say,</p>
+      <p begin="00:14:07.582" end="00:14:10.622">"Billy, you got a pull another rabbit<br/>out of the hat."</p>
+      <p begin="00:14:10.622" end="00:14:12.285">"How many rabbits would<br/>you like out of the hat?</p>
+      <p begin="00:14:12.285" end="00:14:14.339">"I don't have that many more<br/>rabbits in my hat."</p>
+      <p begin="00:14:14.684" end="00:14:17.868">When I first hit on The Carson Show<br/>years ago, my manager,</p>
+      <p begin="00:14:17.868" end="00:14:19.505">that was a man named Jack Rollins,</p>
+      <p begin="00:14:19.505" end="00:14:22.081">and he said<br/>you're going to be an industry.</p>
+      <p begin="00:14:22.081" end="00:14:24.863">When people hit,<br/>they become industries</p>
+      <p begin="00:14:24.863" end="00:14:27.860">and that's really it,<br/>I'm a small industry.</p>
+      <p begin="00:14:28.177" end="00:14:30.378">I have a few checks for you to sign.</p>
+      <p begin="00:14:30.378" end="00:14:32.419">Oh, good, okay.</p>
+      <p begin="00:14:32.419" end="00:14:38.255">I've an agent, I've a manager,<br/>I've a business manager, a PR lady,</p>
+      <p begin="00:14:38.255" end="00:14:42.312">two assistants and a lawyer.<br/>Don't forget the lawyers.</p>
+      <p begin="00:14:42.312" end="00:14:44.312">There are then certain relatives</p>
+      <p begin="00:14:44.312" end="00:14:47.110">that I'm totally supporting,<br/>certain friends.</p>
+      <p begin="00:14:47.110" end="00:14:49.739">Most people that work with me,<br/>if they have children,</p>
+      <p begin="00:14:49.739" end="00:14:56.350">I send the children to private schools.<br/>It goes on, on, on, on and on.</p>
+      <p begin="00:14:56.350" end="00:14:58.049">I'm dancing as fast as I can.</p>
+      <p begin="00:14:58.049" end="00:15:00.276">[laughs]</p>
+      <p begin="00:15:00.276" end="00:15:01.848">Are you on speaker?</p>
+      <p begin="00:15:01.848" end="00:15:02.847" region="top"> [Billy] I'm here.</p>
+      <p begin="00:15:02.847" end="00:15:05.417">So where do we start?</p>
+      <p begin="00:15:05.417" end="00:15:09.253" region="top"> Joannie, they want to do<br/>a cruise with you</p>
+      <p begin="00:15:09.253" end="00:15:11.451">for $125,000 for 3 days,</p>
+      <p begin="00:15:11.451" end="00:15:14.261" region="top"> where you can tie it in<br/>and sell your jewelry.</p>
+      <p begin="00:15:14.261" end="00:15:17.243">[Billy] Should I sign it?</p>
+      <p begin="00:15:17.243" end="00:15:19.951">Yes, I would love to<br/>because I'm very short on money.</p>
+      <p begin="00:15:19.951" end="00:15:21.800">Trust me, we need it.</p>
+      <p begin="00:15:21.800" end="00:15:22.799">[Billy] Okay.</p>
+      <p begin="00:15:22.799" end="00:15:23.798">Okay.</p>
+      <p begin="00:15:23.798" end="00:15:24.797">[Billy] Okay.</p>
+      <p begin="00:15:24.797" end="00:15:26.742">[Jocelyn] How about bump up the offer<br/>and you'll do your comedy.</p>
+      <p begin="00:15:26.742" end="00:15:31.068">Yeah, bump up the offer<br/>and they get Joan on stage.</p>
+      <p begin="00:15:31.068" end="00:15:32.029">[Billy] I will see.</p>
+      <p begin="00:15:32.029" end="00:15:35.355">Bump up the offer some more<br/>and they get Joan doing a survival lecture</p>
+      <p begin="00:15:35.355" end="00:15:37.190">and on stage.<br/>- [Jocelyn] Uh-hm.</p>
+      <p begin="00:15:37.190" end="00:15:40.517">Bump up the offer some more<br/>and they also get the red carpet lecture,</p>
+      <p begin="00:15:40.517" end="00:15:42.499">the survival lecture.</p>
+      <p begin="00:15:42.499" end="00:15:46.642">[Jocelyn] And don't forget just the<br/>125 grand worth of charm.</p>
+      <p begin="00:15:46.642" end="00:15:49.298">[laughs]</p>
+      <p begin="00:15:49.298" end="00:15:54.731">&#9834; [music] &#9834;</p>
+      <p begin="00:15:54.731" end="00:15:58.163">You know the dates we're holding the QVC,<br/>right Billy, pretty much?</p>
+      <p begin="00:15:58.163" end="00:15:59.143">[Billy] Yeah.</p>
+      <p begin="00:15:59.143" end="00:16:01.221">Let me ask you one last thing,</p>
+      <p begin="00:16:01.221" end="00:16:04.221">do you think it's in bad taste<br/>to say about Obama's wife,</p>
+      <p begin="00:16:04.221" end="00:16:10.519">who I think is so chic, Michelle,<br/>that she is, remember the old days,</p>
+      <p begin="00:16:10.519" end="00:16:12.852">in the Kennedy Era,<br/>there was the Jackie O?</p>
+      <p begin="00:16:12.852" end="00:16:14.850">Well, now in the Obama Era,</p>
+      <p begin="00:16:14.850" end="00:16:17.711">it's going to be Blackie O.</p>
+      <p begin="00:16:17.711" end="00:16:19.893">[Jocelyn] Oh, no.<br/>- [male] What? Oh, don't.</p>
+      <p begin="00:16:19.893" end="00:16:22.789">Okay, just thought it was a great joke.</p>
+      <p begin="00:16:23.888" end="00:16:26.349">These are all my jokes.</p>
+      <p begin="00:16:26.349" end="00:16:32.837">These are jokes over the last 30 years.<br/>These are just...</p>
+      <p begin="00:16:32.837" end="00:16:38.497">Every time I write a joke,<br/>I try to remember to get it on a card.</p>
+      <p begin="00:16:38.497" end="00:16:40.037">"Why should a woman cook?"</p>
+      <p begin="00:16:40.037" end="00:16:44.347">"So her husband can say, 'My wife<br/>makes a delicious cake to some hooker.'"</p>
+      <p begin="00:16:44.347" end="00:16:46.320">[laughs]</p>
+      <p begin="00:16:46.320" end="00:16:50.907">And you wonder why<br/>I'm still working at this age.</p>
+      <p begin="00:16:50.907" end="00:16:55.913">People think it comes so easily,<br/>they have no idea that what you're doing</p>
+      <p begin="00:16:55.913" end="00:17:02.237">is a terrifically difficult thing to do<br/>and I prepare like a crazy lady.</p>
+      <p begin="00:17:02.237" end="00:17:06.632">And here I am, I mean,<br/>everything is just--</p>
+      <p begin="00:17:06.632" end="00:17:09.629">everywhere you look,<br/>there are jokes.</p>
+      <p begin="00:17:09.629" end="00:17:15.840">Jokes to be filed, jokes to be written,<br/>jokes that I thought of something.</p>
+      <p begin="00:17:15.840" end="00:17:21.796">I mean my life is just jokes.</p>
+      <p begin="00:17:26.599" end="00:17:28.837">...Vagina farts are so loud,</p>
+      <p begin="00:17:28.837" end="00:17:32.818">"My vagina farts are so loud,<br/>my gynecologist wears ear plugs."</p>
+      <p begin="00:17:32.818" end="00:17:35.172">[laughs]</p>
+      <p begin="00:17:36.671" end="00:17:40.885">"Are gay men proud<br/>of their excessive body hair,</p>
+      <p begin="00:17:40.885" end="00:17:43.882">like Madonna's daughter," maybe.</p>
+      <p begin="00:17:43.882" end="00:17:45.033">"Amazing race?"</p>
+      <p begin="00:17:45.033" end="00:17:47.614">"Mel Gibson chasing Jews<br/>into the showers."</p>
+      <p begin="00:17:47.614" end="00:17:49.853">[laughs]</p>
+      <p begin="00:17:49.853" end="00:17:53.538">As some of you can tell now,<br/>I'm 7 1/2 months pregnant</p>
+      <p begin="00:17:53.538" end="00:17:54.766">and you want to know the<br/>truth?</p>
+      <p begin="00:17:54.766" end="00:17:57.157">You know how lousy I feel at night<br/>when I'm undressed</p>
+      <p begin="00:17:57.157" end="00:17:59.184">and my husband looks at me<br/>and mentally dresses me.</p>
+      <p begin="00:17:59.184" end="00:18:01.567">[audience laughing]</p>
+      <p begin="00:18:01.567" end="00:18:03.674">When I started comedy,</p>
+      <p begin="00:18:03.674" end="00:18:07.670">I was very wild for the time<br/>but different times.</p>
+      <p begin="00:18:07.670" end="00:18:11.246">The last line of my original act was,</p>
+      <p begin="00:18:11.246" end="00:18:14.074">"This business it's all about<br/>casting characters,</p>
+      <p begin="00:18:14.074" end="00:18:19.298">so I just want you to know my name is<br/>Joan Rivers and I put out."</p>
+      <p begin="00:18:19.298" end="00:18:22.514">And you would hear the audience,<br/>such a sweet little silly line</p>
+      <p begin="00:18:22.514" end="00:18:27.890">from a girl who is 28 years old,<br/>you know,dressed up trying to look nice.</p>
+      <p begin="00:18:27.890" end="00:18:34.111">The audience, half of them laughed,<br/>Jack Lemon saw me and walked out.</p>
+      <p begin="00:18:34.111" end="00:18:41.324">He said, "That's disgusting."<br/>So for my time, I was very shocking.</p>
+      <p begin="00:18:41.324" end="00:18:43.303">I remember I had<br/>a joke about abortions</p>
+      <p begin="00:18:43.303" end="00:18:48.043">when you weren't supposed to even<br/>say the word on television.</p>
+      <p begin="00:18:48.043" end="00:18:52.037">I have a friend who just got married.<br/>The woman is 32 years-old,</p>
+      <p begin="00:18:52.037" end="00:18:56.840">she had 14 appendectomies,<br/>if you know what I'm telling you.</p>
+      <p begin="00:18:56.840" end="00:19:00.273">You know,back and forth to Puerto Rico,<br/>she never stopped flying.</p>
+      <p begin="00:19:00.273" end="00:19:04.473">She walked down the aisle in white.<br/>Every usher went --</p>
+      <p begin="00:19:04.473" end="00:19:07.541">[audience laughing]</p>
+      <p begin="00:19:07.541" end="00:19:09.493">My manager took me out and said to me,</p>
+      <p begin="00:19:09.493" end="00:19:15.308">"Joanalah, you're going into places<br/>you shouldn't go. It's not right,</p>
+      <p begin="00:19:15.308" end="00:19:18.532">it's not right.<br/>Women shouldn't talk about that.</p>
+      <p begin="00:19:18.532" end="00:19:23.120">I remember thinking, "You are so wrong."</p>
+      <p begin="00:19:23.120" end="00:19:26.976">"This is exactly what we should be<br/>talking about."</p>
+      <p begin="00:19:26.976" end="00:19:32.295">My daughter loves me very, very much.<br/>I was there when she gave birth, yuck!</p>
+      <p begin="00:19:32.295" end="00:19:38.020">In California, they bring the parents in<br/>now to see the birth. Yuck, yuck, yuck!</p>
+      <p begin="00:19:38.020" end="00:19:42.520">In my day, having a child was better.<br/>They knocked you out with the first pain.</p>
+      <p begin="00:19:42.520" end="00:19:45.636">They woke you up when the hair dresser<br/>shows, you knew nothing.</p>
+      <p begin="00:19:45.636" end="00:19:47.519">It was so much better.</p>
+      <p begin="00:19:47.519" end="00:19:48.732">"Ms. Rivers, you had a girl."</p>
+      <p begin="00:19:48.732" end="00:19:50.564">Good [puffs], good, good.</p>
+      <p begin="00:19:50.564" end="00:19:53.081">[audience laughs]</p>
+      <p begin="00:19:53.081" end="00:19:54.180">Is she normal?</p>
+      <p begin="00:19:54.180" end="00:19:55.279">"Yeah."</p>
+      <p begin="00:19:55.279" end="00:19:56.378">[audience laughs]</p>
+      <p begin="00:19:56.378" end="00:19:57.716">Good.</p>
+      <p begin="00:19:58.544" end="00:19:59.913">Is she white?</p>
+      <p begin="00:19:59.913" end="00:20:00.912">"Yeah."</p>
+      <p begin="00:20:00.912" end="00:20:01.861">Good.</p>
+      <p begin="00:20:02.067" end="00:20:04.018">[audience laughing and clapping]</p>
+      <p begin="00:20:05.206" end="00:20:07.311">And the marriage continues.</p>
+      <p begin="00:20:07.686" end="00:20:09.026">[audience laughs]</p>
+      <p begin="00:20:09.026" end="00:20:11.255">I went to see her live one time.</p>
+      <p begin="00:20:11.394" end="00:20:17.125">The shit that came out of her mouth<br/>was so shocking and so funny,</p>
+      <p begin="00:20:17.286" end="00:20:19.854">she was doing something<br/>that no other woman was doing.</p>
+      <p begin="00:20:20.924" end="00:20:24.019">You know, I wouldn't be doing this<br/>if it wasn't for Joan.</p>
+      <p begin="00:20:24.082" end="00:20:27.601">Much in the way that she acknowledges<br/>that Phyllis Diller paved the way for her.</p>
+      <p begin="00:20:27.858" end="00:20:31.868">And before her was, Moms Mabley,<br/>I get it, there is a handful of women</p>
+      <p begin="00:20:32.051" end="00:20:35.950">in modern history that have done this.<br/>Just a handful.</p>
+      <p begin="00:20:36.896" end="00:20:38.587">I was so angry about...</p>
+      <p begin="00:20:39.149" end="00:20:43.197">Thank you. Thank you, thank you.</p>
+      <p begin="00:20:45.957" end="00:20:50.052">While we're on the subject,<br/>let me talk to you about sex over 60,</p>
+      <p begin="00:20:50.177" end="00:20:52.574">after 60, the body drops.</p>
+      <p begin="00:20:52.797" end="00:20:54.530" region="top"> [Sean] The boobs drop.</p>
+      <p begin="00:20:54.546" end="00:20:56.195">My body, yeah,<br/>and it's not just the breasts,</p>
+      <p begin="00:20:56.195" end="00:20:59.192">vaginas drop, vaginas drop.</p>
+      <p begin="00:20:59.743" end="00:21:01.938">Six years ago, I woke up one morning<br/>and I said,</p>
+      <p begin="00:21:01.938" end="00:21:04.957">why am I wearing a bunny slipper<br/>and why is it gray.</p>
+      <p begin="00:21:05.126" end="00:21:06.525">[Sean] Brilliant.</p>
+      <p begin="00:21:07.675" end="00:21:11.005">[Joan] I went to the dermatologist<br/>so please excuse the way I look.</p>
+      <p begin="00:21:11.012" end="00:21:12.279">[Sean laughs]</p>
+      <p begin="00:21:12.829" end="00:21:18.132">I got shot filled with everything.<br/>I said, I needed some four months.</p>
+      <p begin="00:21:18.827" end="00:21:19.996">[Sean] What have you got?</p>
+      <p begin="00:21:19.996" end="00:21:21.556">She just went crazy.</p>
+      <p begin="00:21:21.556" end="00:21:22.857">Blast away.</p>
+      <p begin="00:21:23.937" end="00:21:26.792">And then she said,<br/>"Here, go to rehearsal."</p>
+      <p begin="00:21:27.035" end="00:21:28.710">[laughs]</p>
+      <p begin="00:21:29.512" end="00:21:32.312">Okay, thank you, Pat.</p>
+      <p begin="00:21:32.866" end="00:21:35.379">My mother told me,<br/>"Looks don't count."</p>
+      <p begin="00:21:35.379" end="00:21:37.377">She told me this a lot.</p>
+      <p begin="00:21:39.129" end="00:21:43.964">Saturday nights, in our kitchen<br/>while I was growing up.</p>
+      <p begin="00:21:44.277" end="00:21:46.167">My mother used to look at me and say...</p>
+      <p begin="00:21:48.181" end="00:21:56.496">[audience laughing]</p>
+      <p begin="00:21:56.925" end="00:22:01.702">"Looks don't count,<br/>now get out of my sight, you big lump."</p>
+      <p begin="00:22:03.123" end="00:22:05.533">"And my mother lied<br/>because looks count..."</p>
+      <p begin="00:22:05.533" end="00:22:10.883">It's very scary when you see yourself<br/>totally without any makeup, it's really--</p>
+      <p begin="00:22:11.815" end="00:22:13.475">it gives me the willies.</p>
+      <p begin="00:22:15.505" end="00:22:17.576">Who is that person?</p>
+      <p begin="00:22:17.665" end="00:22:19.663">So I get up in the morning</p>
+      <p begin="00:22:19.663" end="00:22:22.692">and the first thing<br/>I do is I get into makeup.</p>
+      <p begin="00:22:22.998" end="00:22:26.153">Now I was never the natural beauty.</p>
+      <p begin="00:22:26.519" end="00:22:29.631">No man has ever,<br/>ever told me I'm beautiful.</p>
+      <p begin="00:22:30.143" end="00:22:33.182">They said to me, "You look great.";<br/>"You look this."; "You're terrific."</p>
+      <p begin="00:22:33.220" end="00:22:36.191">But no man has ever said,<br/>"Oh, my God, you're so beautiful."</p>
+      <p begin="00:22:36.740" end="00:22:41.577">&#9834; [music] &#9834;</p>
+      <p begin="00:22:41.577" end="00:22:46.255">Yeah. Bring them right in.<br/>Yeah.</p>
+      <p begin="00:22:46.255" end="00:22:47.804">Good.</p>
+      <p begin="00:22:47.804" end="00:22:51.527">Yeah, good.</p>
+      <p begin="00:22:51.527" end="00:22:53.189">Okay, let's do tools.</p>
+      <p begin="00:22:53.189" end="00:22:54.739">Yeah, that's great.</p>
+      <p begin="00:22:54.739" end="00:22:56.592">Yeah, good.</p>
+      <p begin="00:22:56.592" end="00:22:58.490">Don't you want<br/>the hand more to the side?</p>
+      <p begin="00:22:58.490" end="00:23:02.208">People want to look at pretty women.<br/>Nobody wants an old woman.</p>
+      <p begin="00:23:02.208" end="00:23:06.812">So I started with the plastic surgery,<br/>little bits and tweaks.</p>
+      <p begin="00:23:06.812" end="00:23:10.798">And then I got very angry,<br/>because nobody would admit it.</p>
+      <p begin="00:23:10.798" end="00:23:13.129">I really became a big advocate of it.</p>
+      <p begin="00:23:13.129" end="00:23:15.460">And so, then I became<br/>the poster girl for it.</p>
+      <p begin="00:23:15.460" end="00:23:17.790">And then I became the joke of it.</p>
+      <p begin="00:23:17.790" end="00:23:21.614">Yeah, that's it.</p>
+      <p begin="00:23:21.614" end="00:23:22.613">Good.</p>
+      <p begin="00:23:24.604" end="00:23:26.679">[Dr. Joy Brown Show] So how did you<br/>come up with the title?</p>
+      <p begin="00:23:26.679" end="00:23:28.554">Matt Monro told that to me...<br/>- Yeah?</p>
+      <p begin="00:23:28.554" end="00:23:29.763">...at a party.</p>
+      <p begin="00:23:29.763" end="00:23:32.512">Yeah. You and I were having a discussion<br/>before we went on the air today?</p>
+      <p begin="00:23:32.512" end="00:23:33.544">[Joan] Right.</p>
+      <p begin="00:23:33.544" end="00:23:36.335">I said if you don't feel good<br/>about yourself inside</p>
+      <p begin="00:23:36.335" end="00:23:38.333">plastic surgery will not help at all,</p>
+      <p begin="00:23:38.333" end="00:23:40.431">and in fact, can make things worse<br/>'cause then you think,</p>
+      <p begin="00:23:40.431" end="00:23:43.523">"Well, people aren't really<br/>appreciating the real me."</p>
+      <p begin="00:23:43.523" end="00:23:46.113">Well who is the real me?<br/>Tell me --</p>
+      <p begin="00:23:46.113" end="00:23:47.438">You are the real me.</p>
+      <p begin="00:23:47.438" end="00:23:51.197">Well, Joan, look, we want to be loved for<br/>our sense of humor, for our soul,</p>
+      <p begin="00:23:51.197" end="00:23:54.537">for our sweetness, for our vulnerability,<br/>for our intelligence. Yes?</p>
+      <p begin="00:23:54.537" end="00:23:56.172">I just want to be loved.</p>
+      <p begin="00:23:56.172" end="00:23:58.468">&#9834; [music] &#9834;</p>
+      <p begin="00:23:58.468" end="00:24:03.519">I met Edgar, I'd been on the Carson Show.<br/>Edgar called and he said to Johnnie,</p>
+      <p begin="00:24:03.519" end="00:24:05.922">"Who do you know is a good writer?"</p>
+      <p begin="00:24:05.922" end="00:24:09.265">And Carson said, "There was a girl writer<br/>on last week. You should look her up."</p>
+      <p begin="00:24:09.265" end="00:24:12.676">I met him, I married him four days later.</p>
+      <p begin="00:24:12.676" end="00:24:14.842">Was I madly in love with him?<br/>No.</p>
+      <p begin="00:24:14.842" end="00:24:17.141">Was it a good marriage?<br/>Yes.</p>
+      <p begin="00:24:17.141" end="00:24:20.113">I thought marriage was going to be<br/>hugging and kissing like in the movies.</p>
+      <p begin="00:24:20.113" end="00:24:23.357">You walk hand in hand,<br/>over the hill into the sunset.</p>
+      <p begin="00:24:23.357" end="00:24:26.100">You know what's on the other<br/>side of that hill?</p>
+      <p begin="00:24:26.100" end="00:24:28.999">Filthy dishes, that's what.<br/>And socks.</p>
+      <p begin="00:24:28.999" end="00:24:31.075">How was the last show last night?</p>
+      <p begin="00:24:31.075" end="00:24:32.471">Very good as a matter of fact.</p>
+      <p begin="00:24:32.471" end="00:24:33.758">Good.</p>
+      <p begin="00:24:33.758" end="00:24:35.780">Without Edgar, I could never have done it.</p>
+      <p begin="00:24:35.780" end="00:24:37.459">We worked together.</p>
+      <p begin="00:24:37.459" end="00:24:40.913">We worked on projects together<br/>so it was a family business.</p>
+      <p begin="00:24:42.179" end="00:24:44.113">Any woman that has a child<br/>that doesn't yell</p>
+      <p begin="00:24:44.113" end="00:24:45.512">is a fool, don't you think?</p>
+      <p begin="00:24:45.512" end="00:24:47.147">Didn't you yell?</p>
+      <p begin="00:24:47.147" end="00:24:49.719">Why not? It's your one<br/>chance to be noticed.</p>
+      <p begin="00:24:49.719" end="00:24:51.295">When I was having my kid,<br/>you should...</p>
+      <p begin="00:24:51.295" end="00:24:53.704">Ahhh!</p>
+      <p begin="00:24:53.704" end="00:24:56.195">[laughter]</p>
+      <p begin="00:24:56.195" end="00:24:58.618">Ahhh!</p>
+      <p begin="00:24:58.618" end="00:25:00.897">And that was just during conception.</p>
+      <p begin="00:25:01.884" end="00:25:06.464">I was dying to be a mother,<br/>I couldn't wait to be a mother.</p>
+      <p begin="00:25:06.464" end="00:25:10.055">And I really worked very hard<br/>to be there for her.</p>
+      <p begin="00:25:10.055" end="00:25:13.342">Of course, I was sure she felt<br/>very deserted as a child,</p>
+      <p begin="00:25:13.342" end="00:25:16.631">but I was -- I was there<br/>as much as I could be</p>
+      <p begin="00:25:16.631" end="00:25:21.014">and I made sure we were a<br/>family unit and she knew it.</p>
+      <p begin="00:25:21.014" end="00:25:23.283">Everyone was like, "Oh,<br/>what was it like living with a legend?"</p>
+      <p begin="00:25:23.283" end="00:25:25.090">Like yeah, it was hilarious<br/>when I was getting grounded.</p>
+      <p begin="00:25:25.090" end="00:25:28.040">Which is why I always say to people,<br/>you don't realize</p>
+      <p begin="00:25:28.040" end="00:25:35.418">how in these very extraordinary<br/>abnormal circumstances</p>
+      <p begin="00:25:35.418" end="00:25:40.174">what a normal world my parents created.</p>
+      <p begin="00:25:40.174" end="00:25:43.165">And that's a testament to them.</p>
+      <p begin="00:25:44.397" end="00:25:47.660">It's funny because she refers<br/>to her career as,"The Career,"</p>
+      <p begin="00:25:47.660" end="00:25:51.125">and it dawned on me one day<br/>that I had a sibling.</p>
+      <p begin="00:25:51.125" end="00:25:54.547">We all worked on,<br/>"The Career," as if it was</p>
+      <p begin="00:25:54.547" end="00:25:57.544">a totally separate entity<br/>in the room.</p>
+      <p begin="00:26:00.334" end="00:26:02.501">Melissa, what was your mom's reaction</p>
+      <p begin="00:26:02.501" end="00:26:05.789">when you told her you wanted<br/>to go into show business?</p>
+      <p begin="00:26:05.789" end="00:26:07.823">What was it that we used to say?</p>
+      <p begin="00:26:07.823" end="00:26:09.885">Supportive, yet not encouraging.</p>
+      <p begin="00:26:09.885" end="00:26:12.140">Yeah, and still am.</p>
+      <p begin="00:26:12.140" end="00:26:13.660">...still am.</p>
+      <p begin="00:26:13.660" end="00:26:17.150">Which is a little late in the game<br/>to be supportive and not encouraging.</p>
+      <p begin="00:26:17.150" end="00:26:18.834">Yeah, but t's such a hard business.</p>
+      <p begin="00:26:18.834" end="00:26:22.668">What I tried to do was<br/>I tried to protect her.</p>
+      <p begin="00:26:22.668" end="00:26:27.779">This is the one business<br/>in the world, it is total rejection.</p>
+      <p begin="00:26:27.779" end="00:26:31.611">I'm 75 and I'm still rejected.</p>
+      <p begin="00:26:31.611" end="00:26:35.658">This business you are mud your whole life.</p>
+      <p begin="00:26:38.177" end="00:26:39.924">Josie Josie, are you there?</p>
+      <p begin="00:26:39.924" end="00:26:40.923">Yes.</p>
+      <p begin="00:26:40.923" end="00:26:41.922">Have you heard from Billy?</p>
+      <p begin="00:26:41.922" end="00:26:44.306">I haven't, I have gotten no calls back.</p>
+      <p begin="00:26:44.306" end="00:26:46.971">All right, can you send him an e-mail?</p>
+      <p begin="00:26:46.971" end="00:26:52.739">I really want him there to see the play<br/>before we go to Edinburgh.</p>
+      <p begin="00:26:52.739" end="00:26:54.998">I mean it's Edinburgh,<br/>it's London, my God,</p>
+      <p begin="00:26:54.998" end="00:26:56.332">He's gotta see the play.</p>
+      <p begin="00:26:56.332" end="00:26:57.843">Okay, I'll e-mail him as well.</p>
+      <p begin="00:26:57.843" end="00:27:02.892">So that's my manager Billy, who I adore,<br/>disappears all the time.</p>
+      <p begin="00:27:02.892" end="00:27:07.204">Three years ago it was very, very bad<br/>and I almost fired him then</p>
+      <p begin="00:27:07.204" end="00:27:10.586">and then it's God,<br/>it's you know,all this time...</p>
+      <p begin="00:27:10.586" end="00:27:13.752">I've known Billy,<br/>it's gotta be about 35 years.</p>
+      <p begin="00:27:13.752" end="00:27:19.033">I could open the drawer here somewhere<br/>and you'll find pictures of Billy.</p>
+      <p begin="00:27:19.033" end="00:27:24.701">Here look, young Billy. Young Joan.<br/>That's Edgar in the background.</p>
+      <p begin="00:27:24.701" end="00:27:30.144">And Billy is always part of my life<br/>and I want to see him now,</p>
+      <p begin="00:27:30.144" end="00:27:33.847">because we're doing the play<br/>and I need another pair of eyes,</p>
+      <p begin="00:27:33.847" end="00:27:39.686">I need another brain.<br/>I need his input desperately.</p>
+      <p begin="00:27:39.686" end="00:27:44.049">Welcome, welcome, welcome<br/>to what will be Joan River's</p>
+      <p begin="00:27:44.049" end="00:27:47.046">"A Work in Progress<br/>By A Life in Progress."</p>
+      <p begin="00:27:47.046" end="00:27:48.658"> Okay, here we go.</p>
+      <p begin="00:27:48.658" end="00:27:50.957">I am thrilled to be here.</p>
+      <p begin="00:27:50.957" end="00:27:53.529">I just don't want this to be<br/>about me, me, me, me me.</p>
+      <p begin="00:27:53.529" end="00:27:54.518">Hello.</p>
+      <p begin="00:27:54.518" end="00:27:58.270">Not yet honey.<br/>Again, you two, back. Go back.</p>
+      <p begin="00:27:58.270" end="00:27:59.366">[audience laughter]</p>
+      <p begin="00:27:59.366" end="00:28:01.040">Beautiful.</p>
+      <p begin="00:28:01.040" end="00:28:03.421">Anyhow -- line?</p>
+      <p begin="00:28:03.421" end="00:28:04.579">[Sean] "Now where was I?"</p>
+      <p begin="00:28:04.579" end="00:28:05.565">Now where was I?</p>
+      <p begin="00:28:05.565" end="00:28:10.447">[audience laughing and clapping].</p>
+      <p begin="00:28:10.447" end="00:28:12.291">Bill Cosby, who is<br/>a very good friend of mine</p>
+      <p begin="00:28:12.291" end="00:28:13.663">was on the Tonight Show.</p>
+      <p begin="00:28:13.663" end="00:28:16.527">And the comic that was on<br/>with Bill, absolutely bombed</p>
+      <p begin="00:28:16.527" end="00:28:19.552">and Bill, God bless him, went over<br/>to the director and he said,</p>
+      <p begin="00:28:19.552" end="00:28:22.536">"Listen, why don't you use Joan Rivers,<br/>she can't be any worse</p>
+      <p begin="00:28:22.536" end="00:28:24.238">than the guy that was on tonight."</p>
+      <p begin="00:28:24.238" end="00:28:26.731">And that's how they put me on,<br/>they put me on the next night.</p>
+      <p begin="00:28:26.731" end="00:28:28.107">And it was one of those nights.</p>
+      <p begin="00:28:28.107" end="00:28:31.113">Do you know like,<br/>when everything goes right?</p>
+      <p begin="00:28:31.113" end="00:28:35.716">When the stars are in alignment<br/>and the audience, we just connected.</p>
+      <p begin="00:28:35.716" end="00:28:38.783">And Carson, at the end of the act,</p>
+      <p begin="00:28:38.783" end="00:28:41.981">after nine years of working<br/>bungalow colonies</p>
+      <p begin="00:28:41.981" end="00:28:44.726">and strip joints and working<br/>in Greenwich Village</p>
+      <p begin="00:28:44.726" end="00:28:47.541">in clubs where you'd pass the hat<br/>and the hat wouldn't come back.</p>
+      <p begin="00:28:47.541" end="00:28:51.508">On the air, Carson said to me,<br/>"You're going to be a star."</p>
+      <p begin="00:28:51.508" end="00:28:54.997">And I looked behind me,<br/>who the hell is he talking to?</p>
+      <p begin="00:28:54.997" end="00:28:58.471">And it was absolutely --<br/>it was magical between the two of us,</p>
+      <p begin="00:28:58.471" end="00:29:00.095">absolutely magical.</p>
+      <p begin="00:29:00.095" end="00:29:02.012">Don't you think men<br/>really like intelligence more</p>
+      <p begin="00:29:02.012" end="00:29:03.419">when it comes right down to it?</p>
+      <p begin="00:29:03.419" end="00:29:05.692">Ahh! Please, are we gonna go back to that?</p>
+      <p begin="00:29:05.692" end="00:29:06.691">Are you kidding?</p>
+      <p begin="00:29:06.691" end="00:29:08.507">Sure, I mean it's a brain, you know?<br/>A caring person.</p>
+      <p begin="00:29:08.507" end="00:29:10.770">No man has ever put his hand<br/>up a woman's dress</p>
+      <p begin="00:29:10.770" end="00:29:11.769">looking for a library card.</p>
+      <p begin="00:29:11.769" end="00:29:14.143">[audience laughing]</p>
+      <p begin="00:29:14.143" end="00:29:17.175">Everyone watched the Carson Show.</p>
+      <p begin="00:29:17.175" end="00:29:19.831">And when Carson said to me,<br/>"You're going to be a star,"</p>
+      <p begin="00:29:19.831" end="00:29:22.145">my life changed.</p>
+      <p begin="00:29:22.145" end="00:29:30.707">&#9834; [music] &#9834;</p>
+      <p begin="00:29:30.707" end="00:29:32.331">[TV host] And as we say at Cape Canaveral,</p>
+      <p begin="00:29:32.331" end="00:29:33.849">she took off like a rocket.</p>
+      <p begin="00:29:33.849" end="00:29:37.423">[Billy] The Tonight Show<br/>was a pinnacle for Joan.</p>
+      <p begin="00:29:37.423" end="00:29:41.576">And the more guest appearances she got,</p>
+      <p begin="00:29:41.576" end="00:29:44.588">either guesting with Johnny<br/>or guest hosting for Johnny,</p>
+      <p begin="00:29:44.588" end="00:29:49.848">the bigger and stronger the career<br/>was going and building up and up.</p>
+      <p begin="00:29:49.848" end="00:29:51.169">And then eventually they made her</p>
+      <p begin="00:29:51.169" end="00:29:53.167">the permanent guest host<br/>of The Tonight Show</p>
+      <p begin="00:29:53.167" end="00:29:55.714">which was a big thing.</p>
+      <p begin="00:29:55.714" end="00:29:58.304">&#9834; [music] &#9834;</p>
+      <p begin="00:29:58.304" end="00:30:04.069">After 20 years on The Tonight Show,<br/>Fox came and offered me my own show</p>
+      <p begin="00:30:04.069" end="00:30:07.181">and Edgar would be the producer.</p>
+      <p begin="00:30:07.181" end="00:30:08.480">Of course we said yes.</p>
+      <p begin="00:30:09.361" end="00:30:13.464">The first person I called<br/>was Johnny Carson.</p>
+      <p begin="00:30:13.464" end="00:30:15.099">He slammed the phone down.</p>
+      <p begin="00:30:15.099" end="00:30:20.433">I called him again, slammed it down again<br/>and never spoke to me again, ever.</p>
+      <p begin="00:30:21.665" end="00:30:24.799">I think he was furious, Ihe felt betrayed.</p>
+      <p begin="00:30:24.799" end="00:30:27.127">I was now a competitor.</p>
+      <p begin="00:30:27.127" end="00:30:30.525">He literally had me black listed<br/>and to this day,</p>
+      <p begin="00:30:30.525" end="00:30:34.739">I have not been on NBC late night, ever.</p>
+      <p begin="00:30:34.739" end="00:30:40.983">As she drove off the NBC lot,<br/>she lost her confidence.</p>
+      <p begin="00:30:40.983" end="00:30:44.542">"Oh my God, what have I done."<br/>It was such a bad period.</p>
+      <p begin="00:30:48.118" end="00:30:53.390">The Fox show, even before we went<br/>on the air, was just a nightmare.</p>
+      <p begin="00:30:53.390" end="00:31:00.371">Edgar did not like Ruben Murdock<br/>and Barry Gillette.</p>
+      <p begin="00:31:00.371" end="00:31:04.864">And from the day we walked in,<br/>there were fights about everything.</p>
+      <p begin="00:31:04.864" end="00:31:07.826">About whether we should have a<br/>Coke machine or a Pepsi machine,</p>
+      <p begin="00:31:07.826" end="00:31:10.828">M&amp;Ms or Hershey Kisses.</p>
+      <p begin="00:31:10.828" end="00:31:13.630">Finally, they called me<br/>in on a Thursday night</p>
+      <p begin="00:31:13.630" end="00:31:16.627">and they said<br/>you've got to fire Edgar.</p>
+      <p begin="00:31:16.627" end="00:31:25.799">I couldn't do it. I couldn't, ah...<br/>I couldn't-couldn't do it. Couldn't do it.</p>
+      <p begin="00:31:25.799" end="00:31:27.864">[TV announcer] The woman who asked,<br/>"Can we talk?"</p>
+      <p begin="00:31:27.864" end="00:31:29.662">Joan Rivers is apparently through</p>
+      <p begin="00:31:29.662" end="00:31:33.683">as permanent host<br/>of her late night talk show.</p>
+      <p begin="00:31:33.683" end="00:31:36.829">From there, Edgar imploded,<br/>absolutely imploded.</p>
+      <p begin="00:31:36.829" end="00:31:38.526">He didn't have Joan's strength,<br/>he didn't have it.</p>
+      <p begin="00:31:38.526" end="00:31:49.478">I had a call from Gavin DeBecker,<br/>who was his security company.</p>
+      <p begin="00:31:49.478" end="00:31:52.233">he said, "Terrible news. "Yes?"</p>
+      <p begin="00:31:52.233" end="00:31:55.739">"Edgar killed himself in Philadelphia."</p>
+      <p begin="00:31:57.899" end="00:32:05.572">He left us high and dry.<br/>Everything went to smithereens.</p>
+      <p begin="00:32:05.572" end="00:32:11.511">And he left me with no career<br/>and a lot of debts</p>
+      <p begin="00:32:11.511" end="00:32:17.617">because he wasn't a good<br/>businessman and a lot of tough times.</p>
+      <p begin="00:32:21.761" end="00:32:30.122">I walk past Edgar's pictures, I feel such<br/>sadness, such darkness.</p>
+      <p begin="00:32:36.020" end="00:32:39.734">First off, Mother,<br/>I'm very, very angry at you.</p>
+      <p begin="00:32:39.734" end="00:32:44.319">Since Daddy died, you have not spent<br/>one minute at home.</p>
+      <p begin="00:32:44.319" end="00:32:48.629">Melissa and I, we started<br/>immediately going into therapy,</p>
+      <p begin="00:32:48.629" end="00:32:50.976">separately and together.</p>
+      <p begin="00:32:50.976" end="00:32:55.832">And then we did something,<br/>which sounds so sick,</p>
+      <p begin="00:32:55.832" end="00:33:00.767">we did a movie about Edgar's suicide<br/>where we played ourselves.</p>
+      <p begin="00:33:00.767" end="00:33:01.911">Are you angry about something?</p>
+      <p begin="00:33:01.911" end="00:33:03.576">I'm angry about a lot of things, okay?</p>
+      <p begin="00:33:03.576" end="00:33:04.581">Okay.</p>
+      <p begin="00:33:04.581" end="00:33:11.109">It sounds so stupid and corny,<br/>but I think by walking through it again,</p>
+      <p begin="00:33:11.109" end="00:33:17.639">it absolutely mended us.<br/>Totally mended the relationship.</p>
+      <p begin="00:33:17.639" end="00:33:20.785">Don't ask, I have to go to another doctor<br/>to figure that one out.</p>
+      <p begin="00:33:20.785" end="00:33:21.911">&#9834; [music] &#9834;</p>
+      <p begin="00:33:21.911" end="00:33:25.630">Thank you, thank you.<br/>Have some fun.</p>
+      <p begin="00:33:25.630" end="00:33:27.708">Thank you. Thanks again.</p>
+      <p begin="00:33:33.147" end="00:33:35.040">I worship you, I worship you.</p>
+      <p begin="00:33:35.040" end="00:33:36.039">Get off your knees.</p>
+      <p begin="00:33:36.039" end="00:33:38.302">Oh Joan, I worship you.<br/>Joan, Joan, Oh My God.</p>
+      <p begin="00:33:38.302" end="00:33:40.244">Joan Rivers everybody.<br/>Please, can we clap?</p>
+      <p begin="00:33:40.244" end="00:33:41.723">[clapping]</p>
+      <p begin="00:33:41.723" end="00:33:43.826">Billy sent me this<br/>for Opening Night.</p>
+      <p begin="00:33:43.826" end="00:33:44.826">Wait, wait.</p>
+      <p begin="00:33:44.826" end="00:33:48.623">Polly wants a fucking cracker.<br/>Give Polly a fucking cracker now.</p>
+      <p begin="00:33:50.767" end="00:33:52.633">Old lady on the cover.[laughs]</p>
+      <p begin="00:33:52.633" end="00:33:56.527">Young people, young festival,<br/>young ideas, old lady.</p>
+      <p begin="00:33:56.527" end="00:34:03.264">Hold on, get ready.<br/>Hottest ticket, isn't that great?</p>
+      <p begin="00:34:03.264" end="00:34:04.216">And the front page.</p>
+      <p begin="00:34:04.216" end="00:34:13.483">[audience cheering and clapping]</p>
+      <p begin="00:34:13.483" end="00:34:18.519">The play went beyond<br/>my wildest dreams in Edinburgh.</p>
+      <p begin="00:34:18.519" end="00:34:20.484">We had great reviews,<br/>the audience adored it.</p>
+      <p begin="00:34:20.484" end="00:34:23.216">But who knows what's going to<br/>happen in London.</p>
+      <p begin="00:34:23.216" end="00:34:25.555">It can turn on a dime.</p>
+      <p begin="00:34:26.876" end="00:34:29.699">[sirens]</p>
+      <p begin="00:34:29.699" end="00:34:31.163">Where are we?</p>
+      <p begin="00:34:31.163" end="00:34:33.587">Look! The signage is going up.<br/>Look your canopy is going up.</p>
+      <p begin="00:34:33.587" end="00:34:36.071">Oh, isn't that sweet.</p>
+      <p begin="00:34:36.071" end="00:34:39.479">This is where we'll make the decision<br/>to whether or not</p>
+      <p begin="00:34:39.479" end="00:34:41.905">I'm going to try to bring it to New York.</p>
+      <p begin="00:34:41.905" end="00:34:45.136">Oh, if the reviews are bad, we're dead.<br/>We finished it and it was wonderful,</p>
+      <p begin="00:34:45.136" end="00:34:47.868">but it will not go to New York.</p>
+      <p begin="00:34:48.186" end="00:34:50.686">Joan this is__ Castelle,<br/>for your lighting design.</p>
+      <p begin="00:34:50.686" end="00:34:53.379">I like a soft pink, I don't care<br/>what it says.</p>
+      <p begin="00:34:53.379" end="00:34:55.658">Joan didn't want to open the play<br/>in New York or LA</p>
+      <p begin="00:34:55.658" end="00:34:58.481">because even if it's great,</p>
+      <p begin="00:34:58.481" end="00:35:03.894">they will not give her the Kudos<br/>that it's great because of who she is.</p>
+      <p begin="00:35:03.894" end="00:35:10.397">There is nothing she can do that will be<br/>industry embraced.</p>
+      <p begin="00:35:10.397" end="00:35:12.049">How much does it hold?</p>
+      <p begin="00:35:12.049" end="00:35:13.598">Three nine three.</p>
+      <p begin="00:35:13.598" end="00:35:14.753">So it's 400.</p>
+      <p begin="00:35:14.753" end="00:35:16.204">Yeah, 400.</p>
+      <p begin="00:35:16.204" end="00:35:18.454">I'm never in the critics drawing.</p>
+      <p begin="00:35:18.454" end="00:35:26.008">I've always been considered a comic<br/>and __ Comic or a Vegas Comic.</p>
+      <p begin="00:35:26.008" end="00:35:28.064">There is always an adjective<br/>before my name</p>
+      <p begin="00:35:28.064" end="00:35:31.864">and it's never a nice adjective.</p>
+      <p begin="00:35:31.864" end="00:35:37.441">I go back to Fun City, which was<br/>my first play in 1973</p>
+      <p begin="00:35:37.441" end="00:35:41.446">and they were very harsh to it.</p>
+      <p begin="00:35:42.791" end="00:35:47.500">It was a horrible experience and I will<br/>not go through that again.</p>
+      <p begin="00:35:47.500" end="00:35:49.545">I moved us out of New York.</p>
+      <p begin="00:35:49.545" end="00:35:51.529">I said, "When that play closes,<br/>we're out of here."</p>
+      <p begin="00:35:51.529" end="00:35:54.763">And we moved right after Fun City.</p>
+      <p begin="00:35:58.691" end="00:36:01.416">I just think<br/>they are not going to like us.</p>
+      <p begin="00:36:01.416" end="00:36:07.659">And I didn't spend all this time<br/>and all this energy to have this close</p>
+      <p begin="00:36:07.659" end="00:36:09.763">and it breaks my heart to see it die here.</p>
+      <p begin="00:36:09.763" end="00:36:11.831">Don't break--it won't die here.</p>
+      <p begin="00:36:11.831" end="00:36:15.349">That's the only thing that's killing me.<br/>And I was thinking...</p>
+      <p begin="00:36:15.349" end="00:36:18.032">You're not going to lose it.<br/>We won't let this go.</p>
+      <p begin="00:36:18.032" end="00:36:22.988">And I know it's your work--<br/>your work of love.</p>
+      <p begin="00:36:22.988" end="00:36:24.350">I really think it's good.</p>
+      <p begin="00:36:24.350" end="00:36:29.796">I know.<br/>Okay, onwards and upwards.</p>
+      <p begin="00:36:29.796" end="00:36:37.110">Hello press, be kind. Not too close.<br/>Thank you. Hello.</p>
+      <p begin="00:36:39.040" end="00:36:40.039">Very nervous.</p>
+      <p begin="00:36:40.039" end="00:36:41.530">I don't want to go three nights.</p>
+      <p begin="00:36:41.530" end="00:36:43.867">I think you should celebrate<br/>second nights,</p>
+      <p begin="00:36:43.867" end="00:36:45.865">when you're a success.</p>
+      <p begin="00:36:45.865" end="00:36:48.737">I think anyone<br/>who celebrates opening nights</p>
+      <p begin="00:36:48.737" end="00:36:50.735">is a fool because you're not--</p>
+      <p begin="00:36:50.735" end="00:36:53.841">The opening night is your walk<br/>to the execution.</p>
+      <p begin="00:36:53.841" end="00:37:00.934">So I will be very,very happy tomorrow<br/>if all goes well and very smug.</p>
+      <p begin="00:37:00.934" end="00:37:04.535">And I will throw some diva scene<br/>about something when I know</p>
+      <p begin="00:37:04.535" end="00:37:06.574">I have the power.</p>
+      <p begin="00:37:06.574" end="00:37:09.854">Right now,<br/>I don't know if I have the power.</p>
+      <p begin="00:37:12.829" end="00:37:13.983">Is that enough glitter?</p>
+      <p begin="00:37:13.983" end="00:37:16.343">Yes, oh, God, yes.</p>
+      <p begin="00:37:16.343" end="00:37:18.167">Plenty.</p>
+      <p begin="00:37:18.167" end="00:37:20.568">Plenty of glitter.</p>
+      <p begin="00:37:36.260" end="00:37:39.196">Oh, shut that stupid bitch up.</p>
+      <p begin="00:37:39.196" end="00:37:45.174">[applause and shouting]</p>
+      <p begin="00:37:45.174" end="00:37:48.865">At the end of the show Johnny Carson,<br/>on the air turned to me and said,</p>
+      <p begin="00:37:48.865" end="00:37:50.559">"You're going to be a star."</p>
+      <p begin="00:37:50.559" end="00:37:54.543">Vaginas drop, I did not know this.</p>
+      <p begin="00:37:54.543" end="00:37:57.588">I'm 75 years old and I tell you,<br/>I haven't peaked.</p>
+      <p begin="00:37:57.752" end="00:38:02.562">And is why I'm going to go out that door,<br/>the door after that,</p>
+      <p begin="00:38:02.562" end="00:38:04.727">and the door after that<br/>and the door after that</p>
+      <p begin="00:38:04.727" end="00:38:10.091">and the door after that.<br/>And I invite all of you, come with me.</p>
+      <p begin="00:38:10.091" end="00:38:12.404">Thank you.</p>
+      <p begin="00:38:12.404" end="00:38:19.908">[applause and clapping]</p>
+      <p begin="00:38:19.908" end="00:38:22.812">Whoa, okay.</p>
+      <p begin="00:38:22.812" end="00:38:27.488">That was pretty extraordinary.<br/>All stood up, right at the end.</p>
+      <p begin="00:38:27.488" end="00:38:31.618">In America, if it goes out in America,<br/>we love you, but you do stand up</p>
+      <p begin="00:38:31.618" end="00:38:33.810">all the time at the end of shows whether,<br/>you know,</p>
+      <p begin="00:38:33.810" end="00:38:38.426">like you're supposed to or something.<br/>Here they don't, except for this show.</p>
+      <p begin="00:38:38.426" end="00:38:40.055">It was a triumph.</p>
+      <p begin="00:38:40.055" end="00:38:43.283">Well, it's not a triumph until we read<br/>in the papers.</p>
+      <p begin="00:38:43.283" end="00:38:44.284">I know.</p>
+      <p begin="00:38:44.284" end="00:38:45.983">[Sean] It would be nice if it's a triumph.</p>
+      <p begin="00:38:45.983" end="00:38:47.968">[female fan] We love you so much.</p>
+      <p begin="00:38:47.968" end="00:38:50.523">[male fan] Thank you very much.<br/>Sorry to bother you.</p>
+      <p begin="00:38:50.523" end="00:38:52.053">[Joan] You're not bothering me, Joe.</p>
+      <p begin="00:38:52.053" end="00:38:53.557">I thought you were brilliant.</p>
+      <p begin="00:38:53.557" end="00:38:55.835">Are you feeling all the love<br/>that we have here for you.</p>
+      <p begin="00:38:55.835" end="00:38:58.318">No. We'll feel it tomorrow<br/>after the reviews.</p>
+      <p begin="00:38:58.318" end="00:39:01.955">Such a nice audience. Thank you.</p>
+      <p begin="00:39:01.955" end="00:39:05.316">Now let me ask you, when will we find out<br/>about the reviews?</p>
+      <p begin="00:39:05.316" end="00:39:06.904">Tomorrow morning, first thing.</p>
+      <p begin="00:39:06.904" end="00:39:08.902">I'm pretty sure<br/>they're gonna be fantastic.</p>
+      <p begin="00:39:11.889" end="00:39:12.995">Okay, what does it say?</p>
+      <p begin="00:39:12.995" end="00:39:16.771">Comedy, tragedy, surgery<br/>and Rivers isn't going quietly.</p>
+      <p begin="00:39:16.771" end="00:39:17.920">Okay.</p>
+      <p begin="00:39:17.920" end="00:39:20.255">If the energy dips<br/>slightly towards the end,</p>
+      <p begin="00:39:20.255" end="00:39:22.517">that is understandable<br/>given the star's age.</p>
+      <p begin="00:39:22.517" end="00:39:26.024">They only gave me 3 stars out of 5.</p>
+      <p begin="00:39:26.454" end="00:39:27.886">Okay. Leicester Square,</p>
+      <p begin="00:39:27.886" end="00:39:33.081">all this play acting is an excuse<br/>for a night of me, me, Joan.</p>
+      <p begin="00:39:33.081" end="00:39:35.809">She is not short on self-pity<br/>and a passage about her relationship</p>
+      <p begin="00:39:35.809" end="00:39:38.700">with her daughter is pretty low<br/>grade smultz, mind you.</p>
+      <p begin="00:39:38.700" end="00:39:39.699">It's--</p>
+      <p begin="00:39:39.699" end="00:39:40.786">You know--<br/>- ...so wrong.</p>
+      <p begin="00:39:40.786" end="00:39:42.318">Exactly.<br/>- It ends in a joke you ass.</p>
+      <p begin="00:39:42.318" end="00:39:44.893">Exactly, that's why,<br/>he's just not getting, you know...</p>
+      <p begin="00:39:44.893" end="00:39:48.348">Longer exposure to her<br/>even in a small theater betrays</p>
+      <p begin="00:39:48.348" end="00:39:53.160">a husky weakness of voice<br/>that some may find monotonous.</p>
+      <p begin="00:39:53.160" end="00:39:56.301">What I'm thinking, Jo, is,<br/>do I wanna take this to New York?</p>
+      <p begin="00:39:56.301" end="00:39:58.976">Do I want to sit in a taxi<br/>in New York in 6 months,</p>
+      <p begin="00:39:58.976" end="00:40:00.974">and hear this and see this again?</p>
+      <p begin="00:40:00.974" end="00:40:02.538">Yeah.</p>
+      <p begin="00:40:02.538" end="00:40:09.514">I don't know, Jocelyn,<br/>I don't know. I don't know.</p>
+      <p begin="00:40:13.864" end="00:40:21.375">I am not going to walk in to New York City<br/>and be hurt the way Fun City hurt me.</p>
+      <p begin="00:40:21.375" end="00:40:26.567">My acting is my one<br/>sacred thing in my life</p>
+      <p begin="00:40:26.567" end="00:40:31.326">and I will not have anyone<br/>hurt me with that.</p>
+      <p begin="00:40:31.326" end="00:40:34.058">You can say I'm not a good comedian,<br/>it does't bother me.</p>
+      <p begin="00:40:34.058" end="00:40:39.369">You say you didn't like me<br/>as an actress, it's killing me.</p>
+      <p begin="00:40:39.369" end="00:40:44.372">And I don't want that in New York,<br/>but I know I'm an actress.</p>
+      <p begin="00:40:44.372" end="00:40:51.769">It's all about acting, my career is an<br/>actress' career. And I play a comedian.</p>
+      <p begin="00:40:54.261" end="00:40:57.952">So it's over, it's over.</p>
+      <p begin="00:40:57.952" end="00:41:00.722">No one will ever take me<br/>seriously as an actress.</p>
+      <p begin="00:41:12.896" end="00:41:14.884">Don't be down-hearted.<br/>Are you down-hearted?</p>
+      <p begin="00:41:14.884" end="00:41:16.061">I'm not down -- I'm just --</p>
+      <p begin="00:41:16.061" end="00:41:19.781">it's not what I thought<br/>it was going to happen.</p>
+      <p begin="00:41:19.781" end="00:41:23.829">I thought what was going to happen was<br/>I'm gonna sail in from Edinburgh,</p>
+      <p begin="00:41:23.829" end="00:41:25.897">everyone was going to love it</p>
+      <p begin="00:41:25.897" end="00:41:27.396">and then we were going<br/>to pick our producer</p>
+      <p begin="00:41:27.396" end="00:41:32.504">and then move it forward and change it.<br/>But not this like...</p>
+      <p begin="00:41:32.504" end="00:41:36.215">And of course there is no Billy around.<br/>Billy is never around for trouble.</p>
+      <p begin="00:41:36.215" end="00:41:37.214">[Sean] Yeah.</p>
+      <p begin="00:41:37.214" end="00:41:38.673">This isn't trouble, but you know.</p>
+      <p begin="00:41:38.673" end="00:41:40.547">Any how.</p>
+      <p begin="00:41:42.120" end="00:41:45.687">&#9834; [music] &#9834;</p>
+      <p begin="00:41:45.687" end="00:41:47.790">The play is over and it hurts very much,</p>
+      <p begin="00:41:47.790" end="00:41:51.787">but I gotta take a deep breath<br/>and start again.</p>
+      <p begin="00:41:51.787" end="00:41:55.247">&#9834; [music] &#9834;</p>
+      <p begin="00:41:55.247" end="00:42:00.491">[airplane roaring]</p>
+      <p begin="00:42:07.140" end="00:42:09.589">It wouldn't kill you<br/>to get me another commercial.</p>
+      <p begin="00:42:09.589" end="00:42:13.854">Just remember when they come in<br/>and ask for a man, I can be very butch.</p>
+      <p begin="00:42:13.854" end="00:42:19.878">So she'll do anything and really<br/>get into it, like she loves it.</p>
+      <p begin="00:42:19.878" end="00:42:20.969">[male voice] Okay.</p>
+      <p begin="00:42:20.969" end="00:42:24.268">Okay, well, if there isn't anything else,<br/>I'm very depressed.</p>
+      <p begin="00:42:24.268" end="00:42:25.334">[Billy] Bye.</p>
+      <p begin="00:42:25.334" end="00:42:26.385">[Jocelyn] Bye Steve.</p>
+      <p begin="00:42:26.385" end="00:42:28.482">[Steve] Okay, bye.</p>
+      <p begin="00:42:33.795" end="00:42:37.047">I don't want to retire,<br/>I don't want to go and sit in the sun,</p>
+      <p begin="00:42:37.047" end="00:42:42.422">I don't want to learn and to garden.<br/>I paint, who cares?</p>
+      <p begin="00:42:42.422" end="00:42:43.900">[beep, beep, beep]</p>
+      <p begin="00:42:43.900" end="00:42:45.571">[Billy] Hello, Emily Hope.</p>
+      <p begin="00:42:45.571" end="00:42:48.388">[Emily] Hi guys, a pleasure<br/>to meet you both,</p>
+      <p begin="00:42:48.388" end="00:42:50.386">Explain to us what you're offering.</p>
+      <p begin="00:42:50.386" end="00:42:53.648" region="top"> Yes, Platinum Rye<br/>is hired by the ad agencies</p>
+      <p begin="00:42:53.648" end="00:42:57.111" region="top"> to plug in celebrities to different<br/>endorsement possibilities.</p>
+      <p begin="00:42:57.111" end="00:42:58.110">Yes?</p>
+      <p begin="00:42:58.110" end="00:43:00.264" region="top"> [Emily] And they want to have<br/>a meeting with Joan and talk about</p>
+      <p begin="00:43:00.264" end="00:43:02.001" region="top"> where can we put her in.</p>
+      <p begin="00:43:02.001" end="00:43:03.081">I will do anything.</p>
+      <p begin="00:43:03.081" end="00:43:07.442">I will knock my teeth out<br/>and do dentasure or whatever it is.</p>
+      <p begin="00:43:07.442" end="00:43:09.376">I mean, she's done--</p>
+      <p begin="00:43:09.376" end="00:43:11.386">I will wear a diaper, I don't give a shit.</p>
+      <p begin="00:43:11.386" end="00:43:17.249">[Larry Thompson] Joan has a fanaticism,<br/>a maniacal focus to succeed.</p>
+      <p begin="00:43:17.249" end="00:43:19.889">And works at it every day.</p>
+      <p begin="00:43:19.889" end="00:43:24.465">I remember once meeting with<br/>Richard Pryor. And I sat with him</p>
+      <p begin="00:43:24.465" end="00:43:27.965">and spent an hour with him<br/>about his career, I said,</p>
+      <p begin="00:43:27.965" end="00:43:29.483">"Okay Richard what we're going to do is</p>
+      <p begin="00:43:29.483" end="00:43:31.389">we're going to do this,<br/>we're going to do that,</p>
+      <p begin="00:43:31.389" end="00:43:33.347">and we're going to plan on this<br/>and then in the next year,</p>
+      <p begin="00:43:33.347" end="00:43:35.213">we're going to do this<br/>we're gonna do that</p>
+      <p begin="00:43:35.213" end="00:43:37.897">and he looked at me and he says,<br/>"Larry that's all great,</p>
+      <p begin="00:43:37.897" end="00:43:40.057">but what the fuck do we do Monday?"</p>
+      <p begin="00:43:40.057" end="00:43:47.067">That's where Joan is.<br/>"What the fuck do we do Monday?"</p>
+      <p begin="00:43:47.067" end="00:43:48.665">[Jocelyn] What is this?</p>
+      <p begin="00:43:48.665" end="00:43:50.964">That's my thing I've been reading.</p>
+      <p begin="00:43:50.964" end="00:43:55.822">I am holding dossiers of all the people<br/>for the Celebrity Apprentice</p>
+      <p begin="00:43:55.822" end="00:44:00.141">that we pulled off of the Internet.</p>
+      <p begin="00:44:00.141" end="00:44:03.956">Rande, R-A-N-D-E.<br/>Turn ons:</p>
+      <p begin="00:44:03.956" end="00:44:07.417">Taking in a good movie<br/>while spending time with loved ones</p>
+      <p begin="00:44:07.417" end="00:44:09.598">and my beautiful puppy, Mercedes.</p>
+      <p begin="00:44:09.598" end="00:44:10.669">Aw.</p>
+      <p begin="00:44:10.669" end="00:44:13.107">Turn offs: Negative people<br/>who are unkind</p>
+      <p begin="00:44:13.107" end="00:44:15.105">and have no respect for others.</p>
+      <p begin="00:44:15.105" end="00:44:16.715">Well, she's going to hate me.</p>
+      <p begin="00:44:16.715" end="00:44:17.711">Yeah, exactly.</p>
+      <p begin="00:44:17.711" end="00:44:22.599">I'm doing Celebrity Apprentice because<br/>it's face time on NBC</p>
+      <p begin="00:44:22.599" end="00:44:28.204">and NBC has not let me be on NBC<br/>since the Carson show.</p>
+      <p begin="00:44:28.204" end="00:44:30.855">I didn't want her to do it.<br/>She didn't want to do it.</p>
+      <p begin="00:44:30.855" end="00:44:38.151">I thought it was F Class people,<br/>but it is face time prime time network.</p>
+      <p begin="00:44:38.151" end="00:44:44.753">I think they'd be stupid to put me off<br/>the first 4 shows,</p>
+      <p begin="00:44:44.753" end="00:44:48.950">so I maybe very free<br/>the second half of October.</p>
+      <p begin="00:44:48.950" end="00:44:52.110">I think they are not going<br/>to throw me off in the beginning</p>
+      <p begin="00:44:52.110" end="00:44:55.341">because I'm the only one<br/>kind of that's a name.</p>
+      <p begin="00:44:55.341" end="00:44:57.160">Even though Donald says,</p>
+      <p begin="00:44:57.160" end="00:44:58.712">"These internationally known --</p>
+      <p begin="00:44:58.712" end="00:45:00.375">Entrepreneurs</p>
+      <p begin="00:45:00.375" end="00:45:01.902">...Entrepreneurs celebrities."</p>
+      <p begin="00:45:01.902" end="00:45:03.491">They had Paul Newman.</p>
+      <p begin="00:45:03.491" end="00:45:05.754">You know, Billy, I'm going to say that<br/>in the Press Release,</p>
+      <p begin="00:45:05.754" end="00:45:08.383">that I was told Paul Newman was going to<br/>be here.</p>
+      <p begin="00:45:10.363" end="00:45:13.793">I'm actually very excited<br/>about Celebrity Apprentice</p>
+      <p begin="00:45:13.793" end="00:45:17.191">because Melissa, my daughter,<br/>is going to be on the show with me,</p>
+      <p begin="00:45:17.191" end="00:45:20.421">which means we'll have a lot<br/>of time to spend together.</p>
+      <p begin="00:45:21.342" end="00:45:23.676">Have you had your hair done yet?</p>
+      <p begin="00:45:23.676" end="00:45:24.679">No.</p>
+      <p begin="00:45:24.679" end="00:45:28.474">Jesus fucking Christ, Melissa, why?<br/>- It's fine.</p>
+      <p begin="00:45:28.474" end="00:45:30.116">We've got 40 minutes,<br/>that's more than enough.</p>
+      <p begin="00:45:31.329" end="00:45:33.011">That's more than enough, mom.</p>
+      <p begin="00:45:33.011" end="00:45:34.482">No, it's not.</p>
+      <p begin="00:45:34.482" end="00:45:35.737">For my hair, yes, it is.</p>
+      <p begin="00:45:35.737" end="00:45:37.197">All right, whatever.</p>
+      <p begin="00:45:37.197" end="00:45:41.014">Melissa red-eyed in<br/>from LA this morning</p>
+      <p begin="00:45:41.014" end="00:45:44.039">and we started taping<br/>Celebrity Apprentice tonight.</p>
+      <p begin="00:45:45.998" end="00:45:50.835">You've got to stop smoking immediately.<br/>I went to a pulmonary guy today.</p>
+      <p begin="00:45:50.835" end="00:45:52.533">Am I boring you?</p>
+      <p begin="00:45:52.533" end="00:45:54.303">No, no, I'm listening.</p>
+      <p begin="00:45:54.303" end="00:45:56.866">I brought all my gum with me.<br/>I'm down to like 2 for a day, that's it.</p>
+      <p begin="00:45:56.866" end="00:45:58.774">I'm telling you--</p>
+      <p begin="00:45:58.774" end="00:46:01.765">I know, but that's--you know,<br/>be supporive that I'm down to that.</p>
+      <p begin="00:46:01.765" end="00:46:07.069">He said women react differently<br/>to cigarettes than men.</p>
+      <p begin="00:46:07.069" end="00:46:08.535">I'm saying I'm down to like 2 or 3 a day.</p>
+      <p begin="00:46:08.535" end="00:46:12.493">He said, more woman are dying<br/>of lung cancer than breast cancer.</p>
+      <p begin="00:46:12.493" end="00:46:16.192">And nobody's discussing that.<br/>So that's very interesting.</p>
+      <p begin="00:46:16.192" end="00:46:17.810">Well, I'm down to like, 2 to 3 a day.<br/>So--</p>
+      <p begin="00:46:17.810" end="00:46:19.078">Yeah, I'm just telling--<br/>What you're saying, I know.</p>
+      <p begin="00:46:19.078" end="00:46:21.375">...you're really loading the gun.<br/>- No, I know. I know.</p>
+      <p begin="00:46:21.375" end="00:46:24.417">But I'm just saying at least be supportive<br/>that I've got it down to that.</p>
+      <p begin="00:46:24.417" end="00:46:26.628">You scare the bejesus out of me.</p>
+      <p begin="00:46:30.163" end="00:46:34.592">Great pressure is, what if<br/>she gets voted off ahead of me?</p>
+      <p begin="00:46:34.592" end="00:46:36.905">It's going to be very traumatic.</p>
+      <p begin="00:46:36.905" end="00:46:40.340">I would rather I get voted off<br/>ahead of her.</p>
+      <p begin="00:46:40.340" end="00:46:49.099">I know, that I will always hold back,<br/>I know that and so--</p>
+      <p begin="00:46:49.099" end="00:46:53.184">'cause I don't want ever<br/>to come out brighter than Melissa</p>
+      <p begin="00:46:53.184" end="00:46:54.959">and smarter than Melissa.</p>
+      <p begin="00:46:54.959" end="00:46:59.669">I just don't want--<br/>I don't compete with her in that level.</p>
+      <p begin="00:46:59.669" end="00:47:02.476">I believe that consciously<br/>she would believe that</p>
+      <p begin="00:47:02.476" end="00:47:05.870">and then even if I did win<br/>she'd say she held back,</p>
+      <p begin="00:47:07.374" end="00:47:10.909">but I don't think she really could.</p>
+      <p begin="00:47:10.909" end="00:47:12.304">Okay, see ya later.</p>
+      <p begin="00:47:12.304" end="00:47:13.364">[Driver] See you in a bit.</p>
+      <p begin="00:47:13.364" end="00:47:16.337">[Melissa Rivers] In the business,<br/>you have to put yourself first.</p>
+      <p begin="00:47:16.337" end="00:47:18.589">You gotta protect yourself.</p>
+      <p begin="00:47:18.589" end="00:47:22.460">And my mother will tell you that<br/>she only wants me to win</p>
+      <p begin="00:47:22.460" end="00:47:27.184">and then she'll do something without even<br/>realizing it that it's very destructive.</p>
+      <p begin="00:47:27.184" end="00:47:29.802">And I think it's a very tough dynamic,</p>
+      <p begin="00:47:29.802" end="00:47:33.623">because I truly think<br/>it's completely subconscious with her.</p>
+      <p begin="00:47:36.106" end="00:47:37.835">I've got something here,<br/>you open that.</p>
+      <p begin="00:47:37.835" end="00:47:40.094">It's a nice Doonie &amp; Bourke bag.</p>
+      <p begin="00:47:40.094" end="00:47:41.577">It's a very nice goodie bag.</p>
+      <p begin="00:47:41.577" end="00:47:42.576">Yes.</p>
+      <p begin="00:47:42.576" end="00:47:46.848">I feel very out of place,<br/>I'm the oldest by far.</p>
+      <p begin="00:47:46.848" end="00:47:50.157">They all were all talking and chatting<br/>and for a long time I stood by myself.</p>
+      <p begin="00:47:50.157" end="00:47:52.243">I feel very isolated.</p>
+      <p begin="00:47:52.243" end="00:47:54.310">Well, I see you also bring a lot of that<br/>on yourself.</p>
+      <p begin="00:47:54.310" end="00:47:58.495">I think you don't make any--<br/>Like tonight, you made no effort</p>
+      <p begin="00:47:58.495" end="00:48:01.295">to be like welcoming.</p>
+      <p begin="00:48:01.295" end="00:48:02.302">I stood there.</p>
+      <p begin="00:48:02.302" end="00:48:04.307">Well, no, I'm saying<br/>you were on your Blackberry so fast,</p>
+      <p begin="00:48:04.307" end="00:48:06.654">and I tried to introduce you to people<br/>and you were already like, "Oh, hi,"</p>
+      <p begin="00:48:06.654" end="00:48:09.261">because you get so shy and that's<br/>what people don't know about you.</p>
+      <p begin="00:48:09.261" end="00:48:11.303">Hell, I wouldn't walk over to you.</p>
+      <p begin="00:48:11.303" end="00:48:12.689">Well, they didn't.</p>
+      <p begin="00:48:12.689" end="00:48:14.446">But you set it up for that,</p>
+      <p begin="00:48:14.446" end="00:48:16.844">you don't realize<br/>that you do that kinda--</p>
+      <p begin="00:48:16.844" end="00:48:20.952">All stand ups are innately insecure.</p>
+      <p begin="00:48:20.952" end="00:48:24.294">Who would stand<br/>on a stage by themselves</p>
+      <p begin="00:48:24.294" end="00:48:27.291">and say laugh,<br/>laugh at me, laugh with me</p>
+      <p begin="00:48:27.291" end="00:48:29.280">I don't care just laugh.</p>
+      <p begin="00:48:29.280" end="00:48:32.165">And I think that's just sort of<br/>the nature of the beast</p>
+      <p begin="00:48:32.165" end="00:48:36.318">Overall, it just drove my perception<br/>growing up in the world of comedians,</p>
+      <p begin="00:48:36.318" end="00:48:39.963">they are all very damaged,<br/>and they need that reassurance,</p>
+      <p begin="00:48:39.963" end="00:48:41.469">it's all a cover.</p>
+      <p begin="00:48:41.469" end="00:48:45.808">&#9834; [music] &#9834;</p>
+      <p begin="00:48:45.808" end="00:48:52.788">It's been a blood bath.<br/>They don't play fair, they cheat.</p>
+      <p begin="00:48:52.788" end="00:48:58.015">So Melissa is fired on Tuesday<br/>and I know Joan was very upset.</p>
+      <p begin="00:48:58.015" end="00:49:01.142">She is a snake.</p>
+      <p begin="00:49:01.142" end="00:49:03.118">Annie Duke was on the team with Melissa</p>
+      <p begin="00:49:03.118" end="00:49:07.841">and absolutely conspired<br/>to get Melissa fired.</p>
+      <p begin="00:49:07.841" end="00:49:10.756">Annie Douch, that fucking moron.</p>
+      <p begin="00:49:10.756" end="00:49:14.572">Would you, right now, grab onto my blog.</p>
+      <p begin="00:49:14.572" end="00:49:15.571">Yup.</p>
+      <p begin="00:49:15.571" end="00:49:16.841">And onto my Twitter, it should be,</p>
+      <p begin="00:49:16.841" end="00:49:19.667">"Anne Douche, that moron,<br/>she should kiss my ass."</p>
+      <p begin="00:49:19.667" end="00:49:23.839">She should kiss my Jewish ass.<br/>But not with those non-kosher lips.</p>
+      <p begin="00:49:25.344" end="00:49:28.040">Not with those big lips--that's it.</p>
+      <p begin="00:49:28.040" end="00:49:30.701">She should kiss my Jewish ass,<br/>but not with those big pig lips.</p>
+      <p begin="00:49:32.931" end="00:49:36.453">You think that's too rough?</p>
+      <p begin="00:49:36.453" end="00:49:38.858">So tell me, you didn't think<br/>it was going to get vicious?</p>
+      <p begin="00:49:38.858" end="00:49:42.135">No, I just thought it was<br/>at least going to be moderately fair.</p>
+      <p begin="00:49:42.135" end="00:49:46.542">And my concern is how I will be portrayed.</p>
+      <p begin="00:49:46.542" end="00:49:49.169">because I have more of an<br/>image issue than you do.</p>
+      <p begin="00:49:49.169" end="00:49:52.646">So that's a little unsettling.</p>
+      <p begin="00:49:52.646" end="00:49:54.883">It meant you're gonna to look<br/>very angry, they already said,</p>
+      <p begin="00:49:54.883" end="00:49:57.184">when you left you,<br/>really called them all kinds of names.</p>
+      <p begin="00:49:57.184" end="00:49:58.327">Um-hm.</p>
+      <p begin="00:49:58.327" end="00:49:59.567">So that's there.<br/>But you all--</p>
+      <p begin="00:49:59.567" end="00:50:01.290">But if they cut it to show<br/>that I was telling the truth.</p>
+      <p begin="00:50:01.290" end="00:50:03.532">Oh, they are not going to cut it<br/>to show that you were telling the truth</p>
+      <p begin="00:50:03.532" end="00:50:05.610">'cause they don't care,<br/>they are gonna show that you left...</p>
+      <p begin="00:50:05.610" end="00:50:06.664">[Melissa] Pissed off.</p>
+      <p begin="00:50:06.664" end="00:50:08.642">...pissed off.<br/>But you also came back</p>
+      <p begin="00:50:08.642" end="00:50:10.441">and you also worked<br/>and you also just--that's all right.</p>
+      <p begin="00:50:10.441" end="00:50:11.574">But I'm just saying--</p>
+      <p begin="00:50:11.574" end="00:50:13.167">I think it makes you more interesting,<br/>Melissa, frankly.</p>
+      <p begin="00:50:13.167" end="00:50:15.222">They're gonna go on saying...</p>
+      <p begin="00:50:15.222" end="00:50:18.619">You have done really an amazing job<br/>but Melissa, you're fired.</p>
+      <p begin="00:50:18.619" end="00:50:20.468">Whore, pit viper.</p>
+      <p begin="00:50:20.468" end="00:50:22.716">I want my [beep],<br/>I want it now.</p>
+      <p begin="00:50:23.851" end="00:50:24.935">I'm not leaving without it.</p>
+      <p begin="00:50:26.603" end="00:50:29.785">It makes me very upset<br/>to see her that hurt.</p>
+      <p begin="00:50:30.497" end="00:50:35.125">It wasn't even her--<br/>it was the frustration of the lies.</p>
+      <p begin="00:50:36.843" end="00:50:41.004">It is such a cruel business.<br/>Sometimes, I just want to say to her,</p>
+      <p begin="00:50:41.049" end="00:50:44.352">"Why in God's name are you<br/>opening yourself up to such punishment?"</p>
+      <p begin="00:50:45.103" end="00:50:50.853">Mine is not a choice.<br/>Mine is, ah--I always say it's like--</p>
+      <p begin="00:50:51.297" end="00:50:52.356">people always say,<br/>"Why are you in the business?"</p>
+      <p begin="00:50:52.394" end="00:50:56.538">Ask a nun why she's a nun.<br/>That's my drive, at 4:00 in the morning</p>
+      <p begin="00:50:56.614" end="00:50:59.278">in the airport.<br/>It's I have no choice.</p>
+      <p begin="00:51:00.060" end="00:51:03.166">And that's where I was<br/>from the time I could figure it out.</p>
+      <p begin="00:51:04.060" end="00:51:08.969">No question where I was going.<br/>There were not drugs, there was no sex,</p>
+      <p begin="00:51:09.002" end="00:51:12.866">there was no nothing,<br/>nothing 'til I got my job.</p>
+      <p begin="00:51:12.904" end="00:51:14.299">That's where I was going.</p>
+      <p begin="00:51:14.362" end="00:51:15.935">And just go away.</p>
+      <p begin="00:51:21.463" end="00:51:25.559">[siren wailing]</p>
+      <p begin="00:51:25.622" end="00:51:36.048">&#9834; [music] &#9834;</p>
+      <p begin="00:51:36.081" end="00:51:38.264">We're having--it's going to be<br/>a long evening.</p>
+      <p begin="00:51:38.324" end="00:51:39.961">We're doing two shows tonight.</p>
+      <p begin="00:51:40.871" end="00:51:42.074">Joan Rivers?<br/>- Yes?</p>
+      <p begin="00:51:42.168" end="00:51:44.054">Do you mind autographing these for me?<br/>- Oh, my goodness yes, of course.</p>
+      <p begin="00:51:44.133" end="00:51:45.364">I love you.</p>
+      <p begin="00:51:45.457" end="00:51:46.654">Every Wednesday night when I'm<br/>in New York,</p>
+      <p begin="00:51:46.753" end="00:51:49.773">I work at some tiny little club<br/>where I can practice my act.</p>
+      <p begin="00:51:49.930" end="00:51:53.497">I just talk about anything<br/>and everything that annoys me.</p>
+      <p begin="00:51:53.749" end="00:51:54.748">Thank you.</p>
+      <p begin="00:51:54.779" end="00:51:56.415">[male fan] You don't get the recognition<br/>you deserve.</p>
+      <p begin="00:51:56.487" end="00:51:57.920">Damn right, William.</p>
+      <p begin="00:51:58.956" end="00:52:03.281">Okay, see?<br/>I have a fan. I have William.</p>
+      <p begin="00:52:04.339" end="00:52:05.740">The minute your not angry about things.</p>
+      <p begin="00:52:05.810" end="00:52:08.753">The minute you're not upset about things.<br/>What are you talking about?</p>
+      <p begin="00:52:09.497" end="00:52:12.908">Oh, my grandson was so cute--<br/>Pfft! It's not my comedy.</p>
+      <p begin="00:52:14.452" end="00:52:17.027">I'm furious about everything.<br/>Furious about everything.</p>
+      <p begin="00:52:17.355" end="00:52:20.627">Good things don't always happen<br/>to good people</p>
+      <p begin="00:52:20.627" end="00:52:22.625">and I'm very angry about it.</p>
+      <p begin="00:52:22.929" end="00:52:25.638">But I didn't have the anger<br/>to be a comedian.</p>
+      <p begin="00:52:25.638" end="00:52:27.636">Anger fuels the comedy.</p>
+      <p begin="00:52:27.987" end="00:52:29.450">[audience laughing]</p>
+      <p begin="00:52:29.498" end="00:52:32.925">I hate everybody.<br/>I hate old people.</p>
+      <p begin="00:52:32.974" end="00:52:35.480">I hate ugly children.<br/>I hate fat people.</p>
+      <p begin="00:52:35.508" end="00:52:38.256">I hated China.<br/>I hate whiners.</p>
+      <p begin="00:52:38.327" end="00:52:39.854">Oh, I hate dead people.</p>
+      <p begin="00:52:39.906" end="00:52:42.473">I even have the three wise men<br/>who I hate.</p>
+      <p begin="00:52:42.553" end="00:52:46.107">I love anal sex because you can<br/>do other things, you know,</p>
+      <p begin="00:52:46.181" end="00:52:51.124">it's like, you can iron,<br/>you can read a book.</p>
+      <p begin="00:52:51.836" end="00:52:53.162">[audience laughing]</p>
+      <p begin="00:52:53.211" end="00:52:55.069">Get your e-mails on your Blackberry.</p>
+      <p begin="00:52:55.479" end="00:53:01.237">[audience laughing]<br/>[applause]</p>
+      <p begin="00:53:03.086" end="00:53:16.972">&#9834; [music] &#9834;</p>
+      <p begin="00:53:17.025" end="00:53:22.380">Well, right now, we're getting<br/>this 17 foot table up the stairs.</p>
+      <p begin="00:53:22.877" end="00:53:25.888">These two guys just walked it up<br/>seven flights and...</p>
+      <p begin="00:53:26.213" end="00:53:27.683">Just bring it right here.</p>
+      <p begin="00:53:27.972" end="00:53:29.519">Today is Thanksgiving,</p>
+      <p begin="00:53:29.858" end="00:53:32.148">favorite time of the year.<br/>Favorite time of the year.</p>
+      <p begin="00:53:32.575" end="00:53:34.596">Lucy and Cooper<br/>come up of course.</p>
+      <p begin="00:53:34.647" end="00:53:38.016">And then I invite my friends,<br/>and many of them are strays,</p>
+      <p begin="00:53:38.106" end="00:53:41.032">are single woman<br/>or my neighbors from downstairs.</p>
+      <p begin="00:53:41.426" end="00:53:42.774">It's sad.</p>
+      <p begin="00:53:42.774" end="00:53:44.017">[Jocelyn] Why is that?</p>
+      <p begin="00:53:44.017" end="00:53:47.507">I don't know, just sad that it seems<br/>you have fewer friends in New York.</p>
+      <p begin="00:53:48.192" end="00:53:50.880">And I know when something<br/>wonderful happens</p>
+      <p begin="00:53:50.920" end="00:53:56.235">there maybe three people I call,<br/>when maybe, 15 years ago,</p>
+      <p begin="00:53:56.235" end="00:54:00.239">there would have been six people I call.<br/>So many people are dying, my God.</p>
+      <p begin="00:54:02.270" end="00:54:05.574">They'd better eat fast tonight.<br/>[laughing]</p>
+      <p begin="00:54:06.479" end="00:54:08.025">Oh, it's cold.</p>
+      <p begin="00:54:08.984" end="00:54:13.456">Every Thanksgiving, I bring meals<br/>from God's Love We Deliver,</p>
+      <p begin="00:54:13.721" end="00:54:16.298">to people who absolutely are<br/>too ill to go out.</p>
+      <p begin="00:54:17.586" end="00:54:20.597">This year, I asked my grandson,<br/>Cooper to come with me.</p>
+      <p begin="00:54:22.035" end="00:54:25.613">If you what?<br/>If we can stop at an electronic store...</p>
+      <p begin="00:54:25.816" end="00:54:28.108">Yes, Ma'am.<br/>- ...his PSP is broken.</p>
+      <p begin="00:54:29.667" end="00:54:32.686">But if you're very good,<br/>I'll buy you a new one for your birthday.</p>
+      <p begin="00:54:32.934" end="00:54:35.402">Well, my friend had three of them<br/>and he gave me one.</p>
+      <p begin="00:54:36.131" end="00:54:38.439">That's very nice.<br/>Is this the one he gave you?</p>
+      <p begin="00:54:38.515" end="00:54:39.517">Yes.</p>
+      <p begin="00:54:40.573" end="00:54:44.764">He had three of them?<br/>Has he got a single grandfather?</p>
+      <p begin="00:54:45.584" end="00:54:47.362">[Joan laughing]</p>
+      <p begin="00:54:55.375" end="00:54:59.363">Flip your hands.<br/>You have great hands Cooper..</p>
+      <p begin="00:55:01.208" end="00:55:02.904">And God's Love we deliver,<br/>when I started out</p>
+      <p begin="00:55:02.904" end="00:55:04.902">and I'm the board,<br/>we used to give</p>
+      <p begin="00:55:05.010" end="00:55:07.881">AIDS patients that were going,<br/>we would give them food.</p>
+      <p begin="00:55:08.024" end="00:55:09.720">Well, now AIDS is chronic</p>
+      <p begin="00:55:09.821" end="00:55:13.080">and I'm still delivering the fucking food,<br/>I'm so pissed, I am so--</p>
+      <p begin="00:55:13.162" end="00:55:14.732">Oh, do you know what it's like?</p>
+      <p begin="00:55:14.808" end="00:55:18.133">Thanksgiving morning, ding dong,<br/>the guys opens the door, "You again?"</p>
+      <p begin="00:55:18.460" end="00:55:22.434">[audience laughing]</p>
+      <p begin="00:55:22.560" end="00:55:25.333">"This is the 3rd fucking<br/>Thanksgiving in a row, buddy."</p>
+      <p begin="00:55:26.174" end="00:55:28.243">"Ms. Rivers, just leave it over there.<br/>I'm on my way to the gym."</p>
+      <p begin="00:55:28.376" end="00:55:32.493">The gym?<br/>[audience laughing]</p>
+      <p begin="00:55:32.773" end="00:55:35.960">You're going to die today,<br/>AIDS or me, I'm not sure which.</p>
+      <p begin="00:55:36.013" end="00:55:38.002">[audience laughing]</p>
+      <p begin="00:55:38.453" end="00:55:43.815">Oh look, she's got--awww, how nice--<br/>do you wanna ring?</p>
+      <p begin="00:55:45.269" end="00:55:46.914">Hello, hello.<br/>- [female voice] Hi.</p>
+      <p begin="00:55:47.025" end="00:55:49.967">I'm Joan Rivers, this is my grandson,<br/>Cooper...</p>
+      <p begin="00:55:50.187" end="00:55:51.825">Oh, wow. Nice to see you.</p>
+      <p begin="00:55:51.892" end="00:55:55.137">Joan Rivers, "The Joan Rivers?"<br/>- I pay the bills.</p>
+      <p begin="00:55:56.388" end="00:55:59.860">You have entertained me for years,<br/>Miss Rivers.</p>
+      <p begin="00:55:59.893" end="00:56:01.185">I'm so glad.</p>
+      <p begin="00:56:01.278" end="00:56:02.839">I'm a photographer.</p>
+      <p begin="00:56:02.952" end="00:56:05.719">And you can see there's something<br/>going on here. That's wonderful.</p>
+      <p begin="00:56:05.829" end="00:56:09.011">Right there, I photographed<br/>the same drugstore for 20 years.</p>
+      <p begin="00:56:09.194" end="00:56:12.328">Every time they change the<br/>price of cigarettes.</p>
+      <p begin="00:56:12.950" end="00:56:15.821">Oh, how brilliant is that?<br/>- Thank you.</p>
+      <p begin="00:56:15.913" end="00:56:18.331">Where was it shown?<br/>- Life Magazine.</p>
+      <p begin="00:56:18.645" end="00:56:21.642">I have taken<br/>over a hundred thousand photos,</p>
+      <p begin="00:56:21.642" end="00:56:23.677">so you might even know my work.</p>
+      <p begin="00:56:24.094" end="00:56:26.525">Look up flofox.com.</p>
+      <p begin="00:56:27.589" end="00:56:29.223">[Flo] Thank you.<br/>- [Jocelyn] Happy Thanksgiving Dinner.</p>
+      <p begin="00:56:29.223" end="00:56:30.222">[Flo] Thank you.</p>
+      <p begin="00:56:30.222" end="00:56:32.324">I can't wait to get out of here<br/>and get home and look you up.</p>
+      <p begin="00:56:32.555" end="00:56:36.158">Flo Fox, baby.<br/>My name is Flo Fox.</p>
+      <p begin="00:56:36.437" end="00:56:37.641">[TV Host] ... Flo Fox right now.</p>
+      <p begin="00:56:37.718" end="00:56:40.260">What happened that caused your<br/>eyesight to start to fail?</p>
+      <p begin="00:56:40.307" end="00:56:42.905">I believe it's connected<br/>with multiple sclerosis.</p>
+      <p begin="00:56:42.951" end="00:56:45.225">I walk with a cane,<br/>I'm a little off-balanced.</p>
+      <p begin="00:56:45.324" end="00:56:47.188">First my eyes went,<br/>and ah...</p>
+      <p begin="00:56:47.422" end="00:56:49.296">Oh, so sad.</p>
+      <p begin="00:56:49.387" end="00:56:57.606">There's a sexy, young, artistic, edgy,<br/>New York tough Bohemian girl.</p>
+      <p begin="00:56:57.791" end="00:56:58.938">It's amazing isn't it?</p>
+      <p begin="00:56:58.963" end="00:57:02.119">Life is so mean.</p>
+      <p begin="00:57:07.272" end="00:57:16.591">[people talking]</p>
+      <p begin="00:57:17.942" end="00:57:18.971">[ting, ting, ting]</p>
+      <p begin="00:57:19.134" end="00:57:20.747">Thank you all for being here.</p>
+      <p begin="00:57:21.029" end="00:57:23.680">This morning,<br/>I delivered meals with my grandson,</p>
+      <p begin="00:57:24.123" end="00:57:29.360">for God's Love We Deliver,<br/>and may I tell you, we are so blessed,</p>
+      <p begin="00:57:29.410" end="00:57:31.617">we are so blessed.<br/>I thank God every minute</p>
+      <p begin="00:57:31.665" end="00:57:34.656">that I ever step into a limousine,<br/>I know it sounds silly.</p>
+      <p begin="00:57:34.689" end="00:57:38.681">Since 1968, they have been<br/>sending limousines for me.</p>
+      <p begin="00:57:39.102" end="00:57:44.709">And I never get into one that I don't say,<br/>"Thank you God. I am so chosen."</p>
+      <p begin="00:57:44.822" end="00:57:47.671">And I thank you all for being here<br/>and I thank God</p>
+      <p begin="00:57:47.721" end="00:57:49.244">for another wonderful Thanksgiving.</p>
+      <p begin="00:57:49.290" end="00:57:51.316">[female voice] Here, here.<br/>[applause]</p>
+      <p begin="00:57:51.363" end="00:57:53.969">[people talking]</p>
+      <p begin="00:57:57.567" end="00:58:00.818">&#9834; [music] &#9834;</p>
+      <p begin="00:58:00.852" end="00:58:03.703">We're at the Kennedy Center<br/>in Washington D.C.</p>
+      <p begin="00:58:03.970" end="00:58:06.757">I am here to do<br/>a tribute to George Carlin.</p>
+      <p begin="00:58:07.718" end="00:58:09.777">I find this whole thing<br/>very hypocritical.</p>
+      <p begin="00:58:10.181" end="00:58:12.620">This is everything that George<br/>claimed he wasn't.</p>
+      <p begin="00:58:12.861" end="00:58:15.463">George hated the establishment.</p>
+      <p begin="00:58:15.463" end="00:58:17.560">George hated the people<br/>that are going to be there tonight,</p>
+      <p begin="00:58:17.588" end="00:58:22.515">which is going to be a bunch of older,<br/>very wealthy Republications.</p>
+      <p begin="00:58:22.742" end="00:58:26.265">All the things that George fought against<br/>tonight will all be together</p>
+      <p begin="00:58:26.358" end="00:58:28.728">because he's getting the Mark Twain Award.</p>
+      <p begin="00:58:29.318" end="00:58:32.810">It's like me getting a big award<br/>from the German Bund.</p>
+      <p begin="00:58:33.793" end="00:58:36.057">[laughs]</p>
+      <p begin="00:58:36.364" end="00:58:44.830">And now for funniest Jewish<br/>not in the ovens, John Rosenberg.</p>
+      <p begin="00:58:45.529" end="00:58:48.692">[laughs]</p>
+      <p begin="00:58:49.019" end="00:58:53.180">But there is an importance to me<br/>for this type of event for comedy</p>
+      <p begin="00:58:53.241" end="00:58:54.971">because I'm always left out of it.</p>
+      <p begin="00:58:55.535" end="00:58:59.567">So for me this is nice to be included,<br/>because I'm usually not included.</p>
+      <p begin="00:59:04.636" end="00:59:08.266">Once a Jew, always a Jew.<br/>[laughing]</p>
+      <p begin="00:59:08.327" end="00:59:10.867">I'm going in to clean that bathroom.</p>
+      <p begin="00:59:11.162" end="00:59:13.302">[male voice] Have you seen that shower<br/>there? It's kind of interesting.</p>
+      <p begin="00:59:14.704" end="00:59:15.812">Oh, look.</p>
+      <p begin="00:59:21.870" end="00:59:23.763">The writers are ready for you<br/>when you want.</p>
+      <p begin="00:59:23.915" end="00:59:25.299">I'm ready for the writers.<br/>- [male voice] Okay.</p>
+      <p begin="00:59:26.026" end="00:59:28.114">Okay, where are the writers?<br/>They're coming in here?</p>
+      <p begin="00:59:28.284" end="00:59:29.283">[male voice] Yeah.</p>
+      <p begin="00:59:29.283" end="00:59:31.808">Is it just the two of us?<br/>- Yeah! Three of us.</p>
+      <p begin="00:59:31.858" end="00:59:34.710">Miss Rivers, the, "Fuck," thing,<br/>I know the executive producers</p>
+      <p begin="00:59:34.750" end="00:59:36.190">are a little concerned about that.</p>
+      <p begin="00:59:36.218" end="00:59:37.217">Yes. And well they should be.</p>
+      <p begin="00:59:37.217" end="00:59:38.973">I will probably have one,<br/>"Fuck," somewhere</p>
+      <p begin="00:59:38.973" end="00:59:40.269">That's fine.</p>
+      <p begin="00:59:40.366" end="00:59:42.326">Just because the organization--<br/>- No exactly, one is fine</p>
+      <p begin="00:59:42.356" end="00:59:44.090">and it will be "bleeped" for TV.<br/>- Yes.</p>
+      <p begin="00:59:44.430" end="00:59:45.832">Thank you.</p>
+      <p begin="00:59:45.949" end="00:59:47.753">[male voice] All right, See ya later.<br/>Thanks Joan. See you in a bit.</p>
+      <p begin="00:59:49.136" end="00:59:51.338">All of them are is so much<br/>funnier than I am.</p>
+      <p begin="00:59:53.956" end="00:59:55.470">See, when you see the line up--</p>
+      <p begin="00:59:55.513" end="00:59:58.302">And you know that John Stewart<br/>as 12 writers work on this.</p>
+      <p begin="00:59:59.797" end="01:00:03.722">And you know Gary<br/>had 6 writers work on this.</p>
+      <p begin="01:00:03.784" end="01:00:06.325">And you know all these people,<br/>look who's here,</p>
+      <p begin="01:00:06.576" end="01:00:08.459">they all have professional staffs.</p>
+      <p begin="01:00:09.833" end="01:00:13.166">&#9834; [music] &#9834;</p>
+      <p begin="01:00:13.243" end="01:00:17.127">[people talking]</p>
+      <p begin="01:00:20.505" end="01:00:24.296">[male reporter] Joan, what does it<br/>feel like to be a comedic icon?</p>
+      <p begin="01:00:24.401" end="01:00:26.069">I'm sure there are comedians<br/>that come up to you</p>
+      <p begin="01:00:26.121" end="01:00:27.338">and say you were an inspiration.</p>
+      <p begin="01:00:27.376" end="01:00:30.588">I'm not ready to be an "Icon."<br/>I'm not ready to be told, "Thank you."</p>
+      <p begin="01:00:30.692" end="01:00:32.518">Fuck you.<br/>[laughing]</p>
+      <p begin="01:00:34.876" end="01:00:39.654">[voice on TV]</p>
+      <p begin="01:00:39.654" end="01:00:40.653">Don't know him.</p>
+      <p begin="01:00:40.653" end="01:00:42.044">[TV announcer] Dennis Leary.<br/>- Clever.</p>
+      <p begin="01:00:42.124" end="01:00:43.958">[TV announcer] Bill Maher.<br/>- Brilliant.</p>
+      <p begin="01:00:43.988" end="01:00:45.437">[TV announcer] Joan Rivers.<br/>- Okay.</p>
+      <p begin="01:00:45.976" end="01:00:47.595">[TV announcer] Gary Shandling.<br/>- Brilliant.</p>
+      <p begin="01:00:47.688" end="01:00:50.184">[TV announcer] John Stewart.<br/>- Smart.</p>
+      <p begin="01:00:50.294" end="01:00:52.519">[TV announcer] Ben Stiller.<br/>- Lucky.</p>
+      <p begin="01:00:52.573" end="01:00:54.376">[TV announcer] And Lily Tomlin.<br/>- Brilliant.</p>
+      <p begin="01:00:55.006" end="01:00:57.762">[TV announcer] Ladies and Gentlemen,<br/>George Carlin.</p>
+      <p begin="01:00:57.834" end="01:00:59.630">[male laughing]</p>
+      <p begin="01:00:59.677" end="01:01:02.011">[audience clapping and cheering]</p>
+      <p begin="01:01:03.066" end="01:01:06.837">Billy Jack's great---lounge.<br/>All my favorite ---,</p>
+      <p begin="01:01:07.341" end="01:01:08.569">I think I'm being caught.</p>
+      <p begin="01:01:09.161" end="01:01:13.072">[female announcer] Smothers Brothers<br/>and Laugh-In and it was just a great time</p>
+      <p begin="01:01:23.108" end="01:01:25.061">[Richard Belzer] Few people<br/>are always funny,</p>
+      <p begin="01:01:25.150" end="01:01:28.609">but certainly one of the chosen people<br/>is our next presenter,</p>
+      <p begin="01:01:29.124" end="01:01:31.795">the fabulous, Joan Rivers,<br/>ladies and gentlemen.</p>
+      <p begin="01:01:31.818" end="01:01:37.025">[applause]</p>
+      <p begin="01:01:37.260" end="01:01:41.424">We used to play these terrible clubs,<br/>literally where you didn't get paid,</p>
+      <p begin="01:01:41.454" end="01:01:42.838">you passed the hat.</p>
+      <p begin="01:01:42.980" end="01:01:45.804">And some nights the hat would come back<br/>with a severed head.</p>
+      <p begin="01:01:46.305" end="01:01:48.144">Some nights...<br/>[audience laughing]</p>
+      <p begin="01:01:48.730" end="01:01:50.927">And they asked me to say<br/>a couple words about George</p>
+      <p begin="01:01:50.957" end="01:01:52.955">and I kept thinking that is so unfair,</p>
+      <p begin="01:01:52.955" end="01:01:55.742">you cannot sum<br/>George Carlin up in 2 words.</p>
+      <p begin="01:01:55.883" end="01:01:57.565">Give me at least 7.</p>
+      <p begin="01:01:57.627" end="01:02:02.072">[audience laughing]<br/>And...</p>
+      <p begin="01:02:04.830" end="01:02:05.977">[Bille Maher] You were so funny.</p>
+      <p begin="01:02:07.633" end="01:02:12.620">I think today went very well.<br/>I think I did not embarrass myself at all.</p>
+      <p begin="01:02:13.070" end="01:02:17.587">I think I was fine.<br/>I think I was funny in a lot of people,</p>
+      <p begin="01:02:17.920" end="01:02:22.189">Not as funny as a lot of people,<br/>but, yeah, I was perfectly fine.</p>
+      <p begin="01:02:25.217" end="01:02:34.579">&#9834; [music] &#9834;</p>
+      <p begin="01:02:34.646" end="01:02:38.804">I am getting ready to go to Wisconsin.<br/>I've never done an act before in mukluks.</p>
+      <p begin="01:02:39.415" end="01:02:41.454">[laughter]<br/>- I have no idea.</p>
+      <p begin="01:02:41.457" end="01:02:44.018">They're scared of me.<br/>When I say, "Where are the gays?"</p>
+      <p begin="01:02:44.254" end="01:02:46.321">They are going to tell us dead,<br/>we killed them.</p>
+      <p begin="01:02:46.352" end="01:02:48.463">[laughter]</p>
+      <p begin="01:02:48.782" end="01:02:51.930">Why am going to Wisconsin?<br/>That thing called money.</p>
+      <p begin="01:02:52.475" end="01:02:54.580">They are so desperate to get me,<br/>they are paying me.</p>
+      <p begin="01:02:55.281" end="01:02:56.875">That's why I'm going to Wisconsin.</p>
+      <p begin="01:03:01.943" end="01:03:05.114">I worked last night.<br/>I work in Tortonto until,</p>
+      <p begin="01:03:05.156" end="01:03:07.678">like, 2:30 in the morning,<br/>on the shopping channel.</p>
+      <p begin="01:03:08.010" end="01:03:09.723">And I got up at 5 o'clock</p>
+      <p begin="01:03:10.328" end="01:03:14.569">to make a 7 o'clock plane or something<br/>to Chicago.</p>
+      <p begin="01:03:14.613" end="01:03:18.108">And then from Chicago, I took a little,<br/>what they call puddle jumper,</p>
+      <p begin="01:03:18.194" end="01:03:19.429">it was adorable.</p>
+      <p begin="01:03:20.427" end="01:03:22.202">How is the gay community here?</p>
+      <p begin="01:03:23.213" end="01:03:27.661">That I really don't know.<br/>- Oh see, ask your cousin.</p>
+      <p begin="01:03:28.033" end="01:03:31.102">[laughing]<br/>- Ask you wife's brother.</p>
+      <p begin="01:03:31.647" end="01:03:33.501">[laughing]<br/>- [female voice] Is this the remote place?</p>
+      <p begin="01:03:33.608" end="01:03:34.607">Oh, no.</p>
+      <p begin="01:03:34.607" end="01:03:36.354">[female voice] Where is the most<br/>remote place you've ever played?</p>
+      <p begin="01:03:36.426" end="01:03:39.420">The most remote place I've ever played<br/>is Reykjavik, Iceland.</p>
+      <p begin="01:03:40.950" end="01:03:42.943">I played on --<br/>- Juneau...</p>
+      <p begin="01:03:44.365" end="01:03:47.549">Oh, are they wrong,<br/>that was called the Texas Motel.</p>
+      <p begin="01:03:48.589" end="01:03:52.022">They are so off.<br/>[laughing]</p>
+      <p begin="01:03:59.590" end="01:04:01.915">Some places, as you know,<br/>are better than others.</p>
+      <p begin="01:04:02.431" end="01:04:05.185">Ah, this will not be<br/>my first choice of decor.</p>
+      <p begin="01:04:07.869" end="01:04:10.560">The audience are gonna be very born again,<br/>I have a feeling.</p>
+      <p begin="01:04:10.780" end="01:04:14.801">Very fundamentalist and they are going<br/>to get very shaken up.</p>
+      <p begin="01:04:16.559" end="01:04:17.650">Get the check.</p>
+      <p begin="01:04:18.927" end="01:04:23.124">Whatever I do on stage-- are they<br/>gonna clean the stage a little bit?</p>
+      <p begin="01:04:23.182" end="01:04:25.489">because I kind of<br/>roll around on that stuff.</p>
+      <p begin="01:04:26.098" end="01:04:28.435">So a little--yuck, it's gum.</p>
+      <p begin="01:04:28.435" end="01:04:30.295">Aren't you the makeup person?<br/>You'll win the award,</p>
+      <p begin="01:04:30.598" end="01:04:33.122">At showing up with no makeup.<br/>Don't you have your make-up?</p>
+      <p begin="01:04:33.820" end="01:04:35.365">Aren't you the makeup girl?</p>
+      <p begin="01:04:35.443" end="01:04:37.776">She's the makeup girl,<br/>you should be wearing makeup.</p>
+      <p begin="01:04:39.504" end="01:04:43.229">May...Good month.</p>
+      <p begin="01:04:43.840" end="01:04:45.570">[male voice] Next year.<br/>- May of next year.</p>
+      <p begin="01:04:47.813" end="01:04:51.694">You leave New York, you leave LA,<br/>you all leave the world.</p>
+      <p begin="01:04:54.978" end="01:04:56.729">But that's what makes it charming.</p>
+      <p begin="01:04:56.817" end="01:05:02.837">&#9834; [music] &#9834;<br/>[cheering and applause]</p>
+      <p begin="01:05:02.864" end="01:05:07.058">Where are we? What the hell is going on?</p>
+      <p begin="01:05:07.106" end="01:05:10.035">I was out in the casino. The guy put<br/>a quarter in and fish came out.</p>
+      <p begin="01:05:10.095" end="01:05:12.032">[audience laughing]</p>
+      <p begin="01:05:12.988" end="01:05:19.393">Never mind Viagra, what about Cialis?<br/>36 fucking hours a man has an erection.</p>
+      <p begin="01:05:19.958" end="01:05:25.880">An 85-year-old man for 36 hours.<br/>That's devil's work.</p>
+      <p begin="01:05:27.135" end="01:05:30.754">And on this poor old dried out old wives<br/>and these guys on top of them,</p>
+      <p begin="01:05:30.845" end="01:05:34.515">in and out, in and out, in and out.<br/>They're going to set them on fire.</p>
+      <p begin="01:05:34.853" end="01:05:37.452">[audience laughing]<br/>- Yes.</p>
+      <p begin="01:05:37.963" end="01:05:43.515">I hate children. The only child<br/>I think I would have liked ever</p>
+      <p begin="01:05:43.597" end="01:05:46.693">was Helen Keller 'cause didn't talk.<br/>And it's just--</p>
+      <p begin="01:05:48.796" end="01:05:50.242">[male audience] That's not very funny.</p>
+      <p begin="01:05:50.320" end="01:05:53.422">Yes it is. And if you don't, then leave.</p>
+      <p begin="01:05:53.535" end="01:05:55.152">[male audience] It ain't funny<br/>if you have a deaf son.</p>
+      <p begin="01:05:55.268" end="01:05:58.346">I happen to have a deaf mother.<br/>Oh, you stupid ass.</p>
+      <p begin="01:05:58.635" end="01:06:00.544">Let me tell you what comedy is about--</p>
+      <p begin="01:06:00.642" end="01:06:01.983">[male audience] You go ahead<br/>and tell me.</p>
+      <p begin="01:06:02.055" end="01:06:04.149">Oh, please. You are so stupid.</p>
+      <p begin="01:06:04.225" end="01:06:07.890">Comedy is to make everybody laugh<br/>at everything and deal with things.</p>
+      <p begin="01:06:08.024" end="01:06:09.276">You idiot.</p>
+      <p begin="01:06:09.386" end="01:06:14.812">My mother is deaf,<br/>you stupid son of a bitch. Don't tell me.</p>
+      <p begin="01:06:15.619" end="01:06:17.692">And just in case you're going to hear me<br/>in the hallway</p>
+      <p begin="01:06:17.817" end="01:06:22.335">I lived for 9 years with a man<br/>with one leg, okay, you asshole?</p>
+      <p begin="01:06:22.545" end="01:06:26.268">And we're going to talk about<br/>what it's like to have a man with one leg.</p>
+      <p begin="01:06:26.361" end="01:06:29.165">who lost it in World War II<br/>and then went back to get it</p>
+      <p begin="01:06:29.251" end="01:06:30.850">'cause that's fucking littering.</p>
+      <p begin="01:06:31.007" end="01:06:33.796">[audience laughing and clapping]</p>
+      <p begin="01:06:33.876" end="01:06:39.670">So don't you tell me...what's funny.<br/>Comedy is to make us laugh.</p>
+      <p begin="01:06:39.815" end="01:06:44.799">9-11, if we didn't laugh<br/>where the hell would we all be.</p>
+      <p begin="01:06:45.484" end="01:06:47.526">Think about that.<br/>[audience clapping]</p>
+      <p begin="01:06:47.602" end="01:06:49.041">Where the hell would be all be.</p>
+      <p begin="01:06:49.207" end="01:06:51.204">How can you not find Osama?</p>
+      <p begin="01:06:51.457" end="01:06:55.688">There is one outlet, he's on dialysis,</p>
+      <p begin="01:06:55.688" end="01:06:58.685">there was one outlet<br/>in all of Afghanistan.</p>
+      <p begin="01:06:58.826" end="01:07:04.215">Find the plug. And follow the cord.</p>
+      <p begin="01:07:04.215" end="01:07:09.310">[audience laughing and clapping]</p>
+      <p begin="01:07:09.507" end="01:07:22.147">&#9834; [music] &#9834;</p>
+      <p begin="01:07:22.207" end="01:07:24.889">Okay. How about that?</p>
+      <p begin="01:07:24.987" end="01:07:31.544">"I have a deaf son!"<br/>Ah, what a good way to build!</p>
+      <p begin="01:07:33.357" end="01:07:36.300">That was a very difficult moment.<br/>It throws you terribly.</p>
+      <p begin="01:07:36.422" end="01:07:40.402">Because you know,<br/>the audience is so nervous</p>
+      <p begin="01:07:40.668" end="01:07:46.121">and so scared to laugh.<br/>Your mind is going a mile a minute,</p>
+      <p begin="01:07:46.260" end="01:07:48.408">"Where am I going to go?"<br/>"What am I gonna do?"</p>
+      <p begin="01:07:48.478" end="01:07:49.797">"Where am I gonna take them?"</p>
+      <p begin="01:07:51.666" end="01:07:55.517">So there are two things going on,<br/>your mouth and your head.</p>
+      <p begin="01:07:57.450" end="01:07:59.568">Luckily, I was able to get them back.</p>
+      <p begin="01:08:01.951" end="01:08:04.418">[female fan] You are so--<br/>I never laughed so hard in my life.</p>
+      <p begin="01:08:04.478" end="01:08:06.936">You are a good laugher<br/>and that makes such a different.</p>
+      <p begin="01:08:07.014" end="01:08:08.061">Oh, I know.</p>
+      <p begin="01:08:08.183" end="01:08:12.115">And that rotten guy. I was ready<br/>to get up and tell him to leave.</p>
+      <p begin="01:08:12.204" end="01:08:13.732">He has a deaf son.</p>
+      <p begin="01:08:13.872" end="01:08:16.526">I know, but he's got to realize<br/>this is comedy.</p>
+      <p begin="01:08:16.617" end="01:08:17.770">Comedy.</p>
+      <p begin="01:08:17.831" end="01:08:21.277">I felt terribly sorry<br/>for the man with the deaf son.</p>
+      <p begin="01:08:21.999" end="01:08:25.212">And of course, he's angry.<br/>Of course he's angry and I get that.</p>
+      <p begin="01:08:25.691" end="01:08:27.702">But don't ruin the whole act.</p>
+      <p begin="01:08:28.168" end="01:08:30.911">Maybe it got it out of him<br/>and maybe it's good</p>
+      <p begin="01:08:31.006" end="01:08:33.435">what happened to him too.<br/>He had a kind of a catharsis.</p>
+      <p begin="01:08:35.161" end="01:08:36.385">And you're driving us?<br/>- Yup.</p>
+      <p begin="01:08:36.481" end="01:08:37.885">Have you been drinking?<br/>- No, Ma'am.</p>
+      <p begin="01:08:37.979" end="01:08:39.364">Have you been drugging?<br/>- No.</p>
+      <p begin="01:08:39.502" end="01:08:42.073">Have you been whoring?<br/>- I never did.</p>
+      <p begin="01:08:42.167" end="01:08:44.693">Okay, well, that's good,<br/>you'll be relaxed.</p>
+      <p begin="01:08:46.844" end="01:08:49.884">Just head for New York<br/>and just get me home.</p>
+      <p begin="01:08:50.786" end="01:08:54.626">There is nothing like your own bed.<br/>Nothing like your own bed.</p>
+      <p begin="01:09:03.468" end="01:09:05.593">They called my agent.<br/>They wanted to get William Shatner.</p>
+      <p begin="01:09:05.700" end="01:09:07.786">He said, "No, they wanted to get<br/>George Hamilton",</p>
+      <p begin="01:09:07.786" end="01:09:08.817">He said, "No."</p>
+      <p begin="01:09:08.817" end="01:09:11.493">So I said, "A woman should do it.<br/>I'll do it."</p>
+      <p begin="01:09:12.325" end="01:09:22.360">Extend. Extend, which is you take a pill<br/>and the man's penis just grows...grows.</p>
+      <p begin="01:09:22.585" end="01:09:27.327">Not penile enlargement. Just like, mmm,<br/>"Oh look who's a big boy now."</p>
+      <p begin="01:09:28.761" end="01:09:32.209">[Jocelyn] Joan will turn nothing down,<br/>at all, nothing.</p>
+      <p begin="01:09:33.248" end="01:09:39.562">[Larry] And she hears the clock ticking<br/>every minute of every hour of every day.</p>
+      <p begin="01:09:41.550" end="01:09:44.585">We're going to Palm Springs for--<br/>what is this for?</p>
+      <p begin="01:09:44.633" end="01:09:45.677">Do you know what this is for?</p>
+      <p begin="01:09:45.709" end="01:09:46.832">The Betty Ford Clinic.</p>
+      <p begin="01:09:46.874" end="01:09:50.445">It's for the Betty Ford Clinic,<br/>so they will be very serious about drugs.</p>
+      <p begin="01:09:50.979" end="01:09:52.725">[laughing]</p>
+      <p begin="01:09:52.787" end="01:09:57.235">Alright. Are they lining you up<br/>like Nazis? Alright, that's alright.</p>
+      <p begin="01:09:58.256" end="01:10:01.153">"Sorry bitch, I'm not Carol Channing,<br/>but this will have to do.</p>
+      <p begin="01:10:01.153" end="01:10:02.690">Much love, Joan Rivers."</p>
+      <p begin="01:10:02.882" end="01:10:04.086">Thank you.</p>
+      <p begin="01:10:04.159" end="01:10:09.905">So I have S's. "Ssss..., Ssss..."<br/>Even a little more.</p>
+      <p begin="01:10:09.936" end="01:10:13.151">If you take out the top or the bottom<br/>that usually works pretty well.</p>
+      <p begin="01:10:16.403" end="01:10:21.908">This is the early Joan. This is me.<br/>Oh, does this tampon make me look fat?</p>
+      <p begin="01:10:24.722" end="01:10:26.377">We're gonna go straight down this hallway.</p>
+      <p begin="01:10:26.947" end="01:10:28.757">I'll follow you.<br/>- Okay.</p>
+      <p begin="01:10:28.872" end="01:10:32.095">Love that your nails match your dress.<br/>It's so fabulous.</p>
+      <p begin="01:10:32.188" end="01:10:33.340">Thank you.</p>
+      <p begin="01:10:33.658" end="01:10:35.731">Nice to meet you.<br/>- Nice to meet you.</p>
+      <p begin="01:10:35.822" end="01:10:37.649">Be careful, I have a friend.</p>
+      <p begin="01:10:38.733" end="01:10:42.311">Victoria Beckham, yuck, yuck.<br/>"Does the tampon make me look fat?"</p>
+      <p begin="01:10:42.728" end="01:10:44.437">I can't stand...</p>
+      <p begin="01:10:48.112" end="01:10:52.155">Okay, up we go.<br/>We're going to Minneapolis, huh?</p>
+      <p begin="01:10:52.295" end="01:10:53.366">It's cold there.</p>
+      <p begin="01:11:07.792" end="01:11:11.535">Alright. And thank you.<br/>You were terrific.</p>
+      <p begin="01:11:12.049" end="01:11:13.456">[male voice] Pleasure meeting you.<br/>- [Joan]Thank you.</p>
+      <p begin="01:11:19.762" end="01:11:21.810">Hello.</p>
+      <p begin="01:11:22.105" end="01:11:28.573">I don't care if it's God himself.<br/>No one is to call my room until 6:30.</p>
+      <p begin="01:11:30.099" end="01:11:31.616">[Hotel clerk] Okay.</p>
+      <p begin="01:11:35.765" end="01:11:38.091">Save your money while you're younger,</p>
+      <p begin="01:11:38.091" end="01:11:41.088">that you don't hold yourself out<br/>when you're old.</p>
+      <p begin="01:11:42.186" end="01:11:44.150">To the Roast Comedy Central.</p>
+      <p begin="01:11:44.565" end="01:11:47.793">Oh, God.<br/>- I know, but the money is extraordinary.</p>
+      <p begin="01:11:49.725" end="01:11:51.237">I'm so depressed,</p>
+      <p begin="01:11:51.812" end="01:11:55.332">I can't even go there with you then.<br/>This is the cherry on the cake.</p>
+      <p begin="01:11:57.254" end="01:12:00.184">Mohammad, can you stop for a moment,<br/>so I can get out in front of the car.</p>
+      <p begin="01:12:00.247" end="01:12:01.340">[laughing]</p>
+      <p begin="01:12:01.507" end="01:12:05.322">Can you just run me over.<br/>End it now, Mohammad.</p>
+      <p begin="01:12:08.704" end="01:12:13.993">Do you know the jokes. Every joke<br/>is gonna be plastic surgery or old.</p>
+      <p begin="01:12:15.320" end="01:12:17.160">It comes back at you doesn't it.<br/>- Yep.</p>
+      <p begin="01:12:17.452" end="01:12:19.420">God...</p>
+      <p begin="01:12:19.420" end="01:12:21.403">Ms. Rivers to the set, please.<br/>[bell rings]</p>
+      <p begin="01:12:26.120" end="01:12:27.334">[male voice] Action.</p>
+      <p begin="01:12:28.333" end="01:12:29.722">This tastes like urine.</p>
+      <p begin="01:12:30.707" end="01:12:32.737">You crazy fucking bitch.</p>
+      <p begin="01:12:34.403" end="01:12:36.056">The crew loves me.</p>
+      <p begin="01:12:37.342" end="01:12:38.641">They keep telling you it's an honor.</p>
+      <p begin="01:12:39.379" end="01:12:41.976">I'm telling you<br/>that if I had invested wisely,</p>
+      <p begin="01:12:42.059" end="01:12:43.241">I wouldn't be doing this.</p>
+      <p begin="01:12:45.178" end="01:12:47.987">By the way, did you know<br/>that I've never done a roast in my life.</p>
+      <p begin="01:12:48.266" end="01:12:49.593">They are so disgusting.</p>
+      <p begin="01:12:49.593" end="01:12:52.004">They are not disgusting.<br/>It is an honor, I'm telling you.</p>
+      <p begin="01:12:52.648" end="01:12:55.198">Now don't make that face.<br/>- But the money is very good.</p>
+      <p begin="01:12:55.273" end="01:12:56.906">The money is good, which is an honor.</p>
+      <p begin="01:12:57.078" end="01:12:59.337">I mean I'm an artist,<br/>and I'm doing it for the art like you are.</p>
+      <p begin="01:12:59.478" end="01:13:00.740">Yes.</p>
+      <p begin="01:13:00.740" end="01:13:03.856">A couple of artist with easels,<br/>sitting around, collecting our money.</p>
+      <p begin="01:13:04.766" end="01:13:09.980">[male voice] Joan will cross to her seat.<br/>Alright. Let's say 3-2-1 go.</p>
+      <p begin="01:13:10.650" end="01:13:14.639">Talk about lucky.<br/>Brad and Angelina is having sale.</p>
+      <p begin="01:13:14.737" end="01:13:16.965">Look at them.<br/>Go on down now.</p>
+      <p begin="01:13:17.265" end="01:13:19.746">Auntie Joanie is busy.<br/>Fuck shh..</p>
+      <p begin="01:13:20.186" end="01:13:22.082">Okay. No, no, no.<br/>Don't go yet. We're just--</p>
+      <p begin="01:13:22.230" end="01:13:24.655">and this is at this point,<br/>that's when you would go --</p>
+      <p begin="01:13:25.403" end="01:13:27.207">Could somebody help me here, please.</p>
+      <p begin="01:13:27.363" end="01:13:29.886">No, no, no. <br/>Don't bother.</p>
+      <p begin="01:13:31.559" end="01:13:33.366">[male voice] You know everybody<br/>is giving you a standing ovation,</p>
+      <p begin="01:13:33.475" end="01:13:35.420">that joke probably won't read<br/>that long.</p>
+      <p begin="01:13:35.505" end="01:13:39.564">I beg you, it will read. I will wait<br/>until the stand ovation is over.</p>
+      <p begin="01:13:39.750" end="01:13:40.809">I will get up here--</p>
+      <p begin="01:13:40.922" end="01:13:42.835">[male voice] They will not sit down<br/>until you sit down.</p>
+      <p begin="01:13:42.989" end="01:13:45.793">Well then, they are going to stand<br/>until I sit down. I'm pleading with you,</p>
+      <p begin="01:13:45.871" end="01:13:49.552">don't knock every joke<br/>or it's not going to be funny.</p>
+      <p begin="01:13:49.829" end="01:13:52.322">I'm begging you.<br/>I'm pleading with you.</p>
+      <p begin="01:13:52.632" end="01:13:55.407">I will thank them<br/>and I will either sit down</p>
+      <p begin="01:13:55.489" end="01:13:59.366">and miss the chair.<br/>I will do something funny.</p>
+      <p begin="01:13:59.746" end="01:14:01.723">Because I am a funny person.</p>
+      <p begin="01:14:03.047" end="01:14:06.740">[crew laughing and clapping]</p>
+      <p begin="01:14:07.472" end="01:14:09.247">Hello, hello, hello.</p>
+      <p begin="01:14:09.651" end="01:14:13.533">We are here to celebrate the career<br/>of a ground breaking comedian</p>
+      <p begin="01:14:13.976" end="01:14:15.962">and a legendary bitch.</p>
+      <p begin="01:14:16.230" end="01:14:17.802">[audience laughing and clapping]</p>
+      <p begin="01:14:17.912" end="01:14:21.186">How much worse<br/>could your real face look than that</p>
+      <p begin="01:14:21.269" end="01:14:23.397">clown mask you've had welded<br/>on your head.</p>
+      <p begin="01:14:23.640" end="01:14:26.426">Look at her, she's a cougar.<br/>Freddy Cougar.</p>
+      <p begin="01:14:28.701" end="01:14:32.114">Joan's face has been lifted so many times,<br/>that when she sneezes,</p>
+      <p begin="01:14:32.222" end="01:14:33.812">she has to blow her clit.</p>
+      <p begin="01:14:34.018" end="01:14:35.126">[audience laughing and clapping]</p>
+      <p begin="01:14:35.249" end="01:14:36.233">I get mad at myself.</p>
+      <p begin="01:14:36.816" end="01:14:40.839">I think at this age,<br/>you've been doing it since 1966,</p>
+      <p begin="01:14:40.994" end="01:14:44.453">and you shouldn't let them<br/>upset you anymore, but they do.</p>
+      <p begin="01:14:46.045" end="01:14:50.741">I did the Comedy Central Roast, okay.<br/>Which was great, which was great.</p>
+      <p begin="01:14:51.909" end="01:14:55.500">I was--they said<br/>such mean disgusting filthy--</p>
+      <p begin="01:14:55.500" end="01:14:57.531">they called me a whore and a cunt</p>
+      <p begin="01:14:57.592" end="01:14:59.752">and a this or a that.<br/>I kept thinking, how do they know me?</p>
+      <p begin="01:14:59.871" end="01:15:01.536">It's just --<br/>[audience laughing]</p>
+      <p begin="01:15:03.443" end="01:15:06.159">Oh, sure, turn against the Queen.</p>
+      <p begin="01:15:07.941" end="01:15:09.391">Said Marie Antoinette.</p>
+      <p begin="01:15:09.418" end="01:15:12.659">Yeah! Nothing you're going to do better<br/>with Kathy Griffin, fuck you!</p>
+      <p begin="01:15:12.867" end="01:15:15.685">And it's just--<br/>[audience laughing]</p>
+      <p begin="01:15:15.789" end="01:15:18.828">If she lasts 45 years, then go stand--</p>
+      <p begin="01:15:20.187" end="01:15:22.754">Just kidding.<br/>I love Kathy Griffin.</p>
+      <p begin="01:15:23.319" end="01:15:27.978">&#9834; [music] &#9834;</p>
+      <p begin="01:15:28.066" end="01:15:29.241">[Melissa] Where's Billy these days?</p>
+      <p begin="01:15:29.335" end="01:15:32.607">I have no idea.<br/>He's no longer part of my career.</p>
+      <p begin="01:15:32.913" end="01:15:33.942">He can't be.</p>
+      <p begin="01:15:34.566" end="01:15:36.905">You spend too much energy<br/>looking for Billy</p>
+      <p begin="01:15:37.339" end="01:15:40.737">and too many phone calls coming in<br/>from people that haven't heard from Billy.</p>
+      <p begin="01:15:41.860" end="01:15:44.074">And I can't deal with it.</p>
+      <p begin="01:15:44.391" end="01:15:46.339">[Melissa] You know it's bad<br/>when people say something to me.</p>
+      <p begin="01:15:46.607" end="01:15:47.791">No, literally, I run into people<br/>and they're like,</p>
+      <p begin="01:15:47.875" end="01:15:50.174">"Oh, we were trying to reach Billy<br/>and he never called us back."</p>
+      <p begin="01:15:50.174" end="01:15:52.740">Yeah, let us know.<br/>Just say, "Call Jocelyn."</p>
+      <p begin="01:15:56.736" end="01:16:01.195">Billy, unfortunately,<br/>is no longer part of my team.</p>
+      <p begin="01:16:02.919" end="01:16:05.990">I sent him an e-mail saying<br/>"We are no longer in business together."</p>
+      <p begin="01:16:07.460" end="01:16:11.664">He just can't be counted on<br/>and it's killing me.</p>
+      <p begin="01:16:13.286" end="01:16:15.113">I'll tell you why it really upset me.</p>
+      <p begin="01:16:15.908" end="01:16:20.925">Billy is one of the last links<br/>that I can say, "Do you remember?"</p>
+      <p begin="01:16:23.470" end="01:16:30.451">And I have to cut that off.<br/>And I think that it's not the business,</p>
+      <p begin="01:16:30.712" end="01:16:35.048">that's where I cannot tell you<br/>I will never not miss Billy.</p>
+      <p begin="01:16:36.264" end="01:16:39.371">He was there when Melissa was born.<br/>He was there for Edgar's funeral.</p>
+      <p begin="01:16:39.504" end="01:16:45.099">You know, he's a link<br/>I have no one to say,</p>
+      <p begin="01:16:45.789" end="01:16:49.015">"Do you remember when<br/>Bernie Brillstein gave this party</p>
+      <p begin="01:16:49.092" end="01:16:51.022">and Edgar was the only one<br/>that came in black tie."</p>
+      <p begin="01:16:51.679" end="01:16:56.086">I know that he's--<br/>he was my last memory bank.</p>
+      <p begin="01:16:57.657" end="01:17:01.550">And I had no one,<br/>no one to say that to now,</p>
+      <p begin="01:17:02.066" end="01:17:05.397">and that is very difficult for me.</p>
+      <p begin="01:17:25.421" end="01:17:27.991">Tonight is a live finale of<br/>Celebrity Apprentice.</p>
+      <p begin="01:17:28.135" end="01:17:31.001">And it is between me and Annie Duke.</p>
+      <p begin="01:17:33.604" end="01:17:39.090">If I win, I'm back.<br/>I'm back in spite of being a woman.</p>
+      <p begin="01:17:39.262" end="01:17:43.968">and in spite of being 75,<br/>and in spite of being black balled by NBC.</p>
+      <p begin="01:17:44.135" end="01:17:46.038">I'm back you bastards.</p>
+      <p begin="01:17:46.543" end="01:17:48.981">You know, it's been a tremendous,<br/>tremendous season.</p>
+      <p begin="01:17:49.255" end="01:17:50.687">Annie, do you know<br/>what I'm going to say?</p>
+      <p begin="01:17:50.687" end="01:17:51.917">No, I have no idea.</p>
+      <p begin="01:17:51.917" end="01:17:54.971">I'm going to say Annie, you're fired.</p>
+      <p begin="01:17:55.212" end="01:17:59.265">[cheering and applause]<br/>&#9834; [music] &#9834;</p>
+      <p begin="01:18:00.587" end="01:18:01.661">It's great.</p>
+      <p begin="01:18:01.661" end="01:18:05.156">[background conversations]</p>
+      <p begin="01:18:05.266" end="01:18:07.728">It's great. It's terrific.</p>
+      <p begin="01:18:10.388" end="01:18:13.738">Here we go,<br/>but it's just Celebrity Apprentice,</p>
+      <p begin="01:18:14.033" end="01:18:17.556">it's not the Academy Awards<br/>but it was wonderful</p>
+      <p begin="01:18:18.368" end="01:18:20.393">and I'm very happy I won.</p>
+      <p begin="01:18:20.558" end="01:18:21.941">Congratulations.<br/>- Thank you.</p>
+      <p begin="01:18:22.103" end="01:18:24.931">[Larry] I've always said,<br/>"You can't get hit by lightning</p>
+      <p begin="01:18:25.032" end="01:18:26.615">if you're not standing out in the rain."</p>
+      <p begin="01:18:27.689" end="01:18:30.789">Nobody can stand in the rain<br/>longer than Joan Rivers.</p>
+      <p begin="01:18:30.910" end="01:18:33.471">She will stay there,<br/>she's the last person standing.</p>
+      <p begin="01:18:33.562" end="01:18:36.649">She'll let it rain, she'll let it rain,<br/>she'll let it rain</p>
+      <p begin="01:18:36.899" end="01:18:40.556">because she knows lightning can hit<br/>because it's hit her more than once.</p>
+      <p begin="01:18:40.901" end="01:18:43.125">But she knows<br/>you have to stay out in the rain.</p>
+      <p begin="01:18:43.424" end="01:18:44.611">And she did.</p>
+      <p begin="01:18:44.811" end="01:18:45.810">Line 2, okay.<br/>How long, my sweetheart?</p>
+      <p begin="01:18:45.810" end="01:18:47.268">Yeah, so tell me. Tell me yes or no.<br/>Just tell me fair.</p>
+      <p begin="01:18:50.297" end="01:18:51.931">Yeah. <br/>Alright, so tell me.</p>
+      <p begin="01:18:51.991" end="01:18:53.406">Tell me, yes or no?<br/>Just tell me a bit.</p>
+      <p begin="01:18:54.684" end="01:18:55.774">[screams]</p>
+      <p begin="01:18:56.092" end="01:19:01.244">That's fabulous. Are you kidding?<br/>Jocelyn! We were picked up.</p>
+      <p begin="01:19:01.424" end="01:19:03.638">No way, awesome!<br/>- We got it, all right.</p>
+      <p begin="01:19:03.914" end="01:19:06.297">You know what the real pinnacle is<br/>in a comedy career is?</p>
+      <p begin="01:19:06.391" end="01:19:07.716">It's not an Oscar.</p>
+      <p begin="01:19:07.794" end="01:19:11.443">It's not one thing,<br/>it's the fact that you are still doing it.</p>
+      <p begin="01:19:12.040" end="01:19:15.240">That's really what's<br/>so rockstar about her.</p>
+      <p begin="01:19:15.240" end="01:19:18.054">She's really the master<br/>of sticking in there.</p>
+      <p begin="01:19:18.776" end="01:19:20.865">[Jocelyn] Let's talk about<br/>what this is going to entail.</p>
+      <p begin="01:19:20.926" end="01:19:22.655">It's a photo shoot for<br/>the New York Times.</p>
+      <p begin="01:19:22.734" end="01:19:26.763">I could do it Monday afternoon,<br/>if they want. I'm still in town.</p>
+      <p begin="01:19:27.629" end="01:19:29.860">Right now,<br/>everything is absolutely wonderful.</p>
+      <p begin="01:19:29.938" end="01:19:33.185">I'm the golden girl.<br/>But I have been here before</p>
+      <p begin="01:19:33.255" end="01:19:36.218">and I know nothing is yours permanently.</p>
+      <p begin="01:19:36.285" end="01:19:38.802">And you better enjoy it<br/>while it's happening.</p>
+      <p begin="01:19:40.163" end="01:19:43.782">So next week,<br/>Monday, Regis and Kelly,</p>
+      <p begin="01:19:43.951" end="01:19:45.635">book signing at QVC.</p>
+      <p begin="01:19:45.915" end="01:19:49.503">Tuesday, WOR, Rachel Ray,<br/>Howard Stern, Cutting Room.</p>
+      <p begin="01:19:49.717" end="01:19:53.846">Wednesday, Florida, breakfast lecture,<br/>do an afternoon book signing,</p>
+      <p begin="01:19:54.050" end="01:19:56.439">back to Miami, perform 2 shows.</p>
+      <p begin="01:19:56.593" end="01:19:59.431">Thursday, LA, The Doctors,<br/>Radio Show,</p>
+      <p begin="01:19:59.479" end="01:20:02.060">red eying home, QVC,<br/>corporate booking,</p>
+      <p begin="01:20:02.203" end="01:20:03.790">then back to The Cutting Room.</p>
+      <p begin="01:20:34.018" end="01:20:35.323">Get him out of the picture.</p>
+      <p begin="01:20:35.489" end="01:20:36.946">[laughter]</p>
+      <p begin="01:20:37.049" end="01:20:40.030">It's me alone.<br/>Isn't artist--.</p>
+      <p begin="01:20:43.375" end="01:20:45.245">Wherever you have it, thank you.</p>
+      <p begin="01:20:47.994" end="01:20:52.181">I am opening for Don Rickles.<br/>And when they say "Opening"</p>
+      <p begin="01:20:52.319" end="01:20:58.063">what it is he and I split the money<br/>and years ago when we started</p>
+      <p begin="01:20:58.148" end="01:21:00.642">I said, "I'll open,"<br/>because I get out earlier.</p>
+      <p begin="01:21:01.252" end="01:21:03.898">And he's still pissed about it.<br/>[laughing]</p>
+      <p begin="01:21:04.951" end="01:21:08.605">Theater is wonderful here.<br/>It's a Vegas-sized thereafter.</p>
+      <p begin="01:21:09.511" end="01:21:11.665">It's 1800 or 2000.</p>
+      <p begin="01:21:11.957" end="01:21:15.783">[female voice] No, it's 4000, yeah.<br/>It's a 4000-person theatre.</p>
+      <p begin="01:21:15.838" end="01:21:17.985">I'm nervous.<br/>[laughing]</p>
+      <p begin="01:21:18.877" end="01:21:21.024">I go way back with Joan.<br/>When she was in Vegas</p>
+      <p begin="01:21:21.475" end="01:21:24.949">and she was a struggling comedian.<br/>We got to know each other.</p>
+      <p begin="01:21:25.414" end="01:21:27.348">She's done an outstanding job<br/>with her career. I mean that.</p>
+      <p begin="01:21:28.112" end="01:21:31.301">She has outstanding timing,<br/>and she takes hee work very seriously.</p>
+      <p begin="01:21:32.401" end="01:21:34.689">And if I didn't marry my Barbara,<br/>I would have married Joan.</p>
+      <p begin="01:21:35.626" end="01:21:38.725">and with that remark--<br/>ah, ah...</p>
+      <p begin="01:21:38.801" end="01:21:42.264">Oh God, I was kidding around.<br/>Aw, God.</p>
+      <p begin="01:21:42.604" end="01:21:46.699">Don Rickles is in his late 80's<br/>and he is still hilarious.</p>
+      <p begin="01:21:47.462" end="01:21:48.694">He's like George Burns</p>
+      <p begin="01:21:48.820" end="01:21:52.075">who was amazing<br/>until he was in his late 90's.</p>
+      <p begin="01:21:52.637" end="01:21:56.331">And Phyllis Diller, until she was 92,<br/>she was just laid it down.</p>
+      <p begin="01:21:57.204" end="01:22:00.710">And I'd like to beat them all.<br/>And I think I will.</p>
+      <p begin="01:22:01.052" end="01:22:03.534">And since it's so sick, I think I will.</p>
+      <p begin="01:22:04.068" end="01:22:07.654">First wife is always some poor<br/>dumb bitch who he married on the way up.</p>
+      <p begin="01:22:08.304" end="01:22:12.561">Second wife is always like--<br/>and he's an asshole and he marries her.</p>
+      <p begin="01:22:12.842" end="01:22:15.223">And the third wife, he's 96,<br/>his balls are on the ground</p>
+      <p begin="01:22:15.316" end="01:22:17.564">and she's 11 and she's Chinese.<br/>I love you.</p>
+      <p begin="01:22:17.662" end="01:22:19.714">[audience laughing]</p>
+      <p begin="01:22:19.819" end="01:22:21.147">Thank you. I'll see you later.</p>
+      <p begin="01:22:21.382" end="01:22:35.003">&#9834; [band playing] &#9834;</p>
+      <p begin="01:22:35.377" end="01:22:37.839">This is where I belong.</p>
+      <p begin="01:22:38.669" end="01:22:44.375">The only time I'm truly, truly happy<br/>is when I'm on a stage.</p>
+      <p begin="01:22:45.885" end="01:22:48.519">I -- a good job once.<br/>It's embarrasing.</p>
+      <p begin="01:22:49.334" end="01:22:51.846">I keep saying she's wonderful<br/>and you always fail me.</p>
+      <p begin="01:22:52.690" end="01:23:01.169">I am a performer, that is my life.<br/>That is what I am. That's it.</p>
+      <p begin="01:23:02.126" end="01:23:29.027">&#9834; [music] &#9834;</p>
+      <p begin="01:23:29.840" end="01:23:31.774">I do hate children<br/>and that's the truth.</p>
+      <p begin="01:23:32.090" end="01:23:34.036">Oh God, at Halloween,<br/>and they--</p>
+      <p begin="01:23:34.120" end="01:23:37.383">"Oh, lady, we don't like apples,"<br/>then just eat the razor blades.</p>
+      <p begin="01:23:37.481" end="01:23:39.331">It's so--</p>
+      <p begin="01:23:40.974" end="01:23:42.152">Joan Rivers, I love you,<br/>love you, love you.</p>
+      <p begin="01:23:42.152" end="01:23:43.598">I love you, love you back.</p>
+      <p begin="01:23:43.598" end="01:23:45.161">And who is it to?<br/>- Lucy.</p>
+      <p begin="01:23:45.259" end="01:23:48.344">I can't spell it.<br/>- ...jewelry. Love you!</p>
+      <p begin="01:23:50.184" end="01:23:52.039">I love everything<br/>that you've done for woman.</p>
+      <p begin="01:23:52.694" end="01:23:54.949">Love all your humor,<br/>all your breaks.</p>
+      <p begin="01:23:54.949" end="01:23:56.623">Oh, thank you.<br/>- You're the best.</p>
+      <p begin="01:23:56.729" end="01:23:58.611">Oh, Lucy...<br/>- Love you.</p>
+      <p begin="01:23:58.689" end="01:24:00.309">Lucy, I love you back.</p>
+      <p begin="01:24:04.708" end="01:24:05.768">Surprise.</p>
+      <p begin="01:24:07.260" end="01:24:10.145">I'm so bored, that they have<br/>taken torture away in the United States.</p>
+      <p begin="01:24:10.621" end="01:24:12.695">Oh, it was--<br/>Oh, like, like--</p>
+      <p begin="01:24:12.896" end="01:24:15.777">Oh, like torture was bad.<br/>Oh, wooly-bully, wooly-bully,</p>
+      <p begin="01:24:15.852" end="01:24:17.121">Oh, big fucking deal,</p>
+      <p begin="01:24:17.271" end="01:24:21.434">try getting a bikini wax one time.<br/>Get a Brazilian wax,</p>
+      <p begin="01:24:21.856" end="01:24:24.644">you'll give up secrets<br/>like you never knew you had.</p>
+      <p begin="01:24:24.766" end="01:24:26.918">[audience laughing and clapping]</p>
+      <p begin="01:24:27.009" end="01:24:30.999">[shouting]</p>
+      <p begin="01:24:33.088" end="01:24:34.545">They are doing a documentary<br/>of my life.</p>
+      <p begin="01:24:35.347" end="01:24:37.401">And you said earlier, they are<br/>just waiting for the moment, right?</p>
+      <p begin="01:24:37.513" end="01:24:39.939">They are praying that I die<br/>doing this film.</p>
+      <p begin="01:24:40.253" end="01:24:42.845">Wouldn't that be great?<br/>Wouldn't that be amazing?</p>
+      <p begin="01:24:43.197" end="01:24:45.473">They got the last view of Joan Rivers.</p>
+      <p begin="01:24:46.007" end="01:24:47.324">It would give them such a hook.</p>
+      <p begin="01:24:47.600" end="01:24:49.173">People would watch.<br/>- People would watch.</p>
+      <p begin="01:24:49.173" end="01:24:51.462">That's sick.<br/>- We were-- but it wouldn't--</p>
+      <p begin="01:24:51.720" end="01:24:53.467">but still, -- very commercial.</p>
+      <p begin="01:24:53.548" end="01:24:54.761">You'd watch.<br/>- I'd watch.</p>
+      <p begin="01:24:55.009" end="01:24:56.526">[laughing]<br/>Wouldn't you?</p>
+      <p begin="01:24:58.980" end="01:25:01.474">[END]</p>
+    </div>
+  </body>
+
+</tt>

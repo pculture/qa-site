@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <tt xmlns="http://www.w3.org/ns/ttml" 
+        xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
+        xmlns:tts="http://www.w3.org/ns/ttml#styling" 
+        xml:lang="">
+
+    <head>
+        <styling>
+            <style textStyle="italic" xml:id="emphasis"/>
+            <style fontWeight="bold" xml:id="strong"/>
+            <style textDecoration="underline" xml:id="underlined"/>
+        </styling>
+        <layout>
+            <region xml:id="top" 
+                    tts:backgroundColor="transparent" 
+                    tts:showBackground="whenActive"
+                    tts:extent="100% 100%"
+                    tts:origin="0% 0%"
+                    tts:textAlign='center'/> 
+        </layout>
+    </head>
+<body xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" tts:textAlign="center">
+    <div>
+      <p begin="00:00:39.166" end="00:00:41.203">&#9834; [music] &#9834;</p>
+      <p begin="00:00:56.662" end="00:00:59.946">[announcer] Welcome to the 38th<br/>annual NBA All-Star game</p>
+      <p begin="00:01:00.086" end="00:01:01.874">from the Chicago Stadium.</p>
+      <p begin="00:01:10.704" end="00:01:12.102">[crowd cheering]</p>
+      <p begin="00:01:19.612" end="00:01:21.271">[people chattering]</p>
+      <p begin="00:01:22.386" end="00:01:24.508">[announcer] ...a little timeout<br/>to reorganize</p>
+      <p begin="00:01:24.647" end="00:01:26.749">and the chances of a West comeback</p>
+      <p begin="00:01:26.749" end="00:01:28.648">are slipping away...</p>
+      <p begin="00:01:29.686" end="00:01:31.873">MacGuire for three...</p>
+      <p begin="00:01:32.569" end="00:01:36.491">I have never seen an All Star game<br/>that had such a spectacular passing</p>
+      <p begin="00:01:36.734" end="00:01:39.860">and plays and thundering plays like these.</p>
+      <p begin="00:01:42.837" end="00:01:46.040">Aw, what a way to end this ball game!</p>
+      <p begin="00:02:00.324" end="00:02:02.579">Right now I wanna, you know,</p>
+      <p begin="00:02:02.579" end="00:02:07.326">play in the NBA like anybody else<br/>would wanna be,</p>
+      <p begin="00:02:08.008" end="00:02:13.193">that's something I dream<br/>and think about all the time, you know,</p>
+      <p begin="00:02:13.193" end="00:02:15.729">playing in the NBA.</p>
+      <p begin="00:02:20.710" end="00:02:23.788">He's just doing something<br/>that he loves so much!</p>
+      <p begin="00:02:24.372" end="00:02:27.912">He just loves it so much, you know,<br/>I'm just happy for him.</p>
+      <p begin="00:02:28.505" end="00:02:31.094">If somebody can understand the way<br/>William plays,</p>
+      <p begin="00:02:31.094" end="00:02:33.268">that'd make me feel<br/>a lot better, I'll say,</p>
+      <p begin="00:02:33.519" end="00:02:36.017">they should've understood the way<br/>I played.</p>
+      <p begin="00:02:45.720" end="00:02:48.313">[announcer] He's making his seventh<br/>All-Star appearance,</p>
+      <p begin="00:02:49.439" end="00:02:53.278">6'1'', Isiah Thomas!</p>
+      <p begin="00:02:55.674" end="00:02:57.843">When I get in the NBA,</p>
+      <p begin="00:02:57.843" end="00:03:00.490">I'm...The first thing I'm gonna do</p>
+      <p begin="00:03:00.490" end="00:03:02.156">I'm gonna see my momma.</p>
+      <p begin="00:03:02.156" end="00:03:04.241">I'm gonna buy her a house</p>
+      <p begin="00:03:04.241" end="00:03:08.766">and I'm gonna go down and make sure <br/>my sister and my brother's okay.</p>
+      <p begin="00:03:11.154" end="00:03:13.319">I'm gonna give my dad</p>
+      <p begin="00:03:13.800" end="00:03:15.591">a Cadillac Oldsmobile</p>
+      <p begin="00:03:15.591" end="00:03:17.905">so he can cruise into the game.</p>
+      <p begin="00:03:22.659" end="00:03:24.903">[Arthur's mother] He dreams about it.</p>
+      <p begin="00:03:25.566" end="00:03:27.611">He looks at those basketball commercials</p>
+      <p begin="00:03:28.411" end="00:03:30.518">where they'd be advertising<br/>like these Nike shoes</p>
+      <p begin="00:03:30.518" end="00:03:32.850">and he tells his small brother:</p>
+      <p begin="00:03:32.850" end="00:03:35.415">"Joe, Joe, that's me."</p>
+      <p begin="00:03:49.896" end="00:03:52.696">I don't even think about it, you know,<br/>if he don't make it.</p>
+      <p begin="00:03:52.696" end="00:03:57.655">Because I'm so, you know,<br/>focused in on him making it.</p>
+      <p begin="00:03:57.655" end="00:04:00.327">I just know he'll make it, you know.</p>
+      <p begin="00:04:01.799" end="00:04:03.534">&#9834; [music] &#9834;</p>
+      <p begin="00:04:35.961" end="00:04:42.221">I'm off to Central<br/>and the Cars Expressway.</p>
+      <p begin="00:04:42.221" end="00:04:46.532">A park over there where there's <br/>a pretty talented young man.</p>
+      <p begin="00:04:47.932" end="00:04:50.947">Earl Smith works downtown<br/>as an insurance executive.</p>
+      <p begin="00:04:51.390" end="00:04:53.494">On weekends he's an unofficial<br/>talent scout</p>
+      <p begin="00:04:53.494" end="00:04:55.836">for several area high-schools.</p>
+      <p begin="00:05:01.224" end="00:05:03.378">This is what you call<br/>"beating the bushes."</p>
+      <p begin="00:05:03.804" end="00:05:06.102">This is the job of most of<br/>your freshman coaches</p>
+      <p begin="00:05:06.441" end="00:05:10.298">and guys like me who played a little bit<br/>of the game,</p>
+      <p begin="00:05:10.506" end="00:05:14.865">who love trying to help young people<br/>on the road to success.</p>
+      <p begin="00:05:19.196" end="00:05:24.015">Today Earl spots Arthur Agee, <br/>who just graduated from grammar school.</p>
+      <p begin="00:05:24.929" end="00:05:27.604">He got the first step...</p>
+      <p begin="00:05:34.157" end="00:05:36.320">I will bet you a steak dinner</p>
+      <p begin="00:05:36.320" end="00:05:38.130">in four years you'll be hearing<br/>from him,</p>
+      <p begin="00:05:38.130" end="00:05:40.743">and I don't even know<br/>anything about him.</p>
+      <p begin="00:05:55.363" end="00:05:59.156">Several days later, Earl takes Arthur <br/>and his family on a recruiting visit</p>
+      <p begin="00:05:59.156" end="00:06:02.493">to the high school where<br/>NBA star Isiah Thomas played.</p>
+      <p begin="00:06:02.682" end="00:06:07.351">The visit will give St. Joseph's coaches<br/>a chance to see Arthur perform.</p>
+      <p begin="00:06:16.633" end="00:06:20.665">Your role today, Arthur,<br/>is to impress the coaches.</p>
+      <p begin="00:06:20.772" end="00:06:22.737">Try not to be too fancy,</p>
+      <p begin="00:06:23.350" end="00:06:26.181">but take your open shot,<br/>when you have it</p>
+      <p begin="00:06:26.411" end="00:06:30.355">play good defense<br/>and make good passes.</p>
+      <p begin="00:06:30.355" end="00:06:33.434">Rest of it, just play natural, you know.</p>
+      <p begin="00:06:34.450" end="00:06:37.963">I'm hoping I'm gonna go<br/>to St. Joe...and play.</p>
+      <p begin="00:06:38.432" end="00:06:42.668">But first I gotta get my books straight</p>
+      <p begin="00:06:45.194" end="00:06:49.087">and hopefully come out<br/>and impress the coaches.</p>
+      <p begin="00:06:50.272" end="00:06:52.710">[cameraman] Is it kinda scary?</p>
+      <p begin="00:06:53.527" end="00:06:55.439">Yes, it is.</p>
+      <p begin="00:06:58.238" end="00:07:01.338">I've never been to a school<br/>way out before</p>
+      <p begin="00:07:01.940" end="00:07:06.553">and I would be going to a school<br/>with different kids, different races.</p>
+      <p begin="00:07:08.146" end="00:07:10.401">You can look at the scenery,</p>
+      <p begin="00:07:10.401" end="00:07:12.507">new friends to meet.</p>
+      <p begin="00:07:15.513" end="00:07:17.948">[cameraman] What if Isiah's<br/>there today?</p>
+      <p begin="00:07:20.876" end="00:07:23.925">Wow! If he be there,</p>
+      <p begin="00:07:24.712" end="00:07:26.504">I'd be shocked,</p>
+      <p begin="00:07:26.504" end="00:07:29.379">cuz that'd be my first time<br/>ever seeing him</p>
+      <p begin="00:07:29.988" end="00:07:33.143">up close, in real life.</p>
+      <p begin="00:07:38.498" end="00:07:42.262">Basketball has to be second<br/>to your academics.</p>
+      <p begin="00:07:42.402" end="00:07:44.656">If you don't get your grades<br/>you're not gonna play.</p>
+      <p begin="00:07:44.656" end="00:07:46.645">If you work hard at the grades</p>
+      <p begin="00:07:46.645" end="00:07:48.708">and if you work hard at basketball,</p>
+      <p begin="00:07:48.708" end="00:07:52.135">then I would be able to help you<br/>as far as going to college.</p>
+      <p begin="00:07:52.135" end="00:07:53.552">And I guarantee this.</p>
+      <p begin="00:07:53.552" end="00:07:57.105">I can't promise you where you're<br/>gonna go and if you're gonna be a star,</p>
+      <p begin="00:07:57.279" end="00:08:01.600">but I guarantee that I will help you get<br/>into the school</p>
+      <p begin="00:08:01.600" end="00:08:04.295">that would be best for you.</p>
+      <p begin="00:08:04.295" end="00:08:06.195">I'm making a commitment to you</p>
+      <p begin="00:08:06.604" end="00:08:11.096">if you make a commitment to being part<br/>of this kind of a program.</p>
+      <p begin="00:08:15.364" end="00:08:18.224">Out of all the kids at the St. Joseph<br/>basketball camp,</p>
+      <p begin="00:08:18.467" end="00:08:22.748">there are a few like Arthur that<br/>coach Pingatore is recruiting.</p>
+      <p begin="00:08:26.110" end="00:08:29.196">[Arthur] It was like a million of guys<br/>trying to be better than the other,</p>
+      <p begin="00:08:29.438" end="00:08:32.674">but to me, I was better than all of them!</p>
+      <p begin="00:08:33.022" end="00:08:35.102">Except Isiah.</p>
+      <p begin="00:08:35.684" end="00:08:39.645">It's been a great pleasure to <br/>introduce you a graduate of St. Joe's,</p>
+      <p begin="00:08:40.039" end="00:08:42.472">high school All-American</p>
+      <p begin="00:08:43.163" end="00:08:46.001">All-American from Indiana University</p>
+      <p begin="00:08:46.473" end="00:08:48.755">5-time NBA All-Star,</p>
+      <p begin="00:08:49.100" end="00:08:51.161">Isiah Thomas!</p>
+      <p begin="00:08:51.413" end="00:08:53.024">[crowd applauding]</p>
+      <p begin="00:08:55.525" end="00:08:57.535">In everybody's neighborhood,</p>
+      <p begin="00:08:57.692" end="00:09:01.477">there's a guy who can really play,<br/>who can shoot the lights out.</p>
+      <p begin="00:09:01.477" end="00:09:04.151">Every time down the court.</p>
+      <p begin="00:09:05.350" end="00:09:08.670">Then he goes to St. Joseph high school</p>
+      <p begin="00:09:09.190" end="00:09:10.962">and the guy gets cut!</p>
+      <p begin="00:09:11.218" end="00:09:14.754">You say: "Tom was real built,<br/>why did he get cut?"</p>
+      <p begin="00:09:15.758" end="00:09:19.376">See, Tom didn't learn<br/>the fundamentals of team basketball,</p>
+      <p begin="00:09:19.404" end="00:09:23.160">which is what you're learning<br/>how to play.</p>
+      <p begin="00:09:36.800" end="00:09:39.237">He told my dad that he knew<br/>I could play,</p>
+      <p begin="00:09:39.237" end="00:09:41.735">so he just had to play me hard.</p>
+      <p begin="00:09:57.346" end="00:09:59.496">[Pingatore] I can see<br/>the playground in him.</p>
+      <p begin="00:09:59.496" end="00:10:01.298">I can see talent,</p>
+      <p begin="00:10:01.298" end="00:10:03.631">but I don't see the confidence.</p>
+      <p begin="00:10:08.097" end="00:10:11.654">When I faced Isiah, I just knew<br/>he was gonna be a great one.</p>
+      <p begin="00:10:11.952" end="00:10:15.592">He had that total combination<br/>of personality, confidence,</p>
+      <p begin="00:10:15.592" end="00:10:18.173">talent, intelligence.</p>
+      <p begin="00:10:19.910" end="00:10:22.785">I think I see it in one kid<br/>that's coming here.</p>
+      <p begin="00:10:23.816" end="00:10:28.147">He flows with a smoothness<br/>and confidence</p>
+      <p begin="00:10:28.257" end="00:10:32.673">and strength that you don't see<br/>in every kid.</p>
+      <p begin="00:10:33.088" end="00:10:36.050">He could become a great player.</p>
+      <p begin="00:10:56.246" end="00:10:58.301">I just bang him and bruise him.</p>
+      <p begin="00:10:58.301" end="00:11:00.872">I'm trying to let him know right now,<br/>you're gonna get hit,</p>
+      <p begin="00:11:00.872" end="00:11:03.536">you're gonna get knocked down,<br/>you're gonna get banged around!</p>
+      <p begin="00:11:03.536" end="00:11:06.197">So you better get used to it now.</p>
+      <p begin="00:11:09.600" end="00:11:12.187">[Curtis] All these<br/>basketball dreams I had...</p>
+      <p begin="00:11:12.187" end="00:11:13.793">they're gone.</p>
+      <p begin="00:11:14.094" end="00:11:16.674">All I see, all my dreams are<br/>in him now.</p>
+      <p begin="00:11:16.985" end="00:11:19.537">I want him to make it so bad<br/>I don't know what to do.</p>
+      <p begin="00:11:21.651" end="00:11:23.914">[William's mother] If they wanna<br/>play basketball and stuff,</p>
+      <p begin="00:11:23.914" end="00:11:25.704">that's always okay.</p>
+      <p begin="00:11:26.593" end="00:11:30.033">But I always made sure all of them<br/>got through high school.</p>
+      <p begin="00:11:30.853" end="00:11:34.462">A high school diploma was<br/>very important to me.</p>
+      <p begin="00:11:38.106" end="00:11:42.227">[William] Our mother, she is like<br/>mother and father to me.</p>
+      <p begin="00:11:43.055" end="00:11:46.273">She won't let me really<br/>hang around over here that much,</p>
+      <p begin="00:11:47.473" end="00:11:49.684">'cuz of the gangs.</p>
+      <p begin="00:11:50.081" end="00:11:51.984">I feel if I go to St. Joseph,</p>
+      <p begin="00:11:52.612" end="00:11:55.962">I'll at least get a good chance to<br/>go to a good college.</p>
+      <p begin="00:11:55.962" end="00:11:58.288">That would be good for me.</p>
+      <p begin="00:12:08.304" end="00:12:11.062">[William's father] That was my<br/>first son.</p>
+      <p begin="00:12:11.062" end="00:12:15.032">He's daddy's man, you know,<br/>so we just started calling him Man.</p>
+      <p begin="00:12:18.101" end="00:12:20.526">I could've been a good college player,</p>
+      <p begin="00:12:20.526" end="00:12:23.667">I'm...most likely I would've made it<br/>to the pros, you know?</p>
+      <p begin="00:12:24.222" end="00:12:28.592">But, you know, once I had my son<br/>I knew then something good</p>
+      <p begin="00:12:28.592" end="00:12:32.010">was gonna come out of it.<br/>I think the talent's gonna be passed on.</p>
+      <p begin="00:12:38.613" end="00:12:41.194">He told me, he said:<br/>"I'm so scared of growing up."</p>
+      <p begin="00:12:41.634" end="00:12:43.004">I said, "Why?"</p>
+      <p begin="00:12:43.004" end="00:12:45.044">He said, "A grown-up has<br/>so many problems,</p>
+      <p begin="00:12:45.044" end="00:12:47.249">I got so many things on my mind!"</p>
+      <p begin="00:12:47.488" end="00:12:49.460">I just want our Arthur to have more,</p>
+      <p begin="00:12:49.460" end="00:12:52.045">you know, have a better life than<br/>what I had.</p>
+      <p begin="00:12:52.264" end="00:12:53.932">I don't want him to experience<br/>the bad things</p>
+      <p begin="00:12:53.932" end="00:12:55.780">that I went through in life, you know?</p>
+      <p begin="00:13:35.942" end="00:13:38.955">[Conductor] Austin Blvd will be<br/>the next stop, Austin is next.</p>
+      <p begin="00:13:40.014" end="00:13:42.005">Like Isiah Thomas before them,</p>
+      <p begin="00:13:42.005" end="00:13:44.618">both Arthur and William make<br/>a three-hour round trip each day</p>
+      <p begin="00:13:44.618" end="00:13:47.054">between the city and St. Joseph's.</p>
+      <p begin="00:13:48.126" end="00:13:50.640">[Arthur] Those planes when we're<br/>going out through our file at school</p>
+      <p begin="00:13:51.286" end="00:13:54.952">I saw a rug, flowers, clean hallways,</p>
+      <p begin="00:13:55.415" end="00:13:58.490">things that I didn't see at<br/>an ordinary school.</p>
+      <p begin="00:14:34.267" end="00:14:36.496">Arthur wins the starting<br/>point guard position</p>
+      <p begin="00:14:36.528" end="00:14:38.358">on the freshman team.</p>
+      <p begin="00:14:39.346" end="00:14:42.261">[Pingatore] Agee, I want you to find<br/>that warm-up number 2!</p>
+      <p begin="00:14:42.970" end="00:14:47.161">Round, number 3! Etmeier, 4!</p>
+      <p begin="00:14:47.355" end="00:14:49.390">Hey Arthur, hey man!</p>
+      <p begin="00:14:49.421" end="00:14:51.542">Hey you know if you miss a free throw,</p>
+      <p begin="00:14:51.542" end="00:14:53.752">they count them up<br/>and you have to pay 15 cents!</p>
+      <p begin="00:14:53.752" end="00:14:55.810">And then if you don't pay it<br/>they gonna make you</p>
+      <p begin="00:14:55.810" end="00:14:57.943">fifty lashes and you still got<br/>to pay the money!</p>
+      <p begin="00:14:57.943" end="00:14:59.004">You still gotta pay the money?</p>
+      <p begin="00:14:59.004" end="00:15:01.114">That's the way out!</p>
+      <p begin="00:15:07.122" end="00:15:10.511">[Pingatore] When Arthur first started<br/>at St. Joseph's, he was a good kid</p>
+      <p begin="00:15:10.511" end="00:15:13.057">from what we saw,<br/>but he was very immature.</p>
+      <p begin="00:15:14.268" end="00:15:16.128">He might have been<br/>a little more disruptive,</p>
+      <p begin="00:15:16.128" end="00:15:19.142">speaking out,<br/>getting into childish things.</p>
+      <p begin="00:15:21.265" end="00:15:23.916">He wasn't used to the discipline<br/>and the control,</p>
+      <p begin="00:15:24.049" end="00:15:28.086">he reverted back to maybe his<br/>environment, where he came from.</p>
+      <p begin="00:15:31.249" end="00:15:33.640">I just have never been around<br/>a lot of white people</p>
+      <p begin="00:15:34.120" end="00:15:35.446">and it was different because</p>
+      <p begin="00:15:35.446" end="00:15:38.450">at a black school you know I could<br/>associate with the people that was</p>
+      <p begin="00:15:39.035" end="00:15:41.101">you know, they talk the way I talk.</p>
+      <p begin="00:15:41.921" end="00:15:44.715">It's a little hard but I can adjust to it.</p>
+      <p begin="00:15:46.575" end="00:15:48.830">[Pingatore] You can see<br/>there was talent there.</p>
+      <p begin="00:15:49.023" end="00:15:50.628">We kept saying up in the stands:</p>
+      <p begin="00:15:50.628" end="00:15:53.977">"Get the ball to Arthur because<br/>he's going to do it for you!"</p>
+      <p begin="00:15:54.067" end="00:15:57.984">and sure enough, they gave him the ball,<br/>with seconds on the clock.</p>
+      <p begin="00:16:05.063" end="00:16:08.684">[Sheila] I've noticed a change immediately<br/>after he started going out there.</p>
+      <p begin="00:16:08.863" end="00:16:12.914">To see your child mature you say:<br/>"Ah, well maybe this is good for him."</p>
+      <p begin="00:16:26.724" end="00:16:29.784">William begins his freshman season on<br/>St. Joe's Varsity,</p>
+      <p begin="00:16:29.784" end="00:16:31.930">the top-ranked squad in-state.</p>
+      <p begin="00:16:34.541" end="00:16:36.212">[cheering and applauding]</p>
+      <p begin="00:16:41.111" end="00:16:45.162">He's already received several letters <br/>from Division I schools,</p>
+      <p begin="00:16:46.168" end="00:16:52.044">Marquette, Rice, and Creighton,<br/>Illinois State to name a few.</p>
+      <p begin="00:17:04.127" end="00:17:06.020">You're killing us!</p>
+      <p begin="00:17:06.537" end="00:17:09.346">Why did he get to the ball before you?!</p>
+      <p begin="00:17:10.343" end="00:17:12.540">He asked me, do I wanna be<br/>a great player?</p>
+      <p begin="00:17:12.540" end="00:17:14.285">And I keep saying "yeah."</p>
+      <p begin="00:17:14.843" end="00:17:16.958">He said: "For four years<br/>I'm gonna be on you every day",</p>
+      <p begin="00:17:16.958" end="00:17:19.925">so he said: "You might as well get<br/>used to it now."</p>
+      <p begin="00:17:20.286" end="00:17:23.762">Hard left...no, no.<br/>Go hard left!</p>
+      <p begin="00:17:23.931" end="00:17:26.566">Right I know you can do it,<br/>left you can't.</p>
+      <p begin="00:17:26.647" end="00:17:30.976">Go hard!<br/>Not bad. Do it again!</p>
+      <p begin="00:17:32.986" end="00:17:34.756">[students chattering]</p>
+      <p begin="00:17:35.468" end="00:17:36.979">[bell ringing]</p>
+      <p begin="00:17:37.967" end="00:17:40.102">[Teacher] If you look at Matthew,<br/>and again he's saying:</p>
+      <p begin="00:17:40.102" end="00:17:42.962">"At the time, the kingdom of Heaven<br/>will be like this",</p>
+      <p begin="00:17:42.962" end="00:17:46.528">This is how Matthew's gonna use Jesus,<br/>this is how he's gonna start it out.</p>
+      <p begin="00:17:46.628" end="00:17:49.310">What this is saying is<br/>that you have to take the faith.</p>
+      <p begin="00:17:49.414" end="00:17:52.856">[Arthur] When I first came down here,<br/>I was like: "Boy, I wanna go home...</p>
+      <p begin="00:17:52.856" end="00:17:55.841">Is this really the right school for me?"</p>
+      <p begin="00:17:56.252" end="00:18:00.243">But every little thing you do,<br/>that go against their rule</p>
+      <p begin="00:18:00.271" end="00:18:02.359">you have a detention</p>
+      <p begin="00:18:02.359" end="00:18:05.401">and they'll suspend you quick<br/>at the school too!</p>
+      <p begin="00:18:05.783" end="00:18:07.410">They'll suspend you quick.</p>
+      <p begin="00:18:07.410" end="00:18:09.512">The kids that are willing to do it</p>
+      <p begin="00:18:11.439" end="00:18:15.095">are gonna take something away that<br/>will help them for the rest of their life.</p>
+      <p begin="00:18:15.095" end="00:18:16.651">The kids that are not willing to do it</p>
+      <p begin="00:18:17.736" end="00:18:19.441">for whatever reason</p>
+      <p begin="00:18:19.832" end="00:18:22.647">are not gonna be very successful<br/>as far as here.</p>
+      <p begin="00:18:22.685" end="00:18:26.100">[Teacher] The civil rights movement<br/>started up in the 50s...</p>
+      <p begin="00:18:26.196" end="00:18:28.159">When William first entered St. Joe's,</p>
+      <p begin="00:18:28.697" end="00:18:32.155">tests revealed he was working on<br/>a fourth or fifth grade level.</p>
+      <p begin="00:18:33.204" end="00:18:35.449">I could see that he had the potential</p>
+      <p begin="00:18:35.449" end="00:18:40.060">but because he was shy it seemed as<br/>though no one was trying to reach him.</p>
+      <p begin="00:18:40.800" end="00:18:42.522">[William] Sister Marilyn told me,</p>
+      <p begin="00:18:42.522" end="00:18:48.083">"You have to be one good ball player<br/>to get in this school with these grades."</p>
+      <p begin="00:18:50.632" end="00:18:54.412">At the end of the year<br/>he had gone four grades above</p>
+      <p begin="00:18:55.182" end="00:18:59.215">just in the way he listened and learned.</p>
+      <p begin="00:19:01.541" end="00:19:06.008">[William] Back in grammar school,<br/>academics really didn't matter too much</p>
+      <p begin="00:19:06.008" end="00:19:07.608">to me at all.</p>
+      <p begin="00:19:08.716" end="00:19:10.529">It was playing ball for the team that</p>
+      <p begin="00:19:10.529" end="00:19:13.057">really was like the stand-outs<br/>in the school.</p>
+      <p begin="00:19:13.057" end="00:19:16.136">We showed up in class,<br/>that was good enough for them.</p>
+      <p begin="00:19:17.054" end="00:19:19.252">I was just going to school for the girls,</p>
+      <p begin="00:19:19.801" end="00:19:21.354">trip out with your friends,</p>
+      <p begin="00:19:22.274" end="00:19:24.505">get out, go play<br/>some more basketball!</p>
+      <p begin="00:19:24.865" end="00:19:27.035">That was basically it.</p>
+      <p begin="00:19:31.049" end="00:19:34.452">Arthur also entered St. Joe's on a <br/>fourth or fifth grade level.</p>
+      <p begin="00:19:35.274" end="00:19:38.340">[Arthur] I don't think nobody<br/>in their right mind is crazy about school.</p>
+      <p begin="00:19:39.297" end="00:19:43.413">If the president brought up a thing<br/>right now to say "Close all schools",</p>
+      <p begin="00:19:43.413" end="00:19:45.701">do you think any kids would be<br/>trying to go out there,</p>
+      <p begin="00:19:45.701" end="00:19:47.799">stand on the picket line and wave,</p>
+      <p begin="00:19:48.270" end="00:19:53.367">and get billboards saying:<br/>"Reopen schools?"</p>
+      <p begin="00:19:55.990" end="00:19:59.329">Arthur was in the lower group<br/>of the general program.</p>
+      <p begin="00:20:02.039" end="00:20:05.979">At the end of the year he was still<br/>in the lower group.</p>
+      <p begin="00:20:10.616" end="00:20:12.549">For Arthur, the season is over.</p>
+      <p begin="00:20:12.702" end="00:20:15.590">His freshman team finished second<br/>in the conference.</p>
+      <p begin="00:20:16.112" end="00:20:19.160">William's varsity is rolling<br/>through the playoffs.</p>
+      <p begin="00:20:32.044" end="00:20:35.668">Against Proviso East,<br/>William plays his best game yet</p>
+      <p begin="00:20:37.723" end="00:20:39.875">and the Chargers move a step closer</p>
+      <p begin="00:20:39.875" end="00:20:42.505">to going downstate<br/>to compete for the title.</p>
+      <p begin="00:20:46.608" end="00:20:50.212">St. Joe's made it downstate<br/>5 of the last 6 years.</p>
+      <p begin="00:20:50.501" end="00:20:54.125">[Pingatore] The one thing we haven't<br/>done is win a state tournament.</p>
+      <p begin="00:20:54.750" end="00:20:59.213">[William] Man, it'd be a big thing if <br/>I go downstate as a freshman.</p>
+      <p begin="00:20:59.774" end="00:21:03.066">Isiah was good enough to start<br/>on the varsity as a freshman.</p>
+      <p begin="00:21:03.096" end="00:21:07.216">I didn't do it because I was<br/>worried about being moved too rapidly.</p>
+      <p begin="00:21:07.296" end="00:21:11.238">I think by not doing it,<br/>it cost us the state championship.</p>
+      <p begin="00:21:15.834" end="00:21:20.167">In the sectional finals,<br/>Fenwick challenges St. Joe's title hunt.</p>
+      <p begin="00:21:21.009" end="00:21:24.419">But in the second quarter,<br/>William steps up.</p>
+      <p begin="00:21:25.879" end="00:21:27.503">With his brother Curtis looking on,</p>
+      <p begin="00:21:27.503" end="00:21:32.086">William scores 16 points to lead<br/>the Chargers to the sectional title.</p>
+      <p begin="00:21:34.460" end="00:21:38.938">[announcer] From Chicago,<br/>it's The Sports Writers on TV!</p>
+      <p begin="00:21:39.191" end="00:21:43.033">I think I may have seen<br/>the next Isiah Thomas.</p>
+      <p begin="00:21:44.013" end="00:21:47.644">St. Joe at Westchester has a kid<br/>named William Gates</p>
+      <p begin="00:21:48.614" end="00:21:50.814">who is starting as a freshman.</p>
+      <p begin="00:21:50.814" end="00:21:53.175">Remember you heard it first<br/>from Bill Gleason.</p>
+      <p begin="00:21:53.350" end="00:21:55.274">Put it in your memory bank,<br/>ladies and gentlemen!</p>
+      <p begin="00:21:55.274" end="00:21:58.433">Put it in your memory bank, okay!<br/>- William Gates.</p>
+      <p begin="00:22:02.617" end="00:22:05.795">In the super sectionals,<br/>St. Joe's meets de Sales to decide</p>
+      <p begin="00:22:05.810" end="00:22:07.427">who will go downstate.</p>
+      <p begin="00:22:07.427" end="00:22:11.427">William plays more like an intimidated<br/>freshman than a freshman sensation.</p>
+      <p begin="00:22:15.510" end="00:22:19.411">6'9'' senior All-American Eric Anderson <br/>dominates St. Joe's.</p>
+      <p begin="00:22:24.422" end="00:22:27.415">But in the third quarter,<br/>William takes over again.</p>
+      <p begin="00:22:28.926" end="00:22:32.020">He fires over Anderson,<br/>and is fouled.</p>
+      <p begin="00:22:35.382" end="00:22:39.404">William's 13 points in the second half<br/>pull the Chargers to within 4.</p>
+      <p begin="00:22:43.711" end="00:22:46.715">With less than 2 minutes to play,<br/>it's a must-score.</p>
+      <p begin="00:22:57.551" end="00:22:59.628">St. Joes' jumpshot falls short.</p>
+      <p begin="00:23:03.847" end="00:23:06.321">[crowd cheering]</p>
+      <p begin="00:23:23.810" end="00:23:26.315">Despite the loss,<br/>William's gutty performance</p>
+      <p begin="00:23:26.676" end="00:23:28.417">bodes well for next year.</p>
+      <p begin="00:23:37.838" end="00:23:41.162">[math problem]</p>
+      <p begin="00:23:42.119" end="00:23:44.113">Who wants that problem?</p>
+      <p begin="00:23:45.208" end="00:23:46.497">Try it, William!</p>
+      <p begin="00:23:47.328" end="00:23:49.481">[correct answer]</p>
+      <p begin="00:23:54.180" end="00:23:55.589">Very good!</p>
+      <p begin="00:23:56.508" end="00:23:59.538">When I went out there I was<br/>very intimidated cuz I just knew</p>
+      <p begin="00:23:59.538" end="00:24:02.232">that everybody out there<br/>was just smarter than me.</p>
+      <p begin="00:24:04.179" end="00:24:05.814">As the year went on</p>
+      <p begin="00:24:05.864" end="00:24:08.102">and I was making<br/>the A and B honor roll</p>
+      <p begin="00:24:08.132" end="00:24:11.639">I just felt like:<br/>"Hey, I'm just as good as them".</p>
+      <p begin="00:24:12.819" end="00:24:14.692">And now what you have to identify...</p>
+      <p begin="00:24:15.185" end="00:24:17.892">Both William and Arthur have<br/>partial scholarships from St. Joe's.</p>
+      <p begin="00:24:19.401" end="00:24:21.775">The rest of William's tuition is<br/>paid for by Cycle,</p>
+      <p begin="00:24:22.200" end="00:24:23.772">a Cabrini Green organization,</p>
+      <p begin="00:24:24.474" end="00:24:27.120">but Cycle can't cover<br/>this year's tuition increase.</p>
+      <p begin="00:24:27.512" end="00:24:29.865">I was called on<br/>by brother Edwin DuPray</p>
+      <p begin="00:24:30.693" end="00:24:33.590">He was trying to raise money<br/>to help kids that couldn't otherwise</p>
+      <p begin="00:24:33.590" end="00:24:35.202">go to those kinds of schools.</p>
+      <p begin="00:24:35.202" end="00:24:37.577">It really touched a soft spot in my heart</p>
+      <p begin="00:24:37.632" end="00:24:41.698">and so I decided that my husband and I<br/>would participate on a personal basis.</p>
+      <p begin="00:24:41.698" end="00:24:45.298">William was selected as the kid that<br/>was able to go to school</p>
+      <p begin="00:24:45.298" end="00:24:47.553">based on our contribution.</p>
+      <p begin="00:24:48.318" end="00:24:51.815">Nice to see you.<br/>You played a great game!</p>
+      <p begin="00:24:56.895" end="00:24:59.151">With continuing support<br/>from Patricia Weir,</p>
+      <p begin="00:24:59.350" end="00:25:03.553">William is assured that his entire<br/>education at St. Joe's will be free</p>
+      <p begin="00:25:09.459" end="00:25:12.073">Arthur's family is paying for<br/>half of his tuition,</p>
+      <p begin="00:25:12.628" end="00:25:15.354">and the increase comes<br/>at an especially bad time.</p>
+      <p begin="00:25:16.488" end="00:25:18.484">Work for Sarah Lee got laid off</p>
+      <p begin="00:25:18.859" end="00:25:22.695">work for Scholar's meatpacking<br/>got laid off then, you know?</p>
+      <p begin="00:25:23.446" end="00:25:26.251">You look around your house you see<br/>your food getting low, okay,</p>
+      <p begin="00:25:26.405" end="00:25:31.703">and you know you got your<br/>bills due here, your bills due there.</p>
+      <p begin="00:25:35.549" end="00:25:38.207">I had got called down to the office.</p>
+      <p begin="00:25:38.207" end="00:25:39.919">Brother Leo wanted to talk to me</p>
+      <p begin="00:25:40.853" end="00:25:44.426">and he was telling me about how much<br/>certain money my momma had to pay</p>
+      <p begin="00:25:44.426" end="00:25:45.803">for me to stay in school.</p>
+      <p begin="00:25:45.803" end="00:25:48.666">And they said,<br/>if she don't have it by this time,</p>
+      <p begin="00:25:48.666" end="00:25:50.222">you gotta stay out till she pays it.</p>
+      <p begin="00:25:50.222" end="00:25:52.259">And I was staying out like<br/>two and three weeks and stuff.</p>
+      <p begin="00:25:52.769" end="00:25:55.001">- By the end of the freshman year,</p>
+      <p begin="00:25:55.031" end="00:25:58.098">whatever balance there was for tuition<br/>was never taken care of.</p>
+      <p begin="00:25:59.598" end="00:26:02.143">Consequently going into<br/>the sophomore year</p>
+      <p begin="00:26:02.143" end="00:26:04.136">we had the balance plus the new tuition</p>
+      <p begin="00:26:04.136" end="00:26:07.395">so that it was going to continue<br/>to become a problem.</p>
+      <p begin="00:26:07.825" end="00:26:11.058">We have a scout that they have<br/>come out to the different neighborhoods</p>
+      <p begin="00:26:11.393" end="00:26:14.871">and scout out these little basketball<br/>players and get them to come</p>
+      <p begin="00:26:14.871" end="00:26:17.214">to their school and offer them<br/>this scholarship.</p>
+      <p begin="00:26:17.524" end="00:26:19.935">Then once they get out there,<br/>the story is totally different.</p>
+      <p begin="00:26:20.167" end="00:26:21.826">I was under the impression that<br/>Arthur would have help</p>
+      <p begin="00:26:21.826" end="00:26:23.733">for getting to his school.</p>
+      <p begin="00:26:23.733" end="00:26:25.431">Arthur would have help in<br/>getting his books.</p>
+      <p begin="00:26:25.431" end="00:26:26.942">Arthur would have help in--</p>
+      <p begin="00:26:27.300" end="00:26:28.734">But see, none of that occurred.</p>
+      <p begin="00:26:29.809" end="00:26:32.561">Finally, with the Agee's owing<br/>1500 dollars in back payments,</p>
+      <p begin="00:26:32.561" end="00:26:36.215">St. Joseph's forced Arthur<br/>to leave the school.</p>
+      <p begin="00:26:38.908" end="00:26:41.021">I thought Pingatore and them would<br/>help me out but...</p>
+      <p begin="00:26:46.651" end="00:26:48.670">You have to draw the line</p>
+      <p begin="00:26:48.670" end="00:26:51.611">because as I said,<br/>tuition is something that as school</p>
+      <p begin="00:26:51.611" end="00:26:54.206">we depend on<br/>for 90% of our revenue.</p>
+      <p begin="00:26:56.305" end="00:26:58.188">I guess he thought I, you know,<br/>I wasn't gonna be</p>
+      <p begin="00:26:58.188" end="00:27:00.674">that big of a ball player, so why would he<br/>just waste some money on me</p>
+      <p begin="00:27:00.674" end="00:27:02.117">staying there?</p>
+      <p begin="00:27:03.095" end="00:27:04.915">Or you know, he thought<br/>I wasn't gonna grow.</p>
+      <p begin="00:27:04.915" end="00:27:07.894">He kept on saying like, "when you<br/>gonna grow?" or something like that.</p>
+      <p begin="00:27:08.144" end="00:27:10.077">Well I don't know.</p>
+      <p begin="00:27:12.153" end="00:27:15.561">If I had known all of this was<br/>gonna lead to this,</p>
+      <p begin="00:27:15.851" end="00:27:17.301">Arthur would've never gone<br/>to St. Joe's.</p>
+      <p begin="00:27:17.301" end="00:27:20.699">I mean if I had known<br/>that he was gonna have to go through</p>
+      <p begin="00:27:20.699" end="00:27:23.168">this type of pain<br/>and myself the anguish of it,</p>
+      <p begin="00:27:23.168" end="00:27:26.978">and then to put him out<br/>in the middle of the school year.</p>
+      <p begin="00:27:28.764" end="00:27:31.759">&#9834; [music] &#9834;</p>
+      <p begin="00:27:51.768" end="00:27:53.832">[bell ringing]</p>
+      <p begin="00:27:57.554" end="00:28:00.110">[students chattering]</p>
+      <p begin="00:28:18.578" end="00:28:22.256">Arthur is accepted at the public<br/>high school near his home.</p>
+      <p begin="00:28:23.483" end="00:28:27.436">He's been out of school for two months,<br/>and lost a whole semester's credit.</p>
+      <p begin="00:28:28.528" end="00:28:30.483">Here you have a youngster caught</p>
+      <p begin="00:28:30.565" end="00:28:33.102">in the middle of two<br/>separate school systems.</p>
+      <p begin="00:28:33.272" end="00:28:36.751">Had he stayed at St. Joseph's,<br/>he would have been able</p>
+      <p begin="00:28:36.751" end="00:28:39.618">to receive credit for that first semester.</p>
+      <p begin="00:28:39.891" end="00:28:43.631">Doesn't seem fair but then<br/>that's the system.</p>
+      <p begin="00:28:44.631" end="00:28:47.755">If he's going out there and he's playing<br/>like they had predicted him to play,</p>
+      <p begin="00:28:47.755" end="00:28:50.729">he wouldn't have be at mercy,<br/>economics wouldn't have had anything</p>
+      <p begin="00:28:50.729" end="00:28:53.021">to do with him not being in St. Joe's.</p>
+      <p begin="00:28:53.021" end="00:28:54.805">Somebody would've made some kind<br/>of arrangement</p>
+      <p begin="00:28:54.805" end="00:28:56.453">and the kid would've still been there.</p>
+      <p begin="00:28:56.453" end="00:28:58.482">He's not making it like they thought<br/>he was gonna make it</p>
+      <p begin="00:28:58.482" end="00:29:01.380">on the basketball court,<br/>so he's not there. Simple as that.</p>
+      <p begin="00:29:01.500" end="00:29:04.626">And it doesn't take no brilliant person<br/>to figure that out.</p>
+      <p begin="00:29:09.036" end="00:29:11.823">It's mid-season when Arthur joins<br/>the sophomore team.</p>
+      <p begin="00:29:13.648" end="00:29:15.310">He was so depressed and devastated,</p>
+      <p begin="00:29:15.310" end="00:29:17.033">he just closed himself off in his room.</p>
+      <p begin="00:29:17.033" end="00:29:19.010">And I would go in there<br/>and I would tell him every day:</p>
+      <p begin="00:29:19.010" end="00:29:21.702">"Hey, things'll look up".</p>
+      <p begin="00:29:24.268" end="00:29:26.402">Coming off the bench,<br/>Arthur wears number 11,</p>
+      <p begin="00:29:26.402" end="00:29:28.169">Isiah Thomas's number.</p>
+      <p begin="00:29:40.978" end="00:29:45.026">[teacher] What kind of techniques were<br/>being used to take away the freedoms,</p>
+      <p begin="00:29:45.026" end="00:29:48.710">that had been earned? Okay.</p>
+      <p begin="00:29:48.717" end="00:29:50.095">Arthur?</p>
+      <p begin="00:29:50.177" end="00:29:53.093">What other techniques were used<br/>to keep black Americans from voting?</p>
+      <p begin="00:29:56.549" end="00:29:59.116">You could almost forget about<br/>he's being there.</p>
+      <p begin="00:29:59.137" end="00:30:01.130">That's how quiet he really was,</p>
+      <p begin="00:30:01.160" end="00:30:05.861">and I think the transition had<br/>something to do with that.</p>
+      <p begin="00:30:09.123" end="00:30:11.573">And comparing Marshall High School<br/>to St. Joseph.</p>
+      <p begin="00:30:11.573" end="00:30:13.534">I don't think that there was<br/>any comparison.</p>
+      <p begin="00:30:13.534" end="00:30:15.604">People can afford to send<br/>their children there.</p>
+      <p begin="00:30:16.074" end="00:30:18.709">They can afford to put money<br/>into the school.</p>
+      <p begin="00:30:20.146" end="00:30:21.719">Once they walk in those doors</p>
+      <p begin="00:30:21.719" end="00:30:25.250">they walk in there to get that diploma<br/>and go on to college,</p>
+      <p begin="00:30:25.250" end="00:30:29.874">whereas our students if they<br/>get out of high school a lot of them,</p>
+      <p begin="00:30:30.014" end="00:30:32.927">it's an accomplishment.</p>
+      <p begin="00:30:36.235" end="00:30:40.528">If he wanna go back next year,<br/>he's gonna go back if I have to beg.</p>
+      <p begin="00:30:43.851" end="00:30:48.287">Because then what would happen with<br/>his little dream?</p>
+      <p begin="00:30:54.042" end="00:30:58.035">Arthur's mother Sheila has lost her<br/>minimum wage job as a nurse's assistant</p>
+      <p begin="00:30:58.319" end="00:31:01.253">because of chronic back pain.</p>
+      <p begin="00:31:03.854" end="00:31:07.394">It's just a real hard area<br/>to live in...period.</p>
+      <p begin="00:31:07.873" end="00:31:09.771">As far as raising kids...</p>
+      <p begin="00:31:11.646" end="00:31:14.136">Kids don't even have a playground,<br/>a play area,</p>
+      <p begin="00:31:14.156" end="00:31:16.189">anything constructive to do<br/>in the neighborhood.</p>
+      <p begin="00:31:16.671" end="00:31:19.855">But you see why half of them<br/>become gangbangers, and you know,</p>
+      <p begin="00:31:20.055" end="00:31:23.671">because it's nothing constructive<br/>in the neighborhood for them.</p>
+      <p begin="00:31:27.805" end="00:31:31.942">So now it's just like you know you more<br/>or less got to keep your kids close to you</p>
+      <p begin="00:31:31.942" end="00:31:34.755">and watch them at all times.</p>
+      <p begin="00:31:36.736" end="00:31:39.193">&#9834; [music] &#9834;</p>
+      <p begin="00:31:54.466" end="00:32:00.154">In June, after 20 years of marriage,<br/>Arthur's dad leaves the family.</p>
+      <p begin="00:32:22.147" end="00:32:25.629">They say, you look at how many<br/>shots have been taken.</p>
+      <p begin="00:32:25.912" end="00:32:28.948">To look at my shoot on,<br/>15 out of 40.</p>
+      <p begin="00:32:29.209" end="00:32:31.570">15 out of 40?</p>
+      <p begin="00:32:31.737" end="00:32:34.113">I'm just saying... He done it.</p>
+      <p begin="00:32:34.872" end="00:32:38.434">If you do that,<br/>you gonna know about it.</p>
+      <p begin="00:32:40.380" end="00:32:41.568">I always tell William,</p>
+      <p begin="00:32:41.568" end="00:32:44.666">the most important thing is<br/>getting the ball in the basket.</p>
+      <p begin="00:32:45.294" end="00:32:47.285">Coach said the boy's good.</p>
+      <p begin="00:32:47.344" end="00:32:49.910">He said he's real good but<br/>he said he don't listen.</p>
+      <p begin="00:32:50.120" end="00:32:53.081">He said if he listened to him<br/>he'd be better.</p>
+      <p begin="00:32:55.252" end="00:32:59.135">He's always telling me: "You should<br/>do this and you should do that!".</p>
+      <p begin="00:32:59.555" end="00:33:02.342">Everybody I know is my coach.</p>
+      <p begin="00:33:03.186" end="00:33:06.383">I know a whole lot about basketball.</p>
+      <p begin="00:33:08.471" end="00:33:12.239">I guess in so many ways I feel like<br/>I'm a pro at that in my mind.</p>
+      <p begin="00:33:31.489" end="00:33:34.388">When he went to college<br/>and like when Michael Jordan first</p>
+      <p begin="00:33:34.388" end="00:33:39.382">came to the NBA, there were<br/>no sit around and I would...</p>
+      <p begin="00:33:39.492" end="00:33:42.037">...who could play the best.</p>
+      <p begin="00:33:42.037" end="00:33:43.225">[crowd cheering]</p>
+      <p begin="00:33:43.697" end="00:33:47.052">Curtis was named Player of the Decade<br/>at Colby Junior College,</p>
+      <p begin="00:33:47.222" end="00:33:51.302">but he also developed a reputation<br/>for being uncoachable.</p>
+      <p begin="00:33:51.962" end="00:33:58.344">Curtis's idea of being real good is<br/>"you don't follow the rules,</p>
+      <p begin="00:33:58.344" end="00:34:00.895">you do what you wanna do".</p>
+      <p begin="00:34:01.913" end="00:34:04.904">Curtis finally signed<br/>at the University of Central Florida,</p>
+      <p begin="00:34:04.974" end="00:34:08.304">but he didn't get along with<br/>the coach and rarely played.</p>
+      <p begin="00:34:09.472" end="00:34:11.406">Even if he didn't play ball,</p>
+      <p begin="00:34:11.406" end="00:34:13.840">it was a nice University.</p>
+      <p begin="00:34:13.841" end="00:34:15.996">He could've finished school</p>
+      <p begin="00:34:16.335" end="00:34:18.443">but he couldn't handle it.</p>
+      <p begin="00:34:28.650" end="00:34:30.764">Security.</p>
+      <p begin="00:34:30.998" end="00:34:33.585">I'm used to everybody<br/>in the neighborhood loving me</p>
+      <p begin="00:34:33.585" end="00:34:36.420">and knowing how good I could play.</p>
+      <p begin="00:34:37.712" end="00:34:40.763">Just seeing how people looked up to<br/>Curtis Gates when I played basketball</p>
+      <p begin="00:34:40.763" end="00:34:45.887">but now just a regular old guy<br/>on the street now.</p>
+      <p begin="00:34:58.340" end="00:35:00.907">[announcer] Welcome to<br/>the Prep game of the week</p>
+      <p begin="00:35:00.907" end="00:35:03.609">in the Class AA sectional final.</p>
+      <p begin="00:35:06.039" end="00:35:08.694">Gates...Good.</p>
+      <p begin="00:35:08.694" end="00:35:10.164">Point.</p>
+      <p begin="00:35:10.542" end="00:35:12.924">WIlliam Gates is one of<br/>the premier sophomores--</p>
+      <p begin="00:35:12.924" end="00:35:15.403">William scored 17 points<br/>in the first half</p>
+      <p begin="00:35:15.403" end="00:35:18.887">as the Chargers looked to<br/>return to the state Finals.</p>
+      <p begin="00:35:18.887" end="00:35:20.297">[crowd cheering]</p>
+      <p begin="00:35:20.475" end="00:35:23.849">Gates...good!</p>
+      <p begin="00:35:32.374" end="00:35:34.263">Can they get it done here now--</p>
+      <p begin="00:35:34.263" end="00:35:38.305">In the second half, Gordon Tech turns<br/>to their own sophomore star.</p>
+      <p begin="00:35:41.381" end="00:35:45.950">Gordon Tech hangs on to a slender lead<br/>in the waning seconds of the game.</p>
+      <p begin="00:35:48.187" end="00:35:50.702">My guy's William Gates.<br/>I'd like to see him get it</p>
+      <p begin="00:35:50.702" end="00:35:54.767">and just get to go one on one<br/>and just pull up and ice it.</p>
+      <p begin="00:35:58.050" end="00:36:00.424">Oh boy, this is it.</p>
+      <p begin="00:36:01.409" end="00:36:08.709">Gates has it...he's going to pull up<br/>from way out...Blindsman tips it around...</p>
+      <p begin="00:36:08.709" end="00:36:15.300">3 seconds left, Cunnigham goes out<br/>and up...no good! Tech win!</p>
+      <p begin="00:36:16.317" end="00:36:18.551">[crowd cheering and applausing]</p>
+      <p begin="00:36:20.448" end="00:36:23.125">Congratulations to<br/>the Gordon Tech Rams.</p>
+      <p begin="00:36:23.245" end="00:36:26.310">They are on a joyride now<br/>with Champagne.</p>
+      <p begin="00:36:48.428" end="00:36:50.487">Arthur's season ended well</p>
+      <p begin="00:36:50.487" end="00:36:53.898">and he has high hopes to play<br/>for the Varsity next year.</p>
+      <p begin="00:37:00.940" end="00:37:03.754">Arthur's dad shows up.</p>
+      <p begin="00:37:04.873" end="00:37:08.153">These days Arthur rarely sees him.</p>
+      <p begin="00:37:20.536" end="00:37:23.275">You got old legs dad.</p>
+      <p begin="00:37:24.314" end="00:37:26.492">Old legs.</p>
+      <p begin="00:37:27.942" end="00:37:30.894">Hey man, I'll see you<br/>later on, ok?</p>
+      <p begin="00:37:34.490" end="00:37:40.353">Increasingly, this playground court has<br/>become a place to buy and sell drugs.</p>
+      <p begin="00:37:56.300" end="00:38:01.097">Dear Mother, I hope when<br/>Mother's Day comes,</p>
+      <p begin="00:38:01.097" end="00:38:03.994">you will light up the sky<br/>with a big smile.</p>
+      <p begin="00:38:03.994" end="00:38:07.806">You mother, are the only one<br/>in the world who can provide</p>
+      <p begin="00:38:07.806" end="00:38:12.181">and take care of me. You are the one<br/>that makes our family work.</p>
+      <p begin="00:38:12.181" end="00:38:16.576">You are the one that I will miss<br/>so much when I go away to college.</p>
+      <p begin="00:38:16.576" end="00:38:20.355">No one can replace you ever.</p>
+      <p begin="00:38:20.355" end="00:38:22.999">Love always, Man.</p>
+      <p begin="00:38:22.999" end="00:38:26.479">Mother's day, 1989.</p>
+      <p begin="00:38:36.653" end="00:38:39.317">I said to him:<br/>"What are you gonna do this summer?"</p>
+      <p begin="00:38:39.317" end="00:38:42.667">and he said, well, he didn't know.</p>
+      <p begin="00:38:45.071" end="00:38:50.365">So I said: "Well if you need a job, let me<br/>know and I'll see if I can help you."</p>
+      <p begin="00:38:50.949" end="00:38:55.839">We had a job that didn't require a lot<br/>of previous training, so we hired him.</p>
+      <p begin="00:38:56.120" end="00:39:00.496">I messed up so bad on my first day,<br/>that I wanted to do everything right.</p>
+      <p begin="00:39:00.496" end="00:39:03.794">I just messed up everything.</p>
+      <p begin="00:39:03.955" end="00:39:08.089">Putting tapes in the wrong numbers<br/>and all sorts of stuff.</p>
+      <p begin="00:39:11.515" end="00:39:16.312">I just push myself to come out here<br/>because I know in the long run,</p>
+      <p begin="00:39:16.312" end="00:39:20.656">it's gonna be good for myself<br/>and for my family.</p>
+      <p begin="00:39:21.844" end="00:39:25.751">I give my mother 50 dollars<br/>out of my checks.</p>
+      <p begin="00:39:26.046" end="00:39:31.326">All she done for me, I don't think there<br/>will ever be enough to pay her back,</p>
+      <p begin="00:39:31.326" end="00:39:35.342">unless I make pros then I'm pretty sure<br/>I could pay her back.</p>
+      <p begin="00:39:55.507" end="00:39:58.591">I drew on these, with my man.</p>
+      <p begin="00:39:59.207" end="00:40:00.548">Tuss!</p>
+      <p begin="00:40:05.709" end="00:40:08.690">I had heard that his nickname<br/>used to be Tuss</p>
+      <p begin="00:40:08.690" end="00:40:11.650">and I just started calling<br/>myself Tuss.</p>
+      <p begin="00:40:19.220" end="00:40:22.814">You know, I said: "Man, you might not<br/>make it to the NBA".</p>
+      <p begin="00:40:22.814" end="00:40:25.353">He said: "Don't be keep on telling me<br/>things like that.</p>
+      <p begin="00:40:25.353" end="00:40:28.945">That's just like showing me you don't<br/>have any trust in what I do".</p>
+      <p begin="00:40:28.945" end="00:40:33.250">I said: "I do, but don't just keep<br/>putting all everything into this:.</p>
+      <p begin="00:40:33.250" end="00:40:36.068">He said: "Well, ain't nobody gonna<br/>take my dream away from me.</p>
+      <p begin="00:40:36.068" end="00:40:39.298">That's what I wanna be<br/>and that's what I'm gonna do".</p>
+      <p begin="00:40:44.863" end="00:40:48.484">I said: "It's your dream.<br/>What can we do?"</p>
+      <p begin="00:40:53.987" end="00:40:55.913">&#9834; [music] &#9834;</p>
+      <p begin="00:41:09.732" end="00:41:12.732">Dear William,<br/>Georgetown University basketball staff</p>
+      <p begin="00:41:12.732" end="00:41:15.361">is very interested in you.</p>
+      <p begin="00:41:15.361" end="00:41:19.725">We are going to kick off the season with<br/>a Midnight Madness celebration.</p>
+      <p begin="00:41:20.338" end="00:41:22.063">Harvey Mack called,</p>
+      <p begin="00:41:22.063" end="00:41:25.197">Michigan State, did they ever call?</p>
+      <p begin="00:41:25.647" end="00:41:28.034">Will be on national television.</p>
+      <p begin="00:41:31.957" end="00:41:34.318">Any school you name.</p>
+      <p begin="00:41:38.467" end="00:41:43.049">Dear William, there's gold at the end<br/>of the rainbow.</p>
+      <p begin="00:41:43.822" end="00:41:46.385">500 dollars in there for you too.</p>
+      <p begin="00:41:46.967" end="00:41:49.677">[William laughing]</p>
+      <p begin="00:41:50.693" end="00:41:52.756">&#9834; [music] &#9834;</p>
+      <p begin="00:42:01.264" end="00:42:03.176">You see Isiah play?</p>
+      <p begin="00:42:03.176" end="00:42:05.176">Yeah, I got him.</p>
+      <p begin="00:42:05.391" end="00:42:06.990">How'd you like it?</p>
+      <p begin="00:42:06.990" end="00:42:08.597">He played pretty good.</p>
+      <p begin="00:42:09.081" end="00:42:12.457">The whole school see me as<br/>being Isiah Thomas.</p>
+      <p begin="00:42:12.457" end="00:42:15.398">I'm trying to be my own identity.</p>
+      <p begin="00:42:15.816" end="00:42:17.222">When I leave they can be like:</p>
+      <p begin="00:42:17.222" end="00:42:20.048">"Oh you're gonna be the next<br/>William Gates!"</p>
+      <p begin="00:42:25.834" end="00:42:28.361">Watch Isiah!<br/>Watch him coming!</p>
+      <p begin="00:42:29.029" end="00:42:33.204">What did he do?<br/>He took the charge!</p>
+      <p begin="00:42:33.714" end="00:42:37.017">Something we have to get<br/>you to do, right?</p>
+      <p begin="00:42:40.778" end="00:42:43.194">You listening?</p>
+      <p begin="00:42:48.795" end="00:42:52.826">You're actually a better shooter<br/>than Isiah...from the outside.</p>
+      <p begin="00:42:53.143" end="00:42:55.479">True!</p>
+      <p begin="00:42:58.665" end="00:43:01.608">Because you have a lot of<br/>responsibility, William.</p>
+      <p begin="00:43:01.608" end="00:43:03.253">Can you handle it?</p>
+      <p begin="00:43:03.466" end="00:43:06.035">I hope so.<br/>I mean going downstate.</p>
+      <p begin="00:43:06.035" end="00:43:07.820">You wanna go downstate?<br/>- Yeah.</p>
+      <p begin="00:43:07.820" end="00:43:10.176">You gotta do something about it.</p>
+      <p begin="00:43:10.737" end="00:43:12.545">You have two years<br/>to get us down there.</p>
+      <p begin="00:43:12.545" end="00:43:15.465">And it's gonna be on your head.</p>
+      <p begin="00:43:19.055" end="00:43:24.551">Go! Hold up! William!</p>
+      <p begin="00:43:27.093" end="00:43:30.176">The man playing defense <br/>ropped way off here.</p>
+      <p begin="00:43:31.262" end="00:43:34.156">Now who would you rather<br/>have shoot the ball?</p>
+      <p begin="00:43:34.156" end="00:43:37.494">Stow's shooting the ball here,<br/>you stopping here and shoot the ball.</p>
+      <p begin="00:43:37.494" end="00:43:39.507">Well, shoot it!</p>
+      <p begin="00:43:40.986" end="00:43:45.595">William practices today having<br/>just recovered from a slight knee injury.</p>
+      <p begin="00:43:46.942" end="00:43:49.776">Come on!Let's go!<br/>You're playing soft.</p>
+      <p begin="00:43:49.991" end="00:43:52.438">William, does it bother you?</p>
+      <p begin="00:43:52.618" end="00:43:55.188">Don't be afraid though!<br/>Don't favor it!</p>
+      <p begin="00:43:55.583" end="00:43:58.567">Tempo, tempo!</p>
+      <p begin="00:43:58.841" end="00:44:01.299">Hold it! That's bullshit!</p>
+      <p begin="00:44:01.555" end="00:44:04.721">You didn't jump to the ball<br/>to deny the man.</p>
+      <p begin="00:44:14.570" end="00:44:17.096">Nope. Still one.</p>
+      <p begin="00:44:17.675" end="00:44:21.607">We'll stay here all day until<br/>you get it in ten seconds.</p>
+      <p begin="00:44:22.481" end="00:44:25.166">William, you gotta take it easy.</p>
+      <p begin="00:44:26.140" end="00:44:29.223">Go! Go!</p>
+      <p begin="00:44:30.342" end="00:44:32.929">Go!</p>
+      <p begin="00:44:36.955" end="00:44:39.483">No, we start all over.</p>
+      <p begin="00:44:39.483" end="00:44:42.344">You people just refuse to work.</p>
+      <p begin="00:44:44.749" end="00:44:47.683">You don't know what it is<br/>to be intense.</p>
+      <p begin="00:44:47.683" end="00:44:51.003">If you don't have it,<br/>you're gonna be crap for this team!</p>
+      <p begin="00:44:51.705" end="00:44:55.152">Give me a good reason why I should<br/>keep you on this team, Corey!</p>
+      <p begin="00:44:55.152" end="00:44:58.347">How about you, Reed?<br/>Give me a good reason!</p>
+      <p begin="00:44:58.527" end="00:45:03.003">What do you think, William? I mean,<br/>how many of these people work hard?</p>
+      <p begin="00:45:03.003" end="00:45:05.690">Not too many.<br/>- Not too many.</p>
+      <p begin="00:45:05.690" end="00:45:08.996">You wanna stay home<br/>when the state tournament comes?</p>
+      <p begin="00:45:11.176" end="00:45:14.225">Now go ahead!</p>
+      <p begin="00:45:21.683" end="00:45:24.620">[machinery beeping]</p>
+      <p begin="00:45:25.293" end="00:45:29.188">The next day in practice<br/>William reinjures his knee.</p>
+      <p begin="00:45:36.190" end="00:45:40.586">You most likely have at least torn<br/>this cartilage.</p>
+      <p begin="00:45:40.586" end="00:45:43.638">The inside cartilage in your knee.</p>
+      <p begin="00:45:43.912" end="00:45:48.065">And you may have a ligament tear<br/>in your knee, ok?</p>
+      <p begin="00:45:48.423" end="00:45:54.260">If the ligament is torn, William,<br/>you would miss this year...entirely.</p>
+      <p begin="00:45:54.538" end="00:45:58.065">That's a lot to happen to you<br/>at an early age.</p>
+      <p begin="00:45:58.372" end="00:46:02.476">But I think if all goes well,<br/>you'll be able to come back.</p>
+      <p begin="00:46:17.723" end="00:46:23.173">Everything was just going great...<br/>And now this.</p>
+      <p begin="00:46:29.708" end="00:46:33.166">All you guys can't get the high--</p>
+      <p begin="00:46:35.062" end="00:46:40.684">Somebody gotta wear a medium.<br/>One of you skinny guys wanna get the high.</p>
+      <p begin="00:46:41.783" end="00:46:47.325">Junior Year, Arthur makes Varsity<br/>for the Marshall Commandos.</p>
+      <p begin="00:46:48.105" end="00:46:50.175">&#9834; [music] &#9834;</p>
+      <p begin="00:47:18.765" end="00:47:22.246">Back home, the family's troubles<br/>have worsened.</p>
+      <p begin="00:47:22.693" end="00:47:27.281">Now, I'm on welfare<br/>that I wasn't on then.</p>
+      <p begin="00:47:28.255" end="00:47:33.031">And trying to live night to night<br/>on something like that is very hard.</p>
+      <p begin="00:47:33.348" end="00:47:38.457">And you have three growing kids<br/>that need this and you have bills to pay.</p>
+      <p begin="00:47:38.723" end="00:47:42.755">And it's just not enough<br/>to make ends meet.</p>
+      <p begin="00:47:45.578" end="00:47:46.980">Man?</p>
+      <p begin="00:47:48.549" end="00:47:50.927">Is Man in there?</p>
+      <p begin="00:47:51.569" end="00:47:53.765">I was never raised on welfare.</p>
+      <p begin="00:47:53.933" end="00:47:56.695">My mother and father, both worked.</p>
+      <p begin="00:47:59.422" end="00:48:02.430">We was cut off for three months.</p>
+      <p begin="00:48:03.638" end="00:48:05.826">We was cut of complete<br/>with no income.</p>
+      <p begin="00:48:05.826" end="00:48:08.037">So therefore,<br/>do you know what happened?</p>
+      <p begin="00:48:08.037" end="00:48:10.289">Our lights were cut off,<br/>our gas was cut off.</p>
+      <p begin="00:48:10.289" end="00:48:13.349">And we were sitting in the dark.</p>
+      <p begin="00:48:21.913" end="00:48:26.173">They had cut me off because I failed<br/>to made an appointment.</p>
+      <p begin="00:48:33.900" end="00:48:37.445">It hurt everybody,<br/>it changed everybody's attitude,</p>
+      <p begin="00:48:37.445" end="00:48:41.267">that you can have something today<br/>and it's gone tomorrow.</p>
+      <p begin="00:48:43.491" end="00:48:45.967">So you know what the system<br/>is saying to me?</p>
+      <p begin="00:48:47.417" end="00:48:50.923">Do you know what it's saying to a lot of<br/>women in my predicament?</p>
+      <p begin="00:48:51.133" end="00:48:53.711">They don't care.</p>
+      <p begin="00:49:01.997" end="00:49:04.808">[machinery beeping]</p>
+      <p begin="00:49:22.412" end="00:49:27.405">The good news is that your ligament<br/>looks fine, ok?</p>
+      <p begin="00:49:28.531" end="00:49:31.499">Your ligament looks fine.<br/>We can actually sew the cartilage back.</p>
+      <p begin="00:49:32.058" end="00:49:37.306">So you're looking at a minimum of<br/>twelve weeks and maybe sixteen weeks</p>
+      <p begin="00:49:37.306" end="00:49:40.647">before I let you play ball again.</p>
+      <p begin="00:49:40.647" end="00:49:44.088">Possibly being able to play<br/>by tournament time.</p>
+      <p begin="00:49:44.264" end="00:49:46.663">Okay?</p>
+      <p begin="00:49:51.364" end="00:49:54.819">I'm gonna slip you a little something<br/>into the IV.</p>
+      <p begin="00:49:56.456" end="00:49:59.565">Just to take the edge off<br/>of things, okay?</p>
+      <p begin="00:49:59.596" end="00:50:01.396">I can tell.</p>
+      <p begin="00:50:14.946" end="00:50:17.091">&#9834; [music] &#9834;</p>
+      <p begin="00:50:20.776" end="00:50:22.939">[medics chattering]</p>
+      <p begin="00:50:33.673" end="00:50:35.529">The doctor told me<br/>they weren't even gonna try to</p>
+      <p begin="00:50:35.529" end="00:50:38.019">get him ready to play this year.</p>
+      <p begin="00:50:38.278" end="00:50:42.075">So you'd think what do you think<br/>they gonna do to his career?</p>
+      <p begin="00:50:51.365" end="00:50:54.488">I really thought Curtis was<br/>gonna make it.</p>
+      <p begin="00:50:55.773" end="00:50:59.219">But he didn't make it so<br/>I just wanted to try to.</p>
+      <p begin="00:50:59.518" end="00:51:02.297">I just wanted this one to make it</p>
+      <p begin="00:51:04.038" end="00:51:05.751">&#9834; [music] &#9834;</p>
+      <p begin="00:51:06.031" end="00:51:08.916">We were able to repair the cartilage.</p>
+      <p begin="00:51:17.726" end="00:51:22.192">When basketball is over, William didn't<br/>have a friend in the world.</p>
+      <p begin="00:51:22.900" end="00:51:26.199">Curtis lost his job as a security guard<br/>and has been unemployed</p>
+      <p begin="00:51:26.199" end="00:51:28.893">for over four months.</p>
+      <p begin="00:51:29.096" end="00:51:31.885">Sometimes I sit around and my eyes<br/>just kinda get watery</p>
+      <p begin="00:51:31.885" end="00:51:36.905">because I've been like, I ain't amounted<br/>to nothing, you know? I ain't got nothing.</p>
+      <p begin="00:51:37.463" end="00:51:42.413">I can't even go out there and get a job<br/>making 7 dollars an hour you know?</p>
+      <p begin="00:51:43.412" end="00:51:47.695">I'll be sitting there telling myself,<br/>it ain't gonna get no better?</p>
+      <p begin="00:51:51.542" end="00:51:53.583">[chattering]</p>
+      <p begin="00:51:53.940" end="00:51:56.070">What did y'all tell me about when<br/>y'all get ready,</p>
+      <p begin="00:51:56.070" end="00:51:57.750">you know, after y'all go to college<br/>and everything.</p>
+      <p begin="00:51:57.750" end="00:51:59.270">Y'all get your own place.</p>
+      <p begin="00:51:59.614" end="00:52:02.153">Yeah. We gonna go to Curtis, baby.</p>
+      <p begin="00:52:04.805" end="00:52:09.721">We're not gonna need no food stamps.<br/>- We ain't gonna need no food stamps.</p>
+      <p begin="00:52:10.555" end="00:52:12.578">Each day is a struggle.</p>
+      <p begin="00:52:12.980" end="00:52:15.677">Trying to deal with the kids' attitude<br/>as well as my own and trying</p>
+      <p begin="00:52:15.677" end="00:52:18.834">to be strong enough for them<br/>and myself.</p>
+      <p begin="00:52:20.677" end="00:52:22.407">Now that's what you call<br/>a neat paper.</p>
+      <p begin="00:52:22.407" end="00:52:23.717">No, it's not.</p>
+      <p begin="00:52:23.912" end="00:52:25.000">[men laughing]</p>
+      <p begin="00:52:25.000" end="00:52:27.585">What you saying about my son?</p>
+      <p begin="00:52:27.585" end="00:52:30.558">My son got a brain. You cut that out!<br/>- That he don't use.</p>
+      <p begin="00:52:30.750" end="00:52:33.771">Now there are two new members<br/>of the Agee household.</p>
+      <p begin="00:52:34.184" end="00:52:37.007">Arthur's sister Tamika has a baby girl,<br/>named Jazz.</p>
+      <p begin="00:52:38.748" end="00:52:43.660">And Arthur's best friend Shannon moved in<br/>to escape his own troubled home.</p>
+      <p begin="00:52:44.052" end="00:52:48.201">Shannon's like me. He understood me,<br/>and I understood him.</p>
+      <p begin="00:52:50.432" end="00:52:53.019">He could sit back and talk to me<br/>because I was his best friend.</p>
+      <p begin="00:52:53.019" end="00:52:55.675">He trusted me and I trust him.</p>
+      <p begin="00:52:57.026" end="00:53:00.962">It's been crazy, as far as his father<br/>and his mother's breakup.</p>
+      <p begin="00:53:00.962" end="00:53:04.885">He'll come home and bow stealing in.</p>
+      <p begin="00:53:05.076" end="00:53:08.869">You know, bad drugs and beat on<br/>his mother and stuff.</p>
+      <p begin="00:53:09.449" end="00:53:10.814">&#9834; [music] &#9834;</p>
+      <p begin="00:53:10.993" end="00:53:13.634">You have to call the police.<br/>Get an order of protection</p>
+      <p begin="00:53:13.634" end="00:53:16.671">for him to leave me alone.</p>
+      <p begin="00:53:35.614" end="00:53:37.698">My father was the same way.</p>
+      <p begin="00:53:38.595" end="00:53:42.957">I'd think about him all the time when<br/>you'd come home and they fighting.</p>
+      <p begin="00:53:43.119" end="00:53:45.805">And you know, that gets<br/>to a child's head.</p>
+      <p begin="00:53:45.805" end="00:53:49.333">Especially when you living with<br/>your mother and you're young</p>
+      <p begin="00:53:49.333" end="00:53:52.938">and that's all you see all the time.</p>
+      <p begin="00:53:53.866" end="00:53:56.834">You had to do something<br/>to keep your spirit up.</p>
+      <p begin="00:54:15.067" end="00:54:16.905">[crowd cheering]</p>
+      <p begin="00:54:20.986" end="00:54:24.373">When I played basketball I knew<br/>what I wanted to do.</p>
+      <p begin="00:54:24.664" end="00:54:26.452">This is what I want, you know.</p>
+      <p begin="00:54:26.683" end="00:54:29.868">This is what I wanna do<br/>for the rest of my life.</p>
+      <p begin="00:54:44.461" end="00:54:47.634">He's way behind where I think he<br/>should be at this point.</p>
+      <p begin="00:54:47.634" end="00:54:49.876">I've had a few guys come to me<br/>from college,</p>
+      <p begin="00:54:49.876" end="00:54:52.901">ooh, I like that kid.<br/>He's quick he's fast. He's got--</p>
+      <p begin="00:54:52.901" end="00:54:56.368">But something's missing with Arthur.</p>
+      <p begin="00:55:01.938" end="00:55:04.937">Shannon was on the basketball team too.</p>
+      <p begin="00:55:04.937" end="00:55:08.050">He was a little more raw than Arthur is.</p>
+      <p begin="00:55:08.635" end="00:55:11.242">Watching them two guys like that.</p>
+      <p begin="00:55:11.431" end="00:55:16.139">So I tried the less of the evils,<br/>and that was Arthur.</p>
+      <p begin="00:55:20.219" end="00:55:25.082">Marshall's won six and lost 14.<br/>Their worst record in 20 years.</p>
+      <p begin="00:55:25.300" end="00:55:27.460">You're just in a hurry to do nothing,</p>
+      <p begin="00:55:27.460" end="00:55:30.854">Well, that's exactly what you're doing,<br/>Nothing!</p>
+      <p begin="00:55:37.418" end="00:55:39.522">After spending most<br/>of the game on the bench,</p>
+      <p begin="00:55:39.522" end="00:55:41.994">Arthur gets another chance.</p>
+      <p begin="00:55:43.083" end="00:55:49.729">Just go after that ball, boy! Yeah!<br/>That's the way to go.</p>
+      <p begin="00:55:51.128" end="00:55:56.284">In the final minutes of a close game,<br/>Arthur takes it strong to the hoop.</p>
+      <p begin="00:55:58.027" end="00:56:02.405">He's called for charging,<br/>and fouls out of the game.</p>
+      <p begin="00:56:22.060" end="00:56:26.013">That's a bad call all day.<br/>- Amen!</p>
+      <p begin="00:56:33.557" end="00:56:35.727">[metal clanking]</p>
+      <p begin="00:56:47.436" end="00:56:52.626">The daily regimen of rehabilitation is<br/>not the only change in William's life.</p>
+      <p begin="00:56:54.983" end="00:56:57.040">Say hey!</p>
+      <p begin="00:56:57.339" end="00:56:59.500">Say hey!</p>
+      <p begin="00:57:04.222" end="00:57:07.986">I was just basically scared<br/>to tell people.</p>
+      <p begin="00:57:08.948" end="00:57:12.956">I was feeling sick, you know?<br/>Holding all this stuff inside of me.</p>
+      <p begin="00:57:13.235" end="00:57:15.581">I couldn't let it out.</p>
+      <p begin="00:57:15.998" end="00:57:18.084">And I did finally tell the coach</p>
+      <p begin="00:57:18.084" end="00:57:20.453">and he was like:<br/>"When did this come about?"</p>
+      <p begin="00:57:20.453" end="00:57:24.274">And I said:<br/>"Oh three-four months ago".</p>
+      <p begin="00:57:25.391" end="00:57:28.611">He was like:<br/>"Three or four months ago?!"</p>
+      <p begin="00:57:28.611" end="00:57:31.840">I was in the delivery room,<br/>and the nurses gave it to her,</p>
+      <p begin="00:57:32.420" end="00:57:35.293">she handed the baby to me.</p>
+      <p begin="00:57:35.293" end="00:57:38.477">I'll never forget how hard she was<br/>squeezing my hand.</p>
+      <p begin="00:57:40.190" end="00:57:44.665">Once we got her home, William offered<br/>his help and stuff but it was almost like</p>
+      <p begin="00:57:44.665" end="00:57:48.164">I didn't want it cuz I just--<br/>she was mine, you know?</p>
+      <p begin="00:57:48.164" end="00:57:49.942">instead of the two of us.</p>
+      <p begin="00:57:49.942" end="00:57:53.816">So then after a while I finally<br/>let him keep her.</p>
+      <p begin="00:57:54.056" end="00:57:56.679">Yeah, he earned his title.</p>
+      <p begin="00:57:58.055" end="00:58:00.832">It felt good.</p>
+      <p begin="00:58:02.065" end="00:58:03.903">[baby laughing]</p>
+      <p begin="00:58:24.922" end="00:58:27.636">Your numbers look real good.</p>
+      <p begin="00:58:27.893" end="00:58:31.597">I think you're two to three weeks away<br/>from being able to practice, full.</p>
+      <p begin="00:58:31.597" end="00:58:34.663">Two to three weeks?</p>
+      <p begin="00:58:35.107" end="00:58:38.773">I know you wanted to waltz in here today<br/>and I tell you to go back to practice now.</p>
+      <p begin="00:58:39.673" end="00:58:42.625">But I don't want it to have to tear again.</p>
+      <p begin="00:58:43.748" end="00:58:47.585">I felt that this was the year for me.</p>
+      <p begin="00:58:51.529" end="00:58:53.704">&#9834; [music] &#9834;</p>
+      <p begin="00:59:00.306" end="00:59:03.550">I know I could make it downstate.</p>
+      <p begin="00:59:03.881" end="00:59:06.580">That was just a big dream I had.</p>
+      <p begin="00:59:09.080" end="00:59:15.645">I look up on the scoreboard,<br/>my name is not even on there anymore.</p>
+      <p begin="00:59:18.013" end="00:59:21.656">Where do I fit in with this team?</p>
+      <p begin="00:59:28.234" end="00:59:32.938">William takes a make-up exam in math<br/>because he skipped the final.</p>
+      <p begin="00:59:33.042" end="00:59:36.142">Here's the cut-off point for passing,<br/>and you ended up right there.</p>
+      <p begin="00:59:46.669" end="00:59:49.517">So you passed the final, barely.</p>
+      <p begin="00:59:49.711" end="00:59:53.935">When I stopped playing ball,<br/>all my grades just sunk.</p>
+      <p begin="00:59:54.990" end="00:59:59.001">I understand we've got<br/>the ACT results.</p>
+      <p begin="00:59:59.001" end="01:00:00.597">Yeah.</p>
+      <p begin="01:00:00.914" end="01:00:04.306">Not as good as we wanted, huh?</p>
+      <p begin="01:00:09.855" end="01:00:13.591">William scores a 15 on his first ACT.</p>
+      <p begin="01:00:13.781" end="01:00:17.589">He needs to score an 18 to qualify<br/>for an athletic scholarship</p>
+      <p begin="01:00:17.589" end="01:00:20.254">to any four-year university.</p>
+      <p begin="01:00:20.438" end="01:00:24.432">I think what we have to do is get you<br/>set up with a the Britannica course.</p>
+      <p begin="01:00:24.432" end="01:00:27.044">We'll have to talk to Mrs. Weir, ok?</p>
+      <p begin="01:00:28.858" end="01:00:32.403">Sometimes you had the right answer<br/>and you changed it to the wrong answer.</p>
+      <p begin="01:00:32.403" end="01:00:34.910">Through Patricia Ware,<br/>William's St. Joe's sponsor,</p>
+      <p begin="01:00:34.910" end="01:00:38.372">the cost of the six-week class is waived.</p>
+      <p begin="01:00:38.636" end="01:00:40.986">If you're just outright guessing...<br/>if a monkey took this test,</p>
+      <p begin="01:00:40.986" end="01:00:46.482">and you trained him to do just As and Cs,<br/>he'll probably get more right than</p>
+      <p begin="01:00:46.482" end="01:00:49.177">if you picked As and Ds.</p>
+      <p begin="01:00:50.587" end="01:00:53.661">Just done all the fill-in, not knowing<br/>if you're gonna be able to play,</p>
+      <p begin="01:00:53.661" end="01:00:55.804">just because of a test.</p>
+      <p begin="01:00:55.804" end="01:01:00.932">I mean as soon as you don't tighten<br/>one screw, everything falls apart.</p>
+      <p begin="01:01:03.110" end="01:01:05.124">[teacher speaking Spanish]</p>
+      <p begin="01:01:14.324" end="01:01:16.408">[Arthur laughing]</p>
+      <p begin="01:01:16.894" end="01:01:18.286">What I say?</p>
+      <p begin="01:01:18.286" end="01:01:20.504">How do you say "yes"?</p>
+      <p begin="01:01:20.504" end="01:01:21.943">Yoy.</p>
+      <p begin="01:01:21.943" end="01:01:24.623">How do you say "yes" in Spanish?</p>
+      <p begin="01:01:25.093" end="01:01:28.564">S&#237;.<br/>Look up on the board!</p>
+      <p begin="01:01:31.029" end="01:01:35.444">He's a pretty smart kid<br/>but does just enough to pass.</p>
+      <p begin="01:01:35.667" end="01:01:39.231">Hey Shannon!<br/>- Most of the men that have come</p>
+      <p begin="01:01:39.231" end="01:01:42.256">through here and have had that type of<br/>attitude usually end up on the streets</p>
+      <p begin="01:01:42.256" end="01:01:46.489">talking about they used to play<br/>for Marshall. On this class even,</p>
+      <p begin="01:01:46.489" end="01:01:49.015">he could have gone to any school<br/>he wanted to, you know?</p>
+      <p begin="01:01:49.015" end="01:01:52.064">This is just someone on<br/>the street corner talking.</p>
+      <p begin="01:01:52.064" end="01:01:56.151">Trying to find a job,<br/>can't find a job. That kind of thing.</p>
+      <p begin="01:01:56.151" end="01:01:59.154">And this where he's headed really.</p>
+      <p begin="01:02:08.922" end="01:02:12.561">How's your knee?<br/>- It's great. Yeah.</p>
+      <p begin="01:02:13.527" end="01:02:17.678">Easiest thing right now for you<br/>is to play you. Or wait to next year?</p>
+      <p begin="01:02:18.016" end="01:02:20.489">What do you want to do?<br/>- Wait 'till next year?</p>
+      <p begin="01:02:20.489" end="01:02:22.695">Right.<br/>- No, man.</p>
+      <p begin="01:02:22.956" end="01:02:25.010">You think you're ready?</p>
+      <p begin="01:02:25.191" end="01:02:27.781">Next year is now.</p>
+      <p begin="01:02:29.181" end="01:02:31.386">[anthem playing]</p>
+      <p begin="01:02:34.745" end="01:02:38.663">I've seen a lot of kids coming back<br/>from surgery,</p>
+      <p begin="01:02:38.663" end="01:02:42.039">where they're worried about<br/>the injury.</p>
+      <p begin="01:02:42.039" end="01:02:46.407">When this happens they may never be<br/>the player they were.</p>
+      <p begin="01:02:53.070" end="01:02:57.371">William's first start is the final<br/>home game of the regular season.</p>
+      <p begin="01:03:03.910" end="01:03:05.357">[referee whistling]</p>
+      <p begin="01:03:12.472" end="01:03:15.521">He gotta do that the whole game.<br/>He only do it when they're leading.</p>
+      <p begin="01:03:15.521" end="01:03:19.521">It was like my injury is sneaking back.</p>
+      <p begin="01:03:28.794" end="01:03:32.999">I always felt that Curtis has now been<br/>living his dream through me.</p>
+      <p begin="01:03:42.667" end="01:03:46.728">Hey, you do something out here on<br/>this court. You showed me nothing yet.</p>
+      <p begin="01:03:46.954" end="01:03:49.588">You gotta come out and start<br/>playing harder all the time.</p>
+      <p begin="01:03:49.588" end="01:03:52.071">Otherwise you're just another player.</p>
+      <p begin="01:03:52.071" end="01:03:55.867">You follow me? Just remember what <br/>we were talking. Okay?</p>
+      <p begin="01:03:55.867" end="01:03:58.211">As long as you're physically able.</p>
+      <p begin="01:03:58.211" end="01:04:00.823">If you're not, you shouldn't<br/>be playing at all.</p>
+      <p begin="01:04:01.072" end="01:04:07.174">So Larry was about to start tonight.<br/>I'm glad that I can just get on the floor.</p>
+      <p begin="01:04:07.174" end="01:04:11.174">[crowd cheering]</p>
+      <p begin="01:04:16.879" end="01:04:19.642">St. Joe's has made it<br/>to the sectionals.</p>
+      <p begin="01:04:20.841" end="01:04:26.144">And in the final minutes, William goes<br/>to the free-throw line</p>
+      <p begin="01:04:26.274" end="01:04:29.926">with the Chargers leading by 6.</p>
+      <p begin="01:04:36.329" end="01:04:37.954">[crowd applauding]</p>
+      <p begin="01:04:38.914" end="01:04:41.895">Always a clutch free-throw shooter...</p>
+      <p begin="01:04:43.265" end="01:04:46.447">he sinks four straight to help<br/>seal the victory.</p>
+      <p begin="01:04:55.343" end="01:05:00.322">In the sectional Finals, St.Joe's looks<br/>for revenge against Gordon Tech,</p>
+      <p begin="01:05:00.322" end="01:05:03.978">because they knocked them out<br/>last year.</p>
+      <p begin="01:05:06.214" end="01:05:10.374">With his whole family watching,<br/>William seems out of sync</p>
+      <p begin="01:05:10.374" end="01:05:13.934">and bothered by his knee.</p>
+      <p begin="01:05:16.859" end="01:05:19.421">[crowd shouting and whistling]</p>
+      <p begin="01:05:20.350" end="01:05:24.820">At the beginning of the fourth quarter,<br/>St.Joe's leads by a point.</p>
+      <p begin="01:05:40.854" end="01:05:46.264">While the doctor examines William's<br/>knee, Gordon Tech surges ahead.</p>
+      <p begin="01:06:02.364" end="01:06:04.502">[crowd applauding]</p>
+      <p begin="01:06:08.069" end="01:06:10.986">The Chargers steal the ball,<br/>trailing by one.</p>
+      <p begin="01:06:11.697" end="01:06:14.417">William calls a timeout.</p>
+      <p begin="01:06:19.986" end="01:06:24.921">With only seconds on the clock,<br/>the Chargers find William in the corner.</p>
+      <p begin="01:06:27.914" end="01:06:31.550">The shot doesn't fall<br/>but William is fouled.</p>
+      <p begin="01:06:35.214" end="01:06:38.614">With 6 seconds to go,<br/>William steps to the line</p>
+      <p begin="01:06:38.614" end="01:06:42.440">with 2 free-throws and a chance to win.</p>
+      <p begin="01:06:59.939" end="01:07:01.828">[crowd making noise]</p>
+      <p begin="01:07:43.251" end="01:07:46.522">He shouldn't be out there.<br/>Shouldn't be playing.</p>
+      <p begin="01:07:47.182" end="01:07:49.293">I'm very disappointed.</p>
+      <p begin="01:07:51.284" end="01:07:53.719">Disappointed in the system.<br/>He shouldn't be out there playing.</p>
+      <p begin="01:07:53.719" end="01:07:55.819">His knee came out of lace<br/>a couple of times, looks like.</p>
+      <p begin="01:07:57.239" end="01:08:00.209">If it's not as important,<br/>you'll need to reevaluate the program.</p>
+      <p begin="01:08:00.209" end="01:08:05.069">That ain't no excuse, you got out there.<br/>So probably ain't nothing wrong with him.</p>
+      <p begin="01:08:05.474" end="01:08:08.761">It's excuse. If he's hurting,<br/>he shouldn't got out there.</p>
+      <p begin="01:08:36.689" end="01:08:38.944">There's two possible problems<br/>you can have.</p>
+      <p begin="01:08:38.944" end="01:08:41.517">You might have healed let's say 80%<br/>of that cartilage</p>
+      <p begin="01:08:41.517" end="01:08:43.857">and still have a small residual tear.</p>
+      <p begin="01:08:43.857" end="01:08:47.206">William's brother in-law Alvin,<br/>takes him to see Dr. Hefren,</p>
+      <p begin="01:08:47.206" end="01:08:49.996">the Chicago Bulls team doctor.</p>
+      <p begin="01:08:50.526" end="01:08:52.671">...arthroscope again.</p>
+      <p begin="01:08:54.856" end="01:08:56.799">Here's how we gonna do it.</p>
+      <p begin="01:08:57.716" end="01:09:01.118">A lot of people say: "I shouldn't have<br/>played, shouldn't have come back at all".</p>
+      <p begin="01:09:04.600" end="01:09:08.594">Coach kept saying it's really up to me,<br/>and leave it up to me,</p>
+      <p begin="01:09:08.594" end="01:09:10.957">I'm going back out there on the court.</p>
+      <p begin="01:09:12.380" end="01:09:15.944">We're going to remove this<br/>portion of the cartilage right here.</p>
+      <p begin="01:09:16.435" end="01:09:19.267">Still will have higher incidents<br/>of arthritis as he gets older</p>
+      <p begin="01:09:19.267" end="01:09:22.487">than you and I would,<br/>but in terms of his basketball career,</p>
+      <p begin="01:09:22.487" end="01:09:25.149">he has a good chance<br/>of performing fine.</p>
+      <p begin="01:09:26.183" end="01:09:28.184">This would be a meniscus.</p>
+      <p begin="01:09:33.511" end="01:09:36.344">It's the only thing on my mind,<br/>is getting downstate.</p>
+      <p begin="01:09:36.344" end="01:09:42.350">Just making it down there. I want to<br/>be able to go all out, the whole year.</p>
+      <p begin="01:09:42.350" end="01:09:44.676">No setbacks.<br/>No nothing.</p>
+      <p begin="01:09:44.676" end="01:09:47.264">At least the coach wouldn't have to say<br/>we didn't really play hard this game,</p>
+      <p begin="01:09:47.264" end="01:09:51.823">cuz when I step on that floor,<br/>I'll be all business. And that's it.</p>
+      <p begin="01:09:56.496" end="01:10:01.234">One year after he left,<br/>Arthur's dad Bo rejoins the family.</p>
+      <p begin="01:10:01.672" end="01:10:04.573">He has spent seven months in jail<br/>for burglary</p>
+      <p begin="01:10:04.573" end="01:10:07.721">and overcame an addiction<br/>to crack cocaine.</p>
+      <p begin="01:10:12.042" end="01:10:17.371">And he tried and tried. Sometimes you're<br/>looking for friends and they're not there.</p>
+      <p begin="01:10:17.371" end="01:10:22.379">But Jesus is always there. Even in the<br/>midnight hours, He's there.</p>
+      <p begin="01:10:22.799" end="01:10:25.533">Praise the God!</p>
+      <p begin="01:10:31.336" end="01:10:34.585">Lord, we know You've<br/>always blessed the family.</p>
+      <p begin="01:10:35.215" end="01:10:39.658">Even in the beginning Lord, You've<br/>blessed that first family.</p>
+      <p begin="01:10:40.907" end="01:10:44.880">Lord, God, we pray right now,<br/>don't let anything come between them.</p>
+      <p begin="01:10:45.997" end="01:10:49.426">Send strength, Lord! Blow, God, away<br/>their weakness!</p>
+      <p begin="01:10:50.236" end="01:10:54.583">Please, let the love get to them.</p>
+      <p begin="01:10:57.632" end="01:11:00.234">&#9834; [Bo singing] &#9834;</p>
+      <p begin="01:11:22.420" end="01:11:26.386">While I was incarcerated, I just<br/>asked God: "Show me a different way,</p>
+      <p begin="01:11:26.386" end="01:11:29.144">give me a new life,<br/>take the taste of drugs</p>
+      <p begin="01:11:29.144" end="01:11:31.472">and the evil way of thinking<br/>away from me".</p>
+      <p begin="01:11:31.472" end="01:11:34.539">I asked the Lord to forgive me<br/>for what I did.</p>
+      <p begin="01:11:34.539" end="01:11:37.930">The times I mistreat my wife,<br/>beat her physically, you know?</p>
+      <p begin="01:11:38.491" end="01:11:42.548">&#9834; I want to thank the Lord for<br/>protecting my family. &#9834;</p>
+      <p begin="01:11:42.548" end="01:11:45.154">&#9834; I just wanna say thank you Lord.<br/>I wanna thank the Lord... &#9834;</p>
+      <p begin="01:11:45.154" end="01:11:48.048">I just hope this to be a lesson<br/>to my children, to see me</p>
+      <p begin="01:11:48.048" end="01:11:51.024">turn my life over to the Lord.</p>
+      <p begin="01:12:10.580" end="01:12:14.743">When I was little, you know,<br/>he didn't let me down.</p>
+      <p begin="01:12:16.490" end="01:12:21.125">I figure I didn't make out, that<br/>your father's a drug addict,</p>
+      <p begin="01:12:22.070" end="01:12:25.146">your father's on drugs and stuff.<br/>I was gonna be like: "Yeah, OK".</p>
+      <p begin="01:12:25.146" end="01:12:32.810">I used to take so much, you know,<br/>that you start realizing, you know,</p>
+      <p begin="01:12:33.421" end="01:12:36.304">what was he doing, you know.</p>
+      <p begin="01:12:36.593" end="01:12:41.735">Sometimes he was trying to go<br/>to church while he was still on drugs.</p>
+      <p begin="01:12:41.735" end="01:12:46.616">He was trying to go to church,<br/>you know?</p>
+      <p begin="01:12:46.722" end="01:12:48.318">[Bo and children chattering]</p>
+      <p begin="01:12:48.468" end="01:12:50.588">The closeness was not there at first<br/>when I came back to home.</p>
+      <p begin="01:12:52.631" end="01:12:55.528">And then Arthur, he was watching me.</p>
+      <p begin="01:12:55.737" end="01:12:58.633">What move will I make now,<br/>am I just--</p>
+      <p begin="01:12:59.178" end="01:13:05.139">Being like this since I just came back,<br/>am I gonna play bad again, you know?</p>
+      <p begin="01:13:06.811" end="01:13:08.511">&#9834; [music] &#9834;</p>
+      <p begin="01:13:20.024" end="01:13:23.875">William's dad invites him down<br/>to his auto repair shop.</p>
+      <p begin="01:13:24.174" end="01:13:28.291">He hasn't lived with the family since<br/>William was a baby.</p>
+      <p begin="01:13:28.475" end="01:13:32.380">I was gonna give to you the--<br/>When you're finished up here,</p>
+      <p begin="01:13:32.586" end="01:13:35.404">I got you something more to do--</p>
+      <p begin="01:13:35.653" end="01:13:39.622">I haven't seen him in like three years,<br/>and it popped in my mind.</p>
+      <p begin="01:13:40.729" end="01:13:43.901">Well, that's the car over there,<br/>that black--</p>
+      <p begin="01:13:45.351" end="01:13:49.915">I think he's like: "He really was not<br/>been able to play some basketball."</p>
+      <p begin="01:13:50.195" end="01:13:54.278">I think in that he sees something<br/>at the end for himself.</p>
+      <p begin="01:13:58.515" end="01:14:01.583">He really tried to work me,<br/>but I didn't wanna.</p>
+      <p begin="01:14:02.199" end="01:14:09.641">I said: "You maybe my dad...biologically,<br/>but as far as being there...you know?"</p>
+      <p begin="01:14:11.047" end="01:14:14.842">You say you'd like to come to the next<br/>show that I do?</p>
+      <p begin="01:14:15.153" end="01:14:16.821">Yeah. I'll come out there.</p>
+      <p begin="01:14:17.096" end="01:14:19.654">I'll finally get the chance<br/>to see you singing.</p>
+      <p begin="01:14:19.654" end="01:14:23.551">Ok, whatever I happen to do, I don't<br/>have my schedules right at this minute.</p>
+      <p begin="01:14:23.551" end="01:14:26.874">But I'll have to get that<br/>and I'll let you know.</p>
+      <p begin="01:14:36.287" end="01:14:38.269">[William and baby chattering]</p>
+      <p begin="01:14:38.279" end="01:14:43.059">I always knew that I was gonna be<br/>a better dad than he was.</p>
+      <p begin="01:14:48.056" end="01:14:51.027">I wouldn't just leave her like that.</p>
+      <p begin="01:14:52.150" end="01:14:55.677">If Alicia has a problem,<br/>then I have a problem.</p>
+      <p begin="01:14:56.041" end="01:14:57.575">[baby chattering]</p>
+      <p begin="01:14:58.100" end="01:15:01.474">She's meaning whatever she said.</p>
+      <p begin="01:15:10.339" end="01:15:12.236">&#9834; [music] &#9834;</p>
+      <p begin="01:15:13.924" end="01:15:17.420">William's second rehabilitation is<br/>at the Baxter clinic,</p>
+      <p begin="01:15:17.420" end="01:15:20.241">used by many<br/>of the Chicago's pro-athletes.</p>
+      <p begin="01:15:21.489" end="01:15:23.467">Both of William's operations<br/>and rehabs</p>
+      <p begin="01:15:23.467" end="01:15:26.622">have been paid for<br/>by school's insurance.</p>
+      <p begin="01:15:31.596" end="01:15:35.554">Don't expect to be playing in a game<br/>the first day back.</p>
+      <p begin="01:15:35.554" end="01:15:39.429">My mother put big restrictions<br/>on Pingatore.</p>
+      <p begin="01:15:40.128" end="01:15:41.409">[laughing]</p>
+      <p begin="01:15:41.830" end="01:15:45.072">She said: "He ain't hurting<br/>his knees now".</p>
+      <p begin="01:15:45.793" end="01:15:48.158">When you're out on a date<br/>you have to have sex.</p>
+      <p begin="01:15:48.491" end="01:15:50.054">Oh yeaah. Yes you do.</p>
+      <p begin="01:15:51.000" end="01:15:53.483">[students arguing]</p>
+      <p begin="01:15:59.615" end="01:16:03.738">For the second straight year, Arthur<br/>and Shannon must take summer school.</p>
+      <p begin="01:16:03.939" end="01:16:06.384">[teacher] You state your question!</p>
+      <p begin="01:16:06.949" end="01:16:08.374">What I say?</p>
+      <p begin="01:16:09.492" end="01:16:11.886">This class is for freshman,<br/>sophomores and juniors</p>
+      <p begin="01:16:11.886" end="01:16:14.314">who have failed English.</p>
+      <p begin="01:16:15.286" end="01:16:18.853">The basic problem here is that<br/>we were strapped for money</p>
+      <p begin="01:16:18.853" end="01:16:23.470">and we've only had one English class<br/>available to our students.</p>
+      <p begin="01:16:24.056" end="01:16:27.277">Hopefully you can touch a nerve<br/>of some of them.</p>
+      <p begin="01:16:27.568" end="01:16:31.199">Like a spirited discussion<br/>on a controversial topic.</p>
+      <p begin="01:16:31.560" end="01:16:34.353">...because exactly,<br/>what is having sex?</p>
+      <p begin="01:16:34.353" end="01:16:39.685">But engaging in an act that<br/>doesn't fulfill...does not fulfill--</p>
+      <p begin="01:16:39.920" end="01:16:42.865">Shannon didn't really care,<br/>so he just stopped coming</p>
+      <p begin="01:16:42.865" end="01:16:47.142">and he was dropped from the Law.</p>
+      <p begin="01:16:50.053" end="01:16:52.931">Even if Arthur passes summer school,</p>
+      <p begin="01:16:52.931" end="01:16:55.509">he may not graduate<br/>with his class next year.</p>
+      <p begin="01:16:55.509" end="01:16:59.189">because St. Joseph's is refusing<br/>to release his transcripts.</p>
+      <p begin="01:16:59.443" end="01:17:04.813">I called up the school. The lady<br/>explained to me that he owed $1800,</p>
+      <p begin="01:17:04.813" end="01:17:08.159">so I felt that they had<br/>a school policy there</p>
+      <p begin="01:17:08.159" end="01:17:12.159">and there's nothing I can do<br/>about that.</p>
+      <p begin="01:17:24.684" end="01:17:27.860">About how much can you afford?</p>
+      <p begin="01:17:27.860" end="01:17:31.505">We are looking at 18--<br/>- 1310.</p>
+      <p begin="01:17:32.132" end="01:17:37.311">Ooh, 1310?<br/>- 1-8-1-3-10.</p>
+      <p begin="01:17:38.401" end="01:17:44.936">To total that out...form here<br/>to June...his graduation?</p>
+      <p begin="01:17:45.262" end="01:17:47.702">We are looking at<br/>somewhere around...</p>
+      <p begin="01:17:49.040" end="01:17:51.988">It's 181,30 per month.</p>
+      <p begin="01:17:53.428" end="01:17:58.319">Is there any way possible, that his...<br/>I don't know, I'm just asking,</p>
+      <p begin="01:17:58.319" end="01:18:01.375">that his credit be released, too?</p>
+      <p begin="01:18:01.375" end="01:18:05.303">I will get a promisory review<br/>drawn up, okay?</p>
+      <p begin="01:18:05.303" end="01:18:09.599">As long as you show me good faith<br/>after the first two months,</p>
+      <p begin="01:18:09.599" end="01:18:13.133">I will release some, that would be<br/>end of September,</p>
+      <p begin="01:18:13.133" end="01:18:16.310">and I'll send them to Marshall.<br/>- Okay.</p>
+      <p begin="01:18:16.310" end="01:18:19.081">That would be fine with us<br/>and I really appreciate this.</p>
+      <p begin="01:18:19.341" end="01:18:21.499">I was doing it anyway.</p>
+      <p begin="01:18:21.499" end="01:18:24.602">It's really good, you know?<br/>I can't really complain about it.</p>
+      <p begin="01:18:24.602" end="01:18:28.067">We wish we could have<br/>stayed though, you know?</p>
+      <p begin="01:18:28.067" end="01:18:31.101">Well, things happen, you know?<br/>And there's no way to--</p>
+      <p begin="01:18:31.274" end="01:18:35.048">It's a part of life.<br/>- I can't let him down, my Man.</p>
+      <p begin="01:18:35.370" end="01:18:39.712">Okay, good! I hope we can<br/>work something out then.</p>
+      <p begin="01:18:41.068" end="01:18:43.173">I'd like to thank you.<br/>- No problem.</p>
+      <p begin="01:18:43.173" end="01:18:46.050">I'm over here trying to help people,<br/>okay?</p>
+      <p begin="01:18:46.050" end="01:18:47.953">Yes, right. Alright.<br/>- Okay. Very good.</p>
+      <p begin="01:18:47.953" end="01:18:51.939">You have a nice day, Mr. O'Brien.<br/>- Take care now! Okay. Very good.</p>
+      <p begin="01:18:57.859" end="01:19:00.967">I think about it,<br/>had I not been on drugs</p>
+      <p begin="01:19:01.335" end="01:19:06.210">and Arthur went to St.Joseph's, just<br/>how good it could have been for him.</p>
+      <p begin="01:19:06.523" end="01:19:09.155">He wouldn't had to leave.</p>
+      <p begin="01:19:09.818" end="01:19:13.659">Here on the corner right here...<br/>here's no corner without a cop.</p>
+      <p begin="01:19:13.659" end="01:19:16.675">Out here you see a cop all the time.</p>
+      <p begin="01:19:18.319" end="01:19:21.506">They've a lot of money on<br/>these corners but--</p>
+      <p begin="01:19:24.195" end="01:19:27.394">I've almost spent my life<br/>along with it.</p>
+      <p begin="01:19:29.848" end="01:19:35.856">You can just look at my life and say:<br/>"He's a good example of what not to do".</p>
+      <p begin="01:19:37.037" end="01:19:43.790">If he had my ways, I'd be shaking<br/>in my shoes right now.</p>
+      <p begin="01:19:52.564" end="01:19:56.345">Look at Georgetown coat, man!<br/>I'm gonna get that.</p>
+      <p begin="01:20:02.644" end="01:20:07.632">How much?<br/>- 70 bucks, even. No tax.</p>
+      <p begin="01:20:10.038" end="01:20:12.784">Some of the drug pushers<br/>in the neighbourhood,</p>
+      <p begin="01:20:12.784" end="01:20:17.008">they give us money and tell us:<br/>"Go shopping and get you something".</p>
+      <p begin="01:20:17.608" end="01:20:21.261">They think if we're playing basketball<br/>they can give us stuff</p>
+      <p begin="01:20:21.261" end="01:20:26.172">and keep our career going.<br/>That's how I keep up with to start.</p>
+      <p begin="01:20:27.332" end="01:20:29.183">&#9834; [music] &#9834;</p>
+      <p begin="01:20:47.088" end="01:20:51.611">While you're sitting here today,<br/>you should feel like a million dollars.</p>
+      <p begin="01:20:52.000" end="01:20:54.559">You should feel so special.</p>
+      <p begin="01:20:55.062" end="01:20:58.464">You're one of hundreds of the best<br/>high school players,</p>
+      <p begin="01:20:58.464" end="01:21:00.902">in this country, the United States.</p>
+      <p begin="01:21:01.409" end="01:21:04.446">My mother, God bless her,<br/>she's in Heaven today,</p>
+      <p begin="01:21:04.446" end="01:21:07.828">she has always said to me:<br/>"This is America.</p>
+      <p begin="01:21:08.505" end="01:21:10.940">You can make something<br/>out of your life".</p>
+      <p begin="01:21:13.565" end="01:21:15.182">[referee whistling]</p>
+      <p begin="01:21:15.768" end="01:21:18.876">All the coaches, come over here!</p>
+      <p begin="01:21:21.711" end="01:21:24.733">If you're a player, somebody<br/>up there gonna recognize</p>
+      <p begin="01:21:24.733" end="01:21:26.490">that you're a player.</p>
+      <p begin="01:21:26.957" end="01:21:30.270">There's 250 of us here.<br/>We're doing it to try to find out</p>
+      <p begin="01:21:30.270" end="01:21:33.396">who the best players are<br/>and try to get them in our program.</p>
+      <p begin="01:21:33.396" end="01:21:36.426">There aren't many kids at any level,<br/>including the NBA,</p>
+      <p begin="01:21:36.426" end="01:21:39.171">that really understand<br/>what basketball is all about.</p>
+      <p begin="01:21:39.171" end="01:21:41.992">We always say, if you're going to war,<br/>who'd you want behind</p>
+      <p begin="01:21:41.992" end="01:21:44.655">to be covering your flank?</p>
+      <p begin="01:21:44.655" end="01:21:47.214">If you're rowdy, they'll also<br/>recognize that.</p>
+      <p begin="01:21:47.214" end="01:21:49.742">I don't care they may not gonna<br/>write it down in their book.</p>
+      <p begin="01:21:49.742" end="01:21:53.025">At the prestigious Nike camp,<br/>William hopes to prove</p>
+      <p begin="01:21:53.025" end="01:21:57.145">that the injuries are behind him<br/>and he belongs to the nation's best.</p>
+      <p begin="01:21:58.510" end="01:22:00.350">&#9834; [music] &#9834;</p>
+      <p begin="01:22:11.049" end="01:22:13.483">1-2-3-4.</p>
+      <p begin="01:22:18.774" end="01:22:23.841">Arthur and Shannon spent their summer<br/>at Pizza Hut, earning $3,35 a hour.</p>
+      <p begin="01:22:33.994" end="01:22:36.217">[clients chattering]</p>
+      <p begin="01:22:53.409" end="01:22:56.513">This is a waste of my time.<br/>I'm ready to go home.</p>
+      <p begin="01:22:57.881" end="01:23:01.107">Hey, I'm always trying to play<br/>this team ball.</p>
+      <p begin="01:23:02.543" end="01:23:05.386">A few coaches...more coaches are<br/>coming around and look.</p>
+      <p begin="01:23:06.003" end="01:23:09.276">Everybody feels that they gotta do<br/>their own little thing.</p>
+      <p begin="01:23:13.638" end="01:23:17.271">Some of you are gonna make it<br/>what they want to be.</p>
+      <p begin="01:23:17.650" end="01:23:20.271">Another of you will not make it.<br/>You'll have a fair chance--</p>
+      <p begin="01:23:20.271" end="01:23:22.652">This is summer for them.<br/>They don't particularly like</p>
+      <p begin="01:23:22.652" end="01:23:25.958">sitting here in the classroom, but we<br/>provide them with an experience</p>
+      <p begin="01:23:25.958" end="01:23:30.986">you can't get anywhere else.<br/>We simulate what it's gonna be like</p>
+      <p begin="01:23:30.986" end="01:23:33.475">to be a student athlete.</p>
+      <p begin="01:23:33.475" end="01:23:36.891">15 hours a week for basketball.<br/>How many hours we have up here?</p>
+      <p begin="01:23:36.891" end="01:23:39.740">Statistics on Division I players<br/>graduating from college</p>
+      <p begin="01:23:39.740" end="01:23:42.417">are really frightening.</p>
+      <p begin="01:23:42.417" end="01:23:45.921">[teacher] Let's assume you're playing<br/>big time college basketball--</p>
+      <p begin="01:23:45.921" end="01:23:49.233">...the real odds. Nobody cares<br/>about you.</p>
+      <p begin="01:23:49.233" end="01:23:55.721">You're black, you're a young male<br/>and you're supposed to deal drugs</p>
+      <p begin="01:23:55.721" end="01:23:58.885">and mug young women.</p>
+      <p begin="01:23:58.885" end="01:24:03.222">The only reason why you're here...<br/>you can make that team win...</p>
+      <p begin="01:24:03.222" end="01:24:06.556">and if the team wins,<br/>these schools get a lot of money.</p>
+      <p begin="01:24:06.556" end="01:24:10.128">This whole thing is revolving<br/>around money.</p>
+      <p begin="01:24:16.738" end="01:24:20.032">Recruiting isn't like any other<br/>sales business.</p>
+      <p begin="01:24:20.294" end="01:24:23.189">We've got to win to keep our jobs.</p>
+      <p begin="01:24:23.189" end="01:24:25.285">We've got fill the arena<br/>to keep our jobs.</p>
+      <p begin="01:24:25.285" end="01:24:28.302">And if we don't, they fire us.<br/>I mean that's--</p>
+      <p begin="01:24:28.302" end="01:24:30.909">If bankers don't make money,<br/>they fire them.</p>
+      <p begin="01:24:30.909" end="01:24:35.481">Hey look at those young boy's bodies!<br/>They've NBA bodies already.</p>
+      <p begin="01:24:35.481" end="01:24:37.111">Already.</p>
+      <p begin="01:24:37.929" end="01:24:40.947">One particular kid that's here now.</p>
+      <p begin="01:24:40.947" end="01:24:43.798">I've watched him since sixth grade.<br/>I've watched him blossom.</p>
+      <p begin="01:24:43.798" end="01:24:47.060">...cuz that's when you want to get<br/>on 'em, when they're young.</p>
+      <p begin="01:24:47.060" end="01:24:49.814">And start writing 'em<br/>before everybody else writes 'em.</p>
+      <p begin="01:24:49.814" end="01:24:53.395">Try to get it anyway as you can<br/>in this business.</p>
+      <p begin="01:24:53.395" end="01:25:00.115">It has already become a mid-market,<br/>but I try to do my job, you know,</p>
+      <p begin="01:25:00.115" end="01:25:03.314">and serve professional me.</p>
+      <p begin="01:25:08.790" end="01:25:12.805">Which school is most<br/>involved with William right now?</p>
+      <p begin="01:25:12.805" end="01:25:18.332">I would say DePaul, Marquette,<br/>Indiana, Michigan--</p>
+      <p begin="01:25:19.974" end="01:25:23.823">Excellent!<br/>- Great job! The way to go.</p>
+      <p begin="01:25:24.441" end="01:25:27.676">I'm getting-- My best game out here.</p>
+      <p begin="01:25:28.124" end="01:25:33.419">I had 16 points, 12 assists. Bo is<br/>going like this: "Hmm".</p>
+      <p begin="01:25:34.563" end="01:25:37.211">Yeah, I was smiling too, Bo.</p>
+      <p begin="01:25:38.138" end="01:25:39.961">&#9834; [music] &#9834;</p>
+      <p begin="01:25:47.577" end="01:25:49.641">[players chattering and laughing]</p>
+      <p begin="01:25:52.013" end="01:25:53.863">Hey, mom!</p>
+      <p begin="01:25:57.444" end="01:26:00.327">Right now I'm just feeling good<br/>about myself.</p>
+      <p begin="01:26:04.325" end="01:26:08.592">I always felt like, since I've<br/>been down here, I was All-American.</p>
+      <p begin="01:26:10.841" end="01:26:13.769">When I go back home, I'm gonna<br/>feel unstoppable.</p>
+      <p begin="01:26:38.563" end="01:26:42.393">I'm gonna pull up on it, okay?<br/>Tell me if it hurts more.</p>
+      <p begin="01:26:42.764" end="01:26:45.433">Yeah!<br/>- It hurts more when I do that?</p>
+      <p begin="01:26:53.046" end="01:26:54.995">Easy does it!</p>
+      <p begin="01:26:59.931" end="01:27:03.285">It's on the muscles, not on the joints,<br/>both the joints, ok?</p>
+      <p begin="01:27:09.521" end="01:27:11.146">[referee whistling]</p>
+      <p begin="01:27:12.212" end="01:27:16.127">Although it's only a muscle injury,<br/>it's severe enough that</p>
+      <p begin="01:27:16.127" end="01:27:19.813">William will not compete<br/>for the final two days of the camp.</p>
+      <p begin="01:27:25.657" end="01:27:27.068">&#9834; [music] &#9834;</p>
+      <p begin="01:27:32.769" end="01:27:34.161">[people laughing]</p>
+      <p begin="01:27:41.347" end="01:27:44.140">How many electives do you<br/>need to graduate?</p>
+      <p begin="01:27:44.647" end="01:27:45.709">Six.</p>
+      <p begin="01:27:46.135" end="01:27:49.041">Arthur's transcript<br/>from St. Joseph has arrived.</p>
+      <p begin="01:27:49.639" end="01:27:52.249">If you pass all the classes<br/>that you're presently taking</p>
+      <p begin="01:27:52.249" end="01:27:55.669">you can graduate from summer school.<br/>Okay?</p>
+      <p begin="01:27:56.105" end="01:27:58.037">Have you taken an ACT?</p>
+      <p begin="01:27:58.871" end="01:28:00.018">[Arthur] Um-hum.</p>
+      <p begin="01:28:00.317" end="01:28:03.370">When do you plan on taking it?<br/>- Some time soon.</p>
+      <p begin="01:28:03.875" end="01:28:07.536">What institution are you planning on<br/>going to? Have you decided that yet?</p>
+      <p begin="01:28:07.536" end="01:28:11.601">I was thinking about<br/>going to...Alabama.</p>
+      <p begin="01:28:11.601" end="01:28:14.506">But you need<br/>to take algebra 3, okay?</p>
+      <p begin="01:28:14.506" end="01:28:17.568">Do you plan to take that?</p>
+      <p begin="01:28:17.568" end="01:28:20.792">I don't know.<br/>- You don't know?</p>
+      <p begin="01:28:23.542" end="01:28:27.160">So you just barely getting by again?</p>
+      <p begin="01:28:27.726" end="01:28:30.617">No, you don't have to say that.</p>
+      <p begin="01:28:30.617" end="01:28:34.318">But you are. You've been barely<br/>getting by all along.</p>
+      <p begin="01:28:34.579" end="01:28:38.032">You're gonna have to do better<br/>than that if you want to go</p>
+      <p begin="01:28:38.032" end="01:28:41.083">to Alabama or any other school.</p>
+      <p begin="01:28:41.517" end="01:28:44.253">You gonna have to do more<br/>than just get by.</p>
+      <p begin="01:28:44.451" end="01:28:47.934">Don't forget to bring those<br/>papers back to me.</p>
+      <p begin="01:28:48.480" end="01:28:51.291">St. Joe's just means everything--</p>
+      <p begin="01:28:52.521" end="01:28:57.515">I gotta have more credits,<br/>or they'll keep me out</p>
+      <p begin="01:28:57.515" end="01:28:59.352">cuz I ain't paying the money.</p>
+      <p begin="01:29:02.200" end="01:29:05.540">That's how I do.<br/>I'll still make it.</p>
+      <p begin="01:29:10.309" end="01:29:14.072">Don't let your best opportunity<br/>get away from you.</p>
+      <p begin="01:29:14.072" end="01:29:17.478">You can have a great experience<br/>at the Marquette University.</p>
+      <p begin="01:29:17.478" end="01:29:20.869">Once you visit our campus, I feel<br/>confident that you'll know</p>
+      <p begin="01:29:20.869" end="01:29:27.343">that Marquette is the right place<br/>for you. Sincerely, Kevin O'Neal.</p>
+      <p begin="01:29:30.703" end="01:29:32.214">I like this.</p>
+      <p begin="01:29:33.573" end="01:29:37.275">I've been getting like two a week<br/>from the schools for...</p>
+      <p begin="01:29:38.074" end="01:29:41.829">...for a couple of months.<br/>That is quite a few.</p>
+      <p begin="01:29:48.227" end="01:29:52.363">I had Division I offers. I had even<br/>signed with Marquette</p>
+      <p begin="01:29:52.363" end="01:29:55.713">because they thought I was going<br/>to make it crazy.</p>
+      <p begin="01:29:58.355" end="01:30:02.273">The great ball players, they care<br/>more about basketball more</p>
+      <p begin="01:30:02.273" end="01:30:05.121">than they care about school.<br/>And I know they do.</p>
+      <p begin="01:30:06.009" end="01:30:07.582">&#9834; [music] &#9834;</p>
+      <p begin="01:30:27.727" end="01:30:30.826">[tv commentator] If you're looking</p>
+      <p begin="01:30:31.449" end="01:30:33.830">for a progressive<br/>college basketball program--</p>
+      <p begin="01:30:34.046" end="01:30:37.835">--leadership and a winning tradition,<br/>then the Marquette Warriors are for you.</p>
+      <p begin="01:30:38.325" end="01:30:43.195">William's first town recruiting visit,<br/>three top schools postpone visits,</p>
+      <p begin="01:30:43.195" end="01:30:47.756">prefering to wait and see how William<br/>will do his senior year at St.Joe's.</p>
+      <p begin="01:30:48.212" end="01:30:50.666">If you don't make the test, it doesn't<br/>mean we don't want you,</p>
+      <p begin="01:30:50.666" end="01:30:53.293">because we still do.<br/>That's what I'm telling you.</p>
+      <p begin="01:30:53.704" end="01:30:56.996">If you tear your knee again this year<br/>and you can't play ever again,</p>
+      <p begin="01:30:56.996" end="01:31:00.419">you gonna have your education<br/>paid for at Marquette University.</p>
+      <p begin="01:31:00.710" end="01:31:03.630">I know that the scholarship is<br/>one year renewable.</p>
+      <p begin="01:31:03.630" end="01:31:06.774">Gene's right about this. But any school<br/>you saw is going to give you four years.</p>
+      <p begin="01:31:07.168" end="01:31:09.961">The bottom line is this, we want<br/>to win the national title.</p>
+      <p begin="01:31:09.961" end="01:31:12.756">Number two, I wanna make you<br/>the best player I can.</p>
+      <p begin="01:31:12.756" end="01:31:15.544">I wanna give you an opportunity<br/>to maybe some day be</p>
+      <p begin="01:31:15.544" end="01:31:18.846">one of those guys that goes out<br/>and make some money in Europe</p>
+      <p begin="01:31:18.846" end="01:31:22.607">or in the NBA. You're one of seven guys<br/>that we're recruiting right now.</p>
+      <p begin="01:31:23.568" end="01:31:27.239">You're recruiting seven guys?<br/>- Seven guys for three spots.</p>
+      <p begin="01:31:27.458" end="01:31:30.621">Well, fit him in there.<br/>- Of course he fit in.</p>
+      <p begin="01:31:30.621" end="01:31:34.029">As soon as William tells me he's not<br/>looking at any other schools,</p>
+      <p begin="01:31:34.029" end="01:31:36.588">then I'm not looking<br/>at any other players.</p>
+      <p begin="01:31:36.919" end="01:31:39.770">So what? The first one signing this?</p>
+      <p begin="01:31:40.061" end="01:31:42.708">Well, that's what's going<br/>to come down to.</p>
+      <p begin="01:31:44.142" end="01:31:47.218">If I tell you: "Hey, you're our guy<br/>and thsi and that",</p>
+      <p begin="01:31:48.694" end="01:31:51.313">and I lose you to Kansas, Indiana...<br/>I'm out of luck.</p>
+      <p begin="01:31:52.217" end="01:31:55.419">The President's saying to me: "Well,<br/>I thought you were recruiting a guard".</p>
+      <p begin="01:31:55.419" end="01:31:58.868">It's a tough situation but it's<br/>something that has to be done.</p>
+      <p begin="01:31:59.388" end="01:32:01.097">&#9834; [music] &#9834;</p>
+      <p begin="01:32:16.616" end="01:32:20.380">It's a great place. We're getting ready<br/>to have you rock it too.</p>
+      <p begin="01:32:21.093" end="01:32:23.689">The best is yet to come.</p>
+      <p begin="01:32:26.107" end="01:32:28.712">A lot of serious ball players<br/>have been in this building.</p>
+      <p begin="01:32:29.293" end="01:32:34.230">Junior Bridgeman, Sidney Moncrief,<br/>Bob Lanier, Oscar Robertson.</p>
+      <p begin="01:32:34.593" end="01:32:39.853">Can you see yourself playing<br/>in this place here? 18,000 in it.</p>
+      <p begin="01:32:40.349" end="01:32:42.707">Big difference from St. Joe's now.</p>
+      <p begin="01:32:47.435" end="01:32:51.638">We stayed at the Hyatt<br/>and it was nice, real nice.</p>
+      <p begin="01:32:52.221" end="01:32:56.538">They have these balloons<br/>all hanging up on the ceiling.</p>
+      <p begin="01:32:57.238" end="01:33:02.430">They're really geared up.<br/>I'm gonna say, we're geared up...</p>
+      <p begin="01:33:02.457" end="01:33:04.613">Room service!</p>
+      <p begin="01:33:07.723" end="01:33:10.429">They have all these<br/>phoney newspapers written up.</p>
+      <p begin="01:33:11.510" end="01:33:14.134">[announcer] Notre Dame 77,<br/>Marquette 76.</p>
+      <p begin="01:33:14.609" end="01:33:18.421">Gates is sky-high calling for the ball,<br/>there are 6 seconds left.</p>
+      <p begin="01:33:18.421" end="01:33:21.823">The freshman spins past the defender,<br/>slicing to his left to the foul line.</p>
+      <p begin="01:33:21.823" end="01:33:26.233">3 seconds left, Marquette down by 1.<br/>Gates launches a wild one-hander,</p>
+      <p begin="01:33:26.233" end="01:33:29.808">it is on the way...<br/>it is...good!</p>
+      <p begin="01:33:29.808" end="01:33:32.257">[William laughing]</p>
+      <p begin="01:33:38.619" end="01:33:41.787">If you think we care about you a lot<br/>while recruiting, we gonna do more</p>
+      <p begin="01:33:41.787" end="01:33:43.784">when you're here, you know that!</p>
+      <p begin="01:33:43.784" end="01:33:45.997">Don't let it get to a point, where<br/>somebody else comes in</p>
+      <p begin="01:33:45.997" end="01:33:48.245">and takes this scholarship away.</p>
+      <p begin="01:33:48.857" end="01:33:50.984">Let us know what you wanna be doing,<br/>unless you know</p>
+      <p begin="01:33:50.984" end="01:33:53.473">what you wanna do right now?</p>
+      <p begin="01:33:53.473" end="01:33:55.961">What else you want me to say?</p>
+      <p begin="01:33:56.821" end="01:33:58.481">[laughing]</p>
+      <p begin="01:34:02.103" end="01:34:06.975">Did you talk to any leading black<br/>people on the campus?</p>
+      <p begin="01:34:07.581" end="01:34:09.579">The leading black people?</p>
+      <p begin="01:34:10.024" end="01:34:13.705">Yeah. Well, whoever may be in charge<br/>of all black citizens on campus.</p>
+      <p begin="01:34:14.041" end="01:34:16.564">What kind of community and lives do<br/>they have for the blacks there?</p>
+      <p begin="01:34:16.985" end="01:34:19.402">Did you talk to anybody about it?</p>
+      <p begin="01:34:19.744" end="01:34:22.371">Did you ask the players<br/>how they were treated?</p>
+      <p begin="01:34:22.450" end="01:34:25.222">Yeah.<br/>- What did they say?</p>
+      <p begin="01:34:25.512" end="01:34:28.255">Players said they're treated fine.<br/>They get the best of everything.</p>
+      <p begin="01:34:28.331" end="01:34:30.969">You think that's where you wanna go?<br/>That's fine.</p>
+      <p begin="01:34:31.230" end="01:34:32.956">Obviously if you wait you'll have all<br/>that were on you before</p>
+      <p begin="01:34:33.165" end="01:34:36.146">like Kansas, Indiana,<br/>North Carolina State.</p>
+      <p begin="01:34:36.749" end="01:34:41.806">Yaa...but I discussed it with--</p>
+      <p begin="01:34:42.323" end="01:34:44.695">I think you should take a few days.</p>
+      <p begin="01:34:45.030" end="01:34:47.640">Because you just came back,<br/>you understand?</p>
+      <p begin="01:34:48.209" end="01:34:51.051">Pooop!<br/>- Yeah!</p>
+      <p begin="01:34:52.432" end="01:34:55.310">Yeah!<br/>- Pooop!</p>
+      <p begin="01:34:58.337" end="01:35:00.685">Is there any cash with this?</p>
+      <p begin="01:35:03.041" end="01:35:08.151">To four years of excellence!<br/>- Yeah.</p>
+      <p begin="01:35:12.266" end="01:35:15.070">It's alcohol.<br/>- Not that bad!</p>
+      <p begin="01:35:23.677" end="01:35:28.372">I'm fixing him a birthday dinner today.<br/>This is his 18th birthday</p>
+      <p begin="01:35:28.372" end="01:35:30.461">and I wanna show him how much</p>
+      <p begin="01:35:30.461" end="01:35:34.587">we appreciate him and love him.<br/>and care for him.</p>
+      <p begin="01:35:36.349" end="01:35:39.201">Everything that you can imagine<br/>has gone wrong to this time,</p>
+      <p begin="01:35:39.201" end="01:35:42.347">but now everybody's together</p>
+      <p begin="01:35:42.843" end="01:35:44.852">This is his favorite cake.</p>
+      <p begin="01:35:44.852" end="01:35:50.828">He's a great kid. And some kids don't <br/>live to this age, you know?</p>
+      <p begin="01:35:50.828" end="01:35:53.797">And that's another thing<br/>to be proud about.</p>
+      <p begin="01:35:53.797" end="01:35:59.646">That, you know, this is his 18th birthday,<br/>you lived and get to see 18.</p>
+      <p begin="01:35:59.646" end="01:36:02.039">That's good.</p>
+      <p begin="01:36:04.434" end="01:36:08.476">I wanna tell you that I love you<br/>very much. I'm very proud of you.</p>
+      <p begin="01:36:08.476" end="01:36:13.220">Seems like I was 18 just yesterday.<br/>Here, happy birthday! I love you.</p>
+      <p begin="01:36:14.356" end="01:36:16.914">[family applauding]</p>
+      <p begin="01:36:21.558" end="01:36:30.725">&#9834;[together] Happy Birthday dear Arthur, &#9834;<br/>&#9834; Happy Birthday to you! &#9834;</p>
+      <p begin="01:36:34.721" end="01:36:39.780">Two months after his 18th birthday,<br/>Arthur's cut off from public A.</p>
+      <p begin="01:36:40.676" end="01:36:44.654">Here's what I brought to their att--<br/>He's there as a TL task student?</p>
+      <p begin="01:36:45.261" end="01:36:48.424">He didn't graduated yet.<br/>So why would you cut him off.</p>
+      <p begin="01:36:49.368" end="01:36:53.048">If you'd like, when they get to 18,<br/>most of the black kids, they drop out.</p>
+      <p begin="01:36:53.823" end="01:36:57.387">So that means that the child is<br/>just thrown out there.</p>
+      <p begin="01:36:59.877" end="01:37:03.671">I was getting 368,<br/>now I get 268.</p>
+      <p begin="01:37:05.317" end="01:37:11.021">And that's it. This is to take care of me<br/>from that month to the next.</p>
+      <p begin="01:37:13.530" end="01:37:15.653">Now can you imagine a person<br/>living on that?</p>
+      <p begin="01:37:15.653" end="01:37:18.509">Do you all wonder some time<br/>how a mother lives on that?</p>
+      <p begin="01:37:20.537" end="01:37:24.537">Or how do my children survive?<br/>How are they living?</p>
+      <p begin="01:37:25.848" end="01:37:28.813">It's enough to make people really<br/>wanna go out there,</p>
+      <p begin="01:37:29.208" end="01:37:31.457">just lash out<br/>and hurt somebody.</p>
+      <p begin="01:37:33.628" end="01:37:35.248">&#9834; [radio] &#9834;</p>
+      <p begin="01:38:10.548" end="01:38:12.086">[shouting on court]</p>
+      <p begin="01:38:33.132" end="01:38:36.766">He doesn't play with confidence<br/>like he did before he was injured.</p>
+      <p begin="01:38:41.633" end="01:38:44.981">I don't believe the other players<br/>have complete confidence in him.</p>
+      <p begin="01:38:46.376" end="01:38:49.364">They were all avoiding him,<br/>when he was a sophomore.</p>
+      <p begin="01:38:49.663" end="01:38:52.078">They''re not fond of him anymore.</p>
+      <p begin="01:39:06.418" end="01:39:08.260">[basketball bouncing]</p>
+      <p begin="01:39:14.960" end="01:39:18.660">Sophomore year,<br/>I was just carefree.</p>
+      <p begin="01:39:21.149" end="01:39:24.236">If it could be done,<br/>I was gonna do it.</p>
+      <p begin="01:39:25.602" end="01:39:28.853">I wish I could get that attitude back.</p>
+      <p begin="01:39:36.935" end="01:39:42.243">Hold it up! That's crap.<br/>That is dog shit crap.</p>
+      <p begin="01:39:42.785" end="01:39:45.729">Why do you have to do something<br/>unnecessarily?</p>
+      <p begin="01:39:45.904" end="01:39:49.191">If you're the captain over here,<br/>William-- Look at me!</p>
+      <p begin="01:39:49.772" end="01:39:54.254">If you're the captain over here,<br/>right you could have gone all the way.</p>
+      <p begin="01:39:54.556" end="01:39:57.025">What was that crap,<br/>the shovel pass?</p>
+      <p begin="01:39:59.261" end="01:40:05.766">There's never any point in our school,<br/>where we just play, outright, you know.</p>
+      <p begin="01:40:08.410" end="01:40:12.372">Remember, think about the ball game<br/>on the way to the game.</p>
+      <p begin="01:40:21.653" end="01:40:24.019">[players chattering and laughing]</p>
+      <p begin="01:40:33.952" end="01:40:37.453">Marshall began it's season well,<br/>winning 4 of 6.</p>
+      <p begin="01:40:37.636" end="01:40:40.458">Today's game will be their first<br/>against the city power.</p>
+      <p begin="01:40:41.678" end="01:40:44.971">The only way you got to beat them is<br/>playing good basketball.</p>
+      <p begin="01:40:45.257" end="01:40:48.695">All that bullshit that you've playing,<br/>you play half of the game,</p>
+      <p begin="01:40:48.695" end="01:40:52.558">for 2-3 minutes you play pretty good,<br/>then you're going to slip.</p>
+      <p begin="01:40:52.558" end="01:40:56.352">You have to play the whole ballgame.</p>
+      <p begin="01:40:57.909" end="01:40:59.584">[crowd cheering]</p>
+      <p begin="01:41:00.987" end="01:41:03.962">When we start, you have to be<br/>completely in the ballgame.</p>
+      <p begin="01:41:06.718" end="01:41:10.392">As the game progresses,<br/>and you digress.</p>
+      <p begin="01:41:23.212" end="01:41:29.119">By half-time Marshall trails<br/>highly favored Dunbar by 15 points.</p>
+      <p begin="01:41:38.878" end="01:41:43.466">But late in the 4th quarter, Arthur<br/>and the Commandos crawl their way back.</p>
+      <p begin="01:41:46.120" end="01:41:49.323">On a crucial possession,<br/>the ball goes to Arthur.</p>
+      <p begin="01:41:56.152" end="01:41:57.841">[crowd applauding]</p>
+      <p begin="01:42:07.016" end="01:42:08.746">[players chattering]</p>
+      <p begin="01:42:22.893" end="01:42:24.735">&#9834; [music] &#9834;</p>
+      <p begin="01:42:30.988" end="01:42:35.662">Led by William's 16 points a game,<br/>the Chargers have 20-3 record,</p>
+      <p begin="01:42:36.129" end="01:42:39.446">but coach Pingatore feels they're not<br/>ready for the impending playoffs.</p>
+      <p begin="01:42:39.626" end="01:42:41.489">[coach shouting]</p>
+      <p begin="01:42:52.513" end="01:42:54.973">Don't hold the ball!</p>
+      <p begin="01:42:55.422" end="01:42:58.324">Jesus! Will you cut it out!<br/>You act like a baby.</p>
+      <p begin="01:42:58.606" end="01:43:00.326">You are quick crying?</p>
+      <p begin="01:43:00.961" end="01:43:03.867">This team just drives me crazy.</p>
+      <p begin="01:43:05.042" end="01:43:07.293">We struggle all year.</p>
+      <p begin="01:43:07.882" end="01:43:10.440">You think you're better<br/>than you are.</p>
+      <p begin="01:43:10.845" end="01:43:14.495">The two big guys are prima donnas.<br/>They should be killing people.</p>
+      <p begin="01:43:16.162" end="01:43:20.638">For you people, I'm really agonizing.<br/>And I just hate all that stuff</p>
+      <p begin="01:43:20.638" end="01:43:22.785">and all the hollering.</p>
+      <p begin="01:43:23.191" end="01:43:26.804">If you don't make it in time,<br/>it will be over next week.</p>
+      <p begin="01:43:26.804" end="01:43:30.682">So you won't have to worry about it.<br/>That's the point.</p>
+      <p begin="01:43:33.264" end="01:43:35.828">I wanna end this game<br/>in the next 3-4 minutes,</p>
+      <p begin="01:43:35.834" end="01:43:38.075">otherwise it is going to be a ballgame.</p>
+      <p begin="01:43:38.633" end="01:43:41.374">Alright! Let's go get 'em!<br/>Come on!</p>
+      <p begin="01:43:45.080" end="01:43:47.604">Alright, let's go!<br/>Come on!</p>
+      <p begin="01:43:48.736" end="01:43:51.003">William is just too nice of a kid.</p>
+      <p begin="01:43:51.003" end="01:43:53.504">I don't know if he has<br/>the killer temperament.</p>
+      <p begin="01:43:53.504" end="01:43:56.318">I don't know if he has the eye<br/>of the tiger.</p>
+      <p begin="01:43:56.318" end="01:43:59.475">He's gonna need that,<br/>when he goes to the next level.</p>
+      <p begin="01:44:02.735" end="01:44:07.869">This business, it's big bucks,<br/>but that's what the scholarship's for.</p>
+      <p begin="01:44:36.522" end="01:44:40.310">The day she was gonna, you know,<br/>be born, I told him had to be there.</p>
+      <p begin="01:44:40.310" end="01:44:43.078">I don't care where he was at.<br/>I know the game was important,</p>
+      <p begin="01:44:43.078" end="01:44:47.745">but this was more important.<br/>His coach doesn't see it like that.</p>
+      <p begin="01:44:48.044" end="01:44:52.207">I just can't miss a game<br/>just because, you know,</p>
+      <p begin="01:44:52.207" end="01:44:55.399">an incident occurred, unless it's<br/>a death or something like that.</p>
+      <p begin="01:44:55.399" end="01:44:59.676">This is once in a lifetime.<br/>Do you think our girl is born every day?</p>
+      <p begin="01:45:02.882" end="01:45:06.016">That time of the year too?<br/>State tournament?</p>
+      <p begin="01:45:06.494" end="01:45:08.706">That was just simply out of question.</p>
+      <p begin="01:45:09.082" end="01:45:14.774">He tells me that will benefits us<br/>in the future. What about now?</p>
+      <p begin="01:45:16.224" end="01:45:18.666">Basketball is my ticket<br/>out of the ghetto.</p>
+      <p begin="01:45:19.063" end="01:45:22.466">If I haven't been playing ball,<br/>I wasn't even gonna be in college.</p>
+      <p begin="01:45:22.466" end="01:45:25.821">I'm going to school, I'm going<br/>to college, and I have a daughter.</p>
+      <p begin="01:45:26.118" end="01:45:28.778">The situation's so much different.<br/>- No, it's not!</p>
+      <p begin="01:45:36.448" end="01:45:38.449">&#9834; [music] &#9834;</p>
+      <p begin="01:45:51.734" end="01:45:53.548">[William laughing]</p>
+      <p begin="01:45:53.548" end="01:45:57.548">I haven't been working for about a year.</p>
+      <p begin="01:46:07.344" end="01:46:11.895">If it wasn't for Norm and Ms.Weir,<br/>I wouldn't even be here.</p>
+      <p begin="01:46:12.457" end="01:46:15.881">Cuz when I walked in the door,<br/>the first thing I see on the sign is</p>
+      <p begin="01:46:17.629" end="01:46:20.783">"No open list".<br/>It ain't much better to the person</p>
+      <p begin="01:46:21.422" end="01:46:23.644">without a college degree it can get.</p>
+      <p begin="01:46:23.828" end="01:46:26.963">So I feel like I'll be here<br/>for quite awhile.</p>
+      <p begin="01:46:41.052" end="01:46:44.514">I don't believe to people when they<br/>say like: "My school's hard, Man".</p>
+      <p begin="01:46:44.560" end="01:46:48.560">The work's hard to me.</p>
+      <p begin="01:46:51.616" end="01:46:55.320">If I got to do a report or something,<br/>I don't like none of the topics.</p>
+      <p begin="01:46:55.598" end="01:46:58.623">So I just pick something that's simple.</p>
+      <p begin="01:47:00.664" end="01:47:04.958">So, what's the topic of your paper?<br/>- The life cycle of the butterfly.</p>
+      <p begin="01:47:06.012" end="01:47:07.586">Can you read it for us?</p>
+      <p begin="01:47:09.636" end="01:47:12.674">Ooh, come on!<br/>- No, man! I ain't opening it.</p>
+      <p begin="01:47:13.409" end="01:47:15.603">I'm just doing this stuff.</p>
+      <p begin="01:47:16.120" end="01:47:18.791">I know, but I want to<br/>just hear how you write.</p>
+      <p begin="01:47:19.580" end="01:47:22.291">As the people bloom into<br/>another year, you know,</p>
+      <p begin="01:47:22.551" end="01:47:25.791">the year change, January 1st.<br/>The butterfly also blooms.</p>
+      <p begin="01:47:26.132" end="01:47:28.029">The butterflies are very beautiful<br/>flying objects.</p>
+      <p begin="01:47:28.215" end="01:47:30.224">And then I say,<br/>at the beginning of the butterfly,</p>
+      <p begin="01:47:30.780" end="01:47:34.204">it goes through a change and all that.<br/>Then I keep going, man.</p>
+      <p begin="01:47:34.781" end="01:47:38.396">I do that stuff, I just keep going on<br/>and on and on.</p>
+      <p begin="01:47:38.892" end="01:47:40.889">And I'll never stop.</p>
+      <p begin="01:47:41.832" end="01:47:43.300">[students shouting]</p>
+      <p begin="01:47:46.382" end="01:47:50.039">[movie voice] It's botanical name is<br/>cannabis sativa.</p>
+      <p begin="01:47:50.738" end="01:47:53.814">Millions of Americans break the law<br/>and use it.</p>
+      <p begin="01:47:54.357" end="01:47:58.499">Arthur's latest report card shows,<br/>he's failing both Spanish and science.</p>
+      <p begin="01:47:59.871" end="01:48:01.718">He rushes through his work.</p>
+      <p begin="01:48:02.126" end="01:48:04.666">As you see, he just missed<br/>one assignment here.</p>
+      <p begin="01:48:05.079" end="01:48:07.940">Okay, his test score is pretty low.</p>
+      <p begin="01:48:10.122" end="01:48:12.207">Will you do me a favor?</p>
+      <p begin="01:48:12.696" end="01:48:17.672">When you see him slipping like this,<br/>you give me a call and let me know.</p>
+      <p begin="01:48:18.013" end="01:48:20.767">I'll make sure I write down<br/>your number.</p>
+      <p begin="01:48:21.272" end="01:48:24.761">So I can stay upon topic, because<br/>he tells you one thing--</p>
+      <p begin="01:48:24.761" end="01:48:28.058">By the way your book.<br/>Well, we don't have to work on it.</p>
+      <p begin="01:48:31.864" end="01:48:34.643">He's probably on the border line.<br/>And they're clowning people.</p>
+      <p begin="01:48:34.913" end="01:48:36.763">Just give him the half.<br/>That's what I want you to--</p>
+      <p begin="01:48:37.563" end="01:48:39.742">I'm gonna step on it behind<br/>this time.</p>
+      <p begin="01:48:40.303" end="01:48:42.832">For his transcript and he got<br/>the transcript.</p>
+      <p begin="01:48:43.430" end="01:48:46.017">And he ain't doing that?</p>
+      <p begin="01:48:47.144" end="01:48:49.863">We ain't gonna have it like that.</p>
+      <p begin="01:48:57.979" end="01:49:01.581">Man, do you remember I told you<br/>about that style I finish.</p>
+      <p begin="01:49:03.181" end="01:49:06.040">I don't like some people I know.</p>
+      <p begin="01:49:07.035" end="01:49:09.106">I don't need nobody push me.</p>
+      <p begin="01:49:09.961" end="01:49:14.170">All I gotta do is have a goal<br/>and a motivation and I'm ready.</p>
+      <p begin="01:49:14.566" end="01:49:17.850">It's Sheila's graduation day from<br/>the nurses assistance class</p>
+      <p begin="01:49:17.850" end="01:49:20.979">at a local community center. A high grade<br/>will assure her certification.</p>
+      <p begin="01:49:20.979" end="01:49:26.338">I want to be a RA nurse.<br/>I've always had that dream.</p>
+      <p begin="01:49:30.001" end="01:49:32.042">Ms. Agee.</p>
+      <p begin="01:49:40.190" end="01:49:43.552">Sheila, you scored 89 at the exam</p>
+      <p begin="01:49:44.032" end="01:49:48.111">and you're gonna get<br/>the IS grade point average.</p>
+      <p begin="01:49:48.663" end="01:49:50.836">Really? Really?</p>
+      <p begin="01:49:55.711" end="01:49:58.560">I love you, I love you,<br/>I love you.</p>
+      <p begin="01:49:58.737" end="01:50:02.737">I'm so happy, I'm so happy.</p>
+      <p begin="01:50:02.737" end="01:50:05.694">Oh, thank you Ms.Smart.<br/>Ooh, thank you.</p>
+      <p begin="01:50:08.991" end="01:50:11.218">You're so good.</p>
+      <p begin="01:50:12.900" end="01:50:14.676">[Sheila crying]</p>
+      <p begin="01:50:18.004" end="01:50:19.734">[indistinct chattering]</p>
+      <p begin="01:50:26.147" end="01:50:33.288">You really inspired me to go on.<br/>Not just stop right here, but go far.</p>
+      <p begin="01:50:33.695" end="01:50:37.052">And people told me, I won't be able<br/>to do a thing.</p>
+      <p begin="01:50:39.032" end="01:50:40.905">&#9834; [woman singing] &#9834;</p>
+      <p begin="01:51:35.130" end="01:51:39.637">The gym is packed for today's game<br/>against west side rival Westinghouse.</p>
+      <p begin="01:51:41.783" end="01:51:45.530">Marshall has rebounded from<br/>last year's dismal record 9-16 record,</p>
+      <p begin="01:51:45.530" end="01:51:47.881">to go 16 and 6.</p>
+      <p begin="01:51:50.636" end="01:51:55.010">And Arthur has emerged as Commandos'<br/>second leading scorer and assist man.</p>
+      <p begin="01:52:02.554" end="01:52:05.983">Some junior colleges have begun to notice.</p>
+      <p begin="01:52:05.983" end="01:52:09.123">A lot of these kids won't talk<br/>to a junior college.</p>
+      <p begin="01:52:09.123" end="01:52:12.308">Really until after they've seen<br/>the dream of, you know,</p>
+      <p begin="01:52:12.308" end="01:52:15.741">Illinois, Nevada, Las Vegas<br/>and Georgetown kinda fade.</p>
+      <p begin="01:52:17.801" end="01:52:21.398">The junior college could be<br/>Arthur's only hope.</p>
+      <p begin="01:52:21.398" end="01:52:24.558">Without better grades<br/>and 18 on the ACT,</p>
+      <p begin="01:52:24.558" end="01:52:27.313">major colleges can't<br/>offer him a scholarship.</p>
+      <p begin="01:52:27.313" end="01:52:29.840">It's just too bad those kids<br/>don't realize,</p>
+      <p begin="01:52:29.840" end="01:52:33.919">that if they had an 18,<br/>the door is so much wider open.</p>
+      <p begin="01:52:40.233" end="01:52:45.131">In the 4th quarter the Commandos<br/>fight back an 11 point half-time deficit.</p>
+      <p begin="01:52:45.166" end="01:52:48.420">They trail by 1.</p>
+      <p begin="01:52:54.363" end="01:52:56.002">Defense!</p>
+      <p begin="01:53:03.340" end="01:53:05.021">[crowd applauding]</p>
+      <p begin="01:53:06.329" end="01:53:10.235">Derek Zinnelman's layup pushes<br/>Marshall to a 1 point lead.</p>
+      <p begin="01:53:11.900" end="01:53:16.596">Moments later, a Westinghouse foul<br/>and a then a double technical</p>
+      <p begin="01:53:16.596" end="01:53:20.985">puts Arthur on the line<br/>with a chance to ice the victory.</p>
+      <p begin="01:53:51.344" end="01:53:55.734">The upset victory is a sweet vindication<br/>for the unranked Commandos.</p>
+      <p begin="01:54:04.770" end="01:54:06.651">[crowd celebrating]</p>
+      <p begin="01:54:15.575" end="01:54:20.420">Arthur Agee, you lead the bunch.<br/>You got seven.</p>
+      <p begin="01:54:21.970" end="01:54:26.844">Seven turnovers.<br/>Even for our guy, it's too many.</p>
+      <p begin="01:54:28.481" end="01:54:32.143">This is a good win for you,<br/>but it doesn't mean anything.</p>
+      <p begin="01:54:32.884" end="01:54:36.571">You got to do better than that.<br/>You gotta do better than that.</p>
+      <p begin="01:54:37.289" end="01:54:39.482">Yo Man,<br/>that was a good game though.</p>
+      <p begin="01:54:39.482" end="01:54:43.212">You could have played better though,<br/>you know.</p>
+      <p begin="01:54:43.212" end="01:54:45.026">[laughing]</p>
+      <p begin="01:54:45.026" end="01:54:47.803">You know your mother's<br/>proud of you, don't you?</p>
+      <p begin="01:54:47.803" end="01:54:51.233">You did get down,<br/>like a real star.</p>
+      <p begin="01:55:03.023" end="01:55:06.089">Nearly four years after discovering<br/>Arthur on the playground,</p>
+      <p begin="01:55:06.089" end="01:55:10.123">Earl Smith shows up to see Arthur<br/>win his first playoff game.</p>
+      <p begin="01:55:10.787" end="01:55:14.283">I figured, this game<br/>and the next game maybe</p>
+      <p begin="01:55:14.283" end="01:55:16.813">his last high school ballgame.</p>
+      <p begin="01:55:18.862" end="01:55:20.966">Where have you been, Man?</p>
+      <p begin="01:55:20.966" end="01:55:23.098">Where I've been?<br/>I've been working.</p>
+      <p begin="01:55:23.098" end="01:55:25.631">Oh yeah, right.<br/>- I've been right here on the playground.</p>
+      <p begin="01:55:25.631" end="01:55:27.827">Oh yeah.<br/>- Are you impressed or something?</p>
+      <p begin="01:55:27.827" end="01:55:30.811">Yeah, I'm impressed. I'm here.<br/>If I wasn't impressed,</p>
+      <p begin="01:55:30.811" end="01:55:32.935">I wouldn't have followed you.</p>
+      <p begin="01:55:32.935" end="01:55:35.842">You've been talking things?<br/>- For what?</p>
+      <p begin="01:55:35.842" end="01:55:38.101">You want to talk to my mom?<br/>Why not?</p>
+      <p begin="01:55:38.101" end="01:55:40.717">What do I have to talk to her about?</p>
+      <p begin="01:55:40.717" end="01:55:42.874">I don't know.<br/>- You ain't there.</p>
+      <p begin="01:55:42.874" end="01:55:45.008">I had a breakdown.</p>
+      <p begin="01:55:45.008" end="01:55:49.713">I was thinking about going tonight<br/>to see St. Joe's play.</p>
+      <p begin="01:55:49.713" end="01:55:53.199">But I wasn't sure you have time to do it.</p>
+      <p begin="01:55:53.199" end="01:55:54.904">Yeah.</p>
+      <p begin="01:55:56.606" end="01:56:00.606">I've got a bitter taste in my mouth<br/>about a lot of things that had happened.</p>
+      <p begin="01:56:01.399" end="01:56:05.768">A lot of people accused me of taking<br/>youngsters out there in the city</p>
+      <p begin="01:56:05.768" end="01:56:09.070">and take them out<br/>to the St. Joe's high school</p>
+      <p begin="01:56:09.070" end="01:56:11.937">and they asked what did I<br/>get out of the deal.</p>
+      <p begin="01:56:11.937" end="01:56:16.019">And a lot of racial slurs<br/>and so forth from our own people</p>
+      <p begin="01:56:16.019" end="01:56:18.067">about me and what I did.</p>
+      <p begin="01:56:18.067" end="01:56:21.946">I still felt and feel that I was doing<br/>the right thing for that particular time.</p>
+      <p begin="01:56:23.929" end="01:56:27.088">Sometimes I have second thoughts<br/>when I see the end results</p>
+      <p begin="01:56:27.088" end="01:56:30.730">and what happened to the youngsters.</p>
+      <p begin="01:56:52.633" end="01:56:56.683">Arthur...Arthur Agee, sophomore.</p>
+      <p begin="01:56:56.683" end="01:57:00.858">Oh my Gosh, what are you doing?<br/>What are you doing here?</p>
+      <p begin="01:57:00.858" end="01:57:03.005">I'm going to school.<br/>- Where?</p>
+      <p begin="01:57:03.005" end="01:57:04.666">Marshall.</p>
+      <p begin="01:57:04.666" end="01:57:08.273">I talk to you, can you believe it?</p>
+      <p begin="01:57:08.273" end="01:57:10.719">Good. So you're here just to see<br/>the Patriots playing the St.Joe's?</p>
+      <p begin="01:57:10.719" end="01:57:12.456">Yeah.</p>
+      <p begin="01:57:12.479" end="01:57:14.598">Arthur! Arthur!</p>
+      <p begin="01:57:16.895" end="01:57:18.164">What's up, man?</p>
+      <p begin="01:57:18.164" end="01:57:21.227">You've grown up.<br/>Are you playing basketball or what?</p>
+      <p begin="01:57:21.227" end="01:57:24.429">What you guys do?<br/>- We are still playing.</p>
+      <p begin="01:57:24.429" end="01:57:29.197">What's your next game?<br/>- We gonna play Creighton High School.</p>
+      <p begin="01:57:55.475" end="01:57:59.178">William is benched for arriving late<br/>for the locker room...and Nazareth prep.</p>
+      <p begin="01:58:08.458" end="01:58:12.510">William enters the to go head-to-head<br/>with Nazareth's star Sean Pearson,</p>
+      <p begin="01:58:12.525" end="01:58:15.677">his friend and roommate<br/>from the Nike camp.</p>
+      <p begin="01:58:24.279" end="01:58:27.033">The favorite Chargers race<br/>to an early 14 point lead</p>
+      <p begin="01:58:27.033" end="01:58:29.664">in the second round playoff game.</p>
+      <p begin="01:58:31.543" end="01:58:35.543">But near the end of the game<br/>St. Joe's begins to unravel.</p>
+      <p begin="01:58:48.262" end="01:58:50.685">William takes control.</p>
+      <p begin="01:59:01.280" end="01:59:03.255">Pearson responds.</p>
+      <p begin="01:59:09.282" end="01:59:11.514">His three point shot gives<br/>the Road Runners</p>
+      <p begin="01:59:11.514" end="01:59:13.934">their first lead of the game.</p>
+      <p begin="01:59:17.683" end="01:59:21.724">For the Chargers, their whole season<br/>may come down to this possession.</p>
+      <p begin="01:59:25.527" end="01:59:28.060">Down by 1 with just over<br/>a minute remaining,</p>
+      <p begin="01:59:28.060" end="01:59:32.407">a loss tonight will be their earliest exit<br/>from the playoffs in six years.</p>
+      <p begin="01:59:33.501" end="01:59:38.462">And for William, there is no next year.<br/>No more chances to go downstate.</p>
+      <p begin="02:00:01.263" end="02:00:03.448">[crowd shouting]</p>
+      <p begin="02:00:28.203" end="02:00:30.227">[crowd celebrating]</p>
+      <p begin="02:00:50.920" end="02:00:54.969">Only one thing...<br/>Bad coaching...bad coaching.</p>
+      <p begin="02:00:58.132" end="02:01:00.622">We got in here about five minutes late.</p>
+      <p begin="02:01:00.622" end="02:01:04.152">So what?<br/>[indistinct]</p>
+      <p begin="02:01:23.660" end="02:01:25.931">Are you crying, man?</p>
+      <p begin="02:01:28.993" end="02:01:31.022">How are ya doing?</p>
+      <p begin="02:01:31.022" end="02:01:34.989">I don't know.<br/>It's my last year.</p>
+      <p begin="02:01:36.712" end="02:01:39.388">I was striving for the same thing.</p>
+      <p begin="02:01:42.944" end="02:01:45.599">I'm gonna call you, Man.<br/>- Alright.</p>
+      <p begin="02:01:48.926" end="02:01:54.148">I'm gonna be alright. I love you, boy.<br/>- I love you too, Man.</p>
+      <p begin="02:02:00.780" end="02:02:03.647">He was twelve minutes late.</p>
+      <p begin="02:02:04.369" end="02:02:08.474">The team was dressed and already talking.<br/>And then he comes rolling in.</p>
+      <p begin="02:02:08.474" end="02:02:11.513">Maybe he has to learn<br/>something from that.</p>
+      <p begin="02:02:11.543" end="02:02:13.977">Even at the game.</p>
+      <p begin="02:02:16.871" end="02:02:21.820">The game was a mirror, it was<br/>a mirror of all the games all year.</p>
+      <p begin="02:02:21.820" end="02:02:28.171">To quote Isiah, the toughest loss<br/>he ever took was my toughest,</p>
+      <p begin="02:02:28.171" end="02:02:31.700">that was the Luther South game in 1979<br/>when we got beat at the buzzer,</p>
+      <p begin="02:02:31.700" end="02:02:37.133">on a thirty footer! And we were<br/>the favorite to win the state that year.</p>
+      <p begin="02:02:37.992" end="02:02:41.824">Now when I look back at it,<br/>it's one of those great moments</p>
+      <p begin="02:02:41.824" end="02:02:44.607">in our high school scene.</p>
+      <p begin="02:02:44.607" end="02:02:47.708">My toughest loss to take<br/>when we talk about it.</p>
+      <p begin="02:02:47.708" end="02:02:50.905">So that's the way I look,<br/>you know, at these things now.</p>
+      <p begin="02:02:52.299" end="02:02:55.168">Arthur, I could have used you tonight.<br/>- Yeah.</p>
+      <p begin="02:02:55.168" end="02:02:58.518">Good luck in your quest.<br/>And don't forget, stay in touch.</p>
+      <p begin="02:02:58.518" end="02:03:01.646">We can talk about,<br/>you know, school.</p>
+      <p begin="02:03:01.646" end="02:03:03.417">Yeah.</p>
+      <p begin="02:03:03.417" end="02:03:06.683">I'm watching your score.<br/>How are your grades?</p>
+      <p begin="02:03:06.683" end="02:03:08.739">They're alright.<br/>- Good.</p>
+      <p begin="02:03:08.739" end="02:03:11.226">We'll miss you.<br/>- I'll miss ya all too.</p>
+      <p begin="02:03:11.226" end="02:03:13.974">Well, I'm proud of what you've done.</p>
+      <p begin="02:03:13.974" end="02:03:17.359">Mr. Bedford said a lot<br/>of good things about you.</p>
+      <p begin="02:03:17.359" end="02:03:20.147">You be in touch, okay?<br/>Good luck!</p>
+      <p begin="02:03:22.133" end="02:03:23.927">&#9834; [music] &#9834;</p>
+      <p begin="02:03:39.048" end="02:03:40.556">[audience applauding]</p>
+      <p begin="02:03:43.783" end="02:03:48.067">Marshall's second round opponent<br/>Manly presents little challenge.</p>
+      <p begin="02:03:48.099" end="02:03:51.374">It just explains a little bit<br/>about our program.</p>
+      <p begin="02:03:51.374" end="02:03:54.156">Where our program's headed.</p>
+      <p begin="02:03:54.221" end="02:03:57.888">I like what I'm seeing and I want him<br/>close to home, you know?</p>
+      <p begin="02:03:57.888" end="02:04:02.119">I'm kinda leaning your way<br/>because I just thank God that</p>
+      <p begin="02:04:02.119" end="02:04:05.046">he's getting to,you know,<br/>somebody that do want him.</p>
+      <p begin="02:04:09.091" end="02:04:12.182">I'm the assistant coach.<br/>Nice to meet you.</p>
+      <p begin="02:04:12.182" end="02:04:15.748">Arthur Hester.<br/>- I appreciate that.</p>
+      <p begin="02:04:16.308" end="02:04:18.578">I'm over at Candy Kane.<br/>- Candy Kane, okay.</p>
+      <p begin="02:04:19.757" end="02:04:21.716">May the best man win.</p>
+      <p begin="02:04:23.159" end="02:04:25.927">I thought mom was a cheerleader.<br/>- Oh, thanks.</p>
+      <p begin="02:04:26.802" end="02:04:28.949">Thank you for the compliment.</p>
+      <p begin="02:04:29.820" end="02:04:32.933">His passing--<br/>I think he may pass the ACT.</p>
+      <p begin="02:04:32.933" end="02:04:35.497">He may what?<br/>- He may pass.</p>
+      <p begin="02:04:35.497" end="02:04:38.192">Well, I hope he does.</p>
+      <p begin="02:04:38.224" end="02:04:41.003">Those arches gotta stick together.<br/>- Yeah.</p>
+      <p begin="02:04:43.308" end="02:04:47.736">Hey, would you get signed up if<br/>a college coach came up and talk to you?</p>
+      <p begin="02:04:47.736" end="02:04:49.876">Not really.</p>
+      <p begin="02:04:51.563" end="02:04:55.977">You're just going to another level<br/>of basketball, that's all.</p>
+      <p begin="02:04:56.026" end="02:04:58.816">I'll be excited when I get there.</p>
+      <p begin="02:04:58.816" end="02:05:01.979">I guess you'll be excited<br/>the whole year.</p>
+      <p begin="02:05:01.979" end="02:05:04.644">I'll be excited as soon<br/>as I step up in there.</p>
+      <p begin="02:05:04.644" end="02:05:06.775">First day of practice.</p>
+      <p begin="02:05:06.775" end="02:05:10.043">If I graduate I gotta be going on<br/>for my family and finish college.</p>
+      <p begin="02:05:10.043" end="02:05:11.585">Me too.</p>
+      <p begin="02:05:17.529" end="02:05:20.668">In the fourth round against<br/>the heavily favored Cath,</p>
+      <p begin="02:05:20.668" end="02:05:23.998">Marshall meet their first true test<br/>of the playoffs.</p>
+      <p begin="02:05:27.075" end="02:05:30.231">But the Commandos have been<br/>bugging the odds all year.</p>
+      <p begin="02:05:40.862" end="02:05:44.685">Arthur plays one of his best games<br/>of the season, scoring 19 points,</p>
+      <p begin="02:05:44.685" end="02:05:48.381">and the Commandos claim a spot<br/>in the city semi-finals.</p>
+      <p begin="02:05:52.131" end="02:05:53.891">[crowd celebrating]</p>
+      <p begin="02:05:59.886" end="02:06:03.427">Out of round four. I told ya we're<br/>going all the way. All the way!</p>
+      <p begin="02:06:04.338" end="02:06:06.220">Is your team afraid of any team<br/>in this city?</p>
+      <p begin="02:06:06.686" end="02:06:09.918">On any given day we'll play anybody.<br/>We can beat anybody.</p>
+      <p begin="02:06:21.695" end="02:06:24.678">Marshall now faces the ultimate test.</p>
+      <p begin="02:06:24.678" end="02:06:28.039">King High School.<br/>The rulers of the public league.</p>
+      <p begin="02:06:30.102" end="02:06:32.840">Winners of last year's state crown,<br/>they were labeled</p>
+      <p begin="02:06:32.840" end="02:06:35.823">"the best team in the country".</p>
+      <p begin="02:06:36.661" end="02:06:40.000">King has fought controversy<br/>by out-recruiting rivals</p>
+      <p begin="02:06:40.000" end="02:06:42.954">for the biggest and best<br/>grammar school players.</p>
+      <p begin="02:06:42.954" end="02:06:46.313">We don't understand, what we were<br/>really doing to this young kid.</p>
+      <p begin="02:06:46.313" end="02:06:48.377">The kid is 12 years old...</p>
+      <p begin="02:06:48.377" end="02:06:53.289">You're baiting him to come to your school,<br/>you know, to play basketball.</p>
+      <p begin="02:06:54.140" end="02:06:57.610">I'm not going to start recruiting<br/>in that manner.</p>
+      <p begin="02:06:57.610" end="02:07:00.584">I'll probably get out of the game<br/>before that.</p>
+      <p begin="02:07:13.337" end="02:07:15.161">[cheerleaders singing]</p>
+      <p begin="02:07:16.667" end="02:07:20.618">King's strategy is to go inside<br/>to it's two 7 foot starters.</p>
+      <p begin="02:07:25.466" end="02:07:28.683">Only Arthur seems unintimidated<br/>by the Jaguars.</p>
+      <p begin="02:07:35.102" end="02:07:39.675">The King's poor play<br/>keeps the game close.</p>
+      <p begin="02:07:41.715" end="02:07:43.698">I bet they can take 'em.</p>
+      <p begin="02:07:44.248" end="02:07:48.822">But in the second half,<br/>King makes their move.</p>
+      <p begin="02:07:54.586" end="02:07:57.149">King grabs a 4 point lead.</p>
+      <p begin="02:08:00.925" end="02:08:02.730">[coach shouting]</p>
+      <p begin="02:08:06.272" end="02:08:08.129">[Arthur's mother shouting]</p>
+      <p begin="02:08:15.938" end="02:08:18.925">The Commandos get aggressive<br/>on defense...</p>
+      <p begin="02:08:21.049" end="02:08:24.008">...and use their superior speed<br/>on offense.</p>
+      <p begin="02:08:36.016" end="02:08:38.432">[coach Bedfod] Sit down!<br/>We have three minutes to go. Sit down!</p>
+      <p begin="02:08:39.079" end="02:08:41.393">Marshall grabs a 6 point lead,<br/>late in the game.</p>
+      <p begin="02:08:41.788" end="02:08:43.895">[coach Bedford]<br/>We got a long time to play.</p>
+      <p begin="02:08:45.431" end="02:08:48.743">Coach Bedford wants to force King<br/>out of their zone defense</p>
+      <p begin="02:08:48.743" end="02:08:51.885">and make their big slow players<br/>match up man-to-man</p>
+      <p begin="02:08:51.885" end="02:08:54.966">against Marshall's quick guards.</p>
+      <p begin="02:08:59.272" end="02:09:02.619">Arthur simply holds the ball<br/>as the clock ticks away.</p>
+      <p begin="02:09:09.943" end="02:09:12.351">The King coach has no choice.</p>
+      <p begin="02:09:28.308" end="02:09:29.772">[crowd applauding]</p>
+      <p begin="02:09:31.540" end="02:09:34.958">For the defending national champions,<br/>it's all over.</p>
+      <p begin="02:09:40.425" end="02:09:43.687">And unranked Marshall will play<br/>for the city title.</p>
+      <p begin="02:09:56.297" end="02:09:57.873">[players celebrating]</p>
+      <p begin="02:10:15.745" end="02:10:17.494">I told you we can do it.</p>
+      <p begin="02:10:18.490" end="02:10:23.864">I told you you were going all the way.<br/>I told you-- All the way.</p>
+      <p begin="02:10:31.007" end="02:10:34.278">They got the best shot out of him,<br/>you know.</p>
+      <p begin="02:10:34.278" end="02:10:37.530">It is great. That was a great shot.</p>
+      <p begin="02:10:37.579" end="02:10:42.049">But this in the Tribune<br/>is what I really like.</p>
+      <p begin="02:10:42.075" end="02:10:45.717">To Arthur Agee.<br/>Stood as still as a statue.</p>
+      <p begin="02:10:45.717" end="02:10:48.717">Time, after all, was on his side.</p>
+      <p begin="02:10:49.753" end="02:10:52.821">The championship that I missed<br/>when I was in high school.</p>
+      <p begin="02:10:53.351" end="02:10:58.504">21 years later I got a chance to get us<br/>a championship through him.</p>
+      <p begin="02:10:58.723" end="02:11:02.723">You know, you always try to build<br/>your children up the same way</p>
+      <p begin="02:11:02.723" end="02:11:05.882">you grew up but you're really relying<br/>on the inside...</p>
+      <p begin="02:11:06.602" end="02:11:11.661">But this makes you even more confident,<br/>because if he's sure of himself,</p>
+      <p begin="02:11:11.661" end="02:11:13.756">you know that you can back off.</p>
+      <p begin="02:11:14.314" end="02:11:17.435">Yesterday when he won the game,<br/>you know,</p>
+      <p begin="02:11:17.435" end="02:11:20.417">he told me he loved me.<br/>I haven't heard that in a--</p>
+      <p begin="02:11:20.417" end="02:11:25.437">You know, you can feel it, but I haven't<br/>heard it coming verbally from him.</p>
+      <p begin="02:11:37.658" end="02:11:41.952">In a rematch with the rival Westinghouse<br/>Marshall proves to everybody</p>
+      <p begin="02:11:41.952" end="02:11:45.377">they have what it takes<br/>to be city champs.</p>
+      <p begin="02:12:12.799" end="02:12:16.454">[commentator] And the Marshall Commandos<br/>have won the public league championship,</p>
+      <p begin="02:12:16.454" end="02:12:24.094">in convincing fashion, 58 - 38 winners<br/>over the Westinghouse Warriors.</p>
+      <p begin="02:12:34.738" end="02:12:36.653">[players celebrating]</p>
+      <p begin="02:13:06.258" end="02:13:09.984">Your ACT came in wherein<br/>you receive a 14, for composite,</p>
+      <p begin="02:13:09.984" end="02:13:14.502">which is not high enough.<br/>You have taken the test now...</p>
+      <p begin="02:13:14.502" end="02:13:18.540">this is the fourth time. If you add<br/>all those up,</p>
+      <p begin="02:13:18.540" end="02:13:21.642">it comes up to 17.2.<br/>In order to play at Marquette</p>
+      <p begin="02:13:21.642" end="02:13:24.815">you have to get the 18<br/>and I'm very very concerned.</p>
+      <p begin="02:13:24.815" end="02:13:29.206">One assistant called twice this week<br/>and Bo Ellis called today.</p>
+      <p begin="02:13:29.974" end="02:13:32.672">Smile William,<br/>it's not the end of the world, right?</p>
+      <p begin="02:13:33.012" end="02:13:34.257">I hope not.</p>
+      <p begin="02:13:35.206" end="02:13:38.668">Well, you gotta work at this as hard<br/>as you work on your jumpshot.</p>
+      <p begin="02:13:38.697" end="02:13:41.753">And it was missing a lot this year.</p>
+      <p begin="02:13:42.870" end="02:13:46.141">Now you're down to the final inning<br/>and the last strike.</p>
+      <p begin="02:13:52.506" end="02:13:54.748">[cheerleaders singing]</p>
+      <p begin="02:13:58.557" end="02:14:01.726">What are we going to be?<br/>- [crowd] State champion.</p>
+      <p begin="02:14:08.845" end="02:14:10.378">[players chattering]</p>
+      <p begin="02:14:13.591" end="02:14:15.251">&#9834; [music] &#9834;</p>
+      <p begin="02:14:39.983" end="02:14:41.476">[crowd cheering]</p>
+      <p begin="02:14:57.889" end="02:15:01.812">Downstate, Marshall plays it's<br/>familiar role as underdog</p>
+      <p begin="02:15:01.812" end="02:15:04.703">with the 3rd rank at the table.</p>
+      <p begin="02:15:12.330" end="02:15:16.828">In the media glare of a statewide<br/>audience, Marshall shows big game jitters.</p>
+      <p begin="02:15:26.313" end="02:15:31.442">You gotta make the easy shots!<br/>I can't shoot for you.</p>
+      <p begin="02:15:31.935" end="02:15:36.387">[commentator] He's gonna penetrate,<br/>left it for Christian...missed the shot.</p>
+      <p begin="02:15:37.435" end="02:15:40.624">Luther Bedford looks like he's ready<br/>to commit suicide over there.</p>
+      <p begin="02:15:41.522" end="02:15:43.126">[Arthur's mother shouting]</p>
+      <p begin="02:15:44.728" end="02:15:47.229">[commentator] Now in the corner...<br/>get in there.</p>
+      <p begin="02:15:57.817" end="02:16:00.952">But in the 3rd quarter,<br/>the Commandos charge back.</p>
+      <p begin="02:16:00.975" end="02:16:05.560">[commentator] Now steal by Marshall,<br/>Agee will take it all the way.</p>
+      <p begin="02:16:06.600" end="02:16:09.499">Yes! That's the way you go.</p>
+      <p begin="02:16:14.956" end="02:16:18.285">[commentator] Marshall's first lead<br/>since the 1st quarter.</p>
+      <p begin="02:16:18.285" end="02:16:21.409">Like a lightning ball,<br/>the Commandos have struck.</p>
+      <p begin="02:16:22.420" end="02:16:24.489">37 -36 Marshall lead--</p>
+      <p begin="02:16:32.504" end="02:16:35.009">I've always been dreaming like,</p>
+      <p begin="02:16:35.009" end="02:16:38.638">me and William,<br/>taking 'em downstate together.</p>
+      <p begin="02:16:38.638" end="02:16:42.904">When I was at St. Joseph's,<br/>maybe we coulda win downstate,</p>
+      <p begin="02:16:42.904" end="02:16:46.980">may be we couldn't,<br/>but he did, my Man in Marshall.</p>
+      <p begin="02:16:58.888" end="02:17:02.391">Arthur's big 4th quarter helps<br/>to add Batavia</p>
+      <p begin="02:17:02.391" end="02:17:05.897">to Marshall's growing list of upsets.</p>
+      <p begin="02:17:07.682" end="02:17:10.924">In the post-game news conference,<br/>coach Bedford labels</p>
+      <p begin="02:17:10.924" end="02:17:14.794">his unranked team<br/>"the giant killers".</p>
+      <p begin="02:17:16.939" end="02:17:21.503">You're playing the number one team,<br/>we're playing the number two team.</p>
+      <p begin="02:17:22.343" end="02:17:26.053">This is the first time in the history<br/>of the school, that we've gone this far.</p>
+      <p begin="02:17:26.053" end="02:17:28.745">Really?<br/>- In the history of the school--</p>
+      <p begin="02:17:28.745" end="02:17:32.763">- It's like Commando...to be an underdog,<br/>I'm glad that we are,</p>
+      <p begin="02:17:32.763" end="02:17:36.826">because that will show you<br/>how you could come up.</p>
+      <p begin="02:17:36.826" end="02:17:39.715">And there you beat your opponent.</p>
+      <p begin="02:17:40.632" end="02:17:41.923">[laughing]</p>
+      <p begin="02:17:42.800" end="02:17:44.213">Oh yeah.</p>
+      <p begin="02:17:55.841" end="02:17:58.318">That's a good place for Man to come.</p>
+      <p begin="02:17:58.388" end="02:18:03.061">This is a really something that<br/>our child...wouldn't really miss at all.</p>
+      <p begin="02:18:04.666" end="02:18:07.138">Like a whole different world.</p>
+      <p begin="02:18:07.138" end="02:18:09.233">It's beyond different.</p>
+      <p begin="02:18:20.816" end="02:18:24.308">This is the final game. We'll see<br/>some great individuals.</p>
+      <p begin="02:18:24.308" end="02:18:27.951">Just as we saw many years ago.<br/>Remember Isiah Thomas,</p>
+      <p begin="02:18:27.951" end="02:18:31.585">One of the great guys. There you see<br/>the same moves</p>
+      <p begin="02:18:31.585" end="02:18:34.930">he plays with in the NBA today.</p>
+      <p begin="02:18:34.930" end="02:18:38.209">Well, we have someone like that.</p>
+      <p begin="02:18:38.209" end="02:18:42.226">Howard Nathan, number 34 for Manual.</p>
+      <p begin="02:18:42.226" end="02:18:45.815">Marshall got here because<br/>of one thing -- quickness.</p>
+      <p begin="02:18:45.815" end="02:18:49.380">The reason -- Arthur Agee.<br/>Look at this man, he just explodes.</p>
+      <p begin="02:18:49.380" end="02:18:53.084">He can get downcourt as quick<br/>as anyone as I have ever seen.</p>
+      <p begin="02:18:53.226" end="02:18:56.217">In the semi-finals,<br/>Arthur goes head-to-head</p>
+      <p begin="02:18:56.217" end="02:19:00.361">with Howard Nathan,<br/>the All-American.</p>
+      <p begin="02:19:00.361" end="02:19:04.636">Make him work for it, Man!<br/>Make him work for what he gets.</p>
+      <p begin="02:19:04.636" end="02:19:06.599">All the way, let's go!<br/>All the way, Man. All the way.</p>
+      <p begin="02:19:06.599" end="02:19:09.419">Yeah, that's the way.<br/>That's it, that's it.</p>
+      <p begin="02:19:10.062" end="02:19:12.596">[commentator] Arthur Agee,<br/>spinning inside tough shot...good!</p>
+      <p begin="02:19:13.612" end="02:19:17.124">Arthur has a great first half,<br/>but the Rams play even better.</p>
+      <p begin="02:19:20.475" end="02:19:22.001">[cheerleaders singing]</p>
+      <p begin="02:19:25.576" end="02:19:29.225">In the second half Arthur tries<br/>to pick up where he left off.</p>
+      <p begin="02:19:36.450" end="02:19:39.200">But it's the Rams who don't<br/>miss a beat,</p>
+      <p begin="02:19:40.350" end="02:19:42.590">pressing the tempo against<br/>the tired Commandos.</p>
+      <p begin="02:19:44.611" end="02:19:46.389">[coach speaking]</p>
+      <p begin="02:19:58.265" end="02:20:00.578">[commentator] Marshall showed us<br/>last night</p>
+      <p begin="02:20:00.578" end="02:20:04.097">they have the ability to come back.<br/>Let's see what they can do here.</p>
+      <p begin="02:20:18.380" end="02:20:20.440">This is Nathan...nice pass...</p>
+      <p begin="02:20:27.170" end="02:20:30.140">A great run for Luther Bedford's team.</p>
+      <p begin="02:20:35.138" end="02:20:38.034">And a foul on Agee,<br/>he fouls out.</p>
+      <p begin="02:20:39.232" end="02:20:42.346">He just never quit,<br/>he kept going for the basketball.</p>
+      <p begin="02:20:47.258" end="02:20:51.308">I wouldn't be surprised, if he made<br/>the All-Tournament team tonight.</p>
+      <p begin="02:21:11.618" end="02:21:16.236">Number one...still number one.</p>
+      <p begin="02:21:18.411" end="02:21:22.643">Though they lose to Manual,<br/>they finish third in the state.</p>
+      <p begin="02:21:22.643" end="02:21:26.464">The highest the Marshall team<br/>has finished since 1960.</p>
+      <p begin="02:21:28.163" end="02:21:31.231">This was a great season you had.</p>
+      <p begin="02:21:31.231" end="02:21:35.004">There is nothing sweeter than going<br/>downstate as a young person.</p>
+      <p begin="02:21:36.103" end="02:21:39.753">I mean the records gonna<br/>stay there, you know.</p>
+      <p begin="02:21:39.753" end="02:21:42.973">1991 is the team for Marshall play<br/>and you are part of that.</p>
+      <p begin="02:21:42.973" end="02:21:46.008">That's a part of history.</p>
+      <p begin="02:21:50.214" end="02:21:55.078">Best wishes to all you seniors<br/>and whatever you're trying to do,</p>
+      <p begin="02:21:55.645" end="02:21:59.797">as you know I'll be there<br/>around school, as we always are.</p>
+      <p begin="02:22:00.262" end="02:22:02.554">I can help you,<br/>if you want to be helped.</p>
+      <p begin="02:22:05.041" end="02:22:08.183">25 games, it ain't 30,<br/>and keep touching that up.</p>
+      <p begin="02:22:09.557" end="02:22:12.860">Like coach said, you just<br/>have to sacrifice, you know,</p>
+      <p begin="02:22:12.860" end="02:22:16.709">sacrifice everything you have.<br/>Like give love to the game of basketball,</p>
+      <p begin="02:22:16.709" end="02:22:19.799">just get out there and give<br/>all your heart.</p>
+      <p begin="02:22:19.799" end="02:22:22.901">He's gotta little ways to go,<br/>but he's gonna get there.</p>
+      <p begin="02:22:22.901" end="02:22:26.020">Hopefully he's got his head<br/>screwed on pretty good, you know?</p>
+      <p begin="02:22:26.020" end="02:22:28.998">And now he's gonna be<br/>on his own, to do whatever.</p>
+      <p begin="02:22:28.998" end="02:22:31.367">Hopefully he'll do it right.</p>
+      <p begin="02:22:32.292" end="02:22:34.597">When we got down here,<br/>people didn't respect Marshall.</p>
+      <p begin="02:22:34.597" end="02:22:37.537">And they're looking like:<br/>"Who do they got on their team?"</p>
+      <p begin="02:22:37.537" end="02:22:40.287">And I just had come to out<br/>and prove myself who I was.</p>
+      <p begin="02:22:40.287" end="02:22:43.827">I've been playing Division I basketball,<br/>cuz all I need is just a scholarship.</p>
+      <p begin="02:22:43.827" end="02:22:46.202">That's all I'm living for.</p>
+      <p begin="02:23:15.272" end="02:23:18.739">All these areas here are our<br/>computer labs.</p>
+      <p begin="02:23:19.756" end="02:23:21.806">I'll take you through all those rooms.</p>
+      <p begin="02:23:21.806" end="02:23:25.718">Arthur's first recruiting visit takes him<br/>to a junior college in Southern Missouri.</p>
+      <p begin="02:23:25.718" end="02:23:29.315">The strength I see here is<br/>the tremendous teaching</p>
+      <p begin="02:23:29.315" end="02:23:33.800">that goes on here. Have you decided<br/>what you want to be going to?</p>
+      <p begin="02:23:33.800" end="02:23:37.205">Communications.</p>
+      <p begin="02:23:37.205" end="02:23:40.585">Are you more interested<br/>in the overall communications?</p>
+      <p begin="02:23:40.585" end="02:23:44.487">I like that and accounting, like business.<br/>- Okay.</p>
+      <p begin="02:23:45.344" end="02:23:48.994">We enjoy winning things,<br/>but the primary purpose is your education.</p>
+      <p begin="02:23:48.994" end="02:23:53.478">How far goes your curriculum's mess?</p>
+      <p begin="02:23:53.478" end="02:23:58.470">I wanna fall back like I have<br/>my own business, just like a real estate.</p>
+      <p begin="02:24:05.124" end="02:24:07.039">You tried on it?</p>
+      <p begin="02:24:08.818" end="02:24:11.491">It's about $120 a piece.</p>
+      <p begin="02:24:13.428" end="02:24:15.975">You need to be very careful<br/>with this decision.</p>
+      <p begin="02:24:18.125" end="02:24:20.625">Two years of your college finished,</p>
+      <p begin="02:24:20.625" end="02:24:23.484">the scholarship<br/>to a divisional university,</p>
+      <p begin="02:24:24.339" end="02:24:28.063">exactly where you'd wanna be<br/>on track to graduate in four years.</p>
+      <p begin="02:24:30.101" end="02:24:31.422">&#9834; [music] &#9834;</p>
+      <p begin="02:24:54.888" end="02:25:00.029">Mineral Area doesn't have dorms,<br/>but it does have a basketball house.</p>
+      <p begin="02:25:00.762" end="02:25:04.019">All the ballplayers<br/>on scholarship live here.</p>
+      <p begin="02:25:05.255" end="02:25:06.709">[students chattering]</p>
+      <p begin="02:25:10.955" end="02:25:15.621">Of the seven blacks in the entire school,<br/>six live in this house.</p>
+      <p begin="02:25:19.781" end="02:25:22.404">You come in and look<br/>at this little house,</p>
+      <p begin="02:25:22.404" end="02:25:25.166">then after awhile,<br/>you get used to it.</p>
+      <p begin="02:25:26.036" end="02:25:28.336">Trying to make a little home,<br/>you know?</p>
+      <p begin="02:25:28.336" end="02:25:30.724">I'm away from home anyway.</p>
+      <p begin="02:25:32.658" end="02:25:35.394">We hang around each other<br/>most of the time.</p>
+      <p begin="02:25:35.394" end="02:25:38.713">You know who to trust<br/>and not to trust.</p>
+      <p begin="02:25:39.763" end="02:25:42.917">I just want to go somewhere<br/>I'm gonna play.</p>
+      <p begin="02:25:43.918" end="02:25:46.030">I'll get the grades.</p>
+      <p begin="02:25:47.946" end="02:25:50.075">A little basketball.</p>
+      <p begin="02:25:59.985" end="02:26:04.494">How many players that leave there<br/>and then go to a four year college?</p>
+      <p begin="02:26:04.494" end="02:26:07.343">31 sophomores in a row.</p>
+      <p begin="02:26:07.343" end="02:26:08.889">Really?</p>
+      <p begin="02:26:10.369" end="02:26:12.841">Hey. how are you doing?</p>
+      <p begin="02:26:13.700" end="02:26:16.011">Bo and Sheila have been separated.</p>
+      <p begin="02:26:16.125" end="02:26:19.739">She asked him to return today<br/>over Arthur's objections.</p>
+      <p begin="02:26:19.739" end="02:26:22.767">I'll show you exactly what<br/>scholarship entails.</p>
+      <p begin="02:26:22.767" end="02:26:25.844">Is this a full scholarship<br/>for the two years?</p>
+      <p begin="02:26:25.844" end="02:26:30.058">The reason I'm skeptical is because<br/>of a promise that was made in the past.</p>
+      <p begin="02:26:30.706" end="02:26:33.937">From the time he comes down<br/>until he leaves,</p>
+      <p begin="02:26:33.937" end="02:26:36.378">he will not have a financial need.</p>
+      <p begin="02:26:37.277" end="02:26:40.721">Now, when you make this decision,<br/>you got to live and die with it.</p>
+      <p begin="02:26:40.721" end="02:26:43.127">Cuz it's your decision to make.</p>
+      <p begin="02:26:43.127" end="02:26:46.754">Now I'm here to support you,<br/>if you don't search this whole thing.</p>
+      <p begin="02:26:46.754" end="02:26:50.478">And it's what you really want,<br/>not, you know, cuz mama said so.</p>
+      <p begin="02:26:50.478" end="02:26:53.978">Cuz you save your mama money,<br/>because if we have to,</p>
+      <p begin="02:26:53.978" end="02:26:57.484">we'll still pay if you have to try to pay.<br/>I'm just saying...</p>
+      <p begin="02:26:57.484" end="02:27:00.891">I understand what you're saying.<br/>You want to save somebody money.</p>
+      <p begin="02:27:00.891" end="02:27:03.816">But still--</p>
+      <p begin="02:27:03.816" end="02:27:04.957">But he gotta still do<br/>what's best for him.</p>
+      <p begin="02:27:04.957" end="02:27:08.689">But still you want the best for you,<br/>even you have to</p>
+      <p begin="02:27:08.689" end="02:27:11.193">or we have to go in a hole,<br/>you know?</p>
+      <p begin="02:27:11.193" end="02:27:14.473">You know what I'm saying,<br/>I'm just saying now,</p>
+      <p begin="02:27:14.473" end="02:27:17.786">still the decision is up to you.</p>
+      <p begin="02:27:22.036" end="02:27:25.278">Are you signing?<br/>- Yeah. Yup.</p>
+      <p begin="02:27:27.548" end="02:27:29.316">Let's do it now.</p>
+      <p begin="02:27:31.125" end="02:27:32.617">&#9834; [music] &#9834;</p>
+      <p begin="02:27:34.195" end="02:27:36.627">What time is it?</p>
+      <p begin="02:27:50.732" end="02:27:53.470">Come on, Bo!<br/>Wag the dog!</p>
+      <p begin="02:28:00.497" end="02:28:03.391">You wanna see it rain?<br/>Let it rain!</p>
+      <p begin="02:28:05.174" end="02:28:09.212">You wanna see it rain?<br/>Let it rain!</p>
+      <p begin="02:28:10.440" end="02:28:18.251">You wanna see it rain?<br/>Let it rain!</p>
+      <p begin="02:28:18.251" end="02:28:26.062">[Bo and William chattering]</p>
+      <p begin="02:28:26.062" end="02:28:33.873">Like father, like son.<br/>What's up with that?</p>
+      <p begin="02:28:33.889" end="02:28:38.078">You better stick to church music,<br/>this basketball is old.</p>
+      <p begin="02:28:43.933" end="02:28:45.486">[spectators shouting]</p>
+      <p begin="02:28:51.956" end="02:28:53.684">[Arthur and Bo arguing]</p>
+      <p begin="02:29:29.979" end="02:29:32.792">Your mama ain't here<br/>to get you the ball.</p>
+      <p begin="02:29:34.406" end="02:29:37.406">Give me the rock.<br/>- Let's make it rain! Make it rain!</p>
+      <p begin="02:29:38.429" end="02:29:40.663">Bang! Right there.</p>
+      <p begin="02:29:45.851" end="02:29:50.489">It's raining, Bo.<br/>It's raining.</p>
+      <p begin="02:29:51.654" end="02:29:53.307">[Bo arguing]</p>
+      <p begin="02:30:05.754" end="02:30:08.376">Good evening, Ladies and Gentlemen,<br/>and welcome</p>
+      <p begin="02:30:08.376" end="02:30:11.555">to St.Joseph's Annual<br/>Basketball Awards Dinner.</p>
+      <p begin="02:30:12.370" end="02:30:17.659">We had a difficult year.<br/>Most of you are aware of that...</p>
+      <p begin="02:30:17.945" end="02:30:20.437">[William] When I first went to St. Joe's,</p>
+      <p begin="02:30:20.437" end="02:30:23.911">I really did eat, sleep and drink<br/>basketball. That's all I did.</p>
+      <p begin="02:30:24.465" end="02:30:28.906">But it became more of a job<br/>than a sport to play.</p>
+      <p begin="02:30:31.246" end="02:30:36.883">And then coach Pingatore<br/>just had these dreams in his head.</p>
+      <p begin="02:30:38.633" end="02:30:42.645">He just wanted me to go<br/>the same route he took Isiah.</p>
+      <p begin="02:30:51.253" end="02:30:54.619">Basketball was just like...<br/>he's possessed with it,</p>
+      <p begin="02:30:54.619" end="02:30:59.298">you know, it's his life. And he wanted it<br/>to be everybody else's life too.</p>
+      <p begin="02:30:59.959" end="02:31:04.445">...All-Conference in the ACC,<br/>All-State in the Suntimes,</p>
+      <p begin="02:31:04.445" end="02:31:13.383">MacDonald All-American nomination,<br/>MVP 1990-91 season...William Gates!</p>
+      <p begin="02:31:14.612" end="02:31:16.247">[audience applauding]</p>
+      <p begin="02:31:32.135" end="02:31:34.610">And I had some real problems.</p>
+      <p begin="02:31:35.472" end="02:31:38.656">I couldn't go at none of them about it.</p>
+      <p begin="02:31:39.522" end="02:31:44.084">I was having some problems<br/>with Canton family and my family,</p>
+      <p begin="02:31:44.084" end="02:31:49.169">and I said: "You know coach Pingatore,<br/>they've finally been getting on me,</p>
+      <p begin="02:31:49.169" end="02:31:53.998">about, you know, I'm not doing this,<br/>I'm not doing that".</p>
+      <p begin="02:31:54.943" end="02:31:58.093">The only thing coach Pingatore<br/>could say is: "Write them off".</p>
+      <p begin="02:31:58.980" end="02:32:02.917">That's all he told me.<br/>I was like: "What kind of advice is that?"</p>
+      <p begin="02:32:04.364" end="02:32:07.229">What does it feel...to be finishing?</p>
+      <p begin="02:32:13.361" end="02:32:15.781">Don't say anything<br/>you don't mean, William!</p>
+      <p begin="02:32:15.804" end="02:32:18.072">I'm serious, coach.</p>
+      <p begin="02:32:18.085" end="02:32:22.773">I mean, we had run-ins and--<br/>- Who had run-ins?</p>
+      <p begin="02:32:23.630" end="02:32:25.119">Me and you.<br/>- We did?</p>
+      <p begin="02:32:25.154" end="02:32:28.671">Like that time you made me<br/>run 75 stairs.</p>
+      <p begin="02:32:28.671" end="02:32:31.218">You'll never forget that?</p>
+      <p begin="02:32:31.252" end="02:32:35.925">So you should have been happy and<br/>enthusiastic about doing your punishment.</p>
+      <p begin="02:32:35.939" end="02:32:39.419">But someday you're gonna learn that</p>
+      <p begin="02:32:39.419" end="02:32:42.890">everything that was done<br/>was for your benefit.</p>
+      <p begin="02:32:42.890" end="02:32:46.096">So that you come back four years<br/>from now and say:</p>
+      <p begin="02:32:46.096" end="02:32:49.865">"Coach, you were right.<br/>Everything that happened at St.Joe's</p>
+      <p begin="02:32:49.865" end="02:32:52.425">helped me a lot and as a result<br/>I got a degree".</p>
+      <p begin="02:32:53.344" end="02:32:55.021">That's what I'm hoping for.</p>
+      <p begin="02:32:55.085" end="02:32:58.863">I'm going into a communication,<br/>so when you start asking for a donation,</p>
+      <p begin="02:32:58.863" end="02:33:02.143">I'll know a way to turn you down.</p>
+      <p begin="02:33:02.986" end="02:33:05.388">I'm sure you'll never turn us down.</p>
+      <p begin="02:33:06.327" end="02:33:11.809">I never really felt that<br/>he bought into the system.</p>
+      <p begin="02:33:12.286" end="02:33:16.236">He was never convinced, what he<br/>was doing was the right thing to do.</p>
+      <p begin="02:33:17.128" end="02:33:21.733">Pull over all he had a good career,<br/>not a great career.</p>
+      <p begin="02:33:21.766" end="02:33:25.576">Could have been different<br/>if the injury didn't occur.</p>
+      <p begin="02:33:25.576" end="02:33:28.243">But it did occur.</p>
+      <p begin="02:33:29.157" end="02:33:31.588">And that was the big difference.</p>
+      <p begin="02:33:31.599" end="02:33:34.982">I used to expect that<br/>you'd do a lot better.</p>
+      <p begin="02:33:36.291" end="02:33:39.919">I don't want this to be the highlight<br/>of your career.</p>
+      <p begin="02:33:39.919" end="02:33:43.600">You got a lot of bigger,<br/>better things to do.</p>
+      <p begin="02:33:43.646" end="02:33:45.919">I'll see you later.<br/>Good luck!</p>
+      <p begin="02:33:47.207" end="02:33:53.245">Well, another one walks out the door<br/>and another one comes in the door.</p>
+      <p begin="02:33:54.101" end="02:33:56.286">That's what's all about.</p>
+      <p begin="02:33:57.843" end="02:33:59.282">&#9834; [music] &#9834;</p>
+      <p begin="02:34:32.288" end="02:34:36.201">You can't do it for me.<br/>I got the score I needed.</p>
+      <p begin="02:34:37.057" end="02:34:38.283">Alright.<br/>- Hey.</p>
+      <p begin="02:34:40.911" end="02:34:47.126">Algebra...It's one of the greatest<br/>feelings in the world.</p>
+      <p begin="02:34:51.134" end="02:34:56.842">After five attempts, William's composite<br/>score of 17.5 is rounded up to 18,</p>
+      <p begin="02:34:56.877" end="02:35:01.751">and he can finally accept<br/>the scholarship to play at Marquette.</p>
+      <p begin="02:35:15.876" end="02:35:17.488">&#9834; [music] &#9834;</p>
+      <p begin="02:35:27.294" end="02:35:30.603">I think my mom,<br/>all through high school,</p>
+      <p begin="02:35:30.603" end="02:35:33.569">really really was proud of me.</p>
+      <p begin="02:35:33.569" end="02:35:36.919">She said: "Everybody's storing<br/>their dreams into you,</p>
+      <p begin="02:35:36.919" end="02:35:41.020">but you gotta throw<br/>your own dreams into yourself".</p>
+      <p begin="02:35:49.010" end="02:35:52.918">And when I gave her the diploma<br/>after the graduation, she was like:</p>
+      <p begin="02:35:52.918" end="02:35:56.288">"This is it. My proudest moments".</p>
+      <p begin="02:36:10.008" end="02:36:11.810">[chattering]</p>
+      <p begin="02:36:15.987" end="02:36:19.789">Curtis always wanted to go<br/>to Marquette, and his grades</p>
+      <p begin="02:36:19.789" end="02:36:23.184">weren't good enough for him to go.</p>
+      <p begin="02:36:23.184" end="02:36:26.772">And now he's back, he got the grades.</p>
+      <p begin="02:36:31.387" end="02:36:34.887">[teacher] One, two countries are we<br/>competing with--</p>
+      <p begin="02:36:34.887" end="02:36:38.175">Before Arthur can graduate,<br/>he must have summer school.</p>
+      <p begin="02:36:39.140" end="02:36:43.003">And for the first time in three years,<br/>Shannon isn't there with him.</p>
+      <p begin="02:36:43.439" end="02:36:47.092">He thought he could sell drugs<br/>and don't get caught, you know?</p>
+      <p begin="02:36:47.835" end="02:36:49.817">But he found out the hard way.</p>
+      <p begin="02:36:49.872" end="02:36:53.202">And I told him,<br/>while he was doing all that</p>
+      <p begin="02:36:53.202" end="02:36:56.064">I don't want to hang with Shannon in.</p>
+      <p begin="02:36:56.064" end="02:37:00.768">I was like: 'Shannon, you should stop,<br/>stop doing this to her".</p>
+      <p begin="02:37:02.209" end="02:37:05.954">We always say, we will never do<br/>stuff like that.</p>
+      <p begin="02:37:05.954" end="02:37:09.881">We're just gonna graduate<br/>and going to college.</p>
+      <p begin="02:37:10.998" end="02:37:13.796">But you know, he had to be the one.</p>
+      <p begin="02:37:21.880" end="02:37:26.320">One week before his graduation,<br/>Arthur is robbed at gunpoint.</p>
+      <p begin="02:37:27.648" end="02:37:30.993">At first I thought he's gonna shoot me<br/>because I had no money.</p>
+      <p begin="02:37:31.969" end="02:37:35.578">Because he kept asking me: "You've got<br/>some money? Where your wallet at?"</p>
+      <p begin="02:37:35.578" end="02:37:38.606">Like: "Why are you trying<br/>to act like this?"</p>
+      <p begin="02:37:39.721" end="02:37:42.254">And I like: "I ain't got no wallet".</p>
+      <p begin="02:37:42.411" end="02:37:44.909">That day, you know,<br/>he grabbed me and stuff.</p>
+      <p begin="02:37:44.909" end="02:37:48.067">And I was...I was about to panic<br/>and stuff...</p>
+      <p begin="02:37:48.067" end="02:37:50.443">...and I just calmed down.</p>
+      <p begin="02:37:53.760" end="02:37:57.106">I sat down and had<br/>a long talk with him and his sister.</p>
+      <p begin="02:37:57.384" end="02:38:01.055">Someone put a pistol on her, right down<br/>in the street in front the house.</p>
+      <p begin="02:38:01.816" end="02:38:06.232">I said: "Do you all understand what is<br/>going on out here in these streets today?"</p>
+      <p begin="02:38:07.097" end="02:38:10.700">Even with me, when I was out there,<br/>you know, out there strung out,</p>
+      <p begin="02:38:11.228" end="02:38:15.457">I looked for somebody that<br/>they seemed like they had something.</p>
+      <p begin="02:38:18.121" end="02:38:24.991">After you, serg.<br/>I'm ready. I'm ready to leave.</p>
+      <p begin="02:38:27.156" end="02:38:33.456">Ain't nobody up here, that's going to jail<br/>on dealing drugs. Or deal--</p>
+      <p begin="02:38:43.701" end="02:38:45.327">&#9834; [music] &#9834;</p>
+      <p begin="02:39:47.954" end="02:39:51.953">I never thought he'd get to the place,<br/>he's at now.</p>
+      <p begin="02:39:53.495" end="02:39:57.746">Arthur was really dragged<br/>from of St. Joseph.</p>
+      <p begin="02:39:58.076" end="02:40:02.076">That's what you've asked about it.</p>
+      <p begin="02:40:03.202" end="02:40:06.753">No matter where you go,<br/>it's what you have in your heart</p>
+      <p begin="02:40:06.753" end="02:40:09.689">that you're gonna go somewhere.</p>
+      <p begin="02:40:10.624" end="02:40:12.335">[audience applauding]</p>
+      <p begin="02:40:25.134" end="02:40:26.969">[people chattering]</p>
+      <p begin="02:40:34.430" end="02:40:36.153">&#9834; [music] &#9834;</p>
+      <p begin="02:41:05.657" end="02:41:10.163">It's scary, man. I'm telling you.<br/>Scary generation, man.</p>
+      <p begin="02:41:16.056" end="02:41:19.739">To my son! I hope you<br/>foresee all your dreams</p>
+      <p begin="02:41:19.739" end="02:41:22.707">and your desires<br/>that you have within you.</p>
+      <p begin="02:41:22.707" end="02:41:24.556">I love you very much!</p>
+      <p begin="02:41:50.987" end="02:41:53.455">God, we are thanking<br/>for this day, Lord.</p>
+      <p begin="02:41:53.455" end="02:41:57.451">And we ask you to go to junior, Lord.<br/>We thank you, Lord.</p>
+      <p begin="02:41:57.451" end="02:42:00.770">Go with him as he tries to better<br/>his education, Lord.</p>
+      <p begin="02:42:00.770" end="02:42:03.555">And we thank you for coming<br/>this far.</p>
+      <p begin="02:42:03.555" end="02:42:06.517">We came this far by faith, Lord.</p>
+      <p begin="02:42:06.517" end="02:42:10.090">And we ask you father, when he get<br/>in college to keep him, Lord.</p>
+      <p begin="02:42:10.090" end="02:42:12.750">Keep him protected.<br/>We thank you, Father Jesus.</p>
+      <p begin="02:42:12.750" end="02:42:16.187">In Jesus' name we pray. Amen!</p>
+      <p begin="02:42:16.187" end="02:42:17.980">Amen!</p>
+      <p begin="02:42:19.942" end="02:42:21.743">[chattering and laughing]</p>
+      <p begin="02:43:32.327" end="02:43:35.987">I just hope he'd stay in there.<br/>That worries me most.</p>
+      <p begin="02:43:37.057" end="02:43:40.284">Once he get indoor,<br/>he won't be staying for lease.</p>
+      <p begin="02:43:44.525" end="02:43:46.408">You think he gonna make it?</p>
+      <p begin="02:43:50.454" end="02:43:52.343">I think he gonna make it.</p>
+      <p begin="02:43:54.804" end="02:43:56.864">Oh, I hope so anyway.</p>
+      <p begin="02:44:12.884" end="02:44:14.255">[woman weeping]</p>
+      <p begin="02:44:19.817" end="02:44:21.178">&#9834; [music] &#9834;</p>
+      <p begin="02:44:24.232" end="02:44:28.605">When I was young, when I was little,<br/>I always used think about the NBA.</p>
+      <p begin="02:44:30.670" end="02:44:35.029">If I set my mind,<br/>I can go. I can start and go.</p>
+      <p begin="02:44:36.093" end="02:44:38.985">Even to a good college I can go.</p>
+      <p begin="02:44:39.831" end="02:44:42.305">But if I don't, you know,<br/>ain't no be drug dealer,</p>
+      <p begin="02:44:43.905" end="02:44:47.277">ain't no crap about, you know,<br/>stick up gas stations,</p>
+      <p begin="02:44:48.814" end="02:44:51.589">and nothing like that, you know.</p>
+      <p begin="02:44:52.065" end="02:44:55.566">I'll probably go to a comedian<br/>or an architect, someone like that.</p>
+      <p begin="02:44:56.761" end="02:45:00.822">[cameraman] You don't think that<br/>you'll have the kind of tough times</p>
+      <p begin="02:45:00.822" end="02:45:03.456">like your dad's been through?</p>
+      <p begin="02:45:04.341" end="02:45:08.970">No. I can't say that I will.<br/>I can't say that I won't. I don't know.</p>
+      <p begin="02:45:15.814" end="02:45:17.466">&#9834; [music] &#9834;</p>
+      <p begin="02:45:34.272" end="02:45:39.973">Four years ago, that's all I used to<br/>dream about was playing in the NBA,</p>
+      <p begin="02:45:39.973" end="02:45:42.965">I don't really dream about it<br/>like that anymore.</p>
+      <p begin="02:45:43.602" end="02:45:51.272">Even though I love playing basketball<br/>but I wanna other things with my life too.</p>
+      <p begin="02:45:53.410" end="02:45:55.631">[phone call replaying]</p>
+      <p begin="02:45:58.802" end="02:46:03.318">If I had to stop playing basketball<br/>right now I think I'd still be happy.</p>
+      <p begin="02:46:04.161" end="02:46:06.243">I think I would.</p>
+      <p begin="02:46:12.832" end="02:46:16.946">That's why when somebody say:<br/>"When you get to the NBA</p>
+      <p begin="02:46:16.946" end="02:46:20.440">you'll forget about me"<br/>and all that stuff.</p>
+      <p begin="02:46:20.440" end="02:46:24.890">I should say them: "If I don't make it,<br/>won't you forget about me?"</p>
+      <p begin="02:46:26.777" end="02:46:28.386">&#9834; [music] &#9834;</p>
+    </div>
+  </body>
+
+</tt>
