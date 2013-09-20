@@ -1,0 +1,61 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Kaltura iTunes test feed</title>
+    <link></link>
+    <language>EN</language>
+    <copyright>Amara</copyright>
+    <itunes:subtitle>Kaltura_AMARA</itunes:subtitle>
+    <itunes:author>Janet</itunes:author>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <itunes:owner>
+      <itunes:name>Janet Dragojevic</itunes:name>
+      <itunes:email>janet@janet.jan</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"></itunes:category>
+    </itunes:category>
+    <item>
+      <title>big_buck_bunny</title>
+      <link>http://qa.amara.org1_zlgl6ut8</link>
+      <guid>http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_zlgl6ut8/flavorId/1_dqgopb2z/name/a.mp4</guid>
+      <pubDate>Mon, 08 Jul 2013 17:49:56 -0400</pubDate>
+      <description></description>
+      <enclosure url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_zlgl6ut8/flavorId/1_dqgopb2z/name/a.mp4" type="video/mp4"></enclosure>
+      <itunes:author>dean@pculture.org</itunes:author>
+      <itunes:duration>01:00</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+      <itunes:image href="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/thumbnail/entry_id/1_zlgl6ut8/version/100000/width/600/height/600/ext.jpg"></itunes:image>
+    </item>
+    <item>
+      <title>Columbia Business School:Video as a Marketing Tool in Education</title>
+      <link>http://qa.amara.org1_r80xbr6u</link>
+      <guid>http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_r80xbr6u/flavorId/1_wpza4sjs/name/a.mp4</guid>
+      <pubDate>Mon, 08 Jul 2013 17:29:50 -0400</pubDate>
+      <description>Like many universities, Columbia Business School began using video to capture classes and make them available to students for later viewing. However, the school&apos;s marketing and communication departments soon realized the value in using video to promote the school&apos;s brand and feature some of its alumni. Chris Bellerjeau, Director of Multimedia Services at Columbia Business School, shares some statistics and explains how schools can measure ROI when in comes to video usage.</description>
+      <enclosure url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_r80xbr6u/flavorId/1_wpza4sjs/name/a.mp4" type="video/mp4"></enclosure>
+      <itunes:author>dean@pculture.org</itunes:author>
+      <itunes:subtitle>Like many universities, Columbia Business School began using video to capture classes and make them available to students for later viewing. However, the school&apos;s marketing and communication departments soon realized the value in using video to promote the school&apos;s brand and feature some of its alumni. Chris Bellerjeau, Director of Multimedia Services at Columbia Business School, shares some statistics and explains how schools can measure ROI when in comes to video usage.</itunes:subtitle>
+      <itunes:summary>Like many universities, Columbia Business School began using video to capture classes and make them available to students for later viewing. However, the school&apos;s marketing and communication departments soon realized the value in using video to promote the school&apos;s brand and feature some of its alumni. Chris Bellerjeau, Director of Multimedia Services at Columbia Business School, shares some statistics and explains how schools can measure ROI when in comes to video usage.</itunes:summary>
+      <itunes:duration>01:05</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+      <itunes:image href="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/thumbnail/entry_id/1_r80xbr6u/version/100000/width/600/height/600/ext.jpg"></itunes:image>
+      <itunes:keywords>columbia, video platform, customizable, applications, video, education</itunes:keywords>
+    </item>
+    <item>
+      <title>Oregon State: Creating a Campus Media Portal</title>
+      <link>http://qa.amara.org1_p0dpjhs9</link>
+      <guid>http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_p0dpjhs9/flavorId/1_3l1vl8mn/name/a.mp4</guid>
+      <pubDate>Mon, 08 Jul 2013 17:29:45 -0400</pubDate>
+      <description>Raul Burriel from Oregon State University discusses how OSU utilizes Kaltura&apos;s powerful Management Console (KMC) and easy to use MediaSpace front end (KMS), to give more than 25,000 users the ability to upload, transcode and deliver media in multiple formats for both desktop and tablet users. Working closely with Kaltura, OSU has brought its years of institutional knowledge and experience to media management.</description>
+      <enclosure url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_p0dpjhs9/flavorId/1_3l1vl8mn/name/a.mp4" type="video/mp4"></enclosure>
+      <itunes:author>dean@pculture.org</itunes:author>
+      <itunes:subtitle>Raul Burriel from Oregon State University discusses how OSU utilizes Kaltura&apos;s powerful Management Console (KMC) and easy to use MediaSpace front end (KMS), to give more than 25,000 users the ability to upload, transcode and deliver media in multiple formats for both desktop and tablet users. Working closely with Kaltura, OSU has brought its years of institutional knowledge and experience to media management.</itunes:subtitle>
+      <itunes:summary>Raul Burriel from Oregon State University discusses how OSU utilizes Kaltura&apos;s powerful Management Console (KMC) and easy to use MediaSpace front end (KMS), to give more than 25,000 users the ability to upload, transcode and deliver media in multiple formats for both desktop and tablet users. Working closely with Kaltura, OSU has brought its years of institutional knowledge and experience to media management.</itunes:summary>
+      <itunes:duration>01:25</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+      <itunes:image href="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/thumbnail/entry_id/1_p0dpjhs9/version/100000/width/600/height/600/ext.jpg"></itunes:image>
+      <itunes:keywords>education, video, campus, faculty, staff, students, sso, central, accessible, lecture capture</itunes:keywords>
+    </item>
+  </channel>
+</rss>

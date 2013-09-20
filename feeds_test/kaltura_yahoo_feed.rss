@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <channel>
+    <title>Kaltura Yahoo! feed</title>
+    <link>http://amara.org</link>
+    <description></description>
+    <item>
+      <title>Kaltura Customer Stories</title>
+      <link>http://amara.org1_ydvz9mq1</link>
+      <media:content url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_ydvz9mq1/flavorId/1_i3dcmygl/name/a.mp4">
+        <media:title>Kaltura Customer Stories</media:title>
+        <media:description>Our customers and partners share their insights on market trends, online video and Kaltura’s solutions. Explore real requirements from real organizations and learn how Kaltura transforms expectations into success stories.</media:description>
+        <media:keywords>video, customers, media, enterprise, education, kaltura</media:keywords>
+        <media:thumbnail url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/thumbnail/entry_id/1_ydvz9mq1/version/100000"></media:thumbnail>
+        <media:player url="http://www.kaltura.com/kwidget/wid/_1492321/entry_id/1_ydvz9mq1/ui_conf_id/19707562"></media:player>
+        <media:rating scheme="urn:simple"></media:rating>
+      </media:content>
+    </item>
+    <item>
+      <title>Kaltura Enterprise Video Solutions</title>
+      <link>http://amara.org1_0dhq46gj</link>
+      <media:content url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_0dhq46gj/flavorId/1_gtvnspms/name/a.mp4">
+        <media:title>Kaltura Enterprise Video Solutions</media:title>
+        <media:description>Learn how you can save time and costs with online video. Train and educate staff and create a learning center to preserve company knowledge. Kaltura integrates with all leading LMS platforms, as well as SharePoint and other CMSs.</media:description>
+        <media:keywords>kaltura, video platform, video communications, enterprise, collaboration, knowledge management</media:keywords>
+        <media:thumbnail url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/thumbnail/entry_id/1_0dhq46gj/version/100000"></media:thumbnail>
+        <media:player url="http://www.kaltura.com/kwidget/wid/_1492321/entry_id/1_0dhq46gj/ui_conf_id/19707562"></media:player>
+        <media:rating scheme="urn:simple"></media:rating>
+      </media:content>
+    </item>
+    <item>
+      <title>Kaltura Video Platform Overview</title>
+      <link>http://amara.org1_xehl5rde</link>
+      <media:content url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/serveFlavor/entryId/1_xehl5rde/flavorId/1_f69nwvja/name/a.mp4">
+        <media:title>Kaltura Video Platform Overview</media:title>
+        <media:description>Kaltura is the world&apos;s first Open Source Online Video Platform, providing video solutions, software and services for video publishing, management, syndication and monetization. Start your free trial today.</media:description>
+        <media:keywords>kaltura</media:keywords>
+        <media:thumbnail url="http://cdnbakmi.kaltura.com/p/1492321/sp/149232100/thumbnail/entry_id/1_xehl5rde/version/100000"></media:thumbnail>
+        <media:player url="http://www.kaltura.com/kwidget/wid/_1492321/entry_id/1_xehl5rde/ui_conf_id/19707562"></media:player>
+        <media:rating scheme="urn:simple"></media:rating>
+      </media:content>
+    </item>
+  </channel>
+</rss>
