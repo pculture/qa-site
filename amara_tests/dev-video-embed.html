@@ -5,35 +5,36 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<title>Dev Widget Embed</title>
+<title>Widget Embed</title>
+<style>
 
+video::cue { text-shadow: 0 0 0.2em black, 0 0 0.2em black; background-color:transparent; color:white; }
+
+</style>
 </head>
 <body>
-<h1>Dev Widget Embed</h1> 
 
-<div>
-<h2>Widget with English language autoplay</h2>
-<p> 
-<script type="text/javascript" src="http://dev.amara.org/site_media/embed.js">
+<script type="text/javascript" src="http://s3.amazonaws.com/s3.www.universalsubtitles.org/embed.js">
 (
-  {"video_url": "http://vimeo.com/39734142",
-   "base_state": {"language": "ast"} }
+  {"video_url": "https://s3.amazonaws.com/ted.conferences/talk/transcript/2013G/None/SteveHoward_2013G-transcript.mp4"}
 )
 </script>
-</p>
-</div>
 
-<div>
-<h2>Widget with no autoplay</h2>
-<p> 
-<script type="text/javascript" src="http://dev.amara.org/site_media/embed.js">
+<p> Subs need approval </p>
+
+<script type="text/javascript" src="http://s3.amazonaws.com/s3.www.universalsubtitles.org/embed.js">
 (
-  {"video_url": "http://vimeo.com/39734142"}
+  {"base_state": {"language": "en"}, "video_url": "https://s3.amazonaws.com/ted.conferences/talks/embed/Shadia_interview.mp4"}
 )
 </script>
-</p>
-</div>
 
+
+<p> moderated, some public languages</p>
+<script type="text/javascript" src="http://s3.amazonaws.com/s3.www.universalsubtitles.org/embed.js">
+(
+  {"video_url": "https://s3.amazonaws.com/ted.conferences/talk/transcript/2013U/None/EricBerlow_2013U-transcript.mp4"}
+)
+</script>
 
 
 </body>
