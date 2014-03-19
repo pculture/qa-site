@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)http://interactive.guim.co.uk/embed/2014/mar/antarctica/icevid1.html -->
+<html style="height: auto; overflow: hidden;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://assets.guim.co.uk/stylesheets/webfonts.css">
+<style>
+html { height: auto; overflow: hidden; }
+body {margin: 0; padding:0; height: auto; }
+video {margin: 0; padding:0; width:100%; border:none;}
+h2 {font-family: EgyptianHeadline; font-weight: 200; font-size: 24px; margin-top:6px; margin-bottom: 12px;}
+p {font-family: EgyptianHeadline; font-weight: 200; font-size: 16px; line-hieght: 18px; color: #767676; padding-bottom: 24px; border-bottom: 1px dotted #dcdcdc; }
+</style>
+</head>
+<body style="height: auto;">
+
+<video id="video" controls="controls" poster="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/26/1393435300089/Antarcticavideoposterframe.jpg" preload="auto">
+
+  <source id="m3u8" src="http://mmendpointlb-811421595.eu-west-1.elb.amazonaws.com/interactivevideos/video.php?file=250214FastIce&amp;format=video/m3u8" type="video/m3u8">
+
+  <source id="mp4" src="http://mmendpointlb-811421595.eu-west-1.elb.amazonaws.com/interactivevideos/video.php?file=250214FastIce&amp;format=video/mp4&amp;minbitrate=1200" type="video/mp4">
+
+  <source id="webm" src="http://mmendpointlb-811421595.eu-west-1.elb.amazonaws.com/interactivevideos/video.php?file=250214FastIce&amp;format=video/webm&amp;minbitrate=1200" type="video/webm">
+
+  <source id="ogg" src="http://mmendpointlb-811421595.eu-west-1.elb.amazonaws.com/interactivevideos/video.php?file=250214FastIce&amp;format=video/ogg&amp;minbitrate=1200" type="video/ogg">
+
+  <track src="fast_ice.vtt" kind="subtitles" srclang="en" label="English" default=""></track>
+
+</video>
+
+<h2>Fast Ice: Rescue from Antarctica</h2>
+<p>An exclusive account of the dramatic rescue told by the passengers</p>
+
+<script src="iframeMessenger.js"></script>
+<script>
+iframeMessenger.enableAutoResize();
+
+//  Disable subtitle track by default
+var trackEl = document.querySelector('#video track');
+
+if (trackEl.track && trackEl.track.mode) {
+    trackEl.track.mode = 'disabled';
+}
+</script>
+
+</body></html>
