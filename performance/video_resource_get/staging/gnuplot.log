@@ -8,11 +8,9 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [1814.25:1814.25], adjusting to [1796.11:1832.39]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
@@ -25,11 +23,9 @@ Warning: empty y range [1814.25:1814.25], adjusting to [1796.11:1832.39]
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [1814.25:1814.25], adjusting to [1796.11:1832.39]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
@@ -56,7 +52,6 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
@@ -72,7 +67,6 @@ Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
@@ -89,11 +83,9 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [1795.44:1795.44], adjusting to [1777.49:1813.4]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
@@ -106,11 +98,9 @@ Warning: empty y range [1795.44:1795.44], adjusting to [1777.49:1813.4]
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [1795.44:1795.44], adjusting to [1777.49:1813.4]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
@@ -118,14 +108,12 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " simultaneous", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " maximum_simultaneous", offset at ((character units) 0, 0, 0)
 
 
 	title is " simultaneous", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " maximum_simultaneous", offset at ((character units) 0, 0, 0)
 

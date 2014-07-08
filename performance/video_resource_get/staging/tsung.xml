@@ -3,11 +3,11 @@
      <client host="localhost" use_controller_vm="true" maxusers="1000"/>
 </clients>
 <servers>
-  <server host="amara.org" port="80" type="tcp"/>
+  <server host="staging.amara.org" port="80" type="tcp"/>
 </servers>
   <load>
    <arrivalphase phase="1" duration="60" unit="second">
-    <users maxnumber="1000" interarrival="1" unit="minute"/>
+    <users maxnumber="1000" interarrival="1" unit="second"/>
    </arrivalphase>
   </load>
 

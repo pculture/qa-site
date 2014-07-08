@@ -7,7 +7,7 @@
 </servers>
   <load>
    <arrivalphase phase="1" duration="60" unit="second">
-    <users maxnumber="1000" interarrival="1" unit="minute"/>
+    <users maxnumber="1000" interarrival="1" unit="second"/>
    </arrivalphase>
   </load>
 

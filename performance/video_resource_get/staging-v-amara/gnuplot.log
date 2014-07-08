@@ -14,7 +14,7 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [718.146:718.146], adjusting to [710.965:725.327]
+Warning: empty y range [538.603:538.603], adjusting to [533.217:543.989]
 
 	title is " rate", offset at ((character units) 0, 0, 0)
 
@@ -30,7 +30,7 @@ Warning: empty y range [718.146:718.146], adjusting to [710.965:725.327]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [718.146:718.146], adjusting to [710.965:725.327]
+Warning: empty y range [538.603:538.603], adjusting to [533.217:543.989]
 Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-liberation/LiberationSans-Regular.ttf", using internal non-scalable font
 
 	title is " rate", offset at ((character units) 0, 0, 0)
@@ -91,7 +91,7 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [713.858:713.858], adjusting to [706.719:720.996]
+Warning: empty y range [536.695:536.695], adjusting to [531.328:542.062]
 
 	title is " rate", offset at ((character units) 0, 0, 0)
 
@@ -107,19 +107,17 @@ Warning: empty y range [713.858:713.858], adjusting to [706.719:720.996]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [713.858:713.858], adjusting to [706.719:720.996]
+Warning: empty y range [536.695:536.695], adjusting to [531.328:542.062]
 Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-liberation/LiberationSans-Regular.ttf", using internal non-scalable font
 
 	title is " simultaneous", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " maximum_simultaneous", offset at ((character units) 0, 0, 0)
 
 
 	title is " simultaneous", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " maximum_simultaneous", offset at ((character units) 0, 0, 0)
 
