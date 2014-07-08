@@ -1,0 +1,608 @@
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) Config server started, logdir is "/home/jed/.tsung/log/20140708-1353"
+ 
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_mon:(5:<0.51.0>) starting monitor, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_mon:(5:<0.53.0>) Init, log dir is "/home/jed/.tsung/log/20140708-1353"
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_mon:(5:<0.53.0>) starting monitor
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.51.0>) starting stats server, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.55.0>) starting ts_stats_mon stats server
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.51.0>) starting request stats server, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.56.0>) starting dedicated stats server for request 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.51.0>) starting page stats server, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.57.0>) starting dedicated stats server for page 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.51.0>) starting connect stats server, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.58.0>) starting dedicated stats server for connect 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.51.0>) starting transaction stats server, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_stats_mon:(5:<0.59.0>) starting transaction stats server
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+     ts_match_logger:(5:<0.51.0>) starting match logger, global 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+     ts_match_logger:(5:<0.60.0>) starting match logger
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+     ts_match_logger:(5:<0.60.0>) starting match logger
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+           ts_config:(5:<0.52.0>) Reading config file: /home/jed/.tsung/tsung.xml
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+           ts_config:(5:<0.52.0>) Session name for id 1 is "VideosResource"
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+           ts_config:(5:<0.52.0>) Session type: persistent=true, bidi=false
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+      ts_config_http:(5:<0.52.0>) Relative URL, single server 
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) SYSINFO:Tsung version: 1.4.1
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) SYSINFO:Erlang version: Erlang R14B04 (erts-5.8.5) [source] [rq:1] [async-threads:16] [kernel-poll:true]
+
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) SYSINFO:System architecture i686-pc-linux-gnu
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) SYSINFO:Current path: /usr/lib/erlang/lib/tsung-1.4.1/ebin/tsung.beam
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(6:<0.71.0>) Starting File server
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+       ts_job_notify:(5:<0.64.0>) No listen port defined, can't open listening socket 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+           ts_os_mon:(5:<0.49.0>) os_mon disabled
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_mon:(5:<0.53.0>) Activate clients with text backend
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+      ts_file_server:(6:<0.72.0>) Opening file "/home/jed/.tsung/videos.csv"
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) Start a launcher on the controller beam localhost
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_sup:(6:<0.80.0>) starting supervisor ...
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_sup:(6:<0.81.0>) starting
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+          ts_ip_scan:(6:<0.82.0>) Starting 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+     ts_launcher_mgr:(6:<0.83.0>) starting
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_session_cache:(6:<0.81.0>) Starting
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+        ts_mon_cache:(6:<0.81.0>) Starting
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+       ts_client_sup:(6:<0.86.0>) Starting 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+  ts_launcher_static:(6:<0.81.0>) starting 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+         ts_launcher:(6:<0.81.0>) starting 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(6:<0.52.0>) Application started, activate launcher, 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+  ts_launcher_static:(6:<0.52.0>) starting on node [tsung_controller@localhost]
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+         ts_launcher:(6:<0.52.0>) starting on node [tsung_controller@localhost]
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+  ts_launcher_static:(5:<0.87.0>) Launch msg receive ("localhost")
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+         ts_launcher:(5:<0.88.0>) Launch msg receive ("localhost")
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+     ts_launcher_mgr:(6:<0.83.0>) syncing already done, skip
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+              ts_mon:(5:<0.53.0>) A launcher has started
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) All remote beams started, sync 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(5:<0.52.0>) New arrival phase 1 for client "localhost" (last ? true): will start 1000 users
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+  ts_launcher_static:(6:<0.87.0>) No static users, stop
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+  ts_launcher_static:(6:<0.87.0>) launcher terminating for reason normal
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+         ts_launcher:(5:<0.88.0>) Expected duration of first phase: 60.0 sec (1000 users) 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+         ts_launcher:(5:<0.88.0>) Activate launcher (1000 users) in 12385 msec 
+
+=INFO REPORT==== 8-Jul-2014::13:53:45 ===
+    ts_config_server:(6:<0.71.0>) Starting user servers if needed
+
+=INFO REPORT==== 8-Jul-2014::13:53:57 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:53:58 ===
+           ts_client:(6:<0.91.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:53:59 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:53:59 ===
+           ts_client:(6:<0.94.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:53:59 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:00 ===
+           ts_client:(6:<0.95.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:00 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+           ts_client:(6:<0.96.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+           ts_client:(6:<0.97.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+           ts_client:(6:<0.98.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:01 ===
+           ts_client:(6:<0.99.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:02 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:02 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:02 ===
+           ts_client:(6:<0.100.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:02 ===
+           ts_client:(6:<0.101.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:08 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:08 ===
+           ts_client:(6:<0.103.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:10 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:10 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:10 ===
+           ts_client:(6:<0.104.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:10 ===
+           ts_client:(6:<0.105.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:11 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:11 ===
+           ts_client:(6:<0.106.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:12 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:12 ===
+           ts_client:(6:<0.107.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:13 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:13 ===
+           ts_client:(6:<0.108.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:14 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:14 ===
+           ts_client:(6:<0.109.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:15 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:15 ===
+           ts_client:(6:<0.110.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:16 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:16 ===
+           ts_client:(6:<0.112.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+           ts_client:(6:<0.113.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+           ts_client:(6:<0.115.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+           ts_client:(6:<0.114.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:17 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:18 ===
+           ts_client:(6:<0.116.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:19 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:19 ===
+           ts_client:(6:<0.117.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:19 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:19 ===
+           ts_client:(6:<0.118.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:20 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:20 ===
+           ts_client:(6:<0.119.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:24 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:24 ===
+           ts_client:(6:<0.120.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:24 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:24 ===
+           ts_client:(6:<0.121.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:25 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:25 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:25 ===
+           ts_client:(6:<0.122.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:25 ===
+           ts_client:(6:<0.123.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:26 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:26 ===
+           ts_client:(6:<0.125.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:26 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:26 ===
+           ts_client:(6:<0.126.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:27 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:27 ===
+           ts_client:(6:<0.127.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+           ts_client:(6:<0.128.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+           ts_client:(6:<0.129.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+           ts_client:(6:<0.130.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:28 ===
+           ts_client:(6:<0.131.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:31 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:31 ===
+           ts_client:(6:<0.132.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:31 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:31 ===
+           ts_client:(6:<0.133.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:34 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:34 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:34 ===
+           ts_client:(6:<0.134.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:34 ===
+           ts_client:(6:<0.135.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:37 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:37 ===
+           ts_client:(6:<0.137.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:37 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:37 ===
+           ts_client:(6:<0.138.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:38 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:38 ===
+           ts_client:(6:<0.139.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:38 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:38 ===
+           ts_client:(6:<0.140.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:40 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:40 ===
+           ts_client:(6:<0.141.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:41 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:41 ===
+           ts_client:(6:<0.142.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:42 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:42 ===
+           ts_client:(6:<0.143.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:43 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:43 ===
+           ts_client:(6:<0.144.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:44 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:45 ===
+           ts_client:(6:<0.145.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:45 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:45 ===
+           ts_client:(6:<0.146.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:47 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:47 ===
+           ts_client:(6:<0.148.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:48 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:48 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:48 ===
+           ts_client:(6:<0.149.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:48 ===
+           ts_client:(6:<0.150.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:49 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:49 ===
+           ts_client:(6:<0.151.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:49 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:49 ===
+           ts_client:(6:<0.152.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:50 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:50 ===
+           ts_client:(6:<0.153.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:50 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:50 ===
+           ts_client:(6:<0.154.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:50 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:51 ===
+           ts_client:(6:<0.155.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:53 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:53 ===
+           ts_client:(6:<0.156.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:53 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:53 ===
+           ts_client:(6:<0.157.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+           ts_client:(6:<0.158.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+           ts_client:(6:<0.159.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:54 ===
+           ts_client:(6:<0.160.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:55 ===
+           ts_client:(6:<0.161.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:55 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:55 ===
+           ts_client:(6:<0.162.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:55 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:55 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:55 ===
+           ts_client:(6:<0.164.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:56 ===
+           ts_client:(6:<0.165.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:56 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:56 ===
+           ts_client:(6:<0.166.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:56 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:56 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:57 ===
+           ts_client:(6:<0.167.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:57 ===
+           ts_client:(6:<0.168.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+    ts_config_server:(6:<0.52.0>) Session 1 choosen
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+         ts_launcher:(4:<0.88.0>) Phase duration exceeded, more than 20% (92.9%) of users were not launched in time (929 users), tsung may be overloaded !
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+         ts_launcher:(5:<0.88.0>) This was the last phase, wait for connected users to finish their session
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+         ts_launcher:(6:<0.88.0>) launcher terminating for reason normal
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+     ts_launcher_mgr:(6:<0.83.0>) All launchers are done on node tsung_controller@localhost, wait for active clients to finish
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+     ts_launcher_mgr:(5:<0.83.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::13:54:58 ===
+           ts_client:(6:<0.169.0>) Session ending 
+
+=INFO REPORT==== 8-Jul-2014::13:55:58 ===
+     ts_launcher_mgr:(5:<0.83.0>) No more active users tsung_controller@localhost "3390"
+
+=INFO REPORT==== 8-Jul-2014::13:55:58 ===
+              ts_mon:(6:<0.53.0>) Stop asked, no more users, last launcher stopped, OK to stop
+
+=INFO REPORT==== 8-Jul-2014::13:55:58 ===
+              ts_mon:(5:<0.53.0>) stopping monitor (normal)
