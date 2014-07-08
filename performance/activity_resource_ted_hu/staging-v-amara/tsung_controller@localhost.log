@@ -1,119 +1,146 @@
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
-    ts_config_server:(5:<0.52.0>) Config server started, logdir is "/home/jed/.tsung/log/20140708-1159"
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
+    ts_config_server:(5:<0.52.0>) Config server started, logdir is "/home/jed/.tsung/log/20140708-1243"
  
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
               ts_mon:(5:<0.51.0>) starting monitor, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
-              ts_mon:(5:<0.53.0>) Init, log dir is "/home/jed/.tsung/log/20140708-1159"
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
+              ts_mon:(5:<0.53.0>) Init, log dir is "/home/jed/.tsung/log/20140708-1243"
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
               ts_mon:(5:<0.53.0>) starting monitor
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.51.0>) starting stats server, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.55.0>) starting ts_stats_mon stats server
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.51.0>) starting request stats server, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.56.0>) starting dedicated stats server for request 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.51.0>) starting page stats server, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.57.0>) starting dedicated stats server for page 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.51.0>) starting connect stats server, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.58.0>) starting dedicated stats server for connect 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.51.0>) starting transaction stats server, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
         ts_stats_mon:(5:<0.59.0>) starting transaction stats server
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
      ts_match_logger:(5:<0.51.0>) starting match logger, global 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
      ts_match_logger:(5:<0.60.0>) starting match logger
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
      ts_match_logger:(5:<0.60.0>) starting match logger
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
            ts_config:(5:<0.52.0>) Reading config file: /home/jed/.tsung/tsung.xml
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
            ts_config:(5:<0.52.0>) Session name for id 1 is "ActivityResource"
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
            ts_config:(5:<0.52.0>) Session type: persistent=true, bidi=false
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
       ts_config_http:(5:<0.52.0>) Relative URL, single server 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) SYSINFO:Tsung version: 1.4.1
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) SYSINFO:Erlang version: Erlang R14B04 (erts-5.8.5) [source] [rq:1] [async-threads:16] [kernel-poll:true]
 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) SYSINFO:System architecture i686-pc-linux-gnu
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) SYSINFO:Current path: /usr/lib/erlang/lib/tsung-1.4.1/ebin/tsung.beam
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
        ts_job_notify:(5:<0.64.0>) No listen port defined, can't open listening socket 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
            ts_os_mon:(5:<0.49.0>) os_mon disabled
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
               ts_mon:(5:<0.53.0>) Activate clients with text backend
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) Start a launcher on the controller beam localhost
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
   ts_launcher_static:(5:<0.85.0>) Launch msg receive ("localhost")
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
          ts_launcher:(5:<0.86.0>) Launch msg receive ("localhost")
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
               ts_mon:(5:<0.53.0>) A launcher has started
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) All remote beams started, sync 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
     ts_config_server:(5:<0.52.0>) New arrival phase 1 for client "localhost" (last ? true): will start 1 users
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
          ts_launcher:(5:<0.86.0>) Expected duration of first phase: 600.0 sec (1 users) 
 
-=INFO REPORT==== 8-Jul-2014::11:59:39 ===
-         ts_launcher:(5:<0.86.0>) Activate launcher (1 users) in 13463 msec 
+=INFO REPORT==== 8-Jul-2014::12:43:13 ===
+         ts_launcher:(5:<0.86.0>) Activate launcher (1 users) in 15000 msec 
 
-=INFO REPORT==== 8-Jul-2014::11:59:53 ===
+=INFO REPORT==== 8-Jul-2014::12:43:28 ===
          ts_launcher:(5:<0.86.0>) This was the last phase, wait for connected users to finish their session
 
-=INFO REPORT==== 8-Jul-2014::11:59:53 ===
+=INFO REPORT==== 8-Jul-2014::12:43:28 ===
      ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
 
-=INFO REPORT==== 8-Jul-2014::12:00:53 ===
-     ts_launcher_mgr:(5:<0.81.0>) No more active users tsung_controller@localhost "26120"
+=INFO REPORT==== 8-Jul-2014::12:44:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
 
-=INFO REPORT==== 8-Jul-2014::12:00:53 ===
+=INFO REPORT==== 8-Jul-2014::12:45:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:46:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:47:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:48:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:49:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:50:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:51:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:52:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) Still 1 active client(s)
+
+=INFO REPORT==== 8-Jul-2014::12:53:28 ===
+     ts_launcher_mgr:(5:<0.81.0>) No more active users tsung_controller@localhost "29831"
+
+=INFO REPORT==== 8-Jul-2014::12:53:28 ===
               ts_mon:(5:<0.53.0>) stopping monitor (normal)

@@ -2,39 +2,53 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " rate", offset at ((character units) 0, 0, 0)
 
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [0.1:0.1], adjusting to [0.099:0.101]
 
 	title is " mean", offset at ((character units) 0, 0, 0)
 
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [598533:598533], adjusting to [592548:604519]
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
 Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [540.402:540.402], adjusting to [534.998:545.806]
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [598533:598533], adjusting to [592548:604519]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [540.402:540.402], adjusting to [534.998:545.806]
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [598533:598533], adjusting to [592548:604519]
 
 	title is " rate", offset at ((character units) 0, 0, 0)
 
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [0.1:0.1], adjusting to [0.099:0.101]
 
 	title is " mean", offset at ((character units) 0, 0, 0)
 
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [598533:598533], adjusting to [592548:604519]
 
 	title is " stdvar", offset at ((character units) 0, 0, 0)
 
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
 Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [540.402:540.402], adjusting to [534.998:545.806]
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [598533:598533], adjusting to [592548:604519]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [540.402:540.402], adjusting to [534.998:545.806]
+Warning: empty x range [605:605], adjusting to [598.95:611.05]
+Warning: empty y range [598533:598533], adjusting to [592548:604519]
 Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-liberation/LiberationSans-Regular.ttf", using internal non-scalable font
 
 	title is " rate", offset at ((character units) 0, 0, 0)
@@ -42,14 +56,12 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " total", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [51:51], adjusting to [50.49:51.51]
 
 	title is " rate", offset at ((character units) 0, 0, 0)
 
 
 	title is " total", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [51:51], adjusting to [50.49:51.51]
 Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-liberation/LiberationSans-Regular.ttf", using internal non-scalable font
 
 	title is " rate", offset at ((character units) 0, 0, 0)
@@ -94,11 +106,9 @@ Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-libera
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [23.9512:23.9512], adjusting to [23.7117:24.1907]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [7.03101:7.03101], adjusting to [6.9607:7.10132]
 
 	title is " rate", offset at ((character units) 0, 0, 0)
 
@@ -111,23 +121,19 @@ Warning: empty y range [7.03101:7.03101], adjusting to [6.9607:7.10132]
 
 	title is " max_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [23.9512:23.9512], adjusting to [23.7117:24.1907]
 
 	title is " min_sample", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [7.03101:7.03101], adjusting to [6.9607:7.10132]
 Could not find/open font when opening font "/usr/share/fonts/truetype/ttf-liberation/LiberationSans-Regular.ttf", using internal non-scalable font
 
 	title is " simultaneous", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " maximum_simultaneous", offset at ((character units) 0, 0, 0)
 
 
 	title is " simultaneous", offset at ((character units) 0, 0, 0)
 
-Warning: empty y range [0:0], adjusting to [-1:1]
 
 	title is " maximum_simultaneous", offset at ((character units) 0, 0, 0)
 
