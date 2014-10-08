@@ -1,0 +1,27 @@
+<?xml version="1.0"?><tsung loglevel="notice" dumptraffic="false">
+<clients>
+     <client host="localhost" use_controller_vm="true" maxusers="1000"/>
+</clients>
+<servers>
+  <server host="staging.v.amara.org" port="80" type="tcp"/>
+</servers>
+  <load>
+   <arrivalphase phase="1" duration="600" unit="second">
+    <users maxnumber="1" interarrival="10" unit="second"/>
+   </arrivalphase>
+  </load>
+<sessions>
+  <session name="ActivityResource" probability="100" type="ts_http">
+    <for from="0" to="1000" incr="20" var="offset">
+      <request subst="true">
+      <http url="/api2/partners/activity/?offset=%%_offset%%&amp;limit=20&amp;team=ted&amp;language=hu" method="GET">
+            <http_header name="Content-Type" value="application/json"/>
+            <http_header name="Accept" value="application/json"/>
+            <http_header name="X-apikey" value="55edb393db4f1e7dc724ef847fa7b74f0af231cc"/>
+            <http_header name="X-api-username" value="janetPCF"/>
+      </http>
+      </request>
+    </for>
+</session>
+</sessions>
+</tsung>
